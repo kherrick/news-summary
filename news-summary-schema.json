@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://kherrick.github.io/news-summary/news-summary-schema.json",
+  "type": "object",
+  "properties": {
+    "heading": { "type": "string" },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "newsItems": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 1
+          }
+        },
+        "required": ["title", "newsItems"]
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["heading", "sections"]
+}

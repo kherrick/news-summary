@@ -1,0 +1,46 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 1,4,7,10,13,16,19,22 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: check out this repo
+      uses: actions/checkout@v4
+    - name: setup node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+    - name: setup git
+      run: |-
+        git config user.name "Karl Herrick"
+        git config user.email "me@karlherrick.com"
+    - name: init app
+      run: |-
+        npm ci
+    - name: write markdown and html
+      env:
+        MODELS_INFERENCE_AI_AZURE_COM: ${{ secrets.MODELS_INFERENCE_AI_AZURE_COM }}
+      run: |-
+        npm run build
+    - name: commit and push latest data
+      run: |-
+        git add index.html README.md
+        timestamp="$(date -u)"
+        git commit -m "add latest data: ${timestamp}" || exit 0
+        git push
+    - name: deploy gh-pages
+      run: |-
+        npm run build:service-worker
+        git add --all
+        timestamp="$(date -u)"
+        git commit -m "build gh-pages: ${timestamp}" || exit 0
+        git checkout -b gh-pages
+        git push --force --set-upstream origin gh-pages
