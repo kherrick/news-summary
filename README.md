@@ -1,48 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Emerging Technologies and Innovations
 
-* [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/) ([Comments](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm))
+* [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/) ([comments](https://news.ycombinator.com/item?id=42820053))
 
-* [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/) ([Comments](https://lobste.rs/s/sr126x/tutorials_on_tinygrad))
+* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285) ([Comments](https://news.ycombinator.com/item?id=42818278))
+* [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit) ([comments](https://news.ycombinator.com/item?id=42817438))
 
-* [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser) ([Comments](https://news.ycombinator.com/item?id=42817439))
+* [Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser) ([comments](https://news.ycombinator.com/item?id=42817439))
 
-* [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0) ([Comments](https://lobste.rs/s/mzcu6b/buzz_0_5_0_release))
+* [Loops, an early look at a Decentralized TikTok rival](https://wedistribute.org/2024/11/loops-early-look/) ([comments](https://news.ycombinator.com/item?id=42820053))
 
-## Science and Health
+## Programming and Development
 
-* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [C++26: pack indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing) ([comments](https://lobste.rs/s/4rfoaj/c_26_pack_indexing))
 
-* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/) ([comments](https://lobste.rs/s/sr126x/tutorials_on_tinygrad))
 
-* [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss))
+* [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D) ([comments](https://news.ycombinator.com/item?id=42818248))
 
-## Artificial Intelligence
+* [The state of Vim](https://lwn.net/Articles/1002342/) ([comments](https://lobste.rs/s/eei735/state_vim))
 
-* [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/) ([Comments](https://news.ycombinator.com/item?id=42820053))
+* [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild) ([comments](https://news.ycombinator.com/item?id=42814683))
 
-* [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/) ([Comments](https://news.ycombinator.com/item?id=42818917))
+## Artificial Intelligence and Machine Learning
 
-* [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) ([Comments](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so))
+* [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/) ([comments](https://news.ycombinator.com/item?id=42818917))
+
+* [Apple Enlists AI Executive To Overhaul Siri](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html) ([comments](https://news.ycombinator.com/item?id=42815755))
+
+* [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) ([comments](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so))
+
+* [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss))
 
 ## Cybersecurity and Privacy
 
-* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Google's official URL shortcut compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4) ([comments](https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is))
 
-* [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4) ([Comments](https://news.ycombinator.com/item?id=42810252))
+* [FBI: North Korean IT Workers Steal Source Code](https://it.slashdot.org/story/25/01/24/1851209/fbi-north-korean-it-workers-steal-source-code-to-extort-employers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/01/24/1851209/fbi-north-korean-it-workers-steal-source-code-to-extort-employers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Software Development and Tools
+* [British Museum Hit By IT Attack From Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/) ([Comments](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim))
+* [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/) ([comments](https://lobste.rs/s/tvqmjb/cvss_is_dead_us))
 
-* [Template literal types in TypeScript: parsing during type checking and more](https://2ality.com/2025/01/template-literal-types.html) ([Comments](https://lobste.rs/s/zw14an/template_literal_types_typescript))
+## Environmental and Health Breakthroughs
 
-* [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/) ([Comments](https://news.ycombinator.com/item?id=42814820))
+* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected) ([comments](https://news.ycombinator.com/item?id=42818692))
+
+* [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss))
+
+* [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss))
+
+* [Complexity Physics Finds Crucial Tipping Points In Chess Games](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -69,6 +85,7 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-01-25, 09:03:22](https://lobste.rs/s/4rfoaj/c_26_pack_indexing) - [C++26: pack indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:07:11](https://news.ycombinator.com/item?id=42820053) - [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
@@ -123,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-24, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss) - [Chinese Salt Typhoon Hackers 1st Spotted on Federal Networks Under Another Name](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss)
 * [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
 * [2025-01-24, 14:25:01](https://lobste.rs/s/eei735/state_vim) - [The state of Vim](https://lwn.net/Articles/1002342/)
-* [2025-01-24, 14:13:41](https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for) - [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)
@@ -148,13 +164,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
 * [2025-01-22, 15:08:00](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss) - [How Unix Spell Ran in 64kB RAM](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss)
-* [2025-01-22, 13:18:48](https://news.ycombinator.com/item?id=42792485) - [Do cookie-free analytics need cookie banners?](https://jfagerberg.me/blog/2022-06-09-analytics-cookie-compliance/)
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
 * [2025-01-22, 09:22:00](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) - [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss)
 * [2025-01-22, 05:24:03](https://news.ycombinator.com/item?id=42789323) - [Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs](https://github.com/Bin-Huang/chatbox)
 * [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
 * [2025-01-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss) - [TSMC Ends Contract With Singapore-Based Company Over Alleged Huawei Ties](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss)
+* [2025-01-21, 20:15:05](https://news.ycombinator.com/item?id=42784699) - [The FizzBuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
 * [2025-01-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss) - [DOJ Remotely Cleaned Thousands of Computers Infected With Chinese Malware](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss)
 * [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
