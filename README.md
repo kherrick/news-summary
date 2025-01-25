@@ -1,38 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Astronomy
+## Space and Astronomy
 
-* [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Hubble's impressive imagery captures 200 million stars, marking a milestone in panoramic space observations.
+* [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A captivating milestone as Hubble Telescope's largest panorama displays 200 million stars, offering profound insights into the cosmos.
 
-* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Novel therapies propose to revolutionize radiotherapy with ultra-fast delivery methods.
+## Technology and Software Innovations
 
-## Technology and Software Developments
+* [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/) - A sneak peek into Loops, an emerging decentralized competitor to TikTok by Pixelfed, aiming to reshape social media landscapes.
 
-* [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected) - Electric trains surpass projected efficiency levels in a move towards environmentally friendly transit.
+* [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/) - An impressive demonstration of ultra-compact coding with a WebAssembly compiler that fits within a single tweet.
 
-* [Nvidia Starts Phasing Out Maxwell, Pascal, and Volta GPUs](https://tech.slashdot.org/story/25/01/24/2356254/nvidia-starts-phasing-out-maxwell-pascal-and-volta-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nvidia announces plans to discontinue older GPU models to focus on improved architectures.
+* [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser) - Introducing Lightpanda, a headless browser designed to empower developers with open-source options built in Zig.
 
-* [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285) - Helix editor introduces integrated file-exploration functionality.
+## Health and Science
 
-## Politics and Cybersecurity
+* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Breakthrough innovations hint at ultra-fast cancer treatments, setting the stage to potentially replace current radiotherapy methods.
 
-* [Trump Pardons Dark Web Silk Road Marketplace Founder Ross Ulbricht](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss) - Controversy reignites as Ross Ulbricht receives a pardon for his involvement in the notorious Silk Road marketplace.
+* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A startling mouse study uncovers risks of microplastics disrupting blood flow in the brain, raising critical environmental health concerns.
 
-* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - UnitedHealth suffers a record-setting cybersecurity breach, affecting millions of Americans.
+## Cybersecurity and Policy Impacts
 
-* [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The British Museum's operations are disrupted following an alleged internal cybersecurity attack.
+* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A massive data breach affecting 190 million Americans exposes vulnerabilities in healthcare cybersecurity.
 
-## Artificial Intelligence and Computing
+* [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An alleged IT attack disrupts British Museum operations, spotlighting insider risks in large institutions.
 
-* [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla) - An exploration of iterative innovation and the economics of 'dumb ideas' in tech.
+## Open Source and Community Tools
 
-* [AI Workloads Spur Bigger Memory Drives](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss) - The push behind artificial intelligence applications urges innovations in computing hardware.
+* [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit) - Explore Onit, an open-source ChatGPT desktop application featuring a local mode and integration with Claude and Gemini AI models.
 
-## Innovations and Community Perspectives
-
-* [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/) - Loops aims to offer a decentralized alternative to TikTok, promoting open platforms.
-
-* [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/) - A compelling case for Oracle Linux as a virtualization standout for developers on macOS.
+* [Tilde, my LLVM alternative](https://yasserarg.com/tb) - A personal yet ambitious effort to offer an alternative to the LLVM compiler infrastructure.
 
 ---
 
@@ -140,8 +136,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
 * [2025-01-22, 15:08:00](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss) - [How Unix Spell Ran in 64kB RAM](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss)
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
-* [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
 * [2025-01-22, 09:22:00](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) - [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss)
+* [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-22, 05:24:03](https://news.ycombinator.com/item?id=42789323) - [Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs](https://github.com/Bin-Huang/chatbox)
 * [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
 * [2025-01-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss) - [TSMC Ends Contract With Singapore-Based Company Over Alleged Huawei Ties](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss)
