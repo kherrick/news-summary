@@ -1,64 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Space and Technology Advancements
 
-* [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/) ([comments](https://news.ycombinator.com/item?id=42820053))
+* [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Hubble Space Telescope reveals its most extensive and detailed panorama of stars ever captured, providing astronomers with an unprecedented view of the cosmos.
 
-* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Ultra-Fast Cancer Treatments Could Replace Conventional Radiotherapy](https://science.slashdot.org/story/25/01/25/0020230/ultra-fast-cancer-treatments-could-replace-conventional-radiotherapy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New advancements in cancer treatments promise significant reductions in treatment times compared to conventional radiotherapy methods.
 
-* [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit) ([comments](https://news.ycombinator.com/item?id=42817438))
+## Science and Health
 
-* [Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser) ([comments](https://news.ycombinator.com/item?id=42817439))
+* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research finds that microplastics can severely restrict blood flow in the brain, sparking concerns over their health implications.
 
-* [Loops, an early look at a Decentralized TikTok rival](https://wedistribute.org/2024/11/loops-early-look/) ([comments](https://news.ycombinator.com/item?id=42820053))
+* [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) - Scientists discover healing properties in oyster blood that could revolutionize modern infection control.
 
-## Programming and Development
+## Cybersecurity and Data Breaches
 
-* [C++26: pack indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing) ([comments](https://lobste.rs/s/4rfoaj/c_26_pack_indexing))
+* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new healthcare data breach exposes sensitive data for 190 million individuals, marking it as one of the largest in history.
 
-* [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/) ([comments](https://lobste.rs/s/sr126x/tutorials_on_tinygrad))
+* [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4) - A phishing campaign exploits Google's URL shortening service, raising alarms about its ongoing security vulnerabilities.
 
-* [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D) ([comments](https://news.ycombinator.com/item?id=42818248))
+## Programming and Development Tools
 
-* [The state of Vim](https://lwn.net/Articles/1002342/) ([comments](https://lobste.rs/s/eei735/state_vim))
+* [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/) - Dive into Tinygrad with a hands-on series of tutorials that make this lightweight machine learning library accessible to developers.
 
-* [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild) ([comments](https://news.ycombinator.com/item?id=42814683))
+* [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/) - A minimalist WebAssembly compiler that demonstrates powerful engineering in an ultra-compact form.
 
-## Artificial Intelligence and Machine Learning
+## Cultural and Social Impacts
 
-* [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/) ([comments](https://news.ycombinator.com/item?id=42818917))
+* [Trump Pardons Dark Web Silk Road Marketplace Founder Ross Ulbricht](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss) - Controversy reignites as former President Trump issues a pardon to the founder of the Silk Road dark web marketplace.
 
-* [Apple Enlists AI Executive To Overhaul Siri](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html) ([comments](https://news.ycombinator.com/item?id=42815755))
-
-* [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) ([comments](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so))
-
-* [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss))
-
-## Cybersecurity and Privacy
-
-* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Google's official URL shortcut compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4) ([comments](https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is))
-
-* [FBI: North Korean IT Workers Steal Source Code](https://it.slashdot.org/story/25/01/24/1851209/fbi-north-korean-it-workers-steal-source-code-to-extort-employers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/01/24/1851209/fbi-north-korean-it-workers-steal-source-code-to-extort-employers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [British Museum Hit By IT Attack From Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/) ([comments](https://lobste.rs/s/tvqmjb/cvss_is_dead_us))
-
-## Environmental and Health Breakthroughs
-
-* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected) ([comments](https://news.ycombinator.com/item?id=42818692))
-
-* [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss))
-
-* [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss))
-
-* [Complexity Physics Finds Crucial Tipping Points In Chess Games](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The Need for a Strategic Fact Reserve](https://soylentnews.org/article.pl?sid=25/01/21/0030206&from=rss) - An argument for creating a reserve of verified facts to tackle misinformation in the digital age.
 
 ---
 
@@ -85,7 +55,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-01-25, 10:00:00](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-25, 09:40:00](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss) - [Trump Pardons Dark Web Silk Road Marketplace Founder Ross Ulbricht](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss)
 * [2025-01-25, 09:03:22](https://lobste.rs/s/4rfoaj/c_26_pack_indexing) - [C++26: pack indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
+* [2025-01-25, 08:48:42](https://news.ycombinator.com/item?id=42820421) - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:07:11](https://news.ycombinator.com/item?id=42820053) - [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
@@ -95,7 +68,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 03:35:19](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 * [2025-01-25, 03:30:00](https://tech.slashdot.org/story/25/01/25/0011211/us-reviewing-automatic-emergency-braking-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Reviewing Automatic Emergency Braking Rule](https://tech.slashdot.org/story/25/01/25/0011211/us-reviewing-automatic-emergency-braking-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-25, 02:29:36](https://news.ycombinator.com/item?id=42818917) - [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 * [2025-01-25, 02:10:00](https://tech.slashdot.org/story/25/01/24/2356254/nvidia-starts-phasing-out-maxwell-pascal-and-volta-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Starts Phasing Out Maxwell, Pascal, and Volta GPUs](https://tech.slashdot.org/story/25/01/24/2356254/nvidia-starts-phasing-out-maxwell-pascal-and-volta-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-25, 01:53:11](https://news.ycombinator.com/item?id=42818692) - [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
 * [2025-01-25, 01:30:00](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -128,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-24, 17:07:21](https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re) - [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-24, 16:51:16](https://news.ycombinator.com/item?id=42814948) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
 * [2025-01-24, 16:50:08](https://lobste.rs/s/aheves/webassembly_compiler_fits_tweet) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
-* [2025-01-24, 16:49:00](https://hardware.slashdot.org/story/25/01/24/1649223/sony-to-end-blu-ray-media-production-after-18-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony To End Blu-ray Media Production After 18 Years](https://hardware.slashdot.org/story/25/01/24/1649223/sony-to-end-blu-ray-media-production-after-18-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
 * [2025-01-24, 16:06:40](https://lobste.rs/s/hgpo26/ui_is_hell_four_function_calculators) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
