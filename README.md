@@ -1,48 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Technology and Software
 
-* [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora) discusses the transformative impact AI has on software engineering metrics and analytical systems.
+* [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/) - Exploring the usability of Zed, a new editor, after long-term use of Vim/Neovim. [Comments](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim).
 
-* [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet) showcases an ultra-compact implementation of a WebAssembly compiler, demonstrating efficiency in software development.
+* [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - A tiny homogeneous deep neural network model unveiled. [Comments](https://news.ycombinator.com/item?id=42819262).
 
-* [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser) introduces a lightweight, customizable browser framework tailored for developers.
+* [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT) - Tool connecting Android devices to MQTT messaging servers. [Comments](https://news.ycombinator.com/item?id=42818337).
 
-* [Apple Enlists Veteran Software Executive To Help Fix AI and Siri](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri) highlights ongoing efforts to improve AI-driven virtual assistants.
+* [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285) - Helix editor integrates a new file explorer feature. [Comments](https://news.ycombinator.com/item?id=42818278).
 
-* [Meta To Spend Up To $65 Billion This Year To Power AI Goals](https://tech.slashdot.org/story/25/01/24/1546242/meta-to-spend-up-to-65-billion-this-year-to-power-ai-goals) underlines the scale of investment in AI development.
+* [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D) - A deep dive into the simple yet powerful Fenwick tree data structure. [Comments](https://news.ycombinator.com/item?id=42818248).
 
-* [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/) discusses how AI is being rapidly weaponized and its implications for global security.
+## Science and Medicine
 
-## Cybersecurity and Data Breaches
+* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking study unveils microplastics' impact on brain blood flow. [Comments](https://news.ycombinator.com/item?id=42818692).
 
-* [French police free kidnapped Ledger executive](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/) details the dramatic rescue of a high-profile crypto executive.
+* [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected) - Encouraging outcomes from Caltrain’s adoption of electric trains. [Comments](https://news.ycombinator.com/item?id=42818692).
 
-* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack) discusses one of the largest healthcare-related security breaches.
+* [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) - Investigating oyster blood as a potential new antimicrobial solution. [Comments](https://soylentnews.org/article.pl?sid=25/01/23/1255246).
 
-* [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee) chronicles a significant cultural institution's cybersecurity incident.
+## Cybersecurity and Privacy
 
-## Environment and Health
+* [British Museum Forced To Partly Close After Alleged IT Attack By Former Employee](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed) - British Museum suffers IT disruption following a suspected insider attack. [Comments](https://news.slashdot.org/story/25/01/24/2351234/british-museum-forced-to-partly-close-after-alleged-it-attack-by-former-employee).
 
-* [Microplastics Block Blood Flow in the Brain, Mouse Study Reveals](https://science.slashdot.org/story/25/01/24/2348221/microplastics-block-blood-flow-in-the-brain-mouse-study-reveals) explores the alarming health risks posed by microplastic pollution.
+* [UnitedHealth Data Breach Hits 190 Million Americans in Worst Healthcare Hack](https://yro.slashdot.org/story/25/01/24/2337254/unitedhealth-data-breach-hits-190-million-americans-in-worst-healthcare-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A record-breaking healthcare data breach targeting UnitedHealth. [Comments](https://news.ycombinator.com/item?id=42818248).
 
-* [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected) presents a positive environmental impact of adopting sustainable transit solutions.
+* [French police free kidnapped Ledger executive](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/) - Ledger executive rescued following a day-long kidnapping ordeal. [Comments](https://news.ycombinator.com/item?id=42819018).
 
-## Programming and Open Source
+## Artificial Intelligence
 
-* [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/) reflects on transitioning to the Zed editor for developers.
+* [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/) - Insights into AI's growing role within military weapon development. [Comments](https://news.ycombinator.com/item?id=42818917).
 
-* [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D) delves into the conceptual simplicity behind a foundational algorithm.
+* [Apple Enlists Veteran Software Executive To Help Fix AI and Siri](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple seeks new tools and leadership to revamp AI initiatives. [Comments](https://apple.slashdot.org/story/25/01/24/2113240/apple-enlists-veteran-software-executive-to-help-fix-ai-and-siri).
 
-* [wild: A very fast linker for Linux](https://github.com/davidlattimore/wild) introduces a performant linking tool for Linux development.
+* [AI Workloads Spur Bigger Memory Drives](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss) - Demand for resource-heavy AI applications drives memory development. [Comments](https://soylentnews.org/article.pl?sid=25/01/24/1234214).
 
-* [Restoring Trust in Online Communication in a Post-LLM Era](https://lobste.rs/s/r3hhuz/restoring_trust_online_communication) examines challenges to digital communication security.
+## Gaming and Entertainment
 
-## Business, Markets, and Policy
+* [Netflix's Cloud Plans Include Co-Op and Party Games](https://entertainment.slashdot.org/story/25/01/24/2052235/netflixs-cloud-plans-include-co-op-and-party-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Netflix explores co-op and party gaming formats for its cloud platform. [Comments](https://entertainment.slashdot.org/story/25/01/24/2052235/netflixs-cloud-plans-include-co-op-and-party-games).
 
-* [Nvidia Starts Phasing Out Maxwell, Pascal, and Volta GPUs](https://tech.slashdot.org/story/25/01/24/2356254/nvidia-starts-phasing-out-maxwell-pascal-and-volta-gpus) discusses the end-of-life of older GPU architectures and its industry implications.
-
-* [ISPs Must Offer Cheaper Internet To Low Income Households After Trying To Prevent It](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss) reports on new regulations benefitting underprivileged communities.
+* [Complexity Physics Finds Crucial Tipping Points In Chess Games](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Using physics to analyze pivotal moments in chess games. [Comments](https://games.slashdot.org/story/25/01/24/2046222/complexity-physics-finds-crucial-tipping-points-in-chess-games).
 
 ---
 
@@ -141,6 +139,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-23, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss) - [Mind Control? Scientists Have Discovered How to Use Nanoparticles to Remotely Control Behavior](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss)
 * [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 11:38:49](https://lobste.rs/s/tvqmjb/cvss_is_dead_us) - [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
+* [2025-01-23, 10:45:29](https://news.ycombinator.com/item?id=42802737) - [EA Origin is shutting down](https://www.pcworld.com/article/2583928/ea-origin-is-shutting-down-heres-how-to-keep-all-your-games-safe.html)
 * [2025-01-23, 10:05:00](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss) - [TSMC Reportedly Pauses Production After Earthquake](https://soylentnews.org/article.pl?sid=25/01/22/1845235&from=rss)
 * [2025-01-23, 05:22:00](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss) - [Findings Challenge Assumption That AI Will Soon Replace Human Doctors](https://soylentnews.org/article.pl?sid=25/01/22/1835217&from=rss)
 * [2025-01-23, 00:35:00](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss) - [Not Sure What Font to Choose? Typography Study Helps Find the Right Type](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss)
@@ -153,7 +152,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-22, 05:24:03](https://news.ycombinator.com/item?id=42789323) - [Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs](https://github.com/Bin-Huang/chatbox)
 * [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
 * [2025-01-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss) - [TSMC Ends Contract With Singapore-Based Company Over Alleged Huawei Ties](https://soylentnews.org/article.pl?sid=25/01/21/1315246&from=rss)
-* [2025-01-21, 23:47:34](https://news.ycombinator.com/item?id=42786740) - [The Bizzare Story of the Three Identical Strangers](https://historicflix.com/the-bizzare-story-of-the-three-identical-strangers/)
 * [2025-01-21, 23:35:07](https://news.ycombinator.com/item?id=42786627) - [Cytoskeleton-functionalized synthetic cells with life-like mechanical features](https://www.nature.com/articles/s41557-024-01697-5)
 * [2025-01-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss) - [DOJ Remotely Cleaned Thousands of Computers Infected With Chinese Malware](https://soylentnews.org/article.pl?sid=25/01/21/1311222&from=rss)
 * [2025-01-21, 14:24:00](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss) - [Spacecraft Captures Spectacularly Detailed Images Of Mercury's Hidden Surface](https://soylentnews.org/article.pl?sid=25/01/21/0044227&from=rss)
