@@ -1,48 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Renewable Energy and Innovation
 
-* [Anthropic Chief Says AI Could Surpass “Almost All Humans at Almost Everything” Shortly After 2027](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss) - Comments on the rapid progression of AI capabilities and its implications on humanity.
+* [Europe Made More Electricity from Solar Than Coal In 2024](https://hardware.slashdot.org/story/25/01/25/0119258/europe-made-more-electricity-from-solar-than-coal-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant milestone in Europe's energy transition, showcasing the growing reliance on renewable sources over fossil fuels.
 
-* [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason) - Exploration of emerging reasoning methodologies utilizing reinforcement learning in AI systems.
+* [Heat Pumps Are Now Outselling Gas Furnaces In America](https://hardware.slashdot.org/story/25/01/25/1944213/heat-pumps-are-now-outselling-gas-furnaces-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Americans are increasingly adopting energy-efficient heating technologies as part of the move toward greener living.
 
-* [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948) - Study on implementing reinforcement learning to enhance reasoning in large language models.
+## AI and Technology Breakthroughs
 
-* [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain) - UCSF’s research on building AI systems to simulate and understand brain processes.
+* [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers) - A developer examines the hidden complications of AI tools meant to streamline workflows.
 
-## Tech and Software Developments
+* [Emerging reasoning with reinforcement learning](https://hkust-nlp.notion.site/simplerl-reason) - A breakthrough in reinforcement learning criticized for offering reasoning capabilities in AI systems.
 
-* [cs16.css: CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/) - A creative CSS library inspired by the classic Counter Strike UI.
+* [Anthropic Chief Says AI Could Surpass “Almost All Humans at Almost Everything” Shortly After 2027](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss) - A bold prediction about AI capabilities set to outpace human intelligence within the next few years.
 
-* [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog) - Insight into the simplicity and elegance of the Prolog programming language.
+* [FSF: Meta's License for Its Llama 3.1 AI Model 'is Not a Free Software License'](https://news.slashdot.org/story/25/01/25/2311217/fsf-metas-license-for-its-llama-31-ai-model-is-not-a-free-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Free Software Foundation's critique of Meta's licensing approach highlights challenges for open-source AI.
 
-* [FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32](https://github.com/esp32-open-mac/FoA) - A new experimental project focusing on Wi-Fi stacks in Rust for embedded systems.
+## Unusual Takes on Hardware and Software
 
-* [Updated FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/) - Enhancements to tooling around FreeBSD virtualization using Bhyve.
+* [Fixing my monitor's power button](https://www.lkhrs.com/blog/2025/monitor-repair/) - A detailed DIY repair project showcasing ingenuity in hardware restoration.
 
-## Innovations in Engineering and Science
+* [Paxo: A DIY Phone](https://paxo.fr/) - A fascinating introduction to a build-it-yourself mobile phone designed to prioritize user control.
 
-* [Einstein Probe detects puzzling cosmic explosion](https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion) - Significant findings from the Einstein Probe mission investigating an unexplained cosmic event.
+* [“Project Mini Rack” Wants Make Your Mini-Homelab a Reality](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss) - Targeting hobbyists, this initiative aims to democratize access to compact self-hosted environments.
 
-* [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breathtaking astronomical achievement showcasing a stellar extravaganza.
+## Historical and Niche Stories
 
-* [Researchers Say New Attack Could Take Down the European Power Grid](https://hardware.slashdot.org/story/25/01/25/0037206/researchers-say-new-attack-could-take-down-the-european-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of cybersecurity vulnerabilities in critical European infrastructure.
+* [Bill Gates Began the Altair BASIC Code in His Head While Hiking as a Teenager](https://news.slashdot.org/story/25/01/26/0249204/bill-gates-began-the-altair-basic-code-in-his-head-while-hiking-as-a-teenager?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rare insight into Gates' early creative process in coding the groundbreaking Altair BASIC.
 
-## Historical and Cultural Narratives
+* [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/) - A remarkable true story of courage and innovation during dire circumstances.
 
-* [Bill Gates Began the Altair BASIC Code in His Head While Hiking as a Teenager](https://news.slashdot.org/story/25/01/26/0249204/bill-gates-began-the-altair-basic-code-in-his-head-while-hiking-as-a-teenager?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A historical anecdote about Bill Gates’ programming genius during his youth.
+## Tech Open-Source and Tools
 
-* [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/) - A gripping tale of survival and heroism from the Vietnam War.
+* [cs16.css: CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/) - A CSS library bringing nostalgia through design inspired by a classic video game interface.
 
-* [Making an SNES Game the Way Nintendo Intended](https://www.youtube.com/watch?v=kYLJLJkVfLk) - A deep dive into authentic SNES game creation.
+* [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2) - A lightweight implementation of ActivityPub designed for developers seeking greater simplicity.
 
-## Legal and Ethical Issues in Technology
+* [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com) - A retro but functional tool for database management.
 
-* [FSF: Meta's License for Its Llama 3.1 AI Model 'is Not a Free Software License'](https://news.slashdot.org/story/25/01/25/2311217/fsf-metas-license-for-its-llama-31-ai-model-is-not-a-free-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussion on ethical concerns surrounding Meta's licensing practices.
+## Quirky Developments in Engineering and Culture
 
-* [Oracle and US Investors (Including Microsoft) Discuss Taking Control of TikTok in the US](https://tech.slashdot.org/story/25/01/26/0037255/oracle-and-us-investors-including-microsoft-discuss-taking-control-of-tiktok-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examination of corporate negotiations and national security concerns over TikTok.
+* [The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/) - A peculiar bug that turned into a surprising fix for a legacy computer.
 
-* [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) - Legal implications of recent AI legislation tackling child exploitation.
+* [Engineers don't make public squares. People do](https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do) - A discussion on how urban design thrives through grassroots public engagement.
 
 ---
 
@@ -69,10 +69,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-01-26, 15:34:00](https://hardware.slashdot.org/story/25/01/25/0119258/europe-made-more-electricity-from-solar-than-coal-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe Made More Electricity from Solar Than Coal In 2024](https://hardware.slashdot.org/story/25/01/25/0119258/europe-made-more-electricity-from-solar-than-coal-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
+* [2025-01-26, 14:10:00](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss) - [Touchscreen Dashboards Have Finally Taken Over and Ruined Driving](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss)
+* [2025-01-26, 12:55:14](https://news.ycombinator.com/item?id=42829795) - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
 * [2025-01-26, 12:34:00](https://news.slashdot.org/story/25/01/26/0351245/new-cia-director-touts-low-confidence-assessment-about-covid-lab-leak-theory?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New CIA Director Touts 'Low Confidence' Assessment About Covid Lab Leak Theory](https://news.slashdot.org/story/25/01/26/0351245/new-cia-director-touts-low-confidence-assessment-about-covid-lab-leak-theory?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-26, 11:51:16](https://news.ycombinator.com/item?id=42829515) - [Einstein Probe detects puzzling cosmic explosion](https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion)
-* [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI Promises Speed but Delivers Debugging Hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
+* [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
 * [2025-01-26, 11:12:36](https://lobste.rs/s/en0mrm/cs16_css_css_library_based_on_counter) - [cs16.css: CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/)
+* [2025-01-26, 10:51:43](https://news.ycombinator.com/item?id=42829279) - [Paxo: A DIY Phone](https://paxo.fr/)
 * [2025-01-26, 09:53:59](https://lobste.rs/s/x7lve1/foa_ferris_on_air_experimental_wi_fi_stack) - [FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32](https://github.com/esp32-open-mac/FoA)
 * [2025-01-26, 09:25:00](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss) - [“Project Mini Rack” Wants Make Your Mini-Homelab a Reality](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss)
 * [2025-01-26, 08:58:52](https://lobste.rs/s/mkmtrp/fixing_my_monitor_s_power_button) - [Fixing my monitor's power button](https://www.lkhrs.com/blog/2025/monitor-repair/)
@@ -84,10 +88,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-26, 05:04:00](https://news.slashdot.org/story/25/01/26/0249204/bill-gates-began-the-altair-basic-code-in-his-head-while-hiking-as-a-teenager?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bill Gates Began the Altair BASIC Code in His Head While Hiking as a Teenager](https://news.slashdot.org/story/25/01/26/0249204/bill-gates-began-the-altair-basic-code-in-his-head-while-hiking-as-a-teenager?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-26, 04:38:00](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss) - [Anthropic Chief Says AI Could Surpass “Almost All Humans at Almost Everything” Shortly After 2027](https://soylentnews.org/article.pl?sid=25/01/24/2112249&from=rss)
 * [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
-* [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
+* [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+* [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [Emerging reasoning with reinforcement learning](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 * [2025-01-26, 02:34:00](https://tech.slashdot.org/story/25/01/26/0037255/oracle-and-us-investors-including-microsoft-discuss-taking-control-of-tiktok-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle and US Investors (Including Microsoft) Discuss Taking Control of TikTok in the US](https://tech.slashdot.org/story/25/01/26/0037255/oracle-and-us-investors-including-microsoft-discuss-taking-control-of-tiktok-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-26, 02:19:29](https://lobste.rs/s/bmwj0a/exploring_new_go_tool_support_go_1_24) - [Exploring the new \"go tool\" support in Go 1.24](https://blog.howardjohn.info/posts/go-tools-command/)
+* [2025-01-26, 00:50:07](https://news.ycombinator.com/item?id=42826589) - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
 * [2025-01-26, 00:48:45](https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub) - [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2)
 * [2025-01-26, 00:40:46](https://news.ycombinator.com/item?id=42826536) - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
 * [2025-01-26, 00:32:00](https://lobste.rs/s/ciyxdv/engineers_don_t_make_public_squares) - [Engineers don't make public squares. People do](https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do)
@@ -99,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-25, 22:22:25](https://lobste.rs/s/o2hhjc/what_happened_text_colour) - [What happened to the text colour?](https://lobste.rs/s/o2hhjc/what_happened_text_colour)
 * [2025-01-25, 22:15:13](https://news.ycombinator.com/item?id=42825441) - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-25, 21:34:00](https://tech.slashdot.org/story/25/01/25/0534250/pixelfed-creator-crowdfunds-more-capacity-plus-open-source-alternatives-to-tiktok-and-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pixelfed Creator Crowdfunds More Capacity, Plus Open Source Alternatives to TikTok and WhatsApp](https://tech.slashdot.org/story/25/01/25/0534250/pixelfed-creator-crowdfunds-more-capacity-plus-open-source-alternatives-to-tiktok-and-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
 * [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 * [2025-01-25, 20:34:00](https://hardware.slashdot.org/story/25/01/25/1944213/heat-pumps-are-now-outselling-gas-furnaces-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Heat Pumps Are Now Outselling Gas Furnaces In America](https://hardware.slashdot.org/story/25/01/25/1944213/heat-pumps-are-now-outselling-gas-furnaces-in-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-25, 20:29:41](https://news.ycombinator.com/item?id=42824562) - [An invalid 68030 instruction accidentally allowed the Mac Classic II to boot](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
@@ -123,13 +128,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-25, 14:31:45](https://lobste.rs/s/qsytzj/unix_print_driver_fun) - [Unix Print Driver Fun](https://jholloway.dev/posts/print-driver-fun/)
 * [2025-01-25, 14:23:00](https://soylentnews.org/article.pl?sid=25/01/24/1324218&from=rss) - [Wine 10.0 Brings Arm Windows Apps to Linux, Still Isn't an Emulator](https://soylentnews.org/article.pl?sid=25/01/24/1324218&from=rss)
 * [2025-01-25, 13:00:00](https://hardware.slashdot.org/story/25/01/25/0037206/researchers-say-new-attack-could-take-down-the-european-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Say New Attack Could Take Down the European Power Grid](https://hardware.slashdot.org/story/25/01/25/0037206/researchers-say-new-attack-could-take-down-the-european-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-25, 10:00:00](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hubble's Largest Panorama Ever Showcases 200 Million Stars](https://science.slashdot.org/story/25/01/25/0043227/hubbles-largest-panorama-ever-showcases-200-million-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-25, 09:40:00](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss) - [Trump Pardons Dark Web Silk Road Marketplace Founder Ross Ulbricht](https://soylentnews.org/article.pl?sid=25/01/24/1255245&from=rss)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 04:54:00](https://soylentnews.org/article.pl?sid=25/01/24/1251214&from=rss) - [Opinion: We Need to Protect the Protocol That Runs Bluesky](https://soylentnews.org/article.pl?sid=25/01/24/1251214&from=rss)
 * [2025-01-25, 03:35:19](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 * [2025-01-25, 00:09:00](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss) - [AI Workloads Spur Bigger Memory Drives](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss)
-* [2025-01-24, 22:29:57](https://news.ycombinator.com/item?id=42817554) - [Ask HN: How to automate collecting HAR file while user is browsing](https://news.ycombinator.com/item?id=42817554)
 * [2025-01-24, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) - [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss)
 * [2025-01-24, 18:32:38](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-24, 17:59:13](https://lobste.rs/s/1juvjj/wild_very_fast_linker_for_linux) - [wild: A very fast linker for Linux](https://github.com/davidlattimore/wild)
@@ -137,13 +140,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-24, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss) - [Chinese Salt Typhoon Hackers 1st Spotted on Federal Networks Under Another Name](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss)
 * [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
 * [2025-01-24, 12:52:35](https://lobste.rs/s/a5vkze/build_it_yourself) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+* [2025-01-24, 10:47:33](https://news.ycombinator.com/item?id=42811992) - [KATRIN's Odyssey](https://www.symmetrymagazine.org/article/march-2007/deconstruction-katrin?language_content_entity=und)
 * [2025-01-24, 09:53:00](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) - [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss)
 * [2025-01-24, 09:44:08](https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is) - [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-24, 05:07:00](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss) - [Time to Check My Tire Pressures...Hand Me That Hammer](https://soylentnews.org/article.pl?sid=25/01/23/0458201&from=rss)
-* [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-24, 00:22:00](https://soylentnews.org/article.pl?sid=25/01/23/0454218&from=rss) - [Google Is Now the East India Company of the Internet](https://soylentnews.org/article.pl?sid=25/01/23/0454218&from=rss)
 * [2025-01-23, 19:38:00](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss) - [Microsoft To Force Windows 11 24H2 On Home And Pro Users](https://soylentnews.org/article.pl?sid=25/01/23/0452251&from=rss)
-* [2025-01-23, 19:12:05](https://news.ycombinator.com/item?id=42806998) - [Mastering Atari Games with Natural Intelligence](https://www.verses.ai/blog/mastering-atari-games-with-natural-intelligence)
 * [2025-01-23, 18:27:49](https://news.ycombinator.com/item?id=42806518) - [Polyhedral Compilation](http://polyhedral.info/)
 * [2025-01-23, 17:09:13](https://news.ycombinator.com/item?id=42805777) - [Bacteria in Polymers Form Cables That Grow into Living Gels](https://www.caltech.edu/about/news/bacteria-in-polymers-form-cables-that-grow-into-living-gels)
 * [2025-01-23, 14:53:00](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss) - [Mind Control? Scientists Have Discovered How to Use Nanoparticles to Remotely Control Behavior](https://soylentnews.org/article.pl?sid=25/01/22/1845245&from=rss)
@@ -153,10 +155,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-23, 00:35:00](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss) - [Not Sure What Font to Choose? Typography Study Helps Find the Right Type](https://soylentnews.org/article.pl?sid=25/01/21/1517219&from=rss)
 * [2025-01-22, 19:51:00](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss) - [ISPs Must Offer Cheaper Internet To Low Income Households After Trying To Prevent It](https://soylentnews.org/article.pl?sid=25/01/21/1512214&from=rss)
-* [2025-01-22, 17:49:57](https://news.ycombinator.com/item?id=42795488) - [I ask this chess puzzle to every new LLM](https://gist.github.com/abhishek-anand/a65ff0e44d158ae306dcce9151b1331c)
+* [2025-01-22, 19:02:07](https://news.ycombinator.com/item?id=42796292) - [Using Linear Programming to find optimal builds in League of Legend](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
+* [2025-01-22, 16:51:29](https://news.ycombinator.com/item?id=42794776) - [AI Will Write Complex Laws](https://www.lawfaremedia.org/article/ai-will-write-complex-laws)
 * [2025-01-22, 15:08:00](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss) - [How Unix Spell Ran in 64kB RAM](https://soylentnews.org/article.pl?sid=25/01/21/159259&from=rss)
-* [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
-* [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-22, 09:22:00](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss) - [Reverse-Engineering a Carry-Lookahead Adder in the Pentium](https://soylentnews.org/article.pl?sid=25/01/21/1330227&from=rss)
 * [2025-01-22, 04:37:00](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss) - [China to Pit 12,000 Humans Against Robots in World's First AI Marathon Race](https://soylentnews.org/article.pl?sid=25/01/21/1329212&from=rss)
