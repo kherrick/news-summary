@@ -1,32 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
+## AI and Technology
 
-* [AI Is Too Unpredictable To Behave According To Human Goals](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf) ([comments](https://news.ycombinator.com/item?id=42843131))
+
+* ['AI Is Too Unpredictable To Behave According To Human Goals'](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 * [Poisoning AI with ".аss" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8) ([comments](https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles))
 
-* [Meta's AI Chatbot Taps User Data With No Opt-Out Option](https://tech.slashdot.org/story/25/01/27/1821216/metas-ai-chatbot-taps-user-data-with-no-opt-out-option?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/01/27/1821216/metas-ai-chatbot-taps-user-data-with-no-opt-out-option?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Meta Sets Up War Rooms To Analyze DeepSeek's Tech](https://tech.slashdot.org/story/25/01/27/1648226/meta-sets-up-war-rooms-to-analyze-deepseeks-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/01/27/1648226/meta-sets-up-war-rooms-to-analyze-deepseeks-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Microsoft Takes on MongoDB with PostgreSQL-Based Document Database](https://developers.slashdot.org/story/25/01/27/2023232/microsoft-takes-on-mongodb-with-postgresql-based-document-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/01/27/2023232/microsoft-takes-on-mongodb-with-postgresql-based-document-database?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ## Data Privacy and Security
 
 * [Software Flaw Exposes Millions of Subarus, Rivers of Driver Data](https://yro.slashdot.org/story/25/01/28/0013226/software-flaw-exposes-millions-of-subarus-rivers-of-driver-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/01/28/0013226/software-flaw-exposes-millions-of-subarus-rivers-of-driver-data?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
+* [Meta's AI Chatbot Taps User Data With No Opt-Out Option](https://tech.slashdot.org/story/25/01/27/1821216/metas-ai-chatbot-taps-user-data-with-no-opt-out-option?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/01/27/1821216/metas-ai-chatbot-taps-user-data-with-no-opt-out-option?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
 * [Data Breach Hitting PowerSchool Looks Very, Very Bad](https://soylentnews.org/article.pl?sid=25/01/27/0421239&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/27/0421239&from=rss))
 
-* [Facebook Flags Linux Topics As 'Cybersecurity Threats'](https://linux.slashdot.org/story/25/01/27/2120230/facebook-flags-linux-topics-as-cybersecurity-threats?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://linux.slashdot.org/story/25/01/27/2120230/facebook-flags-linux-topics-as-cybersecurity-threats?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Open Source and Software Development
 
-## Open-Source and Tech Innovation
+* [public-inbox - an "archives first" approach to mailing lists](https://public-inbox.org/README.html) ([comments](https://lobste.rs/s/mvcalo/public_inbox_archives_first_approach))
 
 * [Google Has Open-Sourced the Pebble Smartwatch OS](https://news.slashdot.org/story/25/01/27/2059213/google-has-open-sourced-the-pebble-smartwatch-os?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/01/27/2059213/google-has-open-sourced-the-pebble-smartwatch-os?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [We're bringing Pebble back](https://repebble.com/) ([comments](https://news.ycombinator.com/item?id=42845091))
-
-* [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html) ([comments](https://lobste.rs/s/yqx2sx/pebble_smartwatches_open_sourced))
-
 * [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/) ([comments](https://news.ycombinator.com/item?id=42847834))
+
+* [Clone2Leak: Your Git Credentials Belong To Us](https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/) ([comments](https://lobste.rs/s/y1eqnf/clone2leak_your_git_credentials_belong))
 
 ## Climate and Energy
 
@@ -34,13 +34,13 @@
 
 * [Dangerous Temperatures Could Kill 50% More Europeans By 2100, Study Finds](https://news.slashdot.org/story/25/01/27/2058209/dangerous-temperatures-could-kill-50-more-europeans-by-2100-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/01/27/2058209/dangerous-temperatures-could-kill-50-more-europeans-by-2100-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Miscellaneous News
+## Unique Innovations
 
-* [UK Council Sells Assets To Fund Ballooning $50 Million Oracle Project](https://news.slashdot.org/story/25/01/28/004213/uk-council-sells-assets-to-fund-ballooning-50-million-oracle-project?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/01/28/004213/uk-council-sells-assets-to-fund-ballooning-50-million-oracle-project?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The Drunken Plagiarists: Working with Co-pilots](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss))
 
-* [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves) ([comments](https://news.ycombinator.com/item?id=42844619))
+* [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator) ([comments](https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are))
 
-* [Sleeping Pills Stop the Brain’s System for Cleaning Out Waste](https://soylentnews.org/article.pl?sid=25/01/27/049209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/27/049209&from=rss))
+* [Trustfall](https://github.com/obi1kenobi/trustfall) ([comments](https://lobste.rs/s/wapcwu/trustfall))
 
 ---
 
@@ -67,12 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-01-28, 06:46:45](https://lobste.rs/s/mvcalo/public_inbox_archives_first_approach) - [public-inbox - an \"archives first\" approach to mailing lists](https://public-inbox.org/README.html)
+* [2025-01-28, 06:34:56](https://lobste.rs/s/y1eqnf/clone2leak_your_git_credentials_belong) - [Clone2Leak: Your Git Credentials Belong To Us](https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/)
+* [2025-01-28, 04:14:00](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss) - [The Drunken Plagiarists: Working with Co-pilots](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss)
 * [2025-01-28, 03:30:00](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Is Too Unpredictable To Behave According To Human Goals'](https://slashdot.org/story/25/01/28/0039232/ai-is-too-unpredictable-to-behave-according-to-human-goals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-28, 02:58:43](https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles) - [Poisoning AI with \".аss\" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
 * [2025-01-28, 01:40:00](https://hardware.slashdot.org/story/25/01/28/0026231/us-solar-boom-continues-but-its-offset-by-rising-power-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Solar Boom Continues, But It's Offset By Rising Power Use](https://hardware.slashdot.org/story/25/01/28/0026231/us-solar-boom-continues-but-its-offset-by-rising-power-use?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-28, 01:23:45](https://news.ycombinator.com/item?id=42847865) - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
-* [2025-01-28, 01:17:33](https://news.ycombinator.com/item?id=42847825) - [Why OpenAI's $157B valuation misreads AI's future (Oct 2024)](https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/)
 * [2025-01-28, 01:00:00](https://yro.slashdot.org/story/25/01/28/0013226/software-flaw-exposes-millions-of-subarus-rivers-of-driver-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Software Flaw Exposes Millions of Subarus, Rivers of Driver Data](https://yro.slashdot.org/story/25/01/28/0013226/software-flaw-exposes-millions-of-subarus-rivers-of-driver-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-28, 00:20:00](https://news.slashdot.org/story/25/01/28/004213/uk-council-sells-assets-to-fund-ballooning-50-million-oracle-project?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Council Sells Assets To Fund Ballooning $50 Million Oracle Project](https://news.slashdot.org/story/25/01/28/004213/uk-council-sells-assets-to-fund-ballooning-50-million-oracle-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-28, 00:18:18](https://lobste.rs/s/koxisr/image_replacement_canva_designs_using) - [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/)
@@ -84,9 +86,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-27, 22:07:22](https://lobste.rs/s/gey0py/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
 * [2025-01-27, 21:42:11](https://lobste.rs/s/qczsgz/building_personal_software_with_claude) - [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
 * [2025-01-27, 21:40:00](https://news.slashdot.org/story/25/01/27/2058209/dangerous-temperatures-could-kill-50-more-europeans-by-2100-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dangerous Temperatures Could Kill 50% More Europeans By 2100, Study Finds](https://news.slashdot.org/story/25/01/27/2058209/dangerous-temperatures-could-kill-50-more-europeans-by-2100-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 21:18:08](https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux) - [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 * [2025-01-27, 21:01:00](https://news.slashdot.org/story/25/01/27/2059213/google-has-open-sourced-the-pebble-smartwatch-os?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Has Open-Sourced the Pebble Smartwatch OS](https://news.slashdot.org/story/25/01/27/2059213/google-has-open-sourced-the-pebble-smartwatch-os?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-27, 20:51:28](https://news.ycombinator.com/item?id=42845488) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-27, 20:33:43](https://news.ycombinator.com/item?id=42845323) - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 * [2025-01-27, 20:28:36](https://lobste.rs/s/yqx2sx/pebble_smartwatches_open_sourced) - [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 * [2025-01-27, 20:22:00](https://developers.slashdot.org/story/25/01/27/2023232/microsoft-takes-on-mongodb-with-postgresql-based-document-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Takes on MongoDB with PostgreSQL-Based Document Database](https://developers.slashdot.org/story/25/01/27/2023232/microsoft-takes-on-mongodb-with-postgresql-based-document-database?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -94,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-27, 20:09:09](https://news.ycombinator.com/item?id=42845070) - [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 * [2025-01-27, 19:53:45](https://lobste.rs/s/wapcwu/trustfall) - [Trustfall](https://github.com/obi1kenobi/trustfall)
 * [2025-01-27, 19:34:00](https://slashdot.org/story/25/01/27/1935207/nvidia-dismisses-china-ai-threat-says-deepseek-still-needs-its-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nvidia Dismisses China AI Threat, Says DeepSeek Still Needs Its Chips](https://slashdot.org/story/25/01/27/1935207/nvidia-dismisses-china-ai-threat-says-deepseek-still-needs-its-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-27, 19:28:58](https://lobste.rs/s/zhomzr/building_toast_component) - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 * [2025-01-27, 19:02:11](https://lobste.rs/s/quamiu/first_perfect_computer) - [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 * [2025-01-27, 19:01:09](https://lobste.rs/s/djejmh/really_really_good_random_number) - [really really good random number generator (rrgrng)](https://swlody.dev/Posts/really-really-good-random-number-generator-(rrgrng))
@@ -110,7 +111,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 * [2025-01-27, 16:48:00](https://tech.slashdot.org/story/25/01/27/1648226/meta-sets-up-war-rooms-to-analyze-deepseeks-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Sets Up War Rooms To Analyze DeepSeek's Tech](https://tech.slashdot.org/story/25/01/27/1648226/meta-sets-up-war-rooms-to-analyze-deepseeks-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-27, 16:25:00](https://soylentnews.org/article.pl?sid=25/01/27/0416218&from=rss) - [Linux Kernel 6.13 Announced](https://soylentnews.org/article.pl?sid=25/01/27/0416218&from=rss)
-* [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/rust_s_worst_feature) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
+* [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/issues_with_borrowedbuf_rust) - [Issues with BorrowedBuf in Rust](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 * [2025-01-27, 15:41:12](https://news.ycombinator.com/item?id=42842257) - [Operation Leg – a pilot unlike any other (2020)](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
 * [2025-01-27, 15:29:54](https://news.ycombinator.com/item?id=42842123) - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
@@ -132,12 +133,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-27, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss) - [Mysterious Blobs Found Inside Cells Are Rewriting the Story of How Life Works](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss)
 * [2025-01-27, 03:14:45](https://lobste.rs/s/pzr5nj/future_microprocessors) - [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
 * [2025-01-27, 03:12:30](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024) - [What're the Best Things you Read and Learned in 2024?](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024)
+* [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
 * [2025-01-26, 23:34:00](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss) - [Florida Man Eats Diet of Butter, Cheese, Beef; Cholesterol Oozes From His Body](https://soylentnews.org/article.pl?sid=25/01/25/155223&from=rss)
-* [2025-01-26, 19:17:48](https://lobste.rs/s/pvnlp0/noria_fast_web_applications_through) - [noria: Fast web applications through dynamic, partially-stateful dataflow](https://github.com/mit-pdos/noria)
+* [2025-01-26, 18:51:31](https://news.ycombinator.com/item?id=42832742) - [Human corpses keep moving for over a year after death, scientist says (2019)](https://www.newsweek.com/human-corpse-year-burial-scientist-1459113)
 * [2025-01-26, 18:51:00](https://soylentnews.org/article.pl?sid=25/01/25/152224&from=rss) - [Real Datacenter Emissions Are A Dirty Secret](https://soylentnews.org/article.pl?sid=25/01/25/152224&from=rss)
 * [2025-01-26, 16:55:45](https://lobste.rs/s/oxtwre/hard_numbers_wayland_vs_x11_input_latency) - [Hard numbers in the Wayland vs X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 14:10:00](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss) - [Touchscreen Dashboards Have Finally Taken Over and Ruined Driving](https://soylentnews.org/article.pl?sid=25/01/25/1456254&from=rss)
-* [2025-01-26, 12:43:26](https://news.ycombinator.com/item?id=42829738) - [Highlighting Parts of Lua as Bash](https://xnacly.me/posts/2024/treesitter-neovim/)
 * [2025-01-26, 12:30:10](https://news.ycombinator.com/item?id=42829677) - [Complexity physics finds crucial tipping points in chess games](https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/)
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 09:25:00](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss) - [“Project Mini Rack” Wants Make Your Mini-Homelab a Reality](https://soylentnews.org/article.pl?sid=25/01/25/1448247&from=rss)
@@ -151,8 +152,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-25, 00:09:00](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss) - [AI Workloads Spur Bigger Memory Drives](https://soylentnews.org/article.pl?sid=25/01/24/1234214&from=rss)
 * [2025-01-24, 19:24:00](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss) - [Oyster Blood: A New Frontier in Fighting Infection](https://soylentnews.org/article.pl?sid=25/01/23/1255246&from=rss)
 * [2025-01-24, 18:11:25](https://news.ycombinator.com/item?id=42815697) - [The Vikings also used crampons to avoid slipping on ice](https://www.sciencenorway.no/ice-viking-age-winter/the-vikings-also-used-crampons-to-avoid-slipping-on-ice/2456603)
+* [2025-01-24, 16:53:45](https://news.ycombinator.com/item?id=42814982) - [Undiagnosed Cognitive Decline Eats into Seniors' Retirement Savings](https://www.wsj.com/personal-finance/retirement/cognitive-decline-retirement-savings-4672b604)
 * [2025-01-24, 14:38:00](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss) - [Chinese Salt Typhoon Hackers 1st Spotted on Federal Networks Under Another Name](https://soylentnews.org/article.pl?sid=25/01/23/1249227&from=rss)
-* [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC (2014)](https://www.pugetsystems.com/mineral-oil-pc/)
 * [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
 * [2025-01-24, 09:53:00](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss) - [New California Law Criminalizing AI Generated Child Porn Claims First Arrest](https://soylentnews.org/article.pl?sid=25/01/23/1247207&from=rss)
 * [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [How we scaled Slack to support 1000s of developers](https://blog.railway.com/p/slack-overflow)
