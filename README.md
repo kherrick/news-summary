@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging AI and Technology Developments
+## Technology Advancements and Innovations
 
-* [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - A compelling new test aims to evaluate the future trajectory of human intelligence.
+* [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83) ([comments](https://lobste.rs/s/orddo5/byte_queue_limits_unauthorized))
 
-* [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - OpenAI introduces a versatile AI tool that allows users to delegate PC tasks.
+* [Announcing Rust 1.84.1](https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html) ([comments](https://lobste.rs/s/rbjw6d/announcing_rust_1_84_1))
 
-* [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396) - Research unveils models inspired by brain structures for enhanced AI functionality.
+* [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/) ([comments](https://news.ycombinator.com/item?id=42885087))
 
-* [SoftBank in Talks To Invest Up To $25 Billion in OpenAI](https://slashdot.org/story/25/01/30/1114205/softbank-in-talks-to-invest-up-to-25-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - SoftBank explores a massive investment in the future of AI innovation.
+* [Intel Won't Bring Its Falcon Shores AI Chip To Market](https://hardware.slashdot.org/story/25/01/31/0443206/intel-wont-bring-its-falcon-shores-ai-chip-to-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/01/31/0443206/intel-wont-bring-its-falcon-shores-ai-chip-to-market?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Programming and Software Innovation
+* [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss))
 
-* [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/) - A distributed framework in Rust aiming to simplify parallel programming.
+* [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396) ([comments](https://news.ycombinator.com/item?id=42884338))
 
-* [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd) - An exploration of an alternative OS design free from systemd.
+## Scientific Discoveries and Research
 
-* [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm) - A lightweight and innovative window manager written entirely in Ruby.
+* [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience) ([comments](https://news.ycombinator.com/item?id=42886867))
 
-## Privacy and Digital Rights
+* [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss))
 
-* [Italy Blocks DeepSeek Over Data Privacy Concerns](https://yro.slashdot.org/story/25/01/30/2249212/italy-blocks-deepseek-over-data-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Italian authorities take action against DeepSeek citing privacy violations.
+* [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/) ([comments](https://news.ycombinator.com/item?id=42881858))
 
-* [Lawsuit Accuses Amazon of Secretly Tracking Consumers Through Cellphones](https://yro.slashdot.org/story/25/01/30/220209/lawsuit-accuses-amazon-of-secretly-tracking-consumers-through-cellphones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal battles over alleged consumer privacy breaches escalate.
+* [NASA Spacewalkers to Swab the ISS for Microbial Life](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss))
 
-## Historical and Niche Tech Insights
+## Cultural and Historical Highlights
 
-* [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/) - The iconic Alto, a pivotal step in personal computing history, resurfaces with accessible source code.
+* [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test) ([comments](https://news.ycombinator.com/item?id=42886718))
 
-* [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656) - A detailed look at the history of APL programming's influence in Soviet computing.
+* [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656) ([comments](https://news.ycombinator.com/item?id=42877430))
 
-* [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339) - An intriguing deep dive into reverse-engineering a recent tech quirk.
+* [VGHF Opens Free Online Access To 1,500 Classic Game Mags, 30K Historic Files](https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html) - A reflective essay on object-oriented programming's architectural impact.
+## Privacy and Security Challenges
 
-## Gaming and Entertainment Archives
+* [Italy Blocks DeepSeek Over Data Privacy Concerns](https://yro.slashdot.org/story/25/01/30/2249212/italy-blocks-deepseek-over-data-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/01/30/2249212/italy-blocks-deepseek-over-data-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [VGHF Opens Free Online Access To 1,500 Classic Game Mags, 30K Historic Files](https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore a rich archive of vintage gaming magazines and documents.
+* [Millions of Subarus Could be Remotely Unlocked, Tracked Due to Security Flaws](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss))
 
-* [Complexity Physics Finds Crucial Tipping Points in Chess Games](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss) - Physics meets strategy in this study highlighting key dynamics in chess.
-
-## Scientific Advancements and Biological Breakthroughs
-
-* [NASA Spacewalkers to Swab the ISS for Microbial Life](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss) - NASA embarks on a mission to identify and analyze microbes aboard the ISS.
-
-* [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - A fascinating genetic triumph paves the way for new reproductive science.
+* [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023) ([comments](https://news.ycombinator.com/item?id=42880807))
 
 ---
 
@@ -71,15 +65,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-01-31, 09:36:23](https://lobste.rs/s/vevsem/standard_schema) - [Standard Schema](https://standardschema.dev)
+* [2025-01-31, 12:21:58](https://lobste.rs/s/orddo5/byte_queue_limits_unauthorized) - [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
+* [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
+* [2025-01-31, 11:40:30](https://news.ycombinator.com/item?id=42886718) - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
+* [2025-01-31, 11:30:48](https://news.ycombinator.com/item?id=42886680) - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
+* [2025-01-31, 11:21:57](https://news.ycombinator.com/item?id=42886661) - [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
+* [2025-01-31, 10:48:43](https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal) - [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
+* [2025-01-31, 10:46:39](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend)
+* [2025-01-31, 10:45:48](https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out) - [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
+* [2025-01-31, 10:43:48](https://lobste.rs/s/bpclm0/nom_parser_combinators_now_released) - [nom parser combinators now released in version 8, with a new architecture](https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25)
+* [2025-01-31, 10:42:07](https://lobste.rs/s/rbjw6d/announcing_rust_1_84_1) - [Announcing Rust 1.84.1](https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html)
+* [2025-01-31, 10:04:12](https://lobste.rs/s/wafwbh/gamedev_city_game_development_centric) - [Gamedev.city: Game development-centric link aggregator](https://gamedev.city/)
+* [2025-01-31, 10:00:00](https://hardware.slashdot.org/story/25/01/31/0443206/intel-wont-bring-its-falcon-shores-ai-chip-to-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Won't Bring Its Falcon Shores AI Chip To Market](https://hardware.slashdot.org/story/25/01/31/0443206/intel-wont-bring-its-falcon-shores-ai-chip-to-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-01-31, 09:59:51](https://lobste.rs/s/asyabf/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
+* [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
+* [2025-01-31, 09:29:52](https://news.ycombinator.com/item?id=42886079) - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 07:56:23](https://news.ycombinator.com/item?id=42885520) - [Hacker News for Gamedev](https://gamedev.city/)
-* [2025-01-31, 07:38:21](https://lobste.rs/s/ebslg3/are_second_systems_inevitable) - [Are second systems inevitable](https://erikaker.com/posts/ba331206-1741-4b03-88b6-2d2baa33cf2d)
 * [2025-01-31, 07:00:00](https://tech.slashdot.org/story/25/01/31/0428255/am-radio-for-all-vehicles-legislation-reintroduced?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AM Radio For All Vehicles Legislation Reintroduced](https://tech.slashdot.org/story/25/01/31/0428255/am-radio-for-all-vehicles-legislation-reintroduced?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
-* [2025-01-31, 05:24:09](https://news.ycombinator.com/item?id=42884930) - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
 * [2025-01-31, 05:00:00](https://tech.slashdot.org/story/25/01/31/0349214/everything-i-say-leaks-zuckerberg-says-in-leaked-meeting-audio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Everything I Say Leaks,' Zuckerberg Says in Leaked Meeting Audio](https://tech.slashdot.org/story/25/01/31/0349214/everything-i-say-leaks-zuckerberg-says-in-leaked-meeting-audio?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
 * [2025-01-31, 03:51:44](https://news.ycombinator.com/item?id=42884556) - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 * [2025-01-31, 03:30:00](https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VGHF Opens Free Online Access To 1,500 Classic Game Mags, 30K Historic Files](https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -96,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 22:41:00](https://yro.slashdot.org/story/25/01/30/2237250/us-doj-sues-to-block-hewlett-packard-enterprises-14-billion-juniper-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US DOJ Sues To Block Hewlett Packard Enterprise's $14 Billion Juniper Deal](https://yro.slashdot.org/story/25/01/30/2237250/us-doj-sues-to-block-hewlett-packard-enterprises-14-billion-juniper-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-30, 22:25:00](https://hardware.slashdot.org/story/25/01/30/2152242/googles-10-year-chromebook-lifeline-leaves-old-laptops-headed-for-silicon-cemetery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's 10-Year Chromebook Lifeline Leaves Old Laptops Headed For Silicon Cemetery](https://hardware.slashdot.org/story/25/01/30/2152242/googles-10-year-chromebook-lifeline-leaves-old-laptops-headed-for-silicon-cemetery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-30, 21:45:00](https://yro.slashdot.org/story/25/01/30/2142256/openai-teases-new-era-of-ai-in-us-deepens-ties-with-government?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Teases 'New Era' of AI In US, Deepens Ties With Government](https://yro.slashdot.org/story/25/01/30/2142256/openai-teases-new-era-of-ai-in-us-deepens-ties-with-government?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-30, 21:33:48](https://lobste.rs/s/mdtfnm/forest_desert) - [Forest & Desert](https://tidyfirst.substack.com/p/forest-and-desert)
 * [2025-01-30, 21:16:53](https://lobste.rs/s/mwfd4n/contracts_for_c_explained_5_minutes) - [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
 * [2025-01-30, 20:39:47](https://lobste.rs/s/qyypzo/deepseek_database_leak) - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
@@ -109,8 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 19:37:42](https://news.ycombinator.com/item?id=42881342) - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
 * [2025-01-30, 19:09:00](https://tech.slashdot.org/story/25/01/30/199236/google-offering-voluntary-exit-for-employees-working-on-pixel-android?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Offering 'Voluntary Exit' For Employees Working on Pixel, Android](https://tech.slashdot.org/story/25/01/30/199236/google-offering-voluntary-exit-for-employees-working-on-pixel-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
-* [2025-01-30, 18:45:32](https://lobste.rs/s/kh4fqk/practical_pigment_mixing_for_digital) - [Practical Pigment Mixing for Digital Painting (2021)](https://scrtwpns.com/mixbox.pdf)
-* [2025-01-30, 18:41:26](https://lobste.rs/s/3harxm/introducing_sealed_types) - [Introducing sealed types](https://cheriot.org/sealing/compiler/2025/01/30/introducing-sealed-types.html)
 * [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [Many of the Pokemon playtest cards were likely printed in 2024](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 18:22:00](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss) - [Google Agrees to Crack Down on Fake Reviews for UK Businesses](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss)
 * [2025-01-30, 17:47:33](https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy) - [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
@@ -118,14 +120,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 16:41:00](https://developers.slashdot.org/story/25/01/30/1617210/oracle-faces-java-customer-revolt-after-predatory-pricing-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle Faces Java Customer Revolt After 'Predatory' Pricing Changes](https://developers.slashdot.org/story/25/01/30/1617210/oracle-faces-java-customer-revolt-after-predatory-pricing-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-30, 16:15:25](https://lobste.rs/s/cglras/slow_death_ocsp) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 16:00:00](https://news.slashdot.org/story/25/01/30/1124208/books-written-by-humans-are-getting-their-own-certification?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Books Written By Humans Are Getting Their Own Certification](https://news.slashdot.org/story/25/01/30/1124208/books-written-by-humans-are-getting-their-own-certification?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-30, 15:57:22](https://lobste.rs/s/qbgec0/pypi_now_supports_project_archival) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
-* [2025-01-30, 15:20:00](https://slashdot.org/story/25/01/30/1114205/softbank-in-talks-to-invest-up-to-25-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SoftBank in Talks To Invest Up To $25 Billion in OpenAI](https://slashdot.org/story/25/01/30/1114205/softbank-in-talks-to-invest-up-to-25-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Antiqua et Nova: Note on the relationship between AI and human intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:37:14](https://lobste.rs/s/lozl1i/equinix_sunset_future_gitlab) - [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
 * [2025-01-30, 13:34:00](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss) - [Baltic Undersea Cable Likely Damaged by External Force, Latvia Says](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss)
 * [2025-01-30, 13:21:58](https://lobste.rs/s/yubalv/pointers_are_complicated_ii_we_need) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
-* [2025-01-30, 13:17:19](https://lobste.rs/s/tn5w79/history_apl_ussr) - [History of APL in the USSR](https://dl.acm.org/doi/10.1145/130647.130656)
 * [2025-01-30, 13:12:37](https://lobste.rs/s/pvhpvi/execution_kingdom_nouns_2006) - [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
@@ -135,10 +134,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 08:29:00](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss)
 * [2025-01-30, 04:34:25](https://lobste.rs/s/mwxbm4/reversing_pixel_4a_battery_update) - [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
-* [2025-01-30, 04:23:28](https://lobste.rs/s/dybrex/ending_support_for_expiration) - [Ending Support for Expiration Notification Emails](https://letsencrypt.org/2025/01/22/ending-expiration-emails/)
 * [2025-01-30, 03:45:00](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss) - [Complexity Physics Finds Crucial Tipping Points in Chess Games](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss)
 * [2025-01-30, 01:41:10](https://lobste.rs/s/w17cjs/will_i_ever_use_this_real_world) - [\"Will I ever use this in the real world?\"](https://blog.waleedkhan.name/will-i-ever-use-this/)
-* [2025-01-30, 01:19:37](https://lobste.rs/s/h9ednl/hey_deepseek_can_you_reduce_junk_my_inbox) - [Hey DeepSeek, can you reduce junk in my inbox?](https://loshadki.app/blog/2025-01-29-protect-inbox-with-deepseek/)
 * [2025-01-30, 00:31:53](https://news.ycombinator.com/item?id=42873312) - [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 * [2025-01-29, 23:33:46](https://lobste.rs/s/sn8buz/tv_setup) - [TV Setup](https://push.cx/tv-setup)
 * [2025-01-29, 23:02:00](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss) - [Millions of Subarus Could be Remotely Unlocked, Tracked Due to Security Flaws](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss)
@@ -160,4 +157,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-27, 13:55:00](https://soylentnews.org/article.pl?sid=25/01/27/033246&from=rss) - [Think It Takes 21 Days to Form a Habit? Science Says Think Again](https://soylentnews.org/article.pl?sid=25/01/27/033246&from=rss)
 * [2025-01-27, 09:10:00](https://soylentnews.org/article.pl?sid=25/01/26/0453205&from=rss) - [Medical Device Company Suddenly Stops Hospitals From Fixing Machines Themselves](https://soylentnews.org/article.pl?sid=25/01/26/0453205&from=rss)
 * [2025-01-27, 04:22:00](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss) - [Mysterious Blobs Found Inside Cells Are Rewriting the Story of How Life Works](https://soylentnews.org/article.pl?sid=25/01/26/0444214&from=rss)
-* [2025-01-27, 01:24:10](https://news.ycombinator.com/item?id=42836306) - [Scalable OLTP in the Cloud: What's the Big Deal?](http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
