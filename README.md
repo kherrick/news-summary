@@ -1,46 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Artificial Intelligence and Machine Learning
 
-* [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) - A look into the comeback of the Pebble smartwatch, a pioneer in wearable technology.
+* [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330) ([Comments](https://lobste.rs/s/xh2r0y/jailbreaking_deepseek_r1_prompt))
 
-* [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330) - Researchers explore breaking DeepSeek R1's AI model using clever prompt injection via charcodes.
+* [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch) ([Comments](https://news.ycombinator.com/item?id=42895108))
 
-* [Android 16's Linux Terminal Runs Doom](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Yet another example of Linux versatility: Android's terminal now runs the iconic game Doom.
+* [DeepSeek Outstrips Meta and Mistral To Lead Open-Source AI Race](https://tech.slashdot.org/story/25/01/31/1354218/deepseek-outstrips-meta-and-mistral-to-lead-open-source-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=42890389))
 
-* [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/) - Explore Earthstar, a novel database design for distributed and privacy-respecting applications.
+* [OpenAI's o3-mini: Faster, Cheaper AI That Fact-Checks Itself](https://slashdot.org/story/25/01/31/1916254/openais-o3-mini-faster-cheaper-ai-that-fact-checks-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=42890627))
 
-* [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - OpenAI develops an AI agent capable of performing tasks on your computer autonomously.
+* [Add "fucking" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710) ([Comments](https://news.ycombinator.com/item?id=42892191))
 
-## Artificial Intelligence and Society
+## Technology and Gadgets
 
-* [FDA Approves Drug To Treat Pain Without Opioid Effects](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new breakthrough drug for pain management that alleviates concerns linked to opioids.
+* [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss))
 
-* [Most Men Would Marry Their AI Girlfriends If It Were Legal](https://slashdot.org/story/25/01/31/2248242/most-men-would-marry-their-ai-girlfriends-if-it-were-legal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A study delving into the societal and ethical questions of human-AI relationships.
+* [Android 16's Linux Terminal Runs Doom](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=42894785))
 
-* [AI Haters Build Tarpits to Trap and Trick AI Scrapers That Ignore Robots.Txt](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss) - Creative traps are being devised to counter rogue AI web scrapers ignoring ethical boundaries.
+* [Google Pixel 4a's Ruinous 'Battery Performance' Update Is a Bewildering Mess](https://hardware.slashdot.org/story/25/01/31/2220211/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/01/31/2220211/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess))
 
-## Legal and Environmental Issues
+## Programming and Software
 
-* [Shell Walks Away From Major New Jersey Offshore Wind Farm](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shell backs off from an ambitious offshore wind project, raising questions about its renewable energy commitment.
+* [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot) ([Comments](https://lobste.rs/s/sdnfah/blazing_fast_iot_data_pipeline_for))
 
-* [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/) - Poor communication leads to chaos surrounding a water management decision in California.
+* [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/) ([Comments](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries))
 
-* [Drone Pilot To Plead Guilty In Collision That Grounded Aircraft Fighting Palisades Fire](https://yro.slashdot.org/story/25/01/31/237207/drone-pilot-to-plead-guilty-in-collision-that-grounded-aircraft-fighting-palisades-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legal battle over a drone incident highlights the dangers of improper UAV use.
+* [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) ([Comments](https://news.ycombinator.com/item?id=42894220))
 
-## Historical and Technological Milestones
+* [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope) ([Comments](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection))
 
-* [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf) - A fascinating blend of zines and operating systems brings Linux to PDFs.
+## Environment and Energy
 
-* [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/) - Dive into the source code of the revolutionary Xerox Alto, the ancestor of modern personal computers.
+* [Shell Walks Away From Major New Jersey Offshore Wind Farm](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm))
 
-* [Elite on the 6502: The original 6502 assembly source, heavily commented](https://elite.bbcelite.com/) - A trip down memory lane into the classic video game Elite's source code.
+* [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/) ([Comments](https://news.ycombinator.com/item?id=42894708))
 
-## Humanity and Health
+## Health and Science
 
-* [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/) - A significant scientific discovery that connects Alzheimer's to viral infections and head injuries.
+* [FDA Approves Drug To Treat Pain Without Opioid Effects](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects))
 
-* [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - Innovative CRISPR techniques lead to the creation of mice with two biological fathers.
+* [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/) ([Comments](https://news.ycombinator.com/item?id=42893627))
+
+* [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/01/30/166219))
 
 ---
 
@@ -67,8 +69,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-01, 06:36:16](https://lobste.rs/s/pxl2tu/another_monthly_release_c3_0_6_6_is_here) - [Another monthly release: C3 0.6.6 is here](https://c3.handmade.network/blog/p/8983-another_monthly_release__c3_0.6.6_is_here)
+* [2025-02-01, 06:12:30](https://news.ycombinator.com/item?id=42896131) - [I Miss Vim](https://leblancfg.com/i-miss-vim.html)
+* [2025-02-01, 05:04:04](https://lobste.rs/s/sdnfah/blazing_fast_iot_data_pipeline_for) - [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot)
+* [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
 * [2025-02-01, 03:37:00](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) - [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss)
 * [2025-02-01, 03:30:00](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Shell Walks Away From Major New Jersey Offshore Wind Farm](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
+* [2025-02-01, 03:21:25](https://news.ycombinator.com/item?id=42895331) - [The government information crisis is bigger than you think it is](https://freegovinfo.info/node/14747/)
+* [2025-02-01, 02:36:55](https://news.ycombinator.com/item?id=42895108) - [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
 * [2025-02-01, 02:20:00](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDA Approves Drug To Treat Pain Without Opioid Effects](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-01, 01:58:39](https://lobste.rs/s/xh2r0y/jailbreaking_deepseek_r1_prompt) - [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330)
 * [2025-02-01, 01:40:00](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android 16's Linux Terminal Runs Doom](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -82,16 +91,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-31, 23:44:00](https://news.ycombinator.com/item?id=42893844) - [Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
 * [2025-01-31, 23:40:00](https://tech.slashdot.org/story/25/01/31/2243200/meta-in-talks-to-reincorporate-in-texas-or-another-state-exit-delaware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta In Talks To Reincorporate In Texas or Another State, Exit Delaware](https://tech.slashdot.org/story/25/01/31/2243200/meta-in-talks-to-reincorporate-in-texas-or-another-state-exit-delaware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 23:23:25](https://news.ycombinator.com/item?id=42893627) - [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
-* [2025-01-31, 23:22:55](https://news.ycombinator.com/item?id=42893622) - [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
 * [2025-01-31, 23:04:25](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection) - [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
 * [2025-01-31, 23:02:13](https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file) - [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 23:00:34](https://news.ycombinator.com/item?id=42893393) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 * [2025-01-31, 23:00:00](https://tech.slashdot.org/story/25/01/31/2237225/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Swiss Tax Authority Forced To Buy Bahamas Domain Name After URL Typo](https://tech.slashdot.org/story/25/01/31/2237225/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 22:57:40](https://lobste.rs/s/poutnk/designing_great_watchdog_timers_for) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 * [2025-01-31, 22:57:00](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss) - [Chevron Joins The Race To Generate Power For AI](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss)
-* [2025-01-31, 22:46:10](https://news.ycombinator.com/item?id=42893234) - [Switching to Linux: Reclaim Your Freedom](https://linux-howto.org/article/switching-to-linux)
 * [2025-01-31, 22:21:00](https://hardware.slashdot.org/story/25/01/31/2220211/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Pixel 4a's Ruinous 'Battery Performance' Update Is a Bewildering Mess](https://hardware.slashdot.org/story/25/01/31/2220211/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-31, 21:43:33](https://lobste.rs/s/fhorfj/will_scaling_reasoning_models_like_o3_r1) - [Will Scaling Reasoning Models Like o3 and R1 Unlock Superhuman Reasoning?](https://scaling-reasoning.chrisbarber.co/)
 * [2025-01-31, 21:22:00](https://apple.slashdot.org/story/25/01/31/2011240/apple-scraps-work-on-mac-connected-augmented-reality-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Scraps Work on Mac-Connected Augmented Reality Glasses](https://apple.slashdot.org/story/25/01/31/2011240/apple-scraps-work-on-mac-connected-augmented-reality-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 * [2025-01-31, 21:01:45](https://news.ycombinator.com/item?id=42891937) - [LinuxPDF](https://github.com/ading2210/linuxpdf)
@@ -113,12 +119,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-31, 17:48:22](https://lobste.rs/s/kwp8o8/jujutsu_vcs_introduction_patterns) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-01-31, 17:43:03](https://lobste.rs/s/j0nr83/what_s_oauth2_anyway) - [What's OAuth2 Anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
 * [2025-01-31, 17:20:00](https://tech.slashdot.org/story/25/01/31/1354218/deepseek-outstrips-meta-and-mistral-to-lead-open-source-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek Outstrips Meta and Mistral To Lead Open-Source AI Race](https://tech.slashdot.org/story/25/01/31/1354218/deepseek-outstrips-meta-and-mistral-to-lead-open-source-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a new Linux debugger written from scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 17:01:45](https://lobste.rs/s/wfmynv/how_we_share_secrets_at_fully_remote) - [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
-* [2025-01-31, 16:31:18](https://lobste.rs/s/yq8axa/vghf_library_opens_early_access) - [The VGHF Library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-01-31, 16:26:37](https://news.ycombinator.com/item?id=42889052) - [Large Language Models Think Too Fast to Explore Effectively](https://arxiv.org/abs/2501.18009)
 * [2025-01-31, 15:51:22](https://lobste.rs/s/tn0x0w/user_valid_pseudo_class) - [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
 * [2025-01-31, 14:23:29](https://lobste.rs/s/tez0nf/potential_rust_inspired_simplification) - [Potential Rust-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
@@ -133,7 +137,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
-* [2025-01-31, 02:08:10](https://lobste.rs/s/umnpte/xerox_alto_source_code_2014) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-31, 01:54:09](https://lobste.rs/s/2an1ay/how_jane_street_accidentally_built) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 23:11:00](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss) - [NASA Spacewalkers to Swab the ISS for Microbial Life](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss)
 * [2025-01-30, 20:39:47](https://lobste.rs/s/qyypzo/deepseek_database_leak) - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
@@ -150,10 +153,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-28, 23:17:00](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss) - [Your Hollywood Career: How to Tell When the End Is Nigh](https://soylentnews.org/article.pl?sid=25/01/27/1659214&from=rss)
 * [2025-01-28, 18:31:00](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss) - [The Invalid 68030 Instruction That Accidentally Allowed the Mac Classic II to Successfully Boot Up](https://soylentnews.org/article.pl?sid=25/01/27/1515223&from=rss)
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and Two Hundred Dollar Tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
-* [2025-01-28, 17:21:34](https://news.ycombinator.com/item?id=42855037) - [DIY Projects Search Engine](https://FindingDIY.com/)
-* [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 14:27:03](https://news.ycombinator.com/item?id=42852643) - [A Missing Link Between Concussion and Alzheimer's](https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/)
 * [2025-01-28, 13:45:00](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss) - [China's Second-Largest Foundry Hires Former Intel Executive to Lead Advanced Node Development](https://soylentnews.org/article.pl?sid=25/01/27/0435244&from=rss)
 * [2025-01-28, 09:01:00](https://soylentnews.org/article.pl?sid=25/01/27/0432230&from=rss) - [First-Ever Data Center On The Moon Set To Launch Next Month](https://soylentnews.org/article.pl?sid=25/01/27/0432230&from=rss)
+* [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 * [2025-01-28, 04:14:00](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss) - [The Drunken Plagiarists: Working with Co-pilots](https://soylentnews.org/article.pl?sid=25/01/27/0425254&from=rss)
 * [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
