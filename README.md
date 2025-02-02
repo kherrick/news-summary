@@ -1,60 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology and Engineering
+## Artificial Intelligence and Machine Learning
 
-* [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/) - A personal guide on training AI image models to generate personalized results.
+* [DeepSeek AI Refuses To Answer Questions About Tiananmen Square 'Tank Man' Photo](https://yro.slashdot.org/story/25/02/02/0434206/deepseek-ai-refuses-to-answer-questions-about-tiananmen-square-tank-man-photo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - DeepSeek, an AI platform, refused to address sensitive historical queries, raising concerns about censorship within AI systems.
 
-* [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/) - Acclaimed author Ted Chiang explores the intersection of technology, storytelling, and human values.
+* [OpenAI Tests Its AI's Persuasiveness By Comparing It to Reddit Posts](https://slashdot.org/story/25/02/02/0319217/openai-tests-its-ais-persuasiveness-by-comparing-it-to-reddit-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI evaluated the efficiency of its AI's arguments by analyzing Reddit discussions, offering insights into AI-driven rhetoric.
 
-* [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/) - A detailed look into the internals of a popular microSDXC card.
+* [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/) - A guide for creating AI models trained on personal images to produce AI-generated self-portraits.
 
-* [Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon](https://github.com/trycua/lume) - A tool showcasing lightweight virtualization offerings for Apple Silicon.
+* [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/) - Findings reveal the challenges language models face with complex, multi-step reasoning tasks.
 
-* [Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf) - An academic exploration into exploit generation through programming synthesis.
+## Cybersecurity and Privacy
 
-## Privacy, Cybersecurity, and Ethics
+* [Sensitive DeepSeek Data Was Exposed to the Web, Cybersecurity Firm Says](https://it.slashdot.org/story/25/02/01/0659255/sensitive-deepseek-data-was-exposed-to-the-web-cybersecurity-firm-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports highlight vulnerabilities in DeepSeek's systems, potentially compromising user data.
 
-* [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - A new wave of sophisticated malware is targeting Mac users using Google Ads.
+* [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction) - The CDC demands corrections to research following concerns over accuracy and reliability.
 
-* [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction) - Insight into the implications of retractions within the scientific community.
+* [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - A phishing campaign leveraging fake Google ads ensnares Mac users by distributing malicious software through Homebrew.
 
-* [OpenAI Tests Its AI's Persuasiveness By Comparing It to Reddit Posts](https://slashdot.org/story/25/02/02/0319217/openai-tests-its-ais-persuasiveness-by-comparing-it-to-reddit-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into OpenAI's exploration of AI's ability to influence human opinion.
+## Technology and Innovation
 
-* [Sensitive DeepSeek Data Was Exposed to the Web, Cybersecurity Firm Says](https://it.slashdot.org/story/25/02/01/0659255/sensitive-deepseek-data-was-exposed-to-the-web-cybersecurity-firm-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details on a significant data exposure affecting sensitive analytics.
+* [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/) - Sci-fi author Ted Chiang offers philosophical insights on the limits of technological problem-solving.
 
-## Personal Tools and DIY
+* [The origin and unexpected evolution of the word "mainframe"](https://www.righto.com/2025/02/origin-of-mainframe-term.html) - A historical exploration of how the term 'mainframe' came into existence and its evolving usage.
 
-* [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/) - An essay on how creating personal tools fosters ingenuity.
+* [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc) - A video unpacking principles of clean, purpose-driven approaches to programming language design.
 
-* [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest) - A new tool for musicians to experiment with harmony in programming.
+* [A Story About USB Floppy Drives](https://soylentnews.org/article.pl?sid=25/02/01/1349238&from=rss) - A nostalgic exploration of USB floppy drives and their changing significance in the tech world.
 
-* [Designing a keyboard from scratch](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/) - A passionate journey into custom keyboard design.
+## Environment and Space
 
-## Scientific Discoveries and Explorations
+* [Could Earthquake Sensors Help Detect Falling Space Junk?](https://science.slashdot.org/story/25/02/01/0559217/could-earthquake-sensors-help-detect-falling-space-junk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers suggest repurposing earthquake sensors to track space debris, providing innovative solutions in debris monitoring.
 
-* [Could Earthquake Sensors Help Detect Falling Space Junk?](https://science.slashdot.org/story/25/02/01/0559217/could-earthquake-sensors-help-detect-falling-space-junk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How seismic sensors could play a role in monitoring space debris.
+* [Hubble's Largest Panorama Ever Showcases 200 Million Stars In The Andromeda Galaxy](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss) - The Hubble Telescope captures an unprecedented panorama of Andromeda, detailing over 200 million stars.
 
-* [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - A groundbreaking genetic experiment with wide-reaching implications.
+## Programming and Development
 
-## Innovations in Software and Platforms
+* [For Sale: Binaries Compiled From Hand-Crafted Artisanal Code](https://jasonbrownlee.me/blog/posts/hand-crafted-code/) - A satirical take on 'artisanal' approaches to coding binaries.
 
-* [Waydroid - Android in a Linux container](https://waydro.id/) - A solution for running Android environments within Linux.
+* [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall) - Explores how spaced repetition can bolster long-term memory retention, even for coding concepts.
 
-* [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3) - Modern improvements to a widely used file compression library.
+* [Extending the Coreutils project - Rewriting base tools in Rust](https://uutils.github.io/blog/2025-02-extending/) - Details efforts in rewriting essential Unix tools in Rust for enhanced performance and safety.
 
-* [RLHF Book](https://rlhfbook.com/) - A comprehensive guide on reinforcement learning from human feedback.
+## Health and Science
 
-## Cultural and Linguistic Perspectives
+* [America's FDA Warns About Backdoor Found in Chinese Company's Patient Monitors](https://science.slashdot.org/story/25/02/01/0632248/americas-fda-warns-about-backdoor-found-in-chinese-companys-patient-monitors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FDA raises alarms on security loopholes in imported medical devices.
 
-* [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc) - A talk discussing philosophy-driven programming language development.
-
-* [The origin and unexpected evolution of the word "mainframe"](https://www.righto.com/2025/02/origin-of-mainframe-term.html) - A historical dive into the term "mainframe" and its shifting connotations.
-
-## Economic and Institutional Developments
-
-* [One Blogger Helped Spark NVIDIA's $600B Stock Collapse](https://hardware.slashdot.org/story/25/02/01/2235213/one-blogger-helped-spark-nvidias-600b-stock-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exposé on how a single voice influenced a massive market event.
-
-* [US Blocks Open Source 'Help' From These Countries](https://yro.slashdot.org/story/25/02/01/2356252/us-blocks-open-source-help-from-these-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining restrictions on global open-source contributions.
+* [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - A groundbreaking experiment using CRISPR technology enables same-sex genetic contributions in mammalian reproduction.
 
 ---
 
@@ -81,9 +73,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-02, 15:34:00](https://yro.slashdot.org/story/25/02/02/0434206/deepseek-ai-refuses-to-answer-questions-about-tiananmen-square-tank-man-photo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek AI Refuses To Answer Questions About Tiananmen Square 'Tank Man' Photo](https://yro.slashdot.org/story/25/02/02/0434206/deepseek-ai-refuses-to-answer-questions-about-tiananmen-square-tank-man-photo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
+* [2025-02-02, 13:39:59](https://lobste.rs/s/jhweis/for_sale_binaries_compiled_from_hand) - [For Sale: Binaries Compiled From Hand-Crafted Artisanal Code](https://jasonbrownlee.me/blog/posts/hand-crafted-code/)
+* [2025-02-02, 12:55:00](https://soylentnews.org/article.pl?sid=25/02/01/1416224&from=rss) - [Trump Says Microsoft is in Contention to Buy TikTok](https://soylentnews.org/article.pl?sid=25/02/01/1416224&from=rss)
 * [2025-02-02, 12:34:00](https://tech.slashdot.org/story/25/02/02/0357206/after-copilot-price-hike-for-microsoft-365-its-ending-its-free-vpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After 'Copilot Price Hike' for Microsoft 365, It's Ending Its Free VPN](https://tech.slashdot.org/story/25/02/02/0357206/after-copilot-price-hike-for-microsoft-365-its-ending-its-free-vpn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-02, 12:15:50](https://lobste.rs/s/yhixpo/how_train_ai_image_model_on_yourself) - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
+* [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
 * [2025-02-02, 10:47:11](https://lobste.rs/s/3nmvvr/eat_your_greens_philosophy_for_language) - [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc)
 * [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
@@ -97,12 +94,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 08:13:49](https://news.ycombinator.com/item?id=42907060) - [Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf)
 * [2025-02-02, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss) - [DeepDive into DeepSeek](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss)
-* [2025-02-02, 07:14:43](https://news.ycombinator.com/item?id=42906756) - [Show HN: I built a full mulimodal LLM by merging multiple models into one](https://github.com/JigsawStack/omiai)
 * [2025-02-02, 05:35:16](https://lobste.rs/s/burhgj/you_re_missing_your_near_misses) - [You’re missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-02, 05:34:00](https://slashdot.org/story/25/02/02/0319217/openai-tests-its-ais-persuasiveness-by-comparing-it-to-reddit-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Tests Its AI's Persuasiveness By Comparing It to Reddit Posts ](https://slashdot.org/story/25/02/02/0319217/openai-tests-its-ais-persuasiveness-by-comparing-it-to-reddit-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:13:16](https://lobste.rs/s/xflmye/llms_harmful_technical_innovation) - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
-* [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 04:01:50](https://lobste.rs/s/xjxdr2/tai64_wild_is_sometimes_not_tai) - [TAI64 in the wild is (sometimes) not TAI](https://blog.dave.tf/post/tai64-is-not-tai/)
 * [2025-02-02, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
@@ -139,9 +134,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-01, 13:13:00](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss) - [Hubble's Largest Panorama Ever Showcases 200 Million Stars In The Andromeda Galaxy](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 13:00:00](https://news.slashdot.org/story/25/02/01/0137256/sam-altman-openai-has-been-on-the-wrong-side-of-history-concerning-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman: OpenAI Has Been On the 'Wrong Side of History' Concerning Open Source](https://news.slashdot.org/story/25/02/01/0137256/sam-altman-openai-has-been-on-the-wrong-side-of-history-concerning-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-01, 12:32:42](https://lobste.rs/s/w4dtvy/designing_keyboard_from_scratch) - [Designing a keyboard from scratch](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
 * [2025-02-01, 10:59:56](https://lobste.rs/s/mcj6ic/visualizing_all_books_world_isbn_space) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
-* [2025-02-01, 10:00:00](https://hardware.slashdot.org/story/25/02/01/0129243/the-25-year-success-story-of-serenescreen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The 25-Year Success Story of SereneScreen](https://hardware.slashdot.org/story/25/02/01/0129243/the-25-year-success-story-of-serenescreen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-02-01, 08:22:00](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss) - [FCC Chair Nixes Plan to Boost Broadband Competition in Apartment Buildings](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss)
 * [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
@@ -149,7 +142,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-31, 22:57:00](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss) - [Chevron Joins The Race To Generate Power For AI](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss)
 * [2025-01-31, 18:12:00](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss) - [AI Haters Build Tarpits to Trap and Trick AI Scrapers That Ignore Robots.Txt](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss)
 * [2025-01-31, 13:31:00](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss) - [Tails Linux 6.11 Released: Critical Security Fixes](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss)
-* [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
 * [2025-01-31, 02:04:14](https://news.ycombinator.com/item?id=42884099) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
@@ -157,6 +149,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
 * [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
 * [2025-01-30, 18:22:00](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss) - [Google Agrees to Crack Down on Fake Reviews for UK Businesses](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss)
+* [2025-01-30, 17:09:45](https://news.ycombinator.com/item?id=42879751) - [Researchers combine holograms and AI to create uncrackable optical encryption](https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/)
 * [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area 'Zizians'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
 * [2025-01-30, 13:34:00](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss) - [Baltic Undersea Cable Likely Damaged by External Force, Latvia Says](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss)
