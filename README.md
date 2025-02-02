@@ -1,42 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Life Sciences Discoveries
+## Cybersecurity and Malware
 
-* [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/) ([comments](https://news.ycombinator.com/item?id=42904578))
+* [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - A sophisticated phishing scheme uses fake Google ads to deceive Mac users into downloading malicious software.
 
-## Data Breaches and Security Alerts
+* [America's FDA Warns About Backdoor Found in Chinese Company's Patient Monitors](https://science.slashdot.org/story/25/02/01/0632248/americas-fda-warns-about-backdoor-found-in-chinese-companys-patient-monitors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FDA alerts the public about security vulnerabilities in Chinese medical devices, raising concerns over patient safety.
 
-* [Medical billing firm Medusind discloses breach affecting 360k people](https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/) ([comments](https://news.ycombinator.com/item?id=42904244))
+* [Malicious PDF Links Hidden in Text Message Scam Impersonating US Postal Service](https://it.slashdot.org/story/25/02/01/207203/malicious-pdf-links-hidden-in-text-message-scam-impersonating-us-postal-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A scam using malicious PDFs mimics USPS messages to lure victims into potential data breaches.
 
-* [America's FDA Warns About Backdoor Found in Chinese Company's Patient Monitors](https://science.slashdot.org/story/25/02/01/0632248/americas-fda-warns-about-backdoor-found-in-chinese-companys-patient-monitors?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=42902936))
+## AI and Machine Learning
 
-* [Malicious PDF Links Hidden in Text Message Scam Impersonating US Postal Service](https://it.slashdot.org/story/25/02/01/207203/malicious-pdf-links-hidden-in-text-message-scam-impersonating-us-postal-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/) - A groundbreaking biological discovery introduces a new class of life intertwined with human biology.
+
+* [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/) - Quirks in chatbot software reveal key operational constraints, challenging their continued evolution and efficacy.
+
+* [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - OpenAI unveils a tool that empowers AI to handle extensive computer operations autonomously.
 
 ## Technology and Innovation
 
-* [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/) ([comments](https://news.ycombinator.com/item?id=42904116))
+* [One Blogger Helped Spark NVIDIA's $600B Stock Collapse](https://hardware.slashdot.org/story/25/02/01/2235213/one-blogger-helped-spark-nvidias-600b-stock-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A single blog post reportedly contributed to NVIDIA's massive market value decline.
 
-* [Apple is open sourcing Swift Build](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/) ([comments](https://news.ycombinator.com/item?id=42899703))
+* [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/) - A detailed guide explores the use of AMD technologies to deploy cutting-edge AI reasoning models.
 
-* [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/) ([comments](https://news.ycombinator.com/item?id=42902624))
+## Open Source and Programming
 
-## Social Media and Open Source Developments
+* [Ruby \"Thread Contention\" is simply GVL Queuing | Island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing) - A deep dive into Ruby's thread contention system sheds light on its dependency on the Global VM Lock.
 
-* [US Blocks Open Source 'Help' From These Countries](https://yro.slashdot.org/story/25/02/01/2356252/us-blocks-open-source-help-from-these-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=42903803))
+* [Extending the Coreutils project - Rewriting base tools in Rust](https://uutils.github.io/blog/2025-02-extending/) - The Coreutils project undergoes expansion with Rust at its core to modernize its toolchain.
 
-* [Bluesky Grows to 30 Million Users. Threads Adds 20 Million More Just in January](https://tech.slashdot.org/story/25/02/01/0749206/bluesky-grows-to-30-million-users-threads-adds-20-million-more-just-in-january?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Space and Science Discoveries
 
-## Culture and Writing
+* [Hubble's Largest Panorama Ever Showcases 200 Million Stars In The Andromeda Galaxy](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss) - A breathtaking astronomical panorama reveals unparalleled details of Andromeda's stellar population.
 
-* [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry) ([comments](https://news.ycombinator.com/item?id=42903803))
+* [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/) - Researchers discover preserved collagen, offering a fresh perspective on dinosaur biology.
 
-* [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/) ([comments](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers))
+## Environmental and Infrastructure
 
-## Interesting Historical and Scientific Explorations
+* [California Built the World's Largest Solar Power Tower Plant.  Now It May Close](https://hardware.slashdot.org/story/25/02/01/1831253/california-built-the-worlds-largest-solar-power-tower-plant-now-it-may-close?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Budget constraints and operational challenges threaten the future of California's solar showpiece.
 
-* [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/) ([comments](https://news.ycombinator.com/item?id=42893196))
+* [Shell Walks Away From Major New Jersey Offshore Wind Farm](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shell's withdrawal from a U.S. wind energy project raises questions about the industry's trajectory.
 
-* [The origin and unexpected evolution of the word 'mainframe'](https://www.righto.com/2025/02/origin-of-mainframe-term.html) ([comments](https://news.ycombinator.com/item?id=42901184))
+## Historical and Educational Insights
+
+* [Slashdot Asks:  Do You Remember Your High School's 'Computer Room'?](https://developers.slashdot.org/story/25/02/02/0233216/slashdot-asks-do-you-remember-your-high-schools-computer-room?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A nostalgic discussion unfolds around the role computer labs played in shaping early tech literacy.
+
+* [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html) - Exploring how the term \"mainframe\" evolved over decades to capture a range of technologies and use cases.
 
 ---
 
@@ -63,12 +71,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered an new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
+* [2025-02-02, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss)
+* [2025-02-02, 03:11:56](https://lobste.rs/s/un0fut/freebsd_alongside_windows) - [FreeBSD Alongside Windows](https://vermaden.wordpress.com/2025/02/02/freebsd-alongside-windows/)
+* [2025-02-02, 02:36:00](https://developers.slashdot.org/story/25/02/02/0233216/slashdot-asks-do-you-remember-your-high-schools-computer-room?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot Asks:  Do You Remember Your High School's 'Computer Room'?](https://developers.slashdot.org/story/25/02/02/0233216/slashdot-asks-do-you-remember-your-high-schools-computer-room?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-02, 02:10:34](https://lobste.rs/s/mxouhv/3_tools_for_2025) - [3 Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
+* [2025-02-02, 02:08:16](https://lobste.rs/s/rfcmwu/waydroid_android_linux_container) - [Waydroid - Android in a Linux container](https://waydro.id/)
+* [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
 * [2025-02-02, 00:59:00](https://hardware.slashdot.org/story/25/02/01/2235213/one-blogger-helped-spark-nvidias-600b-stock-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [One Blogger Helped Spark NVIDIA's $600B Stock Collapse](https://hardware.slashdot.org/story/25/02/01/2235213/one-blogger-helped-spark-nvidias-600b-stock-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-02, 00:42:27](https://news.ycombinator.com/item?id=42904244) - [Medical billing firm Medusind discloses breach affecting 360k people](https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/)
 * [2025-02-02, 00:27:05](https://news.ycombinator.com/item?id=42904116) - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
 * [2025-02-01, 23:59:00](https://yro.slashdot.org/story/25/02/01/2356252/us-blocks-open-source-help-from-these-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Blocks Open Source 'Help' From These Countries](https://yro.slashdot.org/story/25/02/01/2356252/us-blocks-open-source-help-from-these-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-01, 23:45:48](https://news.ycombinator.com/item?id=42903803) - [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers (2024)](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 22:42:00](https://soylentnews.org/article.pl?sid=25/02/01/1359255&from=rss) - [Phone Metadata Suddenly Not So ‘Harmless’ When It's the FBI's Data Being Harvested](https://soylentnews.org/article.pl?sid=25/02/01/1359255&from=rss)
 * [2025-02-01, 22:24:54](https://lobste.rs/s/csiw6m/mtg_wiki_is_now_at_mtg_wiki) - [The MTG Wiki is now at mtg.wiki](https://scryfall.com/blog/the-mtg-wiki-is-now-at-mtg-wiki-hosted-by-scryfall-230)
@@ -99,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-01, 15:34:00](https://yro.slashdot.org/story/25/02/01/0431229/police-use-of-ai-facial-recognition-results-in-murder-case-being-tossed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Police Use of AI Facial Recognition Results In Murder Case Being Tossed](https://yro.slashdot.org/story/25/02/01/0431229/police-use-of-ai-facial-recognition-results-in-murder-case-being-tossed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-01, 15:06:18](https://lobste.rs/s/si9lwe/using_serde_quote_syn_proc_macro2) - [Using serde, quote, syn and proc_macro2 to implement the Kafka protocol sans-io in Rust](https://blog.tansu.io/articles/serde-kafka-protocol)
 * [2025-02-01, 14:40:39](https://lobste.rs/s/crxqgn/chatbot_software_begins_face) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
-* [2025-02-01, 13:41:19](https://news.ycombinator.com/item?id=42898201) - [Show HN: We're building a desktop app for browser-based AI agents](https://meha.ai)
 * [2025-02-01, 13:13:00](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss) - [Hubble's Largest Panorama Ever Showcases 200 Million Stars In The Andromeda Galaxy](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 13:00:00](https://news.slashdot.org/story/25/02/01/0137256/sam-altman-openai-has-been-on-the-wrong-side-of-history-concerning-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Altman: OpenAI Has Been On the 'Wrong Side of History' Concerning Open Source](https://news.slashdot.org/story/25/02/01/0137256/sam-altman-openai-has-been-on-the-wrong-side-of-history-concerning-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -117,20 +127,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-01, 03:37:00](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) - [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss)
 * [2025-02-01, 03:30:00](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Shell Walks Away From Major New Jersey Offshore Wind Farm](https://hardware.slashdot.org/story/25/01/31/2343230/shell-walks-away-from-major-new-jersey-offshore-wind-farm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-01, 02:20:00](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDA Approves Drug To Treat Pain Without Opioid Effects](https://science.slashdot.org/story/25/01/31/2356254/fda-approves-drug-to-treat-pain-without-opioid-effects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-01, 01:40:00](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Android 16's Linux Terminal Runs Doom](https://linux.slashdot.org/story/25/01/31/2317212/android-16s-linux-terminal-runs-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-01-31, 23:04:25](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection) - [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
 * [2025-01-31, 23:02:13](https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file) - [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 22:57:00](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss) - [Chevron Joins The Race To Generate Power For AI](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss)
 * [2025-01-31, 22:42:30](https://news.ycombinator.com/item?id=42893196) - [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/)
 * [2025-01-31, 20:23:00](https://lobste.rs/s/hzo4nb/guten_tiny_newspaper_printer) - [Guten: A tiny newspaper printer](https://amanvir.com/guten)
+* [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 * [2025-01-31, 18:12:00](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss) - [AI Haters Build Tarpits to Trap and Trick AI Scrapers That Ignore Robots.Txt](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss)
 * [2025-01-31, 17:48:22](https://lobste.rs/s/kwp8o8/jujutsu_vcs_introduction_patterns) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-01-31, 17:01:45](https://lobste.rs/s/wfmynv/how_we_share_secrets_at_fully_remote) - [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
 * [2025-01-31, 15:51:22](https://lobste.rs/s/tn0x0w/user_valid_pseudo_class) - [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
-* [2025-01-31, 14:23:29](https://lobste.rs/s/tez0nf/potential_rust_inspired_simplification) - [Potential Rust-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
 * [2025-01-31, 13:31:00](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss) - [Tails Linux 6.11 Released: Critical Security Fixes](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss)
-* [2025-01-31, 10:45:48](https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out) - [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
-* [2025-01-31, 09:59:51](https://lobste.rs/s/asyabf/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
 * [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
@@ -138,10 +145,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-30, 23:11:00](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss) - [NASA Spacewalkers to Swab the ISS for Microbial Life](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss)
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
 * [2025-01-30, 18:22:00](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss) - [Google Agrees to Crack Down on Fake Reviews for UK Businesses](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss)
+* [2025-01-30, 18:09:51](https://news.ycombinator.com/item?id=42880392) - [Signature moves: are we losing the ability to write by hand?](https://www.theguardian.com/news/2025/jan/21/signature-moves-are-we-losing-the-ability-to-write-by-hand)
 * [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
 * [2025-01-30, 13:34:00](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss) - [Baltic Undersea Cable Likely Damaged by External Force, Latvia Says](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss)
 * [2025-01-30, 08:29:00](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss)
+* [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
 * [2025-01-30, 03:45:00](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss) - [Complexity Physics Finds Crucial Tipping Points in Chess Games](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss)
 * [2025-01-29, 23:02:00](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss) - [Millions of Subarus Could be Remotely Unlocked, Tracked Due to Security Flaws](https://soylentnews.org/article.pl?sid=25/01/28/0319228&from=rss)
 * [2025-01-29, 18:17:00](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss) - [Linux is the Name That Shall Not be Spoken at Facebook](https://soylentnews.org/article.pl?sid=25/01/28/0248223&from=rss)
