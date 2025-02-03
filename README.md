@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovation and Industry Developments
+## AI and Technology Developments
 
-* [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution) - A compelling overview of the critical need for a transformative shift in shipbuilding practices for national defense and industry innovation. ([Comments](https://news.ycombinator.com/item?id=42915527))
+* [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/) ([comments](https://news.ycombinator.com/item?id=42916464))
 
-* [Will Cryptomining Facilities Change Into AI Data Centers?](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines the potential repurposing of cryptomining infrastructure for AI-focused operations. ([Comments](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Anthropic: "Applicants should not use AI assistants"](https://simonwillison.net/2025/Feb/2/anthropic/) ([comments](https://news.ycombinator.com/item?id=42915905))
 
-* [Google Stops Malicious Apps With 'AI-Powered Threat Detection' and Continuous Scanning](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details Google’s advancements in using AI for robust app security. ([Comments](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin) ([comments](https://news.ycombinator.com/item?id=42914431))
 
-## Historical Explorations and Urban Innovation
+* [Google Stops Malicious Apps With 'AI-Powered Threat Detection' and Continuous Scanning ](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--) - A fascinating resource showcasing detailed urban documentation of 19th-century London. ([Comments](https://news.ycombinator.com/item?id=42915231))
+* [Will Cryptomining Facilities Change Into AI Data Centers?](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality) - Highlights an innovative method of bio-monitoring water supplies with live mussels. ([Comments](https://news.ycombinator.com/item?id=42915113))
+* [How I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/) ([comments](https://lobste.rs/s/f03vpe/how_i_use_ai_early_2025))
 
-## Programming and Engineering Insights
+* [Introducing deep research](https://openai.com/index/introducing-deep-research/) ([comments](https://news.ycombinator.com/item?id=42913251))
 
-* [Python free-threading guide](https://py-free-threading.github.io/) - An in-depth exploration of free-threading concepts in Python development. ([Comments](https://lobste.rs/s/mvtj4c/python_free_threading_guide))
+## Open Source Tools and Programming
 
-* [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl) - A practical guide for building GUIs with Common Lisp and GTK. ([Comments](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with))
+* [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl) ([comments](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with))
 
-* [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin) - Showcasing the real-time capabilities of local visual speech recognition. ([Comments](https://news.ycombinator.com/item?id=42914431))
+* [Python free-threading guide](https://py-free-threading.github.io/) ([comments](https://lobste.rs/s/mvtj4c/python_free_threading_guide))
 
-## Artificial Intelligence
+* [A caveat with statically linked language runtimes](https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/) ([comments](https://lobste.rs/s/8pbipx/caveat_with_statically_linked_language))
 
-* [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss) - A creative countermeasure against unauthorized content scraping by AI tools. ([Comments](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss))
+* [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html) ([comments](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories))
 
-* [How I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/) - A reflective narrative on leveraging AI for personal and professional productivity. ([Comments](https://lobste.rs/s/f03vpe/how_i_use_ai_early_2025))
+## Historical and Innovative Highlights
 
-## Innovation in Tools and Frameworks
+* [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--) ([comments](https://news.ycombinator.com/item?id=42915231))
 
-* [Tote:Rewriting Playground](https://100r.co/site/tote.html) - An experimental platform for text rewriting and creative exploration. ([Comments](https://lobste.rs/s/w9njbq/tote_rewriting_playground))
+* [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality) ([comments](https://news.ycombinator.com/item?id=42915113))
 
-* [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/) - A thoughtful account of creative self-reliance through tool development. ([Comments](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own))
+* [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss))
+
+## Upcoming Industry Shifts
+
+* [Boeing Acquires Spirit AeroSystems, While Boeing's 'Starliner' Unit Gets a New VP](https://tech.slashdot.org/story/25/02/03/0148221/boeing-acquires-spirit-aerosystems-while-boeings-starliner-unit-gets-a-new-vp?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/03/0148221/boeing-acquires-spirit-aerosystems-while-boeings-starliner-unit-gets-a-new-vp?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution) ([comments](https://news.ycombinator.com/item?id=42915527))
 
 ---
 
@@ -59,34 +65,38 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-03, 09:48:09](https://lobste.rs/s/14jyfc/using_local_translation_models_on) - [Using local translation models on Android](https://blog.davidv.dev/posts/mobile-translator/)
+* [2025-02-03, 09:33:18](https://lobste.rs/s/fc8vhe/freedoms_for_who_revisited_briefly) - [freedoms-for-who, revisited briefly](https://lu.is/2025/02/freedoms-for-who-revisited-briefly/)
+* [2025-02-03, 09:25:12](https://news.ycombinator.com/item?id=42916464) - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
+* [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
+* [2025-02-03, 08:34:00](https://news.slashdot.org/story/25/02/02/2257234/ubuntus-dev-discussions-will-move-from-irc-to-matrix?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ubuntu's Dev Discussions Will Move From IRC to Matrix](https://news.slashdot.org/story/25/02/02/2257234/ubuntus-dev-discussions-will-move-from-irc-to-matrix?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-03, 07:51:00](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) - [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss)
+* [2025-02-03, 07:46:37](https://news.ycombinator.com/item?id=42915905) - [Anthropic: \"Applicants should not use AI assistants\"](https://simonwillison.net/2025/Feb/2/anthropic/)
+* [2025-02-03, 07:00:25](https://lobste.rs/s/8pbipx/caveat_with_statically_linked_language) - [A caveat with statically linked language runtimes](https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-03, 06:22:27](https://lobste.rs/s/vploy1/incident_sev_scales_are_waste_time) - [Incident SEV scales are a waste of time](https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/)
 * [2025-02-03, 06:19:00](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Cryptomining Facilities Change Into AI Data Centers?](https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
-* [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
+* [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 * [2025-02-03, 04:16:57](https://lobste.rs/s/mvtj4c/python_free_threading_guide) - [Python free-threading guide](https://py-free-threading.github.io/)
 * [2025-02-03, 04:03:00](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Stops Malicious Apps With 'AI-Powered Threat Detection' and Continuous Scanning ](https://it.slashdot.org/story/25/02/03/040259/google-stops-malicious-apps-with-ai-powered-threat-detection-and-continuous-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 03:07:00](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss) - [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss)
 * [2025-02-03, 02:59:00](https://news.ycombinator.com/item?id=42914431) - [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin)
 * [2025-02-03, 02:51:18](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with) - [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 * [2025-02-03, 02:34:59](https://lobste.rs/s/kns9xb/android_binder) - [Android Binder](https://elinux.org/Android_Binder)
-* [2025-02-03, 02:23:49](https://lobste.rs/s/w9njbq/tote_rewriting_playground) - [Tote:Rewriting Playground](https://100r.co/site/tote.html)
 * [2025-02-03, 02:19:02](https://lobste.rs/s/f03vpe/how_i_use_ai_early_2025) - [How I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
-* [2025-02-03, 01:54:51](https://lobste.rs/s/oznbyx/designing_your_data_bread_butter_apl) - [Designing your Data: The Bread & Butter of APL Performance by Aaron Hsu](https://www.youtube.com/watch?v=ozlxUmdYsHA)
 * [2025-02-03, 01:50:00](https://tech.slashdot.org/story/25/02/03/0148221/boeing-acquires-spirit-aerosystems-while-boeings-starliner-unit-gets-a-new-vp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Boeing Acquires Spirit AeroSystems, While Boeing's 'Starliner' Unit Gets a New VP](https://tech.slashdot.org/story/25/02/03/0148221/boeing-acquires-spirit-aerosystems-while-boeings-starliner-unit-gets-a-new-vp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 01:18:07](https://news.ycombinator.com/item?id=42913831) - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
-* [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+* [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web (2024)](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 * [2025-02-02, 23:45:16](https://lobste.rs/s/0enkqp/hollywood_split_computer_console_into) - [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
 * [2025-02-02, 23:44:00](https://slashdot.org/story/25/02/02/2342245/openai-holds-surprise-livestream-to-announce-multi-step-deep-research-capability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Holds Surprise Livestream to Announce Multi-Step 'Deep Research' Capability](https://slashdot.org/story/25/02/02/2342245/openai-holds-surprise-livestream-to-announce-multi-step-deep-research-capability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-02, 23:17:38](https://news.ycombinator.com/item?id=42912911) - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 * [2025-02-02, 23:13:34](https://lobste.rs/s/gtpau6/it_utilities) - [it - utilities](https://github.com/theHamdiz/it)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss) - [Infosec Was Trump's Lowest Priority, But He'll Change Bigly](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss)
 * [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a second law of thermodynamics in isolated quantum systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 21:58:00](https://news.slashdot.org/story/25/02/02/2156241/mozilla-adapts-fakespot-into-an-ai-detecting-firefox-add-on?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Adapts 'Fakespot' Into an AI-Detecting Firefox Add-on](https://news.slashdot.org/story/25/02/02/2156241/mozilla-adapts-fakespot-into-an-ai-detecting-firefox-add-on?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-02, 21:42:02](https://news.ycombinator.com/item?id=42912133) - [Don't make fun of renowned author Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2025-02-02, 21:07:48](https://news.ycombinator.com/item?id=42911842) - [Costa Rican supermarket wins trademark battle against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
 * [2025-02-02, 20:34:00](https://it.slashdot.org/story/25/02/02/1948240/should-we-sing-the-praises-of-agile-or-bury-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should We Sing the Praises of Agile, or Bury It?](https://it.slashdot.org/story/25/02/02/1948240/should-we-sing-the-praises-of-agile-or-bury-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-02, 20:29:11](https://lobste.rs/s/gisler/everyone_knows_your_location_tracking) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
@@ -106,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-02, 13:39:59](https://lobste.rs/s/jhweis/for_sale_binaries_compiled_from_hand) - [For Sale: Binaries Compiled From Hand-Crafted Artisanal Code](https://jasonbrownlee.me/blog/posts/hand-crafted-code/)
 * [2025-02-02, 12:55:00](https://soylentnews.org/article.pl?sid=25/02/01/1416224&from=rss) - [Trump Says Microsoft is in Contention to Buy TikTok](https://soylentnews.org/article.pl?sid=25/02/01/1416224&from=rss)
 * [2025-02-02, 12:34:00](https://tech.slashdot.org/story/25/02/02/0357206/after-copilot-price-hike-for-microsoft-365-its-ending-its-free-vpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After 'Copilot Price Hike' for Microsoft 365, It's Ending Its Free VPN](https://tech.slashdot.org/story/25/02/02/0357206/after-copilot-price-hike-for-microsoft-365-its-ending-its-free-vpn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-02, 12:15:50](https://lobste.rs/s/yhixpo/how_train_ai_image_model_on_yourself) - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 10:47:11](https://lobste.rs/s/3nmvvr/eat_your_greens_philosophy_for_language) - [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc)
 * [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
@@ -122,9 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-02, 04:01:50](https://lobste.rs/s/xjxdr2/tai64_wild_is_sometimes_not_tai) - [TAI64 in the wild is (sometimes) not TAI](https://blog.dave.tf/post/tai64-is-not-tai/)
 * [2025-02-02, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss)
 * [2025-02-02, 03:11:56](https://lobste.rs/s/un0fut/freebsd_alongside_windows) - [FreeBSD Alongside Windows](https://vermaden.wordpress.com/2025/02/02/freebsd-alongside-windows/)
-* [2025-02-02, 02:36:00](https://developers.slashdot.org/story/25/02/02/0233216/slashdot-asks-do-you-remember-your-high-schools-computer-room?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot Asks:  Do You Remember Your High School's 'Computer Room'?](https://developers.slashdot.org/story/25/02/02/0233216/slashdot-asks-do-you-remember-your-high-schools-computer-room?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-02, 02:10:34](https://lobste.rs/s/mxouhv/3_tools_for_2025) - [3 Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
-* [2025-02-02, 02:08:16](https://lobste.rs/s/rfcmwu/waydroid_android_linux_container) - [Waydroid - Android in a Linux container](https://waydro.id/)
 * [2025-02-01, 22:42:00](https://soylentnews.org/article.pl?sid=25/02/01/1359255&from=rss) - [Phone Metadata Suddenly Not So ‘Harmless’ When It's the FBI's Data Being Harvested](https://soylentnews.org/article.pl?sid=25/02/01/1359255&from=rss)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
@@ -132,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-01, 13:13:00](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss) - [Hubble's Largest Panorama Ever Showcases 200 Million Stars In The Andromeda Galaxy](https://soylentnews.org/article.pl?sid=25/02/01/1314204&from=rss)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 08:22:00](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss) - [FCC Chair Nixes Plan to Boost Broadband Competition in Apartment Buildings](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss)
-* [2025-02-01, 07:11:56](https://news.ycombinator.com/item?id=42896458) - [Ask HN: Does anyone still use code snippets?](https://news.ycombinator.com/item?id=42896458)
 * [2025-02-01, 03:37:00](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) - [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss)
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 22:57:00](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss) - [Chevron Joins The Race To Generate Power For AI](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss)
@@ -143,10 +149,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
 * [2025-01-30, 23:11:00](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss) - [NASA Spacewalkers to Swab the ISS for Microbial Life](https://soylentnews.org/article.pl?sid=25/01/29/1222207&from=rss)
+* [2025-01-30, 23:06:42](https://news.ycombinator.com/item?id=42883139) - [Ask HN: Promoted, but Career Path Derailed](https://news.ycombinator.com/item?id=42883139)
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 18:22:00](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss) - [Google Agrees to Crack Down on Fake Reviews for UK Businesses](https://soylentnews.org/article.pl?sid=25/01/29/1217252&from=rss)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
+* [2025-01-30, 14:19:12](https://news.ycombinator.com/item?id=42877886) - [Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 * [2025-01-30, 13:34:00](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss) - [Baltic Undersea Cable Likely Damaged by External Force, Latvia Says](https://soylentnews.org/article.pl?sid=25/01/29/124257&from=rss)
 * [2025-01-30, 08:29:00](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss) - [Mice with Two Dads have been Created Using CRISPR](https://soylentnews.org/article.pl?sid=25/01/29/0040232&from=rss)
-* [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake thinking and real thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
 * [2025-01-30, 03:45:00](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss) - [Complexity Physics Finds Crucial Tipping Points in Chess Games](https://soylentnews.org/article.pl?sid=25/01/28/2222211&from=rss)
