@@ -1,52 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Developments and Security
+## Breakthroughs in Artificial Intelligence and Physics
 
-* [Bonobos Can Tell When They Know Something You Don't](https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [CERN's Mark Thomson: AI To Revolutionize Fundamental Physics](https://science.slashdot.org/story/25/02/04/0015227/cerns-mark-thomson-ai-to-revolutionize-fundamental-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A discussion on how AI breakthroughs could transform fundamental physics research at CERN. [Comments](https://science.slashdot.org/story/25/02/04/0015227/cerns-mark-thomson-ai-to-revolutionize-fundamental-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [TSA's Airport Facial-Recognition Tech Faces Audit Probe](https://yro.slashdot.org/story/25/02/03/2353253/tsas-airport-facial-recognition-tech-faces-audit-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Anthropic Makes 'Jailbreak' Advance To Stop AI Models Producing Harmful Results](https://slashdot.org/story/25/02/03/1810255/anthropic-makes-jailbreak-advance-to-stop-ai-models-producing-harmful-results?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Cloudflare Rolls Out Digital Tracker To Combat Fake Images](https://it.slashdot.org/story/25/02/03/1723211/cloudflare-rolls-out-digital-tracker-to-combat-fake-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How Does DeepSeek R1 Really Fare Against OpenAI's Best Reasoning Models?](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss) - A comparison of DeepSeek R1 with OpenAI's top reasoning systems. [Comments](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss).
 
 ## Legislation and Governance
 
-* [Senator Hawley Proposes Jail Time For People Who Download DeepSeek](https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Senator Hawley Proposes Jail Time For People Who Download DeepSeek](https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Proposed legislation in the US Senate targets those who use DeepSeek. [Comments](https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
+* [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf) - Official release of previously classified documents pertaining to JFK and MLK assassinations. [Comments](https://news.ycombinator.com/item?id=42925712).
 
-* [NetChoice Sues To Block Maryland's Kids Code, Saying It Violates the First Amendment](https://yro.slashdot.org/story/25/02/03/2028246/netchoice-sues-to-block-marylands-kids-code-saying-it-violates-the-first-amendment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Animal Behavior and Scientific Studies
 
-* [Trump Orders Creation of US Sovereign Wealth Fund, Says It Could Buy TikTok](https://news.slashdot.org/story/25/02/03/1855255/trump-orders-creation-of-us-sovereign-wealth-fund-says-it-could-buy-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Bonobos Can Tell When They Know Something You Don't](https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A study reveals insights into bonobos' awareness of their knowledge compared to others. [Comments](https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Science and Human Impact
+## Historical and Cultural Projects
 
-* [Levels of Microplastics in Human Brains May Be Rapidly Rising, Study Suggests](https://science.slashdot.org/story/25/02/03/1642204/levels-of-microplastics-in-human-brains-may-be-rapidly-rising-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/) - A dedicated archive for preserving and sharing video game history is now accessible. [Comments](https://news.ycombinator.com/item?id=42926076).
 
-* [Why Even Physicists Still Don't Understand Quantum Theory 100 Years On](https://science.slashdot.org/story/25/02/03/1917248/why-even-physicists-still-dont-understand-quantum-theory-100-years-on?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment) - Following its much-publicized adoption, El Salvador reverts its stance on Bitcoin. [Comments](https://news.ycombinator.com/item?id=42925210).
 
-* [The Growing Antibiotic Resistance Problem Requires Better Policy](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss)
+## Technological Developments
 
-## Programming and Development
+* [Microsoft Paint Gets a Copilot Button For Gen AI Features](https://tech.slashdot.org/story/25/02/03/2037228/microsoft-paint-gets-a-copilot-button-for-gen-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft adds generative AI functions to its beloved Paint software. [Comments](https://tech.slashdot.org/story/25/02/03/2037228/microsoft-paint-gets-a-copilot-button-for-gen-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
-
-* [Build your own SQLite in Rust, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
-
-* [Follow up on emails with mu4e and org capture](https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html)
-
-* [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
-
-## Privacy and Digital Rights
-
-* [New Bill Aims To Block Foreign Pirate Sites in the US](https://news.slashdot.org/story/25/02/03/1549204/new-bill-aims-to-block-foreign-pirate-sites-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
-
-* [DeepDive into DeepSeek](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss)
-
-* [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss)
+* [OpenAI's New Trademark Application Hints at Humanoid Robots, Smart Jewelry, and More](https://hardware.slashdot.org/story/25/02/03/160244/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's latest trademark suggests diversified ambitions in AI hardware. [Comments](https://hardware.slashdot.org/story/25/02/03/160244/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
 ---
 
@@ -73,7 +53,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-04, 03:30:00](https://science.slashdot.org/story/25/02/04/0015227/cerns-mark-thomson-ai-to-revolutionize-fundamental-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [CERN's Mark Thomson: AI To Revolutionize Fundamental Physics](https://science.slashdot.org/story/25/02/04/0015227/cerns-mark-thomson-ai-to-revolutionize-fundamental-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-04, 02:56:00](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss) - [How Does DeepSeek R1 Really Fare Against OpenAI's Best Reasoning Models?](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss)
+* [2025-02-04, 02:47:49](https://news.ycombinator.com/item?id=42927082) - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
 * [2025-02-04, 01:30:00](https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bonobos Can Tell When They Know Something You Don't](https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-04, 00:50:00](https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Senator Hawley Proposes Jail Time For People Who Download DeepSeek](https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-04, 00:42:20](https://news.ycombinator.com/item?id=42925712) - [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 * [2025-02-04, 00:10:00](https://yro.slashdot.org/story/25/02/03/2353253/tsas-airport-facial-recognition-tech-faces-audit-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TSA's Airport Facial-Recognition Tech Faces Audit Probe](https://yro.slashdot.org/story/25/02/03/2353253/tsas-airport-facial-recognition-tech-faces-audit-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -98,11 +82,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-03, 19:08:06](https://lobste.rs/s/ggpzzz/so_you_want_remove_gvl) - [So You Want To Remove The GVL?](https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html)
 * [2025-02-03, 18:55:00](https://news.slashdot.org/story/25/02/03/1855255/trump-orders-creation-of-us-sovereign-wealth-fund-says-it-could-buy-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Orders Creation of US Sovereign Wealth Fund, Says It Could Buy TikTok](https://news.slashdot.org/story/25/02/03/1855255/trump-orders-creation-of-us-sovereign-wealth-fund-says-it-could-buy-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 18:23:46](https://lobste.rs/s/z2ch3o/follow_up_on_emails_with_mu4e_org_capture) - [Follow up on emails with mu4e and org capture](https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html)
+* [2025-02-03, 18:17:01](https://lobste.rs/s/hgwiph/lisa_production_quality_expert_system) - [Lisa: Production-quality expert-system shell](https://github.com/youngde811/Lisa)
 * [2025-02-03, 18:10:00](https://slashdot.org/story/25/02/03/1810255/anthropic-makes-jailbreak-advance-to-stop-ai-models-producing-harmful-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Makes 'Jailbreak' Advance To Stop AI Models Producing Harmful Results](https://slashdot.org/story/25/02/03/1810255/anthropic-makes-jailbreak-advance-to-stop-ai-models-producing-harmful-results?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 * [2025-02-03, 17:52:14](https://lobste.rs/s/dx533x/pangui_cross_platform_ui_library_with) - [PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power](https://pangui.io/)
 * [2025-02-03, 17:48:06](https://lobste.rs/s/drf83t/retaking_web_browser_one_small_step_at) - [Retaking The Web Browser, One Small Step At A Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
-* [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:30:00](https://it.slashdot.org/story/25/02/03/1723211/cloudflare-rolls-out-digital-tracker-to-combat-fake-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Rolls Out Digital Tracker To Combat Fake Images](https://it.slashdot.org/story/25/02/03/1723211/cloudflare-rolls-out-digital-tracker-to-combat-fake-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 17:25:00](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss) - [The Growing Antibiotic Resistance Problem Requires Better Policy](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
@@ -116,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
 * [2025-02-03, 16:00:42](https://news.ycombinator.com/item?id=42919500) - [Ask HN: Who wants to be hired? (February 2025)](https://news.ycombinator.com/item?id=42919500)
 * [2025-02-03, 15:32:01](https://lobste.rs/s/nfm3gu/what_s_next_for_flathub_build) - [What's next for Flathub build infrastructure](https://docs.flathub.org/blog/flathub-build-infrastructure-revamp)
-* [2025-02-03, 15:31:00](https://news.slashdot.org/story/25/02/03/1549204/new-bill-aims-to-block-foreign-pirate-sites-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Bill Aims To Block Foreign Pirate Sites in the US](https://news.slashdot.org/story/25/02/03/1549204/new-bill-aims-to-block-foreign-pirate-sites-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-03, 15:09:55](https://news.ycombinator.com/item?id=42918902) - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
 * [2025-02-03, 15:08:59](https://lobste.rs/s/4vgdml/pinning_down_future_is_not_send_errors) - [Pinning Down \"Future Is Not Send\" Errors](https://emschwartz.me/pinning-down-future-is-not-send-errors/)
 * [2025-02-03, 15:03:36](https://news.ycombinator.com/item?id=42918846) - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
@@ -134,6 +117,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-03, 10:22:40](https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing) - [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
 * [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
 * [2025-02-03, 07:51:00](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) - [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss)
+* [2025-02-03, 06:31:39](https://news.ycombinator.com/item?id=42915550) - [Integrated magneto-optics with ultra-high endurance for photonic inmem computing](https://www.nature.com/articles/s41566-024-01549-1)
 * [2025-02-03, 06:22:27](https://lobste.rs/s/vploy1/incident_sev_scales_are_waste_time) - [Incident SEV scales are a waste of time](https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/)
 * [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
 * [2025-02-03, 04:16:57](https://lobste.rs/s/mvtj4c/python_free_threading_guide) - [Python free-threading guide](https://py-free-threading.github.io/)
@@ -141,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-03, 02:51:18](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with) - [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 * [2025-02-02, 23:45:16](https://lobste.rs/s/0enkqp/hollywood_split_computer_console_into) - [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
 * [2025-02-02, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss) - [Infosec Was Trump's Lowest Priority, But He'll Change Bigly](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss)
-* [2025-02-02, 20:29:11](https://lobste.rs/s/gisler/everyone_knows_your_location_tracking) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-02-02, 17:38:00](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss) - [Maker Resurrects Toshiba T1000 With a Raspberry Pi 4 and a Slew of Upgrades](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss)
 * [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
@@ -155,11 +138,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-01, 08:22:00](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss) - [FCC Chair Nixes Plan to Boost Broadband Competition in Apartment Buildings](https://soylentnews.org/article.pl?sid=25/01/31/1358254&from=rss)
 * [2025-02-01, 03:37:00](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss) - [Revival of the Pebble Smartwatch](https://soylentnews.org/article.pl?sid=25/01/30/227223&from=rss)
 * [2025-01-31, 22:57:00](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss) - [Chevron Joins The Race To Generate Power For AI](https://soylentnews.org/article.pl?sid=25/01/30/2221238&from=rss)
-* [2025-01-31, 20:54:31](https://news.ycombinator.com/item?id=42891848) - [Feluda – A CLI tool to detect restrictive licenses in dependencies](https://crates.io/crates/feluda)
+* [2025-01-31, 18:47:13](https://news.ycombinator.com/item?id=42890383) - [ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv](https://github.com/google-research/arxiv-latex-cleaner)
 * [2025-01-31, 18:12:00](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss) - [AI Haters Build Tarpits to Trap and Trick AI Scrapers That Ignore Robots.Txt](https://soylentnews.org/article.pl?sid=25/01/30/2217217&from=rss)
 * [2025-01-31, 13:31:00](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss) - [Tails Linux 6.11 Released: Critical Security Fixes](https://soylentnews.org/article.pl?sid=25/01/31/0918230&from=rss)
-* [2025-01-31, 12:34:41](https://news.ycombinator.com/item?id=42887037) - [Is there a benefit to scratching that itch? Yes and no, says new study](https://newatlas.com/health-wellbeing/scratching-itch-benefit/)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
 * [2025-01-31, 08:42:00](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss) - [Humanity’s Last Exam, a Groundbreaking New Benchmark](https://soylentnews.org/article.pl?sid=25/01/30/166219&from=rss)
 * [2025-01-31, 03:55:00](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss) - [OpenAI Launches Operator, an AI Agent That Can Operate Your Computer](https://soylentnews.org/article.pl?sid=25/01/30/1358218&from=rss)
-* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
