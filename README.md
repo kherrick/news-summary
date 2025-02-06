@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technology and Software Developments
 
-* [Let's Encrypt Is Ending Expiration Notice Emails](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Let's Encrypt will no longer send expiration notices, a major change impacting certificate renewal workflows. [comments](https://news.ycombinator.com/item?id=42958656)
+* [How to Influence Query Planning in Postgresql](https://chriskiehl.com/article/query-plan-management) - Learn techniques for optimizing query plans in PostgreSQL by leveraging various customizable parameters. [Comments](https://lobste.rs/s/j9atea/how_influence_query_planning_postgresql).
 
-* [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - Innovative smart glasses aim to improve vision for those with macular degeneration. [comments](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone)
+* [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0) - The OpenWrt team has announced its first stable release for version 24.10. [Comments](https://news.ycombinator.com/item?id=42958202).
 
-* [Google Says Commercial Quantum Computing Applications Arriving Within 5 Years](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Major advancements in quantum computing could transform industries within half a decade. [comments](https://news.ycombinator.com/item?id=42952584)
+* [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/) - Improve your fuzz testing strategies using AFL++. [Comments](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with).
 
-## Health and Science
+* [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/) - Google announces the availability of Gemini 2.0, a new model for advanced AI applications. [Comments](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone).
 
-* [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/) - New investigations begin into a mysterious neurological illness in Canada. [comments](https://news.ycombinator.com/item?id=42958218)
+* [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer) - Explore this Java implementation for creating efficient data buffers. [Comments](https://lobste.rs/s/6cb3tb/implementation_ringbuffer_java_with).
 
-* [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/) - Alarming research reveals significant microplastic contamination in the human brain. [comments](https://news.ycombinator.com/item?id=42957726)
+## Security and Privacy
 
-## Software and Development
+* [First OCR Spyware Breaches Both Apple and Google App Stores To Steal Crypto Wallet Phrases](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A newly discovered spyware exploits vulnerabilities in app stores to target cryptocurrency users. [Comments](https://news.ycombinator.com/item?id=42952605).
 
-* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) - Andrej Karpathy explores reinforcement learning with the game Pong. [comments](https://news.ycombinator.com/item?id=42958012)
+* [Researchers Link DeepSeek To Chinese Telecom Banned In US](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research reveals connections between DeepSeek and Chinese telecom entities. [Comments](https://news.ycombinator.com/item?id=42955613).
 
-* [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for) - An argument favoring the 6502 processor as an entry point for assembly coding. [comments](https://news.ycombinator.com/item?id=42957823)
+* [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence) - A malicious package within Go Modules underscores the challenges of securing dependency chains. [Comments](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package).
 
-* [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/) - Advanced fuzz-testing techniques to improve software reliability. [comments](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with)
+## Artificial Intelligence and Machine Learning
 
-## Industry and Business
+* [The Evolving Landscape of LLM Evaluation](https://www.ruder.io/the-evolving-landscape-of-llm-evaluation/) - This piece analyzes advancements and methodologies in evaluating large language models. [Comments](https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation).
 
-* [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The streaming giant faces significant subscriber losses as competition intensifies. [comments](https://news.ycombinator.com/item?id=42958656)
+* [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Andrej Karpathy provides in-depth insights on how large language models like ChatGPT function. [Comments](https://news.ycombinator.com/item?id=42952960).
 
-* [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMD's datacenter success marks a milestone in its rivalry with Intel. [comments](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it)
+## Unconventional and Creative Projects
 
-## Cybersecurity
+* [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/) - Using storytelling to teach computer programming. [Comments](https://news.ycombinator.com/item?id=42959626).
 
-* [First OCR Spyware Breaches Both Apple and Google App Stores To Steal Crypto Wallet Phrases](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical spyware breach poses threats to crypto wallets, impacting app store ecosystems. [comments](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
+* [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/) - An innovative approach to creating animations using code. [Comments](https://news.ycombinator.com/item?id=42958696).
 
-* [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes) - Insights on running ArchiveTeam's preservation tools within Kubernetes environments. [comments](https://news.ycombinator.com/item?id=42952605)
+* [A hexagonal-tiled cartogram for U.S. counties](https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties) - A new and visually engaging way to represent U.S. county data. [Comments](https://news.ycombinator.com/item?id=42943271).
+
+## Notable Industry and Market Trends
+
+* [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMD achieves a historic milestone in the datacenter market. [Comments](https://news.ycombinator.com/item?id=42952584).
+
+* [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Disney+ sees notable subscriber losses during the last quarter of 2024. [Comments](https://news.ycombinator.com/item?id=42958218).
 
 ---
 
@@ -59,23 +65,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-06, 06:54:45](https://lobste.rs/s/j9atea/how_influence_query_planning_postgresql) - [How to Influence Query Planning in Postgresql](https://chriskiehl.com/article/query-plan-management)
+* [2025-02-06, 06:23:49](https://news.ycombinator.com/item?id=42959626) - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
+* [2025-02-06, 05:13:01](https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation) - [The Evolving Landscape of LLM Evaluation](https://www.ruder.io/the-evolving-landscape-of-llm-evaluation/)
+* [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 03:30:00](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Let's Encrypt Is Ending Expiration Notice Emails](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 * [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
+* [2025-02-06, 02:17:47](https://news.ycombinator.com/item?id=42958202) - [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
 * [2025-02-06, 02:10:00](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 01:52:13](https://news.ycombinator.com/item?id=42958012) - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [2025-02-06, 01:52:13](https://news.ycombinator.com/item?id=42958012) - [Deep Reinforcement Learning: Pong from Pixels (2016)](http://karpathy.github.io/2016/05/31/rl/)
 * [2025-02-06, 01:30:00](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle Starts Laying Mines In JavaScript Trademark Battle](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
+* [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [I believe 6502 instruction set is a good first assembly language](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
 * [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
 * [2025-02-06, 00:50:00](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-06, 00:02:00](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Link DeepSeek To Chinese Telecom Banned In US](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 23:37:00](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Says Commercial Quantum Computing Applications Arriving Within 5 Years](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 22:40:00](https://mobile.slashdot.org/story/25/02/05/205231/mobile-ban-in-schools-not-improving-grades-or-behavior-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mobile Ban In Schools Not Improving Grades or Behavior, Study Suggests](https://mobile.slashdot.org/story/25/02/05/205231/mobile-ban-in-schools-not-improving-grades-or-behavior-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 22:02:00](https://mobile.slashdot.org/story/25/02/05/200253/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Robocallers Posing As FCC Staff Blocked After Robocalling Real FCC Staff](https://mobile.slashdot.org/story/25/02/05/200253/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-05, 21:54:34](https://lobste.rs/s/p1xtcw/counter_strike_analytics_with_bevy_react) - [Counter-Strike analytics with Bevy and React](https://youtu.be/6b3qTeIl2Ak)
 * [2025-02-05, 21:42:20](https://news.ycombinator.com/item?id=42955613) - [It's unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 * [2025-02-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss) - [Giant Study Questions Link Between Autism and Maternal Health](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss)
 * [2025-02-05, 21:23:09](https://news.ycombinator.com/item?id=42955356) - [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
@@ -101,7 +109,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-05, 17:20:00](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Granny' Driving Scammers Up the Wall](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss) - [Everyone Knows Your Location: Tracking Myself Down Through in-App Ads](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
-* [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
+* [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
 * [2025-02-05, 15:38:09](https://lobste.rs/s/b6vlan/prediction_games) - [Prediction Games](https://www.argmin.net/p/prediction-games)
@@ -111,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-05, 13:15:00](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss) - [Soylent Update - February 2025](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 12:00:00](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss) - [Microsoft Defender's VPN Feature Will be Killed Off at the End of February](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss)
-* [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
@@ -137,12 +144,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 22:13:00](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss) - [Bug That Kills PC's Audio is Seriously Widespread Affecting Multiple Windows Versions](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss)
 * [2025-02-03, 17:25:00](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss) - [The Growing Antibiotic Resistance Problem Requires Better Policy](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss)
+* [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
 * [2025-02-03, 12:40:00](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss) - [About Zusie (Relay Based Computer)](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss)
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)
-* [2025-02-03, 11:56:27](https://news.ycombinator.com/item?id=42917306) - [Run-All](https://news.ycombinator.com/item?id=42917306)
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
 * [2025-02-03, 07:51:00](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) - [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss)
-* [2025-02-03, 06:55:19](https://news.ycombinator.com/item?id=42915669) - [Quick correlation of vulnerabilities from various sources](https://github.com/vulnerability-lookup/vulnerability-lookup)
 * [2025-02-03, 03:07:00](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss) - [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss)
 * [2025-02-02, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss) - [Infosec Was Trump's Lowest Priority, But He'll Change Bigly](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss)
 * [2025-02-02, 17:38:00](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss) - [Maker Resurrects Toshiba T1000 With a Raspberry Pi 4 and a Slew of Upgrades](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss)
@@ -150,4 +156,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-02, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss) - [DeepDive into DeepSeek](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss)
-* [2025-02-02, 03:19:36](https://news.ycombinator.com/item?id=42905439) - [Polarization-dependent photoluminescence of Ce-implanted MgO and MgAl2O4](https://iopscience.iop.org/article/10.35848/1882-0786/ad59f4)
+* [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
