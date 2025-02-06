@@ -1,32 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Applications
+## Technology and Programming Developments
 
-* [Researchers Created an Open Rival To OpenAI's o1 'Reasoning' Model for Under $50](https://slashdot.org/story/25/02/06/1445231/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers unveil a cost-effective alternative to OpenAI’s reasoning model, potentially democratizing access to advanced AI capabilities.
+* [Mixing Rust and C in Linux Likened To Cancer By Kernel Maintainer](https://linux.slashdot.org/story/25/02/06/1830233/mixing-rust-and-c-in-linux-likened-to-cancer-by-kernel-maintainer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) - GitHub introduces updates to its Copilot AI project, showcasing advanced AI development in coding assistance.
+* [Hugging Face Clones OpenAI's Deep Research In 24 Hours](https://news.slashdot.org/story/25/02/06/216251/hugging-face-clones-openais-deep-research-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [DeepSeek's AI App Will 'Highly Likely' Get Banned in the US, Jefferies Says](https://slashdot.org/story/25/02/06/1544203/deepseeks-ai-app-will-highly-likely-get-banned-in-the-us-jefferies-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns arise over the legal trajectory of AI applications as bans loom for DeepSeek’s offering.
+* [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 
-## Environmental and Health Insights
+* [Researchers Created an Open Rival To OpenAI's o1 'Reasoning' Model for Under $50](https://slashdot.org/story/25/02/06/1445231/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Air Pollution Reduces People's Ability To Focus on Everyday Tasks, Study Finds](https://news.slashdot.org/story/25/02/06/1816221/air-pollution-reduces-peoples-ability-to-focus-on-everyday-tasks-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New research underscores the cognitive effects of air pollution on daily life productivity.
+* [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 
-* [Humanlike 'Teeth' Have Been Grown in Mini Pigs](https://science.slashdot.org/story/25/02/06/1556257/humanlike-teeth-have-been-grown-in-mini-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative biotechnology advancements enable the cultivation of humanlike teeth in miniature pigs.
+* [Fabrication begins for production OpenTitan silicon](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
 
-## Entertainment Developments
+## Artificial Intelligence and Innovations
 
-* [Warner Bros. Releases Dozens of Old Films for Free on YouTube, Bypassing Paid Streaming](https://entertainment.slashdot.org/story/25/02/06/1728243/warner-bros-releases-dozens-of-old-films-for-free-on-youtube-bypassing-paid-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Warner Bros takes a unique approach to content distribution by offering older films for free via YouTube.
+* [DeepSeek's AI App Will 'Highly Likely' Get Banned in the US, Jefferies Says](https://slashdot.org/story/25/02/06/1544203/deepseeks-ai-app-will-highly-likely-get-banned-in-the-us-jefferies-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Scientific Discoveries
+* [An Anonymous Investor Is Spending Millions To Make Underwater Homes](https://news.slashdot.org/story/25/02/06/057212/an-anonymous-investor-is-spending-millions-to-make-underwater-homes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Grand Canyon-Sized Valleys On the Moon Formed Within 10 Minutes](https://science.slashdot.org/story/25/02/06/0425233/grand-canyon-sized-valleys-on-the-moon-formed-within-10-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers reveal rapid planetary formation processes with the discovery of lunar valleys forming in mere minutes.
+* [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
 
-## Technology Evolution and Challenges
+## Entertainment and Culture
 
-* [Oracle Starts Laying Mines In JavaScript Trademark Battle](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Oracle’s aggressive maneuvers in the ongoing JavaScript trademark dispute highlight the tensions between major tech stakeholders.
+* [Warner Bros. Releases Dozens of Old Films for Free on YouTube, Bypassing Paid Streaming](https://entertainment.slashdot.org/story/25/02/06/1728243/warner-bros-releases-dozens-of-old-films-for-free-on-youtube-bypassing-paid-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMD reaches a historic milestone by surpassing Intel in datacenter chip sales.
+* [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
+
+* [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
+
+## Scientific Discoveries and Research
+
+* [Grand Canyon-Sized Valleys On the Moon Formed Within 10 Minutes](https://science.slashdot.org/story/25/02/06/0425233/grand-canyon-sized-valleys-on-the-moon-formed-within-10-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Humanlike 'Teeth' Have Been Grown in Mini Pigs](https://science.slashdot.org/story/25/02/06/1556257/humanlike-teeth-have-been-grown-in-mini-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Air Pollution Reduces People's Ability To Focus on Everyday Tasks, Study Finds](https://news.slashdot.org/story/25/02/06/1816221/air-pollution-reduces-peoples-ability-to-focus-on-everyday-tasks-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Quirky and Unique Features
+
+* [Cooking Flawless Pasta - it's Science!](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss)
+
+* [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
+
+* [Transfinite NIM (the game, not the programming language)](https://jdh.hamkins.org/transfinite-nim/)
 
 ---
 
@@ -53,15 +71,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-06, 21:50:00](https://games.slashdot.org/story/25/02/06/2120258/esa-wants-to-replace-e3-with-a-bunch-of-buzzwords?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ESA Wants To Replace E3 With a Bunch of Buzzwords](https://games.slashdot.org/story/25/02/06/2120258/esa-wants-to-replace-e3-with-a-bunch-of-buzzwords?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 21:14:16](https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp) - [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
+* [2025-02-06, 21:12:00](https://soylentnews.org/article.pl?sid=25/02/04/1537254&from=rss) - [Warmer, More Crowded Cities Bring Out the Rats](https://soylentnews.org/article.pl?sid=25/02/04/1537254&from=rss)
+* [2025-02-06, 21:08:00](https://news.slashdot.org/story/25/02/06/216251/hugging-face-clones-openais-deep-research-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hugging Face Clones OpenAI's Deep Research In 24 Hours](https://news.slashdot.org/story/25/02/06/216251/hugging-face-clones-openais-deep-research-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
+* [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
+* [2025-02-06, 20:10:04](https://lobste.rs/s/x0yjt0/negotiability_severity_levels) - [The Negotiability of “Severity” Levels](https://www.adaptivecapacitylabs.com/2019/05/20/the-negotiability-of-severity-levels/)
+* [2025-02-06, 20:02:03](https://news.ycombinator.com/item?id=42965954) - [R1 Computer Use](https://github.com/agentsea/r1-computer-use)
+* [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
+* [2025-02-06, 19:27:56](https://lobste.rs/s/zqpfyj/fabrication_begins_for_production) - [Fabrication begins for production OpenTitan silicon](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
+* [2025-02-06, 19:27:37](https://news.ycombinator.com/item?id=42965627) - [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
+* [2025-02-06, 19:26:26](https://lobste.rs/s/pszqzl/github_copilot_agent_awakens) - [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+* [2025-02-06, 19:22:00](https://linux.slashdot.org/story/25/02/06/1830233/mixing-rust-and-c-in-linux-likened-to-cancer-by-kernel-maintainer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mixing Rust and C in Linux Likened To Cancer By Kernel Maintainer](https://linux.slashdot.org/story/25/02/06/1830233/mixing-rust-and-c-in-linux-likened-to-cancer-by-kernel-maintainer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 19:03:50](https://news.ycombinator.com/item?id=42965404) - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
+* [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:41:00](https://news.slashdot.org/story/25/02/06/1816221/air-pollution-reduces-peoples-ability-to-focus-on-everyday-tasks-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Air Pollution Reduces People's Ability To Focus on Everyday Tasks, Study Finds](https://news.slashdot.org/story/25/02/06/1816221/air-pollution-reduces-peoples-ability-to-focus-on-everyday-tasks-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 18:06:48](https://news.ycombinator.com/item?id=42964883) - [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+* [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
 * [2025-02-06, 18:00:00](https://entertainment.slashdot.org/story/25/02/06/1728243/warner-bros-releases-dozens-of-old-films-for-free-on-youtube-bypassing-paid-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Warner Bros. Releases Dozens of Old Films for Free on YouTube, Bypassing Paid Streaming](https://entertainment.slashdot.org/story/25/02/06/1728243/warner-bros-releases-dozens-of-old-films-for-free-on-youtube-bypassing-paid-streaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-06, 17:54:50](https://news.ycombinator.com/item?id=42964773) - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 * [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 17:22:00](https://it.slashdot.org/story/25/02/06/171222/qwertykeys-halts-keyboard-shipments-to-us-over-tariff-costs-and-confusion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Qwertykeys Halts Keyboard Shipments To US Over Tariff Costs and Confusion](https://it.slashdot.org/story/25/02/06/171222/qwertykeys-halts-keyboard-shipments-to-us-over-tariff-costs-and-confusion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 17:07:55](https://news.ycombinator.com/item?id=42964327) - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
-* [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
-* [2025-02-06, 16:51:43](https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing) - [Parameterized tests in Swift: Reducing boilerplate code](https://www.avanderlee.com/swift-testing/parameterized-tests-reducing-boilerplate-code/)
 * [2025-02-06, 16:40:00](https://science.slashdot.org/story/25/02/06/1556257/humanlike-teeth-have-been-grown-in-mini-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Humanlike 'Teeth' Have Been Grown in Mini Pigs](https://science.slashdot.org/story/25/02/06/1556257/humanlike-teeth-have-been-grown-in-mini-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 * [2025-02-06, 16:24:00](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss) - [Who's Your Pick?  Eagles or Chiefs? Or Statistics?](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss)
@@ -70,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite NIM (the game, not the programming language)](https://jdh.hamkins.org/transfinite-nim/)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 15:21:00](https://tech.slashdot.org/story/25/02/06/1514246/amd-is-making-another-run-at-nvidia-with-new-4k-ready-gpus-as-sales-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD is Making Another Run at Nvidia With New 4K-Ready GPUs as Sales Collapse](https://tech.slashdot.org/story/25/02/06/1514246/amd-is-making-another-run-at-nvidia-with-new-4k-ready-gpus-as-sales-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 15:08:49](https://lobste.rs/s/eeyjrw/cheaper_faster_way_deploy_binderhub) - [A cheaper and faster way to deploy Binderhub](https://2i2c.org/blog/2025/binder-singlenode/)
 * [2025-02-06, 14:53:39](https://lobste.rs/s/nghoy0/ais_robots_should_sound_robotic) - [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
 * [2025-02-06, 14:50:28](https://lobste.rs/s/89h9eb/html_whitespace_is_broken) - [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace/)
 * [2025-02-06, 14:45:00](https://slashdot.org/story/25/02/06/1445231/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Created an Open Rival To OpenAI's o1 'Reasoning' Model for Under $50](https://slashdot.org/story/25/02/06/1445231/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -97,49 +126,39 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-06, 07:02:06](https://lobste.rs/s/3vhpzg/hotline_for_modern_apple_systems) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-06, 07:00:00](https://science.slashdot.org/story/25/02/06/0425233/grand-canyon-sized-valleys-on-the-moon-formed-within-10-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Grand Canyon-Sized Valleys On the Moon Formed Within 10 Minutes](https://science.slashdot.org/story/25/02/06/0425233/grand-canyon-sized-valleys-on-the-moon-formed-within-10-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-06, 06:55:00](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss) - [Cooking Flawless Pasta - it's Science!](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss)
+* [2025-02-06, 04:54:18](https://news.ycombinator.com/item?id=42959226) - [Show HN: Heap Explorer](https://github.com/heap-exploitation/heap-explorer)
 * [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 03:30:00](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Let's Encrypt Is Ending Expiration Notice Emails](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
-* [2025-02-06, 02:10:00](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 01:30:00](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle Starts Laying Mines In JavaScript Trademark Battle](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [I believe 6502 instruction set is a good first assembly language](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
-* [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
-* [2025-02-06, 00:50:00](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss) - [Giant Study Questions Link Between Autism and Maternal Health](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss)
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 19:28:56](https://lobste.rs/s/cyotj6/all_bear_blogs_can_use_hashtags_now_via) - [All Bear blogs can use hashtags now via Octothorpes](https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/)
 * [2025-02-05, 19:21:34](https://lobste.rs/s/khlha3/sudoku_affair) - [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
-* [2025-02-05, 18:02:47](https://lobste.rs/s/gn3nym/comic_web_markup_comic_web_is_markup) - [comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language](https://github.com/abuseofnotation/comic-web-markup)
-* [2025-02-05, 17:34:01](https://lobste.rs/s/tz6ybl/zasper_fastest_most_efficient_ide_run) - [zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks](https://github.com/zasper-io/zasper)
 * [2025-02-05, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss) - [Everyone Knows Your Location: Tracking Myself Down Through in-App Ads](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 13:15:00](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss) - [Soylent Update - February 2025](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 12:00:00](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss) - [Microsoft Defender's VPN Feature Will be Killed Off at the End of February](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss)
-* [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
+* [2025-02-05, 11:35:13](https://news.ycombinator.com/item?id=42947081) - [My Status Circles](https://www.overcomingbias.com/p/my-status-circles)
+* [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-05, 07:17:00](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss) - [Tesla and BMW Sue European Commission Over Chinese EV Tariffs](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 02:35:00](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss) - [Medical Monitoring Machines Spotted Stealing Patient Data](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss)
 * [2025-02-04, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/04/0352219&from=rss) - [Artificial Gills Unlock Long-Range Underwater Robots](https://soylentnews.org/article.pl?sid=25/02/04/0352219&from=rss)
-* [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 17:08:00](https://soylentnews.org/article.pl?sid=25/02/03/1327213&from=rss) - [NASA's Returned Asteroid Samples Hold the Ingredients of Life From a Watery World](https://soylentnews.org/article.pl?sid=25/02/03/1327213&from=rss)
 * [2025-02-04, 12:23:00](https://soylentnews.org/article.pl?sid=25/02/02/1444250&from=rss) - [Fediverse Explosive Growth - 100m Posts in January](https://soylentnews.org/article.pl?sid=25/02/02/1444250&from=rss)
 * [2025-02-04, 07:41:00](https://soylentnews.org/article.pl?sid=25/02/02/1338233&from=rss) - [US to Deploy Molten Salt Reactors to Turn Wastewater Into Freshwater](https://soylentnews.org/article.pl?sid=25/02/02/1338233&from=rss)
-* [2025-02-04, 07:22:49](https://news.ycombinator.com/item?id=42929195) - [Show HN: I built a CLI to automate depth tracking on underwater videos](https://github.com/noppanut15/depthviz)
-* [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
 * [2025-02-04, 02:56:00](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss) - [How Does DeepSeek R1 Really Fare Against OpenAI's Best Reasoning Models?](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss)
 * [2025-02-03, 22:13:00](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss) - [Bug That Kills PC's Audio is Seriously Widespread Affecting Multiple Windows Versions](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss)
 * [2025-02-03, 17:25:00](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss) - [The Growing Antibiotic Resistance Problem Requires Better Policy](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss)
-* [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
-* [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
 * [2025-02-03, 12:40:00](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss) - [About Zusie (Relay Based Computer)](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
+* [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [Evaluating Code Embeddings](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 * [2025-02-03, 07:51:00](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) - [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss)
-* [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
-* [2025-02-03, 04:21:51](https://news.ycombinator.com/item?id=42914949) - [Scotland's first 'enclosed' salmon farm to open on Loch Long](https://www.bbc.com/news/uk-scotland-glasgow-west-60156103)
 * [2025-02-03, 03:07:00](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss) - [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss)
 * [2025-02-02, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss) - [Infosec Was Trump's Lowest Priority, But He'll Change Bigly](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss)
 * [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
