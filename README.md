@@ -1,40 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Environmental Health Concerns
+## Technology and Innovations
 
-* [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/) ([comments](https://news.ycombinator.com/item?id=42957726))
+* [Let's Encrypt Is Ending Expiration Notice Emails](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Let's Encrypt will no longer send expiration notices, a major change impacting certificate renewal workflows. [comments](https://news.ycombinator.com/item?id=42958656)
 
-## Technological Breakthroughs and Challenges
+* [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - Innovative smart glasses aim to improve vision for those with macular degeneration. [comments](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone)
 
-* [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Google Says Commercial Quantum Computing Applications Arriving Within 5 Years](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Major advancements in quantum computing could transform industries within half a decade. [comments](https://news.ycombinator.com/item?id=42952584)
 
-* [Google Says Commercial Quantum Computing Applications Arriving Within 5 Years](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Health and Science
 
-* [Framework ships RISC-V board for its 13" laptops along with "boardless" laptop chassis](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/) ([comments](https://lobste.rs/s/x7nhcq/framework_ships_risc_v_board_for_its_13))
+* [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/) - New investigations begin into a mysterious neurological illness in Canada. [comments](https://news.ycombinator.com/item?id=42958218)
 
-## Cybersecurity and Privacy
+* [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/) - Alarming research reveals significant microplastic contamination in the human brain. [comments](https://news.ycombinator.com/item?id=42957726)
 
-* [Researchers Link DeepSeek To Chinese Telecom Banned In US](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Software and Development
 
-* [First OCR Spyware Breaches Both Apple and Google App Stores To Steal Crypto Wallet Phrases](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) - Andrej Karpathy explores reinforcement learning with the game Pong. [comments](https://news.ycombinator.com/item?id=42958012)
 
-* [Everyone Knows Your Location: Tracking Myself Down Through in-App Ads](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss))
+* [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for) - An argument favoring the 6502 processor as an entry point for assembly coding. [comments](https://news.ycombinator.com/item?id=42957823)
 
-## Open Source and Innovation
+* [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/) - Advanced fuzz-testing techniques to improve software reliability. [comments](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with)
 
-* [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free) ([comments](https://news.ycombinator.com/item?id=42957517))
+## Industry and Business
 
-* [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/) ([comments](https://news.ycombinator.com/item?id=42950454))
+* [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The streaming giant faces significant subscriber losses as competition intensifies. [comments](https://news.ycombinator.com/item?id=42958656)
 
-* [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/) ([comments](https://news.ycombinator.com/item?id=42949390))
+* [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMD's datacenter success marks a milestone in its rivalry with Intel. [comments](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it)
 
-## Fascinating Technical Problems
+## Cybersecurity
 
-* [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer) ([comments](https://lobste.rs/s/6cb3tb/implementation_ringbuffer_java_with))
+* [First OCR Spyware Breaches Both Apple and Google App Stores To Steal Crypto Wallet Phrases](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical spyware breach poses threats to crypto wallets, impacting app store ecosystems. [comments](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
 
-* [Rewriting Slipshow in OCaml: The undo-able monad](https://choum.net/panglesd/undo-monad/) ([comments](https://lobste.rs/s/sxxchv/rewriting_slipshow_ocaml_undo_able_monad))
-
-* [Radiant Foam](https://radfoam.github.io/) ([comments](https://lobste.rs/s/l9pkbz/radiant_foam))
+* [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes) - Insights on running ArchiveTeam's preservation tools within Kubernetes environments. [comments](https://news.ycombinator.com/item?id=42952605)
 
 ---
 
@@ -61,10 +59,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
+* [2025-02-06, 03:30:00](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Let's Encrypt Is Ending Expiration Notice Emails](https://tech.slashdot.org/story/25/02/06/0028228/lets-encrypt-is-ending-expiration-notice-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
+* [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
+* [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
+* [2025-02-06, 02:10:00](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Disney+ Lost 700,000 Subscribers From October-December 2024](https://entertainment.slashdot.org/story/25/02/06/0038245/disney-lost-700000-subscribers-from-october-december-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 01:52:13](https://news.ycombinator.com/item?id=42958012) - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [2025-02-06, 01:30:00](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle Starts Laying Mines In JavaScript Trademark Battle](https://developers.slashdot.org/story/25/02/05/2345236/oracle-starts-laying-mines-in-javascript-trademark-battle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
+* [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
 * [2025-02-06, 00:50:00](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Outsells Intel In the Datacenter For the First Time](https://hardware.slashdot.org/story/25/02/05/2327252/amd-outsells-intel-in-the-datacenter-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
+* [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-06, 00:02:00](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Link DeepSeek To Chinese Telecom Banned In US](https://yro.slashdot.org/story/25/02/05/2019200/researchers-link-deepseek-to-chinese-telecom-banned-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 23:37:00](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Says Commercial Quantum Computing Applications Arriving Within 5 Years](https://tech.slashdot.org/story/25/02/05/2336200/google-says-commercial-quantum-computing-applications-arriving-within-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 22:40:00](https://mobile.slashdot.org/story/25/02/05/205231/mobile-ban-in-schools-not-improving-grades-or-behavior-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mobile Ban In Schools Not Improving Grades or Behavior, Study Suggests](https://mobile.slashdot.org/story/25/02/05/205231/mobile-ban-in-schools-not-improving-grades-or-behavior-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -77,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 21:08:16](https://lobste.rs/s/ikydnz/versioning_versus_coordination) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 * [2025-02-05, 20:42:00](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First OCR Spyware Breaches Both Apple and Google App Stores To Steal Crypto Wallet Phrases](https://it.slashdot.org/story/25/02/05/1826259/first-ocr-spyware-breaches-both-apple-and-google-app-stores-to-steal-crypto-wallet-phrases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 * [2025-02-05, 20:01:00](https://news.slashdot.org/story/25/02/05/1819218/im-done-with-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I'm Done With Ubuntu'](https://news.slashdot.org/story/25/02/05/1819218/im-done-with-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 19:28:56](https://lobste.rs/s/cyotj6/all_bear_blogs_can_use_hashtags_now_via) - [All Bear blogs can use hashtags now via Octothorpes](https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/)
 * [2025-02-05, 19:21:34](https://lobste.rs/s/khlha3/sudoku_affair) - [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
@@ -96,30 +101,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-05, 17:20:00](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['AI Granny' Driving Scammers Up the Wall](https://slashdot.org/story/25/02/05/1426220/ai-granny-driving-scammers-up-the-wall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss) - [Everyone Knows Your Location: Tracking Myself Down Through in-App Ads](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
-* [2025-02-05, 16:40:00](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Spend $75 Billion on AI Push](https://tech.slashdot.org/story/25/02/05/1156248/google-to-spend-75-billion-on-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
-* [2025-02-05, 16:00:00](https://it.slashdot.org/story/25/02/05/1314221/developer-runs-doom-on-50-apple-lightning-to-hdmi-adapter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Runs Doom On $50 Apple Lightning To HDMI Adapter](https://it.slashdot.org/story/25/02/05/1314221/developer-runs-doom-on-50-apple-lightning-to-hdmi-adapter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
 * [2025-02-05, 15:38:09](https://lobste.rs/s/b6vlan/prediction_games) - [Prediction Games](https://www.argmin.net/p/prediction-games)
-* [2025-02-05, 15:20:00](https://news.slashdot.org/story/25/02/05/1213210/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Temperatures at North Pole 20C Above Average and Beyond Ice Melting Point](https://news.slashdot.org/story/25/02/05/1213210/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
-* [2025-02-05, 14:51:53](https://news.ycombinator.com/item?id=42949232) - [The familiar loneliness of the Kinetoscope](https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 13:15:00](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss) - [Soylent Update - February 2025](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 12:00:00](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss) - [Microsoft Defender's VPN Feature Will be Killed Off at the End of February](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss)
 * [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
-* [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
 * [2025-02-05, 07:17:00](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss) - [Tesla and BMW Sue European Commission Over Chinese EV Tariffs](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss)
 * [2025-02-05, 07:01:30](https://lobste.rs/s/l9pkbz/radiant_foam) - [Radiant Foam](https://radfoam.github.io/)
 * [2025-02-05, 06:43:43](https://lobste.rs/s/sxxchv/rewriting_slipshow_ocaml_undo_able_monad) - [Rewriting Slipshow in OCaml: The undo-able monad](https://choum.net/panglesd/undo-monad/)
-* [2025-02-05, 05:25:19](https://news.ycombinator.com/item?id=42944203) - [The FAA’s Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 * [2025-02-05, 03:18:22](https://news.ycombinator.com/item?id=42943271) - [A hexagonal-tiled cartogram for U.S. counties](https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 02:35:00](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss) - [Medical Monitoring Machines Spotted Stealing Patient Data](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss)
@@ -140,10 +138,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-03, 22:13:00](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss) - [Bug That Kills PC's Audio is Seriously Widespread Affecting Multiple Windows Versions](https://soylentnews.org/article.pl?sid=25/02/02/1354257&from=rss)
 * [2025-02-03, 17:25:00](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss) - [The Growing Antibiotic Resistance Problem Requires Better Policy](https://soylentnews.org/article.pl?sid=25/02/02/1347234&from=rss)
 * [2025-02-03, 12:40:00](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss) - [About Zusie (Relay Based Computer)](https://soylentnews.org/article.pl?sid=25/02/02/1340243&from=rss)
-* [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit](https://www.zompist.com/kit.html)
+* [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)
 * [2025-02-03, 11:56:27](https://news.ycombinator.com/item?id=42917306) - [Run-All](https://news.ycombinator.com/item?id=42917306)
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
 * [2025-02-03, 07:51:00](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss) - [The Network State Coup is Happening Right Now](https://soylentnews.org/article.pl?sid=25/02/02/1442226&from=rss)
+* [2025-02-03, 06:55:19](https://news.ycombinator.com/item?id=42915669) - [Quick correlation of vulnerabilities from various sources](https://github.com/vulnerability-lookup/vulnerability-lookup)
 * [2025-02-03, 03:07:00](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss) - [How One YouTuber is Trying to Poison the AI Bots Stealing Her Content](https://soylentnews.org/article.pl?sid=25/02/01/1542257&from=rss)
 * [2025-02-02, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss) - [Infosec Was Trump's Lowest Priority, But He'll Change Bigly](https://soylentnews.org/article.pl?sid=25/02/01/1439213&from=rss)
 * [2025-02-02, 17:38:00](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss) - [Maker Resurrects Toshiba T1000 With a Raspberry Pi 4 and a Slew of Upgrades](https://soylentnews.org/article.pl?sid=25/02/01/1419208&from=rss)
@@ -151,4 +150,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-02, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss) - [DeepDive into DeepSeek](https://soylentnews.org/article.pl?sid=25/02/01/1414214&from=rss)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss) - [Fake Google Ads Trick Mac Users To Install Homebrew Malware](https://soylentnews.org/article.pl?sid=25/02/01/145202&from=rss)
-* [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
+* [2025-02-02, 03:19:36](https://news.ycombinator.com/item?id=42905439) - [Polarization-dependent photoluminescence of Ce-implanted MgO and MgAl2O4](https://iopscience.iop.org/article/10.35848/1882-0786/ad59f4)
