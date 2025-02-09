@@ -1,44 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements
+## Open Source and Software Development
 
-* [Quantum Teleportation Used To Distribute a Calculation](https://tech.slashdot.org/story/25/02/07/236248/quantum-teleportation-used-to-distribute-a-calculation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An innovative application of quantum teleportation enhances distributed computational tasks.
+* [Does the 'Spirit' of Open Source Mean Much More Than a License?](https://news.slashdot.org/story/25/02/09/0039235/does-the-spirit-of-open-source-mean-much-more-than-a-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores whether the open source ethos transcends licensing to encompass broader community principles.
 
-* [Trivalent: A hardened chromium for desktop Linux inspired by Vanadium](https://github.com/secureblue/Trivalent) - A security-focused browser project targeting Linux users with enhanced privacy implementations.
+* [We are destroying software](https://antirez.com/news/145) - A reflection on growing complexity in software development and its impact on software quality.
 
-* [Volkswagen Announces a Cheap Electric Car to Compete With China](https://hardware.slashdot.org/story/25/02/08/216247/volkswagen-announces-a-cheap-electric-car-to-compete-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Volkswagen introduces an affordable EV option to challenge China's electric car dominance.
+* [Writing a simple windows driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/) - A guide to creating window drivers using the Rust programming language.
 
-## Cultural and Historical Insights
+* [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html) - Introduces a lightweight serialization system for quick integration.
 
-* [The Daughter of Dawn [1920]](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/) - A cinematic spotlight on the rediscovered 1920 silent film 'The Daughter of Dawn.'
+* [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/) - Cautions developers to critically review every code component, not just obvious or strange parts.
 
-* [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - Archaeologists unravel history with an ancient rune stone, pushing boundaries of our understanding.
+## Artificial Intelligence and Technology
 
-## Software and Open Source Innovation
+* [AI exploits a gamebreaking bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04) - A fascinating story highlighting how AI uncovered and exploited gameplay bugs in the racing game Trackmania.
 
-* [Docker Bake is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/) - Docker introduces 'Bake,' a new multi-stage build tool available for developers.
+* [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/) - Mozilla releases an extension to help detect deep fake media online.
 
-* [No-Libc Zig Now Outperforms Glibc Zig](https://ziglang.org/devlog/2025/#2025-02-07) - Performance reports showcase Zig programming language advancements for systems development.
+* [Quantum Teleportation Used To Distribute a Calculation](https://tech.slashdot.org/story/25/02/07/236248/quantum-teleportation-used-to-distribute-a-calculation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines a breakthrough in quantum computing where teleportation aids distributed calculations.
 
-* [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/) - A tutorial exploring Rust's capabilities in crafting reliable Windows drivers.
+* [No-Libc Zig Now Outperforms Glibc Zig](https://ziglang.org/devlog/2025/#2025-02-07) - Zig programming language showcases significant performance assurances through no-libc implementations.
 
-## Challenges in Cybersecurity
+* [VSCode’s SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/) - Discusses quirks and issues associated with using SSH agents in Visual Studio Code.
 
-* [OpenAI Investigating Claim of 20 Million Stolen User Credentials](https://yro.slashdot.org/story/25/02/07/2236218/openai-investigating-claim-of-20-million-stolen-user-credentials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI delves into data security concerns amid allegations of compromised user information.
+## Cryptocurrency and Blockchain
 
-* [DeepSeek iOS App Sends Data Unencrypted To ByteDance-Controlled Servers](https://slashdot.org/story/25/02/08/0531202/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Privacy alarm as DeepSeek app leaks unencrypted data to controversial servers.
+* [El Salvador Congress Votes to Revoke Bitcoin's 'Legal Currency' Status](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - El Salvador steps back from its historic embrace of Bitcoin, revoking its legal tender status.
 
-## Gaming and Entertainment Milestones
+* [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing) - Presents a decentralized solution using Syncthing with an innovative iOS client.
 
-* [Donkey Kong's Famed Kill Screen Has Been Cleared For the First Time](https://games.slashdot.org/story/25/02/08/0758212/donkey-kongs-famed-kill-screen-has-been-cleared-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legendary gaming milestone as Donkey Kong's infamous 'kill screen' is beaten.
+* [Consuming the jetstream atproto firehose correctly](https://bsky.bad-example.com/consuming-the-firehose-correctly/) - Guide on effectively handling data streams for decentralized protocols.
 
-* [AI Exploits a Gamebreaking Bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04) - AI demonstrates its prowess by uncovering and leveraging glitches in gaming platforms.
+## Climate and Environment
 
-## Environmental and Infrastructure Topics
+* [Twisted Graphene Sheets Reveal 'Unconventional' Superconductivity Governed by Quantum Geometry](https://science.slashdot.org/story/25/02/08/227213/twisted-graphene-sheets-reveal-unconventional-superconductivity-governed-by-quantum-geometry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers uncover remarkable properties within twisted graphene sheets.
 
-* [White House Moves to Halt Federal Funds for EV Charging Stations](https://news.slashdot.org/story/25/02/08/0735240/white-house-moves-to-halt-federal-funds-for-ev-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Policy changes raise questions about the future of electrification infrastructure.
+* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://news.slashdot.org/story/25/02/08/0746221/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Recent solar activity unveils previously unknown Earth-bound radiation belts.
 
-* [US to Deploy Molten Salt Reactors to Turn Wastewater Into Freshwater](https://soylentnews.org/article.pl?sid=25/02/02/1338233&from=rss) - Advanced reactor technology seeks to revolutionize freshwater generation.
+* [The FSF Will Auction the Original GNU Logo Drawing, Stallman's Medal, and an Amiga](https://news.slashdot.org/story/25/02/08/0853208/the-fsf-will-auction-the-original-gnu-logo-drawing-stallmans-medal-and-an-amiga?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights unique computing memorabilia available for auction by the Free Software Foundation.
+
+## Science and Health
+
+* [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - Ongoing archaeological investigations reveal ancient rune history.
+
+* [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o) - Advanced imaging unveils secrets of ancient texts.
+
+* [Catalytic Converters: How Much Platinum Do They Contain?](https://soylentnews.org/article.pl?sid=25/02/07/048232&from=rss) - Insights into the valuable components within catalytic converters.
+
+## Gaming and Entertainment
+
+* [Donkey Kong's Famed Kill Screen Has Been Cleared For the First Time](https://games.slashdot.org/story/25/02/08/0758212/donkey-kongs-famed-kill-screen-has-been-cleared-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Milestone achievement in a popular arcade gaming challenge.
+
+* [Internet Archive Celebrates New Public Domain Works with Remixes in Short Film Contest](https://entertainment.slashdot.org/story/25/02/08/0620224/internet-archive-celebrates-new-public-domain-works-with-remixes-in-short-film-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Creative engagement with newly available public domain artifacts.
+
+* [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/) - A unique approach to defending art and data from being scraped by AI.
 
 ---
 
@@ -65,33 +81,36 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-09, 00:47:00](https://news.slashdot.org/story/25/02/09/0039235/does-the-spirit-of-open-source-mean-much-more-than-a-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Does the 'Spirit' of Open Source Mean Much More Than a License?](https://news.slashdot.org/story/25/02/09/0039235/does-the-spirit-of-open-source-mean-much-more-than-a-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-08, 23:47:00](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [El Salvador Congress Votes to Revoke Bitcoin's 'Legal Currency' Status](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-08, 22:08:07](https://news.ycombinator.com/item?id=42986613) - [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
+* [2025-02-08, 22:08:00](https://science.slashdot.org/story/25/02/08/227213/twisted-graphene-sheets-reveal-unconventional-superconductivity-governed-by-quantum-geometry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Twisted Graphene Sheets Reveal 'Unconventional' Superconductivity Governed by Quantum Geometry](https://science.slashdot.org/story/25/02/08/227213/twisted-graphene-sheets-reveal-unconventional-superconductivity-governed-by-quantum-geometry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 21:53:55](https://lobste.rs/s/2muuuz/simple_serialization_system) - [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html)
+* [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is software abstraction killing civilization? (2021)](https://datagubbe.se/endofciv/)
+* [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org](https://jacksonpollock.org/)
 * [2025-02-08, 21:12:29](https://lobste.rs/s/rpejli/from_hours_360ms_over_engineering_puzzle) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-08, 21:08:00](https://hardware.slashdot.org/story/25/02/08/216247/volkswagen-announces-a-cheap-electric-car-to-compete-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Volkswagen Announces a Cheap Electric Car to Compete With China](https://hardware.slashdot.org/story/25/02/08/216247/volkswagen-announces-a-cheap-electric-car-to-compete-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
+* [2025-02-08, 20:58:17](https://news.ycombinator.com/item?id=42986149) - [Ada Gems (2014)](https://www.adacore.com/gems)
 * [2025-02-08, 20:49:00](https://soylentnews.org/article.pl?sid=25/02/07/1312257&from=rss) - [Meta Says This is the Make or Break Year for the Metaverse](https://soylentnews.org/article.pl?sid=25/02/07/1312257&from=rss)
 * [2025-02-08, 20:44:09](https://lobste.rs/s/nwfknr/consuming_jetstream_atproto_firehose) - [Consuming the jetstream atproto firehose correctly](https://bsky.bad-example.com/consuming-the-firehose-correctly/)
-* [2025-02-08, 20:03:23](https://news.ycombinator.com/item?id=42985749) - [Auto-Rewind for Daily Test (Apache NuttX RTOS)](https://lupyuen.org/articles/rewind.html)
 * [2025-02-08, 19:42:55](https://lobste.rs/s/01klhe/ai_exploits_gamebreaking_bug_trackmania) - [AI exploits a gamebreaking bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04)
 * [2025-02-08, 19:34:00](https://news.slashdot.org/story/25/02/08/0853208/the-fsf-will-auction-the-original-gnu-logo-drawing-stallmans-medal-and-an-amiga?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The FSF Will Auction the Original GNU Logo Drawing, Stallman's Medal, and an Amiga](https://news.slashdot.org/story/25/02/08/0853208/the-fsf-will-auction-the-original-gnu-logo-drawing-stallmans-medal-and-an-amiga?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 19:20:10](https://news.ycombinator.com/item?id=42985427) - [Tips for mathematical handwriting (2007)](https://johnkerl.org/doc/ortho/ortho.html)
 * [2025-02-08, 19:06:42](https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff) - [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
 * [2025-02-08, 18:34:00](https://slashdot.org/story/25/02/08/0531202/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek IOS App Sends Data Unencrypted To ByteDance-Controlled Servers](https://slashdot.org/story/25/02/08/0531202/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
-* [2025-02-08, 18:08:15](https://news.ycombinator.com/item?id=42984813) - [The Daughter of Dawn [1920] (2024)](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 * [2025-02-08, 17:34:00](https://news.slashdot.org/story/25/02/08/0735240/white-house-moves-to-halt-federal-funds-for-ev-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [White House Moves to Halt Federal Funds for EV Charging Stations](https://news.slashdot.org/story/25/02/08/0735240/white-house-moves-to-halt-federal-funds-for-ev-charging-stations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 17:33:37](https://lobste.rs/s/xfjcze/we_are_destroying_software) - [We are destroying software](https://antirez.com/news/145)
-* [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
+* [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a simple windows driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-08, 17:19:23](https://news.ycombinator.com/item?id=42984420) - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
 * [2025-02-08, 16:34:00](https://entertainment.slashdot.org/story/25/02/08/0620224/internet-archive-celebrates-new-public-domain-works-with-remixes-in-short-film-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Internet Archive Celebrates New Public Domain Works with Remixes in Short Film Contest](https://entertainment.slashdot.org/story/25/02/08/0620224/internet-archive-celebrates-new-public-domain-works-with-remixes-in-short-film-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 * [2025-02-08, 16:07:00](https://soylentnews.org/article.pl?sid=25/02/07/048232&from=rss) - [Catalytic Converters: How Much Platinum Do They Contain?](https://soylentnews.org/article.pl?sid=25/02/07/048232&from=rss)
-* [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
 * [2025-02-08, 15:51:06](https://news.ycombinator.com/item?id=42983733) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 15:34:00](https://it.slashdot.org/story/25/02/08/0539235/are-return-to-office-mandates-just-attempts-to-make-people-to-quit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Return-to-Office Mandates Just Attempts to Make People to Quit?](https://it.slashdot.org/story/25/02/08/0539235/are-return-to-office-mandates-just-attempts-to-make-people-to-quit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-08, 15:30:44](https://news.ycombinator.com/item?id=42983571) - [The LLMentalist Effect](https://softwarecrisis.dev/letters/llmentalist/)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-08, 13:00:00](https://games.slashdot.org/story/25/02/08/0758212/donkey-kongs-famed-kill-screen-has-been-cleared-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Donkey Kong's Famed Kill Screen Has Been Cleared For the First Time](https://games.slashdot.org/story/25/02/08/0758212/donkey-kongs-famed-kill-screen-has-been-cleared-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 12:38:53](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my) - [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
@@ -113,9 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-08, 01:49:00](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss)
 * [2025-02-08, 01:25:32](https://news.ycombinator.com/item?id=42979467) - [VSCode’s SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 * [2025-02-08, 01:25:00](https://developers.slashdot.org/story/25/02/07/2246202/googles-7-year-slog-to-improve-chrome-extensions-still-hasnt-satisfied-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's 7-Year Slog To Improve Chrome Extensions Still Hasn't Satisfied Developers](https://developers.slashdot.org/story/25/02/07/2246202/googles-7-year-slog-to-improve-chrome-extensions-still-hasnt-satisfied-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-08, 00:45:00](https://yro.slashdot.org/story/25/02/07/2236218/openai-investigating-claim-of-20-million-stolen-user-credentials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Investigating Claim of 20 Million Stolen User Credentials](https://yro.slashdot.org/story/25/02/07/2236218/openai-investigating-claim-of-20-million-stolen-user-credentials?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-08, 00:02:00](https://science.slashdot.org/story/25/02/07/2124217/us-health-system-notifies-882000-patients-of-august-2023-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Health System Notifies 882,000 Patients of August 2023 Breach](https://science.slashdot.org/story/25/02/07/2124217/us-health-system-notifies-882000-patients-of-august-2023-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-07, 23:20:00](https://slashdot.org/story/25/02/07/2114226/creators-demand-tech-giants-fess-up-pay-for-all-that-ai-training-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Creators Demand Tech Giants Fess Up, Pay For All That AI Training Data](https://slashdot.org/story/25/02/07/2114226/creators-demand-tech-giants-fess-up-pay-for-all-that-ai-training-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
 * [2025-02-07, 22:18:48](https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-02-07, 21:02:00](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss) - [Deepfake Videos are Getting Shockingly Good](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss)
@@ -143,21 +159,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-06, 06:55:00](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss) - [Cooking Flawless Pasta - it's Science!](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss)
 * [2025-02-06, 03:10:56](https://news.ycombinator.com/item?id=42958542) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 * [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
+* [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [The Mafias Behind Sand Trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
 * [2025-02-06, 01:23:48](https://news.ycombinator.com/item?id=42957799) - [How to GIF (2025 Edition)](https://fullystacked.net/how-to-gif-2025/)
 * [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
-* [2025-02-05, 23:10:47](https://news.ycombinator.com/item?id=42956697) - [Fat Rand: How many lines do you need to generate a random number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
 * [2025-02-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss) - [Giant Study Questions Link Between Autism and Maternal Health](https://soylentnews.org/article.pl?sid=25/02/04/157244&from=rss)
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss) - [Everyone Knows Your Location: Tracking Myself Down Through in-App Ads](https://soylentnews.org/article.pl?sid=25/02/04/1455221&from=rss)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 12:00:00](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss) - [Microsoft Defender's VPN Feature Will be Killed Off at the End of February](https://soylentnews.org/article.pl?sid=25/02/04/042215&from=rss)
-* [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++ (Feb. 2025) by Bjarne Stroustrup](https://cacm.acm.org/blogcacm/21st-century-c/)
+* [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 09:43:48](https://news.ycombinator.com/item?id=42946223) - [RISC-V Mainboard for Framework Laptop 13 is now available](https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available)
 * [2025-02-05, 07:17:00](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss) - [Tesla and BMW Sue European Commission Over Chinese EV Tariffs](https://soylentnews.org/article.pl?sid=25/02/04/0358217&from=rss)
 * [2025-02-05, 02:35:00](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss) - [Medical Monitoring Machines Spotted Stealing Patient Data](https://soylentnews.org/article.pl?sid=25/02/04/0355255&from=rss)
-* [2025-02-04, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/04/0352219&from=rss) - [Artificial Gills Unlock Long-Range Underwater Robots](https://soylentnews.org/article.pl?sid=25/02/04/0352219&from=rss)
-* [2025-02-04, 17:08:00](https://soylentnews.org/article.pl?sid=25/02/03/1327213&from=rss) - [NASA's Returned Asteroid Samples Hold the Ingredients of Life From a Watery World](https://soylentnews.org/article.pl?sid=25/02/03/1327213&from=rss)
-* [2025-02-04, 12:23:00](https://soylentnews.org/article.pl?sid=25/02/02/1444250&from=rss) - [Fediverse Explosive Growth - 100m Posts in January](https://soylentnews.org/article.pl?sid=25/02/02/1444250&from=rss)
-* [2025-02-04, 07:41:00](https://soylentnews.org/article.pl?sid=25/02/02/1338233&from=rss) - [US to Deploy Molten Salt Reactors to Turn Wastewater Into Freshwater](https://soylentnews.org/article.pl?sid=25/02/02/1338233&from=rss)
-* [2025-02-04, 02:56:00](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss) - [How Does DeepSeek R1 Really Fare Against OpenAI's Best Reasoning Models?](https://soylentnews.org/article.pl?sid=25/02/02/141218&from=rss)
