@@ -1,52 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Technology Developments
 
-* [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/) - Discusses the creation of a Kubernetes cluster using postmarketOS, highlighting its innovative use of a minimal Linux distribution.
+* [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra) ([comments](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network))
 
-* [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html) - Introduces an alternative database that integrates seamlessly with custom backends.
+* [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/) ([comments](https://news.ycombinator.com/item?id=42995403))
 
-* [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/) - A project showcasing a library for freely available audiobooks with an emphasis on searchability.
+* [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html) ([comments](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with))
 
-* [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html) - Explains a new operator in TypeScript aiming to improve type checks and developer experience.
+* [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/) ([comments](https://news.ycombinator.com/item?id=42994828))
 
-## Scientific and Space Exploration News
+* [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/) ([comments](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes))
 
-* [NASA Scientists Want to Solve a Mystery: Why Did Life "Turn Left?"](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) - Discusses NASA's exploration into why amino acids and life on Earth favor left-handedness in their molecular structures.
+* [Satellite texting by Starlink and T-Mobile open to all users](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/) ([comments](https://news.ycombinator.com/item?id=42996003))
 
-* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) - Reports on unexpected radiation belts observed around Earth following a major solar storm.
+## AI and Advanced Computing
 
-* [Boeing's 'Starliner' Also Experienced an Issue on Its Return to Earth](https://science.slashdot.org/story/25/02/09/0322226/boeings-starliner-also-experienced-an-issue-on-its-return-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights continued technical challenges faced by Boeing's Starliner spacecraft.
+* [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples) ([comments](https://news.ycombinator.com/item?id=42990036))
 
-## Business and Tech Industry Insights
+* [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/) ([comments](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on))
 
-* [America's IT Unemployment Rises To 5.7%. Is AI Hitting Tech Jobs?](https://it.slashdot.org/story/25/02/09/1754229/americas-it-unemployment-rises-to-57-is-ai-hitting-tech-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores whether AI advancements are causing job losses in the IT industry.
+* [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584) ([comments](https://news.ycombinator.com/item?id=42992336))
 
-* [Job-Search Sites Try Shaming Companies That 'Ghost' Job-Seekers](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines efforts by job-search platforms to hold employers accountable for poor candidate communication.
+* [AI Demos](https://aidemos.meta.com/) ([comments](https://news.ycombinator.com/item?id=42992643))
 
-* [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) - Reports on a new order compelling Apple to provide access to user data, raising privacy concerns.
+## Open Source Innovations
 
-## Programming and Developer Tools
+* [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/) ([comments](https://news.ycombinator.com/item?id=42996322))
 
-* [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/) - Introduces a unified Python wrapper to streamline use of multiple text-to-speech engines.
+* [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata) ([comments](https://news.ycombinator.com/item?id=42991019))
 
-* [Writing a Simple Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/) - Details the process of creating basic hardware drivers using the Rust programming language.
+* [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html) ([comments](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my))
 
-* [Don't "optimize" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/) - A cautionary tale for graphics developers about common shader optimization pitfalls.
+* [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/) ([comments](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary))
 
-## Society and Legal Developments
+## Socio-Political and Privacy Concerns
 
-* [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/) - Describes legal battles to safeguard software freedoms in response to Apple's cloud data policies.
+* [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161) ([comments](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted))
 
-* [El Salvador Congress Votes to Revoke Bitcoin's 'Legal Currency' Status](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details a significant shift in cryptocurrency adoption policy in El Salvador.
+* [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss))
 
-## Human Interest and Miscellaneous News
+* [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/) ([comments](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom))
 
-* [Bill Gates Remembers LSD Trips, Smoking Pot, and How the Smartphone OS Market 'Was Ours for the Taking'](https://news.slashdot.org/story/25/02/09/2212238/bill-gates-remembers-lsd-trips-smoking-pot-and-how-the-smartphone-os-market-was-ours-for-the-taking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A candid reflection by Bill Gates on personal experiences and tech industry opportunities lost.
+## Space and Science
 
-* [Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A remarkable feat of mid-air skydiving adventure.
+* [NASA Scientists Want to Solve a Mystery: Why Did Life 'Turn Left?'](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss))
 
-* [Retrocomputing Enthusiast Explores 28-Year-Old Powerbook G3: 'Apple's Hope For Redemption'](https://apple.slashdot.org/story/25/02/09/176246/retrocomputing-enthusiast-explores-28-year-old-powerbook-g3-apples-hope-for-redemption?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revisits the history and potential of an iconic Apple laptop.
+* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss))
+
+* [Boeing's 'Starliner' Also Experienced an Issue on Its Return to Earth](https://science.slashdot.org/story/25/02/09/0322226/boeings-starliner-also-experienced-an-issue-on-its-return-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/02/09/0322226/boeings-starliner-also-experienced-an-issue-on-its-return-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Miscellaneous Highlights
+
+* [Job-Search Sites Try Shaming Companies That 'Ghost' Job-Seekers](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns) ([comments](https://news.ycombinator.com/item?id=42993755))
+
+* [Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -73,8 +83,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+* [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
+* [2025-02-10, 01:27:56](https://news.ycombinator.com/item?id=42996003) - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
+* [2025-02-10, 01:23:00](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss) - [Facebook Torrents 81TB of Data to Feed their Models](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss)
 * [2025-02-10, 00:34:00](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Job-Search Sites Try Shaming Companies That 'Ghost' Job-Seekers](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-09, 23:56:17](https://news.ycombinator.com/item?id=42995425) - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
+* [2025-02-10, 00:23:25](https://news.ycombinator.com/item?id=42995579) - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 * [2025-02-09, 23:33:27](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes) - [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
@@ -92,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 20:34:00](https://developers.slashdot.org/story/25/02/09/1922236/this-was-cs50-crying-poor-yale-to-stop-offering-harvards-famed-cs50-course?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [This Was CS50: Crying Poor, Yale To Stop Offering Harvard's Famed CS50 Course](https://developers.slashdot.org/story/25/02/09/1922236/this-was-cs50-crying-poor-yale-to-stop-offering-harvards-famed-cs50-course?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
-* [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:34:00](https://it.slashdot.org/story/25/02/09/1754229/americas-it-unemployment-rises-to-57-is-ai-hitting-tech-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's IT Unemployment Rises To 5.7%. Is AI Hitting Tech Jobs?](https://it.slashdot.org/story/25/02/09/1754229/americas-it-unemployment-rises-to-57-is-ai-hitting-tech-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
 * [2025-02-09, 19:25:39](https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t) - [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
@@ -102,8 +115,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 * [2025-02-09, 17:50:10](https://news.ycombinator.com/item?id=42992159) - [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
 * [2025-02-09, 17:34:00](https://developers.slashdot.org/story/25/02/08/0455231/what-do-linux-kernel-developers-think-of-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Do Linux Kernel Developers Think of Rust?](https://developers.slashdot.org/story/25/02/08/0455231/what-do-linux-kernel-developers-think-of-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-09, 17:28:53](https://news.ycombinator.com/item?id=42992032) - [An Upstate Town Took Back Its Power (2023)](https://nysfocus.com/2023/06/21/public-power-utility-massena-new-york)
-* [2025-02-09, 17:02:57](https://lobste.rs/s/9bqawk/writing_simple_driver_rust) - [Writing a Simple Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-09, 16:34:00](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
@@ -119,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 12:04:00](https://developers.slashdot.org/story/25/02/09/0636247/c-on-steroids-bjarne-stroustrup-presents-guideline-enforcing-profiles-for-resource-and-type-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [C++ on Steroids: Bjarne Stroustrup Presents Guideline-Enforcing 'Profiles' For Resource and Type Safety](https://developers.slashdot.org/story/25/02/09/0636247/c-on-steroids-bjarne-stroustrup-presents-guideline-enforcing-profiles-for-resource-and-type-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
 * [2025-02-09, 11:08:00](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss) - [Fixing E.T. the Extra-Terrestrial for the Atari 2600](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss)
-* [2025-02-09, 11:07:52](https://news.ycombinator.com/item?id=42989923) - [Linux as co-operative Windows process (2017)](http://www.colinux.org/)
 * [2025-02-09, 09:51:59](https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight (2024)](https://asteriskmag.com/issues/08/chimes-at-midnight)
 * [2025-02-09, 09:42:12](https://lobste.rs/s/zbbfht/visible_zorker) - [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
@@ -150,7 +160,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-08, 01:49:00](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss)
 * [2025-02-07, 21:02:00](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss) - [Deepfake Videos are Getting Shockingly Good](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss)
 * [2025-02-07, 16:14:00](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss) - [As Internet Enshittification Marches On, Here are Some of the Worst Offenders](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss)
+* [2025-02-07, 13:58:29](https://news.ycombinator.com/item?id=42972556) - [Greeks II: The Cult of Numbers](https://www.thequantumcat.space/p/greeks-ii-the-cult-of-numbers)
 * [2025-02-07, 11:28:00](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss) - [Russia VPN Crackdown Revelation - VPN Sites Hide Their IP Addresses ](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss)
+* [2025-02-07, 11:25:19](https://news.ycombinator.com/item?id=42971442) - [Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
 * [2025-02-07, 06:43:00](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss) - [Educated but Easily Fooled? Who Falls for Misinformation and Why](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss)
 * [2025-02-07, 01:55:00](https://soylentnews.org/article.pl?sid=25/02/06/0531248&from=rss) - [Google Removes Pledge to Not Use AI for Weapons From Website](https://soylentnews.org/article.pl?sid=25/02/06/0531248&from=rss)
 * [2025-02-07, 00:40:31](https://news.ycombinator.com/item?id=42968039) - [Building an \"Easy\" Web Application](https://rudyfaile.com/2020/07/06/building-an-easy-web-application/)
@@ -159,7 +171,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 16:24:00](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss) - [Who's Your Pick?  Eagles or Chiefs? Or Statistics?](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
-* [2025-02-06, 13:51:35](https://news.ycombinator.com/item?id=42962274) - [Atari 2600 vs. Atari 7800 Which Should You Get?](https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should)
 * [2025-02-06, 11:40:00](https://soylentnews.org/article.pl?sid=25/02/04/1521226&from=rss) - [Google Offering ‘Voluntary Exit’ for Employees Working on Pixel, Android](https://soylentnews.org/article.pl?sid=25/02/04/1521226&from=rss)
 * [2025-02-06, 06:55:00](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss) - [Cooking Flawless Pasta - it's Science!](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss)
 * [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
