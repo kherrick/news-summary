@@ -1,62 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments
+## Technology and Software Developments
 
-* [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra) ([comments](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network))
+* [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html) (Comments: [Lobsters](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare), [Hacker News](https://news.ycombinator.com/item?id=42996831)) - An in-depth analysis of Ada's memory safety features versus Rust, exploring how the two programming languages tackle common safety issues.
 
-* [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/) ([comments](https://news.ycombinator.com/item?id=42995403))
+* [EG Public Alpha Announcement: Developer experience focused CI/CD](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html) (Comments: [Lobsters](https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer)) - A CI/CD platform prioritizing developer experience enters public alpha testing.
 
-* [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html) ([comments](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with))
+* [Rostra - A P2P (or rather F2F) Social Network](https://github.com/dpc/rostra) (Comments: [Lobsters](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network)) - A dive into a decentralized, face-to-face-oriented social networking platform.
 
-* [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/) ([comments](https://news.ycombinator.com/item?id=42994828))
+* [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html) (Comments: [Lobsters](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with)) - Exploring a compelling alternative to Firebase Firestore with backend synchronization capabilities.
 
-* [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/) ([comments](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes))
+* [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix) - A guide on using Nix to maintain persistent packages on the Steam Deck, enhancing the device's utilitarian value.
 
-* [Satellite texting by Starlink and T-Mobile open to all users](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/) ([comments](https://news.ycombinator.com/item?id=42996003))
+## Digital Security and Privacy
 
-## AI and Advanced Computing
+* [WhatsApp Says Journalists and Civil Society Members Were Targets of Israeli Spyware](https://soylentnews.org/article.pl?sid=25/02/09/1321246&from=rss) - The messaging giant reveals espionage efforts targeting journalists and activists through sophisticated spyware.
 
-* [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples) ([comments](https://news.ycombinator.com/item?id=42990036))
+* [UK Orders Apple To Give It Access To Encrypted Cloud Data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161) (Comments: [Lobsters](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted)) - A new mandate sparks controversies over user privacy and encryption.
 
-* [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/) ([comments](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on))
+* [ 'Cracked' and 'Nulled' Crime Forums, Closed Down In European Cyber Bust](https://soylentnews.org/article.pl?sid=25/02/08/1244232&from=rss) - Major cybercrime forums are shuttered in a Europe-wide crackdown.
 
-* [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584) ([comments](https://news.ycombinator.com/item?id=42992336))
+* [Meta Says This is the Make or Break Year for the Metaverse](https://soylentnews.org/article.pl?sid=25/02/07/1312257&from=rss) - Meta outlines high stakes for the year ahead in its continued push for virtual ecosystems.
 
-* [AI Demos](https://aidemos.meta.com/) ([comments](https://news.ycombinator.com/item?id=42992643))
+## Science and Exploration
 
-## Open Source Innovations
+* [NASA Scientists Want to Solve a Mystery: Why Did Life "Turn Left?"](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) - Researchers probe a fascinating evolutionary question about asymmetric biomolecules.
 
-* [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/) ([comments](https://news.ycombinator.com/item?id=42996322))
+* [Mapping Antarctica’s Hidden Ice-Free Lands: A Blueprint for Conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation) - A study explores ecological preservation in the least understood parts of Antarctica.
 
-* [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata) ([comments](https://news.ycombinator.com/item?id=42991019))
+* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) - Scientists investigate unusual radiation phenomena following a solar event.
 
-* [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html) ([comments](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my))
+## Innovative Tools and Practices
 
-* [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/) ([comments](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary))
+* [blip: A Tool for Seeing Your Internet Latency](https://github.com/apenwarr/blip) (Comments: [Lobsters](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet)) - An open-source tool offers insights into network latency.
 
-## Socio-Political and Privacy Concerns
+* [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/) (Comments: [Hacker News](https://news.ycombinator.com/item?id=42994440)) - A new platform to easily browse and access free audiobooks online.
 
-* [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161) ([comments](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted))
+* [Building a Personal, Private AI Computer on a Budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget) (Comments: [Lobsters](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on)) - A guide for constructing low-cost, private AI platforms.
 
-* [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss))
+## Cultural and Social Insights
 
-* [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/) ([comments](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom))
+* [Bill Gates Remembers LSD Trips, Smoking Pot, and How the Smartphone OS Market 'Was Ours for the Taking'](https://news.slashdot.org/story/25/02/09/2212238/bill-gates-remembers-lsd-trips-smoking-pot-and-how-the-smartphone-os-market-was-ours-for-the-taking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Microsoft co-founder reflects on formative experiences and missed opportunities.
 
-## Space and Science
+* [Thomas Aquinas' Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years) (Comments: [Hacker News](https://news.ycombinator.com/item?id=42996671)) - Insights from the remains of a historic theologian after 750 years.
 
-* [NASA Scientists Want to Solve a Mystery: Why Did Life 'Turn Left?'](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss))
-
-* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss))
-
-* [Boeing's 'Starliner' Also Experienced an Issue on Its Return to Earth](https://science.slashdot.org/story/25/02/09/0322226/boeings-starliner-also-experienced-an-issue-on-its-return-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/02/09/0322226/boeings-starliner-also-experienced-an-issue-on-its-return-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Miscellaneous Highlights
-
-* [Job-Search Sites Try Shaming Companies That 'Ghost' Job-Seekers](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns) ([comments](https://news.ycombinator.com/item?id=42993755))
-
-* [Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/) (Comments: [Hacker News](https://news.ycombinator.com/item?id=42992159)) - A personal take on blogging's intrinsic value beyond metrics.
 
 ---
 
@@ -83,21 +71,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-10, 06:10:00](https://soylentnews.org/article.pl?sid=25/02/09/1321246&from=rss) - [WhatsApp Says Journalists and Civil Society Members Were Targets of Israeli Spyware](https://soylentnews.org/article.pl?sid=25/02/09/1321246&from=rss)
+* [2025-02-10, 05:58:36](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
+* [2025-02-10, 05:48:25](https://news.ycombinator.com/item?id=42997308) - [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
+* [2025-02-10, 05:39:57](https://lobste.rs/s/j7nyrz/wtf_are_popcorn_tasks) - [WTF are Popcorn Tasks?](https://madole.xyz/blog/wtf-are-popcorn-tasks)
+* [2025-02-10, 04:32:43](https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer) - [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
+* [2025-02-10, 04:09:00](https://mobile.slashdot.org/story/25/02/10/043208/free-t-mobile-starlink-for-six-months-announced-during-super-bowl-also-available-to-verizon-and-att-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free 'T-Mobile Starlink' for Six Months Announced During Super Bowl. Also Available to Verizon and AT&amp;T Customers](https://mobile.slashdot.org/story/25/02/10/043208/free-t-mobile-starlink-for-six-months-announced-during-super-bowl-also-available-to-verizon-and-att-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-10, 04:07:32](https://news.ycombinator.com/item?id=42996831) - [How does Ada's memory safety compare against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
+* [2025-02-10, 04:01:36](https://news.ycombinator.com/item?id=42996796) - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
+* [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 * [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
-* [2025-02-10, 01:27:56](https://news.ycombinator.com/item?id=42996003) - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
 * [2025-02-10, 01:23:00](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss) - [Facebook Torrents 81TB of Data to Feed their Models](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss)
 * [2025-02-10, 00:34:00](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Job-Search Sites Try Shaming Companies That 'Ghost' Job-Seekers](https://it.slashdot.org/story/25/02/09/2257225/job-search-sites-try-shaming-companies-that-ghost-job-seekers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-10, 00:23:25](https://news.ycombinator.com/item?id=42995579) - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 * [2025-02-09, 23:33:27](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes) - [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
-* [2025-02-09, 22:36:56](https://news.ycombinator.com/item?id=42994828) - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
 * [2025-02-09, 22:34:00](https://news.slashdot.org/story/25/02/09/2212238/bill-gates-remembers-lsd-trips-smoking-pot-and-how-the-smartphone-os-market-was-ours-for-the-taking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Bill Gates Remembers LSD Trips, Smoking Pot, and How the Smartphone OS Market 'Was Ours for the Taking'](https://news.slashdot.org/story/25/02/09/2212238/bill-gates-remembers-lsd-trips-smoking-pot-and-how-the-smartphone-os-market-was-ours-for-the-taking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 22:30:47](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with) - [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
 * [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted) - [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
 * [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
-* [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+* [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable library of free audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 21:34:00](https://it.slashdot.org/story/25/02/09/2021244/how-to-make-any-amd-zen-cpu-always-generate-4-as-a-random-number?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How To Make Any AMD Zen CPU Always Generate 4 As a Random Number](https://it.slashdot.org/story/25/02/09/2021244/how-to-make-any-amd-zen-cpu-always-generate-4-as-a-random-number?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
@@ -113,7 +108,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 18:34:00](https://apple.slashdot.org/story/25/02/09/176246/retrocomputing-enthusiast-explores-28-year-old-powerbook-g3-apples-hope-for-redemption?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Retrocomputing Enthusiast Explores 28-Year-Old Powerbook G3: 'Apple's Hope For Redemption'](https://apple.slashdot.org/story/25/02/09/176246/retrocomputing-enthusiast-explores-28-year-old-powerbook-g3-apples-hope-for-redemption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 18:15:44](https://news.ycombinator.com/item?id=42992345) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
 * [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
-* [2025-02-09, 17:50:10](https://news.ycombinator.com/item?id=42992159) - [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
+* [2025-02-09, 17:50:10](https://news.ycombinator.com/item?id=42992159) - [Why blog if nobody reads it?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
 * [2025-02-09, 17:34:00](https://developers.slashdot.org/story/25/02/08/0455231/what-do-linux-kernel-developers-think-of-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Do Linux Kernel Developers Think of Rust?](https://developers.slashdot.org/story/25/02/08/0455231/what-do-linux-kernel-developers-think-of-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 16:34:00](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive](https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
@@ -121,14 +116,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 15:52:00](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) - [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss)
 * [2025-02-09, 15:34:00](https://tech.slashdot.org/story/25/02/09/0717232/did-google-fake-gemini-ais-output-for-its-super-bowl-ad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Did Google Fake Gemini AI's Output For Its Super Bowl Ad?](https://tech.slashdot.org/story/25/02/09/0717232/did-google-fake-gemini-ais-output-for-its-super-bowl-ad?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio) - [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
-* [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:15:02](https://lobste.rs/s/01i5mu/baffled_by_generational_garbage) - [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 14:05:26](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
+* [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common mistakes in architecture diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 12:50:26](https://lobste.rs/s/bqucas/here_is_how_i_ve_configure_openbsd_freebsd) - [here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi](https://vincentdelft.be/post/post_20250208)
 * [2025-02-09, 12:44:49](https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 12:04:00](https://developers.slashdot.org/story/25/02/09/0636247/c-on-steroids-bjarne-stroustrup-presents-guideline-enforcing-profiles-for-resource-and-type-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [C++ on Steroids: Bjarne Stroustrup Presents Guideline-Enforcing 'Profiles' For Resource and Type Safety](https://developers.slashdot.org/story/25/02/09/0636247/c-on-steroids-bjarne-stroustrup-presents-guideline-enforcing-profiles-for-resource-and-type-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
 * [2025-02-09, 11:08:00](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss) - [Fixing E.T. the Extra-Terrestrial for the Atari 2600](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss)
 * [2025-02-09, 09:51:59](https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight (2024)](https://asteriskmag.com/issues/08/chimes-at-midnight)
@@ -144,33 +138,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-09, 02:34:00](https://yro.slashdot.org/story/25/02/09/029241/california-tech-founder-admits-to-defrauding-4m-for-his-luxury-lifestyle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Tech Founder Admits to Defrauding $4M For His Luxury Lifestyle](https://yro.slashdot.org/story/25/02/09/029241/california-tech-founder-admits-to-defrauding-4m-for-his-luxury-lifestyle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-09, 01:38:00](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) - [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss)
 * [2025-02-09, 00:47:00](https://news.slashdot.org/story/25/02/09/0039235/does-the-spirit-of-open-source-mean-much-more-than-a-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Does the 'Spirit' of Open Source Mean Much More Than a License?](https://news.slashdot.org/story/25/02/09/0039235/does-the-spirit-of-open-source-mean-much-more-than-a-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-08, 23:47:00](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [El Salvador Congress Votes to Revoke Bitcoin's 'Legal Currency' Status](https://yro.slashdot.org/story/25/02/08/2344254/el-salvador-congress-votes-to-revoke-bitcoins-legal-currency-status?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-08, 20:49:00](https://soylentnews.org/article.pl?sid=25/02/07/1312257&from=rss) - [Meta Says This is the Make or Break Year for the Metaverse](https://soylentnews.org/article.pl?sid=25/02/07/1312257&from=rss)
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 19:06:42](https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff) - [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
-* [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 * [2025-02-08, 16:07:00](https://soylentnews.org/article.pl?sid=25/02/07/048232&from=rss) - [Catalytic Converters: How Much Platinum Do They Contain?](https://soylentnews.org/article.pl?sid=25/02/07/048232&from=rss)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
-* [2025-02-08, 12:38:53](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my) - [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
 * [2025-02-08, 11:20:00](https://soylentnews.org/article.pl?sid=25/02/07/044225&from=rss) - [Cloudflare Browser Integrity Check Blocking Many Non-Mainstream Browsers Again](https://soylentnews.org/article.pl?sid=25/02/07/044225&from=rss)
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-08, 08:45:00](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss) - [Soylent Update - February 2025](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss)
-* [2025-02-08, 06:33:22](https://lobste.rs/s/uoxout/no_libc_zig_now_outperforms_glibc_zig) - [No-Libc Zig Now Outperforms Glibc Zig](https://ziglang.org/devlog/2025/#2025-02-07)
 * [2025-02-08, 06:32:00](https://soylentnews.org/politics/article.pl?sid=25/02/07/0354212&from=rss) - [US ICE Updates Immigration Raid Timestamps to Game Goggle Search Results](https://soylentnews.org/politics/article.pl?sid=25/02/07/0354212&from=rss)
 * [2025-02-08, 01:49:00](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss)
 * [2025-02-07, 21:02:00](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss) - [Deepfake Videos are Getting Shockingly Good](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss)
 * [2025-02-07, 16:14:00](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss) - [As Internet Enshittification Marches On, Here are Some of the Worst Offenders](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss)
-* [2025-02-07, 13:58:29](https://news.ycombinator.com/item?id=42972556) - [Greeks II: The Cult of Numbers](https://www.thequantumcat.space/p/greeks-ii-the-cult-of-numbers)
+* [2025-02-07, 14:37:46](https://news.ycombinator.com/item?id=42973049) - [Mapping Antarctica’s hidden ice-free lands: a blueprint for conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation)
 * [2025-02-07, 11:28:00](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss) - [Russia VPN Crackdown Revelation - VPN Sites Hide Their IP Addresses ](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss)
 * [2025-02-07, 11:25:19](https://news.ycombinator.com/item?id=42971442) - [Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
 * [2025-02-07, 06:43:00](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss) - [Educated but Easily Fooled? Who Falls for Misinformation and Why](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss)
 * [2025-02-07, 01:55:00](https://soylentnews.org/article.pl?sid=25/02/06/0531248&from=rss) - [Google Removes Pledge to Not Use AI for Weapons From Website](https://soylentnews.org/article.pl?sid=25/02/06/0531248&from=rss)
-* [2025-02-07, 00:40:31](https://news.ycombinator.com/item?id=42968039) - [Building an \"Easy\" Web Application](https://rudyfaile.com/2020/07/06/building-an-easy-web-application/)
 * [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
 * [2025-02-06, 21:12:00](https://soylentnews.org/article.pl?sid=25/02/04/1537254&from=rss) - [Warmer, More Crowded Cities Bring Out the Rats](https://soylentnews.org/article.pl?sid=25/02/04/1537254&from=rss)
-* [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 16:24:00](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss) - [Who's Your Pick?  Eagles or Chiefs? Or Statistics?](https://soylentnews.org/article.pl?sid=25/02/04/1528253&from=rss)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
+* [2025-02-06, 13:35:56](https://news.ycombinator.com/item?id=42962138) - [An Anonymous Investor Is Spending Millions to Make Underwater Homes](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
 * [2025-02-06, 11:40:00](https://soylentnews.org/article.pl?sid=25/02/04/1521226&from=rss) - [Google Offering ‘Voluntary Exit’ for Employees Working on Pixel, Android](https://soylentnews.org/article.pl?sid=25/02/04/1521226&from=rss)
+* [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some terminal frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 * [2025-02-06, 06:55:00](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss) - [Cooking Flawless Pasta - it's Science!](https://soylentnews.org/article.pl?sid=25/02/04/1518208&from=rss)
 * [2025-02-06, 02:13:00](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss) - [These Smart Glasses Help People With Macular Degeneration By Eliminating Blind Spots](https://soylentnews.org/article.pl?sid=25/02/04/1511202&from=rss)
