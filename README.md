@@ -1,40 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Technology and Software Trends
 
-* [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html) - Discussion on how NixOS enables truly portable executables, which addresses cross-platform challenges. [Comments](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables)
+* [Feature Flags vs Configuration Options (2020)](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf) ([article](https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options), [comments](https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options))
 
-* [Introduction to Operating System Abstractions using Plan 9](https://archive.org/details/plan9designintro) - An exploration of OS abstractions through the Plan 9 system, offering insights into its unique design. [Comments](https://lobste.rs/s/s4ew3u/introduction_operating_system)
+* [We Replaced Our React Frontend with Go and WebAssembly - Dagger](https://dagger.io/blog/replaced-react-with-go) ([article](https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go), [comments](https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go))
 
-* [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go) - An intriguing transition away from React in favor of Go and WebAssembly for performance and scalability reasons. [Comments](https://news.ycombinator.com/item?id=43008190)
+* [Brave Now Lets You Inject Custom JavaScript To Tweak Websites](https://tech.slashdot.org/story/25/02/10/2348258/brave-now-lets-you-inject-custom-javascript-to-tweak-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://soylentnews.org/article.pl?sid=25/02/10/2348258&from=rss))
 
-* [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/) - A practical guide for those wanting to first foray into creating a website. [Comments](https://news.ycombinator.com/item?id=43008315)
+* [GameFontLibrary | Video Game Fonts & Typography Database](https://www.gamefontlibrary.com) ([article](https://lobste.rs/s/lvjtgq/gamefontlibrary_video_game_fonts), [comments](https://lobste.rs/s/lvjtgq/gamefontlibrary_video_game_fonts))
 
-* [Anansi-tags (now in NodeJS!)](https://www.npmjs.com/package/anansi-tags) - A development library for handling tags in web frameworks, now available for NodeJS. [Comments](https://lobste.rs/s/icgiym/anansi_tags_now_nodejs)
+## Emerging Issues in Technology
 
-* [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/) - A philosophical look at the relational interpretation of quantum mechanics, asking how reality depends on observer-interaction. [Comments](https://news.ycombinator.com/item?id=43006350)
+* [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43009682))
 
-## Hardware and Engineering
+* [Why hasn't commercial air travel gotten any faster since the 1960s? (2009)](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/) ([comments](https://news.ycombinator.com/item?id=43000275))
 
-* [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues) - Reports highlight a potentially dangerous flaw in Nvidia's latest RTX 5090 GPU's connectors. [Comments](https://news.ycombinator.com/item?id=43008879)
+* [Intel Has Already Received $2.2B in Federal Grants for Chip Production](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss))
 
-* [China's BYD Adding 'High-Level' Self-Driving To Its Budget $10K EV](https://tech.slashdot.org/story/25/02/11/010215/chinas-byd-adding-high-level-self-driving-to-its-budget-10k-ev) - BYD revolutionizes budget EVs with affordable self-driving features. [Comments](https://tech.slashdot.org/story/25/02/11/010215/chinas-byd-adding-high-level-self-driving-to-its-budget-10k-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Innovative Concepts and Methodologies
 
-* [Nocc – A Distributed C++ Compiler](https://github.com/VKCOM/nocc) - A tool to improve the performance of C++ compilation by distributing workloads. [Comments](https://news.ycombinator.com/item?id=43007336)
+* [Undergraduate Invents Faster Hash Table](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/) ([article](https://lobste.rs/s/uoiosa/undergraduate_invents_faster_hash_table), [comments](https://news.ycombinator.com/item?id=43002511))
 
-## Industry and Policy
+* [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html) ([article](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables), [comments](https://news.ycombinator.com/item?id=43009411))
 
-* [Intel Has Already Received $2.2B in Federal Grants for Chip Production](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss) - A look at government incentives for domestic chip manufacturing to bolster competitiveness. [Comments](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss)
+* [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E) ([comments](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal))
 
-* [TikTok Wants Android Users To Sideload Its App](https://tech.slashdot.org/story/25/02/11/007253/tiktok-wants-android-users-to-sideload-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - TikTok's bid to bypass app store restrictions sparks debate. [Comments](https://tech.slashdot.org/story/25/02/11/007253/tiktok-wants-android-users-to-sideload-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/) ([article](https://lobste.rs/s/fwqjqm/how_copyover_mud_servers_worked), [comments](https://news.ycombinator.com/item?id=43007769))
 
-* [Connecticut Bill Requires Movie Theaters To Reveal How Long Those 'Coming Soon' Trailers Really Are](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Proposed legislation seeks transparency in movie previews. [Comments](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Societal Issues and Policies
 
-## Science and Research
+* [US-Funded 'Social Network' Attacking Pesticide Critics Shuts Down](https://tech.slashdot.org/story/25/02/11/0122253/us-funded-social-network-attacking-pesticide-critics-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/11/0122253/us-funded-social-network-attacking-pesticide-critics-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Undergraduate Invents Faster Hash Table](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/) - Groundbreaking work by an undergraduate challenges a 40-year-old data theory. [Comments](https://lobste.rs/s/uoiosa/undergraduate_invents_faster_hash_table)
+* [Connecticut Bill Requires Movie Theaters To Reveal How Long Those 'Coming Soon' Trailers Really Are](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/) - A comprehensive look into efficient strategies for implementing real-time capabilities. [Comments](https://news.ycombinator.com/item?id=43004334)
+* [Man Who Lost Bitcoin Fortune In Welsh Tip Explores Purchase of Entire Landfill](https://news.slashdot.org/story/25/02/10/1721224/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/10/1721224/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Historical and Cultural Insights
+
+* [Fixing E.T. the Extra-Terrestrial for the Atari 2600](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss))
+
+* [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/) ([comments](https://news.ycombinator.com/item?id=42973652))
+
+* [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family) ([comments](https://news.ycombinator.com/item?id=42969038))
 
 ---
 
@@ -61,16 +69,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-11, 09:25:29](https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options) - [Feature Flags vs Configuration Options (2020)](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf)
+* [2025-02-11, 09:02:29](https://lobste.rs/s/lvjtgq/gamefontlibrary_video_game_fonts) - [GameFontLibrary | Video Game Fonts & Typography Database](https://www.gamefontlibrary.com)
+* [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
+* [2025-02-11, 08:00:55](https://lobste.rs/s/vqprux/persistent_packages_on_steam_deck_using) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
+* [2025-02-11, 07:35:24](https://news.ycombinator.com/item?id=43010037) - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
+* [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+* [2025-02-11, 07:00:00](https://tech.slashdot.org/story/25/02/11/0122253/us-funded-social-network-attacking-pesticide-critics-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US-Funded 'Social Network' Attacking Pesticide Critics Shuts Down](https://tech.slashdot.org/story/25/02/11/0122253/us-funded-social-network-attacking-pesticide-critics-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-11, 06:34:26](https://news.ycombinator.com/item?id=43009682) - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
+* [2025-02-11, 06:13:41](https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go) - [We Replaced Our React Frontend with Go and WebAssembly - Dagger](https://dagger.io/blog/replaced-react-with-go)
+* [2025-02-11, 05:50:34](https://news.ycombinator.com/item?id=43009411) - [NixOS and Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 * [2025-02-11, 05:50:19](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables) - [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 * [2025-02-11, 05:45:00](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss) - [Intel Has Already Received $2.2B in Federal Grants for Chip Production](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss)
 * [2025-02-11, 04:53:05](https://lobste.rs/s/s4ew3u/introduction_operating_system) - [Introduction to Operating System Abstractions using Plan 9](https://archive.org/details/plan9designintro)
 * [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
-* [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-11, 03:30:00](https://tech.slashdot.org/story/25/02/11/018239/citing-ev-rollercoaster-in-us-bmw-invests-in-internal-combustion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Citing EV 'Rollercoaster' In US, BMW Invests In Internal Combustion](https://tech.slashdot.org/story/25/02/11/018239/citing-ev-rollercoaster-in-us-bmw-invests-in-internal-combustion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-11, 02:55:31](https://news.ycombinator.com/item?id=43008422) - [Apple software update \"bug\" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 * [2025-02-11, 02:37:06](https://news.ycombinator.com/item?id=43008315) - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
 * [2025-02-11, 02:30:00](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Connecticut Bill Requires Movie Theaters To Reveal How Long Those 'Coming Soon' Trailers Really Are](https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-11, 02:13:56](https://news.ycombinator.com/item?id=43008190) - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-11, 01:50:00](https://tech.slashdot.org/story/25/02/11/010215/chinas-byd-adding-high-level-self-driving-to-its-budget-10k-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's BYD Adding 'High-Level' Self-Driving To Its Budget $10K EV](https://tech.slashdot.org/story/25/02/11/010215/chinas-byd-adding-high-level-self-driving-to-its-budget-10k-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-11, 01:31:08](https://lobste.rs/s/icgiym/anansi_tags_now_nodejs) - [Anansi-tags (now in NodeJS!)](https://www.npmjs.com/package/anansi-tags)
@@ -79,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-11, 01:10:00](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2025-02-11, 01:00:00](https://soylentnews.org/article.pl?sid=25/02/09/1853248&from=rss) - [Rare Otter 'Disappeared' In Kyrgyzstan, Experts Warn](https://soylentnews.org/article.pl?sid=25/02/09/1853248&from=rss)
-* [2025-02-11, 00:35:34](https://news.ycombinator.com/item?id=43007336) - [Nocc – A Distributed C++ Compiler](https://github.com/VKCOM/nocc)
 * [2025-02-11, 00:30:00](https://tech.slashdot.org/story/25/02/11/007253/tiktok-wants-android-users-to-sideload-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [TikTok Wants Android Users To Sideload Its App](https://tech.slashdot.org/story/25/02/11/007253/tiktok-wants-android-users-to-sideload-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-10, 23:50:00](https://tech.slashdot.org/story/25/02/10/2348258/brave-now-lets-you-inject-custom-javascript-to-tweak-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brave Now Lets You Inject Custom JavaScript To Tweak Websites](https://tech.slashdot.org/story/25/02/10/2348258/brave-now-lets-you-inject-custom-javascript-to-tweak-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
@@ -106,13 +120,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-10, 17:22:00](https://news.slashdot.org/story/25/02/10/1721224/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Man Who Lost Bitcoin Fortune In Welsh Tip Explores Purchase of Entire Landfill](https://news.slashdot.org/story/25/02/10/1721224/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-10, 17:05:09](https://news.ycombinator.com/item?id=43002511) - [Undergraduate shows that searches within hash tables can be much faster](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
-* [2025-02-10, 16:44:00](https://tech.slashdot.org/story/25/02/10/1646207/lyft-eyes-robotaxi-launch-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lyft Eyes Robotaxi Launch in 2026](https://tech.slashdot.org/story/25/02/10/1646207/lyft-eyes-robotaxi-launch-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-10, 16:26:49](https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource) - [pkarr: Public Key Addressable Resource Records (sovereign TLDs)](https://github.com/pubky/pkarr)
-* [2025-02-10, 15:54:45](https://news.ycombinator.com/item?id=43001688) - [Show HN: Global 3D topography explorer](https://topography.jessekv.com)
 * [2025-02-10, 15:43:08](https://lobste.rs/s/jpa59v/sandboxing_perl_with_webassembly) - [Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
 * [2025-02-10, 15:34:00](https://soylentnews.org/article.pl?sid=25/02/09/145236&from=rss) - [Kaspersky Researchers Find Screenshot-Reading Malware on the App Store and Google Play](https://soylentnews.org/article.pl?sid=25/02/09/145236&from=rss)
 * [2025-02-10, 15:18:10](https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c) - [Concerns with the proposed addition of fibers to C++ 26](https://isocpp.org/files/papers/P3620R0.pdf)
-* [2025-02-10, 14:18:45](https://lobste.rs/s/j3ggjx/yucan_ui_engine) - [Yucan UI Engine](https://yucan-ui.com/)
 * [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 * [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
@@ -123,13 +134,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-10, 13:01:18](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:52:00](https://soylentnews.org/article.pl?sid=25/02/09/1336213&from=rss) - [Your AI Can't See Gorillas](https://soylentnews.org/article.pl?sid=25/02/09/1336213&from=rss)
-* [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
-* [2025-02-10, 08:21:55](https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug) - [Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows](https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle)
 * [2025-02-10, 06:10:00](https://soylentnews.org/article.pl?sid=25/02/09/1321246&from=rss) - [WhatsApp Says Journalists and Civil Society Members Were Targets of Israeli Spyware](https://soylentnews.org/article.pl?sid=25/02/09/1321246&from=rss)
 * [2025-02-10, 05:58:36](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 * [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
 * [2025-02-10, 01:23:00](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss) - [Facebook Torrents 81TB of Data to Feed their Models](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss)
-* [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_demands_apple_break_encryption_allow) - [UK demands Apple break encryption to allow gov’t spying worldwide, reports say](https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/)
 * [2025-02-09, 20:36:00](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) - [NASA Scientists Want to Solve a Mystery: Why Did Life \"Turn Left?\"](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss)
 * [2025-02-09, 15:52:00](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) - [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss)
 * [2025-02-09, 11:08:00](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss) - [Fixing E.T. the Extra-Terrestrial for the Atari 2600](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss)
@@ -144,12 +152,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-08, 01:49:00](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss) - [Piecing Together the Puzzle of the World's Earliest Datable Rune Stone](https://soylentnews.org/article.pl?sid=25/02/07/0350219&from=rss)
 * [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
 * [2025-02-07, 21:02:00](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss) - [Deepfake Videos are Getting Shockingly Good](https://soylentnews.org/article.pl?sid=25/02/06/1054246&from=rss)
-* [2025-02-07, 18:17:05](https://news.ycombinator.com/item?id=42975712) - [2000 years of population swings among Indigenous Americans](https://www.science.org/content/article/tally-bones-artifacts-reveals-2000-years-population-swings-among-indigenous-americans)
-* [2025-02-07, 17:45:01](https://news.ycombinator.com/item?id=42975366) - [Show HN: Wordle Charts – insights about Wordle you don't need](https://www.wordlecharts.crtez.dev/)
+* [2025-02-07, 16:59:59](https://news.ycombinator.com/item?id=42974896) - [Fossils Preserve Both Skin and Scales from an Ancient Sea Monster](https://www.nytimes.com/2025/02/06/science/plesiosaur-fossils-skin-scales.html)
 * [2025-02-07, 16:14:00](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss) - [As Internet Enshittification Marches On, Here are Some of the Worst Offenders](https://soylentnews.org/article.pl?sid=25/02/06/1043254&from=rss)
 * [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
-* [2025-02-07, 14:48:42](https://news.ycombinator.com/item?id=42973189) - [The other 99% – CERN Courier](https://cerncourier.com/a/the-other-99/)
+* [2025-02-07, 12:46:33](https://news.ycombinator.com/item?id=42971967) - [Fruit of the Poisonous Llama?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2025-02-07, 11:28:00](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss) - [Russia VPN Crackdown Revelation - VPN Sites Hide Their IP Addresses ](https://soylentnews.org/article.pl?sid=25/02/06/0612223&from=rss)
+* [2025-02-07, 10:46:15](https://news.ycombinator.com/item?id=42971258) - [Allocator Hints for Btrfs](https://wiki.tnonline.net/w/Btrfs/Allocator_Hints)
 * [2025-02-07, 06:43:00](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss) - [Educated but Easily Fooled? Who Falls for Misinformation and Why](https://soylentnews.org/article.pl?sid=25/02/06/0534246&from=rss)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
