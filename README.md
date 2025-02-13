@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Engineering Developments
+## Astronomy and Space Discoveries
 
-* [Titan Sub Implosion Audio Released For the First Time](https://news.slashdot.org/story/25/02/12/2346252/titan-sub-implosion-audio-released-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Audio from a major submarine disaster is unveiled, providing new insights into the event and its causes.
+* [Astronomers Amazed By Perfect 'Einstein Ring' Gleaming In Space](https://science.slashdot.org/story/25/02/13/0139244/astronomers-amazed-by-perfect-einstein-ring-gleaming-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/02/13/0139244/astronomers-amazed-by-perfect-einstein-ring-gleaming-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [First Ultra-High-Energy Neutrino Detected](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Groundbreaking detection of an ultra-high-energy cosmic particle, shedding light on astrophysical phenomena.
+* [First Ultra-High-Energy Neutrino Detected](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [YouTube's New Hue](https://design.google/library/youtube-new-red-color) - A design-focused update on YouTube's visual branding and its new color palette.
+* [Private Spacecraft Gets Dramatic View Of Earth Eclipsing Moon](https://soylentnews.org/article.pl?sid=25/02/09/194224&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/09/194224&from=rss))
 
-* [The average CPU performance of PCs and notebooks fell for the first time](https://www.cpubenchmark.net/year-on-year.html) - Industry performance benchmarks reveal a rare decline in average CPU performance.
+* [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/08/1232254&from=rss))
 
-## AI and Machine Learning
+## Artificial Intelligence Impacts
 
-* [AI Increases Unemployment Rates in US IT Sector](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss) - A report on how AI automation is reshaping the IT job market in the US.
+* [AI Increases Unemployment Rates in US IT Sector](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss))
 
-* [AI Summaries Turn Real News Into Nonsense, BBC Finds](https://news.slashdot.org/story/25/02/12/2139233/ai-summaries-turn-real-news-into-nonsense-bbc-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis highlights issues with AI-generated content and its implications for media accuracy.
+* [AI Summaries Turn Real News Into Nonsense, BBC Finds](https://news.slashdot.org/story/25/02/12/2139233/ai-summaries-turn-real-news-into-nonsense-bbc-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/12/2139233/ai-summaries-turn-real-news-into-nonsense-bbc-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Reasoning models are just LLMs](https://antirez.com/news/146) - A detailed explanation linking reasoning models directly to large language models, challenging industry narratives.
+* [OpenAI Cancels Its o3 AI Model In Favor of a 'Unified' Next-Gen Release](https://tech.slashdot.org/story/25/02/12/2119245/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/12/2119245/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [OpenAI Cancels Its o3 AI Model In Favor of a 'Unified' Next-Gen Release](https://tech.slashdot.org/story/25/02/12/2119245/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Developments in AI research as OpenAI consolidates its model roadmap.
+## Tech and Software Advancements
 
-## Cybersecurity
+* [FLAC 1.5.0 released](https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html) ([comments](https://lobste.rs/s/pnq8vs/flac_1_5_0_released))
 
-* [Woeful Security On Financial Phone Apps Is Getting People Murdered](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A shocking report on the implications of poor cybersecurity practices in financial apps.
+* [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/) ([comments](https://lobste.rs/s/qevhmh/ghostbsd_pkg_8_repository_on_freebsd))
 
-* [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html) - Insights into exploiting abandoned cloud storage resources for malicious intent.
+* [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/) ([comments](https://news.ycombinator.com/item?id=43027335))
 
-* [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails) - A security flaw exposes how YouTube accounts can be compromised for profit.
+* [ouch: Painless compression and decompression in the terminal](https://github.com/ouch-org/ouch) ([comments](https://lobste.rs/s/qtudg1/ouch_painless_compression))
 
-## Innovation and Creative Projects
+* [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/) ([comments](https://lobste.rs/s/2jgv7x/how_i_automated_my_computer_life_with))
 
-* [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/) - An individual shares their impressive journey in building an operating system from scratch.
+## Science and Engineering Innovations
 
-* [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) - Exploring how emojis can be repurposed for unconventional data transfer.
+* [A Pinch of Salt Boosts Aluminum Batteries](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss))
 
-* [HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI](https://github.com/arthurchoung/HOTDOG) - A quirky window manager design embracing vintage aesthetics.
+* [Researchers Used AI To Build Groundbreaking Nanomaterials Lighter And Stronger Than Titanium](https://soylentnews.org/article.pl?sid=25/02/09/1917214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/09/1917214&from=rss))
 
-## Cultural and Historical Science
+## Social and Ethical Concerns
 
-* [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/) - A fascinating dive into how knitting intersects with early computational methods.
+* [Scarlett Johansson Calls For Deepfake Ban After AI Video Goes Viral](https://yro.slashdot.org/story/25/02/12/2154203/scarlett-johansson-calls-for-deepfake-ban-after-ai-video-goes-viral?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/02/12/2154203/scarlett-johansson-calls-for-deepfake-ban-after-ai-video-goes-viral?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) - An undergraduate achieves a monumental feat by resolving a longstanding problem in data science.
-
-## Space and Earth Science
-
-* [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1) - Discovery of the most energetic neutrino demonstrates the advancement of astrophysical research.
-
-* [Private Spacecraft Gets Dramatic View Of Earth Eclipsing Moon](https://soylentnews.org/article.pl?sid=25/02/09/194224&from=rss) - Innovative imaging techniques yield striking celestial visuals.
+* [Woeful Security On Financial Phone Apps Is Getting People Murdered](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -73,15 +67,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
+* [2025-02-13, 09:33:34](https://lobste.rs/s/6vgomj/multi_files_fixes_elm_review) - [Multi-files fixes in elm-review](https://jfmengels.net)
+* [2025-02-13, 07:57:14](https://lobste.rs/s/fcokyj/llms_do_not_break_interviews) - [LLMs Do Not Break Interviews](https://blog.sulami.xyz/posts/llm-interviews/)
+* [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
+* [2025-02-13, 07:00:00](https://science.slashdot.org/story/25/02/13/0139244/astronomers-amazed-by-perfect-einstein-ring-gleaming-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Astronomers Amazed By Perfect 'Einstein Ring' Gleaming In Space](https://science.slashdot.org/story/25/02/13/0139244/astronomers-amazed-by-perfect-einstein-ring-gleaming-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-13, 06:59:47](https://lobste.rs/s/pnq8vs/flac_1_5_0_released) - [FLAC 1.5.0 released](https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html)
+* [2025-02-13, 06:57:00](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss) - [A Pinch of Salt Boosts Aluminum Batteries](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss)
+* [2025-02-13, 06:07:34](https://news.ycombinator.com/item?id=43033157) - [Federal data is disappearing. On Thursday, meet the teams working to rescue it](https://www.muckrock.com/news/archives/2025/feb/10/federal-data-is-disappearing-on-thursday-meet-the-teams-working-to-rescue-it-and-learn-how-you-can-help/)
+* [2025-02-13, 06:03:23](https://lobste.rs/s/zaubhd/engineers_who_won_t_commit_force_bad) - [Engineers who won’t commit force bad decisions](https://www.seangoedecke.com/taking-a-position/)
 * [2025-02-13, 05:27:57](https://lobste.rs/s/mfpevw/old_c_dog_new_c_tricks_null_ptr) - [Old C dog, new C tricks: NULL != ptr](https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/)
 * [2025-02-13, 03:30:00](https://news.slashdot.org/story/25/02/12/2346252/titan-sub-implosion-audio-released-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Titan Sub Implosion Audio Released For the First Time](https://news.slashdot.org/story/25/02/12/2346252/titan-sub-implosion-audio-released-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-13, 03:04:42](https://lobste.rs/s/qevhmh/ghostbsd_pkg_8_repository_on_freebsd) - [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/)
 * [2025-02-13, 02:12:00](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss) - [AI Increases Unemployment Rates in US IT Sector](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss)
 * [2025-02-13, 01:58:05](https://lobste.rs/s/70htqn/ki_editor_now_supports_reveal) - [Ki Editor now supports Reveal](https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal)
-* [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 * [2025-02-13, 01:10:00](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Ultra-High-Energy Neutrino Detected](https://science.slashdot.org/story/25/02/12/2327213/first-ultra-high-energy-neutrino-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-13, 00:30:00](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Woeful Security On Financial Phone Apps Is Getting People Murdered](https://news.slashdot.org/story/25/02/12/2339225/woeful-security-on-financial-phone-apps-is-getting-people-murdered?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
 * [2025-02-13, 00:22:25](https://lobste.rs/s/y95hnw/tiny_jits_for_faster_ffi) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
@@ -90,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-12, 22:33:08](https://lobste.rs/s/9lxx6l/schemesh_unix_shell_lisp_repl_fused) - [schemesh: A Unix shell and Lisp REPL, fused together](https://github.com/cosmos72/schemesh)
 * [2025-02-12, 22:31:10](https://lobste.rs/s/2jgv7x/how_i_automated_my_computer_life_with) - [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
 * [2025-02-12, 22:30:00](https://news.slashdot.org/story/25/02/12/2139233/ai-summaries-turn-real-news-into-nonsense-bbc-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Summaries Turn Real News Into Nonsense, BBC Finds](https://news.slashdot.org/story/25/02/12/2139233/ai-summaries-turn-real-news-into-nonsense-bbc-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-12, 22:29:17](https://lobste.rs/s/wrggxf/questioning_criteria_for_evaluating_non) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
 * [2025-02-12, 22:20:19](https://news.ycombinator.com/item?id=43030388) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 * [2025-02-12, 21:50:00](https://tech.slashdot.org/story/25/02/12/2119245/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Cancels Its o3 AI Model In Favor of a 'Unified' Next-Gen Release](https://tech.slashdot.org/story/25/02/12/2119245/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-12, 21:28:00](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss) - [Want the News Summarized Accurately?  Don't Ask an \"AI\".](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss)
@@ -104,9 +102,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-12, 19:02:46](https://lobste.rs/s/1o4dtp/smuggling_arbitrary_data_through_emoji) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [2025-02-12, 18:56:00](https://developers.slashdot.org/story/25/02/12/1857208/oracles-ellison-calls-for-governments-to-unify-data-to-feed-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oracle's Ellison Calls for Governments To Unify Data To Feed AI](https://developers.slashdot.org/story/25/02/12/1857208/oracles-ellison-calls-for-governments-to-unify-data-to-feed-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
-* [2025-02-12, 18:27:19](https://lobste.rs/s/nz0imd/iteration_one_language_then_all_others) - [Iteration in one language, then all the others (2016)](https://eev.ee/blog/2016/11/18/iteration-in-one-language-then-all-the-others/)
 * [2025-02-12, 18:25:55](https://lobste.rs/s/5akiq3/are_efficiency_horizontal_scalability) - [Are Efficiency and Horizontal Scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
-* [2025-02-12, 18:14:34](https://news.ycombinator.com/item?id=43028057) - [Automated Capability Discovery via Foundation Model Self-Exploration](https://arxiv.org/abs/2502.07577)
 * [2025-02-12, 18:10:00](https://slashdot.org/story/25/02/12/1742246/opendoor-cuts-jobs-in-india-shifts-technical-hiring-to-bay-area-and-krakow?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Opendoor Cuts Jobs in India, Shifts Technical Hiring To Bay Area and Krakow](https://slashdot.org/story/25/02/12/1742246/opendoor-cuts-jobs-in-india-shifts-technical-hiring-to-bay-area-and-krakow?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-12, 18:04:05](https://lobste.rs/s/actm9b/your_network_your_rules_take_charge_with) - [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
 * [2025-02-12, 18:01:50](https://lobste.rs/s/quhtak/do_you_use_debugger) - [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
@@ -124,23 +120,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-12, 15:22:00](https://apple.slashdot.org/story/25/02/12/1522245/apple-explores-robotics-push-for-smart-home-market-analyst-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Explores Robotics Push For Smart Home Market, Analyst Says](https://apple.slashdot.org/story/25/02/12/1522245/apple-explores-robotics-push-for-smart-home-market-analyst-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
 * [2025-02-12, 14:58:34](https://lobste.rs/s/cuakjw/survey_every_iterator_variant) - [A survey of every iterator variant](https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant)
-* [2025-02-12, 14:43:00](https://tech.slashdot.org/story/25/02/12/1443251/google-fixes-flaw-that-could-unmask-youtube-users-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Fixes Flaw That Could Unmask YouTube Users' Email Addresses](https://tech.slashdot.org/story/25/02/12/1443251/google-fixes-flaw-that-could-unmask-youtube-users-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-12, 14:38:16](https://lobste.rs/s/9ubmfl/delivering_malware_through_abandoned) - [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
 * [2025-02-12, 14:17:48](https://news.ycombinator.com/item?id=43025645) - [Visualizing data is an art](https://perthirtysix.com/visualizing-data-is-an-art)
 * [2025-02-12, 14:04:38](https://lobste.rs/s/qtudg1/ouch_painless_compression) - [ouch: Painless compression and decompression in the terminal](https://github.com/ouch-org/ouch)
 * [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 * [2025-02-12, 11:59:00](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
-* [2025-02-12, 11:11:38](https://news.ycombinator.com/item?id=43024173) - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 * [2025-02-12, 10:33:54](https://lobste.rs/s/563zjp/how_does_linux_machine_connect_internet) - [How does a Linux machine connect to the internet, really?](https://pjg1.site/linux-internet-from-scratch)
 * [2025-02-12, 10:22:21](https://news.ycombinator.com/item?id=43023875) - [Ask HN: What's the best implementation of Conway's Game of Life?](https://news.ycombinator.com/item?id=43023875)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [2025-02-12, 08:39:16](https://lobste.rs/s/coao0j/rust_for_linux) - [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
-* [2025-02-12, 08:11:51](https://lobste.rs/s/qrd1bp/thomson_reuters_wins_early_court_battle) - [Thomson Reuters wins an early court battle over AI, copyright, and fair use](https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement)
 * [2025-02-12, 07:12:00](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss) - [Handful of Users Claim New Nvidia GPUs Are Melting Power Cables Again](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss)
 * [2025-02-12, 04:27:47](https://lobste.rs/s/pk8rmi/hotdog_x11_window_manager_with_windows_3_1) - [HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI](https://github.com/arthurchoung/HOTDOG)
-* [2025-02-12, 03:34:19](https://lobste.rs/s/g95qvp/jj_cheat_sheet) - [JJ cheat sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 * [2025-02-12, 01:29:00](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss) - [Boeing Has Informed its Employees of Uncertainty in Future SLS Contracts](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss)
 * [2025-02-11, 22:48:53](https://lobste.rs/s/ttfywn/42links_bookmarking_server_written_lisp) - [42links: A bookmarking server, written in Lisp](https://code.rosaelefanten.org/42links)
 * [2025-02-11, 19:45:00](https://soylentnews.org/article.pl?sid=25/02/10/133233&from=rss) - [Asteroid's Odds of Hitting Earth Went Up. But Not Why You Think](https://soylentnews.org/article.pl?sid=25/02/10/133233&from=rss)
@@ -158,9 +150,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-10, 01:23:00](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss) - [Facebook Torrents 81TB of Data to Feed their Models](https://soylentnews.org/article.pl?sid=25/02/08/1514221&from=rss)
 * [2025-02-10, 00:49:58](https://news.ycombinator.com/item?id=42995762) - [Large magma bodies found beneath dormant volcanoes, surprising scientists](https://phys.org/news/2025-01-large-magma-bodies-beneath-dormant.html)
 * [2025-02-09, 20:36:00](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss) - [NASA Scientists Want to Solve a Mystery: Why Did Life \"Turn Left?\"](https://soylentnews.org/article.pl?sid=25/02/08/1511237&from=rss)
+* [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 16:48:25](https://news.ycombinator.com/item?id=42991776) - [A drill bit that can also drive screws](https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws)
 * [2025-02-09, 15:52:00](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss) - [U.K. Orders Apple to Let It Spy on Users’ Encrypted Accounts](https://soylentnews.org/article.pl?sid=25/02/08/155232&from=rss)
 * [2025-02-09, 15:09:41](https://news.ycombinator.com/item?id=42991112) - [What happens to your online accounts when you die?](https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die)
+* [2025-02-09, 14:12:51](https://news.ycombinator.com/item?id=42990801) - [Automating the Vim Workplace (2020)](https://sharats.me/posts/automating-the-vim-workplace/)
+* [2025-02-09, 12:44:49](https://news.ycombinator.com/item?id=42990331) - [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 * [2025-02-09, 11:08:00](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss) - [Fixing E.T. the Extra-Terrestrial for the Atari 2600](https://soylentnews.org/article.pl?sid=25/02/08/1249225&from=rss)
 * [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 * [2025-02-09, 06:23:00](https://soylentnews.org/article.pl?sid=25/02/08/1244232&from=rss) - [ 'Cracked' and 'Nulled' Crime Forums,Closed Down In European Cyber Bust](https://soylentnews.org/article.pl?sid=25/02/08/1244232&from=rss)
