@@ -1,32 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Advancements and Breakthroughs
+## Technology and Innovation
 
-* [Dancing turtles unlock scientific discovery](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/) ([comments](https://news.ycombinator.com/item?id=43051465)): Researchers uncover scientific insights through quirky turtle movements.
+* [Meta To Build World's Longest Undersea Cable](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Brain Implant That Could Boost Mood By Using Ultrasound To Go Under NHS Trial](https://science.slashdot.org/story/25/02/14/0045254/brain-implant-that-could-boost-mood-by-using-ultrasound-to-go-under-nhs-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/02/14/0045254/brain-implant-that-could-boost-mood-by-using-ultrasound-to-go-under-nhs-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)): A groundbreaking therapy enters clinical trials in the UK.
+* [Hedge Fund Startup That Replaced Analysts With AI Beats the Market](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss)): A student challenges and shifts thinking on a longstanding theory.
+* [Western Digital Aims For 100TB Hard Drives by 2030](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## AI and Machine Learning Impact
+* [The 20 year old PSP can now connect to WPA2 Wifi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/) ([comments](https://lobste.rs/s/1f3pfu/20_year_old_psp_can_now_connect_wpa2_wifi))
 
-* [How AI Will Disrupt Outsourced Work](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Examining AI's role in reshaping global labor.
+* [Alibaba To Partner With Apple On AI Features, Sending Shares To 3-Year High](https://apple.slashdot.org/story/25/02/14/051243/alibaba-to-partner-with-apple-on-ai-features-sending-shares-to-3-year-high?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/02/14/051243/alibaba-to-partner-with-apple-on-ai-features-sending-shares-to-3-year-high?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/) ([comments](https://news.ycombinator.com/item?id=43049959)): New tools tackle ethical dilemmas in AI usage.
+## Cybersecurity and Software
 
-* [Benchmarking vision-language models on OCR in dynamic video environments](https://arxiv.org/abs/2502.06445) ([comments](https://news.ycombinator.com/item?id=43045801)): Results highlight advances and challenges in AI tasks.
+* [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html) ([comments](https://lobste.rs/s/ixnc7d/first_analysis_apple_s_usb_restricted))
 
-## Tech Policy and Regulation
+* [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/) ([comments](https://news.ycombinator.com/item?id=43049959))
 
-* [Reddit Plans To Lock Some Content Behind a Paywall This Year, CEO Says](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Impacts of monetization on user-generated platforms.
+* [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss))
 
-* [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss)): Leak raises significant security and transparency questions.
+* [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view) ([comments](https://news.ycombinator.com/item?id=43051802))
 
-## Notable Cultural Insights
+* [8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss))
 
-* [The Tiny Book of Great Joys](https://muffinman.io/blog/the-tiny-book-of-great-joys/) ([comments](https://lobste.rs/s/t2zu6j/tiny_book_great_joys)): Small pleasures in life detailed beautifully.
+## Science and Environment
 
-* [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/) ([comments](https://news.ycombinator.com/item?id=43000764)): A playful and creative gift concept created via code.
+* [Earth's Inner Core is Less Solid Than Previously Thought: Study Reveals Structural Transformation](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss))
+
+* [The Whole World Is Going To Use a Lot More Electricity, IEA Says](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/) ([comments](https://news.ycombinator.com/item?id=43051465))
+
+* [US Wildfire Suppressants Rife With Toxic Heavy Metals, Study Finds](https://news.slashdot.org/story/25/02/14/057227/us-wildfire-suppressants-rife-with-toxic-heavy-metals-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/14/057227/us-wildfire-suppressants-rife-with-toxic-heavy-metals-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## AI and Automation
+
+* [How AI Will Disrupt Outsourced Work](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html) ([comments](https://news.ycombinator.com/item?id=43048027))
+
+* [The Impact of Generative AI on Critical Thinking](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf) ([comments](https://lobste.rs/s/p4bcxv/impact_generative_ai_on_critical))
+
+* [Reddit Plans To Lock Some Content Behind a Paywall This Year, CEO Says](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Unique Insights and Culture
+
+* [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute) ([comments](https://news.ycombinator.com/item?id=43052905))
+
+* [LinkedIn is the worst social media I've ever seen](https://news.ycombinator.com/item?id=43052409) ([comments](https://news.ycombinator.com/item?id=43052409))
+
+* [James Bond in Battle To Keep Hold of 007 Super Spy's Name](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html) ([comments](https://news.ycombinator.com/item?id=43051598))
+
+* [Money May Have Originated Through Long Distance Trade, New Theory Suggests](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss))
 
 ---
 
@@ -53,17 +81,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-14, 18:50:47](https://news.ycombinator.com/item?id=43051697) - [DOGE 'Audits': A Mask for Corruption, Not Efficiency](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364)
+* [2025-02-14, 21:25:00](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss) - [8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss)
+* [2025-02-14, 21:22:00](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta To Build World's Longest Undersea Cable](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 21:21:03](https://lobste.rs/s/rsuopk/tex_typst_layout_models) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
+* [2025-02-14, 20:47:47](https://news.ycombinator.com/item?id=43052905) - [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute)
+* [2025-02-14, 20:42:00](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Whole World Is Going To Use a Lot More Electricity, IEA Says](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 20:09:48](https://lobste.rs/s/hl00vs/type_safe_variadic_printf_without_macros) - [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
+* [2025-02-14, 20:01:00](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Western Digital Aims For 100TB Hard Drives by 2030](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 19:58:56](https://news.ycombinator.com/item?id=43052409) - [LinkedIn is the worst social media I've ever seen](https://news.ycombinator.com/item?id=43052409)
+* [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
+* [2025-02-14, 19:22:00](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hedge Fund Startup That Replaced Analysts With AI Beats the Market](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-14, 19:16:59](https://news.ycombinator.com/item?id=43051964) - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
+* [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:42:00](https://linux.slashdot.org/story/25/02/14/1842251/lead-asahi-linux-developer-quits-days-after-leaving-kernel-maintainer-role?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lead Asahi Linux Developer Quits Days After Leaving Kernel Maintainer Role](https://linux.slashdot.org/story/25/02/14/1842251/lead-asahi-linux-developer-quits-days-after-leaving-kernel-maintainer-role?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 18:41:55](https://news.ycombinator.com/item?id=43051598) - [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
-* [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [Dancing turtles unlock scientific discovery](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
+* [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 18:03:00](https://science.slashdot.org/story/25/02/14/1724238/china-to-develop-gene-editing-tools-new-crop-varieties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China To Develop Gene-Editing Tools, New Crop Varieties](https://science.slashdot.org/story/25/02/14/1724238/china-to-develop-gene-editing-tools-new-crop-varieties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 18:01:13](https://lobste.rs/s/1f3pfu/20_year_old_psp_can_now_connect_wpa2_wifi) - [The 20 year old PSP can now connect to WPA2 Wifi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-14, 17:22:00](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [James Bond in Battle To Keep Hold of 007 Super Spy's Name](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 17:20:51](https://lobste.rs/s/ixnc7d/first_analysis_apple_s_usb_restricted) - [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
-* [2025-02-14, 16:49:22](https://lobste.rs/s/vi1w3j/why_your_client_types_should_derive_from) - [Why Your Client Types Should Derive from Queries and Fragments — Not the Schema](https://medium.com/graphql-guide/why-your-client-types-should-derive-from-queries-and-fragments-not-the-schema-065faf9667b4)
 * [2025-02-14, 16:42:00](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Plans To Lock Some Content Behind a Paywall This Year, CEO Says](https://tech.slashdot.org/story/25/02/14/1629205/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
+* [2025-02-14, 16:36:43](https://lobste.rs/s/ptdwca/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2025](https://www.haiku-os.org/blog/waddlesplash/2025-02-10-haiku_activity_contract_report_january_2025/)
+* [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:17:02](https://lobste.rs/s/iypstr/simple_declarative_schema_migration_for) - [Simple declarative schema migration for SQLite](https://david.rothlis.net/declarative-schema-migration-for-sqlite/)
 * [2025-02-14, 16:17:00](https://soylentnews.org/politics/article.pl?sid=25/02/13/1828257&from=rss) - [Judge Agrees Trump's Removal Of Health Websites Threatens The Public](https://soylentnews.org/politics/article.pl?sid=25/02/13/1828257&from=rss)
 * [2025-02-14, 16:01:00](https://slashdot.org/story/25/02/14/1541213/the-unicorn-boom-is-over-and-startups-are-getting-desperate?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['The Unicorn Boom Is Over, and Startups Are Getting Desperate'](https://slashdot.org/story/25/02/14/1541213/the-unicorn-boom-is-over-and-startups-are-getting-desperate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -76,10 +115,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-14, 14:00:00](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How AI Will Disrupt Outsourced Work](https://slashdot.org/story/25/02/14/1359228/how-ai-will-disrupt-outsourced-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:30:54](https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
-* [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
-* [2025-02-14, 13:12:22](https://news.ycombinator.com/item?id=43047952) - [Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
+* [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 * [2025-02-14, 13:00:00](https://news.slashdot.org/story/25/02/14/0513218/uk-drops-safety-from-its-ai-body-inks-partnership-with-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK Drops 'Safety' From Its AI Body, Inks Partnership With Anthropic](https://news.slashdot.org/story/25/02/14/0513218/uk-drops-safety-from-its-ai-body-inks-partnership-with-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
+* [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI is stifling new tech adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 12:41:46](https://lobste.rs/s/qk4qpt/hickory_dns_is_moving_toward_production) - [Hickory DNS is moving toward production readiness](https://www.memorysafety.org/blog/hickory-update-2025/)
 * [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:43:09](https://lobste.rs/s/t2zu6j/tiny_book_great_joys) - [The Tiny Book  of Great Joys](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
@@ -98,48 +136,39 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-14, 07:00:00](https://news.slashdot.org/story/25/02/14/057227/us-wildfire-suppressants-rife-with-toxic-heavy-metals-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Wildfire Suppressants Rife With Toxic Heavy Metals, Study Finds](https://news.slashdot.org/story/25/02/14/057227/us-wildfire-suppressants-rife-with-toxic-heavy-metals-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 06:50:47](https://news.ycombinator.com/item?id=43045606) - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 06:50:00](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) - [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss)
-* [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
-* [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+* [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange plans to launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+* [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review (2021)](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 * [2025-02-14, 04:57:57](https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal) - [Terminader: merging the Finder and Terminal](https://github.com/shuang886/Terminader)
-* [2025-02-14, 03:30:00](https://science.slashdot.org/story/25/02/14/0045254/brain-implant-that-could-boost-mood-by-using-ultrasound-to-go-under-nhs-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brain Implant That Could Boost Mood By Using Ultrasound To Go Under NHS Trial](https://science.slashdot.org/story/25/02/14/0045254/brain-implant-that-could-boost-mood-by-using-ultrasound-to-go-under-nhs-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 02:51:31](https://lobste.rs/s/rvhull/atkinson_hyperlegible_next_atkinson) - [Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
-* [2025-02-14, 02:45:12](https://lobste.rs/s/jwbutw/on_bloat) - [On Bloat](https://commandcenter.blogspot.com/2025/02/on-bloat-these-are-slides-from-talk-i.html)
 * [2025-02-14, 02:04:00](https://soylentnews.org/article.pl?sid=25/02/13/0145233&from=rss) - [The Science of Why There's Less Passing in the Daytona 500](https://soylentnews.org/article.pl?sid=25/02/13/0145233&from=rss)
-* [2025-02-14, 01:40:00](https://slashdot.org/story/25/02/14/0033232/amazon-is-closing-a-kindle-loophole-that-makes-it-easy-to-remove-drm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Is Closing a Kindle Loophole That Makes It Easy To Remove DRM](https://slashdot.org/story/25/02/14/0033232/amazon-is-closing-a-kindle-loophole-that-makes-it-easy-to-remove-drm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 01:34:05](https://news.ycombinator.com/item?id=43043671) - [OCR4all](https://www.ocr4all.org/)
-* [2025-02-14, 01:00:00](https://hardware.slashdot.org/story/25/02/14/0026249/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Arm Is Launching Its Own Chip This Year With Meta As a Customer](https://hardware.slashdot.org/story/25/02/14/0026249/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 00:40:00](https://apple.slashdot.org/story/25/02/14/0037255/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple To Restore TikTok To US App Store Following Justice Department Letter](https://apple.slashdot.org/story/25/02/14/0037255/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 00:04:48](https://news.ycombinator.com/item?id=43043063) - [What if Eye...?](https://eyes.mit.edu/)
 * [2025-02-13, 21:15:00](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss) - [Money May Have Originated Through Long Distance Trade, New Theory Suggests](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss)
 * [2025-02-13, 20:23:35](https://lobste.rs/s/oafv9d/on_jujutsu_magit_experience_report) - [On Jujutsu and Magit: experience report](https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:30:54](https://lobste.rs/s/f9zeee/why_i_built_hyper_personalized_search) - [why I built a hyper-personalized search engine that isn't very good](https://search.technomancy.us/why)
-* [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
-* [2025-02-13, 17:30:42](https://lobste.rs/s/vvky3g/2024_state_rust_survey_results) - [2024 State of Rust Survey Results](https://blog.rust-lang.org/2025/02/13/2024-State-Of-Rust-Survey-results.html)
 * [2025-02-13, 16:29:00](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss) - [Developer Creates Endless Wikipedia Feed to Fight Algorithm Addiction](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss)
 * [2025-02-13, 15:57:01](https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 12:55:45](https://lobste.rs/s/iwiwye/reassessing_wayland) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
 * [2025-02-13, 12:36:49](https://lobste.rs/s/z1xro4/descent_into_v_x) - [A Descent Into the Vᴏ̈ʀᴛᴇx](https://tigerbeetle.com/blog/2025-02-13-a-descent-into-the-vortex/)
 * [2025-02-13, 11:43:00](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss) - [Is the EF5 Tornado Rating Effectively Obsolete?](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss)
 * [2025-02-13, 06:57:00](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss) - [A Pinch of Salt Boosts Aluminum Batteries](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss)
-* [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
+* [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-13, 02:12:00](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss) - [AI Increases Unemployment Rates in US IT Sector](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss)
 * [2025-02-12, 21:28:00](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss) - [Want the News Summarized Accurately?  Don't Ask an \"AI\".](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss)
 * [2025-02-12, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss) - [MP Materials Starts Producing Neodymium Magnets in the US](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss)
 * [2025-02-12, 11:59:00](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss)
-* [2025-02-12, 08:58:01](https://news.ycombinator.com/item?id=43023338) - [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/blog/everything-about-google-translate-crashing-react)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-12, 07:12:00](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss) - [Handful of Users Claim New Nvidia GPUs Are Melting Power Cables Again](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss)
+* [2025-02-12, 02:16:10](https://news.ycombinator.com/item?id=43021049) - [Advancements in Embedding-Based Retrieval at Pinterest Homefeed](https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e)
 * [2025-02-12, 01:29:00](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss) - [Boeing Has Informed its Employees of Uncertainty in Future SLS Contracts](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss)
 * [2025-02-11, 19:45:00](https://soylentnews.org/article.pl?sid=25/02/10/133233&from=rss) - [Asteroid's Odds of Hitting Earth Went Up. But Not Why You Think](https://soylentnews.org/article.pl?sid=25/02/10/133233&from=rss)
+* [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
+* [2025-02-11, 15:47:45](https://news.ycombinator.com/item?id=43014190) - [Lzbench Compression Benchmark](https://morotti.github.io/lzbench-web/)
 * [2025-02-11, 15:45:00](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss) - [Soylent Update - February 2025](https://soylentnews.org/meta/article.pl?sid=25/02/04/106248&from=rss)
 * [2025-02-11, 15:00:00](https://soylentnews.org/article.pl?sid=25/02/09/1917214&from=rss) - [Researchers Used AI To Build Groundbreaking Nanomaterials Lighter And Stronger Than Titanium](https://soylentnews.org/article.pl?sid=25/02/09/1917214&from=rss)
-* [2025-02-11, 14:43:45](https://news.ycombinator.com/item?id=43013248) - [Bulk inserts on ClickHouse: How to avoid overstuffing your instance](https://www.runportcullis.co/blog/bulk-data-clickhouse/)
 * [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 10:23:00](https://soylentnews.org/article.pl?sid=25/02/09/194224&from=rss) - [Private Spacecraft Gets Dramatic View Of Earth Eclipsing Moon](https://soylentnews.org/article.pl?sid=25/02/09/194224&from=rss)
 * [2025-02-11, 05:45:00](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss) - [Intel Has Already Received $2.2B in Federal Grants for Chip Production](https://soylentnews.org/article.pl?sid=25/02/09/190215&from=rss)
 * [2025-02-11, 01:00:00](https://soylentnews.org/article.pl?sid=25/02/09/1853248&from=rss) - [Rare Otter 'Disappeared' In Kyrgyzstan, Experts Warn](https://soylentnews.org/article.pl?sid=25/02/09/1853248&from=rss)
-* [2025-02-11, 00:47:17](https://news.ycombinator.com/item?id=43007453) - [Do Lake Names Reflect Their Properties?](https://ivanludvig.dev/tech/lake-colors)
 * [2025-02-10, 20:58:07](https://news.ycombinator.com/item?id=43005077) - [Anatomy of Oscillation](https://tidyfirst.substack.com/p/anatomy-of-oscillation)
 * [2025-02-10, 20:19:00](https://soylentnews.org/article.pl?sid=25/02/09/1410202&from=rss) - [IBM Banks on Friendlier Us Regulatory Climate for Dealmaking](https://soylentnews.org/article.pl?sid=25/02/09/1410202&from=rss)
 * [2025-02-10, 19:12:36](https://news.ycombinator.com/item?id=43003999) - [NAT Is the Enemy of Low Power Devices](https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/)
