@@ -1,42 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Developments
+## AI and Technology Advancements
 
-* [RTX5090 Cable Overheats to 150°C Where Uneven Current Distribution Likely the Culprit](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss))
+* [AI Used To Design a Multi-Step Enzyme That Can Digest Some Plastics](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers leverage AI to create a multi-step enzyme capable of breaking down certain plastics, marking a significant step toward addressing waste challenges. [Comments](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php) ([comments](https://news.ycombinator.com/item?id=43055797))
+* [AI is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption) - An analysis of how the rapid integration of AI may hinder the adoption of transformative technologies instead of enhancing them. [Comments](https://lobste.rs/s/tx5ro4/ai_is_stifling_tech_adoption).
 
-* [The 20 Year Old PSP Can Now Connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/) ([comments](https://news.ycombinator.com/item?id=43055671))
+* [Hedge Fund Startup That Replaced Analysts With AI Beats the Market](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A hedge fund achieves success by using AI instead of human analysts, raising questions about the future of financial analytics. [Comments](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## AI and Society
+## Security and Privacy Threats
 
-* [Gary Marcus Discusses AI's Technical Problems](https://cacm.acm.org/opinion/not-on-the-best-path/) ([comments](https://news.ycombinator.com/item?id=43055393))
+* [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails) - A critical vulnerability has been reported where emails of YouTube users could be exposed for a hefty price. [Comments](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000).
 
-* [EU Will Put Over $200 Billion Toward AI Development](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss))
+* [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) - Nationwide police manuals have been leaked following a major cybersecurity breach, showcasing vulnerabilities in law enforcement systems. [Comments](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss).
 
-* ['Please Stop Inviting AI Notetakers To Meetings'](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Tech Innovation and Oddities
 
-* [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://slashdot.org/story/25/02/14/2320203/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/02/14/2320203/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/) - Decades-old PSP devices receive modern-day connectivity upgrades from dedicated developers. [Comments](https://news.ycombinator.com/item?id=43055671).
 
-* [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/) ([comments](https://news.ycombinator.com/item?id=43054340))
+* [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/) - The 1997 classic game Quake 2 has been reimagined and adjusted to run on MS-DOS, bringing retro-computing nostalgia to life. [Comments](https://news.ycombinator.com/item?id=43054963).
 
-## Cybersecurity and Privacy
+* [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/) - A new Kindle competitor aims to redistribute e-book sales revenues to local bookstores, offering a new alternative for readers. [Comments](https://news.ycombinator.com/item?id=43056526).
 
-* [Leaking the Email of Any YouTube User for $10,000](https://brutecat.com/articles/leaking-youtube-emails) ([comments](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000))
+## Environmental and Scientific Progress
 
-* [Wyden Releases Draft Bill to Secure Americans' Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands) ([comments](https://news.ycombinator.com/item?id=43054632))
+* [Brake Pad Dust Can Be More Toxic Than Exhaust Emissions, Study Says](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new study reveals that toxic brake pad dust contributes more to pollution than exhaust emissions, highlighting an overlooked environmental issue. [Comments](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Hardware and Environment
+* [Earth's Inner Core is Less Solid Than Previously Thought: Study Reveals Structural Transformation](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss) - New research challenges previously held beliefs about the Earth's inner core, shedding light on intriguing structural transformations. [Comments](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss).
 
-* [Brake Pad Dust Can Be More Toxic Than Exhaust Emissions, Study Says](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [NYC Is Giving Free E-Bikes To Delivery Workers Using Unsafe Models](https://hardware.slashdot.org/story/25/02/14/2336232/nyc-is-giving-free-e-bikes-to-delivery-workers-using-unsafe-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/02/14/2336232/nyc-is-giving-free-e-bikes-to-delivery-workers-using-unsafe-models?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Unusual Events
-
-* [Netflix Accidentally Made Its Content Show Up In the Apple TV App](https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [The Hardest Working Font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan) ([comments](https://lobste.rs/s/abkeck/hardest_working_font_manhattan))
+* [The Whole World Is Going To Use a Lot More Electricity, IEA Says](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The IEA predicts a global surge in electricity needs, prompting questions about sustainability and energy infrastructure. [Comments](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
 ---
 
@@ -63,13 +55,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-15, 09:36:53](https://lobste.rs/s/tx5ro4/ai_is_stifling_tech_adoption) - [AI is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
+* [2025-02-15, 09:34:12](https://lobste.rs/s/2ff7tv/building_fault_tolerant_reverse_proxy) - [Building a fault-tolerant reverse proxy with FreeBSD](https://www.subnetspider.com/2025/01/22/building-a-fault-tolerant-reverse-proxy-with-freebsd.html)
+* [2025-02-15, 08:45:40](https://news.ycombinator.com/item?id=43056993) - [Are DOGE's Claims of Social Security Payments to 150-Year-Olds Way Off Base?](https://slashdot.org/submission/17333271/are-doges-claims-of-social-security-payments-to-150-year-olds-way-off-base)
+* [2025-02-15, 08:15:59](https://news.ycombinator.com/item?id=43056831) - [If you believe in \"Artificial Intelligence\", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
+* [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
+* [2025-02-15, 07:00:00](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Used To Design a Multi-Step Enzyme That Can Digest Some Plastics](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 06:52:00](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss) - [RTX5090 Cable Overheats to 150 C Where Uneven Current Distribution Likely the Culprit](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss)
-* [2025-02-15, 05:51:24](https://news.ycombinator.com/item?id=43056242) - [Why I quit: kernel developer Con Kolivas (2007)](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
 * [2025-02-15, 05:48:50](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
-* [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 03:30:00](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brake Pad Dust Can Be More Toxic Than Exhaust Emissions, Study Says](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 * [2025-02-15, 02:08:00](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss) - [EU Will Put Over $200 Billion Toward AI Development](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss)
 * [2025-02-15, 02:02:00](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Please Stop Inviting AI Notetakers To Meetings'](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
@@ -80,7 +75,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-15, 00:08:14](https://news.ycombinator.com/item?id=43054473) - [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
 * [2025-02-15, 00:02:05](https://lobste.rs/s/abkeck/hardest_working_font_manhattan) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-15, 00:02:00](https://mobile.slashdot.org/story/25/02/14/2227222/pin-ai-launches-mobile-app-letting-you-make-your-own-personalized-private-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PIN AI Launches Mobile App Letting You Make Your Own Personalized, Private AI Model](https://mobile.slashdot.org/story/25/02/14/2227222/pin-ai-launches-mobile-app-letting-you-make-your-own-personalized-private-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 23:47:19](https://news.ycombinator.com/item?id=43054340) - [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/)
 * [2025-02-14, 23:20:00](https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Netflix Accidentally Made Its Content Show Up In the Apple TV App](https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [A decade later, a decade lost (2024)](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
@@ -94,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-14, 21:22:00](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta To Build World's Longest Undersea Cable](https://tech.slashdot.org/story/25/02/14/1852233/meta-to-build-worlds-longest-undersea-cable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 21:21:03](https://lobste.rs/s/rsuopk/tex_typst_layout_models) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-14, 20:42:00](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Whole World Is Going To Use a Lot More Electricity, IEA Says](https://hardware.slashdot.org/story/25/02/14/1742226/the-whole-world-is-going-to-use-a-lot-more-electricity-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-14, 20:26:12](https://news.ycombinator.com/item?id=43052728) - [Yash: Yet Another Shell](https://github.com/magicant/yash)
 * [2025-02-14, 20:09:48](https://lobste.rs/s/hl00vs/type_safe_variadic_printf_without_macros) - [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 * [2025-02-14, 20:01:00](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Western Digital Aims For 100TB Hard Drives by 2030](https://hardware.slashdot.org/story/25/02/14/1817233/western-digital-aims-for-100tb-hard-drives-by-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 19:22:00](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hedge Fund Startup That Replaced Analysts With AI Beats the Market](https://slashdot.org/story/25/02/14/187221/hedge-fund-startup-that-replaced-analysts-with-ai-beats-the-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -103,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 18:03:00](https://science.slashdot.org/story/25/02/14/1724238/china-to-develop-gene-editing-tools-new-crop-varieties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China To Develop Gene-Editing Tools, New Crop Varieties](https://science.slashdot.org/story/25/02/14/1724238/china-to-develop-gene-editing-tools-new-crop-varieties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 18:01:13](https://lobste.rs/s/1f3pfu/20_year_old_psp_can_now_connect_wpa2_wifi) - [The 20 year old PSP can now connect to WPA2 Wifi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
-* [2025-02-14, 17:22:00](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [James Bond in Battle To Keep Hold of 007 Super Spy's Name](https://news.slashdot.org/story/25/02/14/1720254/james-bond-in-battle-to-keep-hold-of-007-super-spys-name?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-14, 17:20:51](https://lobste.rs/s/ixnc7d/first_analysis_apple_s_usb_restricted) - [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:17:02](https://lobste.rs/s/iypstr/simple_declarative_schema_migration_for) - [Simple declarative schema migration for SQLite](https://david.rothlis.net/declarative-schema-migration-for-sqlite/)
@@ -133,8 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-13, 20:23:35](https://lobste.rs/s/oafv9d/on_jujutsu_magit_experience_report) - [On Jujutsu and Magit: experience report](https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/)
 * [2025-02-13, 19:30:54](https://lobste.rs/s/f9zeee/why_i_built_hyper_personalized_search) - [why I built a hyper-personalized search engine that isn't very good](https://search.technomancy.us/why)
 * [2025-02-13, 16:29:00](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss) - [Developer Creates Endless Wikipedia Feed to Fight Algorithm Addiction](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss)
-* [2025-02-13, 15:57:01](https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
-* [2025-02-13, 12:55:45](https://lobste.rs/s/iwiwye/reassessing_wayland) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
 * [2025-02-13, 11:43:00](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss) - [Is the EF5 Tornado Rating Effectively Obsolete?](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss)
 * [2025-02-13, 06:57:00](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss) - [A Pinch of Salt Boosts Aluminum Batteries](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
@@ -144,6 +134,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-12, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss) - [MP Materials Starts Producing Neodymium Magnets in the US](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss)
 * [2025-02-12, 16:02:03](https://news.ycombinator.com/item?id=43026668) - [Where are the best restaurants in my city? A statistical analysis](https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/)
 * [2025-02-12, 11:59:00](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss)
+* [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
+* [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
 * [2025-02-12, 08:22:27](https://news.ycombinator.com/item?id=43023101) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
 * [2025-02-12, 07:12:00](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss) - [Handful of Users Claim New Nvidia GPUs Are Melting Power Cables Again](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
