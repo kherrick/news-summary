@@ -1,56 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Programming Innovations
+## Technological Advancements and Tools
 
-* [Ollama-Swift](https://nshipster.com/ollama/) explores Swift's capabilities for creating compact, efficient applications with an AI-focused edge. [Comments](https://news.ycombinator.com/item?id=43065006)
+* [Key Takeaways From The Paris AI Summit](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss) - Highlights from the recent Paris AI Summit summarizing major breakthroughs and ethical discussions in artificial intelligence. [Comments](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss)
 
-* The [GulfOfMexico programming language](https://github.com/TodePond/GulfOfMexico) is highlighted for its simplicity and unique design approach. [Comments](https://lobste.rs/s/7pzdgj/gulfofmexico_perfect_programming)
+* [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy) - A tool for analyzing Nginx configuration files to identify potential security vulnerabilities. [Comments](https://news.ycombinator.com/item?id=43065217)
 
-* [Taichi: High-performance Parallel Programming in Python](https://www.taichi-lang.org/) dives into achieving parallel programming performance with Python. [Comments](https://lobste.rs/s/cxpiaj/taichi_high_performance_parallel)
+* [Taichi: High-performance Parallel Programming in Python](https://www.taichi-lang.org/) - An open-source programming language focusing on high-performance numerical computation. [Comments](https://lobste.rs/s/cxpiaj/taichi_high_performance_parallel)
 
-* [NASA's 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm) offer guidelines for building reliable systems grounded in decades of space exploration. [Comments](https://lobste.rs/s/undbaa/nasa_has_list_10_rules_for_software)
+## Artificial Intelligence and Its Impacts
 
-## Technology and Security Concerns
+* [AI Bugs Could Delay Upgrades for Both Siri and Alexa](https://apple.slashdot.org/story/25/02/16/0138205/ai-bugs-could-delay-upgrades-for-both-siri-and-alexa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Software bugs in AI systems may impact upgrade timelines for popular virtual assistants. [Comments](https://apple.slashdot.org/story/25/02/16/0138205/ai-bugs-could-delay-upgrades-for-both-siri-and-alexa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [China's 'Salt Typhoon' hackers](https://it.slashdot.org/story/25/02/15/2244220/chinas-salt-typhoon-hackers-continue-to-breach-telecoms-despite-us-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed) are reportedly breaching telecoms despite sanctions. [Comments](https://it.slashdot.org/story/25/02/15/2244220/chinas-salt-typhoon-hackers-continue-to-breach-telecoms-despite-us-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI Used To Design a Multi-Step Enzyme That Can Digest Some Plastics](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The utilization of artificial intelligence in chemistry demonstrates its potential for tackling plastic waste. [Comments](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails) details a troubling vulnerability in YouTube's systems. [Comments](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000)
+* [Ask Slashdot: What Would It Take For You to Trust an AI?](https://ask.slashdot.org/story/25/02/15/2047258/ask-slashdot-what-would-it-take-for-you-to-trust-an-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A thought experiment on building trust in artificial intelligence systems. [Comments](https://ask.slashdot.org/story/25/02/15/2047258/ask-slashdot-what-would-it-take-for-you-to-trust-an-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [How to Backdoor Large Language Models](https://blog.sshh.io/p/how-to-backdoor-large-language-models) explains techniques for tampering with AI models. [Comments](https://lobste.rs/s/gfjbhp/how_backdoor_large_language_models)
+## Security and Cyber Challenges
 
-* OpenStreetMap's [network outage post-mortem](https://operations.osmfoundation.org/2025/02/15/post-mortem.html) reveals insights on preventing future critical failures. [Comments](https://lobste.rs/s/ki3k2r/post_mortem_network_outage_affecting)
+* [China's 'Salt Typhoon' Hackers Continue to Breach Telecoms Despite US Sanctions](https://it.slashdot.org/story/25/02/15/2244220/chinas-salt-typhoon-hackers-continue-to-breach-telecoms-despite-us-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Persistent hacking efforts by a Chinese group known as 'Salt Typhoon' reveal vulnerabilities in telecom infrastructure. [Comments](https://it.slashdot.org/story/25/02/15/2244220/chinas-salt-typhoon-hackers-continue-to-breach-telecoms-despite-us-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Game Design and Simulation
+* [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails) - Analysis of a real security flaw impacting user privacy on YouTube. [Comments](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000)
 
-* [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/) bring to light the details behind one of the most iconic simulation games. [Comments](https://news.ycombinator.com/item?id=43064273)
+## Cultural and Historical Discoveries
 
-* [Magnus Carlsen's views on remaking chess](https://games.slashdot.org/story/25/02/15/053254/bored-with-chess-magnus-carlsen-wants-to-remake-the-game?utm_source=rss1.0mainlinkanon&utm_medium=feed) delve into his ideas for evolving the game. [Comments](https://games.slashdot.org/story/25/02/15/053254/bored-with-chess-magnus-carlsen-wants-to-remake-the-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo) - Archaeologists uncover artifacts unveiling Roman London's origins beneath a modern building. [Comments](https://news.ycombinator.com/item?id=43032759)
 
-* [Blunderchess.net](https://blunderchess.net) introduces a creative chess variant where players create errors for each other every five moves. [Comments](https://news.ycombinator.com/item?id=43063970)
+* [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/) - A glimpse into early development insights for the popular video game franchise, The Sims. [Comments](https://news.ycombinator.com/item?id=43064273)
 
-## Health and Environmental Discoveries
+## Innovations in Gaming
 
-* [Alzheimer's biomarkers now visible decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/) showcases advancements in early detection methods. [Comments](https://news.ycombinator.com/item?id=43060587)
+* [Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net) - A new platform introduces a unique twist to the traditional chess game. [Comments](https://news.ycombinator.com/item?id=43063970)
 
-* [Brake Pad Dust's toxicity](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) is found to surpass exhaust emissions' danger. [Comments](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/) - Gamers expose manipulation in a supposed record-setting Diablo speedrun. [Comments](https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun)
 
-* [Eating plastic takeout containers](https://science.slashdot.org/story/25/02/15/0555235/eating-from-plastic-takeout-containers-can-increase-heart-failure-risk-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) associated with heart failure risk highlights concerns in food packaging choices. [Comments](https://science.slashdot.org/story/25/02/15/0555235/eating-from-plastic-takeout-containers-can-increase-heart-failure-risk-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Scientific Exploration and Health
 
-## Unique Narratives and Cultural Stories
+* [Eating From Plastic Takeout Containers Can Increase Heart Failure Risk, Study Finds](https://science.slashdot.org/story/25/02/15/0555235/eating-from-plastic-takeout-containers-can-increase-heart-failure-risk-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research links the use of plastic containers to potential cardiovascular health risks. [Comments](https://science.slashdot.org/story/25/02/15/0555235/eating-from-plastic-takeout-containers-can-increase-heart-failure-risk-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [If You Ever Stacked Cups In Gym Class, Blame My Dad](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss) narrates the origin of the cup stacking phenomenon. [Comments](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss)
+* [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/) - Breakthroughs in Alzheimer's disease research provide early detection capabilities. [Comments](https://news.ycombinator.com/item?id=43060587)
 
-* [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) tells the story of a versatile and omnipresent typographic choice. [Comments](https://lobste.rs/s/abkeck/hardest_working_font_manhattan)
+## Sustainability and Environmental Efforts
 
-* [Flies Play Too, Carousel Study Suggests](https://soylentnews.org/article.pl?sid=25/02/14/1932219&from=rss) showcases unexpected findings about insect behavior. [Comments](https://soylentnews.org/article.pl?sid=25/02/14/1932219&from=rss)
-
-## Economics and Policy
-
-* [America's office-occupancy rates](https://it.slashdot.org/story/25/02/15/1716204/americas-office-occupancy-rates-drop-by-double-digits---and-more-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlight dramatic shifts in remote work culture. [Comments](https://it.slashdot.org/story/25/02/15/1716204/americas-office-occupancy-rates-drop-by-double-digits---and-more-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [EU investing $200 billion in AI development](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss) underscores Europe's emphasis on technological competitiveness. [Comments](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss)
-
-* [It's Time for a United Front to Take on Billionaire Rule](https://inthesetimes.com/article/labor-unions-trump-musk-doge-billionaires) argues for collective efforts in challenging economic inequalities. [Comments](https://news.ycombinator.com/item?id=43064547)
+* [AI Used To Design a Multi-Step Enzyme That Can Digest Some Plastics](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Leveraging AI to combat environmental strategies via biodegradable plastic solutions. [Comments](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -77,12 +69,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-16, 03:19:48](https://news.ycombinator.com/item?id=43065006) - [Ollama-Swift](https://nshipster.com/ollama/)
+* [2025-02-16, 06:42:00](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss) - [Key Takeaways From The Paris AI Summit](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss)
+* [2025-02-16, 05:34:00](https://apple.slashdot.org/story/25/02/16/0138205/ai-bugs-could-delay-upgrades-for-both-siri-and-alexa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Bugs Could Delay Upgrades for Both Siri and Alexa](https://apple.slashdot.org/story/25/02/16/0138205/ai-bugs-could-delay-upgrades-for-both-siri-and-alexa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-16, 05:01:49](https://lobste.rs/s/yusi8g/modding_gulf_mexico_back_google_maps) - [Modding the Gulf of Mexico Back (in Google Maps)](https://www.youtube.com/watch?v=F5m2JxplnXk)
+* [2025-02-16, 04:16:58](https://news.ycombinator.com/item?id=43065270) - [JPMorgan employee questioned Dimon's RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
+* [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 02:34:00](https://ask.slashdot.org/story/25/02/15/2047258/ask-slashdot-what-would-it-take-for-you-to-trust-an-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ask Slashdot: What Would It Take For You to Trust an AI?](https://ask.slashdot.org/story/25/02/15/2047258/ask-slashdot-what-would-it-take-for-you-to-trust-an-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-16, 02:07:25](https://news.ycombinator.com/item?id=43064637) - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
 * [2025-02-16, 01:58:00](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss) - [If You Ever Stacked Cups In Gym Class, Blame My Dad](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss)
-* [2025-02-16, 01:50:49](https://news.ycombinator.com/item?id=43064547) - [It's Time for a United Front to Take on Billionaire Rule](https://inthesetimes.com/article/labor-unions-trump-musk-doge-billionaires)
-* [2025-02-16, 01:37:23](https://news.ycombinator.com/item?id=43064466) - [US Forest Service and National Park Service to fire thousands of workers](https://www.theguardian.com/us-news/2025/feb/15/us-forest-service-national-park-service-layoffs)
 * [2025-02-16, 01:19:11](https://lobste.rs/s/7pzdgj/gulfofmexico_perfect_programming) - [GulfOfMexico: perfect programming language](https://github.com/TodePond/GulfOfMexico)
 * [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
 * [2025-02-16, 00:22:01](https://news.ycombinator.com/item?id=43063970) - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
@@ -93,6 +87,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-15, 21:37:58](https://lobste.rs/s/cxpiaj/taichi_high_performance_parallel) - [Taichi: High-performance Parallel Programming in Python](https://www.taichi-lang.org/)
 * [2025-02-15, 21:34:00](https://hardware.slashdot.org/story/25/02/15/1949206/the-worlds-most-printed-3d-model-3dbenchy-is-now-public-domain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The World's Most Printed 3D Model, 3DBenchy, Is Now Public Domain](https://hardware.slashdot.org/story/25/02/15/1949206/the-worlds-most-printed-3d-model-3dbenchy-is-now-public-domain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
+* [2025-02-15, 21:18:53](https://news.ycombinator.com/item?id=43062436) - [The True Costs of Being on YouTube](https://carlalallimusic.substack.com/p/the-true-costs-of-being-on-youtube)
 * [2025-02-15, 21:09:00](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss) - [Let’s Buy California from Trump – Denmark’s Next Big Adventure ](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss)
 * [2025-02-15, 20:54:02](https://lobste.rs/s/undbaa/nasa_has_list_10_rules_for_software) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 20:36:51](https://lobste.rs/s/oxtari/fixi_js_minimal_general_hypermedia) - [fixi.js - minimal general hypermedia controls](https://github.com/bigskysoftware/fixi)
@@ -101,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:34:00](https://apple.slashdot.org/story/25/02/15/0610248/apple-invites-its-users-into-major-years-long-health-study?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Invites Its Users Into Major Years-Long Health Study](https://apple.slashdot.org/story/25/02/15/0610248/apple-invites-its-users-into-major-years-long-health-study?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 * [2025-02-15, 19:19:12](https://lobste.rs/s/1reyhf/run_llms_on_macos_using_llm_mlx_apple_s_mlx) - [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/)
 * [2025-02-15, 19:00:38](https://news.ycombinator.com/item?id=43061183) - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
 * [2025-02-15, 18:59:39](https://news.ycombinator.com/item?id=43061173) - [Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/)
@@ -138,32 +132,31 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-15, 07:00:00](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Used To Design a Multi-Step Enzyme That Can Digest Some Plastics](https://science.slashdot.org/story/25/02/15/0549201/ai-used-to-design-a-multi-step-enzyme-that-can-digest-some-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 06:52:00](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss) - [RTX5090 Cable Overheats to 150 C Where Uneven Current Distribution Likely the Culprit](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss)
 * [2025-02-15, 05:48:50](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
-* [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 03:30:00](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Brake Pad Dust Can Be More Toxic Than Exhaust Emissions, Study Says](https://tech.slashdot.org/story/25/02/15/0016236/brake-pad-dust-can-be-more-toxic-than-exhaust-emissions-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 02:08:00](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss) - [EU Will Put Over $200 Billion Toward AI Development](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss)
-* [2025-02-15, 02:02:00](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Please Stop Inviting AI Notetakers To Meetings'](https://slashdot.org/story/25/02/15/006253/please-stop-inviting-ai-notetakers-to-meetings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-15, 00:02:05](https://lobste.rs/s/abkeck/hardest_working_font_manhattan) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
-* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-14, 21:25:00](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss) - [8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss)
 * [2025-02-14, 21:21:03](https://lobste.rs/s/rsuopk/tex_typst_layout_models) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-14, 20:09:48](https://lobste.rs/s/hl00vs/type_safe_variadic_printf_without_macros) - [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 * [2025-02-14, 16:17:00](https://soylentnews.org/politics/article.pl?sid=25/02/13/1828257&from=rss) - [Judge Agrees Trump's Removal Of Health Websites Threatens The Public](https://soylentnews.org/politics/article.pl?sid=25/02/13/1828257&from=rss)
 * [2025-02-14, 15:41:50](https://lobste.rs/s/t1enph/siren_call_sqlite_on_server) - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
-* [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:34:00](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss) - [Earth's Inner Core is Less Solid Than Previously Thought: Study Reveals Structural Transformation](https://soylentnews.org/article.pl?sid=25/02/13/1825211&from=rss)
 * [2025-02-14, 06:50:00](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) - [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss)
 * [2025-02-14, 02:04:00](https://soylentnews.org/article.pl?sid=25/02/13/0145233&from=rss) - [The Science of Why There's Less Passing in the Daytona 500](https://soylentnews.org/article.pl?sid=25/02/13/0145233&from=rss)
 * [2025-02-13, 21:15:00](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss) - [Money May Have Originated Through Long Distance Trade, New Theory Suggests](https://soylentnews.org/article.pl?sid=25/02/13/0126236&from=rss)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 16:29:00](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss) - [Developer Creates Endless Wikipedia Feed to Fight Algorithm Addiction](https://soylentnews.org/article.pl?sid=25/02/12/1247251&from=rss)
+* [2025-02-13, 14:13:37](https://news.ycombinator.com/item?id=43036012) - [Remco is a lightweight configuration management tool](https://github.com/HeavyHorst/remco)
 * [2025-02-13, 13:47:25](https://news.ycombinator.com/item?id=43035760) - [Sri Lanka scrambles to restore power after monkey causes islandwide outage](https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/)
 * [2025-02-13, 11:43:00](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss) - [Is the EF5 Tornado Rating Effectively Obsolete?](https://soylentnews.org/article.pl?sid=25/02/12/1237237&from=rss)
 * [2025-02-13, 06:57:00](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss) - [A Pinch of Salt Boosts Aluminum Batteries](https://soylentnews.org/article.pl?sid=25/02/12/1234248&from=rss)
+* [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
 * [2025-02-13, 04:45:21](https://news.ycombinator.com/item?id=43032751) - [Small, Light, Robust Phones for a Type 1 Diabetic Child](https://maori.geek.nz/small-light-robust-phones-for-a-type-1-diabetic-child-fcb07378ff78)
 * [2025-02-13, 02:12:00](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss) - [AI Increases Unemployment Rates in US IT Sector](https://soylentnews.org/article.pl?sid=25/02/12/095248&from=rss)
 * [2025-02-12, 21:28:00](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss) - [Want the News Summarized Accurately?  Don't Ask an \"AI\".](https://soylentnews.org/article.pl?sid=25/02/11/1313219&from=rss)
 * [2025-02-12, 16:43:00](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss) - [MP Materials Starts Producing Neodymium Magnets in the US](https://soylentnews.org/article.pl?sid=25/02/11/1216252&from=rss)
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
+* [2025-02-12, 14:43:12](https://news.ycombinator.com/item?id=43025857) - [The art of calling out room dynamics (2024)](https://leadership.garden/calling-out-room-dynamics/)
 * [2025-02-12, 11:59:00](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://soylentnews.org/article.pl?sid=25/02/11/1210226&from=rss)
 * [2025-02-12, 07:12:00](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss) - [Handful of Users Claim New Nvidia GPUs Are Melting Power Cables Again](https://soylentnews.org/article.pl?sid=25/02/11/127212&from=rss)
 * [2025-02-12, 01:29:00](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss) - [Boeing Has Informed its Employees of Uncertainty in Future SLS Contracts](https://soylentnews.org/article.pl?sid=25/02/11/122248&from=rss)
