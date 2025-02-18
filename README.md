@@ -1,52 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technological Advances and Insights
 
-* [When a Lifetime Subscription Can Save You Money - and When It's Risky](https://news.slashdot.org/story/25/02/18/0156241/when-a-lifetime-subscription-can-save-you-money---and-when-its-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakdown of the benefits and pitfalls of lifetime subscription models for digital products and services.
+* [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544) - A tool for exploring and sharing gravel routes around the world. [Comments](https://news.ycombinator.com/item?id=43085718)
 
-* [Nvidia GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance](https://www.phoronix.com/review/nvidia-maxwell-to-blackwell) - An extensive comparison of GPU performance across Nvidia's Maxwell to Blackwell architectures.
+* [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/) - A historical dive into ACCESS.bus, an alternative to USB that faded into obscurity. [Comments](https://lobste.rs/s/a83yzz/access_bus_forgotten_usb_competitor)
 
-* [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning) - Analysis of the challenges and gaps in junior developer skills due to reliance on AI tools.
+* [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/) - Innovatively turning YouTube into a tool for creating rhythm sequences. [Comments](https://news.ycombinator.com/item?id=43085492)
 
-* [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86) - A fascinating attempt to emulate x86 architecture on the limited hardware of the NES console.
+* [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86) - An exploration of how to emulate x86 architecture on the limited NES hardware. [Comments](https://lobste.rs/s/dfhwq1/nes86_x86_emulation_on_nes)
 
-* [Accessible color palette tester](https://palette-tester.9elements.com/) - A useful tool for designing accessible color palettes based on industry standards.
+* [Octet Of ESP32s Lets You See WiFi Like Never Before](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss) - A project enabling visualization of WiFi networks using an array of ESP32 devices. [Comments](https://lobste.rs/s/tkgkfd/this_esp32_antenna_array_can_see_wifi)
 
-* [How browsers really load Web pages](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/) - A detailed explanation of how modern browsers render webpages.
+## Cultural Reflections and Historical Discoveries
 
-* [Barcoding brains](https://www.asimov.press/p/barcoding-brains) - An exploration of how advances in brain mapping could inform neuroscience research.
+* [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/) - A mathematical essay exploring the elegant conceptual tool attributed to mathematician Richard Dedekind. [Comments](https://news.ycombinator.com/item?id=43084200)
 
-* [f8 - an 8 bit architecture designed for C and memory efficiency](https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/) - A novel architecture designed with memory constraints and simplicity in mind.
+* [George Eliot's reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence) - Revisiting the surprising insights into artificial intelligence from a celebrated 19th-century novelist. [Comments](https://news.ycombinator.com/item?id=43053403)
 
-## Security and Privacy
+* [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf) - Investigating the enigmatic man-made tunnels in South America. [Comments](https://news.ycombinator.com/item?id=43082287)
 
-* [Chase Will Soon Block Zelle Payments To Sellers on Social Media](https://tech.slashdot.org/story/25/02/17/2133224/chase-will-soon-block-zelle-payments-to-sellers-on-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A rethink by Chase to curb fraudulent transactions by restricting Zelle payments.
+## Cybersecurity and Privacy Developments
 
-* [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/) - A nuanced article encouraging balanced views on privacy in modern times.
+* [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/) - Discussions around the unexplained absence of a popular VPN application in Germany. [Comments](https://news.ycombinator.com/item?id=43085637)
 
-* [DeepSeek Removed from South Korea App Stores Pending Privacy Review](https://yro.slashdot.org/story/25/02/17/064219/deepseek-removed-from-south-korea-app-stores-pending-privacy-review?utm_source=rss1.0mainlinkanon&utm_medium=feed) - South Korea tightens scrutiny over apps with potential privacy concerns.
+* [Hackers Leak Cop Manuals for Departments Nationwide After Breaching Major Provider](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss) - Sensitive law enforcement documents made public following a large-scale data breach. [Comments](https://soylentnews.org/article.pl?sid=25/02/13/0155211&from=rss)
 
-## Cryptocurrency and Finance
+## Scientific and Futuristic Explorations
 
-* [The 'White Collar' Recession is Pummeling Office Workers](https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An overview of how job cuts have been affecting white-collar professions.
+* [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1) - A study on how red light may counteract some effects of aging in mitochondria and vision. [Comments](https://news.ycombinator.com/item?id=43066394)
 
-* [Making Markets on Kalshi](https://rlafuente.com/post?post=2025-2-16-marketmaking-on-kalshi) - Insights into market-making on prediction platforms such as Kalshi.
+* [AI Reveals Hidden Interior Design Rules of the Cell](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss) - Using artificial intelligence to decipher the organizational principles within living cells. [Comments](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss)
 
-## Development and Engineering
+## Economic and Political Shifts
 
-* [What's in a ring buffer? And using them in Rust](https://ntietz.com/blog/whats-in-a-ring-buffer/#ring) - A tutorial on the structure of ring buffers and their implementation in Rust.
+* [Mexico Threatens To Sue Google Over Gulf Renaming](https://tech.slashdot.org/story/25/02/18/0252258/mexico-threatens-to-sue-google-over-gulf-renaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Geopolitical tensions arise as Mexico addresses Google's depiction of territorial names. [Comments](https://tech.slashdot.org/story/25/02/18/0252258/mexico-threatens-to-sue-google-over-gulf-renaming)
 
-* [Why Test-First Development Is So Damn Hard](https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/) - An exploration into challenges surrounding test-first development methodologies.
-
-* [Design/build of some elegant, fully parametric speaker cabinets](https://calbryant.uk/blog/speakers/) - An engineer's showcase of parametric design principles applied to speaker cabinet production.
-
-## Science and Exploration
-
-* [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf) - A look into South America's enigmatic ancient tunnel systems.
-
-* [After Launch by SpaceX in January, Firefly Aerospace's Lunar Lander Reaches Moon Orbit](https://science.slashdot.org/story/25/02/16/2138259/after-launch-by-spacex-in-january-firefly-aerospaces-lunar-lander-reaches-moon-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefly Aerospace's milestone achievement of moon orbit entry for its lunar lander project.
-
-* [AI Reveals Hidden Interior Design Rules of the Cell](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss) - How artificial intelligence unraveled complex cell organizational patterns.
+* [The 'White Collar' Recession is Pummeling Office Workers](https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analyzing the current economic trend affecting salaried professionals. [Comments](https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers)
 
 ---
 
@@ -73,11 +63,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-18, 03:14:54](https://news.ycombinator.com/item?id=43085718) - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
+* [2025-02-18, 03:03:09](https://lobste.rs/s/a83yzz/access_bus_forgotten_usb_competitor) - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
+* [2025-02-18, 03:00:00](https://tech.slashdot.org/story/25/02/18/0252258/mexico-threatens-to-sue-google-over-gulf-renaming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mexico Threatens To Sue Google Over Gulf Renaming](https://tech.slashdot.org/story/25/02/18/0252258/mexico-threatens-to-sue-google-over-gulf-renaming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-18, 02:58:57](https://news.ycombinator.com/item?id=43085637) - [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
+* [2025-02-18, 02:34:37](https://news.ycombinator.com/item?id=43085492) - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+* [2025-02-18, 02:29:00](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss) - [DOGE as a National Cyberattack](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss)
 * [2025-02-18, 01:57:00](https://news.slashdot.org/story/25/02/18/0156241/when-a-lifetime-subscription-can-save-you-money---and-when-its-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [When a Lifetime Subscription Can Save You Money - and When It's Risky](https://news.slashdot.org/story/25/02/18/0156241/when-a-lifetime-subscription-can-save-you-money---and-when-its-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-18, 00:08:38](https://news.ycombinator.com/item?id=43084510) - [Nvidia GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance](https://www.phoronix.com/review/nvidia-maxwell-to-blackwell)
-* [2025-02-17, 23:44:28](https://news.ycombinator.com/item?id=43084355) - [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)
+* [2025-02-17, 23:18:52](https://news.ycombinator.com/item?id=43084200) - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
-* [2025-02-17, 22:39:57](https://news.ycombinator.com/item?id=43083976) - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
 * [2025-02-17, 22:11:33](https://lobste.rs/s/ch64l3/new_junior_developers_can_t_actually_code) - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
 * [2025-02-17, 21:59:14](https://news.ycombinator.com/item?id=43083687) - [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
@@ -87,7 +81,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-17, 21:14:03](https://news.ycombinator.com/item?id=43083345) - [Find Your 2%Ers](https://joyarbitrage.substack.com/p/find-your-2ers)
 * [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
-* [2025-02-17, 20:48:37](https://news.ycombinator.com/item?id=43083151) - [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)
 * [2025-02-17, 20:44:00](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss) - [Octet Of ESP32s Lets You See WiFi Like Never Before](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss)
 * [2025-02-17, 20:43:08](https://lobste.rs/s/dfhwq1/nes86_x86_emulation_on_nes) - [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
@@ -101,12 +94,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-17, 18:03:01](https://lobste.rs/s/5damlp/how_browsers_really_load_web_pages) - [How browsers really load Web pages](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 18:01:00](https://tech.slashdot.org/story/25/02/17/1733222/reddit-mods-are-fighting-to-keep-ai-slop-off-subreddits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Mods Are Fighting To Keep AI Slop Off Subreddits](https://tech.slashdot.org/story/25/02/17/1733222/reddit-mods-are-fighting-to-keep-ai-slop-off-subreddits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 17:49:24](https://lobste.rs/s/c6rk0l/14_years_systemd) - [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
+* [2025-02-17, 17:36:02](https://news.ycombinator.com/item?id=43081378) - [Small Tech](https://www.scattered-thoughts.net/writing/small-tech/)
 * [2025-02-17, 17:28:48](https://lobste.rs/s/8zd1tm/mac_menubar_swiftui) - [The Mac Menubar and SwiftUI](https://troz.net/post/2025/mac_menu_data/)
 * [2025-02-17, 17:20:00](https://apple.slashdot.org/story/25/02/17/1720232/hardware-mod-showcases-an-iphone-se-3-in-the-body-of-a-windows-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hardware Mod Showcases an iPhone SE 3 in the Body of a Windows Phone](https://apple.slashdot.org/story/25/02/17/1720232/hardware-mod-showcases-an-iphone-se-3-in-the-body-of-a-windows-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:23:07](https://news.ycombinator.com/item?id=43080531) - [Watch R1 \"think\" with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
 * [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open source projects could sell SBOM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
-* [2025-02-17, 16:02:00](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss) - [Women Speak Some 3000ish Words More Per Day Then Men](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss)
+* [2025-02-17, 16:02:00](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss) - [Women Speak Some 3000ish Words More Per Day Than Men](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss)
 * [2025-02-17, 16:01:00](https://yro.slashdot.org/story/25/02/17/1557220/nearly-10-years-after-data-and-goliath-bruce-schneier-says-privacys-still-screwed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nearly 10 Years After Data and Goliath, Bruce Schneier Says: Privacy's Still Screwed](https://yro.slashdot.org/story/25/02/17/1557220/nearly-10-years-after-data-and-goliath-bruce-schneier-says-privacys-still-screwed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 15:36:24](https://lobste.rs/s/y713xl/accessible_color_palette_tester) - [Accessible color palette tester](https://palette-tester.9elements.com/)
 * [2025-02-17, 15:29:07](https://lobste.rs/s/yipk5r/can_i_ethically_use_llms) - [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
@@ -135,14 +129,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-17, 00:06:09](https://lobste.rs/s/tkgkfd/this_esp32_antenna_array_can_see_wifi) - [This ESP32 antenna array can see WiFi](https://www.youtube.com/watch?v=sXwDrcd1t-E)
 * [2025-02-16, 23:13:00](https://tech.slashdot.org/story/25/02/16/2311215/are-technologies-of-connection-tearing-us-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Technologies of Connection Tearing Us Apart?](https://tech.slashdot.org/story/25/02/16/2311215/are-technologies-of-connection-tearing-us-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
-* [2025-02-16, 21:41:00](https://science.slashdot.org/story/25/02/16/2138259/after-launch-by-spacex-in-january-firefly-aerospaces-lunar-lander-reaches-moon-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [After Launch by SpaceX in January, Firefly Aerospace's Lunar Lander Reaches Moon Orbit](https://science.slashdot.org/story/25/02/16/2138259/after-launch-by-spacex-in-january-firefly-aerospaces-lunar-lander-reaches-moon-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-16, 21:05:53](https://lobste.rs/s/yapvon/what_do_about_sqlite_busy_errors_despite) - [What to do about SQLITE_BUSY errors despite setting a timeout](https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/)
 * [2025-02-16, 20:54:00](https://soylentnews.org/article.pl?sid=25/02/15/1518204&from=rss) - [The Guy Who Accidentally Threw Away $700 Million in Bitcoin Wants to Buy the Landfill to Find It](https://soylentnews.org/article.pl?sid=25/02/15/1518204&from=rss)
 * [2025-02-16, 17:29:01](https://lobste.rs/s/mk577n/civic_tech_s_third_wave) - [Civic Tech's Third Wave](https://www.jpt.sh/posts/third-wave-civic-tech/)
 * [2025-02-16, 17:14:25](https://lobste.rs/s/xjrlj2/how_android_s_calculator_works_with_real) - [How Android's calculator works with real numbers](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 16:12:00](https://soylentnews.org/article.pl?sid=25/02/15/1423229&from=rss) - [Waste Surveillance at Just 20 Airports Could Spot the Next Pandemic](https://soylentnews.org/article.pl?sid=25/02/15/1423229&from=rss)
-* [2025-02-16, 12:54:57](https://news.ycombinator.com/item?id=43067627) - [Large Language Models Show Concerning Tendency to Flatter Users](https://xyzlabs.substack.com/p/large-language-models-show-concerning)
 * [2025-02-16, 11:27:00](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss) - [AI Reveals Hidden Interior Design Rules of the Cell](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss)
+* [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-16, 06:42:00](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss) - [Key Takeaways From The Paris AI Summit](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss)
 * [2025-02-16, 01:58:00](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss) - [If You Ever Stacked Cups In Gym Class, Blame My Dad](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss)
 * [2025-02-15, 21:09:00](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss) - [Let’s Buy California from Trump – Denmark’s Next Big Adventure ](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss)
@@ -151,7 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-15, 06:52:00](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss) - [RTX5090 Cable Overheats to 150 C Where Uneven Current Distribution Likely the Culprit](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss)
 * [2025-02-15, 02:10:04](https://news.ycombinator.com/item?id=43055191) - [The San Francisco stadium that fog killed](https://www.sfgate.com/sports/article/sf-thought-built-stadium-future-fog-ewing-field-20051971.php)
 * [2025-02-15, 02:08:00](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss) - [EU Will Put Over $200 Billion Toward AI Development](https://soylentnews.org/article.pl?sid=25/02/14/1249234&from=rss)
-* [2025-02-14, 22:45:18](https://news.ycombinator.com/item?id=43053909) - [Barcoding brains](https://www.asimov.press/p/barcoding-brains)
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [George Eliot's reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 21:25:00](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss) - [8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur](https://soylentnews.org/article.pl?sid=25/02/13/1833234&from=rss)
 * [2025-02-14, 20:16:10](https://news.ycombinator.com/item?id=43052635) - [Visualize Ownership and Lifetimes in Rust](https://github.com/cordx56/rustowl)
