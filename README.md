@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Developments
+## Cryptography and Cybersecurity Insights
 
-* [go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention) - Explore a pure Go implementation of a full attention mechanism and transformer, reflecting advancements in machine learning frameworks. [Comments](https://lobste.rs/s/9ectnm/go_attention_full_attention_mechanism)
+* [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/) - A detailed analysis of the cryptographic algorithms implemented in the Signal messaging app. [Comments](https://news.ycombinator.com/item?id=43088785)
 
-* [xAI Releases Its Latest Flagship Model, Grok 3](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed) - xAI unveils Grok 3, its newest flagship AI model with significant potential for machine learning applications. [Comments](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Free Software Foundation Speaks Up Against Red Hat Source Code Announcement](https://linux.slashdot.org/story/25/02/18/0953205/free-software-foundation-speaks-up-against-red-hat-source-code-announcement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FSF addresses concerns over Red Hat's decision to limit access to their source code. [Comments](https://linux.slashdot.org/story/25/02/18/0953205/free-software-foundation-speaks-up-against-red-hat-source-code-announcement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Sandisk Puts Petabyte SSDs On the Roadmap](https://hardware.slashdot.org/story/25/02/18/047217/sandisk-puts-petabyte-ssds-on-the-roadmap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sandisk outlines plans for petabyte-scale SSDs, paving the way for monumental data storage solutions. [Comments](https://hardware.slashdot.org/story/25/02/18/047217/sandisk-puts-petabyte-ssds-on-the-roadmap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Technological Advancements
 
-* [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/) - Dive into the forgotten history of ACCESS.bus, a USB alternative that could have changed computing connectivity. [Comments](https://lobste.rs/s/a83yzz/access_bus_forgotten_usb_competitor)
+* [Sandisk Puts Petabyte SSDs On the Roadmap](https://hardware.slashdot.org/story/25/02/18/047217/sandisk-puts-petabyte-ssds-on-the-roadmap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sandisk reveals plans for developing petabyte-scale SSD storage solutions. [Comments](https://hardware.slashdot.org/story/25/02/18/047217/sandisk-puts-petabyte-ssds-on-the-roadmap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Science and Exploration
+* [xAI Releases Its Latest Flagship Model, Grok 3](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New advancements in AI modeling showcased in Grok 3 by xAI. [Comments](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Targeting Amino Acids to Search for Life on Mars](https://soylentnews.org/article.pl?sid=25/02/17/1343225&from=rss) - New methods to detect amino acids on Mars could revolutionize our understanding of extraterrestrial life. [Comments](https://soylentnews.org/article.pl?sid=25/02/17/1343225&from=rss)
+## Science and Environment Highlights
 
-* [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1) - Research shows red light therapy improves mitochondrial function and color vision, shedding light on anti-aging techniques. [Comments](https://news.ycombinator.com/item?id=43066394)
+* [EU Bans Bisphenol A From Contact With Food](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss) - The EU takes a significant step in banning a chemical known for potential health risks. [Comments](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss)
 
-## Unique and Quirky
+## Unique Software and Tools
 
-* [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/) - This project offers a live-updating take on the iconic meme, combining humor with innovative technology. [Comments](https://news.ycombinator.com/item?id=43086479)
+* [Self-Designing Software](https://cacm.acm.org/research/self-designing-software/) - A research deep-dive into software systems that adapt and evolve autonomously. [Comments](https://lobste.rs/s/hmf0ht/self_designing_software)
 
-* [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/) - A creative platform enabling users to turn YouTube videos into drum sequences for musical experimentation. [Comments](https://news.ycombinator.com/item?id=43085492)
+* [New "faux bus" API merged for Linux 6.14, including both Rust & C bindings](https://www.phoronix.com/news/Linux-6.14-Faux-Bus-Merged) - A technology innovation enabling expanded hardware support in Linux. [Comments](https://lobste.rs/s/sg14pc/new_faux_bus_api_merged_for_linux_6_14)
 
-## Software and Programming
+## Culture and Thought
 
-* [New "faux bus" API merged for Linux 6.14, including both Rust & C bindings](https://www.phoronix.com/news/Linux-6.14-Faux-Bus-Merged) - Linux 6.14 introduces a new API with support for innovative Rust and C bindings. [Comments](https://lobste.rs/s/sg14pc/new_faux_bus_api_merged_for_linux_6_14)
+* [The Generative AI Con](https://www.wheresyoured.at/longcon/) - A critical exploration of the myths surrounding the commercialization of generative AI. [Comments](https://news.ycombinator.com/item?id=43085885)
 
-* [Learning Lean: Part 1](https://rkirov.github.io/posts/lean1/) - An accessible entry point for mastering Lean, a powerful proof assistant enabling formal verification. [Comments](https://lobste.rs/s/cdbjll/learning_lean_part_1)
+* [My Washing Machine Refreshed My Thinking on Software Estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation) - A unique perspective on how everyday experiences can inform more effective software development practices. [Comments](https://news.ycombinator.com/item?id=43085876)
 
-## Cultural and Historical Insights
+## Explorations in Design and Development
 
-* [Sony FX-300 Jackal: A technological marvel of the late 70s (2021)](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/) - A retrospective on the Sony FX-300, a groundbreaking device from the late 1970s that captivated technology enthusiasts. [Comments](https://news.ycombinator.com/item?id=43085687)
+* [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/) - An exploration of a now-obsolete alternative to USB with historic insights. [Comments](https://lobste.rs/s/a83yzz/access_bus_forgotten_usb_competitor)
 
-* [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers) - A scientific exploration into childhood amnesia and the mysteries of early memory development. [Comments](https://news.ycombinator.com/item?id=43084355)
+* [Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)](https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html) - A developer's journey into language design influenced by asynchronous Rust. [Comments](https://lobste.rs/s/zm1g8r/why_i_m_writing_scheme_implementation)
+
+## Hardware Developments
+
+* [NAND Flash Prices Plunge Amid Supply Glut, Factory Output Cut](https://hardware.slashdot.org/story/25/02/18/0348230/nand-flash-prices-plunge-amid-supply-glut-factory-output-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Market dynamics force NAND flash manufacturers to cut back production. [Comments](https://hardware.slashdot.org/story/25/02/18/0348230/nand-flash-prices-plunge-amid-supply-glut-factory-output-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Sony FX-300 Jackal: A technological marvel of the late 70s (2021)](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/) - Revisiting a technological achievement of the 1970s that paved the way for modern innovations. [Comments](https://news.ycombinator.com/item?id=43085687)
 
 ---
 
@@ -59,6 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
+* [2025-02-18, 12:33:50](https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
+* [2025-02-18, 12:30:00](https://linux.slashdot.org/story/25/02/18/0953205/free-software-foundation-speaks-up-against-red-hat-source-code-announcement?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free Software Foundation Speaks Up Against Red Hat Source Code Announcement](https://linux.slashdot.org/story/25/02/18/0953205/free-software-foundation-speaks-up-against-red-hat-source-code-announcement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-18, 12:04:00](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss) - [EU Bans Bisphenol A From Contact With Food](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss)
+* [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+* [2025-02-18, 11:49:07](https://news.ycombinator.com/item?id=43088486) - [Linux's Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
+* [2025-02-18, 11:31:25](https://lobste.rs/s/hmf0ht/self_designing_software) - [Self-Designing Software](https://cacm.acm.org/research/self-designing-software/)
+* [2025-02-18, 10:01:00](https://games.slashdot.org/story/25/02/18/0949207/playstation-veteran-blames-gaming-industry-slump-on-pandemic-overexpansion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [PlayStation Veteran Blames Gaming Industry Slump on Pandemic Overexpansion](https://games.slashdot.org/story/25/02/18/0949207/playstation-veteran-blames-gaming-industry-slump-on-pandemic-overexpansion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-18, 09:19:26](https://lobste.rs/s/9ectnm/go_attention_full_attention_mechanism) - [go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 * [2025-02-18, 08:39:50](https://lobste.rs/s/vpiex3/code_style_sheets_css_for_code) - [Code Style Sheets: CSS for Code](https://arxiv.org/pdf/2502.09386)
 * [2025-02-18, 07:30:00](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [xAI Releases Its Latest Flagship Model, Grok 3](https://slashdot.org/story/25/02/18/0711226/xai-releases-its-latest-flagship-model-grok-3?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -69,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 * [2025-02-18, 05:03:34](https://lobste.rs/s/sg14pc/new_faux_bus_api_merged_for_linux_6_14) - [New \"faux bus\" API merged for Linux 6.14, including both Rust & C bindings](https://www.phoronix.com/news/Linux-6.14-Faux-Bus-Merged)
 * [2025-02-18, 04:54:44](https://lobste.rs/s/7zwyoh/arcaos_5_1_1_released_modern_os_2) - [ArcaOS 5.1.1 released (modern OS/2)](https://www.arcanoae.com/wiki/arcaos/change-history-arcaos-5-1/)
-* [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
 * [2025-02-18, 04:02:00](https://hardware.slashdot.org/story/25/02/18/0348230/nand-flash-prices-plunge-amid-supply-glut-factory-output-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NAND Flash Prices Plunge Amid Supply Glut, Factory Output Cut](https://hardware.slashdot.org/story/25/02/18/0348230/nand-flash-prices-plunge-amid-supply-glut-factory-output-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-18, 03:47:00](https://news.ycombinator.com/item?id=43085885) - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
@@ -82,7 +95,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-18, 01:57:00](https://news.slashdot.org/story/25/02/18/0156241/when-a-lifetime-subscription-can-save-you-money---and-when-its-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [When a Lifetime Subscription Can Save You Money - and When It's Risky](https://news.slashdot.org/story/25/02/18/0156241/when-a-lifetime-subscription-can-save-you-money---and-when-its-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-18, 01:08:41](https://news.ycombinator.com/item?id=43084958) - [Have you ever seen a goth downtown?](https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown)
 * [2025-02-17, 23:44:28](https://news.ycombinator.com/item?id=43084355) - [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)
-* [2025-02-17, 23:12:29](https://news.ycombinator.com/item?id=43084154) - [Getting a charge out of wasted automobile heat (2012)](https://climate.nasa.gov/news/667/getting-a-charge-out-of-wasted-automobile-heat/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi (2018)](https://www.benningtonreview.org/adam-golaski)
 * [2025-02-17, 22:11:33](https://lobste.rs/s/ch64l3/new_junior_developers_can_t_actually_code) - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
@@ -90,17 +102,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-17, 21:32:00](https://tech.slashdot.org/story/25/02/17/2133224/chase-will-soon-block-zelle-payments-to-sellers-on-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chase Will Soon Block Zelle Payments To Sellers on Social Media](https://tech.slashdot.org/story/25/02/17/2133224/chase-will-soon-block-zelle-payments-to-sellers-on-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 21:22:38](https://lobste.rs/s/gsyz6c/swift_evolution_proposal_inlinearray) - [Swift Evolution Proposal:  InlineArray, a fixed-size array](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0453-vector.md)
 * [2025-02-17, 21:14:03](https://news.ycombinator.com/item?id=43083345) - [Find Your 2%Ers (2023)](https://joyarbitrage.substack.com/p/find-your-2ers)
-* [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 * [2025-02-17, 20:44:00](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss) - [Octet Of ESP32s Lets You See WiFi Like Never Before](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss)
 * [2025-02-17, 20:43:08](https://lobste.rs/s/dfhwq1/nes86_x86_emulation_on_nes) - [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
 * [2025-02-17, 20:29:53](https://lobste.rs/s/zm1g8r/why_i_m_writing_scheme_implementation) - [Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)](https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
-* [2025-02-17, 19:57:16](https://news.ycombinator.com/item?id=43082739) - [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 19:56:23](https://lobste.rs/s/ckjevs/choosing_browser) - [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
 * [2025-02-17, 19:15:00](https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The 'White Collar' Recession is Pummeling Office Workers](https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 19:12:48](https://lobste.rs/s/1xykzf/debugging_undebuggable_app) - [Debugging An Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
-* [2025-02-17, 18:03:01](https://lobste.rs/s/5damlp/how_browsers_really_load_web_pages) - [How browsers really load Web pages](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 18:01:00](https://tech.slashdot.org/story/25/02/17/1733222/reddit-mods-are-fighting-to-keep-ai-slop-off-subreddits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit Mods Are Fighting To Keep AI Slop Off Subreddits](https://tech.slashdot.org/story/25/02/17/1733222/reddit-mods-are-fighting-to-keep-ai-slop-off-subreddits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 17:49:24](https://lobste.rs/s/c6rk0l/14_years_systemd) - [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
 * [2025-02-17, 17:28:48](https://lobste.rs/s/8zd1tm/mac_menubar_swiftui) - [The Mac Menubar and SwiftUI](https://troz.net/post/2025/mac_menu_data/)
@@ -119,11 +128,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-17, 12:34:00](https://it.slashdot.org/story/25/02/17/0713230/will-amazons-return-to-office-mandate-revitalize-downtown-seattle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Amazon's Return-to-Office Mandate Revitalize Downtown Seattle?](https://it.slashdot.org/story/25/02/17/0713230/will-amazons-return-to-office-mandate-revitalize-downtown-seattle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 11:15:00](https://soylentnews.org/article.pl?sid=25/02/16/1816252&from=rss) - [Wiggling Ears May Have Once Helped Us Hear](https://soylentnews.org/article.pl?sid=25/02/16/1816252&from=rss)
 * [2025-02-17, 10:57:46](https://news.ycombinator.com/item?id=43077519) - [Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed](https://timeretain.com/)
-* [2025-02-17, 10:21:54](https://lobste.rs/s/mfmvmj/tutorial_introduction_lambda_calculus) - [A Tutorial Introduction to the Lambda Calculus (2015)](https://arxiv.org/pdf/1503.09060)
-* [2025-02-17, 08:34:00](https://yro.slashdot.org/story/25/02/17/064219/deepseek-removed-from-south-korea-app-stores-pending-privacy-review?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek Removed from South Korea App Stores Pending Privacy Review](https://yro.slashdot.org/story/25/02/17/064219/deepseek-removed-from-south-korea-app-stores-pending-privacy-review?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 08:00:25](https://lobste.rs/s/qpjxpb/f8_8_bit_architecture_designed_for_c) - [f8 - an 8 bit architecture designed for C and memory efficiency](https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/)
 * [2025-02-17, 06:23:00](https://soylentnews.org/article.pl?sid=25/02/16/1348230&from=rss) - [AUKUS Blasts Holes In Lockbit's Bulletproof Hosting Provider](https://soylentnews.org/article.pl?sid=25/02/16/1348230&from=rss)
-* [2025-02-17, 05:22:00](https://tech.slashdot.org/story/25/02/17/0511251/california-considers-taking-over-some-oil-refineries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [California Considers Taking Over Some Oil Refineries](https://tech.slashdot.org/story/25/02/17/0511251/california-considers-taking-over-some-oil-refineries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-17, 02:05:28](https://lobste.rs/s/sag0p3/making_web_more_readable_with_stylus) - [Making the Web More Readable With Stylus](https://www.wezm.net/v2/posts/2025/stylus/)
 * [2025-02-17, 01:38:00](https://soylentnews.org/article.pl?sid=25/02/16/1342231&from=rss) - [Ignorance Bliss When You’Re Drowning In Information](https://soylentnews.org/article.pl?sid=25/02/16/1342231&from=rss)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
@@ -133,9 +139,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-16, 11:27:00](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss) - [AI Reveals Hidden Interior Design Rules of the Cell](https://soylentnews.org/article.pl?sid=25/02/15/143258&from=rss)
 * [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-16, 06:42:00](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss) - [Key Takeaways From The Paris AI Summit](https://soylentnews.org/article.pl?sid=25/02/15/1357236&from=rss)
+* [2025-02-16, 03:21:03](https://news.ycombinator.com/item?id=43065010) - [What will happen if you do an entire woodworking project using a VR headset? [video]](https://www.youtube.com/watch?v=qp9UG0plBRQ)
 * [2025-02-16, 01:58:00](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss) - [If You Ever Stacked Cups In Gym Class, Blame My Dad](https://soylentnews.org/article.pl?sid=25/02/15/1351232&from=rss)
 * [2025-02-15, 21:09:00](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss) - [Let’s Buy California from Trump – Denmark’s Next Big Adventure ](https://soylentnews.org/politics/article.pl?sid=25/02/14/1936219&from=rss)
-* [2025-02-15, 18:59:52](https://news.ycombinator.com/item?id=43061176) - [Back to the Future with Gordon Moore](https://thechipletter.substack.com/p/back-to-the-future-with-gordon-moore)
+* [2025-02-15, 19:36:31](https://news.ycombinator.com/item?id=43061521) - [New technique generates topological structures with gravity water waves](https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html)
 * [2025-02-15, 16:24:00](https://soylentnews.org/article.pl?sid=25/02/14/1932219&from=rss) - [Flies Play Too, Carousel Study Suggests](https://soylentnews.org/article.pl?sid=25/02/14/1932219&from=rss)
 * [2025-02-15, 11:38:00](https://soylentnews.org/article.pl?sid=25/02/14/1925233&from=rss) - [Anyone Can Push Updates to the DOGE.gov Website](https://soylentnews.org/article.pl?sid=25/02/14/1925233&from=rss)
 * [2025-02-15, 06:52:00](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss) - [RTX5090 Cable Overheats to 150 C Where Uneven Current Distribution Likely the Culprit](https://soylentnews.org/article.pl?sid=25/02/14/1254214&from=rss)
