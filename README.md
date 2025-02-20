@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Decentralized Technologies and Communication
+## Science and Technology Advancements
 
-* [Meshtastic: decentralized communication with low-power devices](https://lwn.net/SubscriberLink/1009782/1d1e1918a55396b6/) ([comments](https://lobste.rs/s/yk5qhb/meshtastic_decentralized)) - An in-depth look at low-power, decentralized mesh communication using Meshtastic technology.
+* [Scientists Just Discovered ‘Quipu,’ the New Largest Structure in Our Cosmos](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss)
 
-## Computing Innovations
+* [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
 
-* [The Plan 9 Foundation](https://plan9foundation.org/) ([comments](https://news.ycombinator.com/item?id=43112036)) - A new organization dedicated to the continued evolution and support of Plan 9, a revolutionary distributed operating system.
+* [France Runs Fusion Reactor For Record 22 Minutes](https://science.slashdot.org/story/25/02/19/1922241/france-runs-fusion-reactor-for-record-22-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669) ([comments](https://news.ycombinator.com/item?id=43112021)) - A deep dive into the science behind Microsoft's advancement in topological qubits.
+## Space Exploration and Life Detection
 
-* [KubeVPN: Revolutionizing Kubernetes Local Development](https://github.com/kubenetworks/kubevpn) ([comments](https://news.ycombinator.com/item?id=43111335)) - Exploring a novel approach to enhance Kubernetes development with KubeVPN.
+* [Targeting Amino Acids to Search for Life on Mars](https://soylentnews.org/article.pl?sid=25/02/17/1343225&from=rss)
 
-* [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/) ([comments](https://news.ycombinator.com/item?id=43110265)) - Microsoft's latest AI framework for designing versatile multimodal agents.
+## Artificial Intelligence & Machine Learning
 
-## Cosmos and Scientific Discoveries
+* [Palantir CEO Calls for Tech Patriotism, Warns of AI Warfare](https://news.slashdot.org/story/25/02/20/0333203/palantir-ceo-calls-for-tech-patriotism-warns-of-ai-warfare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Scientists Just Discovered ‘Quipu,’ the New Largest Structure in Our Cosmos](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss)) - A groundbreaking discovery and its implications for our understanding of the universe.
+* [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 
-## Unique Developments in AI
+* [Microsoft Shows Progress Toward Real-Time AI-Generated Game Worlds](https://games.slashdot.org/story/25/02/19/2051259/microsoft-shows-progress-toward-real-time-ai-generated-game-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Palantir CEO Calls for Tech Patriotism, Warns of AI Warfare](https://news.slashdot.org/story/25/02/20/0333203/palantir-ceo-calls-for-tech-patriotism-warns-of-ai-warfare?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/20/0333203/palantir-ceo-calls-for-tech-patriotism-warns-of-ai-warfare?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - A key conversation on the geopolitics and future direction of AI-driven warfare.
+## Software and Hardware Updates
 
-* [Microsoft Shows Progress Toward Real-Time AI-Generated Game Worlds](https://games.slashdot.org/story/25/02/19/2051259/microsoft-shows-progress-toward-real-time-ai-generated-game-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/02/19/2051259/microsoft-shows-progress-toward-real-time-ai-generated-game-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Advancements in using AI to create immersive, real-time gaming environments.
+* [The Raspberry Pi RP2040 Gets a Surprise Speed Boost, Unlocks an Official 200MHz Mode](https://www.hackster.io/news/the-raspberry-pi-rp2040-gets-a-surprise-speed-boost-unlocks-an-official-200mhz-mode-d6c9d267de5a)
 
-* [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/) ([comments](https://news.ycombinator.com/item?id=43112084)) - The unexpected influence and capabilities of DOGE in the intersection of technology and governance.
+* [Microsoft Declutters Windows 11 File Explorer in the Name of Euro Privacy](https://it.slashdot.org/story/25/02/20/0227241/microsoft-declutters-windows-11-file-explorer-in-the-name-of-euro-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Specialized Hardware and Devices
+* [Typst 0.13 is out now: Experimental HTML export, semantic paragraphs, and more](https://typst.app/blog/2025/typst-0.13/)
 
-* [The Raspberry Pi RP2040 Gets a Surprise Speed Boost, Unlocks an Official 200MHz Mode](https://www.hackster.io/news/the-raspberry-pi-rp2040-gets-a-surprise-speed-boost-unlocks-an-official-200mhz-mode-d6c9d267de5a) ([comments](https://lobste.rs/s/w3ajso/raspberry_pi_rp2040_gets_surprise_speed)) - A new performance enhancement for Raspberry Pi's microcontroller chip.
+* [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 
-## Environment and Sustainability
+## Transportation and Infrastructure
 
-* [Historic Ocean Liner Departs Philadelphia On Voyage To Become the World's Largest Artificial Reef](https://news.slashdot.org/story/25/02/19/221253/historic-ocean-liner-departs-philadelphia-on-voyage-to-become-the-worlds-largest-artificial-reef?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/02/19/221253/historic-ocean-liner-departs-philadelphia-on-voyage-to-become-the-worlds-largest-artificial-reef?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - A transformative repurposing of a historic ship to benefit marine ecosystems.
+* [Canada Announces First High-Speed Rail Between Toronto and Quebec City](https://tech.slashdot.org/story/25/02/20/0540215/canada-announces-first-high-speed-rail-between-toronto-and-quebec-city?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Education and Programming
+## Environmental and Health Insights
 
-* [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt/) ([comments](https://lobste.rs/s/isl4u6/demystifying_monads_rust_through)) - An approachable narrative unpacking an advanced functional programming concept using Rust.
+* [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
 
-* [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries) ([comments](https://news.ycombinator.com/item?id=43108614)) - A hands-on guide to database development in Rust.
+* [Noise-Cancelling Headphones: Possible Source of Hearing Problems](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss)
 
 ---
 
@@ -65,6 +65,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-20, 12:45:00](https://slashdot.org/story/25/02/20/1245240/amazon-to-shut-down-android-appstore?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon To Shut Down Android Appstore](https://slashdot.org/story/25/02/20/1245240/amazon-to-shut-down-android-appstore?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-20, 12:45:00](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss) - [Noise-Cancelling Headphones Possible Source of Hearing Problems](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss)
+* [2025-02-20, 12:13:00](https://lobste.rs/s/ud4pbl/pgbouncer_is_useful_important_fraught) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
+* [2025-02-20, 11:18:36](https://lobste.rs/s/sm7pk7/ipv6_transition) - [The IPv6 transition](https://blog.apnic.net/2024/10/22/the-ipv6-transition/)
+* [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
+* [2025-02-20, 10:09:56](https://news.ycombinator.com/item?id=43113024) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
+* [2025-02-20, 10:00:00](https://tech.slashdot.org/story/25/02/20/0540215/canada-announces-first-high-speed-rail-between-toronto-and-quebec-city?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Canada Announces First High-Speed Rail Between Toronto and Quebec City](https://tech.slashdot.org/story/25/02/20/0540215/canada-announces-first-high-speed-rail-between-toronto-and-quebec-city?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-20, 08:39:48](https://lobste.rs/s/yk5qhb/meshtastic_decentralized) - [Meshtastic: decentralized communication with low-power devices](https://lwn.net/SubscriberLink/1009782/1d1e1918a55396b6/)
 * [2025-02-20, 07:53:00](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss) - [Scientists Just Discovered ‘Quipu,’ the New Largest Structure in Our Cosmos](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss)
 * [2025-02-20, 07:36:34](https://news.ycombinator.com/item?id=43112084) - [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
@@ -73,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-20, 07:15:12](https://news.ycombinator.com/item?id=43111963) - [Grok 3: Another win for the bitter lesson](https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter)
 * [2025-02-20, 07:01:00](https://news.slashdot.org/story/25/02/20/0333203/palantir-ceo-calls-for-tech-patriotism-warns-of-ai-warfare?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Palantir CEO Calls for Tech Patriotism, Warns of AI Warfare](https://news.slashdot.org/story/25/02/20/0333203/palantir-ceo-calls-for-tech-patriotism-warns-of-ai-warfare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
-* [2025-02-20, 05:09:38](https://news.ycombinator.com/item?id=43111335) - [KubeVPN: Revolutionizing Kubernetes Local Development](https://github.com/kubenetworks/kubevpn)
 * [2025-02-20, 05:00:00](https://it.slashdot.org/story/25/02/20/0227241/microsoft-declutters-windows-11-file-explorer-in-the-name-of-euro-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Declutters Windows 11 File Explorer in the Name of Euro Privacy](https://it.slashdot.org/story/25/02/20/0227241/microsoft-declutters-windows-11-file-explorer-in-the-name-of-euro-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-20, 03:30:00](https://hardware.slashdot.org/story/25/02/19/2211224/chinas-electric-vehicle-to-humanoid-robot-pivot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China's Electric-Vehicle-To-Humanoid-Robot Pivot](https://hardware.slashdot.org/story/25/02/19/2211224/chinas-electric-vehicle-to-humanoid-robot-pivot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-20, 03:10:00](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss) - [Arm Poaching Talent to Produce Their Own Chips](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss)
@@ -87,7 +93,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-19, 23:40:03](https://news.ycombinator.com/item?id=43109255) - [What Makes a Great Software Engineer (Dissertation) (2016) [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
 * [2025-02-19, 23:10:57](https://lobste.rs/s/patajy/what_i_saw_at_evolution_plan_9) - [What I Saw at the Evolution of Plan 9](https://adi.onl/oral.pdf)
 * [2025-02-19, 23:00:00](https://yro.slashdot.org/story/25/02/19/2151255/murena-released-a-de-googled-version-of-the-pixel-tablet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Murena Released a De-Googled Version of the Pixel Tablet](https://yro.slashdot.org/story/25/02/19/2151255/murena-released-a-de-googled-version-of-the-pixel-tablet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:29:46](https://lobste.rs/s/ex0nul/build_your_own_sqlite_rust_part_5) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:27:29](https://lobste.rs/s/2t027q/we_trust_you_have_received_usual_lecture) - [We trust you have received the usual lecture from the local System Administrator](https://lobste.rs/s/2t027q/we_trust_you_have_received_usual_lecture)
 * [2025-02-19, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/18/224256&from=rss) - [Scented Products Cause Indoor Air Pollution on Par With Car Exhaust](https://soylentnews.org/article.pl?sid=25/02/18/224256&from=rss)
@@ -112,29 +117,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-19, 17:31:11](https://lobste.rs/s/tlkkq4/multiple_vulnerabilities_u_boot) - [Multiple Vulnerabilities in U-Boot](https://www.openwall.com/lists/oss-security/2025/02/17/2)
 * [2025-02-19, 17:25:00](https://tech.slashdot.org/story/25/02/19/1651235/microsoft-reveals-its-first-quantum-computing-chip-the-majorana-1?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Reveals Its First Quantum Computing Chip, the Majorana 1](https://tech.slashdot.org/story/25/02/19/1651235/microsoft-reveals-its-first-quantum-computing-chip-the-majorana-1?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-19, 16:56:11](https://lobste.rs/s/gydrm1/secret_maze_debian_images) - [The secret maze of Debian images](https://blog.fai-project.org/posts/cdimages-maze/)
-* [2025-02-19, 16:40:00](https://slashdot.org/story/25/02/19/1217252/all-of-humanes-ai-pins-will-stop-working-in-10-days?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [All of Humane's AI Pins Will Stop Working in 10 Days](https://slashdot.org/story/25/02/19/1217252/all-of-humanes-ai-pins-will-stop-working-in-10-days?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-19, 16:06:10](https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees) - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees (2024)](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
-* [2025-02-19, 16:01:00](https://slashdot.org/story/25/02/19/1356215/microsoft-puts-notepads-ai-rewrite-feature-behind-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Puts Notepad's AI Rewrite Feature Behind Paywall](https://slashdot.org/story/25/02/19/1356215/microsoft-puts-notepads-ai-rewrite-feature-behind-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-19, 15:48:18](https://lobste.rs/s/hdj2q4/greg_kroah_hartman_makes_compelling_case) - [Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust](https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code)
 * [2025-02-19, 15:45:32](https://lobste.rs/s/gi6ed9/http3_2_1) - [HTTP3, 2, 1](https://maxmcd.com/posts/http321/)
 * [2025-02-19, 15:25:08](https://news.ycombinator.com/item?id=43103073) - [Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby](https://github.com/mastra-ai/mastra)
-* [2025-02-19, 14:05:23](https://news.ycombinator.com/item?id=43102284) - [Multiple Russia-aligned threat actors actively targeting Signal Messenger](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger)
 * [2025-02-19, 13:17:55](https://lobste.rs/s/utonjg/being_happy_nixer_on_mac) - [Being a happy Nixer on a Mac](https://paretosecurity.com/blog/being-a-happy-nixer-on-a-mac)
+* [2025-02-19, 12:55:47](https://lobste.rs/s/gxibvy/pain_linear_types_rust_2017) - [The Pain Of Linear Types In Rust (2017)](https://faultlore.com/blah/linear-rust/)
 * [2025-02-19, 12:55:00](https://soylentnews.org/article.pl?sid=25/02/18/0412247&from=rss) - [Open Source Maintainers Are Feeling The Squeeze](https://soylentnews.org/article.pl?sid=25/02/18/0412247&from=rss)
-* [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken legs and ankles heal better if you walk on them within weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
-* [2025-02-19, 11:01:12](https://lobste.rs/s/1ao83l/programming_with_math_lambda_calculus) - [Programming with Math | The Lambda Calculus](https://youtu.be/ViPNHMSUcog)
-* [2025-02-19, 10:28:21](https://lobste.rs/s/syjb5i/learning_hardest_problem_computer) - [Learning: the hardest problem in computer science](https://www.herostrat.us/posts/learning-the-hardest-problem-in-computer-science/)
 * [2025-02-19, 09:24:50](https://lobste.rs/s/oizlxo/add_wayland_color_management_protocol) - [Add Wayland color-management protocol](https://gitlab.freedesktop.org/wayland/wayland-protocols/-/commit/452e943b4991)
 * [2025-02-19, 08:10:00](https://soylentnews.org/article.pl?sid=25/02/18/043200&from=rss) - [AI Study: AI Can Clone Itself Under the Right Conditions](https://soylentnews.org/article.pl?sid=25/02/18/043200&from=rss)
 * [2025-02-19, 05:08:01](https://lobste.rs/s/wwgtxt/append_only_programming) - [Append-only programming](https://iafisher.com/blog/2024/08/append-only-programming)
 * [2025-02-19, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/19/0312225&from=rss) - [New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks](https://soylentnews.org/article.pl?sid=25/02/19/0312225&from=rss)
 * [2025-02-19, 02:21:15](https://lobste.rs/s/8mexgt/tcl_misunderstood_2006) - [Tcl the Misunderstood (2006)](https://antirez.com/articoli/tclmisunderstood.html)
 * [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
-* [2025-02-18, 23:18:27](https://lobste.rs/s/l6bhjh/introducing_pi_hole_v6) - [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 21:42:00](https://soylentnews.org/article.pl?sid=25/02/17/166228&from=rss) - [Chinese GPUs Surpass Nvidia Chips by Nearly Tenfold in Supercomputer Simulation](https://soylentnews.org/article.pl?sid=25/02/17/166228&from=rss)
 * [2025-02-18, 16:52:00](https://soylentnews.org/article.pl?sid=25/02/17/164215&from=rss) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://soylentnews.org/article.pl?sid=25/02/17/164215&from=rss)
+* [2025-02-18, 14:53:44](https://news.ycombinator.com/item?id=43090167) - [Agent-Less System Monitoring with Elixir Broadway](https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
+* [2025-02-18, 12:34:12](https://news.ycombinator.com/item?id=43088773) - [All-optical control of charge-trapping defects in rare-earth doped oxides](https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html)
 * [2025-02-18, 12:33:50](https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 * [2025-02-18, 12:04:00](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss) - [EU Bans Bisphenol A From Contact With Food](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
@@ -143,9 +144,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-18, 02:29:00](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss) - [DOGE as a National Cyberattack](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss)
 * [2025-02-17, 21:24:17](https://news.ycombinator.com/item?id=43083429) - [F8 – an 8 bit architecture designed for C and memory efficiency [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/)
 * [2025-02-17, 20:44:00](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss) - [Octet Of ESP32s Lets You See WiFi Like Never Before](https://soylentnews.org/article.pl?sid=25/02/16/1956214&from=rss)
+* [2025-02-17, 17:47:25](https://news.ycombinator.com/item?id=43081491) - [EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges](https://arxiv.org/abs/2502.08859)
 * [2025-02-17, 16:02:00](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss) - [Women Speak Some 3000ish Words More Per Day Than Men](https://soylentnews.org/article.pl?sid=25/02/16/1951215&from=rss)
 * [2025-02-17, 11:15:00](https://soylentnews.org/article.pl?sid=25/02/16/1816252&from=rss) - [Wiggling Ears May Have Once Helped Us Hear](https://soylentnews.org/article.pl?sid=25/02/16/1816252&from=rss)
-* [2025-02-17, 07:12:38](https://news.ycombinator.com/item?id=43076088) - [A tail calling interpreter for Python (already landed in CPython)](https://blog.reverberate.org/2025/02/10/tail-call-updates.html)
 * [2025-02-17, 06:23:00](https://soylentnews.org/article.pl?sid=25/02/16/1348230&from=rss) - [AUKUS Blasts Holes In Lockbit's Bulletproof Hosting Provider](https://soylentnews.org/article.pl?sid=25/02/16/1348230&from=rss)
 * [2025-02-17, 01:38:00](https://soylentnews.org/article.pl?sid=25/02/16/1342231&from=rss) - [Ignorance Bliss When You’Re Drowning In Information](https://soylentnews.org/article.pl?sid=25/02/16/1342231&from=rss)
 * [2025-02-16, 20:54:00](https://soylentnews.org/article.pl?sid=25/02/15/1518204&from=rss) - [The Guy Who Accidentally Threw Away $700 Million in Bitcoin Wants to Buy the Landfill to Find It](https://soylentnews.org/article.pl?sid=25/02/15/1518204&from=rss)
