@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Software Development
 
-* [NASA Rover Discovers Liquid Water 'Ripples' Carved Into Mars Rock](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking discovery by NASA's rover has revealed evidence of liquid water ripples on Mars, marking a significant achievement in planetary science.
+* [Scrap Your ORM—Replace Your ORM With Relational Algebra](https://youtu.be/SKXEppEZp9M) - A talk advocating for replacing traditional object-relational mappers with relational algebra for improved database management. [Comments](https://lobste.rs/s/vtufn0/scrap_your_orm_replace_your_orm_with)
 
-* [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - Google's innovative AI can autonomously generate research hypotheses, potentially revolutionizing scientific advancement.
+* [Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering](https://svraster.github.io/) - Exploration of sparse voxel rasterization technology for real-time high-quality rendering. [Comments](https://lobste.rs/s/tgyqp7/sparse_voxels_rasterization_real_time)
 
-* [OpenAI Bans Chinese Accounts Using ChatGPT To Edit Code For Social Media Surveillance](https://tech.slashdot.org/story/25/02/21/2356205/openai-bans-chinese-accounts-using-chatgpt-to-edit-code-for-social-media-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI takes a strong stand by banning Chinese accounts found using ChatGPT for unethical social media surveillance activities.
+* [Bookmarks (and Custom URL Schemes) Are Criminally Underrated](https://silly.business/blog/bookmarklets-and-custom-url-schemes-are-criminally-underrated/) - A case for rediscovering bookmarklets and URL custom schemes to improve web interactivity. [Comments](https://lobste.rs/s/fgzitm/bookmarklets_custom_url_schemes_are)
 
-## Software Development and Coding
+* [Notes from code walking kubelet initialization](https://samof76.space/kubelet-initialization.html) - Detailed insights into how the kubelet initialization process works in Kubernetes. [Comments](https://lobste.rs/s/nsawha/notes_from_code_walking_kubelet)
 
-* [Making a datalog engine in clojure](https://shagunagrawal.me/posts/making-a-simple-datalog-engine-in-clojure/) - A step-by-step exploration of building a datalog engine in the Clojure programming language.
+## Cybersecurity and Cryptography
 
-* [SystemV filesystem being removed from the Linux kernel](https://www.phoronix.com/news/Removing-SystemV-Filesystem) - The Linux kernel takes a bold step in modernizing its codebase by removing support for the outdated SystemV filesystem.
+* [Encrypted Messages Are Being Targeted, Google Security Group Warns](https://it.slashdot.org/story/25/02/22/0724228/encrypted-messages-are-being-targeted-google-security-group-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's security experts raise alarm about increasing threats aimed at encrypted private communication. [Comments](https://tech.slashdot.org/story/25/02/22/0748224/arcaos-os2-warp-oem-511-has-been-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Torvalds: Rust Kernel Code Isn't Forced In Over Maintainers' Objections](https://linux.slashdot.org/story/25/02/22/0524210/torvalds-rust-kernel-code-isnt-forced-in-over-maintainers-objections?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Linus Torvalds addresses concerns about the integration of Rust into the Linux kernel, emphasizing a collaborative development approach.
+* [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/) - A deep look into the large-scale Bybit hack and its impact on operational security practices. [Comments](https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security)
+
+## Finance and Economics
+
+* [Warren Buffett amasses more cash and sells more stock](https://www.cnbc.com/2025/02/22/warren-buffett-amasses-more-cash-and-sells-more-stock-but-doesnt-explain-why-in-annual-letter.html) - Buffett's recent moves raise questions about his economic outlook. [Comments](https://news.ycombinator.com/item?id=43141481)
+
+* [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/) - A study reveals questionable financial practices among Florida insurers. [Comments](https://news.ycombinator.com/item?id=43138786)
 
 ## Artificial Intelligence
 
-* [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/) - A fascinating study uncovers that AI systems may resort to unethical behavior like cheating when anticipating failure.
+* [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - Google's AI now assists researchers by generating new hypotheses. [Comments](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss)
 
-* [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264) - This research paper dives into the economic strategies in a world driven by rapid AI advancements.
+* [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/) - A fascinating revelation about AI's behavior under perceived competitive disadvantage. [Comments](https://news.ycombinator.com/item?id=43139811)
 
-* [Game Developers Revolt Against Microsoft's New AI Gaming Tool](https://games.slashdot.org/story/25/02/22/0244244/game-developers-revolt-against-microsofts-new-ai-gaming-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's AI tool for gaming faces backlash from developers for potentially disrupting creative and business practices.
+## Space and Science
 
-## Business and Economics
+* [NASA Rover Discovers Liquid Water 'Ripples' Carved Into Mars Rock](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Evidence of liquid water ripples on Mars provides new insights into the planet's history. [Comments](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/) - A controversial study accuses Florida insurers of diverting funds to investors while reporting losses.
+* [First Look At Secretive X-37B Space Plane In Orbit](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unprecedented glimpse into the US Air Force's highly secretive X-37B orbital test vehicle. [Comments](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [DRAM and NAND Prices Are Expected to Rise in the Second Half of 2025](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss) - The tech industry braces for rising memory prices, with potential impacts on electronics and computing costs.
+## Cultural and Social Impact
 
-## Space and Exploration
+* ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners) - Exploring societal disadvantages for those not owning smartphones. [Comments](https://news.ycombinator.com/item?id=43137488)
 
-* [First Look At Secretive X-37B Space Plane In Orbit](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rare images reveal insights into the U.S. military's enigmatic X-37B space plane's purposes and research goals.
-
-* [Nyx Space and Rust Power Firefly's Blue Ghost Lunar Landing](https://nyxspace.com/blog/2025/02/21/nyx-space-and-rust-power-fireflys-blue-ghost-lunar-landing/) - Rust programming language takes center stage in powering Firefly Aerospace's upcoming lunar landing mission.
-
-## Society and Culture
-
-* ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners) - Campaigners highlight societal and financial disadvantages faced by individuals without access to smartphones.
-
-* [Mark Zuckerberg's Makeover Didn't Make People Like Him, Study Shows](https://tech.slashdot.org/story/25/02/22/0048209/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A detailed study confirms perceptions of leaders can’t easily be changed by image makeovers.
+* [Webcomic Author AndyOh of TMI-Comic Has Died](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss) - A tribute to the late webcomic author AndyOh and his contributions to the comic genre. [Comments](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss)
 
 ---
 
@@ -67,16 +65,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-22, 18:40:40](https://lobste.rs/s/vtufn0/scrap_your_orm_replace_your_orm_with) - [Scrap Your ORM—Replace Your ORM With Relational Algebra](https://youtu.be/SKXEppEZp9M)
+* [2025-02-22, 18:34:00](https://tech.slashdot.org/story/25/02/22/0748224/arcaos-os2-warp-oem-511-has-been-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ArcaOS (OS/2 Warp OEM) 5.1.1 Has Been Released](https://tech.slashdot.org/story/25/02/22/0748224/arcaos-os2-warp-oem-511-has-been-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-22, 18:12:02](https://news.ycombinator.com/item?id=43141481) - [Warren Buffett amasses more cash and sells more stock](https://www.cnbc.com/2025/02/22/warren-buffett-amasses-more-cash-and-sells-more-stock-but-doesnt-explain-why-in-annual-letter.html)
+* [2025-02-22, 18:01:57](https://news.ycombinator.com/item?id=43141392) - [Warren Buffett sounds warning to Washington as Berkshire reports record profit](https://www.reuters.com/business/warren-buffett-says-us-should-spend-wisely-plans-increase-investment-japan-2025-02-22/)
+* [2025-02-22, 18:00:16](https://lobste.rs/s/tgyqp7/sparse_voxels_rasterization_real_time) - [Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering](https://svraster.github.io/)
+* [2025-02-22, 17:59:27](https://news.ycombinator.com/item?id=43141368) - [Ask HN: Is Anyone Still Using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
+* [2025-02-22, 17:55:00](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss) - [Webcomic Author AndyOh of TMI-Comic Has Died](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss)
+* [2025-02-22, 17:34:00](https://it.slashdot.org/story/25/02/22/0724228/encrypted-messages-are-being-targeted-google-security-group-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Encrypted Messages Are Being Targeted, Google Security Group Warns](https://it.slashdot.org/story/25/02/22/0724228/encrypted-messages-are-being-targeted-google-security-group-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-22, 17:30:13](https://news.ycombinator.com/item?id=43141038) - [The People Take Antitrust into Their Own Hands](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
+* [2025-02-22, 17:13:17](https://lobste.rs/s/bjngsz/llm_commit_plugin_for_llm_generates) - [llm-commit: A plugin for llm that generates commit messages](https://github.com/GNtousakis/llm-commit)
+* [2025-02-22, 17:05:27](https://news.ycombinator.com/item?id=43140754) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
+* [2025-02-22, 17:03:42](https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
+* [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
+* [2025-02-22, 16:40:38](https://lobste.rs/s/fgzitm/bookmarklets_custom_url_schemes_are) - [Bookmarklets (and Custom URL Schemes) Are Criminally Underrated](https://silly.business/blog/bookmarklets-and-custom-url-schemes-are-criminally-underrated/)
+* [2025-02-22, 16:34:00](https://entertainment.slashdot.org/story/25/02/22/0638211/james-bonds-next-assignment-amazon-pays-1-billion-for-full-creative-control?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [James Bond's Next Assignment: Amazon Pays $1 Billion for Full Creative Control](https://entertainment.slashdot.org/story/25/02/22/0638211/james-bonds-next-assignment-amazon-pays-1-billion-for-full-creative-control?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-22, 16:12:03](https://lobste.rs/s/zaurni/concurrency_bugs_lucene_how_fix) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
+* [2025-02-22, 16:06:49](https://lobste.rs/s/qu6kay/solving_jit_calculator_challenge) - [Solving the JIT calculator challenge](https://ochagavia.nl/blog/solving-the-jit-calculator-challenge/)
 * [2025-02-22, 15:54:00](https://linux.slashdot.org/story/25/02/22/0524210/torvalds-rust-kernel-code-isnt-forced-in-over-maintainers-objections?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Torvalds: Rust Kernel Code Isn't Forced In Over Maintainers' Objections](https://linux.slashdot.org/story/25/02/22/0524210/torvalds-rust-kernel-code-isnt-forced-in-over-maintainers-objections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
 * [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 * [2025-02-22, 15:28:22](https://lobste.rs/s/nigu0x/systemv_filesystem_being_removed_from) - [SystemV filesystem being removed from the Linux kernel](https://www.phoronix.com/news/Removing-SystemV-Filesystem)
+* [2025-02-22, 14:29:23](https://news.ycombinator.com/item?id=43139209) - [Brazil justice orders ban of video platform Rumble](https://www.dw.com/en/brazil-justice-orders-ban-of-video-platform-rumble/a-71708890)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
 * [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
 * [2025-02-22, 13:14:00](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss)
 * [2025-02-22, 13:01:39](https://news.ycombinator.com/item?id=43138637) - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
 * [2025-02-22, 12:00:00](https://games.slashdot.org/story/25/02/22/0244244/game-developers-revolt-against-microsofts-new-ai-gaming-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Game Developers Revolt Against Microsoft's New AI Gaming Tool](https://games.slashdot.org/story/25/02/22/0244244/game-developers-revolt-against-microsofts-new-ai-gaming-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-22, 11:55:23](https://news.ycombinator.com/item?id=43138190) - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
-* [2025-02-22, 11:15:04](https://lobste.rs/s/angvuk/making_datalog_engine_clojure) - [Making a datalog engine in clojure](https://shagunagrawal.me/posts/making-a-simple-datalog-engine-in-clojure/)
 * [2025-02-22, 11:10:00](https://soylentnews.org/meta/article.pl?sid=25/02/21/1425224&from=rss) - [Adoption of Site Documentation - THIS IS THE VOTE - RESTORED](https://soylentnews.org/meta/article.pl?sid=25/02/21/1425224&from=rss)
 * [2025-02-22, 10:35:39](https://lobste.rs/s/yclvqy/ring_is_unmaintained) - [Ring is unmaintained](https://rustsec.org/advisories/RUSTSEC-2025-0007.html)
 * [2025-02-22, 10:00:00](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Rover Discovers Liquid Water 'Ripples' Carved Into Mars Rock](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -85,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-22, 08:31:00](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss) - [Gnome 48 Goes Into Beta, Should Launch in a Month](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss)
 * [2025-02-22, 08:04:03](https://lobste.rs/s/bcy6zi/invoker_commands_explainer) - [Invoker Commands (Explainer)](https://open-ui.org/components/invokers.explainer/)
 * [2025-02-22, 07:00:00](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [First Look At Secretive X-37B Space Plane In Orbit](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-22, 05:48:10](https://news.ycombinator.com/item?id=43136428) - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
 * [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-22, 03:48:00](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss) - [DRAM and NAND Prices Are Expected to Rise in the Second Half of 2025](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss)
 * [2025-02-22, 03:30:00](https://tech.slashdot.org/story/25/02/22/0048209/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mark Zuckerberg's Makeover Didn't Make People Like Him, Study Shows](https://tech.slashdot.org/story/25/02/22/0048209/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -101,42 +116,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-21, 22:50:00](https://hardware.slashdot.org/story/25/02/21/2143227/the-gsa-is-shutting-down-its-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The GSA Is Shutting Down Its EV Chargers](https://hardware.slashdot.org/story/25/02/21/2143227/the-gsa-is-shutting-down-its-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-21, 22:49:37](https://lobste.rs/s/9a3noh/nixos_power_vm_tests) - [NixOS: the power of VM tests](https://bmcgee.ie/posts/2025/02/nixos-the-power-of-vm-tests/)
 * [2025-02-21, 22:10:00](https://slashdot.org/story/25/02/21/2131244/openai-plans-to-shift-compute-needs-from-microsoft-to-softbank?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans To Shift Compute Needs From Microsoft To SoftBank](https://slashdot.org/story/25/02/21/2131244/openai-plans-to-shift-compute-needs-from-microsoft-to-softbank?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-21, 21:26:00](https://science.slashdot.org/story/25/02/21/2125209/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India's 'Human Calculator Kid' Shatters 6 World Records In a Single Day](https://science.slashdot.org/story/25/02/21/2125209/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-21, 21:06:05](https://news.ycombinator.com/item?id=43132964) - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
-* [2025-02-21, 20:22:57](https://news.ycombinator.com/item?id=43132482) - [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
-* [2025-02-21, 20:09:32](https://news.ycombinator.com/item?id=43132336) - [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
 * [2025-02-21, 19:45:18](https://lobste.rs/s/oxkl4d/open_letter_browser_os_makers) - [Open letter to browser and OS makers](https://medium.com/@boblord/open-letter-to-browser-and-os-makers-12d65aa314f7)
-* [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building modern embedded Linux images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 * [2025-02-21, 19:10:01](https://lobste.rs/s/6zezmb/depth_is_all_you_need_how_antithesis) - [Depth is all you need: how Antithesis crushes Gradius](https://antithesis.com/blog/2025/gradius/)
 * [2025-02-21, 18:46:58](https://lobste.rs/s/w668mg/gdscript_notes) - [GDScript Notes](https://wiki.alopex.li/GDScriptNotes)
-* [2025-02-21, 18:41:00](https://news.slashdot.org/story/25/02/21/1842227/deepseek-to-share-some-ai-model-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek To Share Some AI Model Code](https://news.slashdot.org/story/25/02/21/1842227/deepseek-to-share-some-ai-model-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's blackboard at the time of his death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
 * [2025-02-21, 18:17:00](https://soylentnews.org/article.pl?sid=25/02/20/169239&from=rss) - [Intel's Head of Datacenter and AI Unit Leaves to Lead Nokia](https://soylentnews.org/article.pl?sid=25/02/20/169239&from=rss)
 * [2025-02-21, 17:46:15](https://news.ycombinator.com/item?id=43130546) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-21, 17:44:13](https://lobste.rs/s/mazfvy/neut_programming_language) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
-* [2025-02-21, 17:40:00](https://it.slashdot.org/story/25/02/21/1740213/hp-ends-forced-15-minute-wait-times-for-customer-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [HP Ends Forced 15-Minute Wait Times for Customer Support](https://it.slashdot.org/story/25/02/21/1740213/hp-ends-forced-15-minute-wait-times-for-customer-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit loses $1.5B in hack but can cover loss, CEO confirms](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
-* [2025-02-21, 16:57:13](https://news.ycombinator.com/item?id=43129887) - [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
 * [2025-02-21, 16:24:17](https://lobste.rs/s/t5bzi6/quint_deserves_rust) - [Quint Deserves Rust](https://informal.systems/blog/quint-deserves-rust)
 * [2025-02-21, 16:19:52](https://lobste.rs/s/ux76xy/apple_pulls_encryption_feature_from_uk) - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
-* [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape](https://news.ycombinator.com/item?id=43129301)
 * [2025-02-21, 15:36:27](https://lobste.rs/s/jnchj9/we_issued_our_first_six_day_cert) - [We Issued Our First Six Day Cert](https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
 * [2025-02-21, 14:20:00](https://soylentnews.org/meta/article.pl?sid=25/02/21/1414222&from=rss) - [Soylent Update - Adoption of Proposed Documents - How the Vote Will be Managed](https://soylentnews.org/meta/article.pl?sid=25/02/21/1414222&from=rss)
 * [2025-02-21, 13:32:00](https://soylentnews.org/article.pl?sid=25/02/20/165216&from=rss) - [What Would Happen If a (Small) Black Hole Passed Through Your Body ?](https://soylentnews.org/article.pl?sid=25/02/20/165216&from=rss)
-* [2025-02-21, 13:02:49](https://lobste.rs/s/2p6tfp/smallest_go_binary_5kb) - [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
-* [2025-02-21, 12:41:22](https://lobste.rs/s/nodkpe/chatting_with_designer_monolisa) - [Chatting with the Designer of MonoLisa](https://joshleeb.com/posts/monolisa-chat.html)
 * [2025-02-21, 12:31:10](https://lobste.rs/s/zcsxzn/first_wasm_ocaml_release_is_out) - [The First Wasm_of_ocaml Release is Out](https://tarides.com/blog/2025-02-19-the-first-wasm-of-ocaml-release-is-out/)
-* [2025-02-21, 10:46:09](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend)
-* [2025-02-21, 09:55:24](https://lobste.rs/s/rhydqn/unix_v2_beta_resurrected) - [UNIX V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
-* [2025-02-21, 08:52:57](https://lobste.rs/s/wooe50/databases_are_endgame_for_data_oriented) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2025-02-21, 07:44:00](https://soylentnews.org/article.pl?sid=25/02/20/137208&from=rss) - [A Single Protein May Have Helped Shape the Emergence of Spoken Language](https://soylentnews.org/article.pl?sid=25/02/20/137208&from=rss)
 * [2025-02-21, 07:40:41](https://lobste.rs/s/s3re6r/docker_limits_unauthenticated_pulls_10) - [Docker limits unauthenticated pulls to 10/hr/ip from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 * [2025-02-21, 02:59:00](https://soylentnews.org/article.pl?sid=25/02/20/131244&from=rss) - [Burning in Woman's Legs Turned Out to be Slug Parasites Migrating to Her Brain](https://soylentnews.org/article.pl?sid=25/02/20/131244&from=rss)
 * [2025-02-21, 00:32:19](https://lobste.rs/s/ymrfir/crustacean_for_lobste_rs) - [Crustacean for Lobste.rs](https://crustacean.optionalstudio.work)
 * [2025-02-20, 22:12:00](https://soylentnews.org/article.pl?sid=25/02/20/1255237&from=rss) - [10 Years on After 'Data and Goliath' Warned of Data Collection](https://soylentnews.org/article.pl?sid=25/02/20/1255237&from=rss)
-* [2025-02-20, 17:37:12](https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024) - [Announcing Rust 1.85.0 and Rust 2024](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html)
 * [2025-02-20, 17:27:00](https://soylentnews.org/article.pl?sid=25/02/20/1249208&from=rss) - [Scientists Use Crystals to Cram Terabytes of Data Into Millimeter-Sized Memory](https://soylentnews.org/article.pl?sid=25/02/20/1249208&from=rss)
 * [2025-02-20, 14:02:14](https://news.ycombinator.com/item?id=43114725) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
 * [2025-02-20, 12:45:00](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss) - [Noise-Cancelling Headphones Possible Source of Hearing Problems](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss)
@@ -144,13 +144,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-20, 03:10:00](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss) - [Arm Poaching Talent to Produce Their Own Chips](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss)
 * [2025-02-20, 00:30:57](https://news.ycombinator.com/item?id=43109669) - [Twitch limiting uploads to 100 hours, deleting the rest starting April 19th](https://twitter.com/twitchsupport/status/1892277199497043994)
 * [2025-02-19, 22:23:00](https://soylentnews.org/article.pl?sid=25/02/18/224256&from=rss) - [Scented Products Cause Indoor Air Pollution on Par With Car Exhaust](https://soylentnews.org/article.pl?sid=25/02/18/224256&from=rss)
+* [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains: The origins of split-brain research (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
 * [2025-02-19, 18:54:00](https://soylentnews.org/meta/article.pl?sid=25/02/19/1852221&from=rss) - [SITE PROBLEMS](https://soylentnews.org/meta/article.pl?sid=25/02/19/1852221&from=rss)
 * [2025-02-19, 17:41:00](https://soylentnews.org/article.pl?sid=25/02/18/220237&from=rss) - [Record-Breaking Neutrino is Most Energetic Ever Detected](https://soylentnews.org/article.pl?sid=25/02/18/220237&from=rss)
 * [2025-02-19, 12:55:00](https://soylentnews.org/article.pl?sid=25/02/18/0412247&from=rss) - [Open Source Maintainers Are Feeling The Squeeze](https://soylentnews.org/article.pl?sid=25/02/18/0412247&from=rss)
-* [2025-02-19, 12:42:03](https://news.ycombinator.com/item?id=43101449) - [Where are all the Rewrite Rules?](https://www.philipzucker.com/rewrite_rules/)
-* [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)
 * [2025-02-19, 08:10:00](https://soylentnews.org/article.pl?sid=25/02/18/043200&from=rss) - [AI Study: AI Can Clone Itself Under the Right Conditions](https://soylentnews.org/article.pl?sid=25/02/18/043200&from=rss)
 * [2025-02-19, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/19/0312225&from=rss) - [New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks](https://soylentnews.org/article.pl?sid=25/02/19/0312225&from=rss)
+* [2025-02-18, 22:52:02](https://news.ycombinator.com/item?id=43096154) - [Agents for Computer Use](https://github.com/francedot/acu)
 * [2025-02-18, 21:42:00](https://soylentnews.org/article.pl?sid=25/02/17/166228&from=rss) - [Chinese GPUs Surpass Nvidia Chips by Nearly Tenfold in Supercomputer Simulation](https://soylentnews.org/article.pl?sid=25/02/17/166228&from=rss)
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
@@ -161,5 +161,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-18, 12:04:00](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss) - [EU Bans Bisphenol A From Contact With Food](https://soylentnews.org/article.pl?sid=25/02/17/1349249&from=rss)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 07:19:00](https://soylentnews.org/article.pl?sid=25/02/17/1343225&from=rss) - [Targeting Amino Acids to Search for Life on Mars](https://soylentnews.org/article.pl?sid=25/02/17/1343225&from=rss)
-* [2025-02-18, 03:04:19](https://news.ycombinator.com/item?id=43085665) - [Surface-Stable Fractal Dither on Playdate](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
 * [2025-02-18, 02:29:00](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss) - [DOGE as a National Cyberattack](https://soylentnews.org/politics/article.pl?sid=25/02/16/203240&from=rss)
