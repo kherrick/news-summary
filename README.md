@@ -1,46 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments
+## Scientific and Mathematical Advances
 
-* [Firefly's Moon-Orbiting 'Blue Ghost' Lunar Lander Tracked Earth-Orbiting GPS-Type Satellites](https://science.slashdot.org/story/25/02/23/2348229/fireflys-moon-orbiting-blue-ghost-lunar-lander-tracked-earth-orbiting-gps-type-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43154666))
+* [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) - A groundbreaking solution in group theory by a mathematician couple after two decades of effort. [Comments](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss)
 
-* [AI May Not Impact Tech-Sector Employment, Projects US Department of Labor](https://it.slashdot.org/story/25/02/23/0034221/ai-may-not-impact-tech-sector-employment-projects-us-department-of-labor?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43145753))
+* [Unexpected Shape of Lead-208 Nucleus May Force Scientists to Reevaluate Atomic Nuclei Models](https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Surprising discovery in nuclear physics challenges current atomic models. [Comments](https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Mozilla Wants to Expand from Firefox to Open-Source AI and Privacy-Respecting Ads](https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43150885))
+## Technology and Infrastructure
 
-* [Microsoft makes more of their DirectX compiler code open-source](https://www.phoronix.com/news/DirectXShaderCompiler-2025) ([comments](https://news.ycombinator.com/item?id=43147698))
+* [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA) - A novel open-source tool for data decoding and processing on advanced GPUs. [Comments](https://news.ycombinator.com/item?id=43155023)
 
-## Science and Exploration
+* [Useless High-Voltage Power Lines Risk Sparking California Fires](https://hardware.slashdot.org/story/25/02/24/0216236/useless-high-voltage-power-lines-risk-sparking-california-fires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigation highlights the wildfire dangers of unused power lines in California. [Comments](https://hardware.slashdot.org/story/25/02/24/0216236/useless-high-voltage-power-lines-risk-sparking-california-fires?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Unexpected Shape of Lead-208 Nucleus May Force Scientists to Reevaluate Atomic Nuclei Models](https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43154218))
+## Space and Astronomy
 
-* [The Odds of a City-Killer Asteroid Impact in 2032 Keep Rising](https://soylentnews.org/article.pl?sid=25/02/22/1627256&from=rss) ([comments](https://news.ycombinator.com/item?id=43151320))
+* [Firefly's Moon-Orbiting 'Blue Ghost' Lunar Lander Tracked Earth-Orbiting GPS-Type Satellites](https://science.slashdot.org/story/25/02/23/2348229/fireflys-moon-orbiting-blue-ghost-lunar-lander-tracked-earth-orbiting-gps-type-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploration of lunar navigation systems using GPS-like satellites for precision positioning. [Comments](https://science.slashdot.org/story/25/02/23/2348229/fireflys-moon-orbiting-blue-ghost-lunar-lander-tracked-earth-orbiting-gps-type-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Scientists Use Crystals to Cram Terabytes of Data Into Millimeter-Sized Memory](https://soylentnews.org/article.pl?sid=25/02/20/1249208&from=rss) ([comments](https://news.ycombinator.com/item?id=43111417))
+## Software and Programming
 
-## Cultural and Media Highlights
+* [Epoch Semantic Versioning](https://antfu.me/posts/epoch-semver) - Introduces a proposal for managing software changes through this new versioning methodology. [Comments](https://lobste.rs/s/4aa2rr/epoch_semantic_versioning)
 
-* [Animated 'Avatar: the Last Airbender' Gets Sequel, Plus Two More of Netflix's Live-Action Seasons](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43151294))
+* [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html) - The newest iteration of Emacs arrives with many updates and improvements. [Comments](https://lobste.rs/s/on1dfb/emacs_30_1_released)
 
-* [Ultima VII: Revisited](https://www.u7revisited.com/) ([comments](https://news.ycombinator.com/item?id=43150217))
+* [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html) - A detailed bug analysis within the popular Rust programming library. [Comments](https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug)
 
-* [Vietnamese Graphic Design](https://vietgd.com/) ([comments](https://news.ycombinator.com/item?id=43149648))
+## Design and Themed Content
 
-## Social Impacts and Controversies
+* [Vietnamese Graphic Design](https://vietgd.com/) - A visual journey through the aesthetics and style in Vietnamese design. [Comments](https://news.ycombinator.com/item?id=43149266)
 
-* [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide) ([comments](https://news.ycombinator.com/item?id=43154501))
+* [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/) - A guide on integrating Mastodon engagement widgets for dynamic blogging platforms. [Comments](https://news.ycombinator.com/item?id=43154148)
 
-* [Angry Workers Use AI to Bombard Businesses With Employment Lawsuits](https://yro.slashdot.org/story/25/02/23/1651227/angry-workers-use-ai-to-bombard-businesses-with-employment-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43151262))
+## Cultural and Technological Overlaps
 
-* [Trump to Introduce 25% and 'Higher' Tariff on Imported Semiconductors but the Timing is Unclear](https://soylentnews.org/politics/article.pl?sid=25/02/22/1638251&from=rss) ([comments](https://news.ycombinator.com/item?id=43151420))
+* [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/) - A critical analysis of how misplaced studies delayed significant health solutions. [Comments](https://news.ycombinator.com/item?id=43151320)
 
-## Programming and Tools
-
-* [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html) ([comments](https://news.ycombinator.com/item?id=43154331))
-
-* [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq) ([comments](https://news.ycombinator.com/item?id=43152704))
-
-* [Possibly one step towards named arguments in Rust](https://yoric.github.io/post/rust-named-arguments/) ([comments](https://news.ycombinator.com/item?id=43149754))
+* [Animated 'Avatar: the Last Airbender' Gets Sequel, Plus Two More of Netflix's Live-Action Seasons](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Expanded storytelling in the beloved 'Avatar' franchise. [Comments](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -67,18 +61,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-24, 03:23:00](https://lobste.rs/s/4aa2rr/epoch_semantic_versioning) - [Epoch Semantic Versioning](https://antfu.me/posts/epoch-semver)
+* [2025-02-24, 03:03:00](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss)
+* [2025-02-24, 02:34:00](https://hardware.slashdot.org/story/25/02/24/0216236/useless-high-voltage-power-lines-risk-sparking-california-fires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Useless High-Voltage Power Lines Risk Sparking California Fires](https://hardware.slashdot.org/story/25/02/24/0216236/useless-high-voltage-power-lines-risk-sparking-california-fires?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-24, 02:08:32](https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug) - [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+* [2025-02-24, 02:01:53](https://lobste.rs/s/9b7odp/macos_for_kde_users) - [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
+* [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 * [2025-02-24, 00:34:00](https://science.slashdot.org/story/25/02/23/2348229/fireflys-moon-orbiting-blue-ghost-lunar-lander-tracked-earth-orbiting-gps-type-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefly's Moon-Orbiting 'Blue Ghost' Lunar Lander Tracked Earth-Orbiting GPS-Type Satellites](https://science.slashdot.org/story/25/02/23/2348229/fireflys-moon-orbiting-blue-ghost-lunar-lander-tracked-earth-orbiting-gps-type-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 * [2025-02-23, 23:59:54](https://lobste.rs/s/gxwaf0/dos_3_3_sys_com_bug_hunt) - [The DOS 3.3 SYS.COM Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
 * [2025-02-23, 23:42:33](https://news.ycombinator.com/item?id=43154331) - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
-* [2025-02-23, 23:41:47](https://lobste.rs/s/qatzlq/explaining_apparent_17_1_female_male) - [Explaining an apparent 17:1 female to male population question during the Neolithic](https://www.sciencealert.com/neolithic-y-chromosome-bottleneck-warring-patrilineal-clans)
 * [2025-02-23, 23:23:04](https://news.ycombinator.com/item?id=43154218) - [Defragging my old Dell's UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
 * [2025-02-23, 23:21:54](https://lobste.rs/s/ymmy0t/defragging_my_old_dell_s_uefi_nvram) - [Defragging my old Dell’s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
 * [2025-02-23, 23:19:00](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Animated 'Avatar: the Last Airbender' Gets Sequel, Plus Two More of Netflix's Live-Action Seasons](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-23, 23:12:46](https://news.ycombinator.com/item?id=43154148) - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-02-23, 22:37:57](https://news.ycombinator.com/item?id=43153901) - [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
-* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell_nova) - [Memory hell · Nova](https://trynova.dev/blog/memory-hell)
+* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell) - [Memory hell](https://trynova.dev/blog/memory-hell)
 * [2025-02-23, 22:14:00](https://soylentnews.org/article.pl?sid=25/02/22/1716217&from=rss) - [NVidia to Consume 77% of Wafers Used for AI Processors in 2025](https://soylentnews.org/article.pl?sid=25/02/22/1716217&from=rss)
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
 * [2025-02-23, 21:55:00](https://hardware.slashdot.org/story/25/02/23/2152220/robot-umpires-come-to-major-league-baseball-spring-training-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Robot' Umpires Come to Major League Baseball (Spring Training) Games](https://hardware.slashdot.org/story/25/02/23/2152220/robot-umpires-come-to-major-league-baseball-spring-training-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -88,7 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
 * [2025-02-23, 19:34:00](https://slashdot.org/story/25/02/23/1746247/richard-dawkins-asks-chatgpt-if-its-conscious?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Richard Dawkins Asks ChatGPT If It's Conscious](https://slashdot.org/story/25/02/23/1746247/richard-dawkins-asks-chatgpt-if-its-conscious?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In memoriam](https://onlinesafetyact.co.uk/in_memoriam/)
 * [2025-02-23, 18:34:00](https://yro.slashdot.org/story/25/02/23/1651227/angry-workers-use-ai-to-bombard-businesses-with-employment-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Angry Workers Use AI to Bombard Businesses With Employment Lawsuits](https://yro.slashdot.org/story/25/02/23/1651227/angry-workers-use-ai-to-bombard-businesses-with-employment-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
@@ -102,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-23, 16:34:00](https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Wants to Expand from Firefox to Open-Source AI and Privacy-Respecting Ads](https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-23, 16:08:51](https://lobste.rs/s/ny2s9f/openbsd_innovations) - [OpenBSD: Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)
-* [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-23, 15:34:00](https://science.slashdot.org/story/25/02/23/0654242/elon-musk-urges-deorbiting-the-international-space-station-as-soon-as-possible?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Urges Deorbiting the International Space Station 'As Soon as Possible'](https://science.slashdot.org/story/25/02/23/0654242/elon-musk-urges-deorbiting-the-international-space-station-as-soon-as-possible?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-23, 14:53:42](https://news.ycombinator.com/item?id=43149648) - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 * [2025-02-23, 14:45:33](https://lobste.rs/s/369gwi/calling_private_methods_without_losing) - [Calling private methods without losing sleep at night](https://justin.searls.co/posts/calling-private-methods-without-losing-sleep-at-night/)
@@ -130,15 +127,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-22, 23:03:00](https://yro.slashdot.org/story/25/02/22/230253/will-consumer-data-collection-lead-to-algorithm-adjusted-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will Consumer Data Collection Lead to Algorithm-Adjusted 'Surveillance Pricing'?](https://yro.slashdot.org/story/25/02/22/230253/will-consumer-data-collection-lead-to-algorithm-adjusted-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-22, 22:41:39](https://lobste.rs/s/ctpdvb/vine_programming_language_based_on) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 * [2025-02-22, 22:40:00](https://soylentnews.org/article.pl?sid=25/02/22/1622206&from=rss) - [HP  Deliberately Adds 15 Minutes Wait Time for Support Calls](https://soylentnews.org/article.pl?sid=25/02/22/1622206&from=rss)
-* [2025-02-22, 22:34:00](https://hardware.slashdot.org/story/25/02/22/1840228/new-ev-batteries-are-making-electric-cars-cheaper-and-safer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New EV Batteries are Making Electric Cars Cheaper and Safer](https://hardware.slashdot.org/story/25/02/22/1840228/new-ev-batteries-are-making-electric-cars-cheaper-and-safer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-22, 18:40:40](https://lobste.rs/s/vtufn0/scrap_your_orm_replace_your_orm_with) - [Scrap Your ORM—Replace Your ORM With Relational Algebra](https://youtu.be/SKXEppEZp9M)
 * [2025-02-22, 17:55:00](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss) - [Webcomic Author AndyOh of TMI-Comic Has Died](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss)
 * [2025-02-22, 17:13:17](https://lobste.rs/s/bjngsz/llm_commit_plugin_for_llm_generates) - [llm-commit: A plugin for llm that generates commit messages](https://github.com/GNtousakis/llm-commit)
 * [2025-02-22, 17:03:42](https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
 * [2025-02-22, 16:40:38](https://lobste.rs/s/fgzitm/bookmarklets_custom_url_schemes_are) - [Bookmarklets (and Custom URL Schemes) Are Criminally Underrated](https://silly.business/blog/bookmarklets-and-custom-url-schemes-are-criminally-underrated/)
 * [2025-02-22, 16:06:49](https://lobste.rs/s/qu6kay/solving_jit_calculator_challenge) - [Solving the JIT calculator challenge](https://ochagavia.nl/blog/solving-the-jit-calculator-challenge/)
 * [2025-02-22, 13:14:00](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss)
-* [2025-02-22, 10:35:39](https://lobste.rs/s/yclvqy/ring_is_unmaintained) - [Ring is unmaintained](https://rustsec.org/advisories/RUSTSEC-2025-0007.html)
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 08:31:00](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss) - [Gnome 48 Goes Into Beta, Should Launch in a Month](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss)
 * [2025-02-22, 03:48:00](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss) - [DRAM and NAND Prices Are Expected to Rise in the Second Half of 2025](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss)
@@ -151,11 +145,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-21, 07:44:00](https://soylentnews.org/article.pl?sid=25/02/20/137208&from=rss) - [A Single Protein May Have Helped Shape the Emergence of Spoken Language](https://soylentnews.org/article.pl?sid=25/02/20/137208&from=rss)
 * [2025-02-21, 07:12:17](https://news.ycombinator.com/item?id=43124902) - ['Indiana Jones' jailbreak approach highlights vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html)
 * [2025-02-21, 02:59:00](https://soylentnews.org/article.pl?sid=25/02/20/131244&from=rss) - [Burning in Woman's Legs Turned Out to be Slug Parasites Migrating to Her Brain](https://soylentnews.org/article.pl?sid=25/02/20/131244&from=rss)
+* [2025-02-21, 00:25:17](https://news.ycombinator.com/item?id=43122473) - [Ara Agui Nakajima DCT compression algorithm](https://leetarxiv.substack.com/p/aan-discrete-cosine-transform-paper)
 * [2025-02-20, 22:12:00](https://soylentnews.org/article.pl?sid=25/02/20/1255237&from=rss) - [10 Years on After 'Data and Goliath' Warned of Data Collection](https://soylentnews.org/article.pl?sid=25/02/20/1255237&from=rss)
 * [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 17:27:00](https://soylentnews.org/article.pl?sid=25/02/20/1249208&from=rss) - [Scientists Use Crystals to Cram Terabytes of Data Into Millimeter-Sized Memory](https://soylentnews.org/article.pl?sid=25/02/20/1249208&from=rss)
 * [2025-02-20, 12:45:00](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss) - [Noise-Cancelling Headphones Possible Source of Hearing Problems](https://soylentnews.org/article.pl?sid=25/02/20/1244255&from=rss)
 * [2025-02-20, 07:58:47](https://news.ycombinator.com/item?id=43112187) - [It is not a compiler error. It is never a compiler error (2017)](https://blog.plover.com/2017/11/12/)
 * [2025-02-20, 07:53:00](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss) - [Scientists Just Discovered ‘Quipu,’ the New Largest Structure in Our Cosmos](https://soylentnews.org/article.pl?sid=25/02/17/1613236&from=rss)
-* [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode >:)](https://www.beatcode.dev/)
+* [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode](https://www.beatcode.dev/)
 * [2025-02-20, 03:10:00](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss) - [Arm Poaching Talent to Produce Their Own Chips](https://soylentnews.org/article.pl?sid=25/02/19/033237&from=rss)
