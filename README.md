@@ -1,38 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Technology and AI Innovations
 
-* [Anthropic Launches the World's First 'Hybrid Reasoning' AI Model](https://developers.slashdot.org/story/25/02/24/213202/anthropic-launches-the-worlds-first-hybrid-reasoning-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43165112))
+* [Perplexity Teases AI Web Browser Called Comet](https://tech.slashdot.org/story/25/02/24/2142219/perplexity-teases-ai-web-browser-called-comet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Perplexity unveils an AI-powered web browser named Comet, promising dynamic interaction and personalization.
 
-* [Perplexity Teases AI Web Browser Called Comet](https://tech.slashdot.org/story/25/02/24/2142219/perplexity-teases-ai-web-browser-called-comet?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43164794))
+* [Anthropic Launches the World's First 'Hybrid Reasoning' AI Model](https://developers.slashdot.org/story/25/02/24/213202/anthropic-launches-the-worlds-first-hybrid-reasoning-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking AI model by Anthropic combines different reasoning capabilities, setting the stage for advanced AI applications.
 
-* [AT&T and Verizon Connect First Cellphone-To-Satellite Video Calls](https://tech.slashdot.org/story/25/02/24/2136232/att-and-verizon-connect-first-cellphone-to-satellite-video-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43164499))
+* [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - Google introduces an AI tool that aids researchers by automatically generating insightful hypotheses.
 
-* [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench) ([comments](https://lobste.rs/s/ocmai4/introducing_fullstack_bench))
+* [How to Backdoor Large Language Models](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss) - A discussion on vulnerabilities within large language models and strategies to address potential misuse.
 
-## Controversies and Challenges
+* [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet) - Anthropic releases details about the Claude 3.7 AI generation tool with unique functionalities.
 
-* [Theranos Founder Elizabeth Holmes' Fraud Convictions Upheld](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43166742))
+## Privacy, Security, and Legal Controversies
 
-* [Dutch Software Firm Bird To Leave Europe Due To Onerous Regulations](https://tech.slashdot.org/story/25/02/24/2149206/dutch-software-firm-bird-to-leave-europe-due-to-onerous-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43166362))
+* [VPN Providers Consider Exiting France Over 'Dangerous' Blocking Demands](https://it.slashdot.org/story/25/02/24/2350211/vpn-providers-consider-exiting-france-over-dangerous-blocking-demands?utm_source=rss1.0mainlinkanon&utm_medium=feed) - VPN providers are reconsidering their presence in France due to stringent content-blocking regulations.
 
-* [How to Backdoor Large Language Models](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss) ([comments](https://lobste.rs/s/mnj6yg/tech_hype_cycles))
+* [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/) - A US judge rules against government practices violating privacy in sensitive data exchange cases.
 
-## Mathematics and Scientific Breakthroughs
+* [Apple Pulls End-to-End Encryption From UK Rather Than Provide Government a Backdoor](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss) - Apple prioritizes user security by removing encryption features rather than complying with UK government access requests.
 
-* [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities) ([comments](https://news.ycombinator.com/item?id=43162544))
+## Space and Astronomy
 
-* [Closing the 'green gap': energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/) ([comments](https://lobste.rs/s/wzpqit/web_on_mobile))
+* [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - Researchers analyze the chaotic atmospheric patterns of a remote exoplanet.
 
-* [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) ([comments](https://news.ycombinator.com/item?id=43158332))
+* [The Odds of a City-Killer Asteroid Impact in 2032 Keep Rising](https://soylentnews.org/article.pl?sid=25/02/22/1627256&from=rss) - Growing concerns about the likelihood of a significant asteroid impact in the near future.
 
-## Cultural and Social Topics
+* [US Space Force reveals first look at secretive X-37B space plane in orbit](https://www.space.com/space-force-x-37b-1st-photo-from-orbit-earth) - Rare images of the classified X-37B spacecraft provide a glimpse into its operations.
 
-* [US friendship is in freefall – shredding bonds and cutting lives short](https://nypost.com/2025/02/24/opinion/friendship-in-america-is-in-freefall-and-its-killing-us/) ([comments](https://news.ycombinator.com/item?id=43166761))
+## Corporate and Financial Trends
 
-* [Show HN: I made a site to tell the time in corporate](https://corporate.watch) ([comments](https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code))
+* [Theranos Founder Elizabeth Holmes' Fraud Convictions Upheld](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A court maintains fraud charges against disgraced entrepreneur Elizabeth Holmes.
 
-* [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks) ([comments](https://news.ycombinator.com/item?id=43139361))
+* [AI Reshapes Corporate Workforce as Companies Halt Traditional Hiring](https://slashdot.org/story/25/02/24/1847230/ai-reshapes-corporate-workforce-as-companies-halt-traditional-hiring?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Adoption of AI prompts companies to reconsider staffing strategies.
+
+* [Google's AI Previews Erode the Internet, Edtech Company Says In Lawsuit](https://yro.slashdot.org/story/25/02/24/2327231/googles-ai-previews-erode-the-internet-edtech-company-says-in-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An Edtech firm files a lawsuit against Google, alleging AI preview tools undermine digital content providers.
+
+## Scientific Discoveries and Mathematical Breakthroughs
+
+* [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities) - A student unlocks new methods for optimizing wind energy systems.
+
+* [Modular forms, the 'fifth fundamental operation' of math (2023)](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/) - Exploring modular forms as a transformative mathematical concept.
+
+* [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) - Long-standing mathematical conundrum resolved by a dedicated duo.
+
+## Sustainable Development and Environment
+
+* [More Than Half of Countries Are Ignoring Biodiversity Pledges](https://news.slashdot.org/story/25/02/24/1736218/more-than-half-of-countries-are-ignoring-biodiversity-pledges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarm raised over widespread neglect of biodiversity commitments.
+
+* [Ellison's Half-Billion-Dollar Quest To Change Farming Has Been a Bust](https://news.slashdot.org/story/25/02/24/1833222/ellisons-half-billion-dollar-quest-to-change-farming-has-been-a-bust?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Oracle co-founder’s ambitious agricultural innovation efforts face hurdles.
 
 ---
 
@@ -59,11 +75,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-25, 03:30:00](https://it.slashdot.org/story/25/02/24/2350211/vpn-providers-consider-exiting-france-over-dangerous-blocking-demands?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VPN Providers Consider Exiting France Over 'Dangerous' Blocking Demands](https://it.slashdot.org/story/25/02/24/2350211/vpn-providers-consider-exiting-france-over-dangerous-blocking-demands?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-25, 02:59:33](https://news.ycombinator.com/item?id=43167579) - [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
+* [2025-02-25, 02:51:00](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss)
+* [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
+* [2025-02-25, 01:40:14](https://news.ycombinator.com/item?id=43167087) - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
+* [2025-02-25, 01:40:00](https://hardware.slashdot.org/story/25/02/24/2342219/microsoft-trims-more-cpus-from-windows-11-compatibility-list?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Trims More CPUs From Windows 11 Compatibility List](https://hardware.slashdot.org/story/25/02/24/2342219/microsoft-trims-more-cpus-from-windows-11-compatibility-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-25, 01:28:25](https://news.ycombinator.com/item?id=43166995) - [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
+* [2025-02-25, 01:21:49](https://lobste.rs/s/mmn0eh/canadian_vps_review) - [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
+* [2025-02-25, 01:00:00](https://yro.slashdot.org/story/25/02/24/2327231/googles-ai-previews-erode-the-internet-edtech-company-says-in-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's AI Previews Erode the Internet, Edtech Company Says In Lawsuit](https://yro.slashdot.org/story/25/02/24/2327231/googles-ai-previews-erode-the-internet-edtech-company-says-in-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-25, 00:59:09](https://news.ycombinator.com/item?id=43166830) - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It's still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
-* [2025-02-25, 00:44:39](https://news.ycombinator.com/item?id=43166742) - [US friendship is in freefall – shredding bonds and cutting lives short](https://nypost.com/2025/02/24/opinion/friendship-in-america-is-in-freefall-and-its-killing-us/)
 * [2025-02-25, 00:20:00](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Theranos Founder Elizabeth Holmes' Fraud Convictions Upheld](https://science.slashdot.org/story/25/02/24/2319218/theranos-founder-elizabeth-holmes-fraud-convictions-upheld?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 23:40:00](https://tech.slashdot.org/story/25/02/24/2149206/dutch-software-firm-bird-to-leave-europe-due-to-onerous-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dutch Software Firm Bird To Leave Europe Due To Onerous Regulations](https://tech.slashdot.org/story/25/02/24/2149206/dutch-software-firm-bird-to-leave-europe-due-to-onerous-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 23:00:00](https://tech.slashdot.org/story/25/02/24/2142219/perplexity-teases-ai-web-browser-called-comet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Perplexity Teases AI Web Browser Called Comet](https://tech.slashdot.org/story/25/02/24/2142219/perplexity-teases-ai-web-browser-called-comet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 22:20:00](https://tech.slashdot.org/story/25/02/24/2136232/att-and-verizon-connect-first-cellphone-to-satellite-video-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AT&amp;T and Verizon Connect First Cellphone-To-Satellite Video Calls](https://tech.slashdot.org/story/25/02/24/2136232/att-and-verizon-connect-first-cellphone-to-satellite-video-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -71,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-24, 21:40:00](https://developers.slashdot.org/story/25/02/24/213202/anthropic-launches-the-worlds-first-hybrid-reasoning-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Launches the World's First 'Hybrid Reasoning' AI Model](https://developers.slashdot.org/story/25/02/24/213202/anthropic-launches-the-worlds-first-hybrid-reasoning-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [\"The closer to the train station, the worse the kebab\" – a \"study\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-24, 20:58:00](https://it.slashdot.org/story/25/02/24/2058254/microsoft-quietly-launches-ad-supported-version-of-office-apps-for-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Quietly Launches Ad-Supported Version of Office Apps for Windows](https://it.slashdot.org/story/25/02/24/2058254/microsoft-quietly-launches-ad-supported-version-of-office-apps-for-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-24, 20:50:22](https://news.ycombinator.com/item?id=43164794) - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
 * [2025-02-24, 20:24:31](https://lobste.rs/s/kgzd0w/xcode_constantly_phones_home) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-24, 20:22:52](https://news.ycombinator.com/item?id=43164499) - [Closing the \"green gap\": energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
 * [2025-02-24, 20:21:56](https://lobste.rs/s/elf44b/breaking_into_dozens_apartment) - [Breaking into dozens of apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
@@ -101,11 +123,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 15:20:00](https://tech.slashdot.org/story/25/02/24/1517229/pre-product-ai-company-now-valued-at-30-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pre-Product AI 'Company' Now Valued at $30 Billion](https://tech.slashdot.org/story/25/02/24/1517229/pre-product-ai-company-now-valued-at-30-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-24, 14:42:00](https://tech.slashdot.org/story/25/02/24/1442246/google-to-eliminate-sms-authentication-in-gmail-implement-qr-codes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google To Eliminate SMS Authentication in Gmail, Implement QR Codes](https://tech.slashdot.org/story/25/02/24/1442246/google-to-eliminate-sms-authentication-in-gmail-implement-qr-codes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
-* [2025-02-24, 14:01:00](https://apple.slashdot.org/story/25/02/24/1142222/apple-announces-500-billion-us-investment-plan-to-hire-20000-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Announces $500 Billion US Investment Plan, To Hire 20,000 People](https://apple.slashdot.org/story/25/02/24/1142222/apple-announces-500-billion-us-investment-plan-to-hire-20000-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
-* [2025-02-24, 12:34:00](https://news.slashdot.org/story/25/02/24/0334207/should-climate-change-be-acknowledged-in-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Should Climate Change Be Acknowledged In Movies?](https://news.slashdot.org/story/25/02/24/0334207/should-climate-change-be-acknowledged-in-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-24, 12:32:00](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss) - [AMD Could Block the Sale of Intel Due to a Cross-Licensing Agreement](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [Show HN: I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
@@ -129,19 +148,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:37:00](https://soylentnews.org/politics/article.pl?sid=25/02/22/1638251&from=rss) - [Trump to Introduce 25% and 'Higher' Tariff on Imported Semiconductors but the Timing is Unclear](https://soylentnews.org/politics/article.pl?sid=25/02/22/1638251&from=rss)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
-* [2025-02-23, 13:22:21](https://lobste.rs/s/xv210z/why_are_qr_codes_with_capital_letters) - [Why are QR Codes with capital letters smaller than QR codes with lower-case letters?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 * [2025-02-23, 12:55:00](https://soylentnews.org/article.pl?sid=25/02/22/1636233&from=rss) - [Electric Truck-Maker Nikola Falls Into Bankruptcy Joining a Procession of Failed EV Startups](https://soylentnews.org/article.pl?sid=25/02/22/1636233&from=rss)
 * [2025-02-23, 08:05:00](https://soylentnews.org/article.pl?sid=25/02/22/1634220&from=rss) - [Humane's AI Pin is No More and Owners are Left With Nothing](https://soylentnews.org/article.pl?sid=25/02/22/1634220&from=rss)
 * [2025-02-23, 03:24:00](https://soylentnews.org/article.pl?sid=25/02/22/1627256&from=rss) - [The Odds of a City-Killer Asteroid Impact in 2032 Keep Rising](https://soylentnews.org/article.pl?sid=25/02/22/1627256&from=rss)
 * [2025-02-22, 22:40:00](https://soylentnews.org/article.pl?sid=25/02/22/1622206&from=rss) - [HP  Deliberately Adds 15 Minutes Wait Time for Support Calls](https://soylentnews.org/article.pl?sid=25/02/22/1622206&from=rss)
 * [2025-02-22, 17:55:00](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss) - [Webcomic Author AndyOh of TMI-Comic Has Died](https://soylentnews.org/article.pl?sid=25/02/21/056231&from=rss)
-* [2025-02-22, 14:48:54](https://news.ycombinator.com/item?id=43139361) - [Vialess heterogeneous skin patch for multimodal monitoring and stimulation](https://www.nature.com/articles/s41467-025-55951-6)
+* [2025-02-22, 17:30:11](https://news.ycombinator.com/item?id=43141037) - [US Space Force reveals first look at secretive X-37B space plane in orbit](https://www.space.com/space-force-x-37b-1st-photo-from-orbit-earth)
 * [2025-02-22, 13:14:00](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss) - [Google's New AI Generates Hypotheses for Researchers](https://soylentnews.org/article.pl?sid=25/02/21/055211&from=rss)
 * [2025-02-22, 08:31:00](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss) - [Gnome 48 Goes Into Beta, Should Launch in a Month](https://soylentnews.org/article.pl?sid=25/02/21/0455231&from=rss)
+* [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-22, 03:48:00](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss) - [DRAM and NAND Prices Are Expected to Rise in the Second Half of 2025](https://soylentnews.org/article.pl?sid=25/02/21/0429228&from=rss)
 * [2025-02-21, 23:01:00](https://soylentnews.org/article.pl?sid=25/02/20/181218&from=rss) - [12VHPWR Adapters Sporting Heatsinks and Thermal Pads Show How Problematic the Connector Is](https://soylentnews.org/article.pl?sid=25/02/20/181218&from=rss)
 * [2025-02-21, 18:17:00](https://soylentnews.org/article.pl?sid=25/02/20/169239&from=rss) - [Intel's Head of Datacenter and AI Unit Leaves to Lead Nokia](https://soylentnews.org/article.pl?sid=25/02/20/169239&from=rss)
-* [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:20:00](https://soylentnews.org/meta/article.pl?sid=25/02/21/1414222&from=rss) - [Soylent Update - Adoption of Proposed Documents - How the Vote Will be Managed](https://soylentnews.org/meta/article.pl?sid=25/02/21/1414222&from=rss)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
