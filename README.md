@@ -1,64 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming Advancements
+## Technology and Quantum Computing
 
-* [Calling Rust from cursed Go](https://pthorpe92.dev/cursed-go/)
-
-* [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
-
-* [Compact normal forms + linear types  = efficient network communication (2017)](https://tweag.io/blog/2017-08-24-linear-types-packed-data/)
-
-* [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)
-
-* [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
-
-## Breakthroughs in Science and Engineering
-
-* [Pixel Watch 3 Gets FDA Clearance For Loss of Pulse Alerts](https://science.slashdot.org/story/25/02/26/232258/pixel-watch-3-gets-fda-clearance-for-loss-of-pulse-alerts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Bubbles That Break Rules: A Fluid Discovery That Defies Logic](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss)
+* [Amazon Unveils Its First Quantum Computing Chip](https://tech.slashdot.org/story/25/02/27/1114246/amazon-unveils-its-first-quantum-computing-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 * [German Startup Wins Accolade For Its Fusion Reactor Design](https://hardware.slashdot.org/story/25/02/27/0149218/german-startup-wins-accolade-for-its-fusion-reactor-design?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
+* [Amazon Uses Quantum 'Cat States' With Error Correction](https://tech.slashdot.org/story/25/02/26/2213215/amazon-uses-quantum-cat-states-with-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
-
-## AI and Machine Learning Innovations
+## Artificial Intelligence and Software
 
 * [Inception Emerges From Stealth With a New Type of AI Model](https://slashdot.org/story/25/02/26/2257224/inception-emerges-from-stealth-with-a-new-type-of-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
+* [Jensen Huang: AI Has To Do '100 Times More' Computation Now Than When ChatGPT Was Released](https://slashdot.org/story/25/02/27/0158229/jensen-huang-ai-has-to-do-100-times-more-computation-now-than-when-chatgpt-was-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
+* [How to Backdoor Large Language Models](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss)
 
-* [ForeverVM: Run AI-generated code in stateful sandboxes that run forever](https://forevervm.com/)
+## Programming and Development
 
-* [HUMANE's AI Pin is No More and Owners are Left With Nothing](https://soylentnews.org/article.pl?sid=25/02/22/1634220&from=rss)
+* [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 
-## Policy and Governance Challenges
+* [Semaphore CI/CD platform went Open Source](https://github.com/semaphoreio/semaphore)
 
-* [US examining whether UK's encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
+* [FreeBSD 2024 Q4 Status Report](https://freebsd.org/status/report-2024-10-2024-12/)
+
+## Science and Engineering
+
+* [Bubbles That Break Rules: A Fluid Discovery That Defies Logic](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss)
+
+* [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss)
+
+* [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
+
+## Policy and Society
+
+* [Tokyo Is Turning To a 4-Day Workweek To Shed 'World's Oldest Population' Title](https://slashdot.org/story/25/02/27/015210/tokyo-is-turning-to-a-4-day-workweek-to-shed-worlds-oldest-population-title?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 * [Apple Pulls End-to-End Encryption From UK Rather Than Provide Government a Backdoor](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss)
 
-* [BP Shuns Renewables in Return To Oil and Gas](https://news.slashdot.org/story/25/02/26/1557217/bp-shuns-renewables-in-return-to-oil-and-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Amazon Uses Quantum 'Cat States' With Error Correction](https://tech.slashdot.org/story/25/02/26/2213215/amazon-uses-quantum-cat-states-with-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Satya Nadella Argues AI's True Value Will Come When It Finds Killer App Akin To Email or Excel](https://slashdot.org/story/25/02/26/2154238/satya-nadella-argues-ais-true-value-will-come-when-it-finds-killer-app-akin-to-email-or-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Unique Historical and Cultural Discoveries
-
-* [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
-
-* [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
-
-* [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
-
-* [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
-
-* [The Odds of a City-Killer Asteroid Impact in 2032 Keep Rising](https://soylentnews.org/article.pl?sid=25/02/22/1627256&from=rss)
+* [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
 
 ---
 
@@ -85,15 +65,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-02-27, 08:59:14](https://lobste.rs/s/bbl3sl/applying_purity_imperative_world) - [Applying Purity To The Imperative World](https://jerf.org/iri/post/2025/fp_lessons_purity/)
-* [2025-02-27, 08:18:11](https://news.ycombinator.com/item?id=43192358) - [US examining whether UK's encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
+* [2025-02-27, 12:51:00](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss) - [Physx Feature Unlocked For RTX 5090 With RTX 3050 'Helper' To Enable Full Performance](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss)
+* [2025-02-27, 12:41:00](https://lobste.rs/s/bvzlzb/testing_numbs_us_our_loss_intellectual) - [Testing Numbs Us to Our Loss of Intellectual Control (2020)](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
+* [2025-02-27, 12:30:00](https://news.slashdot.org/story/25/02/27/0733223/electronic-devices-used-for-car-thefts-set-to-be-banned-in-england?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Electronic Devices Used For Car Thefts Set To Be Banned in England](https://news.slashdot.org/story/25/02/27/0733223/electronic-devices-used-for-car-thefts-set-to-be-banned-in-england?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-27, 12:10:10](https://lobste.rs/s/jivgtn/why_we_designed_tigerbeetle_s_docs_from) - [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
+* [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
+* [2025-02-27, 11:59:08](https://lobste.rs/s/equl2g/pipe_operator_generics_is_not_sum_type) - [The Pipe Operator In Generics Is Not A Sum Type](https://jerf.org/iri/post/2024/go_faq_pipe_in_generics/)
+* [2025-02-27, 11:14:00](https://tech.slashdot.org/story/25/02/27/1114246/amazon-unveils-its-first-quantum-computing-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Unveils Its First Quantum Computing Chip](https://tech.slashdot.org/story/25/02/27/1114246/amazon-unveils-its-first-quantum-computing-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-27, 10:00:00](https://slashdot.org/story/25/02/27/0158229/jensen-huang-ai-has-to-do-100-times-more-computation-now-than-when-chatgpt-was-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Jensen Huang: AI Has To Do '100 Times More' Computation Now Than When ChatGPT Was Released](https://slashdot.org/story/25/02/27/0158229/jensen-huang-ai-has-to-do-100-times-more-computation-now-than-when-chatgpt-was-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-27, 09:48:44](https://news.ycombinator.com/item?id=43192790) - [Andrew Tate and brother leave Romania for US after travel ban lifted](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us)
+* [2025-02-27, 09:41:23](https://news.ycombinator.com/item?id=43192751) - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
 * [2025-02-27, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss) - [Bubbles That Break Rules: A Fluid Discovery That Defies Logic](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss)
 * [2025-02-27, 07:45:13](https://lobste.rs/s/6rl9ah/launching_rdap_sunsetting_whois) - [Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
-* [2025-02-27, 07:12:22](https://news.ycombinator.com/item?id=43192079) - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 * [2025-02-27, 07:00:00](https://hardware.slashdot.org/story/25/02/27/0149218/german-startup-wins-accolade-for-its-fusion-reactor-design?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [German Startup Wins Accolade For Its Fusion Reactor Design](https://hardware.slashdot.org/story/25/02/27/0149218/german-startup-wins-accolade-for-its-fusion-reactor-design?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 06:24:04](https://lobste.rs/s/tv45be/assorted_macos_tips_tricks) - [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 * [2025-02-27, 06:02:12](https://lobste.rs/s/ackfl2/semaphore_ci_cd_platform_went_open_source) - [Semaphore CI/CD platform went Open Source](https://github.com/semaphoreio/semaphore)
-* [2025-02-27, 05:25:44](https://news.ycombinator.com/item?id=43191612) - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 * [2025-02-27, 05:14:16](https://lobste.rs/s/hytfga/calling_rust_from_cursed_go) - [Calling Rust from cursed Go](https://pthorpe92.dev/cursed-go/)
 * [2025-02-27, 05:04:21](https://lobste.rs/s/fnnzsm/compact_normal_forms_linear_types) - [Compact normal forms + linear types  = efficient network communication (2017)](https://tweag.io/blog/2017-08-24-linear-types-packed-data/)
 * [2025-02-27, 03:30:00](https://slashdot.org/story/25/02/27/015210/tokyo-is-turning-to-a-4-day-workweek-to-shed-worlds-oldest-population-title?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Tokyo Is Turning To a 4-Day Workweek To Shed 'World's Oldest Population' Title](https://slashdot.org/story/25/02/27/015210/tokyo-is-turning-to-a-4-day-workweek-to-shed-worlds-oldest-population-title?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -105,7 +91,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-27, 00:31:53](https://lobste.rs/s/lragbd/imac_g4_k) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-27, 00:20:00](https://slashdot.org/story/25/02/26/2257224/inception-emerges-from-stealth-with-a-new-type-of-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Inception Emerges From Stealth With a New Type of AI Model](https://slashdot.org/story/25/02/26/2257224/inception-emerges-from-stealth-with-a-new-type-of-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
-* [2025-02-26, 23:48:41](https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables_go) - [Faster Go maps with Swiss Tables - The Go Programming Language](https://go.dev/blog/swisstable)
+* [2025-02-26, 23:48:41](https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables) - [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
 * [2025-02-26, 23:40:00](https://tech.slashdot.org/story/25/02/26/2213215/amazon-uses-quantum-cat-states-with-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Uses Quantum 'Cat States' With Error Correction](https://tech.slashdot.org/story/25/02/26/2213215/amazon-uses-quantum-cat-states-with-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-26, 23:16:12](https://lobste.rs/s/zymtrz/freebsd_2024_q4_status_report) - [FreeBSD 2024 Q4 Status Report](https://freebsd.org/status/report-2024-10-2024-12/)
 * [2025-02-26, 23:00:00](https://slashdot.org/story/25/02/26/2154238/satya-nadella-argues-ais-true-value-will-come-when-it-finds-killer-app-akin-to-email-or-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Satya Nadella Argues AI's True Value Will Come When It Finds Killer App Akin To Email or Excel](https://slashdot.org/story/25/02/26/2154238/satya-nadella-argues-ais-true-value-will-come-when-it-finds-killer-app-akin-to-email-or-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -126,19 +112,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-26, 18:34:47](https://lobste.rs/s/mok6ks/securing_tomorrow_s_software_need_for) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
-* [2025-02-26, 18:08:00](https://news.slashdot.org/story/25/02/26/187252/us-intelligence-chief-opposes-uk-order-for-apple-encryption-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Intelligence Chief Opposes UK Order for Apple Encryption Backdoor](https://news.slashdot.org/story/25/02/26/187252/us-intelligence-chief-opposes-uk-order-for-apple-encryption-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-26, 17:53:45](https://lobste.rs/s/mh2wvy/hedy_creating_programming_language_for) - [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The man who spent forty-two years at the Beverly Hills Hotel pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
-* [2025-02-26, 17:24:00](https://it.slashdot.org/story/25/02/26/1724216/a-disney-worker-downloaded-an-ai-tool-it-led-to-a-hack-that-ruined-his-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [A Disney Worker Downloaded an AI Tool. It Led To a Hack That Ruined His Life.](https://it.slashdot.org/story/25/02/26/1724216/a-disney-worker-downloaded-an-ai-tool-it-led-to-a-hack-that-ruined-his-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
-* [2025-02-26, 17:17:11](https://news.ycombinator.com/item?id=43185733) - [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
 * [2025-02-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss) - [Chinese Hackers Compromised Organizations in 70 Nations, Warn US Federal Agencies](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss)
 * [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
-* [2025-02-26, 16:40:00](https://news.slashdot.org/story/25/02/26/1557217/bp-shuns-renewables-in-return-to-oil-and-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [BP Shuns Renewables in Return To Oil and Gas](https://news.slashdot.org/story/25/02/26/1557217/bp-shuns-renewables-in-return-to-oil-and-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
-* [2025-02-26, 16:14:02](https://lobste.rs/s/phphnb/tiktok_alternative_rednote_xiaohongshu) - [TikTok alternative RedNote (Xiaohongshu) fails basic security measures](https://petal.blog/articles/exploiting-rednote.html)
 * [2025-02-26, 15:41:44](https://news.ycombinator.com/item?id=43184686) - [ForeverVM: Run AI-generated code in stateful sandboxes that run forever](https://forevervm.com/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:44:54](https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile) - [The Miserable State of Cellular Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
@@ -153,12 +134,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-26, 07:27:50](https://news.ycombinator.com/item?id=43181520) - [A new proposal for how mind emerges from matter](https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/)
 * [2025-02-26, 07:20:00](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss) - [The Secretive X-37B Space Plane Snapped This Picture of Earth From Orbit](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss)
 * [2025-02-26, 06:43:50](https://lobste.rs/s/fi97rp/useless_use_cat_award_2000) - [Useless Use of Cat Award (2000)](https://porkmail.org/era/unix/award)
-* [2025-02-26, 05:42:02](https://lobste.rs/s/ersq0z/apl_since_1978) - [APL since 1978](https://dl.acm.org/doi/10.1145/3386319)
 * [2025-02-26, 02:33:00](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss) - [US Treasury Beneficial Ownership Information Reporting is Back On (Again)](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss)
 * [2025-02-25, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
 * [2025-02-25, 17:06:00](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss) - [21st Century C++](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
 * [2025-02-25, 12:23:00](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss) - [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
+* [2025-02-25, 10:38:53](https://news.ycombinator.com/item?id=43170242) - [Metasploit – Penetration Testing Framework](https://www.metasploit.com/)
 * [2025-02-25, 07:37:00](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss) - [Building a Chipmaking Fab in the US Costs Twice as Much, Takes Twice as Long as in Taiwan](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss)
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
@@ -166,12 +147,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-24, 22:04:00](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss) - [How to Backdoor Large Language Models](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss)
 * [2025-02-24, 17:20:00](https://soylentnews.org/article.pl?sid=25/02/24/0713223&from=rss) - [Bird Flu Endemic in America Cows. Found in Rats](https://soylentnews.org/article.pl?sid=25/02/24/0713223&from=rss)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
+* [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 12:32:00](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss) - [AMD Could Block the Sale of Intel Due to a Cross-Licensing Agreement](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss)
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 * [2025-02-24, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss) - [Apple Pulls End-to-End Encryption From UK Rather Than Provide Government a Backdoor](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss)
 * [2025-02-24, 03:03:00](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss)
 * [2025-02-23, 22:14:00](https://soylentnews.org/article.pl?sid=25/02/22/1716217&from=rss) - [NVidia to Consume 77% of Wafers Used for AI Processors in 2025](https://soylentnews.org/article.pl?sid=25/02/22/1716217&from=rss)
-* [2025-02-23, 22:08:55](https://news.ycombinator.com/item?id=43153681) - [Chartist: Task-Driven Eye Movement Control for Chart Reading](https://arxiv.org/abs/2502.03575)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:37:00](https://soylentnews.org/politics/article.pl?sid=25/02/22/1638251&from=rss) - [Trump to Introduce 25% and 'Higher' Tariff on Imported Semiconductors but the Timing is Unclear](https://soylentnews.org/politics/article.pl?sid=25/02/22/1638251&from=rss)
 * [2025-02-23, 15:24:43](https://news.ycombinator.com/item?id=43149891) - [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
