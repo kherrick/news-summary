@@ -1,56 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Open Source Releases and Game Development
+## Technology Updates
 
-* [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731) ([Comments](https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert))
+* [Google Tweak Creates Crisis for Product-Review Sites](https://tech.slashdot.org/story/25/02/28/141222/google-tweak-creates-crisis-for-product-review-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's algorithm adjustments impact the visibility and traffic of product-review websites.
 
-* [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert) ([Comments](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code))
+* [Apple's Find My Network Exploit Lets Hackers Silently Track Any Bluetooth Device](https://yro.slashdot.org/story/25/02/28/013227/apples-find-my-network-exploit-lets-hackers-silently-track-any-bluetooth-device?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A security flaw in Apple's ecosystem allows Bluetooth devices to be stealthily tracked by hackers.
 
-* [NVIDIA emulation journey, part 1: RIVA 128 / NV3 architecture history and basic overview](https://86box.net/2025/02/25/riva128-part-1.html) ([Comments](https://lobste.rs/s/0ldvvk/nvidia_emulation_journey_part_1_riva_128))
+* [Citigroup Erroneously Credited Client Account With $81 Trillion in 'Near Miss'](https://news.slashdot.org/story/25/02/28/136217/citigroup-erroneously-credited-client-account-with-81-trillion-in-near-miss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A financial error mistakenly credited an account with $81 trillion, highlighting systemic risks.
 
-## Privacy and Security Concerns
+* [Microsoft To Shut Down Skype in May, Shift Users To Teams](https://slashdot.org/story/25/02/28/1426223/microsoft-to-shut-down-skype-in-may-shift-users-to-teams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft plans to retire Skype in May, transitioning users to its Teams platform.
 
-* [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/) ([Comments](https://news.ycombinator.com/item?id=43203158))
+## Gaming and Open Source
 
-* [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591) ([Comments](https://news.ycombinator.com/item?id=43203096))
+* [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731) - Electronic Arts releases the source code for several iconic Command & Conquer titles, reinvigorating the gaming community.
 
-* [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram) ([Comments](https://news.ycombinator.com/item?id=43204349))
+* [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/) - A technical guide on booting Windows 11 remotely via iSCSI and iPXE.
 
-* [Apple's Find My Network Exploit Lets Hackers Silently Track Any Bluetooth Device](https://yro.slashdot.org/story/25/02/28/013227/apples-find-my-network-exploit-lets-hackers-silently-track-any-bluetooth-device?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://lobste.rs/s/de2ab1/firefox_adds_terms_use))
+* [WebShield – A new wide-spectrum content blocker for Safari](https://github.com/arjpar/WebShield) - A versatile content blocker for Safari aiming to enhance user privacy and experience.
 
-## Technology Development and Research
+## Scientific and Space Exploration Innovations
 
-* [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss))
+* [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) - Budget reductions loom over the groundbreaking James Webb Space Telescope mission.
 
-* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss))
+* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - Discovery of a piezoelectric catalyst that can effectively break down persistent 'forever chemicals.'
 
-* [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial) ([Comments](https://news.ycombinator.com/item?id=43199210))
+## AI and Software Developments
 
-## Interesting Tools, Techniques, and Explorations
+* [Viral Video Shows AIs Conversing In Their Own Language](https://tech.slashdot.org/story/25/02/28/0058237/viral-video-shows-ais-conversing-in-their-own-language?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A viral video sparks discussions about AI advancements as bots converse in an emergent language.
 
-* [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/) ([Comments](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard))
+* [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled) - A critique highlighting stagnation in distributed systems programming innovation.
 
-* [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/) ([Comments](https://news.ycombinator.com/item?id=43204604))
+## Cybersecurity Insights
 
-* [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/) ([Comments](https://news.ycombinator.com/item?id=43200450))
+* [Github scam investigation: Thousands of 'mods' and 'cracks' stealing data](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/) - Investigation uncovers malicious repositories that pose risks to popular platforms.
 
-* [Make Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/) ([Comments](https://lobste.rs/s/d9ivn2/make_cross_views))
+* [Thousands of Exposed GitHub Repositories, Now Private, Can Still Be Accessed Through Copilot](https://yro.slashdot.org/story/25/02/27/2129241/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Copilot reveals a loophole allowing access to now-private GitHub repositories.
 
-## Impact of AI and Software Systems
+## Cultural and Historical Highlights
 
-* [OpenAI Rolls Out GPT-4.5](https://slashdot.org/story/25/02/27/2022254/openai-rolls-out-gpt-45?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43197872))
+* [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - Discovery of a rare medieval-era sword by Polish archaeologists captivates history enthusiasts.
 
-* [Viral Video Shows AIs Conversing In Their Own Language](https://tech.slashdot.org/story/25/02/28/0058237/viral-video-shows-ais-conversing-in-their-own-language?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43201417))
+* [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025) - Remembering chess genius Boris Spassky and his lasting legacy on the sport.
 
-* [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled) ([Comments](https://lobste.rs/s/xjnx95/distributed_systems_programming_has))
+## Business and Industry Trends
 
-## Tech Industry Updates
+* [Software Engineering Job Openings Hit 5-Year Low Amid Industry Shift](https://soylentnews.org/article.pl?sid=25/02/25/0655200&from=rss) - The tech industry faces a reevaluation with a decline in software engineering job availability.
 
-* [Meta is Firing About 20 Employees For Leaking](https://tech.slashdot.org/story/25/02/27/199236/meta-is-firing-about-20-employees-for-leaking?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/02/27/199236/meta-is-firing-about-20-employees-for-leaking?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [IBM completes acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform) ([Comments](https://news.ycombinator.com/item?id=43199256))
-
-* [Technicolor Begins To Shut Down Operations](https://tech.slashdot.org/story/25/02/27/2134206/technicolor-begins-to-shut-down-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/02/27/2134206/technicolor-begins-to-shut-down-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [IBM completes acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform) - IBM finalizes its purchase of HashiCorp, bolstering its hybrid cloud offerings.
 
 ---
 
@@ -77,30 +73,37 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-02-28, 15:20:00](https://tech.slashdot.org/story/25/02/28/141222/google-tweak-creates-crisis-for-product-review-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Tweak Creates Crisis for Product-Review Sites](https://tech.slashdot.org/story/25/02/28/141222/google-tweak-creates-crisis-for-product-review-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-28, 15:08:41](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend)
+* [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
+* [2025-02-28, 14:40:31](https://lobste.rs/s/ywwqvr/netboot_windows_11_with_iscsi_ipxe) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+* [2025-02-28, 14:40:00](https://slashdot.org/story/25/02/28/1426223/microsoft-to-shut-down-skype-in-may-shift-users-to-teams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Shut Down Skype in May, Shift Users To Teams](https://slashdot.org/story/25/02/28/1426223/microsoft-to-shut-down-skype-in-may-shift-users-to-teams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-28, 14:35:12](https://lobste.rs/s/ccazb3/let_s_hold_hands) - [Let's Hold Hands](https://untested.sonnet.io/notes/lets-hold-hands/)
+* [2025-02-28, 14:03:57](https://news.ycombinator.com/item?id=43205677) - [May 5, Microsoft's Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
+* [2025-02-28, 14:00:00](https://news.slashdot.org/story/25/02/28/136217/citigroup-erroneously-credited-client-account-with-81-trillion-in-near-miss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Citigroup Erroneously Credited Client Account With $81 Trillion in 'Near Miss'](https://news.slashdot.org/story/25/02/28/136217/citigroup-erroneously-credited-client-account-with-81-trillion-in-near-miss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-28, 13:37:45](https://lobste.rs/s/983aqv/leader_election_with_s3_if_match) - [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
+* [2025-02-28, 13:10:18](https://news.ycombinator.com/item?id=43205196) - [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
 * [2025-02-28, 12:58:26](https://lobste.rs/s/ptr2k3/garnix_modules) - [garnix modules](https://garnix.io/blog/garnix-modules)
 * [2025-02-28, 12:34:58](https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert) - [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+* [2025-02-28, 11:21:04](https://news.ycombinator.com/item?id=43204406) - [WebShield – A new wide-spectrum content blocker for Safari](https://github.com/arjpar/WebShield)
 * [2025-02-28, 11:15:57](https://news.ycombinator.com/item?id=43204376) - [A Comment on Mozilla's Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
-* [2025-02-28, 11:12:26](https://news.ycombinator.com/item?id=43204349) - [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
 * [2025-02-28, 10:29:31](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-02-28, 09:29:41](https://lobste.rs/s/xb3ou0/simon_peyton_jones_on_notes_source_code) - [Simon Peyton Jones on Notes in source code (2021)](https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s)
-* [2025-02-28, 08:27:36](https://news.ycombinator.com/item?id=43203158) - [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
-* [2025-02-28, 08:17:48](https://news.ycombinator.com/item?id=43203096) - [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
+* [2025-02-28, 08:27:36](https://news.ycombinator.com/item?id=43203158) - [Github scam investigation: Thousands of “mods” and “cracks” stealing data](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
 * [2025-02-28, 08:02:33](https://news.ycombinator.com/item?id=43202982) - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 * [2025-02-28, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) - [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
-* [2025-02-28, 07:42:58](https://lobste.rs/s/dwfkkf/3fs_high_performance_distributed_file) - [3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads](https://github.com/deepseek-ai/3FS)
-* [2025-02-28, 07:34:38](https://news.ycombinator.com/item?id=43202773) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 07:32:26](https://lobste.rs/s/4jw0rr/wasm_wayland_web_www) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 07:00:00](https://news.slashdot.org/story/25/02/27/2138217/more-random-rich-people-are-going-to-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [More Random Rich People Are Going To Space](https://news.slashdot.org/story/25/02/27/2138217/more-random-rich-people-are-going-to-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 05:50:12](https://lobste.rs/s/cvqffe/perceptron) - [The Perceptron](https://youtu.be/l-9ALe3U-Fg)
 * [2025-02-28, 05:31:49](https://news.ycombinator.com/item?id=43202052) - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
 * [2025-02-28, 05:20:13](https://news.ycombinator.com/item?id=43201974) - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
 * [2025-02-28, 04:57:17](https://lobste.rs/s/xjnx95/distributed_systems_programming_has) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
-* [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
 * [2025-02-28, 03:30:00](https://tech.slashdot.org/story/25/02/28/0058237/viral-video-shows-ais-conversing-in-their-own-language?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Viral Video Shows AIs Conversing In Their Own Language](https://tech.slashdot.org/story/25/02/28/0058237/viral-video-shows-ais-conversing-in-their-own-language?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 03:17:19](https://lobste.rs/s/d9ivn2/make_cross_views) - [Make Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-28, 03:05:00](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
+* [2025-02-28, 02:24:04](https://news.ycombinator.com/item?id=43201001) - [Putting Andrew Ng's OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 * [2025-02-28, 02:20:11](https://lobste.rs/s/ioztzf/there_isn_t_much_point_http_2_past_load) - [There Isn’t Much Point to HTTP/2 Past The Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-28, 02:02:00](https://yro.slashdot.org/story/25/02/28/013227/apples-find-my-network-exploit-lets-hackers-silently-track-any-bluetooth-device?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple's Find My Network Exploit Lets Hackers Silently Track Any Bluetooth Device](https://yro.slashdot.org/story/25/02/28/013227/apples-find-my-network-exploit-lets-hackers-silently-track-any-bluetooth-device?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 01:34:00](https://soylentnews.org/meta/article.pl?sid=25/02/21/1425224&from=rss) - [Adoption of Site Documentation - THIS IS THE VOTE - RESTORED](https://soylentnews.org/meta/article.pl?sid=25/02/21/1425224&from=rss)
@@ -109,11 +112,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 01:25:00](https://tech.slashdot.org/story/25/02/28/0046233/apple-launches-age-assurance-tech-as-us-states-mull-social-media-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Launches 'Age Assurance' Tech As US States Mull Social Media Laws](https://tech.slashdot.org/story/25/02/28/0046233/apple-launches-age-assurance-tech-as-us-states-mull-social-media-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 01:03:59](https://news.ycombinator.com/item?id=43200450) - [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/)
 * [2025-02-28, 00:45:00](https://apple.slashdot.org/story/25/02/27/2152210/microsoft-releases-a-copilot-app-for-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Releases a Copilot App For Mac](https://apple.slashdot.org/story/25/02/27/2152210/microsoft-releases-a-copilot-app-for-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-28, 00:05:31](https://news.ycombinator.com/item?id=43200065) - [Mozilla owns \"information you input through Firefox\"](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
-* [2025-02-28, 00:02:57](https://lobste.rs/s/0ldvvk/nvidia_emulation_journey_part_1_riva_128) - [NVIDIA emulation journey, part 1: RIVA 128 / NV3 architecture history and basic overview](https://86box.net/2025/02/25/riva128-part-1.html)
+* [2025-02-28, 00:05:31](https://news.ycombinator.com/item?id=43200065) - [Mozilla owns “information you input through Firefox”](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
 * [2025-02-28, 00:02:00](https://tech.slashdot.org/story/25/02/27/2147257/openai-sam-altman-says-the-company-is-out-of-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Sam Altman Says the Company Is 'Out of GPUs'](https://tech.slashdot.org/story/25/02/27/2147257/openai-sam-altman-says-the-company-is-out-of-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 23:20:00](https://games.slashdot.org/story/25/02/27/2144203/ea-releases-source-code-for-old-command-and-conquer-games?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [EA Releases Source Code For Old Command and Conquer Games](https://games.slashdot.org/story/25/02/27/2144203/ea-releases-source-code-for-old-command-and-conquer-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-27, 23:00:31](https://lobste.rs/s/abs9fe/building_query_compilers) - [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 * [2025-02-27, 23:00:00](https://tech.slashdot.org/story/25/02/27/2134206/technicolor-begins-to-shut-down-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Technicolor Begins To Shut Down Operations](https://tech.slashdot.org/story/25/02/27/2134206/technicolor-begins-to-shut-down-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 22:40:00](https://yro.slashdot.org/story/25/02/27/2129241/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Thousands of Exposed GitHub Repositories, Now Private, Can Still Be Accessed Through Copilot](https://yro.slashdot.org/story/25/02/27/2129241/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM completes acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
@@ -125,20 +126,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-27, 20:25:00](https://slashdot.org/story/25/02/27/2022254/openai-rolls-out-gpt-45?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Rolls Out GPT-4.5](https://slashdot.org/story/25/02/27/2022254/openai-rolls-out-gpt-45?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 20:09:36](https://lobste.rs/s/h5zfdf/branded_types) - [Branded Types](https://www.learningtypescript.com/articles/branded-types)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
-* [2025-02-27, 20:00:00](https://yro.slashdot.org/story/25/02/27/1329252/automattics-nuclear-war-over-wordpress-access-sparks-potential-class-action?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Automattic's 'Nuclear War' Over WordPress Access Sparks Potential Class Action](https://yro.slashdot.org/story/25/02/27/1329252/automattics-nuclear-war-over-wordpress-access-sparks-potential-class-action?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-27, 19:20:00](https://news.slashdot.org/story/25/02/27/0747237/one-mans-battle-to-save-the-last-phone-box-in-his-village?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [One Man's Battle To Save the Last Phone Box in His Village](https://news.slashdot.org/story/25/02/27/0747237/one-mans-battle-to-save-the-last-phone-box-in-his-village?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 19:11:13](https://lobste.rs/s/sdm7pb/tips_debug_hanging_go_programs) - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/)
 * [2025-02-27, 18:54:19](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code) - [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert, along with other games](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:42:01](https://lobste.rs/s/fpidir/accessing_region_locked_ios_features) - [Accessing region-locked iOS features, such as EU app stores](https://downrightnifty.me/blog/2025/02/27/eu-features-outside.html)
-* [2025-02-27, 18:41:00](https://games.slashdot.org/story/25/02/27/1048224/pokemon-boss-believes-series-can-last-another-50-to-100-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pokemon Boss Believes Series Can Last Another 50 To 100 Years](https://games.slashdot.org/story/25/02/27/1048224/pokemon-boss-believes-series-can-last-another-50-to-100-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-27, 17:35:00](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss) - [Robot With 1,000 Muscles Twitches Like Human While Dangling From Ceiling](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss)
 * [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
 * [2025-02-27, 17:24:20](https://lobste.rs/s/1naw96/goodbye_k_9_mail) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
-* [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth device into an Apple AirTag without root privileges](https://nroottag.github.io/)
-* [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
 * [2025-02-27, 14:16:38](https://lobste.rs/s/ww96mh/why_are_jujutsu_s_id_prefixes_so_short) - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
-* [2025-02-27, 14:05:57](https://lobste.rs/s/4fxbkn/git_for_fansubbing_probably_mistake) - [Git for Fansubbing: Probably a Mistake](https://redvice.org/2025/git-subbing-was-a-mistake/)
 * [2025-02-27, 13:32:38](https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust) - [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 12:51:00](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss) - [Physx Feature Unlocked For RTX 5090 With RTX 3050 'Helper' To Enable Full Performance](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss)
 * [2025-02-27, 12:41:00](https://lobste.rs/s/bvzlzb/testing_numbs_us_our_loss_intellectual) - [Testing Numbs Us to Our Loss of Intellectual Control (2020)](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
@@ -155,11 +150,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-25, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
 * [2025-02-25, 17:06:00](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss) - [21st Century C++](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss)
 * [2025-02-25, 12:23:00](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss) - [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
-* [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
+* [2025-02-25, 11:01:39](https://news.ycombinator.com/item?id=43170408) - [Narrative and the Structure of Art (2023)](https://medium.com/luminasticity/narrative-and-the-structure-of-art-1ffbdfe2aece)
+* [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Any recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
+* [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay (2017)](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
 * [2025-02-25, 07:54:00](https://news.ycombinator.com/item?id=43169323) - [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)
 * [2025-02-25, 07:40:17](https://news.ycombinator.com/item?id=43169244) - [Thermoelectric Solar Panel](https://simplifier.neocities.org/thermosolar)
 * [2025-02-25, 07:37:00](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss) - [Building a Chipmaking Fab in the US Costs Twice as Much, Takes Twice as Long as in Taiwan](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss)
-* [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-25, 02:51:00](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss)
 * [2025-02-24, 22:04:00](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss) - [How to Backdoor Large Language Models](https://soylentnews.org/article.pl?sid=25/02/24/0715224&from=rss)
 * [2025-02-24, 17:20:00](https://soylentnews.org/article.pl?sid=25/02/24/0713223&from=rss) - [Bird Flu Endemic in America Cows. Found in Rats](https://soylentnews.org/article.pl?sid=25/02/24/0713223&from=rss)
@@ -167,6 +163,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 14:06:16](https://news.ycombinator.com/item?id=43159692) - [Electric Propulsion Magnets Ready for Space Tests](https://spectrum.ieee.org/electric-propulsion-thruster)
 * [2025-02-24, 12:32:00](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss) - [AMD Could Block the Sale of Intel Due to a Cross-Licensing Agreement](https://soylentnews.org/article.pl?sid=25/02/24/078229&from=rss)
-* [2025-02-24, 09:53:00](https://news.ycombinator.com/item?id=43157672) - [Why and How I use \"Org Mode\" for my writing and more](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
+* [2025-02-24, 09:53:00](https://news.ycombinator.com/item?id=43157672) - [Why and How I use “Org Mode” for my writing and more (2022)](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
 * [2025-02-24, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss) - [Apple Pulls End-to-End Encryption From UK Rather Than Provide Government a Backdoor](https://soylentnews.org/article.pl?sid=25/02/24/074241&from=rss)
 * [2025-02-24, 03:03:00](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://soylentnews.org/article.pl?sid=25/02/23/1133234&from=rss)
