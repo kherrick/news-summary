@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Technology Innovations and Research
 
-* [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/) - Exploring how Deno provides a streamlined, modern approach to JavaScript runtime environments. [Comments](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way).
+* [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/) - A detailed guide to hosting your own Firefox Sync Server. [Comments](https://news.ycombinator.com/item?id=43214294).
+* [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 
-* [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/) - A technical dive into debugging eBPF issues in Linux kernels. [Comments](https://news.ycombinator.com/item?id=43214576).
+* [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
 
-* [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php) - An analysis of an impressive C64 demo showcasing advanced sprite manipulation. [Comments](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained).
+* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Torii – a framework-agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs) - Introducing an open-source Rust library for flexible authentication. [Comments](https://news.ycombinator.com/item?id=43213090).
+## Health and Environmental Impacts
 
-## AI and Machine Learning
+* [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
 
-* [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion) - Salesforce introduces an ML framework tailored for time-series applications. [Comments](https://news.ycombinator.com/item?id=43209064).
+* [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss)
 
-* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's ambitious project Taara leverages light-based internet technology. [Comments](https://news.ycombinator.com/item?id=43207831).
+* [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
 
-* [DeepMind CEO Says AGI Definition Has Been 'Watered Down'](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how the term Artificial General Intelligence is evolving. [Comments](https://news.ycombinator.com/item?id=43212952).
+* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
 
-* [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/) - Leveraging large language models for smart data extraction. [Comments](https://news.ycombinator.com/item?id=43208973).
+## Open Source and Privacy
 
-## Security and Legal Issues
+* [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)
 
-* [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating claims of Cellebrite exploitations targeting Android devices. [Comments](https://news.ycombinator.com/item?id=43215781).
+* [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
 
-* [An Appeals Court May Kill a GNU GPL Software License](https://news.slashdot.org/story/25/02/28/2149217/an-appeals-court-may-kill-a-gnu-gpl-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal challenges potentially threatening open-source software licenses. [Comments](https://news.ycombinator.com/item?id=43186698).
+* [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 
-* [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/) - Understanding vital vulnerabilities affecting desktop applications. [Comments](https://news.ycombinator.com/item?id=43210858).
+* [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
 
-## Industry Updates
+## Corporate and Industry Dynamics
 
-* [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Autodesk shifts focus and resources toward artificial intelligence initiatives. [Comments](https://news.ycombinator.com/item?id=43209745).
+* [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Apple Accused of Misleading Consumers With Apple Watch 'Carbon Neutral' Claims](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scrutiny of Apple’s environmental claims sparks consumer concerns. [Comments](https://news.ycombinator.com/item?id=43207831).
+* [Microsoft Begins Turning Off uBlock Origin, Other Extensions In Edge](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Benioff Says Salesforce Won't Hire Engineers This Year Due To AI](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Salesforce opts for AI-driven strategies over increasing engineering staff. [Comments](https://news.ycombinator.com/item?id=43212978).
+* [OpenAI Plans To Integrate Sora's Video Generator Into ChatGPT](https://slashdot.org/story/25/02/28/2211243/openai-plans-to-integrate-soras-video-generator-into-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Science and Discoveries
-
-* [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/) - Groundbreaking research on the long-term genetic effects of violence. [Comments](https://news.ycombinator.com/item?id=43206722).
-
-* [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - Insights into atmospheric abnormalities of a planet light-years away. [Comments](https://news.ycombinator.com/item?id=43056478).
-
-* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - Innovative chemistry could offer a path to eliminating persistent environmental toxins. [Comments](https://news.ycombinator.com/item?id=43201682).
+* [Intel Delays $28 Billion Ohio Chip Factory To 2030](https://slashdot.org/story/25/02/28/2143243/intel-delays-28-billion-ohio-chip-factory-to-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -71,6 +65,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-01, 09:21:21](https://lobste.rs/s/vgbpbc/4_mains_nothing_at_all) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
+* [2025-03-01, 08:48:53](https://lobste.rs/s/sybcvs/update_on_our_terms_use_mozilla_blog) - [An update on our Terms of Use | The Mozilla Blog](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+* [2025-03-01, 08:17:02](https://lobste.rs/s/8wmhlu/cost_go_s_panic_recover) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
+* [2025-03-01, 07:36:00](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) - [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
+* [2025-03-01, 07:00:00](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 * [2025-03-01, 03:30:00](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -80,7 +79,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 01:30:00](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 01:26:34](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained) - [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 * [2025-03-01, 01:03:48](https://news.ycombinator.com/item?id=43214294) - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-* [2025-03-01, 00:59:13](https://news.ycombinator.com/item?id=43214263) - [The Housing Theory of Everything (2021)](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
 * [2025-03-01, 00:50:00](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Accused of Misleading Consumers With Apple Watch 'Carbon Neutral' Claims](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 00:30:00](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Begins Turning Off uBlock Origin, Other Extensions In Edge](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 00:10:00](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Benioff Says Salesforce Won't Hire Engineers This Year Due To AI](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -110,13 +108,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 17:40:06](https://lobste.rs/s/h38zur/structured_data_extraction_from) - [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/)
 * [2025-02-28, 17:33:00](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepMind CEO Says AGI Definition Has Been 'Watered Down'](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 17:17:00](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss) - [US Investigates Whether Deepseek Obtained NVidia Chips Through Singapore to Bypass Restrictions](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss)
-* [2025-02-28, 17:12:26](https://news.ycombinator.com/item?id=43207942) - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
-* [2025-02-28, 16:40:00](https://news.slashdot.org/story/25/02/28/1620208/president-trump-uk-encryption-policy-something-you-hear-about-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [President Trump: UK Encryption Policy 'Something You Hear About With China'](https://news.slashdot.org/story/25/02/28/1620208/president-trump-uk-encryption-policy-something-you-hear-about-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
-* [2025-02-28, 14:40:31](https://lobste.rs/s/ywwqvr/netboot_windows_11_with_iscsi_ipxe) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 * [2025-02-28, 14:35:12](https://lobste.rs/s/ccazb3/let_s_hold_hands) - [Let's Hold Hands](https://untested.sonnet.io/notes/lets-hold-hands/)
 * [2025-02-28, 13:37:45](https://lobste.rs/s/983aqv/leader_election_with_s3_if_match) - [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
 * [2025-02-28, 12:58:26](https://lobste.rs/s/ptr2k3/garnix_modules) - [garnix modules](https://garnix.io/blog/garnix-modules)
@@ -132,10 +127,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 07:32:26](https://lobste.rs/s/4jw0rr/wasm_wayland_web_www) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery implants tooth material in eye as scaffolding for lens](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
 * [2025-02-28, 03:05:00](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
-* [2025-02-28, 02:20:11](https://lobste.rs/s/ioztzf/there_isn_t_much_point_http_2_past_load) - [There Isn’t Much Point to HTTP/2 Past The Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-27, 22:19:00](https://soylentnews.org/article.pl?sid=25/02/26/190229&from=rss) - [Right to Repair Laws Have Now Been Introduced in All 50 US States](https://soylentnews.org/article.pl?sid=25/02/26/190229&from=rss)
 * [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
-* [2025-02-27, 19:11:13](https://lobste.rs/s/sdm7pb/tips_debug_hanging_go_programs) - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/)
 * [2025-02-27, 18:54:19](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code) - [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 17:35:00](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss) - [Robot With 1,000 Muscles Twitches Like Human While Dangling From Ceiling](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss)
 * [2025-02-27, 17:24:20](https://lobste.rs/s/1naw96/goodbye_k_9_mail) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
@@ -150,11 +143,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-26, 12:05:00](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss) - [Seagate's Fraudulent HDD Scandal Expands: Ironwolf Pro Hard Drives Reportedly Also Affected](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss)
 * [2025-02-26, 07:20:00](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss) - [The Secretive X-37B Space Plane Snapped This Picture of Earth From Orbit](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss)
 * [2025-02-26, 02:33:00](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss) - [US Treasury Beneficial Ownership Information Reporting is Back On (Again)](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss)
+* [2025-02-26, 01:10:04](https://news.ycombinator.com/item?id=43179529) - [Show HN: Simplifying Backend Testing with qapir.io](https://qapir.io)
 * [2025-02-25, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
+* [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 17:06:00](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss) - [21st Century C++](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss)
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
-* [2025-02-25, 16:18:11](https://news.ycombinator.com/item?id=43173808) - [Resident physicians' exam scores tied to patient survival](https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival)
 * [2025-02-25, 12:34:25](https://news.ycombinator.com/item?id=43171071) - [A Path to Scalable Quantum Computers](https://physics.aps.org/articles/v18/40)
+* [2025-02-25, 12:33:32](https://news.ycombinator.com/item?id=43171061) - [Harnessing orbital Hall effect in spin-orbit torque MRAM](https://www.nature.com/articles/s41467-024-55437-x)
 * [2025-02-25, 12:23:00](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss) - [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
 * [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering – Richard M. Christensen](https://www.failurecriteria.com/)
