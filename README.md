@@ -1,44 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Research
+## Technology and Business Shifts
 
-* [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Skype is Shutting Down After Two Decades](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss)): Microsoft's Skype, a long-standing communication tool, will cease operations, marking the end of an era.
 
-* [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
+* [Microsoft Begins Turning Off uBlock Origin, Other Extensions In Edge](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Microsoft faces scrutiny as it disables popular browser extensions, including uBlock Origin, potentially impacting user control and customization.
 
-* [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
+* [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/) ([comments](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way)): Deno positions itself as a superior alternative to traditional JavaScript runtime environments with innovative features.
 
-* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Artificial Intelligence and Technological Breakthroughs
 
-## Health and Environmental Impacts
+* [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/) ([comments](https://news.ycombinator.com/item?id=43217357)): Demonstrating self-awareness in AI, Claude Code's ability to decompile itself highlights advancements in AI capabilities.
 
-* [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
+* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Google's groundbreaking light-powered internet initiative promises a more sustainable and rapid approach to connectivity.
 
-* [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss)
+## Programming and Development Innovations
 
-* [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
+* [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/) ([comments](https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps)): Examining Rust's potential to redefine business application development.
 
-* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
+* [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/) ([comments](https://lobste.rs/s/8wmhlu/cost_go_s_panic_recover)): A deep dive into the implications and performance costs associated with Go's error handling mechanisms.
 
-## Open Source and Privacy
+## Health, Environment, and Society
 
-* [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)
+* [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)): New research reveals that even a short period of consuming ultra-processed foods can cause measurable brain changes.
 
-* [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
+* [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss)): A critical review of water chlorination practices and their link to cancer risks.
 
-* [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
+## Space and Scientific Advancements
 
-* [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+* [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Pioneering Mars exploration technology with a versatile drone that can adapt to multiple terrains.
 
-## Corporate and Industry Dynamics
-
-* [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Microsoft Begins Turning Off uBlock Origin, Other Extensions In Edge](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [OpenAI Plans To Integrate Sora's Video Generator Into ChatGPT](https://slashdot.org/story/25/02/28/2211243/openai-plans-to-integrate-soras-video-generator-into-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Intel Delays $28 Billion Ohio Chip Factory To 2030](https://slashdot.org/story/25/02/28/2143243/intel-delays-28-billion-ohio-chip-factory-to-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)): The future of advanced space observation faces challenges as budget adjustments threaten the James Webb Space Telescope's mission.
 
 ---
 
@@ -65,8 +57,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-01, 12:17:00](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss) - [Skype is Shutting Down After Two Decades](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss)
+* [2025-03-01, 10:18:31](https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
+* [2025-03-01, 10:00:00](https://tech.slashdot.org/story/25/03/01/0059224/cosmic-desktop-alpha-6-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [COSMIC Desktop Alpha 6 Released](https://tech.slashdot.org/story/25/03/01/0059224/cosmic-desktop-alpha-6-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 09:21:21](https://lobste.rs/s/vgbpbc/4_mains_nothing_at_all) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
-* [2025-03-01, 08:48:53](https://lobste.rs/s/sybcvs/update_on_our_terms_use_mozilla_blog) - [An update on our Terms of Use | The Mozilla Blog](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+* [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
 * [2025-03-01, 08:17:02](https://lobste.rs/s/8wmhlu/cost_go_s_panic_recover) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 07:36:00](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) - [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
 * [2025-03-01, 07:00:00](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -106,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 18:17:00](https://tech.slashdot.org/story/25/02/28/1817248/us-workers-see-ai-induced-productivity-growth-fed-survey-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Workers See AI-Induced Productivity Growth, Fed Survey Shows](https://tech.slashdot.org/story/25/02/28/1817248/us-workers-see-ai-induced-productivity-growth-fed-survey-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 17:53:11](https://lobste.rs/s/xhssly/thoughts_about_rustdoc) - [Thoughts about rustdoc](https://lobste.rs/s/xhssly/thoughts_about_rustdoc)
 * [2025-02-28, 17:40:06](https://lobste.rs/s/h38zur/structured_data_extraction_from) - [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/)
-* [2025-02-28, 17:33:00](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepMind CEO Says AGI Definition Has Been 'Watered Down'](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 17:17:00](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss) - [US Investigates Whether Deepseek Obtained NVidia Chips Through Singapore to Bypass Restrictions](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
@@ -121,7 +115,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 11:43:22](https://news.ycombinator.com/item?id=43204575) - [The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)](https://deno.com/blog/the-dino-llama-and-whale)
 * [2025-02-28, 10:29:31](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-02-28, 09:29:41](https://lobste.rs/s/xb3ou0/simon_peyton_jones_on_notes_source_code) - [Simon Peyton Jones on Notes in source code (2021)](https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s)
-* [2025-02-28, 09:24:13](https://news.ycombinator.com/item?id=43203543) - [Hot take: GPT 4.5 is a nothing burger](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger)
 * [2025-02-28, 08:02:33](https://news.ycombinator.com/item?id=43202982) - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 * [2025-02-28, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) - [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
 * [2025-02-28, 07:32:26](https://lobste.rs/s/4jw0rr/wasm_wayland_web_www) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
@@ -143,16 +136,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-26, 12:05:00](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss) - [Seagate's Fraudulent HDD Scandal Expands: Ironwolf Pro Hard Drives Reportedly Also Affected](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss)
 * [2025-02-26, 07:20:00](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss) - [The Secretive X-37B Space Plane Snapped This Picture of Earth From Orbit](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss)
 * [2025-02-26, 02:33:00](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss) - [US Treasury Beneficial Ownership Information Reporting is Back On (Again)](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss)
-* [2025-02-26, 01:10:04](https://news.ycombinator.com/item?id=43179529) - [Show HN: Simplifying Backend Testing with qapir.io](https://qapir.io)
+* [2025-02-26, 00:23:39](https://news.ycombinator.com/item?id=43179222) - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 * [2025-02-25, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
+* [2025-02-25, 18:02:31](https://news.ycombinator.com/item?id=43175201) - [The vinyl-carver sparking a craze for cutting records at home](https://www.theguardian.com/music/2025/feb/25/vinyl-carver-lathe-cutters-home-cutting-records-craze)
 * [2025-02-25, 17:06:00](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss) - [21st Century C++](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss)
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
-* [2025-02-25, 12:34:25](https://news.ycombinator.com/item?id=43171071) - [A Path to Scalable Quantum Computers](https://physics.aps.org/articles/v18/40)
 * [2025-02-25, 12:33:32](https://news.ycombinator.com/item?id=43171061) - [Harnessing orbital Hall effect in spin-orbit torque MRAM](https://www.nature.com/articles/s41467-024-55437-x)
 * [2025-02-25, 12:23:00](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss) - [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
-* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering – Richard M. Christensen](https://www.failurecriteria.com/)
+* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering](https://www.failurecriteria.com/)
 * [2025-02-25, 07:37:00](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss) - [Building a Chipmaking Fab in the US Costs Twice as Much, Takes Twice as Long as in Taiwan](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-25, 02:51:00](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss)
