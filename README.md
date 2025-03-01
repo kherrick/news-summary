@@ -1,40 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovative Developments in Science and Technology
+## Technology and Software Developments
 
-* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google explores optical solutions for data transfer using light beams, potentially giving rise to new internet technologies.
+* [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/) - Exploring how Deno provides a streamlined, modern approach to JavaScript runtime environments. [Comments](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way).
 
-* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - Scientists make a breakthrough in combating persistent pollutants with piezoelectric catalysts.
+* [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/) - A detailed guide to hosting your own Firefox Sync Server. [Comments](https://news.ycombinator.com/item?id=43214294).
 
-## Advancements in AI and Software
+* [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/) - A technical dive into debugging eBPF issues in Linux kernels. [Comments](https://news.ycombinator.com/item?id=43214576).
 
-* [OpenAI Plans To Integrate Sora's Video Generator Into ChatGPT](https://slashdot.org/story/25/02/28/2211243/openai-plans-to-integrate-soras-video-generator-into-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI aims to expand ChatGPT's functionality with integrated video generation.
+* [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php) - An analysis of an impressive C64 demo showcasing advanced sprite manipulation. [Comments](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained).
 
-* [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion) - Salesforce introduces an open-source machine learning framework optimized for time-series data.
+* [Torii – a framework-agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs) - Introducing an open-source Rust library for flexible authentication. [Comments](https://news.ycombinator.com/item?id=43213090).
 
-## Security and Digital Ethics
+## AI and Machine Learning
 
-* [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cellebrite's technology allegedly exploited a student's device, raising privacy concerns.
+* [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion) - Salesforce introduces an ML framework tailored for time-series applications. [Comments](https://news.ycombinator.com/item?id=43209064).
 
-* [An Appeals Court May Kill a GNU GPL Software License](https://news.slashdot.org/story/25/02/28/2149217/an-appeals-court-may-kill-a-gnu-gpl-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal decisions on the horizon could reshape the future of open-source licensing.
+* [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's ambitious project Taara leverages light-based internet technology. [Comments](https://news.ycombinator.com/item?id=43207831).
 
-## Corporate Trends and Policies
+* [DeepMind CEO Says AGI Definition Has Been 'Watered Down'](https://slashdot.org/story/25/02/28/1739242/deepmind-ceo-says-agi-definition-has-been-watered-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how the term Artificial General Intelligence is evolving. [Comments](https://news.ycombinator.com/item?id=43212952).
 
-* [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Autodesk makes significant layoffs, prioritizing AI-based initiatives.
+* [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/) - Leveraging large language models for smart data extraction. [Comments](https://news.ycombinator.com/item?id=43208973).
 
-* [Benioff Says Salesforce Won't Hire Engineers This Year Due To AI](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Salesforce limits hiring plans as the company pivots toward AI-centric strategies.
+## Security and Legal Issues
 
-## Hardware and Cybersecurity
+* [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating claims of Cellebrite exploitations targeting Android devices. [Comments](https://news.ycombinator.com/item?id=43215781).
 
-* [Intel Delays $28 Billion Ohio Chip Factory To 2030](https://slashdot.org/story/25/02/28/2143243/intel-delays-28-billion-ohio-chip-factory-to-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Intel postpones a major semiconductor manufacturing project, citing future strategy.
+* [An Appeals Court May Kill a GNU GPL Software License](https://news.slashdot.org/story/25/02/28/2149217/an-appeals-court-may-kill-a-gnu-gpl-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal challenges potentially threatening open-source software licenses. [Comments](https://news.ycombinator.com/item?id=43186698).
 
-* [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/) - Insights on widespread vulnerabilities affecting countless apps and devices.
+* [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/) - Understanding vital vulnerabilities affecting desktop applications. [Comments](https://news.ycombinator.com/item?id=43210858).
 
-## Cultural, Historical, and Ethical Perspectives
+## Industry Updates
 
-* [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025) - Remembering the life and legacy of chess grandmaster Boris Spassky.
+* [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Autodesk shifts focus and resources toward artificial intelligence initiatives. [Comments](https://news.ycombinator.com/item?id=43209745).
 
-* [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working) - A discussion on the growing role of inheritance in modern economic mobility.
+* [Apple Accused of Misleading Consumers With Apple Watch 'Carbon Neutral' Claims](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scrutiny of Apple’s environmental claims sparks consumer concerns. [Comments](https://news.ycombinator.com/item?id=43207831).
+
+* [Benioff Says Salesforce Won't Hire Engineers This Year Due To AI](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Salesforce opts for AI-driven strategies over increasing engineering staff. [Comments](https://news.ycombinator.com/item?id=43212978).
+
+## Science and Discoveries
+
+* [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/) - Groundbreaking research on the long-term genetic effects of violence. [Comments](https://news.ycombinator.com/item?id=43206722).
+
+* [Astronomers Uncover The Topsy-Turvy Atmosphere Of A Distant Planet](https://soylentnews.org/article.pl?sid=25/02/24/0723218&from=rss) - Insights into atmospheric abnormalities of a planet light-years away. [Comments](https://news.ycombinator.com/item?id=43056478).
+
+* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - Innovative chemistry could offer a path to eliminating persistent environmental toxins. [Comments](https://news.ycombinator.com/item?id=43201682).
 
 ---
 
@@ -61,6 +71,8 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
+* [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 * [2025-03-01, 03:30:00](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 02:53:00](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss) - [Internet Society Wants to Improve Terrestrial Fibre Maps](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss)
 * [2025-03-01, 02:10:00](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -68,14 +80,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 01:30:00](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 01:26:34](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained) - [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 * [2025-03-01, 01:03:48](https://news.ycombinator.com/item?id=43214294) - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-* [2025-03-01, 00:59:13](https://news.ycombinator.com/item?id=43214263) - [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+* [2025-03-01, 00:59:13](https://news.ycombinator.com/item?id=43214263) - [The Housing Theory of Everything (2021)](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
 * [2025-03-01, 00:50:00](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Accused of Misleading Consumers With Apple Watch 'Carbon Neutral' Claims](https://apple.slashdot.org/story/25/02/28/2222213/apple-accused-of-misleading-consumers-with-apple-watch-carbon-neutral-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 00:30:00](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Begins Turning Off uBlock Origin, Other Extensions In Edge](https://tech.slashdot.org/story/25/02/28/2230252/microsoft-begins-turning-off-ublock-origin-other-extensions-in-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 00:10:00](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Benioff Says Salesforce Won't Hire Engineers This Year Due To AI](https://slashdot.org/story/25/02/28/2220221/benioff-says-salesforce-wont-hire-engineers-this-year-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-28, 23:59:35](https://news.ycombinator.com/item?id=43213612) - [An Update on Mozilla's Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+* [2025-02-28, 23:59:35](https://news.ycombinator.com/item?id=43213612) - [An update on Mozilla's terms of use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-28, 23:30:00](https://slashdot.org/story/25/02/28/2211243/openai-plans-to-integrate-soras-video-generator-into-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plans To Integrate Sora's Video Generator Into ChatGPT](https://slashdot.org/story/25/02/28/2211243/openai-plans-to-integrate-soras-video-generator-into-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 * [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 22:50:00](https://news.slashdot.org/story/25/02/28/2149217/an-appeals-court-may-kill-a-gnu-gpl-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [An Appeals Court May Kill a GNU GPL Software License](https://news.slashdot.org/story/25/02/28/2149217/an-appeals-court-may-kill-a-gnu-gpl-software-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -87,13 +98,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210537) - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210536) - [400 reasons to not use Microsoft Azure](https://azsh.it)
-* [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 20:22:00](https://tech.slashdot.org/story/25/02/28/2021259/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Responds To Backlash Over New Terms, Saying It's Not Using People's Data for AI](https://tech.slashdot.org/story/25/02/28/2021259/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 20:04:35](https://lobste.rs/s/2ah6bi/programming_without_pointers) - [Programming without pointers](https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers)
 * [2025-02-28, 19:33:48](https://lobste.rs/s/pntik4/interop_2025_another_year_web_platform) - [Interop 2025: another year of web platform improvements](https://web.dev/blog/interop-2025)
 * [2025-02-28, 19:19:20](https://lobste.rs/s/uzx2be/windows_nt_for_gamecube_wii) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 * [2025-02-28, 18:50:00](https://tech.slashdot.org/story/25/02/28/1845202/googles-sergey-brin-urges-workers-to-the-office-at-least-every-weekday?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Sergey Brin Urges Workers To the Office at Least Every Weekday](https://tech.slashdot.org/story/25/02/28/1845202/googles-sergey-brin-urges-workers-to-the-office-at-least-every-weekday?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-02-28, 18:49:46](https://news.ycombinator.com/item?id=43208973) - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
 * [2025-02-28, 18:17:00](https://tech.slashdot.org/story/25/02/28/1817248/us-workers-see-ai-induced-productivity-growth-fed-survey-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Workers See AI-Induced Productivity Growth, Fed Survey Shows](https://tech.slashdot.org/story/25/02/28/1817248/us-workers-see-ai-induced-productivity-growth-fed-survey-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-02-28, 17:53:11](https://lobste.rs/s/xhssly/thoughts_about_rustdoc) - [Thoughts about rustdoc](https://lobste.rs/s/xhssly/thoughts_about_rustdoc)
 * [2025-02-28, 17:40:06](https://lobste.rs/s/h38zur/structured_data_extraction_from) - [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/)
@@ -128,14 +139,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-27, 18:54:19](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code) - [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 17:35:00](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss) - [Robot With 1,000 Muscles Twitches Like Human While Dangling From Ceiling](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss)
 * [2025-02-27, 17:24:20](https://lobste.rs/s/1naw96/goodbye_k_9_mail) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
-* [2025-02-27, 14:16:38](https://lobste.rs/s/ww96mh/why_are_jujutsu_s_id_prefixes_so_short) - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 * [2025-02-27, 13:32:38](https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust) - [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 12:51:00](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss) - [Physx Feature Unlocked For RTX 5090 With RTX 3050 'Helper' To Enable Full Performance](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss)
 * [2025-02-27, 12:10:10](https://lobste.rs/s/jivgtn/why_we_designed_tigerbeetle_s_docs_from) - [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 * [2025-02-27, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss) - [Bubbles That Break Rules: A Fluid Discovery That Defies Logic](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss)
 * [2025-02-27, 02:27:00](https://soylentnews.org/article.pl?sid=25/02/26/0210231&from=rss) - [As the Kernel Turns: Rust in Linux Saga Reaches the “Linus in All-Caps” Phase](https://soylentnews.org/article.pl?sid=25/02/26/0210231&from=rss)
 * [2025-02-26, 21:42:00](https://soylentnews.org/article.pl?sid=25/02/25/0655200&from=rss) - [Software Engineering Job Openings Hit 5-Year Low Amid Industry Shift](https://soylentnews.org/article.pl?sid=25/02/25/0655200&from=rss)
-* [2025-02-26, 17:31:58](https://news.ycombinator.com/item?id=43185909) - [Introducing a terms of use and updated privacy notice for Firefox](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
+* [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss) - [Chinese Hackers Compromised Organizations in 70 Nations, Warn US Federal Agencies](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss)
 * [2025-02-26, 12:05:00](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss) - [Seagate's Fraudulent HDD Scandal Expands: Ironwolf Pro Hard Drives Reportedly Also Affected](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss)
 * [2025-02-26, 07:20:00](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss) - [The Secretive X-37B Space Plane Snapped This Picture of Earth From Orbit](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss)
@@ -143,10 +153,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-25, 21:50:00](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss) - [Polish Treasure Hunters Unearth Seriously Badass Two-Handed Medieval Sword](https://soylentnews.org/article.pl?sid=25/02/24/1621220&from=rss)
 * [2025-02-25, 17:06:00](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss) - [21st Century C++](https://soylentnews.org/article.pl?sid=25/02/24/1617229&from=rss)
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
-* [2025-02-25, 16:18:11](https://news.ycombinator.com/item?id=43173808) - [Resident Physicians' Exam Scores Tied to Patient Survival](https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival)
+* [2025-02-25, 16:18:11](https://news.ycombinator.com/item?id=43173808) - [Resident physicians' exam scores tied to patient survival](https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival)
+* [2025-02-25, 12:34:25](https://news.ycombinator.com/item?id=43171071) - [A Path to Scalable Quantum Computers](https://physics.aps.org/articles/v18/40)
 * [2025-02-25, 12:23:00](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss) - [Trump Threatens Tariffs On Any Nation That Taxes Big Tech](https://soylentnews.org/politics/article.pl?sid=25/02/24/1615209&from=rss)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
-* [2025-02-25, 09:06:21](https://news.ycombinator.com/item?id=43169706) - [Vibe Coding and the Future of Software Engineering](https://alexp.pl/2025/02/19/vibe-coding.html)
 * [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering – Richard M. Christensen](https://www.failurecriteria.com/)
 * [2025-02-25, 07:37:00](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss) - [Building a Chipmaking Fab in the US Costs Twice as Much, Takes Twice as Long as in Taiwan](https://soylentnews.org/article.pl?sid=25/02/24/0728229&from=rss)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
