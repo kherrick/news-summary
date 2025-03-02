@@ -1,34 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Discoveries
+## Technology and Science Innovations
 
-* [Engineers Create Lightweight Multi-Color Fresnel Lens for Telescopes](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss) - This innovation is designed to improve telescopic imaging while being lightweight for various applications. [Comments](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss)
+* [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice) ([comments](https://news.ycombinator.com/item?id=43227881))
 
-* [New Research Suggests Ancient Ocean on Mars](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New studies propose the existence of an ancient ocean on Mars, reshaping our understanding of its history. [Comments](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu) ([comments](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara))
 
-## Space Exploration
+* [Engineers Create Lightweight Multi-Color Fresnel Lens for Telescopes](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss))
 
-* [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/) - Firefly Aerospace achieves another milestone with its lunar lander mission aimed at advancing exploration technologies. [Comments](https://news.ycombinator.com/item?id=43224107)
+* [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone) ([comments](https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for))
 
-* [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new hybrid drone capable of rolling and flying could revolutionize exploration on Mars. [Comments](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Nginx Explorer - Upload](https://blog.izissise.net/posts/ngxp-upload/) ([comments](https://lobste.rs/s/pul56b/nginx_explorer_upload))
 
-## Consumer and Societal Impacts
+* [New Research Suggests Ancient Ocean on Mars](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Utah Could Become America's First State To Ban Fluoride In Public Water](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The state considers a ban that could set a precedent regarding public health and water additives. [Comments](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Artificial Intelligence and Reverse Engineering
 
-* [Wealthy Americans fuel half of US economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending) - A report highlights stark income inequality’s role in driving consumer spending. [Comments](https://news.ycombinator.com/item?id=43226010)
+* [27-Year-Old EXE Became Python In Minutes. Is AI-Assisted Reverse Engineering Next?](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Open Source and Software
+* [AI-assisted creativity and the race to claim the future](https://kyefox.com/ai-assisted-creativity/) ([comments](https://lobste.rs/s/uai6m2/ai_assisted_creativity_race_claim_future))
 
-* [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu) - An innovative spreadsheet tool designed for the Varvara computing system showcases unique functionality. [Comments](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara)
+## Space and Exploration
 
-* [Right to Repair Laws Have Now Been Introduced in All 50 US States](https://soylentnews.org/article.pl?sid=25/02/26/190229&from=rss) - Legislation supporting individuals’ rights to repair electronic devices expands nationwide. [Comments](https://soylentnews.org/article.pl?sid=25/02/26/190229&from=rss)
+* [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/) ([comments](https://news.ycombinator.com/item?id=43224107))
 
-## Creative and Cultural Innovation
+* [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/) ([comments](https://news.ycombinator.com/item?id=43223596))
 
-* [How Flash games shaped the video game industry (2020)](https://www.flashgamehistory.com/) - A look back at the legacy of Adobe Flash on gaming culture and design. [Comments](https://news.ycombinator.com/item?id=43225560)
+* [Chinese Scientists Developing Mars Drone That Can Roll and Fly](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/01/0116201/chinese-scientists-developing-mars-drone-that-can-roll-and-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [The early days of Linux (2023)](https://lwn.net/Articles/928581/) - A retrospective on the beginnings of Linux as a disruptive force in software development. [Comments](https://news.ycombinator.com/item?id=43225686)
+## Societal and Environmental Issues
+
+* [Utah Could Become America's First State To Ban Fluoride In Public Water](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss))
+
+* [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss))
+
+## Technological Failures and Concerns
+
+* [Mozilla site down due to "overdue hosting payments"](https://linuxmom.net/@vkc/114089626244932902) ([comments](https://news.ycombinator.com/item?id=43226089))
+
+* [Microsoft Outage Leaves Tens of Thousands Unable to Access Email and Other Apps](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -55,11 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+* [2025-03-02, 04:34:00](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [27-Year-Old EXE Became Python In Minutes.  Is AI-Assisted Reverse Engineering Next?](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-02, 02:34:00](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Utah Could Become America's First State To Ban Fluoride In Public Water](https://yro.slashdot.org/story/25/03/01/2316220/utah-could-become-americas-first-state-to-ban-fluoride-in-public-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 02:31:00](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss) - [Engineers Create Lightweight Multi-Color Fresnel Lens for Telescopes](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss)
-* [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
-* [2025-03-02, 01:08:59](https://news.ycombinator.com/item?id=43226010) - [Wealthy Americans fuel half of us economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending)
+* [2025-03-02, 01:20:17](https://news.ycombinator.com/item?id=43226089) - [Mozilla site down due to \"overdue hosting payments\"](https://linuxmom.net/@vkc/114089626244932902)
+* [2025-03-02, 00:47:23](https://news.ycombinator.com/item?id=43225886) - [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 * [2025-03-02, 00:18:21](https://news.ycombinator.com/item?id=43225686) - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
 * [2025-03-02, 00:05:30](https://news.ycombinator.com/item?id=43225560) - [How Flash games shaped the video game industry (2020)](https://www.flashgamehistory.com/)
 * [2025-03-01, 23:51:00](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Outage Leaves Tens of Thousands Unable to Access Email and Other Apps](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -68,13 +82,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 22:34:00](https://slashdot.org/story/25/03/01/209255/amd-reveals-rdna-4-gpu-architecture-powering-next-gen-radeon-rx-9070-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Reveals RDNA 4 GPU Architecture Powering Next Gen Radeon RX 9070 Cards](https://slashdot.org/story/25/03/01/209255/amd-reveals-rdna-4-gpu-architecture-powering-next-gen-radeon-rx-9070-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 * [2025-03-01, 21:49:00](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss) - [SpaceX: Actually, Dying Starlink Satellites Don't Always Fully Burn Up](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss)
-* [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why can't we screenshot frames from DRM-protected video on Apple devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:34:00](https://news.slashdot.org/story/25/03/01/2111254/mozilla-revises-firefoxs-terms-of-use-clarifies-that-they-dont-own-your-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Revises Firefox's Terms of Use, Clarifies That They Don't Own Your Data](https://news.slashdot.org/story/25/03/01/2111254/mozilla-revises-firefoxs-terms-of-use-clarifies-that-they-dont-own-your-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 20:58:18](https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 20:56:03](https://news.ycombinator.com/item?id=43223596) - [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/)
 * [2025-03-01, 20:34:00](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Research Suggests Ancient Ocean on Mars](https://science.slashdot.org/story/25/03/01/0719208/new-research-suggests-ancient-ocean-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-01, 20:03:06](https://news.ycombinator.com/item?id=43223075) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 * [2025-03-01, 19:55:43](https://lobste.rs/s/nzjtop/user_defined_order_sql_2018) - [User-defined Order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
 * [2025-03-01, 19:34:00](https://developers.slashdot.org/story/25/03/01/0548217/perls-cpan-security-group-is-now-a-cna-can-assign-cves?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Perl's CPAN Security Group is Now a CNA, Can Assign CVEs](https://developers.slashdot.org/story/25/03/01/0548217/perls-cpan-security-group-is-now-a-cna-can-assign-cves?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [GLP-1 drugs: An economic disruptor? (2024)](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
@@ -108,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 03:30:00](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Serbian Student's Android Phone Compromised By Exploit From Cellebrite](https://it.slashdot.org/story/25/03/01/019202/serbian-students-android-phone-compromised-by-exploit-from-cellebrite?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 02:53:00](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss) - [Internet Society Wants to Improve Terrestrial Fibre Maps](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss)
 * [2025-03-01, 02:10:00](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google's Taara Hopes To Usher in a New Era of Internet Powered by Light](https://tech.slashdot.org/story/25/02/28/2231210/googles-taara-hopes-to-usher-in-a-new-era-of-internet-powered-by-light?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-01, 01:30:00](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [3D Software Company Autodesk Cuts 1,350 Jobs To Boost AI Investment](https://slashdot.org/story/25/03/01/0049256/3d-software-company-autodesk-cuts-1350-jobs-to-boost-ai-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 01:26:34](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained) - [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
@@ -125,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 * [2025-02-28, 12:32:00](https://soylentnews.org/article.pl?sid=25/02/28/0640209&from=rss) - [PSA: Amazon Kills “Download & Transfer Via USB” Option for Kindles This Week](https://soylentnews.org/article.pl?sid=25/02/28/0640209&from=rss)
 * [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
+* [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - ['Slime' keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
 * [2025-02-28, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) - [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
 * [2025-02-28, 04:33:26](https://news.ycombinator.com/item?id=43201720) - [Video encoding requires using your eyes](https://redvice.org/2025/encoding-requires-eyes/)
 * [2025-02-28, 03:05:00](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
@@ -139,7 +151,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss) - [Chinese Hackers Compromised Organizations in 70 Nations, Warn US Federal Agencies](https://soylentnews.org/article.pl?sid=25/02/25/0646226&from=rss)
 * [2025-02-26, 14:27:15](https://news.ycombinator.com/item?id=43183873) - [Nuclear Reactor Lasers: From fission to photon](http://toughsf.blogspot.com/2019/04/nuclear-reactor-lasers-from-fission-to.html)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
-* [2025-02-26, 12:40:07](https://news.ycombinator.com/item?id=43183118) - [Backyard bird has a lot to teach us about sex variability](https://www.scientificamerican.com/article/a-backyard-bird-offers-a-new-way-of-thinking-about-sexes/)
 * [2025-02-26, 12:05:00](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss) - [Seagate's Fraudulent HDD Scandal Expands: Ironwolf Pro Hard Drives Reportedly Also Affected](https://soylentnews.org/article.pl?sid=25/02/25/0640214&from=rss)
 * [2025-02-26, 07:20:00](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss) - [The Secretive X-37B Space Plane Snapped This Picture of Earth From Orbit](https://soylentnews.org/article.pl?sid=25/02/25/0633257&from=rss)
+* [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
 * [2025-02-26, 02:33:00](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss) - [US Treasury Beneficial Ownership Information Reporting is Back On (Again)](https://soylentnews.org/article.pl?sid=25/02/24/1625242&from=rss)
