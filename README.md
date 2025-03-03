@@ -1,42 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
+## Innovations and Emerging Technologies
 
-* [Lenovo Teases Solar-Powered and Foldable-Screen Laptops in Latest Concepts](https://mobile.slashdot.org/story/25/03/03/0028222/lenovo-teases-solar-powered-and-foldable-screen-laptops-in-latest-concepts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Lenovo has introduced intriguing new laptop concepts, including solar-powered and foldable-screen designs, offering a glimpse into the potential future of portable computing.
+* [Lenovo Teases Solar-Powered and Foldable-Screen Laptops in Latest Concepts](https://mobile.slashdot.org/story/25/03/03/0028222/lenovo-teases-solar-powered-and-foldable-screen-laptops-in-latest-concepts?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://mobile.slashdot.org/story/25/03/03/0028222/lenovo-teases-solar-powered-and-foldable-screen-laptops-in-latest-concepts?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [CSS Custom Functions are coming](https://www.bram.us/2025/02/09/css-custom-functions-teaser/) - A major update to CSS introduces custom functions, which promise to significantly enhance web development by enabling reusable and dynamic style definitions.
+* [Fast New 3D Printing Technique Shines Holograms into Resin](https://hardware.slashdot.org/story/25/03/02/0216225/fast-new-3d-printing-technique-shines-holograms-into-resin?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/03/02/0216225/fast-new-3d-printing-technique-shines-holograms-into-resin?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Fast New 3D Printing Technique Shines Holograms into Resin](https://hardware.slashdot.org/story/25/03/02/0216225/fast-new-3d-printing-technique-shines-holograms-into-resin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking 3D printing technique uses holograms to solidify resin, drastically improving speed and opening new possibilities for manufacturing.
+* [First Petawatt Electron Beam Arrives, Ready To Rip Apart Matter and Space](https://science.slashdot.org/story/25/03/01/1943243/first-petawatt-electron-beam-arrives-ready-to-rip-apart-matter-and-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/03/01/1943243/first-petawatt-electron-beam-arrives-ready-to-rip-apart-matter-and-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Sustainability and Green Tech
+* [27-Year-Old EXE Became Python In Minutes.  Is AI-Assisted Reverse Engineering Next?](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Exponential Spin-up In Geothermal Energy Projects Brings Hope for Green Power](https://hardware.slashdot.org/story/25/03/02/229216/exponential-spin-up-in-geothermal-energy-projects-brings-hope-for-green-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The rapid acceleration of geothermal energy projects offers renewed hope for sustainable and green energy solutions.
+## Space Exploration and Discoveries
 
-* [How Buildings Are Staying Cool and Saving Money - with Batteries Made of Ice](https://hardware.slashdot.org/story/25/03/02/2015220/how-buildings-are-staying-cool-and-saving-money---with-batteries-made-of-ice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative ice-based battery technology is helping buildings reduce energy costs and improve energy efficiency.
+* ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss))
 
-## Cybersecurity and Digital Safety
+* [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html) ([Comments](https://news.ycombinator.com/item?id=43228816))
 
-* [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/) - A large number of IT companies are failing to implement the security.txt specifications for disclosing security information, raising concerns about transparency and security awareness.
+* [Watch 'Blue Ghost' Attempt Its Landing on the Moon](https://science.slashdot.org/story/25/03/02/0425256/watch-blue-ghost-attempt-its-landing-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/03/02/0425256/watch-blue-ghost-attempt-its-landing-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Malicious PyPI Package Exploited Deezer's API, Orchestrates a Distributed Piracy Operation](https://yro.slashdot.org/story/25/03/02/064255/malicious-pypi-package-exploited-deezers-api-orchestrates-a-distributed-piracy-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A PyPI package has been discovered exploiting Deezer’s API to coordinate a wide-reaching piracy operation.
+## Cybersecurity and Software Insights
 
-## Innovations in Space and Science
+* [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss))
 
-* [Watch 'Blue Ghost' Attempt Its Landing on the Moon](https://science.slashdot.org/story/25/03/02/0425256/watch-blue-ghost-attempt-its-landing-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefly Aerospace's 'Blue Ghost' lunar lander achieves a significant milestone in scientific exploration on its journey to the moon.
+* [Malicious PyPI Package Exploited Deezer's API, Orchestrates a Distributed Piracy Operation](https://yro.slashdot.org/story/25/03/02/064255/malicious-pypi-package-exploited-deezers-api-orchestrates-a-distributed-piracy-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/03/02/064255/malicious-pypi-package-exploited-deezers-api-orchestrates-a-distributed-piracy-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [First Petawatt Electron Beam Arrives, Ready To Rip Apart Matter and Space](https://science.slashdot.org/story/25/03/01/1943243/first-petawatt-electron-beam-arrives-ready-to-rip-apart-matter-and-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough in physics delivers the first petawatt electron beam, with far-reaching implications for scientific discoveries in atomic and quantum research.
+* [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/) ([Comments](https://news.ycombinator.com/item?id=43236370))
 
-## Historical and Retro Tech
+* [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security.html) ([Comments](https://lobste.rs/s/6myyvl/principles_for_package_repository))
 
-* [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/) - An exploration of ACCESS.bus, a now-forgotten rival to USB technology, revisits its unique history and functionality.
+## Science and Green Technology
 
-* [Matt's Script Archive (1995)](https://www.scriptarchive.com/) - A nostalgic look at Matt’s Script Archive, a resource pivotal to early web developers in the mid-1990s.
+* ['Exponential Spin-up' In Geothermal Energy Projects Brings Hope for Green Power](https://hardware.slashdot.org/story/25/03/02/229216/exponential-spin-up-in-geothermal-energy-projects-brings-hope-for-green-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/03/02/229216/exponential-spin-up-in-geothermal-energy-projects-brings-hope-for-green-power?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## AI and Computing Challenges
+* [How Buildings Are Staying Cool and Saving Money - with Batteries Made of Ice](https://hardware.slashdot.org/story/25/03/02/2015220/how-buildings-are-staying-cool-and-saving-money---with-batteries-made-of-ice?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/03/02/2015220/how-buildings-are-staying-cool-and-saving-money---with-batteries-made-of-ice?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [What Happened When Conspiracy Theorists Talked to OpenAI's GPT-4 Turbo?](https://slashdot.org/story/25/03/02/183210/what-happened-when-conspiracy-theorists-talked-to-openais-gpt-4-turbo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A surprising case study on how OpenAI’s GPT-4 Turbo engages with scenarios involving conspiracy theories, showcasing the limitations and complexities of conversational AI.
+* [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet) ([Comments](https://news.ycombinator.com/item?id=43234089))
 
-* [27-Year-Old EXE Became Python In Minutes.  Is AI-Assisted Reverse Engineering Next?](https://developers.slashdot.org/story/25/03/01/2211210/27-year-old-exe-became-python-in-minutes-is-ai-assisted-reverse-engineering-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI’s potential in software reverse engineering grows as an old executable program is quickly converted to Python.
+* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss))
+
+## Cultural Highlights and Developments
+
+* [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/) ([Comments](https://news.ycombinator.com/item?id=43237273))
+
+* [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk) ([Comments](https://news.ycombinator.com/item?id=43236520))
+
+* [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html) ([Comments](https://news.ycombinator.com/item?id=43237581))
 
 ---
 
@@ -63,19 +71,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-03, 03:24:07](https://lobste.rs/s/t0lfdl/this_linux_laptop_maker_called_me_zombie) - [This Linux laptop maker called me a Zombie](https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/)
+* [2025-03-03, 02:36:36](https://lobste.rs/s/olaala/mechanically_verified_garbage) - [A Mechanically Verified Garbage Collector for OCaml](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
+* [2025-03-03, 02:34:00](https://linux.slashdot.org/story/25/03/03/0158226/linuxs-marketshare-drops-in-monthly-steam-survey?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux's Marketshare Drops in Monthly Steam Survey](https://linux.slashdot.org/story/25/03/03/0158226/linuxs-marketshare-drops-in-monthly-steam-survey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-03, 02:18:00](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss)
+* [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+* [2025-03-03, 01:30:12](https://news.ycombinator.com/item?id=43237352) - [Losing a 5-year-long Illinois FOIA lawsuit for database schemas](https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html)
+* [2025-03-03, 01:17:46](https://news.ycombinator.com/item?id=43237273) - [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
 * [2025-03-03, 00:31:00](https://mobile.slashdot.org/story/25/03/03/0028222/lenovo-teases-solar-powered-and-foldable-screen-laptops-in-latest-concepts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo Teases Solar-Powered and Foldable-Screen Laptops in Latest Concepts](https://mobile.slashdot.org/story/25/03/03/0028222/lenovo-teases-solar-powered-and-foldable-screen-laptops-in-latest-concepts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 23:39:29](https://news.ycombinator.com/item?id=43236520) - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 * [2025-03-02, 23:29:00](https://news.slashdot.org/story/25/03/02/2327231/trump-names-cryptocurrencies-for-digital-asset-stockpile-in-social-media-post?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Trump Names Cryptocurrencies for 'Digital Asset Stockpile' in Social Media Post](https://news.slashdot.org/story/25/03/02/2327231/trump-names-cryptocurrencies-for-digital-asset-stockpile-in-social-media-post?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 23:21:52](https://news.ycombinator.com/item?id=43236370) - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
-* [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
-* [2025-03-02, 22:33:21](https://news.ycombinator.com/item?id=43235972) - [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/)
 * [2025-03-02, 22:12:00](https://hardware.slashdot.org/story/25/03/02/229216/exponential-spin-up-in-geothermal-energy-projects-brings-hope-for-green-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Exponential Spin-up' In Geothermal Energy Projects Brings Hope for Green Power](https://hardware.slashdot.org/story/25/03/02/229216/exponential-spin-up-in-geothermal-energy-projects-brings-hope-for-green-power?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 21:34:00](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss)
 * [2025-03-02, 21:24:31](https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast) - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](https://www.youtube.com/watch?v=sX2nF1fW7kI)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 20:17:00](https://hardware.slashdot.org/story/25/03/02/2015220/how-buildings-are-staying-cool-and-saving-money---with-batteries-made-of-ice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Buildings Are Staying Cool and Saving Money - with Batteries Made of Ice](https://hardware.slashdot.org/story/25/03/02/2015220/how-buildings-are-staying-cool-and-saving-money---with-batteries-made-of-ice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:22:28](https://lobste.rs/s/6myyvl/principles_for_package_repository) - [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security.html)
@@ -85,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-02, 18:57:19](https://lobste.rs/s/d2ubnt/cleaner_codebase_happier_mind) - [Cleaner codebase, happier mind](https://blog.danieljanus.pl/2025/03/02/cleaner-codebase/)
 * [2025-03-02, 18:34:00](https://slashdot.org/story/25/03/02/183210/what-happened-when-conspiracy-theorists-talked-to-openais-gpt-4-turbo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [What Happened When Conspiracy Theorists Talked to OpenAI's GPT-4 Turbo?](https://slashdot.org/story/25/03/02/183210/what-happened-when-conspiracy-theorists-talked-to-openais-gpt-4-turbo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-02, 18:31:33](https://news.ycombinator.com/item?id=43233420) - [Gödel's theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
-* [2025-03-02, 18:21:04](https://news.ycombinator.com/item?id=43233305) - [olduse.net](https://olduse.net/)
 * [2025-03-02, 18:06:56](https://lobste.rs/s/iqkbym/towards_test_suite_for_totp_codes) - [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
 * [2025-03-02, 18:04:35](https://news.ycombinator.com/item?id=43233143) - [The Pentium contains a complicated circuit to multiply by three](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html)
 * [2025-03-02, 17:40:36](https://news.ycombinator.com/item?id=43232880) - [Speedrunners are vulnerability researchers, they just don't know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
@@ -102,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
 * [2025-03-02, 14:28:07](https://lobste.rs/s/uzr5jt/rackmounting_which_should_not_be) - [Rackmounting that which should not be rackmounted](https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/)
-* [2025-03-02, 14:25:21](https://news.ycombinator.com/item?id=43230790) - [Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media](https://github.com/fingerthief/recommendarr)
 * [2025-03-02, 14:20:44](https://lobste.rs/s/h7jrfg/i_struggled_with_git_so_i_m_making_game) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 14:18:34](https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works) - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
@@ -121,9 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 23:51:00](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Outage Leaves Tens of Thousands Unable to Access Email and Other Apps](https://slashdot.org/story/25/03/01/2348212/microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 22:34:00](https://slashdot.org/story/25/03/01/209255/amd-reveals-rdna-4-gpu-architecture-powering-next-gen-radeon-rx-9070-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AMD Reveals RDNA 4 GPU Architecture Powering Next Gen Radeon RX 9070 Cards](https://slashdot.org/story/25/03/01/209255/amd-reveals-rdna-4-gpu-architecture-powering-next-gen-radeon-rx-9070-cards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 21:49:00](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss) - [SpaceX: Actually, Dying Starlink Satellites Don't Always Fully Burn Up](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss)
-* [2025-03-01, 21:34:00](https://news.slashdot.org/story/25/03/01/2111254/mozilla-revises-firefoxs-terms-of-use-clarifies-that-they-dont-own-your-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Revises Firefox's Terms of Use, Clarifies That They Don't Own Your Data](https://news.slashdot.org/story/25/03/01/2111254/mozilla-revises-firefoxs-terms-of-use-clarifies-that-they-dont-own-your-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-01, 20:58:18](https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
-* [2025-03-01, 19:07:21](https://lobste.rs/s/pul56b/nginx_explorer_upload) - [Nginx Explorer - Upload](https://blog.izissise.net/posts/ngxp-upload/)
 * [2025-03-01, 18:20:43](https://lobste.rs/s/g9uepw/lisp_your_language) - [Lisp in Your Language](https://danthedev.com/lisp-in-your-language)
 * [2025-03-01, 17:01:00](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss) - [Pandas \"Tricked\" Into Becoming the World's Biggest Bamboo Fans](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss)
 * [2025-03-01, 16:02:58](https://lobste.rs/s/m0mwil/hardware_discovery_acpi_device_tree) - [Hardware discovery: ACPI & Device Tree](https://blogsystem5.substack.com/p/hardware-autoconfiguration)
@@ -132,10 +140,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 12:17:00](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss) - [Skype is Shutting Down After Two Decades](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss)
 * [2025-03-01, 08:38:12](https://news.ycombinator.com/item?id=43217309) - [Google does not want rights to things you do using Chrome (2008)](https://www.mattcutts.com/blog/google-chrome-license-agreement/)
 * [2025-03-01, 07:36:00](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) - [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
-* [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
 * [2025-03-01, 02:53:00](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss) - [Internet Society Wants to Improve Terrestrial Fibre Maps](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-28, 22:05:00](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss) - [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss)
+* [2025-02-28, 20:59:07](https://news.ycombinator.com/item?id=43210710) - [A Few of the Birds I Love](https://moultano.wordpress.com/2024/05/03/a-few-of-the-birds-i-love/)
 * [2025-02-28, 17:17:00](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss) - [US Investigates Whether Deepseek Obtained NVidia Chips Through Singapore to Bypass Restrictions](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss)
 * [2025-02-28, 15:55:11](https://news.ycombinator.com/item?id=43207040) - [Imec demonstrates electrical yield for 20nm lines High NA EUV single patterning](https://www.imec-int.com/en/press/imec-demonstrates-electrical-yield-20nm-pitch-metal-lines-obtained-high-na-euv-single)
 * [2025-02-28, 15:06:50](https://news.ycombinator.com/item?id=43206417) - [Kaspersky exposes hidden malware on GitHub stealing personal data](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
@@ -148,6 +156,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-02-27, 21:24:50](https://news.ycombinator.com/item?id=43198678) - [Evidence that our ancestors lived in rainforests 150k years ago](https://www.sheffield.ac.uk/news/scientists-find-earliest-evidence-our-ancestors-lived-rainforests-150000-years-ago)
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 17:35:00](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss) - [Robot With 1,000 Muscles Twitches Like Human While Dangling From Ceiling](https://soylentnews.org/article.pl?sid=25/02/26/1856235&from=rss)
+* [2025-02-27, 13:36:10](https://news.ycombinator.com/item?id=43194234) - [Morphing robot turns challenging terrain to its advantage](https://actu.epfl.ch/news/morphing-robot-turns-challenging-terrain-to-its--2/)
 * [2025-02-27, 12:51:00](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss) - [Physx Feature Unlocked For RTX 5090 With RTX 3050 'Helper' To Enable Full Performance](https://soylentnews.org/article.pl?sid=25/02/26/1852225&from=rss)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 * [2025-02-27, 08:08:00](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss) - [Bubbles That Break Rules: A Fluid Discovery That Defies Logic](https://soylentnews.org/article.pl?sid=25/02/26/1850240&from=rss)
