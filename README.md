@@ -2,55 +2,41 @@
 
 ## Technology and Innovation
 
-* [NASA Photo Captures Sound Barrier Being Broken](https://science.slashdot.org/story/25/03/03/2346245/nasa-photo-captures-sound-barrier-being-broken?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking image from NASA showcases the dramatic moment a sound barrier is broken.
+* [NASA Photo Captures Sound Barrier Being Broken](https://science.slashdot.org/story/25/03/03/2346245/nasa-photo-captures-sound-barrier-being-broken?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking photograph by NASA captures the dramatic moment of breaking the sound barrier, offering new insights into aerodynamics and engineering.
 
-* [Driverless Race Car Sets a New Autonomous Speed Record](https://tech.slashdot.org/story/25/03/03/2213252/driverless-race-car-sets-a-new-autonomous-speed-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A monumental step for autonomous vehicles as a driverless race car secures a new speed record.
+* [Driverless Race Car Sets a New Autonomous Speed Record](https://tech.slashdot.org/story/25/03/03/2213252/driverless-race-car-sets-a-new-autonomous-speed-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Autonomous vehicle technology reaches new heights with a record-breaking speed by a driverless race car, paving the way for future innovations.
 
-* [Google Play Is Going To Start Highlighting Apps With Widgets](https://devices.slashdot.org/story/25/03/03/238215/google-play-is-going-to-start-highlighting-apps-with-widgets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google announces a shift to emphasize widget-supporting apps in its Play Store to enhance user experience.
+* [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked) - A data-driven analysis shows combustion engine car sales have peaked globally, marking the shift toward electric and alternative energy vehicles.
 
-* [The Fibrovisor: Turning a dollar store fibre optic wand into a low resolution display](https://www.youtube.com/watch?v=zz59e1wWyVc) - An innovation that repurposes accessible materials into functional, creative technology.
+## Artificial Intelligence and Cybersecurity
 
-* [The Cocaine Files](https://www.cbc.ca/newsinteractives/features/the-cocaine-files) - An investigative report delving into a global cocaine trade with wide-reaching implications.
+* [Researchers Find Less-Educated Areas Adopting AI Writing Tools Faster](https://news.slashdot.org/story/25/03/03/2327219/researchers-find-less-educated-areas-adopting-ai-writing-tools-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research uncovers a surprising trend of faster adoption of AI writing tools in less-educated regions, revealing shifting technology usage patterns.
 
-## Science and Space Exploration
+* [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/) - A study investigating the prevalence and characteristics of automated parasitic behavior in digital communities introduces the 'Botfly Test.'
 
-* ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - The James Webb Telescope reveals stunning images as two alien planets appear to disintegrate.
+* [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - A new and elusive Linux backdoor called 'Auto-Color' raises alarms in the cybersecurity community, highlighting vulnerabilities in open-source systems.
 
-* [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - Advancements in material science may revolutionize future space missions.
+## Scientific Discoveries and Research
 
-* [U.S. Company Firefly Aerospace Just Landed On The Moon With Its Blue Ghost Spacecraft](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss) - Firefly Aerospace achieves a landmark in lunar exploration with its successful Moon landing.
+* [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - A superelastic alloy capable of withstanding extreme conditions has potential applications in space exploration and advanced engineering.
 
-## Software and Cybersecurity
+* [Two Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - Observations from the James Webb Telescope reveal two exoplanets breaking apart, providing rare data about planetary evolution.
 
-* [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6) - A caution to developers about potential risks of running commands in potentially malicious projects.
+* [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - Scientists develop a piezoelectric catalyst capable of destroying persistent 'forever chemicals,' offering a step toward environmental detoxification.
 
-* [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547) - A detailed exploration of the capabilities and challenges of modern JIT compilers.
+## Ethics and Society
 
-* [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - A warning regarding a new type of malware targeting certain Linux systems.
+* [Call Centers Using AI To 'Whiten' Indian Accents](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The AI-driven alteration of call center operators' accents sparks debates over cultural representation and technological ethics.
 
-## Sustainability and Automotive Industry
+* [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org) - A new initiative seeks to recover and republish missing public health data, addressing the transparency crisis in the CDC.
 
-* [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked) - A pivotal moment in environmental progress as data shows decreased reliance on traditional combustion engine vehicles.
+* [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss) - A closer look into whether water chlorination processes are potentially contributing to cancer risk.
 
-* [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/) - An innovative product designed with repairability at its core, reducing waste and promoting sustainability.
+## Gaming and Hardware
 
-## Artificial Intelligence and Ethics
+* [Hacking the Xbox 360 Hypervisor Part 1: System Overview](https://icode4.coffee/?p=1047) - Part one of a deep dive into the Xbox 360 hypervisor hacks, unraveling technical aspects of the system's security features.
 
-* [Microsoft Unveils New Voice-Activated AI Assistant For Doctors](https://slashdot.org/story/25/03/03/227225/microsoft-unveils-new-voice-activated-ai-assistant-for-doctors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft announces a transformative AI tool aimed at streamlining medical tasks for healthcare professionals.
-
-* [Call Centers Using AI To 'Whiten' Indian Accents](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A controversial report discusses the ethical implications of accent-neutralizing AI.
-
-## Economic and Geopolitical Insights
-
-* [US To Halt Offensive Cyber Operations Against Russia](https://it.slashdot.org/story/25/03/03/2247209/us-to-halt-offensive-cyber-operations-against-russia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A strategic shift as the US temporarily suspends its offensive cyber measures against Russia.
-
-* [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/) - A deep dive into the economic strategies that have significantly impacted the U.K.'s prosperity.
-
-## Cultural and Historical Perspectives
-
-* [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/) - An insightful piece connecting the classic film and novel with the world of Frank Herbert's 'Dune.'
-
-* [Bernd das Brot, a depressed German loaf of bread](https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d) - A quirky yet poignant story spotlighting a unique German cultural icon.
+* [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6) - Developers are warned against running Cargo commands on untrusted projects due to potential security vulnerabilities.
 
 ---
 
@@ -77,13 +63,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-04, 03:30:00](https://news.slashdot.org/story/25/03/03/2327219/researchers-find-less-educated-areas-adopting-ai-writing-tools-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Find Less-Educated Areas Adopting AI Writing Tools Faster](https://news.slashdot.org/story/25/03/03/2327219/researchers-find-less-educated-areas-adopting-ai-writing-tools-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-04, 02:58:04](https://lobste.rs/s/dperqz/hacking_xbox_360_hypervisor_part_1_system) - [Hacking the Xbox 360 Hypervisor Part 1: System Overview](https://icode4.coffee/?p=1047)
+* [2025-03-04, 02:00:00](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss) - [The Next Chapter: Moving From Skype to Microsoft Teams](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss)
 * [2025-03-04, 01:30:00](https://science.slashdot.org/story/25/03/03/2346245/nasa-photo-captures-sound-barrier-being-broken?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Photo Captures Sound Barrier Being Broken](https://science.slashdot.org/story/25/03/03/2346245/nasa-photo-captures-sound-barrier-being-broken?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+* [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+* [2025-03-04, 01:19:39](https://lobste.rs/s/eluli7/botfly_test_characterizing_parasitic) - [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/)
 * [2025-03-04, 00:50:00](https://devices.slashdot.org/story/25/03/03/238215/google-play-is-going-to-start-highlighting-apps-with-widgets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Play Is Going To Start Highlighting Apps With Widgets](https://devices.slashdot.org/story/25/03/03/238215/google-play-is-going-to-start-highlighting-apps-with-widgets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-04, 00:44:04](https://lobste.rs/s/4sfqtn/you_need_much_less_memory_than_time) - [You Need Much Less Memory than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-03-04, 00:31:01](https://lobste.rs/s/4bxwnl/do_not_run_any_cargo_commands_on_untrusted) - [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6)
 * [2025-03-04, 00:28:46](https://news.ycombinator.com/item?id=43248610) - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
 * [2025-03-04, 00:10:00](https://it.slashdot.org/story/25/03/03/2247209/us-to-halt-offensive-cyber-operations-against-russia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US To Halt Offensive Cyber Operations Against Russia](https://it.slashdot.org/story/25/03/03/2247209/us-to-halt-offensive-cyber-operations-against-russia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
+* [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 * [2025-03-03, 23:30:00](https://tech.slashdot.org/story/25/03/03/2213252/driverless-race-car-sets-a-new-autonomous-speed-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Driverless Race Car Sets a New Autonomous Speed Record](https://tech.slashdot.org/story/25/03/03/2213252/driverless-race-car-sets-a-new-autonomous-speed-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 22:56:01](https://lobste.rs/s/gvv27u/globstar_open_source_static_analysis) - [globstar — open-source static analysis toolkit for writing code checkers in YAML and GO](https://github.com/DeepSourceCorp/globstar)
 * [2025-03-03, 22:50:00](https://slashdot.org/story/25/03/03/227225/microsoft-unveils-new-voice-activated-ai-assistant-for-doctors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Unveils New Voice-Activated AI Assistant For Doctors](https://slashdot.org/story/25/03/03/227225/microsoft-unveils-new-voice-activated-ai-assistant-for-doctors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -97,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 20:50:00](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Call Centers Using AI To 'Whiten' Indian Accents](https://slashdot.org/story/25/03/03/2029218/call-centers-using-ai-to-whiten-indian-accents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 20:11:00](https://news.slashdot.org/story/25/03/03/2011256/the-us-cities-whose-workers-are-most-exposed-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The US Cities Whose Workers Are Most Exposed to AI](https://news.slashdot.org/story/25/03/03/2011256/the-us-cities-whose-workers-are-most-exposed-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
-* [2025-03-03, 19:44:23](https://lobste.rs/s/hwrcyg/why_i_don_t_do_domain_driven_design) - [Why I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2025-03-03, 19:01:04](https://lobste.rs/s/n7alkh/polars_rgonomic_patterns) - [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 * [2025-03-03, 18:45:42](https://news.ycombinator.com/item?id=43245235) - [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
@@ -106,10 +96,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 18:07:34](https://lobste.rs/s/6wj9mi/hacking_xbox_360_hypervisor_part_2_bad) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:00:57](https://news.ycombinator.com/item?id=43244680) - [Chrome Returns 206 when the Server Returns 403](https://aoli.al/blogs/chrome-bug/)
-* [2025-03-03, 17:48:57](https://news.ycombinator.com/item?id=43244549) - [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
 * [2025-03-03, 17:45:25](https://lobste.rs/s/zonvms/when_declarative_systems_break) - [When declarative systems break](https://interjectedfuture.com/when-declarative-systems-break/)
 * [2025-03-03, 17:40:00](https://news.slashdot.org/story/25/03/03/1740212/waiting-for-the-paperback-good-luck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Waiting For the Paperback? Good Luck.](https://news.slashdot.org/story/25/03/03/1740212/waiting-for-the-paperback-good-luck?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
+* [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
 * [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database smaller](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
@@ -117,6 +106,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 17:00:13](https://news.ycombinator.com/item?id=43243859) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles)](https://www.keelinglabs.com/jobs)
 * [2025-03-03, 16:52:00](https://news.slashdot.org/story/25/03/03/1652255/graduates-from-top-mba-programs-are-struggling-to-land-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Graduates From Top MBA Programs Are Struggling To Land Jobs](https://news.slashdot.org/story/25/03/03/1652255/graduates-from-top-mba-programs-are-struggling-to-land-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 16:51:33](https://news.ycombinator.com/item?id=43243716) - [The Golden Age of Japanese Pencils, 1952-1967 (2022)](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
+* [2025-03-03, 16:40:34](https://news.ycombinator.com/item?id=43243580) - [TSMC expected to announce $100B investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399)
 * [2025-03-03, 16:38:50](https://news.ycombinator.com/item?id=43243549) - [Go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 * [2025-03-03, 16:37:00](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss) - [U.S. Company Firefly Aerospace Just Landed On The Moon With Its Blue Ghost Spacecraft](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss)
 * [2025-03-03, 16:06:50](https://news.ycombinator.com/item?id=43243109) - [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
@@ -128,7 +118,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 15:29:00](https://tech.slashdot.org/story/25/03/03/1529214/lenovos-thinkbook-flip-puts-an-extra-tall-folding-display-on-a-laptop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lenovo's ThinkBook Flip Puts an Extra-Tall Folding Display On a Laptop](https://tech.slashdot.org/story/25/03/03/1529214/lenovos-thinkbook-flip-puts-an-extra-tall-folding-display-on-a-laptop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 14:47:02](https://lobste.rs/s/5ltsh1/why_can_t_we_screenshot_frames_from_drm) - [Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
-* [2025-03-03, 14:40:00](https://entertainment.slashdot.org/story/25/03/03/1424248/how-many-episodes-should-you-watch-before-quitting-a-tv-show-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Many Episodes Should You Watch Before Quitting a TV Show? A Statistical Analysis](https://entertainment.slashdot.org/story/25/03/03/1424248/how-many-episodes-should-you-watch-before-quitting-a-tv-show-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 11:50:00](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss)
 * [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hatetris_obsession_friendship_world) - [HATETRIS - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
@@ -136,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
 * [2025-03-03, 10:45:57](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week)
 * [2025-03-03, 10:25:59](https://lobste.rs/s/paedv4/see_yourself_at_runtime) - [See yourself, at runtime](https://ryelang.org/blog/posts/see-yourself-at-runtime/)
-* [2025-03-03, 09:36:17](https://lobste.rs/s/kqohku/basic_awareness_addition_deep) - [Basic Awareness in Addition to Deep Understanding](https://www.openmymind.net/Basic-Awareness-In-Addition-To-Deep-Understanding/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss) - [The Surveillance Tech Waiting for Workers as They Return to the Office](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss)
@@ -145,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-03, 02:18:00](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss)
 * [2025-03-02, 21:34:00](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
-* [2025-03-02, 18:57:19](https://lobste.rs/s/d2ubnt/cleaner_codebase_happier_mind) - [Cleaner codebase, happier mind](https://blog.danieljanus.pl/2025/03/02/cleaner-codebase/)
 * [2025-03-02, 16:48:00](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss) - [Avast Antivirus Customers Can be Compensated for Harvesting of Their Personal Info](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss)
 * [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
@@ -158,12 +145,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-01, 17:01:00](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss) - [Pandas \"Tricked\" Into Becoming the World's Biggest Bamboo Fans](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss)
 * [2025-03-01, 12:17:00](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss) - [Skype is Shutting Down After Two Decades](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss)
 * [2025-03-01, 07:36:00](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) - [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
-* [2025-03-01, 04:50:15](https://news.ycombinator.com/item?id=43216043) - [The Nabataeans Are Coming](https://www.historytoday.com/archive/behind-times/nabataeans-are-coming)
 * [2025-03-01, 02:53:00](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss) - [Internet Society Wants to Improve Terrestrial Fibre Maps](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss)
+* [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
 * [2025-02-28, 22:05:00](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss) - [Water Chlorination Might Be Raising Our Risk Of Certain Cancers](https://soylentnews.org/article.pl?sid=25/02/28/0647213&from=rss)
+* [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
 * [2025-02-28, 17:17:00](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss) - [US Investigates Whether Deepseek Obtained NVidia Chips Through Singapore to Bypass Restrictions](https://soylentnews.org/article.pl?sid=25/02/28/0643220&from=rss)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
-* [2025-02-28, 13:52:53](https://news.ycombinator.com/item?id=43205563) - [Bernd das Brot, a depressed German loaf of bread](https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d)
 * [2025-02-28, 12:32:00](https://soylentnews.org/article.pl?sid=25/02/28/0640209&from=rss) - [PSA: Amazon Kills “Download & Transfer Via USB” Option for Kindles This Week](https://soylentnews.org/article.pl?sid=25/02/28/0640209&from=rss)
 * [2025-02-28, 07:47:00](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss) - [NASA's James Webb Space Telescope Faces Potential 20% Budget Cut Just 4 Years Into its Mission](https://soylentnews.org/article.pl?sid=25/02/27/1641235&from=rss)
 * [2025-02-28, 03:05:00](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss) - [Piezoelectric Catalyst Destroys Forever Chemicals](https://soylentnews.org/article.pl?sid=25/02/27/1633200&from=rss)
