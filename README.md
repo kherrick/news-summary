@@ -1,48 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Innovations
+## Technology and Development
 
-* [Users Report Emotional Bonds With Startlingly Realistic AI Voice Demo](https://slashdot.org/story/25/03/05/0057216/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration into users forging emotional connections with advanced AI voice simulations.
+* [Trigon: developing a deterministic kernel exploit for iOS](https://alfiecg.uk/2025/03/01/Trigon.html) ([comments](https://lobste.rs/s/it1b5w/trigon_developing_deterministic_kernel))
 
-* [Judges Are Fed Up With Lawyers Using AI That Hallucinate Court Cases](https://yro.slashdot.org/story/25/03/04/2139203/judges-are-fed-up-with-lawyers-using-ai-that-hallucinate-court-cases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Courts grow frustrated with the increasing reliance on AI tools that generate erroneous case citations.
+* [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html) ([comments](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes))
 
-* [Opera Adds an Automated AI Agent To Its Browser](https://slashdot.org/story/25/03/04/2158224/opera-adds-an-automated-ai-agent-to-its-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Opera browser introduces an integrated AI assistant, signaling a new era for productivity and browsing.
+* [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/) ([comments](https://news.ycombinator.com/item?id=43261729))
 
-## Scientific and Historical Discoveries
+* [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/) ([comments](https://news.ycombinator.com/item?id=43262510))
 
-* [Ancient Humans Evolved New Blood Types After Leaving Africa](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss) - Study uncovers evolutionary adaptations in human blood type post-migration from Africa.
+* [Answer Set Programming 01 | Just the Facts](https://team.charmiq.ai/@surfacetension/building-blocks/asp-01-just-the-facts) ([comments](https://lobste.rs/s/gz90fx/answer_set_programming_01_just_facts))
 
-* [20,000-Year-Old Evidence of Ancient Travois (Sled) Discovered in New Mexico](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss) - Archaeological discovery sheds light on ancient transportation innovations.
+* [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new) ([comments](https://news.ycombinator.com/item?id=43258585))
 
-* [Man's Brain Turned to Glass by Vesuvius Volcano Ash Cloud](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss) - A unique case of volcanic preservation reveals new insights on historical human disasters.
+* [Enhancing Air Traffic Safety: Enhanced Radar Launch](https://news.ycombinator.com/item?id=43257323) ([comments](https://news.ycombinator.com/item?id=43257323))
 
-## Environmental and Space Research
+## Scientific Discoveries and Innovation
 
-* [DARPA exploring growing bio structures of "unprecedented size" in microgravity](https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view) - Exploring the possibilities of biological manufacturing in the weightlessness of space.
+* [China May Be Ready to Use Nuclear Fusion for Power by 2050](https://hardware.slashdot.org/story/25/03/05/011226/china-may-be-ready-to-use-nuclear-fusion-for-power-by-2050?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/03/05/011226/china-may-be-ready-to-use-nuclear-fusion-for-power-by-2050?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [NASA is Watching a Vast, Growing Anomaly in Earth's Magnetic Field](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss) - Ongoing observation of shifts in Earth's magnetic field reveals unusual anomalies.
+* [Man's Brain Turned to Glass by Vesuvius Volcano Ash Cloud](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss))
 
-* [James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201) - Astronomers capture unprecedented destruction of exoplanets.
+* [Scientists Create 'Woolly Mice'](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Technology and Hardware Updates
+* [NASA is Watching a Vast, Growing Anomaly in Earth's Magnetic Field](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss))
 
-* [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7) - End of life announced for a legacy desktop publishing software.
+## Artificial Intelligence and Ethics
 
-* [Firefox 136 Released With Vertical Tabs, Official ARM64 Linux Binaries](https://news.slashdot.org/story/25/03/04/2215249/firefox-136-released-with-vertical-tabs-official-arm64-linux-binaries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefox introduces a vertical tab feature and Linux ARM64 support in its latest release.
+* [Users Report Emotional Bonds With Startlingly Realistic AI Voice Demo](https://slashdot.org/story/25/03/05/0057216/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/03/05/0057216/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Apple Unveils iPad Air With M3 Chip](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple reveals a new iPad Air featuring the advanced M3 processor.
+* [Judges Are Fed Up With Lawyers Using AI That Hallucinate Court Cases](https://yro.slashdot.org/story/25/03/04/2139203/judges-are-fed-up-with-lawyers-using-ai-that-hallucinate-court-cases?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/03/04/2139203/judges-are-fed-up-with-lawyers-using-ai-that-hallucinate-court-cases?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Gaming and Entertainment
+* [YouTube Warns Creators an AI-Generated Video of Its CEO is Being Used For Phishing Scams](https://news.slashdot.org/story/25/03/04/220243/youtube-warns-creators-an-ai-generated-video-of-its-ceo-is-being-used-for-phishing-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/04/220243/youtube-warns-creators-an-ai-generated-video-of-its-ceo-is-being-used-for-phishing-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Cult Text-Based Zombie MMO 'Urban Dead' Is Shutting Down After 20 Years](https://games.slashdot.org/story/25/03/05/0036212/cult-text-based-zombie-mmo-urban-dead-is-shutting-down-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Iconic text-based MMO 'Urban Dead' will cease operations after two decades.
+## History and Anthropology
 
-* [TCL Overtakes LG To Become Second-largest Premium TV Brand](https://entertainment.slashdot.org/story/25/03/05/0027211/tcl-overtakes-lg-to-become-second-largest-premium-tv-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed) - TCL now ranks as the second-largest premium TV brand globally.
+* [Ancient Humans Evolved New Blood Types After Leaving Africa](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss))
 
-## Cybersecurity and Digital Ethics
+* [20,000-Year-Old Evidence of Ancient Travois (Sled) Discovered in New Mexico](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss))
 
-* [YouTube Warns Creators an AI-Generated Video of Its CEO is Being Used For Phishing Scams](https://news.slashdot.org/story/25/03/04/220243/youtube-warns-creators-an-ai-generated-video-of-its-ceo-is-being-used-for-phishing-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Phishing attempts rise as scammers use AI-generated deepfake videos.
+* [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3) ([comments](https://news.ycombinator.com/item?id=43218724))
 
-* [Brother accused of locking down third-party printer ink cartridges](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals) - Brother faces backlash over disabling third-party ink in their printers.
+## Software and Security
+
+* [A Map of Python](https://fi-le.net/pypi/) ([comments](https://lobste.rs/s/f7c9bm/map_python))
+
+* [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/) ([comments](https://news.ycombinator.com/item?id=43262188))
+
+* [Brother Accused of Locking Down Third-Party Printer Ink Cartridges Via Forced Firmware Updates](https://hardware.slashdot.org/story/25/03/04/2151220/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-forced-firmware-updates?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43261933))
+
+* [New Linux Backdoor: Auto-Color](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss))
 
 ---
 
@@ -69,14 +77,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-05, 09:47:07](https://lobste.rs/s/it1b5w/trigon_developing_deterministic_kernel) - [Trigon: developing a deterministic kernel exploit for iOS](https://alfiecg.uk/2025/03/01/Trigon.html)
+* [2025-03-05, 09:13:29](https://lobste.rs/s/qjsefo/bad_apple_it_s_ssh_keys) - [bad apple but it's ssh keys](https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/)
+* [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
+* [2025-03-05, 08:03:31](https://lobste.rs/s/odepe5/plea_for_more_mikado_software) - [A Plea for more Mikado - Software Engineering and Stuff](https://dmathieu.com/en/opinions/mikado/)
+* [2025-03-05, 07:00:00](https://hardware.slashdot.org/story/25/03/05/011226/china-may-be-ready-to-use-nuclear-fusion-for-power-by-2050?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China May Be Ready to Use Nuclear Fusion for Power by 2050](https://hardware.slashdot.org/story/25/03/05/011226/china-may-be-ready-to-use-nuclear-fusion-for-power-by-2050?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 06:44:46](https://lobste.rs/s/f7c9bm/map_python) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-05, 06:17:00](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss) - [Ancient Humans Evolved New Blood Types After Leaving Africa](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss)
 * [2025-03-05, 04:19:16](https://lobste.rs/s/m7gwia/as_code) - [\"As Code\"](https://mitchellh.com/writing/as-code)
-* [2025-03-05, 03:45:46](https://news.ycombinator.com/item?id=43262468) - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
+* [2025-03-05, 03:50:21](https://news.ycombinator.com/item?id=43262510) - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
 * [2025-03-05, 03:30:00](https://slashdot.org/story/25/03/05/0057216/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Users Report Emotional Bonds With Startlingly Realistic AI Voice Demo](https://slashdot.org/story/25/03/05/0057216/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 03:12:50](https://lobste.rs/s/6645g0/netbsd_on_javastation) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
 * [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
-* [2025-03-05, 02:58:47](https://news.ycombinator.com/item?id=43262093) - [The Nightmare Bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 * [2025-03-05, 02:51:17](https://news.ycombinator.com/item?id=43262044) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 * [2025-03-05, 02:35:47](https://news.ycombinator.com/item?id=43261941) - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
 * [2025-03-05, 02:34:47](https://news.ycombinator.com/item?id=43261933) - [Brother accused of locking down third-party printer ink cartridges](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
@@ -89,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-05, 01:33:00](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss) - [Man's Brain Turned to Glass by Vesuvius Volcano Ash Cloud](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss)
 * [2025-03-05, 01:31:22](https://news.ycombinator.com/item?id=43261600) - [Tmux – The Essentials (2019)](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
 * [2025-03-05, 01:00:00](https://news.slashdot.org/story/25/03/04/2215249/firefox-136-released-with-vertical-tabs-official-arm64-linux-binaries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefox 136 Released With Vertical Tabs, Official ARM64 Linux Binaries](https://news.slashdot.org/story/25/03/04/2215249/firefox-136-released-with-vertical-tabs-official-arm64-linux-binaries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-05, 00:45:52](https://news.ycombinator.com/item?id=43261327) - [The Dead Planet Theory](https://arealsociety.substack.com/p/the-dead-planet-theory)
 * [2025-03-05, 00:38:25](https://lobste.rs/s/i0c3bz/bayleaf_building_low_profile_wireless) - [Bayleaf: Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-05, 00:20:00](https://news.slashdot.org/story/25/03/04/220243/youtube-warns-creators-an-ai-generated-video-of-its-ceo-is-being-used-for-phishing-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [YouTube Warns Creators an AI-Generated Video of Its CEO is Being Used For Phishing Scams](https://news.slashdot.org/story/25/03/04/220243/youtube-warns-creators-an-ai-generated-video-of-its-ceo-is-being-used-for-phishing-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 23:48:16](https://lobste.rs/s/cbytov/lean_4_release_v4_17_0) - [Lean 4, release v4.17.0](https://github.com/leanprover/lean4/releases/tag/v4.17.0)
@@ -117,10 +128,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-04, 17:16:13](https://news.ycombinator.com/item?id=43257473) - [DARPA exploring growing bio structures of \"unprecedented size\" in microgravity](https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view)
 * [2025-03-04, 17:08:22](https://lobste.rs/s/1xdrzu/hierarchy_hazard_controls) - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
-* [2025-03-04, 16:56:44](https://lobste.rs/s/7pc24z/triangle_separation) - [Triangle of Separation](https://thoughtbot.com/blog/triangle-of-separation)
 * [2025-03-04, 16:40:00](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Create 'Woolly Mice'](https://science.slashdot.org/story/25/03/04/1624239/scientists-create-woolly-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 16:07:00](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss) - [20,000-Year-Old Evidence of Ancient Travois (Sled) Discovered in New Mexico](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss)
-* [2025-03-04, 16:00:00](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Unveils iPad Air With M3 Chip](https://apple.slashdot.org/story/25/03/04/1552204/apple-unveils-ipad-air-with-m3-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:51:36](https://lobste.rs/s/6f8cww/web_should_be_conversation) - [The Web Should Be A Conversation](https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html)
 * [2025-03-04, 15:42:38](https://lobste.rs/s/hkei82/hue_tools_open_source_toolbox_for_colors) - [hue.tools: An open source toolbox for colors](https://hue.tools/)
@@ -128,36 +137,35 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Show HN: Bayleaf – Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:24:54](https://lobste.rs/s/cpro2r/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about languages](https://www.lexiconista.com/falsehoods-about-languages/)
 * [2025-03-04, 14:24:49](https://news.ycombinator.com/item?id=43254995) - [What a crab sees before it gets eaten by a cuttlefish](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html)
+* [2025-03-04, 13:35:12](https://news.ycombinator.com/item?id=43254351) - [Show HN: Fork of Claude-code working with local and other LLM providers](https://github.com/dnakov/anon-kode)
 * [2025-03-04, 11:59:43](https://lobste.rs/s/b5buoi/tigerbeetle_architecture) - [TigerBeetle Architecture](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md)
 * [2025-03-04, 11:48:07](https://lobste.rs/s/ifpjdh/avoid_nightmare_bicycle) - [Avoid the nightmare bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 * [2025-03-04, 11:26:00](https://soylentnews.org/article.pl?sid=25/03/03/1239241&from=rss) - [YR4 Asteroid: The Hits and Near-Misses You Never Hear About](https://soylentnews.org/article.pl?sid=25/03/03/1239241&from=rss)
 * [2025-03-04, 06:40:00](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss) - [NASA is Watching a Vast, Growing Anomaly in Earth's Magnetic Field](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss)
-* [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 02:00:00](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss) - [The Next Chapter: Moving From Skype to Microsoft Teams](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss)
-* [2025-03-04, 00:31:01](https://lobste.rs/s/4bxwnl/do_not_run_any_cargo_commands_on_untrusted) - [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6)
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 21:17:00](https://soylentnews.org/article.pl?sid=25/03/02/1651205&from=rss) - [A New Android Feature is Scanning Your Photos for 'Sensitive Content'](https://soylentnews.org/article.pl?sid=25/03/02/1651205&from=rss)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
+* [2025-03-03, 18:26:42](https://news.ycombinator.com/item?id=43245003) - [Remembering Duane Blehm](https://www.engineersneedart.com/blog/duane/duane.html)
 * [2025-03-03, 16:37:00](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss) - [U.S. Company Firefly Aerospace Just Landed On The Moon With Its Blue Ghost Spacecraft](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss)
 * [2025-03-03, 15:18:22](https://news.ycombinator.com/item?id=43242551) - [Show HN: Open-source Deep Research across workplace applications](https://github.com/onyx-dot-app/onyx)
 * [2025-03-03, 11:50:00](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss)
-* [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss) - [The Surveillance Tech Waiting for Workers as They Return to the Office](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss)
 * [2025-03-03, 02:18:00](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss)
 * [2025-03-02, 21:34:00](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss)
 * [2025-03-02, 16:48:00](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss) - [Avast Antivirus Customers Can be Compensated for Harvesting of Their Personal Info](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss)
-* [2025-03-02, 16:41:09](https://news.ycombinator.com/item?id=43232188) - [An small microbial ecosystem has formed on the International Space Station](https://arstechnica.com/science/2025/03/the-space-station-is-nearly-as-microbe-free-as-an-isolation-ward/)
 * [2025-03-02, 14:05:08](https://news.ycombinator.com/item?id=43230600) - [The Ancient Art of Color](https://worldhistory.substack.com/p/the-ancient-art-of-color)
 * [2025-03-02, 12:44:16](https://news.ycombinator.com/item?id=43229935) - [Study of cockatoo Snowball suggests humans aren't the only ones who can dance](https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/)
 * [2025-03-02, 12:02:00](https://soylentnews.org/article.pl?sid=25/03/01/1515217&from=rss) - [Journalist Completely Misrepresents Quantum Teleportation](https://soylentnews.org/article.pl?sid=25/03/01/1515217&from=rss)
 * [2025-03-02, 07:14:00](https://soylentnews.org/article.pl?sid=25/03/01/155219&from=rss) - [Chinese Chipmaker Claims New Loongson 3B6600 CPU Could Hit 13Th-Gen Intel Performance](https://soylentnews.org/article.pl?sid=25/03/01/155219&from=rss)
 * [2025-03-02, 02:31:00](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss) - [Engineers Create Lightweight Multi-Color Fresnel Lens for Telescopes](https://soylentnews.org/article.pl?sid=25/03/01/152214&from=rss)
+* [2025-03-02, 02:27:51](https://news.ycombinator.com/item?id=43226546) - [The INTERNET is killing old PC hardware [video]](https://www.youtube.com/watch?v=TE_ePuGAvPM)
 * [2025-03-01, 21:49:00](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss) - [SpaceX: Actually, Dying Starlink Satellites Don't Always Fully Burn Up](https://soylentnews.org/article.pl?sid=25/03/01/0115227&from=rss)
 * [2025-03-01, 21:36:14](https://news.ycombinator.com/item?id=43223930) - [BMW Group Product Catalog–Historic Models](https://www.bmwgroup-classic.com/en/history/historic-modeloverview-bmw.html)
 * [2025-03-01, 17:01:00](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss) - [Pandas \"Tricked\" Into Becoming the World's Biggest Bamboo Fans](https://soylentnews.org/article.pl?sid=25/03/01/0055211&from=rss)
+* [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
 * [2025-03-01, 12:17:00](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss) - [Skype is Shutting Down After Two Decades](https://soylentnews.org/article.pl?sid=25/03/01/0049207&from=rss)
 * [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 07:36:00](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss) - [Five Days of Ultra-Processed Food: Study Finds That's Enough to Alter the Brain](https://soylentnews.org/article.pl?sid=25/02/28/0659242&from=rss)
-* [2025-03-01, 07:17:53](https://news.ycombinator.com/item?id=43216785) - [TurboWarp – Run Scratch projects faster](https://turbowarp.org)
 * [2025-03-01, 02:53:00](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss) - [Internet Society Wants to Improve Terrestrial Fibre Maps](https://soylentnews.org/article.pl?sid=25/02/28/0654225&from=rss)
