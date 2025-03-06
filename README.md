@@ -1,48 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology
+## Technology and Innovation
 
-* [Goldman Sachs: Why AI Spending Is Not Boosting GDP](https://slashdot.org/story/25/03/06/0619224/goldman-sachs-why-ai-spending-is-not-boosting-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring why increased investment in AI may not correspond to GDP growth.
+* [The case of the vanishing CPU: A Linux kernel debugging story](https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story) - A fascinating look into troubleshooting disappearing CPU issues in the Linux Kernel. [Comments](https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel)
 
-* [Amazon Tests AI Dubbing on Prime Video Movies, Series](https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon's implementation of AI-based dubbing for its streaming content.
+* [Revolt: Open-Source Alternative to Discord](https://revolt.chat) - Open-source team communication app offers an alternative to Discord. [Comments](https://news.ycombinator.com/item?id=43277918)
 
-* [Google is Adding More AI Overviews and a New 'AI Mode' To Search](https://tech.slashdot.org/story/25/03/05/1944216/google-is-adding-more-ai-overviews-and-a-new-ai-mode-to-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's advancements in integrating AI into search functionalities.
+* [xdg-ninja: A shell script which checks your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja) - A tool to keep your home directory clean and organized. [Comments](https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your)
 
-* [OpenAI Plots Charging $20,000 a Month For PhD-Level Agents](https://slashdot.org/story/25/03/05/1559207/openai-plots-charging-20000-a-month-for-phd-level-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI considers pricing for high-level AI agents aimed at research applications.
+* [Zen and the Art of Microcode Hacking](https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking) - Delving into the intricacies of AMD Zen microcode manipulation. [Comments](https://lobste.rs/s/qnfuus/zen_art_microcode_hacking)
 
-## Space Exploration and Science
+* [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/) - Exploring decentralized workflows for Git repositories. [Comments](https://lobste.rs/s/oegolv/git_without_forge)
 
-* [NASA Uses GPS On the Moon For the First Time](https://science.slashdot.org/story/25/03/05/0155218/nasa-uses-gps-on-the-moon-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA's historic employment of GPS technology on lunar missions.
+* [Pokemon Red (Reinforcement Learning Edition)](https://drubinstein.github.io/pokerl/) - Using reinforcement learning models to play a classic Pokemon game. [Comments](https://lobste.rs/s/fyxiao/pokemon_red_reinforcement_learning)
 
-* [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - A new superelastic alloy designed to endure space environments.
+## Artificial Intelligence Developments
 
-* [Man's Brain Turned to Glass by Vesuvius Volcano Ash Cloud](https://soylentnews.org/article.pl?sid=25/03/03/147226&from=rss) - A rare discovery revealing the preservation of ancient human tissue.
+* [Amazon Tests AI Dubbing on Prime Video Movies, Series](https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon applies AI for automated dubbing of entertainment content. [Comments](https://news.ycombinator.com/item?id=43277806)
 
-* [World's First 'Synthetic Biological Intelligence' Runs On Living Human Cells](https://science.slashdot.org/story/25/03/05/016258/worlds-first-synthetic-biological-intelligence-runs-on-living-human-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The development of biological intelligence driven by live human cells.
+* [OpenAI Plots Charging $20,000 a Month For PhD-Level Agents](https://slashdot.org/story/25/03/05/1559207/openai-plots-charging-20000-a-month-for-phd-level-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - High pricing strategy by OpenAI for specialized AI applications. [Comments](https://soylentnews.org/article.pl?sid=25/03/04/1358203)
 
-## Cybersecurity and Data Privacy
+* [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing) - A comprehensive showcase of stream processing applications. [Comments](https://news.ycombinator.com/item?id=43278036)
 
-* [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - Current risks posed by a new Linux backdoor named Auto-Color.
+## Unusual Discoveries and Historical Insights
 
-* [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03) - A debate over ceasing embassy-based air quality information sharing.
+* [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - Evidence suggests meteors originating from outside the Solar System. [Comments](https://slashdot.org/story/25/03/05/1230232/suspected-interstellar-meteors-analysis)
 
-* [Microsoft Warns of Chinese Hackers Spying on Cloud Technology](https://slashdot.org/story/25/03/05/1743246/microsoft-warns-of-chinese-hackers-spying-on-cloud-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft sounds alarms over cloud-based espionage.
+* [20,000-Year-Old Evidence of Ancient Travois (Sled) Discovered in New Mexico](https://soylentnews.org/article.pl?sid=25/03/03/1354250) - An archaeological find showcasing ancient transportation innovation. [Comments](https://news.ycombinator.com/item?id=43277356)
 
-## Gaming and Entertainment
+* [Man's Brain Turned to Glass by Vesuvius Volcano Ash Cloud](https://soylentnews.org/article.pl?sid=25/03/03/147226) - A shocking result of a volcanic eruption's intense heat. [Comments](https://news.slashdot.org/story/25/03/04/181036/explanatory-cross-links-vesuvious)
 
-* [Gaming chat platform Discord in early talks with banks about public listing](https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a) - Discord advances its IPO preparations.
+## Global Policy and Social Shifts
 
-* [Nintendo Says Latest Legal Win Against Piracy 'Significant' For 'Entire Games Industry'](https://games.slashdot.org/story/25/03/05/1842243/nintendo-says-latest-legal-win-against-piracy-significant-for-entire-games-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nintendo's legal efforts against piracy and its broader implications.
+* [Utah Passes First US App Store Age Verification Law](https://news.slashdot.org/story/25/03/06/0348233/utah-passes-first-us-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Newest regulatory measure targets underage app usage. [Comments](https://lobste.rs/s/jovktg/app-regulation-policies)
 
-* [Pokemon Red (Reinforcement Learning Edition)](https://drubinstein.github.io/pokerl/) - An AI-tuned experiment designed around Pokémon Red gameplay.
+* [India Grants Tax Officials Sweeping Digital Access Powers](https://yro.slashdot.org/story/25/03/06/0836227/india-grants-tax-officials-sweeping-digital-access-powers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Widespread digital access raises privacy concerns. [Comments](https://news.ycombinator.com/item?id=43270392)
 
-## Environmental and Climate Insights
+* [Europe on Alert Over Suspected Sabotage of Undersea Cables](https://tech.slashdot.org/story/25/03/05/1928223/europe-on-alert-over-suspected-sabotage-of-undersea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Vital infrastructure under threat as fears escalate. [Comments](https://news.ycombinator.com/item?id=43270012)
 
-* [Could New Clocks Keep Airplanes Safe From GPS Jamming?](https://science.slashdot.org/story/25/03/05/1822239/could-new-clocks-keep-airplanes-safe-from-gps-jamming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating aviation enhancements against GPS interference.
+## Environmental and Scientific Explorations
 
-* [Half of World's CO2 Emissions Come From 36 Fossil Fuel Firms, Study Shows](https://news.slashdot.org/story/25/03/05/181204/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of emissions linked to key corporations in the fuel sector.
+* [NASA Uses GPS On the Moon For the First Time](https://science.slashdot.org/story/25/03/05/0155218/nasa-uses-gps-on-the-moon-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Breakthrough satellite navigation marks a milestone in lunar exploration. [Comments](https://lobste.rs/s/rve103/gps-at-moon-achievement)
 
-* [NASA is Watching a Vast, Growing Anomaly in Earth's Magnetic Field](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss) - NASA's observations on Earth's magnetic disparities.
+* [Half of World's CO2 Emissions Come From 36 Fossil Fuel Firms, Study Shows](https://news.slashdot.org/story/25/03/05/181204/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shocking statistics about corporate impact on climate change. [Comments](https://soylentnews.org/article.pl?sid=25/03/04/1359052)
+
+* [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source) - EUV Lithography's intricate technology backing computational evolution. [Comments](https://lobste.rs/s/uioae7/moore-exploding-star-metaphors)
 
 ---
 
@@ -69,25 +71,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-06, 09:57:03](https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel) - [The case of the vanishing CPU: A Linux kernel debugging story](https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story)
+* [2025-03-06, 09:04:38](https://news.ycombinator.com/item?id=43278036) - [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
+* [2025-03-06, 09:01:00](https://yro.slashdot.org/story/25/03/06/0836227/india-grants-tax-officials-sweeping-digital-access-powers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [India Grants Tax Officials Sweeping Digital Access Powers](https://yro.slashdot.org/story/25/03/06/0836227/india-grants-tax-officials-sweeping-digital-access-powers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-06, 08:48:13](https://news.ycombinator.com/item?id=43277924) - [Forget Twitter Threads; Write a Blog Post Instead](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
+* [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
+* [2025-03-06, 08:16:41](https://news.ycombinator.com/item?id=43277748) - [Due to new tariffs, many more physical game discs may \"simply not get made\"](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)
+* [2025-03-06, 08:08:08](https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your) - [xdg-ninja: A shell script which checks your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
+* [2025-03-06, 07:00:13](https://news.ycombinator.com/item?id=43277250) - [Arva AI (YC S24) Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
+* [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
 * [2025-03-06, 06:20:00](https://slashdot.org/story/25/03/06/0619224/goldman-sachs-why-ai-spending-is-not-boosting-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [ Goldman Sachs: Why AI Spending Is Not Boosting GDP](https://slashdot.org/story/25/03/06/0619224/goldman-sachs-why-ai-spending-is-not-boosting-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-06, 05:59:00](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss) - ['Fire the Intel Board and Rehire Pat Gelsinger,' Argues Former Intel Ceo Craig Barrett](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss)
-* [2025-03-06, 04:44:06](https://news.ycombinator.com/item?id=43276504) - [Gaming chat platform Discord in early talks with banks about public listing](https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a)
 * [2025-03-06, 03:50:00](https://news.slashdot.org/story/25/03/06/0348233/utah-passes-first-us-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Utah Passes First US App Store Age Verification Law](https://news.slashdot.org/story/25/03/06/0348233/utah-passes-first-us-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 01:32:56](https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love) - [Is it true what they say: \"Lobsters love Guinness\"?](https://postimg.cc/phdVNwPz)
 * [2025-03-06, 01:30:00](https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Tests AI Dubbing on Prime Video Movies, Series](https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-06, 01:13:00](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
-* [2025-03-06, 00:27:43](https://lobste.rs/s/vuba06/manage_ups_on_freebsd) - [Manage UPS on FreeBSD](https://vermaden.wordpress.com/2025/03/06/ups-on-freebsd/)
 * [2025-03-06, 00:23:33](https://news.ycombinator.com/item?id=43274613) - [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
 * [2025-03-06, 00:13:40](https://lobste.rs/s/fsc8ki/determinate_nix_3_0) - [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/)
-* [2025-03-05, 23:50:48](https://news.ycombinator.com/item?id=43274416) - [Dear Apple: Add \"Disappearing Messages\" to iMessage](https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/)
 * [2025-03-05, 23:30:00](https://tech.slashdot.org/story/25/03/05/1944216/google-is-adding-more-ai-overviews-and-a-new-ai-mode-to-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google is Adding More AI Overviews and a New 'AI Mode' To Search](https://tech.slashdot.org/story/25/03/05/1944216/google-is-adding-more-ai-overviews-and-a-new-ai-mode-to-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 22:01:00](https://tech.slashdot.org/story/25/03/05/1928223/europe-on-alert-over-suspected-sabotage-of-undersea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Europe on Alert Over Suspected Sabotage of Undersea Cables](https://tech.slashdot.org/story/25/03/05/1928223/europe-on-alert-over-suspected-sabotage-of-undersea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 21:48:39](https://news.ycombinator.com/item?id=43273034) - [Exploring the Paramilitary Leaks](https://micahflee.com/exploring-the-paramilitary-leaks/)
 * [2025-03-05, 21:46:35](https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code) - [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
 * [2025-03-05, 21:10:35](https://news.ycombinator.com/item?id=43272463) - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
-* [2025-03-05, 21:01:01](https://news.ycombinator.com/item?id=43272332) - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
 * [2025-03-05, 21:00:00](https://games.slashdot.org/story/25/03/05/1842243/nintendo-says-latest-legal-win-against-piracy-significant-for-entire-games-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Nintendo Says Latest Legal Win Against Piracy 'Significant' For 'Entire Games Industry'](https://games.slashdot.org/story/25/03/05/1842243/nintendo-says-latest-legal-win-against-piracy-significant-for-entire-games-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 20:56:25](https://news.ycombinator.com/item?id=43272275) - [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 * [2025-03-05, 20:33:03](https://lobste.rs/s/fyxiao/pokemon_red_reinforcement_learning) - [Pokemon Red (Reinforcement Learning Edition)](https://drubinstein.github.io/pokerl/)
@@ -99,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:05:15](https://lobste.rs/s/j4x4bi/constantly_divisionless_random_numbers) - [constantly divisionless random numbers](https://dotat.at/@/2025-03-05-lemire-inline.html)
 * [2025-03-05, 19:00:00](https://news.slashdot.org/story/25/03/05/181204/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Half of World's CO2 Emissions Come From 36 Fossil Fuel Firms, Study Shows](https://news.slashdot.org/story/25/03/05/181204/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-05, 18:38:05](https://news.ycombinator.com/item?id=43270464) - [Intel the CPU Company](https://www.abortretry.fail/p/intel-the-cpu-company)
 * [2025-03-05, 18:25:35](https://lobste.rs/s/c5pgnx/what_if_we_just_didn_t_decompress_it) - [What if we just didn’t decompress it?](https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/)
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 18:00:00](https://slashdot.org/story/25/03/05/1743246/microsoft-warns-of-chinese-hackers-spying-on-cloud-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Warns of Chinese Hackers Spying on Cloud Technology](https://slashdot.org/story/25/03/05/1743246/microsoft-warns-of-chinese-hackers-spying-on-cloud-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -107,9 +113,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
 * [2025-03-05, 17:42:09](https://lobste.rs/s/qnfuus/zen_art_microcode_hacking) - [Zen and the Art of Microcode Hacking](https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
+* [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 17:00:00](https://slashdot.org/story/25/03/05/1559207/openai-plots-charging-20000-a-month-for-phd-level-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Plots Charging $20,000 a Month For PhD-Level Agents](https://slashdot.org/story/25/03/05/1559207/openai-plots-charging-20000-a-month-for-phd-level-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 16:48:12](https://lobste.rs/s/ecmmix/defense_text_labels) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
-* [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:00:00](https://apple.slashdot.org/story/25/03/05/1522201/apple-refreshes-macbook-air-with-m4-chip-lower-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Refreshes MacBook Air With M4 Chip, Lower Pricing](https://apple.slashdot.org/story/25/03/05/1522201/apple-refreshes-macbook-air-with-m4-chip-lower-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 15:51:57](https://lobste.rs/s/gkawzq/happy_day_for_rust) - [A Happy Day for Rust](https://steveklabnik.com/writing/a-happy-day-for-rust/)
 * [2025-03-05, 15:44:00](https://soylentnews.org/article.pl?sid=25/03/04/023230&from=rss) - [Meet the Ice-Hunting Robots Headed for the Moon Right Now](https://soylentnews.org/article.pl?sid=25/03/04/023230&from=rss)
@@ -124,12 +130,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-05, 13:32:52](https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
 * [2025-03-05, 13:30:35](https://lobste.rs/s/dwvrsk/floating_points_boxes) - [Floating Points & Boxes](https://blog.toast.cafe/floating-points-boxes)
 * [2025-03-05, 13:00:00](https://science.slashdot.org/story/25/03/05/0155218/nasa-uses-gps-on-the-moon-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Uses GPS On the Moon For the First Time](https://science.slashdot.org/story/25/03/05/0155218/nasa-uses-gps-on-the-moon-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-05, 11:52:28](https://news.ycombinator.com/item?id=43265431) - [MS Paint IDE](https://ms-paint-i.de/)
 * [2025-03-05, 11:01:00](https://soylentnews.org/article.pl?sid=25/03/03/1622232&from=rss) - [The UEFI Hype and Microsoft's Lies](https://soylentnews.org/article.pl?sid=25/03/03/1622232&from=rss)
 * [2025-03-05, 10:46:08](https://lobste.rs/s/nurzov/pitchfork_story) - [The Pitchfork Story](https://byroot.github.io/ruby/performance/2025/03/04/the-pitchfork-story.html)
-* [2025-03-05, 10:25:55](https://news.ycombinator.com/item?id=43264957) - [Lynx: Open Source Native Cross Platform framework used in TikTok](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
-* [2025-03-05, 10:03:31](https://news.ycombinator.com/item?id=43264847) - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
-* [2025-03-05, 10:00:00](https://science.slashdot.org/story/25/03/05/016258/worlds-first-synthetic-biological-intelligence-runs-on-living-human-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [World's First 'Synthetic Biological Intelligence' Runs On Living Human Cells](https://science.slashdot.org/story/25/03/05/016258/worlds-first-synthetic-biological-intelligence-runs-on-living-human-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-05, 09:13:29](https://lobste.rs/s/qjsefo/bad_apple_it_s_ssh_keys) - [bad apple but it's ssh keys](https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/)
 * [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
 * [2025-03-05, 06:17:00](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss) - [Ancient Humans Evolved New Blood Types After Leaving Africa](https://soylentnews.org/article.pl?sid=25/03/02/1643244&from=rss)
@@ -140,23 +142,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-04, 20:48:00](https://soylentnews.org/article.pl?sid=25/03/03/1359231&from=rss) - [The Pentium Contains a Complicated Circuit to Multiply by Three](https://soylentnews.org/article.pl?sid=25/03/03/1359231&from=rss)
 * [2025-03-04, 20:36:10](https://lobste.rs/s/icz96h/hytradboi_2025_postmortem) - [HYTRADBOI 2025 postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-04, 16:07:00](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss) - [20,000-Year-Old Evidence of Ancient Travois (Sled) Discovered in New Mexico](https://soylentnews.org/article.pl?sid=25/03/03/1354250&from=rss)
-* [2025-03-04, 11:59:43](https://lobste.rs/s/b5buoi/tigerbeetle_architecture) - [TigerBeetle Architecture](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md)
 * [2025-03-04, 11:26:00](https://soylentnews.org/article.pl?sid=25/03/03/1239241&from=rss) - [YR4 Asteroid: The Hits and Near-Misses You Never Hear About](https://soylentnews.org/article.pl?sid=25/03/03/1239241&from=rss)
 * [2025-03-04, 06:40:00](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss) - [NASA is Watching a Vast, Growing Anomaly in Earth's Magnetic Field](https://soylentnews.org/article.pl?sid=25/03/02/2054246&from=rss)
+* [2025-03-04, 06:25:07](https://news.ycombinator.com/item?id=43250986) - [HYTRADBOI 2025 Conference Postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-04, 02:00:00](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss) - [The Next Chapter: Moving From Skype to Microsoft Teams](https://soylentnews.org/article.pl?sid=25/03/02/2037225&from=rss)
 * [2025-03-03, 23:56:16](https://news.ycombinator.com/item?id=43248359) - [Show HN: Search and analyze millions of SEC filings with AI.](https://www.publicview.ai/)
 * [2025-03-03, 21:17:00](https://soylentnews.org/article.pl?sid=25/03/02/1651205&from=rss) - [A New Android Feature is Scanning Your Photos for 'Sensitive Content'](https://soylentnews.org/article.pl?sid=25/03/02/1651205&from=rss)
 * [2025-03-03, 18:41:37](https://news.ycombinator.com/item?id=43245172) - [Solving First Order Differential Equations with Julia](https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html)
 * [2025-03-03, 16:37:00](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss) - [U.S. Company Firefly Aerospace Just Landed On The Moon With Its Blue Ghost Spacecraft](https://soylentnews.org/article.pl?sid=25/03/03/1430230&from=rss)
-* [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 11:50:00](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss) - [Superelastic Alloy That Functions in Extreme Temperatures Could Aid Space Exploration](https://soylentnews.org/article.pl?sid=25/03/02/1636204&from=rss)
 * [2025-03-03, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss) - [The Surveillance Tech Waiting for Workers as They Return to the Office](https://soylentnews.org/article.pl?sid=25/03/02/1442219&from=rss)
 * [2025-03-03, 02:18:00](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss) - ['Utterly Cataclysmic': James Webb Telescope Spots 2 Alien Planets Disintegrating Before Our Eyes](https://soylentnews.org/article.pl?sid=25/03/02/1437201&from=rss)
-* [2025-03-03, 00:19:31](https://news.ycombinator.com/item?id=43236825) - [The Day the Muse Died](https://johnpweiss.com/blog/199949/the-day-the-muse-died)
 * [2025-03-02, 21:34:00](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss) - [Auto-Color: An Emerging and Evasive Linux Backdoor](https://soylentnews.org/article.pl?sid=25/03/02/1031228&from=rss)
 * [2025-03-02, 16:48:00](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss) - [Avast Antivirus Customers Can be Compensated for Harvesting of Their Personal Info](https://soylentnews.org/article.pl?sid=25/03/01/1531250&from=rss)
 * [2025-03-02, 14:34:50](https://news.ycombinator.com/item?id=43230864) - [Tiny Ten DSP-Based HF Transceiver](https://www.janbob.com/electron/TinyTen/TinyTen.htm)
+* [2025-03-02, 14:21:50](https://news.ycombinator.com/item?id=43230764) - [Citronics built a router based on the Fairphone 2 mainboard](https://www.cnx-software.com/2025/03/02/citronics-built-a-router-based-on-the-fairphone-2-mainboard/)
+* [2025-03-02, 13:56:01](https://news.ycombinator.com/item?id=43230510) - [Yoke: Infrastructure as code, but actually](https://xeiaso.net/blog/2025/yoke-k8s/)
 * [2025-03-02, 12:02:00](https://soylentnews.org/article.pl?sid=25/03/01/1515217&from=rss) - [Journalist Completely Misrepresents Quantum Teleportation](https://soylentnews.org/article.pl?sid=25/03/01/1515217&from=rss)
 * [2025-03-02, 07:14:00](https://soylentnews.org/article.pl?sid=25/03/01/155219&from=rss) - [Chinese Chipmaker Claims New Loongson 3B6600 CPU Could Hit 13Th-Gen Intel Performance](https://soylentnews.org/article.pl?sid=25/03/01/155219&from=rss)
 * [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
