@@ -1,6 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## No content was returned.
+## Scientific and Technological Breakthroughs
+
+* [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/) - [Comments](https://news.ycombinator.com/item?id=43313781)
+
+* [Stem Cell Therapy Trial Reverses 'Irreversible' Damage to Cornea](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html) - [Comments](https://news.ycombinator.com/item?id=43311610)
+
+## Innovations in AI and Machine Learning
+
+* [Can Ants Teach Us How to Program Self-Driving Cars?](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [With AI You Need to Think Much Bigger](https://rodyne.com/?p=1828) - [Comments](https://news.ycombinator.com/item?id=43312652)
+
+* [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/) - [Comments](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative)
+
+## Engineering and Development Tools
+
+* [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html) - [Comments](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias)
+
+* [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7) - [Comments](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams)
+
+* [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go) - [Comments](https://news.ycombinator.com/item?id=43313522)
+
+## Unusual and Thought-Provoking Insights
+
+* ['Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
+
+* ['I Used to Teach Students. Now I Catch ChatGPT Cheats'](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
 
 ---
 
@@ -27,7 +57,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-03-09, 18:40:17](https://news.ycombinator.com/item?id=43312242) - [Violent and sudden. What a firing squad execution looked like through my eyes](https://apnews.com/article/south-carolina-firing-squad-eyewitness-account-sigmon-427cccb55be58954af4434e89bcc41d8)
+* [2025-03-09, 21:48:00](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can Ants Teach Us How to Program Self-Driving Cars?](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
+* [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
+* [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
+* [2025-03-09, 20:50:18](https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really) - [Explaining Computers - FreeBSD - Really Alternative Desktop OS](https://www.youtube.com/watch?v=9Xm52v1D8qo)
+* [2025-03-09, 20:40:04](https://news.ycombinator.com/item?id=43313522) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
+* [2025-03-09, 20:31:31](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias) - [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
+* [2025-03-09, 19:34:00](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I Used to Teach Students. Now I Catch ChatGPT Cheats'](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-09, 19:18:41](https://news.ycombinator.com/item?id=43312652) - [With AI You Need to Think Much Bigger](https://rodyne.com/?p=1828)
+* [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
+* [2025-03-09, 19:10:58](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams) - [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
+* [2025-03-09, 18:35:37](https://news.ycombinator.com/item?id=43312199) - [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)
 * [2025-03-09, 18:34:00](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Professor Ends Bulwer-Lytton Bad Writing Contest After 43 Years](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 18:10:03](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
@@ -35,8 +76,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-09, 17:45:27](https://lobste.rs/s/m6bcmf/i_built_my_first_mechanical_keyboard) - [I built my first mechanical keyboard](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
 * [2025-03-09, 17:43:15](https://news.ycombinator.com/item?id=43311610) - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
 * [2025-03-09, 17:34:00](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Stem Cell Therapy Trial Reverses 'Irreversible' Damage to Cornea](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 17:25:17](https://news.ycombinator.com/item?id=43311367) - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
-* [2025-03-09, 17:09:30](https://news.ycombinator.com/item?id=43311149) - [Rewriting essential Linux packages in Rust](https://lwn.net/Articles/1007907/)
 * [2025-03-09, 17:04:28](https://news.ycombinator.com/item?id=43311091) - [Europe bets once again on RISC-V for supercomputing](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
@@ -44,11 +83,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-09, 16:23:27](https://lobste.rs/s/caldlu/ai_uncertain_future_work) - [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
 * [2025-03-09, 15:55:08](https://news.ycombinator.com/item?id=43310253) - [Binocular Shot](https://binocularshot.com/)
 * [2025-03-09, 15:48:52](https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul) - [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
-* [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: Fast, production-grade web bundler](https://makojs.dev/)
 * [2025-03-09, 15:34:00](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Will an 'AI Makeover' Help McDonald's?](https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 15:24:31](https://lobste.rs/s/rwvvai/advancing_musicality_symbolic_music) - [Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://electricalexis.github.io/notagen-demo/)
 * [2025-03-09, 15:20:53](https://lobste.rs/s/5x51jl/dithering_colour) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
-* [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 14:37:00](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss) - [Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss)
 * [2025-03-09, 14:34:00](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How Your Gut Influences Your Brain](https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
@@ -75,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 03:06:41](https://lobste.rs/s/d96z4t/zinc_systems_programming_language) - [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/)
 * [2025-03-09, 01:59:00](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit and Digg Cofounders Plan Relaunch of 'Human-Centered' Digg With AI Innovations](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 01:33:23](https://lobste.rs/s/epyn4f/how_i_write_generics) - [How I Write Generics](https://aartaka.me/my-generics.html)
 * [2025-03-09, 00:39:00](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free Software Foundation Rides To Defend AGPLv3 Against Neo4j License Add-ons](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 00:32:56](https://news.ycombinator.com/item?id=43304962) - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 * [2025-03-09, 00:23:00](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss) - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss)
@@ -88,31 +123,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-08, 21:34:00](https://science.slashdot.org/story/25/03/08/033219/snack-makers-are-removing-fake-colors-from-processed-foods?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Snack Makers Are Removing Fake Colors From Processed Foods](https://science.slashdot.org/story/25/03/08/033219/snack-makers-are-removing-fake-colors-from-processed-foods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 20:34:00](https://hardware.slashdot.org/story/25/03/08/2027216/undocumented-backdoor-found-in-chinese-bluetooth-chip-used-by-a-billion-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Undocumented 'Backdoor' Found In Chinese Bluetooth Chip Used By a Billion Devices](https://hardware.slashdot.org/story/25/03/08/2027216/undocumented-backdoor-found-in-chinese-bluetooth-chip-used-by-a-billion-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss)
-* [2025-03-08, 19:34:00](https://science.slashdot.org/story/25/03/08/0523212/america-lost-22-of-its-butterflies-within-two-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America Lost 22% of Its Butterflies Within Two Decades](https://science.slashdot.org/story/25/03/08/0523212/america-lost-22-of-its-butterflies-within-two-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 19:17:33](https://lobste.rs/s/jcsfbx/program_is_database_is_interface) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
-* [2025-03-08, 18:34:00](https://yro.slashdot.org/story/25/03/08/183254/sam-bankman-fried-gives-a-jailhouse-interview-seeking-a-pardon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sam Bankman-Fried Gives a Jailhouse Interview, Seeking a Pardon](https://yro.slashdot.org/story/25/03/08/183254/sam-bankman-fried-gives-a-jailhouse-interview-seeking-a-pardon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 18:13:35](https://lobste.rs/s/0twsmb/undocumented_backdoor_found_bluetooth) - [Undocumented \"backdoor\" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 15:37:00](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss) - [Temporary Problem with Stripe](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss)
 * [2025-03-08, 14:52:00](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) - [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss)
-* [2025-03-08, 14:22:16](https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support) - [wlroots: Add HDR10 support](https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002)
-* [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ still wants Google to sell off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-08, 11:57:42](https://lobste.rs/s/v8izex/list_brave_browser_controversies) - [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies)
 * [2025-03-08, 10:07:00](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss)
 * [2025-03-08, 05:22:00](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss)
 * [2025-03-08, 00:37:00](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss) - [The International Space Station Lacks Microbial Diversity. Is It Too Clean?](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss)
-* [2025-03-08, 00:16:26](https://lobste.rs/s/9sscit/why_i_choose_lua_for_this_blog) - [Why I choose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss) - [Massive Supereruptions Might Not Trigger the Apocalypse, Just Decades of Chaos](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss)
 * [2025-03-07, 15:10:00](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss) - [Your Kitchen Utensils May be Poisoning You](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss)
+* [2025-03-07, 11:16:57](https://news.ycombinator.com/item?id=43289247) - [Sublogic Flight Simulator – By Paul Lefebvre](https://www.goto10retro.com/p/sublogic-flight-simulator)
 * [2025-03-07, 10:38:50](https://news.ycombinator.com/item?id=43289050) - [Anti-Schelling points and waiting for my barista-made coffee](https://interconnected.org/home/2025/03/07/schelling)
 * [2025-03-07, 10:26:00](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss) - [How We Added Interlaced Video to Raspberry Pi 5](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss)
 * [2025-03-07, 05:42:00](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss) - [BP Shuns Renewables in Return to Oil and Gas](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss)
 * [2025-03-07, 00:53:00](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss) - [15 Republican AGs Urge The Supreme Court To Make Affordable Broadband For Poor People Illegal](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss)
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic encryption disguised as pet sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 20:10:00](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss) - [World's First \"Synthetic Biological Intelligence\" Runs on Living Human Cells](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss)
+* [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
 * [2025-03-06, 15:25:00](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss) - [Google Cofounder Exhorts Employees to Work 60-Hour Weeks to Create AI Designed to Replace Them](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss)
-* [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran compiles PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 10:42:00](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss) - [First Petawatt Electron Beam Arrives, Ready to Rip Apart Matter and Space](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss)
 * [2025-03-06, 05:59:00](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss) - ['Fire the Intel Board and Rehire Pat Gelsinger,' Argues Former Intel Ceo Craig Barrett](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss)
 * [2025-03-06, 01:13:00](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss)
