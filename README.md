@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Technology Innovations and Updates
 
-* [Online embedded Rust simulator](https://wokwi.com/rust) - Explore Rust programming for embedded systems with an online simulator to prototype and test hardware-free.
+* [Online embedded Rust simulator](https://wokwi.com/rust) - Explore the capabilities of an interactive Rust simulator tailored for embedded systems. [Comments](https://lobste.rs/s/chn8zg/online_embedded_rust_simulator)
 
-* [OpenSSL does a QUIC API](https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/) - Discussion on OpenSSL's new API for handling QUIC protocol, outlining its implications for secure and performance-sensitive applications.
+* [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be) - A new initiative to add open-source Wi-Fi capabilities for the ESP32 microcontroller. [Comments](https://news.ycombinator.com/item?id=43304962)
 
-* [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be) - Dive into the development and potential applications of open-source Wi-Fi Mac framework tailored for the ESP32.
+* [Rayhunter: A Cheap New Tool from EFF to Detect Cellular Spying](https://mobile.slashdot.org/story/25/03/08/0346250/rayhunter-a-cheap-new-tool-from-eff-to-detect-cellular-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - EFF introduces a low-cost way to detect cellular spying threats. [Comments](https://news.ycombinator.com/item?id=43201342)
 
-* [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/) - Introducing Zinc, a programming language focused on reliable systems programming with clarity and safety.
+* [NASA's SPHEREx Is Poised To Launch Mission To Map 450 Million Galaxies In Color](https://science.slashdot.org/story/25/03/08/0152240/nasas-spherex-is-poised-to-launch-mission-to-map-450-million-galaxies-in-color?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA’s upcoming mission will chart the cosmos with unprecedented depth and clarity. [Comments](https://news.ycombinator.com/item?id=43298271)
 
-* [Cutting-edge web scraping techniques](https://github.com/simonw/nicar-2025-scraping/blob/main/README.md) - Comprehensive guide to advanced methods for web data extraction, featuring examples and open-source tools.
+## Cybersecurity Concerns
 
-## Artificial Intelligence and Computing
+* [Undocumented 'Backdoor' Found In Chinese Bluetooth Chip Used By a Billion Devices](https://hardware.slashdot.org/story/25/03/08/2027216/undocumented-backdoor-found-in-chinese-bluetooth-chip-used-by-a-billion-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A security vulnerability exposes risks in widely-used Bluetooth chips. [Comments](https://lobste.rs/s/0twsmb/undocumented_backdoor_found_bluetooth)
 
-* [Reddit and Digg Cofounders Plan Relaunch of 'Human-Centered' Digg With AI Innovations](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fresh approach to bringing AI enhancements to the aging Digg platform with more user focus.
+* [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - Apple pushes back against calls to introduce encryption backdoors. [Comments](https://news.ycombinator.com/item?id=43295692)
 
-* [TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/) - Demonstration of reactivity-inspired user interface designs driven by large language models.
+## Open Source and Programming
 
-* [Google Cofounder Exhorts Employees to Work 60-Hour Weeks to Create AI Designed to Replace Them](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss) - Controversial request as Google doubles down on its AI ambitions.
+* [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/) - Introducing Zinc, a new entrant in the systems programming landscape. [Comments](https://lobste.rs/s/d96z4t/zinc_systems_programming_language)
 
-* [Microsoft Reportedly Develops LLM Series That Can Rival OpenAI, Anthropic Models](https://slashdot.org/story/25/03/08/0018225/microsoft-reportedly-develops-llm-series-that-can-rival-openai-anthropic-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into Microsoft's endeavors into high-performance AI systems competition.
+* [How I Write Generics](https://aartaka.me/my-generics.html) - A detailed exploration into writing generics effectively. [Comments](https://lobste.rs/s/epyn4f/how_i_write_generics)
 
-## Software and Development Best Practices
+* [Cutting-edge web scraping techniques](https://github.com/simonw/nicar-2025-scraping/blob/main/README.md) - Comprehensive guide to modern web scraping methodologies. [Comments](https://lobste.rs/s/p0wauf/cutting_edge_web_scraping_techniques)
 
-* [How I Write Generics](https://aartaka.me/my-generics.html) - Personal insights and methodologies into creating effective generic programming solutions.
+## Artificial Intelligence
 
-* [Using Zig from Common Lisp](https://jagg.github.io/posts/lisp_zig/) - Tutorial on leveraging Zig language's capabilities within Common Lisp.
+* [Ignoring Protests, Christie's Holds AI Art Auction, Makes Big Money](https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Christie's hosts an AI art auction amidst critique. [Comments](https://news.ycombinator.com/item?id=43305919)
 
-* [Refinement in Rust: optimization, arithmetic, and stateful predicates](https://jordankaye.dev/posts/refined_0_0_4/) - Enhancements in Rust development, emphasizing performant and correct state transitions.
+* [Reddit and Digg Cofounders Plan Relaunch of 'Human-Centered' Digg With AI Innovations](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revamping old platforms with AI to create a more curated user experience. [Comments](https://news.ycombinator.com/item?id=43299886)
 
-* [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/) - Redefining abstraction layers by uniting application programs and their data representations.
+## Scientific Breakthroughs
 
-## Space and Scientific Discoveries
+* [Gene-Edited Non-Browning Banana Could Cut Food Waste, Scientists Say](https://science.slashdot.org/story/25/03/08/0140247/gene-edited-non-browning-banana-could-cut-food-waste-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A genetically engineered banana variant to tackle food waste is in development. [Comments](https://news.ycombinator.com/item?id=43295692)
 
-* [Axiom Space and Red Hat Will Bring Edge Computing to the International Space Station](https://linux.slashdot.org/story/25/03/08/205225/axiom-space-and-red-hat-will-bring-edge-computing-to-the-international-space-station?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Collaborative venture to enhance orbital computing capabilities with cutting-edge technologies.
+* [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - Groundbreaking optical technologies aim to provide faster connectivity. [Comments](https://news.ycombinator.com/item?id=43298271)
 
-* [NASA's SPHEREx Is Poised To Launch Mission To Map 450 Million Galaxies In Color](https://science.slashdot.org/story/25/03/08/0152240/nasas-spherex-is-poised-to-launch-mission-to-map-450-million-galaxies-in-color?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring the universe's vastness with a grand-scale mapping initiative.
+## Space Exploration and Research
 
-* [Athena Spacecraft Declared Dead After Toppling Over On Moon](https://science.slashdot.org/story/25/03/08/0145217/athena-spacecraft-declared-dead-after-toppling-over-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Challenges faced in extraterrestrial explorations after Athena’s inoperability.
+* [Axiom Space and Red Hat Will Bring Edge Computing to the International Space Station](https://linux.slashdot.org/story/25/03/08/205225/axiom-space-and-red-hat-will-bring-edge-computing-to-the-international-space-station?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An ambitious project will bring edge computing to orbit. [Comments](https://news.ycombinator.com/item?id=43289352)
 
-## Privacy and Security
-
-* [Undocumented 'Backdoor' Found In Chinese Bluetooth Chip Used By a Billion Devices](https://hardware.slashdot.org/story/25/03/08/2027216/undocumented-backdoor-found-in-chinese-bluetooth-chip-used-by-a-billion-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Major security concerns arise with vulnerabilities found in widely-utilized Bluetooth components.
-
-* [Rayhunter: A Cheap New Tool from EFF to Detect Cellular Spying](https://mobile.slashdot.org/story/25/03/08/0346250/rayhunter-a-cheap-new-tool-from-eff-to-detect-cellular-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - EFF's new initiative for increased personal information protection.
-
-* [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - Encryption debates escalate with Apple resisting governmental demands.
+* [Athena Spacecraft Declared Dead After Toppling Over On Moon](https://science.slashdot.org/story/25/03/08/0145217/athena-spacecraft-declared-dead-after-toppling-over-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Moon missions face setbacks as the Athena spacecraft's mission ends prematurely. [Comments](https://news.ycombinator.com/item?id=43298271)
 
 ---
 
@@ -73,10 +67,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-09, 06:29:34](https://lobste.rs/s/dslris/what_s_cooking_on_sourcehut_q1_2025) - [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
+* [2025-03-09, 05:34:00](https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ignoring Protests, Christie's Holds AI Art Auction, Makes Big Money](https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-09, 05:14:26](https://lobste.rs/s/csr4mw/building_websites_with_lots_little_html) - [Building Websites With Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
+* [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
 * [2025-03-09, 03:40:35](https://lobste.rs/s/chn8zg/online_embedded_rust_simulator) - [Online embedded Rust simulator](https://wokwi.com/rust)
+* [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:27:53](https://lobste.rs/s/zv7gj9/openssl_does_quic_api) - [OpenSSL does a QUIC API](https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/)
+* [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 03:06:41](https://lobste.rs/s/d96z4t/zinc_systems_programming_language) - [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/)
-* [2025-03-09, 02:44:47](https://news.ycombinator.com/item?id=43305683) - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
 * [2025-03-09, 01:59:00](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit and Digg Cofounders Plan Relaunch of 'Human-Centered' Digg With AI Innovations](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 01:33:23](https://lobste.rs/s/epyn4f/how_i_write_generics) - [How I Write Generics](https://aartaka.me/my-generics.html)
 * [2025-03-09, 00:39:00](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free Software Foundation Rides To Defend AGPLv3 Against Neo4j License Add-ons](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -103,10 +102,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-08, 18:32:18](https://news.ycombinator.com/item?id=43302297) - [MCP vs. API Explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
 * [2025-03-08, 18:13:35](https://lobste.rs/s/0twsmb/undocumented_backdoor_found_bluetooth) - [Undocumented \"backdoor\" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
-* [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
 * [2025-03-08, 17:50:55](https://lobste.rs/s/snzosb/mad_computer_program) - [The MAD Computer Program](https://meatfighter.com/mad/)
 * [2025-03-08, 17:34:00](https://news.slashdot.org/story/25/03/08/0652240/open-source-initiative-ai-debate-roils-board-elections?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Source Initiative: AI Debate Roils Board Elections?](https://news.slashdot.org/story/25/03/08/0652240/open-source-initiative-ai-debate-roils-board-elections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 * [2025-03-08, 16:34:00](https://mobile.slashdot.org/story/25/03/08/0346250/rayhunter-a-cheap-new-tool-from-eff-to-detect-cellular-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Rayhunter: A Cheap New Tool from EFF to Detect Cellular Spying](https://mobile.slashdot.org/story/25/03/08/0346250/rayhunter-a-cheap-new-tool-from-eff-to-detect-cellular-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering errors in Donald Knuth's TAOCP](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
 * [2025-03-08, 15:37:00](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss) - [Temporary Problem with Stripe](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss)
@@ -124,15 +121,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-08, 11:57:42](https://lobste.rs/s/v8izex/list_brave_browser_controversies) - [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies)
 * [2025-03-08, 10:07:00](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss)
 * [2025-03-08, 10:00:00](https://science.slashdot.org/story/25/03/08/0152240/nasas-spherex-is-poised-to-launch-mission-to-map-450-million-galaxies-in-color?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA's SPHEREx Is Poised To Launch Mission To Map 450 Million Galaxies In Color](https://science.slashdot.org/story/25/03/08/0152240/nasas-spherex-is-poised-to-launch-mission-to-map-450-million-galaxies-in-color?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-08, 08:53:39](https://lobste.rs/s/3z1fmg/ai_where_loop_should_humans_go) - [AI: Where in the Loop Should Humans Go?](https://ferd.ca/ai-where-in-the-loop-should-humans-go.html)
 * [2025-03-08, 07:32:19](https://lobste.rs/s/az2qlz/epic_treatise_on_error_models_for_systems) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 07:25:49](https://news.ycombinator.com/item?id=43298271) - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
 * [2025-03-08, 07:00:00](https://science.slashdot.org/story/25/03/08/0145217/athena-spacecraft-declared-dead-after-toppling-over-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Athena Spacecraft Declared Dead After Toppling Over On Moon](https://science.slashdot.org/story/25/03/08/0145217/athena-spacecraft-declared-dead-after-toppling-over-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 05:22:00](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss)
 * [2025-03-08, 04:51:25](https://news.ycombinator.com/item?id=43297590) - [Falkon: A KDE Web Browser](https://www.falkon.org)
-* [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 03:30:00](https://science.slashdot.org/story/25/03/08/0140247/gene-edited-non-browning-banana-could-cut-food-waste-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gene-Edited Non-Browning Banana Could Cut Food Waste, Scientists Say](https://science.slashdot.org/story/25/03/08/0140247/gene-edited-non-browning-banana-could-cut-food-waste-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-08, 02:02:00](https://slashdot.org/story/25/03/08/0018225/microsoft-reportedly-develops-llm-series-that-can-rival-openai-anthropic-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Reportedly Develops LLM Series That Can Rival OpenAI, Anthropic Models](https://slashdot.org/story/25/03/08/0018225/microsoft-reportedly-develops-llm-series-that-can-rival-openai-anthropic-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-08, 00:37:00](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss) - [The International Space Station Lacks Microbial Diversity. Is It Too Clean?](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss)
 * [2025-03-08, 00:16:26](https://lobste.rs/s/9sscit/why_i_choose_lua_for_this_blog) - [Why I choose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-03-07, 23:18:50](https://lobste.rs/s/nzfyoa/why_do_i_find_rust_inadequate_for_text) - [Why do I find Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
@@ -141,19 +135,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss) - [Massive Supereruptions Might Not Trigger the Apocalypse, Just Decades of Chaos](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss)
 * [2025-03-07, 15:10:00](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss) - [Your Kitchen Utensils May be Poisoning You](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss)
 * [2025-03-07, 14:38:26](https://lobste.rs/s/su44v6/balatro_timeline) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
-* [2025-03-07, 13:10:39](https://lobste.rs/s/yhavca/why_local_first_software_is_future_its) - [Why Local-First Software Is the Future and its Limitations](https://rxdb.info/articles/local-first-future.html)
 * [2025-03-07, 11:25:27](https://news.ycombinator.com/item?id=43289293) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 11:06:17](https://news.ycombinator.com/item?id=43289205) - [Ten Digit Problems (2011) [pdf]](https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf)
 * [2025-03-07, 10:26:00](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss) - [How We Added Interlaced Video to Raspberry Pi 5](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss)
 * [2025-03-07, 05:42:00](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss) - [BP Shuns Renewables in Return to Oil and Gas](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss)
-* [2025-03-07, 04:15:34](https://news.ycombinator.com/item?id=43287345) - [The trap of the top-down approach](https://www.cryptologie.net/article/625/the-trap-of-the-top-down-approach/)
 * [2025-03-07, 00:53:00](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss) - [15 Republican AGs Urge The Supreme Court To Make Affordable Broadband For Poor People Illegal](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss)
 * [2025-03-06, 20:10:00](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss) - [World's First \"Synthetic Biological Intelligence\" Runs on Living Human Cells](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss)
 * [2025-03-06, 15:25:00](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss) - [Google Cofounder Exhorts Employees to Work 60-Hour Weeks to Create AI Designed to Replace Them](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss)
 * [2025-03-06, 11:51:17](https://news.ycombinator.com/item?id=43279131) - [Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]](https://arxiv.org/abs/2503.01710)
 * [2025-03-06, 10:42:00](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss) - [First Petawatt Electron Beam Arrives, Ready to Rip Apart Matter and Space](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss)
+* [2025-03-06, 06:42:00](https://news.ycombinator.com/item?id=43277148) - [How much traffic can a pre-rendered Next.js site handle?](https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle)
 * [2025-03-06, 05:59:00](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss) - ['Fire the Intel Board and Rehire Pat Gelsinger,' Argues Former Intel Ceo Craig Barrett](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss)
+* [2025-03-06, 03:58:04](https://news.ycombinator.com/item?id=43276251) - [Commodore 64 PETSCII Image (2022)](https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec)
 * [2025-03-06, 01:13:00](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss)
+* [2025-03-06, 00:03:58](https://news.ycombinator.com/item?id=43274498) - [Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled](https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled)
 * [2025-03-05, 22:47:52](https://news.ycombinator.com/item?id=43273828) - [\"Big 3\" science fiction magazines including Asimov's and Analog acquired](https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of)
 * [2025-03-05, 20:27:00](https://soylentnews.org/article.pl?sid=25/03/04/028230&from=rss) - [Robots Are Gaining New Capabilities Thanks to Plants and Fungi](https://soylentnews.org/article.pl?sid=25/03/04/028230&from=rss)
 * [2025-03-05, 15:44:00](https://soylentnews.org/article.pl?sid=25/03/04/023230&from=rss) - [Meet the Ice-Hunting Robots Headed for the Moon Right Now](https://soylentnews.org/article.pl?sid=25/03/04/023230&from=rss)
