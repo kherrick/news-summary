@@ -2,53 +2,45 @@
 
 ## Technology and Software Updates
 
-* [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/) ([comments](https://news.ycombinator.com/item?id=43323485))
+* [Apple Pulls iPhone 16 Ad Showing Off 'More Personal Siri'](https://apple.slashdot.org/story/25/03/10/1936216/apple-pulls-iphone-16-ad-showing-off-more-personal-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple has pulled advertisements for its upcoming iPhone due to privacy concerns raised over a more personal Siri.
 
-* [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) ([comments](https://news.ycombinator.com/item?id=43322922))
+* [Firmware Update Bricks HP Printers, Makes Them Unable To Use HP Cartridges](https://hardware.slashdot.org/story/25/03/10/1923229/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A firmware update has rendered certain HP printers inoperable with their branded cartridges.
 
-* [Microsoft Admits GitHub Hosted Malware That Infected Almost a Million Devices](https://it.slashdot.org/story/25/03/10/1652235/microsoft-admits-github-hosted-malware-that-infected-almost-a-million-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43319611))
+* [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/) - The newest version of Sidekiq promises improved features for background processing in Ruby applications.
 
-* [New Open Source Windows-Compatible Operating System Released](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43315406))
+* [Microsoft Admits GitHub Hosted Malware That Infected Almost a Million Devices](https://it.slashdot.org/story/25/03/10/1652235/microsoft-admits-github-hosted-malware-that-infected-almost-a-million-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A GitHub-hosted repository was identified as the source of malware infection impacting close to a million devices.
 
-* [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/) ([comments](https://lobste.rs/s/lipjwc/bringing_webkit_back_android))
+* [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - The popular ad-blocker uBlock Origin has been unexpectedly removed from the Chrome Web Store.
 
-## Artificial Intelligence and Ethics
+## Gaming and Entertainment Innovations
 
-* [Sony Says It Has Already Taken Down More Than 75,000 AI Deepfake Songs](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43321523))
+* [Microsoft To Launch Xbox Handheld in 2025, Next-Gen Consoles in 2027](https://games.slashdot.org/story/25/03/10/197231/microsoft-to-launch-xbox-handheld-in-2025-next-gen-consoles-in-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's plans for a portable Xbox console and next-gen gaming systems are set to transform the gaming experience.
 
-* [AI Isn't Creating New Knowledge, Hugging Face Co-Founder Says](https://slashdot.org/story/25/03/10/145255/ai-isnt-creating-new-knowledge-hugging-face-co-founder-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Sony Says It Has Already Taken Down More Than 75,000 AI Deepfake Songs](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sony continues its battle against AI deepfake tracks by removing tens of thousands from online platforms.
 
-* [How the AI Talent Race Is Reshaping the Tech Job Market](https://slashdot.org/story/25/03/10/1444216/how-the-ai-talent-race-is-reshaping-the-tech-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43315406))
+* ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - A new humanoid android aims to bring Jetsons-inspired household assistance to life.
 
-* [Zuckerberg's Meta Considered Sharing User Data with China, Whistleblower Alleges](https://tech.slashdot.org/story/25/03/10/0532235/zuckerbergs-meta-considered-sharing-user-data-with-china-whistleblower-alleges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science and Environment
 
-## Science and Health
+* [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - Security concerns raised over hidden commands discovered in widely used Bluetooth hardware.
 
-* [Are Microplastics Bad For Your Health? More Rigorous Science is Needed](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43323974))
+* [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122) - New Martian imagery reveals coastal deposits, deepening understanding of the planet's historic water systems.
 
-* [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html) ([comments](https://news.ycombinator.com/item?id=43323738))
+* [Are Microplastics Bad For Your Health? More Rigorous Science is Needed](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Calls for robust research into the potential impact of microplastics on human health grow louder.
 
-* [Bispecific antibodies potently neutralize SARS-CoV-2 variants of concern](https://www.science.org/doi/10.1126/scitranslmed.adq5720) ([comments](https://news.ycombinator.com/item?id=43315406))
+## Programming and Development
 
-* [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/) ([comments](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021))
+* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - A new book delves into the technical underpinnings of reinforcement learning methodologies.
 
-## Programming and Engineering
+* [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/) - An informative guide on integrating relative colors into modern CSS workflows.
 
-* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) ([comments](https://news.ycombinator.com/item?id=43323946))
+* [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/) - Rust's ambitions to solidify its place in critical low-level programming are detailed.
 
-* [A Quick Journey Into the Linux Kernel](https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel) ([comments](https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel))
+## AI and Ethics
 
-* [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/) ([comments](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational))
+* [How the AI Talent Race Is Reshaping the Tech Job Market](https://slashdot.org/story/25/03/10/1444216/how-the-ai-talent-race-is-reshaping-the-tech-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The growing demand for AI talent is causing a significant shift in job markets across the tech industry.
 
-* [Css Relative Colors](https://ishadeed.com/article/css-relative-colors/) ([comments](https://lobste.rs/s/iaqfqn/css_relative_colors))
-
-## Environmental and Climatic Issues
-
-* [US Will Be 'Central' To Climate Fight, Says Cop30 President](https://news.slashdot.org/story/25/03/10/1759201/us-will-be-central-to-climate-fight-says-cop30-president?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43315406))
-
-* [Volkswagen Bringing Back Physical Buttons, Says Removing Them Was a Mistake](https://tech.slashdot.org/story/25/03/10/1520223/volkswagen-bringing-back-physical-buttons-says-removing-them-was-a-mistake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/10/0331220&from=rss) ([comments](https://news.ycombinator.com/item?id=43315374))
+* [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) - Concerns arise about AI systems being over-optimized to provide agreeable answers.
 
 ---
 
@@ -75,13 +67,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-10, 21:30:00](https://apple.slashdot.org/story/25/03/10/1936216/apple-pulls-iphone-16-ad-showing-off-more-personal-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Pulls iPhone 16 Ad Showing Off 'More Personal Siri'](https://apple.slashdot.org/story/25/03/10/1936216/apple-pulls-iphone-16-ad-showing-off-more-personal-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-10, 21:24:06](https://news.ycombinator.com/item?id=43326275) - [What made the Irish famine so deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
+* [2025-03-10, 20:50:00](https://hardware.slashdot.org/story/25/03/10/1923229/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firmware Update Bricks HP Printers, Makes Them Unable To Use HP Cartridges](https://hardware.slashdot.org/story/25/03/10/1923229/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-10, 20:10:00](https://games.slashdot.org/story/25/03/10/197231/microsoft-to-launch-xbox-handheld-in-2025-next-gen-consoles-in-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft To Launch Xbox Handheld in 2025, Next-Gen Consoles in 2027](https://games.slashdot.org/story/25/03/10/197231/microsoft-to-launch-xbox-handheld-in-2025-next-gen-consoles-in-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
+* [2025-03-10, 19:35:00](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss)
+* [2025-03-10, 19:30:00](https://developers.slashdot.org/story/25/03/10/1921202/developer-convicted-for-kill-switch-code-activated-upon-his-termination?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Convicted For 'Kill Switch' Code Activated Upon His Termination](https://developers.slashdot.org/story/25/03/10/1921202/developer-convicted-for-kill-switch-code-activated-upon-his-termination?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-10, 19:29:53](https://news.ycombinator.com/item?id=43324887) - [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122)
 * [2025-03-10, 18:51:00](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Microplastics Bad For Your Health? More Rigorous Science is Needed](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-10, 18:50:29](https://lobste.rs/s/fhbzdf/debts_tech_otherwise) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
-* [2025-03-10, 18:29:00](https://news.ycombinator.com/item?id=43323974) - [What We've Learned from 150 Years of Stock Market Crashes](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)
+* [2025-03-10, 18:49:54](https://lobste.rs/s/tmlysd/eightyeightthirtyone_map_websites) - [eightyeightthirtyone: A Map of Websites Linked with 88x31 Buttons](https://eightyeightthirty.one/)
+* [2025-03-10, 18:32:22](https://news.ycombinator.com/item?id=43324040) - [British tourist detained by US authorities for 10 days over visa issue](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue)
 * [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-* [2025-03-10, 18:15:34](https://news.ycombinator.com/item?id=43323738) - [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html)
+* [2025-03-10, 18:26:27](https://news.ycombinator.com/item?id=43323923) - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
+* [2025-03-10, 18:22:57](https://news.ycombinator.com/item?id=43323860) - [STEPS Toward the Reinvention of Programming (2012) [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
+* [2025-03-10, 18:16:26](https://news.ycombinator.com/item?id=43323755) - [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
 * [2025-03-10, 18:10:00](https://news.slashdot.org/story/25/03/10/1759201/us-will-be-central-to-climate-fight-says-cop30-president?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Will Be 'Central' To Climate Fight, Says Cop30 President](https://news.slashdot.org/story/25/03/10/1759201/us-will-be-central-to-climate-fight-says-cop30-president?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
 * [2025-03-10, 17:59:02](https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel) - [A Quick Journey Into the Linux Kernel](https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel)
 * [2025-03-10, 17:51:10](https://lobste.rs/s/p4smxx/cp1_programming_language) - [The Cp1 Programming Language](https://cp1-lang.org/)
 * [2025-03-10, 17:42:00](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Says It Has Already Taken Down More Than 75,000 AI Deepfake Songs](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -89,7 +90,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 17:30:34](https://news.ycombinator.com/item?id=43322922) - [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 * [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 * [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
-* [2025-03-10, 16:56:08](https://news.ycombinator.com/item?id=43322496) - [Does Visual Studio rot the mind? (2005)](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
+* [2025-03-10, 17:17:10](https://lobste.rs/s/zellpc/software_falsehoods_you_can_build_it) - [Software Falsehoods: you can build it cheap, fast, and good - pick two](https://aaronstannard.com/software-price-speed-quality/)
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 16:52:00](https://it.slashdot.org/story/25/03/10/1652235/microsoft-admits-github-hosted-malware-that-infected-almost-a-million-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Admits GitHub Hosted Malware That Infected Almost a Million Devices](https://it.slashdot.org/story/25/03/10/1652235/microsoft-admits-github-hosted-malware-that-infected-almost-a-million-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
@@ -124,31 +125,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 04:56:03](https://lobste.rs/s/lipjwc/bringing_webkit_back_android) - [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)
 * [2025-03-10, 04:40:00](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss)
 * [2025-03-10, 04:34:00](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oscar-Winning Movie Criticized for Using AI To Correct Dialects](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-10, 02:45:00](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Open Source Windows-Compatible Operating System Released](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-10, 02:13:38](https://lobste.rs/s/u0ctt0/developing_pkgsrc_with_git) - [Developing pkgsrc with git](https://bentsukun.ch/posts/pkgsrc-with-git/)
-* [2025-03-10, 00:59:00](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Adafruit Successfully Automates Arduino Development Using 'Claude Code' LLM](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-10, 00:46:00](https://news.ycombinator.com/item?id=43315634) - [Bispecific antibodies potently neutralize SARS-CoV-2 variants of concern](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 * [2025-03-10, 00:16:54](https://news.ycombinator.com/item?id=43315406) - [Chasing RFI Waves – Part Seven](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
 * [2025-03-10, 00:01:00](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
-* [2025-03-09, 23:19:00](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [That Galaxy Next Door?  It's Home to a Monster Black Hole](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
-* [2025-03-09, 21:48:00](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can Ants Teach Us How to Program Self-Driving Cars?](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
 * [2025-03-09, 17:40:38](https://news.ycombinator.com/item?id=43311573) - [Ecosia is teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
 * [2025-03-09, 16:23:27](https://lobste.rs/s/caldlu/ai_uncertain_future_work) - [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
 * [2025-03-09, 15:48:52](https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul) - [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
 * [2025-03-09, 14:37:00](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss) - [Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss)
-* [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:29:27](https://news.ycombinator.com/item?id=43307833) - [Sigint in Fiction](https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html)
 * [2025-03-09, 09:53:00](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
-* [2025-03-09, 06:29:34](https://lobste.rs/s/dslris/what_s_cooking_on_sourcehut_q1_2025) - [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
+* [2025-03-09, 09:20:20](https://news.ycombinator.com/item?id=43307541) - [How to Implement a Cosine Similarity Function in TypeScript](https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/)
 * [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
-* [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 00:23:00](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss) - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss)
+* [2025-03-08, 22:20:05](https://news.ycombinator.com/item?id=43304088) - [An election forecast that's 50-50 is not \"giving up.\"](https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/)
 * [2025-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss)
 * [2025-03-08, 15:37:00](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss) - [Temporary Problem with Stripe](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss)
 * [2025-03-08, 14:52:00](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) - [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss)
@@ -166,7 +160,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-07, 00:53:00](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss) - [15 Republican AGs Urge The Supreme Court To Make Affordable Broadband For Poor People Illegal](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss)
 * [2025-03-06, 20:10:00](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss) - [World's First \"Synthetic Biological Intelligence\" Runs on Living Human Cells](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss)
 * [2025-03-06, 15:25:00](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss) - [Google Cofounder Exhorts Employees to Work 60-Hour Weeks to Create AI Designed to Replace Them](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss)
-* [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 * [2025-03-06, 10:42:00](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss) - [First Petawatt Electron Beam Arrives, Ready to Rip Apart Matter and Space](https://soylentnews.org/article.pl?sid=25/03/05/0314241&from=rss)
 * [2025-03-06, 05:59:00](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss) - ['Fire the Intel Board and Rehire Pat Gelsinger,' Argues Former Intel Ceo Craig Barrett](https://soylentnews.org/article.pl?sid=25/03/05/031211&from=rss)
 * [2025-03-06, 01:13:00](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss)
