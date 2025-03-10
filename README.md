@@ -1,54 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## AI and Technology Advances
 
-* [Good Code Design From Linux/Kernel](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/) - An insightful exploration of software design practices exemplified in Linux and FFmpeg.
+* [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp) - Insights into how NVIDIA's latest GPU accelerates AI workloads, specifically Llama.cpp. ([comments](https://news.ycombinator.com/item?id=43317406))
 
-* [New Open Source Windows-Compatible Operating System Released](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Introducing a new open-source OS that aims for Windows compatibility.
+* ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - A humanoid robot prototype that promises to make domestic chores less tedious. ([comments](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss))
 
-* [Adafruit Successfully Automates Arduino Development Using 'Claude Code' LLM](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Adafruit leverages an LLM named Claude Code to enhance Arduino development productivity.
+* [Oscar-Winning Movie Criticized for Using AI To Correct Dialects](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversy over the use of AI to adapt movie scripts and pronunciation for dialect realism. ([comments](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Developing pkgsrc with git](https://bentsukun.ch/posts/pkgsrc-with-git/) - A practical guide for developers working with pkgsrc and Git.
+* [New Open Source Windows-Compatible Operating System Released](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough for developers seeking Windows alternatives via open source. ([comments](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/) - Analysis of performance improvements in Python 3.14 with a particular focus on tail-call optimization.
+* [Adafruit Successfully Automates Arduino Development Using 'Claude Code' LLM](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring automated embedded systems' development through advanced language models. ([comments](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/) - A new version of this functional programming language sees exciting new features.
+## Healthcare and Science Innovations
 
-* [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - A look at how Alphabet is innovating high-speed internet delivery using light beams.
+* [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720) - Promising breakthroughs in universal treatments for COVID-19 and its variants. ([comments](https://news.ycombinator.com/item?id=43315634))
 
-* [Undocumented "backdoor" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/) - Security concerns arise as a backdoor is discovered in widely-used Bluetooth chips.
+* [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html) - Advances in neuroscience understanding brain activity optimization. ([comments](https://news.ycombinator.com/item?id=43316912))
 
-* [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - Demonstration of AI voice-only capabilities prompts discussions on ethics and potential misuse.
-
-## Health and Science Advances
-
-* [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720) - Breakthrough treatment offers hope against all variants of SARS-CoV-2.
-
-* [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/) - Novel RNA discovery offers promising pathways for treating genetic damage.
-
-* [Stem Cell Therapy Trial Reverses 'Irreversible' Damage to Cornea](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Stem cell breakthrough restores hope for vision-impaired individuals.
-
-* [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - New research reveals potential anti-aging properties of brain slime.
-
-* [World's First "Synthetic Biological Intelligence" Runs on Living Human Cells](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss) - Exploring the future of computing with biological intelligence.
+* [Stem Cell Therapy Trial Reverses 'Irreversible' Damage to Cornea](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Major progress made in regenerative medicine for corneal damage. ([comments](https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ## Space and Astronomy
 
-* [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - Discoveries indicate ancient Martian beaches provide insights into the planet's past.
+* [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - Fascinating findings about ancient Martian geography and oceanic landscapes. ([comments](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss))
 
-* [That Galaxy Next Door?  It's Home to a Monster Black Hole](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the colossal black hole in our celestial neighborhood.
+* [That Galaxy Next Door?  It's Home to a Monster Black Hole](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unveiling the mysteries of massive black holes in neighboring galaxies. ([comments](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Some of Earth's Meteors Are Probably Coming All the Way From a Neighboring Star System](https://soylentnews.org/article.pl?sid=25/03/05/0257200&from=rss) - Study hints at interstellar visitors donating meteors to Earth's skies.
+## Programming and Development
 
-## Cultural and Miscellaneous Highlights
+* [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/) - A revival effort to reintroduce WebKit for Android browsers. ([comments](https://lobste.rs/s/lipjwc/bringing_webkit_back_android))
 
-* [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys) - A tribute to the work of Danish painter Vilhelm Hammershøi.
+* [Good Code Design From Linux/Kernel](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/) - Exploring how Linux kernel design principles influence modern software. ([comments](https://lobste.rs/s/mlzjyc/good_code_design_from_linux_kernel))
 
-* [Professor Ends Bulwer-Lytton Bad Writing Contest After 43 Years](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A literary tradition concludes after decades of humorously bad fiction.
+* [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/) - Benchmarks and analysis of the latest Python interpreter's enhancements. ([comments](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call))
 
-* [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk) - A nostalgic look at groundbreaking animation technology.
+## Cultural and Miscellaneous Stories
 
-* [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies) - A historical examination of controversies surrounding the Brave browser.
+* [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys) - A dive into the hauntingly subdued work of Danish artist Vilhelm Hammershøi. ([comments](https://news.ycombinator.com/item?id=43314851))
+
+* [Professor Ends Bulwer-Lytton Bad Writing Contest After 43 Years](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The conclusion of a satirical tribute to deliberately bad fictional opening lines. ([comments](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -75,32 +65,36 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-10, 06:01:18](https://news.ycombinator.com/item?id=43317406) - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
+* [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
+* [2025-03-10, 04:56:03](https://lobste.rs/s/lipjwc/bringing_webkit_back_android) - [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)
+* [2025-03-10, 04:40:00](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss)
+* [2025-03-10, 04:34:00](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Oscar-Winning Movie Criticized for Using AI To Correct Dialects](https://entertainment.slashdot.org/story/25/03/09/214237/oscar-winning-movie-criticized-for-using-ai-to-correct-dialects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: My predictions regarding AI progress](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
+* [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
 * [2025-03-10, 03:15:57](https://lobste.rs/s/mlzjyc/good_code_design_from_linux_kernel) - [Good Code Design From Linux/Kernel](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 * [2025-03-10, 02:45:00](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Open Source Windows-Compatible Operating System Released](https://tech.slashdot.org/story/25/03/10/0142235/new-open-source-windows-compatible-operating-system-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 02:13:38](https://lobste.rs/s/u0ctt0/developing_pkgsrc_with_git) - [Developing pkgsrc with git](https://bentsukun.ch/posts/pkgsrc-with-git/)
 * [2025-03-10, 01:30:43](https://news.ycombinator.com/item?id=43315994) - [Structured Labs (YC S23) Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
 * [2025-03-10, 00:59:00](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Adafruit Successfully Automates Arduino Development Using 'Claude Code' LLM](https://hardware.slashdot.org/story/25/03/10/0054257/adafruit-successfully-automates-arduino-development-using-claude-code-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 00:46:00](https://news.ycombinator.com/item?id=43315634) - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
-* [2025-03-10, 00:38:44](https://news.ycombinator.com/item?id=43315570) - [Microsoft's Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
-* [2025-03-10, 00:16:54](https://news.ycombinator.com/item?id=43315406) - [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
+* [2025-03-10, 00:16:54](https://news.ycombinator.com/item?id=43315406) - [Chasing RFI Waves – Part Seven](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
+* [2025-03-10, 00:02:26](https://lobste.rs/s/sereus/investigating_mitigating_argument) - [Investigating and mitigating an argument-dependent lookup bug in WinRT](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-10, 00:01:00](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
 * [2025-03-09, 23:19:00](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [That Galaxy Next Door?  It's Home to a Monster Black Hole](https://science.slashdot.org/story/25/03/09/2316231/that-galaxy-next-door-its-home-to-a-monster-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
-* [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla's team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
+* [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla created secret team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:35:50](https://lobste.rs/s/qhjdtx/on_apple_exclaves) - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 21:48:00](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Can Ants Teach Us How to Program Self-Driving Cars?](https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 21:40:03](https://news.ycombinator.com/item?id=43314171) - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
-* [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 * [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 * [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
 * [2025-03-09, 20:50:18](https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really) - [Explaining Computers - FreeBSD - Really Alternative Desktop OS](https://www.youtube.com/watch?v=9Xm52v1D8qo)
 * [2025-03-09, 20:31:31](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias) - [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
 * [2025-03-09, 19:34:00](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['I Used to Teach Students. Now I Catch ChatGPT Cheats'](https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
-* [2025-03-09, 19:10:58](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams) - [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
 * [2025-03-09, 18:34:00](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Professor Ends Bulwer-Lytton Bad Writing Contest After 43 Years](https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 18:10:03](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
@@ -121,20 +115,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 09:53:00](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
-* [2025-03-09, 09:07:12](https://lobste.rs/s/tohpnt/lfortran_can_now_compile_prima) - [LFortran can now compile PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
-* [2025-03-09, 09:05:34](https://lobste.rs/s/nm2feq/spacetimedb) - [SpacetimeDB](https://spacetimedb.com/)
+* [2025-03-09, 09:13:44](https://news.ycombinator.com/item?id=43307489) - [OpenAPK – open-source Apps for Android, updated weekly](https://www.openapk.net)
 * [2025-03-09, 08:34:00](https://news.slashdot.org/story/25/03/09/0359219/is-america-closer-to-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is America Closer to Ending Daylight Saving Time?](https://news.slashdot.org/story/25/03/09/0359219/is-america-closer-to-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 * [2025-03-09, 06:29:34](https://lobste.rs/s/dslris/what_s_cooking_on_sourcehut_q1_2025) - [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
-* [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:34:00](https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ignoring Protests, Christie's Holds AI Art Auction, Makes Big Money](https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 05:14:26](https://lobste.rs/s/csr4mw/building_websites_with_lots_little_html) - [Building Websites With Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 * [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
-* [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 03:27:53](https://lobste.rs/s/zv7gj9/openssl_does_quic_api) - [OpenSSL does a QUIC API](https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/)
 * [2025-03-09, 03:06:41](https://lobste.rs/s/d96z4t/zinc_systems_programming_language) - [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/)
 * [2025-03-09, 01:59:00](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit and Digg Cofounders Plan Relaunch of 'Human-Centered' Digg With AI Innovations](https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-09, 00:39:00](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Free Software Foundation Rides To Defend AGPLv3 Against Neo4j License Add-ons](https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-09, 00:23:00](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss) - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss)
 * [2025-03-08, 23:36:07](https://lobste.rs/s/p0wauf/cutting_edge_web_scraping_techniques) - [Cutting-edge web scraping techniques](https://github.com/simonw/nicar-2025-scraping/blob/main/README.md)
 * [2025-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss)
@@ -146,6 +135,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-08, 10:07:00](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss)
 * [2025-03-08, 05:22:00](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss)
 * [2025-03-08, 00:37:00](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss) - [The International Space Station Lacks Microbial Diversity. Is It Too Clean?](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss)
+* [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
 * [2025-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss) - [Massive Supereruptions Might Not Trigger the Apocalypse, Just Decades of Chaos](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 15:10:00](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss) - [Your Kitchen Utensils May be Poisoning You](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss)
@@ -157,6 +147,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-07, 05:42:00](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss) - [BP Shuns Renewables in Return to Oil and Gas](https://soylentnews.org/article.pl?sid=25/03/05/162236&from=rss)
 * [2025-03-07, 03:32:47](https://news.ycombinator.com/item?id=43287193) - [The Kernighan-Lin Search Algorithm](https://arxiv.org/abs/2502.00316)
 * [2025-03-07, 00:53:00](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss) - [15 Republican AGs Urge The Supreme Court To Make Affordable Broadband For Poor People Illegal](https://soylentnews.org/politics/article.pl?sid=25/03/05/1555220&from=rss)
+* [2025-03-07, 00:14:06](https://news.ycombinator.com/item?id=43286363) - [Ask HN: Best way to simultaneously run multiple projects locally?](https://news.ycombinator.com/item?id=43286363)
 * [2025-03-06, 20:10:00](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss) - [World's First \"Synthetic Biological Intelligence\" Runs on Living Human Cells](https://soylentnews.org/article.pl?sid=25/03/05/1550252&from=rss)
 * [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 15:25:00](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss) - [Google Cofounder Exhorts Employees to Work 60-Hour Weeks to Create AI Designed to Replace Them](https://soylentnews.org/article.pl?sid=25/03/05/1546231&from=rss)
