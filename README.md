@@ -1,54 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Research
+## Science and Technology Progress
 
-* [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001) - A groundbreaking discovery in physics as researchers create a supersolid state using photons. [Comments](https://news.ycombinator.com/item?id=43329427)
+* [A Paleoarchaean Impact Crater in the Pilbara Craton, Western Australia](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss) - A study unveils a 3.4-billion-year-old impact crater, providing valuable insights into Earth's early history. [Comments](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss)
 
-* [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/) - The latest update of the popular job processing system, featuring improved performance and new features. [Comments](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0)
+* [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001) - Scientists create a supersolid state of matter using light, opening new discussions about quantum mechanics. [Comments](https://news.ycombinator.com/item?id=43329427)
 
-* [The Cp1 Programming Language](https://cp1-lang.org/) - An introduction to Cp1, a unique scripting language designed with simplicity and expressiveness in mind. [Comments](https://lobste.rs/s/p4smxx/cp1_programming_language)
+* [Microplastics Hinder Plant Photosynthesis, Study Finds](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research reveals microplastics' detrimental effects on plants' ability to conduct photosynthesis efficiently. [Comments](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Microplastics Hinder Plant Photosynthesis, Study Finds](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Newly published research explores the detrimental effects of microplastics on plant photosynthesis. [Comments](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Innovations and Discoveries in Computing
 
-## Scientific Discoveries
+* [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/) - Espressif sheds light on hidden Bluetooth commands for the popular ESP32 chip. [Comments](https://news.ycombinator.com/item?id=43330331)
 
-* [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development) - India achieves a significant milestone in eradicating extreme poverty, according to recent data. [Comments](https://news.ycombinator.com/item?id=43329373)
+* [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations) - A sneak peek into dynamic derivations in Nix, enabling enhanced dependency management. [Comments](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations)
 
-* [When a Hyperspectral Image is a Cube](https://mirawelner.com/posts/cube.html) - A creative exploration of hyperspectral imaging, showcasing its practicality and visual properties as a data cube. [Comments](https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube)
+* [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html) - A step-by-step guide showcasing a personal website built using a Raspberry Pi. [Comments](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi)
 
-* [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - A bold venture in asteroid mining faces setbacks as a spacecraft goes missing in deep space. [Comments](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
+## Economic and Societal Developments
 
-## Cybersecurity and Privacy
+* [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development) - India's monumental success in reducing extreme poverty challenges common development assumptions. [Comments](https://news.ycombinator.com/item?id=43329373)
 
-* [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) - Microsoft reveals GitHub was unknowingly exploited to host malware, infecting close to a million devices. [Comments](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss)
+* [NASA Eliminates Chief Scientist and Other Jobs At Its Headquarters](https://science.slashdot.org/story/25/03/11/004258/nasa-eliminates-chief-scientist-and-other-jobs-at-its-headquarters?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA undergoes a reshuffle by cutting several high-level positions at its headquarters. [Comments](https://science.slashdot.org/story/25/03/11/004258/nasa-eliminates-chief-scientist-and-other-jobs-at-its-headquarters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - Security concerns as undocumented functions in Bluetooth chips are discovered, potentially affecting billions of devices. [Comments](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss)
+## Intriguing Tech History and Concepts
 
-* [Bluesky CEO Jay Graber Pokes Fun At Mark Zuckerberg With Latin Phrase T-Shirt](https://entertainment.slashdot.org/story/25/03/10/2111223/bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - In a lighthearted gesture, the Bluesky CEO teases Mark Zuckerberg with a witty Latin phrase on a shirt. [Comments](https://entertainment.slashdot.org/story/25/03/10/2111223/bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/) - A fascinating experiment exploring how spacetime bending principles might be tested at home. [Comments](https://news.ycombinator.com/item?id=43327730)
 
-## Software and Development
-
-* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - A comprehensive guide to the mathematical principles underpinning reinforcement learning. [Comments](https://news.ycombinator.com/item?id=43323946)
-
-* [Shef](https://github.com/eduardoagarcia/shef) - A new project that sheds light on advancements and innovations within software frameworks. [Comments](https://news.ycombinator.com/item?id=43327758)
-
-* [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/) - An insightful look at the future trajectory of the Rust programming language. [Comments](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational)
-
-## Environmental and Social Issues
-
-* [US Supreme Court Weakens Rules on Discharge of Raw Sewage Into Water Supplies](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss) - A controversial Supreme Court decision could have negative implications for water quality standards. [Comments](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss)
-
-* [Internet Shutdowns At Record High In Africa As Access 'Weaponized'](https://tech.slashdot.org/story/25/03/10/212233/internet-shutdowns-at-record-high-in-africa-as-access-weaponized?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A concerning report on the rising use of internet shutdowns as a political tool in Africa. [Comments](https://tech.slashdot.org/story/25/03/10/212233/internet-shutdowns-at-record-high-in-africa-as-access-weaponized?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/) - A unique business model prioritizing environmental sustainability over shareholder profits. [Comments](https://news.ycombinator.com/item?id=43317887)
-
-## Miscellaneous
-
-* [New Zealand's $16 Billion Public Health System Runs on a Single Excel Sheet](https://tech.slashdot.org/story/25/03/10/2341223/new-zealands-16-billion-public-health-system-runs-on-a-single-excel-sheet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A revealing story about the surprising dependence of New Zealand's healthcare system on a single Excel document. [Comments](https://tech.slashdot.org/story/25/03/10/2341223/new-zealands-16-billion-public-health-system-runs-on-a-single-excel-sheet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com) - A novel social media platform offering a unique twist of limited accessibility. [Comments](https://news.ycombinator.com/item?id=43328095)
-
-* [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html) - An inspiring story of resourcefulness and creativity in website development. [Comments](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi)
+* [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/) - An investigation into optimizing tail-call performance in Python interpreters. [Comments](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call)
 
 ---
 
@@ -75,7 +53,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-03-11, 05:59:00](https://news.ycombinator.com/item?id=43329580) - [A succinct email in just a subject line](https://rubenerd.com/a-succinct-email-in-just-a-subject-line/)
+* [2025-03-11, 09:50:00](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss) - [A Paleoarchaean Impact Crater in the Pilbara Craton, Western Australia](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss)
+* [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
+* [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
+* [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
+* [2025-03-11, 07:00:00](https://science.slashdot.org/story/25/03/11/004258/nasa-eliminates-chief-scientist-and-other-jobs-at-its-headquarters?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Eliminates Chief Scientist and Other Jobs At Its Headquarters](https://science.slashdot.org/story/25/03/11/004258/nasa-eliminates-chief-scientist-and-other-jobs-at-its-headquarters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 05:06:00](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) - [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss)
@@ -85,6 +67,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-11, 03:30:00](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microplastics Hinder Plant Photosynthesis, Study Finds](https://news.slashdot.org/story/25/03/10/2349232/microplastics-hinder-plant-photosynthesis-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 02:10:00](https://tech.slashdot.org/story/25/03/10/2341223/new-zealands-16-billion-public-health-system-runs-on-a-single-excel-sheet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [New Zealand's $16 Billion Public Health System Runs on a Single Excel Sheet](https://tech.slashdot.org/story/25/03/10/2341223/new-zealands-16-billion-public-health-system-runs-on-a-single-excel-sheet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 01:30:00](https://news.slashdot.org/story/25/03/10/2333206/photographers-are-on-a-mission-to-fix-wikipedias-famously-bad-celebrity-portraits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Photographers Are on a Mission to Fix Wikipedia's Famously Bad Celebrity Portraits](https://news.slashdot.org/story/25/03/10/2333206/photographers-are-on-a-mission-to-fix-wikipedias-famously-bad-celebrity-portraits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-11, 01:19:38](https://lobste.rs/s/y5sdjz/freebsd_13_5_release_now_available) - [FreeBSD 13.5-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2025-March/000181.html)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:50:00](https://tech.slashdot.org/story/25/03/10/2321254/asana-ceo-announces-retirement-stock-plummets-25?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Asana CEO Announces Retirement, Stock Plummets 25%](https://tech.slashdot.org/story/25/03/10/2321254/asana-ceo-announces-retirement-stock-plummets-25?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss) - [US Supreme Court Weakens Rules on Discharge of Raw Sewage Into Water Supplies](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss)
@@ -108,18 +91,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 19:30:00](https://developers.slashdot.org/story/25/03/10/1921202/developer-convicted-for-kill-switch-code-activated-upon-his-termination?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Convicted For 'Kill Switch' Code Activated Upon His Termination](https://developers.slashdot.org/story/25/03/10/1921202/developer-convicted-for-kill-switch-code-activated-upon-his-termination?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 18:51:00](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Are Microplastics Bad For Your Health? More Rigorous Science is Needed](https://science.slashdot.org/story/25/03/10/1851249/are-microplastics-bad-for-your-health-more-rigorous-science-is-needed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+* [2025-03-10, 18:26:27](https://news.ycombinator.com/item?id=43323923) - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
 * [2025-03-10, 18:22:57](https://news.ycombinator.com/item?id=43323860) - [STEPS Toward the Reinvention of Programming (2012) [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
 * [2025-03-10, 18:10:00](https://news.slashdot.org/story/25/03/10/1759201/us-will-be-central-to-climate-fight-says-cop30-president?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Will Be 'Central' To Climate Fight, Says Cop30 President](https://news.slashdot.org/story/25/03/10/1759201/us-will-be-central-to-climate-fight-says-cop30-president?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 17:59:02](https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel) - [A Quick Journey Into the Linux Kernel](https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel)
 * [2025-03-10, 17:51:10](https://lobste.rs/s/p4smxx/cp1_programming_language) - [The Cp1 Programming Language](https://cp1-lang.org/)
-* [2025-03-10, 17:42:00](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Sony Says It Has Already Taken Down More Than 75,000 AI Deepfake Songs](https://entertainment.slashdot.org/story/25/03/10/1743215/sony-says-it-has-already-taken-down-more-than-75000-ai-deepfake-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 * [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 * [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
 * [2025-03-10, 17:17:10](https://lobste.rs/s/zellpc/software_falsehoods_you_can_build_it) - [Software Falsehoods: you can build it cheap, fast, and good - pick two](https://aaronstannard.com/software-price-speed-quality/)
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
-* [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
 * [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-03-10, 14:46:00](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss) - [How Tiny Can You Scale It Until Things Won't Work?](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss)
@@ -138,30 +120,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 04:40:00](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss)
 * [2025-03-10, 00:01:00](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
-* [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
 * [2025-03-09, 14:37:00](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss) - [Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss)
-* [2025-03-09, 11:56:13](https://news.ycombinator.com/item?id=43308296) - [How Facebook Marketplace is keeping young people on the platform](https://www.cnbc.com/2025/03/08/how-facebook-marketplace-is-keeping-young-people-on-the-platform-.html)
-* [2025-03-09, 11:29:46](https://news.ycombinator.com/item?id=43308111) - [Kubernetes Home – what do you do if your ISP changes your IP addresses?](https://vegard.blog.engen.priv.no/?p=423)
-* [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
-* [2025-03-09, 10:29:27](https://news.ycombinator.com/item?id=43307833) - [Sigint in Fiction](https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html)
 * [2025-03-09, 09:53:00](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
 * [2025-03-09, 09:20:20](https://news.ycombinator.com/item?id=43307541) - [How to Implement a Cosine Similarity Function in TypeScript](https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/)
 * [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
+* [2025-03-09, 03:23:26](https://news.ycombinator.com/item?id=43305881) - [Neonatal fungi: lifelong metabolic health via macrophage β cell development](https://www.science.org/doi/10.1126/science.adn0953)
 * [2025-03-09, 00:23:00](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss) - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss)
+* [2025-03-08, 22:35:44](https://news.ycombinator.com/item?id=43304205) - [Kissing moons may explain why Earth's moon is so large](https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016)
+* [2025-03-08, 22:20:05](https://news.ycombinator.com/item?id=43304088) - [An election forecast that’s 50-50 is not “giving up”](https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/)
 * [2025-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss)
-* [2025-03-08, 17:36:54](https://news.ycombinator.com/item?id=43301848) - [Hackintoshing as a sustainable environmental practice](https://opengears.medium.com/hackintoshing-as-a-sustainable-environmental-practice-78baf2cdd353)
 * [2025-03-08, 15:37:00](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss) - [Temporary Problem with Stripe](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss)
 * [2025-03-08, 14:52:00](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) - [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss)
 * [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-08, 10:07:00](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss)
 * [2025-03-08, 10:06:01](https://news.ycombinator.com/item?id=43298945) - [Asking LLMs to create my game Shepard's Dog](https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md)
 * [2025-03-08, 05:22:00](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss)
+* [2025-03-08, 04:42:58](https://news.ycombinator.com/item?id=43297563) - [Take a Cold Bath](https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath)
 * [2025-03-08, 00:37:00](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss) - [The International Space Station Lacks Microbial Diversity. Is It Too Clean?](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss)
 * [2025-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss) - [Massive Supereruptions Might Not Trigger the Apocalypse, Just Decades of Chaos](https://soylentnews.org/article.pl?sid=25/03/07/047205&from=rss)
 * [2025-03-07, 15:10:00](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss) - [Your Kitchen Utensils May be Poisoning You](https://soylentnews.org/article.pl?sid=25/03/07/041244&from=rss)
 * [2025-03-07, 14:50:09](https://news.ycombinator.com/item?id=43290620) - [Bel in Clojure (2022)](https://stopa.io/post/290)
-* [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 10:26:00](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss) - [How We Added Interlaced Video to Raspberry Pi 5](https://soylentnews.org/article.pl?sid=25/03/05/1610259&from=rss)
 * [2025-03-07, 09:42:03](https://news.ycombinator.com/item?id=43288691) - [Arranging invisible icons in quadratic time (2021)](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
 * [2025-03-07, 08:54:00](https://news.ycombinator.com/item?id=43288410) - [HyperShell X Outdoor PowerSuit Exoskeleton](https://hypershell.tech/en-us)
