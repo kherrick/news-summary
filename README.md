@@ -1,48 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Neuroscience and Scientific Explorations
+## AI and Robotics
 
-* [How far neuroscience is from understanding brains (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/) ([comments](https://news.ycombinator.com/item?id=43342407))
+* [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) ([comments](https://news.ycombinator.com/item?id=43344082))
 
-* [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100) ([comments](https://news.ycombinator.com/item?id=43342071))
+* [OpenAI Pushes AI Agent Capabilities With New Developer API](https://developers.slashdot.org/story/25/03/11/2154229/openai-pushes-ai-agent-capabilities-with-new-developer-api?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43339629))
 
-* [Stars Made From Only Primordial Gas Finally Spotted](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss) ([comments](https://news.ycombinator.com/item?id=43341500))
+* [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) ([comments](https://news.ycombinator.com/item?id=43275903))
 
-* [A Paleoarchaean Impact Crater in the Pilbara Craton, Western Australia](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss) ([comments](https://news.ycombinator.com/item?id=43330900))
+## Programming and Tech Development
 
-## Innovations in Software and AI
+* [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/) ([comments](https://news.ycombinator.com/item?id=43343832))
 
-* [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza) ([comments](https://news.ycombinator.com/item?id=43342361))
+* [rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support](https://github.com/HaoboGu/rmk) ([comments](https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with))
 
-* [OpenAI Pushes AI Agent Capabilities With New Developer API](https://developers.slashdot.org/story/25/03/11/2154229/openai-pushes-ai-agent-capabilities-with-new-developer-api?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43339600))
+* [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html) ([comments](https://news.ycombinator.com/item?id=43342712))
 
-* [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching) ([comments](https://news.ycombinator.com/item?id=43339563))
+* [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/) ([comments](https://news.ycombinator.com/item?id=43338405))
 
-* [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court) ([comments](https://news.ycombinator.com/item?id=43333484))
+* [Fastplotlib: GPU-accelerated, fast, and interactive plotting library](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c) ([comments](https://news.ycombinator.com/item?id=43334190))
 
-## Technology and Hardware Advancements
+* [(Re)writing an interpreter in Rust](https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/) ([comments](https://lobste.rs/s/34dsf7/re_writing_interpreter_rust))
 
-* [C programming language official site](https://www.c-language.org/) ([comments](https://news.ycombinator.com/item?id=43341801))
+## Space and Astronomy
 
-* [AMD Ryzen 9 9950X3D With 3D V-Cache Impresses In Launch Day Testing](https://hardware.slashdot.org/story/25/03/11/2126204/amd-ryzen-9-9950x3d-with-3d-v-cache-impresses-in-launch-day-testing?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43341200))
+* [Where Will the 'Blood Moon' Total Lunar Eclipse be Visible in March 2025?](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss) ([comments](https://news.ycombinator.com/item?id=43342917))
 
-* [Translating bzip2 with c2rust](https://tweedegolf.nl/en/blog/151/translating-bzip2-with-c2rust) ([comments](https://news.ycombinator.com/item?id=43339206))
+* [Stars Made From Only Primordial Gas Finally Spotted](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss) ([comments](https://news.ycombinator.com/item?id=43342555))
 
-* [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709) ([comments](https://news.ycombinator.com/item?id=43332658))
+* [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) ([comments](https://news.ycombinator.com/item?id=43305510))
 
-## Cybersecurity and Data Integrity
+## New Technologies and Innovations
+
+* [Team Behind Las Vegas Sphere Plans 5,000-Capacity 'Mini-Spheres'](https://entertainment.slashdot.org/story/25/03/11/2143232/team-behind-las-vegas-sphere-plans-5000-capacity-mini-spheres?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43340491))
+
+* [Solar Adds More New Capacity To the US Grid In 2024 Than Any Energy Source In 20 Years](https://hardware.slashdot.org/story/25/03/11/2133237/solar-adds-more-new-capacity-to-the-us-grid-in-2024-than-any-energy-source-in-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43341789))
+
+* [Geothermal Could Power Nearly All New Data Centers Through 2030](https://news.slashdot.org/story/25/03/11/2149222/geothermal-could-power-nearly-all-new-data-centers-through-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43339206))
+
+## Cybersecurity
+
+* [PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss) ([comments](https://news.ycombinator.com/item?id=43339985))
 
 * [Azure's Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections) ([comments](https://news.ycombinator.com/item?id=43340505))
 
-* [PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss) ([comments](https://news.ycombinator.com/item?id=43340385))
+* [On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/) ([comments](https://news.ycombinator.com/item?id=43340385))
 
-* [On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/) ([comments](https://news.ycombinator.com/item?id=43340196))
+## Society and Regulations
 
-## Energy and Sustainability
+* [Anonymous Sources: Starship Needs a Major Rebuild After Two Consecutive Failures](https://science.slashdot.org/story/25/03/11/2159228/anonymous-sources-starship-needs-a-major-rebuild-after-two-consecutive-failures?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43339566))
 
-* [Solar Adds More New Capacity To the US Grid In 2024 Than Any Energy Source In 20 Years](https://hardware.slashdot.org/story/25/03/11/2133237/solar-adds-more-new-capacity-to-the-us-grid-in-2024-than-any-energy-source-in-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43331000))
+* [Spain To Impose Massive Fines For Not Labeling AI-Generated Content](https://news.slashdot.org/story/25/03/11/200242/spain-to-impose-massive-fines-for-not-labeling-ai-generated-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43337896))
 
-* [Geothermal Could Power Nearly All New Data Centers Through 2030](https://news.slashdot.org/story/25/03/11/2149222/geothermal-could-power-nearly-all-new-data-centers-through-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43331020))
+* [Political Poll News Site 538 to Close Amid Larger Shuttering Across ABC and Disney](https://soylentnews.org/article.pl?sid=25/03/11/1148251&from=rss) ([comments](https://news.ycombinator.com/item?id=43340192))
 
 ---
 
@@ -69,13 +79,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-12, 15:12:44](https://news.ycombinator.com/item?id=43344129) - ['It was chaos': The history of San Francisco's most unforgettable ad](https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php)
+* [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
+* [2025-03-12, 15:04:50](https://lobste.rs/s/21k85t/poking_around_claude_code) - [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/)
+* [2025-03-12, 14:46:02](https://news.ycombinator.com/item?id=43343832) - [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
+* [2025-03-12, 14:44:54](https://lobste.rs/s/icbgrq/perplexing_javascript_parsing_puzzle) - [A Perplexing Javascript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
+* [2025-03-12, 14:42:24](https://lobste.rs/s/iw9stc/initializing_lte_modem_using_raw_usb) - [Initializing an LTE modem using raw USB communication](https://dawidwrobel.com/journal/initializing-lte-modem-using-raw-usb-communication/)
+* [2025-03-12, 14:30:22](https://lobste.rs/s/0dqswp/hacking_gpo_746_rotary_phone) - [Hacking a GPO 746 rotary phone](https://blog.yaymukund.com/posts/hacking-a-gpo-746-rotary-phone/)
+* [2025-03-12, 14:21:00](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss) - [Where Will the 'Blood Moon' Total Lunar Eclipse be Visible in March 2025?](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss)
+* [2025-03-12, 14:10:08](https://lobste.rs/s/v7qfbz/duckdb_local_ui) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+* [2025-03-12, 13:55:43](https://lobste.rs/s/iqtaie/haiku_activity_contract_report_february) - [Haiku Activity & Contract Report, February 2025](https://www.haiku-os.org/blog/waddlesplash/2025-03-11-haiku_activity_contract_report_february_2025/)
+* [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:13:42](https://news.ycombinator.com/item?id=43342407) - [How far neuroscience is from understanding brains (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 * [2025-03-12, 12:00:28](https://news.ycombinator.com/item?id=43342301) - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
 * [2025-03-12, 11:47:00](https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with) - [rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support](https://github.com/HaoboGu/rmk)
 * [2025-03-12, 11:42:16](https://news.ycombinator.com/item?id=43342178) - [The Future Is Niri](https://ersei.net/en/blog/niri)
+* [2025-03-12, 11:26:30](https://news.ycombinator.com/item?id=43342081) - [Children under eight should avoid slushies as glycerol leads to hospitalisations](https://news.sky.com/story/children-under-eight-should-avoid-slushies-as-glycerol-leads-to-hospitalisations-study-13326879)
 * [2025-03-12, 11:24:40](https://news.ycombinator.com/item?id=43342071) - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
-* [2025-03-12, 10:48:00](https://news.ycombinator.com/item?id=43341801) - [C programming language official site](https://www.c-language.org/)
 * [2025-03-12, 10:46:18](https://news.ycombinator.com/item?id=43341789) - [Space Invaders](https://www.computerarcheology.com/Arcade/SpaceInvaders/)
 * [2025-03-12, 10:00:00](https://hardware.slashdot.org/story/25/03/11/2133237/solar-adds-more-new-capacity-to-the-us-grid-in-2024-than-any-energy-source-in-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Solar Adds More New Capacity To the US Grid In 2024 Than Any Energy Source In 20 Years](https://hardware.slashdot.org/story/25/03/11/2133237/solar-adds-more-new-capacity-to-the-us-grid-in-2024-than-any-energy-source-in-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 09:35:00](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss) - [PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss)
@@ -106,11 +127,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 * [2025-03-11, 22:09:40](https://lobste.rs/s/4eobii/how_afterhour_built_ultra_scalable_chat) - [How AfterHour built an ultra-scalable chat service in one month with Rama](https://blog.redplanetlabs.com/2025/03/11/how-afterhour-built-an-ultra-scalable-chat-service-in-one-month-with-rama/)
 * [2025-03-11, 22:00:00](https://tech.slashdot.org/story/25/03/11/2015220/zoox-robotaxis-do-not-meet-federal-safety-standards-agency-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Zoox Robotaxis Do Not Meet Federal Safety Standards, Agency Says](https://tech.slashdot.org/story/25/03/11/2015220/zoox-robotaxis-do-not-meet-federal-safety-standards-agency-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-11, 21:22:01](https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment) - [UNIX Needs A True Integrated Environment: CASE Closed (1989)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 21:20:00](https://it.slashdot.org/story/25/03/11/207242/thousands-of-tp-link-routers-have-been-infected-by-a-botnet-to-spread-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Thousands of TP-Link Routers Have Been Infected By a Botnet To Spread Malware](https://it.slashdot.org/story/25/03/11/207242/thousands-of-tp-link-routers-have-been-infected-by-a-botnet-to-spread-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
-* [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
-* [2025-03-11, 20:46:07](https://lobste.rs/s/hoirtg/making_multiplayer_action_game_haskell) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
 * [2025-03-11, 20:40:00](https://news.slashdot.org/story/25/03/11/200242/spain-to-impose-massive-fines-for-not-labeling-ai-generated-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Spain To Impose Massive Fines For Not Labeling AI-Generated Content](https://news.slashdot.org/story/25/03/11/200242/spain-to-impose-massive-fines-for-not-labeling-ai-generated-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 20:08:58](https://lobste.rs/s/oi1vqm/rust_trait_object_layout) - [Rust trait object layout](https://neugierig.org/software/blog/2025/03/trait-object-layout.html)
 * [2025-03-11, 20:00:00](https://slashdot.org/story/25/03/11/1953254/vodafone-tells-employees-to-follow-rto-policy-or-lose-bonuses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Vodafone Tells Employees To Follow RTO Policy Or Lose Bonuses](https://slashdot.org/story/25/03/11/1953254/vodafone-tells-employees-to-follow-rto-policy-or-lose-bonuses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -121,26 +139,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-11, 18:05:00](https://science.slashdot.org/story/25/03/11/1755217/the-surprising-impact-of-qr-code-menus-on-diminishing-customer-loyalty?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [The Surprising Impact of QR Code Menus on Diminishing Customer Loyalty](https://science.slashdot.org/story/25/03/11/1755217/the-surprising-impact-of-qr-code-menus-on-diminishing-customer-loyalty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-11, 17:49:11](https://lobste.rs/s/mewqa9/thoughts_about_naming_things) - [Thoughts About Naming Things](http://11spades.net/posts/on-naming-things/)
 * [2025-03-11, 17:26:00](https://it.slashdot.org/story/25/03/11/1726218/why-extracting-data-from-pdfs-remains-a-nightmare-for-data-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Extracting Data from PDFs Remains a Nightmare for Data Experts](https://it.slashdot.org/story/25/03/11/1726218/why-extracting-data-from-pdfs-remains-a-nightmare-for-data-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-11, 17:04:57](https://news.ycombinator.com/item?id=43334644) - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
-* [2025-03-11, 16:44:39](https://lobste.rs/s/y1dvmd/representing_type_lattices_compactly) - [Representing type lattices compactly](https://bernsteinbear.com/blog/lattice-bitset/)
+* [2025-03-11, 17:00:46](https://news.ycombinator.com/item?id=43334589) - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 * [2025-03-11, 16:33:24](https://news.ycombinator.com/item?id=43334190) - [Fastplotlib: GPU-accelerated, fast, and interactive plotting library](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 * [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:41:12](https://lobste.rs/s/3q0ei5/10x_faster_typescript) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 * [2025-03-11, 14:34:00](https://soylentnews.org/article.pl?sid=25/03/11/1132214&from=rss) - [Musk Complains: X Site Under Attack, and DOGE Interferes With His Job](https://soylentnews.org/article.pl?sid=25/03/11/1132214&from=rss)
-* [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 * [2025-03-11, 14:16:54](https://lobste.rs/s/gvkxlf/here_s_how_i_use_llms_help_me_write_code) - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 * [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
-* [2025-03-11, 13:15:40](https://lobste.rs/s/paim15/beyond_bad_output) - [Beyond Bad Output](https://hey.paris/posts/beyond-bad-output/)
-* [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
 * [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
-* [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 09:50:00](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss) - [A Paleoarchaean Impact Crater in the Pilbara Craton, Western Australia](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss)
 * [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
 * [2025-03-11, 05:06:00](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) - [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
 * [2025-03-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss) - [US Supreme Court Weakens Rules on Discharge of Raw Sewage Into Water Supplies](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss)
-* [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 19:35:00](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss)
 * [2025-03-10, 14:46:00](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss) - [How Tiny Can You Scale It Until Things Won't Work?](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss)
 * [2025-03-10, 09:27:00](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss) - [CISA Tags Windows, Cisco Vulnerabilities as Actively Exploited](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss)
@@ -148,18 +160,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 00:01:00](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
 * [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
+* [2025-03-09, 15:10:38](https://news.ycombinator.com/item?id=43309696) - [Definite clause grammars and symbolic differentiation](https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/)
 * [2025-03-09, 14:37:00](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss) - [Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
-* [2025-03-09, 10:38:28](https://news.ycombinator.com/item?id=43307861) - [Sovereign Lumber](https://mill.plainopen.com/sovereign-lumber)
-* [2025-03-09, 10:32:54](https://news.ycombinator.com/item?id=43307845) - [A Committed Year](https://www.ramijames.com/thoughts/a-committed-year)
 * [2025-03-09, 09:53:00](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
 * [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
 * [2025-03-09, 00:23:00](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss) - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://soylentnews.org/politics/article.pl?sid=25/03/08/0721219&from=rss)
-* [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering&photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
+* [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering, photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
 * [2025-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss) - [Alphabet's Taara Chip Uses Light Beams To Provide High-Speed Internet](https://soylentnews.org/article.pl?sid=25/03/08/0713256&from=rss)
+* [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301095) - [FDA issues early alert for Baxter's Spectrum infusion pump](https://www.medicaldevice-network.com/news/fda-issues-early-alert-for-baxter-spectrum-infusion-pump/)
 * [2025-03-08, 15:37:00](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss) - [Temporary Problem with Stripe](https://soylentnews.org/article.pl?sid=25/03/08/1538213&from=rss)
 * [2025-03-08, 14:52:00](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss) - [Hugging Face's Chief Science Officer Worries AI is Becoming 'Yes-Men on Servers'](https://soylentnews.org/article.pl?sid=25/03/08/072239&from=rss)
 * [2025-03-08, 10:07:00](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss) - [Eerily Realistic AI Voice Demo Sparks Amazement and Discomfort Online](https://soylentnews.org/article.pl?sid=25/03/07/0436239&from=rss)
 * [2025-03-08, 05:22:00](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss) - [Apple Refuses to Break Encryption, Seeks Reversal of UK Demand for Backdoor](https://soylentnews.org/article.pl?sid=25/03/07/0427238&from=rss)
 * [2025-03-08, 00:37:00](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss) - [The International Space Station Lacks Microbial Diversity. Is It Too Clean?](https://soylentnews.org/article.pl?sid=25/03/07/0422219&from=rss)
-* [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
