@@ -1,42 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Technological Innovations and Discoveries
 
-* [C plus Prolog](https://github.com/needleful/c_plus_prolog) [Comments](https://lobste.rs/s/akxfbm/c_plus_prolog)
+* [Supercomputer Draws Molecular Blueprint For Repairing Damaged DNA](https://science.slashdot.org/story/25/03/13/0035232/supercomputer-draws-molecular-blueprint-for-repairing-damaged-dna?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/03/13/0035232/supercomputer-draws-molecular-blueprint-for-repairing-damaged-dna?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Rust Drivers Expected to Become More Common in Linux Kernel](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss) [Comments](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss)
+* [Google Claims Gemma 3 Reaches 98% of DeepSeek's Accuracy Using Only One GPU](https://news.slashdot.org/story/25/03/13/0010231/google-claims-gemma-3-reaches-98-of-deepseeks-accuracy-using-only-one-gpu?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/03/13/0010231/google-claims-gemma-3-reaches-98-of-deepseeks-accuracy-using-only-one-gpu?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl) [Comments](https://news.ycombinator.com/item?id=43349426)
+* [Netflix Used AI To Upscale 'A Different World' and It's a Melted Nightmare](https://entertainment.slashdot.org/story/25/03/13/0218204/netflix-used-ai-to-upscale-a-different-world-and-its-a-melted-nightmare?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/25/03/13/0218204/netflix-used-ai-to-upscale-a-different-world-and-its-a-melted-nightmare?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Google Claims Gemma 3 Reaches 98% of DeepSeek's Accuracy Using Only One GPU](https://news.slashdot.org/story/25/03/13/0010231/google-claims-gemma-3-reaches-98-of-deepseeks-accuracy-using-only-one-gpu?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://news.slashdot.org/story/25/03/13/0010231/google-claims-gemma-3-reaches-98-of-deepseeks-accuracy-using-only-one-gpu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cybersecurity and Tech Industry
 
-* [Zinc, a systems programming language prototype](https://sr.ht/~oconnor0/zinc/) [Comments](https://news.ycombinator.com/item?id=43346864)
+* ['Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/) ([Comments](https://news.ycombinator.com/item?id=43349115))
 
-## Artificial Intelligence
+* [Rust Drivers Expected to Become More Common in Linux Kernel](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss))
 
-* [Netflix Used AI To Upscale 'A Different World' and It's a Melted Nightmare](https://entertainment.slashdot.org/story/25/03/13/0218204/netflix-used-ai-to-upscale-a-different-world-and-its-a-melted-nightmare?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://entertainment.slashdot.org/story/25/03/13/0218204/netflix-used-ai-to-upscale-a-different-world-and-its-a-melted-nightmare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) ([Comments](https://lobste.rs/s/azpmu3/something_is_rotten_state_cupertino))
 
-* [Google's New Robot AI Can Fold Delicate Origami, Close Zipper Bags](https://hardware.slashdot.org/story/25/03/12/2018222/googles-new-robot-ai-can-fold-delicate-origami-close-zipper-bags?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://hardware.slashdot.org/story/25/03/12/2018222/googles-new-robot-ai-can-fold-delicate-origami-close-zipper-bags?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science and Health
 
-* [The cultural divide between mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/) [Comments](https://news.ycombinator.com/item?id=43344703)
+* [Woolly Mice Are Cute and Impressive – but They Won't Bring Back Mammoths](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss))
 
-## Cybersecurity
+* [Large Study Shows Drinking Alcohol Is Good For Your Cholesterol Levels](https://science.slashdot.org/story/25/03/13/0016206/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/03/13/0016206/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* ['Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/) [Comments](https://news.ycombinator.com/item?id=43349115)
+## Programming and Open-Source Highlights
 
-* [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) [Comments](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss)
+* [C plus Prolog](https://github.com/needleful/c_plus_prolog) ([Comments](https://lobste.rs/s/akxfbm/c_plus_prolog))
 
-## Quantum Computing
+* [The Night Watch (2013) [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf) ([Comments](https://news.ycombinator.com/item?id=43347724))
 
-* [Majorana 1: Microsoft Under Fire For Claiming It Has A New Quantum Computer](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss) [Comments](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss)
+* [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl) ([Comments](https://news.ycombinator.com/item?id=43349426))
 
-* [D-Wave Claims 'Quantum Supremacy,' Beating Traditional Computers](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI and Robotics
 
-## Industry News
+* [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132) ([Comments](https://news.ycombinator.com/item?id=43351137))
 
-* [Saudi Investment Fund Pays $3.5 Billion To Capture Pokemon Go](https://games.slashdot.org/story/25/03/13/000254/saudi-investment-fund-pays-35-billion-to-capture-pokemon-go?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://games.slashdot.org/story/25/03/13/000254/saudi-investment-fund-pays-35-billion-to-capture-pokemon-go?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Intel Appoints Lip-Bu Tan As CEO](https://slashdot.org/story/25/03/12/2118219/intel-appoints-lip-bu-tan-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) [Comments](https://slashdot.org/story/25/03/12/2118219/intel-appoints-lip-bu-tan-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [D-Wave Claims 'Quantum Supremacy,' Beating Traditional Computers](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/03/12/1835207/d-wave-claims-quantum-supremacy-beating-traditional-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -63,6 +61,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-13, 09:21:00](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss) - [Woolly Mice Are Cute and Impressive – but They Won't Bring Back Mammoths](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss)
+* [2025-03-13, 08:07:44](https://lobste.rs/s/56ys0f/we_should_improve_libzfs_somewhat) - [We should improve libzfs somewhat](https://despairlabs.com/blog/posts/2025-03-12-we-should-improve-libzfs-somewhat/)
+* [2025-03-13, 07:59:55](https://news.ycombinator.com/item?id=43351137) - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
+* [2025-03-13, 07:00:00](https://science.slashdot.org/story/25/03/13/0035232/supercomputer-draws-molecular-blueprint-for-repairing-damaged-dna?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Supercomputer Draws Molecular Blueprint For Repairing Damaged DNA](https://science.slashdot.org/story/25/03/13/0035232/supercomputer-draws-molecular-blueprint-for-repairing-damaged-dna?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-13, 06:35:32](https://lobste.rs/s/akxfbm/c_plus_prolog) - [C plus Prolog](https://github.com/needleful/c_plus_prolog)
 * [2025-03-13, 04:37:00](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss) - [Rust Drivers Expected to Become More Common in Linux Kernel](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss)
 * [2025-03-13, 03:30:00](https://science.slashdot.org/story/25/03/13/0016206/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Large Study Shows Drinking Alcohol Is Good For Your Cholesterol Levels](https://science.slashdot.org/story/25/03/13/0016206/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -79,7 +81,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-12, 22:50:00](https://news.slashdot.org/story/25/03/12/2127218/mark-klein-att-whistleblower-who-revealed-nsa-mass-spying-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mark Klein, AT&amp;T Whistleblower Who Revealed NSA Mass Spying, Has Died](https://news.slashdot.org/story/25/03/12/2127218/mark-klein-att-whistleblower-who-revealed-nsa-mass-spying-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 22:32:30](https://news.ycombinator.com/item?id=43348379) - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 * [2025-03-12, 22:10:00](https://tech.slashdot.org/story/25/03/12/2026229/apple-set-to-unveil-boldest-software-redesign-in-years-across-entire-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Set To Unveil Boldest Software Redesign In Years Across Entire Ecosystem](https://tech.slashdot.org/story/25/03/12/2026229/apple-set-to-unveil-boldest-software-redesign-in-years-across-entire-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-12, 21:31:31](https://news.ycombinator.com/item?id=43347874) - [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
 * [2025-03-12, 21:30:00](https://slashdot.org/story/25/03/12/2118219/intel-appoints-lip-bu-tan-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Intel Appoints Lip-Bu Tan As CEO](https://slashdot.org/story/25/03/12/2118219/intel-appoints-lip-bu-tan-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 21:12:05](https://news.ycombinator.com/item?id=43347724) - [The Night Watch (2013) [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 * [2025-03-12, 21:05:08](https://news.ycombinator.com/item?id=43347662) - [Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
@@ -102,9 +103,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-12, 17:37:32](https://lobste.rs/s/vh3n7k/codebase_national_lab_i_worked_at) - [The Codebase of a National Lab I Worked At](https://mirawelner.com/posts/fed_code.html)
 * [2025-03-12, 17:30:00](https://tech.slashdot.org/story/25/03/12/176223/ftc-asks-to-delay-amazon-prime-deceptive-practices-case-citing-staffing-shortfalls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FTC Asks To Delay Amazon Prime Deceptive Practices Case, Citing Staffing Shortfalls](https://tech.slashdot.org/story/25/03/12/176223/ftc-asks-to-delay-amazon-prime-deceptive-practices-case-citing-staffing-shortfalls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 17:14:16](https://lobste.rs/s/nno4i5/carefully_purposefully_oxidising) - [Carefully But Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/)
-* [2025-03-12, 17:03:35](https://lobste.rs/s/1jwqtt/constant_time_code_pessimist_case) - [Constant-Time Code: The Pessimist Case](https://eprint.iacr.org/2025/435)
 * [2025-03-12, 17:00:28](https://news.ycombinator.com/item?id=43345285) - [Shenmue (1999) reverse engineering reveals possible sun position oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
-* [2025-03-12, 16:54:00](https://news.slashdot.org/story/25/03/12/1654217/us-schools-deploy-ai-surveillance-amid-security-lapses-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Schools Deploy AI Surveillance Amid Security Lapses, Privacy Concerns](https://news.slashdot.org/story/25/03/12/1654217/us-schools-deploy-ai-surveillance-amid-security-lapses-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-12, 16:07:35](https://news.ycombinator.com/item?id=43344703) - [The cultural divide between mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
 * [2025-03-12, 16:04:54](https://news.ycombinator.com/item?id=43344673) - [Reverse engineering OpenAI code execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
 * [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
@@ -145,12 +144,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-10, 09:27:00](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss) - [CISA Tags Windows, Cisco Vulnerabilities as Actively Exploited](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss)
 * [2025-03-10, 04:40:00](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss) - ['Jetsons' Robot Finally Arrives: Sweater-Wearing Neo Gamma Android Helps With Household Chores](https://soylentnews.org/article.pl?sid=25/03/09/0321220&from=rss)
 * [2025-03-10, 00:01:00](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
-* [2025-03-09, 22:33:28](https://news.ycombinator.com/item?id=43314603) - [A GS-Cache Inference Framework for Large-Scale Gaussian Splatting Models](https://arxiv.org/abs/2502.14938)
+* [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [2025-03-09, 19:18:00](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss) - [‘Slime’ Keeps the Brain Safe ― and Could Guard Against Ageing](https://soylentnews.org/article.pl?sid=25/03/08/082224&from=rss)
+* [2025-03-09, 17:03:42](https://news.ycombinator.com/item?id=43311082) - [Open source software for modeling soft materials](https://now.tufts.edu/2025/03/04/now-theres-open-source-software-modeling-soft-materials)
 * [2025-03-09, 14:37:00](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss) - [Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying](https://soylentnews.org/article.pl?sid=25/03/08/0753249&from=rss)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey (2023)](https://dynomight.net/noise/)
-* [2025-03-09, 09:58:38](https://news.ycombinator.com/item?id=43307713) - [The political economy of Manus AI](https://marginalrevolution.com/marginalrevolution/2025/03/the-political-economy-of-manus-ai.html)
 * [2025-03-09, 09:53:00](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss) - [Asteroid Mining Startup Loses its Spacecraft Somewhere Beyond the Moon](https://soylentnews.org/article.pl?sid=25/03/08/0744250&from=rss)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
 * [2025-03-09, 05:07:00](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss) - [Amid a Growing Measles Outbreak, Doctors Worry RFK is Sending the Wrong Message](https://soylentnews.org/article.pl?sid=25/03/08/0739224&from=rss)
