@@ -1,46 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Security and Hacking Incidents
+## Technology and Innovation
 
-* [Chinese Hackers Sat Undetected in Small Massachusetts Power Utility for Months](https://it.slashdot.org/story/25/03/13/229240/chinese-hackers-sat-undetected-in-small-massachusetts-power-utility-for-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Hackers infiltrated a small power utility, remaining undetected for months, raising concerns about utility security.
+* [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/) - This unique article explores common misconceptions about SQL queries, offering insights on how they actually execute. [Comments](https://news.ycombinator.com/item?id=43360113)
 
-* [Citigroup Plans To Slash IT Contractors, Hire Staff To Improve Controls](https://it.slashdot.org/story/25/03/13/1858228/citigroup-plans-to-slash-it-contractors-hire-staff-to-improve-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Citigroup aims to bolster its IT security by cutting contractors and hiring full-time staff.
+* [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox) - An innovative approach to creating a lightweight and fast sandbox environment leveraging Varnish. [Comments](https://news.ycombinator.com/item?id=43358980)
 
-* [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) - Malware on GitHub highlights cloud repository security vulnerabilities.
+* [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow) - Presents a cutting-edge Rust-based engine enabling high-performance stream processing. [Comments](https://news.ycombinator.com/item?id=43358682)
 
-* [CISA Tags Windows, Cisco Vulnerabilities as Actively Exploited](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss) - Key vulnerabilities in Windows and Cisco systems are being actively exploited.
+* [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/) - A fascinating dive into the historical importance and applications of logarithms. [Comments](https://news.ycombinator.com/item?id=43356314)
 
-## AI and Machine Learning Developments
+* [Upgrading Semgrep from OCaml 4 to OCaml 5](https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/) - Discusses technical challenges and learnings from migrating a project to a newer OCaml version. [Comments](https://lobste.rs/s/exrq7d/upgrading_semgrep_from_ocaml_4_ocaml_5)
 
-* [Anthropic CEO Floats Idea of Giving AI a 'Quit Job' Button](https://slashdot.org/story/25/03/13/2038219/anthropic-ceo-floats-idea-of-giving-ai-a-quit-job-button?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses ideas on human-aligned control features for advanced AI.
+## Cybersecurity
 
-* [OpenAI Warns Limiting AI Access To Copyrighted Content Could Give China Advantage](https://slashdot.org/story/25/03/13/1846224/openai-warns-limiting-ai-access-to-copyrighted-content-could-give-china-advantage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI outlines the risks of limiting AI datasets.
+* [Chinese Hackers Sat Undetected in Small Massachusetts Power Utility for Months](https://it.slashdot.org/story/25/03/13/229240/chinese-hackers-sat-undetected-in-small-massachusetts-power-utility-for-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarm raised over undetected infiltration of the U.S. power grid by Chinese hackers. [Comments](https://it.slashdot.org/story/25/03/13/229240/chinese-hackers-sat-undetected-in-small-massachusetts-power-utility-for-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent) - New AI tool demonstrates advanced capabilities in database interaction.
+* [PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss) - Highlights a critical PHP vulnerability increasingly targeted for attacks in multiple industries. [Comments](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss)
 
-## Scientific Discoveries and Debates
+* [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - Discovery of hidden commands in widely used Bluetooth chips raises concerns about potential exploitation. [Comments](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss)
 
-* [NASA, Yale, and Stanford Scientists Consider 'Scientific Exile'](https://science.slashdot.org/story/25/03/13/2324251/nasa-yale-and-stanford-scientists-consider-scientific-exile?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists mull the notion of leaving the mainstream science community to promote transparency.
+## Artificial Intelligence and Ethics
 
-* [Rust Drivers Expected to Become More Common in Linux Kernel](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss) - Rust language gains importance in Linux's future kernel development.
+* [Anthropic CEO Floats Idea of Giving AI a 'Quit Job' Button](https://slashdot.org/story/25/03/13/2038219/anthropic-ceo-floats-idea-of-giving-ai-a-quit-job-button?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A thought-provoking discussion on ethical controls in AI systems like the 'quit job' button. [Comments](https://slashdot.org/story/25/03/13/2038219/anthropic-ceo-floats-idea-of-giving-ai-a-quit-job-button?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Technology Innovations
+* [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html) - OpenAI warns against state-level AI regulations potentially tilting global competitive advantage towards China. [Comments](https://news.ycombinator.com/item?id=43352531)
 
-* [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox) - A new efficient sandbox for performance-critical applications.
+## Human Impact and Environment
 
-* [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow) - Rust-based solution for stream processing highlights innovative approaches to high-speed data handling.
+* [The 2008 coal ash disaster in Kingston, Tennessee](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town) - Reflects on one of the most devastating environmental disasters in US history. [Comments](https://news.ycombinator.com/item?id=43358628)
 
-## Controversies and Ethics in Academia and Tech
-
-* [Yale Suspends Palestine Activist After AI Article Linked Her To Terrorism](https://news.slashdot.org/story/25/03/13/2156226/yale-suspends-palestine-activist-after-ai-article-linked-her-to-terrorism?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Misuse of AI results in academic controversy over profiling.
-
-* [Meta Stops Ex-Director From Promoting Critical Memoir](https://yro.slashdot.org/story/25/03/13/2043257/meta-stops-ex-director-from-promoting-critical-memoir?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Former Meta employee faces legal challenges over a tell-all memoir.
-
-## Significant Environmental and Health Reports
-
-* ['Profit-Enhancing Middlemen' Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients) - In-depth report on the complexities and inflated costs in healthcare caused by intermediary parties.
-
-* [US Supreme Court Weakens Rules on Discharge of Raw Sewage Into Water Supplies](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss) - Loosening environmental protections raises societal and ecological concerns.
+* [Billions of Years Ago, Mars Featured Beaches Fit for a Vacation, Astronomers Say](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss) - Insight into Mars' ancient geography suggests its surface once resembled Earth's coastal beaches. [Comments](https://soylentnews.org/article.pl?sid=25/03/09/0316250&from=rss)
 
 ---
 
@@ -67,6 +57,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+* [2025-03-14, 05:25:45](https://lobste.rs/s/m1ngf0/memory_corruption_delphi) - [Memory Corruption in Delphi](https://blog.includesecurity.com/2025/03/memory-corruption-in-delphi/)
+* [2025-03-14, 04:29:00](https://soylentnews.org/article.pl?sid=25/03/12/190247&from=rss) - [This ‘Dune’ Isn't Fiction. It's the Longest Conveyer Belt in the US and Moving Sand in Texas](https://soylentnews.org/article.pl?sid=25/03/12/190247&from=rss)
 * [2025-03-14, 03:30:00](https://science.slashdot.org/story/25/03/13/2324251/nasa-yale-and-stanford-scientists-consider-scientific-exile?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA, Yale, and Stanford Scientists Consider 'Scientific Exile'](https://science.slashdot.org/story/25/03/13/2324251/nasa-yale-and-stanford-scientists-consider-scientific-exile?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-14, 02:37:49](https://news.ycombinator.com/item?id=43359114) - [ATProto Isn't What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
 * [2025-03-14, 02:15:11](https://news.ycombinator.com/item?id=43358999) - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
@@ -78,7 +71,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-14, 00:58:29](https://news.ycombinator.com/item?id=43358682) - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
 * [2025-03-14, 00:45:58](https://news.ycombinator.com/item?id=43358628) - [The 2008 coal ash disaster in Kingston, Tennessee](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
 * [2025-03-14, 00:45:00](https://tech.slashdot.org/story/25/03/13/2149238/as-chromecast-outage-drags-on-fix-could-be-days-to-weeks-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As Chromecast Outage Drags On, Fix Could Be Days To Weeks Away](https://tech.slashdot.org/story/25/03/13/2149238/as-chromecast-outage-drags-on-fix-could-be-days-to-weeks-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-14, 00:34:54](https://news.ycombinator.com/item?id=43358581) - [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
 * [2025-03-14, 00:02:00](https://tech.slashdot.org/story/25/03/13/2056224/meta-plans-to-test-and-tinker-with-xs-community-notes-algorithm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta Plans To Test and Tinker With X's Community Notes Algorithm](https://tech.slashdot.org/story/25/03/13/2056224/meta-plans-to-test-and-tinker-with-xs-community-notes-algorithm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-13, 23:42:00](https://soylentnews.org/article.pl?sid=25/03/12/196239&from=rss) - [ASML To Open Beijing Facility Despite US Sanctions On China](https://soylentnews.org/article.pl?sid=25/03/12/196239&from=rss)
 * [2025-03-13, 23:30:12](https://lobste.rs/s/lkdgd4/typestate_programming) - [Typestate Programming](https://docs.rust-embedded.org/book/static-guarantees/typestate-programming.html)
@@ -111,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-13, 17:33:23](https://news.ycombinator.com/item?id=43355521) - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 * [2025-03-13, 17:30:00](https://news.slashdot.org/story/25/03/13/1716227/mozilla-warns-dojs-google-remedies-risk-death-of-open-web?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Mozilla Warns DOJ's Google Remedies Risk 'Death of Open Web'](https://news.slashdot.org/story/25/03/13/1716227/mozilla-warns-dojs-google-remedies-risk-death-of-open-web?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-13, 17:14:48](https://lobste.rs/s/gvgmth/choosing_languages) - [Choosing Languages](https://steveklabnik.com/writing/choosing-languages/)
-* [2025-03-13, 17:14:47](https://news.ycombinator.com/item?id=43355348) - [\"Have Quotes About Salieri\"](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
 * [2025-03-13, 16:54:12](https://lobste.rs/s/odzx0k/curry_truly_integrated_functional_logic) - [Curry: A Truly Integrated Functional Logic Programming Language](https://curry-lang.org)
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 15:40:10](https://lobste.rs/s/dakizz/it_s_not_cheating_if_you_write_video_game) - [It's not cheating if you write the video game solver yourself](https://robertheaton.com/cocoon/)
@@ -126,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 11:42:56](https://lobste.rs/s/ow3d4j/almquist_shell_ash_variants) - [Almquist shell (ash) variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
-* [2025-03-13, 10:39:44](https://lobste.rs/s/chiije/my_teen_years_porting_small_c_transputer) - [My teen years: Porting Small-C to transputer and developing my operating system](https://nanochess.org/bootstrapping_c_os_transputer.html)
 * [2025-03-13, 10:23:16](https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding) - [Cursor told me I should learn coding instead of asking it to generate code](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 * [2025-03-13, 09:21:00](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss) - [Woolly Mice Are Cute and Impressive – but They Won't Bring Back Mammoths](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss)
 * [2025-03-13, 08:07:44](https://lobste.rs/s/56ys0f/we_should_improve_libzfs_somewhat) - [We should improve libzfs somewhat](https://despairlabs.com/blog/posts/2025-03-12-we-should-improve-libzfs-somewhat/)
@@ -147,11 +137,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss) - [Stars Made From Only Primordial Gas Finally Spotted](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss)
 * [2025-03-11, 19:23:00](https://soylentnews.org/article.pl?sid=25/03/11/1134214&from=rss) - [How to Build a Static Website on a Raspberry Pi](https://soylentnews.org/article.pl?sid=25/03/11/1134214&from=rss)
 * [2025-03-11, 14:34:00](https://soylentnews.org/article.pl?sid=25/03/11/1132214&from=rss) - [Musk Complains: X Site Under Attack, and DOGE Interferes With His Job](https://soylentnews.org/article.pl?sid=25/03/11/1132214&from=rss)
+* [2025-03-11, 12:58:55](https://news.ycombinator.com/item?id=43331973) - [Show HN: MCPGod: Fine-grained control over MCP clients, servers, and tools](https://github.com/mcpgod/cli)
 * [2025-03-11, 09:50:00](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss) - [A Paleoarchaean Impact Crater in the Pilbara Craton, Western Australia](https://soylentnews.org/article.pl?sid=25/03/11/0428255&from=rss)
-* [2025-03-11, 09:20:34](https://news.ycombinator.com/item?id=43330657) - [Calendar.org](https://sourcery.zone/articles/20250311094031-calendar_org/)
+* [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-11, 05:06:00](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss) - [Microsoft Admits GitHub Used to Store Malware That Infected Almost a Million Devices](https://soylentnews.org/article.pl?sid=25/03/10/1151258&from=rss)
+* [2025-03-11, 02:00:53](https://news.ycombinator.com/item?id=43328380) - [The Evolution of the Color Pink](https://lithub.com/from-princely-regalia-to-womens-underwear-the-evolution-of-the-color-pink/)
 * [2025-03-11, 00:20:00](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss) - [US Supreme Court Weakens Rules on Discharge of Raw Sewage Into Water Supplies](https://soylentnews.org/article.pl?sid=25/03/10/0732259&from=rss)
-* [2025-03-10, 21:04:29](https://news.ycombinator.com/item?id=43326080) - [Working with Systemd Timers](https://yieldcode.blog/post/working-with-systemd-timers/)
 * [2025-03-10, 19:35:00](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss) - [Undocumented Commands Found in Bluetooth Chip Used by a Billion Devices](https://soylentnews.org/article.pl?sid=25/03/10/0720214&from=rss)
 * [2025-03-10, 14:46:00](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss) - [How Tiny Can You Scale It Until Things Won't Work?](https://soylentnews.org/article.pl?sid=25/03/10/077239&from=rss)
 * [2025-03-10, 09:27:00](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss) - [CISA Tags Windows, Cisco Vulnerabilities as Actively Exploited](https://soylentnews.org/article.pl?sid=25/03/09/0337252&from=rss)
