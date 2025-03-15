@@ -1,50 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Technology and Innovation
 
-* [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/) ([comments](https://lobste.rs/s/clmxv5/speeding_up_c_code_with_template_lambdas))
+* [Elon Musk Says SpaceX's First Mission to Mars Will Launch Next Year](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Elon Musk makes a bold announcement regarding advancing SpaceX's Mars exploration plans.
 
-* [Comparing Video Encoders](https://giannirosato.com/blog/post/comparing-encoders/) ([comments](https://lobste.rs/s/w1lhln/comparing_video_encoders))
+* [Why Microsoft's Developers are Porting TypeScript to Go](https://developers.slashdot.org/story/25/03/15/0233243/why-microsofts-developers-are-porting-typescript-to-go?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights on why Microsoft's developers are embracing Go for porting TypeScript.
 
-* [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/) ([comments](https://lobste.rs/s/cclrkn/were_multiple_return_values_go_s_biggest))
+* [ruby_llm, a delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm) - An exploration of RubyLLM, a tool that simplifies working with AI in an elegant Ruby fashion.
 
-* [Why Microsoft's Developers are Porting TypeScript to Go](https://developers.slashdot.org/story/25/03/15/0233243/why-microsofts-developers-are-porting-typescript-to-go?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/03/15/0233243/why-microsofts-developers-are-porting-typescript-to-go?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Space and Science
 
-* [ruby_llm, a delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm) ([comments](https://lobste.rs/s/4cw1ua/ruby_llm_delightful_ruby_way_work_with_ai))
+* [Is Our Universe Trapped Inside a Black Hole?](https://science.slashdot.org/story/25/03/15/1923253/is-our-universe-trapped-inside-a-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A theoretical exploration questioning if our universe exists within a black hole.
 
-* [A look at Firefox forks](https://lwn.net/Articles/1012453/) ([comments](https://lobste.rs/s/c7t7kz/look_at_firefox_forks))
+* [Saturn Solidifies Its Title As Moon King With Discovery of 128 New Moons](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists mark a landmark celestial discovery expanding Saturn's known moon count.
 
-## Science and Space Exploration
+## Technological Challenges and Advances in Software
 
-* [Saturn Solidifies Its Title As Moon King With Discovery of 128 New Moons](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) - A major cybersecurity concern about leveraging parser differentials to bypass SAML SSO.
 
-* [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/) ([comments](https://news.ycombinator.com/item?id=43371583))
+* [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/) - Techniques and performance improvements using template lambdas in C++.
 
-* [Dead Athena Moon Lander Seen Inside Its Crater Grave From Lunar Orbit](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Environmental and Energy Breakthroughs
 
-## Environmental and Energy Developments
+* [Coal-Powered Energy Finally Overtaken by Wind and Solar in the US](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major milestone in the transition to renewable energy sources in the United States.
 
-* [Coal-Powered Energy Finally Overtaken by Wind and Solar in the US](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood) - A promising story on how Africa is embracing solar mini-grids for sustainable development.
 
-* [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood) ([comments](https://news.ycombinator.com/item?id=43372729))
+## Historical and Cultural Insights
 
-* [Bad News for Low Orbit Satellites: Earth's Thermosphere is Shrinking](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss))
+* [How many artists' careers did the Beatles kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles) - A reflective piece examining the unintended impact of the Beatles on other artists.
 
-## Cultural and Artistic Reflections
-
-* [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/) ([comments](https://news.ycombinator.com/item?id=43374237))
-
-* [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles) ([comments](https://news.ycombinator.com/item?id=43373765))
-
-* [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard) ([comments](https://news.ycombinator.com/item?id=43373693))
-
-## Legal and Societal Developments
-
-* [Climatologist Michael Mann Finally Won a $1M Defamation Suit - But Then a Judge Threw It Out](https://yro.slashdot.org/story/25/03/15/0351230/climatologist-michael-mann-finally-won-a-1m-defamation-suit---but-then-a-judge-threw-it-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/03/15/0351230/climatologist-michael-mann-finally-won-a-1m-defamation-suit---but-then-a-judge-threw-it-out?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Judge Calls Doge Firings A 'Sham', Orders Thousands Of Workers To Be Reinstated Immediately](https://soylentnews.org/politics/article.pl?sid=25/03/14/1930253&from=rss) ([comments](https://soylentnews.org/politics/article.pl?sid=25/03/14/1930253&from=rss))
-
-* [Gen Z Americans Don't Have Enough Saved To Cover a Single Month of Spending](https://news.slashdot.org/story/25/03/14/2136247/gen-z-americans-dont-have-enough-saved-to-cover-a-single-month-of-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/14/2136247/gen-z-americans-dont-have-enough-saved-to-cover-a-single-month-of-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard) - A quirky historical moment where surf culture and politics collided.
 
 ---
 
@@ -71,17 +57,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-15, 21:48:00](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [340 European Cities Restrict Usage of Cars](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-15, 21:42:31](https://lobste.rs/s/nvsmjg/is_cap_n_proto_event_loop_friendly) - [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
+* [2025-03-15, 21:34:22](https://news.ycombinator.com/item?id=43375307) - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
+* [2025-03-15, 21:00:44](https://news.ycombinator.com/item?id=43375123) - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
+* [2025-03-15, 20:34:00](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Elon Musk Says SpaceX's First Mission to Mars Will Launch Next Year](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-15, 20:03:07](https://lobste.rs/s/nou3qj/reviving_modprobe_path_technique) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
+* [2025-03-15, 19:45:04](https://lobste.rs/s/q7u3vr/web_apps_common_lisp) - [Web Apps in Common Lisp](https://web-apps-in-lisp.github.io/)
+* [2025-03-15, 19:34:50](https://lobste.rs/s/v80mya/my_favorite_firefox_extensions) - [My Favorite Firefox Extensions](https://alexn.org/blog/2025/03/15/firefox-extensions/)
+* [2025-03-15, 19:34:00](https://science.slashdot.org/story/25/03/15/1923253/is-our-universe-trapped-inside-a-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is Our Universe Trapped Inside a Black Hole?](https://science.slashdot.org/story/25/03/15/1923253/is-our-universe-trapped-inside-a-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+* [2025-03-15, 19:04:01](https://news.ycombinator.com/item?id=43374505) - [Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
 * [2025-03-15, 18:37:25](https://lobste.rs/s/clmxv5/speeding_up_c_code_with_template_lambdas) - [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/)
 * [2025-03-15, 18:34:00](https://tech.slashdot.org/story/25/03/15/0546205/last-year-waymos-autonomous-vehicles-got-589-parking-tickets-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Last Year Waymo's Autonomous Vehicles Got 589 Parking Tickets in San Francisco](https://tech.slashdot.org/story/25/03/15/0546205/last-year-waymos-autonomous-vehicles-got-589-parking-tickets-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 18:33:00](https://soylentnews.org/article.pl?sid=25/03/14/1933241&from=rss) - [How a Rapidly Growing Population of Crocs Has Been Impacting Northern Territories Ecosystem](https://soylentnews.org/article.pl?sid=25/03/14/1933241&from=rss)
 * [2025-03-15, 18:26:57](https://lobste.rs/s/w1lhln/comparing_video_encoders) - [Comparing Video Encoders](https://giannirosato.com/blog/post/comparing-encoders/)
+* [2025-03-15, 18:22:37](https://news.ycombinator.com/item?id=43374283) - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
 * [2025-03-15, 18:15:53](https://news.ycombinator.com/item?id=43374237) - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
-* [2025-03-15, 17:34:13](https://news.ycombinator.com/item?id=43373959) - [Elderly patients can deteriorate in the ER. This team works to get them out](https://www.cbc.ca/radio/whitecoat/geriatric-er-care-1.7478304)
 * [2025-03-15, 17:34:00](https://yro.slashdot.org/story/25/03/15/0351230/climatologist-michael-mann-finally-won-a-1m-defamation-suit---but-then-a-judge-threw-it-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Climatologist Michael Mann Finally Won a $1M Defamation Suit - But Then a Judge Threw It Out](https://yro.slashdot.org/story/25/03/15/0351230/climatologist-michael-mann-finally-won-a-1m-defamation-suit---but-then-a-judge-threw-it-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 17:22:41](https://lobste.rs/s/t9wxfd/implicit_surfaces_independent_research) - [Implicit Surfaces & Independent Research](https://www.youtube.com/watch?v=UxGxsGnbyJ4)
-* [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
-* [2025-03-15, 17:00:12](https://news.ycombinator.com/item?id=43373728) - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
-* [2025-03-15, 17:00:02](https://news.ycombinator.com/item?id=43373726) - [LearnLM: An experimental task-specific model for learning science principles (2024)](https://ai.google.dev/gemini-api/docs/learnlm)
+* [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How many artists' careers did the Beatles kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
 * [2025-03-15, 16:54:35](https://news.ycombinator.com/item?id=43373693) - [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
 * [2025-03-15, 16:34:00](https://hardware.slashdot.org/story/25/03/15/1616223/10-million-cubans-suffer-nationwide-power-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [10 Million Cubans Suffer Nationwide Power Outage](https://hardware.slashdot.org/story/25/03/15/1616223/10-million-cubans-suffer-nationwide-power-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 16:15:11](https://lobste.rs/s/2fyyzi/arenaallocator_free_nested_arenas) - [ArenaAllocator.free and Nested Arenas](https://www.openmymind.net/ArenaAllocator-free-and-Nested-Arenas/)
@@ -113,28 +108,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-15, 02:00:00](https://tech.slashdot.org/story/25/03/15/016220/end-of-windows-10-leaves-pc-charities-with-tough-choice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [End of Windows 10 Leaves PC Charities With Tough Choice](https://tech.slashdot.org/story/25/03/15/016220/end-of-windows-10-leaves-pc-charities-with-tough-choice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 01:30:00](https://apple.slashdot.org/story/25/03/15/0053233/leaked-apple-meeting-shows-how-dire-the-siri-situation-really-is?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Leaked Apple Meeting Shows How Dire the Siri Situation Really Is](https://apple.slashdot.org/story/25/03/15/0053233/leaked-apple-meeting-shows-how-dire-the-siri-situation-really-is?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 01:00:00](https://science.slashdot.org/story/25/03/15/0033233/spacex-launches-nasas-crew-10-mission-to-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [SpaceX Launches NASA's Crew-10 Mission To ISS](https://science.slashdot.org/story/25/03/15/0033233/spacex-launches-nasas-crew-10-mission-to-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-15, 00:20:00](https://news.slashdot.org/story/25/03/14/2136247/gen-z-americans-dont-have-enough-saved-to-cover-a-single-month-of-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gen Z Americans Don't Have Enough Saved To Cover a Single Month of Spending](https://news.slashdot.org/story/25/03/14/2136247/gen-z-americans-dont-have-enough-saved-to-cover-a-single-month-of-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-14, 23:40:00](https://yro.slashdot.org/story/25/03/14/2128204/us-irs-to-re-evaluate-modernization-investments-in-light-of-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US IRS To Re-Evaluate Modernization Investments In Light of AI Technology](https://yro.slashdot.org/story/25/03/14/2128204/us-irs-to-re-evaluate-modernization-investments-in-light-of-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-14, 23:34:18](https://lobste.rs/s/1v580x/disclosing_youtube_creator_emails_for) - [Disclosing YouTube Creator Emails for a $20k Bounty](https://brutecat.com/articles/youtube-creator-emails)
 * [2025-03-14, 23:34:00](https://soylentnews.org/article.pl?sid=25/03/14/0056219&from=rss) - [The Cheapest Way to Supercharge America's Power Grid](https://soylentnews.org/article.pl?sid=25/03/14/0056219&from=rss)
 * [2025-03-14, 23:09:40](https://lobste.rs/s/3dvymp/sicl_fresh_implementation_common_lisp) - [SICL: Fresh Implementation of Common Lisp](https://github.com/robert-strandh/SICL)
-* [2025-03-14, 23:00:00](https://tech.slashdot.org/story/25/03/14/2121205/google-is-officially-replacing-assistant-with-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Is Officially Replacing Assistant With Gemini](https://tech.slashdot.org/story/25/03/14/2121205/google-is-officially-replacing-assistant-with-gemini?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-14, 22:29:46](https://news.ycombinator.com/item?id=43367987) - [Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-14, 21:25:24](https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 20:26:26](https://lobste.rs/s/dckdk4/shellcode_encoded_uuids) - [Shellcode Encoded in UUIDs](https://isc.sans.edu/diary/31752)
-* [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-* [2025-03-14, 19:44:11](https://lobste.rs/s/fvm1xn/kerning_hard_way) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 18:47:00](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss) - [Humans Have a Third Set of Teeth: Scientists Discover Medicine to Grow Them](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss)
-* [2025-03-14, 18:37:37](https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds) - [How to beat NES mario in 0.000005 seconds](https://www.youtube.com/watch?v=pK7hU-ovUso)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
-* [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
-* [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The curious surge of productivity in U.S. restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 15:10:25](https://lobste.rs/s/hxbjug/did_u_ever_read_so_hard_u_accidentally) - [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
-* [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why do transit agencies keep falling for the hydrogen bus myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
-* [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 14:01:00](https://soylentnews.org/article.pl?sid=25/03/13/150217&from=rss) - [Why Attention Limitations Let Idea Thieves Thrive in Workplaces](https://soylentnews.org/article.pl?sid=25/03/13/150217&from=rss)
-* [2025-03-14, 13:34:33](https://lobste.rs/s/fwr4xh/my_scammer_girlfriend_baiting_romance) - [My Scammer Girlfriend: Baiting A Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
@@ -147,13 +130,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-13, 18:57:00](https://soylentnews.org/article.pl?sid=25/03/12/193232&from=rss) - [Psychological 'Booster Shots' Can Strengthen Resistance to Misinformation Over Time](https://soylentnews.org/article.pl?sid=25/03/12/193232&from=rss)
 * [2025-03-13, 14:10:00](https://soylentnews.org/breakingnews/article.pl?sid=25/03/13/102242&from=rss) - [Mozilla Warns Users to Update Firefox Before Certificate Expires](https://soylentnews.org/breakingnews/article.pl?sid=25/03/13/102242&from=rss)
 * [2025-03-13, 09:21:00](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss) - [Woolly Mice Are Cute and Impressive – but They Won't Bring Back Mammoths](https://soylentnews.org/article.pl?sid=25/03/12/1855238&from=rss)
+* [2025-03-13, 09:20:32](https://news.ycombinator.com/item?id=43351560) - [Hexagon Spiral Coordinates](https://www.redblobgames.com/blog/2025-03-12-hexagon-spiral-coordinates/)
 * [2025-03-13, 04:37:00](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss) - [Rust Drivers Expected to Become More Common in Linux Kernel](https://soylentnews.org/article.pl?sid=25/03/12/1139205&from=rss)
 * [2025-03-12, 23:52:00](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss) - [Majorana 1: Microsoft Under Fire For Claiming It Has A New Quantum Computer](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss)
 * [2025-03-12, 23:49:58](https://news.ycombinator.com/item?id=43348932) - [A Polyomino Tiling Algorithm (2018)](https://gfredericks.com/blog/99)
 * [2025-03-12, 19:09:00](https://soylentnews.org/article.pl?sid=25/03/12/1129229&from=rss) - [DOGE Axes CISA ‘Red Team’ Staffers Amid Ongoing Federal Cuts](https://soylentnews.org/article.pl?sid=25/03/12/1129229&from=rss)
 * [2025-03-12, 14:21:00](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss) - [Where Will the 'Blood Moon' Total Lunar Eclipse be Visible in March 2025?](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss)
 * [2025-03-12, 09:35:00](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss) - [PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors](https://soylentnews.org/article.pl?sid=25/03/11/1150225&from=rss)
+* [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 04:50:00](https://soylentnews.org/article.pl?sid=25/03/11/1148251&from=rss) - [Political Poll News Site 538 to Close Amid Larger Shuttering Across ABC and Disney](https://soylentnews.org/article.pl?sid=25/03/11/1148251&from=rss)
+* [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-12, 00:05:00](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss) - [Stars Made From Only Primordial Gas Finally Spotted](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss)
 * [2025-03-11, 20:53:45](https://news.ycombinator.com/item?id=43336892) - [Show HN: Metacheck – preview how any link appears on social media and chat apps](https://metacheck.appstate.co/)
 * [2025-03-11, 20:21:43](https://news.ycombinator.com/item?id=43336609) - [Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action](https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/)
