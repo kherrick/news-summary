@@ -1,42 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming
+## Space and Astronomy
 
-* [A Review of Helix after 1.5 Years](https://felix-knorr.net/posts/2025-03-16-helix-review.html) (comments: [Lobsters](https://lobste.rs/s/miyoai/review_helix_after_1_5_years))
+* [Firefly's 'Athena' Lander Watched Friday's Eclipse - from the Moon](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder) (comments: [Hacker News](https://news.ycombinator.com/item?id=43376824))
+* [SpaceX Launches Astronauts for Long-Awaited International Space Station Crew Swap](https://soylentnews.org/article.pl?sid=25/03/15/1558246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/15/1558246&from=rss))
 
-* [Mojo may be the biggest programming language advance in decades (2023)](https://www.fast.ai/posts/2023-05-03-mojo-launch.html) (comments: [Lobsters](https://lobste.rs/s/7z4gp2/mojo_may_be_biggest_programming_language))
+* [Elon Musk Says SpaceX's First Mission to Mars Will Launch Next Year](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/1947252/elon-musk-says-spacexs-first-mission-to-mars-will-launch-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) (comments: [Hacker News](https://news.ycombinator.com/item?id=43374519))
+* [Saturn Solidifies Its Title As Moon King With Discovery of 128 New Moons](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt) (comments: [Hacker News](https://news.ycombinator.com/item?id=43373242))
+* [Dead Athena Moon Lander Seen Inside Its Crater Grave From Lunar Orbit](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Space Exploration and Astronomy
+## Technology and Innovation
 
-* [SpaceX Launches Astronauts for Long-Awaited International Space Station Crew Swap](https://soylentnews.org/article.pl?sid=25/03/15/1558246&from=rss) (comments: [SoylentNews](https://soylentnews.org/article.pl?sid=25/03/15/1558246&from=rss))
+* [Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas) ([comments](https://news.ycombinator.com/item?id=43374505))
 
-* [Firefly's 'Athena' Lander Watched Friday's Eclipse - from the Moon](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) (comments: [Slashdot](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Mandelbrot Set Explorer](https://mandelbrot.site) ([comments](https://news.ycombinator.com/item?id=43375676))
 
-* [Saturn Solidifies Its Title As Moon King With Discovery of 128 New Moons](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed) (comments: [Slashdot](https://science.slashdot.org/story/25/03/15/0457249/saturn-solidifies-its-title-as-moon-king-with-discovery-of-128-new-moons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder) ([comments](https://news.ycombinator.com/item?id=43376824))
 
-## Science and Environment
+* [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html) ([comments](https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released))
 
-* [Humans Have a Third Set of Teeth: Scientists Discover Medicine to Grow Them](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss) (comments: [SoylentNews](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss))
+* [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt) ([comments](https://news.ycombinator.com/item?id=43373242))
 
-* [Coal-Powered Energy Finally Overtaken by Wind and Solar in the US](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) (comments: [Slashdot](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Security and Cyber Threats
 
-## Historical Discoveries and Digital Preservation
+* [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) ([comments](https://news.ycombinator.com/item?id=43374519))
 
-* [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/) (comments: [Hacker News](https://news.ycombinator.com/item?id=43376033))
+* [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04) ([comments](https://lobste.rs/s/nou3qj/reviving_modprobe_path_technique))
 
-* [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html) (comments: [Lobsters](https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released))
+* [Cloudflare Accused of Blocking Niche Browsers](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Quantum Computing and AI
+## Environmental and Energy
 
-* [D-Wave quantum annealers solve problems classical algorithms struggle with](https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/) (comments: [Hacker News](https://news.ycombinator.com/item?id=43347588))
+* [Amazon Forest Felled To Build Road For Climate Summit](https://news.slashdot.org/story/25/03/16/0136229/amazon-forest-felled-to-build-road-for-climate-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/16/0136229/amazon-forest-felled-to-build-road-for-climate-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/) (comments: [Hacker News](https://news.ycombinator.com/item?id=43371583))
+* [Coal-Powered Energy Finally Overtaken by Wind and Solar in the US](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/03/15/0253253/coal-powered-energy-finally-overtaken-by-wind-and-solar-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [340 European Cities Restrict Usage of Cars](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Scientific Discoveries and Research
+
+* [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/) ([comments](https://news.ycombinator.com/item?id=43371583))
+
+* [Stars Made From Only Primordial Gas Finally Spotted](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/11/1138232&from=rss))
+
+* [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html) ([comments](https://news.ycombinator.com/item?id=43339084))
+
+* [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/) ([comments](https://news.ycombinator.com/item?id=43374237))
 
 ---
 
@@ -63,6 +75,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team's space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
+* [2025-03-16, 08:46:00](https://soylentnews.org/article.pl?sid=25/03/15/1228252&from=rss) - [Sidewinder Advanced Persistent Threat (APT) Shifts to Targeting of Nuclear, Maritime Orgs](https://soylentnews.org/article.pl?sid=25/03/15/1228252&from=rss)
+* [2025-03-16, 07:34:00](https://news.slashdot.org/story/25/03/16/0136229/amazon-forest-felled-to-build-road-for-climate-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon Forest Felled To Build Road For Climate Summit](https://news.slashdot.org/story/25/03/16/0136229/amazon-forest-felled-to-build-road-for-climate-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-16, 06:41:23](https://news.ycombinator.com/item?id=43377287) - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 * [2025-03-16, 06:31:07](https://lobste.rs/s/miyoai/review_helix_after_1_5_years) - [A Review of Helix after 1.5 Years](https://felix-knorr.net/posts/2025-03-16-helix-review.html)
 * [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
 * [2025-03-16, 04:54:01](https://lobste.rs/s/bo3w9v/adding_edit_button_my_static_site_on) - [Adding an edit button to my static site on mobile](https://jamesg.blog/2025/03/15/adding-an-edit-button-to-my-static-site-on-mobile)
@@ -74,13 +90,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-16, 02:31:59](https://news.ycombinator.com/item?id=43376570) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 02:31:38](https://lobste.rs/s/rzgqt3/more_pro_for_dec_professional_380) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 01:34:00](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Firefly's 'Athena' Lander Watched Friday's Eclipse - from the Moon](https://science.slashdot.org/story/25/03/15/2217247/fireflys-athena-lander-watched-fridays-eclipse---from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-16, 01:14:51](https://lobste.rs/s/7z4gp2/mojo_may_be_biggest_programming_language) - [Mojo may be the biggest programming language advance in decades (2023)](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2025-03-16, 00:07:03](https://news.ycombinator.com/item?id=43376033) - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 * [2025-03-15, 23:53:52](https://lobste.rs/s/9lj3ri/year_picotron_desktop) - [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
 * [2025-03-15, 23:48:00](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Accused of Blocking Niche Browsers](https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 23:41:44](https://news.ycombinator.com/item?id=43375923) - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
 * [2025-03-15, 23:17:00](https://soylentnews.org/article.pl?sid=25/03/14/1938229&from=rss) - [No Project is an Island: Why You Need SBOMs and Dependency Management](https://soylentnews.org/article.pl?sid=25/03/14/1938229&from=rss)
-* [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
 * [2025-03-15, 22:52:13](https://news.ycombinator.com/item?id=43375676) - [Mandelbrot Set Explorer](https://mandelbrot.site)
 * [2025-03-15, 21:48:00](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [340 European Cities Restrict Usage of Cars](https://news.slashdot.org/story/25/03/15/056253/340-european-cities-restrict-usage-of-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 21:42:31](https://lobste.rs/s/nvsmjg/is_cap_n_proto_event_loop_friendly) - [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
@@ -119,21 +133,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-15, 09:07:00](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss) - [Bad News for Low Orbit Satellites: Earth's Thermosphere is Shrinking](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss)
 * [2025-03-15, 07:00:00](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Dead Athena Moon Lander Seen Inside Its Crater Grave From Lunar Orbit](https://science.slashdot.org/story/25/03/15/0447257/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 04:22:00](https://soylentnews.org/article.pl?sid=25/03/14/115251&from=rss) - [AMD's Zen 6-Based Desktop Processors May Feature Up to 24 Cores](https://soylentnews.org/article.pl?sid=25/03/14/115251&from=rss)
-* [2025-03-15, 03:30:00](https://hardware.slashdot.org/story/25/03/15/0147220/super-nintendo-hardware-is-running-faster-as-it-ages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Super Nintendo Hardware Is Running Faster As It Ages](https://hardware.slashdot.org/story/25/03/15/0147220/super-nintendo-hardware-is-running-faster-as-it-ages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-15, 03:21:02](https://lobste.rs/s/4ko499/popular_github_action_tj_actions_changed) - [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-15, 03:05:09](https://lobste.rs/s/5mlumx/why_i_don_t_like_hackathons) - [Why I Don't Like Hackathons](https://mirawelner.com/posts/hackathons.html)
 * [2025-03-14, 23:34:00](https://soylentnews.org/article.pl?sid=25/03/14/0056219&from=rss) - [The Cheapest Way to Supercharge America's Power Grid](https://soylentnews.org/article.pl?sid=25/03/14/0056219&from=rss)
 * [2025-03-14, 21:25:24](https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 18:47:00](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss) - [Humans Have a Third Set of Teeth: Scientists Discover Medicine to Grow Them](https://soylentnews.org/article.pl?sid=25/03/13/1729224&from=rss)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
+* [2025-03-14, 15:10:25](https://lobste.rs/s/hxbjug/did_u_ever_read_so_hard_u_accidentally) - [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
 * [2025-03-14, 14:01:00](https://soylentnews.org/article.pl?sid=25/03/13/150217&from=rss) - [Why Attention Limitations Let Idea Thieves Thrive in Workplaces](https://soylentnews.org/article.pl?sid=25/03/13/150217&from=rss)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
-* [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 * [2025-03-14, 11:10:12](https://news.ycombinator.com/item?id=43361440) - [Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)](https://signalsandthreads.com/finding-signal-in-the-noise/)
 * [2025-03-14, 09:14:00](https://soylentnews.org/article.pl?sid=25/03/13/1011234&from=rss) - [General Fusion Fires Up its Newest Steampunk Fusion Reactor](https://soylentnews.org/article.pl?sid=25/03/13/1011234&from=rss)
+* [2025-03-14, 08:15:08](https://news.ycombinator.com/item?id=43360552) - [ASK HN: How to engineer a JavaScript to Python migration?](https://news.ycombinator.com/item?id=43360552)
 * [2025-03-14, 08:07:53](https://news.ycombinator.com/item?id=43360522) - [DeepSeek focuses on research over revenue in contrast to Silicon Valley](https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425)
-* [2025-03-14, 06:55:38](https://news.ycombinator.com/item?id=43360222) - [Hyperion (Tree)](https://en.wikipedia.org/wiki/Hyperion_(tree))
+* [2025-03-14, 07:02:06](https://news.ycombinator.com/item?id=43360249) - [Command A: Max performance, minimal compute – 256k context window](https://cohere.com/blog/command-a)
 * [2025-03-14, 04:29:00](https://soylentnews.org/article.pl?sid=25/03/12/190247&from=rss) - [This ‘Dune’ Isn't Fiction. It's the Longest Conveyer Belt in the US and Moving Sand in Texas](https://soylentnews.org/article.pl?sid=25/03/12/190247&from=rss)
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 23:42:00](https://soylentnews.org/article.pl?sid=25/03/12/196239&from=rss) - [ASML To Open Beijing Facility Despite US Sanctions On China](https://soylentnews.org/article.pl?sid=25/03/12/196239&from=rss)
@@ -144,7 +158,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
 * [2025-03-12, 23:52:00](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss) - [Majorana 1: Microsoft Under Fire For Claiming It Has A New Quantum Computer](https://soylentnews.org/article.pl?sid=25/03/12/1134222&from=rss)
 * [2025-03-12, 22:38:03](https://news.ycombinator.com/item?id=43348434) - [Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
-* [2025-03-12, 20:57:20](https://news.ycombinator.com/item?id=43347588) - [D-Wave quantum annealers solve problems classical algorithms struggle with](https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/)
 * [2025-03-12, 19:09:00](https://soylentnews.org/article.pl?sid=25/03/12/1129229&from=rss) - [DOGE Axes CISA ‘Red Team’ Staffers Amid Ongoing Federal Cuts](https://soylentnews.org/article.pl?sid=25/03/12/1129229&from=rss)
 * [2025-03-12, 14:43:44](https://news.ycombinator.com/item?id=43343808) - [Learning physics while monitoring vibrations of the Earth with seismic phenomena](https://iopscience.iop.org/article/10.1088/1361-6404/ada1af)
 * [2025-03-12, 14:21:00](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss) - [Where Will the 'Blood Moon' Total Lunar Eclipse be Visible in March 2025?](https://soylentnews.org/article.pl?sid=25/03/11/1158203&from=rss)
