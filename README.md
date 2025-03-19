@@ -1,42 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology and AI Developments
 
-* [GreptimeDB Leads in Cold Run Performance on ClickHouse’s billion JSON doc benchmark](https://greptime.com/blogs/2025-03-18-jsonbench-greptimedb-performance) - [Comments](https://lobste.rs/s/ud9f7q/greptimedb_leads_cold_run_performance_on)
+* [Researchers Engineer Bacteria To Produce Plastics](https://science.slashdot.org/story/25/03/18/2243230/researchers-engineer-bacteria-to-produce-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists have developed bacteria capable of sustainably producing plastics, offering a potential breakthrough in eco-friendly materials.
 
-* [VW's Cheapest EV Is First To Use Rivian Software](https://tech.slashdot.org/story/25/03/18/2015234/vws-cheapest-ev-is-first-to-use-rivian-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/25/03/18/2015234/vws-cheapest-ev-is-first-to-use-rivian-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Italian Newspaper Says It Has Published World's First AI-Generated Edition](https://news.slashdot.org/story/25/03/18/2231255/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An Italian newspaper claims the distinction of releasing the first entirely AI-generated edition, signaling rapid advancements in journalism automation.
 
-* [Meta's Llama AI Models Hit 1 Billion Downloads, Zuckerberg Says](https://tech.slashdot.org/story/25/03/18/161237/metas-llama-ai-models-hit-1-billion-downloads-zuckerberg-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/25/03/18/161237/metas-llama-ai-models-hit-1-billion-downloads-zuckerberg-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://news.slashdot.org/story/25/03/18/2040214/ftc-removes-posts-critical-of-amazon-microsoft-and-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FTC faces scrutiny after allegedly censoring content critical of major tech firms and AI initiatives.
 
-* [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/) - [Comments](https://news.ycombinator.com/item?id=43402115)
+## Privacy and Security Concerns
 
-* [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo) - [Comments](https://news.ycombinator.com/item?id=43404858)
+* [Everything You Say to Your Echo Will be Sent to Amazon Starting on March 28](https://soylentnews.org/article.pl?sid=25/03/18/0159258&from=rss) - Amazon announces changes to Echo devices, raising privacy alarms as all user interactions will now be cloud-processed.
 
-## Science and Space
+* [Microsoft Isn't Fixing 8-Year-Old Shortcut Exploit Abused For Spying](https://it.slashdot.org/story/25/03/18/2226205/microsoft-isnt-fixing-8-year-old-shortcut-exploit-abused-for-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Critics criticize Microsoft for neglecting a known security exploit, leaving systems vulnerable to surveillance threats.
 
-* [Starliner Astronauts Return To Earth After More Than 9 Months In Space](https://science.slashdot.org/story/25/03/18/2258246/starliner-astronauts-return-to-earth-after-more-than-9-months-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://science.slashdot.org/story/25/03/18/2258246/starliner-astronauts-return-to-earth-after-more-than-9-months-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Public Policy and Global Reactions
 
-* [Chaos in Gravity - the Quantum Based Magnetic Monopole of Mass?](https://soylentnews.org/article.pl?sid=25/03/17/123238&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/03/17/123238&from=rss)
+* [Dutch Parliament Calls For End To Dependence On US Software Companies](https://yro.slashdot.org/story/25/03/18/209246/dutch-parliament-calls-for-end-to-dependence-on-us-software-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Netherlands' government pushes to reduce reliance on U.S. tech giants, signaling potential shifts in tech sovereignty.
 
-## Cultural and Social Trends
+* [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/) - Concerns arise over political bias as a key Erdogan rival is barred from an upcoming presidential election.
 
-* [US Music Streaming Tops 100 Million Subscribers; Vinyl Outsells CDs For Third Year](https://entertainment.slashdot.org/story/25/03/18/2052244/us-music-streaming-tops-100-million-subscribers-vinyl-outsells-cds-for-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://entertainment.slashdot.org/story/25/03/18/2052244/us-music-streaming-tops-100-million-subscribers-vinyl-outsells-cds-for-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Scientific and Space Advancements
 
-* [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
+* [Starliner Astronauts Return To Earth After More Than 9 Months In Space](https://science.slashdot.org/story/25/03/18/2258246/starliner-astronauts-return-to-earth-after-more-than-9-months-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Astronauts aboard Boeing's Starliner return safely after an extended mission, underscoring space mission longevity.
 
-* [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html) - [Comments](https://news.ycombinator.com/item?id=43373504)
+* [Chaos in Gravity - the Quantum Based Magnetic Monopole of Mass?](https://soylentnews.org/article.pl?sid=25/03/17/123238&from=rss) - Researchers explore quantum phenomena that could reshape our understanding of gravity and fundamental physics.
 
-## AI and Legal Challenges
+## Cultural and Historical Insights
 
-* [US Appeals Court Rejects Copyrights For AI-Generated Art](https://yro.slashdot.org/story/25/03/18/1918240/us-appeals-court-rejects-copyrights-for-ai-generated-art?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=43402790)
+* [Unearthed Notebooks Shed Light on Victorian Genius Who Inspired Einstein](https://soylentnews.org/article.pl?sid=25/03/18/0150258&from=rss) - Newly discovered manuscripts reveal the underappreciated contributions of a Victorian thinker to modern theoretical physics.
 
-* [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://news.slashdot.org/story/25/03/18/2040214/ftc-removes-posts-critical-of-amazon-microsoft-and-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/25/03/18/2040214/ftc-removes-posts-critical-of-amazon-microsoft-and-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Breakthroughs in Technology Hardware
-
-* [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) - [Comments](https://news.ycombinator.com/item?id=43400989)
-
-* [Nvidia Reveals Next-Gen AI Chips, Roadmap Through 2028](https://tech.slashdot.org/story/25/03/18/201213/nvidia-reveals-next-gen-ai-chips-roadmap-through-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/25/03/18/201213/nvidia-reveals-next-gen-ai-chips-roadmap-through-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [US Music Streaming Tops 100 Million Subscribers; Vinyl Outsells CDs For Third Year](https://entertainment.slashdot.org/story/25/03/18/2052244/us-music-streaming-tops-100-million-subscribers-vinyl-outsells-cds-for-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The rise in music streaming subscriptions is contrasted by the enduring popularity of vinyl records.
 
 ---
 
@@ -63,8 +57,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-03-19, 01:32:31](https://news.ycombinator.com/item?id=43407423) - [Show HN: I made a worldwide sexual life dashboard](https://www.worldsexmap.com/)
+* [2025-03-19, 03:30:00](https://science.slashdot.org/story/25/03/18/2243230/researchers-engineer-bacteria-to-produce-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Researchers Engineer Bacteria To Produce Plastics](https://science.slashdot.org/story/25/03/18/2243230/researchers-engineer-bacteria-to-produce-plastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-19, 03:18:00](https://soylentnews.org/article.pl?sid=25/03/18/0159258&from=rss) - [Everything You Say to Your Echo Will be Sent to Amazon Starting on March 28](https://soylentnews.org/article.pl?sid=25/03/18/0159258&from=rss)
+* [2025-03-19, 02:22:05](https://lobste.rs/s/jlm5ug/copyright_demoscene) - [Copyright and the demoscene](https://www.datagubbe.se/scenecop/)
+* [2025-03-19, 02:06:09](https://lobste.rs/s/7tldrt/on_aesthetics_syntax_declarations_2018) - [On the Aesthetics of the Syntax of Declarations (2018)](https://www.gingerbill.org/article/2018/03/12/on-the-aesthetics-of-the-syntax-of-declarations/)
+* [2025-03-19, 02:02:00](https://news.slashdot.org/story/25/03/18/2231255/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Italian Newspaper Says It Has Published World's First AI-Generated Edition](https://news.slashdot.org/story/25/03/18/2231255/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-19, 01:25:00](https://it.slashdot.org/story/25/03/18/2226205/microsoft-isnt-fixing-8-year-old-shortcut-exploit-abused-for-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Isn't Fixing 8-Year-Old Shortcut Exploit Abused For Spying](https://it.slashdot.org/story/25/03/18/2226205/microsoft-isnt-fixing-8-year-old-shortcut-exploit-abused-for-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-19, 00:45:00](https://mobile.slashdot.org/story/25/03/18/2220249/gavin-newsom-is-reportedly-sending-burner-phones-to-tech-ceos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Gavin Newsom Is Reportedly Sending Burner Phones To Tech CEOs](https://mobile.slashdot.org/story/25/03/18/2220249/gavin-newsom-is-reportedly-sending-burner-phones-to-tech-ceos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-19, 00:21:42](https://lobste.rs/s/xgdq8e/why_i_love_set) - [Why I Love SET](https://franklantz.substack.com/p/why-i-love-set)
 * [2025-03-19, 00:12:13](https://lobste.rs/s/ud9f7q/greptimedb_leads_cold_run_performance_on) - [GreptimeDB Leads in Cold Run Performance on ClickHouse’s billion JSON doc benchmark](https://greptime.com/blogs/2025-03-18-jsonbench-greptimedb-performance)
 * [2025-03-19, 00:01:00](https://entertainment.slashdot.org/story/25/03/18/2052244/us-music-streaming-tops-100-million-subscribers-vinyl-outsells-cds-for-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Music Streaming Tops 100 Million Subscribers; Vinyl Outsells CDs For Third Year](https://entertainment.slashdot.org/story/25/03/18/2052244/us-music-streaming-tops-100-million-subscribers-vinyl-outsells-cds-for-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
@@ -96,18 +96,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-18, 17:26:51](https://news.ycombinator.com/item?id=43402102) - [Verification-First Development](https://buttondown.com/hillelwayne/archive/verification-first-development/)
 * [2025-03-18, 17:07:39](https://news.ycombinator.com/item?id=43401855) - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
-* [2025-03-18, 16:48:17](https://news.ycombinator.com/item?id=43401595) - [Fedora 42 Beta](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
 * [2025-03-18, 16:40:00](https://entertainment.slashdot.org/story/25/03/18/1634231/why-are-the-most-expensive-netflix-movies-also-the-worst?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why Are the Most Expensive Netflix Movies Also the Worst?](https://entertainment.slashdot.org/story/25/03/18/1634231/why-are-the-most-expensive-netflix-movies-also-the-worst?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-18, 16:36:20](https://news.ycombinator.com/item?id=43401421) - [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
-* [2025-03-18, 16:32:53](https://lobste.rs/s/fydrkd/virtual_reality_projection_shenanigans) - [Virtual Reality Projection Shenanigans](https://slugcat.systems/post/25-03-18-virtual-reality-projection-shenanigans/)
 * [2025-03-18, 16:23:21](https://news.ycombinator.com/item?id=43401245) - [Apple restricts Pebble from being awesome with iPhones](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/)
 * [2025-03-18, 16:18:08](https://news.ycombinator.com/item?id=43401179) - [Designing Electronics That Work](https://www.hscott.net/designing-electronics-that-work/)
 * [2025-03-18, 16:08:49](https://lobste.rs/s/a2gqkn/real_failure_rate_ebs) - [The Real Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
-* [2025-03-18, 16:05:00](https://tech.slashdot.org/story/25/03/18/161237/metas-llama-ai-models-hit-1-billion-downloads-zuckerberg-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta's Llama AI Models Hit 1 Billion Downloads, Zuckerberg Says](https://tech.slashdot.org/story/25/03/18/161237/metas-llama-ai-models-hit-1-billion-downloads-zuckerberg-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 * [2025-03-18, 15:43:41](https://lobste.rs/s/fnx5fv/recyling_oneplus_6t_into_kubernetes_node) - [Recyling a OnePlus 6T into a Kubernetes Node](https://gabrielsimmer.com/blog/kubernetes-plus-oneplus)
-* [2025-03-18, 15:28:00](https://apple.slashdot.org/story/25/03/18/1528219/apple-loses-german-antitrust-appeal-opening-door-for-greater-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Loses German Antitrust Appeal, Opening Door for Greater Controls](https://apple.slashdot.org/story/25/03/18/1528219/apple-loses-german-antitrust-appeal-opening-door-for-greater-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-18, 14:40:00](https://developers.slashdot.org/story/25/03/18/1428226/vibe-coding-is-letting-10-engineers-do-the-work-of-a-team-of-50-to-100-says-yc-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Vibe Coding' is Letting 10 Engineers Do the Work of a Team of 50 To 100, Says YC CEO](https://developers.slashdot.org/story/25/03/18/1428226/vibe-coding-is-letting-10-engineers-do-the-work-of-a-team-of-50-to-100-says-yc-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-18, 13:22:42](https://lobste.rs/s/qvnjtz/hexagons_beyond_flexible_responsive) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (2021)](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 * [2025-03-18, 13:07:00](https://soylentnews.org/article.pl?sid=25/03/17/128219&from=rss) - [On the Road to Idiocracy](https://soylentnews.org/article.pl?sid=25/03/17/128219&from=rss)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
@@ -127,11 +122,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-17, 23:35:11](https://lobste.rs/s/jtk4tx/gimp_3_0_released) - [GIMP 3.0 Released](https://www.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [2025-03-17, 22:53:00](https://soylentnews.org/article.pl?sid=25/03/15/1626204&from=rss) - [OpenAI Wants All The Data And For US Law To Apply Everywhere](https://soylentnews.org/article.pl?sid=25/03/15/1626204&from=rss)
 * [2025-03-17, 19:23:08](https://lobste.rs/s/hqxvb6/atrocious_state_binary_compatibility_on) - [The Atrocious State Of Binary Compatibility on Linux and How To Address It](https://jangafx.com/insights/linux-binary-compatibility)
-* [2025-03-17, 18:24:49](https://lobste.rs/s/tzjxrc/password_reuse_is_rampant_nearly_half) - [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
 * [2025-03-17, 18:11:00](https://soylentnews.org/article.pl?sid=25/03/15/1622220&from=rss) - [Six Weeks of CloudFlare Stalling; Still Blocking Niche Browsers](https://soylentnews.org/article.pl?sid=25/03/15/1622220&from=rss)
 * [2025-03-17, 17:36:20](https://lobste.rs/s/s5p1ng/announcing_snix) - [Announcing Snix](https://snix.dev/blog/announcing-snix/)
 * [2025-03-17, 17:07:43](https://lobste.rs/s/7iel5b/rhombus_programming_language) - [The Rhombus Programming Language](https://rhombus-lang.org)
-* [2025-03-17, 15:10:25](https://lobste.rs/s/r8mdl9/http_3_is_everywhere_nowhere) - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 * [2025-03-17, 13:23:00](https://soylentnews.org/article.pl?sid=25/03/15/1619204&from=rss) - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://soylentnews.org/article.pl?sid=25/03/15/1619204&from=rss)
 * [2025-03-17, 11:10:11](https://lobste.rs/s/dmuad3/mitigating_sourcehut_s_partial_outage) - [Mitigating SourceHut's partial outage caused by aggressive crawlers](https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/)
 * [2025-03-17, 08:36:00](https://soylentnews.org/article.pl?sid=25/03/15/1617256&from=rss) - [World's Smallest Microcontroller](https://soylentnews.org/article.pl?sid=25/03/15/1617256&from=rss)
@@ -140,6 +133,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-16, 18:20:00](https://soylentnews.org/article.pl?sid=25/03/15/141211&from=rss) - [Apple Encrypted Data Row Case Begins in Secret](https://soylentnews.org/article.pl?sid=25/03/15/141211&from=rss)
 * [2025-03-16, 13:34:00](https://soylentnews.org/article.pl?sid=25/03/15/1357206&from=rss) - [5 Years After Covid-19 Became a Pandemic, Are We Ready for What's Next?](https://soylentnews.org/article.pl?sid=25/03/15/1357206&from=rss)
 * [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350 (2024)](https://thejpster.org.uk/blog/blog-2024-08-08/)
+* [2025-03-16, 12:19:29](https://news.ycombinator.com/item?id=43378436) - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 * [2025-03-16, 11:36:23](https://news.ycombinator.com/item?id=43378226) - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/index.html)
 * [2025-03-16, 10:32:02](https://news.ycombinator.com/item?id=43377998) - [SheepShaver is an open source PowerPC Apple Macintosh emulator](https://www.emaculation.com/doku.php/sheepshaver)
 * [2025-03-16, 08:46:00](https://soylentnews.org/article.pl?sid=25/03/15/1228252&from=rss) - [Sidewinder Advanced Persistent Threat (APT) Shifts to Targeting of Nuclear, Maritime Orgs](https://soylentnews.org/article.pl?sid=25/03/15/1228252&from=rss)
@@ -150,6 +144,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 13:48:00](https://soylentnews.org/politics/article.pl?sid=25/03/14/1930253&from=rss) - [Judge Calls Doge Firings A \"Sham\", Orders Thousands Of Workers To Be Reinstated Immediately](https://soylentnews.org/politics/article.pl?sid=25/03/14/1930253&from=rss)
 * [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
+* [2025-03-15, 11:20:48](https://news.ycombinator.com/item?id=43371781) - [Gnome / mutter triple buffering patch merged](https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441)
 * [2025-03-15, 09:07:00](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss) - [Bad News for Low Orbit Satellites: Earth's Thermosphere is Shrinking](https://soylentnews.org/article.pl?sid=25/03/14/1113259&from=rss)
 * [2025-03-15, 04:22:00](https://soylentnews.org/article.pl?sid=25/03/14/115251&from=rss) - [AMD's Zen 6-Based Desktop Processors May Feature Up to 24 Cores](https://soylentnews.org/article.pl?sid=25/03/14/115251&from=rss)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
