@@ -1,58 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Social and Political Developments
 
-* [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss))
+* [Hungary To Use Facial Recognition to Suppress Pride March](https://yro.slashdot.org/story/25/03/22/2333213/hungary-to-use-facial-recognition-to-suppress-pride-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Hungary's plan to deploy facial recognition technology to suppress a Pride march sparks concerns over privacy and human rights. [Comments](https://yro.slashdot.org/story/25/03/22/2333213/hungary-to-use-facial-recognition-to-suppress-pride-march?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Enabling seamless interop between Rust and other languages](https://hackmd.io/@rust-lang-team/rJvv36hq1e) ([Comments](https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust))
+* [Italy Demands Google Poison Its Public DNS Under Strict Piracy Shield Law](https://yro.slashdot.org/story/25/03/23/0043217/italy-demands-google-poison-its-public-dns-under-strict-piracy-shield-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Italy enforces DNS-level blocking, demanding Google adjust its public DNS to comply with piracy legislation. [Comments](https://yro.slashdot.org/story/25/03/23/0043217/italy-demands-google-poison-its-public-dns-under-strict-piracy-shield-law?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html) ([Comments](https://lobste.rs/s/9hyjs0/use_long_options_scripts))
+* [Was Undersea Cable Sabotage Part of a Larger Pattern?](https://yro.slashdot.org/story/25/03/22/1821200/was-undersea-cable-sabotage-part-of-a-larger-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigative report explores whether recent undersea cable interruptions indicate a coordinated effort. [Comments](https://yro.slashdot.org/story/25/03/22/1821200/was-undersea-cable-sabotage-part-of-a-larger-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Microsoft Proposes "Hornet" Security Module For The Linux Kernel](https://www.phoronix.com/news/Microsoft-Hornet-Linux-LSM) ([Comments](https://lobste.rs/s/tdjkhi/microsoft_proposes_hornet_security))
+## Technological Innovations and Research
 
-* [Crabtime: Zig's Comptime in Rust](https://docs.rs/crabtime/latest/crabtime/) ([Comments](https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust))
+* [Optimizing by 170,000% by not being silly](https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly) - A blog post explores significant performance gains achieved through pragmatic optimization. [Comments](https://lobste.rs/s/is92qm/optimizing_by_170_000_by_not_being_silly).
 
-* [Neurosymbolic Programming with Scallop](https://www.scallop-lang.org/) ([Comments](https://lobste.rs/s/v4cr5g/neurosymbolic_programming_with_scallop))
+* [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy) - A new Bash-based reverse proxy tool helps protect against scraping attacks. [Comments](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy).
 
-## Cybersecurity and Privacy
+* [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf) - An open-access textbook on differential geometry for mathematical enthusiasts. [Comments](https://news.ycombinator.com/item?id=43445614).
 
-* [Authorization Bypass in Next.js Middleware](https://github.com/advisories/GHSA-f82v-jwr5-mffw) ([Comments](https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware))
+## AI and Coding Tools
 
-* [Six Countries Named as 'Likely' Purchasers of Paragon's Cellphone Spyware](https://yro.slashdot.org/story/25/03/22/0459224/six-countries-named-as-likely-purchasers-of-paragons-cellphone-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/03/22/0459224/six-countries-named-as-likely-purchasers-of-paragons-cellphone-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [What influences developers' trust in adopting AI-assisted coding tools?](https://rdel.substack.com/p/rdel-84-what-influences-developers) - A Substack post explores the psychological and technical factors developers consider when integrating AI tools. [Comments](https://lobste.rs/s/g6jiui/what_influences_developers_trust).
 
-* [China Will Enforce Clear Flagging of All AI Generated Content Starting From September](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss))
+* [Enabling seamless interop between Rust and other languages](https://hackmd.io/@rust-lang-team/rJvv36hq1e) - Rust developers strive for smoother interoperability with other programming languages. [Comments](https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust).
 
-* [New Undersea Cable Tech Listens For Sabotage  Can Be Retrofitted To Existing Fiber Optic Line](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss))
+* [Neurosymbolic Programming with Scallop](https://www.scallop-lang.org/) - Dive into Scallop's capabilities for combining symbolic and neural programming paradigms. [Comments](https://lobste.rs/s/v4cr5g/neurosymbolic_programming_with_scallop).
 
-## Innovation and Retro Computing
+## Retro Computing and Historical Insights
 
-* [Rebooting A Retro PDP-11 Workstation - and Its Classic 'Venix' UNIX](https://tech.slashdot.org/story/25/03/22/1927247/rebooting-a-retro-pdp-11-workstation---and-its-classic-venix-unix?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/03/22/1927247/rebooting-a-retro-pdp-11-workstation---and-its-classic-venix-unix?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Rebooting A Retro PDP-11 Workstation - and Its Classic 'Venix' UNIX](https://tech.slashdot.org/story/25/03/22/1927247/rebooting-a-retro-pdp-11-workstation---and-its-classic-venix-unix?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A look back at the PDP-11 and its Venix UNIX operating system. [Comments](https://tech.slashdot.org/story/25/03/22/1927247/rebooting-a-retro-pdp-11-workstation---and-its-classic-venix-unix?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887) ([Comments](https://news.ycombinator.com/item?id=43449326))
+* [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - Analysis highlights risks of hypothetical Dyson Swarm scenarios for harnessing solar energy. [Comments](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss).
 
-* [U.S. Atari Parts Store Still Open After 41 Years, Has Spent $100K+ Designing New Parts](https://soylentnews.org/article.pl?sid=25/03/18/1610234&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/18/1610234&from=rss))
+## Security Concerns
 
-## Science and Environment
+* [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - A security hardening measure in Linux mistakenly weakened by using consistent seeds. [Comments](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss).
 
-* [Surprisingly, Some Dyson Spheres and Ringworlds Can Be Stable](https://science.slashdot.org/story/25/03/22/0414254/surprisingly-some-dyson-spheres-and-ringworlds-can-be-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/03/22/0414254/surprisingly-some-dyson-spheres-and-ringworlds-can-be-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Authorization Bypass in Next.js Middleware](https://github.com/advisories/GHSA-f82v-jwr5-mffw) - A GitHub advisory details a critical vulnerability affecting Next.js middleware security. [Comments](https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware).
 
-* [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes) ([Comments](https://news.ycombinator.com/item?id=43448023))
-
-* [Blue Ghost lander captures sunset shots on moon before falling silent](https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html) ([Comments](https://news.ycombinator.com/item?id=43410302))
-
-## Artificial Intelligence and Computing
-
-* [Majority of AI Researchers Say Tech Industry Is Pouring Billions Into a Dead End](https://slashdot.org/story/25/03/22/0341222/majority-of-ai-researchers-say-tech-industry-is-pouring-billions-into-a-dead-end?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/25/03/22/0341222/majority-of-ai-researchers-say-tech-industry-is-pouring-billions-into-a-dead-end?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en) ([Comments](https://news.ycombinator.com/item?id=43447254))
-
-* [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) ([Comments](https://lobste.rs/s/ybyno6/trapping_misbehaving_bots_ai_labyrinth))
-
-## Policy and Geopolitics
-
-* [France Rejects Backdoor Mandate](https://it.slashdot.org/story/25/03/22/0855215/france-rejects-backdoor-mandate?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/03/22/0855215/france-rejects-backdoor-mandate?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [China Explores Limiting Its EV and Battery Exports For US Tariff Negotiations](https://hardware.slashdot.org/story/25/03/22/2227218/china-explores-limiting-its-ev-and-battery-exports-for-us-tariff-negotiations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/03/22/2227218/china-explores-limiting-its-ev-and-battery-exports-for-us-tariff-negotiations?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [California Attorney General issues consumer alert for 23andMe customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers) - Privacy concerns raised over genetic data handling by 23andMe. [Comments](https://news.ycombinator.com/item?id=43447421).
 
 ---
 
@@ -79,8 +63,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-23, 03:34:00](https://yro.slashdot.org/story/25/03/22/2333213/hungary-to-use-facial-recognition-to-suppress-pride-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hungary To Use Facial Recognition to Suppress Pride March](https://yro.slashdot.org/story/25/03/22/2333213/hungary-to-use-facial-recognition-to-suppress-pride-march?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-23, 03:28:44](https://lobste.rs/s/is92qm/optimizing_by_170_000_by_not_being_silly) - [Optimizing by 170,000% by not being silly](https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly)
+* [2025-03-23, 03:24:27](https://lobste.rs/s/g6jiui/what_influences_developers_trust) - [What influences developers' trust in adopting AI-assisted coding tools?](https://rdel.substack.com/p/rdel-84-what-influences-developers)
+* [2025-03-23, 02:48:42](https://lobste.rs/s/kcnb6n/custom_vc_focused_emacs_functions) - [Custom VC-Focused Emacs Functions to Enhance My Git Workflow](https://www.rahuljuliato.com/posts/vc-git-functions)
+* [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
 * [2025-03-23, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss)
-* [2025-03-23, 01:34:59](https://news.ycombinator.com/item?id=43450256) - [Upcoming changes to how live videos are stored](https://www.facebook.com/business/help/1005165994166600?_fb_noscript=1)
+* [2025-03-23, 01:34:00](https://yro.slashdot.org/story/25/03/23/0043217/italy-demands-google-poison-its-public-dns-under-strict-piracy-shield-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Italy Demands Google Poison Its Public DNS Under Strict Piracy Shield Law](https://yro.slashdot.org/story/25/03/23/0043217/italy-demands-google-poison-its-public-dns-under-strict-piracy-shield-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 01:14:39](https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust) - [Enabling seamless interop between Rust and other languages](https://hackmd.io/@rust-lang-team/rJvv36hq1e)
 * [2025-03-23, 01:00:12](https://news.ycombinator.com/item?id=43450060) - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
@@ -91,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-22, 22:09:31](https://lobste.rs/s/mickni/pussh_simple_ssh_based_deployment_tool) - [pussh: A simple SSH-based deployment tool written in Bash](https://github.com/bearstech/pussh)
 * [2025-03-22, 21:34:00](https://news.slashdot.org/story/25/03/22/2112245/americas-college-board-launches-ap-cybersecurity-course-for-non-college-bound-students?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [America's College Board Launches AP Cybersecurity Course For Non-College-Bound Students](https://news.slashdot.org/story/25/03/22/2112245/americas-college-board-launches-ap-cybersecurity-course-for-non-college-bound-students?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
-* [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-22, 20:52:23](https://lobste.rs/s/fptkgx/kurlnavbar_me) - [KURLNavBar and me](https://akselmo.dev/posts/visual-woes/)
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 20:40:41](https://lobste.rs/s/t5dx8z/quitting_intel_x86_hypervisor) - [Quitting an Intel x86 hypervisor](https://halobates.de/blog/p/446)
@@ -130,24 +118,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-22, 09:30:00](https://it.slashdot.org/story/25/03/22/0855215/france-rejects-backdoor-mandate?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [France Rejects Backdoor Mandate](https://it.slashdot.org/story/25/03/22/0855215/france-rejects-backdoor-mandate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-22, 08:10:40](https://lobste.rs/s/v4cr5g/neurosymbolic_programming_with_scallop) - [Neurosymbolic Programming with Scallop](https://www.scallop-lang.org/)
 * [2025-03-22, 08:01:43](https://lobste.rs/s/tdjkhi/microsoft_proposes_hornet_security) - [Microsoft Proposes \"Hornet\" Security Module For The Linux Kernel](https://www.phoronix.com/news/Microsoft-Hornet-Linux-LSM)
+* [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH (2022)](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 07:22:41](https://lobste.rs/s/zmgtvx/when_you_deleted_lib_on_linux_while_still) - [When you deleted /lib on Linux while still connected via ssh](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss) - [China Will Enforce Clear Flagging of All AI Generated Content Starting From September](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss)
 * [2025-03-22, 07:00:00](https://tech.slashdot.org/story/25/03/22/010205/how-an-electrical-fire-shut-down-heathrow-and-upended-global-air-travel?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How an Electrical Fire Shut Down Heathrow and Upended Global Air Travel](https://tech.slashdot.org/story/25/03/22/010205/how-an-electrical-fire-shut-down-heathrow-and-upended-global-air-travel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-22, 06:46:57](https://lobste.rs/s/uyortk/hardware_aware_coding_cpu_architecture) - [Hardware-Aware Coding: CPU Architecture Concepts Every Developer Should Know](https://blog.codingconfessions.com/p/hardware-aware-coding)
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
-* [2025-03-22, 04:30:00](https://tech.slashdot.org/story/25/03/22/014247/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://tech.slashdot.org/story/25/03/22/014247/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-22, 02:19:00](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss) - [Ubuntu Plans to Swap GNU Coreutils for Rust](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss)
-* [2025-03-22, 01:45:00](https://slashdot.org/story/25/03/22/018254/amazon-ceo-criticizes-manager-fiefdoms-and-stresses-the-need-for-meritocracy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Amazon CEO Criticizes Manager Fiefdoms and Stresses the Need For 'Meritocracy' ](https://slashdot.org/story/25/03/22/018254/amazon-ceo-criticizes-manager-fiefdoms-and-stresses-the-need-for-meritocracy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-22, 01:34:13](https://lobste.rs/s/ykvjrj/how_glitch_online_survey_replaced_word) - [How a glitch in an online survey replaced the word ‘yes’ with ‘forks’](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
-* [2025-03-22, 01:29:24](https://lobste.rs/s/yt4vlb/lightpanda_new_browser_built_for) - [Lightpanda: A new browser built for machines](https://lightpanda.io/)
 * [2025-03-22, 01:25:09](https://lobste.rs/s/9c875g/chunking_attacks_on_tarsnap_others) - [Chunking attacks on Tarsnap (and others)](https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html)
-* [2025-03-21, 23:03:10](https://lobste.rs/s/swedbj/shaarli_personal_minimalist_super_fast) - [Shaarli: personal, minimalist, super-fast, database free, bookmarking service](https://github.com/shaarli/Shaarli)
 * [2025-03-21, 22:53:17](https://lobste.rs/s/h0yytn/c_rust_interoperability_problem) - [C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative)
 * [2025-03-21, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/20/0719234&from=rss) - [Academics Accuse AI Startups of Co-Opting Peer Review for Publicity](https://soylentnews.org/article.pl?sid=25/03/20/0719234&from=rss)
 * [2025-03-21, 20:06:52](https://lobste.rs/s/htsyvf/i_want_good_parallel_computer) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 * [2025-03-21, 16:51:00](https://soylentnews.org/article.pl?sid=25/03/20/0714208&from=rss) - [Los Alamos Scientists Invent Speedometer For Satellites](https://soylentnews.org/article.pl?sid=25/03/20/0714208&from=rss)
 * [2025-03-21, 16:26:34](https://lobste.rs/s/patoqt/what_comes_after_github_actions) - [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
-* [2025-03-21, 15:12:54](https://lobste.rs/s/ybyno6/trapping_misbehaving_bots_ai_labyrinth) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 * [2025-03-21, 12:04:00](https://soylentnews.org/article.pl?sid=25/03/20/0658243&from=rss) - [The Naturalness of the Seasonal Time Change: Researchers Question Basis of Modern Criticism](https://soylentnews.org/article.pl?sid=25/03/20/0658243&from=rss)
 * [2025-03-21, 07:21:00](https://soylentnews.org/article.pl?sid=25/03/20/0652220&from=rss) - [North Korea's Bitcoin Reserve Thought to be 3rd Largest in World](https://soylentnews.org/article.pl?sid=25/03/20/0652220&from=rss)
 * [2025-03-21, 02:37:00](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss) - [New Undersea Cable Tech Listens For Sabotage  Can Be Retrofitted To Existing Fiber Optic Line](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss)
@@ -155,6 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-20, 22:34:07](https://news.ycombinator.com/item?id=43429804) - [Optimizing Brainfuck interpreter in the C preprocessor](https://github.com/camel-cdr/bfcpp)
 * [2025-03-20, 21:56:00](https://soylentnews.org/article.pl?sid=25/03/19/1456215&from=rss) - [Microsoft's Quantum Breakthrough Claim Labeled 'Unreliable'](https://soylentnews.org/article.pl?sid=25/03/19/1456215&from=rss)
 * [2025-03-20, 21:55:20](https://news.ycombinator.com/item?id=43429427) - [Magical Instant Bullets](https://militaryrealism.blog/2025/03/20/magical-instant-bullets/)
+* [2025-03-20, 18:40:59](https://news.ycombinator.com/item?id=43427236) - [Claude Tried to Nuke My Home Directory](https://old.reddit.com/r/ClaudeAI/comments/1jfidvb/claude_tried_to_nuke_my_home/)
 * [2025-03-20, 17:08:00](https://soylentnews.org/politics/article.pl?sid=25/03/19/1440251&from=rss) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://soylentnews.org/politics/article.pl?sid=25/03/19/1440251&from=rss)
 * [2025-03-20, 12:25:00](https://soylentnews.org/article.pl?sid=25/03/19/120255&from=rss) - [Apple Loses 2025 Antitrust Appeal in Germany](https://soylentnews.org/article.pl?sid=25/03/19/120255&from=rss)
 * [2025-03-20, 07:41:00](https://soylentnews.org/article.pl?sid=25/03/19/1152214&from=rss) - [Firefly Bids Farewell to its Lunar Lander After 14 Days on the Moon](https://soylentnews.org/article.pl?sid=25/03/19/1152214&from=rss)
