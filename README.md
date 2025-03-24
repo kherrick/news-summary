@@ -1,44 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Web Development and Software Engineering Innovations
+## Technology and Innovation
 
-* [A CSS-based NoJS Anti-BOT Web Application Firewall (Proof of Concept)](https://github.com/yzqzss/csswaf) - A unique approach to web security using CSS for anti-bot measures without JavaScript. [Comments](https://lobste.rs/s/otdvl2/css_based_nojs_anti_bot_web_application).
+* [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/) explores advancements in lightweight and high-performing visual-language models. [Comments](https://news.ycombinator.com/item?id=43464068)
 
-* [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way) - Highlights common pitfalls in Windows command line argument handling. [Comments](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments).
+* [AMD Launches Gaia Open Source Project for Running LLMs Locally on Any PC](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss) introduces a major step in decentralizing machine learning. [Comments](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss)
 
-* [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/) - A beta release focusing on simplifying code reviews with patch-based workflows. [Comments](https://lobste.rs/s/vccjki/gitbutler_s_new_patch_based_code_review).
+* [Google Says It Might Have Deleted Your Maps Timeline Data](https://tech.slashdot.org/story/25/03/24/1749248/google-says-it-might-have-deleted-your-maps-timeline-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses potential issues with cloud data retention. [Comments](https://tech.slashdot.org/story/25/03/24/1749248/google-says-it-might-have-deleted-your-maps-timeline-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand) - In-depth exploration of creating Nix derivations manually for advanced package management. [Comments](https://lobste.rs/s/sff5iz/nix_derivations_by_hand).
+* [Linux Kernel 6.14 Officially Released](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights new features in the Linux operating system. [Comments](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Advances in AI and Machine Learning
+* [China Unveils a Powerful Deep-sea Cable Cutter That Could Reset the World Order](https://tech.slashdot.org/story/25/03/24/1645202/china-unveils-a-powerful-deep-sea-cable-cutter-that-could-reset-the-world-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines strategic implications of new marine technology. [Comments](https://tech.slashdot.org/story/25/03/24/1645202/china-unveils-a-powerful-deep-sea-cable-cutter-that-could-reset-the-world-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AI Will Impact GDP of Every Country By Double Digits, Says Mistral CEO](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insightful discussion on AI's sweeping global economic impact. [Comments](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2) introduces a cutting-edge microphone array tool. [Comments](https://lobste.rs/s/7mmbwk/triforce_microphone_array_beamformer)
 
-* [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction) - An innovative project using AI for more accurate weather forecasting. [Comments](https://news.ycombinator.com/item?id=43456723).
+## Business and Finance
 
-* [LangFuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers) - A growing startup in Berlin exploring language AI applications. [Comments](https://news.ycombinator.com/item?id=43459100).
+* [23andMe Files for Bankruptcy, as CEO Anne Wojcicki Resigns](https://www.wsj.com/business/dna-testing-company-23andme-files-for-bankruptcy-announces-ceo-resignation-82ad1c45) reveals critical developments in the genetic testing industry. [Comments](https://news.ycombinator.com/item?id=43464054)
 
-## Health and Medical Breakthroughs
+* [Pentagon Axes HR System After 780% Budget Overrun](https://news.slashdot.org/story/25/03/24/1822226/pentagon-axes-hr-system-after-780-budget-overrun?utm_source=rss1.0mainlinkanon&utm_medium=feed) showcases government inefficiencies in project management. [Comments](https://news.slashdot.org/story/25/03/24/1822226/pentagon-axes-hr-system-after-780-budget-overrun?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html) - Promising results in regenerative medicine for spinal injuries. [Comments](https://news.ycombinator.com/item?id=43459264).
+* [AI Will Impact GDP of Every Country By Double Digits, Says Mistral CEO](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) forecasts transformative economic impacts. [Comments](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [First Stroke Rehabilitation Drug That Reestablishes Brain Connections Discovered in Mouse Model](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss) - Major progress in post-stroke recovery through drug discovery. [Comments](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss).
+## Human and Social Impact
 
-## Tech Security and Privacy Concerns
+* [Japan Develops Stem Cell Treatment for Spinal Injuries](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html) progresses hope in mobility restoration. [Comments](https://news.ycombinator.com/item?id=43459264)
 
-* [Microsoft Trust Signing Service Abused to Code-Sign Malware](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss) - A worrying incident highlighting security vulnerabilities in signing services. [Comments](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss).
+* [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/) shares applications tailored specifically for cognitive differences. [Comments](https://news.ycombinator.com/item?id=43461375)
 
-* [Italy Demands Google Poison DNS Under Strict Piracy Shield Law](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss) - The legal and ethical implications of DNS manipulation for piracy concerns. [Comments](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss).
+* [China Bans Compulsory Facial Recognition and Its Use in Private Spaces Like Hotel Rooms](https://yro.slashdot.org/story/25/03/24/1616232/china-bans-compulsory-facial-recognition-and-its-use-in-private-spaces-like-hotel-rooms?utm_source=rss1.0mainlinkanon&utm_medium=feed) sets a new global benchmark for privacy laws. [Comments](https://yro.slashdot.org/story/25/03/24/1616232/china-bans-compulsory-facial-recognition-and-its-use-in-private-spaces-like-hotel-rooms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - Debate over the ethics of privacy in medical autopsies. [Comments](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss).
+## Science and Exploration
 
-## Innovative Tools and Frameworks
+* [Another Large Black Hole In 'Our' Galaxy](https://science.slashdot.org/story/25/03/23/2227207/another-large-black-hole-in-our-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed) brings fresh perspectives on the cosmos. [Comments](https://science.slashdot.org/story/25/03/23/2227207/another-large-black-hole-in-our-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/) - A creative suite of tools aimed at simplifying life for neurodivergent users. [Comments](https://news.ycombinator.com/item?id=43461375).
+* [The Mystery of the Oldest Writing System Remained Unsolved Until 1856](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/) dives into history's intriguing linguistic puzzles. [Comments](https://news.ycombinator.com/item?id=43452233)
 
-* [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2) - A pioneering audio processing tool for modern Apple hardware. [Comments](https://news.ycombinator.com/item?id=43461701).
-
-* [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline) - Privacy-focused alternative for tracking personal GPS data. [Comments](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative).
+* [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) discusses speculative risks of ambitious energy projects. [Comments](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
 
 ---
 
@@ -65,7 +63,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-03-24, 15:33:11](https://lobste.rs/s/otdvl2/css_based_nojs_anti_bot_web_application) - [A CSS-based NoJS Anti-BOT Web Application Firewall (Proof of Concept)](https://github.com/yzqzss/csswaf)
+* [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
+* [2025-03-24, 18:34:31](https://news.ycombinator.com/item?id=43464054) - [23andMe Files for Bankruptcy, as CEO Anne Wojcicki Resigns](https://www.wsj.com/business/dna-testing-company-23andme-files-for-bankruptcy-announces-ceo-resignation-82ad1c45)
+* [2025-03-24, 18:25:00](https://news.slashdot.org/story/25/03/24/1822226/pentagon-axes-hr-system-after-780-budget-overrun?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Pentagon Axes HR System After 780% Budget Overrun](https://news.slashdot.org/story/25/03/24/1822226/pentagon-axes-hr-system-after-780-budget-overrun?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-24, 17:49:00](https://tech.slashdot.org/story/25/03/24/1749248/google-says-it-might-have-deleted-your-maps-timeline-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Says It Might Have Deleted Your Maps Timeline Data](https://tech.slashdot.org/story/25/03/24/1749248/google-says-it-might-have-deleted-your-maps-timeline-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
+* [2025-03-24, 17:36:29](https://lobste.rs/s/pfqqi9/llms_on_powerpc_mac) - [LLMs on a PowerPC Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)
+* [2025-03-24, 16:50:00](https://tech.slashdot.org/story/25/03/24/1645202/china-unveils-a-powerful-deep-sea-cable-cutter-that-could-reset-the-world-order?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Unveils a Powerful Deep-sea Cable Cutter That Could Reset the World Order](https://tech.slashdot.org/story/25/03/24/1645202/china-unveils-a-powerful-deep-sea-cable-cutter-that-could-reset-the-world-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-24, 16:41:27](https://lobste.rs/s/7mmbwk/triforce_microphone_array_beamformer) - [Triforce: a microphone array beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
+* [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
+* [2025-03-24, 16:16:00](https://yro.slashdot.org/story/25/03/24/1616232/china-bans-compulsory-facial-recognition-and-its-use-in-private-spaces-like-hotel-rooms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [China Bans Compulsory Facial Recognition and Its Use in Private Spaces Like Hotel Rooms](https://yro.slashdot.org/story/25/03/24/1616232/china-bans-compulsory-facial-recognition-and-its-use-in-private-spaces-like-hotel-rooms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-24, 16:14:22](https://news.ycombinator.com/item?id=43462676) - [TUI editor and Vim/Neovim alternative](https://github.com/tauraamui/lilly)
+* [2025-03-24, 16:09:00](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss) - [AMD Launches Gaia Open Source Project for Running LLMs Locally on Any PC](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss)
+* [2025-03-24, 15:40:08](https://news.ycombinator.com/item?id=43462299) - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
 * [2025-03-24, 15:26:00](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Will Impact GDP of Every Country By Double Digits, Says Mistral CEO](https://slashdot.org/story/25/03/24/1527230/ai-will-impact-gdp-of-every-country-by-double-digits-says-mistral-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-24, 14:52:30](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments) - [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 * [2025-03-24, 14:48:00](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.14 Officially Released](https://linux.slashdot.org/story/25/03/24/1448217/linux-kernel-614-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -106,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 * [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 23:20:27](https://news.ycombinator.com/item?id=43456669) - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
-* [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 22:34:00](https://developers.slashdot.org/story/25/03/23/2138230/how-ai-coding-assistants-could-be-compromised-via-rules-file?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [How AI Coding Assistants Could Be Compromised Via Rules File](https://developers.slashdot.org/story/25/03/23/2138230/how-ai-coding-assistants-could-be-compromised-via-rules-file?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 21:34:00](https://yro.slashdot.org/story/25/03/23/2120237/is-whatsapp-being-ditched-for-signal-in-dutch-higher-education?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Is WhatsApp Being Ditched for Signal in Dutch Higher Education?](https://yro.slashdot.org/story/25/03/23/2120237/is-whatsapp-being-ditched-for-signal-in-dutch-higher-education?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
@@ -115,26 +124,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-23, 20:34:00](https://games.slashdot.org/story/25/03/23/1922228/developer-loads-steam-on-a-100-arm-single-board-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Developer Loads Steam On a $100 ARM Single Board Computer](https://games.slashdot.org/story/25/03/23/1922228/developer-loads-steam-on-a-100-arm-single-board-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 19:34:00](https://yro.slashdot.org/story/25/03/23/1842242/doc-searls-proposes-we-set-our-own-terms-and-policies-for-web-site-tracking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Doc Searls Proposes We Set Our Own Terms and Policies for Web Site Tracking](https://yro.slashdot.org/story/25/03/23/1842242/doc-searls-proposes-we-set-our-own-terms-and-policies-for-web-site-tracking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-* [2025-03-23, 18:34:00](https://news.slashdot.org/story/25/03/23/0413214/facebook-whistleblower-demands-overturn-of-interview-ban---as-her-book-remains-a-bestseller?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Facebook Whistleblower Demands Overturn of Interview Ban - as Her Book Remains a Bestseller](https://news.slashdot.org/story/25/03/23/0413214/facebook-whistleblower-demands-overturn-of-interview-ban---as-her-book-remains-a-bestseller?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
-* [2025-03-23, 17:34:00](https://news.slashdot.org/story/25/03/23/1558210/fsf-holds-live-auction-of-historically-important-free-software-memorabilia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FSF Holds Live Auction of 'Historically Important' Free Software Memorabilia](https://news.slashdot.org/story/25/03/23/1558210/fsf-holds-live-auction-of-historically-important-free-software-memorabilia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
-* [2025-03-23, 16:34:00](https://yro.slashdot.org/story/25/03/22/1824242/us-security-agencies-halt-coordinated-effort-to-counter-russian-sabotage-and-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Security Agencies Halt Coordinated Effort to Counter Russian Sabotage and Cyberattacks](https://yro.slashdot.org/story/25/03/22/1824242/us-security-agencies-halt-coordinated-effort-to-counter-russian-sabotage-and-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
-* [2025-03-23, 15:34:00](https://build.slashdot.org/story/25/03/23/0012253/raspberry-pi-announces-new-tool-for-customized-software-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Raspberry Pi Announces New Tool for Customized Software Images](https://build.slashdot.org/story/25/03/23/0012253/raspberry-pi-announces-new-tool-for-customized-software-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
-* [2025-03-23, 12:20:24](https://news.ycombinator.com/item?id=43452430) - [BeeFormer: CF and CBF hybrid approach for recommendation systems](https://github.com/recombee/beeformer)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
-* [2025-03-23, 11:33:56](https://news.ycombinator.com/item?id=43452268) - [Colored Bar Paper Colors](https://mw.rat.bz/barpaper/)
 * [2025-03-23, 11:24:35](https://news.ycombinator.com/item?id=43452233) - [The Mystery of the Oldest Writing System Remained Unsolved Until 1856](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 * [2025-03-23, 10:11:53](https://news.ycombinator.com/item?id=43451968) - [Aiter: AI Tensor Engine for ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html)
+* [2025-03-23, 09:20:42](https://news.ycombinator.com/item?id=43451760) - [Mruby/C and picoruby: high level langs in low-level devices?](https://github.com/picoruby/picoruby)
 * [2025-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss)
-* [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
-* [2025-03-23, 04:18:46](https://news.ycombinator.com/item?id=43450884) - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
 * [2025-03-23, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss)
-* [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 * [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
 * [2025-03-22, 16:39:00](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss) - [Researcher Trolls Microsoft Over Bug Disclosure Annoyance](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss)
 * [2025-03-22, 11:53:00](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss) - [Euro Techies Call for Sovereign Fund to Escape US Dependency](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss)
@@ -143,16 +143,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-22, 01:55:51](https://news.ycombinator.com/item?id=43442588) - [The Wright brothers invented the airplane, right? Not if you're in Brazil](https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/)
 * [2025-03-21, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/20/0719234&from=rss) - [Academics Accuse AI Startups of Co-Opting Peer Review for Publicity](https://soylentnews.org/article.pl?sid=25/03/20/0719234&from=rss)
 * [2025-03-21, 16:51:00](https://soylentnews.org/article.pl?sid=25/03/20/0714208&from=rss) - [Los Alamos Scientists Invent Speedometer For Satellites](https://soylentnews.org/article.pl?sid=25/03/20/0714208&from=rss)
-* [2025-03-21, 15:04:16](https://news.ycombinator.com/item?id=43436551) - [Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles](https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/)
+* [2025-03-21, 14:30:18](https://news.ycombinator.com/item?id=43436157) - [600M years of shared environmental stress response found in algae and plants](https://phys.org/news/2025-03-million-years-environmental-stress-response.html)
 * [2025-03-21, 12:04:00](https://soylentnews.org/article.pl?sid=25/03/20/0658243&from=rss) - [The Naturalness of the Seasonal Time Change: Researchers Question Basis of Modern Criticism](https://soylentnews.org/article.pl?sid=25/03/20/0658243&from=rss)
 * [2025-03-21, 11:47:37](https://news.ycombinator.com/item?id=43434503) - [A proof checker meant for education](https://jsiek.github.io/deduce/index.html)
-* [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
+* [2025-03-21, 09:43:16](https://news.ycombinator.com/item?id=43433648) - [How to create value objects in Ruby – the idiomatic way](https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 * [2025-03-21, 07:21:00](https://soylentnews.org/article.pl?sid=25/03/20/0652220&from=rss) - [North Korea's Bitcoin Reserve Thought to be 3rd Largest in World](https://soylentnews.org/article.pl?sid=25/03/20/0652220&from=rss)
 * [2025-03-21, 02:37:00](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss) - [New Undersea Cable Tech Listens For Sabotage  Can Be Retrofitted To Existing Fiber Optic Line](https://soylentnews.org/article.pl?sid=25/03/19/1458230&from=rss)
 * [2025-03-20, 21:56:00](https://soylentnews.org/article.pl?sid=25/03/19/1456215&from=rss) - [Microsoft's Quantum Breakthrough Claim Labeled 'Unreliable'](https://soylentnews.org/article.pl?sid=25/03/19/1456215&from=rss)
-* [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-20, 17:08:00](https://soylentnews.org/politics/article.pl?sid=25/03/19/1440251&from=rss) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://soylentnews.org/politics/article.pl?sid=25/03/19/1440251&from=rss)
 * [2025-03-20, 12:25:00](https://soylentnews.org/article.pl?sid=25/03/19/120255&from=rss) - [Apple Loses 2025 Antitrust Appeal in Germany](https://soylentnews.org/article.pl?sid=25/03/19/120255&from=rss)
 * [2025-03-20, 07:41:00](https://soylentnews.org/article.pl?sid=25/03/19/1152214&from=rss) - [Firefly Bids Farewell to its Lunar Lander After 14 Days on the Moon](https://soylentnews.org/article.pl?sid=25/03/19/1152214&from=rss)
