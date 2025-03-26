@@ -1,44 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in AI and Electronics
+## Technology and Innovation
 
-* [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - Researchers create a biomimetic fabrication technique inspired by leaf fractals for flexible electronics.
+* [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/) - A high-performance Rust runtime called Monoio is introduced, showcasing its potential for advancing Rust's ecosystem. [Comments](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance)
 
-* [Google Unveils Gemini 2.5 Pro, Its Latest AI Reasoning Model With Significant Benchmark Gains](https://tech.slashdot.org/story/25/03/25/195227/google-unveils-gemini-25-pro-its-latest-ai-reasoning-model-with-significant-benchmark-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google introduces Gemini 2.5 Pro, demonstrating substantial gains in AI reasoning benchmarks.
+* [Google Unveils Gemini 2.5 Pro, Its Latest AI Reasoning Model With Significant Benchmark Gains](https://tech.slashdot.org/story/25/03/25/195227/google-unveils-gemini-25-pro-its-latest-ai-reasoning-model-with-significant-benchmark-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google demonstrates its AI superiority with the release of Gemini 2.5 Pro, achieving advancements in reasoning benchmarks. [Comments](https://news.ycombinator.com/item?id=43473489)
 
-* [Device Enables Direct Communication Among Multiple Quantum Processors](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss) - Breakthrough device facilitates seamless interaction between multiple quantum processors, enhancing quantum computing designs.
+* [DeepSeek-V3 Now Runs At 20 Tokens Per Second On Mac Studio](https://apple.slashdot.org/story/25/03/25/2054214/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sophisticated speed updates for DeepSeek-V3 unlock Mac Studio's potential for high-performance AI tasks. [Comments](https://news.ycombinator.com/item?id=43471177)
 
-* [Apple Says It'll Use Apple Maps Look Around Photos To Train AI](https://apple.slashdot.org/story/25/03/25/1655211/apple-says-itll-use-apple-maps-look-around-photos-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple integrates Apple Maps' Look Around data into AI training efforts.
+## Cybersecurity
 
-## Ethics and Technological Challenges
+* [Google Patches Chrome Sandbox Escape Zero-Day Caught By Kaspersky](https://slashdot.org/story/25/03/26/0143210/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google responds rapidly to a critical Chrome zero-day vulnerability exposed by Kaspersky. [Comments](https://news.ycombinator.com/item?id=43479808)
 
-* [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The idea of ethically sourced 'spare' human bodies opens doors to transformative changes in medical procedures and transplantation.
+* [Whose Code Am I Running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/) - An exploration of automated CI systems, examining security and integrity when running GitHub Actions code. [Comments](https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions)
 
-* [Open Source Devs Say AI Crawlers Dominate Traffic, Forcing Blocks On Entire Countries](https://tech.slashdot.org/story/25/03/26/016244/open-source-devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI web crawlers cause unprecedented traffic volume, leading open-source developers to impose country-wide access blocks.
+## Ethics and Society
 
-* [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - A debate unfolds over the balance between medical advancement and privacy concerns in the release of post-mortem details.
+* [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ethical challenges and transformative medical advances through the ethical sourcing of human bodies are explored. [Comments](https://news.ycombinator.com/item?id=43479094)
 
-## Notable Innovations and Insights
+* [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - A thought-provoking discussion on balancing medical research benefits with personal privacy in autopsies. [Comments](https://lobste.rs/s/dkc0eq/kill_math_2011)
 
-* [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - A robot takes design cues from squirrels, improving agility and efficiency in leaping.
+## Programming and Software Development
 
-* [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - Innovative process creates a sustainable cement sand substitute using seawater and CO2, aiding eco-friendly construction practices.
+* [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/) - A guide on reducing Go executable sizes for efficient deployments. [Comments](https://lobste.rs/s/qpqrzb/shrink_your_go_binaries_with_this_one)
 
-* [DeepSeek-V3 Now Runs At 20 Tokens Per Second On Mac Studio](https://apple.slashdot.org/story/25/03/25/2054214/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - DeepSeek-V3 showcases enhanced performance metrics, achieving new speeds.
+* [REST in Peace? Django's Framework Problem](https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/) - Examining the evolving challenges faced by Django's REST framework in modern web development. [Comments](https://lobste.rs/s/5gmulq/rest_peace_django_s_framework_problem)
 
-## Cultural and Historical Curiosities
+## Science and Nature
 
-* [The 25 Years of Finnix](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss) - Celebrating 25 years of Finnix, one of the earliest live Linux distributions dedicated to system recovery.
+* [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - Insights into the ecological consequences and futuristic potential of Dyson swarms. [Comments](https://news.ycombinator.com/item?id=43454690)
 
-* [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic) - A unique intersection of pop culture and typography in a song celebrating typefaces.
+* [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - Roboticists draw from nature's leaps to craft agile robots. [Comments](https://news.ycombinator.com/item?id=43470066)
 
-* ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php) - Dive into the fascinating journey of San Francisco's iconic shopping bag and its cultural significance.
+## Cultural Insights
 
-## AI and Society
+* [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic) - A whimsical dive into the cultural intersections of pop music and creative typography. [Comments](https://news.ycombinator.com/item?id=43473358)
 
-* [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/) - AI's impact on web traffic prompts significant policy changes to manage escalating loads.
-
-* [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - Cloudflare deploys a novel technique to counteract AI scraping using AI-generated non-critical data.
+* [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/) - A literary critique reshaping opinions on the poetic legacy of Robert Frost. [Comments](https://news.ycombinator.com/item?id=43468498)
 
 ---
 
@@ -65,6 +63,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
+* [2025-03-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss) - [European Coalition Pushes For Second Chips Act Funding To Boost Semiconductor Sector](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss)
+* [2025-03-26, 10:00:00](https://slashdot.org/story/25/03/26/0143210/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Patches Chrome Sandbox Escape Zero-Day Caught By Kaspersky](https://slashdot.org/story/25/03/26/0143210/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-26, 07:49:56](https://news.ycombinator.com/item?id=43479808) - [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
 * [2025-03-26, 07:00:00](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 06:10:00](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss)
 * [2025-03-26, 05:26:54](https://lobste.rs/s/dkc0eq/kill_math_2011) - [Kill Math (2011)](https://worrydream.com/KillMath/)
@@ -81,8 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-25, 23:00:00](https://tech.slashdot.org/story/25/03/25/215234/microsofts-many-outlooks-are-confusing-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft's Many Outlooks Are Confusing Users](https://tech.slashdot.org/story/25/03/25/215234/microsofts-many-outlooks-are-confusing-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 22:20:00](https://apple.slashdot.org/story/25/03/25/2054214/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [DeepSeek-V3 Now Runs At 20 Tokens Per Second On Mac Studio](https://apple.slashdot.org/story/25/03/25/2054214/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-25, 21:47:20](https://news.ycombinator.com/item?id=43476365) - [What's Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
-* [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 * [2025-03-25, 21:40:00](https://hardware.slashdot.org/story/25/03/25/2037251/lisa-su-says-radeon-rx-9000-series-is-amds-most-successful-gpu-launch-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Lisa Su Says Radeon RX 9000 Series Is AMD's Most Successful GPU Launch Ever](https://hardware.slashdot.org/story/25/03/25/2037251/lisa-su-says-radeon-rx-9000-series-is-amds-most-successful-gpu-launch-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 * [2025-03-25, 21:22:35](https://news.ycombinator.com/item?id=43476134) - [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
@@ -106,12 +106,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-25, 16:54:00](https://apple.slashdot.org/story/25/03/25/1655211/apple-says-itll-use-apple-maps-look-around-photos-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Says It'll Use Apple Maps Look Around Photos To Train AI](https://apple.slashdot.org/story/25/03/25/1655211/apple-says-itll-use-apple-maps-look-around-photos-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-25, 16:51:09](https://news.ycombinator.com/item?id=43473358) - [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
 * [2025-03-25, 16:07:45](https://lobste.rs/s/5gmulq/rest_peace_django_s_framework_problem) - [REST in Peace? Django's Framework Problem](https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/)
-* [2025-03-25, 16:01:00](https://slashdot.org/story/25/03/25/1556254/ticketmaster-may-have-violated-consumer-protection-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ticketmaster May Have Violated Consumer Protection Laws](https://slashdot.org/story/25/03/25/1556254/ticketmaster-may-have-violated-consumer-protection-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-25, 15:52:00](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) - [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss)
 * [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 * [2025-03-25, 14:59:49](https://lobste.rs/s/u9usfa/reactos_0_4_15_released) - [ReactOS 0.4.15 released](https://reactos.org/project-news/reactos-0415-released/)
-* [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 14:56:50](https://lobste.rs/s/7ruvmo/surreal_joy_having_overprovisioned) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
@@ -133,21 +131,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-25, 01:37:00](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss)
 * [2025-03-24, 21:48:07](https://news.ycombinator.com/item?id=43465740) - [Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces](https://dedede.de/en)
 * [2025-03-24, 20:52:00](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss) - [\"Old Stump\" in Texas Turns Out to be Incredibly Rare Mammoth Tusk](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss)
-* [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
-* [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 * [2025-03-24, 16:09:00](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss) - [AMD Launches Gaia Open Source Project for Running LLMs Locally on Any PC](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss)
 * [2025-03-24, 11:27:00](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss) - [Italy Demands Google Poison DNS Under Strict Piracy Shield Law](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss)
 * [2025-03-24, 06:42:00](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss) - [Microsoft Trust Signing Service Abused to Code-Sign Malware](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss)
 * [2025-03-24, 01:55:00](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss)
 * [2025-03-23, 21:10:00](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss) - [First Stroke Rehabilitation Drug That Reestablishes Brain Connections Discovered in Mouse Model](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss)
+* [2025-03-23, 18:16:00](https://news.ycombinator.com/item?id=43454690) - [Show HN: Cocommit – A copilot for git commit](https://github.com/andrewromanenco/cocommit)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
 * [2025-03-23, 12:36:31](https://news.ycombinator.com/item?id=43452486) - [Intel RealSense Stereo Depth Cameras](https://www.intelrealsense.com)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
-* [2025-03-23, 08:32:40](https://news.ycombinator.com/item?id=43451579) - [Ollama Models Atom Feed](https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/)
+* [2025-03-23, 10:02:02](https://news.ycombinator.com/item?id=43451935) - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
+* [2025-03-23, 09:42:03](https://news.ycombinator.com/item?id=43451861) - [Understanding DNS Resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 * [2025-03-23, 07:40:29](https://news.ycombinator.com/item?id=43451435) - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and lock-free data structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss)
 * [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
+* [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All Clothing Is Handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
 * [2025-03-23, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss)
 * [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
