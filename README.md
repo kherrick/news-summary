@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Medical Innovations and Health Ethics
+## Advancements in AI and Electronics
 
-* [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A novel concept of ethically sourcing spare human bodies has the potential to transform medical practices, opening up new avenues in organ transplantation and research.
+* [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - Researchers create a biomimetic fabrication technique inspired by leaf fractals for flexible electronics.
 
-## AI and Technology Advancements
+* [Google Unveils Gemini 2.5 Pro, Its Latest AI Reasoning Model With Significant Benchmark Gains](https://tech.slashdot.org/story/25/03/25/195227/google-unveils-gemini-25-pro-its-latest-ai-reasoning-model-with-significant-benchmark-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google introduces Gemini 2.5 Pro, demonstrating substantial gains in AI reasoning benchmarks.
 
-* [Open Source Devs Say AI Crawlers Dominate Traffic, Forcing Blocks On Entire Countries](https://tech.slashdot.org/story/25/03/26/016244/open-source-devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns rise over AI crawlers monopolizing internet traffic, leading developers to block entire nations.
+* [Device Enables Direct Communication Among Multiple Quantum Processors](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss) - Breakthrough device facilitates seamless interaction between multiple quantum processors, enhancing quantum computing designs.
 
-* [Google Unveils Gemini 2.5 Pro, Its Latest AI Reasoning Model With Significant Benchmark Gains](https://tech.slashdot.org/story/25/03/25/195227/google-unveils-gemini-25-pro-its-latest-ai-reasoning-model-with-significant-benchmark-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's Gemini 2.5 Pro demonstrates significant progress in AI reasoning tasks with major benchmark improvements.
+* [Apple Says It'll Use Apple Maps Look Around Photos To Train AI](https://apple.slashdot.org/story/25/03/25/1655211/apple-says-itll-use-apple-maps-look-around-photos-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple integrates Apple Maps' Look Around data into AI training efforts.
 
-* [China Will Enforce Clear Flagging of All AI Generated Content Starting From September](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss) - China plans to mandate clear labeling of AI-generated content by September, a move that aims to enhance transparency.
+## Ethics and Technological Challenges
 
-## Cryptocurrency and Corporate Strategy
+* [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The idea of ethically sourced 'spare' human bodies opens doors to transformative changes in medical procedures and transplantation.
 
-* [GameStop To Invest Corporate Cash In Bitcoin, Following In Footsteps of MicroStrategy](https://slashdot.org/story/25/03/26/0059223/gamestop-to-invest-corporate-cash-in-bitcoin-following-in-footsteps-of-microstrategy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - GameStop joins cryptocurrency investments, aiming to emulate MicroStrategy’s success in leveraging Bitcoin.
+* [Open Source Devs Say AI Crawlers Dominate Traffic, Forcing Blocks On Entire Countries](https://tech.slashdot.org/story/25/03/26/016244/open-source-devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI web crawlers cause unprecedented traffic volume, leading open-source developers to impose country-wide access blocks.
 
-## Scientific Discoveries and Research
+* [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - A debate unfolds over the balance between medical advancement and privacy concerns in the release of post-mortem details.
 
-* [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) - Breakthrough discoveries in antibiotic development mark a major milestone for combating bacterial resistance.
+## Notable Innovations and Insights
 
-## Quantum Computing and Communication
+* [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - A robot takes design cues from squirrels, improving agility and efficiency in leaping.
 
-* [Device Enables Direct Communication Among Multiple Quantum Processors](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss) - A technological leap allowing quantum processors to directly communicate creates new possibilities in quantum computing.
+* [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - Innovative process creates a sustainable cement sand substitute using seawater and CO2, aiding eco-friendly construction practices.
 
-## Technological Critiques
+* [DeepSeek-V3 Now Runs At 20 Tokens Per Second On Mac Studio](https://apple.slashdot.org/story/25/03/25/2054214/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - DeepSeek-V3 showcases enhanced performance metrics, achieving new speeds.
 
-* ['I Won't Connect My Dishwasher To Your Stupid Cloud'](https://it.slashdot.org/story/25/03/25/1849231/i-wont-connect-my-dishwasher-to-your-stupid-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critique of unnecessary IoT integration.
+## Cultural and Historical Curiosities
 
-## Software Development Insights
+* [The 25 Years of Finnix](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss) - Celebrating 25 years of Finnix, one of the earliest live Linux distributions dedicated to system recovery.
 
-* [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/) - Discover techniques to minimize Go binaries efficiently.
+* [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic) - A unique intersection of pop culture and typography in a song celebrating typefaces.
 
-* [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234) - New developments in integrating single sign-on functionality within SSH.
+* ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php) - Dive into the fascinating journey of San Francisco's iconic shopping bag and its cultural significance.
 
-## Digital Security
+## AI and Society
 
-* [Signal Head Defends Messaging App's Security After US War Plan Leak](https://yro.slashdot.org/story/25/03/25/1728243/signal-head-defends-messaging-apps-security-after-us-war-plan-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Signal reinforces its stance on security following revelations of sensitive information leaks.
+* [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/) - AI's impact on web traffic prompts significant policy changes to manage escalating loads.
 
-## Space and Global Concerns
-
-* [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - Exploration of profound environmental impacts of constructing an ambitious solar-panel-based Dyson Swarm.
-
-## Historical and Cultural Narratives
-
-* [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/) - A literary analysis challenges the celebrated works of Robert Frost.
+* [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - Cloudflare deploys a novel technique to counteract AI scraping using AI-generated non-critical data.
 
 ---
 
@@ -73,6 +67,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 
 * [2025-03-26, 07:00:00](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 06:10:00](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss)
+* [2025-03-26, 05:26:54](https://lobste.rs/s/dkc0eq/kill_math_2011) - [Kill Math (2011)](https://worrydream.com/KillMath/)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-26, 04:58:48](https://lobste.rs/s/seqpx7/what_is_plus_times_plus) - [What is plus times plus?](https://youtu.be/RcVA8Nj6HEo)
 * [2025-03-26, 04:34:11](https://lobste.rs/s/qpqrzb/shrink_your_go_binaries_with_this_one) - [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
@@ -127,10 +122,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-25, 12:29:30](https://lobste.rs/s/au3938/database_protocols_are_underwhelming) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-03-25, 12:24:42](https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub) - [TrapC: Memory Safe C Programming with No UB](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+* [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
 * [2025-03-25, 11:09:00](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss)
 * [2025-03-25, 10:43:31](https://lobste.rs/s/7nkvua/beyond_traditional_pattern_matching) - [Beyond Traditional Pattern Matching in Lisp](https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE)
-* [2025-03-25, 10:32:38](https://lobste.rs/s/zz69lm/coding_isn_t_programming) - [Coding isn't programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 09:58:23](https://lobste.rs/s/pi7xjh/closing_chapter_on_openh264) - [Closing the chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
+* [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 06:24:00](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss) - [Sperm Donation Giant California Cryobank Warns of a Data Breach](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss)
 * [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
@@ -145,7 +141,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-24, 01:55:00](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss)
 * [2025-03-23, 21:10:00](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss) - [First Stroke Rehabilitation Drug That Reestablishes Brain Connections Discovered in Mouse Model](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
-* [2025-03-23, 12:37:11](https://news.ycombinator.com/item?id=43452491) - [Recommendation for non-DOS/Unix open source OS outside x86/X64](https://news.ycombinator.com/item?id=43452491)
 * [2025-03-23, 12:36:31](https://news.ycombinator.com/item?id=43452486) - [Intel RealSense Stereo Depth Cameras](https://www.intelrealsense.com)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
 * [2025-03-23, 08:32:40](https://news.ycombinator.com/item?id=43451579) - [Ollama Models Atom Feed](https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/)
@@ -158,6 +153,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
 * [2025-03-22, 16:39:00](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss) - [Researcher Trolls Microsoft Over Bug Disclosure Annoyance](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss)
 * [2025-03-22, 11:53:00](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss) - [Euro Techies Call for Sovereign Fund to Escape US Dependency](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss)
-* [2025-03-22, 11:17:30](https://news.ycombinator.com/item?id=43444999) - [Svelte: $derived can now be overwritten](https://github.com/sveltejs/svelte/pull/15570)
 * [2025-03-22, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss) - [China Will Enforce Clear Flagging of All AI Generated Content Starting From September](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss)
 * [2025-03-22, 02:19:00](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss) - [Ubuntu Plans to Swap GNU Coreutils for Rust](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss)
