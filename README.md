@@ -1,54 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Innovations
+## Technology and Software Advancements
 
-* [Surgeons Transplant Genetically Modified Pig Liver Into Chinese Patient](https://science.slashdot.org/story/25/03/27/0030207/surgeons-transplant-genetically-modified-pig-liver-into-chinese-patient?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking medical procedure has been performed in China, involving a genetically modified pig liver transplant.
+* [RealtimeKit and CPU Scheduling](https://venam.net/blog/unix/2025/03/24/rtkit.html) ([comments](https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling))
 
-* [Scientists Record First Sounds Ever Known To Be Made By Sharks](https://science.slashdot.org/story/25/03/26/2339257/scientists-record-first-sounds-ever-known-to-be-made-by-sharks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists have recorded sounds made by sharks for the first time, opening new avenues for marine biology research.
+* [Linux Kernel 6.14 Is a Big Leap Forward In Performance, Windows Compatibility](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43486647))
 
-* [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c) - The original source code of the first C compiler from 1972 has been shared, offering a look into the roots of modern computing.
+* [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) ([comments](https://news.ycombinator.com/item?id=43490167))
 
-* [JPMorgan Says Quantum Experiment Generated Truly Random Numbers](https://science.slashdot.org/story/25/03/26/2334255/jpmorgan-says-quantum-experiment-generated-truly-random-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - JPMorgan's quantum experiment successfully produced truly random numbers, advancing quantum cryptography potential.
+* [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite) ([comments](https://news.ycombinator.com/item?id=43486997))
 
-* [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md) - An ode to the simplicity and utility of the CSV format, detailing its ongoing relevance in data workflows.
+* [Hyperlight Wasm: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/) ([comments](https://lobste.rs/s/9xkrhc/hyperlight_wasm_fast_secure_os_free))
 
-## AI and Machine Learning
+## Science and Medicine Breakthroughs
 
-* [OpenAI's Viral Studio Ghibli Moment Highlights AI Copyright Concerns](https://slashdot.org/story/25/03/27/0023207/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A viral AI-generated work reopens debates on copyright implications of AI-created content.
+* [Scientists Record First Sounds Ever Known To Be Made By Sharks](https://science.slashdot.org/story/25/03/26/2339257/scientists-record-first-sounds-ever-known-to-be-made-by-sharks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43485433))
 
-* [AI Reveals Secrets of Dendritic Growth in Thin Films](https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html) - AI tools have been utilized to uncover the mechanisms behind dendritic growth, potentially transforming thin film applications.
+* [Surgeons Transplant Genetically Modified Pig Liver Into Chinese Patient](https://science.slashdot.org/story/25/03/27/0030207/surgeons-transplant-genetically-modified-pig-liver-into-chinese-patient?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43484765))
 
-* [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/) - A new AI tool creates symbolic music, showcasing advancements in AI-driven creative processes.
+* [Chicago-Sized Iceberg Hid Ancient Ecosystem](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss))
 
-* [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - Cloudflare introduces a new method to counter AI tools by bombarding them with irrelevant information.
+## Cybersecurity and Privacy
 
-## Software Development and Open Source
+* [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/) ([comments](https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen))
 
-* [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) - A detailed technical analysis of DeepSeek-V3 is available, presenting innovations in deep learning research.
+* [Microsoft Trust Signing Service Abused to Code-Sign Malware](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss))
 
-* [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite) - A guide to developing a Linux container runtime that explains foundational concepts.
+* [US Expands Export Blacklist To Keep Computing Tech Out of China](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/) - Ferrous Systems contributes its language specification to bolster the Rust ecosystem.
+## Artificial Intelligence and Quantum Developments
 
-* [Matrix Profiles](https://aneksteind.github.io/posts/2025-03-26.html) - Insights into Matrix Profiles, a technique for analyzing time series data effectively.
+* [OpenAI's Viral Studio Ghibli Moment Highlights AI Copyright Concerns](https://slashdot.org/story/25/03/27/0023207/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43490167))
 
-## Global and Corporate Developments
-
-* [EU OS Aims to Free the European Public Sector Desktop](https://soylentnews.org/article.pl?sid=25/03/26/038215&from=rss) - The European Union is developing an OS to promote its digital sovereignty agenda.
-
-* [Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/) - Botswana successfully launches its inaugural satellite, marking a milestone in African space exploration.
-
-* [Fidelity Prepares To Unveil Its Own Stablecoin](https://news.slashdot.org/story/25/03/26/2321223/fidelity-prepares-to-unveil-its-own-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Fidelity is poised to launch its own stablecoin, signaling deeper engagement in blockchain finance.
-
-* [Apple Music launches DJ feature for user-curated mixing](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655) - Apple Music introduces tools that let users create customized DJ sets.
-
-## Cybersecurity
-
-* [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell) - A new NPM package was found secretly installing a reverse shell, raising security alarms.
-
-* [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/) - Oracle confirms customer data validity after a recent cloud cybersecurity incident.
-
-* [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - A misconfiguration in Linux security features highlights the challenges of system-wide hardening.
+* [JPMorgan Says Quantum Experiment Generated Truly Random Numbers](https://science.slashdot.org/story/25/03/26/2334255/jpmorgan-says-quantum-experiment-generated-truly-random-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43489861))
 
 ---
 
@@ -75,13 +59,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-27, 09:50:25](https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for) - [prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee)
+* [2025-03-27, 09:05:35](https://lobste.rs/s/pntonn/war_story_hardest_bug_i_ever_debugged) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
+* [2025-03-27, 08:14:00](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss) - [Chicago-Sized Iceberg Hid Ancient Ecosystem](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss)
+* [2025-03-27, 07:27:03](https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling) - [RealtimeKit and CPU Scheduling](https://venam.net/blog/unix/2025/03/24/rtkit.html)
+* [2025-03-27, 07:10:58](https://lobste.rs/s/wnkazo/decent_auth_backend_auth_library_works) - [Decent-Auth:  backend auth library that works in several different languages via WASM](https://github.com/lastlogin-net/decent-auth)
+* [2025-03-27, 07:02:22](https://news.ycombinator.com/item?id=43491060) - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
 * [2025-03-27, 07:00:00](https://science.slashdot.org/story/25/03/27/0030207/surgeons-transplant-genetically-modified-pig-liver-into-chinese-patient?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Surgeons Transplant Genetically Modified Pig Liver Into Chinese Patient](https://science.slashdot.org/story/25/03/27/0030207/surgeons-transplant-genetically-modified-pig-liver-into-chinese-patient?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-27, 05:44:30](https://lobste.rs/s/6v626z/reasoning_by_analogy) - [Reasoning by Analogy](https://thoughtbot.com/blog/reasoning-by-analogy)
+* [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 03:53:11](https://lobste.rs/s/knemhd/tunneling_corporate_firewalls_for) - [Tunneling corporate firewalls for developers](https://blog.frost.kiwi/tunneling-corporate-firewalls/)
 * [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 * [2025-03-27, 03:30:00](https://slashdot.org/story/25/03/27/0023207/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI's Viral Studio Ghibli Moment Highlights AI Copyright Concerns](https://slashdot.org/story/25/03/27/0023207/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 03:26:00](https://soylentnews.org/article.pl?sid=25/03/26/038215&from=rss) - [EU OS Aims to Free the European Public Sector Desktop](https://soylentnews.org/article.pl?sid=25/03/26/038215&from=rss)
-* [2025-03-27, 02:47:26](https://lobste.rs/s/ikzacv/bevy_meetup_intermediate) - [Bevy Meetup - Intermediate Representations for Reactive Structures](https://www.youtube.com/watch?v=JeXOajFv8Dk)
 * [2025-03-27, 02:37:09](https://news.ycombinator.com/item?id=43489861) - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
 * [2025-03-27, 02:10:00](https://science.slashdot.org/story/25/03/26/2339257/scientists-record-first-sounds-ever-known-to-be-made-by-sharks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Scientists Record First Sounds Ever Known To Be Made By Sharks](https://science.slashdot.org/story/25/03/26/2339257/scientists-record-first-sounds-ever-known-to-be-made-by-sharks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 01:30:00](https://science.slashdot.org/story/25/03/26/2334255/jpmorgan-says-quantum-experiment-generated-truly-random-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [JPMorgan Says Quantum Experiment Generated Truly Random Numbers](https://science.slashdot.org/story/25/03/26/2334255/jpmorgan-says-quantum-experiment-generated-truly-random-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -91,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/european_union_creates_fedora_based) - [European Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 * [2025-03-27, 00:31:47](https://news.ycombinator.com/item?id=43489136) - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 * [2025-03-27, 00:27:03](https://news.ycombinator.com/item?id=43489114) - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
-* [2025-03-27, 00:20:27](https://lobste.rs/s/lyifc7/matrix_profiles) - [Matrix Profiles](https://aneksteind.github.io/posts/2025-03-26.html)
 * [2025-03-27, 00:10:00](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.14 Is a Big Leap Forward In Performance, Windows Compatibility](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 23:30:00](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Over 4 Million Gen Zers Are Jobless](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 23:04:33](https://news.ycombinator.com/item?id=43488490) - [Rost – Rust Programming in German](https://github.com/michidk/rost)
@@ -115,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 * [2025-03-26, 18:32:00](https://slashdot.org/story/25/03/26/1832216/microsoft-abandons-data-center-projects-td-cowen-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Abandons Data Center Projects, TD Cowen Says](https://slashdot.org/story/25/03/26/1832216/microsoft-abandons-data-center-projects-td-cowen-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-26, 17:53:47](https://news.ycombinator.com/item?id=43484845) - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 * [2025-03-26, 17:23:17](https://lobste.rs/s/rckxbp/you_just_can_t_be_googling_select) - [You just can’t be Googling ‘Select’](https://sophiabits.com/blog/you-just-cant-be-googling-select)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
 * [2025-03-26, 17:22:00](https://news.slashdot.org/story/25/03/26/172241/who-wins-nobel-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Who Wins Nobel Prizes?](https://news.slashdot.org/story/25/03/26/172241/who-wins-nobel-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -123,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 16:50:47](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene) - [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
 * [2025-03-26, 16:45:00](https://slashdot.org/story/25/03/26/1641211/quitting-your-job-wont-help-you-get-paid-more-money-right-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Quitting Your Job Won't Help You Get Paid More Money Right Now](https://slashdot.org/story/25/03/26/1641211/quitting-your-job-wont-help-you-get-paid-more-money-right-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 16:29:49](https://lobste.rs/s/pyvuuk/good_bye_core_types_hello_go_as_we_know_love) - [Good-bye core types; Hello Go as we know and love it](https://go.dev/blog/coretypes)
-* [2025-03-26, 16:18:14](https://news.ycombinator.com/item?id=43483842) - [Good-bye core types; Hello Go as we know and love it](https://go.dev/blog/coretypes)
 * [2025-03-26, 16:02:56](https://news.ycombinator.com/item?id=43483660) - [Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/)
 * [2025-03-26, 15:35:00](https://soylentnews.org/article.pl?sid=25/03/26/0243240&from=rss) - [4-Day Work-Week UK Pilot Due in Tech Land by Early Summer](https://soylentnews.org/article.pl?sid=25/03/26/0243240&from=rss)
 * [2025-03-26, 14:28:43](https://lobste.rs/s/riiqce/what_s_new_neovim_0_11) - [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
@@ -131,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 14:18:19](https://lobste.rs/s/zekdwq/pi_pico_rx_crystal_radio_for_digital_age) - [Pi Pico Rx - A crystal radio for the digital age?](https://101-things.readthedocs.io/en/latest/radio_receiver.html)
 * [2025-03-26, 14:01:50](https://lobste.rs/s/qmfk8h/peg_parsing_series_2019) - [PEG parsing series (2019)](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 * [2025-03-26, 13:57:11](https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source) - [antirez wants to make Redis open source, again](https://youtu.be/Q3PgpCzEnks)
-* [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
 * [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
 * [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss) - [European Coalition Pushes For Second Chips Act Funding To Boost Semiconductor Sector](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss)
@@ -143,16 +128,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 17:02:33](https://news.ycombinator.com/item?id=43473495) - [Has the decline of knowledge work begun?](https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html)
 * [2025-03-25, 15:52:00](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) - [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss)
-* [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
-* [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 11:09:00](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss)
+* [2025-03-25, 07:23:36](https://news.ycombinator.com/item?id=43468765) - [Ungovernable, Capricious Life](https://www.nybooks.com/articles/2025/04/10/ungovernable-capricious-life-shattered-hanif-kureishi/)
 * [2025-03-25, 06:24:00](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss) - [Sperm Donation Giant California Cryobank Warns of a Data Breach](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss)
 * [2025-03-25, 01:37:00](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss)
+* [2025-03-25, 00:21:08](https://news.ycombinator.com/item?id=43466850) - [The social media communication of Andalusian interest groups](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1534093/full)
 * [2025-03-24, 20:52:00](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss) - [\"Old Stump\" in Texas Turns Out to be Incredibly Rare Mammoth Tusk](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss)
 * [2025-03-24, 17:47:08](https://news.ycombinator.com/item?id=43463579) - [AI Reveals Secrets of Dendritic Growth in Thin Films](https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html)
 * [2025-03-24, 16:09:00](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss) - [AMD Launches Gaia Open Source Project for Running LLMs Locally on Any PC](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss)
 * [2025-03-24, 15:58:04](https://news.ycombinator.com/item?id=43462510) - [Unveiling the mysterious 'red sprite' lightning strikes over the Himalayas](https://phys.org/news/2025-03-unveiling-mysterious-red-sprite-lightning.html)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
+* [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
 * [2025-03-24, 11:27:00](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss) - [Italy Demands Google Poison DNS Under Strict Piracy Shield Law](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss)
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
 * [2025-03-24, 06:42:00](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss) - [Microsoft Trust Signing Service Abused to Code-Sign Malware](https://soylentnews.org/article.pl?sid=25/03/23/1435254&from=rss)
@@ -161,7 +147,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-23, 20:36:51](https://news.ycombinator.com/item?id=43455698) - [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
 * [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
-* [2025-03-23, 13:27:26](https://news.ycombinator.com/item?id=43452789) - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 * [2025-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss)
