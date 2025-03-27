@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovation and AI
+## Technology Innovations and Releases
 
-* [A Very (!) Early Play With Astral's Red Knot Static Type Checker](https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html) - A first look into Astral's Red Knot static type checker, offering insights into its development and unique features. [Comments](https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot)
+* [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655) ([Comments](https://news.ycombinator.com/item?id=43489271))
 
-* [Waymos crash less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into) - An exploration of Waymo's autonomous vehicles and their impressive crash statistics relative to human drivers. [Comments](https://news.ycombinator.com/item?id=43487231)
+* [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe) ([Comments](https://lobste.rs/s/rurjmx/europen_union_creates_fedora_based_linux))
 
-* [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite) - A deep dive into how to create a Linux container runtime step-by-step. [Comments](https://news.ycombinator.com/item?id=43486997)
+* [Linux Kernel 6.14 Is a Big Leap Forward In Performance, Windows Compatibility](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Tao: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data) - Introducing a novel method of training LLMs to enhance efficiency by utilizing test-time compute without labeled datasets. [Comments](https://news.ycombinator.com/item?id=43486199)
+* [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/) ([Comments](https://news.ycombinator.com/item?id=43489114))
 
-* [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/) - OpenAI enriches its offerings by incorporating MCP support into its Agents SDK. [Comments](https://news.ycombinator.com/item?id=43485566)
+* [Matrix Profiles](https://aneksteind.github.io/posts/2025-03-26.html) ([Comments](https://lobste.rs/s/lyifc7/matrix_profiles))
 
-## Cybersecurity and Data Privacy
+## Science and Discoveries
 
-* [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/) - Oracle cloud breach exposes sensitive customer data, confirmed by affected users. [Comments](https://news.ycombinator.com/item?id=43486945)
+* [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/) ([Comments](https://news.ycombinator.com/item?id=43489136))
 
-* [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell) - New malware targeting NPM repositories delivers a reverse shell, posing significant risks to developers. [Comments](https://news.ycombinator.com/item?id=43484845)
+* [Study casts doubt on gluten as cause of gut ailments among non-coeliacs](https://www.theguardian.com/australia-news/2025/mar/27/gluten-intolerant-intolerance-non-coeliac-disease) ([Comments](https://news.ycombinator.com/item?id=43489118))
 
-* [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data) - A guide delivering an essential overview for individuals seeking to protect their genetic data privacy on 23andMe. [Comments](https://news.ycombinator.com/item?id=43486236)
+* [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss))
 
-## Advancements in Software and Programming
+* [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss))
 
-* [A Daft proc-macro trick: How to Emit Partial-Code + Errors](https://schneems.com/2025/03/26/a-daft-procmacro-trick-how-to-emit-partialcode-errors/) - Discover how developers can use proc-macros to output incomplete code alongside errors for debugging. [Comments](https://lobste.rs/s/rgtmc1/daft_proc_macro_trick_how_emit_partial)
+## Privacy, Security, and Regulation
 
-* [Commandments of reproducible builds](https://reproducible-builds.org/docs/commandments/) - Highlights the importance and principles of reproducible builds in ensuring consistency and reliability in software. [Comments](https://lobste.rs/s/hhi7vb/commandments_reproducible_builds)
+* [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/) ([Comments](https://news.ycombinator.com/item?id=43486945))
 
-* [Blasting Past Webp](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html) - A technical examination of WebP vulnerabilities and their implications. [Comments](https://lobste.rs/s/llixz2/blasting_past_webp)
+* [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data) ([Comments](https://news.ycombinator.com/item?id=43486236))
 
-## Corporate and Industry Developments
+* [Sperm Donation Giant California Cryobank Warns of a Data Breach](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss))
 
-* [VMware Sues Siemens For Allegedly Using Unlicensed Software](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - VMware takes legal action against Siemens for allegedly using their software without proper licensing.
+* [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell) ([Comments](https://news.ycombinator.com/item?id=43484845))
 
-* [Producing Wafers at TSMC Arizona is Only 10% More Expensive Than in Taiwan](https://soylentnews.org/article.pl?sid=25/03/26/0237223&from=rss) - TSMC's Arizona plant reported reduced cost overheads in semiconductor production compared to initial estimates.
+## Corporate and Policy Developments
 
-* [Microsoft Abandons Data Center Projects, TD Cowen Says](https://slashdot.org/story/25/03/26/1832216/microsoft-abandons-data-center-projects-td-cowen-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft scales back on its ambitious data center projects amidst global changes in priorities.
+* [Fidelity Prepares To Unveil Its Own Stablecoin](https://news.slashdot.org/story/25/03/26/2321223/fidelity-prepares-to-unveil-its-own-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/03/26/2321223/fidelity-prepares-to-unveil-its-own-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Open Source and Community Initiatives
+* [US Expands Export Blacklist To Keep Computing Tech Out of China](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/) - A notable contribution to the Rust language by Ferrous Systems to further its development. [Comments](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene)
+* [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/) ([Comments](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os))
+
+* [VMware Sues Siemens For Allegedly Using Unlicensed Software](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Signal President Blasts WhatsApp's Privacy Claims](https://it.slashdot.org/story/25/03/26/1536221/signal-president-blasts-whatsapps-privacy-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/03/26/1536221/signal-president-blasts-whatsapps-privacy-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -65,11 +69,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-27, 01:02:00](https://soylentnews.org/article.pl?sid=25/03/26/033246&from=rss) - [The Search for Missing Plane MH370 is Back on](https://soylentnews.org/article.pl?sid=25/03/26/033246&from=rss)
+* [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
+* [2025-03-27, 00:50:00](https://news.slashdot.org/story/25/03/26/2321223/fidelity-prepares-to-unveil-its-own-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Fidelity Prepares To Unveil Its Own Stablecoin](https://news.slashdot.org/story/25/03/26/2321223/fidelity-prepares-to-unveil-its-own-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/europen_union_creates_fedora_based_linux) - [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
+* [2025-03-27, 00:31:47](https://news.ycombinator.com/item?id=43489136) - [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+* [2025-03-27, 00:29:04](https://news.ycombinator.com/item?id=43489118) - [Study casts doubt on gluten as cause of gut ailments among non-coeliacs](https://www.theguardian.com/australia-news/2025/mar/27/gluten-intolerant-intolerance-non-coeliac-disease)
+* [2025-03-27, 00:27:03](https://news.ycombinator.com/item?id=43489114) - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
+* [2025-03-27, 00:20:27](https://lobste.rs/s/lyifc7/matrix_profiles) - [Matrix Profiles](https://aneksteind.github.io/posts/2025-03-26.html)
+* [2025-03-27, 00:10:00](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Linux Kernel 6.14 Is a Big Leap Forward In Performance, Windows Compatibility](https://linux.slashdot.org/story/25/03/26/2110211/linux-kernel-614-is-a-big-leap-forward-in-performance-windows-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-26, 23:30:00](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Over 4 Million Gen Zers Are Jobless](https://news.slashdot.org/story/25/03/26/211250/over-4-million-gen-zers-are-jobless?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-26, 22:50:00](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Expands Export Blacklist To Keep Computing Tech Out of China](https://hardware.slashdot.org/story/25/03/26/2053233/us-expands-export-blacklist-to-keep-computing-tech-out-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
+* [2025-03-26, 22:11:44](https://lobste.rs/s/9xkrhc/hyperlight_wasm_fast_secure_os_free) - [Hyperlight Wasm: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
+* [2025-03-26, 22:10:00](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Business Schools Are Back](https://news.slashdot.org/story/25/03/26/2035210/business-schools-are-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 21:55:42](https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot) - [A Very (!) Early Play With Astral's Red Knot Static Type Checker](https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html)
 * [2025-03-26, 21:30:00](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [VMware Sues Siemens For Allegedly Using Unlicensed Software](https://slashdot.org/story/25/03/26/2030219/vmware-sues-siemens-for-allegedly-using-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-26, 21:21:22](https://lobste.rs/s/rgtmc1/daft_proc_macro_trick_how_emit_partial) - [A Daft proc-macro trick: How to Emit Partial-Code + Errors](https://schneems.com/2025/03/26/a-daft-procmacro-trick-how-to-emit-partialcode-errors/)
 * [2025-03-26, 21:13:47](https://lobste.rs/s/hhi7vb/commandments_reproducible_builds) - [Commandments of reproducible builds](https://reproducible-builds.org/docs/commandments/)
-* [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [Waymos crash less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
 * [2025-03-26, 20:50:00](https://news.slashdot.org/story/25/03/26/2017227/google-will-develop-the-android-os-fully-in-private?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Will Develop the Android OS Fully In Private](https://news.slashdot.org/story/25/03/26/2017227/google-will-develop-the-android-os-fully-in-private?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
 * [2025-03-26, 20:31:13](https://news.ycombinator.com/item?id=43486945) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
@@ -78,15 +94,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 * [2025-03-26, 19:45:07](https://lobste.rs/s/dygvyk/revisiting_css_border_image) - [Revisiting CSS border-image](https://css-tricks.com/revisiting-css-border-image/)
 * [2025-03-26, 19:41:20](https://news.ycombinator.com/item?id=43486236) - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
-* [2025-03-26, 19:38:35](https://news.ycombinator.com/item?id=43486199) - [Tao: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data)
 * [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 19:22:16](https://lobste.rs/s/llixz2/blasting_past_webp) - [Blasting Past Webp](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
-* [2025-03-26, 19:21:51](https://news.ycombinator.com/item?id=43485950) - [Google makes Android development private, will continue open source releases](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/)
 * [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 19:07:39](https://news.ycombinator.com/item?id=43485740) - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 * [2025-03-26, 18:32:00](https://slashdot.org/story/25/03/26/1832216/microsoft-abandons-data-center-projects-td-cowen-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Microsoft Abandons Data Center Projects, TD Cowen Says](https://slashdot.org/story/25/03/26/1832216/microsoft-abandons-data-center-projects-td-cowen-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
 * [2025-03-26, 17:53:47](https://news.ycombinator.com/item?id=43484845) - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 * [2025-03-26, 17:23:17](https://lobste.rs/s/rckxbp/you_just_can_t_be_googling_select) - [You just can’t be Googling ‘Select’](https://sophiabits.com/blog/you-just-cant-be-googling-select)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
@@ -111,34 +124,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 14:03:00](https://apple.slashdot.org/story/25/03/26/1411217/apple-barred-from-google-antitrust-trial-20-billion-search-deal-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Apple Barred From Google Antitrust Trial, $20 Billion Search Deal at Risk](https://apple.slashdot.org/story/25/03/26/1411217/apple-barred-from-google-antitrust-trial-20-billion-search-deal-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 14:01:50](https://lobste.rs/s/qmfk8h/peg_parsing_series_2019) - [PEG parsing series (2019)](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 * [2025-03-26, 13:57:11](https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source) - [antirez wants to make Redis open source, again](https://youtu.be/Q3PgpCzEnks)
-* [2025-03-26, 13:00:00](https://news.slashdot.org/story/25/03/26/0149248/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal](https://news.slashdot.org/story/25/03/26/0149248/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
 * [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
 * [2025-03-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss) - [European Coalition Pushes For Second Chips Act Funding To Boost Semiconductor Sector](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss)
-* [2025-03-26, 10:00:00](https://slashdot.org/story/25/03/26/0143210/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Patches Chrome Sandbox Escape Zero-Day Caught By Kaspersky](https://slashdot.org/story/25/03/26/0143210/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-26, 07:00:00](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Ethically Sourced 'Spare' Human Bodies Could Revolutionize Medicine](https://science.slashdot.org/story/25/03/26/0112257/ethically-sourced-spare-human-bodies-could-revolutionize-medicine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 06:10:00](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss)
 * [2025-03-26, 05:26:54](https://lobste.rs/s/dkc0eq/kill_math_2011) - [Kill Math (2011)](https://worrydream.com/KillMath/)
 * [2025-03-26, 04:58:48](https://lobste.rs/s/seqpx7/what_is_plus_times_plus) - [What is plus times plus?](https://youtu.be/RcVA8Nj6HEo)
 * [2025-03-26, 04:34:11](https://lobste.rs/s/qpqrzb/shrink_your_go_binaries_with_this_one) - [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
-* [2025-03-26, 03:30:00](https://tech.slashdot.org/story/25/03/26/016244/open-source-devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Open Source Devs Say AI Crawlers Dominate Traffic, Forcing Blocks On Entire Countries](https://tech.slashdot.org/story/25/03/26/016244/open-source-devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 02:52:47](https://lobste.rs/s/ec6ro8/don_t_bring_slop_slop_fight) - [Don't bring slop to a slop fight](https://sethmlarson.dev/dont-bring-slop-to-a-slop-fight)
-* [2025-03-26, 01:36:17](https://lobste.rs/s/zz4xfn/opensmtpd_maildrop_working_concert) - [OpenSMTPD & Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
 * [2025-03-26, 01:25:00](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss) - [The 25 Years of Finnix](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss)
-* [2025-03-26, 01:01:00](https://slashdot.org/story/25/03/26/0059223/gamestop-to-invest-corporate-cash-in-bitcoin-following-in-footsteps-of-microstrategy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [GameStop To Invest Corporate Cash In Bitcoin, Following In Footsteps of MicroStrategy](https://slashdot.org/story/25/03/26/0059223/gamestop-to-invest-corporate-cash-in-bitcoin-following-in-footsteps-of-microstrategy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-26, 00:32:28](https://lobste.rs/s/jaxxly/you_might_want_stop_running_atop) - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
-* [2025-03-25, 23:31:55](https://lobste.rs/s/gcz5e2/postel_s_law_three_ring_circus) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
 * [2025-03-25, 20:38:00](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss) - [Device Enables Direct Communication Among Multiple Quantum Processors](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss)
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 17:02:33](https://news.ycombinator.com/item?id=43473495) - [Has the decline of knowledge work begun?](https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html)
 * [2025-03-25, 15:52:00](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) - [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss)
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
-* [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 11:09:00](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss)
 * [2025-03-25, 06:24:00](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss) - [Sperm Donation Giant California Cryobank Warns of a Data Breach](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss)
 * [2025-03-25, 01:37:00](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss)
 * [2025-03-24, 20:52:00](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss) - [\"Old Stump\" in Texas Turns Out to be Incredibly Rare Mammoth Tusk](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss)
-* [2025-03-24, 19:05:49](https://news.ycombinator.com/item?id=43464362) - [An Interview with Zen Chief Architect Mike Clark](https://www.computerenhance.com/p/an-interview-with-zen-chief-architect)
 * [2025-03-24, 16:09:00](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss) - [AMD Launches Gaia Open Source Project for Running LLMs Locally on Any PC](https://soylentnews.org/article.pl?sid=25/03/23/1439235&from=rss)
 * [2025-03-24, 11:27:00](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss) - [Italy Demands Google Poison DNS Under Strict Piracy Shield Law](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss)
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
@@ -146,15 +151,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-24, 01:55:00](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss) - [Autopsies Can Reveal Intimate Health Details. Should They be Kept Private?](https://soylentnews.org/article.pl?sid=25/03/23/1422252&from=rss)
 * [2025-03-23, 21:10:00](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss) - [First Stroke Rehabilitation Drug That Reestablishes Brain Connections Discovered in Mouse Model](https://soylentnews.org/article.pl?sid=25/03/22/1921254&from=rss)
 * [2025-03-23, 16:23:00](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss) - [Why Don't New Cars Come With Spare Tires Anymore?](https://soylentnews.org/article.pl?sid=25/03/22/1919201&from=rss)
+* [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
 * [2025-03-23, 13:27:26](https://news.ycombinator.com/item?id=43452789) - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 * [2025-03-23, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss) - [US Court of Appeals Unanimously Denies Copyright Protection for AI-Created Images](https://soylentnews.org/article.pl?sid=25/03/22/1912255&from=rss)
 * [2025-03-23, 10:02:02](https://news.ycombinator.com/item?id=43451935) - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 * [2025-03-23, 06:52:00](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss) - [Cloudflare Turns AI Against Itself With Endless Maze of Irrelevant Facts](https://soylentnews.org/article.pl?sid=25/03/22/199248&from=rss)
 * [2025-03-23, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss) - [Linux Security Hardening Cache Randomization Was Inadvertently Using The Same Seed](https://soylentnews.org/article.pl?sid=25/03/22/198241&from=rss)
-* [2025-03-22, 23:46:36](https://news.ycombinator.com/item?id=43449645) - ['Naive' science fan faces jail for plutonium import](https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html)
-* [2025-03-22, 21:23:00](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss) - [A Dyson Swarm Made of Solar Panels Would Make Earth Uninhabitable](https://soylentnews.org/article.pl?sid=25/03/21/1841234&from=rss)
-* [2025-03-22, 16:39:00](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss) - [Researcher Trolls Microsoft Over Bug Disclosure Annoyance](https://soylentnews.org/article.pl?sid=25/03/21/0242250&from=rss)
-* [2025-03-22, 11:53:00](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss) - [Euro Techies Call for Sovereign Fund to Escape US Dependency](https://soylentnews.org/article.pl?sid=25/03/21/0236216&from=rss)
-* [2025-03-22, 07:05:00](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss) - [China Will Enforce Clear Flagging of All AI Generated Content Starting From September](https://soylentnews.org/article.pl?sid=25/03/21/0227252&from=rss)
-* [2025-03-22, 02:19:00](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss) - [Ubuntu Plans to Swap GNU Coreutils for Rust](https://soylentnews.org/article.pl?sid=25/03/21/0159251&from=rss)
