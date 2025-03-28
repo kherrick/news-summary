@@ -1,60 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Tools
+## Tech Industry and Organizational Changes
 
-* [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/) ([comments](https://lobste.rs/s/ment9k/xee_modern_xpath_xslt_engine_rust))
+* [IBM US Cuts May Run Deeper Than Feared - and the Jobs Are Heading To India](https://slashdot.org/story/25/03/28/0623217/ibm-us-cuts-may-run-deeper-than-feared---and-the-jobs-are-heading-to-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - IBM's job cuts in the US are reportedly more extensive than anticipated, with roles being relocated to India for cost reductions.
 
-* [Operationalizing Macaroons](https://fly.io/blog/operationalizing-macaroons/) ([comments](https://lobste.rs/s/imobus/operationalizing_macaroons))
+* [Ubisoft Spins Out Subsidiary With a Billion-Dollar Investment From Tencent](https://slashdot.org/story/25/03/27/239223/ubisoft-spins-out-subsidiary-with-a-billion-dollar-investment-from-tencent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ubisoft partners with Tencent for a major investment, creating a new subsidiary with ambitious financial backing.
 
-* [A Shell for the Container Age: Introducing Dagger Shell - Dagger](https://dagger.io/blog/dagger-shell) ([comments](https://lobste.rs/s/atew8r/shell_for_container_age_introducing))
+* [US Robotics Companies Push For National Strategy To Compete With China](https://hardware.slashdot.org/story/25/03/27/2351255/us-robotics-companies-push-for-national-strategy-to-compete-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Robotics firms are lobbying for a cohesive national policy to maintain competitiveness against China's advancements.
 
-* [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) ([comments](https://news.ycombinator.com/item?id=43500179))
+## Emerging and Innovative Technologies
 
-* [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/) ([comments](https://news.ycombinator.com/item?id=43496577))
+* [ReactOS 0.4.15 Released](https://soylentnews.org/article.pl?sid=25/03/26/1637237&from=rss) - The release of ReactOS 0.4.15 brings hopeful progress toward a free and open-source alternative to Windows.
 
-## Emerging AI and Data Insights
+* [SJS: A Static AOT Compiler for a Subset of JavaScript (2016)](https://github.com/Samsung/SJS) - A glimpse back into SJS, a project demonstrating improvements in JavaScript compilation.
 
-* [Anthropic Maps AI Model 'Thought' Processes](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Clean: A Formal Verification DSL for ZK Circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/) - Exploring Clean, a domain-specific language designed for formal verification in zero-knowledge circuits.
 
-* [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) ([comments](https://news.ycombinator.com/item?id=43495617))
+## Science and Environmental Discoveries
 
-* [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139) ([comments](https://news.ycombinator.com/item?id=43460455))
+* [7.7 Magnitude Earthquake Hits Southeast Asia, Affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139) - A powerful earthquake shakes the region, triggering concerns about safety and relief efforts.
 
-* [OpenAI Says 'Our GPUs Are Melting' As It Limits ChatGPT Image Generation Requests](https://slashdot.org/story/25/03/28/003227/openai-says-our-gpus-are-melting-as-it-limits-chatgpt-image-generation-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/03/28/003227/openai-says-our-gpus-are-melting-as-it-limits-chatgpt-image-generation-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Chicago-Sized Iceberg Hid Ancient Ecosystem](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss) - Research reveals a hidden ancient ecosystem under a massive iceberg.
 
-## Climate and Environmental Concerns
+* ["Old Stump" in Texas Turns Out to be Incredibly Rare Mammoth Tusk](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss) - An ordinary-looking stump turns out to be a rare fossil revealing prehistoric secrets.
 
-* [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025) ([comments](https://news.ycombinator.com/item?id=43499966))
+## Artificial Intelligence Advances and Challenges
 
-* [Chicago-Sized Iceberg Hid Ancient Ecosystem](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss))
+* [Anthropic Maps AI Model 'Thought' Processes](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking approach to visualizing the 'thought' mechanisms of AI.
 
-## Science and Discoveries
+* [Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) - A deep dive into understanding decision-making processes of generative AI models.
 
-* [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2) ([comments](https://news.ycombinator.com/item?id=43500769))
+* [OpenAI Says 'Our GPUs Are Melting' As It Limits ChatGPT Image Generation Requests](https://slashdot.org/story/25/03/28/003227/openai-says-our-gpus-are-melting-as-it-limits-chatgpt-image-generation-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI faces challenges with GPU capacity management amidst growing AI demand.
 
-* [Giant, fungus-like organism may be a completely unknown branch of life](https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life) ([comments](https://news.ycombinator.com/item?id=43499342))
+## Unique Historical and Cultural Insights
 
-* [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861) ([comments](https://news.ycombinator.com/item?id=43463779))
+* [Piranesi’s Perspective Trick](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9) - Insights into Piranesi's artistic techniques and their impact on architectural representation.
 
-## Programming and Developer Insights
+* [The Search for Missing Plane MH370 Is Back On](https://soylentnews.org/article.pl?sid=25/03/26/033246&from=rss) - Renewed efforts to uncover the mystery of the missing plane spark global interest.
 
-* [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) ([comments](https://news.ycombinator.com/item?id=43501989))
+* [Order to Chaos: The Fascinating Math That All Pedestrians Need to Know](https://soylentnews.org/article.pl?sid=25/03/26/1635243&from=rss) - A look at the mathematical principles governing everyday pedestrian dynamics.
 
-* [The way we're thinking about breaking changes is really silly](https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/) ([comments](https://lobste.rs/s/qqvrip/way_we_re_thinking_about_breaking_changes))
+## Open Source and Developer-Oriented News
 
-* [Prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee) ([comments](https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for))
+* [LibreOffice Downloads on the Rise as Users Look to Avoid Subscription Costs](https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html) - LibreOffice sees a surge in popularity as users seek free alternatives to subscription-based software.
 
-* [Things that go wrong with disk IO](https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html) ([comments](https://lobste.rs/s/g8pxhy/things_go_wrong_with_disk_io))
+* [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/) - A significant contribution to the Rust programming ecosystem.
 
-* [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/) ([comments](https://news.ycombinator.com/item?id=43500124))
+* [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/) - Tips and strategies for writing technical content that engages a developer audience.
 
-## Commercial, Legal, and Policy Developments
+## Space Exploration and Discoveries
 
-* [Virginia Will Punish Fast Drivers With Devices That Limit Their Speed](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [As NASA Faces Cuts, China Reveals Ambitious Plans For Planetary Exploration](https://science.slashdot.org/story/25/03/28/0720237/as-nasa-faces-cuts-china-reveals-ambitious-plans-for-planetary-exploration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China unveils bold planetary exploration goals as NASA grapples with budget constraints.
 
-* [UK's First Permanent Facial Recognition Cameras Installed](https://news.slashdot.org/story/25/03/27/1556222/uks-first-permanent-facial-recognition-cameras-installed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/03/27/1556222/uks-first-permanent-facial-recognition-cameras-installed?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Italy Demands Google Poison DNS Under Strict Piracy Shield Law](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/23/1437244&from=rss))
+* [A Decompilation and Port of Sonic Advance 2 - a GameBoy Advance Game Written in C](https://github.com/SAT-R/sa2) - Reverse engineering a classic game for modern platforms sparks interest in preservation and gaming culture.
 
 ---
 
@@ -81,10 +79,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-28, 09:45:00](https://slashdot.org/story/25/03/28/0623217/ibm-us-cuts-may-run-deeper-than-feared---and-the-jobs-are-heading-to-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [IBM US Cuts May Run Deeper Than Feared - and the Jobs Are Heading To India](https://slashdot.org/story/25/03/28/0623217/ibm-us-cuts-may-run-deeper-than-feared---and-the-jobs-are-heading-to-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
+* [2025-03-28, 08:00:00](https://science.slashdot.org/story/25/03/28/0720237/as-nasa-faces-cuts-china-reveals-ambitious-plans-for-planetary-exploration?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [As NASA Faces Cuts, China Reveals Ambitious Plans For Planetary Exploration](https://science.slashdot.org/story/25/03/28/0720237/as-nasa-faces-cuts-china-reveals-ambitious-plans-for-planetary-exploration?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-28, 07:56:00](https://soylentnews.org/article.pl?sid=25/03/26/1637237&from=rss) - [ReactOS 0.4.15 Released](https://soylentnews.org/article.pl?sid=25/03/26/1637237&from=rss)
+* [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
 * [2025-03-28, 06:54:03](https://lobste.rs/s/ment9k/xee_modern_xpath_xslt_engine_rust) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-28, 06:14:00](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anthropic Maps AI Model 'Thought' Processes](https://slashdot.org/story/25/03/28/0614200/anthropic-maps-ai-model-thought-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-28, 06:07:39](https://news.ycombinator.com/item?id=43502037) - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
-* [2025-03-28, 05:20:50](https://news.ycombinator.com/item?id=43501821) - [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
 * [2025-03-28, 04:30:00](https://it.slashdot.org/story/25/03/28/0421236/labor-arbitrage-rip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Labor Arbitrage RIP](https://it.slashdot.org/story/25/03/28/0421236/labor-arbitrage-rip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 03:30:00](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Virginia Will Punish Fast Drivers With Devices That Limit Their Speed](https://tech.slashdot.org/story/25/03/28/0019211/virginia-will-punish-fast-drivers-with-devices-that-limit-their-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 03:20:28](https://lobste.rs/s/qqvrip/way_we_re_thinking_about_breaking_changes) - [The way we're thinking about breaking changes is really silly](https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/)
@@ -92,10 +95,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-28, 02:21:49](https://news.ycombinator.com/item?id=43500769) - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 * [2025-03-28, 01:24:30](https://lobste.rs/s/uxrjr6/milliforth_for_6502) - [milliForth for the 6502](https://github.com/agsb/milliForth-6502)
 * [2025-03-28, 01:06:47](https://lobste.rs/s/f8x4c6/spectec_has_been_adopted) - [SpecTec has been adopted](https://webassembly.org/news/2025-03-27-spectec/)
-* [2025-03-28, 01:00:54](https://news.ycombinator.com/item?id=43500179) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-28, 00:53:46](https://news.ycombinator.com/item?id=43500124) - [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
 * [2025-03-28, 00:38:53](https://news.ycombinator.com/item?id=43499992) - [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
-* [2025-03-28, 00:34:55](https://news.ycombinator.com/item?id=43499966) - [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025)
 * [2025-03-28, 00:30:00](https://slashdot.org/story/25/03/28/003227/openai-says-our-gpus-are-melting-as-it-limits-chatgpt-image-generation-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [OpenAI Says 'Our GPUs Are Melting' As It Limits ChatGPT Image Generation Requests](https://slashdot.org/story/25/03/28/003227/openai-says-our-gpus-are-melting-as-it-limits-chatgpt-image-generation-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 00:20:48](https://news.ycombinator.com/item?id=43499860) - [LibreOffice downloads on the rise as users look to avoid subscription costs](https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html)
 * [2025-03-28, 00:16:29](https://news.ycombinator.com/item?id=43499823) - [A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993)
@@ -111,11 +112,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-27, 22:28:00](https://soylentnews.org/article.pl?sid=25/03/26/1631253&from=rss) - [Postel's Law and the Three Ring Circus](https://soylentnews.org/article.pl?sid=25/03/26/1631253&from=rss)
 * [2025-03-27, 22:03:03](https://news.ycombinator.com/item?id=43498696) - [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
 * [2025-03-27, 22:00:00](https://tech.slashdot.org/story/25/03/27/2058218/hm-to-use-digital-clones-of-models-in-ads-and-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [H&amp;M To Use Digital Clones of Models In Ads and Social Media](https://tech.slashdot.org/story/25/03/27/2058218/hm-to-use-digital-clones-of-models-in-ads-and-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking good questions is harder than giving great answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:37:46](https://news.ycombinator.com/item?id=43498481) - [Golang on the Playstation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 21:20:00](https://tech.slashdot.org/story/25/03/27/2052222/google-maps-can-soon-scan-your-screenshots-to-plan-your-vacation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Google Maps Can Soon Scan Your Screenshots To Plan Your Vacation](https://tech.slashdot.org/story/25/03/27/2052222/google-maps-can-soon-scan-your-screenshots-to-plan-your-vacation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-27, 20:51:42](https://news.ycombinator.com/item?id=43498031) - [We are building the next DocuSign](https://sgnly.com)
+* [2025-03-27, 20:51:42](https://news.ycombinator.com/item?id=43498031) - [Show HN: We are building the next DocuSign](https://sgnly.com)
 * [2025-03-27, 20:45:13](https://news.ycombinator.com/item?id=43497954) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 * [2025-03-27, 20:40:00](https://news.slashdot.org/story/25/03/27/1958240/columbia-university-suspends-student-behind-interview-cheating-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Columbia University Suspends Student Behind Interview Cheating AI](https://news.slashdot.org/story/25/03/27/1958240/columbia-university-suspends-student-behind-interview-cheating-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
@@ -134,11 +134,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-27, 17:30:00](https://slashdot.org/story/25/03/27/1714214/satya-nadella-says-deepseek-is-the-new-bar-for-microsofts-ai-success?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Satya Nadella Says DeepSeek Is the New Bar For Microsoft's AI Success](https://slashdot.org/story/25/03/27/1714214/satya-nadella-says-deepseek-is-the-new-bar-for-microsofts-ai-success?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 17:09:13](https://news.ycombinator.com/item?id=43495644) - [Abundance isn't going to happen unless politicians are scared of the status quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
-* [2025-03-27, 17:00:00](https://it.slashdot.org/story/25/03/27/171213/iphone-users-can-now-set-whatsapp-as-their-default-calling-and-texting-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [iPhone Users Can Now Set WhatsApp as Their Default Calling and Texting App](https://it.slashdot.org/story/25/03/27/171213/iphone-users-can-now-set-whatsapp-as-their-default-calling-and-texting-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 16:42:57](https://lobste.rs/s/6ngygp/pile_eternal_rejections_cost_garbage) - [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
 * [2025-03-27, 16:24:49](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming) - [Tag Proposal: logicprogramming](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming)
 * [2025-03-27, 16:10:00](https://lobste.rs/s/2tfh34/spade_hardware_description_language) - [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
-* [2025-03-27, 16:10:00](https://news.slashdot.org/story/25/03/27/1556222/uks-first-permanent-facial-recognition-cameras-installed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [UK's First Permanent Facial Recognition Cameras Installed](https://news.slashdot.org/story/25/03/27/1556222/uks-first-permanent-facial-recognition-cameras-installed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-27, 15:26:13](https://lobste.rs/s/czhpip/normal_engineers_are_key_great_teams) - [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-27, 15:17:40](https://lobste.rs/s/ztrpkk/piranesi_s_perspective_trick) - [Piranesi’s Perspective Trick](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
@@ -161,9 +159,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-26, 01:25:00](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss) - [The 25 Years of Finnix](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss)
 * [2025-03-25, 20:38:00](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss) - [Device Enables Direct Communication Among Multiple Quantum Processors](https://soylentnews.org/article.pl?sid=25/03/24/154217&from=rss)
 * [2025-03-25, 15:52:00](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss) - [Decades-Long Quest Leads to New Antibiotic Compounds](https://soylentnews.org/article.pl?sid=25/03/24/1454238&from=rss)
-* [2025-03-25, 13:00:01](https://news.ycombinator.com/item?id=43470662) - [Create Weird Fun PHPStan Rules Like Nobody's Watching](https://tomasvotruba.com/blog/create-weird-fun-phpstan-rules/)
-* [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+* [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On](https://tynan.com/workonwhat/)
 * [2025-03-25, 11:09:00](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss) - [Squirrels Inspire Leaping Strategy for Salto Robot](https://soylentnews.org/article.pl?sid=25/03/24/0347235&from=rss)
+* [2025-03-25, 11:06:16](https://news.ycombinator.com/item?id=43469866) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
+* [2025-03-25, 09:28:24](https://news.ycombinator.com/item?id=43469393) - [Plasmonic Modulators Break Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
 * [2025-03-25, 06:24:00](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss) - [Sperm Donation Giant California Cryobank Warns of a Data Breach](https://soylentnews.org/article.pl?sid=25/03/24/0335233&from=rss)
 * [2025-03-25, 01:37:00](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss) - [Cement Sand Substitute Made Directly From Seawater, Electricity and CO2](https://soylentnews.org/article.pl?sid=25/03/23/1454225&from=rss)
 * [2025-03-24, 20:52:00](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss) - [\"Old Stump\" in Texas Turns Out to be Incredibly Rare Mammoth Tusk](https://soylentnews.org/article.pl?sid=25/03/23/1444231&from=rss)
