@@ -1,54 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming and Development Innovations
+## Technology and Innovation Highlights
 
-* [syntax highlighting with tree-sitter](https://dotat.at/@/2025-03-30-hilite.html) ([comments](https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter))
+* [Aptera Takes First 300-Mile Highway Trip in Solar-Powered EV](https://hardware.slashdot.org/story/25/03/30/026200/aptera-takes-first-300-mile-highway-trip-in-solar-powered-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A cutting-edge solar-powered EV showcasing sustainable travel through a historic highway journey.
 
-* [A Programmer's Reading List: 100 Articles I Enjoyed (1-50)](https://www.piglei.com/articles/en-programmer-reading-list-part-one/) ([comments](https://lobste.rs/s/mekrcq/programmer_s_reading_list_100_articles_i))
+* [NASA Adds SpaceX's Starship To Launch Services Program Fleet](https://science.slashdot.org/story/25/03/29/0950235/nasa-adds-spacexs-starship-to-launch-services-program-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA integrates SpaceX’s Starship into its launch services, solidifying the future of space exploration.
 
-* [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23) ([comments](https://news.ycombinator.com/item?id=43519930))
+* [Spark AI (YC W24) is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) - Opportunities emerge in AI development with Spark AI’s call for engineers.
 
-* [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/) ([comments](https://news.ycombinator.com/item?id=43519938))
+* [Harnessing Nature's Fractals for Flexible Electronics](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - Biomimetic fabrication inspired by leaves advances flexible electronics.
 
-## Software Tools and Technology
+* [Scientists May Have Discovered How To Extract Power From the Earth's Rotation](https://hardware.slashdot.org/story/25/03/29/0536241/scientists-may-have-discovered-how-to-extract-power-from-the-earths-rotation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revolutionary methods to harness Earth's energy through rotational power.
 
-* [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/) ([comments](https://news.ycombinator.com/item?id=43519998))
+## Science and Health Discoveries
 
-* [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/) ([comments](https://lobste.rs/s/4jwyfk/self_contained_python_scripts_with_uv))
+* [Did Life on Earth Come from 'Microlightning' Between Charged Water Droplets?](https://science.slashdot.org/story/25/03/29/2326255/did-life-on-earth-come-from-microlightning-between-charged-water-droplets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking theory exploring life’s origins.
 
-* [Lvgl: Embedded graphics library to create beautiful UIs](https://github.com/lvgl/lvgl) ([comments](https://news.ycombinator.com/item?id=43517576))
+* [Nitisinone Makes Human Blood Lethal to Mosquitoes and Outlasts Ivermectin](https://soylentnews.org/article.pl?sid=25/03/28/1347215&from=rss) - A new solution tackling mosquito-borne diseases.
 
-* [A Language Server for Postgres](https://github.com/supabase-community/postgres-language-server) ([comments](https://lobste.rs/s/fstz1l/language_server_for_postgres))
+* [Martian Dust May Pose Health Risk To Humans Exploring Red Planet, Study Finds](https://science.slashdot.org/story/25/03/29/0035216/martian-dust-may-pose-health-risk-to-humans-exploring-red-planet-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Potential hazards for future Mars explorers uncovered.
 
-## Cybersecurity and Vulnerabilities
+* [As the Arctic's Winter Sea Ice Hits a New Record Low - What Happens Next?](https://news.slashdot.org/story/25/03/29/0435221/as-the-arctics-winter-sea-ice-hits-a-new-record-low---what-happens-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Climate challenges escalated by shrinking Arctic ice.
 
-* [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html) ([comments](https://lobste.rs/s/hg1kpm/pixelfed_leaks_private_posts_from_other))
+* [Record-Breaking Explosion by Black Hole Spotted](https://soylentnews.org/article.pl?sid=25/03/28/1215217&from=rss) - Astronomers witness an unprecedented stellar event.
 
-* [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253) ([comments](https://news.ycombinator.com/item?id=43517734))
+## Programming and Development
 
-* [New Ubuntu Linux Security Bypasses Require Manual Mitigations](https://it.slashdot.org/story/25/03/29/0555241/new-ubuntu-linux-security-bypasses-require-manual-mitigations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/qpymbd/openwrt_two_approval))
+* [syntax highlighting with tree-sitter](https://dotat.at/@/2025-03-30-hilite.html) - A refined tool for developers craving robust syntax visibility.
 
-## Science and Discoveries
+* [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/) - Explorations into Rust and the foundational steps to create custom search functionality.
 
-* [Scientists May Have Discovered How To Extract Power From the Earth's Rotation](https://hardware.slashdot.org/story/25/03/29/0536241/scientists-may-have-discovered-how-to-extract-power-from-the-earths-rotation?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43517234))
+* [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23) - Innovations in serialization for modern coding needs.
 
-* [Giant, Fungus-Like Organism May Be Completely Unknown Branch of Life](https://science.slashdot.org/story/25/03/28/238210/giant-fungus-like-organism-may-be-completely-unknown-branch-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://soylentnews.org/article.pl?sid=25/03/28/1210259&from=rss))
+* [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/) - Strengthening Python’s portability with uv.
 
-* [Martian Dust May Pose Health Risk To Humans Exploring Red Planet, Study Finds](https://science.slashdot.org/story/25/03/29/0035216/martian-dust-may-pose-health-risk-to-humans-exploring-red-planet-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43514383))
+* [Koto Programming Language](https://koto.dev/) - A fresh programming language designed for responsiveness and creativity.
 
-## Unusual Applications of Technology
+## Historical and Social Contexts
 
-* [Why a Lost Cellphone Forced an Airplane to Turn Around in Mid-Flight](https://mobile.slashdot.org/story/25/03/29/0236203/why-a-lost-cellphone-forced-an-airplane-to-turn-around-in-mid-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43518087))
+* [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline) - A detailed exploration of IBM’s legendary keyboards.
 
-* [Ente Photos v1](https://ente.io/blog/v1) ([comments](https://lobste.rs/s/a8t2pp/ente_photos_v1))
+* [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use) - Privacy concerns as mobile app trends reveal user habits.
 
-* [Show HN: Appear as anyone in video calls like zoom or Google meets](https://www.phazr.ai/) ([comments](https://news.ycombinator.com/item?id=43517588))
+* [The disappearance of Gaia](https://www.cosmos.esa.int/web/gaia/news) - Scientific ambitions dampened as ESA spacecraft retires.
 
-## Climate and Environment
+* [Reddit's 50% Stock-Price Plunge Fails to Entice Buyers as Growth Slows](https://tech.slashdot.org/story/25/03/29/2152217/reddits-50-stock-price-plunge-fails-to-entice-buyers-as-growth-slows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investors remain wary amid slowing platform growth.
 
-* [Utah becomes first US state to ban fluoride in its water](https://www.bbc.com/news/articles/c4gmggp2y99o) ([comments](https://news.ycombinator.com/item?id=43517833))
-
-* [As the Arctic's Winter Sea Ice Hits a New Record Low - What Happens Next?](https://news.slashdot.org/story/25/03/29/0435221/as-the-arctics-winter-sea-ice-hits-a-new-record-low---what-happens-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://soylentnews.org/article.pl?sid=25/03/26/0237223&from=rss))
+* ['Why Did the Government Declare War on My Adorable Tiny Truck?'](https://tech.slashdot.org/story/25/03/29/2126251/why-did-the-government-declare-war-on-my-adorable-tiny-truck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Personal struggles meet bureaucratic policies over miniature vehicle bans.
 
 ---
 
@@ -75,15 +73,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-03-30, 03:34:00](https://hardware.slashdot.org/story/25/03/30/026200/aptera-takes-first-300-mile-highway-trip-in-solar-powered-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Aptera Takes First 300-Mile Highway Trip in Solar-Powered EV](https://hardware.slashdot.org/story/25/03/30/026200/aptera-takes-first-300-mile-highway-trip-in-solar-powered-ev?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
+* [2025-03-30, 03:03:00](https://soylentnews.org/article.pl?sid=25/03/28/1353243&from=rss) - [Tor Network Status - A Pretty Yet Detailed Current List of Nodes and Type](https://soylentnews.org/article.pl?sid=25/03/28/1353243&from=rss)
 * [2025-03-30, 01:55:08](https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter) - [syntax highlighting with tree-sitter](https://dotat.at/@/2025-03-30-hilite.html)
 * [2025-03-30, 01:42:04](https://lobste.rs/s/mekrcq/programmer_s_reading_list_100_articles_i) - [A Programmer's Reading List: 100 Articles I Enjoyed (1-50)](https://www.piglei.com/articles/en-programmer-reading-list-part-one/)
+* [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
+* [2025-03-30, 01:34:00](https://science.slashdot.org/story/25/03/29/2326255/did-life-on-earth-come-from-microlightning-between-charged-water-droplets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Did Life on Earth Come from 'Microlightning' Between Charged Water Droplets?](https://science.slashdot.org/story/25/03/29/2326255/did-life-on-earth-come-from-microlightning-between-charged-water-droplets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [2025-03-30, 01:15:24](https://news.ycombinator.com/item?id=43520297) - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
 * [2025-03-30, 00:41:45](https://news.ycombinator.com/item?id=43520074) - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 * [2025-03-30, 00:34:00](https://tech.slashdot.org/story/25/03/29/2152217/reddits-50-stock-price-plunge-fails-to-entice-buyers-as-growth-slows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Reddit's 50% Stock-Price Plunge Fails to Entice Buyers as Growth Slows](https://tech.slashdot.org/story/25/03/29/2152217/reddits-50-stock-price-plunge-fails-to-entice-buyers-as-growth-slows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-30, 00:28:34](https://news.ycombinator.com/item?id=43519998) - [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
-* [2025-03-30, 00:21:55](https://news.ycombinator.com/item?id=43519957) - [MS-DOS and Windows 3.11 still run train dashboards at German railway (Jan'24)](https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system)
 * [2025-03-30, 00:17:12](https://news.ycombinator.com/item?id=43519938) - [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
 * [2025-03-30, 00:15:47](https://news.ycombinator.com/item?id=43519930) - [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23)
 * [2025-03-29, 23:52:00](https://news.ycombinator.com/item?id=43519823) - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+* [2025-03-29, 23:22:58](https://news.ycombinator.com/item?id=43519669) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 23:20:36](https://lobste.rs/s/4jwyfk/self_contained_python_scripts_with_uv) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 22:34:00](https://tech.slashdot.org/story/25/03/29/2126251/why-did-the-government-declare-war-on-my-adorable-tiny-truck?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['Why Did the Government Declare War on My Adorable Tiny Truck?'](https://tech.slashdot.org/story/25/03/29/2126251/why-did-the-government-declare-war-on-my-adorable-tiny-truck?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-29, 22:04:00](https://soylentnews.org/article.pl?sid=25/03/28/140245&from=rss) - [Certified Genuine Randomness](https://soylentnews.org/article.pl?sid=25/03/28/140245&from=rss)
@@ -96,15 +99,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-29, 20:31:21](https://news.ycombinator.com/item?id=43518466) - [Commercials that David Lynch directed (2018)](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html)
 * [2025-03-29, 20:30:25](https://lobste.rs/s/2bbkse/thoughts_on_ecs) - [Thoughts on ECS](https://blog.voxagon.se/2025/03/28/thoughts-on-ecs.html)
 * [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
-* [2025-03-29, 19:45:46](https://news.ycombinator.com/item?id=43518087) - [The Candid Naivety of Geeks](https://ploum.net/2025-03-28-geeks-naivety.html)
 * [2025-03-29, 19:34:00](https://mobile.slashdot.org/story/25/03/29/0236203/why-a-lost-cellphone-forced-an-airplane-to-turn-around-in-mid-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Why a Lost Cellphone Forced an Airplane to Turn Around in Mid-Flight](https://mobile.slashdot.org/story/25/03/29/0236203/why-a-lost-cellphone-forced-an-airplane-to-turn-around-in-mid-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-29, 19:19:05](https://news.ycombinator.com/item?id=43517833) - [Utah becomes first US state to ban fluoride in its water](https://www.bbc.com/news/articles/c4gmggp2y99o)
 * [2025-03-29, 19:07:44](https://news.ycombinator.com/item?id=43517734) - [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
 * [2025-03-29, 18:45:22](https://lobste.rs/s/a8t2pp/ente_photos_v1) - [Ente Photos v1](https://ente.io/blog/v1)
-* [2025-03-29, 18:44:49](https://news.ycombinator.com/item?id=43517588) - [Show HN: Appear as anyone in video calls like zoom or Google meets](https://www.phazr.ai/)
 * [2025-03-29, 18:42:43](https://news.ycombinator.com/item?id=43517576) - [Lvgl: Embedded graphics library to create beautiful UIs](https://github.com/lvgl/lvgl)
 * [2025-03-29, 18:34:00](https://tech.slashdot.org/story/25/03/29/1831231/an-open-letter-to-meta-support-true-messaging-interoperability-with-xmpp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ['An Open Letter To Meta: Support True Messaging Interoperability With XMPP'](https://tech.slashdot.org/story/25/03/29/1831231/an-open-letter-to-meta-support-true-messaging-interoperability-with-xmpp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
+* [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 [pdf]](https://pagedout.institute/download/PagedOut_006.pdf)
 * [2025-03-29, 18:05:08](https://news.ycombinator.com/item?id=43517337) - [Veloren – voxel action-adventure role-playing](https://veloren.net/)
 * [2025-03-29, 18:00:48](https://news.ycombinator.com/item?id=43517301) - [Why Apple's Severance gets edited over remote desktop software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
 * [2025-03-29, 17:51:12](https://news.ycombinator.com/item?id=43517234) - [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
@@ -127,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-29, 12:04:55](https://lobste.rs/s/hg1kpm/pixelfed_leaks_private_posts_from_other) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
 * [2025-03-29, 11:41:54](https://news.ycombinator.com/item?id=43514695) - [Real Time Chess – A physical chess board without the concept of turns](https://github.com/misprit7/real-time-chess)
 * [2025-03-29, 10:58:44](https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
-* [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 * [2025-03-29, 10:37:23](https://lobste.rs/s/od7zlr/expressing_japanese_grammar_through) - [Expressing Japanese Grammar Through TypeScript Type System](https://github.com/typedgrammar/typed-japanese/blob/main/blog.md)
 * [2025-03-29, 10:23:45](https://lobste.rs/s/fstz1l/language_server_for_postgres) - [A Language Server for Postgres](https://github.com/supabase-community/postgres-language-server)
 * [2025-03-29, 10:00:00](https://science.slashdot.org/story/25/03/29/0950235/nasa-adds-spacexs-starship-to-launch-services-program-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [NASA Adds SpaceX's Starship To Launch Services Program Fleet](https://science.slashdot.org/story/25/03/29/0950235/nasa-adds-spacexs-starship-to-launch-services-program-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -138,8 +138,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-29, 03:32:00](https://lobste.rs/s/qpymbd/openwrt_two_approval) - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
 * [2025-03-29, 03:30:00](https://yro.slashdot.org/story/25/03/29/0028217/madison-square-garden-bans-fan-after-surveillance-system-ids-him-as-critic-of-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Madison Square Garden Bans Fan After Surveillance System IDs Him as Critic of Its CEO](https://yro.slashdot.org/story/25/03/29/0028217/madison-square-garden-bans-fan-after-surveillance-system-ids-him-as-critic-of-its-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=25/03/28/122201&from=rss) - [Security Vulnerability Fixed in Firefox 136.0.4, Firefox ESR 128.8.1, Firefox ESR 115.21.1](https://soylentnews.org/article.pl?sid=25/03/28/122201&from=rss)
-* [2025-03-29, 01:10:00](https://science.slashdot.org/story/25/03/28/238210/giant-fungus-like-organism-may-be-completely-unknown-branch-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Giant, Fungus-Like Organism May Be Completely Unknown Branch of Life](https://science.slashdot.org/story/25/03/28/238210/giant-fungus-like-organism-may-be-completely-unknown-branch-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-* [2025-03-29, 00:30:00](https://slashdot.org/story/25/03/28/2252217/fdic-rescinds-guidance-around-banks-and-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [FDIC Rescinds Guidance Around Banks and Crypto](https://slashdot.org/story/25/03/28/2252217/fdic-rescinds-guidance-around-banks-and-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 * [2025-03-28, 23:55:49](https://lobste.rs/s/2qafif/learn_css_layout_pedantic_way) - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/)
 * [2025-03-28, 22:16:00](https://soylentnews.org/article.pl?sid=25/03/28/1127247&from=rss) - [Napster Sold for $200+ Million in the Year 2025](https://soylentnews.org/article.pl?sid=25/03/28/1127247&from=rss)
 * [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/organic_maps_github_has_gone_long_live) - [Organic Maps: GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)
@@ -158,12 +156,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-27, 13:02:00](https://soylentnews.org/article.pl?sid=25/03/26/1623212&from=rss) - [Is Your Job Making You Happy ?](https://soylentnews.org/article.pl?sid=25/03/26/1623212&from=rss)
 * [2025-03-27, 08:14:00](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss) - [Chicago-Sized Iceberg Hid Ancient Ecosystem](https://soylentnews.org/article.pl?sid=25/03/26/0319206&from=rss)
 * [2025-03-27, 03:26:00](https://soylentnews.org/article.pl?sid=25/03/26/038215&from=rss) - [EU OS Aims to Free the European Public Sector Desktop](https://soylentnews.org/article.pl?sid=25/03/26/038215&from=rss)
-* [2025-03-27, 01:13:59](https://news.ycombinator.com/item?id=43489421) - [Medical Benchmarks and the Myth of the Universal Patient](https://www.newyorker.com/magazine/2025/03/31/medical-benchmarks-and-the-myth-of-the-universal-patient)
 * [2025-03-27, 01:02:00](https://soylentnews.org/article.pl?sid=25/03/26/033246&from=rss) - [The Search for Missing Plane MH370 is Back on](https://soylentnews.org/article.pl?sid=25/03/26/033246&from=rss)
 * [2025-03-26, 20:20:00](https://soylentnews.org/article.pl?sid=25/03/26/0237223&from=rss) - [Producing Wafers at TSMC Arizona is Only 10% More Expensive Than in Taiwan](https://soylentnews.org/article.pl?sid=25/03/26/0237223&from=rss)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 15:35:00](https://soylentnews.org/article.pl?sid=25/03/26/0243240&from=rss) - [4-Day Work-Week UK Pilot Due in Tech Land by Early Summer](https://soylentnews.org/article.pl?sid=25/03/26/0243240&from=rss)
 * [2025-03-26, 14:49:02](https://news.ycombinator.com/item?id=43482863) - [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+* [2025-03-26, 12:44:36](https://news.ycombinator.com/item?id=43481607) - [Gate: AI and Automation Scenario Explorer](https://epoch.ai/gate)
+* [2025-03-26, 11:32:27](https://news.ycombinator.com/item?id=43481024) - [Introduction to Open Source Laptop Project](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2025-03-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss) - [European Coalition Pushes For Second Chips Act Funding To Boost Semiconductor Sector](https://soylentnews.org/article.pl?sid=25/03/24/1817219&from=rss)
 * [2025-03-26, 06:10:00](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss) - [Harnessing Nature's Fractals for Flexible Electronics: Biomimetic Fabrication Technique Uses Leaf](https://soylentnews.org/article.pl?sid=25/03/24/1815205&from=rss)
 * [2025-03-26, 01:25:00](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss) - [The 25 Years of Finnix](https://soylentnews.org/article.pl?sid=25/03/24/1812238&from=rss)
