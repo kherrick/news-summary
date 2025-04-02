@@ -1,40 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Innovations
+## Legal and Corporate Developments
 
-* [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda) - A new tool focused on extracting, decoding, and anonymizing tracking dots could help enhance user privacy in document handling. [Comments](https://news.ycombinator.com/item?id=43551397)
+* [Substack Says It'll Legally Defend Writers 'Targeted By the Government'](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Substack has announced plans to legally support writers who face government targeting, positioning itself as a platform advocating for press freedom.
 
-* [DeepMind is Holding Back Release of AI Research To Give Google an Edge](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A discussion around strategic decisions by DeepMind to delay AI research publication to maintain Google's competitive advantage. [Comments](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Stablecoin Issuer Circle Files For IPO](https://slashdot.org/story/25/04/01/2233251/stablecoin-issuer-circle-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Circle, the stablecoin issuer behind USDC, has filed for an initial public offering, signaling further institutionalization of cryptocurrency.
 
-* [Show HN: Qwen-2.5-32B is now the best open source OCR model](https://github.com/getomni-ai/benchmark/blob/main/README.md) - Announcing a significant leap in open-source optical character recognition technology. [Comments](https://news.ycombinator.com/item?id=43549072)
+## Technology and Software Innovations
 
-## Unique and Fun Tech Tools
+* [The good, the bad, and the ugly of managing Sphinx projects with Bazel](https://technicalwriting.dev/sphinx/bazel/context.html) - An in-depth discussion on using Bazel for managing Sphinx projects, exploring its advantages and complexities.
 
-* [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/) - An innovative tool for simplifying the creation of interactive SVGs in React applications. [Comments](https://news.ycombinator.com/item?id=43549983)
+* [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/) - A guide on creating simulated economies that can be applied in diverse fields like gaming, economics, and academic research.
 
-* [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis) - A clever approach to slowing unwanted crawlers through HTTP with proof-of-work. [Comments](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http)
+* [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf) - A new text-based user interface for Jujutsu, leveraging fzf for improved efficiency and usability.
 
-## Data Privacy and Security
+* [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/) - A fascinating exploration of optical disk durability and performance 25 years after their creation.
 
-* [FTC Says 23andMe Purchaser Must Uphold Existing Privacy Policy For Data Handling](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The FTC mandates adherence to privacy policies amid corporate acquisition. [Comments](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/) - A new JavaScript framework proposing ultra-light applications for large-scale systems.
 
-* [The Most Amusing Security Flaws I&apos;ve Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/) - A cybersecurity professional shares interesting flaws and their implications. [Comments](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve)
+## Artificial Intelligence and Data Privacy
 
-* [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589) - Examining outages and potential lessons from the NPM package ecosystem. [Comments](https://news.ycombinator.com/item?id=43548589)
+* [DeepMind is Holding Back Release of AI Research To Give Google an Edge](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports indicate DeepMind is withholding AI research to provide competitive advantage to Google's operations.
 
-## Creative and Historical Explorations
+* [FTC Says 23andMe Purchaser Must Uphold Existing Privacy Policy For Data Handling](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulatory directives stress the importance of maintaining data privacy policies for consumers post-acquisition.
 
-* [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/) - An interactive exploration of shared patterns and themes in music. [Comments](https://news.ycombinator.com/item?id=43551352)
+## Human Impact and Ethical Implications
 
-* [A man powers home for eight years using a thousand old laptop batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/) - A unique approach to sustainability, leveraging old computer hardware for power. [Comments](https://news.ycombinator.com/item?id=43548217)
+* [Larry Fink Says Bitcoin Could Replace the Dollar as the World's Reserve Currency Because of National Debt](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Larry Fink's comments suggest Bitcoin's potential to surpass traditional reserve currencies amidst growing national debts.
 
-* [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1) - Reimagine the Myst game through a creative network graph analysis. [Comments](https://news.ycombinator.com/item?id=43549293)
+* [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss) - A study details how rolling back remote work disproportionately impacts career advancement and work-life balance for women.
 
-## Climate, Economy and Societal Impacts
+## Historic and Unique Innovations
 
-* [Larry Fink Says Bitcoin Could Replace the Dollar as the World&apos;s Reserve Currency Because of National Debt ](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold statement on the potential of Bitcoin in global economics. [Comments](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype) - A groundbreaking application of OCaml's type system to create a fully functional roguelike game.
 
-* [Average Person Will Be 40% Poorer If World Warms By 4C, New Research Shows](https://news.slashdot.org/story/25/04/01/135253/average-person-will-be-40-poorer-if-world-warms-by-4c-new-research-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research sheds light on potential economic downgrades tied to climate change. [Comments](https://news.slashdot.org/story/25/04/01/135253/average-person-will-be-40-poorer-if-world-warms-by-4c-new-research-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/) - A creative exploration of musical similarities across genres and artists, emphasizing the 'shared DNA' in compositions.
+
+* [Rockbox 4.0 released](https://www.rockbox.org/mail/archive//rockbox-archive-2025-04/0000.shtml) - The latest update to the open-source jukebox firmware Rockbox, featuring new capabilities for audio playback devices.
 
 ---
 
@@ -61,6 +63,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-02, 00:50:00](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Substack Says It&apos;ll Legally Defend Writers &apos;Targeted By the Government&apos;](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-02, 00:10:00](https://slashdot.org/story/25/04/01/2233251/stablecoin-issuer-circle-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stablecoin Issuer Circle Files For IPO](https://slashdot.org/story/25/04/01/2233251/stablecoin-issuer-circle-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-02, 00:08:29](https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects) - [The good, the bad, and the ugly of managing Sphinx projects with Bazel](https://technicalwriting.dev/sphinx/bazel/context.html)
+* [2025-04-02, 00:05:47](https://news.ycombinator.com/item?id=43552530) - [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
+* [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
+* [2025-04-01, 23:31:11](https://news.ycombinator.com/item?id=43552385) - [AR Computers to Terminate Eyestrain and Myopia](https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia)
+* [2025-04-01, 23:30:00](https://news.slashdot.org/story/25/04/01/2040242/youtube-could-be-worth-550-billion-as-analyst-crowns-platform-new-king-of-all-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Could Be Worth $550 Billion as Analyst Crowns Platform &apos;New King of All Media&apos;](https://news.slashdot.org/story/25/04/01/2040242/youtube-could-be-worth-550-billion-as-analyst-crowns-platform-new-king-of-all-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-01, 22:50:00](https://tech.slashdot.org/story/25/04/01/2046253/mozilla-to-launch-thunderbird-pro-paid-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla To Launch &apos;Thunderbird Pro&apos; Paid Services](https://tech.slashdot.org/story/25/04/01/2046253/mozilla-to-launch-thunderbird-pro-paid-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
+* [2025-04-01, 22:22:46](https://news.ycombinator.com/item?id=43551934) - [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
+* [2025-04-01, 22:19:35](https://news.ycombinator.com/item?id=43551915) - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
+* [2025-04-01, 22:10:00](https://yro.slashdot.org/story/25/04/01/2038234/donkey-kong-champion-wins-defamation-case-against-australian-youtuber-karl-jobst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Donkey Kong Champion Wins Defamation Case Against Australian YouTuber Karl Jobst](https://yro.slashdot.org/story/25/04/01/2038234/donkey-kong-champion-wins-defamation-case-against-australian-youtuber-karl-jobst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
+* [2025-04-01, 21:46:31](https://news.ycombinator.com/item?id=43551663) - [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
 * [2025-04-01, 21:30:00](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Says 23andMe Purchaser Must Uphold Existing Privacy Policy For Data Handling](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
@@ -70,25 +86,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 20:50:00](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arkansas Social Media Age Verification Law Blocked By Federal Judge](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 20:10:00](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MCP: the New &apos;USB-C For AI&apos; That&apos;s Bringing Fierce Rivals Together](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I&apos;ve Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
-* [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has died](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [2025-04-01, 18:40:00](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Larry Fink Says Bitcoin Could Replace the Dollar as the World&apos;s Reserve Currency Because of National Debt ](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
-* [2025-04-01, 18:09:26](https://lobste.rs/s/jd18fo/numbers_go_brrrr) - [Numbers Go Brrrr](https://absorensen.github.io/numbers_go_brrrr/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
-* [2025-04-01, 17:03:04](https://news.ycombinator.com/item?id=43549099) - [How AI is creating a rift at McKinsey, Bain, and BCG](https://the-ken.com/story/bcg-and-mckinsey-sell-speed-as-ai-shakes-up-consulting-so-why-arent-consultants-buying-it/)
 * [2025-04-01, 17:00:49](https://news.ycombinator.com/item?id=43549072) - [Show HN: Qwen-2.5-32B is now the best open source OCR model](https://github.com/getomni-ai/benchmark/blob/main/README.md)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik&apos;s cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
 * [2025-04-01, 16:48:00](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DeepMind is Holding Back Release of AI Research To Give Google an Edge](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss)
-* [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
+* [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Tell HN: Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
 * [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
 * [2025-04-01, 16:05:00](https://news.slashdot.org/story/25/04/01/1542236/study-reveals-why-credit-card-interest-rates-remain-stubbornly-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Reveals Why Credit Card Interest Rates Remain Stubbornly High](https://news.slashdot.org/story/25/04/01/1542236/study-reveals-why-credit-card-interest-rates-remain-stubbornly-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [A man powers home for eight years using a thousand old laptop batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
+* [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux&apos;s Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
 * [2025-04-01, 15:39:58](https://news.ycombinator.com/item?id=43548108) - [RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 * [2025-04-01, 15:30:00](https://news.slashdot.org/story/25/04/01/1531202/london-mayor-axes-cyber-crime-victim-support-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [London Mayor Axes Cyber Crime Victim Support Line](https://news.slashdot.org/story/25/04/01/1531202/london-mayor-axes-cyber-crime-victim-support-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-01, 15:17:59](https://news.ycombinator.com/item?id=43547835) - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
 * [2025-04-01, 15:06:11](https://news.ycombinator.com/item?id=43547677) - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
 * [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
 * [2025-04-01, 14:40:00](https://it.slashdot.org/story/25/04/01/1440224/gmail-is-making-it-easier-for-businesses-to-send-encrypted-emails-to-anyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gmail is Making It Easier For Businesses To Send Encrypted Emails To Anyone](https://it.slashdot.org/story/25/04/01/1440224/gmail-is-making-it-easier-for-businesses-to-send-encrypted-emails-to-anyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -101,12 +113,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 12:50:59](https://lobste.rs/s/hvjeov/css_system_colors) - [CSS System colors](https://anto.pt/articles/css-system-colors)
 * [2025-04-01, 12:46:03](https://lobste.rs/s/8lxlev/rockbox_4_0_released) - [Rockbox 4.0 released](https://www.rockbox.org/mail/archive//rockbox-archive-2025-04/0000.shtml)
 * [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
-* [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron band structure in germanium, my ass](https://pages.cs.wisc.edu/~kovar/hall.html)
+* [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron band structure in germanium, my ass (2001)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss) - [After Trump&apos;s Decree: Fight for US Funding for Tor, F-Droid and Let&apos;s Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/uw8d9a/python_polars_definitive_guide) - [Python Polars: The Definitive Guide](https://polarsguide.com)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
-* [2025-04-01, 11:08:34](https://news.ycombinator.com/item?id=43545349) - [CERN scientists find evidence of quantum entanglement in sheep](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep)
-* [2025-04-01, 10:35:00](https://news.slashdot.org/story/25/04/01/1036204/alan-turing-institute-plans-revamp-in-face-of-criticism-and-technological-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alan Turing Institute Plans Revamp in Face of Criticism and Technological Change](https://news.slashdot.org/story/25/04/01/1036204/alan-turing-institute-plans-revamp-in-face-of-criticism-and-technological-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
@@ -116,24 +126,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 06:34:27](https://lobste.rs/s/8gycxf/fskit) - [FSKit](https://developer.apple.com/documentation/fskit)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
-* [2025-04-01, 05:30:00](https://tech.slashdot.org/story/25/04/01/0226252/anthropic-will-begin-sweeping-offices-for-hidden-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Will Begin Sweeping Offices For Hidden Devices](https://tech.slashdot.org/story/25/04/01/0226252/anthropic-will-begin-sweeping-offices-for-hidden-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 04:50:27](https://lobste.rs/s/ktngc0/9front_front_end_tomorrow_released) - [9front “THE FRONT END OF TOMORROW” released](https://9front.org/releases/2025/04/01/0/)
 * [2025-04-01, 04:24:24](https://lobste.rs/s/7h1c2a/pidgin_3_0_experimental_2_2_91_0_has_been) - [Pidgin 3.0 Experimental 2 (2.91.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-2-2-91-0-has-been-released/262)
-* [2025-04-01, 03:30:00](https://science.slashdot.org/story/25/03/31/217214/first-flight-of-isar-aerospaces-spectrum-rocket-lasted-just-40-seconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Flight of Isar Aerospace&apos;s Spectrum Rocket Lasted Just 40 Seconds](https://science.slashdot.org/story/25/03/31/217214/first-flight-of-isar-aerospaces-spectrum-rocket-lasted-just-40-seconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss)
 * [2025-04-01, 02:15:47](https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet) - [3110 Coq Tactics Cheatsheet](https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html)
-* [2025-04-01, 01:30:00](https://developers.slashdot.org/story/25/04/01/0129224/there-is-no-vibe-engineering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;There is No Vibe Engineering&apos;](https://developers.slashdot.org/story/25/04/01/0129224/there-is-no-vibe-engineering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-01, 00:36:00](https://slashdot.org/story/25/04/01/0036239/intel-ceo-lip-bu-tan-says-company-will-spin-off-non-core-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Intel CEO Lip-Bu Tan Says Company Will Spin Off Non-Core Units](https://slashdot.org/story/25/04/01/0036239/intel-ceo-lip-bu-tan-says-company-will-spin-off-non-core-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - [NASA Early Galaxy Discovery Shines Light on &apos;Cosmic Dark Ages&apos;](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
-* [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
+* [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop Syncing Everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-03-31, 16:55:00](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss) - [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss)
-* [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
-* [2025-03-31, 16:49:26](https://news.ycombinator.com/item?id=43537079) - [Cuneiforms: New digital tool for translating ancient texts](https://www.sciencedaily.com/releases/2025/03/250326123733.htm)
+* [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 12:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss) - [Elon Musk’s X Has a New Owner](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
-* [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
+* [2025-03-31, 09:56:02](https://news.ycombinator.com/item?id=43533104) - [The March of the Vegetables Parade](http://www.marchofthevegetables.org)
 * [2025-03-31, 07:24:00](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss) - [Apple and Google Face Billions in Liability From Trump&apos;s Tiktok Ban Delay](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss)
 * [2025-03-31, 06:00:00](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss) - [Soylent News Entering a New Phase](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss)
 * [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss)
@@ -145,15 +150,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-29, 22:04:00](https://soylentnews.org/article.pl?sid=25/03/28/140245&amp;from=rss) - [Certified Genuine Randomness](https://soylentnews.org/article.pl?sid=25/03/28/140245&amp;from=rss)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
 * [2025-03-29, 17:17:00](https://soylentnews.org/article.pl?sid=25/03/28/1347215&amp;from=rss) - [Nitisinone Makes Human Blood Lethal to Mosquitoes and Outlasts Ivermectin, Study Shows](https://soylentnews.org/article.pl?sid=25/03/28/1347215&amp;from=rss)
-* [2025-03-29, 16:57:52](https://news.ycombinator.com/item?id=43516869) - [Published Doesn&apos;t Mean Paid](https://kristie-de-garis.ghost.io/published-doesnt-mean-paid/)
 * [2025-03-29, 12:33:00](https://soylentnews.org/article.pl?sid=25/03/28/1215217&amp;from=rss) - [Record-Breaking Explosion by Black Hole Spotted](https://soylentnews.org/article.pl?sid=25/03/28/1215217&amp;from=rss)
 * [2025-03-29, 07:49:00](https://soylentnews.org/article.pl?sid=25/03/28/1210259&amp;from=rss) - [Open Source Devs Are Fighting AI Crawlers With Cleverness and Vengeance](https://soylentnews.org/article.pl?sid=25/03/28/1210259&amp;from=rss)
-* [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-29, 03:00:00](https://soylentnews.org/article.pl?sid=25/03/28/122201&amp;from=rss) - [Security Vulnerability Fixed in Firefox 136.0.4, Firefox ESR 128.8.1, Firefox ESR 115.21.1](https://soylentnews.org/article.pl?sid=25/03/28/122201&amp;from=rss)
-* [2025-03-28, 22:16:00](https://soylentnews.org/article.pl?sid=25/03/28/1127247&amp;from=rss) - [Napster Sold for $200+ Million in the Year 2025](https://soylentnews.org/article.pl?sid=25/03/28/1127247&amp;from=rss)
-* [2025-03-28, 21:56:57](https://news.ycombinator.com/item?id=43510238) - [US Marines to get high-speed, radar-evading electric seagliders for rescue ops](https://interestingengineering.com/military/us-marines-seagliders-for-rescue-ops)
-* [2025-03-28, 17:32:00](https://soylentnews.org/article.pl?sid=25/03/27/1154254&amp;from=rss) - [A Chip Has Broken the Critical Barrier That Could Ultimately Begin the Singularity](https://soylentnews.org/article.pl?sid=25/03/27/1154254&amp;from=rss)
-* [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
-* [2025-03-28, 12:45:00](https://soylentnews.org/article.pl?sid=25/03/27/0346219&amp;from=rss) - [SpaceX Reportedly Has a Secret Backdoor for Chinese Investment](https://soylentnews.org/article.pl?sid=25/03/27/0346219&amp;from=rss)
-* [2025-03-28, 07:56:00](https://soylentnews.org/article.pl?sid=25/03/26/1637237&amp;from=rss) - [ReactOS 0.4.15 Released](https://soylentnews.org/article.pl?sid=25/03/26/1637237&amp;from=rss)
-* [2025-03-28, 03:13:00](https://soylentnews.org/article.pl?sid=25/03/26/1635243&amp;from=rss) - [Order to Chaos: The Fascinating Math That All Pedestrians Need to Know](https://soylentnews.org/article.pl?sid=25/03/26/1635243&amp;from=rss)
