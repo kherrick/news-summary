@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## AI and Machine Learning Trends
 
-* [Stablecoin Issuer Circle Files For IPO](https://slashdot.org/story/25/04/01/2233251/stablecoin-issuer-circle-files-for-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Circle, a key player in the cryptocurrency space, has applied for an IPO, signaling its growing influence in financial markets.
+* [OpenAI Accused of Training GPT-4o on Unlicensed O'Reilly Books](https://news.slashdot.org/story/25/04/02/0440222/openai-accused-of-training-gpt-4o-on-unlicensed-oreilly-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversy arises as OpenAI is accused of using unlicensed O'Reilly books to train its GPT-4o language model. [Comments](https://news.slashdot.org/story/25/04/02/0440222/openai-accused-of-training-gpt-4o-on-unlicensed-oreilly-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze) - A useful tool for scanning and optimizing SSL configurations for better secure communications.
+* [MCP: the New 'USB-C For AI' That's Bringing Fierce Rivals Together](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - MCP emerges as a universal standard for AI hardware, uniting competitors in the industry. [Comments](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html) - An insightful explanation of Transport Layer Security (TLS) for securing online data transfers.
+* [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html) - Researchers utilize artificial intelligence to discover mysterious bubble-like cosmic formations. [Comments](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream).
 
-* [The good, the bad, and the ugly of managing Sphinx projects with Bazel](https://technicalwriting.dev/sphinx/bazel/context.html) - Reflecting on challenges and best practices in managing Sphinx documentation projects integrated with Bazel builds.
+## Technology Innovations and Developments
 
-## Artificial Intelligence and Machine Learning
+* [Advent of Code in Coq (2021)](https://github.com/Lysxia/advent-of-coq-2021) - An exploration of solving the Advent of Code problems using the Coq proof assistant. [Comments](https://lobste.rs/s/jghuoa/advent_code_coq_2021).
 
-* [MCP: the New 'USB-C For AI' That's Bringing Fierce Rivals Together](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A proposed standard aiming to unite competing AI stakeholders in a singular collaborative framework.
+* [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze) - A powerful tool for analyzing and improving SSL/TLS configurations. [Comments](https://news.ycombinator.com/item?id=43552514).
 
-* [DeepMind is Holding Back Release of AI Research To Give Google an Edge](https://tech.slashdot.org/story/25/04/01/1648250/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on DeepMind's strategic withholding of AI advancements to maintain Google's competitive position.
+* [The Most Amusing Security Flaws I've Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/) - A blog post highlighting unique and humorous security missteps encountered by the author. [Comments](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve).
 
-## Energy and Environment
+* [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis) - A novel approach to combating AI web scraping with a proof-of-work framework. [Comments](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http).
 
-* [Nuclear Is Now 'Clean Energy' In Colorado](https://hardware.slashdot.org/story/25/04/02/027233/nuclear-is-now-clean-energy-in-colorado?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legislative change in Colorado redefines nuclear energy as a 'clean energy' source, impacting future energy discussions and policies.
+## Policy, Regulation, and Social Issues
 
-## Entertainment and Media
+* [Nuclear Is Now 'Clean Energy' In Colorado](https://hardware.slashdot.org/story/25/04/02/027233/nuclear-is-now-clean-energy-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Colorado officially designates nuclear power as clean energy in its latest legislation. [Comments](https://hardware.slashdot.org/story/25/04/02/027233/nuclear-is-now-clean-energy-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [YouTube Could Be Worth $550 Billion as Analyst Crowns Platform 'New King of All Media'](https://news.slashdot.org/story/25/04/01/2040242/youtube-could-be-worth-550-billion-as-analyst-crowns-platform-new-king-of-all-media?utm_source=rss1.0mainlinkanon&utm_medium=feed) - YouTube's valuation skyrockets as analysts recognize its dominance in digital media.
+* [Arkansas Social Media Age Verification Law Blocked By Federal Judge](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A legal blockage halts Arkansas' attempt at enforcing age verification laws for social platforms. [Comments](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Substack Says It'll Legally Defend Writers 'Targeted By the Government'](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Substack asserts its commitment to protecting free speech on its platform.
+* [FTC Says 23andMe Purchaser Must Uphold Existing Privacy Policy For Data Handling](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulatory concerns emerge as the FTC enforces privacy handling directions during 23andMe's acquisition transfer. [Comments](https://yro.slashdot.org/story/25/04/01/2023246/ftc-says-23andme-purchaser-must-uphold-existing-privacy-policy-for-data-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Historical and Cultural Insights
+## Science and Space Discoveries
 
-* [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o) - A tribute to Betty Webb, a key contributor to wartime codebreaking efforts at Bletchley Park, who passed away at 101.
+* [A Tardigrade Protein Helped Reduce Radiation Damage In Mice](https://soylentnews.org/article.pl?sid=25/03/28/146215&amp;from=rss) - Scientific breakthroughs reveal potential radiation protective effects from tardigrade proteins. [Comments](https://soylentnews.org/article.pl?sid=25/03/28/146215&amp;from=rss).
 
-## Game Development and Interactive Media
+* [Record-Breaking Explosion by Black Hole Spotted](https://soylentnews.org/article.pl?sid=25/03/28/1215217&amp;from=rss) - Astronomers witness a spectacular cosmic phenomenon involving a powerful black hole explosion. [Comments](https://soylentnews.org/article.pl?sid=25/03/28/1215217&amp;from=rss).
 
-* [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype) - An innovative use of OCaml's type system to create a roguelike game, showcasing programming creativity.
-
-* [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/) - A comprehensive guide to building simulated economies for interactive and academic projects.
-
-## Science and Space
-
-* [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html) - Advancements using AI to uncover mysterious structures in the cosmos.
-
-## Cybersecurity
-
-* [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda) - A new tool designed to decode and anonymize tracking dots to protect individual privacy.
+* [NASA Early Galaxy Discovery Shines Light on 'Cosmic Dark Ages'](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - NASA provides insights into early galaxies, offering critical clues about the universe's formative years. [Comments](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss).
 
 ---
 
@@ -69,11 +59,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-02, 06:28:17](https://lobste.rs/s/ctzngb/cosy) - [CoSy](https://cosy.com/)
+* [2025-04-02, 04:45:00](https://news.slashdot.org/story/25/04/02/0440222/openai-accused-of-training-gpt-4o-on-unlicensed-oreilly-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Accused of Training GPT-4o on Unlicensed O&apos;Reilly Books](https://news.slashdot.org/story/25/04/02/0440222/openai-accused-of-training-gpt-4o-on-unlicensed-oreilly-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 03:30:00](https://entertainment.slashdot.org/story/25/04/02/0220243/cheap-tvs-incessant-advertising-reaches-troubling-new-lows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cheap TVs&apos; Incessant Advertising Reaches Troubling New Lows](https://entertainment.slashdot.org/story/25/04/02/0220243/cheap-tvs-incessant-advertising-reaches-troubling-new-lows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-02, 02:24:18](https://lobste.rs/s/jghuoa/advent_code_coq_2021) - [Advent of Code in Coq (2021)](https://github.com/Lysxia/advent-of-coq-2021)
 * [2025-04-02, 02:10:00](https://hardware.slashdot.org/story/25/04/02/027233/nuclear-is-now-clean-energy-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Is Now &apos;Clean Energy&apos; In Colorado](https://hardware.slashdot.org/story/25/04/02/027233/nuclear-is-now-clean-energy-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss) - [Microsoft&apos;s Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss)
-* [2025-04-02, 02:04:10](https://news.ycombinator.com/item?id=43553056) - [Move fast, break things: A review of Abundance by Ezra Klein and Derek Thompson](https://networked.substack.com/p/move-fast-and-break-things)
 * [2025-04-02, 01:57:13](https://news.ycombinator.com/item?id=43553031) - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let&apos;s Bring Back Eisenhower&apos;s Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 * [2025-04-02, 00:50:00](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Substack Says It&apos;ll Legally Defend Writers &apos;Targeted By the Government&apos;](https://news.slashdot.org/story/25/04/01/2239250/substack-says-itll-legally-defend-writers-targeted-by-the-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -86,7 +78,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 23:30:00](https://news.slashdot.org/story/25/04/01/2040242/youtube-could-be-worth-550-billion-as-analyst-crowns-platform-new-king-of-all-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Could Be Worth $550 Billion as Analyst Crowns Platform &apos;New King of All Media&apos;](https://news.slashdot.org/story/25/04/01/2040242/youtube-could-be-worth-550-billion-as-analyst-crowns-platform-new-king-of-all-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 22:50:00](https://tech.slashdot.org/story/25/04/01/2046253/mozilla-to-launch-thunderbird-pro-paid-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla To Launch &apos;Thunderbird Pro&apos; Paid Services](https://tech.slashdot.org/story/25/04/01/2046253/mozilla-to-launch-thunderbird-pro-paid-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
-* [2025-04-01, 22:22:46](https://news.ycombinator.com/item?id=43551934) - [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 * [2025-04-01, 22:19:35](https://news.ycombinator.com/item?id=43551915) - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
 * [2025-04-01, 22:10:00](https://yro.slashdot.org/story/25/04/01/2038234/donkey-kong-champion-wins-defamation-case-against-australian-youtuber-karl-jobst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Donkey Kong Champion Wins Defamation Case Against Australian YouTuber Karl Jobst](https://yro.slashdot.org/story/25/04/01/2038234/donkey-kong-champion-wins-defamation-case-against-australian-youtuber-karl-jobst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
@@ -100,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 20:50:00](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arkansas Social Media Age Verification Law Blocked By Federal Judge](https://tech.slashdot.org/story/25/04/01/2016219/arkansas-social-media-age-verification-law-blocked-by-federal-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 20:10:00](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MCP: the New &apos;USB-C For AI&apos; That&apos;s Bringing Fierce Rivals Together](https://slashdot.org/story/25/04/01/208221/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I&apos;ve Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
-* [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has died](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [2025-04-01, 18:40:00](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Larry Fink Says Bitcoin Could Replace the Dollar as the World&apos;s Reserve Currency Because of National Debt ](https://slashdot.org/story/25/04/01/1840253/larry-fink-says-bitcoin-could-replace-the-dollar-as-the-worlds-reserve-currency-because-of-national-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
@@ -111,11 +101,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
 * [2025-04-01, 16:05:00](https://news.slashdot.org/story/25/04/01/1542236/study-reveals-why-credit-card-interest-rates-remain-stubbornly-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Reveals Why Credit Card Interest Rates Remain Stubbornly High](https://news.slashdot.org/story/25/04/01/1542236/study-reveals-why-credit-card-interest-rates-remain-stubbornly-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux&apos;s Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
-* [2025-04-01, 15:39:58](https://news.ycombinator.com/item?id=43548108) - [RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 * [2025-04-01, 15:30:00](https://news.slashdot.org/story/25/04/01/1531202/london-mayor-axes-cyber-crime-victim-support-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [London Mayor Axes Cyber Crime Victim Support Line](https://news.slashdot.org/story/25/04/01/1531202/london-mayor-axes-cyber-crime-victim-support-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 15:06:11](https://news.ycombinator.com/item?id=43547677) - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
 * [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
-* [2025-04-01, 14:40:00](https://it.slashdot.org/story/25/04/01/1440224/gmail-is-making-it-easier-for-businesses-to-send-encrypted-emails-to-anyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gmail is Making It Easier For Businesses To Send Encrypted Emails To Anyone](https://it.slashdot.org/story/25/04/01/1440224/gmail-is-making-it-easier-for-businesses-to-send-encrypted-emails-to-anyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-01, 14:37:12](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http) - [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis)
 * [2025-04-01, 14:22:25](https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk) - [Goodbye Offpunk, Welcome XKCDpunk](https://ploum.net/2025-04-01-xkcdpunk.html)
 * [2025-04-01, 14:01:58](https://lobste.rs/s/xtrx71/intuiting_tls) - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
@@ -136,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 04:50:27](https://lobste.rs/s/ktngc0/9front_front_end_tomorrow_released) - [9front “THE FRONT END OF TOMORROW” released](https://9front.org/releases/2025/04/01/0/)
 * [2025-04-01, 04:24:24](https://lobste.rs/s/7h1c2a/pidgin_3_0_experimental_2_2_91_0_has_been) - [Pidgin 3.0 Experimental 2 (2.91.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-2-2-91-0-has-been-released/262)
 * [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss)
-* [2025-04-01, 02:15:47](https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet) - [3110 Coq Tactics Cheatsheet](https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - [NASA Early Galaxy Discovery Shines Light on &apos;Cosmic Dark Ages&apos;](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop Syncing Everything](https://sqlsync.dev/posts/stop-syncing-everything/)
@@ -149,10 +136,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-03-31, 06:00:00](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss) - [Soylent News Entering a New Phase](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss)
 * [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss)
 * [2025-03-30, 21:53:00](https://soylentnews.org/article.pl?sid=25/03/28/1431238&amp;from=rss) - [New Utah Law Makes App Stores Responsible for Age Verification](https://soylentnews.org/article.pl?sid=25/03/28/1431238&amp;from=rss)
+* [2025-03-30, 17:59:02](https://news.ycombinator.com/item?id=43526118) - [Open source, 3D-printable smart chess board](https://thangs.com/designer/Concept%20Bytes/3d-model/Open%20Chess%20-%20Smart%20Chess%20Board-1300202)
 * [2025-03-30, 17:14:00](https://soylentnews.org/article.pl?sid=25/03/28/1425255&amp;from=rss) - [DragonOS is a Lubuntu-Based Desktop Distro Which is Focused on Software Defined Radio (SDR)](https://soylentnews.org/article.pl?sid=25/03/28/1425255&amp;from=rss)
+* [2025-03-30, 15:56:26](https://news.ycombinator.com/item?id=43525129) - [Converting a Go-Kart into a Deathtrap](https://matto.io/posts/converting-a-go-kart-into-a-deathtrap/)
 * [2025-03-30, 12:28:00](https://soylentnews.org/article.pl?sid=25/03/30/0940218&amp;from=rss) - [I&apos;m an American Software Developer and the \&quot;Broligarchs\&quot; Don&apos;t Speak for Me (or Anyone I Know.)](https://soylentnews.org/article.pl?sid=25/03/30/0940218&amp;from=rss)
 * [2025-03-30, 07:42:00](https://soylentnews.org/article.pl?sid=25/03/28/146215&amp;from=rss) - [A Tardigrade Protein Helped Reduce Radiation Damage In Mice](https://soylentnews.org/article.pl?sid=25/03/28/146215&amp;from=rss)
 * [2025-03-30, 03:03:00](https://soylentnews.org/article.pl?sid=25/03/28/1353243&amp;from=rss) - [Tor Network Status - A Pretty Yet Detailed Current List of Nodes and Type](https://soylentnews.org/article.pl?sid=25/03/28/1353243&amp;from=rss)
+* [2025-03-30, 00:50:21](https://news.ycombinator.com/item?id=43520122) - [A 6-Hour Time-Stretched Version of Brian Eno&apos;s Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 * [2025-03-29, 22:04:00](https://soylentnews.org/article.pl?sid=25/03/28/140245&amp;from=rss) - [Certified Genuine Randomness](https://soylentnews.org/article.pl?sid=25/03/28/140245&amp;from=rss)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
