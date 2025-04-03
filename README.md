@@ -1,64 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Tech Developments and Open-Source Innovations
 
-* [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516) - A novel method using reinforcement learning to enhance large language models' reasoning and search capabilities.
+* [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/) ([comments](https://lobste.rs/s/6iylqh/graphite_rusty_foss_procedural_2d_design))
 
-* [AI Masters Minecraft: DeepMind Program Finds Diamonds Without Being Taught](https://slashdot.org/story/25/04/02/1829253/ai-masters-minecraft-deepmind-program-finds-diamonds-without-being-taught?utm_source=rss1.0mainlinkanon&utm_medium=feed) - DeepMind achieves remarkable results with AI in Minecraft.
+* [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm) ([comments](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally))
 
-* [Anthropic Launches an AI Chatbot Plan For Colleges and Universities](https://news.slashdot.org/story/25/04/02/232215/anthropic-launches-an-ai-chatbot-plan-for-colleges-and-universities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New AI chatbot initiative designed to provide support for higher education.
+* [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena) ([comments](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation))
 
-* [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/) - Reflecting on the mixed sentiments towards advancements in AI technology.
+* [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale) ([comments](https://news.ycombinator.com/item?id=43563396))
 
-* [Vibe Coded AI App Generates Recipes With Very Few Guardrails](https://tech.slashdot.org/story/25/04/03/0230255/vibe-coded-ai-app-generates-recipes-with-very-few-guardrails?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A unique AI-driven application creates innovative recipes without stringent constraints.
+* [OpenSSH 10 call for testing, DSA deprecated](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html) ([comments](https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa))
 
-* [95% of Code Will Be AI-Generated Within Five Years, Microsoft CTO Says](https://developers.slashdot.org/story/25/04/02/1611229/95-of-code-will-be-ai-generated-within-five-years-microsoft-cto-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Predictions on the future dominance of AI in software development.
+## Space and Scientific Endeavors
 
-## Technology and Security
+* [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss))
 
-* [OpenSSH 10 call for testing, DSA deprecated](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html) - Upcoming major updates and testing prompts for OpenSSH with deprecated DSA.
+* [Amazon Set To Launch First Operational Satellites For Project Kuiper Network](https://tech.slashdot.org/story/25/04/03/0237250/amazon-set-to-launch-first-operational-satellites-for-project-kuiper-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/03/0237250/amazon-set-to-launch-first-operational-satellites-for-project-kuiper-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Automated deployments: how we made deploying often easy](https://www.channable.com/tech/automated-deployments) - Insights into streamlining frequent software deployments.
+* [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf) ([comments](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing))
 
-* [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html) - Practical guidance on maintaining operational security when crossing borders.
+## AI and Software Innovations
 
-* [Matrix.org Will Migrate to MAS](https://matrix.org/blog/2025/04/matrix-auth-service/) - Migration announcement regarding the Matrix Authentication Service.
+* [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516) ([comments](https://news.ycombinator.com/item?id=43563265))
 
-* [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/) - Analyzing the effects of web crawlers on Wikimedia operations.
+* [Vibe Coded AI App Generates Recipes With Very Few Guardrails](https://tech.slashdot.org/story/25/04/03/0230255/vibe-coded-ai-app-generates-recipes-with-very-few-guardrails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/03/0230255/vibe-coded-ai-app-generates-recipes-with-very-few-guardrails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [DST for async Rust](https://s2.dev/blog/dst) - Exploring new developments in Rust's asynchronous programming domain.
+* [Anthropic Launches an AI Chatbot Plan For Colleges and Universities](https://news.slashdot.org/story/25/04/02/232215/anthropic-launches-an-ai-chatbot-plan-for-colleges-and-universities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/04/02/232215/anthropic-launches-an-ai-chatbot-plan-for-colleges-and-universities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Society and Environment
+* [AI Masters Minecraft: DeepMind Program Finds Diamonds Without Being Taught](https://slashdot.org/story/25/04/02/1829253/ai-masters-minecraft-deepmind-program-finds-diamonds-without-being-taught?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/04/02/1829253/ai-masters-minecraft-deepmind-program-finds-diamonds-without-being-taught?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss) - Investigating the disproportionate impacts of remote work policies on women.
+## Environmental and Societal Challenges
 
-* [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss) - Addressing alarming patterns in honeybee populations in the United States.
+* [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss))
 
-* [NaNoWriMo To Close After 20 Years](https://tech.slashdot.org/story/25/04/03/015223/nanowrimo-to-close-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - End of an era for the popular novel-writing challenge.
+* [Vast Pedophile Network Shut Down In Europol's Largest CSAM Operation](https://yro.slashdot.org/story/25/04/02/2140214/vast-pedophile-network-shut-down-in-europols-largest-csam-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/04/02/2140214/vast-pedophile-network-shut-down-in-europols-largest-csam-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss) - Fascinating discovery of tool use behavior among tropical fish.
+## Unique Concepts and Historical Retrospectives
 
-## Programming and Development
+* [DIY Synths Database](https://diy-synths.snnkv.com/) ([comments](https://news.ycombinator.com/item?id=43564890))
 
-* [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena) - Compact and efficient memory allocator for developers.
+* [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf) ([comments](https://news.ycombinator.com/item?id=43564644))
 
-* [C++26: variadic friends](https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends) - Discussing upcoming language features in C++.
+* [Dijkstra On the foolishness of 'natural language programming'](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) ([comments](https://news.ycombinator.com/item?id=43564386))
 
-* [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale) - A free alternative to the Tailscale control server.
-
-* [chawan: TUI Web Browser](https://sr.ht/%7Ebptato/chawan/) - Terminal-based browsing made simple and efficient.
-
-* [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/) - Achieving the dual benefits of compilation speed and runtime performance.
-
-## Cultural and Industry Insights
-
-* [Vast Pedophile Network Shut Down In Europol's Largest CSAM Operation](https://yro.slashdot.org/story/25/04/02/2140214/vast-pedophile-network-shut-down-in-europols-largest-csam-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Successes in combating child abuse on a global scale.
-
-* [NaNoWriMo To Close After 20 Years](https://tech.slashdot.org/story/25/04/03/015223/nanowrimo-to-close-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reflections on the legacy of the novel-writing challenge.
-
-* [Bill Gates Celebrates Microsoft's 50th By Releasing Altair BASIC Source Code](https://slashdot.org/story/25/04/02/2145238/bill-gates-celebrates-microsofts-50th-by-releasing-altair-basic-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebration of historical milestones in software engineering.
-
-* [India Set For $100 Billion Startup IPO Surge By 2027](https://slashdot.org/story/25/04/02/2152245/india-set-for-100-billion-startup-ipo-surge-by-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The rapid growth and evolving landscape of India's startup ecosystem.
+* [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/) ([comments](https://news.ycombinator.com/item?id=43535937))
 
 ---
 
@@ -85,8 +71,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-03, 09:31:40](https://lobste.rs/s/6iylqh/graphite_rusty_foss_procedural_2d_design) - [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/)
+* [2025-04-03, 08:52:00](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss) - [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss)
+* [2025-04-03, 08:44:46](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing) - [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf)
+* [2025-04-03, 08:02:22](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally) - [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm)
+* [2025-04-03, 07:00:00](https://tech.slashdot.org/story/25/04/03/0237250/amazon-set-to-launch-first-operational-satellites-for-project-kuiper-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Set To Launch First Operational Satellites For Project Kuiper Network](https://tech.slashdot.org/story/25/04/03/0237250/amazon-set-to-launch-first-operational-satellites-for-project-kuiper-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 06:45:35](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation) - [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena)
-* [2025-04-03, 06:15:17](https://news.ycombinator.com/item?id=43565438) - [I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 04:41:53](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 * [2025-04-03, 04:09:48](https://news.ycombinator.com/item?id=43564644) - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
@@ -95,8 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 03:39:36](https://lobste.rs/s/vsdeih/c_26_variadic_friends) - [C++26: variadic friends](https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \&quot;natural language programming\&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-03, 03:30:00](https://tech.slashdot.org/story/25/04/03/0230255/vibe-coded-ai-app-generates-recipes-with-very-few-guardrails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Vibe Coded AI App Generates Recipes With Very Few Guardrails](https://tech.slashdot.org/story/25/04/03/0230255/vibe-coded-ai-app-generates-recipes-with-very-few-guardrails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-03, 03:20:55](https://news.ycombinator.com/item?id=43564327) - [XWine1 – Xbox One Translation Layer for Windows PCs](https://github.com/xwine1)
-* [2025-04-03, 03:20:51](https://lobste.rs/s/08nct4/fear_tech_2024) - [Fear in Tech (2024)](https://youtu.be/_dLLIjKz9MY)
 * [2025-04-03, 02:40:08](https://news.ycombinator.com/item?id=43564111) - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 * [2025-04-03, 02:17:07](https://lobste.rs/s/qftydp/dst_for_async_rust) - [DST for async Rust](https://s2.dev/blog/dst)
 * [2025-04-03, 01:45:00](https://hardware.slashdot.org/story/25/04/03/0110212/open-source-tool-designed-to-throttle-pc-and-server-performance-based-on-electricity-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Open-Source Tool Designed To Throttle PC and Server Performance Based On Electricity Pricing](https://hardware.slashdot.org/story/25/04/03/0110212/open-source-tool-designed-to-throttle-pc-and-server-performance-based-on-electricity-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -129,13 +117,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [Why I don&apos;t discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 18:00:11](https://lobste.rs/s/twylzo/test_sizes_2010) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
+* [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 17:24:39](https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
 * [2025-04-02, 16:59:00](https://news.slashdot.org/story/25/04/02/1659237/amazon-said-to-make-a-bid-to-buy-tiktok-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Said To Make a Bid To Buy TikTok in the US](https://news.slashdot.org/story/25/04/02/1659237/amazon-said-to-make-a-bid-to-buy-tiktok-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-02, 16:54:34](https://lobste.rs/s/kvganp/fast_compilation_fast_execution_just) - [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
 * [2025-04-02, 16:28:50](https://news.ycombinator.com/item?id=43558464) - [Matrix.org Will Migrate to MAS](https://matrix.org/blog/2025/04/matrix-auth-service/)
 * [2025-04-02, 16:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss) - [AI Search Engines Cite Incorrect News Sources at an Alarming 60% Rate, Study Says](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss)
-* [2025-04-02, 16:11:00](https://developers.slashdot.org/story/25/04/02/1611229/95-of-code-will-be-ai-generated-within-five-years-microsoft-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [95% of Code Will Be AI-Generated Within Five Years, Microsoft CTO Says](https://developers.slashdot.org/story/25/04/02/1611229/95-of-code-will-be-ai-generated-within-five-years-microsoft-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
 * [2025-04-02, 15:57:55](https://lobste.rs/s/8emy5x/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/%7Ebptato/chawan/)
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
@@ -155,17 +142,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss)
 * [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547611) - [Ask HN: Who is hiring? (April 2025)](https://news.ycombinator.com/item?id=43547611)
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss) - [After Trump&apos;s Decree: Fight for US Funding for Tor, F-Droid and Let&apos;s Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss)
-* [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 07:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss) - [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss)
 * [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - [NASA Early Galaxy Discovery Shines Light on &apos;Cosmic Dark Ages&apos;](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss)
 * [2025-03-31, 16:55:00](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss) - [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss)
+* [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 12:54:46](https://news.ycombinator.com/item?id=43534480) - [Flame – BBS and MUD](https://www.ucc.asn.au/services/flame.ucc)
 * [2025-03-31, 12:47:40](https://news.ycombinator.com/item?id=43534381) - [Reintroducing Capsul](https://capsul.bearblog.dev/reintroducing-capsul/)
 * [2025-03-31, 12:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss) - [Elon Musk’s X Has a New Owner](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss)
-* [2025-03-31, 11:05:41](https://news.ycombinator.com/item?id=43533556) - [Aptera&apos;s First Solar Road Trip. 300 Miles, One Charge](https://aptera.us/apteras-first-solar-road-trip/)
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple&apos;s Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-31, 07:24:00](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss) - [Apple and Google Face Billions in Liability From Trump&apos;s Tiktok Ban Delay](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss)
+* [2025-03-31, 06:20:56](https://news.ycombinator.com/item?id=43531734) - [Preventing nearsightedness using AR glasses or projectors](http://nixon-development.com/fp/nearsightedness.htm)
 * [2025-03-31, 06:00:00](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss) - [Soylent News Entering a New Phase](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss)
 * [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss)
 * [2025-03-30, 21:53:00](https://soylentnews.org/article.pl?sid=25/03/28/1431238&amp;from=rss) - [New Utah Law Makes App Stores Responsible for Age Verification](https://soylentnews.org/article.pl?sid=25/03/28/1431238&amp;from=rss)
