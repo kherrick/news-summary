@@ -1,52 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Business and Economy
 
-* [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/03/0144235&from=rss))
+* [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf) ([comments](https://news.ycombinator.com/item?id=43579908)) discusses the dangers of the U.S. trade deficit.
 
-* [Google's NotebookLM AI Can Now 'Discover Sources' For You](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Technology Advancements
 
-* [DeepMind Details All the Ways AGI Could Wreck the World](https://tech.slashdot.org/story/25/04/03/2236242/deepmind-details-all-the-ways-agi-could-wreck-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/03/2236242/deepmind-details-all-the-ways-agi-could-wreck-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [@fastify/vite@8.0.0](https://github.com/fastify/fastify-vite/releases/tag/v8.0.0) ([comments](https://lobste.rs/s/isqxhw/fastify_vite_8_0_0)) highlights Fastify's latest release for integrating Vue.js.
 
-* [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/) ([comments](https://lobste.rs/s/l7any5/ai_ambivalence))
+* [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html) ([comments](https://news.ycombinator.com/item?id=43578190)) provides insight into a JavaScript-based Transputer emulator.
 
-* [The Slow Collapse of Critical Thinking in OSINT Due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai) ([comments](https://news.ycombinator.com/item?id=43573465))
+* [Windows 11 Tests Taskbar Icons That Scale Up and Down Like On a Mac](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) explores UI innovations in Windows 11.
 
-## Emerging Developments in Computing and Software
+* [Google's NotebookLM AI Can Now 'Discover Sources' For You](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) introduces a feature to enhance AI-assisted research.
 
-* [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html) ([comments](https://news.ycombinator.com/item?id=43578190))
+* [GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/) ([comments](https://news.ycombinator.com/item?id=43573539)) showcases an automated repo management tool.
 
-* [Making OCaml Safe for Performance Engineering](https://youtube.com/watch?v=g3qd4zpm1LA) ([comments](https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance))
+## Scientific Research
 
-* [Introducing Bare, a small and modular JavaScript runtime](https://github.com/holepunchto/bare) ([comments](https://lobste.rs/s/yq4tc7/introducing_bare_small_modular))
+* [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)) delves into the neuroscience behind cravings.
 
-* [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/) ([comments](https://news.ycombinator.com/item?id=43573539))
+* [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss)) raises concerns about environmental sustainability.
 
-* [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel) ([comments](https://lobste.rs/s/jopsqd/nix_looks_like_bazel))
+* [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z) ([comments](https://news.ycombinator.com/item?id=43538853)) highlights groundbreaking medical discoveries.
 
-## Interesting Perspectives and Historical Notes
+## Design and User Experience
 
-* [Lessons learned from my first dive into WebAssembly](https://nullprogram.com/blog/2025/04/04/) ([comments](https://lobste.rs/s/dkypfk/lessons_learned_from_my_first_dive_into))
+* [The Retro Subway Map That Design Nerds Love Makes a Comeback](https://tech.slashdot.org/story/25/04/04/0710212/the-retro-subway-map-that-design-nerds-love-makes-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/04/0710212/the-retro-subway-map-that-design-nerds-love-makes-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) features the return of nostalgic cartographic design.
 
-* [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/) ([comments](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors))
+* [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/) ([comments](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image)) showcases CSS innovations for visual web content.
 
-* [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code) ([comments](https://news.ycombinator.com/item?id=43575884))
-
-* [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014) ([comments](https://news.ycombinator.com/item?id=43575379))
-
-* [FuguIta: OpenBSD Live CD - Celebrates Their 20th Anniversary!](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/03/31/0416212&from=rss))
-
-## Environment and Global Trends
-
-* [Climate Crisis On Track To Destroy Capitalism, Warns Top Insurer](https://news.slashdot.org/story/25/04/03/1820226/climate-crisis-on-track-to-destroy-capitalism-warns-top-insurer?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/04/03/1820226/climate-crisis-on-track-to-destroy-capitalism-warns-top-insurer?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Air Conditioning, Not Data Centers, Driving Global Energy Demand Growth](https://hardware.slashdot.org/story/25/04/03/220248/air-conditioning-not-data-centers-driving-global-energy-demand-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/04/03/220248/air-conditioning-not-data-centers-driving-global-energy-demand-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/01/1135252&from=rss))
-
-* [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/02/034207&from=rss))
-
-* [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z) ([comments](https://news.ycombinator.com/item?id=43538853))
+* [AnimeJs v4 Is Here](https://animejs.com/) ([comments](https://news.ycombinator.com/item?id=43570533)) highlights advancements in web animation technology.
 
 ---
 
@@ -73,16 +57,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-04, 09:20:25](https://news.ycombinator.com/item?id=43579908) - [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
+* [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
+* [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)
+* [2025-04-04, 07:18:51](https://lobste.rs/s/isqxhw/fastify_vite_8_0_0) - [@fastify/vite@8.0.0](https://github.com/fastify/fastify-vite/releases/tag/v8.0.0)
+* [2025-04-04, 07:12:00](https://tech.slashdot.org/story/25/04/04/0710212/the-retro-subway-map-that-design-nerds-love-makes-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Retro Subway Map That Design Nerds Love Makes a Comeback](https://tech.slashdot.org/story/25/04/04/0710212/the-retro-subway-map-that-design-nerds-love-makes-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 06:28:53](https://lobste.rs/s/ngijxb/curious_case_binfmt_for_x86_emulation_for) - [The curious case of binfmt for x86 emulation for ARM Docker](https://gergely.imreh.net/blog/2025/04/the-curious-case-of-binfmt-for-x86-emulation-for-arm-docker/)
-* [2025-04-04, 06:20:08](https://lobste.rs/s/dkypfk/lessons_learned_from_my_first_dive_into) - [Lessons learned from my first dive into WebAssembly](https://nullprogram.com/blog/2025/04/04/)
-* [2025-04-04, 06:15:15](https://lobste.rs/s/9kixmk/csscape_room) - [CSScape Room](https://csscape-room.iamdanielmarino.com/)
+* [2025-04-04, 05:37:49](https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update) - [[SECURITY] [DSA 5892-1] atop security update](https://lists.debian.org/debian-security-announce/2025/msg00054.html)
 * [2025-04-04, 03:59:44](https://news.ycombinator.com/item?id=43578190) - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
 * [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
 * [2025-04-04, 03:30:00](https://news.slashdot.org/story/25/04/04/0153232/wealthy-americans-have-death-rates-on-par-with-poor-europeans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wealthy Americans Have Death Rates On Par With Poor Europeans](https://news.slashdot.org/story/25/04/04/0153232/wealthy-americans-have-death-rates-on-par-with-poor-europeans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-04, 03:03:10](https://news.ycombinator.com/item?id=43577927) - [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
 * [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
 * [2025-04-04, 02:20:00](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11 Tests Taskbar Icons That Scale Up and Down Like On a Mac](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-04, 02:00:48](https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance) - [Making OCaml Safe for Performance Engineering](https://youtube.com/watch?v=g3qd4zpm1LA)
 * [2025-04-04, 01:40:00](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s NotebookLM AI Can Now &apos;Discover Sources&apos; For You](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 01:03:43](https://news.ycombinator.com/item?id=43577285) - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 * [2025-04-04, 01:00:00](https://yro.slashdot.org/story/25/04/03/2257221/massive-expansion-of-italys-piracy-shield-underway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Massive Expansion of Italy&apos;s Piracy Shield Underway](https://yro.slashdot.org/story/25/04/03/2257221/massive-expansion-of-italys-piracy-shield-underway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,7 +80,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 22:42:00](https://news.slashdot.org/story/25/04/03/2241220/us-stock-markets-see-worst-day-since-covid-pandemic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Stock Markets See Worst Day Since Covid Pandemic](https://news.slashdot.org/story/25/04/03/2241220/us-stock-markets-see-worst-day-since-covid-pandemic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 22:20:00](https://slashdot.org/story/25/04/03/2151215/intel-tsmc-tentatively-agree-to-form-chipmaking-joint-venture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel, TSMC Tentatively Agree To Form Chipmaking Joint Venture](https://slashdot.org/story/25/04/03/2151215/intel-tsmc-tentatively-agree-to-form-chipmaking-joint-venture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company&apos;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+* [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:43:00](https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Miniature Windows 365 Link PC Goes On Sale](https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 21:03:46](https://news.ycombinator.com/item?id=43575379) - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
@@ -103,16 +89,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 19:18:08](https://news.ycombinator.com/item?id=43574125) - [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 19:08:00](https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oracle Tells Clients of Second Recent Hack, Log-In Data Stolen](https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
+* [2025-04-03, 18:46:20](https://news.ycombinator.com/item?id=43573738) - [How Big Is VMS?](https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/)
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
-* [2025-04-03, 18:21:32](https://news.ycombinator.com/item?id=43573465) - [The Slow Collapse of Critical Thinking in OSINT Due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
+* [2025-04-03, 18:21:32](https://news.ycombinator.com/item?id=43573465) - [The slow collapse of critical thinking in OSINT due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
 * [2025-04-03, 18:20:00](https://news.slashdot.org/story/25/04/03/1820226/climate-crisis-on-track-to-destroy-capitalism-warns-top-insurer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Climate Crisis On Track To Destroy Capitalism, Warns Top Insurer](https://news.slashdot.org/story/25/04/03/1820226/climate-crisis-on-track-to-destroy-capitalism-warns-top-insurer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 18:17:00](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss) - [The April Fools Joke That Might Have Got Me Fired](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss)
-* [2025-04-03, 18:06:32](https://news.ycombinator.com/item?id=43573299) - [Show HN: Monkeys.zip – 3000 Monkeys on Typewriters](https://monkeys.zip/)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – A task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 * [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+* [2025-04-03, 17:02:51](https://news.ycombinator.com/item?id=43572544) - [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
 * [2025-04-03, 16:53:00](https://slashdot.org/story/25/04/03/1653226/climate-firm-that-partnered-with-meta-microsoft-goes-bankrupt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Climate Firm That Partnered With Meta, Microsoft Goes Bankrupt](https://slashdot.org/story/25/04/03/1653226/climate-firm-that-partnered-with-meta-microsoft-goes-bankrupt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don&apos;t always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
@@ -121,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 16:11:00](https://slashdot.org/story/25/04/03/1611223/intel-refreshes-iconic-brand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Refreshes Iconic Brand](https://slashdot.org/story/25/04/03/1611223/intel-refreshes-iconic-brand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 16:01:22](https://lobste.rs/s/jopsqd/nix_looks_like_bazel) - [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel)
 * [2025-04-03, 15:51:19](https://lobste.rs/s/utis5o/initware_systemd_like_fork_for_bsds) - [InitWare: systemd-like fork for BSDs](https://github.com/InitWare/InitWare)
-* [2025-04-03, 15:27:00](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AV1 is Supposed To Make Streaming Better, So Why Isn&apos;t Everyone Using It?](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
@@ -137,13 +123,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 08:44:46](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing) - [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf)
 * [2025-04-03, 04:41:53](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 * [2025-04-03, 04:06:00](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss) - [Honeybee Deaths Surge in U.S.: &apos;Something Real Bad is Going on&apos;](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss)
-* [2025-04-03, 01:01:34](https://news.ycombinator.com/item?id=43563580) - [Photo calorie app Cal AI was built by two teenagers](https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/)
 * [2025-04-02, 23:22:00](https://soylentnews.org/article.pl?sid=25/03/31/0416212&amp;from=rss) - [FuguIta: OpenBSD Live CD - Celebrates Their 20th Anniversary!](https://soylentnews.org/article.pl?sid=25/03/31/0416212&amp;from=rss)
 * [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 16:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss) - [AI Search Engines Cite Incorrect News Sources at an Alarming 60% Rate, Study Says](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss)
 * [2025-04-02, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss) - [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors often prefer rule breakers, up to a point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
+* [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all?](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
 * [2025-04-02, 06:53:00](https://soylentnews.org/article.pl?sid=25/03/31/1714219&amp;from=rss) - [75% of US Scientists Who Answered Nature Poll Consider Leaving](https://soylentnews.org/article.pl?sid=25/03/31/1714219&amp;from=rss)
 * [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss) - [Microsoft&apos;s Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss)
 * [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss)
@@ -151,17 +137,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss) - [After Trump&apos;s Decree: Fight for US Funding for Tor, F-Droid and Let&apos;s Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss)
 * [2025-04-01, 07:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss) - [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss)
 * [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss)
+* [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - [NASA Early Galaxy Discovery Shines Light on &apos;Cosmic Dark Ages&apos;](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss)
 * [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
-* [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft turns 50: 4 employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
+* [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician&apos;s garden](https://www.nature.com/articles/d41586-025-00945-z)
 * [2025-03-31, 16:55:00](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss) - [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
-* [2025-03-31, 12:22:27](https://news.ycombinator.com/item?id=43534143) - [Binary Distribution Rebuilds](https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/)
 * [2025-03-31, 12:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss) - [Elon Musk’s X Has a New Owner](https://soylentnews.org/article.pl?sid=25/03/31/0347227&amp;from=rss)
 * [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
-* [2025-03-31, 11:05:33](https://news.ycombinator.com/item?id=43533554) - [My Rust experience after eight years](https://codecs.multimedia.cx/2025/03/my-rust-experience-after-eight-years/)
 * [2025-03-31, 07:24:00](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss) - [Apple and Google Face Billions in Liability From Trump&apos;s Tiktok Ban Delay](https://soylentnews.org/article.pl?sid=25/03/31/0341226&amp;from=rss)
 * [2025-03-31, 06:00:00](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss) - [Soylent News Entering a New Phase](https://soylentnews.org/article.pl?sid=25/03/28/1139202&amp;from=rss)
 * [2025-03-31, 02:39:00](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss) - [23andMe Customers Struggle to Delete Their Data](https://soylentnews.org/article.pl?sid=25/03/28/1410255&amp;from=rss)
