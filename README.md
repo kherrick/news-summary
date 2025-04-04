@@ -1,58 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## AI and Machine Learning Advancements
+
+* [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
 
 * [Google's NotebookLM AI Can Now 'Discover Sources' For You](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 * [DeepMind Details All the Ways AGI Could Wreck the World](https://tech.slashdot.org/story/25/04/03/2236242/deepmind-details-all-the-ways-agi-could-wreck-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Slow Collapse of Critical Thinking in OSINT Due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
+## Tech and Development Innovations
 
-* [AI cheats: Why you didn't notice your teammate was cheating](https://niila.fi/en/ai-cheats/)
-
-* [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
-
-* [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
-
-## Technology and Software Development
+* [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
 
 * [Introducing Bare, a small and modular JavaScript runtime](https://github.com/holepunchto/bare)
 
+* [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
+
 * [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
 
-* [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
-
-* [AnimeJs v4 Is Here](https://animejs.com/)
-
-* [Microsoft's Miniature Windows 365 Link PC Goes On Sale](https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Cultural, Economic, and Historical Insights
-
-* [Louvre Museum In Paris to Discontinue Nintendo 3DS Audio Guides](https://games.slashdot.org/story/25/04/03/2248237/louvre-museum-in-paris-to-discontinue-nintendo-3ds-audio-guides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Cultural and Historical Perspectives
 
 * [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
 
-* [US Stock Markets See Worst Day Since Covid Pandemic](https://news.slashdot.org/story/25/04/03/2241220/us-stock-markets-see-worst-day-since-covid-pandemic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 
-* [Intel, TSMC Tentatively Agree To Form Chipmaking Joint Venture](https://slashdot.org/story/25/04/03/2151215/intel-tsmc-tentatively-agree-to-form-chipmaking-joint-venture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Schrodinger's Economics](https://tech.slashdot.org/story/25/04/03/1447221/schrodingers-economics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Climate and Environmental Concerns
+## Climate and Environmental Initiatives
 
 * [Climate Crisis On Track To Destroy Capitalism, Warns Top Insurer](https://news.slashdot.org/story/25/04/03/1820226/climate-crisis-on-track-to-destroy-capitalism-warns-top-insurer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Climate Firm That Partnered With Meta, Microsoft Goes Bankrupt](https://slashdot.org/story/25/04/03/1653226/climate-firm-that-partnered-with-meta-microsoft-goes-bankrupt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
 * [Honeybee Deaths Surge in U.S.: 'Something Real Bad is Going on'](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss)
 
-## Cybersecurity
+## Legal and Ethical Issues in Technology and Science
+
+* [Massive Expansion of Italy's Piracy Shield Underway](https://yro.slashdot.org/story/25/04/03/2257221/massive-expansion-of-italys-piracy-shield-underway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 * [Oracle Tells Clients of Second Recent Hack, Log-In Data Stolen](https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+## Science and Nature Discoveries
 
-* [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss)
+* [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss)
+
+* [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss)
+
+## Unique and Creative Explorations
+
+* [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
+
+* [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 
 ---
 
@@ -79,7 +73,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
+* [2025-04-04, 03:30:00](https://news.slashdot.org/story/25/04/04/0153232/wealthy-americans-have-death-rates-on-par-with-poor-europeans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wealthy Americans Have Death Rates On Par With Poor Europeans](https://news.slashdot.org/story/25/04/04/0153232/wealthy-americans-have-death-rates-on-par-with-poor-europeans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-04, 03:03:10](https://news.ycombinator.com/item?id=43577927) - [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
+* [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
+* [2025-04-04, 02:20:00](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11 Tests Taskbar Icons That Scale Up and Down Like On a Mac](https://tech.slashdot.org/story/25/04/04/0147202/windows-11-tests-taskbar-icons-that-scale-up-and-down-like-on-a-mac?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 01:40:00](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s NotebookLM AI Can Now &apos;Discover Sources&apos; For You](https://news.slashdot.org/story/25/04/03/237231/googles-notebooklm-ai-can-now-discover-sources-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-04, 01:06:07](https://news.ycombinator.com/item?id=43577302) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
 * [2025-04-04, 01:00:00](https://yro.slashdot.org/story/25/04/03/2257221/massive-expansion-of-italys-piracy-shield-underway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Massive Expansion of Italy&apos;s Piracy Shield Underway](https://yro.slashdot.org/story/25/04/03/2257221/massive-expansion-of-italys-piracy-shield-underway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 00:20:00](https://games.slashdot.org/story/25/04/03/2248237/louvre-museum-in-paris-to-discontinue-nintendo-3ds-audio-guides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Louvre Museum In Paris to Discontinue Nintendo 3DS Audio Guides](https://games.slashdot.org/story/25/04/03/2248237/louvre-museum-in-paris-to-discontinue-nintendo-3ds-audio-guides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 23:40:00](https://tech.slashdot.org/story/25/04/03/2236242/deepmind-details-all-the-ways-agi-could-wreck-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DeepMind Details All the Ways AGI Could Wreck the World](https://tech.slashdot.org/story/25/04/03/2236242/deepmind-details-all-the-ways-agi-could-wreck-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -92,13 +92,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company&apos;s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
 * [2025-04-03, 21:43:00](https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Miniature Windows 365 Link PC Goes On Sale](https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-03, 21:12:10](https://news.ycombinator.com/item?id=43575479) - [The Mainframe Vocabulary Problem, and Why It Matters](https://mainframesociety.com/news/2588640)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 21:03:46](https://news.ycombinator.com/item?id=43575379) - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 * [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI cheats: Why you didn&apos;t notice your teammate was cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 20:18:54](https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019) - [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
 * [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
-* [2025-04-03, 19:18:31](https://lobste.rs/s/jitqoz/how_servo_motors_work) - [How servo motors work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 19:18:08](https://news.ycombinator.com/item?id=43574125) - [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 19:08:00](https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oracle Tells Clients of Second Recent Hack, Log-In Data Stolen](https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
@@ -125,9 +123,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 15:27:00](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AV1 is Supposed To Make Streaming Better, So Why Isn&apos;t Everyone Using It?](https://news.slashdot.org/story/25/04/03/1526250/av1-is-supposed-to-make-streaming-better-so-why-isnt-everyone-using-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
-* [2025-04-03, 14:47:00](https://tech.slashdot.org/story/25/04/03/1447221/schrodingers-economics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Schrodinger&apos;s Economics](https://tech.slashdot.org/story/25/04/03/1447221/schrodingers-economics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
-* [2025-04-03, 14:04:00](https://slashdot.org/story/25/04/03/144259/microsoft-pulls-back-on-data-centers-from-chicago-to-jakarta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Pulls Back on Data Centers From Chicago To Jakarta](https://slashdot.org/story/25/04/03/144259/microsoft-pulls-back-on-data-centers-from-chicago-to-jakarta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-03, 13:35:00](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss) - [News Outlets Fighting Back Against Distrust With \&quot;Ethics Boxes\&quot;??](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
@@ -140,9 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-03, 08:44:46](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing) - [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf)
 * [2025-04-03, 04:41:53](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 * [2025-04-03, 04:06:00](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss) - [Honeybee Deaths Surge in U.S.: &apos;Something Real Bad is Going on&apos;](https://soylentnews.org/article.pl?sid=25/04/01/1135252&amp;from=rss)
-* [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \&quot;natural language programming\&quot;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-02, 23:22:00](https://soylentnews.org/article.pl?sid=25/03/31/0416212&amp;from=rss) - [FuguIta: OpenBSD Live CD - Celebrates Their 20th Anniversary!](https://soylentnews.org/article.pl?sid=25/03/31/0416212&amp;from=rss)
-* [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
 * [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 16:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss) - [AI Search Engines Cite Incorrect News Sources at an Alarming 60% Rate, Study Says](https://soylentnews.org/article.pl?sid=25/03/31/1729253&amp;from=rss)
@@ -160,7 +154,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-01, 07:09:00](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss) - [Ending Remote Work Has Major Consequences for Women](https://soylentnews.org/article.pl?sid=25/03/31/0411203&amp;from=rss)
 * [2025-04-01, 02:23:00](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss) - [Word of the Day: Zwitterionic](https://soylentnews.org/article.pl?sid=25/03/31/045231&amp;from=rss)
 * [2025-03-31, 21:37:00](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss) - [NASA Early Galaxy Discovery Shines Light on &apos;Cosmic Dark Ages&apos;](https://soylentnews.org/article.pl?sid=25/03/31/042242&amp;from=rss)
-* [2025-03-31, 18:25:35](https://news.ycombinator.com/item?id=43538073) - [Microsoft reports several bootloader vulnerabilities](https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/)
+* [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
+* [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft turns 50: 4 employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 16:55:00](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss) - [The Practical Limitations of End-to-End Encryption](https://soylentnews.org/article.pl?sid=25/03/31/0349222&amp;from=rss)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
