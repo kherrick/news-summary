@@ -1,12 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Computing
+## AI and Image Generation
 
-* [Wikimedia Drowning in AI Bot Traffic as Crawlers Consume 65% of Resources](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion thread](https://news.ycombinator.com/item?id=43588970)
+* [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image) - A discussion on the advancements and subtleties in AI-driven image generation techniques. [Comments](https://lobste.rs/s/6flxuz/no_elephants_breakthroughs_image)
 
-* [Midjourney Releases V7, Its First New AI Image Model In Nearly a Year](https://slashdot.org/story/25/04/04/2258217/midjourney-releases-v7-its-first-new-ai-image-model-in-nearly-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=43586561)
+* [Midjourney Releases V7, Its First New AI Image Model In Nearly a Year](https://slashdot.org/story/25/04/04/2258217/midjourney-releases-v7-its-first-new-ai-image-model-in-nearly-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major update from Midjourney introducing their latest AI-driven image-generation model. [Comments](https://slashdot.org/story/25/04/04/2258217/midjourney-releases-v7-its-first-new-ai-image-model-in-nearly-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI Avatar Tries To Argue Case Before a New York Court](https://yro.slashdot.org/story/25/04/04/2023226/ai-avatar-tries-to-argue-case-before-a-new-york-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion thread](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster)
+## AI Applications and Challenges
+
+* [Two Teenagers Built 'Cal AI', a Photo Calorie App With Over a Million Users](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fascinating story of two teenagers developing a popular app that estimates calorie counts through photos. [Comments](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Wikimedia Drowning in AI Bot Traffic as Crawlers Consume 65% of Resources](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Wikimedia Foundation faces challenges from AI bots contributing to significant resource strain. [Comments](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [AI Avatar Tries To Argue Case Before a New York Court](https://yro.slashdot.org/story/25/04/04/2023226/ai-avatar-tries-to-argue-case-before-a-new-york-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking legal experiment where an AI avatar attempts to engage in courtroom argumentation. [Comments](https://yro.slashdot.org/story/25/04/04/2023226/ai-avatar-tries-to-argue-case-before-a-new-york-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Technology Trends
+
+* [First Look at The Modern attr() in CSS](https://ishadeed.com/article/modern-attr/) - An exploration of the updated attr() function and its powerful new capabilities in modern web development. [Comments](https://lobste.rs/s/tjyf9r/first_look_at_modern_attr_css)
+
+* [An Interactive-Speed Linux Computer Made of Only 3 8-Pin Chips](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A unique hardware project showcasing a Linux computer constructed from minimal components. [Comments](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype) - A look at a novel input device that integrates keyboard and mouse functionalities for one-handed use. [Comments](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded)
+
+## Scientific Insights
+
+* [Waste Fires Are on the Rise Largely Thanks to the Lithium-Ion Batteries in Vape Pens](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss) - Investigating the environmental impact of lithium-ion batteries, focusing on fires in waste facilities. [Comments](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss)
+
+* [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html) - A remarkable resource offering an extensive 3D database of vertebrate specimens for research. [Comments](https://news.ycombinator.com/item?id=43589989)
+
+## Cultural and Historical Exploration
+
+* [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) - Exploring the historical trajectory of Sierra On-Line through its pivotal acquisition. [Comments](https://news.ycombinator.com/item?id=43586157)
+
+* [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism) - An informative dive into the economic theory of mercantilism and its historical significance. [Comments](https://news.ycombinator.com/item?id=43589708)
 
 ---
 
@@ -33,12 +59,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-05, 03:51:48](https://lobste.rs/s/6flxuz/no_elephants_breakthroughs_image) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
+* [2025-04-05, 03:30:00](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two Teenagers Built &apos;Cal AI&apos;, a Photo Calorie App With Over a Million Users](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-05, 03:27:00](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss) - [Waste Fires Are on the Rise Largely Thanks to the Lithium-Ion Batteries in Vape Pens](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss)
+* [2025-04-05, 03:00:10](https://lobste.rs/s/tjyf9r/first_look_at_modern_attr_css) - [First Look at The Modern attr() in CSS](https://ishadeed.com/article/modern-attr/)
+* [2025-04-05, 02:29:58](https://lobste.rs/s/t24ppw/html_nix_2021) - [html.nix (2021)](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
+* [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
+* [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
+* [2025-04-05, 02:09:38](https://news.ycombinator.com/item?id=43589929) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
+* [2025-04-05, 01:50:09](https://news.ycombinator.com/item?id=43589776) - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
+* [2025-04-05, 01:40:25](https://news.ycombinator.com/item?id=43589708) - [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
+* [2025-04-05, 01:22:38](https://news.ycombinator.com/item?id=43589523) - [AT&amp;T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
+* [2025-04-05, 01:00:12](https://news.ycombinator.com/item?id=43589321) - [Increasing Timber Production, an Emergency Situation on National Forest Lands [pdf]](https://www.usda.gov/sites/default/files/documents/sm-1078-006.pdf)
 * [2025-04-05, 01:00:00](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikimedia Drowning in AI Bot Traffic as Crawlers Consume 65% of Resources](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-05, 00:41:59](https://news.ycombinator.com/item?id=43589231) - [Trump&apos;s Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7)
 * [2025-04-05, 00:41:10](https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for) - [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
 * [2025-04-05, 00:20:00](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Interactive-Speed Linux Computer Made of Only 3 8-Pin Chips](https://linux.slashdot.org/story/25/04/04/2320234/an-interactive-speed-linux-computer-made-of-only-3-8-pin-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
-* [2025-04-05, 00:10:16](https://news.ycombinator.com/item?id=43589071) - [Cashless society drives drop in children swallowing coins, researchers say](https://www.independent.co.uk/money/cashless-society-drives-drop-in-children-swallowing-coins-researchers-say-b2723046.html)
+* [2025-04-05, 00:04:28](https://news.ycombinator.com/item?id=43589042) - [Annotated Unix Magic Poster](https://unixmagic.net/)
 * [2025-04-04, 23:52:18](https://news.ycombinator.com/item?id=43588970) - [The &apos;Judicial Black Hole&apos; of El Salvador&apos;s Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
 * [2025-04-04, 23:40:00](https://mobile.slashdot.org/story/25/04/04/2312231/att-email-to-text-gateway-service-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T Email-To-Text Gateway Service Ending](https://mobile.slashdot.org/story/25/04/04/2312231/att-email-to-text-gateway-service-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 23:00:00](https://slashdot.org/story/25/04/04/2258217/midjourney-releases-v7-its-first-new-ai-image-model-in-nearly-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Midjourney Releases V7, Its First New AI Image Model In Nearly a Year](https://slashdot.org/story/25/04/04/2258217/midjourney-releases-v7-its-first-new-ai-image-model-in-nearly-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -60,8 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint&apos;s Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 18:41:00](https://it.slashdot.org/story/25/04/04/1841244/microsoft-employee-disrupts-50th-anniversary-and-calls-ai-boss-war-profiteer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Employee Disrupts 50th Anniversary and Calls AI Boss &apos;War Profiteer&apos;](https://it.slashdot.org/story/25/04/04/1841244/microsoft-employee-disrupts-50th-anniversary-and-calls-ai-boss-war-profiteer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
-* [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
-* [2025-04-04, 18:26:16](https://lobste.rs/s/axwigd/10_standout_github_profile_readmes) - [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 17:59:04](https://lobste.rs/s/1yucfb/opinionated_html_serializer_for_php_8_4) - [An opinionated HTML Serializer for PHP 8.4](https://shkspr.mobi/blog/2025/04/an-opinionated-html-serializer-for-php-8-4/)
 * [2025-04-04, 17:53:00](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss) - [Executive Order Aims to Make Mining the Primary Use of Public Lands at ‘As Many Sites As Possible’](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss)
@@ -79,25 +114,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-04, 14:42:00](https://it.slashdot.org/story/25/04/04/1442223/camera-makers-defend-proprietary-raw-formats-despite-open-standard-alternative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Camera Makers Defend Proprietary RAW Formats Despite Open Standard Alternative](https://it.slashdot.org/story/25/04/04/1442223/camera-makers-defend-proprietary-raw-formats-despite-open-standard-alternative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 14:00:00](https://news.slashdot.org/story/25/04/04/1319228/china-imposes-34-reciprocal-tariffs-on-imports-of-us-goods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Imposes 34% Reciprocal Tariffs on Imports of US Goods](https://news.slashdot.org/story/25/04/04/1319228/china-imposes-34-reciprocal-tariffs-on-imports-of-us-goods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-04, 13:10:00](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss) - [Notes on the Pentium&apos;s Microcode Circuitry](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss)
-* [2025-04-04, 13:00:00](https://news.slashdot.org/story/25/04/04/0729216/visa-bids-100-million-to-replace-mastercard-as-apples-new-credit-card-partner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Visa Bids $100 Million To Replace Mastercard As Apple&apos;s New Credit Card Partner](https://news.slashdot.org/story/25/04/04/0729216/visa-bids-100-million-to-replace-mastercard-as-apples-new-credit-card-partner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad’s source is available](https://github.com/antiwork/gumroad)
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)
 * [2025-04-04, 08:10:15](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend)
 * [2025-04-04, 05:37:49](https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update) - [[SECURITY] [DSA 5892-1] atop security update](https://lists.debian.org/debian-security-announce/2025/msg00054.html)
-* [2025-04-04, 04:50:45](https://news.ycombinator.com/item?id=43578430) - [DeepSeek: Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
 * [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
-* [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
 * [2025-04-03, 23:04:00](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss) - [Does Listening Really Change Minds? New Study Challenges Common Assumptions](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss)
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-* [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
 * [2025-04-03, 18:17:00](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss) - [The April Fools Joke That Might Have Got Me Fired](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss)
-* [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
-* [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
-* [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 13:35:00](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss) - [News Outlets Fighting Back Against Distrust With \&quot;Ethics Boxes\&quot;??](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss)
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
 * [2025-04-03, 10:31:23](https://lobste.rs/s/t90zb0/announcing_rust_1_86_0) - [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
@@ -108,11 +135,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
 * [2025-04-02, 11:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss) - [Study Reveals Tool Use in Tropical Fish Species](https://soylentnews.org/article.pl?sid=25/03/31/1720218&amp;from=rss)
+* [2025-04-02, 11:04:55](https://news.ycombinator.com/item?id=43555474) - [The Soul of an Old Machine](https://thechipletter.substack.com/p/the-soul-of-an-old-machine)
 * [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
+* [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – a fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 06:53:00](https://soylentnews.org/article.pl?sid=25/03/31/1714219&amp;from=rss) - [75% of US Scientists Who Answered Nature Poll Consider Leaving](https://soylentnews.org/article.pl?sid=25/03/31/1714219&amp;from=rss)
 * [2025-04-02, 02:07:00](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss) - [Microsoft&apos;s Killing Script Used to Avoid Microsoft Account in Windows 11](https://soylentnews.org/article.pl?sid=25/03/31/1248211&amp;from=rss)
+* [2025-04-02, 01:50:20](https://news.ycombinator.com/item?id=43553004) - [Intuiting TLS](http://kprotty.me/2025/04/01/intuiting-tls.html)
 * [2025-04-01, 21:24:00](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss) - [The Internet Oracle Has Pondered Your Question Deeply - Revisiting an Old Friend](https://soylentnews.org/article.pl?sid=25/03/31/1243220&amp;from=rss)
-* [2025-04-01, 20:10:08](https://news.ycombinator.com/item?id=43550843) - [Ask HN: Are Squarespace and Wix sites worth it?](https://news.ycombinator.com/item?id=43550843)
 * [2025-04-01, 16:38:00](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss) - [Back to Cash: Life Without Money in Your Pocket is Not the Utopia Sweden Hoped](https://soylentnews.org/article.pl?sid=25/03/31/1218257&amp;from=rss)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-01, 11:55:00](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss) - [After Trump&apos;s Decree: Fight for US Funding for Tor, F-Droid and Let&apos;s Encrypt](https://soylentnews.org/article.pl?sid=25/04/01/0749220&amp;from=rss)
