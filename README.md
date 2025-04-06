@@ -1,32 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Health and Environment
+## Generative AI and Machine Learning Developments
 
-* [Five Nurses who work on the same floor at hospital have brain tumors](https://news.ycombinator.com/item?id=43597929) - [Article](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798): A troubling report highlights brain tumor diagnoses among five colleagues on the same hospital floor, raising questions about environmental or occupational factors.
+* [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf) - A Microsoft survey explores how generative AI affects knowledge workers’ cognitive effort and confidence, shedding light on critical thinking challenges.
 
-## Science and Technology Innovations
+* [The machines are rising — but developers still hold the keys](https://www.thoughtworks.com/insights/blog/generative-ai/machines-rising-developers-hold-keys) - ThoughtWorks reflects on the role of developers amidst the growing impact of generative AI, emphasizing human control over AI advancements.
 
-* [North America Is Dripping from Below, Geoscientists Discover](https://news.ycombinator.com/item?id=43596546) - [Article](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): Researchers uncover evidence of the continent's gradual underground sinking, a phenomenon causing geological shifts.
+* [Microsoft Uses AI To Find Flaws In GRUB2, U-Boot, Barebox Bootloaders](https://news.slashdot.org/story/25/04/05/0250250/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI is leveraged by Microsoft to identify vulnerabilities in bootloaders, showcasing machine learning's potential in enhancing software security.
 
-* [Bonobos May Combine Words In Ways Previously Thought Unique To Humans](https://science.slashdot.org/story/25/04/05/007242/bonobos-may-combine-words-in-ways-previously-thought-unique-to-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=43592409): A study reveals bonobos' ability to combine words and create rudimentary communication structures attributed exclusively to humans until now.
+## Innovations in Software and Systems
 
-## Technology and Software Development
+* [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo) - A new library facilitates seamless communication between Ruby and Node.js, bridging the gap between two popular ecosystems.
 
-* [Email over NNCP (via exim)](https://lobste.rs/s/gzuzyp/email_over_nncp_via_exim) - [Article](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home): A fascinating look at using NNCP for decentralized email systems, exploring alternative solutions to traditional email protocols.
+* [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds) - A deep dive into AMD's RDNA 4 reveals innovative dynamic register allocation techniques for improved GPU performance.
 
-* [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://news.ycombinator.com/item?id=43589989) - [Article](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html): An extensive digital database provides in-depth 3D scans of vertebrate specimens, enhancing access for education and research purposes.
+* [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html) - Exploring compiler strategies for optimizing garbage collection barrier expansions in programming languages.
 
-## Artificial Intelligence and Machine Learning
+## Scientific Discoveries and Research
 
-* [Microsoft Uses AI To Find Flaws In GRUB2, U-Boot, Barebox Bootloaders](https://news.slashdot.org/story/25/04/05/0250250/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=43591050): Innovative AI techniques are being applied to detect vulnerabilities in popular bootloaders, reinforcing software security.
+* [Bonobos May Combine Words In Ways Previously Thought Unique To Humans](https://science.slashdot.org/story/25/04/05/007242/bonobos-may-combine-words-in-ways-previously-thought-unique-to-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking study reveals bonobos demonstrating linguistic patterns formerly considered uniquely human.
 
-* [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://lobste.rs/s/3trizw/impact_generative_ai_on_critical) - [Article](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): A survey reveals how generative AI tools influence cognitive engagement and confidence levels among professionals.
+* [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/) - Scientists uncover unusual geophysical phenomena beneath North America, highlighting tectonic complexity.
 
-## Cultural Milestones and Historical Insights
+* [NASA Seeks Proposals for Two More Private Astronaut Space Station Visits](https://science.slashdot.org/story/25/04/05/1930232/nasa-seeks-proposals-for-two-more-private-astronaut-space-station-visits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA invites private astronaut projects aimed at advancing space exploration and commercialization.
 
-* [Ian Fleming Published the James Bond Novel 'Moonraker' 70 Years Ago Today](https://news.slashdot.org/story/25/04/05/2026218/ian-fleming-published-the-james-bond-novel-moonraker-70-years-ago-today?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating the legacy of Fleming's iconic series and Moonraker's enduring place in literature and pop culture.
+## Tech Industry Legal and Ethical Developments
 
-* [Why does Claude Speak Byzantine Music Notation?](https://lobste.rs/s/dhg93f/why_does_claude_speak_byzantine_music) - [Article](https://fi-le.net/byzantine/): A captivating dive into the curiosity surrounding Claude's inexplicable fluency in Byzantine music concepts.
+* [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://news.slashdot.org/story/25/04/05/0323213/openais-motion-to-dismiss-copyright-claims-rejected-by-judge?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legal ruling rejects OpenAI's attempt to dismiss copyright infringement claims, potentially shaping future AI-generated content policies.
+
+* [Makers of Rent-Setting Software Sue California City Over Ban](https://yro.slashdot.org/story/25/04/05/2124202/makers-of-rent-setting-software-sue-california-city-over-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A contentious lawsuit arises as software firms challenge regulations restricting rent-setting software in California.
+
+## Entertainment and Cultural Insights
+
+* [Microsoft's New AI-Generated Version of 'Quake 2' Now Playable Online](https://games.slashdot.org/story/25/04/05/2329252/microsofts-new-ai-generated-version-of-quake-2-now-playable-online?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fully AI-enhanced version of the classic 'Quake 2' game demonstrates advances in AI-generated content for gaming.
+
+* [Ian Fleming Published the James Bond Novel 'Moonraker' 70 Years Ago Today](https://news.slashdot.org/story/25/04/05/2026218/ian-fleming-published-the-james-bond-novel-moonraker-70-years-ago-today?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Marking the 70th anniversary of 'Moonraker,' Ian Fleming's James Bond legacy continues to captivate audiences.
 
 ---
 
@@ -53,8 +61,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-06, 00:20:54](https://news.ycombinator.com/item?id=43597929) - [Five Nurses who work on the same floor at hospital have brain tumors](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798)
-* [2025-04-05, 23:48:21](https://news.ycombinator.com/item?id=43597790) - [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
+* [2025-04-06, 03:35:27](https://lobste.rs/s/51w8do/nodo_call_node_js_from_ruby) - [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo)
+* [2025-04-06, 03:24:23](https://lobste.rs/s/ncokd5/machines_are_rising_developers_still) - [The machines are rising — but developers still hold the keys](https://www.thoughtworks.com/insights/blog/generative-ai/machines-rising-developers-hold-keys)
+* [2025-04-06, 03:16:00](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss) - [A New Antifungal Drug Works in a Surprising Way](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss)
+* [2025-04-06, 01:47:23](https://lobste.rs/s/o2tsdx/when_should_compiler_expand_garbage) - [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html)
+* [2025-04-06, 01:34:00](https://games.slashdot.org/story/25/04/05/2329252/microsofts-new-ai-generated-version-of-quake-2-now-playable-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s New AI-Generated Version of &apos;Quake 2&apos; Now Playable Online](https://games.slashdot.org/story/25/04/05/2329252/microsofts-new-ai-generated-version-of-quake-2-now-playable-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple&apos;s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 22:45:03](https://news.ycombinator.com/item?id=43597425) - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
 * [2025-04-05, 22:34:00](https://yro.slashdot.org/story/25/04/05/2124202/makers-of-rent-setting-software-sue-california-city-over-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Makers of Rent-Setting Software Sue California City Over Ban](https://yro.slashdot.org/story/25/04/05/2124202/makers-of-rent-setting-software-sue-california-city-over-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -69,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
 * [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces &apos;Model-Signing&apos; to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 * [2025-04-05, 20:17:04](https://lobste.rs/s/bl9vjr/8_pin_linux) - [8-pin Linux](https://dmitry.gr/?r=05.Projects&amp;proj=36.%208pinLinux)
-* [2025-04-05, 20:14:08](https://news.ycombinator.com/item?id=43596476) - [To Do Nothing](https://shilin.ca/to-do-nothing/)
 * [2025-04-05, 19:34:00](https://science.slashdot.org/story/25/04/05/1930232/nasa-seeks-proposals-for-two-more-private-astronaut-space-station-visits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Seeks Proposals for Two More Private Astronaut Space Station Visits](https://science.slashdot.org/story/25/04/05/1930232/nasa-seeks-proposals-for-two-more-private-astronaut-space-station-visits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 18:34:00](https://news.slashdot.org/story/25/04/05/0250250/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Uses AI To Find Flaws In GRUB2, U-Boot, Barebox Bootloaders](https://news.slashdot.org/story/25/04/05/0250250/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
@@ -89,10 +99,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-05, 15:34:00](https://tech.slashdot.org/story/25/04/05/029230/eric-raymond-john-carmack-mourn-death-of-bufferbloat-fighter-dave-taht?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Eric Raymond, John Carmack Mourn Death of &apos;Bufferbloat&apos; Fighter Dave Taht](https://tech.slashdot.org/story/25/04/05/029230/eric-raymond-john-carmack-mourn-death-of-bufferbloat-fighter-dave-taht?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 15:28:58](https://lobste.rs/s/ri3gqs/jit_calculators_finale) - [JIT calculators finale](https://ochagavia.nl/blog/jit-calculators-finale/)
 * [2025-04-05, 15:03:00](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss) - [Two Guys From Andromeda Ship SpaceVenture After 13 Years](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss)
+* [2025-04-05, 14:54:17](https://news.ycombinator.com/item?id=43593956) - [Tracking the international space station with an Arduino](https://faridrener.com/2025/04/04/tracking-iss.html)
 * [2025-04-05, 14:34:00](https://news.slashdot.org/story/25/04/05/0323213/openais-motion-to-dismiss-copyright-claims-rejected-by-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Motion to Dismiss Copyright Claims Rejected by Judge](https://news.slashdot.org/story/25/04/05/0323213/openais-motion-to-dismiss-copyright-claims-rejected-by-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it&apos;s great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
-* [2025-04-05, 13:33:24](https://lobste.rs/s/dhg93f/why_does_claude_speak_byzantine_music) - [Why does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-05, 13:00:00](https://news.slashdot.org/story/25/04/05/0027217/a-busy-hurricane-season-is-expected-heres-how-it-will-be-different-from-the-last?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Busy Hurricane Season is Expected. Here&apos;s How It Will Be Different From the Last](https://news.slashdot.org/story/25/04/05/0027217/a-busy-hurricane-season-is-expected-heres-how-it-will-be-different-from-the-last?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly (2024)](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 12:54:00](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss) - [Tracing the Thoughts of a Large Language Model](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss)
@@ -104,6 +114,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-05, 08:12:00](https://soylentnews.org/article.pl?sid=25/04/04/0748212&amp;from=rss) - [Intel and TSMC Join Forces for Groundbreaking Chipmaking Venture](https://soylentnews.org/article.pl?sid=25/04/04/0748212&amp;from=rss)
 * [2025-04-05, 07:00:00](https://science.slashdot.org/story/25/04/04/2344217/fram2-crew-returns-to-earth-after-polar-orbit-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fram2 Crew Returns To Earth After Polar Orbit Mission](https://science.slashdot.org/story/25/04/04/2344217/fram2-crew-returns-to-earth-after-polar-orbit-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk&apos;s Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
+* [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
 * [2025-04-05, 05:00:00](https://science.slashdot.org/story/25/04/05/0034246/scientists-warn-indonesias-rice-megaproject-faces-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Warn Indonesia&apos;s Rice Megaproject Faces Failure](https://science.slashdot.org/story/25/04/05/0034246/scientists-warn-indonesias-rice-megaproject-faces-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 03:30:00](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two Teenagers Built &apos;Cal AI&apos;, a Photo Calorie App With Over a Million Users](https://slashdot.org/story/25/04/04/2338220/two-teenagers-built-cal-ai-a-photo-calorie-app-with-over-a-million-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -112,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-05, 02:29:58](https://lobste.rs/s/t24ppw/html_nix_2021) - [html.nix (2021)](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
-* [2025-04-05, 01:00:00](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikimedia Drowning in AI Bot Traffic as Crawlers Consume 65% of Resources](https://news.slashdot.org/story/25/04/04/2357233/wikimedia-drowning-in-ai-bot-traffic-as-crawlers-consume-65-of-resources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-05, 00:41:10](https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for) - [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
 * [2025-04-04, 22:41:00](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss) - [How Perceptions Are Influenced by Expectations: Songbird Study Draws Parallels With Human Speech](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss)
@@ -120,17 +130,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint&apos;s Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 17:53:00](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss) - [Executive Order Aims to Make Mining the Primary Use of Public Lands at ‘As Many Sites As Possible’](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss)
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard &amp; mouse](https://github.com/akavel/clawtype)
-* [2025-04-04, 15:59:47](https://lobste.rs/s/w9l7q5/best_refactoring_you_ve_never_heard) - [The Best Refactoring You&apos;ve Never Heard Of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 * [2025-04-04, 15:55:37](https://lobste.rs/s/dlrmfi/on_javascript_s_weirdness) - [On JavaScript&apos;s Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 * [2025-04-04, 13:10:00](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss) - [Notes on the Pentium&apos;s Microcode Circuitry](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss)
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)
+* [2025-04-04, 04:32:52](https://news.ycombinator.com/item?id=43578348) - [What&apos;s in that bright red fire retardant? No one will say, so we had it tested](https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out)
 * [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
 * [2025-04-03, 23:04:00](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss) - [Does Listening Really Change Minds? New Study Challenges Common Assumptions](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss)
-* [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 21:15:03](https://news.ycombinator.com/item?id=43575515) - [Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook](https://leloubil.prose.sh/leapstart-1)
-* [2025-04-03, 18:20:59](https://news.ycombinator.com/item?id=43573453) - [Show HN: Owl, a Spaced Repetition App](https://owl.cards)
+* [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-03, 18:17:00](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss) - [The April Fools Joke That Might Have Got Me Fired](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss)
 * [2025-04-03, 13:35:00](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss) - [News Outlets Fighting Back Against Distrust With \&quot;Ethics Boxes\&quot;??](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss)
 * [2025-04-03, 08:52:00](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss) - [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss)
