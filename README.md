@@ -1,50 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Technology and Innovation
 
-* [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/) ([Comments](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos))
+* [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) ([Comments](https://news.ycombinator.com/item?id=43615912))
 
-* [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git) ([Comments](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial))
-
-* [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) ([Comments](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using))
+* [China Launches GPMI, a Powerful Alternative To HDMI and DisplayPort](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu) ([Comments](https://lobste.rs/s/sqqegd/emulating_iphone_qemu))
 
-## Programming Insights and Tools
-
-* [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/) ([Comments](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023))
-
 * [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/) ([Comments](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful))
 
-* [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html) ([Comments](https://news.ycombinator.com/item?id=43614285))
+* [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/) ([Comments](https://news.ycombinator.com/item?id=43613194))
 
-* [Show HN: Kahuna, the IndexedDB-Manager Webextension](https://github.com/hummingme/kahuna) ([Comments](https://news.ycombinator.com/item?id=43613896))
+## Programming and Software Development
 
-## Science and Innovation
+* [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html) ([Comments](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua))
 
-* [America's NIH Scientists Have a Cancer Breakthrough. Layoffs are Delaying It.](https://science.slashdot.org/story/25/04/07/0444201/americas-nih-scientists-have-a-cancer-breakthrough-layoffs-are-delaying-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/04/07/0444201/americas-nih-scientists-have-a-cancer-breakthrough-layoffs-are-delaying-it?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/) ([Comments](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values))
+
+* [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s) ([Comments](https://news.ycombinator.com/item?id=43612102))
+
+* [Notes on Literate Programming](http://www.literateprogramming.com/index.html) ([Comments](https://lobste.rs/s/06map0/notes_on_literate_programming))
+
+* [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/) ([Comments](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter))
+
+## Artificial Intelligence and Data
+
+* [Waymo May Use Interior Camera Data To Train Generative AI Models, Sell Ads](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542) ([Comments](https://news.ycombinator.com/item?id=43614199))
 
-* [Global Health Threat: Antibiotic-Resistant 'Superbug' Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/) ([Comments](https://news.ycombinator.com/item?id=43612994))
+* [Microsoft AI Chief Sees Advantage in Building Models '3 or 6 Months Behind'](https://tech.slashdot.org/story/25/04/07/1354220/microsoft-ai-chief-sees-advantage-in-building-models-3-or-6-months-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/04/07/1354220/microsoft-ai-chief-sees-advantage-in-building-models-3-or-6-months-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [LLMs understand nullability](https://dmodel.ai/nullability-gentle/) ([Comments](https://news.ycombinator.com/item?id=43612211))
+
+* [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) ([Comments](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using))
+
+## Cybersecurity and Privacy
+
+* [UK Effort To Keep Apple Encryption Fight Secret Is Blocked](https://apple.slashdot.org/story/25/04/07/1444256/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://apple.slashdot.org/story/25/04/07/1444256/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss))
+
+* [Show HN: Uncurl.dev – Convert curl commands to a shareable, executable UI](https://uncurl.dev/) ([Comments](https://news.ycombinator.com/item?id=43607744))
+
+* [UK Threatens £100K-A-Day Fines Under New Cyber Bill](https://soylentnews.org/article.pl?sid=25/04/06/136221&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/06/136221&amp;from=rss))
+
+* [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/) ([Comments](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023))
+
+## Cultural Trends and Society
 
 * [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back) ([Comments](https://news.ycombinator.com/item?id=43609661))
 
-## Cultural and Historical Reflections
+* [Why Catullus continues to seduce us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams) ([Comments](https://news.ycombinator.com/item?id=43612807))
 
-* [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams) ([Comments](https://news.ycombinator.com/item?id=43612807))
+* [Can Using a Dumber Phone Cure 'Brain Rot'?](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/) ([Comments](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980))
+* [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/) ([Comments](https://news.ycombinator.com/item?id=43614081))
 
-* [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf) ([Comments](https://news.ycombinator.com/item?id=43613994))
-
-## Business and Industry Updates
-
-* [Apple Rushes Shipments From India To Dodge Tariffs](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Trump Opens Trade Talks Window While Threatening China With Steeper Tariffs](https://news.slashdot.org/story/25/04/07/1558211/trump-opens-trade-talks-window-while-threatening-china-with-steeper-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/04/07/1558211/trump-opens-trade-talks-window-while-threatening-china-with-steeper-tariffs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI?](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss))
+* [The Tumblr Revival is Real - and Gen Z is Leading the Charge](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -71,9 +85,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+* [2025-04-07, 21:00:00](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches GPMI, a Powerful Alternative To HDMI and DisplayPort](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-07, 20:28:59](https://news.ycombinator.com/item?id=43615624) - [In React {Transitions} = F(state)](https://jordaneldredge.com/blog/transitions-f-of-state/)
+* [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
+* [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
+* [2025-04-07, 20:00:00](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo May Use Interior Camera Data To Train Generative AI Models, Sell Ads](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
+* [2025-04-07, 19:22:24](https://lobste.rs/s/06map0/notes_on_literate_programming) - [Notes on Literate Programming](http://www.literateprogramming.com/index.html)
+* [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
+* [2025-04-07, 19:00:00](https://news.slashdot.org/story/25/04/07/1729229/uk-bans-fake-reviews-and-sneaky-fees-for-online-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Bans Fake Reviews and &apos;Sneaky&apos; Fees For Online Products](https://news.slashdot.org/story/25/04/07/1729229/uk-bans-fake-reviews-and-sneaky-fees-for-online-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
-* [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
+* [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
@@ -81,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 17:52:53](https://news.ycombinator.com/item?id=43614081) - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:51:10](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980) - [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
-* [2025-04-07, 17:31:42](https://news.ycombinator.com/item?id=43613896) - [Show HN: Kahuna, the IndexedDB-Manager Webextension](https://github.com/hummingme/kahuna)
 * [2025-04-07, 17:30:31](https://lobste.rs/s/sqqegd/emulating_iphone_qemu) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-07, 17:26:00](https://soylentnews.org/article.pl?sid=25/04/06/193210&amp;from=rss) - [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI??](https://soylentnews.org/article.pl?sid=25/04/06/193210&amp;from=rss)
 * [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
@@ -90,9 +113,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
-* [2025-04-07, 16:05:43](https://news.ycombinator.com/item?id=43612994) - [Global Health Threat: Antibiotic-Resistant \&quot;Superbug\&quot; Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
 * [2025-04-07, 16:00:00](https://news.slashdot.org/story/25/04/07/1558211/trump-opens-trade-talks-window-while-threatening-china-with-steeper-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Opens Trade Talks Window While Threatening China With Steeper Tariffs](https://news.slashdot.org/story/25/04/07/1558211/trump-opens-trade-talks-window-while-threatening-china-with-steeper-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
+* [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus continues to seduce us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:44:00](https://apple.slashdot.org/story/25/04/07/1444256/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Effort To Keep Apple Encryption Fight Secret Is Blocked](https://apple.slashdot.org/story/25/04/07/1444256/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
@@ -113,7 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 07:34:00](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Using a Dumber Phone Cure &apos;Brain Rot&apos;?](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
-* [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
 * [2025-04-07, 04:37:19](https://news.ycombinator.com/item?id=43607744) - [Show HN: Uncurl.dev – Convert curl commands to a shareable, executable UI](https://uncurl.dev/)
 * [2025-04-07, 04:10:00](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Tumblr Revival is Real - and Gen Z is Leading the Charge](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
@@ -126,43 +147,36 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss)
 * [2025-04-06, 21:40:00](https://entertainment.slashdot.org/story/25/04/06/2137219/minecraft-movie-scores-biggest-videogame-movie-opening-ever-faces-early-leaks-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Minecraft Movie&apos; Scores Biggest Videogame Movie Opening Ever, Faces Early Leaks Online](https://entertainment.slashdot.org/story/25/04/06/2137219/minecraft-movie-scores-biggest-videogame-movie-opening-ever-faces-early-leaks-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
-* [2025-04-06, 19:34:00](https://news.slashdot.org/story/25/04/06/1932242/nfl-adopts-sonys-virtual-measurements-for-footballs-first-downs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NFL Adopts Sony&apos;s &apos;Virtual Measurements&apos; for Football&apos;s First Downs](https://news.slashdot.org/story/25/04/06/1932242/nfl-adopts-sonys-virtual-measurements-for-footballs-first-downs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-06, 18:25:36](https://news.ycombinator.com/item?id=43603646) - [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/)
-* [2025-04-06, 18:05:00](https://news.slashdot.org/story/25/04/06/182233/in-milestone-for-open-source-meta-releases-new-benchmark-beating-llama-4-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In &apos;Milestone&apos; for Open Source, Meta Releases New Benchmark-Beating Llama 4 Models](https://news.slashdot.org/story/25/04/06/182233/in-milestone-for-open-source-meta-releases-new-benchmark-beating-llama-4-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-06, 17:34:00](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss) - [Rapidus to Begin Trial Production of its 2nm Process This Month](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss)
-* [2025-04-06, 16:34:00](https://linux.slashdot.org/story/25/04/06/0037234/forget-snow-sequoia-now-im-cheering-for-better-linux-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Forget &apos;Snow Sequoia&apos;.  Now I&apos;m Cheering for Better Linux Hardware](https://linux.slashdot.org/story/25/04/06/0037234/forget-snow-sequoia-now-im-cheering-for-better-linux-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
-* [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 12:47:00](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss) - [CISPE Pumps €1 Million Of Microsoft&apos;s Money Into Fulcrum](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss)
 * [2025-04-06, 08:02:00](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss) - [Open-Source Tool Designed To Throttle PC And Server Performance Based On Electricity Pricing](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss)
-* [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 * [2025-04-06, 03:16:00](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss) - [A New Antifungal Drug Works in a Surprising Way](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss)
 * [2025-04-05, 22:28:00](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&amp;from=rss) - [US To Squeeze Firms For Investment To Get Chips Act Cash](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&amp;from=rss)
+* [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 17:46:00](https://soylentnews.org/article.pl?sid=25/04/04/0827202&amp;from=rss) - [Web 3.0 Requires Data Integrity](https://soylentnews.org/article.pl?sid=25/04/04/0827202&amp;from=rss)
 * [2025-04-05, 15:03:00](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss) - [Two Guys From Andromeda Ship SpaceVenture After 13 Years](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss)
 * [2025-04-05, 12:54:00](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss) - [Tracing the Thoughts of a Large Language Model](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss)
 * [2025-04-05, 09:27:00](https://soylentnews.org/meta/article.pl?sid=25/04/05/0926221&amp;from=rss) - [Problem with the Poll](https://soylentnews.org/meta/article.pl?sid=25/04/05/0926221&amp;from=rss)
 * [2025-04-05, 08:12:00](https://soylentnews.org/article.pl?sid=25/04/04/0748212&amp;from=rss) - [Intel and TSMC Join Forces for Groundbreaking Chipmaking Venture](https://soylentnews.org/article.pl?sid=25/04/04/0748212&amp;from=rss)
+* [2025-04-05, 05:57:39](https://news.ycombinator.com/item?id=43591196) - [W.G. Sebald and the Politics of Melancholy](https://newrepublic.com/article/193177/wg-sebald-politics-melancholy)
 * [2025-04-05, 03:27:00](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss) - [Waste Fires Are on the Rise Largely Thanks to the Lithium-Ion Batteries in Vape Pens](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss)
 * [2025-04-05, 00:38:20](https://news.ycombinator.com/item?id=43589214) - [Charging electric vehicles 5x faster in subfreezing temps](https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/)
 * [2025-04-04, 22:41:00](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss) - [How Perceptions Are Influenced by Expectations: Songbird Study Draws Parallels With Human Speech](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss)
 * [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 17:53:00](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss) - [Executive Order Aims to Make Mining the Primary Use of Public Lands at ‘As Many Sites As Possible’](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss)
 * [2025-04-04, 17:47:05](https://news.ycombinator.com/item?id=43585649) - [The Mathematics of Crochet](https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/)
-* [2025-04-04, 16:06:47](https://news.ycombinator.com/item?id=43584422) - [I&apos;m manually transcribing the AltairBASIC source, ten lines a day starting today](https://codeberg.org/luciofstars/altabasic)
-* [2025-04-04, 15:54:30](https://news.ycombinator.com/item?id=43584208) - [Mass Grave of 150 Roman Soldiers Found Under Vienna Sports Field](https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946)
+* [2025-04-04, 15:54:30](https://news.ycombinator.com/item?id=43584208) - [Mass grave of Roman soldiers found under Vienna sports field](https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946)
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [DeepMind program finds diamonds in Minecraft without being taught](https://www.nature.com/articles/d41586-025-01019-w)
+* [2025-04-04, 13:35:30](https://news.ycombinator.com/item?id=43582156) - [The software engineers willing to pay $10k to help them land a coding job](https://www.businessinsider.com/software-engineer-offers-thousands-job-referral-linkedin-2025-4)
 * [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 13:10:00](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss) - [Notes on the Pentium&apos;s Microcode Circuitry](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss)
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
 * [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)
 * [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
-* [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-03, 23:04:00](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss) - [Does Listening Really Change Minds? New Study Challenges Common Assumptions](https://soylentnews.org/article.pl?sid=25/04/03/0137241&amp;from=rss)
 * [2025-04-03, 18:17:00](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss) - [The April Fools Joke That Might Have Got Me Fired](https://soylentnews.org/article.pl?sid=25/04/02/038211&amp;from=rss)
-* [2025-04-03, 15:42:06](https://news.ycombinator.com/item?id=43571332) - [Cursed Excel: \&quot;1/2\&quot;+1=45660](https://www.quadratichq.com/blog/cursed-excel-datetime-math)
 * [2025-04-03, 13:35:00](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss) - [News Outlets Fighting Back Against Distrust With \&quot;Ethics Boxes\&quot;??](https://soylentnews.org/article.pl?sid=25/04/02/036222&amp;from=rss)
 * [2025-04-03, 08:52:00](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss) - [First Orbital Rocket Launched From Mainland Europe Crashes After Takeoff](https://soylentnews.org/article.pl?sid=25/04/02/034207&amp;from=rss)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri&apos;s Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
