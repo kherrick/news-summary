@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Space
+## Advancements in Technology and AI
 
-* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) - New research suggests that Earth may have possessed a ring system millions of years ago, presenting an intriguing view of our planet's ancient geological past. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss).
+* [US's AI Lead Over China Rapidly Shrinking, Stanford Report Says](https://news.slashdot.org/story/25/04/08/053232/uss-ai-lead-over-china-rapidly-shrinking-stanford-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights the narrowing gap in artificial intelligence capabilities between the US and China as reported by Stanford.
 
-* [Operating System for Quantum Networks is a First](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss) - Scientists introduce the first-ever operating system tailored for quantum networks, potentially revolutionizing computing infrastructures. [Comments](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss).
+* [Waymo May Use Interior Camera Data To Train Generative AI Models, Sell Ads](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses Waymo's potential strategy to leverage interior vehicle camera data for AI training and advertising.
 
-## Technology and Development
+* [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI??](https://soylentnews.org/article.pl?sid=25/04/06/193210&from=rss) - Microsoft embraces AI to identify vulnerabilities in open-source bootloaders more efficiently.
 
-* [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/) - A fascinating project recreating the historic LGP-30 computer using FPGA technology, bridging the gap between retro computing and modern design. [Comments](https://news.ycombinator.com/item?id=43617641).
+## Sustainability and Environmental Concerns
 
-* [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/) - Discover how to use GitHub Actions in unconventional ways by leveraging any program as a shell. [Comments](https://news.ycombinator.com/item?id=43617493).
+* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&from=rss) - Explores evidence of Earth's potential ancient ring system.
 
-* [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html) - A detailed introduction to Lux, an innovative package manager for the Lua programming ecosystem. [Comments](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua).
+* [States Are Banning Forever Chemicals. Industry Is Fighting Back](https://news.slashdot.org/story/25/04/08/0126258/states-are-banning-forever-chemicals-industry-is-fighting-back?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the growing movement to ban harmful 'forever chemicals' and the industry's resistance.
 
-## Computing and Programming
+## Innovations in Science and Medicine
 
-* [FreeBSD VNET Jails Networking](https://blog.uxtly.com/freebsd-jails-network-setup) - A deep dive into setting up VNET jails on FreeBSD, covering networking configuration and use cases. [Comments](https://lobste.rs/s/klvuhi/freebsd_vnet_jails_networking).
+* [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain) - Breakthrough in medical technology with the development of a rice-grain-sized pacemaker.
 
-* [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/) - Reflecting on 20 years of Git's evolution and its odd yet brilliant features that continue to serve developers worldwide. [Comments](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful).
+* [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&from=rss) - Examines the challenges ahead for brain-computer interface technology.
 
-## Environment and Policy
+## Unique Cultural Stories and Human Interest
 
-* [States Are Banning Forever Chemicals. Industry Is Fighting Back](https://news.slashdot.org/story/25/04/08/0126258/states-are-banning-forever-chemicals-industry-is-fighting-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The ongoing battle between state regulations against harmful 'forever chemicals' and resistance from industry groups. [Comments](https://news.slashdot.org/story/25/04/08/0126258/states-are-banning-forever-chemicals-industry-is-fighting-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops) - Looks at how India's repair culture breathes life into discarded laptops.
 
-* [Can Using a Dumber Phone Cure 'Brain Rot'?](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring the mental health benefits of switching from smartphones to simpler devices in the digital age. [Comments](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - Explores the quirky trend of trading cards featuring middle-aged men in rural Japan.
 
-## Business and Industry
+## Insights into Computing and Open-Source
 
-* [Framework Stops Selling Some of Its Laptops in the US Due To Tariffs](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Trade tariffs force Framework to halt the sale of specific laptop models within the United States. [Comments](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor) - Delves into the intricacies of modern semiconductor manufacturing through a unique lens.
 
-* [Apple Rushes Shipments From India To Dodge Tariffs](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple accelerates shipments from India in response to escalating tariff impacts. [Comments](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/) - Celebrates 20 years of Git's evolution and its continued relevance in software development.
 
-## Cybersecurity and Privacy
-
-* [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html) - Investigative report on how North Korean IT professionals are operating within major global companies. [Comments](https://news.ycombinator.com/item?id=43617352).
-
-* [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss) - An examination of mobile device operational security practices for individuals crossing borders. [Comments](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss).
-
-## Cultural and Historical Highlights
-
-* [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - A unique phenomenon in rural Japan, where trading cards of middle-aged men gain unexpected popularity. [Comments](https://news.ycombinator.com/item?id=43615912).
-
-* [Remembering John Conway's FRACTRAN, a ridiculous yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html) - Rediscover the quirky brilliance of John Conway's FRACTRAN programming language. [Comments](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran).
+* [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) - Announces updates to long context support in language model frameworks.
 
 ---
 
@@ -69,15 +59,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-08, 06:00:00](https://news.slashdot.org/story/25/04/08/053232/uss-ai-lead-over-china-rapidly-shrinking-stanford-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US&apos;s AI Lead Over China Rapidly Shrinking, Stanford Report Says](https://news.slashdot.org/story/25/04/08/053232/uss-ai-lead-over-china-rapidly-shrinking-stanford-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
+* [2025-04-08, 05:05:26](https://lobste.rs/s/qxssg8/this_month_redox_march_2025) - [This Month in Redox - March 2025](https://www.redox-os.org/news/this-month-250331/)
+* [2025-04-08, 04:00:00](https://science.slashdot.org/story/25/04/08/0215244/no-the-dire-wolf-has-not-been-brought-back-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No, the Dire Wolf Has Not Been Brought Back From Extinction](https://science.slashdot.org/story/25/04/08/0215244/no-the-dire-wolf-has-not-been-brought-back-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-08, 03:44:00](https://lobste.rs/s/5awmrl/more_devops_than_i_bargained_for) - [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for)
+* [2025-04-08, 03:36:21](https://news.ycombinator.com/item?id=43618140) - [Listening habits and effects of background music in people with and without ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
+* [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India&apos;s repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 02:56:00](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) - [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss)
 * [2025-04-08, 02:31:42](https://lobste.rs/s/ulclax/most_linked_domains) - [The most linked-to domains](https://ooh.directory/blog/2025/most-linked-domains/)
 * [2025-04-08, 02:00:00](https://news.slashdot.org/story/25/04/08/0126258/states-are-banning-forever-chemicals-industry-is-fighting-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [States Are Banning Forever Chemicals. Industry Is Fighting Back](https://news.slashdot.org/story/25/04/08/0126258/states-are-banning-forever-chemicals-industry-is-fighting-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
-* [2025-04-08, 01:43:16](https://lobste.rs/s/klvuhi/freebsd_vnet_jails_networking) - [FreeBSD VNET Jails Networking](https://blog.uxtly.com/freebsd-jails-network-setup)
 * [2025-04-08, 01:31:54](https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers) - [Are FreeBSD Jails a Containers?](https://vermaden.wordpress.com/2025/04/08/are-freebsd-jails-containers/)
 * [2025-04-08, 01:20:10](https://news.ycombinator.com/item?id=43617493) - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [2025-04-08, 01:10:00](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Stops Selling Some of Its Laptops in the US Due To Tariffs](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-08, 00:47:23](https://news.ycombinator.com/item?id=43617352) - [North Korean IT workers have infiltrated the Fortune 500](https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html)
 * [2025-04-08, 00:18:20](https://lobste.rs/s/nzx2oz/gamma_knife_model_incidents_2019) - [The Gamma Knife model of incidents (2019)](https://surfingcomplexity.blog/2019/08/25/the-gamma-knife-model-of-incidents/)
 * [2025-04-08, 00:11:14](https://news.ycombinator.com/item?id=43617190) - [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
 * [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway&apos;s FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
@@ -89,6 +84,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
 * [2025-04-07, 21:00:00](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches GPMI, a Powerful Alternative To HDMI and DisplayPort](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 20:03:08](https://news.ycombinator.com/item?id=43615346) - [Why Companies Don&apos;t Fix Bugs](https://idiallo.com/blog/companies-dont-fix-bugs)
 * [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
@@ -105,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
 * [2025-04-07, 18:00:00](https://tech.slashdot.org/story/25/04/07/1740251/scientists-debate-actual-weight-of-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Debate Actual Weight of the Internet](https://tech.slashdot.org/story/25/04/07/1740251/scientists-debate-actual-weight-of-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-07, 17:52:53](https://news.ycombinator.com/item?id=43614081) - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-04-07, 17:26:00](https://soylentnews.org/article.pl?sid=25/04/06/193210&amp;from=rss) - [Microsoft Analyzing Open-Source Bootloaders: Finding Vulnerabilities Faster With AI??](https://soylentnews.org/article.pl?sid=25/04/06/193210&amp;from=rss)
 * [2025-04-07, 17:00:00](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Rushes Shipments From India To Dodge Tariffs](https://apple.slashdot.org/story/25/04/07/1542257/apple-rushes-shipments-from-india-to-dodge-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -124,21 +119,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 11:34:00](https://science.slashdot.org/story/25/04/07/0444201/americas-nih-scientists-have-a-cancer-breakthrough-layoffs-are-delaying-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s NIH Scientists Have a Cancer Breakthrough. Layoffs are Delaying It.](https://science.slashdot.org/story/25/04/07/0444201/americas-nih-scientists-have-a-cancer-breakthrough-layoffs-are-delaying-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
-* [2025-04-07, 09:46:48](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week)
-* [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [A startup doesn&apos;t need to be a unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-07, 07:56:00](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss) - [Cell Phone OPSEC for Border Crossings](https://soylentnews.org/article.pl?sid=25/04/06/130257&amp;from=rss)
 * [2025-04-07, 07:34:00](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Using a Dumber Phone Cure &apos;Brain Rot&apos;?](https://mobile.slashdot.org/story/25/04/07/0552241/can-using-a-dumber-phone-cure-brain-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 04:10:00](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Tumblr Revival is Real - and Gen Z is Leading the Charge](https://tech.slashdot.org/story/25/04/07/0350213/the-tumblr-revival-is-real---and-gen-z-is-leading-the-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 03:10:00](https://soylentnews.org/article.pl?sid=25/04/06/1238211&amp;from=rss) - [New Zealand Start-Up Aims to Take Space Transport to New Heights](https://soylentnews.org/article.pl?sid=25/04/06/1238211&amp;from=rss)
-* [2025-04-07, 01:10:00](https://yro.slashdot.org/story/25/04/07/018218/as-stocks-and-cryptocurrencies-drop-after-tariffs-france-considers-retaliating-against-us-big-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Stocks (and Cryptocurrencies) Drop After Tariffs, France Considers Retaliating Against US Big Tech](https://yro.slashdot.org/story/25/04/07/018218/as-stocks-and-cryptocurrencies-drop-after-tariffs-france-considers-retaliating-against-us-big-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
-* [2025-04-06, 23:57:00](https://entertainment.slashdot.org/story/25/04/06/2335230/microsofts-copilot-roasts-bill-gates-steve-ballmer-and-satya-nadella?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Copilot Roasts Bill Gates, Steve Ballmer, and Satya Nadella](https://entertainment.slashdot.org/story/25/04/06/2335230/microsofts-copilot-roasts-bill-gates-steve-ballmer-and-satya-nadella?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 17:34:00](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss) - [Rapidus to Begin Trial Production of its 2nm Process This Month](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss)
-* [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
+* [2025-04-06, 16:09:58](https://news.ycombinator.com/item?id=43602522) - [Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders](https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/)
 * [2025-04-06, 12:47:00](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss) - [CISPE Pumps €1 Million Of Microsoft&apos;s Money Into Fulcrum](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss)
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
 * [2025-04-06, 08:02:00](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss) - [Open-Source Tool Designed To Throttle PC And Server Performance Based On Electricity Pricing](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss)
@@ -154,11 +144,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-05, 03:27:00](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss) - [Waste Fires Are on the Rise Largely Thanks to the Lithium-Ion Batteries in Vape Pens](https://soylentnews.org/article.pl?sid=25/04/04/0739222&amp;from=rss)
 * [2025-04-04, 22:41:00](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss) - [How Perceptions Are Influenced by Expectations: Songbird Study Draws Parallels With Human Speech](https://soylentnews.org/article.pl?sid=25/04/03/1326237&amp;from=rss)
 * [2025-04-04, 21:53:33](https://news.ycombinator.com/item?id=43588032) - [In the 1980s we also downloaded software from TV](https://newslttrs.com/in-the-1980s-we-also-downloaded-software-from-tv/)
-* [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
+* [2025-04-04, 18:29:47](https://news.ycombinator.com/item?id=43586117) - [Ethically sourced \&quot;spare\&quot; human bodies could revolutionize medicine](https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/)
+* [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
 * [2025-04-04, 17:53:00](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss) - [Executive Order Aims to Make Mining the Primary Use of Public Lands at ‘As Many Sites As Possible’](https://soylentnews.org/article.pl?sid=25/04/03/1319224&amp;from=rss)
-* [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 13:10:00](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss) - [Notes on the Pentium&apos;s Microcode Circuitry](https://soylentnews.org/article.pl?sid=25/04/03/0151238&amp;from=rss)
-* [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
-* [2025-04-04, 10:56:59](https://news.ycombinator.com/item?id=43580461) - [Rising odds asteroid that briefly threatened Earth will hit moon](https://phys.org/news/2025-04-odds-asteroid-briefly-threatened-earth.html)
 * [2025-04-04, 08:28:00](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss) - [What Drives Our Cravings for Food and Drink? Neurons in the Amygdala May Play a Key Role](https://soylentnews.org/article.pl?sid=25/04/03/0149258&amp;from=rss)
 * [2025-04-04, 03:43:00](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss) - [AI Bots Strain Wikimedia as Bandwidth Surges 50%](https://soylentnews.org/article.pl?sid=25/04/03/0144235&amp;from=rss)
+* [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
