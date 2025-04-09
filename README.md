@@ -1,46 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Technology and Computing
 
-* [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt) - A tool to help developers format Dockerfiles for cleaner and more consistent code. [Comments](https://news.ycombinator.com/item?id=43628037)
+* [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/) offers a structured approach to secure file backups, ensuring long-term data integrity. [Comments](https://lobste.rs/s/6uabab/hardened_file_backup_routine)
 
-* [Global Value Numbering Using Random Interpretation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html) - A research paper on optimizing compilers with novel approaches. [Comments](https://lobste.rs/s/w65rcu/global_value_numbering_using_random)
+* [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt) simplifies Dockerfile formatting for developers. [Comments](https://news.ycombinator.com/item?id=43628037)
 
-* [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth) - A guide to improving PostgreSQL full-text search efficiency. [Comments](https://news.ycombinator.com/item?id=43627646)
+* [Global Value Numbering Using Random Interpretation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html) delves into a computational method to optimize program analysis. [Comments](https://lobste.rs/s/w65rcu/global_value_numbering_using_random)
 
-* [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty) - A library aimed at improving the coding experience in C++. [Comments](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas)
+* [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth) provides insights into efficient database query optimization. [Comments](https://news.ycombinator.com/item?id=43627646)
 
-* [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/) - Exploring benefits and pitfalls of arena allocators in memory management. [Comments](https://lobste.rs/s/3lf0w3/mistakes_cool_things_do_with_arena)
+* [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes) critiques common programming errors in Go and methods to resolve them. [Comments](https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid)
 
-* [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly) - A fork promoting quality and cross-platform utility in package management. [Comments](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality)
+* [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty) introduces a more compact approach to handle C++ lambdas. [Comments](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas)
 
-* [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html) - Newly announced package manager catering to Lua developers. [Comments](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua)
+* [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/) presents an innovative runtime for modular JS applications. [Comments](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for)
+
+* [Verify Python Compilation with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/) explores a unique pipeline for validated software compilation. [Comments](https://lobste.rs/s/b9kbg3/verified_compilation_python_with)
+
+* [FreeDOS 1.4 released](https://freedos.org/download/announce.html) celebrates a new version of the open-source DOS alternative. [Comments](https://lobste.rs/s/fwg7us/freedos_1_4_released)
 
 ## Science and Innovation
 
-* [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment) - Discussing experiments associated with atomic interactions. [Comments](https://news.ycombinator.com/item?id=43627864)
+* [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss) unveils novel methods for manipulating liquid surfaces. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss)
 
-* [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes) - Insights into common programming mistakes in Go and remedies. [Comments](https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid)
+* [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/) explores independent evolutionary pathways for intelligence. [Comments](https://news.ycombinator.com/item?id=43619548)
 
-* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) - Highlighting a unique hypothesis about Earth's ancient geophysical features. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss)
+* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) investigates the ancient celestial phenomena possibly surrounding our planet. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss)
 
-* [NASA's Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss) - Research utilizing the Webb telescope on cosmic atmospheres. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss)
+* [Operating System for Quantum Networks is a First](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss) introduces groundbreaking developments in quantum computing. [Comments](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss)
 
-* [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm) - A historical recount of IBM's challenges during System/360 development. [Comments](https://news.ycombinator.com/item?id=43619229)
+* [A New Antifungal Drug Works in a Surprising Way](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss) uncovers innovative therapeutic mechanisms. [Comments](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss)
 
-## Business and Industry Impacts
+## Society and Policy
 
-* [Microsoft Cancels $1 Billion Ohio Data Center Projects](https://slashdot.org/story/25/04/09/009213/microsoft-cancels-1-billion-ohio-data-center-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The tech giant reassesses its infrastructural priorities amid uncertain conditions. [Comments](https://slashdot.org/story/25/04/09/009213/microsoft-cancels-1-billion-ohio-data-center-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [UK Creating 'Murder Prediction' Tool to Identify People Most Likely to Kill](https://news.slashdot.org/story/25/04/09/0028213/uk-creating-murder-prediction-tool-to-identify-people-most-likely-to-kill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses potential ethics and implications of predictive technology. [Comments](https://news.slashdot.org/story/25/04/09/0028213/uk-creating-murder-prediction-tool-to-identify-people-most-likely-to-kill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Shopify CEO Says Staffers Need To Prove Jobs Can’t Be Done By AI Before Asking for More Headcount](https://tech.slashdot.org/story/25/04/08/1518213/shopify-ceo-says-staffers-need-to-prove-jobs-cant-be-done-by-ai-before-asking-for-more-headcount?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussing tech-world implications of generative AI's rise. [Comments](https://tech.slashdot.org/story/25/04/08/1518213/shopify-ceo-says-staffers-need-to-prove-jobs-cant-be-done-by-ai-before-asking-for-more-headcount?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Shopify CEO Says Staffers Need To Prove Jobs Can't Be Done By AI Before Asking for More Headcount](https://tech.slashdot.org/story/25/04/08/1518213/shopify-ceo-says-staffers-need-to-prove-jobs-cant-be-done-by-ai-before-asking-for-more-headcount?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights AI's role in workplace restructuring and management. [Comments](https://tech.slashdot.org/story/25/04/08/1518213/shopify-ceo-says-staffers-need-to-prove-jobs-cant-be-done-by-ai-before-asking-for-more-headcount?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [India's 'Frankenstein' Laptop Economy Thrives Against Planned Obsolescence](https://it.slashdot.org/story/25/04/08/1116241/indias-frankenstein-laptop-economy-thrives-against-planned-obsolescence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How India combats planned obsolescence with resourceful computing. [Comments](https://it.slashdot.org/story/25/04/08/1116241/indias-frankenstein-laptop-economy-thrives-against-planned-obsolescence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Business and Economy
 
-## Cultural Trends and Unique Stories
+* [Microsoft Cancels $1 Billion Ohio Data Center Projects](https://slashdot.org/story/25/04/09/009213/microsoft-cancels-1-billion-ohio-data-center-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) provides insights into shifts in corporate investment strategies. [Comments](https://slashdot.org/story/25/04/09/009213/microsoft-cancels-1-billion-ohio-data-center-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://entertainment.slashdot.org/story/25/04/08/184226/middle-aged-man-trading-cards-go-viral-in-rural-japan-town?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An unusual and heartwarming collection trend in a Japanese town. [Comments](https://entertainment.slashdot.org/story/25/04/08/184226/middle-aged-man-trading-cards-go-viral-in-rural-japan-town?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Brazil's Government-Run Payments System Has Become Dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant) examines the rise of public fintech in South America. [Comments](https://news.ycombinator.com/item?id=43620279)
 
-* [Bluesky Can't Take a Joke](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting a social platform's reaction to public humor. [Comments](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Tailscale Has Raised $160M](https://tailscale.com/blog/series-c) highlights significant investment into network software as a service. [Comments](https://news.ycombinator.com/item?id=43620141)
+
+## Culture and Miscellaneous
+
+* [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://entertainment.slashdot.org/story/25/04/08/184226/middle-aged-man-trading-cards-go-viral-in-rural-japan-town?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reflects on unexpected viral phenomena in local communities. [Comments](https://entertainment.slashdot.org/story/25/04/08/184226/middle-aged-man-trading-cards-go-viral-in-rural-japan-town?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/) provides a deep dive into the auditory signals of bird species. [Comments](https://news.ycombinator.com/item?id=43625864)
 
 ---
 
@@ -67,8 +77,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
+* [2025-04-09, 02:42:00](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss) - [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss)
+* [2025-04-09, 02:31:00](https://news.slashdot.org/story/25/04/09/0034251/hackers-spied-on-100-us-bank-regulators-emails-for-over-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hackers Spied on 100 US Bank Regulators&apos; Emails for Over a Year](https://news.slashdot.org/story/25/04/09/0034251/hackers-spied-on-100-us-bank-regulators-emails-for-over-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 * [2025-04-09, 01:16:22](https://lobste.rs/s/w65rcu/global_value_numbering_using_random) - [Global Value Numbering Using Random Interpretation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html)
+* [2025-04-09, 01:00:00](https://news.slashdot.org/story/25/04/09/0028213/uk-creating-murder-prediction-tool-to-identify-people-most-likely-to-kill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ UK Creating &apos;Murder Prediction&apos; Tool To Identify People Most Likely To Kill](https://news.slashdot.org/story/25/04/09/0028213/uk-creating-murder-prediction-tool-to-identify-people-most-likely-to-kill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-09, 00:46:28](https://news.ycombinator.com/item?id=43627877) - [Who isn&apos;t a big fan of \&quot;impartial\&quot; news? People who don&apos;t have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
 * [2025-04-09, 00:44:22](https://news.ycombinator.com/item?id=43627864) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-09, 00:20:18](https://news.ycombinator.com/item?id=43627758) - [Show HN: DrawDB – open-source online database diagram editor (a retro)](https://www.drawdb.app/)
@@ -104,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-08, 15:04:00](https://hardware.slashdot.org/story/25/04/08/154257/micron-to-impose-tariff-related-surcharge-on-ssds-other-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Micron To Impose Tariff-Related Surcharge on SSDs, Other Products](https://hardware.slashdot.org/story/25/04/08/154257/micron-to-impose-tariff-related-surcharge-on-ssds-other-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 14:00:00](https://tech.slashdot.org/story/25/04/08/133257/meta-got-caught-gaming-ai-benchmarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Got Caught Gaming AI Benchmarks](https://tech.slashdot.org/story/25/04/08/133257/meta-got-caught-gaming-ai-benchmarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\&quot;Verified\&quot; \&quot;Compilation\&quot; of \&quot;Python\&quot; with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)
-* [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 12:23:00](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss) - [NASA&apos;s Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss)
 * [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
 * [2025-04-08, 11:32:10](https://news.ycombinator.com/item?id=43620471) - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
@@ -118,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-08, 09:00:00](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bluesky Can&apos;t Take a Joke](https://tech.slashdot.org/story/25/04/08/0524221/bluesky-cant-take-a-joke?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
 * [2025-04-08, 07:42:00](https://soylentnews.org/article.pl?sid=25/04/07/151226&amp;from=rss) - [AMD Sets New Supercomputer Record, Runs CFD Simulation Over 25x Faster On Instinct Mi250X GPUs ](https://soylentnews.org/article.pl?sid=25/04/07/151226&amp;from=rss)
-* [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
 * [2025-04-08, 06:00:00](https://news.slashdot.org/story/25/04/08/053232/uss-ai-lead-over-china-rapidly-shrinking-stanford-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US&apos;s AI Lead Over China Rapidly Shrinking, Stanford Report Says](https://news.slashdot.org/story/25/04/08/053232/uss-ai-lead-over-china-rapidly-shrinking-stanford-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 04:00:00](https://science.slashdot.org/story/25/04/08/0215244/no-the-dire-wolf-has-not-been-brought-back-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No, the Dire Wolf Has Not Been Brought Back From Extinction](https://science.slashdot.org/story/25/04/08/0215244/no-the-dire-wolf-has-not-been-brought-back-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-08, 02:56:00](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) - [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss)
@@ -127,10 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-08, 01:10:00](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Stops Selling Some of Its Laptops in the US Due To Tariffs](https://news.slashdot.org/story/25/04/08/0110226/framework-stops-selling-some-of-its-laptops-in-the-us-due-to-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 22:11:00](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss) - [Operating System for Quantum Networks is a First](https://soylentnews.org/article.pl?sid=25/04/06/198244&amp;from=rss)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
-* [2025-04-07, 21:00:00](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches GPMI, a Powerful Alternative To HDMI and DisplayPort](https://it.slashdot.org/story/25/04/07/1917215/china-launches-gpmi-a-powerful-alternative-to-hdmi-and-displayport?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
-* [2025-04-07, 20:00:00](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo May Use Interior Camera Data To Train Generative AI Models, Sell Ads](https://tech.slashdot.org/story/25/04/07/196200/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
@@ -145,13 +155,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss)
 * [2025-04-06, 19:02:58](https://news.ycombinator.com/item?id=43604015) - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
 * [2025-04-06, 17:34:00](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss) - [Rapidus to Begin Trial Production of its 2nm Process This Month](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss)
-* [2025-04-06, 17:28:23](https://news.ycombinator.com/item?id=43603146) - [Reflections on the Mirror Stage](https://lareviewofbooks.org/blog/essays/reflections-mirror-stage/)
 * [2025-04-06, 12:47:00](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss) - [CISPE Pumps €1 Million Of Microsoft&apos;s Money Into Fulcrum](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss)
 * [2025-04-06, 08:02:00](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss) - [Open-Source Tool Designed To Throttle PC And Server Performance Based On Electricity Pricing](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss)
 * [2025-04-06, 03:16:00](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss) - [A New Antifungal Drug Works in a Surprising Way](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss)
 * [2025-04-05, 22:28:00](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&amp;from=rss) - [US To Squeeze Firms For Investment To Get Chips Act Cash](https://soylentnews.org/politics/article.pl?sid=25/04/04/0831206&amp;from=rss)
+* [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 17:46:00](https://soylentnews.org/article.pl?sid=25/04/04/0827202&amp;from=rss) - [Web 3.0 Requires Data Integrity](https://soylentnews.org/article.pl?sid=25/04/04/0827202&amp;from=rss)
 * [2025-04-05, 17:41:35](https://news.ycombinator.com/item?id=43595165) - [The Greatest Motorcycle Photo](https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/)
+* [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
 * [2025-04-05, 15:03:00](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss) - [Two Guys From Andromeda Ship SpaceVenture After 13 Years](https://soylentnews.org/article.pl?sid=25/04/04/0824242&amp;from=rss)
 * [2025-04-05, 12:54:00](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss) - [Tracing the Thoughts of a Large Language Model](https://soylentnews.org/article.pl?sid=25/04/04/081240&amp;from=rss)
 * [2025-04-05, 09:27:00](https://soylentnews.org/meta/article.pl?sid=25/04/05/0926221&amp;from=rss) - [Problem with the Poll](https://soylentnews.org/meta/article.pl?sid=25/04/05/0926221&amp;from=rss)
