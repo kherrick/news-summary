@@ -1,42 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Developments and Applications
+## Technology and Innovation
 
-* [Bank of England Says AI Software Could Create Market Crisis For Profit](https://slashdot.org/story/25/04/10/0652258/bank-of-england-says-ai-software-could-create-market-crisis-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns raised by the Bank of England regarding how AI systems may disrupt markets intentionally for profit.
+* [BTrees, Inverted Indices, and a Model for Full Text Search](https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/) - A deep dive into underlying data structures and approaches for building robust full-text search systems. [Comments](https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full)
 
-* [US Army Says It Could Acquire Targets Faster With 'Advanced AI'](https://tech.slashdot.org/story/25/04/09/2034234/us-army-says-it-could-acquire-targets-faster-with-advanced-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Military applications of AI for enhanced targeting are highlighted by the US Army.
+* [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/) - Learn how Amazon transformed their tech stack to improve user experience dramatically by adopting Rust. [Comments](https://lobste.rs/s/0zrxau/how_prime_video_cut_ui_latency_7_6x_by)
 
-* [Enterprises Are Shunning Vendors in Favor of DIY Approach To AI, UBS Says](https://slashdot.org/story/25/04/09/0912235/enterprises-are-shunning-vendors-in-favor-of-diy-approach-to-ai-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A growing trend among enterprises to develop their own AI solutions rather than relying on external vendors.
+* [Lisp Programs Don&apos;t Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html) - Rethink Lisp syntax and discover how functional programming concepts are evolving. [Comments](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses)
 
-* [Google DeepMind Has a Weapon in the AI Talent Wars: Aggressive Noncompete Rules](https://tech.slashdot.org/story/25/04/09/1717210/google-deepmind-has-a-weapon-in-the-ai-talent-wars-aggressive-noncompete-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examines DeepMind's controversial measures to protect its AI talent pool.
+* [Google Maps is Launching Tools To Help Cities Analyze Infrastructure and Traffic](https://tech.slashdot.org/story/25/04/09/1512236/google-maps-is-launching-tools-to-help-cities-analyze-infrastructure-and-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New urban planning capabilities are introduced by Google. [Comments](https://tech.slashdot.org/story/25/04/09/1512236/google-maps-is-launching-tools-to-help-cities-analyze-infrastructure-and-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The AI Therapist Can See You Now](https://science.slashdot.org/story/25/04/09/155247/the-ai-therapist-can-see-you-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploration of AI's role in mental health therapy.
+* [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails) - A rundown of innovative design systems available to streamline development in Ruby on Rails. [Comments](https://news.ycombinator.com/item?id=43640480)
 
-## Advancements in Technology
+## Artificial Intelligence
 
-* [Microsoft Windows 95 Reboot Chime and Minecraft Soundtrack Inducted Into National Recording Registry](https://entertainment.slashdot.org/story/25/04/10/0011250/microsoft-windows-95-reboot-chime-and-minecraft-soundtrack-inducted-into-national-recording-registry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Recognition of iconic sounds in technological history.
+* [MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf) - Researchers introduce a novel AI technique enriching computer-generated music. [Comments](https://news.ycombinator.com/item?id=43641255)
 
-* [Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/) - Innovative use of Rust significantly improves frontend performance for Prime Video.
+* [The AI Therapist Can See You Now](https://science.slashdot.org/story/25/04/09/155247/the-ai-therapist-can-see-you-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at AI's expanding role in mental health and therapy innovations. [Comments](https://science.slashdot.org/story/25/04/09/155247/the-ai-therapist-can-see-you-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Samsung and Google Partner To Launch Ballie Home Robot with Built-in Projector](https://hardware.slashdot.org/story/25/04/09/146254/samsung-and-google-partner-to-launch-ballie-home-robot-with-built-in-projector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Introduction of a multifunctional home robot featuring a built-in projector.
+* [Google DeepMind Has a Weapon in the AI Talent Wars: Aggressive Noncompete Rules](https://tech.slashdot.org/story/25/04/09/1717210/google-deepmind-has-a-weapon-in-the-ai-talent-wars-aggressive-noncompete-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into DeepMind's recruitment practices amidst the industry demand for AI talent. [Comments](https://tech.slashdot.org/story/25/04/09/1717210/google-deepmind-has-a-weapon-in-the-ai-talent-wars-aggressive-noncompete-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Scientists Recreate Brain Circuit in Lab For First Time](https://science.slashdot.org/story/25/04/09/1521244/scientists-recreate-brain-circuit-in-lab-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major milestone in neuroscience achieved by engineering a functional brain circuit.
+## Science and Environment
 
-## Historical and Cultural Notes
+* [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss) - Using cutting-edge science, researchers aim to revive the iconic species of Ice Age lore. [Comments](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss)
 
-* [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak) - Exploration of a historical book that shaped public speaking skills in 19th-century America.
+* [Scientists Recreate Brain Circuit in Lab For First Time](https://science.slashdot.org/story/25/04/09/1521244/scientists-recreate-brain-circuit-in-lab-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A breakthrough achievement in neuroscience with potential implications across multiple medical fields. [Comments](https://science.slashdot.org/story/25/04/09/1521244/scientists-recreate-brain-circuit-in-lab-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan) - A glimpse into life in 19th-century Japan through historic photography.
+* [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss) - A critique on the ambiguous definitions and expectations surrounding autonomous AI systems. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss)
 
-* [Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections) - Examines how eccentric collections paved the way for modern museums.
+## Cybersecurity and Software Development
 
-## Scientific Breakthroughs
+* [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html) - Mozilla explores modern methods to enhance browser security through policy measures. [Comments](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content)
 
-* [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss) - Scientists achieve milestone in de-extinction research, nearing revival of a prehistoric species.
+* [Git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration](https://git.sr.ht/~meejah/git-withme) - Innovating secure and transient Git collaboration tools. [Comments](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral)
 
-* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&amp;from=rss) - Research suggests Earth once boasted a Saturn-like ring system.
+## Cultural and Historical Insights
 
-* [NASA's Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss) - Groundbreaking exploration of an exoplanet's complex atmospheric composition.
+* [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan) - A visual exploration of Japanese culture captured through historic photography. [Comments](https://news.ycombinator.com/item?id=43631251)
+
+* [Microsoft Windows 95 Reboot Chime and Minecraft Soundtrack Inducted Into National Recording Registry](https://entertainment.slashdot.org/story/25/04/10/0011250/microsoft-windows-95-reboot-chime-and-minecraft-soundtrack-inducted-into-national-recording-registry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Iconic tech sounds receive recognition in the U.S. National Recording Registry. [Comments](https://entertainment.slashdot.org/story/25/04/10/0011250/microsoft-windows-95-reboot-chime-and-minecraft-soundtrack-inducted-into-national-recording-registry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -63,6 +65,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-10, 12:11:25](https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full) - [BTrees, Inverted Indices, and a Model for Full Text Search](https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/)
+* [2025-04-10, 12:10:29](https://news.ycombinator.com/item?id=43643028) - [Are .NET 4.x and JDK 8.x the \&quot;zombie\&quot; runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
+* [2025-04-10, 11:52:00](https://soylentnews.org/article.pl?sid=25/04/09/152222&amp;from=rss) - [How Do Bird Nests Stay Together? Researchers Unravel Entanglement Between Stiff, Straight Rods](https://soylentnews.org/article.pl?sid=25/04/09/152222&amp;from=rss)
+* [2025-04-10, 11:45:00](https://slashdot.org/story/25/04/10/1141224/amazon-ceo-urges-startup-mentality-in-shareholder-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon CEO Urges &apos;Startup&apos; Mentality in Shareholder Letter](https://slashdot.org/story/25/04/10/1141224/amazon-ceo-urges-startup-mentality-in-shareholder-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-10, 10:47:37](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses) - [Lisp Programs Don&apos;t Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html)
+* [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
+* [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 09:00:00](https://apple.slashdot.org/story/25/04/10/0834223/trump-apple-building-in-china-is-unsustainable-could-exempt-some-companies-from-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump: Apple Building in China is &apos;Unsustainable,&apos; Could Exempt Some Companies From Tariffs](https://apple.slashdot.org/story/25/04/10/0834223/trump-apple-building-in-china-is-unsustainable-could-exempt-some-companies-from-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-10, 08:30:30](https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job) - [Having Fun With a Scamming Crypto Job](https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/)
 * [2025-04-10, 08:07:47](https://lobste.rs/s/33ksrz/happy_18th_birthday_cuda) - [Happy 18th Birthday CUDA](https://thechipletter.substack.com/p/happy-18th-birthday-cuda)
@@ -72,27 +81,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-10, 06:56:33](https://news.ycombinator.com/item?id=43641381) - [LLM Benchmark for &apos;Longform Creative Writing&apos;](https://eqbench.com/creative_writing_longform.html)
 * [2025-04-10, 06:55:00](https://slashdot.org/story/25/04/10/0652258/bank-of-england-says-ai-software-could-create-market-crisis-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bank of England Says AI Software Could Create Market Crisis For Profit](https://slashdot.org/story/25/04/10/0652258/bank-of-england-says-ai-software-could-create-market-crisis-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-10, 06:33:16](https://news.ycombinator.com/item?id=43641255) - [MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
-* [2025-04-10, 06:23:27](https://lobste.rs/s/mc7ta1/y_combinator_explained_python) - [The Y Combinator Explained in Python](https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html)
-* [2025-04-10, 06:07:40](https://news.ycombinator.com/item?id=43641132) - [National Weather Service no longer translating products for non-English speakers](https://apnews.com/article/weather-spanish-translation-noaa-nws-trump-71c727dbe2e4956247c9d9152494f1dc)
 * [2025-04-10, 05:43:05](https://lobste.rs/s/wmyspq/django_what_s_new_5_2) - [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/)
 * [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 03:00:00](https://tech.slashdot.org/story/25/04/10/0256257/lawmakers-are-skeptical-of-zuckerbergs-commitment-to-free-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawmakers Are Skeptical of Zuckerberg&apos;s Commitment To Free Speech](https://tech.slashdot.org/story/25/04/10/0256257/lawmakers-are-skeptical-of-zuckerbergs-commitment-to-free-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-10, 02:50:46](https://lobste.rs/s/xkhyef/rust_rfc_3446_introduce_store_api_for) - [Rust RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
 * [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
-* [2025-04-10, 02:48:08](https://news.ycombinator.com/item?id=43640166) - [Evidence suggesting Quasar Alpha is OpenAI&apos;s new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 * [2025-04-10, 02:18:00](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss) - [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss)
-* [2025-04-10, 02:02:29](https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point) - [Adaptive Lossless Floating Point compression in Rust is faster than C++](https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c)
-* [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
 * [2025-04-10, 00:11:00](https://entertainment.slashdot.org/story/25/04/10/0011250/microsoft-windows-95-reboot-chime-and-minecraft-soundtrack-inducted-into-national-recording-registry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Windows 95 Reboot Chime and Minecraft Soundtrack Inducted Into National Recording Registry](https://entertainment.slashdot.org/story/25/04/10/0011250/microsoft-windows-95-reboot-chime-and-minecraft-soundtrack-inducted-into-national-recording-registry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
 * [2025-04-09, 23:56:50](https://lobste.rs/s/ufkytf/purely_functional_sliding_window) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What&apos;s in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
 * [2025-04-09, 22:29:28](https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
-* [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 * [2025-04-09, 21:36:46](https://lobste.rs/s/2ar8hu/visualizing_million_time_series_with) - [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
 * [2025-04-09, 21:33:00](https://soylentnews.org/article.pl?sid=25/04/09/0031249&amp;from=rss) - [FreeDOS 1.4 Brings New Fixes and Features to Modern and Vintage DOS-Based PCs](https://soylentnews.org/article.pl?sid=25/04/09/0031249&amp;from=rss)
@@ -113,6 +115,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-09, 15:30:00](https://science.slashdot.org/story/25/04/09/1521244/scientists-recreate-brain-circuit-in-lab-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Recreate Brain Circuit in Lab For First Time](https://science.slashdot.org/story/25/04/09/1521244/scientists-recreate-brain-circuit-in-lab-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-09, 15:20:17](https://lobste.rs/s/rsea1s/koreo_platform_engineering_toolkit_for) - [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [2025-04-09, 15:05:00](https://science.slashdot.org/story/25/04/09/155247/the-ai-therapist-can-see-you-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI Therapist Can See You Now](https://science.slashdot.org/story/25/04/09/155247/the-ai-therapist-can-see-you-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:35:13](https://lobste.rs/s/6qzxzg/compiler_for_micron_programming) - [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
 * [2025-04-09, 14:34:46](https://lobste.rs/s/qpdvuh/barrelfish) - [barrelfish](https://github.com/BarrelfishOS/barrelfish)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
@@ -133,8 +136,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-09, 09:15:00](https://slashdot.org/story/25/04/09/0912235/enterprises-are-shunning-vendors-in-favor-of-diy-approach-to-ai-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Enterprises Are Shunning Vendors in Favor of DIY Approach To AI, UBS Says](https://slashdot.org/story/25/04/09/0912235/enterprises-are-shunning-vendors-in-favor-of-diy-approach-to-ai-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-09, 07:28:00](https://soylentnews.org/article.pl?sid=25/04/08/1159249&amp;from=rss) - [Facial Recognition Tech, Developed With a Clear Purpose in Mind](https://soylentnews.org/article.pl?sid=25/04/08/1159249&amp;from=rss)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
-* [2025-04-09, 06:30:00](https://news.slashdot.org/story/25/04/09/0451237/clean-energy-powered-40-of-global-electricity-in-2024-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Clean Energy Powered 40% of Global Electricity in 2024, Report Finds](https://news.slashdot.org/story/25/04/09/0451237/clean-energy-powered-40-of-global-electricity-in-2024-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-09, 02:42:00](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss) - [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss)
+* [2025-04-09, 00:55:31](https://news.ycombinator.com/item?id=43627917) - [Cells are swapping their mitochondria. What does this mean for our health?](https://www.nature.com/articles/d41586-025-01064-5)
 * [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss)
 * [2025-04-08, 17:12:00](https://soylentnews.org/article.pl?sid=25/04/07/157225&amp;from=rss) - [Is Homo Sapiens an Invasive Species?](https://soylentnews.org/article.pl?sid=25/04/07/157225&amp;from=rss)
 * [2025-04-08, 12:23:00](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss) - [NASA&apos;s Webb Exposes Complex Atmosphere of Starless Super-Jupiter](https://soylentnews.org/article.pl?sid=25/04/07/154254&amp;from=rss)
@@ -151,7 +154,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-07, 03:10:00](https://soylentnews.org/article.pl?sid=25/04/06/1238211&amp;from=rss) - [New Zealand Start-Up Aims to Take Space Transport to New Heights](https://soylentnews.org/article.pl?sid=25/04/06/1238211&amp;from=rss)
 * [2025-04-06, 22:22:00](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss) - [Brain-Computer Interfaces Face a Critical Test](https://soylentnews.org/article.pl?sid=25/04/05/1917232&amp;from=rss)
 * [2025-04-06, 17:34:00](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss) - [Rapidus to Begin Trial Production of its 2nm Process This Month](https://soylentnews.org/article.pl?sid=25/04/05/1857225&amp;from=rss)
-* [2025-04-06, 13:25:14](https://news.ycombinator.com/item?id=43601282) - [Men&apos;s Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections)
+* [2025-04-06, 13:40:56](https://news.ycombinator.com/item?id=43601356) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 * [2025-04-06, 12:47:00](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss) - [CISPE Pumps €1 Million Of Microsoft&apos;s Money Into Fulcrum](https://soylentnews.org/article.pl?sid=25/04/05/1319211&amp;from=rss)
 * [2025-04-06, 08:02:00](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss) - [Open-Source Tool Designed To Throttle PC And Server Performance Based On Electricity Pricing](https://soylentnews.org/article.pl?sid=25/04/05/1234244&amp;from=rss)
 * [2025-04-06, 03:16:00](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss) - [A New Antifungal Drug Works in a Surprising Way](https://soylentnews.org/article.pl?sid=25/04/05/123257&amp;from=rss)
