@@ -1,52 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Gaming Industry and Policies
+## Technology and Software Innovations
 
-* [Commission Targets in-Game Currency in Children's Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - Regulatory efforts aim to address the use of in-game currencies in children's games, highlighting concerns over financial exploitation.
+* [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html) explores the intricacies of configuration languages and their levels for developers. [Comments](https://lobste.rs/s/erkm24/5_levels_configuration_languages)
 
-* [Ubisoft Argues Players Don't Own Their Games in Wake of The Crew Lawsuit](https://games.slashdot.org/story/25/04/11/189218/ubisoft-argues-players-dont-own-their-games-in-wake-of-the-crew-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ubisoft sparks controversy by asserting that players do not have ownership of their purchased games due to licensing terms.
+* [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys) demonstrates how Rust GPU can enhance shader performance and graphics rendering capabilities. [Comments](https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu)
 
-* [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies) - Guidelines are being established in the EU to regulate the use of virtual currencies in video games.
+* [Datastar - The hypermedia framework](https://data-star.dev/) introduces an innovative web framework for modern content management. [Comments](https://lobste.rs/s/ce1x4w/datastar_hypermedia_framework)
 
-## Tech Development Trends
+* [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html) discusses advancements in compiling Rust code for C environments, achieving high test pass rates on diverse setups. [Comments](https://lobste.rs/s/0ox9js/rust_c_compiler_95_9_test_pass_rate_odd)
 
-* [tpchgen-rs: TPC-H benchmark data generation in pure Rust](https://github.com/clflushopt/tpchgen-rs) - A new tool in Rust for generating TPC-H benchmark datasets introduces speed and flexibility for data management research.
+* [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and) humorously tackles challenges in AI coding through everyday examples. [Comments](https://news.ycombinator.com/item?id=43658794)
 
-* [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html) - A Rust-to-C compiler achieving 95.9% test pass rates showcases potential for compatibility across unconventional computing platforms.
+## Global Trends and Developments
 
-* [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html) - Integration of generative AI in the Servo project sheds light on enhancing browser-level performance with cutting-edge features.
+* [Facebook Is Just Craigslist Now](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) analyses the evolution of Facebook into a marketplace-focused platform. [Comments](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Corporate and Industry News
+* [Adobe Retreats from Bluesky After Massive User Backlash](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed) covers Adobe's decision to pull out of Bluesky due to overwhelming negative reactions. [Comments](https://news.ycombinator.com/item?id=43653885)
 
-* [Adobe Retreats from Bluesky After Massive User Backlash](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Adobe faces significant backlash and is forced to backtrack its support for the Bluesky platform.
+* [European Tourism To US Plunges](https://slashdot.org/story/25/04/12/0145241/european-tourism-to-us-plunges?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights a significant decline in tourism from Europe to the US. [Comments](https://slashdot.org/story/25/04/12/0145241/european-tourism-to-us-plunges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [European Tourism To US Plunges](https://slashdot.org/story/25/04/12/0145241/european-tourism-to-us-plunges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tourism between Europe and the US sees a sharp decline, potentially influenced by geopolitical and economic factors.
+## Scientific Discoveries and Insights
 
-* [Wi-Fi Giant TP-Link's US Future Hinges on Its Claimed Split From China](https://slashdot.org/story/25/04/11/2050255/wi-fi-giant-tp-links-us-future-hinges-on-its-claimed-split-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - TP-Link must prove its separation from Chinese influences to maintain its US market foothold.
+* [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss) reveals ground-breaking research in particle physics. [Comments](https://soylentnews.org/article.pl?sid=25/04/10/0256252&from=rss)
 
-* [Pentagon Axes $5.1 Billion in IT and Consulting Contracts With Accenture, Deloitte](https://news.slashdot.org/story/25/04/11/0712244/pentagon-axes-51-billion-in-it-and-consulting-contracts-with-accenture-deloitte?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A massive reshuffle in US government contracting as the Pentagon cancels significant agreements with major firms.
+* [Almost-Extinct Dire Wolf DNA](https://soylentnews.org/article.pl?sid=25/04/09/0034238&from=rss) uncovers scientists' efforts to closely revive the dire wolf through genetic engineering techniques. [Comments](https://soylentnews.org/article.pl?sid=25/04/09/0034238&from=rss)
 
-## Science and Research
+* [Earth May Have Had a Ring System 466 Million Years Ago](https://soylentnews.org/article.pl?sid=25/04/07/0055209&from=rss) presents evidence of the planet's possible ancient ring system. [Comments](https://soylentnews.org/article.pl?sid=25/04/07/0055209&from=rss)
 
-* [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss) - Paleogenetic research almost recreates the dire wolf, offering insights into possibilities of de-extinction.
+## Ethics and Industry Impacts
 
-* [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/) - Groundbreaking research reshapes understanding of evolutionary connections between insects and crustaceans.
+* [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/) investigates the rapid financial gains made possible through insider knowledge. [Comments](https://news.ycombinator.com/item?id=43661680)
 
-* [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&amp;from=rss) - Observations reveal discrepancies in matter-antimatter behaviors, potentially altering fundamental physics theories.
+* [Ex-OpenAI Staffers File Amicus Brief Opposing the Company's For-Profit Transition](https://slashdot.org/story/25/04/12/010247/ex-openai-staffers-file-amicus-brief-opposing-the-companys-for-profit-transition?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses the ethical concerns raised against OpenAI's changes in corporate structure. [Comments](https://news.ycombinator.com/item?id=43661329)
 
-## Artificial Intelligence and Ethical Questions
-
-* [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front) - Analysis reveals Google's dominance in the competitive realm of artificial intelligence technology development.
-
-* [Ex-OpenAI Staffers File Amicus Brief Opposing the Company's For-Profit Transition](https://slashdot.org/story/25/04/12/010247/ex-openai-staffers-file-amicus-brief-opposing-the-companys-for-profit-transition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Former employees criticize OpenAI's shift towards a profit-driven model, citing ethical concerns.
-
-* [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss) - The rise of AI-based predictive systems raises parallels to dystopian scenarios, urging caution.
-
-## Historical and Cultural Insights
-
-* [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans) - Archaeological discoveries in the Sahara challenge narratives surrounding historical human settlements.
-
-* [In Guatemala, painted altar found at Tikal adds new context to Maya history](https://phys.org/news/2025-04-guatemala-altar-tikal-context-mysterious.html) - A newly uncovered altar provides a clearer understanding of ancient Maya ceremonial traditions.
+* [Ubisoft Argues Players Don't Own Their Games in Wake of The Crew Lawsuit](https://games.slashdot.org/story/25/04/11/189218/ubisoft-argues-players-dont-own-their-games-in-wake-of-the-crew-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) delves into legal ramifications of game ownership following a lawsuit. [Comments](https://games.slashdot.org/story/25/04/11/189218/ubisoft-argues-players-dont-own-their-games-in-wake-of-the-crew-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -73,8 +61,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
+* [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
+* [2025-04-12, 08:58:40](https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu) - [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
+* [2025-04-12, 07:47:57](https://lobste.rs/s/wqqpnh/convert_protobuf_avro_json_kafka) - [Convert Protobuf/Avro/JSON Kafka Messages to Apache Parquet with Tansu: A Step-by-Step Guide](https://blog.tansu.io/articles/parquet)
+* [2025-04-12, 07:20:00](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facebook Is Just Craigslist Now](https://tech.slashdot.org/story/25/04/12/0720212/facebook-is-just-craigslist-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - [Commission Targets in-Game Currency in Children&apos;s Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss)
 * [2025-04-12, 06:09:48](https://lobste.rs/s/mexl5z/ascii_lookup_utility_ada) - [ASCII lookup utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
+* [2025-04-12, 06:05:09](https://news.ycombinator.com/item?id=43661763) - [Why Your &apos;Harmonious&apos; Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
 * [2025-04-12, 05:47:10](https://news.ycombinator.com/item?id=43661680) - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
 * [2025-04-12, 04:34:23](https://lobste.rs/s/dxvasx/tpchgen_rs_tpc_h_benchmark_data) - [tpchgen-rs: TPC-H benchmark data generation in pure Rust](https://github.com/clflushopt/tpchgen-rs)
 * [2025-04-12, 04:30:00](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Retreats from Bluesky After Massive User Backlash](https://tech.slashdot.org/story/25/04/12/026211/adobe-retreats-from-bluesky-after-massive-user-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,15 +90,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-11, 21:15:54](https://lobste.rs/s/ciomx5/bilinear_interpolation_on) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss)
 * [2025-04-11, 21:12:58](https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge) - [How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
-* [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 * [2025-04-11, 20:50:00](https://slashdot.org/story/25/04/11/2050255/wi-fi-giant-tp-links-us-future-hinges-on-its-claimed-split-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wi-Fi Giant TP-Link&apos;s US Future Hinges on Its Claimed Split From China](https://slashdot.org/story/25/04/11/2050255/wi-fi-giant-tp-links-us-future-hinges-on-its-claimed-split-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-11, 20:19:39](https://news.ycombinator.com/item?id=43658093) - [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 * [2025-04-11, 20:16:13](https://news.ycombinator.com/item?id=43658060) - [Germany creates &apos;super–high-tech ministry&apos; for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
 * [2025-04-11, 20:02:49](https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet) - [Golang sync.Pool is not a silver bullet](https://wundergraph.com/blog/golang-sync-pool)
 * [2025-04-11, 19:47:08](https://lobste.rs/s/g1xfen/generative_ai_servo) - [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 * [2025-04-11, 18:09:00](https://games.slashdot.org/story/25/04/11/189218/ubisoft-argues-players-dont-own-their-games-in-wake-of-the-crew-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubisoft Argues Players Don&apos;t Own Their Games in Wake of The Crew Lawsuit](https://games.slashdot.org/story/25/04/11/189218/ubisoft-argues-players-dont-own-their-games-in-wake-of-the-crew-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
-* [2025-04-11, 17:44:01](https://lobste.rs/s/md6dlh/maps_with_django_geodjango_pillow_gps) - [Maps with Django⁽³⁾: GeoDjango, Pillow &amp; GPS](https://www.paulox.net/2025/04/11/maps-with-django-part-3-geodjango-pillow-and-gps/)
 * [2025-04-11, 17:38:00](https://soylentnews.org/article.pl?sid=25/04/11/1330214&amp;from=rss) - [Soylent News Could Use a stripe.js Module](https://soylentnews.org/article.pl?sid=25/04/11/1330214&amp;from=rss)
 * [2025-04-11, 17:00:00](https://mobile.slashdot.org/story/25/04/11/1653218/france-to-tighten-mobile-phone-ban-in-middle-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France To Tighten Mobile Phone Ban in Middle Schools](https://mobile.slashdot.org/story/25/04/11/1653218/france-to-tighten-mobile-phone-ban-in-middle-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-11, 16:53:20](https://news.ycombinator.com/item?id=43655914) - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
@@ -130,14 +121,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-11, 11:45:00](https://soylentnews.org/article.pl?sid=25/04/10/0256252&amp;from=rss) - [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&amp;from=rss)
 * [2025-04-11, 11:39:18](https://news.ycombinator.com/item?id=43652723) - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
-* [2025-04-11, 09:28:22](https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm) - [12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers](https://github.com/humanlayer/12-factor-agents)
-* [2025-04-11, 09:27:08](https://news.ycombinator.com/item?id=43652024) - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 * [2025-04-11, 08:41:00](https://slashdot.org/story/25/04/11/0840215/china-raises-tariffs-on-us-imports-to-125?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Raises Tariffs on US Imports To 125%](https://slashdot.org/story/25/04/11/0840215/china-raises-tariffs-on-us-imports-to-125?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
-* [2025-04-11, 07:00:00](https://science.slashdot.org/story/25/04/11/0624212/fda-plans-to-phase-out-animal-testing-requirements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Plans To Phase Out Animal Testing Requirements](https://science.slashdot.org/story/25/04/11/0624212/fda-plans-to-phase-out-animal-testing-requirements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-11, 06:56:00](https://soylentnews.org/article.pl?sid=25/04/10/0249201&amp;from=rss) - [Aptera Solar Assisted Car - 20 Year Update](https://soylentnews.org/article.pl?sid=25/04/10/0249201&amp;from=rss)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
-* [2025-04-11, 05:15:12](https://lobste.rs/s/ncli2u/low_cost_high_speed_data_acquisition_over) - [Low cost, high speed data acquisition over HDMI](https://media.ccc.de/v/osmodevcon2024-200-low-cost-high-speed-data-acquisition-over-hdmi#t=1915)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 02:09:00](https://soylentnews.org/article.pl?sid=25/04/09/1511216&amp;from=rss) - [Framework Halts Sales of Select Laptops in the US Amid Tariff Changes](https://soylentnews.org/article.pl?sid=25/04/09/1511216&amp;from=rss)
 * [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
@@ -149,13 +136,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-10, 11:52:00](https://soylentnews.org/article.pl?sid=25/04/09/152222&amp;from=rss) - [How Do Bird Nests Stay Together? Researchers Unravel Entanglement Between Stiff, Straight Rods](https://soylentnews.org/article.pl?sid=25/04/09/152222&amp;from=rss)
 * [2025-04-10, 07:05:00](https://soylentnews.org/article.pl?sid=25/04/09/1157227&amp;from=rss) - [Another RTX 5090 Connector Melts Down, Reportedly Taking a PSU With It](https://soylentnews.org/article.pl?sid=25/04/09/1157227&amp;from=rss)
 * [2025-04-10, 02:18:00](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss) - [Scientists Bring Dire Wolf Back From Extinction... Almost](https://soylentnews.org/article.pl?sid=25/04/09/0034238&amp;from=rss)
+* [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why &apos;Prince Rupert&apos;s Drop&apos; Glass Is Strong Enough to Shatter a Bullet](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus&apos; surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
 * [2025-04-09, 21:33:00](https://soylentnews.org/article.pl?sid=25/04/09/0031249&amp;from=rss) - [FreeDOS 1.4 Brings New Fixes and Features to Modern and Vintage DOS-Based PCs](https://soylentnews.org/article.pl?sid=25/04/09/0031249&amp;from=rss)
-* [2025-04-09, 17:59:39](https://news.ycombinator.com/item?id=43635185) - [Soil from the moon&apos;s far side suggests drier conditions than side facing Earth](https://apnews.com/article/moon-far-side-near-side-water-18081418600ea93bac69ac6af86a761b)
 * [2025-04-09, 16:48:00](https://soylentnews.org/article.pl?sid=25/04/09/0030205&amp;from=rss) - [Blade Runners of LinkedIn Are Hunting for Replicants – One Em Dash at a Time](https://soylentnews.org/article.pl?sid=25/04/09/0030205&amp;from=rss)
+* [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/04/08/121246&amp;from=rss) - [April 7 — Reflections on Twenty Years of Git](https://soylentnews.org/article.pl?sid=25/04/08/121246&amp;from=rss)
-* [2025-04-09, 10:29:24](https://news.ycombinator.com/item?id=43630634) - [In Guatemala, painted altar found at Tikal adds new context to Maya history](https://phys.org/news/2025-04-guatemala-altar-tikal-context-mysterious.html)
 * [2025-04-09, 07:28:00](https://soylentnews.org/article.pl?sid=25/04/08/1159249&amp;from=rss) - [Facial Recognition Tech, Developed With a Clear Purpose in Mind](https://soylentnews.org/article.pl?sid=25/04/08/1159249&amp;from=rss)
+* [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
 * [2025-04-09, 02:42:00](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss) - [Scientists Use Sound to Generate and Shape Water Waves](https://soylentnews.org/article.pl?sid=25/04/07/1513227&amp;from=rss)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-08, 21:55:00](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss) - [No One Knows What the Hell an AI Agent is](https://soylentnews.org/article.pl?sid=25/04/07/1511216&amp;from=rss)
