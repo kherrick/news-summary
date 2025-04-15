@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovation and Technology Advancements
+## Technology and Data Breaches
 
-* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43689178))
+* [Hertz Says Customers' Personal Data, Driver's Licenses Stolen In Data Breach](https://yro.slashdot.org/story/25/04/15/0128202/hertz-says-customers-personal-data-drivers-licenses-stolen-in-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hertz faces a security breach exposing sensitive personal driver information.
 
-* [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/) ([comments](https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp))
+* [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html) - Supply chain vulnerability impacts GitHub's CI/CD environment.
 
-* [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html) ([comments](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine))
+* [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss) - ChatGPT's ability to craft fake political images raises ethical concerns.
 
-* [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43661939))
+## AI and Machine Learning Innovations
 
-* [Chinese Robotaxis Have Government Black Boxes, Approach US Quality](https://tech.slashdot.org/story/25/04/14/2327229/chinese-robotaxis-have-government-black-boxes-approach-us-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43689801))
+* [Apple To Analyze User Data on Devices To Bolster AI Technology](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple shifts AI innovation to on-device data analysis.
 
-## AI and Programming
+* [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html) - A minimalist approach to AI assistants using SQLite.
 
-* [OpenAI Unveils Coding-Focused GPT-4.1 While Phasing Out GPT-4.5](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43683410))
+* [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730) - Europe's efforts toward independent large language models take shape.
 
-* [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device) ([comments](https://news.ycombinator.com/item?id=43688658))
+## Cybersecurity Challenges
 
-* [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/) ([comments](https://news.ycombinator.com/item?id=43684560))
+* [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
 
-* [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html) ([comments](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using))
+* [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield) - An open-source tool tackles MCP server vulnerabilities.
 
-## Climate and Science
+* [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device) - A detailed case study in smart home device security exploitation.
 
-* [CT Scans Projected to Result in 100,000 New Cancers in The US](https://science.slashdot.org/story/25/04/14/2333207/ct-scans-projected-to-result-in-100000-new-cancers-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43690732))
+## Global Geopolitics and Resource Allocation
 
-* [Climate Crisis Has Tripled Length of Deadly Ocean Heatwaves, Study Finds](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43687495))
+* [China Halts Rare Earth Exports Globally](https://news.slashdot.org/story/25/04/15/0144259/china-halts-rare-earth-exports-globally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's rare earth supply disruption raises significant global concerns.
 
-* [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43678590))
+* [Ukraine's Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss) - Ukrainian drones demonstrate resilience against advanced electronic warfare.
 
-* [Brainpower Boosted by Tapping Out a Specific Rhythm, Study Finds](https://soylentnews.org/article.pl?sid=25/04/11/132246&amp;from=rss) ([comments](https://lobste.rs/s/ns3ugs/ship_software_does_nothing))
+## Cutting-Edge Science and Engineering
 
-## Privacy and Security
+* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - Revolutionary advances in chip architecture with Google's Ironwood.
 
-* [Important open source projects should not use GitHub (2020)](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html) ([comments](https://news.ycombinator.com/item?id=43688417))
+* [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) - Breakthrough discovery enhances 3D-printing technology for metals.
 
-* [MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield) ([comments](https://news.ycombinator.com/item?id=43689178))
+* [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932) - Origami mathematics reaches computational universality.
 
-* [EU Issues US-bound Staff With Burner Phones Over Spying Fears](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43684286))
+## Environmental Concerns
+
+* [Climate Crisis Has Tripled Length of Deadly Ocean Heatwaves, Study Finds](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research reveals alarming rise in ocean heatwave durations.
+
+* [CT Scans Projected to Result in 100,000 New Cancers in The US](https://science.slashdot.org/story/25/04/14/2333207/ct-scans-projected-to-result-in-100000-new-cancers-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Excessive CT scan usage raises cancer risk concerns.
 
 ---
 
@@ -65,7 +69,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-15, 09:34:01](https://news.ycombinator.com/item?id=43690732) - [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)
+* [2025-04-15, 13:00:00](https://yro.slashdot.org/story/25/04/15/0128202/hertz-says-customers-personal-data-drivers-licenses-stolen-in-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hertz Says Customers&apos; Personal Data, Driver&apos;s Licenses Stolen In Data Breach](https://yro.slashdot.org/story/25/04/15/0128202/hertz-says-customers-personal-data-drivers-licenses-stolen-in-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
+* [2025-04-15, 11:31:26](https://news.ycombinator.com/item?id=43691339) - [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
+* [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
+* [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
+* [2025-04-15, 10:33:00](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss) - [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss)
+* [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
+* [2025-04-15, 10:00:00](https://news.slashdot.org/story/25/04/15/0144259/china-halts-rare-earth-exports-globally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Halts Rare Earth Exports Globally](https://news.slashdot.org/story/25/04/15/0144259/china-halts-rare-earth-exports-globally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 07:00:00](https://science.slashdot.org/story/25/04/14/2333207/ct-scans-projected-to-result-in-100000-new-cancers-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CT Scans Projected to Result in 100,000 New Cancers in The US](https://science.slashdot.org/story/25/04/14/2333207/ct-scans-projected-to-result-in-100000-new-cancers-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -77,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 04:03:23](https://lobste.rs/s/ofacpc/what_hell_is_target_triple) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 03:30:00](https://tech.slashdot.org/story/25/04/14/2327229/chinese-robotaxis-have-government-black-boxes-approach-us-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Robotaxis Have Government Black Boxes, Approach US Quality](https://tech.slashdot.org/story/25/04/14/2327229/chinese-robotaxis-have-government-black-boxes-approach-us-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
-* [2025-04-15, 02:18:29](https://news.ycombinator.com/item?id=43688417) - [Important open source projects should not use GitHub (2020)](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
 * [2025-04-15, 01:50:00](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Climate Crisis Has Tripled Length of Deadly Ocean Heatwaves, Study Finds](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 01:16:28](https://lobste.rs/s/vn6j5k/async_from_scratch_2_wake_me_maybe) - [Async from scratch 2: Wake me maybe](https://natkr.com/2025-04-15-async-from-scratch-2/)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
@@ -99,20 +109,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss)
 * [2025-04-14, 20:10:00](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Starts Using Data From EU Users To Train Its AI Models](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 19:30:00](https://tech.slashdot.org/story/25/04/14/1917246/nato-inks-deal-with-palantir-for-maven-ai-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NATO Inks Deal With Palantir For Maven AI System](https://tech.slashdot.org/story/25/04/14/1917246/nato-inks-deal-with-palantir-for-maven-ai-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-14, 19:29:36](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad) - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 * [2025-04-14, 18:51:00](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Revives Its Free ESXi Hypervisor](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
-* [2025-04-14, 18:14:00](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Issues US-bound Staff With Burner Phones Over Spying Fears](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 18:04:07](https://news.ycombinator.com/item?id=43684286) - [Ask HN: Why is there no P2P streaming protocol like BitTorrent?](https://news.ycombinator.com/item?id=43684286)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
-* [2025-04-14, 17:35:11](https://news.ycombinator.com/item?id=43683907) - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
-* [2025-04-14, 17:26:00](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Unveils Coding-Focused GPT-4.1 While Phasing Out GPT-4.5](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 17:16:51](https://news.ycombinator.com/item?id=43683641) - [Podman Quadlets with Podman Desktop](https://podman-desktop.io/blog/podman-quadlet)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 16:10:32](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
 * [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
-* [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss)
 * [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
 * [2025-04-14, 15:26:13](https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs) - [C++20 idioms for parameter packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
@@ -131,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-14, 09:41:26](https://lobste.rs/s/t788y0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t788y0/what_are_you_doing_this_week)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-14, 06:10:00](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
+* [2025-04-14, 04:42:53](https://news.ycombinator.com/item?id=43678116) - [In Its Purest Form](https://lareviewofbooks.org/article/in-its-purest-form/)
 * [2025-04-14, 02:58:45](https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead) - [Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?](https://hackers.pub/@hongminhee/2025/why-use-fedify)
 * [2025-04-14, 01:20:00](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss) - [Ukraine&apos;s Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss)
 * [2025-04-13, 21:16:43](https://lobste.rs/s/ns3ugs/ship_software_does_nothing) - [Ship Software That Does Nothing](https://kerrick.blog/articles/2025/ship-software-that-does-nothing/)
@@ -141,14 +147,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-13, 01:40:00](https://soylentnews.org/article.pl?sid=25/04/11/132246&amp;from=rss) - [Brainpower Boosted by Tapping Out a Specific Rhythm, Study Finds](https://soylentnews.org/article.pl?sid=25/04/11/132246&amp;from=rss)
 * [2025-04-13, 00:16:34](https://news.ycombinator.com/item?id=43668986) - [Laser Launch into Orbit](http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html)
 * [2025-04-12, 20:56:00](https://soylentnews.org/article.pl?sid=25/04/11/1259205&amp;from=rss) - [How The Pentagon Is Adapting To China&apos;s Technological Rise](https://soylentnews.org/article.pl?sid=25/04/11/1259205&amp;from=rss)
-* [2025-04-12, 18:45:36](https://news.ycombinator.com/item?id=43666949) - [Kmart lied to me, so I hacked their lamp](https://www.youtube.com/watch?v=E_6Y1iip3p0)
 * [2025-04-12, 16:11:00](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) - [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss)
+* [2025-04-12, 12:11:46](https://news.ycombinator.com/item?id=43663713) - [7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage](https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/)
 * [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
-* [2025-04-12, 06:45:44](https://news.ycombinator.com/item?id=43661939) - [Show HN: Portable Giant File Viewer](https://github.com/sunny-chung/giant-log-viewer)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - [Commission Targets in-Game Currency in Children&apos;s Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss)
-* [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss) - [&apos;Doom Loops&apos; Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss)
+* [2025-04-12, 01:14:45](https://news.ycombinator.com/item?id=43660419) - [45-year mystery behind eerie photo from The Shining is believed to be solved](https://www.cbc.ca/lite/story/1.7507349)
 * [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss)
 * [2025-04-11, 17:38:00](https://soylentnews.org/article.pl?sid=25/04/11/1330214&amp;from=rss) - [Soylent News Could Use a stripe.js Module](https://soylentnews.org/article.pl?sid=25/04/11/1330214&amp;from=rss)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien&apos;s fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
