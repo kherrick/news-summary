@@ -1,40 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and AI
+## Technology and Innovations
 
-* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
+* [Hardening the browser](https://www.gleech.org/browser) - A guide on how browser hardening can enhance security and privacy. [Comments](https://lobste.rs/s/p72ax4/hardening_browser)
 
-* [Apple To Analyze User Data on Devices To Bolster AI Technology](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss) - Google reveals its revolutionary Ironwood processor. [Comments](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss)
 
-* [Meta Starts Using Data From EU Users To Train Its AI Models](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [OpenAI Unveils Coding-Focused GPT-4.1 While Phasing Out GPT-4.5](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant focus shift in AI language models by OpenAI. [Comments](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [OpenAI Unveils Coding-Focused GPT-4.1 While Phasing Out GPT-4.5](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://slashdot.org/story/25/04/14/1726250/openai-unveils-coding-focused-gpt-41-while-phasing-out-gpt-45?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/) - A new frontier in audio generation using diffusion transformers. [Comments](https://news.ycombinator.com/item?id=43683907)
 
-## New Technology and Devices
+* [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html) - Overview of advancements and trends in Rust GUI libraries. [Comments](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries)
 
-* [VMware Revives Its Free ESXi Hypervisor](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/) - An innovative DIY project merging Mac and iPad functionalities. [Comments](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad)
 
-* [Apple Preparing Major iPadOS 19 Overhaul with Mac-like Features](https://apple.slashdot.org/story/25/04/14/1557247/apple-preparing-major-ipados-19-overhaul-with-mac-like-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://apple.slashdot.org/story/25/04/14/1557247/apple-preparing-major-ipados-19-overhaul-with-mac-like-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI and Data Privacy
 
-* [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html) [(comments)](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using)
+* [Apple To Analyze User Data on Devices To Bolster AI Technology](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple’s device-level analysis for advancing AI capabilities. [Comments](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Legal and Regulatory Updates
+* [Meta Starts Using Data From EU Users To Train Its AI Models](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta leverages European data to refine AI training processes. [Comments](https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Facebook Sought To 'Neutralize' Competitive Threats, FTC Argues As Landmark Antitrust Trial Begins](https://tech.slashdot.org/story/25/04/14/1439241/facebook-sought-to-neutralize-competitive-threats-ftc-argues-as-landmark-antitrust-trial-begins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://tech.slashdot.org/story/25/04/14/1439241/facebook-sought-to-neutralize-competitive-threats-ftc-argues-as-landmark-antitrust-trial-begins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html) - An innovative approach to building a minimalistic AI assistant. [Comments](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using)
 
-## Space and Science
+## Climate and Environment
 
-* [Blue Origin Sends All-Female Crew To Edge of Space in Historic Flight](https://science.slashdot.org/story/25/04/14/1512214/blue-origin-sends-all-female-crew-to-edge-of-space-in-historic-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://science.slashdot.org/story/25/04/14/1512214/blue-origin-sends-all-female-crew-to-edge-of-space-in-historic-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Climate Crisis Has Tripled Length of Deadly Ocean Heatwaves, Study Finds](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant impacts of the climate crisis on ocean health and biodiversity. [Comments](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
+* [EU Issues US-bound Staff With Burner Phones Over Spying Fears](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Privacy concerns drive European diplomatic countermeasures. [Comments](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cultural and Historical Insights
+## Society and Ethics
 
-* [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss)
+* [UK Laws Are Not 'Fit For Social Media Age'](https://news.slashdot.org/story/25/04/14/1937244/uk-laws-are-not-fit-for-social-media-age?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis on the adaptation of laws to modern digital landscapes. [Comments](https://news.slashdot.org/story/25/04/14/1937244/uk-laws-are-not-fit-for-social-media-age?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Hacking and Cybersecurity
-
-* [Hacked Crosswalks In Bay Area Play Deepfake-Style Messages From Tech Billionaires](https://it.slashdot.org/story/25/04/14/1932207/hacked-crosswalks-in-bay-area-play-deepfake-style-messages-from-tech-billionaires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://it.slashdot.org/story/25/04/14/1932207/hacked-crosswalks-in-bay-area-play-deepfake-style-messages-from-tech-billionaires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Risks To Children Playing Roblox 'Deeply Disturbing,' Say Researchers](https://games.slashdot.org/story/25/04/14/2259206/risks-to-children-playing-roblox-deeply-disturbing-say-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns around child online safety in popular game platforms. [Comments](https://games.slashdot.org/story/25/04/14/2259206/risks-to-children-playing-roblox-deeply-disturbing-say-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -61,8 +59,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-15, 03:43:19](https://lobste.rs/s/p72ax4/hardening_browser) - [Hardening the browser](https://www.gleech.org/browser)
+* [2025-04-15, 03:30:00](https://tech.slashdot.org/story/25/04/14/2327229/chinese-robotaxis-have-government-black-boxes-approach-us-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Robotaxis Have Government Black Boxes, Approach US Quality](https://tech.slashdot.org/story/25/04/14/2327229/chinese-robotaxis-have-government-black-boxes-approach-us-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+* [2025-04-15, 01:50:00](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Climate Crisis Has Tripled Length of Deadly Ocean Heatwaves, Study Finds](https://news.slashdot.org/story/25/04/15/0148201/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-15, 01:16:28](https://lobste.rs/s/vn6j5k/async_from_scratch_2_wake_me_maybe) - [Async from scratch 2: Wake me maybe](https://natkr.com/2025-04-15-async-from-scratch-2/)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
 * [2025-04-15, 00:50:00](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Analyze User Data on Devices To Bolster AI Technology](https://apple.slashdot.org/story/25/04/15/0050203/apple-to-analyze-user-data-on-devices-to-bolster-ai-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-15, 00:26:53](https://news.ycombinator.com/item?id=43687767) - [The Problem with \&quot;Vibe Coding\&quot;](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 * [2025-04-15, 00:10:29](https://lobste.rs/s/8ghfuu/bug_bash_2025_conference_experience) - [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
 * [2025-04-14, 23:40:00](https://mobile.slashdot.org/story/25/04/14/236246/samsung-pauses-one-ui-7-rollout-worldwide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Pauses One UI 7 Rollout Worldwide](https://mobile.slashdot.org/story/25/04/14/236246/samsung-pauses-one-ui-7-rollout-worldwide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 23:33:38](https://news.ycombinator.com/item?id=43687431) - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
@@ -84,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-14, 19:29:36](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad) - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 * [2025-04-14, 18:51:00](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Revives Its Free ESXi Hypervisor](https://it.slashdot.org/story/25/04/14/1851214/vmware-revives-its-free-esxi-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
-* [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard&apos;s response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
 * [2025-04-14, 18:23:30](https://news.ycombinator.com/item?id=43684492) - [Censors Ignore Unencrypted HTTP/2 Traffic (2024)](https://upb-syssec.github.io/blog/2024/http2/)
 * [2025-04-14, 18:14:00](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Issues US-bound Staff With Burner Phones Over Spying Fears](https://yro.slashdot.org/story/25/04/14/1814239/eu-issues-us-bound-staff-with-burner-phones-over-spying-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring a PM](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
@@ -101,18 +104,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
-* [2025-04-14, 15:39:09](https://lobste.rs/s/xuhi8k/pretty_state_machine_patterns_rust) - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
 * [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss)
 * [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
 * [2025-04-14, 15:26:13](https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs) - [C++20 idioms for parameter packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
-* [2025-04-14, 15:20:00](https://science.slashdot.org/story/25/04/14/1512214/blue-origin-sends-all-female-crew-to-edge-of-space-in-historic-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blue Origin Sends All-Female Crew To Edge of Space in Historic Flight](https://science.slashdot.org/story/25/04/14/1512214/blue-origin-sends-all-female-crew-to-edge-of-space-in-historic-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:58:32](https://lobste.rs/s/m5hycn/python_is_interpreted_language_with) - [Python is an interpreted language with a compiler](https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
 * [2025-04-14, 14:54:51](https://news.ycombinator.com/item?id=43681990) - [Monte Carlo Crash Course: Sampling](https://thenumb.at/Sampling/)
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
-* [2025-04-14, 14:40:00](https://tech.slashdot.org/story/25/04/14/1439241/facebook-sought-to-neutralize-competitive-threats-ftc-argues-as-landmark-antitrust-trial-begins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facebook Sought To &apos;Neutralize&apos; Competitive Threats, FTC Argues As Landmark Antitrust Trial Begins](https://tech.slashdot.org/story/25/04/14/1439241/facebook-sought-to-neutralize-competitive-threats-ftc-argues-as-landmark-antitrust-trial-begins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-14, 14:32:27](https://lobste.rs/s/oipya2/i_ve_been_writing_software_for_last_25) - [I&apos;ve been writing software for the last 25 years. Here are a few more things I&apos;ve learned so far (part 2)](https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2)
+* [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:37:45](https://lobste.rs/s/lrftwb/fun_with_fsanitize_undefined_picolibc) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
@@ -139,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss)
 * [2025-04-12, 07:43:47](https://news.ycombinator.com/item?id=43662263) - [AI used for skin cancer checks at London hospital](https://www.bbc.com/news/articles/czd3ygd7mrno)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - [Commission Targets in-Game Currency in Children&apos;s Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss)
-* [2025-04-12, 06:11:43](https://news.ycombinator.com/item?id=43661799) - [Lost City of the Samurai](https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/)
 * [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss) - [&apos;Doom Loops&apos; Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss)
 * [2025-04-11, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss) - [AI Fueled Minority Report](https://soylentnews.org/article.pl?sid=25/04/11/1143202&amp;from=rss)
 * [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
@@ -151,4 +150,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-11, 11:45:00](https://soylentnews.org/article.pl?sid=25/04/10/0256252&amp;from=rss) - [Physicists Have Confirmed a New Mismatch Between Matter and Antimatter](https://soylentnews.org/article.pl?sid=25/04/10/0256252&amp;from=rss)
 * [2025-04-11, 06:56:00](https://soylentnews.org/article.pl?sid=25/04/10/0249201&amp;from=rss) - [Aptera Solar Assisted Car - 20 Year Update](https://soylentnews.org/article.pl?sid=25/04/10/0249201&amp;from=rss)
 * [2025-04-11, 02:09:00](https://soylentnews.org/article.pl?sid=25/04/09/1511216&amp;from=rss) - [Framework Halts Sales of Select Laptops in the US Amid Tariff Changes](https://soylentnews.org/article.pl?sid=25/04/09/1511216&amp;from=rss)
-* [2025-04-11, 02:04:52](https://news.ycombinator.com/item?id=43649781) - [How Janet&apos;s PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
