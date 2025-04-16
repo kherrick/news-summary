@@ -1,48 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security
+## Science and Technology Innovations
 
-* [US abruptly turns off funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/) ([comments](https://news.ycombinator.com/item?id=43700258))
+* [Older People Who Use Smartphones 'Have Lower Rates of Cognitive Decline'](https://science.slashdot.org/story/25/04/16/0028246/older-people-who-use-smartphones-have-lower-rates-of-cognitive-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Recent research highlights that smartphone use may help mitigate cognitive decline in older adults.
 
-* [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/15/0115256&from=rss))
+* [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss) - A revolutionary laser-based cooling technology targets specific heat-producing hotspots in chips.
 
-* [4chan Has Been Down Since Monday Night After 'Pretty Comprehensive Own'](https://tech.slashdot.org/story/25/04/16/0012230/4chan-has-been-down-since-monday-night-after-pretty-comprehensive-own?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/04/16/0012230/4chan-has-been-down-since-monday-night-after-pretty-comprehensive-own?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - Astrophysics discovery shows that galaxies in the deep universe exhibit rotational alignment, possibly reflecting large-scale cosmic patterns.
 
-* [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973) ([comments](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves))
+* [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) - Scientists have identified a rare crystal structure that could revolutionize the strength and durability of 3D-printed metals.
 
-## Science and Innovation
+## Cybersecurity Developments
 
-* [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/) ([comments](https://news.ycombinator.com/item?id=43699883))
+* [Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)](https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/) - A newly discovered vulnerability exposes Yelp users to potential data breaches.
 
-* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/14/067223&from=rss))
+* [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html) - The CVE program's future is in question as its contract with DHS was not renewed.
 
-* [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/13/0339214&from=rss))
+* [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973) - MITRE announces it will discontinue issuing new CVEs, leaving the industry questioning future vulnerability management.
 
-## Programming and Development
+## Artificial Intelligence and Machine Learning
 
-* [The Story Behind K2 Mode and How It Works | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/) ([comments](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works_intellij))
+* [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/) - A new approach to language models leverages scalability and multimodal processing for diverse applications.
 
-* [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates) ([comments](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one))
+* [OpenAI is Building a Social Network](https://tech.slashdot.org/story/25/04/15/1648226/openai-is-building-a-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI steps into the social networking sphere, potentially challenging existing platforms.
 
-* [Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) ([comments](https://lobste.rs/s/ntxtm8/introduction_modern_cmake))
+* [Gemini App Rolling Out Veo 2 Video Generation For Advanced Users](https://tech.slashdot.org/story/25/04/16/0018236/gemini-app-rolling-out-veo-2-video-generation-for-advanced-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Gemini introduces the Veo 2 tool for enhanced video generation in creative applications.
 
-* [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html) ([comments](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork))
+* [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss) - New ChatGPT features allow users to fabricate political images, igniting debates on ethical AI use.
 
-## AI and Social Media
+## Engineering and Development Tools
 
-* [OpenAI is Building a Social Network](https://tech.slashdot.org/story/25/04/15/1648226/openai-is-building-a-social-network?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43694877))
+* [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/) - A deep dive into extending JSX’s use directly to server-client communications.
 
-* [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/) ([comments](https://news.ycombinator.com/item?id=43697532))
+* [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates) - Strategies to drastically reduce Rust compile times are unveiled to enhance developer efficiency.
 
-* [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/14/0616220&from=rss))
+* [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) - A guide to modernizing CMake workflows to improve software development processes.
 
-## Cultural and Historical Insights
+* [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/) - Windows Subsystem for Linux (WSL) now officially supports Arch Linux, expanding its capabilities.
 
-* [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/14/0550254&from=rss))
+## Ethics and Legislation in Technology
 
-* [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/11/1250234&from=rss))
+* [4chan Has Been Down Since Monday Night After 'Pretty Comprehensive Own'](https://tech.slashdot.org/story/25/04/16/0012230/4chan-has-been-down-since-monday-night-after-pretty-comprehensive-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ongoing disruptions on 4chan raise cybersecurity concerns.
 
-* [How the U.S. became a science superpower](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/) ([comments](https://news.ycombinator.com/item?id=43692360))
+* [Company's Surveillance Tech Makes Immigrants 'Easy Pickings'](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html) - Investigation highlights ethical problems in immigration-targeted surveillance technology.
+
+* [Figma Sent a Cease-and-Desist Letter To Lovable Over the Term 'Dev Mode'](https://yro.slashdot.org/story/25/04/15/203233/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Figma takes legal action against another entity over terminology disputes.
 
 ---
 
@@ -69,12 +71,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-16, 01:05:26](https://news.ycombinator.com/item?id=43700258) - [US abruptly turns off funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
-* [2025-04-16, 01:01:11](https://news.ycombinator.com/item?id=43700232) - [Flexport Is Hiring Software Engineers](https://flexport.com)
+* [2025-04-16, 03:30:00](https://science.slashdot.org/story/25/04/16/0028246/older-people-who-use-smartphones-have-lower-rates-of-cognitive-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Older People Who Use Smartphones &apos;Have Lower Rates of Cognitive Decline&apos;](https://science.slashdot.org/story/25/04/16/0028246/older-people-who-use-smartphones-have-lower-rates-of-cognitive-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
+* [2025-04-16, 03:08:22](https://lobste.rs/s/lvocko/dangerous_arbitrary_file_read) - [Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)](https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/)
+* [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
+* [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
+* [2025-04-16, 02:01:46](https://news.ycombinator.com/item?id=43700633) - [Markov Chain Monte Carlo Without All the Bullshit (2015)](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [2025-04-16, 02:00:32](https://lobste.rs/s/hscqec/atomicless_concurrency_2023) - [Atomicless Concurrency (2023)](https://mcyoung.xyz/2023/03/29/rseq-checkout/)
+* [2025-04-16, 01:57:27](https://news.ycombinator.com/item?id=43700607) - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
+* [2025-04-16, 01:30:00](https://mobile.slashdot.org/story/25/04/16/0021259/free-wi-fi-is-on-its-way-to-american-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Free Wi-Fi Is On Its Way To American Airlines](https://mobile.slashdot.org/story/25/04/16/0021259/free-wi-fi-is-on-its-way-to-american-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-16, 01:01:11](https://news.ycombinator.com/item?id=43700232) - [Flexport (YC W14) is hiring software engineers](https://flexport.com)
+* [2025-04-16, 00:50:00](https://tech.slashdot.org/story/25/04/16/0018236/gemini-app-rolling-out-veo-2-video-generation-for-advanced-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gemini App Rolling Out Veo 2 Video Generation For Advanced Users](https://tech.slashdot.org/story/25/04/16/0018236/gemini-app-rolling-out-veo-2-video-generation-for-advanced-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss)
-* [2025-04-16, 00:47:38](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works_intellij) - [The Story Behind K2 Mode and How It Works | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
+* [2025-04-16, 00:47:38](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works) - [The Story Behind K2 Mode and How It Works](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
 * [2025-04-16, 00:14:00](https://tech.slashdot.org/story/25/04/16/0012230/4chan-has-been-down-since-monday-night-after-pretty-comprehensive-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [4chan Has Been Down Since Monday Night After &apos;Pretty Comprehensive Own&apos;](https://tech.slashdot.org/story/25/04/16/0012230/4chan-has-been-down-since-monday-night-after-pretty-comprehensive-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-16, 00:01:41](https://news.ycombinator.com/item?id=43699883) - [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/)
+* [2025-04-16, 00:01:41](https://news.ycombinator.com/item?id=43699883) - [An interactive introduction to rotors from geometric algebra (2018)](https://marctenbosch.com/quaternions/)
 * [2025-04-15, 23:30:00](https://yro.slashdot.org/story/25/04/15/2025249/insurance-firm-lemonade-says-api-glitch-exposed-some-drivers-license-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Insurance Firm Lemonade Says API Glitch Exposed Some Driver&apos;s License Numbers](https://yro.slashdot.org/story/25/04/15/2025249/insurance-firm-lemonade-says-api-glitch-exposed-some-drivers-license-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 22:50:00](https://tech.slashdot.org/story/25/04/15/2022238/alamo-drafthouse-rejects-metas-second-screen-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alamo Drafthouse Rejects Meta&apos;s Second-Screen Technology](https://tech.slashdot.org/story/25/04/15/2022238/alamo-drafthouse-rejects-metas-second-screen-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 22:39:18](https://lobste.rs/s/vcomeh/company_s_surveillance_tech_makes) - [Company&apos;s Surveillance Tech Makes Immigrants &apos;Easy Pickings&apos;](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html)
@@ -94,25 +105,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 19:19:21](https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is) - [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
 * [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 18:53:00](https://developers.slashdot.org/story/25/04/15/1853254/you-should-still-learn-to-code-says-github-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Should Still Learn To Code, Says GitHub CEO](https://developers.slashdot.org/story/25/04/15/1853254/you-should-still-learn-to-code-says-github-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)
 * [2025-04-15, 18:02:00](https://slashdot.org/story/25/04/15/182244/google-deepmind-is-hiring-a-post-agi-research-scientist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google DeepMind Is Hiring a &apos;Post-AGI&apos; Research Scientist](https://slashdot.org/story/25/04/15/182244/google-deepmind-is-hiring-a-post-agi-research-scientist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 17:20:00](https://tech.slashdot.org/story/25/04/15/1648226/openai-is-building-a-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI is Building a Social Network](https://tech.slashdot.org/story/25/04/15/1648226/openai-is-building-a-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
-* [2025-04-15, 16:47:20](https://news.ycombinator.com/item?id=43695401) - [Benn Jordan&apos;s AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 * [2025-04-15, 16:40:00](https://it.slashdot.org/story/25/04/15/1636208/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android Phones Will Soon Reboot Themselves After Sitting Unused For 3 Days](https://it.slashdot.org/story/25/04/15/1636208/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 * [2025-04-15, 16:08:29](https://news.ycombinator.com/item?id=43694877) - [OpenAI is building a social network?](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
-* [2025-04-15, 16:00:00](https://tech.slashdot.org/story/25/04/15/1536244/zuckerberg-had-a-crazy-idea-in-2022-for-facebook---purge-all-users-friends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zuckerberg Had a &apos;Crazy Idea&apos; in 2022 For Facebook - Purge All Users&apos; Friends](https://tech.slashdot.org/story/25/04/15/1536244/zuckerberg-had-a-crazy-idea-in-2022-for-facebook---purge-all-users-friends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
-* [2025-04-15, 15:48:41](https://news.ycombinator.com/item?id=43694546) - [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
-* [2025-04-15, 15:26:13](https://news.ycombinator.com/item?id=43694157) - [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
-* [2025-04-15, 15:20:00](https://tech.slashdot.org/story/25/04/15/1514205/fcc-chairman-tells-europe-to-choose-between-us-or-chinese-communications-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC Chairman Tells Europe To Choose Between US or Chinese Communications Tech](https://tech.slashdot.org/story/25/04/15/1514205/fcc-chairman-tells-europe-to-choose-between-us-or-chinese-communications-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 15:18:00](https://soylentnews.org/article.pl?sid=25/04/14/0619222&amp;from=rss) - [NIST Finalizes Guidelines for Evaluating ‘Differential Privacy’ Guarantees to De-Identify Data](https://soylentnews.org/article.pl?sid=25/04/14/0619222&amp;from=rss)
-* [2025-04-15, 14:40:00](https://it.slashdot.org/story/25/04/15/0259250/indian-it-faces-its-kodak-moment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indian IT Faces Its Kodak Moment](https://it.slashdot.org/story/25/04/15/0259250/indian-it-faces-its-kodak-moment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to win an argument with a toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:28](https://lobste.rs/s/llywoj/aerynos) - [AerynOS](https://aerynos.com/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres wire protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
@@ -120,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 13:41:12](https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional) - [Flambda2 Ep. 4: How to write a purely functional compiler](https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/)
 * [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
 * [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
-* [2025-04-15, 13:29:21](https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025) - [AHOY! European Social Web Day 2025](https://ahoy.eu)
 * [2025-04-15, 13:24:39](https://news.ycombinator.com/item?id=43692360) - [How the U.S. became a science superpower](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/)
 * [2025-04-15, 13:04:26](https://news.ycombinator.com/item?id=43692089) - [Chroma: Ubisoft&apos;s internal tool used to simulate color-blindness](https://github.com/ubisoft/Chroma)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
@@ -134,20 +137,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
 * [2025-04-15, 00:27:31](https://lobste.rs/s/snvzsl/problem_with_vibe_coding) - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 * [2025-04-15, 00:10:29](https://lobste.rs/s/8ghfuu/bug_bash_2025_conference_experience) - [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
-* [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 * [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss)
 * [2025-04-14, 16:24:28](https://news.ycombinator.com/item?id=43683012) - [Cursor IDE support hallucinates lockout policy, causes user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
-* [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss)
 * [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole $65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 10:52:00](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss) - [More Microsoft Job Cuts Could Hit Non-Coding Staff And Middle Managers](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss)
+* [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker&apos;s guide to the C programming language](https://github.com/codr7/hacktical-c)
+* [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig&apos;s new LinkedList API (it&apos;s time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 06:10:00](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
-* [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I Use Audio Journaling and AI to Improve My Trading Decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
+* [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I use audio journaling and AI to improve my trading decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
 * [2025-04-14, 01:20:00](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss) - [Ukraine&apos;s Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss)
 * [2025-04-13, 20:35:00](https://soylentnews.org/article.pl?sid=25/04/13/0316216&amp;from=rss) - [AI Marketing to Bypass Spam Filters](https://soylentnews.org/article.pl?sid=25/04/13/0316216&amp;from=rss)
-* [2025-04-13, 18:28:31](https://news.ycombinator.com/item?id=43674792) - [Mushroom A.stiptica Bitter Compounds and Human Taste Receptor Activation](https://pubs.acs.org/doi/10.1021/acs.jafc.4c12651)
 * [2025-04-13, 15:50:00](https://soylentnews.org/article.pl?sid=25/04/13/0312208&amp;from=rss) - [Ubisoft Argues Players Don&apos;t Own Their Games in Wake of The Crew Lawsuit](https://soylentnews.org/article.pl?sid=25/04/13/0312208&amp;from=rss)
 * [2025-04-13, 11:06:00](https://soylentnews.org/article.pl?sid=25/04/13/037236&amp;from=rss) - [The U.S. is Building a Fuel Depot in Space](https://soylentnews.org/article.pl?sid=25/04/13/037236&amp;from=rss)
 * [2025-04-13, 06:22:00](https://soylentnews.org/article.pl?sid=25/04/13/033235&amp;from=rss) - [Germany, Ukraine Start Ramping Up Use of European Starlink Alternative](https://soylentnews.org/article.pl?sid=25/04/13/033235&amp;from=rss)
@@ -156,7 +158,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-12, 16:11:00](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) - [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss)
 * [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss)
 * [2025-04-12, 10:54:53](https://news.ycombinator.com/item?id=43663290) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
-* [2025-04-12, 08:20:25](https://news.ycombinator.com/item?id=43662462) - [What does it mean for a technology to follow Wright&apos;s Law?](https://ourworldindata.org/learning-curve)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - [Commission Targets in-Game Currency in Children&apos;s Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss)
 * [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss) - [&apos;Doom Loops&apos; Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss)
