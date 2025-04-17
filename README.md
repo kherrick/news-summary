@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning Innovations
+## Breakthroughs in Science and Technology
 
-* [OpenAI In Talks To Buy Windsurf For About $3 Billion](https://slashdot.org/story/25/04/16/1946237/openai-in-talks-to-buy-windsurf-for-about-3-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI is reportedly in discussions to acquire Windsurf for an estimated $3 billion, potentially expanding its AI development capabilities.
+* [Researchers Grow Record-sized Lab Meat](https://science.slashdot.org/story/25/04/16/2013255/researchers-grow-record-sized-lab-meat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists have achieved a milestone in lab-grown meat by producing a record-sized cultured meat product, highlighting advancements in sustainable food technology.
 
-* [Google Used AI To Suspend Over 39 Million Ad Accounts Suspected of Fraud](https://tech.slashdot.org/story/25/04/16/1939254/google-used-ai-to-suspend-over-39-million-ad-accounts-suspected-of-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's AI technology has been utilized to eliminate fraud, suspending 39 million ad accounts.
+* [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html) - Astronomers have identified potential biosignatures on a remote exoplanet, renewing excitement about the search for extraterrestrial life.
 
-* [OpenAI Unveils o3 and o4-mini Models](https://slashdot.org/story/25/04/16/1925253/openai-unveils-o3-and-o4-mini-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI introduces its newest lightweight AI models, o3 and o4-mini, focused on higher operational efficiency.
+* [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss) - A novel cooling solution uses lasers to target and remove heat from hotspots in electronics, paving the way for more efficient chip designs.
 
-* [OpenAI Debuts Codex CLI, an Open Source Coding Tool For Terminals](https://developers.slashdot.org/story/25/04/16/1931240/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI releases a terminal-based open-source coding assistant, Codex CLI, for developers.
+## Artificial Intelligence and Machine Learning
 
-## Cybersecurity and Privacy Updates
+* [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/) - This innovation reduces AI computing resource requirements, potentially transforming accessibility to AI technologies.
 
-* [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss) - The CVE program faces funding cessation, raising cybersecurity concerns.
+* [OpenAI Debuts Codex CLI, an Open Source Coding Tool For Terminals](https://developers.slashdot.org/story/25/04/16/1931240/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI has released a coding interface tool for developers, emphasizing ease of integration and functionality.
 
-* [CISA Extends Funding To Ensure 'No Lapse in Critical CVE Services'](https://it.slashdot.org/story/25/04/16/1441255/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - CISA acts to maintain crucial CVE services following potential disruptions.
+* [OpenAI Unveils o3 and o4-mini Models](https://slashdot.org/story/25/04/16/1925253/openai-unveils-o3-and-o4-mini-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI launches two new AI models catering to specific application needs with minimized resource consumption.
 
-* [Cybersecurity World On Edge As CVE Program Prepares To Go Dark](https://it.slashdot.org/story/25/04/16/0050230/cybersecurity-world-on-edge-as-cve-program-prepares-to-go-dark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Potential suspension of the CVE program sends shockwaves through the cybersecurity community.
+## Environmental and Ethical Concerns
 
-## Emerging Tech Tools and Applications
+* [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - Despite bans, residual toxic substances are causing significant ecological harm, including dolphin deaths.
 
-* [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex) - A GitHub project introduces Plandex v2, designed to streamline coding for expansive projects using AI.
-
-* [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) - OpenAI's Codex provides a lightweight tool for conducting coding tasks directly in the terminal environment.
+* [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - A study suggests that globally implemented rooftop solar systems could not only meet energy demands but also have far-reaching climate benefits.
 
 ## Historical and Cultural Insights
 
-* [Darwin's children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species) - A charming look at how Charles Darwin's children creatively altered his historical manuscript.
+* [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a) - An in-depth analysis recounts the pivotal effects of a largely forgotten historical conflict.
 
-* [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/) - A retrospective on the use of aerial minesweeping in past naval operations.
+* [Darwin&apos;s children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species) - Features quirky illustrations from Darwin's children found on his iconic manuscript, revealing a personal side of the legendary scientist.
 
-## Scientific and Environmental Developments
+## Corporate Moves and Market Trends
 
-* [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - A study highlights the transformative potential of solar energy in addressing global power demands.
+* [OpenAI In Talks To Buy Windsurf For About $3 Billion](https://slashdot.org/story/25/04/16/1946237/openai-in-talks-to-buy-windsurf-for-about-3-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major investment from OpenAI potentially signals strategic expansion in AI tool acquisition.
 
-* [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days) - The reduction in TLS certificate lifetimes aims to enhance web security protocols.
+* [Companies Are Slashing Their SaaS Spends, UBS Says](https://tech.slashdot.org/story/25/04/16/1510222/companies-are-slashing-their-saas-spends-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New reports highlight cost-cutting trends within the Software-as-a-Service (SaaS) industry as businesses streamline IT budgets.
 
-## Creative and Design Innovations
+## Miscellaneous Developments
 
-* [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/) - Microsoft's design team unveils the Kermit typeface, catering to children's visual preferences and learning needs.
+* [The Last RadioShack In Maryland Is Closing Its Doors](https://slashdot.org/story/25/04/16/1952250/the-last-radioshack-in-maryland-is-closing-its-doors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The closure of the last RadioShack in Maryland marks the end of an era for electronic enthusiasts.
 
-* [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/) - The Herb tool enhances developer productivity with HTML-aware parsing capabilities.
+* [Google To Phase Out Country Code Top-level Domains](https://tech.slashdot.org/story/25/04/16/1642209/google-to-phase-out-country-code-top-level-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's decision may impact how internet domains are regionally identified and managed.
 
 ---
 
@@ -67,6 +65,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-17, 01:10:00](https://science.slashdot.org/story/25/04/16/2013255/researchers-grow-record-sized-lab-meat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Grow Record-sized Lab Meat](https://science.slashdot.org/story/25/04/16/2013255/researchers-grow-record-sized-lab-meat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss)
+* [2025-04-17, 00:30:00](https://yro.slashdot.org/story/25/04/16/2010241/discord-begins-testing-facial-recognition-scans-for-age-verification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord Begins Testing Facial Recognition Scans For Age Verification](https://yro.slashdot.org/story/25/04/16/2010241/discord-begins-testing-facial-recognition-scans-for-age-verification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify Alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
+* [2025-04-16, 23:50:00](https://yro.slashdot.org/story/25/04/16/1959227/following-layoffs-automattic-employees-discover-leak-catching-watermarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Following Layoffs, Automattic Employees Discover Leak-Catching Watermarks](https://yro.slashdot.org/story/25/04/16/1959227/following-layoffs-automattic-employees-discover-leak-catching-watermarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-16, 23:20:31](https://news.ycombinator.com/item?id=43711376) - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
+* [2025-04-16, 23:10:00](https://science.slashdot.org/story/25/04/16/1957254/first-global-pandemic-treaty-agreed---without-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Global Pandemic Treaty Agreed - Without the US](https://science.slashdot.org/story/25/04/16/1957254/first-global-pandemic-treaty-agreed---without-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-16, 22:57:54](https://news.ycombinator.com/item?id=43711227) - [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
+* [2025-04-16, 22:30:00](https://slashdot.org/story/25/04/16/1952250/the-last-radioshack-in-maryland-is-closing-its-doors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Last RadioShack In Maryland Is Closing Its Doors](https://slashdot.org/story/25/04/16/1952250/the-last-radioshack-in-maryland-is-closing-its-doors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-16, 22:24:57](https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too) - [(All) Databases Are Just Files. Postgres Too](http://tselai.com/all-databases-are-just-files)
+* [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 * [2025-04-16, 21:50:00](https://slashdot.org/story/25/04/16/1946237/openai-in-talks-to-buy-windsurf-for-about-3-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI In Talks To Buy Windsurf For About $3 Billion](https://slashdot.org/story/25/04/16/1946237/openai-in-talks-to-buy-windsurf-for-about-3-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:12:17](https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source) - [deb-books: books hidden in Debian source packages](https://codeberg.org/jwilk/deb-books)
@@ -79,17 +88,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-16, 19:43:11](https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop) - [Learning Fennel from Scratch to Develop Neovim Plugins](https://lambdaisland.com/blog/2025-04-16-fennel)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
 * [2025-04-16, 19:16:00](https://news.slashdot.org/story/25/04/16/1917209/trump-administration-plans-to-end-the-irs-direct-file-program-for-free-tax-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration Plans To End the IRS Direct File Program for Free Tax Filing](https://news.slashdot.org/story/25/04/16/1917209/trump-administration-plans-to-end-the-irs-direct-file-program-for-free-tax-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-16, 19:05:48](https://lobste.rs/s/k81ayk/northguard_scalable_log_storage_at) - [Northguard: Scalable Log Storage at Linkedin (announcement event)](https://blog.typeobject.com/posts/2025-northguard-announcement/)
 * [2025-04-16, 18:55:12](https://news.ycombinator.com/item?id=43709042) - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 * [2025-04-16, 18:50:20](https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your) - [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 18:42:03](https://lobste.rs/s/z10qpb/resonate) - [Resonate](https://alexandrefrancois.org/Resonate/)
 * [2025-04-16, 18:34:40](https://lobste.rs/s/figswp/tls_certificate_lifetimes_will) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
-* [2025-04-16, 18:23:00](https://news.ycombinator.com/item?id=43708707) - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
 * [2025-04-16, 17:24:50](https://news.ycombinator.com/item?id=43708025) - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 17:09:31](https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for) - [Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
-* [2025-04-16, 17:09:18](https://news.ycombinator.com/item?id=43707805) - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
-* [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 16:42:00](https://tech.slashdot.org/story/25/04/16/1642209/google-to-phase-out-country-code-top-level-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google To Phase Out Country Code Top-level Domains](https://tech.slashdot.org/story/25/04/16/1642209/google-to-phase-out-country-code-top-level-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek&apos;s Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
@@ -99,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:55:40](https://lobste.rs/s/vsznsx/getting_better_performance_out_object) - [Getting better performance out of object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 * [2025-04-16, 15:35:18](https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
-* [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 15:20:00](https://tech.slashdot.org/story/25/04/16/1510222/companies-are-slashing-their-saas-spends-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Companies Are Slashing Their SaaS Spends, UBS Says](https://tech.slashdot.org/story/25/04/16/1510222/companies-are-slashing-their-saas-spends-ubs-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
@@ -112,22 +116,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use (2019)](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 * [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
-* [2025-04-16, 13:00:00](https://slashdot.org/story/25/04/16/0044254/figma-confidentailly-files-for-ipo-after-adobe-deal-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Figma Confidentailly Files For IPO After Adobe Deal Collapses](https://slashdot.org/story/25/04/16/0044254/figma-confidentailly-files-for-ipo-after-adobe-deal-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
-* [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:50:55](https://lobste.rs/s/8m9nmf/introducing_herb_new_html_aware_erb) - [Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling](https://marcoroth.dev/posts/introducing-herb)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
-* [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus (2022)](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
+* [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation](https://www.thecvefoundation.org/home)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss) - [Meeting Apple on Apple&apos;s Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss)
-* [2025-04-16, 10:00:00](https://it.slashdot.org/story/25/04/16/0050230/cybersecurity-world-on-edge-as-cve-program-prepares-to-go-dark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cybersecurity World On Edge As CVE Program Prepares To Go Dark](https://it.slashdot.org/story/25/04/16/0050230/cybersecurity-world-on-edge-as-cve-program-prepares-to-go-dark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
-* [2025-04-16, 07:00:00](https://games.slashdot.org/story/25/04/16/0038222/limited-edition-of-doom-includes-game-box-that-itself-plays-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Limited Edition of Doom Includes Game Box That, Itself, Plays Doom](https://games.slashdot.org/story/25/04/16/0038222/limited-edition-of-doom-includes-game-box-that-itself-plays-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
 * [2025-04-16, 05:54:55](https://lobste.rs/s/jrdlkp/raw_loops_for_performance) - [Raw loops for performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
 * [2025-04-16, 05:38:00](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss) - [Copilot Recall: Microsoft Rolls Out AI Screenshot Tool](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss)
-* [2025-04-16, 03:30:00](https://science.slashdot.org/story/25/04/16/0028246/older-people-who-use-smartphones-have-lower-rates-of-cognitive-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Older People Who Use Smartphones &apos;Have Lower Rates of Cognitive Decline&apos;](https://science.slashdot.org/story/25/04/16/0028246/older-people-who-use-smartphones-have-lower-rates-of-cognitive-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
-* [2025-04-16, 01:30:00](https://mobile.slashdot.org/story/25/04/16/0021259/free-wi-fi-is-on-its-way-to-american-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Free Wi-Fi Is On Its Way To American Airlines](https://mobile.slashdot.org/story/25/04/16/0021259/free-wi-fi-is-on-its-way-to-american-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss)
 * [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
@@ -140,14 +138,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 10:33:00](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss) - [ChatGPT Now Lets Users Create Fake Images of Politicians--Tool Suggested Own Workarounds](https://soylentnews.org/article.pl?sid=25/04/14/0616220&amp;from=rss)
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
-* [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
 * [2025-04-15, 05:52:00](https://soylentnews.org/article.pl?sid=25/04/14/0612230&amp;from=rss) - [Ethically Sourced “Spare” Human Bodies Could Revolutionize Medicine](https://soylentnews.org/article.pl?sid=25/04/14/0612230&amp;from=rss)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
 * [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss)
 * [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss)
 * [2025-04-14, 10:52:00](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss) - [More Microsoft Job Cuts Could Hit Non-Coding Staff And Middle Managers](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss)
-* [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation (2023)](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [2025-04-14, 10:18:12](https://news.ycombinator.com/item?id=43679764) - [Unix files have (at least) two sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes)
+* [2025-04-14, 06:15:59](https://news.ycombinator.com/item?id=43678533) - [Query Engines: Push vs. Pull (2021)](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2025-04-14, 06:10:00](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
+* [2025-04-14, 03:43:55](https://news.ycombinator.com/item?id=43677862) - [Demolishing the Fry&apos;s Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
 * [2025-04-14, 01:20:00](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss) - [Ukraine&apos;s Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 20:35:00](https://soylentnews.org/article.pl?sid=25/04/13/0316216&amp;from=rss) - [AI Marketing to Bypass Spam Filters](https://soylentnews.org/article.pl?sid=25/04/13/0316216&amp;from=rss)
@@ -156,9 +156,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-13, 11:06:00](https://soylentnews.org/article.pl?sid=25/04/13/037236&amp;from=rss) - [The U.S. is Building a Fuel Depot in Space](https://soylentnews.org/article.pl?sid=25/04/13/037236&amp;from=rss)
 * [2025-04-13, 06:22:00](https://soylentnews.org/article.pl?sid=25/04/13/033235&amp;from=rss) - [Germany, Ukraine Start Ramping Up Use of European Starlink Alternative](https://soylentnews.org/article.pl?sid=25/04/13/033235&amp;from=rss)
 * [2025-04-13, 01:40:00](https://soylentnews.org/article.pl?sid=25/04/11/132246&amp;from=rss) - [Brainpower Boosted by Tapping Out a Specific Rhythm, Study Finds](https://soylentnews.org/article.pl?sid=25/04/11/132246&amp;from=rss)
-* [2025-04-12, 22:12:19](https://news.ycombinator.com/item?id=43668312) - [The value of a dedicated data science approach in HR](https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/)
-* [2025-04-12, 20:56:00](https://soylentnews.org/article.pl?sid=25/04/11/1259205&amp;from=rss) - [How The Pentagon Is Adapting To China&apos;s Technological Rise](https://soylentnews.org/article.pl?sid=25/04/11/1259205&amp;from=rss)
-* [2025-04-12, 16:11:00](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss) - [Rare Crystal Shape Found to Increase the Strength of 3D-Printed Metal](https://soylentnews.org/article.pl?sid=25/04/11/1254254&amp;from=rss)
-* [2025-04-12, 11:28:00](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss) - [Mapping the Half-Billion Connections That Allow Mice to See](https://soylentnews.org/article.pl?sid=25/04/11/1250234&amp;from=rss)
-* [2025-04-12, 06:43:00](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss) - [Commission Targets in-Game Currency in Children&apos;s Video Games](https://soylentnews.org/article.pl?sid=25/04/11/1245213&amp;from=rss)
-* [2025-04-12, 01:57:00](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss) - [&apos;Doom Loops&apos; Are Accelerating Climate Change—but We Can Break Them](https://soylentnews.org/article.pl?sid=25/04/11/1149226&amp;from=rss)
