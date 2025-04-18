@@ -1,40 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and AI
+## Technology and Programming
 
-* [Police Using AI Personas to Infiltrate Online Activist Spaces, Records Reveal](https://slashdot.org/story/25/04/17/2259259/police-using-ai-personas-to-infiltrate-online-activist-spaces-records-reveal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Law enforcement agencies are employing artificial intelligence to create digital personas for undercover operations in activist groups, leading to debates about ethics and surveillance.
+* [olive.c: Simple 2D Graphics Library for C](https://github.com/tsoding/olive.c) - A lightweight library offering simple 2D graphics functionalities for C developers. [Comments](https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c)
 
-* [Microsoft Researchers Develop Hyper-Efficient AI Model That Can Run On CPUs](https://slashdot.org/story/25/04/17/2224205/microsoft-researchers-develop-hyper-efficient-ai-model-that-can-run-on-cpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers have built an AI model that operates efficiently on standard CPUs, potentially enabling broader AI deployment.
+* [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming) - Insights into lockless programming techniques and challenges. [Comments](https://lobste.rs/s/gnm0yj/lockless_programming_considerations)
 
-## Technology and Software Insights
+* [Reflections on Unikernels](https://dave.recoil.org/unikernels/) - A thoughtful perspective on the benefits and challenges of using unikernels. [Comments](https://lobste.rs/s/1ykhfa/reflections_on_unikernels)
 
-* [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/) - A nostalgic reflection on the shifts in the computing landscape that have made computers feel less engaging to enthusiasts.
+* [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/) - Exploring the trend of using PostgreSQL as a catch-all solution. [Comments](https://lobste.rs/s/lkrinq/just_throw_it_into_postgres)
 
-* [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html) - An argument for changing how Python developers approach initialization methods in modern programming.
+## Science and Space
 
-## Policy and Legal Battles
+* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - Astronomers detect oxygen in a galaxy at the farthest reaches of the universe. [Comments](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
 
-* [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/) - Intuit successfully lobbies against direct tax filing by the IRS, preserving its lucrative filing service business.
+* [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - A study finds a surprising commonality in the rotation of distant galaxies. [Comments](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
 
-* [Federal Judge Declares Google's Digital Ad Network Is an Illegal Monopoly](https://yro.slashdot.org/story/25/04/17/1950221/federal-judge-declares-googles-digital-ad-network-is-an-illegal-monopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A federal judge's ruling highlights the monopoly power of Google's advertising technology, potentially signaling industry restructuring.
+## Cybersecurity and Privacy
 
-## Scientific Discoveries and Methodologies
+* [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433) - A critical vulnerability exposes remote execution risks. [Comments](https://news.ycombinator.com/item?id=43716526)
 
-* [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&from=rss) - Research shows the significant potential of rooftop solar systems in reducing fossil fuel reliance and combating climate change.
+* [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/) - A hands-on guide to exposing the prevalence of location tracking. [Comments](https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it)
 
-* [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/) - An analysis of how memory size impacts the performance of the PostgreSQL database system.
+## Artificial Intelligence Developments
 
-## Cultural and Historical Narratives
+* [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517) - A surprising application of ChatGPT in geographic guessing games. [Comments](https://news.ycombinator.com/item?id=43723408)
 
-* [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/) - A moving personal story recounting the lessons learned from a life-changing health event.
+* [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all) - A new AI-driven assistant aims to enhance productivity. [Comments](https://news.ycombinator.com/item?id=43724941)
 
-* [How a Secretive Gambler Called 'The Joker' Took Down the Texas Lottery](https://news.slashdot.org/story/25/04/17/1440236/how-a-secretive-gambler-called-the-joker-took-down-the-texas-lottery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The story of a gambler's calculated moves to beat the lottery system sheds light on the vulnerabilities of gambling operations.
+## History and Politics
 
-## Creative and Experimental Projects
+* [A deep-cover KGB spy recruited his own son](https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals) - An intriguing story of Cold War espionage and familial dynamics. [Comments](https://news.ycombinator.com/item?id=43725124)
 
-* [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in) - An expansive analysis of music chord patterns offers insights into composition and trends in the music industry.
+* [The Joker Took Down the Texas Lottery](https://news.slashdot.org/story/25/04/17/1440236/how-a-secretive-gambler-called-the-joker-took-down-the-texas-lottery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A gambler's strategies reveal systemic lottery weaknesses. [Comments](https://news.slashdot.org/story/25/04/17/1440236/how-a-secretive-gambler-called-the-joker-took-down-the-texas-lottery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/) - A detailed case for using PostgreSQL as a versatile tool for diverse storage and processing tasks.
+## Environmental and Energy Topics
+
+* [US Halts $5 Billion New York Offshore Wind Project Mid-Build](https://news.slashdot.org/story/25/04/17/2217200/us-halts-5-billion-new-york-offshore-wind-project-mid-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Political and economic challenges stall ambitious renewable energy plans. [Comments](https://news.slashdot.org/story/25/04/17/2217200/us-halts-5-billion-new-york-offshore-wind-project-mid-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - A bold vision for solar energy's role in mitigating climate change. [Comments](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
 
 ---
 
@@ -61,10 +65,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-18, 05:57:25](https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c) - [olive.c: Simple 2D Graphics Library for C](https://github.com/tsoding/olive.c)
+* [2025-04-18, 05:13:52](https://lobste.rs/s/gnm0yj/lockless_programming_considerations) - [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming)
+* [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
+* [2025-04-18, 04:51:06](https://news.ycombinator.com/item?id=43725124) - [A deep-cover KGB spy recruited his own son](https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals)
+* [2025-04-18, 04:17:57](https://lobste.rs/s/l3vboo/software_development_has_too_much) - [Software Development Has Too Much Software In It](https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/)
+* [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
+* [2025-04-18, 04:12:21](https://news.ycombinator.com/item?id=43724941) - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
+* [2025-04-18, 03:59:35](https://news.ycombinator.com/item?id=43724870) - [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
 * [2025-04-18, 03:30:00](https://slashdot.org/story/25/04/17/2259259/police-using-ai-personas-to-infiltrate-online-activist-spaces-records-reveal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Police Using AI Personas to Infiltrate Online Activist Spaces, Records Reveal](https://slashdot.org/story/25/04/17/2259259/police-using-ai-personas-to-infiltrate-online-activist-spaces-records-reveal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 02:17:56](https://lobste.rs/s/6jd4qy/honest_elitist_thoughts_on_why_computers) - [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/)
-* [2025-04-18, 02:13:23](https://news.ycombinator.com/item?id=43724267) - [Intuit, Owner of TurboTax, Wins Battle Against America&apos;s Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
-* [2025-04-18, 01:37:50](https://news.ycombinator.com/item?id=43724087) - [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
 * [2025-04-18, 01:00:00](https://entertainment.slashdot.org/story/25/04/18/0012231/amazon-to-launch-first-vega-os-powered-tv-streaming-device-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon To Launch First Vega OS-powered TV Streaming Device This Year](https://entertainment.slashdot.org/story/25/04/18/0012231/amazon-to-launch-first-vega-os-powered-tv-streaming-device-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 * [2025-04-18, 00:57:54](https://lobste.rs/s/vuvkks/size_packets) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
@@ -72,11 +82,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-18, 00:20:00](https://news.slashdot.org/story/25/04/17/2250222/liz-truss-announces-uncensorable-social-media-venture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Liz Truss Announces &apos;Uncensorable&apos; Social Media Venture](https://news.slashdot.org/story/25/04/17/2250222/liz-truss-announces-uncensorable-social-media-venture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
 * [2025-04-17, 23:40:00](https://yro.slashdot.org/story/25/04/17/2229247/hp-agrees-to-4-million-settlement-over-claims-of-falsely-advertising-pcs-keyboards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HP Agrees To $4 Million Settlement Over Claims of &apos;Falsely Advertising&apos; PCs, Keyboards](https://yro.slashdot.org/story/25/04/17/2229247/hp-agrees-to-4-million-settlement-over-claims-of-falsely-advertising-pcs-keyboards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-17, 23:36:57](https://news.ycombinator.com/item?id=43723408) - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
 * [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
 * [2025-04-17, 23:00:00](https://slashdot.org/story/25/04/17/2224205/microsoft-researchers-develop-hyper-efficient-ai-model-that-can-run-on-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Researchers Develop Hyper-Efficient AI Model That Can Run On CPUs](https://slashdot.org/story/25/04/17/2224205/microsoft-researchers-develop-hyper-efficient-ai-model-that-can-run-on-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
-* [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
+* [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I analyzed chord progressions in 680k songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
 * [2025-04-17, 22:37:12](https://news.ycombinator.com/item?id=43722981) - [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/)
 * [2025-04-17, 22:20:00](https://news.slashdot.org/story/25/04/17/2217200/us-halts-5-billion-new-york-offshore-wind-project-mid-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Halts $5 Billion New York Offshore Wind Project Mid-Build](https://news.slashdot.org/story/25/04/17/2217200/us-halts-5-billion-new-york-offshore-wind-project-mid-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-17, 22:18:52](https://lobste.rs/s/wgiqko/decomposing_transactional_systems) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
@@ -94,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 18:05:15](https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix) - [Introducing Policy Servers for Matrix](https://matrix.org/blog/2025/04/introducing-policy-servers/)
 * [2025-04-17, 17:52:42](https://lobste.rs/s/lkrinq/just_throw_it_into_postgres) - [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
-* [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite transactions and virtual tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
 * [2025-04-17, 16:50:00](https://news.slashdot.org/story/25/04/17/1631222/ubuntu-2504-plucky-puffin-arrives-with-linux-614-gnome-48-and-arm64-desktop-iso?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubuntu 25.04 &apos;Plucky Puffin&apos; Arrives With Linux 6.14, GNOME 48, and ARM64 Desktop ISO](https://news.slashdot.org/story/25/04/17/1631222/ubuntu-2504-plucky-puffin-arrives-with-linux-614-gnome-48-and-arm64-desktop-iso?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-17, 16:33:15](https://lobste.rs/s/quf2zn/hdr_infused_emoji) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
@@ -109,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 14:40:00](https://news.slashdot.org/story/25/04/17/1440236/how-a-secretive-gambler-called-the-joker-took-down-the-texas-lottery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Secretive Gambler Called &apos;The Joker&apos; Took Down the Texas Lottery](https://news.slashdot.org/story/25/04/17/1440236/how-a-secretive-gambler-called-the-joker-took-down-the-texas-lottery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-17, 13:58:14](https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful) - [iOS 18.4 - dlsym considered harmful](https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful)
 * [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
-* [2025-04-17, 13:42:15](https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-17, 13:41:49](https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
@@ -120,19 +129,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
-* [2025-04-17, 09:21:34](https://lobste.rs/s/ysq9w3/regular_expression_derivatives_python) - [Regular Expression Derivatives in Python](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
-* [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL fiasco](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) - [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss)
 * [2025-04-17, 03:53:19](https://lobste.rs/s/idtroe/unsure_calculator) - [Unsure Calculator](https://filiph.github.io/unsure/)
-* [2025-04-17, 02:51:04](https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql) - [sqlc: Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 * [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss)
-* [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab&apos;s animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
-* [2025-04-16, 21:12:17](https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source) - [deb-books: books hidden in Debian source packages](https://codeberg.org/jwilk/deb-books)
 * [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
-* [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss) - [Meeting Apple on Apple&apos;s Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss)
 * [2025-04-16, 05:38:00](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss) - [Copilot Recall: Microsoft Rolls Out AI Screenshot Tool](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss)
 * [2025-04-16, 00:49:00](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss) - [Cooling Chips With Lasers: Innovative Cooling Method Removes Heat Precisely From Hot Spots](https://soylentnews.org/article.pl?sid=25/04/15/0115256&amp;from=rss)
@@ -146,9 +149,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-15, 05:52:00](https://soylentnews.org/article.pl?sid=25/04/14/0612230&amp;from=rss) - [Ethically Sourced “Spare” Human Bodies Could Revolutionize Medicine](https://soylentnews.org/article.pl?sid=25/04/14/0612230&amp;from=rss)
 * [2025-04-15, 01:12:00](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss) - [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
 * [2025-04-14, 20:23:00](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss) - [Aztecs Versus Mayans - Unwrapping History Clue by Clue](https://soylentnews.org/article.pl?sid=25/04/14/0550254&amp;from=rss)
-* [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
+* [2025-04-14, 19:15:35](https://news.ycombinator.com/item?id=43685033) - [Aqua Tofana: The 17th Century Husband Killer](https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html)
+* [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 * [2025-04-14, 15:39:00](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss) - [A Tricky Commodore PET Repair: Tracking Down 6 1/2 Bad Chips](https://soylentnews.org/article.pl?sid=25/04/14/0540259&amp;from=rss)
 * [2025-04-14, 10:52:00](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss) - [More Microsoft Job Cuts Could Hit Non-Coding Staff And Middle Managers](https://soylentnews.org/article.pl?sid=25/04/13/0349258&amp;from=rss)
+* [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
 * [2025-04-14, 06:10:00](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss) - [Galaxies in the Deep Universe Rotate in the Same Direction](https://soylentnews.org/article.pl?sid=25/04/13/0339214&amp;from=rss)
 * [2025-04-14, 01:20:00](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss) - [Ukraine&apos;s Autonomous Killer Drones Defeat Electronic Warfare](https://soylentnews.org/article.pl?sid=25/04/13/0327231&amp;from=rss)
