@@ -1,62 +1,48 @@
-# News Summary
+# [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming
+## Technological Breakthroughs and Innovations
 
-* [Deus Lex Machina: releasing a new compacting Zig tokenizer](https://validark.dev/posts/deus-lex-machina/) ([Comments](https://lobste.rs/s/2ydd6d/deus_lex_machina_releasing_new))
+* [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/) ([Comments](https://lobste.rs/s/xsojm5/efficient_e_matching_for_super))
+* [Goldbach Conjecture Verified Up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 
-* [pahole: Analysing Memory Layout of Complex Data Structures With Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/) ([Comments](https://lobste.rs/s/cdxosy/pahole_analysing_memory_layout_complex))
+* [Rooftop Solar PV Could Supply Two-Thirds of World's Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
 
-* [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way) ([Comments](https://news.ycombinator.com/item?id=43733636))
+* [Google’s New Ironwood Chip is 24x More Powerful Than the World’s Fastest Supercomputer](https://soylentnews.org/article.pl?sid=25/04/14/067223&amp;from=rss)
 
-* [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/) ([Comments](https://news.ycombinator.com/item?id=43728279))
+* [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 
-* [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html) ([Comments](https://news.ycombinator.com/item?id=43731165))
+## Scientific Discoveries
 
-* [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc) ([Comments](https://news.ycombinator.com/item?id=43730458))
+* [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html) ([Comments](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal))
+* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
 
-* [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html) ([Comments](https://lobste.rs/s/lfdslx/stop_writing_init_methods))
+* [There’s Life Inside Earth’s Crust](https://www.noemamag.com/theres-life-inside-earths-crust)
 
-* [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/) ([Comments](https://news.ycombinator.com/item?id=43729932))
+## Digital and Software Trends
 
-## Artificial Intelligence
+* [15,000 Lines of Verified Cryptography Now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 
-* [OpenAI Puzzled as New Models Show Rising Hallucination Rates](https://slashdot.org/story/25/04/18/2323216/openai-puzzled-as-new-models-show-rising-hallucination-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43732805))
+* [Deus Lex Machina: Releasing a New Compacting Zig Tokenizer](https://validark.dev/posts/deus-lex-machina/)
 
-* [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ([Comments](https://news.ycombinator.com/item?id=43733553))
+* [OpenAI Puzzled as New Models Show Rising Hallucination Rates](https://slashdot.org/story/25/04/18/2323216/openai-puzzled-as-new-models-show-rising-hallucination-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins) ([Comments](https://news.ycombinator.com/item?id=43708841))
+## Entertainment and Pop Culture
 
-* [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/) ([Comments](https://news.ycombinator.com/item?id=43707372))
+* [A Musician’s Brain Matter Is Still Making Music Three Years After His Death](https://entertainment.slashdot.org/story/25/04/18/2128209/a-musicians-brain-matter-is-still-making-music-three-years-after-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss))
+* [The British Sitcom that Swept Through the Balkans](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 
-## Science and Discoveries
+* [Netflix Revenue Rises To $10.5 Billion Following Price Hike](https://entertainment.slashdot.org/story/25/04/18/2118236/netflix-revenue-rises-to-105-billion-following-price-hike?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [A Musician's Brain Matter Is Still Making Music Three Years After His Death](https://entertainment.slashdot.org/story/25/04/18/2128209/a-musicians-brain-matter-is-still-making-music-three-years-after-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43733463))
+## Policy and Ethical Implications
 
-* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/16/1849251&from=rss))
+* [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://yro.slashdot.org/story/25/04/18/1941239/judge-rules-blanket-search-of-cell-tower-data-unconstitutional?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [There's Life Inside Earth's Crust](https://www.noemamag.com/theres-life-inside-earths-crust/) ([Comments](https://news.ycombinator.com/item?id=43730701))
+* [Actors Who Sold AI Avatars Stuck In Black Mirror-Esque Dystopia](https://slashdot.org/story/25/04/18/202223/actors-who-sold-ai-avatars-stuck-in-black-mirror-esque-dystopia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Climate Change Will Make Rice Toxic, Say Researchers](https://news.slashdot.org/story/25/04/18/1115204/climate-change-will-make-rice-toxic-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43729683))
-
-* [Hydrogen vs. Battery Buses: A European Transit Reality Check](https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/) ([Comments](https://news.ycombinator.com/item?id=43703998))
-
-## Miscellaneous
-
-* [Fresh Tools That Keep Vintage Macs Online and Weirdly Alive](https://apple.slashdot.org/story/25/04/18/2248231/fresh-tools-that-keep-vintage-macs-online-and-weirdly-alive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://apple.slashdot.org/story/25/04/18/2248231/fresh-tools-that-keep-vintage-macs-online-and-weirdly-alive?utm_source=rss1.0mainlinkanon&from=rss))
-
-* [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/) ([Comments](https://news.ycombinator.com/item?id=43733097))
-
-* [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://yro.slashdot.org/story/25/04/18/1941239/judge-rules-blanket-search-of-cell-tower-data-unconstitutional?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=43730545))
-
-* [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/17/1336207&from=rss))
-
-* [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project) ([Comments](https://news.ycombinator.com/item?id=43730885))
+* [States Are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
 
 ---
 
@@ -83,6 +69,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
+* [2025-04-19, 08:30:00](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-19, 08:13:54](https://lobste.rs/s/hgltzs/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
+* [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
+* [2025-04-19, 07:50:36](https://news.ycombinator.com/item?id=43734910) - [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
+* [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
+* [2025-04-19, 07:00:00](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 * [2025-04-19, 06:11:07](https://lobste.rs/s/2ydd6d/deus_lex_machina_releasing_new) - [Deus Lex Machina: releasing a new compacting Zig tokenizer](https://validark.dev/posts/deus-lex-machina/)
 * [2025-04-19, 05:45:22](https://lobste.rs/s/xsojm5/efficient_e_matching_for_super) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
@@ -105,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-18, 22:40:00](https://it.slashdot.org/story/25/04/18/209230/study-finds-50-of-workers-use-unapproved-ai-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds 50% of Workers Use Unapproved AI Tools](https://it.slashdot.org/story/25/04/18/209230/study-finds-50-of-workers-use-unapproved-ai-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 22:00:00](https://slashdot.org/story/25/04/18/202223/actors-who-sold-ai-avatars-stuck-in-black-mirror-esque-dystopia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Actors Who Sold AI Avatars Stuck In Black Mirror-Esque Dystopia](https://slashdot.org/story/25/04/18/202223/actors-who-sold-ai-avatars-stuck-in-black-mirror-esque-dystopia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 21:20:00](https://it.slashdot.org/story/25/04/18/1949253/ibm-orders-us-sales-to-locate-near-customers-or-offices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Orders US Sales To Locate Near Customers or Offices](https://it.slashdot.org/story/25/04/18/1949253/ibm-orders-us-sales-to-locate-near-customers-or-offices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:40:00](https://yro.slashdot.org/story/25/04/18/1941239/judge-rules-blanket-search-of-cell-tower-data-unconstitutional?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://yro.slashdot.org/story/25/04/18/1941239/judge-rules-blanket-search-of-cell-tower-data-unconstitutional?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 20:00:00](https://slashdot.org/story/25/04/18/1212204/netflix-ceo-counters-camerons-ai-cost-cutting-vision-make-movies-10-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix CEO Counters Cameron&apos;s AI Cost-Cutting Vision: &apos;Make Movies 10% Better&apos;](https://slashdot.org/story/25/04/18/1212204/netflix-ceo-counters-camerons-ai-cost-cutting-vision-make-movies-10-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -119,16 +112,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-18, 18:40:00](https://science.slashdot.org/story/25/04/18/1130208/toothpaste-widely-contaminated-with-lead-and-other-metals-us-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toothpaste Widely Contaminated With Lead and Other Metals, US Research Finds](https://science.slashdot.org/story/25/04/18/1130208/toothpaste-widely-contaminated-with-lead-and-other-metals-us-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 18:35:05](https://news.ycombinator.com/item?id=43730701) - [There&apos;s Life Inside Earth&apos;s Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
-* [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 18:00:00](https://yro.slashdot.org/story/25/04/18/1126225/anti-spying-phone-pouches-offered-to-eu-lawmakers-for-trip-to-hungary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anti-Spying Phone Pouches Offered To EU Lawmakers For Trip To Hungary](https://yro.slashdot.org/story/25/04/18/1126225/anti-spying-phone-pouches-offered-to-eu-lawmakers-for-trip-to-hungary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 17:57:27](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal) - [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
-* [2025-04-18, 17:20:00](https://it.slashdot.org/story/25/04/18/1123249/godaddy-registry-error-knocked-zoom-offline-for-nearly-two-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GoDaddy Registry Error Knocked Zoom Offline for Nearly Two Hours](https://it.slashdot.org/story/25/04/18/1123249/godaddy-registry-error-knocked-zoom-offline-for-nearly-two-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 * [2025-04-18, 16:46:29](https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
-* [2025-04-18, 16:40:00](https://news.slashdot.org/story/25/04/18/1115204/climate-change-will-make-rice-toxic-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Climate Change Will Make Rice Toxic, Say Researchers](https://news.slashdot.org/story/25/04/18/1115204/climate-change-will-make-rice-toxic-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
-* [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 * [2025-04-18, 15:39:38](https://lobste.rs/s/qof7at/antithesis_driven_testing) - [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
@@ -137,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
-* [2025-04-18, 10:00:10](https://lobste.rs/s/sk1xqi/vibing_code_quality) - [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
@@ -152,13 +139,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) - [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss)
+* [2025-04-17, 04:36:34](https://news.ycombinator.com/item?id=43713159) - [Center Pieces and Lunch Sets in Crochet Work (1915)](https://www.gutenberg.org/cache/epub/75880/pg75880-images.html)
+* [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru&apos;s ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
 * [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss)
 * [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
-* [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
-* [2025-04-16, 14:46:47](https://news.ycombinator.com/item?id=43706247) - [Jupiter, it&apos;s mushballs all the way down](https://www.sciencedaily.com/releases/2025/04/250415183433.htm)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-16, 11:26:27](https://news.ycombinator.com/item?id=43703998) - [Hydrogen vs. Battery Buses: A European Transit Reality Check](https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss) - [Meeting Apple on Apple&apos;s Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss)
