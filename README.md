@@ -1,50 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Industry Updates
+## Technology and Engineering
 
-* [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking development in flash memory technology promises 10,000 times faster speeds, revolutionizing storage solutions.
+* [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR) – A new project offers a compact LIDAR scanner that can be integrated with Raspberry Pi, showcasing advancements in affordable sensor technologies. [Comments](https://news.ycombinator.com/item?id=43738561)
 
-* [Brain Implant Cleared by America&apos;s FDA to Help Paralysis Patients](https://hardware.slashdot.org/story/25/04/19/057216/brain-implant-cleared-by-americas-fda-to-help-paralysis-patients?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A futuristic brain implant approved for aiding paralysis patients demonstrates significant medical advancements in neural interface technology.
+* [Go assembler generator](https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen) – A tool developed for generating Go assembly code for improved performance through automatic code generation. [Comments](https://lobste.rs/s/chkque/go_assembler_generator)
 
-* [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html) - Verified cryptography in Python reaches a milestone of 15,000 lines, emphasizing stronger security in software development.
+* [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html) – The latest version of the Lustre programming language adds new features and improvements. [Comments](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released)
 
-## Scientific Discoveries
+## Science and Environment
 
-* [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers claim discovery of a novel color unseen before, pushing the boundaries of human perception.
+* [Scientists Find Rare Evidence Earth is 'Peeling' Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Geologists uncover rare instances of Earth’s crust peeling and reshaping itself beneath a mountain range. [Comments](https://news.ycombinator.com/item?id=43740858)
 
-* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - A distant galaxy has yielded traces of oxygen, offering new insights into the universe's early chemical complexity.
+* [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) – NASA's Curiosity rover discovers clues that suggest a past carbon cycle on Mars, hinting at potential historical viability for life. [Comments](https://news.ycombinator.com/item?id=43739529)
 
-* [Scientists Find Rare Evidence Earth is &apos;Peeling&apos; Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Geological evidence reveals Earth's crust 'peeling' in the Sierra Nevada, a phenomenon with implications for tectonic science.
+* [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Researchers analyze optical phenomena that might produce a previously unseen color. [Comments](https://lobste.rs/s/hgltzs/easters_adventofcode_like_challenge_for)
 
-## AI and Automation
+## Artificial Intelligence
 
-* [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - An exploration of AI Manus, a system causing waves in artificial intelligence conversations.
+* [The AI Skeptic's Guide to AI Collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration) – This guide challenges optimistic assumptions about AI collaboration and provides a critical perspective. [Comments](https://news.ycombinator.com/item?id=43741655)
 
-* [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Experts discuss how AI and automation could drive breakthroughs in treating cancer and possibly aging.
+* [High School Student Discovers 1.5M New Astronomical Objects by Developing an AI Algorithm](https://science.slashdot.org/story/25/04/19/1353245/high-school-student-discovers-15m-new-astronomical-objects-by-developing-an-ai-algorithm?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A teenager leverages AI to make groundbreaking discoveries in astronomy. [Comments](https://news.ycombinator.com/item?id=43739456)
 
-## Historical and Cultural Insights
+* [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&from=rss) – Military applications of AI enter a second phase with advancements in autonomous and intelligent systems. [Comments](https://news.ycombinator.com/item?id=43717513)
 
-* [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - A retrospective on how an iconic toy innovation paved the way for robotics evolution.
+## Programming and Software Development
 
-* [When Gandhi met Satoshi](https://prahladyeri.github.io/blog/2025/04/when-gandhi-met-satoshi.html) - An intriguing thought experiment connecting the ideals of Gandhi with the philosophies of Satoshi Nakamoto.
+* [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/) – A comprehensive and beginner-friendly guide designed to help developers master Git. [Comments](https://lobste.rs/s/uxnxin/beej_s_guide_git)
 
-## Space Exploration
+* [Frankenstein’s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/) – A unique exploration of Python’s construction methods and unconventional usages. [Comments](https://news.ycombinator.com/item?id=43736791)
 
-* [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Mars's ancient carbon cycle shows intriguing hints of possible past life or unique geological processes.
+* [Vendoring](https://htmx.org/essays/vendoring/) – An article examining the practice and philosophy surrounding code vendoring in software systems. [Comments](https://lobste.rs/s/xcqdye/vendoring)
 
-* [Engineers Want To Bring Home the World&apos;s Oldest Satellite](https://science.slashdot.org/story/25/04/19/1327201/engineers-want-to-bring-home-the-worlds-oldest-satellite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Efforts are underway to retrieve the oldest satellite from orbit, preserving a piece of space history.
+## Media and Culture
 
-## Health and Medicine
+* [New 'Star Wars' Movie Announced Set 5 Years After 'Rise of Skywalker'](https://entertainment.slashdot.org/story/25/04/19/2211253/new-star-wars-movie-announced-set-5-years-after-rise-of-skywalker?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Disney announces a new ‘Star Wars’ movie that explores the galaxy’s future post-Skywalker saga. [Comments](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing)
 
-* [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - New research highlights medical cannabis's potential in cancer treatment, based on the largest study conducted so far.
-
-* [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - Environmental concerns rise as dolphins succumb to legacy chemicals banned decades ago.
-
-## Environmental Challenges and Solutions
-
-* [About 15% of World&apos;s Cropland Polluted With Toxic Metals, Say Researchers](https://news.slashdot.org/story/25/04/18/2345235/about-15-of-worlds-cropland-polluted-with-toxic-metals-say-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarm over global agriculture as research identifies heavy metal pollution in a portion of the world’s cropland.
-
-* [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - A renewable energy breakthrough highlights the untapped potential of rooftop solar panels for global energy demands.
+* [When Gandhi Met Satoshi](https://prahladyeri.github.io/blog/2025/04/when-gandhi-met-satoshi.html) – A creative take on the hypothetical encounter between historical philosophy and modern cryptography. [Comments](https://lobste.rs/s/nd2gto/when_gandhi_met_satoshi)
 
 ---
 
@@ -71,9 +63,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-20, 09:52:58](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
+* [2025-04-20, 07:34:00](https://entertainment.slashdot.org/story/25/04/19/2211253/new-star-wars-movie-announced-set-5-years-after-rise-of-skywalker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New &apos;Star Wars&apos; Movie Announced Set 5 Years After &apos;Rise of Skywalker&apos;](https://entertainment.slashdot.org/story/25/04/19/2211253/new-star-wars-movie-announced-set-5-years-after-rise-of-skywalker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-20, 07:17:37](https://lobste.rs/s/uxnxin/beej_s_guide_git) - [Beej&apos;s Guide to Git](https://beej.us/guide/bggit/html/split/)
+* [2025-04-20, 07:13:00](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss) - [Here&apos;s How a Satellite Ended Up as a Ghostly Apparition on Google Earth](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss)
+* [2025-04-20, 07:03:55](https://lobste.rs/s/chkque/go_assembler_generator) - [Go assembler generator](https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen)
 * [2025-04-20, 06:51:58](https://lobste.rs/s/9wcjqa/common_expression_language) - [Common Expression Language](https://github.com/google/cel-spec)
+* [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
+* [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 06:07:07](https://lobste.rs/s/khmxui/let_s_give_pro_venix_barely_adequate_pre) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack (featuring Slirp-CK)](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 05:50:42](https://lobste.rs/s/oybzgm/ansible_pure_only_its_pragmatism) - [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
+* [2025-04-20, 05:09:05](https://news.ycombinator.com/item?id=43741655) - [The AI skeptic&apos;s guide to AI collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration)
 * [2025-04-20, 04:34:00](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Chipmakers Fear Ceding China&apos;s AI Market to Huawei After New Trump Restrictions](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 03:22:54](https://lobste.rs/s/nd2gto/when_gandhi_met_satoshi) - [When Gandhi met Satoshi](https://prahladyeri.github.io/blog/2025/04/when-gandhi-met-satoshi.html)
 * [2025-04-20, 03:21:53](https://lobste.rs/s/yhtpk0/things_zig_comptime_won_t_do) - [Things Zig comptime Won&apos;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
@@ -89,13 +89,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 22:34:00](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
 * [2025-04-19, 21:34:00](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf] (2003)](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
-* [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky&apos;s Theorem](https://mathmondays.com/monskys-theorem)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language (2010)](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:34:00](https://science.slashdot.org/story/25/04/19/1353245/high-school-student-discovers-15m-new-astronomical-objects-by-developing-an-ai-algorithm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [High School Student Discovers 1.5M New Astronomical Objects by Developing an AI Algorithm](https://science.slashdot.org/story/25/04/19/1353245/high-school-student-discovers-15m-new-astronomical-objects-by-developing-an-ai-algorithm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 * [2025-04-19, 19:34:00](https://it.slashdot.org/story/25/04/19/1745216/cabrowser-forum-votes-for-47-day-cert-durations-by-2029?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CA/Browser Forum Votes for 47-Day Cert Durations By 2029](https://it.slashdot.org/story/25/04/19/1745216/cabrowser-forum-votes-for-47-day-cert-durations-by-2029?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System (2024)](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
@@ -123,13 +119,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
 * [2025-04-19, 11:30:43](https://lobste.rs/s/bejeov/frankenstein_s_init) - [Frankenstein’s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
+* [2025-04-19, 11:14:17](https://news.ycombinator.com/item?id=43735643) - [Release: OLED Mode extension for Chrome](https://github.com/FreelanceProgrammingServices/Chrome-OLED-Mode)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 10:00:00](https://news.slashdot.org/story/25/04/18/2345235/about-15-of-worlds-cropland-polluted-with-toxic-metals-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [About 15% of World&apos;s Cropland Polluted With Toxic Metals, Say Researchers](https://news.slashdot.org/story/25/04/18/2345235/about-15-of-worlds-cropland-polluted-with-toxic-metals-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
 * [2025-04-19, 08:30:00](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 08:13:54](https://lobste.rs/s/hgltzs/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
-* [2025-04-19, 07:00:00](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 06:11:07](https://lobste.rs/s/2ydd6d/deus_lex_machina_releasing_new) - [Deus Lex Machina: releasing a new compacting Zig tokenizer](https://validark.dev/posts/deus-lex-machina/)
 * [2025-04-19, 05:45:22](https://lobste.rs/s/xsojm5/efficient_e_matching_for_super) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
@@ -138,10 +134,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
 * [2025-04-18, 19:27:18](https://lobste.rs/s/8an4my/15_000_lines_verified_cryptography_now) - [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
-* [2025-04-18, 16:46:29](https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
-* [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
-* [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
 * [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
@@ -149,12 +142,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss)
 * [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss)
 * [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
+* [2025-04-17, 14:29:32](https://news.ycombinator.com/item?id=43717403) - [Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
 * [2025-04-17, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) - [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss)
 * [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss)
-* [2025-04-16, 22:08:33](https://news.ycombinator.com/item?id=43710912) - [Calypsi: A series of C compiler and assembly language cross compiler tool chains](https://github.com/hth313/Calypsi-tool-chains)
 * [2025-04-16, 20:48:07](https://news.ycombinator.com/item?id=43710220) - [Translate Fortran to C++ with AI and RAG](https://www.lanl.gov/media/publications/1663/0125-llm-translation)
 * [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss)
 * [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
