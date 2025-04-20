@@ -1,40 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology Innovations and Industry Updates
 
-* [Brain Implant Cleared by America's FDA to Help Paralysis Patients](https://hardware.slashdot.org/story/25/04/19/057216/brain-implant-cleared-by-americas-fda-to-help-paralysis-patients?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough device offering hope for paralysis patients, cleared by the FDA, highlights neural technology's growing medical potential.
+* [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking development in flash memory technology promises 10,000 times faster speeds, revolutionizing storage solutions.
 
-* [China Develops Flash Memory 10,000x Faster With 400-Picosecond Speed](https://hardware.slashdot.org/story/25/04/18/2255249/china-develops-flash-memory-10000x-faster-with-400-picosecond-speed?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revolutionary flash memory innovation from China could transform data storage and computational speeds.
+* [Brain Implant Cleared by America&apos;s FDA to Help Paralysis Patients](https://hardware.slashdot.org/story/25/04/19/057216/brain-implant-cleared-by-americas-fda-to-help-paralysis-patients?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A futuristic brain implant approved for aiding paralysis patients demonstrates significant medical advancements in neural interface technology.
 
-* [High School Student Discovers 1.5M New Astronomical Objects by Developing an AI Algorithm](https://science.slashdot.org/story/25/04/19/1353245/high-school-student-discovers-15m-new-astronomical-objects-by-developing-an-ai-algorithm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A young prodigy uses AI to make significant contributions to astronomy by uncovering millions of new celestial objects.
-
-* [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052) - Researchers explore how targeted eye stimulation creates new visual experiences, revealing the brain's perception mechanics.
+* [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html) - Verified cryptography in Python reaches a milestone of 15,000 lines, emphasizing stronger security in software development.
 
 ## Scientific Discoveries
 
-* [Scientists Find Rare Evidence Earth is 'Peeling' Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unearthed geological phenomena provide fresh insights into Earth's dynamic crust movements.
+* [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers claim discovery of a novel color unseen before, pushing the boundaries of human perception.
 
-* [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Curiosity Rover's findings hint at ancient Mars' potential for sustaining life.
+* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - A distant galaxy has yielded traces of oxygen, offering new insights into the universe's early chemical complexity.
 
-* [Scientists Claim To Have Found Color No One Has Seen Before](https://science.slashdot.org/story/25/04/19/0654204/scientists-claim-to-have-found-color-no-one-has-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists push the boundaries of human perception by presenting a novel visual phenomenon.
+* [Scientists Find Rare Evidence Earth is &apos;Peeling&apos; Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Geological evidence reveals Earth's crust 'peeling' in the Sierra Nevada, a phenomenon with implications for tectonic science.
 
-## Artificial Intelligence and Automation
+## AI and Automation
 
-* [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - Manus, a cutting-edge AI tool, undergoes detailed evaluation by researchers.
+* [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - An exploration of AI Manus, a system causing waves in artificial intelligence conversations.
 
-* [As Russia and China 'Seed Chatbots With Lies', Any Bad Actor Could Game AI the Same Way](https://yro.slashdot.org/story/25/04/19/1531238/as-russia-and-china-seed-chatbots-with-lies-any-bad-actor-could-game-ai-the-same-way?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Tackling misinformation in AI chatbots becomes critical as geopolitical implications emerge.
+* [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Experts discuss how AI and automation could drive breakthroughs in treating cancer and possibly aging.
 
-* [A Musician's Brain Matter Is Still Making Music Three Years After His Death](https://entertainment.slashdot.org/story/25/04/18/2128209/a-musicians-brain-matter-is-still-making-music-three-years-after-his-death?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An experiment defying logic combines music composition posthumously with cutting-edge tech.
+## Historical and Cultural Insights
 
-* [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - A creative AI effort explores turning complex GitHub repositories into beginner-friendly tutorials.
+* [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - A retrospective on how an iconic toy innovation paved the way for robotics evolution.
 
-## Mathematics and Computational Complexity
+* [When Gandhi met Satoshi](https://prahladyeri.github.io/blog/2025/04/when-gandhi-met-satoshi.html) - An intriguing thought experiment connecting the ideals of Gandhi with the philosophies of Satoshi Nakamoto.
 
-* [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html) - The century-long journey to crack a mathematical puzzle, revealing the beauty of problem-solving.
+## Space Exploration
 
-* [Monsky's Theorem](https://mathmondays.com/monskys-theorem) - Dive into a surprising and visually striking theorem situated in geometry.
+* [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Mars's ancient carbon cycle shows intriguing hints of possible past life or unique geological processes.
 
-* [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf) - A fascinating exploration of algorithms underpinning modern air travel planning systems.
+* [Engineers Want To Bring Home the World&apos;s Oldest Satellite](https://science.slashdot.org/story/25/04/19/1327201/engineers-want-to-bring-home-the-worlds-oldest-satellite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Efforts are underway to retrieve the oldest satellite from orbit, preserving a piece of space history.
+
+## Health and Medicine
+
+* [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - New research highlights medical cannabis's potential in cancer treatment, based on the largest study conducted so far.
+
+* [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - Environmental concerns rise as dolphins succumb to legacy chemicals banned decades ago.
+
+## Environmental Challenges and Solutions
+
+* [About 15% of World&apos;s Cropland Polluted With Toxic Metals, Say Researchers](https://news.slashdot.org/story/25/04/18/2345235/about-15-of-worlds-cropland-polluted-with-toxic-metals-say-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarm over global agriculture as research identifies heavy metal pollution in a portion of the world’s cropland.
+
+* [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - A renewable energy breakthrough highlights the untapped potential of rooftop solar panels for global energy demands.
 
 ---
 
@@ -61,6 +71,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-20, 06:51:58](https://lobste.rs/s/9wcjqa/common_expression_language) - [Common Expression Language](https://github.com/google/cel-spec)
+* [2025-04-20, 06:07:07](https://lobste.rs/s/khmxui/let_s_give_pro_venix_barely_adequate_pre) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack (featuring Slirp-CK)](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
+* [2025-04-20, 05:50:42](https://lobste.rs/s/oybzgm/ansible_pure_only_its_pragmatism) - [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
+* [2025-04-20, 04:34:00](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Chipmakers Fear Ceding China&apos;s AI Market to Huawei After New Trump Restrictions](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 03:22:54](https://lobste.rs/s/nd2gto/when_gandhi_met_satoshi) - [When Gandhi met Satoshi](https://prahladyeri.github.io/blog/2025/04/when-gandhi-met-satoshi.html)
 * [2025-04-20, 03:21:53](https://lobste.rs/s/yhtpk0/things_zig_comptime_won_t_do) - [Things Zig comptime Won&apos;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 03:18:16](https://lobste.rs/s/kbxwtv/notes_on_b_k_implementation) - [Notes on B (K) Implementation](https://docs.google.com/document/d/1W83ME5JecI2hd5hAUqQ1BVF32wtCel8zxb7WPq-D4f8/edit?tab=t.0#heading=h.moseg6gryxz1)
@@ -68,13 +82,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
 * [2025-04-20, 02:14:40](https://news.ycombinator.com/item?id=43741051) - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
 * [2025-04-20, 02:03:09](https://news.ycombinator.com/item?id=43741013) - [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
+* [2025-04-20, 01:58:17](https://news.ycombinator.com/item?id=43740992) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 01:39:00](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Find Rare Evidence Earth is &apos;Peeling&apos; Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 01:28:41](https://news.ycombinator.com/item?id=43740858) - [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
 * [2025-04-19, 22:34:00](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
 * [2025-04-19, 21:34:00](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
+* [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf] (2003)](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky&apos;s Theorem](https://mathmondays.com/monskys-theorem)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
@@ -93,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 18:08:42](https://news.ycombinator.com/item?id=43738195) - [Don&apos;t force your kids to do math](https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/)
 * [2025-04-19, 17:34:00](https://news.slashdot.org/story/25/04/19/0413205/arch-linux-is-the-latest-distro-replacing-redis-with-valkey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arch Linux Is the Latest Distro Replacing Redis with Valkey](https://news.slashdot.org/story/25/04/19/0413205/arch-linux-is-the-latest-distro-replacing-redis-with-valkey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss)
-* [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
 * [2025-04-19, 16:34:00](https://yro.slashdot.org/story/25/04/19/1531238/as-russia-and-china-seed-chatbots-with-lies-any-bad-actor-could-game-ai-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Russia and China &apos;Seed Chatbots With Lies&apos;, Any Bad Actor Could Game AI the Same Way](https://yro.slashdot.org/story/25/04/19/1531238/as-russia-and-china-seed-chatbots-with-lies-any-bad-actor-could-game-ai-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -121,33 +135,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
 * [2025-04-19, 04:32:09](https://lobste.rs/s/dzpaij/buried_toggles_begging_be_brought_light) - [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
 * [2025-04-19, 03:38:18](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some) - [Open Core and .NET Foundation: Time for Some Introspection?](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some)
-* [2025-04-19, 03:30:00](https://entertainment.slashdot.org/story/25/04/18/2128209/a-musicians-brain-matter-is-still-making-music-three-years-after-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Musician&apos;s Brain Matter Is Still Making Music Three Years After His Death](https://entertainment.slashdot.org/story/25/04/18/2128209/a-musicians-brain-matter-is-still-making-music-three-years-after-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
 * [2025-04-18, 19:27:18](https://lobste.rs/s/8an4my/15_000_lines_verified_cryptography_now) - [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
 * [2025-04-18, 16:46:29](https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
-* [2025-04-18, 13:59:06](https://lobste.rs/s/20nle9/common_shell_script_mistakes) - [Common shell script mistakes](https://www.pixelbeat.org/programming/shell_script_mistakes.html)
-* [2025-04-18, 13:55:45](https://lobste.rs/s/s4nfxt/easter_hack_terraform_provider_openwrt) - [Easter hack: terraform-provider-openwrt](https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/)
 * [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
 * [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
 * [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss)
-* [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
-* [2025-04-17, 22:17:06](https://news.ycombinator.com/item?id=43722816) - [British rebellion against Roman legions caused by drought, research finds](https://www.theguardian.com/uk-news/2025/apr/17/british-rebellion-against-roman-legions-caused-by-drought-research-finds)
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss)
 * [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss)
 * [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
+* [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
 * [2025-04-17, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) - [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss)
-* [2025-04-17, 01:05:22](https://news.ycombinator.com/item?id=43712024) - [The Animals That Exist Between Life and Death](https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/)
 * [2025-04-17, 00:39:00](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss) - [Dolphins Are Dying From Toxic Chemicals Banned Since the 1980s](https://soylentnews.org/article.pl?sid=25/04/16/1151239&amp;from=rss)
 * [2025-04-16, 22:08:33](https://news.ycombinator.com/item?id=43710912) - [Calypsi: A series of C compiler and assembly language cross compiler tool chains](https://github.com/hth313/Calypsi-tool-chains)
 * [2025-04-16, 20:48:07](https://news.ycombinator.com/item?id=43710220) - [Translate Fortran to C++ with AI and RAG](https://www.lanl.gov/media/publications/1663/0125-llm-translation)
 * [2025-04-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss) - [MITRE Announced Funding for Common Vulnerabilities and Exposures (CVE) Program Ends 16-April-2025](https://soylentnews.org/article.pl?sid=25/04/16/1146247&amp;from=rss)
+* [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
 * [2025-04-16, 15:13:00](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss) - [Rooftop Solar PV Could Supply Two-Thirds of World&apos;s Energy Needs, and Lower Global Temperatures](https://soylentnews.org/article.pl?sid=25/04/16/1143246&amp;from=rss)
 * [2025-04-16, 10:26:00](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss) - [Meeting Apple on Apple&apos;s Terms](https://soylentnews.org/article.pl?sid=25/04/15/1018214&amp;from=rss)
 * [2025-04-16, 05:38:00](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss) - [Copilot Recall: Microsoft Rolls Out AI Screenshot Tool](https://soylentnews.org/article.pl?sid=25/04/15/0119244&amp;from=rss)
