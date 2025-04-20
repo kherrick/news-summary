@@ -1,60 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific Advancements
+## Space and Astronomy
 
-* [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/) ([comments](https://news.ycombinator.com/item?id=43745261))
+* [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - Astronomical detection provides a potential breakthrough in the search for extraterrestrial life as astronomers report unprecedented signals indicating life outside Earth.
 
-* [Water on Earth May Not Have Originated from an Asteroid Impact, Study Finds](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43744116))
+* [Scientists Find Rare Evidence Earth is 'Peeling' Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Groundbreaking research highlights tectonic activity under the Sierra Nevada, contributing to our understanding of Earth's changing crust.
 
-* [Scientists Find Rare Evidence Earth is 'Peeling' Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43741051))
+## Artificial Intelligence
 
-## Technology Highlights
+* [Famed AI Researcher Launches Controversial Startup to Replace All Human Workers Everywhere](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A polarizing AI company aims to automate entire industries, sparking ethical and economic debates about the future workforce.
 
-* [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/) ([comments](https://news.ycombinator.com/item?id=43743337))
+* [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - A new AI platform, Manus, is gaining traction for its capabilities, as experts put it through rigorous evaluation.
 
-* [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/) ([comments](https://lobste.rs/s/mgixaf/layered_design_go))
+## Environmental and Biodiversity Concerns
 
-* [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html) ([comments](https://news.ycombinator.com/item?id=43741273))
+* [The Bees Are Disappearing Again](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming reports reveal renewed declines in bee populations, emphasizing the pressing need for conservation efforts.
 
-## Environmental and Biological Observations
+* [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - Unique ecological behavior discovered where tropical trees use lightning to gain competitive advantage.
 
-* [The Bees Are Disappearing Again](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43745141))
+## Health and Biotechnology
 
-* [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43744116))
+* [First hormone-free male birth control pill enters human trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/) - A revolutionary hormone-free contraceptive for men begins clinical evaluations, potentially offering new options for birth control.
 
-* [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x) ([comments](https://news.ycombinator.com/item?id=43710451))
+* [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - The largest study to date suggests medical cannabis could play a role in combating cancer.
 
-## Cultural and Artistic Explorations
+## Tech Innovations and Advancements
 
-* [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886) ([comments](https://news.ycombinator.com/item?id=43744636))
+* [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/) - A landmark mathematical proof resolves a longstanding debate on network connectivity and graph theory.
 
-* [The Movie Mistake Mystery from "Revenge of the Sith"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html) ([comments](https://news.ycombinator.com/item?id=43745141))
+* [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886) - A cultural exploration sheds light on Canada's rising trend of home-based art galleries.
 
-* [Slouching Towards San Francisco](https://rachdele.substack.com/p/slouching-towards-san-francisco) ([comments](https://news.ycombinator.com/item?id=43743915))
+## Scientific Discoveries
 
-## Emerging Tech and Software Innovations
+* [Curiosity Rover Finds Hints of a Carbon Cycle on Ancient Mars](https://science.slashdot.org/story/25/04/19/2119207/curiosity-rover-finds-hints-of-a-carbon-cycle-on-ancient-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA’s Curiosity Rover uncovers evidence of a potential carbon cycle on ancient Mars, fueling speculation about past habitability.
 
-* [Firefly III - A free and open source personal finance manager](https://firefly-iii.org/) ([comments](https://lobste.rs/s/ljttuz/firefly_iii_free_open_source_personal))
-
-* [Show HN: A Standalone/GitHub CLI Extension to Preview GitHub Flavored Markdown](https://github.com/thiagokokada/gh-gfm-preview) ([comments](https://news.ycombinator.com/item?id=43743629))
-
-* [Embedding TikZ diagrams in HTML Documents](https://tikzjax.com/) ([comments](https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents))
-
-## AI and Automation
-
-* [Why is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf) ([comments](https://news.ycombinator.com/item?id=43743993))
-
-* [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43739456))
-
-* [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43741013))
-
-## Miscellaneous Highlights
-
-* [Be Free to Have Multiple Clocks](https://blog.broulik.de/2025/04/be-free-to-have-multiple-clocks/) ([comments](https://lobste.rs/s/rrxaxu/be_free_have_multiple_clocks))
-
-* [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052) ([comments](https://news.ycombinator.com/item?id=43741051))
-
-* [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43715024))
+* [Water on Earth May Not Have Originated from an Asteroid Impact, Study Finds](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new study challenges long-held beliefs about the origins of Earth's water, suggesting alternative theories.
 
 ---
 
@@ -81,12 +61,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-20, 18:20:50](https://news.ycombinator.com/item?id=43745469) - [U.S. citizen in Arizona detained by immigration officials for 10 days](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/)
+* [2025-04-20, 21:22:00](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss)
+* [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
+* [2025-04-20, 20:55:00](https://news.slashdot.org/story/25/04/20/2053222/conservations-say-de-extinction-not-the-answer-to-saving-extinct-species?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Conservations Say &apos;De-Extinction&apos; Not the Answer to Saving Extinct Species](https://news.slashdot.org/story/25/04/20/2053222/conservations-say-de-extinction-not-the-answer-to-saving-extinct-species?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-20, 20:53:06](https://lobste.rs/s/ucrv1t/better_error_handling) - [Better error handling](https://meowbark.dev/Better-error-handling)
+* [2025-04-20, 20:47:42](https://lobste.rs/s/7od3uk/how_i_use_kate_editor) - [How I use Kate Editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
+* [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)](https://www.well-typed.com/blog/2023/04/falsify/)
+* [2025-04-20, 19:25:13](https://lobste.rs/s/ju8lsh/configuration_complexity_clock) - [The Configuration Complexity Clock](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
+* [2025-04-20, 19:23:00](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Famed AI Researcher Launches Controversial Startup to Replace All Human Workers Everywhere](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
+* [2025-04-20, 19:03:45](https://news.ycombinator.com/item?id=43745776) - [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
+* [2025-04-20, 18:32:29](https://news.ycombinator.com/item?id=43745554) - [Show HN: JuryNow – Get an anonymous instant verdict from 12 real people](https://jurynow.app/)
+* [2025-04-20, 17:54:59](https://news.ycombinator.com/item?id=43745296) - [First hormone-free male birth control pill enters human trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
+* [2025-04-20, 17:52:50](https://news.ycombinator.com/item?id=43745281) - [How encryption for Cinema Movies works](https://serverless.industries/2024/05/31/digital-cinema.en.html)
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
 * [2025-04-20, 17:34:00](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Bees Are Disappearing Again ](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The Movie Mistake Mystery from \&quot;Revenge of the Sith\&quot;](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
+* [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The movie mistake mystery from \&quot;Revenge of the Sith\&quot;](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
-* [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss)
 * [2025-04-20, 16:34:00](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is There a Greener Way to Produce Iron?](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
@@ -96,15 +87,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 15:36:47](https://lobste.rs/s/rrxaxu/be_free_have_multiple_clocks) - [Be Free to Have Multiple Clocks](https://blog.broulik.de/2025/04/be-free-to-have-multiple-clocks/)
 * [2025-04-20, 15:34:00](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ArcoLinux Lead Steps Down After Eight Years](https://linux.slashdot.org/story/25/04/19/1954232/arcolinux-lead-steps-down-after-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 15:32:50](https://lobste.rs/s/ljttuz/firefly_iii_free_open_source_personal) - [Firefly III - A free and open source personal finance manager](https://firefly-iii.org/)
-* [2025-04-20, 15:28:06](https://news.ycombinator.com/item?id=43744394) - [The skill of the future is not &apos;AI&apos;, but &apos;Focus&apos;](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2025-04-20, 15:20:35](https://news.ycombinator.com/item?id=43744343) - [Pushing the Limits of LLM Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)
+* [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 * [2025-04-20, 14:50:50](https://lobste.rs/s/ymn744/transactions_are_protocol) - [Transactions are a protocol](https://notes.eatonphil.com/2025-04-20-transactions-are-a-protocol.html)
 * [2025-04-20, 14:47:01](https://news.ycombinator.com/item?id=43744116) - [OAuth&apos;s Role in MCP Security](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security)
 * [2025-04-20, 14:34:00](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Water on Earth May Not Have Originated from an Asteroid Impact, Study Finds](https://news.slashdot.org/story/25/04/19/0436210/water-on-earth-may-not-have-originated-from-an-asteroid-impact-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
-* [2025-04-20, 14:17:39](https://news.ycombinator.com/item?id=43743915) - [Slouching Towards San Francisco](https://rachdele.substack.com/p/slouching-towards-san-francisco)
 * [2025-04-20, 13:56:06](https://news.ycombinator.com/item?id=43743784) - [The Joy of Linux Theming in the Age of Bootable Containers](https://blues.win/posts/joy-of-linux-theming/)
-* [2025-04-20, 13:27:36](https://news.ycombinator.com/item?id=43743629) - [Show HN: A Standalone/GitHub CLI Extension to Preview GitHub Flavored Markdown](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:26:21](https://lobste.rs/s/v8ucpo/gh_gfm_preview_standalone_github_cli) - [gh-gfm-preview: A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:07:13](https://lobste.rs/s/mgixaf/layered_design_go) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
@@ -118,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 07:13:00](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss) - [Here&apos;s How a Satellite Ended Up as a Ghostly Apparition on Google Earth](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss)
 * [2025-04-20, 07:03:55](https://lobste.rs/s/chkque/go_assembler_generator) - [Go assembler generator](https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen)
 * [2025-04-20, 06:51:58](https://lobste.rs/s/9wcjqa/common_expression_language) - [Common Expression Language](https://github.com/google/cel-spec)
-* [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 06:07:07](https://lobste.rs/s/khmxui/let_s_give_pro_venix_barely_adequate_pre) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack (featuring Slirp-CK)](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 05:50:42](https://lobste.rs/s/oybzgm/ansible_pure_only_its_pragmatism) - [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
 * [2025-04-20, 04:34:00](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Chipmakers Fear Ceding China&apos;s AI Market to Huawei After New Trump Restrictions](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -126,8 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 03:18:16](https://lobste.rs/s/kbxwtv/notes_on_b_k_implementation) - [Notes on B (K) Implementation](https://docs.google.com/document/d/1W83ME5JecI2hd5hAUqQ1BVF32wtCel8zxb7WPq-D4f8/edit?tab=t.0#heading=h.moseg6gryxz1)
 * [2025-04-20, 03:16:42](https://news.ycombinator.com/item?id=43741273) - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
-* [2025-04-20, 02:14:40](https://news.ycombinator.com/item?id=43741051) - [Pretty State Machine Patterns in Rust (2016)](https://hoverbear.org/blog/rust-state-machine-pattern/)
-* [2025-04-20, 02:03:09](https://news.ycombinator.com/item?id=43741013) - [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
 * [2025-04-20, 01:39:00](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Find Rare Evidence Earth is &apos;Peeling&apos; Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 22:34:00](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could AI and Automation Find Better Treatments for Cancer - and Maybe Aging?](https://science.slashdot.org/story/25/04/19/0336255/could-ai-and-automation-find-better-treatments-for-cancer---and-maybe-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
@@ -140,20 +126,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 18:34:00](https://hardware.slashdot.org/story/25/04/19/057216/brain-implant-cleared-by-americas-fda-to-help-paralysis-patients?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brain Implant Cleared by America&apos;s FDA to Help Paralysis Patients](https://hardware.slashdot.org/story/25/04/19/057216/brain-implant-cleared-by-americas-fda-to-help-paralysis-patients?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 18:30:26](https://lobste.rs/s/ewinm7/on_bloat) - [On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub)
 * [2025-04-19, 18:14:38](https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go) - [goenums: Type Safe Enum generator for Go](https://github.com/zarldev/goenums)
-* [2025-04-19, 17:34:00](https://news.slashdot.org/story/25/04/19/0413205/arch-linux-is-the-latest-distro-replacing-redis-with-valkey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arch Linux Is the Latest Distro Replacing Redis with Valkey](https://news.slashdot.org/story/25/04/19/0413205/arch-linux-is-the-latest-distro-replacing-redis-with-valkey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss)
-* [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
-* [2025-04-19, 16:34:00](https://yro.slashdot.org/story/25/04/19/1531238/as-russia-and-china-seed-chatbots-with-lies-any-bad-actor-could-game-ai-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Russia and China &apos;Seed Chatbots With Lies&apos;, Any Bad Actor Could Game AI the Same Way](https://yro.slashdot.org/story/25/04/19/1531238/as-russia-and-china-seed-chatbots-with-lies-any-bad-actor-could-game-ai-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
 * [2025-04-19, 13:08:23](https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking) - [falsify: Hypothesis-inspired shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss)
 * [2025-04-19, 12:13:32](https://news.ycombinator.com/item?id=43735896) - [Perplexingly Book-Learned Emacs](https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/)
+* [2025-04-19, 11:48:31](https://news.ycombinator.com/item?id=43735782) - [Voice Flight – A voice-controlled flying game](https://news.ycombinator.com/item?id=43735782)
 * [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
-* [2025-04-19, 06:11:07](https://lobste.rs/s/2ydd6d/deus_lex_machina_releasing_new) - [Deus Lex Machina: releasing a new compacting Zig tokenizer](https://validark.dev/posts/deus-lex-machina/)
-* [2025-04-19, 05:24:37](https://news.ycombinator.com/item?id=43734407) - [Syncing Keyhive](https://www.inkandswitch.com/keyhive/notebook/05/)
 * [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
-* [2025-04-19, 04:32:09](https://lobste.rs/s/dzpaij/buried_toggles_begging_be_brought_light) - [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
 * [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
@@ -164,7 +145,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss)
-* [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
+* [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
 * [2025-04-17, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss) - [An Ars Technica History of the Internet, Part 1](https://soylentnews.org/article.pl?sid=25/04/16/1153241&amp;from=rss)
