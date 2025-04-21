@@ -1,40 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovation and Analysis
+## Space, Science, and Technology
 
-* [Can You Run the Llama 2 LLM on DOS?](https://tech.slashdot.org/story/25/04/21/0026255/can-you-run-the-llama-2-llm-on-dos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing exploration of running state-of-the-art AI models on obsolete operating systems.
+* [Astronomers Confirm First 'Lone' Black Hole Discovery - and It's in the Milky Way](https://science.slashdot.org/story/25/04/20/2153201/astronomers-confirm-first-lone-black-hole-discovery---and-its-in-the-milky-way?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Slashdot explores the confirmation of the first-ever discovery of a 'lone' black hole wandering through the Milky Way, a landmark astronomical finding.
 
-* [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - A look into the technological depths of TikTok's obfuscated virtual machine.
+* [Google Has Illegal Advertising Monopoly, Judge Rules](https://soylentnews.org/article.pl?sid=25/04/20/0452238&from=rss) - A judge ruled that Google holds an illegal advertising monopoly, casting a critical lens on its dominance in online advertising and potential repercussions for the tech industry.
 
-* [The State of Reinforcement Learning for LLM Reasoning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html) - A comprehensive analysis on applying reinforcement learning to enhance reasoning in large language models.
+* [Space Investor Sees Opportunities in Defense-Related Startups and AI-Driven Systems](https://science.slashdot.org/story/25/04/21/066243/space-investor-sees-opportunities-in-defense-related-startups-and-ai-driven-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the opportunities and alignment of defense startups with AI systems in shaping modern space exploration and investment.
 
-* [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/) - An introduction to a significant new feature in Python: t-strings, designed to improve code clarity.
+## Notable World Events
 
-* [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886) - The rise of grassroots art galleries run out of Canadian homes.
+* [Pope Francis Has Died](https://news.slashdot.org/story/25/04/21/082240/pope-francis-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Vatican officially announces the death of Pope Francis, marking the end of a transformative papacy.
 
-* [Open Source Advocate Argues DeepSeek is 'a Movement... It's Linux All Over Again'](https://news.slashdot.org/story/25/04/20/0332214/open-source-advocate-argues-deepseek-is-a-movement-its-linux-all-over-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new open-source initiative claiming transformative potential akin to Linux's early days.
+* [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/) - A story of legal missteps leading to the detention and deportation of two German travelers in Hawaii draws attention to complications in international travel.
 
-## Space, Science, and Environment
+## Artificial Intelligence and Software
 
-* [Astronomers Confirm First 'Lone' Black Hole Discovery - and It's in the Milky Way](https://science.slashdot.org/story/25/04/20/2153201/astronomers-confirm-first-lone-black-hole-discovery---and-its-in-the-milky-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Confirmation of the first ever 'lone' black hole discovery, deep within the Milky Way.
+* [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - This GitHub project delves into the challenging effort to reverse-engineer TikTok's complex obfuscation methods.
 
-* [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - New cosmic readings provide compelling evidence of potential extraterrestrial life.
+* [The State of Reinforcement Learning for LLM Reasoning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html) - Exploration of the developments and challenges in advancing reinforcement learning techniques to improve large language model reasoning capabilities.
 
-* [Scientists Find Rare Evidence Earth is 'Peeling' Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rare geological transformations under California's Sierra Nevada Mountains.
+* [Can You Run the Llama 2 LLM on DOS?](https://tech.slashdot.org/story/25/04/21/0026255/can-you-run-the-llama-2-llm-on-dos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shows attempts to make AI systems such as Llama 2 usable on legacy systems, opening up conversations on resource constraints and ingenuity.
 
-## Societal Impacts and Policies
+## Consumer Concerns and Ethical Questions
 
-* [Return-to-Office Policies Are Impacting Neurodivergent Workers](https://it.slashdot.org/story/25/04/21/0512241/return-to-office-policies-are-impacting-neurodivergent-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The challenges faced by neurodivergent workers as companies enforce return-to-office mandates.
+* [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw) - A YouTube video critiques how DJI cameras are sold as licenses rather than owned products, raising questions about consumer rights.
 
-* [Should College Application Essays Be Banned?](https://news.slashdot.org/story/25/04/21/0215254/should-college-application-essays-be-banned?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A debate emerges over the fairness and effectiveness of college application essays.
+* [Should College Application Essays Be Banned?](https://news.slashdot.org/story/25/04/21/0215254/should-college-application-essays-be-banned?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussion on whether college admission essays are an outdated or harmful requirement for students.
 
-* [How Thai authorities use online doxxing to suppress dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/) - A critical examination of digital tactics employed against political dissent in Thailand.
+## Programming and Development
 
-## Robotics, AI, and Automation
+* [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/) - Overview of Python's introduction of 't-strings,' a new feature enhancing its string handling capabilities.
 
-* [Famed AI Researcher Launches Controversial Startup to Replace All Human Workers Everywhere](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold, controversial vision for automation's role in eradicating human labor.
+* [Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Introduction to Turing-Drawings, a fascinating GitHub project for creating artworks inspired by Turing machines, blending mathematics and creativity.
 
-* [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw) - A user's unexpected realization about the commodification of hardware.
+* [Things Zig comptime won’t do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html) - Insights into the limitations and design philosophy of Zig's compile-time features for developers.
+
+## Environmental and Ethical Topics
+
+* [The Bees Are Disappearing Again](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Renewed warnings about the decline in bee populations, a critical environmental concern.
+
+* [Conservationists Say 'De-Extinction' Not the Answer to Saving Extinct Species](https://news.slashdot.org/story/25/04/20/2053222/conservationists-say-de-extinction-not-the-answer-to-saving-extinct-species?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussion on the moral and scientific arguments around whether de-extinction technology is a viable solution for biodiversity loss.
 
 ---
 
@@ -61,6 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-21, 09:46:38](https://lobste.rs/s/wup76i/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wup76i/what_are_you_doing_this_week)
+* [2025-04-21, 09:09:09](https://news.ycombinator.com/item?id=43749814) - [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/)
+* [2025-04-21, 08:22:00](https://science.slashdot.org/story/25/04/21/066243/space-investor-sees-opportunities-in-defense-related-startups-and-ai-driven-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Space Investor Sees Opportunities in Defense-Related Startups and AI-Driven Systems](https://science.slashdot.org/story/25/04/21/066243/space-investor-sees-opportunities-in-defense-related-startups-and-ai-driven-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-21, 08:02:00](https://news.slashdot.org/story/25/04/21/082240/pope-francis-has-died?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pope Francis Has Died](https://news.slashdot.org/story/25/04/21/082240/pope-francis-has-died?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
+* [2025-04-21, 06:59:45](https://lobste.rs/s/ehky9x/option_hide_karma) - [Option to hide karma?](https://lobste.rs/s/ehky9x/option_hide_karma)
+* [2025-04-21, 06:53:00](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss) - [Intel Agrees to Sell Controlling Stake in Altera Chip Business](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss)
 * [2025-04-21, 05:15:00](https://it.slashdot.org/story/25/04/21/0512241/return-to-office-policies-are-impacting-neurodivergent-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Return-to-Office Policies Are Impacting Neurodivergent Workers](https://it.slashdot.org/story/25/04/21/0512241/return-to-office-policies-are-impacting-neurodivergent-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-21, 05:02:52](https://lobste.rs/s/szhvas/state_reinforcement_learning_for_llm) - [The State of Reinforcement Learning for LLM Reasoning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python&apos;s new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
@@ -88,17 +101,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 20:47:42](https://lobste.rs/s/7od3uk/how_i_use_kate_editor) - [How I use Kate Editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)](https://www.well-typed.com/blog/2023/04/falsify/)
-* [2025-04-20, 19:25:13](https://lobste.rs/s/ju8lsh/configuration_complexity_clock_2012) - [The Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-20, 19:23:00](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Famed AI Researcher Launches Controversial Startup to Replace All Human Workers Everywhere](https://hardware.slashdot.org/story/25/04/20/1921251/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 * [2025-04-20, 17:52:50](https://news.ycombinator.com/item?id=43745281) - [How encryption for Cinema Movies works](https://serverless.industries/2024/05/31/digital-cinema.en.html)
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
 * [2025-04-20, 17:34:00](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Bees Are Disappearing Again ](https://news.slashdot.org/story/25/04/20/1649246/the-bees-are-disappearing-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The movie mistake mystery from \&quot;Revenge of the Sith\&quot;](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
 * [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss)
 * [2025-04-20, 16:34:00](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is There a Greener Way to Produce Iron?](https://news.slashdot.org/story/25/04/20/019256/is-there-a-greener-way-to-produce-iron?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won&apos;t do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 15:53:04](https://lobste.rs/s/sbbifz/llms_reduce_development_friction_is_good) - [LLMs Reduce Development Friction. Is That a Good Thing?](https://blog.ollien.com/posts/llm-friction/)
@@ -121,14 +131,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 06:51:58](https://lobste.rs/s/9wcjqa/common_expression_language) - [Common Expression Language](https://github.com/google/cel-spec)
 * [2025-04-20, 06:07:07](https://lobste.rs/s/khmxui/let_s_give_pro_venix_barely_adequate_pre) - [Let&apos;s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack (featuring Slirp-CK)](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 05:50:42](https://lobste.rs/s/oybzgm/ansible_pure_only_its_pragmatism) - [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
-* [2025-04-20, 04:34:00](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Chipmakers Fear Ceding China&apos;s AI Market to Huawei After New Trump Restrictions](https://yro.slashdot.org/story/25/04/19/2339227/us-chipmakers-fear-ceding-chinas-ai-market-to-huawei-after-new-trump-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-20, 03:21:53](https://lobste.rs/s/yhtpk0/things_zig_comptime_won_t_do) - [Things Zig comptime Won&apos;t Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 03:18:16](https://lobste.rs/s/kbxwtv/notes_on_b_k_implementation) - [Notes on B (K) Implementation](https://docs.google.com/document/d/1W83ME5JecI2hd5hAUqQ1BVF32wtCel8zxb7WPq-D4f8/edit?tab=t.0#heading=h.moseg6gryxz1)
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
-* [2025-04-20, 01:39:00](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Find Rare Evidence Earth is &apos;Peeling&apos; Under the Sierra Nevada Mountains](https://news.slashdot.org/story/25/04/20/0136216/scientists-find-rare-evidence-earth-is-peeling-under-the-sierra-nevada-mountains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [2025-04-19, 18:57:29](https://lobste.rs/s/hey790/web_is_broken_botnet_part_2) - [The Web is Broken — Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 * [2025-04-19, 18:30:26](https://lobste.rs/s/ewinm7/on_bloat) - [On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub)
 * [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss)
@@ -141,11 +148,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
-* [2025-04-18, 06:19:06](https://news.ycombinator.com/item?id=43725516) - [The appeal of serving your web pages with a single process](https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal)
 * [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
 * [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss)
 * [2025-04-17, 20:28:05](https://news.ycombinator.com/item?id=43721853) - [X-Ray Defence](https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg)
 * [2025-04-17, 19:42:00](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss) - [Disasters Spur Investment in Flood and Fire Risk Technology](https://soylentnews.org/article.pl?sid=25/04/16/1838216&amp;from=rss)
+* [2025-04-17, 15:19:37](https://news.ycombinator.com/item?id=43718175) - [Molecules that fight infection also act on the brain](https://news.mit.edu/2025/molecules-fighting-infection-act-in-brain-inducing-anxiety-or-sociability-0407)
 * [2025-04-17, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss) - [AMD Set to Produce its CPU Chip at TSMC Plant in Arizona](https://soylentnews.org/article.pl?sid=25/04/16/1816228&amp;from=rss)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 * [2025-04-17, 10:08:00](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss) - [OpenWrt 24.10.1 is Now Available](https://soylentnews.org/article.pl?sid=25/04/16/1155209&amp;from=rss)
