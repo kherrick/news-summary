@@ -1,48 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific and Medical Breakthroughs
+## Science and Technology Innovations
 
-* [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - Researchers have developed a method to distinguish between healthy and cancerous cells based on their movement patterns.
+* [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html) ([Comments](https://news.ycombinator.com/item?id=43759436))
 
-* [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - A groundbreaking discovery points to the most compelling evidence of extraterrestrial life ever recorded.
+* [NASA's Oldest Astronaut Celebrates 70th Birthday With Return To Earth](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - New research from the largest study to date highlights medical cannabis as a potential cancer treatment.
+* [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html) ([Comments](https://news.ycombinator.com/item?id=43755017))
 
-## Innovations in Computing and Programming
+* [Flat origami is Turing complete (2023)](https://arxiv.org/abs/2309.07932) ([Comments](https://news.ycombinator.com/item?id=43758762))
 
-* [Flat origami is Turing complete (2023)](https://arxiv.org/abs/2309.07932) - Fascinating new research shows that flat origami folds are theoretically capable of universal computation.
+* [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss))
 
-* [Scritch | modified scratch optimised for teaching](https://jonathanalland.com/scritch.html) - An innovative platform tailored to optimize Scratch programming for educational settings.
+## Creative Programming and Tools
 
-* [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/) - A reflective dive into the elegance and utility of the pipelining feature in programming.
+* [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/) ([Comments](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite))
 
-* [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - A technically intricate exploration of decoding TikTok's virtual machine mechanisms.
+* [Scritch | modified scratch optimised for teaching](https://jonathanalland.com/scritch.html) ([Comments](https://lobste.rs/s/y0kdjy/scritch_modified_scratch_optimised_for))
 
-* [pgdog: Horizontal scaling for PostgreSQL with automatic sharding](https://github.com/pgdogdev/pgdog) - Introducing "pgdog," which simplifies horizontal scaling in PostgreSQL with built-in sharding capabilities.
+* [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) ([Comments](https://lobste.rs/s/naazom/cheating_reaper_go))
 
-## Cybersecurity and AI Developments
+* [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games) ([Comments](https://news.ycombinator.com/item?id=43757341))
 
-* [AI Hallucinations Lead To a New Cyber Threat: Slopsquatting](https://it.slashdot.org/story/25/04/22/0118200/ai-hallucinations-lead-to-a-new-cyber-threat-slopsquatting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new study highlights the emergence of "slopsquatting," a novel cyber threat exacerbated by AI-generated errors.
+* [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) ([Comments](https://lobste.rs/s/66gzvi/reverse_engineering_obfuscated_tiktok))
 
-* [Forecaster reacts: METR&apos;s bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell) - Insights and implications of METR's breakthrough research on accelerating AI development.
+## Culture and Society
 
-* [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813) - Researchers propose a novel approach to secure AI systems against prompt injections.
+* [World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6) ([Comments](https://news.ycombinator.com/item?id=43758965))
 
-## Technology and Hardware Innovations
+* [The Quest To Build Islands With Ocean Currents In the Maldives](https://news.slashdot.org/story/25/04/21/2056255/the-quest-to-build-islands-with-ocean-currents-in-the-maldives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/04/21/2056255/the-quest-to-build-islands-with-ocean-currents-in-the-maldives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop) - Dive into a low-power, high-endurance e-ink computing device.
+* [New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification) ([Comments](https://lobste.rs/s/awsduo/new_form_verification_on_bluesky))
 
-* [A M.2 HDMI capture card](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/) - Introducing a compact and efficient hardware solution for HDMI capture via M.2 interface.
+* [Teen Coder Shuts Down Open Source Mac App Whisky, Citing Harm To Paid Apps](https://news.slashdot.org/story/25/04/21/2014234/teen-coder-shuts-down-open-source-mac-app-whisky-citing-harm-to-paid-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/04/21/2014234/teen-coder-shuts-down-open-source-mac-app-whisky-citing-harm-to-paid-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001) - New advances in space technology showcase exceptional precision for satellite formation flying.
+* [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss))
 
-## Unique Platforms and Concepts
+## Corporate and Economic Developments
 
-* [A weird phrase is plaguing scientific papers](https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463) - Discover how a glitch in AI training data led to the repeated use of an unusual phrase in scientific documents.
+* [Airbnb Now Shows the Full Price of Your Stay By Default](https://news.slashdot.org/story/25/04/22/0110251/airbnb-now-shows-the-full-price-of-your-stay-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/04/22/0110251/airbnb-now-shows-the-full-price-of-your-stay-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/) - An eccentric project brings life to a blog hosted entirely on now-vintage Nintendo Wii hardware.
+* [Microsoft Implements Stricter Performance Management System With Two-Year Rehire Ban](https://slashdot.org/story/25/04/22/018236/microsoft-implements-stricter-performance-management-system-with-two-year-rehire-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/25/04/22/018236/microsoft-implements-stricter-performance-management-system-with-two-year-rehire-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/) - A nostalgic journey into creating a website with late 90s-inspired technology and aesthetics.
+* [China's CATL Says It Has Overtaken BYD On 5-Minute EV Charging Time](https://hardware.slashdot.org/story/25/04/21/2049235/chinas-catl-says-it-has-overtaken-byd-on-5-minute-ev-charging-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/04/21/2049235/chinas-catl-says-it-has-overtaken-byd-on-5-minute-ev-charging-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [WD Launches HDD Recycling Process That Reclaims Rare Earth Elements, Cuts Out China](https://hardware.slashdot.org/story/25/04/21/2039200/wd-launches-hdd-recycling-process-that-reclaims-rare-earth-elements-cuts-out-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/04/21/2039200/wd-launches-hdd-recycling-process-that-reclaims-rare-earth-elements-cuts-out-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [FTC Sues Uber Over Deceptive Subscription Billing Practices](https://news.slashdot.org/story/25/04/21/1748214/ftc-sues-uber-over-deceptive-subscription-billing-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/04/21/1748214/ftc-sues-uber-over-deceptive-subscription-billing-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -69,17 +73,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-22, 09:12:57](https://lobste.rs/s/c8irws/adding_shortcodes_marksmith_editor) - [Adding shortcodes to the Marksmith editor](https://avohq.io/blog/marksmith-shortcodes)
+* [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
+* [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
+* [2025-04-22, 07:00:00](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA&apos;s Oldest Astronaut Celebrates 70th Birthday With Return To Earth](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss) - [ \&quot;Only 2 submissions in the queue.\&quot;](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss)
+* [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 * [2025-04-22, 05:49:15](https://lobste.rs/s/y0kdjy/scritch_modified_scratch_optimised_for) - [Scritch | modified scratch optimised for teaching](https://jonathanalland.com/scritch.html)
-* [2025-04-22, 04:43:22](https://news.ycombinator.com/item?id=43759130) - [A weird phrase is plaguing scientific papers](https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463)
 * [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord&apos;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:27:02](https://lobste.rs/s/18ycoz/attacking_my_landlord_s_boiler) - [Attacking My Landlord&apos;s Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:07:04](https://news.ycombinator.com/item?id=43758999) - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
 * [2025-04-22, 04:01:59](https://lobste.rs/s/naazom/cheating_reaper_go) - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 * [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - [&apos;World War Zoos&apos; Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
-* [2025-04-22, 03:50:20](https://news.ycombinator.com/item?id=43758936) - [Forecaster reacts: METR&apos;s bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
 * [2025-04-22, 03:30:00](https://news.slashdot.org/story/25/04/21/2056255/the-quest-to-build-islands-with-ocean-currents-in-the-maldives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Quest To Build Islands With Ocean Currents In the Maldives](https://news.slashdot.org/story/25/04/21/2056255/the-quest-to-build-islands-with-ocean-currents-in-the-maldives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 03:09:50](https://news.ycombinator.com/item?id=43758762) - [Flat origami is Turing complete (2023)](https://arxiv.org/abs/2309.07932)
 * [2025-04-22, 02:01:00](https://soylentnews.org/article.pl?sid=25/04/20/1820252&amp;from=rss) - [Jim Zemlin on Taking a &apos;Portfolio Approach&apos; to Linux Foundation Projects](https://soylentnews.org/article.pl?sid=25/04/20/1820252&amp;from=rss)
@@ -99,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-21, 21:46:32](https://news.ycombinator.com/item?id=43756871) - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 * [2025-04-21, 21:40:00](https://tech.slashdot.org/story/25/04/21/2031245/cursor-ais-own-support-bot-hallucinated-its-usage-policy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cursor AI&apos;s Own Support Bot Hallucinated Its Usage Policy](https://tech.slashdot.org/story/25/04/21/2031245/cursor-ais-own-support-bot-hallucinated-its-usage-policy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-21, 21:31:40](https://news.ycombinator.com/item?id=43756723) - [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
-* [2025-04-21, 21:28:46](https://lobste.rs/s/9zmd46/values_wild_discovering_analyzing) - [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild)
 * [2025-04-21, 21:13:47](https://lobste.rs/s/ld1kzl/separating_work_personal_config) - [Separating work and personal config](https://www.emoses.org/posts/keeping-work-separate/)
 * [2025-04-21, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/20/0513237&amp;from=rss) - [Deepseek Open Source model Promotes Fast Innovation and Extensive Application in China](https://soylentnews.org/article.pl?sid=25/04/20/0513237&amp;from=rss)
 * [2025-04-21, 21:00:53](https://news.ycombinator.com/item?id=43756417) - [Cekura (Formerly Vocera) (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
@@ -115,13 +121,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-21, 18:15:00](https://news.slashdot.org/story/25/04/21/1748214/ftc-sues-uber-over-deceptive-subscription-billing-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Sues Uber Over Deceptive Subscription Billing Practices](https://news.slashdot.org/story/25/04/21/1748214/ftc-sues-uber-over-deceptive-subscription-billing-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-21, 17:57:03](https://news.ycombinator.com/item?id=43754620) - [Show HN: Open Codex – OpenAI Codex CLI with open-source LLMs](https://github.com/codingmoh/open-codex)
 * [2025-04-21, 17:36:00](https://tech.slashdot.org/story/25/04/21/1736226/google-faces-off-with-us-government-in-attempt-to-break-up-company-in-search-monopoly-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Faces Off With US Government in Attempt To Break Up Company in Search Monopoly Case](https://tech.slashdot.org/story/25/04/21/1736226/google-faces-off-with-us-government-in-attempt-to-break-up-company-in-search-monopoly-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-21, 17:22:55](https://news.ycombinator.com/item?id=43754274) - [FTC takes action against Uber for deceptive billing and cancellation practices](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices)
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
 * [2025-04-21, 16:50:00](https://yro.slashdot.org/story/25/04/21/1650237/verizon-consumer-ceo-says-net-neutrality-went-literally-nowhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Verizon Consumer CEO Says Net Neutrality &apos;Went Literally Nowhere&apos;](https://yro.slashdot.org/story/25/04/21/1650237/verizon-consumer-ceo-says-net-neutrality-went-literally-nowhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-21, 16:37:51](https://lobste.rs/s/ymcuvb/retracing_google_s_steps_recreating) - [Retracing Google’s steps: recreating the Webtable in Rust](https://fjall-rs.github.io/post/recreating-webtable/)
 * [2025-04-21, 16:28:00](https://soylentnews.org/article.pl?sid=25/04/20/059216&amp;from=rss) - [The Universe Isn&apos;t Just Expanding—It May be Spinning](https://soylentnews.org/article.pl?sid=25/04/20/059216&amp;from=rss)
 * [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A new form of verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
-* [2025-04-21, 16:05:00](https://science.slashdot.org/story/25/04/21/1557216/invasion-of-the-journal-snatchers-the-firms-that-buy-science-publications-and-turn-them-rogue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Invasion of the &apos;Journal Snatchers&apos;: the Firms That Buy Science Publications and Turn Them Rogue](https://science.slashdot.org/story/25/04/21/1557216/invasion-of-the-journal-snatchers-the-firms-that-buy-science-publications-and-turn-them-rogue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-21, 15:25:47](https://lobste.rs/s/qnvvne/pgdog_horizontal_scaling_for_postgresql) - [pgdog: Horizontal scaling for PostgreSQL with automatic sharding](https://github.com/pgdogdev/pgdog)
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [LLM-powered tools amplify developer capabilities rather than replacing them](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
@@ -131,12 +135,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-21, 11:41:00](https://soylentnews.org/article.pl?sid=25/04/20/051250&amp;from=rss) - [Google Introduces Firebase Studio, an End-to-End Platform That Builds Custom Apps in-Browser](https://soylentnews.org/article.pl?sid=25/04/20/051250&amp;from=rss)
 * [2025-04-21, 11:18:31](https://lobste.rs/s/vioyel/projects_for_old_os_x) - [Projects For Old OS X](https://jonathanalland.com/old-osx-projects.html)
-* [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-21, 10:03:03](https://lobste.rs/s/66gzvi/reverse_engineering_obfuscated_tiktok) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-21, 09:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&amp;from=rss) - [Pope Francis Has Died on Easter Monday Aged 88](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&amp;from=rss)
 * [2025-04-21, 09:46:38](https://lobste.rs/s/wup76i/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wup76i/what_are_you_doing_this_week)
 * [2025-04-21, 06:53:00](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss) - [Intel Agrees to Sell Controlling Stake in Altera Chip Business](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss)
-* [2025-04-21, 04:17:24](https://lobste.rs/s/p1a2mz/regex_affordances) - [Regex affordances](https://nedbatchelder.com/blog/202504/regex_affordances.html)
 * [2025-04-21, 03:46:59](https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow) - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
 * [2025-04-21, 03:38:42](https://lobste.rs/s/2b1xg9/turing_drawings) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-21, 02:16:15](https://lobste.rs/s/p5g7rn/python_s_new_t_strings) - [Python&apos;s new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
@@ -151,6 +153,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
 * [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
 * [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss)
+* [2025-04-19, 16:37:47](https://news.ycombinator.com/item?id=43737503) - [The &apos;freaky and unpleasant&apos; world when video games leak into the physical realm](https://www.bbc.com/future/article/20250409-game-transfer-phenomenon-the-people-who-see-video-games-in-the-physical-world)
 * [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss)
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)
 * [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
@@ -159,6 +162,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
 * [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
 * [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
+* [2025-04-18, 18:44:27](https://news.ycombinator.com/item?id=43730790) - [Moon Bugs (2018)](https://www.michalfarkas.net/moonbugs/)
 * [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
 * [2025-04-18, 11:46:09](https://news.ycombinator.com/item?id=43727158) - [Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson&apos;s disease](https://www.nature.com/articles/s41586-025-08700-0)
 * [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
