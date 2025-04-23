@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
+## Global Technology and Security Trends
 
-* [Anthropic Warns Fully AI Employees Are a Year Away](https://slashdot.org/story/25/04/22/1854208/anthropic-warns-fully-ai-employees-are-a-year-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic predicts that businesses might see fully AI-driven employees as early as next year, raising discussions on automation, labor, and AI ethics.
+* [UN Says Asian Scam Call Center Epidemic Expanding Globally Amid Political Heat](https://yro.slashdot.org/story/25/04/22/191219/un-says-asian-scam-call-center-epidemic-expanding-globally-amid-political-heat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The UN discusses the global spread of scam call centers originating in Asia, highlighting concerns over political and economic implications.
 
-* [AI Floods Amazon With Strange Political Books Before Canadian Election](https://news.slashdot.org/story/25/04/22/1544249/ai-floods-amazon-with-strange-political-books-before-canadian-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A peculiar surge of AI-generated political literature has disrupted the Amazon marketplace ahead of Canada’s election.
+* [Vercel Slams LaLiga Piracy Blocks As 'Unaccountable Internet Censorship'](https://yro.slashdot.org/story/25/04/22/197258/vercel-slams-laliga-piracy-blocks-as-unaccountable-internet-censorship?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Vercel criticizes LaLiga's legal moves against piracy as dangerous precedents for internet censorship.
 
-* [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai) - Researchers explore the potential of universal AI models in domain-agnostic scientific advancements.
+* [OpenAI Would Buy Google's Chrome, Exec Testifies At Trial](https://yro.slashdot.org/story/25/04/22/2154251/openai-would-buy-googles-chrome-exec-testifies-at-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed) - In a courtroom revelation, OpenAI exec suggests they would consider acquiring Chrome, signaling advancements in AI influence in tech markets.
 
-* [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss) - Military researchers reveal augmented AI capabilities in defense and warfare, entering a new era of technology-aided conflict.
+## AI Integration and Ethics
 
-## Technology Innovations
+* [Anthropic Warns Fully AI Employees Are a Year Away](https://slashdot.org/story/25/04/22/1854208/anthropic-warns-fully-ai-employees-are-a-year-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Anthropic raises concerns about the advent of entirely AI-based employee systems, emphasizing the need for ethical considerations.
 
-* [ClickHouse gets lazier (and faster): Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization) - New updates to ClickHouse bring significant performance improvements through lazy materialization, optimizing data processing speeds.
+* [AI Floods Amazon With Strange Political Books Before Canadian Election](https://news.slashdot.org/story/25/04/22/1544249/ai-floods-amazon-with-strange-political-books-before-canadian-election?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A trend of politically infused AI-generated books appears on Amazon amidst a tense Canadian election cycle.
 
-* [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire) - A new Rust-based package manager, Sapphire, is positioning itself as a promising alternative to Homebrew for macOS users.
+* [Business Insider Founder Creates AI Exec For His New Newsroom, Immediately Hits On Her](https://slashdot.org/story/25/04/22/2118226/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The ethical dimension of AI companionship is questioned as a humorous yet uncomfortable scenario unfolds at a media company.
 
-## Aerospace and Astronomy
+## Innovative Tools and Platforms
 
-* [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss) - A historic moment as NASA's oldest astronaut marks their 70th birthday with a celebrated return to Earth.
+* [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app) - An interactive tool to understand how large language models deconstruct and produce meaning.
 
-* [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - Scientists uncover the presence of oxygen in a galaxy at the farthest reaches of the universe, offering clues to early cosmic conditions.
+* [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh) - A GitHub repository introducing robust workflows for Python developers.
 
-* [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - A compelling new signal points to potential extraterrestrial life, sparking debates on the search for intergalactic neighbors.
+* [A5 - Pentagonal Spatial Index](https://a5geo.org/) - A spatial indexing solution proposing a new way to catalog Earth's geography.
 
-## Lifestyle and Human Interest
+## Intriguing Studies and Discoveries
 
-* [Man Buys Racetrack, Ends Up Launching the Netflix of Grassroots Motorsports](https://entertainment.slashdot.org/story/25/04/22/1844233/man-buys-racetrack-ends-up-launching-the-netflix-of-grassroots-motorsports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An entrepreneur transforms a racetrack into a successful streaming platform for motorsports enthusiasts.
+* [Can Citizen Science Be Trusted? New Study of Birds Shows It Can](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can) - Validation for citizen science emerges through a large-scale birds research.
 
-* [Movies Made With AI Can Win Oscars, Academy Says](https://entertainment.slashdot.org/story/25/04/22/1438236/movies-made-with-ai-can-win-oscars-academy-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Oscars embrace technological innovation, opening doors for AI-assisted films to compete for top honors.
+* [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&from=rss) - Scientists present a novel method for distinguishing between healthy and cancerous cells using motion patterns.
 
-## Research and Discoveries
+* [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&from=rss) - Groundbreaking research reveals cancer-fighting capabilities of medical cannabis.
 
-* [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - Groundbreaking findings highlight differences in cell movement between healthy and cancerous conditions, offering diagnostic possibilities.
+## Technological Milestones
 
-* [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html) - A fascinating dive into the evolutionary journey of domestic cats tied to human settlement patterns.
+* [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop) - A sustainable computing innovation with an E-ink display and solar power.
 
-* [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - Tropical ecosystems reveal unique survival strategies where some trees channel lightning strikes to dominate competitors.
+* [Man Buys Racetrack, Ends Up Launching the Netflix of Grassroots Motorsports](https://entertainment.slashdot.org/story/25/04/22/1844233/man-buys-racetrack-ends-up-launching-the-netflix-of-grassroots-motorsports?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A racetrack investment spins off into a media platform for motorsports.
 
-## Noteworthy Initiatives
-
-* [Tesla Accused of Speeding Up Odometers So Their Warranties Expire Faster](https://soylentnews.org/article.pl?sid=25/04/22/0023201&amp;from=rss) - Allegations surface against Tesla for accelerating odometers, potentially reducing warranty durations unfairly.
-
-* [Ping, You’ve Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/) - An AI system aids in protecting marine life by warning ships of whales in navigation paths.
+* [Classic Computer Replicas](https://obsolescence.dev/index.html) - A dedicated look into reimagining and replicating iconic computing devices.
 
 ---
 
@@ -69,6 +65,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-23, 00:45:00](https://yro.slashdot.org/story/25/04/22/191219/un-says-asian-scam-call-center-epidemic-expanding-globally-amid-political-heat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UN Says Asian Scam Call Center Epidemic Expanding Globally Amid Political Heat](https://yro.slashdot.org/story/25/04/22/191219/un-says-asian-scam-call-center-epidemic-expanding-globally-amid-political-heat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-23, 00:07:45](https://news.ycombinator.com/item?id=43767476) - [Can Citizen Science Be Trusted? New Study of Birds Shows It Can](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can)
+* [2025-04-23, 00:02:00](https://entertainment.slashdot.org/story/25/04/22/2125229/warner-bros-discovery-starts-max-password-sharing-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Warner Bros. Discovery Starts Max Password-Sharing Crackdown](https://entertainment.slashdot.org/story/25/04/22/2125229/warner-bros-discovery-starts-max-password-sharing-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-22, 23:20:00](https://slashdot.org/story/25/04/22/2118226/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Insider Founder Creates AI Exec For His New Newsroom, Immediately Hits On Her](https://slashdot.org/story/25/04/22/2118226/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
+* [2025-04-22, 22:41:08](https://news.ycombinator.com/item?id=43766979) - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
+* [2025-04-22, 22:40:00](https://yro.slashdot.org/story/25/04/22/197258/vercel-slams-laliga-piracy-blocks-as-unaccountable-internet-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Vercel Slams LaLiga Piracy Blocks As &apos;Unaccountable Internet Censorship&apos;](https://yro.slashdot.org/story/25/04/22/197258/vercel-slams-laliga-piracy-blocks-as-unaccountable-internet-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-22, 22:15:00](https://news.ycombinator.com/item?id=43766803) - [Google won&apos;t ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
+* [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+* [2025-04-22, 22:00:00](https://yro.slashdot.org/story/25/04/22/2154251/openai-would-buy-googles-chrome-exec-testifies-at-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Would Buy Google&apos;s Chrome, Exec Testifies At Trial](https://yro.slashdot.org/story/25/04/22/2154251/openai-would-buy-googles-chrome-exec-testifies-at-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 21:20:00](https://slashdot.org/story/25/04/22/1854208/anthropic-warns-fully-ai-employees-are-a-year-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Warns Fully AI Employees Are a Year Away](https://slashdot.org/story/25/04/22/1854208/anthropic-warns-fully-ai-employees-are-a-year-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 21:16:41](https://lobste.rs/s/aassef/clickhouse_gets_lazier_faster) - [ClickHouse gets lazier (and faster): Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
@@ -78,16 +85,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
 * [2025-04-22, 20:40:00](https://entertainment.slashdot.org/story/25/04/22/1844233/man-buys-racetrack-ends-up-launching-the-netflix-of-grassroots-motorsports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Man Buys Racetrack, Ends Up Launching the Netflix of Grassroots Motorsports](https://entertainment.slashdot.org/story/25/04/22/1844233/man-buys-racetrack-ends-up-launching-the-netflix-of-grassroots-motorsports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 20:34:06](https://lobste.rs/s/id6bpe/no_really_you_can_t_branch_datomic_from) - [No, really, you can’t branch Datomic from the past](https://blog.danieljanus.pl/2025/04/22/datomic-forking-the-past/)
-* [2025-04-22, 20:23:38](https://news.ycombinator.com/item?id=43765908) - [Windows File Manager (WinFile) repository archived on March 1, 2025](https://github.com/microsoft/winfile)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
-* [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 * [2025-04-22, 20:06:39](https://news.ycombinator.com/item?id=43765748) - [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
 * [2025-04-22, 20:00:00](https://slashdot.org/story/25/04/22/1746233/walmart-is-ditching-zip-codes-in-favor-of-honeycomb-style-maps-as-it-looks-to-speed-up-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart is Ditching ZIP Codes in Favor of Honeycomb-Style Maps As It Looks To Speed Up Deliveries](https://slashdot.org/story/25/04/22/1746233/walmart-is-ditching-zip-codes-in-favor-of-honeycomb-style-maps-as-it-looks-to-speed-up-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-22, 19:21:05](https://news.ycombinator.com/item?id=43765371) - [A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
 * [2025-04-22, 19:20:13](https://lobste.rs/s/p7rb36/a5_pentagonal_spatial_index) - [A5 - Pentagonal Spatial Index](https://a5geo.org/)
 * [2025-04-22, 19:20:00](https://tech.slashdot.org/story/25/04/22/1711254/at-trial-instagram-co-founder-says-zuckerberg-withheld-resources-over-threat-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [At Trial, Instagram Co-founder Says Zuckerberg Withheld Resources Over &apos;Threat&apos; Fears](https://tech.slashdot.org/story/25/04/22/1711254/at-trial-instagram-co-founder-says-zuckerberg-withheld-resources-over-threat-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 19:02:04](https://news.ycombinator.com/item?id=43765207) - [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
-* [2025-04-22, 18:47:05](https://news.ycombinator.com/item?id=43765084) - [It Does Not Take 21 Days to Form a Habit](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
+* [2025-04-22, 18:47:05](https://news.ycombinator.com/item?id=43765084) - [How long does it take to create a new habit? (2015)](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
 * [2025-04-22, 18:40:00](https://slashdot.org/story/25/04/22/1542204/companies-ditch-fluorescent-lights-in-battle-for-office-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Companies Ditch Fluorescent Lights in Battle for Office Return](https://slashdot.org/story/25/04/22/1542204/companies-ditch-fluorescent-lights-in-battle-for-office-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You&apos;ve Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
@@ -106,25 +110,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-22, 16:03:32](https://news.ycombinator.com/item?id=43763688) - [ClickHouse gets lazier and faster: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
 * [2025-04-22, 16:00:00](https://apple.slashdot.org/story/25/04/22/159236/apple-removes-available-now-claim-from-intelligence-page-following-nad-review?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Removes &apos;Available Now&apos; Claim from Intelligence Page Following NAD Review](https://apple.slashdot.org/story/25/04/22/159236/apple-removes-available-now-claim-from-intelligence-page-following-nad-review?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 15:55:12](https://news.ycombinator.com/item?id=43763614) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
-* [2025-04-22, 15:24:53](https://news.ycombinator.com/item?id=43763291) - [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
 * [2025-04-22, 15:20:00](https://entertainment.slashdot.org/story/25/04/22/1438236/movies-made-with-ai-can-win-oscars-academy-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Movies Made With AI Can Win Oscars, Academy Says](https://entertainment.slashdot.org/story/25/04/22/1438236/movies-made-with-ai-can-win-oscars-academy-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 15:17:23](https://news.ycombinator.com/item?id=43763225) - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
-* [2025-04-22, 15:17:21](https://news.ycombinator.com/item?id=43763223) - [David Tong Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/books.html)
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
-* [2025-04-22, 14:59:53](https://news.ycombinator.com/item?id=43763026) - [Launch HN: Infra.new (YC W23) – DevOps copilot with guardrails built in](https://news.ycombinator.com/item?id=43763026)
-* [2025-04-22, 14:40:00](https://news.slashdot.org/story/25/04/22/1429255/us-scientists-flee-abroad-as-research-funding-cuts-deepen-nature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Scientists Flee Abroad as Research Funding Cuts Deepen: Nature](https://news.slashdot.org/story/25/04/22/1429255/us-scientists-flee-abroad-as-research-funding-cuts-deepen-nature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-22, 14:00:00](https://tech.slashdot.org/story/25/04/22/0953209/google-pays-samsung-enormous-sums-for-gemini-ai-app-installs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Pays Samsung &apos;Enormous Sums&apos; for Gemini AI App Installs](https://tech.slashdot.org/story/25/04/22/0953209/google-pays-samsung-enormous-sums-for-gemini-ai-app-installs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 13:36:13](https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
-* [2025-04-22, 13:00:00](https://it.slashdot.org/story/25/04/22/0214252/logitech-quietly-raises-prices-by-up-to-25?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Logitech Quietly Raises Prices By Up To 25%](https://it.slashdot.org/story/25/04/22/0214252/logitech-quietly-raises-prices-by-up-to-25?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 12:53:45](https://lobste.rs/s/yjypaz/event_hidden_architectures) - [Event-Hidden Architectures](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
-* [2025-04-22, 10:00:00](https://tech.slashdot.org/story/25/04/22/0137218/google-says-doj-breakup-would-harm-us-in-global-race-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says DOJ Breakup Would Harm US In &apos;Global Race With China&apos;](https://tech.slashdot.org/story/25/04/22/0137218/google-says-doj-breakup-would-harm-us-in-global-race-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-22, 09:27:20](https://news.ycombinator.com/item?id=43760357) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
-* [2025-04-22, 07:00:00](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA&apos;s Oldest Astronaut Celebrates 70th Birthday With Return To Earth](https://science.slashdot.org/story/25/04/22/026253/nasas-oldest-astronaut-celebrates-70th-birthday-with-return-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss) - [ \&quot;Only 2 submissions in the queue.\&quot;](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss)
@@ -158,12 +153,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss)
 * [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
 * [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
+* [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
 * [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
 * [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
-* [2025-04-18, 23:22:46](https://news.ycombinator.com/item?id=43732767) - [Native American names extend earthquake history of northeastern North America](https://phys.org/news/2025-04-native-american-earthquake-history-northeastern.html)
-* [2025-04-18, 22:31:40](https://news.ycombinator.com/item?id=43732416) - [More details for London&apos;s new Roman Basilica museum revealed](https://www.ianvisits.co.uk/articles/more-details-for-londons-new-roman-basilica-museum-revealed-80470/)
-* [2025-04-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss) - [States are Banning Forever Chemicals. Industry is Fighting Back](https://soylentnews.org/article.pl?sid=25/04/17/1348247&amp;from=rss)
-* [2025-04-18, 14:34:00](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss) - [The Friendship Recession: The Lost Art of Connecting](https://soylentnews.org/article.pl?sid=25/04/17/1336207&amp;from=rss)
-* [2025-04-18, 09:52:00](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss) - [‘End of an Era’: The Last RadioShack in Maryland is Closing its Doors](https://soylentnews.org/article.pl?sid=25/04/16/1857229&amp;from=rss)
-* [2025-04-18, 05:07:00](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss) - [Oxygen Discovered in Most Distant Known Galaxy](https://soylentnews.org/article.pl?sid=25/04/16/1849251&amp;from=rss)
-* [2025-04-18, 00:21:00](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss) - [Phase Two of Military AI Has Arrived](https://soylentnews.org/article.pl?sid=25/04/16/1843228&amp;from=rss)
