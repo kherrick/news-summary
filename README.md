@@ -1,42 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Unusual Applications
+## Technology Advancements and Discoveries
 
-* [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom) - Creative use of DuckDB-WASM to generate 3D visuals in SQL.
+* [Hubble Celebrates 35th Year In Orbit](https://science.slashdot.org/story/25/04/23/2244236/hubble-celebrates-35th-year-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Marking a major milestone, Hubble Telescope has been in orbit for 35 years, continuing to deepen our understanding of space.
 
-* [TacOS: UNIX-like OS from scratch that runs DOOM](https://github.com/UnmappedStack/TacOS) - A unique project building a custom OS capable of running DOOM from scratch.
+* [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html) - Researchers achieved the first-ever drone-triggered and guided lightning strike, an innovative breakthrough in weather and safety research.
 
-* [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html) - A mathematical approach to optimize travel to an astonishing number of locations in South Korea.
+* [Quantum Messages Travel 254 km Using Existing Infrastructure For the First Time](https://science.slashdot.org/story/25/04/23/2227211/quantum-messages-travel-254-km-using-existing-infrastructure-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Quantum communication achieved a new benchmark by transferring messages over 254 km through existing network infrastructure.
 
-* [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss) - Exploring retro tech by using a Nintendo Wii for modern blogging.
+* [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source) - AMD contributes to open-source with a GPU virtualization driver aimed at enhancing cloud-based computing experiences.
 
-* [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/) - A philosophical take on the nature of software and waiting in technology.
+## Unconventional Innovations
 
-## Technological Advances
+* [TacOS: UNIX-like OS from scratch that runs DOOM](https://github.com/UnmappedStack/TacOS) - Built entirely from scratch, TacOS is a UNIX-like operating system that impressively uses the classic game DOOM as a demonstration of its capabilities.
 
-* [Quantum Messages Travel 254 km Using Existing Infrastructure For the First Time](https://science.slashdot.org/story/25/04/23/2227211/quantum-messages-travel-254-km-using-existing-infrastructure-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant breakthrough in quantum communications.
+* [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - In a unique twist, a programmer shows how to leverage a Nintendo Wii to host a full-fledged blog.
 
-* [AMD Publishes Open-Source Driver for GPU Virtualization](https://www.phoronix.com/news/AMD-GIM-Open-Source) - AMD's release of an open-source driver supporting GPU virtualization.
+## Society and Scientific Concerns
 
-* [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs.php?id=ub-pldi25) - A deep dive into optimization techniques by leveraging undefined behavior.
+* [Stroke Patients Have High Levels of Microplastics Clogging Their Arteries, Researchers Find](https://science.slashdot.org/story/25/04/23/2122204/stroke-patients-have-high-levels-of-microplastics-clogging-their-arteries-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarming research reveals significant microplastic buildup in stroke patients' arteries, indicating a potential health crisis.
 
-## Science and Health Insights
+* [Cancer-Causing Arsenic is Building Up in the World's Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&from=rss) - Concerns over food safety rise as studies confirm arsenic accumulation in one of the world's staple crops.
 
-* [Stroke Patients Have High Levels of Microplastics Clogging Their Arteries, Researchers Find](https://science.slashdot.org/story/25/04/23/2122204/stroke-patients-have-high-levels-of-microplastics-clogging-their-arteries-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Study linking microplastics buildup to adverse health effects.
+## Cultural and Social Dynamics
 
-* [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&amp;from=rss) - New astronomical discovery of an isolated black hole.
+* [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html) - An incredible mathematical achievement charts the shortest walking route visiting nearly 82,000 bars across South Korea.
 
-## Social and Environmental Issues
+* [Discord's CEO and Co-Founder Is Stepping Down](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major leadership change as Discord undergoes transitions following the resignation of its CEO and co-founder.
 
-* [More Than 80% of the World’s Reefs Hit By Bleaching After Worst Global Event On Record](https://news.slashdot.org/story/25/04/23/1515228/more-than-80-of-the-worlds-reefs-hit-by-bleaching-after-worst-global-event-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The devastating impact of coral bleaching on marine ecosystems.
+## Programming and Software Insights
 
-* [Cancer-Causing Arsenic is Building Up in the World’s Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss) - Concerning findings about toxic elements in a global staple food.
+* [Creating your own federated microblog](https://fedify.dev/tutorial/microblog) - A detailed guide on creating a federated microblog, embracing the essence of decentralized social media.
 
-## Human Behavior and Culture
+* [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer) - An insightful examination of Rust’s impact on software safety, addressing its promises of reducing vulnerabilities.
 
-* [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/) - Reflection on the dichotomy between appreciation for tools and ethical considerations about their creators.
-
-* [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/) - A historical look at the role of beer during maritime voyages in the age of sail.
+* [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes) - Upcoming changes in C++26 focus on enhancing const expressions for programmers.
 
 ---
 
@@ -63,11 +61,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-24, 09:32:25](https://lobste.rs/s/5zokun/abusing_duckdb_wasm_by_making_sql_draw_3d) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
-* [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
+* [2025-04-24, 12:35:04](https://lobste.rs/s/dtaae5/avoid_continue) - [Avoid continue](https://www.teamten.com/lawrence/programming/avoid-continue.html)
+* [2025-04-24, 12:31:56](https://news.ycombinator.com/item?id=43781933) - [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
+* [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
+* [2025-04-24, 12:00:10](https://news.ycombinator.com/item?id=43781663) - [Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go)](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
+* [2025-04-24, 11:54:44](https://lobste.rs/s/avp6rw/towards_vortex_1_0) - [Towards Vortex 1.0](https://spiraldb.com/post/towards-vortex-10)
+* [2025-04-24, 10:53:00](https://soylentnews.org/article.pl?sid=25/04/23/1515240&amp;from=rss) - [Sophisticated Gmail Attack Highlights Dangers of Trusting Big Tech with Personal Data](https://soylentnews.org/article.pl?sid=25/04/23/1515240&amp;from=rss)
+* [2025-04-24, 10:18:50](https://lobste.rs/s/trthse/first_successful_lightning_triggering) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
+* [2025-04-24, 10:00:00](https://science.slashdot.org/story/25/04/23/2244236/hubble-celebrates-35th-year-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hubble Celebrates 35th Year In Orbit](https://science.slashdot.org/story/25/04/23/2244236/hubble-celebrates-35th-year-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
+* [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
+* [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained (2023)](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 09:11:35](https://lobste.rs/s/s0jqjx/bluefish) - [Bluefish](https://bluefishjs.org/)
 * [2025-04-24, 08:40:06](https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom) - [TacOS: UNIX-like OS from scratch that runs DOOM](https://github.com/UnmappedStack/TacOS)
-* [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\&quot;Careless People\&quot; the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
+* [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 07:00:00](https://science.slashdot.org/story/25/04/23/2227211/quantum-messages-travel-254-km-using-existing-infrastructure-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Quantum Messages Travel 254 km Using Existing Infrastructure For the First Time](https://science.slashdot.org/story/25/04/23/2227211/quantum-messages-travel-254-km-using-existing-infrastructure-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \&quot;In the Roadmap\&quot;](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:11:00](https://soylentnews.org/article.pl?sid=25/04/23/0422241&amp;from=rss) - [World&apos;s First Drone System for Fighting Lightning Protects Cities and Infrastructure](https://soylentnews.org/article.pl?sid=25/04/23/0422241&amp;from=rss)
@@ -93,8 +100,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 21:40:00](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord&apos;s CEO and Co-Founder Is Stepping Down](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 21:00:00](https://meta.slashdot.org/story/25/04/23/2033218/meta-rolls-out-live-translations-to-all-ray-ban-smart-glasses-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Rolls Out Live Translations To All Ray-Ban Smart Glasses Users](https://meta.slashdot.org/story/25/04/23/2033218/meta-rolls-out-live-translations-to-all-ray-ban-smart-glasses-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
-* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [DOGE worker’s code supports NLRB whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+* [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google contract prevented Motorola from setting Perplexity as default assistant](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776477) - [How much math is knowable? [video]](https://www.youtube.com/watch?v=VplMHWSZf5c)
 * [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss)
 * [2025-04-23, 20:26:00](https://news.slashdot.org/story/25/04/23/2025217/ai-secretly-helped-write-california-bar-exam-sparking-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Secretly Helped Write California Bar Exam, Sparking Uproar](https://news.slashdot.org/story/25/04/23/2025217/ai-secretly-helped-write-california-bar-exam-sparking-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
@@ -112,10 +119,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 17:20:00](https://apple.slashdot.org/story/25/04/23/1656240/apple-meta-fined-as-eu-presses-ahead-with-tech-probes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Meta Fined as EU Presses Ahead With Tech Probes](https://apple.slashdot.org/story/25/04/23/1656240/apple-meta-fined-as-eu-presses-ahead-with-tech-probes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
-* [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
-* [2025-04-23, 16:40:00](https://news.slashdot.org/story/25/04/23/1515228/more-than-80-of-the-worlds-reefs-hit-by-bleaching-after-worst-global-event-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than 80% of the World&apos;s Reefs Hit By Bleaching After Worst Global Event On Record](https://news.slashdot.org/story/25/04/23/1515228/more-than-80-of-the-worlds-reefs-hit-by-bleaching-after-worst-global-event-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
-* [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
 * [2025-04-23, 15:56:00](https://soylentnews.org/article.pl?sid=25/04/22/015230&amp;from=rss) - [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&amp;from=rss)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 15:13:13](https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://nikitadanilov.github.io/aodt.html)
@@ -127,12 +131,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
 * [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 11:13:00](https://soylentnews.org/article.pl?sid=25/04/22/011227&amp;from=rss) - [ChatGPT is Now a Potent Tool for Finding the Locations of Photos, Raising Doxxing Concerns](https://soylentnews.org/article.pl?sid=25/04/22/011227&amp;from=rss)
+* [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
-* [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
-* [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-23, 06:27:00](https://soylentnews.org/article.pl?sid=25/04/22/0055253&amp;from=rss) - [Major Blow For Cheap Handhelds As Anbernic No Longer Ships To The US](https://soylentnews.org/article.pl?sid=25/04/22/0055253&amp;from=rss)
 * [2025-04-23, 01:42:00](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss) - [Cancer-Causing Arsenic is Building Up in the World&apos;s Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss)
-* [2025-04-23, 01:32:44](https://news.ycombinator.com/item?id=43767910) - [Reptends and Reciprocals](https://www.gregegan.net/SCIENCE/Reptends/Reptends.html)
 * [2025-04-22, 20:57:00](https://soylentnews.org/article.pl?sid=25/04/22/0038216&amp;from=rss) - [CA/Browser Forum Votes to Reduce the Maximum Validity Term of SSL/TLS Certs to 47 Days by 2029](https://soylentnews.org/article.pl?sid=25/04/22/0038216&amp;from=rss)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
 * [2025-04-22, 20:40:31](https://news.ycombinator.com/item?id=43766073) - [Dissecting a British wartime night vision tank periscope [video]](https://www.youtube.com/watch?v=KlguQYJqs-E)
@@ -141,7 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss) - [ \&quot;Only 2 submissions in the queue.\&quot;](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss)
-* [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-22, 02:01:00](https://soylentnews.org/article.pl?sid=25/04/20/1820252&amp;from=rss) - [Jim Zemlin on Taking a &apos;Portfolio Approach&apos; to Linux Foundation Projects](https://soylentnews.org/article.pl?sid=25/04/20/1820252&amp;from=rss)
 * [2025-04-21, 21:13:00](https://soylentnews.org/article.pl?sid=25/04/20/0513237&amp;from=rss) - [Deepseek Open Source model Promotes Fast Innovation and Extensive Application in China](https://soylentnews.org/article.pl?sid=25/04/20/0513237&amp;from=rss)
 * [2025-04-21, 16:28:00](https://soylentnews.org/article.pl?sid=25/04/20/059216&amp;from=rss) - [The Universe Isn&apos;t Just Expanding—It May be Spinning](https://soylentnews.org/article.pl?sid=25/04/20/059216&amp;from=rss)
@@ -151,9 +152,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-21, 02:08:00](https://soylentnews.org/article.pl?sid=25/04/20/0452238&amp;from=rss) - [Google Has Illegal Advertising Monopoly, Judge Rules](https://soylentnews.org/article.pl?sid=25/04/20/0452238&amp;from=rss)
 * [2025-04-21, 00:36:00](https://news.ycombinator.com/item?id=43747634) - [Finland is painting deer antlers with reflective paint (2014)](https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/)
 * [2025-04-20, 21:22:00](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss)
-* [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
 * [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss)
-* [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
 * [2025-04-20, 11:55:00](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&amp;from=rss) - [Spyware Maker NSO Group is Paving a Path Back Into Trump’s America](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&amp;from=rss)
 * [2025-04-20, 07:13:00](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss) - [Here&apos;s How a Satellite Ended Up as a Ghostly Apparition on Google Earth](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss)
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
