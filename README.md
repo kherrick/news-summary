@@ -1,46 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Leadership and Corporate Changes
+## Technology and Software Developments
 
-* [Discord's CEO and Co-Founder Is Stepping Down](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discord's leader announces departure amidst potential shifts in the platform's vision and strategy.
+* ['Show HN: My from-scratch OS kernel that runs DOOM'](https://github.com/UnmappedStack/TacOS) - A programmer created an OS kernel from scratch, demonstrating its potential by running the iconic DOOM game. [Comments](https://news.ycombinator.com/item?id=43778081).
 
-* [Intel To Slash Over 20% of Workforce in Major Restructuring Move](https://slashdot.org/story/25/04/23/0141226/intel-to-slash-over-20-of-workforce-in-major-restructuring-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel's severe restructuring plan aims to reshape its competitive position in the tech industry.
+* ['QEMU version 10.0.0 released'](https://www.qemu.org/2025/04/23/qemu-10-0-0/) - The QEMU team announced the release of version 10.0.0 with enhanced features for hardware emulation. [Comments](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released).
 
-## AI, Robotics, and Software Innovations
+* ['Lucene University'](https://github.com/msfroh/lucene-university) - A new open-source educational project focuses on Apache Lucene, offering training and resources for search engine enthusiasts. [Comments](https://news.ycombinator.com/item?id=43776385).
 
-* [AI Secretly Helped Write California Bar Exam, Sparking Uproar](https://news.slashdot.org/story/25/04/23/2025217/ai-secretly-helped-write-california-bar-exam-sparking-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into how AI crossed boundaries in professional exams, igniting debates on ethics.
+* ['CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support'](https://labs.leaningtech.com/blog/cheerpj-4.0) - CheerpJ 4.0 bridges Java and browsers, now featuring support for Java 11 and JNI. [Comments](https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser).
 
-* [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html) - Experimental methods to train language models to comprehend and create solid 3D designs.
+## AI and Machine Learning Advancements
 
-* [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html) - A groundbreaking drone achievement marks a leap in controlling natural phenomena.
+* ['Draft Executive Order Outlines Plan To Integrate AI Into K-12 Schools'](https://news.slashdot.org/story/25/04/23/2112226/draft-executive-order-outlines-plan-to-integrate-ai-into-k-12-schools?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An executive draft proposes integrating AI technologies into U.S. K-12 education to modernize learning tools and methodologies. [Comments](https://news.slashdot.org/story/25/04/23/2112226/draft-executive-order-outlines-plan-to-integrate-ai-into-k-12-schools?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Unique Applications and Hacks
+* ['Google blocked Motorola use of Perplexity AI, witness says'](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant) - A revelation claims Google restricted Motorola's usage of the AI tool Perplexity, raising competitiveness concerns. [Comments](https://news.ycombinator.com/item?id=43776512).
 
-* [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss) - Creative use of a gaming console to setup a personal blogging platform.
+* ['Teaching LLMs how to solid model'](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html) - Research reveals new techniques for training large language models to perform solid modeling tasks effectively. [Comments](https://news.ycombinator.com/item?id=43774990).
 
-* [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html) - Computational brilliance used to optimize Boggle game outcomes.
+## Innovative Science and Space Exploration
 
-* [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/) - A deep dive into the unexpected resurfacing of legacy game bugs in modern operating systems.
+* ['Lone Black Hole Discovered'](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss) - A groundbreaking discovery has identified a lone black hole wandering near the Milky Way. [Comments](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss).
 
-## Science, Environment, and Global Impact
+* ['First Successful Lightning Triggering and Guiding Using a Drone'](https://group.ntt/en/newsrelease/2025/04/18/250418a.html) - Scientists achieved a historic feat by using drones to trigger and guide lightning strikes. [Comments](https://news.ycombinator.com/item?id=43775766).
 
-* [More Than 80% of the World's Reefs Hit By Bleaching After Worst Global Event On Record](https://news.slashdot.org/story/25/04/23/1515228/more-than-80-of-the-worlds-reefs-hit-by-bleaching-after-worst-global-event-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming statistics on the widespread destruction of coral reefs.
+## Gaming and Entertainment Updates
 
-* [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&amp;from=rss) - Discovery opens up intriguing possibilities in the field of vision science.
+* ['Hosting a Blog on a Nintendo Wii'](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss) - An inventive project showcases hosting a functional blog using a retro Nintendo Wii console. [Comments](https://soylentnews.org/article.pl?sid=25/04/23/0343211&from=rss).
 
-* [Cancer-Causing Arsenic is Building Up in the World's Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss) - Concerns grow as food staples bear the brunt of environmental contamination.
+* ['How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2'](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/) - Developers explored how decades-old bugs in Grand Theft Auto still influence modern tech like Windows 11. [Comments](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas).
 
-## Legal and Policy Developments
+## Legal and Corporate Challenges
 
-* [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm) - Court rulings introduce major shifts in how internet jurisdiction is interpreted legally.
+* ['New Jersey Sues Property Management Software Firm RealPage, Says Collusion With Landlords Drives Up Rents'](https://yro.slashdot.org/story/25/04/23/2215203/new-jersey-sues-property-management-software-firm-realpage-says-collusion-with-landlords-drives-up-rents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New Jersey accuses RealPage software of conspiring with landlords to increase rental prices. [Comments](https://yro.slashdot.org/story/25/04/23/2215203/new-jersey-sues-property-management-software-firm-realpage-says-collusion-with-landlords-drives-up-rents?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Apple, Meta Fined as EU Presses Ahead With Tech Probes](https://apple.slashdot.org/story/25/04/23/1656240/apple-meta-fined-as-eu-presses-ahead-with-tech-probes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - European Union continues aggressive regulation of major tech firms.
-
-## Trendsetting and Historical Reflections
-
-* [Meta Rolls Out Live Translations To All Ray-Ban Smart Glasses Users](https://meta.slashdot.org/story/25/04/23/2033218/meta-rolls-out-live-translations-to-all-ray-ban-smart-glasses-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Augmented reality meets linguistics in a forward-looking tech trend.
-
-* [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii) - Operational challenges and wisdom from managing large-scale database systems.
+* ['Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law'](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm) - A court ruling significantly alters jurisdictional precedents in internet legal disputes. [Comments](https://news.ycombinator.com/item?id=43775624).
 
 ---
 
@@ -67,10 +61,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-24, 01:26:00](https://soylentnews.org/article.pl?sid=25/04/23/0353259&amp;from=rss) - [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&amp;from=rss)
+* [2025-04-24, 01:00:00](https://yro.slashdot.org/story/25/04/23/2215203/new-jersey-sues-property-management-software-firm-realpage-says-collusion-with-landlords-drives-up-rents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Jersey Sues Property Management Software Firm RealPage, Says Collusion With Landlords Drives Up Rents](https://yro.slashdot.org/story/25/04/23/2215203/new-jersey-sues-property-management-software-firm-realpage-says-collusion-with-landlords-drives-up-rents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-24, 00:20:00](https://news.slashdot.org/story/25/04/23/2112226/draft-executive-order-outlines-plan-to-integrate-ai-into-k-12-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Draft Executive Order Outlines Plan To Integrate AI Into K-12 Schools](https://news.slashdot.org/story/25/04/23/2112226/draft-executive-order-outlines-plan-to-integrate-ai-into-k-12-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+* [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
+* [2025-04-23, 23:40:00](https://tech.slashdot.org/story/25/04/23/211229/google-gemini-has-350-million-monthly-users-reveals-court-hearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Gemini Has 350 Million Monthly Users, Reveals Court Hearing](https://tech.slashdot.org/story/25/04/23/211229/google-gemini-has-350-million-monthly-users-reveals-court-hearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-23, 23:37:17](https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
+* [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
+* [2025-04-23, 23:14:07](https://news.ycombinator.com/item?id=43777700) - [Don&apos;t make it \&quot;like Google\&quot;](https://rakhim.exotext.com/dont-make-it-like-google)
+* [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echoplayer: Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
+* [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echo_open_hardware_music_player) - [Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
+* [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
+* [2025-04-23, 23:00:00](https://yro.slashdot.org/story/25/04/23/2055229/whatsapp-blocks-people-from-exporting-your-entire-chat-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WhatsApp Blocks People From Exporting Your Entire Chat History](https://yro.slashdot.org/story/25/04/23/2055229/whatsapp-blocks-people-from-exporting-your-entire-chat-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-23, 22:20:00](https://games.slashdot.org/story/25/04/23/2050237/dd-updates-core-rules-sticks-with-cc-license?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [D&amp;amp;D Updates Core Rules, Sticks With CC License](https://games.slashdot.org/story/25/04/23/2050237/dd-updates-core-rules-sticks-with-cc-license?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
+* [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 21:40:00](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord&apos;s CEO and Co-Founder Is Stepping Down](https://slashdot.org/story/25/04/23/2040251/discords-ceo-and-co-founder-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 21:00:00](https://meta.slashdot.org/story/25/04/23/2033218/meta-rolls-out-live-translations-to-all-ray-ban-smart-glasses-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Rolls Out Live Translations To All Ray-Ban Smart Glasses Users](https://meta.slashdot.org/story/25/04/23/2033218/meta-rolls-out-live-translations-to-all-ray-ban-smart-glasses-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-23, 20:56:18](https://news.ycombinator.com/item?id=43776539) - [FontDiffuser: Text to Font](https://yeungchenwa.github.io/fontdiffuser-homepage/)
 * [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
-* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [Doge Worker&apos;s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
 * [2025-04-23, 20:41:00](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss) - [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss)
 * [2025-04-23, 20:37:54](https://news.ycombinator.com/item?id=43776385) - [Lucene University](https://github.com/msfroh/lucene-university)
 * [2025-04-23, 20:26:00](https://news.slashdot.org/story/25/04/23/2025217/ai-secretly-helped-write-california-bar-exam-sparking-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Secretly Helped Write California Bar Exam, Sparking Uproar](https://news.slashdot.org/story/25/04/23/2025217/ai-secretly-helped-write-california-bar-exam-sparking-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,9 +99,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 * [2025-04-23, 18:02:00](https://games.slashdot.org/story/25/04/23/1737233/nintendo-seeks-discord-users-identity-following-major-pokemon-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Seeks Discord User&apos;s Identity Following Major Pokemon Leak](https://games.slashdot.org/story/25/04/23/1737233/nintendo-seeks-discord-users-identity-following-major-pokemon-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
-* [2025-04-23, 17:49:52](https://news.ycombinator.com/item?id=43774742) - [The Really Big One (2015)](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
 * [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
-* [2025-04-23, 17:45:35](https://news.ycombinator.com/item?id=43774702) - [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 * [2025-04-23, 17:20:00](https://apple.slashdot.org/story/25/04/23/1656240/apple-meta-fined-as-eu-presses-ahead-with-tech-probes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Meta Fined as EU Presses Ahead With Tech Probes](https://apple.slashdot.org/story/25/04/23/1656240/apple-meta-fined-as-eu-presses-ahead-with-tech-probes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
@@ -99,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
 * [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 16:11:11](https://news.ycombinator.com/item?id=43773720) - [Show HN: Index – new SOTA Open Source browser agent](https://github.com/lmnr-ai/index)
-* [2025-04-23, 16:10:12](https://news.ycombinator.com/item?id=43773710) - [They made computers behave like annoying salesmen](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen)
 * [2025-04-23, 16:01:00](https://tech.slashdot.org/story/25/04/23/1512207/amazons-starlink-rival-struggles-to-ramp-up-satellite-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Starlink Rival Struggles To Ramp Up Satellite Production](https://tech.slashdot.org/story/25/04/23/1512207/amazons-starlink-rival-struggles-to-ramp-up-satellite-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 15:56:00](https://soylentnews.org/article.pl?sid=25/04/22/015230&amp;from=rss) - [Laser Stimulation of Photoreceptors Reveals New Colors](https://soylentnews.org/article.pl?sid=25/04/22/015230&amp;from=rss)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
@@ -108,41 +116,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-23, 15:02:31](https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser) - [CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support](https://labs.leaningtech.com/blog/cheerpj-4.0)
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 14:44:00](https://it.slashdot.org/story/25/04/23/1445200/ubs-and-gartner-trim-smartphone-pc-forecasts-amid-tariff-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UBS and Gartner Trim Smartphone, PC Forecasts Amid Tariff Fears](https://it.slashdot.org/story/25/04/23/1445200/ubs-and-gartner-trim-smartphone-pc-forecasts-amid-tariff-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
-* [2025-04-23, 14:01:00](https://tech.slashdot.org/story/25/04/23/140227/deep-sea-fishers-fight-for-wi-fi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deep-Sea Fishers Fight for Wi-Fi](https://tech.slashdot.org/story/25/04/23/140227/deep-sea-fishers-fight-for-wi-fi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-* [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I blog with Obsidian, Hugo, GitHub, and Cloudflare](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
-* [2025-04-23, 13:00:00](https://yro.slashdot.org/story/25/04/22/2215255/shopify-must-face-data-privacy-lawsuit-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Shopify Must Face Data Privacy Lawsuit In US](https://yro.slashdot.org/story/25/04/22/2215255/shopify-must-face-data-privacy-lawsuit-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 12:39:42](https://lobste.rs/s/1ypcby/kworkflow_tool_talk_from_fosdem_2025) - [kworkflow tool talk from FOSDEM 2025](https://melissawen.github.io/blog/2025/04/22/fosdem-2025-kernel-devroom-kworkflow-talk)
+* [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 12:26:18](https://lobste.rs/s/gamz2d/give_it_time) - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
-* [2025-04-23, 12:07:52](https://lobste.rs/s/xq5jrs/gpu_compilation_with_mlir) - [GPU Compilation with MLIR](https://vectorfold.studio/blog/gpu-compilation)
 * [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
-* [2025-04-23, 11:24:28](https://news.ycombinator.com/item?id=43770821) - [How ZGC allocates memory for the Java heap](https://joelsiks.com/posts/zgc-heap-memory-allocation/)
 * [2025-04-23, 11:13:00](https://soylentnews.org/article.pl?sid=25/04/22/011227&amp;from=rss) - [ChatGPT is Now a Potent Tool for Finding the Locations of Photos, Raising Doxxing Concerns](https://soylentnews.org/article.pl?sid=25/04/22/011227&amp;from=rss)
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 09:05:20](https://lobste.rs/s/ygwmhh/reference_huffman_coding) - [Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
 * [2025-04-23, 08:50:09](https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does) - [Commodore 64 Assembly, part 4: how does the machine execute machine code?](https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/)
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
-* [2025-04-23, 07:36:34](https://lobste.rs/s/qr4qdv/how_quickly_charge_your_smartphone_fast) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
-* [2025-04-23, 07:00:00](https://tech.slashdot.org/story/25/04/22/226251/california-is-about-to-run-out-of-license-plate-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Is About To Run Out of License Plate Numbers](https://tech.slashdot.org/story/25/04/22/226251/california-is-about-to-run-out-of-license-plate-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
+* [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-23, 06:27:00](https://soylentnews.org/article.pl?sid=25/04/22/0055253&amp;from=rss) - [Major Blow For Cheap Handhelds As Anbernic No Longer Ships To The US](https://soylentnews.org/article.pl?sid=25/04/22/0055253&amp;from=rss)
-* [2025-04-23, 03:30:00](https://tech.slashdot.org/story/25/04/22/220256/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Yahoo Will Give Millions To a Settlement Fund For Chinese Dissidents](https://tech.slashdot.org/story/25/04/22/220256/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-23, 02:47:58](https://lobste.rs/s/fywpfw/exploiting_undefined_behavior_c_c) - [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 * [2025-04-23, 01:42:00](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss) - [Cancer-Causing Arsenic is Building Up in the World&apos;s Rice](https://soylentnews.org/article.pl?sid=25/04/22/0052214&amp;from=rss)
-* [2025-04-23, 01:41:00](https://slashdot.org/story/25/04/23/0141226/intel-to-slash-over-20-of-workforce-in-major-restructuring-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel To Slash Over 20% of Workforce in Major Restructuring Move](https://slashdot.org/story/25/04/23/0141226/intel-to-slash-over-20-of-workforce-in-major-restructuring-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-22, 20:57:00](https://soylentnews.org/article.pl?sid=25/04/22/0038216&amp;from=rss) - [CA/Browser Forum Votes to Reduce the Maximum Validity Term of SSL/TLS Certs to 47 Days by 2029](https://soylentnews.org/article.pl?sid=25/04/22/0038216&amp;from=rss)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
-* [2025-04-22, 19:20:13](https://lobste.rs/s/p7rb36/a5_pentagonal_spatial_index) - [A5 - Pentagonal Spatial Index](https://a5geo.org/)
-* [2025-04-22, 19:14:33](https://news.ycombinator.com/item?id=43765310) - [Willy Ley was a prophet of space travel](https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html)
-* [2025-04-22, 19:04:34](https://news.ycombinator.com/item?id=43765227) - [Mt Ontake](https://www.emgoto.com/mt-ontake/)
+* [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 * [2025-04-22, 16:10:00](https://soylentnews.org/article.pl?sid=25/04/22/0023201&amp;from=rss) - [Tesla Accused of Speeding Up Odometers So Their Warranties Expire Faster](https://soylentnews.org/article.pl?sid=25/04/22/0023201&amp;from=rss)
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 * [2025-04-22, 11:27:00](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss) - [Oldest Serving US Astronaut Returns to Earth on 70th Birthday](https://soylentnews.org/article.pl?sid=25/04/21/2227242&amp;from=rss)
-* [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
-* [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
 * [2025-04-22, 06:44:00](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss) - [Scientists Can Tell Healthy And Cancerous Cells Apart By How They Move](https://soylentnews.org/article.pl?sid=25/04/21/2224243&amp;from=rss)
 * [2025-04-22, 06:28:00](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss) - [ \&quot;Only 2 submissions in the queue.\&quot;](https://soylentnews.org/meta/article.pl?sid=25/04/22/0619254&amp;from=rss)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
@@ -153,15 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-21, 09:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&amp;from=rss) - [Pope Francis Has Died on Easter Monday Aged 88](https://soylentnews.org/breakingnews/article.pl?sid=25/04/21/0944225&amp;from=rss)
 * [2025-04-21, 06:53:00](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss) - [Intel Agrees to Sell Controlling Stake in Altera Chip Business](https://soylentnews.org/article.pl?sid=25/04/20/0455204&amp;from=rss)
 * [2025-04-21, 02:08:00](https://soylentnews.org/article.pl?sid=25/04/20/0452238&amp;from=rss) - [Google Has Illegal Advertising Monopoly, Judge Rules](https://soylentnews.org/article.pl?sid=25/04/20/0452238&amp;from=rss)
-* [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
 * [2025-04-20, 21:22:00](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss) - [Astronomers Say They’ve Recorded the Strongest Sign Yet of Life Beyond Earth](https://soylentnews.org/article.pl?sid=25/04/19/183229&amp;from=rss)
 * [2025-04-20, 16:39:00](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss) - [Some Tropical Trees Act as Lightning Rods to Fend Off Rivals](https://soylentnews.org/article.pl?sid=25/04/19/181213&amp;from=rss)
 * [2025-04-20, 11:55:00](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&amp;from=rss) - [Spyware Maker NSO Group is Paving a Path Back Into Trump’s America](https://soylentnews.org/politics/article.pl?sid=25/04/19/1231231&amp;from=rss)
 * [2025-04-20, 07:13:00](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss) - [Here&apos;s How a Satellite Ended Up as a Ghostly Apparition on Google Earth](https://soylentnews.org/article.pl?sid=25/04/19/1214259&amp;from=rss)
 * [2025-04-20, 02:28:00](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss) - [Everyone in AI is Talking About Manus. We Put It to the Test.](https://soylentnews.org/article.pl?sid=25/04/19/1211220&amp;from=rss)
-* [2025-04-19, 21:47:00](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss) - [Medical Cannabis Shows Potential to Fight Cancer, Largest-Ever Study Finds](https://soylentnews.org/article.pl?sid=25/04/19/1159218&amp;from=rss)
-* [2025-04-19, 17:02:00](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss) - [How a 1980s Toy Robot Arm Inspired Modern Robotics](https://soylentnews.org/article.pl?sid=25/04/18/043228&amp;from=rss)
-* [2025-04-19, 12:19:00](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss) - [Inside arXiv—the Most Transformative Platform in All of Science](https://soylentnews.org/article.pl?sid=25/04/18/040226&amp;from=rss)
-* [2025-04-19, 08:37:00](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss) - [Vibe Coding _ !@#$% Kids! ](https://soylentnews.org/article.pl?sid=25/04/18/0334256&amp;from=rss)
-* [2025-04-19, 04:53:00](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss) - [UK Founders Grow Frustrated Over Dearth of Funding: &apos;the Problem is Getting Worse&apos;](https://soylentnews.org/article.pl?sid=25/04/18/0255244&amp;from=rss)
-* [2025-04-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss) - [Dirty Tricks 6502 Programmers Use](https://soylentnews.org/article.pl?sid=25/04/17/1356201&amp;from=rss)
