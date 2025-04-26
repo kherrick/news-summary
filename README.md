@@ -1,46 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Advances
+## Science and Technology Breakthroughs
 
-* [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=43801500))
+* [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/) [(comments)](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion)
 
-* [Netflix Introduces a New Kind of Subtitles For the Non-Hearing Impaired](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43801179))
+* [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss)
 
-* [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/) ([comments](https://news.ycombinator.com/item?id=43800153))
+* [China Shares Rare Moon Rocks With US](https://science.slashdot.org/story/25/04/25/224229/china-shares-rare-moon-rocks-with-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://science.slashdot.org/story/25/04/25/224229/china-shares-rare-moon-rocks-with-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [World&apos;s Biggest Zipper Maker Is Developing a Self-Propelled Zipper](https://tech.slashdot.org/story/25/04/25/2148256/worlds-biggest-zipper-maker-is-developing-a-self-propelled-zipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43799820))
+* [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss)
 
-* [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/) ([comments](https://news.ycombinator.com/item?id=43800002))
+## Open Source and Software Innovations
 
-## Issues in Business and Economy
+* [Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9](https://wanix.sh/) [(comments)](https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local)
 
-* [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c) ([comments](https://news.ycombinator.com/item?id=43800988))
+* [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/) [(comments)](https://news.ycombinator.com/item?id=43800002)
 
-* [Comcast President Bemoans Broadband Customer Losses: &apos;We Are Not Winning&apos;](https://tech.slashdot.org/story/25/04/25/2129256/comcast-president-bemoans-broadband-customer-losses-we-are-not-winning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43799697))
+* [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia) [(comments)](https://news.ycombinator.com/item?id=43797256)
 
-* [DoorDash Makes $3.6 Billion Offer For Deliveroo](https://news.slashdot.org/story/25/04/25/2125224/doordash-makes-36-billion-offer-for-deliveroo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43799396))
+* [Devs Sound Alarm After Microsoft Subtracts C/C++ Extension From VS Code Forks](https://developers.slashdot.org/story/25/04/25/2139216/devs-sound-alarm-after-microsoft-subtracts-cc-extension-from-vs-code-forks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://developers.slashdot.org/story/25/04/25/2139216/devs-sound-alarm-after-microsoft-subtracts-cc-extension-from-vs-code-forks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Apple TV+ Is &apos;Worst Marketer In the Universe,&apos; Says Producer](https://entertainment.slashdot.org/story/25/04/25/2155205/apple-tv-is-worst-marketer-in-the-universe-says-producer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43801179))
+## Unique Arts and Media
 
-## Open Source and Development Highlights
+* [Netflix Introduces a New Kind of Subtitles For the Non-Hearing Impaired](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure) ([comments](https://news.ycombinator.com/item?id=43800222))
+* [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/) [(comments)](https://news.ycombinator.com/item?id=43800151)
 
-* [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander) ([comments](https://news.ycombinator.com/item?id=43800574))
+* [I wrote a book called "Crap Towns". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more) [(comments)](https://news.ycombinator.com/item?id=43799820)
 
-* [actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications](https://github.com/densumesh/actix-request-reply-cache) ([comments](https://lobste.rs/s/7yjohg/actix_request_reply_cache_redis_backed))
+## Economic and Corporate Developments
 
-* [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME) ([comments](https://lobste.rs/s/ljr4im/ats3_xanadu_released))
+* [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c) [(comments)](https://news.ycombinator.com/item?id=43800988)
 
-* [Parallel ./configure](https://tavianator.com/2025/configure.html) ([comments](https://news.ycombinator.com/item?id=43799396))
+* [DoorDash Makes $3.6 Billion Offer For Deliveroo](https://news.slashdot.org/story/25/04/25/2125224/doordash-makes-36-billion-offer-for-deliveroo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://news.slashdot.org/story/25/04/25/2125224/doordash-makes-36-billion-offer-for-deliveroo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Cultural and Social Reflections
-
-* [I wrote a book called \\&quot;Crap Towns\\&quot;. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more) ([comments](https://news.ycombinator.com/item?id=43799820))
-
-* [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill) ([comments](https://news.ycombinator.com/item?id=43799697))
-
-* [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html) ([comments](https://news.ycombinator.com/item?id=43788255))
+* [Comcast President Bemoans Broadband Customer Losses: 'We Are Not Winning'](https://tech.slashdot.org/story/25/04/25/2129256/comcast-president-bemoans-broadband-customer-losses-we-are-not-winning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://tech.slashdot.org/story/25/04/25/2129256/comcast-president-bemoans-broadband-customer-losses-we-are-not-winning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -67,17 +61,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-26, 09:35:22](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion) - [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/)
+* [2025-04-26, 07:19:40](https://lobste.rs/s/focgny/taxonomy_c_types) - [A taxonomy of C++ types](https://blog.knatten.org/2025/04/25/a-taxonomy-of-c-types/)
 * [2025-04-26, 07:00:38](https://news.ycombinator.com/item?id=43801500) - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
+* [2025-04-26, 07:00:00](https://science.slashdot.org/story/25/04/25/224229/china-shares-rare-moon-rocks-with-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Shares Rare Moon Rocks With US](https://science.slashdot.org/story/25/04/25/224229/china-shares-rare-moon-rocks-with-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-26, 06:50:37](https://news.ycombinator.com/item?id=43801461) - [Apparently Bluesky has one centralized service, the \&quot;relay\&quot;](https://mastodon.online/@mastodonmigration/114399534536933573)
 * [2025-04-26, 05:55:00](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) - [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 04:39:02](https://news.ycombinator.com/item?id=43800988) - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
+* [2025-04-26, 03:55:24](https://lobste.rs/s/qs0onc/nofl_precise_immix) - [Nofl: A Precise Immix](https://arxiv.org/pdf/2503.16971v1)
+* [2025-04-26, 03:43:01](https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor) - [When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-26, 03:30:00](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix Introduces a New Kind of Subtitles For the Non-Hearing Impaired](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 03:09:47](https://news.ycombinator.com/item?id=43800574) - [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
 * [2025-04-26, 02:32:25](https://lobste.rs/s/1c9kcg/k_slices_k_dices) - [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
 * [2025-04-26, 02:13:00](https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local) - [Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9](https://wanix.sh/)
 * [2025-04-26, 02:02:00](https://entertainment.slashdot.org/story/25/04/25/2155205/apple-tv-is-worst-marketer-in-the-universe-says-producer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple TV+ Is &apos;Worst Marketer In the Universe,&apos; Says Producer](https://entertainment.slashdot.org/story/25/04/25/2155205/apple-tv-is-worst-marketer-in-the-universe-says-producer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 01:52:32](https://news.ycombinator.com/item?id=43800222) - [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure)
-* [2025-04-26, 01:39:28](https://news.ycombinator.com/item?id=43800153) - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
+* [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 01:25:00](https://tech.slashdot.org/story/25/04/25/2148256/worlds-biggest-zipper-maker-is-developing-a-self-propelled-zipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s Biggest Zipper Maker Is Developing a Self-Propelled Zipper](https://tech.slashdot.org/story/25/04/25/2148256/worlds-biggest-zipper-maker-is-developing-a-self-propelled-zipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 01:08:00](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss) - [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss)
 * [2025-04-26, 01:03:40](https://news.ycombinator.com/item?id=43800002) - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
@@ -92,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-25, 22:48:52](https://lobste.rs/s/7yjohg/actix_request_reply_cache_redis_backed) - [actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications](https://github.com/densumesh/actix-request-reply-cache)
 * [2025-04-25, 22:40:00](https://tech.slashdot.org/story/25/04/25/2052237/google-is-killing-software-support-for-early-nest-thermostats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Is Killing Software Support For Early Nest Thermostats](https://tech.slashdot.org/story/25/04/25/2052237/google-is-killing-software-support-for-early-nest-thermostats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 22:39:21](https://lobste.rs/s/ljr4im/ats3_xanadu_released) - [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME)
-* [2025-04-25, 22:26:47](https://lobste.rs/s/77vuer/export_google_analytics_data_sheets_via) - [Export Google Analytics data to Sheets via Apps Script](https://technicalwriting.dev/analytics/sheets.html)
 * [2025-04-25, 22:02:00](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Government Censorship Comes To Bluesky](https://yro.slashdot.org/story/25/04/25/2049213/government-censorship-comes-to-bluesky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
@@ -101,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-25, 21:09:27](https://lobste.rs/s/poyxdo/o_no_you_didn_t) - [O(no) You Didn’t](https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html)
 * [2025-04-25, 20:45:00](https://it.slashdot.org/story/25/04/25/1830232/microsoft-launches-windows-recall-after-year-long-delay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Launches Windows Recall After Year-Long Delay](https://it.slashdot.org/story/25/04/25/1830232/microsoft-launches-windows-recall-after-year-long-delay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 20:20:00](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss) - [First SD Express 8.0 Memory Card From Adata Hits 1.6 GB/s Read Speeds](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss)
-* [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 * [2025-04-25, 20:05:00](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel&apos;s AI PC Chips Aren&apos;t Selling Well](https://slashdot.org/story/25/04/25/1844209/intels-ai-pc-chips-arent-selling-well?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
 * [2025-04-25, 19:20:00](https://politics.slashdot.org/story/25/04/25/1854224/how-democrats-and-republicans-cite-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Democrats and Republicans Cite Science](https://politics.slashdot.org/story/25/04/25/1854224/how-democrats-and-republicans-cite-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -113,17 +111,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-25, 18:06:00](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Big AI Hire Can&apos;t Match OpenAI](https://slashdot.org/story/25/04/25/186205/microsofts-big-ai-hire-cant-match-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 17:43:30](https://lobste.rs/s/gcq1i1/beos_file_system_os_geek_retrospective) - [The BeOS file system, an OS geek retrospective (2018)](https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/)
 * [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
-* [2025-04-25, 17:26:00](https://it.slashdot.org/story/25/04/25/1726238/microsoft-to-kill-windows-maps-app-in-july?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Kill Windows Maps App in July](https://it.slashdot.org/story/25/04/25/1726238/microsoft-to-kill-windows-maps-app-in-july?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 16:19:32](https://lobste.rs/s/hmjv3a/gcc_15_1_released) - [GCC 15.1 Released](https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Reproducibility project fails to validate dozens of biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 15:58:22](https://lobste.rs/s/aukxak/differential_coverage_for_debugging) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
 * [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss)
 * [2025-04-25, 15:28:35](https://lobste.rs/s/1dy62n/devenv_1_6_extensible_ad_hoc_nix) - [devenv 1.6: Extensible Ad-Hoc Nix Environments](https://devenv.sh/blog/2025/04/25/devenv-16-extensible-ad-hoc-nix-environments/)
-* [2025-04-25, 15:04:25](https://lobste.rs/s/0hhmip/new_kind_paper) - [New Kind of Paper](https://mlajtos.mu/posts/new-kind-of-paper)
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [A $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
-* [2025-04-25, 14:07:42](https://lobste.rs/s/ktuuw8/inline_python_inline_python_code) - [inline-python: Inline Python code directly in your Rust code](https://crates.io/crates/inline-python)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \&quot;/etc/hosts\&quot; breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t_2009) - [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
@@ -132,7 +127,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-25, 10:47:00](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss) - [Out-of-Balance Bacteria is Linked to Multiple Sclerosis − the Ratio Can Predict Severity of Disease](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss)
 * [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI&apos;s new image API for a personalized coloring book service](https://clevercoloringbook.com/)
 * [2025-04-25, 09:51:15](https://lobste.rs/s/qcxcys/designing_kar) - [Designing Kar](https://joshleeb.com/posts/kar-design.html)
-* [2025-04-25, 09:45:21](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend)
 * [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large language models, small labor market effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-25, 08:08:53](https://lobste.rs/s/ncfete/usr_share_units_definitions_units) - [/usr/share/units/definitions.units](https://salsa.debian.org/debian/units/-/raw/master/definitions.units)
 * [2025-04-25, 06:02:00](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss) - [4chan May be Dead, but its Toxic Legacy Lives on](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss)
