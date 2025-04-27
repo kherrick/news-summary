@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Open Source Developments
+## Technology and Innovation
 
-* [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/) ([Source](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus))
+* [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf) ([article](https://lobste.rs/s/bigox9/taxonomy_failure_mode_agentic_ai_systems))
 
-* [Open-source interactive C tutorial in the browser](https://www.learn-c.org/) ([Comments](https://news.ycombinator.com/item?id=43809092))
+* [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U) ([comments](https://news.ycombinator.com/item?id=43809630))
 
-* [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path) ([Comments](https://news.ycombinator.com/item?id=43808428))
+* [Parallel ./configure](https://tavianator.com/2025/configure.html) ([comments](https://lobste.rs/s/1vzqe2/parallel_configure))
 
-* [Dive into Systems (2020)](https://diveintosystems.org/) ([Comments](https://lobste.rs/s/nflacr/dive_into_systems_2020))
+* [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) ([comments](https://news.ycombinator.com/item?id=43803243))
 
-* [IcôNES](https://icones.js.org/) ([Comments](https://news.ycombinator.com/item?id=43808443))
+* [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32) ([comments](https://news.ycombinator.com/item?id=43803148))
 
-## Space and Scientific Exploration
+## Science and Space
 
-* [Solar Orbiter&apos;s widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun) ([Comments](https://news.ycombinator.com/item?id=43808046))
+* [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43807753))
 
-* [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe ](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg) ([comments](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1))
 
-## Notable Events and Phenomena
+* [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&from=rss)
 
-* [iPad Jammed in Seat Forces Emergency Landing of Airplane Carrying 400 Passengers](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Security and Privacy
 
-* [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958) ([Comments](https://news.ycombinator.com/item?id=43808334))
+* [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive) ([article](https://lobste.rs/s/zczynh/apple_encrypted_archive))
 
-* [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss)
+* ['Read the Manual': Misconfigured Google Analytics Led to a Data Breach Affecting 4.7M](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## AI and Computational Advances
+* [Deepfake porn is destroying real lives in South Korea](https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html) ([comments](https://news.ycombinator.com/item?id=43809417))
 
-* [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/) ([Comments](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv))
+## Cultural and Social Issues
 
-* [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS) ([Comments](https://news.ycombinator.com/item?id=43803518))
+* [Tipping: How Gratuity Replaced Fair Wages in U.S. Restaurants](https://www.7shifts.com/blog/history-of-tipping-restaurants/) ([comments](https://news.ycombinator.com/item?id=43809610))
 
-* [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) ([Comments](https://lobste.rs/s/lkxhg6/stop_overbuilding_evals))
+* [The Friendship Recession: The lost art of connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting) ([comments](https://news.ycombinator.com/item?id=43802727))
 
-## Cultural and Ethical Discussions
+* [iPad Jammed in Seat Forces Emergency Landing of Airplane Carrying 400 Passengers](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Friendship Recession: The lost art of connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting) ([Comments](https://news.ycombinator.com/item?id=43802727))
+## Miscellaneous
 
-* [What Happens When You Pay People Not to Use Google Search?](https://tech.slashdot.org/story/25/04/26/065228/what-happens-when-you-pay-people-not-to-use-google-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&from=rss)
+
+* [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/) ([article](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus))
+
+* [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958) ([comments](https://news.ycombinator.com/item?id=43808334))
 
 ---
 
@@ -65,18 +69,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-27, 06:44:06](https://lobste.rs/s/bigox9/taxonomy_failure_mode_agentic_ai_systems) - [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+* [2025-04-27, 05:43:00](https://soylentnews.org/article.pl?sid=25/04/26/1324227&amp;from=rss) - [Post-Quantum Crypto: McEliece Standardization](https://soylentnews.org/article.pl?sid=25/04/26/1324227&amp;from=rss)
+* [2025-04-27, 05:23:44](https://news.ycombinator.com/item?id=43809630) - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
+* [2025-04-27, 05:23:18](https://lobste.rs/s/n0goy4/not_number) - [Not a Number](https://www.nan.fyi/)
+* [2025-04-27, 05:20:11](https://news.ycombinator.com/item?id=43809610) - [Tipping: How Gratuity Replaced Fair Wages in U.S. Restaurants](https://www.7shifts.com/blog/history-of-tipping-restaurants/)
+* [2025-04-27, 05:02:15](https://lobste.rs/s/zczynh/apple_encrypted_archive) - [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
+* [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden](https://csszengarden.com/)
+* [2025-04-27, 04:34:00](https://tech.slashdot.org/story/25/04/27/0252257/4chan-returns-details-breach-blames-funding-issues-ends-shockwave-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [4chan Returns, Details Breach, Blames Funding Issues, Ends Shockwave Board](https://tech.slashdot.org/story/25/04/27/0252257/4chan-returns-details-breach-blames-funding-issues-ends-shockwave-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 04:24:43](https://news.ycombinator.com/item?id=43809417) - [Deepfake porn is destroying real lives in South Korea](https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html)
 * [2025-04-27, 03:33:13](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus) - [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 * [2025-04-27, 02:23:16](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv) - [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 * [2025-04-27, 01:34:00](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iPad Jammed in Seat Forces Emergency Landing of Airplane Carrying 400 Passengers](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 01:23:05](https://lobste.rs/s/nflacr/dive_into_systems_2020) - [Dive into Systems (2020)](https://diveintosystems.org/)
+* [2025-04-27, 01:18:03](https://news.ycombinator.com/item?id=43808671) - [CONL: \&quot;Markdown\&quot; for your config files](https://cirw.in/blog/conl)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss)
 * [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [IcôNES](https://icones.js.org/)
 * [2025-04-27, 00:27:50](https://news.ycombinator.com/item?id=43808428) - [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
 * [2025-04-27, 00:04:29](https://news.ycombinator.com/item?id=43808334) - [Amazon Just Happens to Hold Book Sale During Independent Bookstore Day](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958)
-* [2025-04-26, 23:04:23](https://news.ycombinator.com/item?id=43808046) - [Solar Orbiter&apos;s widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
 * [2025-04-26, 22:53:51](https://lobste.rs/s/utpzij/anatomy_sql_engine) - [Anatomy Of A SQL Engine](https://dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 22:34:00](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe ](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
@@ -101,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-26, 19:14:28](https://news.ycombinator.com/item?id=43806296) - [Tilt: dev environment as code](https://github.com/tilt-dev/tilt)
 * [2025-04-26, 19:12:20](https://news.ycombinator.com/item?id=43806281) - [BART&apos;s Anime Mascots](https://www.bart.gov/news/fun/anime)
 * [2025-04-26, 18:34:00](https://news.slashdot.org/story/25/04/26/0625244/california-becomes-the-worlds-fourth-largest-economy-overtaking-japan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes the World&apos;s Fourth-Largest Economy, Overtaking Japan](https://news.slashdot.org/story/25/04/26/0625244/california-becomes-the-worlds-fourth-largest-economy-overtaking-japan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 17:34:00](https://news.slashdot.org/story/25/04/26/0520221/us-attorney-for-dc-accuses-wikipedia-of-propaganda-threatens-nonprofit-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Attorney for D.C. Accuses Wikipedia of &apos;Propaganda&apos;, Threatens Nonprofit Status](https://news.slashdot.org/story/25/04/26/0520221/us-attorney-for-dc-accuses-wikipedia-of-propaganda-threatens-nonprofit-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 17:21:31](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1) - [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-26, 17:12:15](https://news.ycombinator.com/item?id=43805358) - [HTTP Feeds: a minimal specification for polling events over HTTP](https://www.http-feeds.org/)
@@ -130,19 +142,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 03:43:01](https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor) - [When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-26, 03:30:00](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix Introduces a New Kind of Subtitles For the Non-Hearing Impaired](https://entertainment.slashdot.org/story/25/04/25/2159253/netflix-introduces-a-new-kind-of-subtitles-for-the-non-hearing-impaired?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-26, 02:32:25](https://lobste.rs/s/1c9kcg/k_slices_k_dices) - [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
 * [2025-04-26, 02:13:00](https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local) - [Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9](https://wanix.sh/)
-* [2025-04-26, 02:02:00](https://entertainment.slashdot.org/story/25/04/25/2155205/apple-tv-is-worst-marketer-in-the-universe-says-producer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple TV+ Is &apos;Worst Marketer In the Universe,&apos; Says Producer](https://entertainment.slashdot.org/story/25/04/25/2155205/apple-tv-is-worst-marketer-in-the-universe-says-producer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 01:08:00](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss) - [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss)
-* [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn&apos;t secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
-* [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
-* [2025-04-25, 22:39:21](https://lobste.rs/s/ljr4im/ats3_xanadu_released) - [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME)
 * [2025-04-25, 21:09:27](https://lobste.rs/s/poyxdo/o_no_you_didn_t) - [O(no) You Didn’t](https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html)
 * [2025-04-25, 20:20:00](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss) - [First SD Express 8.0 Memory Card From Adata Hits 1.6 GB/s Read Speeds](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss)
 * [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
 * [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss)
-* [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t_2009) - [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 10:47:00](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss) - [Out-of-Balance Bacteria is Linked to Multiple Sclerosis − the Ratio Can Predict Severity of Disease](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss)
 * [2025-04-25, 06:02:00](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss) - [4chan May be Dead, but its Toxic Legacy Lives on](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss)
 * [2025-04-25, 01:13:00](https://soylentnews.org/article.pl?sid=25/04/23/1540254&amp;from=rss) - [Crosswalk Button Voices Altered](https://soylentnews.org/article.pl?sid=25/04/23/1540254&amp;from=rss)
