@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Insights
+## Technology and Computing
 
-* [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) - Explore systems that unintentionally exhibit Turing-complete properties, often in unexpected ways. [Comments](https://news.ycombinator.com/item?id=43811561)
+* [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Canadian university halts a coding competition citing suspected use of AI tools for cheating practices. [Comments](https://news.ycombinator.com/item?id=43812513)
 
-* [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines) - A new approach to tenant database management using SQLite3 and Ruby on Rails' ActiveRecord. [Comments](https://news.ycombinator.com/item?id=43811400)
+* [Lenovo May Be Avoiding the 'Windows Tax' By Offering Cheaper Laptops With Pre-Installed Linux](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Lenovo offers Linux pre-installed laptops, possibly avoiding additional costs of Windows software. [Comments](https://news.ycombinator.com/item?id=43811105)
 
-* [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html) - A detailed review bringing back the nostalgia of early DOS-based word processors. [Comments](https://news.ycombinator.com/item?id=43811160)
+* [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/) - An insightful look into the challenges associated with reverse geocoding technology. [Comments](https://news.ycombinator.com/item?id=43812323)
 
-* [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev) - A modern starter template for web developers integrating powerful tools like React and Vite. [Comments](https://news.ycombinator.com/item?id=43811016)
+* [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive) - A detailed explanation of Apple's use of encrypted archives and its implementations. [Comments](https://news.ycombinator.com/item?id=43809638)
 
-* [Open-source interactive C tutorial in the browser](https://www.learn-c.org/) - An interactive educational platform designed to teach C programming hosted in a browser environment. [Comments](https://news.ycombinator.com/item?id=43809092)
+* [Open-source interactive C tutorial in the browser](https://www.learn-c.org/) - Learn C programming interactively in your web browser. [Comments](https://news.ycombinator.com/item?id=43809092)
 
-* [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf) - The latest collection of quirky and humorous computer science papers from the annual Sigbovik conference. [Comments](https://news.ycombinator.com/item?id=43808454)
+## Artificial Intelligence
 
-## Cutting-Edge Science and Space Exploration
+* [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp) - A showcase of a developing Common Lisp implementation with powerful features. [Comments](https://news.ycombinator.com/item?id=43811432)
 
-* [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss) - Insights from NASA's Lucy spacecraft observing ancient Trojan asteroids. [Comments](https://news.ycombinator.com/item?id=43810862)
+* [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf) - A detailed whitepaper examining AI systems' potential failure modes. [Comments](https://news.ycombinator.com/item?id=43809915)
 
-* [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss) - A breakthrough in quantum physics enabling new possibilities for light-matter interaction. [Comments](https://soylentnews.org/article.pl?sid=25/04/25/035210)
+* [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/) - Discussion on the unintended consequences of AI-generated comments on a Reddit community. [Comments](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv)
 
-* [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's experiment raises fascinating possibilities for resource extraction on lunar surfaces.
+## Science and Environment
 
-## Interesting AI and Robotics Developments
+* [Earth's oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/) - A scientific exploration of past and future shifts in the color of Earth's oceans. [Comments](https://news.ycombinator.com/item?id=43812513)
 
-* [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf) - Controversy highlights challenges in developing ethically compliant AI chatbots. [Comments](https://news.ycombinator.com/item?id=43810831)
+* [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss) - NASA captures detailed asteroid images showcasing the Lucy mission's success. [Comments](https://news.ycombinator.com/item?id=43810724)
 
-* [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf) - An analysis of various ways AI systems fail and how to mitigate risks. [Comments](https://lobste.rs/s/bigox9/taxonomy_failure_mode_agentic_ai_systems)
+* [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) - A breakthrough in quantum communication technology by German researchers. [Comments](https://news.ycombinator.com/item?id=43811400)
 
-## Pop Culture and Nostalgia
+## Lifestyle and Society
 
-* [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Behind-the-scenes from Star Wars paired with interesting insights on Yoda's speech. [Comments](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world) - A thought-provoking article encouraging individuals to pursue meaningful careers. [Comments](https://news.ycombinator.com/item?id=43812318)
 
-* [CSS Zen Garden (2003–)](https://csszengarden.com/) - Revisiting the iconic CSS showcase that inspired countless web designers. [Comments](https://news.ycombinator.com/item?id=43809484)
+* [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures) - A photo journey through Chongqing, one of the most populous cities globally. [Comments](https://news.ycombinator.com/item?id=43809915)
 
-## Infrastructure and Hardware
+* [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Fun insights into Star Wars' most popular character with exclusive bloopers. [Comments](https://news.ycombinator.com/item?id=43811432)
 
-* [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker) - A useful tool for monitoring GPU market fluctuations over time. [Comments](https://news.ycombinator.com/item?id=43811105)
+## Miscellaneous
 
-* [Cheap 'Transforming' Electric Truck Announced by Jeff Bezos-Backed Startup](https://tech.slashdot.org/story/25/04/26/0425259/cheap-transforming-electric-truck-announced-by-jeff-bezos-backed-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insight into the latest innovations in sustainable transportation.
+* [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/) - A deep dive into the intricate art of Japanese woodworking and its mesmerizing patterns. [Comments](https://news.ycombinator.com/item?id=43810724)
+
+* [Hosting a Blog on a Nintendo Wii](https://soylentnews.org/article.pl?sid=25/04/23/0343211&amp;from=rss) - A unique attempt at retro tech: running a blog on a Nintendo Wii. [Comments](https://news.ycombinator.com/item?id=43809915)
+
+* [4chan Returns, Details Breach, Blames Funding Issues, Ends Shockwave Board](https://tech.slashdot.org/story/25/04/27/0252257/4chan-returns-details-breach-blames-funding-issues-ends-shockwave-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial platform 4chan begins operations amidst funding and security controversies. [Comments](https://lobste.rs/s/nflacr/dive_into_systems_2020)
 
 ---
 
@@ -65,19 +69,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-27, 12:49:59](https://news.ycombinator.com/item?id=43811561) - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
-* [2025-04-27, 12:34:30](https://news.ycombinator.com/item?id=43811487) - [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
-* [2025-04-27, 12:23:23](https://news.ycombinator.com/item?id=43811426) - [America&apos;s nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
+* [2025-04-27, 15:34:00](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 15:16:51](https://news.ycombinator.com/item?id=43812513) - [Earth&apos;s oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)
+* [2025-04-27, 15:12:00](https://soylentnews.org/article.pl?sid=25/04/26/171205&amp;from=rss) - [The EU is Implementing Energy Labels and Minimum Requirements for Phones and Tablets](https://soylentnews.org/article.pl?sid=25/04/26/171205&amp;from=rss)
+* [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We&apos;re building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
+* [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
+* [2025-04-27, 14:44:56](https://news.ycombinator.com/item?id=43812318) - [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world)
+* [2025-04-27, 14:34:00](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lenovo May Be Avoiding the &apos;Windows Tax&apos; By Offering Cheaper Laptops With Pre-Installed Linux](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 13:32:28](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings) - [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
+* [2025-04-27, 13:21:56](https://news.ycombinator.com/item?id=43811736) - [Show HN: Lil digi – play a platformer game as yourself](https://www.lildigi.me/)
+* [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+* [2025-04-27, 12:24:04](https://news.ycombinator.com/item?id=43811432) - [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
 * [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:34:00](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-27, 11:33:44](https://news.ycombinator.com/item?id=43811160) - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
 * [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
-* [2025-04-27, 11:10:51](https://news.ycombinator.com/item?id=43811057) - [Top Patenting Powerhouses of 2024](https://spectrum.ieee.org/patent-power-2025)
 * [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
 * [2025-04-27, 10:34:13](https://lobste.rs/s/53mu4h/half_century_silicon_valley) - [A Half-Century of Silicon Valley](https://oxide-and-friends.transistor.fm/episodes/a-half-century-of-silicon-valley-with-randy-shoup)
-* [2025-04-27, 10:31:47](https://news.ycombinator.com/item?id=43810862) - [Windows \&quot;inetpub\&quot; security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 * [2025-04-27, 10:30:00](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss) - [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss)
-* [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta&apos;s &apos;Digital Companions&apos; Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 10:01:46](https://news.ycombinator.com/item?id=43810724) - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
 * [2025-04-27, 09:25:36](https://news.ycombinator.com/item?id=43810566) - [ZFS: Apple&apos;s New Filesystem that wasn&apos;t (2016)](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/)
 * [2025-04-27, 08:01:32](https://lobste.rs/s/hnrfdh/comfy_guide) - [Comfy.Guide](https://comfy.guide/)
@@ -92,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 05:25:51](https://news.ycombinator.com/item?id=43809638) - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
 * [2025-04-27, 05:23:18](https://lobste.rs/s/n0goy4/not_number) - [Not a Number](https://www.nan.fyi/)
 * [2025-04-27, 05:02:15](https://lobste.rs/s/zczynh/apple_encrypted_archive) - [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
-* [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden (2003–)](https://csszengarden.com/)
 * [2025-04-27, 04:34:00](https://tech.slashdot.org/story/25/04/27/0252257/4chan-returns-details-breach-blames-funding-issues-ends-shockwave-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [4chan Returns, Details Breach, Blames Funding Issues, Ends Shockwave Board](https://tech.slashdot.org/story/25/04/27/0252257/4chan-returns-details-breach-blames-funding-issues-ends-shockwave-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 03:33:13](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus) - [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
@@ -100,10 +107,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 * [2025-04-27, 01:34:00](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iPad Jammed in Seat Forces Emergency Landing of Airplane Carrying 400 Passengers](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 01:23:05](https://lobste.rs/s/nflacr/dive_into_systems_2020) - [Dive into Systems (2020)](https://diveintosystems.org/)
-* [2025-04-27, 01:18:03](https://news.ycombinator.com/item?id=43808671) - [CONL: \&quot;Markdown\&quot; for your config files](https://cirw.in/blog/conl)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss)
 * [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
-* [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [IcôNES](https://icones.js.org/)
+* [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [Icônes](https://icones.js.org/)
 * [2025-04-26, 22:53:51](https://lobste.rs/s/utpzij/anatomy_sql_engine) - [Anatomy Of A SQL Engine](https://dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 22:34:00](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe ](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
@@ -114,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-26, 21:50:25](https://lobste.rs/s/tgr67v/apl_cultivations) - [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
 * [2025-04-26, 21:34:00](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Read the Manual&apos;: Misconfigured Google Analytics Led to a Data Breach Affecting 4.7M](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-* [2025-04-26, 21:29:45](https://lobste.rs/s/uzswgd/bare_metal_printf_c_standard_library) - [Bare metal printf - C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:34:00](https://entertainment.slashdot.org/story/25/04/26/1935238/youtube-is-huge---and-a-few-creators-are-getting-rich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube is Huge - and a Few Creators Are Getting Rich](https://entertainment.slashdot.org/story/25/04/26/1935238/youtube-is-huge---and-a-few-creators-are-getting-rich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 20:22:35](https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds) - [rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet](https://codeberg.org/akselmo/rss2remarkable)
 * [2025-04-26, 20:12:00](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss) - [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss)
@@ -131,12 +136,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-26, 14:34:00](https://tech.slashdot.org/story/25/04/26/065228/what-happens-when-you-pay-people-not-to-use-google-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When You Pay People Not to Use Google Search?](https://tech.slashdot.org/story/25/04/26/065228/what-happens-when-you-pay-people-not-to-use-google-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 13:19:52](https://lobste.rs/s/lkxhg6/stop_overbuilding_evals) - [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals)
 * [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo&apos;s location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-* [2025-04-26, 13:00:00](https://slashdot.org/story/25/04/25/2228254/xprize-in-carbon-removal-goes-to-enhanced-rock-weathering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [XPrize In Carbon Removal Goes To Enhanced Rock Weathering](https://slashdot.org/story/25/04/25/2228254/xprize-in-carbon-removal-goes-to-enhanced-rock-weathering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
+* [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The lost art of connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
 * [2025-04-26, 10:42:00](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss) - [Drawing a Line From the Gut Microbiome to Inflammation and Depression](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss)
-* [2025-04-26, 10:00:00](https://science.slashdot.org/story/25/04/25/229213/new-analysis-casts-doubt-on-biosignatures-found-on-planet-k2-18b?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Analysis Casts Doubt On &apos;Biosignatures&apos; Found On Planet K2-18b](https://science.slashdot.org/story/25/04/25/229213/new-analysis-casts-doubt-on-biosignatures-found-on-planet-k2-18b?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 09:35:22](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion) - [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
+* [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:55:00](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) - [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 02:13:00](https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local) - [Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9](https://wanix.sh/)
