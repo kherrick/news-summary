@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Developments
+## Technology and AI Developments
 
-* [Are "AI" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/) explores philosophical debates about AI as tools or autonomous entities. Read commentary [here](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools).
+* [AI Coding assistants provide little value because a programmer's job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game) ([comments](https://news.ycombinator.com/item?id=43815033))
 
-* [Google's DeepMind UK Team Reportedly Seeks to Unionize](https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights tensions within DeepMind's workforce over unionization. Comments can be found [here](https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Consumers Aren't Flocking to Microsoft's AI Tool 'Copilot'](https://slashdot.org/story/25/04/27/1925219/consumers-arent-flocking-to-microsofts-ai-tool-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43814497))
 
-* [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses challenges AI poses to academic integrity. View discussion [here](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Are "AI" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/) ([comments](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools))
 
-* [How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph) offers insights into NASA's cutting-edge applications of AI. Participate in discussions [here](https://news.ycombinator.com/item?id=43813036).
+* [Google's DeepMind UK Team Reportedly Seeks to Unionize](https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/kazjmg/google_s_deepmind_uk_team_reportedly))
 
-## OpenBSD and System Innovations
+* [Unauthorized Experiment on CMV Involving AI-Generated Comments](https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/) ([comments](https://news.ycombinator.com/item?id=43811908))
 
-* [OpenBSD 7.7 Released](https://www.openbsd.org/77.html) covers updates to the UNIX-like OS. React to the news [here](https://news.ycombinator.com/item?id=43814058).
+## Programming and Development Insights
 
-* [Systemd system extensions for Fedora image-based systems](https://travier.github.io/fedora-sysexts/) showcases innovative ways to manage Fedora systems. Discuss [here](https://lobste.rs/s/p63gea/systemd_system_extensions_for_fedora).
+* [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/) ([comments](https://news.ycombinator.com/item?id=43809638))
 
-* [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://linux.slashdot.org/story/25/04/27/0547245/linus-torvalds-expresses-his-hatred-for-case-insensitive-file-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) delves into the creator of Linux's passionate opinion on file system conventions. Comments are [here](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for).
+* [What Does "use client" Do?](https://overreacted.io/what-does-use-client-do/) ([comments](https://lobste.rs/s/zonyxg/what_does_use_client_do))
 
-## Scientific Advances
+* [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines) ([comments](https://lobste.rs/s/drzmfa/can_shardines_sqlite_multitenancy_with))
 
-* [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&utm_medium=feed) investigates unexplored prospects of lunar water creation via solar wind.
+* [How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph) ([comments](https://news.ycombinator.com/item?id=43813036))
 
-* [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&from=rss) showcases advances in quantum communication.
+* [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) ([comments](https://news.ycombinator.com/item?id=43813336))
 
-* [Drawing a Line From the Gut Microbiome to Inflammation and Depression](https://soylentnews.org/article.pl?sid=25/04/25/0327235&from=rss) links microbiome health to mental well-being.
+## Cultural and Historical Perspectives
 
-* [Lone Black Hole Discovered](https://soylentnews.org/article.pl?sid=25/04/23/0353259&from=rss) explores the captivating discovery of a solitary black hole.
+* [Thoughts Upon Slavery (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1) ([comments](https://news.ycombinator.com/item?id=43815069))
 
-## Unusual and Creative Projects
+* [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/) ([comments](https://news.ycombinator.com/item?id=43810724))
 
-* [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp) features an inventive project controlling IKEA lamps remotely. Comments [here](https://news.ycombinator.com/item?id=43809841).
+* [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf) ([comments](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings))
 
-* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/) explores the art of text adventure creation. Engage [here](https://news.ycombinator.com/item?id=43810724).
+* [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/qwdm8c/yoda_bloopers_and_insights))
 
-* [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/) showcases the beauty of traditional craftsmanship. Reaction is [here](https://news.ycombinator.com/item?id=43810724).
+## Corporate and Industrial Innovations
 
-## Privacy and Security Concerns
+* [Starbucks Opens Its First 3D-Printed Store](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43814300))
 
-* [Sophisticated Gmail Attack Highlights Dangers of Trusting Big Tech with Personal Data](https://soylentnews.org/article.pl?sid=25/04/23/1515240&from=rss) documents increasing vulnerabilities stemming from reliance on tech giants.
+* [Lenovo May Be Avoiding the 'Windows Tax' By Offering Cheaper Laptops With Pre-Installed Linux](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=43812489))
 
-* [Misconfigured Google Analytics Led to a Data Breach Affecting 4.7M](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights awareness gaps in data management practices.
+* [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/p8htmg/coding_contestation_scrutiny))
+
+## Health and Human Stories
+
+* [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495) ([comments](https://news.ycombinator.com/item?id=43814683))
+
+* [The Coming Knowledge-Work Supply-Chain Crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply) ([comments](https://news.ycombinator.com/item?id=43812459))
 
 ---
 
@@ -67,17 +73,31 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-27, 21:17:51](https://lobste.rs/s/wwldja/technical_debt_as_theory_building) - [Technical Debt as Theory Building and Practice](https://www.usenix.org/conference/srecon25americas/presentation/lam)
+* [2025-04-27, 20:56:44](https://news.ycombinator.com/item?id=43815069) - [Thoughts Upon Slavery (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
+* [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
+* [2025-04-27, 20:51:20](https://news.ycombinator.com/item?id=43815033) - [AI Coding assistants provide little value because a programmer&apos;s job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
+* [2025-04-27, 20:48:15](https://lobste.rs/s/zonyxg/what_does_use_client_do) - [What Does \&quot;use client\&quot; Do?](https://overreacted.io/what-does-use-client-do/)
+* [2025-04-27, 20:43:00](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starbucks Opens Its First 3D-Printed Store](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 20:40:09](https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler) - [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
+* [2025-04-27, 20:38:17](https://lobste.rs/s/zihgia/what_s_new_apt_3_0) - [What&apos;s new in APT 3.0](https://lwn.net/Articles/1017315/)
+* [2025-04-27, 20:28:46](https://lobste.rs/s/5jg6pl/unlocking_ractors_object_id) - [Unlocking Ractors: object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
+* [2025-04-27, 20:04:28](https://news.ycombinator.com/item?id=43814683) - [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
+* [2025-04-27, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss) - [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury&apos;s Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss)
+* [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
+* [2025-04-27, 19:34:00](https://slashdot.org/story/25/04/27/1925219/consumers-arent-flocking-to-microsofts-ai-tool-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Consumers Aren&apos;t Flocking to Microsoft&apos;s AI Tool &apos;Copilot&apos;](https://slashdot.org/story/25/04/27/1925219/consumers-arent-flocking-to-microsofts-ai-tool-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
+* [2025-04-27, 19:12:43](https://news.ycombinator.com/item?id=43814360) - [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 * [2025-04-27, 18:55:10](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools) - [Are \&quot;AI\&quot; systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/)
 * [2025-04-27, 18:43:48](https://lobste.rs/s/eon9yi/openbsd_7_7_released_april_28_2025) - [OpenBSD 7.7 released April 28, 2025](https://marc.info/?l=openbsd-misc&amp;m=174577758604758&amp;w=2)
 * [2025-04-27, 18:34:00](https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s DeepMind UK Team Reportedly Seeks to Unionize](https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 18:32:53](https://news.ycombinator.com/item?id=43814080) - [Show HN: Daily Jailbreak – Prompt Engineer&apos;s Wordle](https://www.vaultbreak.ai/daily-jailbreak)
-* [2025-04-27, 18:29:41](https://news.ycombinator.com/item?id=43814058) - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
 * [2025-04-27, 17:45:46](https://lobste.rs/s/drzmfa/can_shardines_sqlite_multitenancy_with) - [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 17:21:00](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss) - [XKCD Cartoon Protest](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss)
+* [2025-04-27, 17:13:33](https://news.ycombinator.com/item?id=43813455) - [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
 * [2025-04-27, 17:05:38](https://lobste.rs/s/mzogmm/how_program_text_adventure_c) - [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/)
 * [2025-04-27, 17:00:46](https://news.ycombinator.com/item?id=43813336) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-04-27, 17:00:29](https://news.ycombinator.com/item?id=43813330) - [Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed](https://github.com/zumerlab/snapdom)
-* [2025-04-27, 16:42:35](https://news.ycombinator.com/item?id=43813195) - [NASA&apos;s Lucy Spacecraft Completes Asteroid Donaldjohanson Flyby](https://science.nasa.gov/blogs/lucy/2025/04/20/nasas-lucy-spacecraft-completes-asteroid-donaldjohanson-flyby/)
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:34:00](https://it.slashdot.org/story/25/04/27/088238/wsj-tech-industry-workers-now-miserable-fearing-layoffs-working-longer-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WSJ:  Tech-Industry Workers Now &apos;Miserable&apos;, Fearing Layoffs, Working Longer Hours](https://it.slashdot.org/story/25/04/27/088238/wsj-tech-industry-workers-now-miserable-fearing-layoffs-working-longer-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G Kill the IMSI Catcher?](https://zetier.com/5g-imsi-catcher/)
@@ -88,14 +108,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 15:37:07](https://news.ycombinator.com/item?id=43812658) - [Unlocking Ractors: Object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
 * [2025-04-27, 15:35:32](https://news.ycombinator.com/item?id=43812646) - [TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/)
 * [2025-04-27, 15:34:00](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-27, 15:15:40](https://news.ycombinator.com/item?id=43812500) - [Show HN: Logchef – Schema-agnostic log viewer for ClickHouse](https://github.com/mr-karan/logchef)
 * [2025-04-27, 15:12:00](https://soylentnews.org/article.pl?sid=25/04/26/171205&amp;from=rss) - [The EU is Implementing Energy Labels and Minimum Requirements for Phones and Tablets](https://soylentnews.org/article.pl?sid=25/04/26/171205&amp;from=rss)
 * [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The Coming Knowledge-Work Supply-Chain Crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
-* [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We&apos;re building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 14:34:00](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lenovo May Be Avoiding the &apos;Windows Tax&apos; By Offering Cheaper Laptops With Pre-Installed Linux](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 13:48:17](https://news.ycombinator.com/item?id=43811908) - [Unauthorized Experiment on CMV Involving AI-Generated Comments](https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/)
 * [2025-04-27, 13:32:28](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings) - [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
-* [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 * [2025-04-27, 12:24:04](https://news.ycombinator.com/item?id=43811432) - [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
 * [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:34:00](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,37 +135,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 02:23:16](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv) - [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 * [2025-04-27, 01:34:00](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iPad Jammed in Seat Forces Emergency Landing of Airplane Carrying 400 Passengers](https://tech.slashdot.org/story/25/04/27/0031222/ipad-jammed-in-seat-forces-emergency-landing-of-airplane-carrying-400-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-27, 01:23:05](https://lobste.rs/s/nflacr/dive_into_systems_2020) - [Dive into Systems (2020)](https://diveintosystems.org/)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss)
-* [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [Icônes](https://icones.js.org/)
-* [2025-04-26, 22:53:51](https://lobste.rs/s/utpzij/anatomy_sql_engine) - [Anatomy Of A SQL Engine](https://dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 22:34:00](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe ](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 22:13:13](https://lobste.rs/s/2xti6d/compiler_reminders) - [Compiler reminders](https://jfmengels.net/compiler-reminders)
 * [2025-04-26, 21:59:33](https://lobste.rs/s/9jq7kn/smallweb_your_internet_folder) - [Smallweb – Your Internet Folder](https://smallweb.run/)
 * [2025-04-26, 21:52:04](https://lobste.rs/s/zhkfsl/past_present_future_sorbet_type_syntax) - [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
-* [2025-04-26, 21:50:25](https://lobste.rs/s/tgr67v/apl_cultivations) - [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
 * [2025-04-26, 21:34:00](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Read the Manual&apos;: Misconfigured Google Analytics Led to a Data Breach Affecting 4.7M](https://it.slashdot.org/story/25/04/26/2042230/read-the-manual-misconfigured-google-analytics-led-to-a-data-breach-affecting-47m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:34:00](https://entertainment.slashdot.org/story/25/04/26/1935238/youtube-is-huge---and-a-few-creators-are-getting-rich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube is Huge - and a Few Creators Are Getting Rich](https://entertainment.slashdot.org/story/25/04/26/1935238/youtube-is-huge---and-a-few-creators-are-getting-rich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 20:22:35](https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds) - [rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet](https://codeberg.org/akselmo/rss2remarkable)
 * [2025-04-26, 20:12:00](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss) - [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss)
-* [2025-04-26, 19:45:44](https://lobste.rs/s/tydvuu/don_t_put_weverything_your_build_flags) - [Don’t put -Weverything in your build flags (2018)](https://quuxplusone.github.io/blog/2018/12/06/dont-use-weverything/)
 * [2025-04-26, 19:34:00](https://mobile.slashdot.org/story/25/04/26/078214/can-a-new-dumbphone-with-an-e-ink-display-help-rewire-your-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can a New &apos;Dumbphone&apos; With an E Ink Display Help Rewire Your Brain?](https://mobile.slashdot.org/story/25/04/26/078214/can-a-new-dumbphone-with-an-e-ink-display-help-rewire-your-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 18:34:00](https://news.slashdot.org/story/25/04/26/0625244/california-becomes-the-worlds-fourth-largest-economy-overtaking-japan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes the World&apos;s Fourth-Largest Economy, Overtaking Japan](https://news.slashdot.org/story/25/04/26/0625244/california-becomes-the-worlds-fourth-largest-economy-overtaking-japan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-26, 17:34:00](https://news.slashdot.org/story/25/04/26/0520221/us-attorney-for-dc-accuses-wikipedia-of-propaganda-threatens-nonprofit-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Attorney for D.C. Accuses Wikipedia of &apos;Propaganda&apos;, Threatens Nonprofit Status](https://news.slashdot.org/story/25/04/26/0520221/us-attorney-for-dc-accuses-wikipedia-of-propaganda-threatens-nonprofit-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 17:21:31](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1) - [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg)
-* [2025-04-26, 16:34:00](https://slashdot.org/story/25/04/26/0742205/nyt-asks-should-we-start-taking-the-welfare-of-ai-seriously?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NYT Asks: Should We Start Taking the Welfare of AI Seriously?](https://slashdot.org/story/25/04/26/0742205/nyt-asks-should-we-start-taking-the-welfare-of-ai-seriously?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-26, 16:23:17](https://lobste.rs/s/1vzqe2/parallel_configure) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-26, 15:28:00](https://soylentnews.org/article.pl?sid=25/04/25/0329237&amp;from=rss) - [The History of Timekeeping](https://soylentnews.org/article.pl?sid=25/04/25/0329237&amp;from=rss)
-* [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo&apos;s location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-* [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 * [2025-04-26, 10:42:00](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss) - [Drawing a Line From the Gut Microbiome to Inflammation and Depression](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss)
 * [2025-04-26, 09:35:22](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion) - [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/)
 * [2025-04-26, 05:55:00](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) - [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss)
 * [2025-04-26, 01:08:00](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss) - [Matter Mediates Ultrastrong Coupling Between Light Particles](https://soylentnews.org/article.pl?sid=25/04/25/035210&amp;from=rss)
 * [2025-04-25, 20:20:00](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss) - [First SD Express 8.0 Memory Card From Adata Hits 1.6 GB/s Read Speeds](https://soylentnews.org/article.pl?sid=25/04/24/0635218&amp;from=rss)
-* [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
 * [2025-04-25, 15:34:00](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss) - [Harvard Stands Up for the First Amendment](https://soylentnews.org/politics/article.pl?sid=25/04/24/0632233&amp;from=rss)
 * [2025-04-25, 10:47:00](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss) - [Out-of-Balance Bacteria is Linked to Multiple Sclerosis − the Ratio Can Predict Severity of Disease](https://soylentnews.org/article.pl?sid=25/04/24/0626241&amp;from=rss)
 * [2025-04-25, 06:02:00](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss) - [4chan May be Dead, but its Toxic Legacy Lives on](https://soylentnews.org/article.pl?sid=25/04/24/0233226&amp;from=rss)
