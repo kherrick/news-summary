@@ -1,36 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technology and Innovation
 
-* [Could a 'Math Genius' AI Co-author Proofs Within Three Years?](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Nouveau: The Rule Based Language Family](https://nouveau.community/) - Details the functionalities of the new rule-based programming language family, emphasizing its design for computational linguistics. [Comments](https://lobste.rs/s/xy1rk1/nouveau_rule_based_language_family).
 
-* [TMuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/) ([comments](https://news.ycombinator.com/item?id=43812646))
+* [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone) - An in-depth explanation of a vulnerability that could render an iPhone unusable through accidental or malicious execution. [Comments](https://lobste.rs/s/azvdtw/how_single_line_code_could_brick_your).
 
-* [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) ([comments](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is))
+* [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee) - Introducing a tool that simplifies research report generation with citations using an open-source platform. [Comments](https://news.ycombinator.com/item?id=43817423).
 
-* [Starbucks Opens Its First 3D-Printed Store](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) - Discusses an AI-powered system’s ability to guess photo locations and its implications. [Comments](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is).
 
-## Science and Health
+* [Starbucks Opens Its First 3D-Printed Store](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Overview of Starbucks' innovative leap into 3D-printed stores, showcasing future retail trends. [Comments](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate) ([comments](https://news.ycombinator.com/item?id=43815591))
+## Scientific Advancements
 
-* [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury's Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/26/179216&from=rss))
+* [Could a 'Math Genius' AI Co-author Proofs Within Three Years?](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Speculation on AI's potential contributions to mathematics through automated theorem proving. [Comments](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/25/0319203&from=rss))
+* [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate) - Insights into how AI has been used to advance research on Alzheimer's treatment. [Comments](https://news.ycombinator.com/item?id=43815591).
 
-## Cultural and Historical Insights
+* [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury's Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss) - A geological study proposes the possibility of extensive diamond deposits under Mercury's surface. [Comments](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss).
 
-* [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b) ([comments](https://news.ycombinator.com/item?id=43817137))
+## Cultural and Social Topics
 
-* [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley) ([comments](https://news.ycombinator.com/item?id=43815558))
+* [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying) - Explores a hospital's unique approach to palliative care by emphasizing emotional well-being. [Comments](https://news.ycombinator.com/item?id=43817318).
 
-* [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/) - Amazon employees share speculative fiction stories imagining a better collective future. [Comments](https://news.ycombinator.com/item?id=43816697).
 
-## Environmental and Space Exploration
+* [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://linux.slashdot.org/story/25/04/27/0547245/linus-torvalds-expresses-his-hatred-for-case-insensitive-file-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Torvalds critiques filesystem design priorities, arguing against case insensitivity. [Comments](https://linux.slashdot.org/story/25/04/27/0547245/linus-torvalds-expresses-his-hatred-for-case-insensitive-file-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Can Solar Wind Make Water on the Moon? A NASA Experiment Shows Maybe](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/04/26/2217249/can-solar-wind-make-water-on-the-moon-a-nasa-experiment-shows-maybe?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## AI and Ethics
 
-* [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/04/26/1332253&from=rss))
+* [Are 'AI' Systems Really Tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/) - Investigates the philosophical and practical implications of conceiving AI technologies as mere tools. [Comments](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools).
+
+* [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines issues surrounding AI’s impact on academic integrity. [Comments](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/) - A breakdown of controversy related to AI experiments on online debates without proper consent. [Comments](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv).
 
 ---
 
@@ -57,10 +61,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-04-28, 03:10:59](https://news.ycombinator.com/item?id=43817137) - [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
+* [2025-04-28, 06:30:44](https://lobste.rs/s/xy1rk1/nouveau_rule_based_language_family) - [Nouveau: The Rule Based Language Family](https://nouveau.community/)
+* [2025-04-28, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/26/1715246&amp;from=rss) - [Windows 11’s Voice Typing Will Soon Let You Turn Off the ****ing Profanity Filter](https://soylentnews.org/article.pl?sid=25/04/26/1715246&amp;from=rss)
+* [2025-04-28, 04:48:48](https://news.ycombinator.com/item?id=43817664) - [East German Stasi Tactics – Zersetzung (2021)](https://www.maxhertzberg.co.uk/background/politics/stasi-tactics/)
+* [2025-04-28, 04:04:32](https://news.ycombinator.com/item?id=43817423) - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
+* [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
+* [2025-04-28, 03:47:13](https://news.ycombinator.com/item?id=43817318) - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
 * [2025-04-28, 02:59:00](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could a &apos;Math Genius&apos; AI Co-author Proofs Within Three Years?](https://science.slashdot.org/story/25/04/28/0255248/could-a-math-genius-ai-co-author-proofs-within-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-28, 02:20:47](https://lobste.rs/s/ashwpk/boxie_always_offline_audio_player_for_my_3) - [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To &apos;Reclaim Future-Making&apos;, Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+* [2025-04-28, 01:21:01](https://news.ycombinator.com/item?id=43816634) - [Presentation Slides with Markdown](https://sli.dev)
 * [2025-04-28, 01:05:00](https://hardware.slashdot.org/story/25/04/28/013206/nuclear-fusion-pioneer-abandons-plan-for-prototype-reactor-will-license-reaction-boosting-nuclear-fuel-capsule?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Fusion Pioneer Abandons Plan for Prototype Reactor, Will License Reaction-Boosting Nuclear Fuel Capsule](https://hardware.slashdot.org/story/25/04/28/013206/nuclear-fusion-pioneer-abandons-plan-for-prototype-reactor-will-license-reaction-boosting-nuclear-fuel-capsule?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-28, 00:58:05](https://lobste.rs/s/azvdtw/how_single_line_code_could_brick_your) - [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 * [2025-04-28, 00:56:11](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is) - [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
@@ -69,18 +79,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-28, 00:22:39](https://lobste.rs/s/drhief/import_death_die) - [import death; die](https://web.archive.org/web/20240206194712/https://bpa.st/3FGA)
 * [2025-04-28, 00:19:26](https://news.ycombinator.com/item?id=43816327) - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
 * [2025-04-27, 23:38:00](https://news.slashdot.org/story/25/04/27/2336243/to-reclaim-future-making-amazon-workers-published-a-collection-of-science-fiction-stories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To &apos;Reclaim Future-Making&apos;, Amazon Workers Published a Collection of Science Fiction Stories](https://news.slashdot.org/story/25/04/27/2336243/to-reclaim-future-making-amazon-workers-published-a-collection-of-science-fiction-stories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-27, 23:07:51](https://news.ycombinator.com/item?id=43815891) - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 * [2025-04-27, 22:19:27](https://news.ycombinator.com/item?id=43815591) - [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
 * [2025-04-27, 22:14:32](https://news.ycombinator.com/item?id=43815558) - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
+* [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 22:06:38](https://news.ycombinator.com/item?id=43815511) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
 * [2025-04-27, 22:06:31](https://news.ycombinator.com/item?id=43815510) - [Computer Architects Can&apos;t Find the Average](https://dgsq.net/2025-04-27-averages/)
 * [2025-04-27, 21:59:00](https://science.slashdot.org/story/25/04/27/2158224/russian-satellite-linked-to-its-nuclear-anti-satellite-weapon-program-appears-out-of-control-analyst-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Satellite Linked to Its Nuclear Anti-Satellite Weapon Program Appears Out of Control, Analyst says](https://science.slashdot.org/story/25/04/27/2158224/russian-satellite-linked-to-its-nuclear-anti-satellite-weapon-program-appears-out-of-control-analyst-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 21:17:51](https://lobste.rs/s/wwldja/technical_debt_as_theory_building) - [Technical Debt as Theory Building and Practice](https://www.usenix.org/conference/srecon25americas/presentation/lam)
 * [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
-* [2025-04-27, 20:59:26](https://news.ycombinator.com/item?id=43815083) - [Cut: Chattanooga Civic User Testing](https://cut.chattanooga.gov/)
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works (2020)](https://www.pipedreams.org/page/how-a-pipe-organ-works)
 * [2025-04-27, 20:48:15](https://lobste.rs/s/zonyxg/what_does_use_client_do) - [What Does \&quot;use client\&quot; Do?](https://overreacted.io/what-does-use-client-do/)
 * [2025-04-27, 20:43:00](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starbucks Opens Its First 3D-Printed Store](https://hardware.slashdot.org/story/25/04/27/2041226/starbucks-opens-its-first-3d-printed-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-27, 20:40:33](https://news.ycombinator.com/item?id=43814934) - [Boxie – an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-27, 20:40:09](https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler) - [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
 * [2025-04-27, 20:38:17](https://lobste.rs/s/zihgia/what_s_new_apt_3_0) - [What&apos;s new in APT 3.0](https://lwn.net/Articles/1017315/)
 * [2025-04-27, 20:28:46](https://lobste.rs/s/5jg6pl/unlocking_ractors_object_id) - [Unlocking Ractors: object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
@@ -97,13 +107,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 17:45:46](https://lobste.rs/s/drzmfa/can_shardines_sqlite_multitenancy_with) - [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 17:21:00](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss) - [XKCD Cartoon Protest](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss)
 * [2025-04-27, 17:05:38](https://lobste.rs/s/mzogmm/how_program_text_adventure_c) - [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/)
-* [2025-04-27, 17:00:46](https://news.ycombinator.com/item?id=43813336) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-* [2025-04-27, 17:00:29](https://news.ycombinator.com/item?id=43813330) - [Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed](https://github.com/zumerlab/snapdom)
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:34:00](https://it.slashdot.org/story/25/04/27/088238/wsj-tech-industry-workers-now-miserable-fearing-layoffs-working-longer-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WSJ:  Tech-Industry Workers Now &apos;Miserable&apos;, Fearing Layoffs, Working Longer Hours](https://it.slashdot.org/story/25/04/27/088238/wsj-tech-industry-workers-now-miserable-fearing-layoffs-working-longer-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G kill the IMSI catcher?](https://zetier.com/5g-imsi-catcher/)
 * [2025-04-27, 16:23:31](https://news.ycombinator.com/item?id=43813046) - [Watching o3 model sweat over a Paul Morphy mate-in-2](https://alexop.dev/posts/how-03-model-tries-chess-puzzle/)
-* [2025-04-27, 16:18:49](https://news.ycombinator.com/item?id=43812995) - [Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md)
 * [2025-04-27, 16:02:46](https://news.ycombinator.com/item?id=43812856) - [Virginia passes law to enforce maximum vehicle speeds for repeat speeders](https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in)
 * [2025-04-27, 15:35:32](https://news.ycombinator.com/item?id=43812646) - [TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/)
 * [2025-04-27, 15:34:00](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canadian University Cancels Coding Competition Over Suspected AI Cheating](https://news.slashdot.org/story/25/04/26/238243/canadian-university-cancels-coding-competition-over-suspected-ai-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -112,10 +119,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 14:34:00](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lenovo May Be Avoiding the &apos;Windows Tax&apos; By Offering Cheaper Laptops With Pre-Installed Linux](https://linux.slashdot.org/story/25/04/27/0127203/lenovo-may-be-avoiding-the-windows-tax-by-offering-cheaper-laptops-with-pre-installed-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 13:32:28](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings) - [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
-* [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:34:00](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Yoda Bloopers Released - and George Lucas Reveals Why Yoda Talks Backwards](https://entertainment.slashdot.org/story/25/04/27/040248/yoda-bloopers-released---and-george-lucas-reveals-why-yoda-talks-backwards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
-* [2025-04-27, 10:34:13](https://lobste.rs/s/53mu4h/half_century_silicon_valley) - [A Half-Century of Silicon Valley](https://oxide-and-friends.transistor.fm/episodes/a-half-century-of-silicon-valley-with-randy-shoup)
 * [2025-04-27, 10:30:00](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss) - [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss)
 * [2025-04-27, 09:25:36](https://news.ycombinator.com/item?id=43810566) - [ZFS: Apple&apos;s new filesystem that wasn&apos;t (2016)](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/)
 * [2025-04-27, 08:01:32](https://lobste.rs/s/hnrfdh/comfy_guide) - [Comfy.Guide](https://comfy.guide/)
