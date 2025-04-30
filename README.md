@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Legislation and Policy Changes
+## Technology Developments
 
-* [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&amp;from=rss) - This legislation focuses on addressing malicious content on online platforms.
+* [Firefox Git Migration: an unofficial guide](https://glandium.org/blog/?p=4370) - Detailed steps for developers and enthusiasts on transitioning Firefox code to Git. [Comments](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide)
 
-* [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886) - Finland enforces a ban on smartphone usage in schools to tackle distractions.
+* [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne) - A critical security vulnerability allowing attackers to compromise Apple devices remotely. [Comments](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple)
 
-* [New York Lawmakers Reach Deal On 'Bell-To-Bell' School Cellphone Ban](https://news.slashdot.org/story/25/04/29/2023245/new-york-lawmakers-reach-deal-on-bell-to-bell-school-cellphone-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New York aims to limit cellphone use in schools through a deal between lawmakers.
+* [verb: Emacs org-mode alternative to Postman](https://github.com/federicotdn/verb) - A lightweight, terminal-based tool for HTTP requests. [Comments](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman)
 
-## Technological Advancements and Research
+* [Linux in Excel](https://github.com/NSG650/LinuxInExcel) - Run Linux in Excel spreadsheets using WASM. [Comments](https://lobste.rs/s/1tlotk/linux_excel)
 
-* [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/) - An exhaustive timeline aggregating major milestones in AI development.
+* [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints) - Optimization techniques for Google's V8 engine to improve JavaScript startup times. [Comments](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript)
 
-* [After 53 Years, a Failed Soviet Venus Spacecraft Is Crashing Back to Earth](https://science.slashdot.org/story/25/04/29/2321232/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The re-entry of a failed Soviet Venus spacecraft is imminent after decades in orbit.
+## Economic and Policy Updates
 
-* [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/) - New Python type-checking tool significantly accelerates development workflows.
+* [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689) - Economic contraction driven by various domestic and global factors. [Comments](https://news.ycombinator.com/item?id=43844342)
+
+* [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - A new law aimed at addressing online content moderation and removal issues. [Comments](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss)
+
+* [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886) - A controversial policy to create a distraction-free environment for students. [Comments](https://news.ycombinator.com/item?id=43842856)
 
 ## Artificial Intelligence and Machine Learning
 
-* [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html) - Microsoft's reliance on AI-assisted coding grows significantly.
+* [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879) - A critical paper analyzing AI benchmarking flaws and evaluation methods. [Comments](https://news.ycombinator.com/item?id=43842380)
 
-* [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/) - Examination of bias and sycophantic tendencies within OpenAI's latest GPT model.
+* [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/) - Analysis of bias and reflexive agreement observed in conversational AI models. [Comments](https://news.ycombinator.com/item?id=43840842)
 
-* [Mastercard Gives AI Agents Ability To Shop Online for You](https://news.slashdot.org/story/25/04/29/1914257/mastercard-gives-ai-agents-ability-to-shop-online-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mastercard introduces AI-powered shopping assistance.
+* [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo) - A new framework for training sophisticated reasoning AI. [Comments](https://news.ycombinator.com/item?id=43842683)
 
-## Software Development and Cybersecurity
+## Space and Science
 
-* [The Abysmal State of Contract Software Development](https://smustafa.blog/2025/04/30/the-abysmal-state-of-contract-software-development/) - Analyzing pitfalls in modern contract-based software projects.
+* [Firefly Aerospace's Alpha Rocket Fails, Sends Satellite Falling Into Ocean](https://science.slashdot.org/story/25/04/29/2350236/firefly-aerospaces-alpha-rocket-fails-sends-satellite-falling-into-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Setbacks in private aerospace development with financial and environmental implications. [Comments](https://science.slashdot.org/story/25/04/29/2350236/firefly-aerospaces-alpha-rocket-fails-sends-satellite-falling-into-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [End-to-end private LLM inference](https://tinfoil.sh/inference) - Key considerations for enabling completely private large language model computations.
+* [After 53 Years, a Failed Soviet Venus Spacecraft Is Crashing Back to Earth](https://science.slashdot.org/story/25/04/29/2321232/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Long-lost spacecraft reentry sheds light on past missions and current orbital debris challenges. [Comments](https://science.slashdot.org/story/25/04/29/2321232/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [autosetup](https://msteveb.github.io/autosetup/) - Lightweight tool simplifying software build configurations.
+## Cybersecurity and Privacy
 
-## Environmental and Health News
+* [I Use Zip Bombs to Protect My Server](https://idiallo.com/blog/zipbomb-protection) - A clever tactic for deterring malicious actors from downloading sensitive server files. [Comments](https://lobste.rs/s/lffktu/i_use_zip_bombs_protect_my_server)
 
-* [Chemical In Plastics Linked To 350,000 Heart Disease Deaths](https://science.slashdot.org/story/25/04/29/238206/chemical-in-plastics-linked-to-350000-heart-disease-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarm raised over the health impacts of chemicals in everyday plastics.
+* [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/) - Challenges faced in fighting off advanced persistent threats. [Comments](https://news.ycombinator.com/item?id=43840763)
 
-* [Google Play Sees 47% Decline In Apps Since Start of Last Year](https://tech.slashdot.org/story/25/04/29/2256200/google-play-sees-47-decline-in-apps-since-start-of-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A staggering decline in applications on Google's Play Store reflects shifting trends.
-
-* [Multi-Microbiome-Mashup](https://soylentnews.org/article.pl?sid=25/04/26/1734201&amp;from=rss) - Exploring intersections between microbiomes to understand their broader effects.
-
-## Historical and Space Exploration
-
-* [Ice Age Pyrotechnology: This is How Humans Made Fire Tens of Thousands of Years Ago](https://soylentnews.org/article.pl?sid=25/04/28/0420232&amp;from=rss) - Study uncovers the methods of ancient fire-making.
-
-* [NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson](https://soylentnews.org/article.pl?sid=25/04/26/1332253&amp;from=rss) - NASA reveals stunning asteroid images from the Lucy spacecraft.
-
-* [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury's Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss) - Hypothesis suggests vast diamond deposits lie beneath Mercury's crust.
+* [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/) - Critical reflections on the state of enterprise authorization protocols. [Comments](https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for)
 
 ---
 
@@ -73,24 +67,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
+* [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
+* [2025-04-30, 11:42:06](https://news.ycombinator.com/item?id=43843821) - [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
+* [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
+* [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
+* [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
+* [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
+* [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
+* [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
+* [2025-04-30, 10:00:00](https://science.slashdot.org/story/25/04/29/2350236/firefly-aerospaces-alpha-rocket-fails-sends-satellite-falling-into-ocean?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefly Aerospace&apos;s Alpha Rocket Fails, Sends Satellite Falling Into Ocean](https://science.slashdot.org/story/25/04/29/2350236/firefly-aerospaces-alpha-rocket-fails-sends-satellite-falling-into-ocean?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 09:38:00](https://soylentnews.org/article.pl?sid=25/04/30/0150205&amp;from=rss) - [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&amp;from=rss)
-* [2025-04-30, 09:29:42](https://news.ycombinator.com/item?id=43842915) - [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
-* [2025-04-30, 09:10:56](https://news.ycombinator.com/item?id=43842821) - [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)
+* [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
-* [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I Created Perfect Wiki and Reached $250K in Annual Revenue Without Investors](https://habr.com/en/articles/905812/)
-* [2025-04-30, 07:15:33](https://lobste.rs/s/a0lsft/end_end_private_llm_inference) - [End-to-end private LLM inference](https://tinfoil.sh/inference)
+* [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
 * [2025-04-30, 07:14:32](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript) - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 * [2025-04-30, 07:00:00](https://science.slashdot.org/story/25/04/29/2321232/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After 53 Years, a Failed Soviet Venus Spacecraft Is Crashing Back to Earth](https://science.slashdot.org/story/25/04/29/2321232/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-30, 06:29:15](https://news.ycombinator.com/item?id=43841868) - [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html)
-* [2025-04-30, 06:21:20](https://lobste.rs/s/nsfsgp/autosetup) - [autosetup](https://msteveb.github.io/autosetup/)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
-* [2025-04-30, 04:55:29](https://lobste.rs/s/ftt9ow/abysmal_state_contract_software) - [The Abysmal State of Contract Software Development](https://smustafa.blog/2025/04/30/the-abysmal-state-of-contract-software-development/)
 * [2025-04-30, 04:54:00](https://soylentnews.org/article.pl?sid=25/04/30/0137239&amp;from=rss) - [Europe Stays Tough on Tech Regulation](https://soylentnews.org/article.pl?sid=25/04/30/0137239&amp;from=rss)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
 * [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 * [2025-04-30, 03:30:00](https://science.slashdot.org/story/25/04/29/238206/chemical-in-plastics-linked-to-350000-heart-disease-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chemical In Plastics Linked To 350,000 Heart Disease Deaths](https://science.slashdot.org/story/25/04/29/238206/chemical-in-plastics-linked-to-350000-heart-disease-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-30, 03:14:50](https://news.ycombinator.com/item?id=43840901) - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 * [2025-04-30, 03:08:46](https://news.ycombinator.com/item?id=43840861) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 * [2025-04-30, 02:53:28](https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for) - [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
@@ -109,29 +107,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-29, 22:10:00](https://slashdot.org/story/25/04/29/204254/openais-o3-model-beats-master-level-geoguessr-player?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s o3 Model Beats Master-Level Geoguessr Player](https://slashdot.org/story/25/04/29/204254/openais-o3-model-beats-master-level-geoguessr-player?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 21:42:03](https://lobste.rs/s/9kime6/throwing_it_all_away_how_extreme) - [Throwing it all away - how extreme rewriting changed the way I build databases](https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases)
 * [2025-04-29, 21:30:00](https://yro.slashdot.org/story/25/04/29/1952237/oin-marks-20-years-of-defending-linux-and-open-source-from-patent-trolls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OIN Marks 20 Years of Defending Linux and Open Source From Patent Trolls](https://yro.slashdot.org/story/25/04/29/1952237/oin-marks-20-years-of-defending-linux-and-open-source-from-patent-trolls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-29, 21:02:23](https://lobste.rs/s/lpdbll/comparison_with_traditional) - [Comparison with Traditional Mathematics](https://aplwiki.com/wiki/Comparison_with_traditional_mathematics)
-* [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
-* [2025-04-29, 20:59:51](https://news.ycombinator.com/item?id=43837993) - [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 * [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
 * [2025-04-29, 20:50:00](https://news.slashdot.org/story/25/04/29/1914257/mastercard-gives-ai-agents-ability-to-shop-online-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mastercard Gives AI Agents Ability To Shop Online for You](https://news.slashdot.org/story/25/04/29/1914257/mastercard-gives-ai-agents-ability-to-shop-online-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 20:25:00](https://games.slashdot.org/story/25/04/29/2017233/ea-lays-off-hundreds-cancels-titanfall-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EA Lays Off Hundreds, Cancels &apos;Titanfall&apos; Game](https://games.slashdot.org/story/25/04/29/2017233/ea-lays-off-hundreds-cancels-titanfall-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 20:05:00](https://news.slashdot.org/story/25/04/29/1853259/firefox-finally-delivers-tab-groups-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Finally Delivers Tab Groups Feature](https://news.slashdot.org/story/25/04/29/1853259/firefox-finally-delivers-tab-groups-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-29, 19:45:48](https://news.ycombinator.com/item?id=43837171) - [Researchers are studying how to minimize human impact on public lands](https://undark.org/2025/04/28/keep-wild-places-wild/)
 * [2025-04-29, 19:26:00](https://soylentnews.org/article.pl?sid=25/04/29/0827244&amp;from=rss) - [A New Kali Linux Archive Signing Key](https://soylentnews.org/article.pl?sid=25/04/29/0827244&amp;from=rss)
 * [2025-04-29, 19:25:00](https://developers.slashdot.org/story/25/04/29/1837239/ai-generated-code-creates-major-security-risk-through-package-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Generated Code Creates Major Security Risk Through &apos;Package Hallucinations&apos;](https://developers.slashdot.org/story/25/04/29/1837239/ai-generated-code-creates-major-security-risk-through-package-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 18:45:00](https://tech.slashdot.org/story/25/04/29/1815202/sk-telecom-offers-sim-replacements-after-major-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SK Telecom Offers SIM Replacements After Major Data Breach](https://tech.slashdot.org/story/25/04/29/1815202/sk-telecom-offers-sim-replacements-after-major-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 18:10:00](https://news.slashdot.org/story/25/04/29/1754248/it-could-be-a-250-billion-market-but-almost-no-one-is-interested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [It Could Be a $250 Billion Market, But Almost No One Is Interested](https://news.slashdot.org/story/25/04/29/1754248/it-could-be-a-250-billion-market-but-almost-no-one-is-interested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
-* [2025-04-29, 17:30:00](https://yro.slashdot.org/story/25/04/29/1730240/india-court-orders-proton-mail-block-on-security-grounds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Court Orders Proton Mail Block On Security Grounds](https://yro.slashdot.org/story/25/04/29/1730240/india-court-orders-proton-mail-block-on-security-grounds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 17:17:23](https://news.ycombinator.com/item?id=43835424) - [Everything we announced at our first LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
-* [2025-04-29, 16:32:14](https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival) - [Archie anonymous FTP search revival](http://archie.macdomain.net/)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:41:00](https://soylentnews.org/article.pl?sid=25/04/29/0824210&amp;from=rss) - [AI-Powered, Non-Intrusive Terminal Assistant ](https://soylentnews.org/article.pl?sid=25/04/29/0824210&amp;from=rss)
-* [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 13:54:25](https://news.ycombinator.com/item?id=43832662) - [Mission Impossible: Managing AI Agents in the Real World](https://medium.com/gitconnected/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af)
+* [2025-04-29, 12:39:31](https://news.ycombinator.com/item?id=43831792) - [New atomic fountain clock joins group that keeps the world on time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Performance optimization is hard because it&apos;s fundamentally a brute-force task](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:57](https://lobste.rs/s/ctopbt/programming_languages_should_have_tree) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
@@ -141,7 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-29, 10:01:00](https://soylentnews.org/article.pl?sid=25/04/29/0655255&amp;from=rss) - [New Framework Suggests Stars Dissolve Into Neutrons to Forge Heavy Elements](https://soylentnews.org/article.pl?sid=25/04/29/0655255&amp;from=rss)
 * [2025-04-29, 08:20:04](https://news.ycombinator.com/item?id=43829935) - [My sourdough starter has twins](https://brainbaking.com/post/2025/04/my-sourdough-starter-has-twins/)
 * [2025-04-29, 06:35:03](https://lobste.rs/s/nyc9ob/migrating_away_from_rust) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
-* [2025-04-29, 05:52:16](https://lobste.rs/s/9qgzmq/why_did_windows_7_for_few_months_log_on) - [Why did Windows 7, for a few months, log on slower if you have a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 * [2025-04-29, 05:15:00](https://soylentnews.org/article.pl?sid=25/04/28/0428200&amp;from=rss) - [Differential Equations and Urine](https://soylentnews.org/article.pl?sid=25/04/28/0428200&amp;from=rss)
 * [2025-04-29, 03:18:52](https://news.ycombinator.com/item?id=43828423) - [An illustrated guide to automatic sparse differentiation](https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/)
 * [2025-04-29, 01:49:43](https://lobste.rs/s/zoxm37/what_heck_is_aead_again) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
@@ -149,11 +142,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-28, 19:41:00](https://soylentnews.org/article.pl?sid=25/04/28/044252&amp;from=rss) - [$8 Billion of US Climate Tech Projects Have Been Canceled So Far in 2025](https://soylentnews.org/article.pl?sid=25/04/28/044252&amp;from=rss)
 * [2025-04-28, 18:39:19](https://news.ycombinator.com/item?id=43824548) - [WorldGen: Open-source 3D scene generator for Game/VR/XR](https://worldgen.github.io/)
-* [2025-04-28, 17:32:36](https://news.ycombinator.com/item?id=43823899) - [Can LLMs do randomness?](https://rnikhil.com/2025/04/26/llm-coin-toss-odd-even)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It&apos;s School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)
 * [2025-04-28, 14:54:00](https://soylentnews.org/article.pl?sid=25/04/28/0358222&amp;from=rss) - [Everyone Should Stop Working on AI Now](https://soylentnews.org/article.pl?sid=25/04/28/0358222&amp;from=rss)
 * [2025-04-28, 10:09:00](https://soylentnews.org/article.pl?sid=25/04/26/1734201&amp;from=rss) - [Multi-Microbiome-Mashup](https://soylentnews.org/article.pl?sid=25/04/26/1734201&amp;from=rss)
 * [2025-04-28, 05:23:00](https://soylentnews.org/article.pl?sid=25/04/26/1715246&amp;from=rss) - [Windows 11’s Voice Typing Will Soon Let You Turn Off the ****ing Profanity Filter](https://soylentnews.org/article.pl?sid=25/04/26/1715246&amp;from=rss)
+* [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-28, 00:42:00](https://soylentnews.org/article.pl?sid=25/04/26/1713213&amp;from=rss) - [Fedora Considers Dropping GNOME X11 Session From Repositories](https://soylentnews.org/article.pl?sid=25/04/26/1713213&amp;from=rss)
 * [2025-04-27, 19:56:00](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss) - [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury&apos;s Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&amp;from=rss)
 * [2025-04-27, 17:21:00](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss) - [XKCD Cartoon Protest](https://soylentnews.org/politics/article.pl?sid=25/04/26/174238&amp;from=rss)
@@ -162,6 +155,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-27, 05:43:00](https://soylentnews.org/article.pl?sid=25/04/26/1324227&amp;from=rss) - [Post-Quantum Crypto: McEliece Standardization](https://soylentnews.org/article.pl?sid=25/04/26/1324227&amp;from=rss)
 * [2025-04-27, 01:00:00](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss) - [Kennedy Promises Studies Using Private Health Data to Identify Factors That May Cause Autism](https://soylentnews.org/article.pl?sid=25/04/26/1322229&amp;from=rss)
 * [2025-04-26, 20:12:00](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss) - [First Confirmed Footage of a Colossal Squid](https://soylentnews.org/article.pl?sid=25/04/25/0336217&amp;from=rss)
+* [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 * [2025-04-26, 15:28:00](https://soylentnews.org/article.pl?sid=25/04/25/0329237&amp;from=rss) - [The History of Timekeeping](https://soylentnews.org/article.pl?sid=25/04/25/0329237&amp;from=rss)
 * [2025-04-26, 10:42:00](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss) - [Drawing a Line From the Gut Microbiome to Inflammation and Depression](https://soylentnews.org/article.pl?sid=25/04/25/0327235&amp;from=rss)
 * [2025-04-26, 05:55:00](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss) - [German Team Demonstrates Quantum Communication Over an Existing 254km Fibre Optic Network](https://soylentnews.org/article.pl?sid=25/04/25/0319203&amp;from=rss)
