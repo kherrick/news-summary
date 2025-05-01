@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Insights
+## Technology and Innovation
 
-* [Why Windows 7 Took Forever To Load If You Had a Solid Background](https://tech.slashdot.org/story/25/04/30/2242219/why-windows-7-took-forever-to-load-if-you-had-a-solid-background?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into a quirky issue where a simple change in Windows 7's background color caused significantly slower startup times.
+* [Curing A Case Of Git-UX (2022)](https://oppi.li/posts/curing_a_case_of_git-UX/) - An exploration of UX issues in Git and potential solutions. [Comments](https://lobste.rs/s/aa8fks/curing_case_git_ux_2022)
 
-* [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html) - An innovative use of flame graphs to analyze GPU performance while running Doom, offering insights into graphical system bottlenecks.
+* [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html) - Analyzing GPU performance in the Doom game using flame graphs. [Comments](https://lobste.rs/s/egqrcs/doom_gpu_flame_graphs)
 
-* [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html) - A look into a mechanical approach to reversible computing, exploring how links and pivots can optimize energy efficiency.
+* [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/) - Insights into the limitations and challenges of chatbot models. [Comments](https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot)
 
-* [Linux in Excel](https://github.com/NSG650/LinuxInExcel) - An unconventional integration of Linux inside Microsoft Excel, showcasing creative repurposing of platforms.
+* [108B Pixel Scan of Johannes Vermeer&apos;s Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/) - A detailed gigapixel scan of a legendary artwork. [Comments](https://news.ycombinator.com/item?id=43852266)
 
-## Cybersecurity and Privacy
+* [Linux in Excel](https://github.com/NSG650/LinuxInExcel) - Integrating Linux within Excel for an innovative computing approach. [Comments](https://lobste.rs/s/1tlotk/linux_excel)
 
-* [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/) - A shocking revelation on Windows RDP's handling of revoked passwords, raising concerns over its security implications.
+## AI and Computing
 
-* [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/) - Controversy arises as Milwaukee police propose exchanging a trove of mugshots for free use of facial recognition technology.
+* [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/) - Advancements in reasoning models for efficient AI applications. [Comments](https://news.ycombinator.com/item?id=43852564)
 
-* [Millions of AirPlay Devices Can Be Hacked Over Wi-Fi](https://it.slashdot.org/story/25/04/30/2115251/millions-of-airplay-devices-can-be-hacked-over-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical vulnerability in AirPlay-enabled devices makes millions susceptible to hacking over Wi-Fi.
+* [Microsoft CEO Says Up To 30% of the Company&apos;s Code Was Written by AI](https://developers.slashdot.org/story/25/04/30/1735210/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI's growing role in software development. [Comments](https://news.ycombinator.com/item?id=43848325)
 
-## Historical and Artistic Highlights
+* [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/) - Story of a bootstrapped product reaching financial success. [Comments](https://news.ycombinator.com/item?id=43842306)
 
-* [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/) - The renowned artwork gets an ultra-high-resolution digitization, providing unprecedented detail for art enthusiasts and researchers.
+## Cybersecurity
 
-* [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html) - Honoring the life and legacy of a World War II code breaker who played a pivotal role in cracking key enemy communications.
+* [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/) - A critical flaw in Windows RDP authentication highlighted. [Comments](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked)
 
-## AI and Computational Breakthroughs
+* [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne) - Exposing a significant security vulnerability in Apple AirPlay. [Comments](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple)
 
-* [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury) - Introduction to a major leap forward in AI with Mercury, promising breakthroughs in language processing.
+## Cultural and Artistic Advancements
 
-* [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/) - A fresh and simple approach to explaining backpropagation in machine learning, skipping traditional reliance on the chain rule.
+* [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/) - Exploring the intersection of music and spatial soundscapes. [Comments](https://news.ycombinator.com/item?id=43852527)
 
-## Social and Political Developments
+## Society and Privacy
 
-* [Republicans In Congress Want a Flat $200 Annual EV Tax](https://tech.slashdot.org/story/25/04/30/2227225/republicans-in-congress-want-a-flat-200-annual-ev-tax?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A proposal in Congress to levy a flat annual tax on electric vehicles sparks debate about sustainability and fairness.
+* [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss) - Tips and challenges for maintaining digital privacy during border control. [Comments](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss)
 
-* [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - New legislation aimed at tackling online harmful content receives bipartisan support.
+## Historical Insights
 
-## Industrial and Environmental Trends
+* [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html) - Remembering the impactful life of a WW2 codebreaker. [Comments](https://news.ycombinator.com/item?id=43852220)
 
-* [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks) - Innovative measures by a company to reduce dependency on trucks by constructing a dedicated rail terminal in New York City.
+## Environment and Space
 
-* [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss) - A groundbreaking application of fiber-optic cables to predict volcanic eruptions, highlighting advancements in geological monitoring.
+* [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss) - Innovative uses of fiber optics for natural disaster detection. [Comments](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss)
 
 ---
 
@@ -67,10 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-01, 06:47:02](https://lobste.rs/s/aa8fks/curing_case_git_ux_2022) - [Curing A Case Of Git-UX (2022)](https://oppi.li/posts/curing_a_case_of_git-UX/)
+* [2025-05-01, 05:05:00](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Must Halt Non-App Store Sales Commissions, Judge Says](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss)
 * [2025-05-01, 03:30:00](https://tech.slashdot.org/story/25/04/30/2242219/why-windows-7-took-forever-to-load-if-you-had-a-solid-background?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Windows 7 Took Forever To Load If You Had a Solid Background](https://tech.slashdot.org/story/25/04/30/2242219/why-windows-7-took-forever-to-load-if-you-had-a-solid-background?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
 * [2025-05-01, 03:09:03](https://lobste.rs/s/egqrcs/doom_gpu_flame_graphs) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
-* [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
+* [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police considering trading mugshots for facial recognition tech](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
+* [2025-05-01, 02:40:14](https://news.ycombinator.com/item?id=43853188) - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 * [2025-05-01, 01:31:19](https://news.ycombinator.com/item?id=43852771) - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
 * [2025-05-01, 01:02:41](https://news.ycombinator.com/item?id=43852564) - [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
@@ -81,22 +84,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-01, 00:22:01](https://news.ycombinator.com/item?id=43852266) - [108B Pixel Scan of Johannes Vermeer&apos;s Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
 * [2025-05-01, 00:20:00](https://tech.slashdot.org/story/25/04/30/2227225/republicans-in-congress-want-a-flat-200-annual-ev-tax?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Republicans In Congress Want a Flat $200 Annual EV Tax](https://tech.slashdot.org/story/25/04/30/2227225/republicans-in-congress-want-a-flat-200-annual-ev-tax?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 00:16:49](https://news.ycombinator.com/item?id=43852220) - [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
-* [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
+* [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple violated antitrust ruling, judge finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
 * [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:56:23](https://lobste.rs/s/6o4x71/pwning_ladybird_browser) - [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:51:11](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
-* [2025-04-30, 23:48:53](https://news.ycombinator.com/item?id=43852016) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 * [2025-04-30, 23:48:00](https://soylentnews.org/article.pl?sid=25/04/30/022200&amp;from=rss) - [Amazon&apos;s Starlink Rival Sees the First 27 Satellites Successfully Reach Low-Earth Orbit](https://soylentnews.org/article.pl?sid=25/04/30/022200&amp;from=rss)
 * [2025-04-30, 23:40:00](https://slashdot.org/story/25/04/30/2220242/microsoft-puts-brakes-on-ai-spending-as-profit-increases-18?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Puts Brakes on AI Spending as Profit Increases 18%](https://slashdot.org/story/25/04/30/2220242/microsoft-puts-brakes-on-ai-spending-as-profit-increases-18?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 23:00:00](https://it.slashdot.org/story/25/04/30/2122233/apple-notifies-new-victims-of-spyware-attacks-across-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Notifies New Victims of Spyware Attacks Across the World](https://it.slashdot.org/story/25/04/30/2122233/apple-notifies-new-victims-of-spyware-attacks-across-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [US defense secretary circumvents the official communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
+* [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [How the US defense secretary circumvents official DoD communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 22:20:00](https://it.slashdot.org/story/25/04/30/2115251/millions-of-airplay-devices-can-be-hacked-over-wi-fi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Millions of AirPlay Devices Can Be Hacked Over Wi-Fi](https://it.slashdot.org/story/25/04/30/2115251/millions-of-airplay-devices-can-be-hacked-over-wi-fi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif&apos;s ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 * [2025-04-30, 22:04:30](https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023) - [The Rise &amp; Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
-* [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
+* [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 * [2025-04-30, 21:40:00](https://tech.slashdot.org/story/25/04/30/2112233/google-funding-electrician-training-as-ai-power-crunch-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Funding Electrician Training As AI Power Crunch Intensifies](https://tech.slashdot.org/story/25/04/30/2112233/google-funding-electrician-training-as-ai-power-crunch-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 21:00:00](https://hardware.slashdot.org/story/25/04/30/2056202/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Raspberry Pi Cuts Product Returns By 50% By Changing Up Its Pin Soldering](https://hardware.slashdot.org/story/25/04/30/2056202/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-30, 20:37:49](https://news.ycombinator.com/item?id=43850398) - [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
 * [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin&apos;s KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN&apos;s implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 * [2025-04-30, 20:01:00](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -115,12 +116,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 * [2025-04-30, 16:02:00](https://tech.slashdot.org/story/25/04/30/1540245/googles-sundar-pichai-calls-us-remedies-de-facto-spinoff-of-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Sundar Pichai Calls US Remedies &apos;De Facto&apos; Spinoff of Search](https://tech.slashdot.org/story/25/04/30/1540245/googles-sundar-pichai-calls-us-remedies-de-facto-spinoff-of-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
+* [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:20:00](https://news.slashdot.org/story/25/04/30/1518223/wikipedia-to-use-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia To Use AI](https://news.slashdot.org/story/25/04/30/1518223/wikipedia-to-use-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
-* [2025-04-30, 15:02:13](https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer) - [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 * [2025-04-30, 14:41:00](https://games.slashdot.org/story/25/04/30/1441229/electronic-arts-lays-off-hundreds-cancels-titanfall-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electronic Arts Lays Off Hundreds, Cancels &apos;Titanfall&apos; Game](https://games.slashdot.org/story/25/04/30/1441229/electronic-arts-lays-off-hundreds-cancels-titanfall-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 14:23:00](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss) - [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss)
-* [2025-04-30, 14:00:00](https://slashdot.org/story/25/04/30/1322253/microsoft-vows-legal-fight-against-us-to-protect-european-cloud-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Vows Legal Fight Against US To Protect European Cloud Customers](https://slashdot.org/story/25/04/30/1322253/microsoft-vows-legal-fight-against-us-to-protect-european-cloud-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 * [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
 * [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
@@ -136,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
 * [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
+* [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn&apos;t Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 * [2025-04-30, 00:12:50](https://lobste.rs/s/lffktu/i_use_zip_bombs_protect_my_server) - [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-30, 00:10:00](https://soylentnews.org/article.pl?sid=25/04/29/0840259&amp;from=rss) - [The Agonizing Task of Turning Iberia&apos;s Power Back On](https://soylentnews.org/article.pl?sid=25/04/29/0840259&amp;from=rss)
@@ -143,7 +144,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:41:00](https://soylentnews.org/article.pl?sid=25/04/29/0824210&amp;from=rss) - [AI-Powered, Non-Intrusive Terminal Assistant ](https://soylentnews.org/article.pl?sid=25/04/29/0824210&amp;from=rss)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
-* [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 10:01:00](https://soylentnews.org/article.pl?sid=25/04/29/0655255&amp;from=rss) - [New Framework Suggests Stars Dissolve Into Neutrons to Forge Heavy Elements](https://soylentnews.org/article.pl?sid=25/04/29/0655255&amp;from=rss)
 * [2025-04-29, 05:15:00](https://soylentnews.org/article.pl?sid=25/04/28/0428200&amp;from=rss) - [Differential Equations and Urine](https://soylentnews.org/article.pl?sid=25/04/28/0428200&amp;from=rss)
 * [2025-04-29, 00:28:00](https://soylentnews.org/article.pl?sid=25/04/28/0420232&amp;from=rss) - [Ice Age Pyrotechnology: This is How Humans Made Fire Tens of Thousands of Years Ago](https://soylentnews.org/article.pl?sid=25/04/28/0420232&amp;from=rss)
