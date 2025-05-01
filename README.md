@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and Environmental Technology
+## Advancements in Artificial Intelligence
 
-* [Satellite Launches On Mission To 'Weigh' World's 1.5 Trillion Trees](https://tech.slashdot.org/story/25/04/30/231235/satellite-launches-on-mission-to-weigh-worlds-15-trillion-trees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new satellite mission aims to measure the mass of all trees on Earth, providing crucial data for environmental monitoring and climate change studies.
+* [Study Accuses LM Arena of Helping Top AI Labs Game Its Benchmark](https://slashdot.org/story/25/05/01/0525208/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The study critiques LM Arena for allegedly aiding top artificial intelligence labs in manipulating their benchmark performance metrics. [Comments](https://slashdot.org/story/25/05/01/0525208/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Amazon's Starlink Rival Sees the First 27 Satellites Successfully Reach Low-Earth Orbit](https://soylentnews.org/article.pl?sid=25/04/30/022200&from=rss) - Rivaling Starlink, Amazon enters the satellite race with its first successful low-earth orbit deployment.
+* [Duolingo Doubles Its Language Courses Thanks To AI](https://slashdot.org/story/25/04/30/238254/duolingo-doubles-its-language-courses-thanks-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The popular app leverages artificial intelligence to significantly expand its language offerings. [Comments](https://slashdot.org/story/25/04/30/238254/duolingo-doubles-its-language-courses-thanks-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&from=rss) - Researchers are now leveraging fiber-optic cables to detect seismic activity, potentially offering life-saving early warnings for volcanic eruptions.
+* [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury) - Inception Labs introduces Mercury, a scalable diffusion model aimed at revolutionizing language understanding. [Comments](https://news.ycombinator.com/item?id=43851099).
 
-## Advancements in Computing and AI
+## Tech Controversies and Legal Battles
 
-* [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34) - Explores the architecture and communication protocols behind Kafka's new KRaft mode, which operates without Zookeeper.
+* [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied) - Court finds an Apple executive guilty of providing false testimony. [Comments](https://news.ycombinator.com/item?id=43856795).
 
-* [Microsoft CEO Says Up To 30% of the Company's Code Was Written by AI](https://developers.slashdot.org/story/25/04/30/1735210/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's CEO reveals the notable rise in AI-driven programming within their development teams.
+* [Apple Must Halt Non-App Store Sales Commissions, Judge Says](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legal ruling limits Apple's control over sales commissions for non-App Store purchases. [Comments](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new atomic clock joins the elite few that keep international time standards incredibly precise.
+* [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957) - Apple faces ramifications for not adhering to a previous antitrust decision. [Comments](https://news.ycombinator.com/item?id=43852145).
 
-## Legal and Regulatory Updates
+## Innovative Technologies and Applications
 
-* [Apple Must Halt Non-App Store Sales Commissions, Judge Says](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A ruling forces Apple to cease certain non-App Store commission practices under antitrust laws.
+* [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34) - Kafka KRaft emerges as a revolutionary leader in distributed system communication. [Comments](https://lobste.rs/s/a0568e/understanding_kafka_kraft_how).
 
-* [Millions of AirPlay Devices Can Be Hacked Over Wi-Fi](https://it.slashdot.org/story/25/04/30/2115251/millions-of-airplay-devices-can-be-hacked-over-wi-fi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Widespread vulnerabilities in AirPlay devices raise critical security concerns over Wi-Fi.
+* [Satellite Launches On Mission To 'Weigh' World's 1.5 Trillion Trees](https://tech.slashdot.org/story/25/04/30/231235/satellite-launches-on-mission-to-weigh-worlds-15-trillion-trees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A satellite embarks on a global mission to assess biomass by ‘weighing’ Earth's forest life. [Comments](https://tech.slashdot.org/story/25/04/30/231235/satellite-launches-on-mission-to-weigh-worlds-15-trillion-trees?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&from=rss) - A new U.S. law aims to tackle online dissemination of sensitive personal images without consent.
+* [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/) - A high-resolution exploration of Vermeer’s masterpiece highlights microscopic details. [Comments](https://news.ycombinator.com/item?id=43852266).
 
-## Historical and Creative Highlights
+## Cybersecurity and Privacy
 
-* [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/) - A technological marvel capturing Vermeer's iconic painting in unprecedented detail.
+* [Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823) - Insights into Chrome's extension sandbox vulnerabilities. [Comments](https://news.ycombinator.com/item?id=43856656).
 
-* [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html) - Notable obituary recognizing the life and contributions of a World War II code-breaker.
+* [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/) - An investigation into security flaws in the Ladybird browser project. [Comments](https://news.ycombinator.com/item?id=43852096).
 
-* [Ice Age Pyrotechnology: This is How Humans Made Fire Tens of Thousands of Years Ago](https://soylentnews.org/article.pl?sid=25/04/28/0420232&from=rss) - New insights into ancient fire-making techniques that reflect human ingenuity.
+* [Home Washing Machines Fail To Remove Important Pathogens from Textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html) - Highlighting the technical shortcomings of household hygiene appliances. [Comments](https://news.ycombinator.com/item?id=43851225).
 
-* [9-Mile-Thick Layer of Solid Diamonds May Lurk Beneath Mercury's Surface, Study Hints](https://soylentnews.org/article.pl?sid=25/04/26/179216&from=rss) - A geological study hypothesizes the presence of massive quantities of diamonds beneath Mercury's surface.
+## Science and Innovation
+
+* [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss) - Exploring innovative methodologies for harnessing energy derived from precipitation. [Comments](https://soylentnews.org/article.pl?sid=25/04/30/0213229&from=rss).
+
+* [A Competing Theory to 'Dark Energy' Suggests Universe Has Different Time Zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116) - A breakthrough theory challenges traditional concepts of dark energy in cosmology. [Comments](https://news.ycombinator.com/item?id=43853116).
+
+* [New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Introducing an advanced atomic clock with implications for global timekeeping accuracy. [Comments](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
 ---
 
@@ -59,25 +65,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-01, 13:00:00](https://slashdot.org/story/25/05/01/0525208/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Accuses LM Arena of Helping Top AI Labs Game Its Benchmark](https://slashdot.org/story/25/05/01/0525208/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
+* [2025-05-01, 12:28:13](https://news.ycombinator.com/item?id=43856798) - [The Brief Origins of May Day](https://archive.iww.org/history/library/misc/origins_of_mayday/)
+* [2025-05-01, 12:27:51](https://news.ycombinator.com/item?id=43856795) - [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
+* [2025-05-01, 12:14:25](https://news.ycombinator.com/item?id=43856656) - [Trust Me, I&apos;m Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
+* [2025-05-01, 12:00:00](https://science.slashdot.org/story/25/05/01/0535250/starting-july-1-academic-publishers-cant-paywall-nih-funded-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starting July 1, Academic Publishers Can&apos;t Paywall NIH-Funded Research](https://science.slashdot.org/story/25/05/01/0535250/starting-july-1-academic-publishers-cant-paywall-nih-funded-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-01, 11:59:46](https://news.ycombinator.com/item?id=43856532) - [Game preservationists say Switch2 GameKey Cards are disheartening but inevitable](https://www.videogameschronicle.com/news/game-preservationists-say-switch-2-game-key-cards-are-disheartening-but-inevitable/)
+* [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
+* [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
+* [2025-05-01, 10:00:00](https://slashdot.org/story/25/04/30/238254/duolingo-doubles-its-language-courses-thanks-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Duolingo Doubles Its Language Courses Thanks To AI](https://slashdot.org/story/25/04/30/238254/duolingo-doubles-its-language-courses-thanks-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 09:21:00](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss) - [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss)
-* [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe&apos;s tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
 * [2025-05-01, 08:37:09](https://lobste.rs/s/a0568e/understanding_kafka_kraft_how) - [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34)
 * [2025-05-01, 07:00:00](https://tech.slashdot.org/story/25/04/30/231235/satellite-launches-on-mission-to-weigh-worlds-15-trillion-trees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Satellite Launches On Mission To &apos;Weigh&apos; World&apos;s 1.5 Trillion Trees](https://tech.slashdot.org/story/25/04/30/231235/satellite-launches-on-mission-to-weigh-worlds-15-trillion-trees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 06:47:02](https://lobste.rs/s/aa8fks/curing_case_git_ux_2022) - [Curing A Case Of Git-UX (2022)](https://oppi.li/posts/curing_a_case_of_git-UX/)
+* [2025-05-01, 05:58:24](https://news.ycombinator.com/item?id=43854162) - [The Secret Services&apos; involvement in the making of The Line of Fire (1993) [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
 * [2025-05-01, 05:05:00](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Must Halt Non-App Store Sales Commissions, Judge Says](https://apple.slashdot.org/story/25/05/01/055227/apple-must-halt-non-app-store-sales-commissions-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss)
 * [2025-05-01, 03:30:00](https://tech.slashdot.org/story/25/04/30/2242219/why-windows-7-took-forever-to-load-if-you-had-a-solid-background?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Windows 7 Took Forever To Load If You Had a Solid Background](https://tech.slashdot.org/story/25/04/30/2242219/why-windows-7-took-forever-to-load-if-you-had-a-solid-background?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 03:09:03](https://lobste.rs/s/egqrcs/doom_gpu_flame_graphs) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
-* [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 * [2025-05-01, 02:25:55](https://news.ycombinator.com/item?id=43853116) - [A competing theory to &apos;dark energy&apos; suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
-* [2025-05-01, 01:31:19](https://news.ycombinator.com/item?id=43852771) - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
 * [2025-05-01, 01:01:02](https://news.ycombinator.com/item?id=43852548) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 * [2025-05-01, 01:00:00](https://yro.slashdot.org/story/25/04/30/2234218/alleged-scattered-spider-member-extradited-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alleged &apos;Scattered Spider&apos; Member Extradited to US](https://yro.slashdot.org/story/25/04/30/2234218/alleged-scattered-spider-member-extradited-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-01, 00:57:42](https://news.ycombinator.com/item?id=43852527) - [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)
 * [2025-05-01, 00:41:26](https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot) - [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/)
 * [2025-05-01, 00:22:01](https://news.ycombinator.com/item?id=43852266) - [108B Pixel Scan of Johannes Vermeer&apos;s Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
 * [2025-05-01, 00:20:00](https://tech.slashdot.org/story/25/04/30/2227225/republicans-in-congress-want-a-flat-200-annual-ev-tax?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Republicans In Congress Want a Flat $200 Annual EV Tax](https://tech.slashdot.org/story/25/04/30/2227225/republicans-in-congress-want-a-flat-200-annual-ev-tax?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-01, 00:16:49](https://news.ycombinator.com/item?id=43852220) - [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
 * [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple violated antitrust ruling, judge finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
 * [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
@@ -94,6 +107,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 * [2025-04-30, 21:40:00](https://tech.slashdot.org/story/25/04/30/2112233/google-funding-electrician-training-as-ai-power-crunch-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Funding Electrician Training As AI Power Crunch Intensifies](https://tech.slashdot.org/story/25/04/30/2112233/google-funding-electrician-training-as-ai-power-crunch-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 21:00:00](https://hardware.slashdot.org/story/25/04/30/2056202/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Raspberry Pi Cuts Product Returns By 50% By Changing Up Its Pin Soldering](https://hardware.slashdot.org/story/25/04/30/2056202/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-04-30, 20:58:13](https://lobste.rs/s/65zlbk/passt_plug_simple_socket_transport) - [passt - Plug A Simple Socket Transport](https://passt.top/passt/about/)
 * [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin&apos;s KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN&apos;s implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 * [2025-04-30, 20:01:00](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time](https://science.slashdot.org/story/25/04/30/201234/new-atomic-fountain-clock-joins-elite-group-that-keeps-the-world-on-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,18 +116,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-30, 19:06:00](https://soylentnews.org/article.pl?sid=25/04/30/0157233&amp;from=rss) - [Trinity Desktop Environment 14.1.4 Released](https://soylentnews.org/article.pl?sid=25/04/30/0157233&amp;from=rss)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 18:59:01](https://lobste.rs/s/lkngrz/new_tag_vibecoding) - [New tag: vibecoding](https://lobste.rs/s/lkngrz/new_tag_vibecoding)
-* [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 18:31:07](https://lobste.rs/s/zhmlkp/future_osl_jeopardy) - [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
 * [2025-04-30, 17:34:00](https://developers.slashdot.org/story/25/04/30/1735210/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft CEO Says Up To 30% of the Company&apos;s Code Was Written by AI](https://developers.slashdot.org/story/25/04/30/1735210/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
-* [2025-04-30, 16:51:00](https://news.slashdot.org/story/25/04/30/1651213/finland-restricts-use-of-mobile-phones-during-school-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finland Restricts Use of Mobile Phones During School Day](https://news.slashdot.org/story/25/04/30/1651213/finland-restricts-use-of-mobile-phones-during-school-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
-* [2025-04-30, 16:02:00](https://tech.slashdot.org/story/25/04/30/1540245/googles-sundar-pichai-calls-us-remedies-de-facto-spinoff-of-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Sundar Pichai Calls US Remedies &apos;De Facto&apos; Spinoff of Search](https://tech.slashdot.org/story/25/04/30/1540245/googles-sundar-pichai-calls-us-remedies-de-facto-spinoff-of-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
-* [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
-* [2025-04-30, 15:20:00](https://news.slashdot.org/story/25/04/30/1518223/wikipedia-to-use-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia To Use AI](https://news.slashdot.org/story/25/04/30/1518223/wikipedia-to-use-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:23:00](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss) - [Volcanic Eruption Warnings Are Now Possible With Fiber-Optic Cables](https://soylentnews.org/article.pl?sid=25/04/30/0155235&amp;from=rss)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
@@ -125,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-04-30, 09:38:00](https://soylentnews.org/article.pl?sid=25/04/30/0150205&amp;from=rss) - [Congress Passes TAKE IT DOWN Act](https://soylentnews.org/article.pl?sid=25/04/30/0150205&amp;from=rss)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
-* [2025-04-30, 07:14:32](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript) - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 04:54:00](https://soylentnews.org/article.pl?sid=25/04/30/0137239&amp;from=rss) - [Europe Stays Tough on Tech Regulation](https://soylentnews.org/article.pl?sid=25/04/30/0137239&amp;from=rss)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
