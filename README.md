@@ -1,38 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technological Developments and Controversies
 
-* [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/) explores the intersection of artificial intelligence and advanced debugging techniques. [Comments](https://news.ycombinator.com/item?id=43892096)
+* [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss))
 
-* [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817) discusses innovative memory optimization techniques applicable to AI workloads. [Comments](https://news.ycombinator.com/item?id=43890538)
+* [Class Action Accuses Toyota of Illegally Sharing Drivers' Data](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Did Peking U. Just Make the World's Fastest Transistor - Without Using Silicon?](https://hardware.slashdot.org/story/25/05/04/036210/did-peking-u-just-make-the-worlds-fastest-transistor---without-using-silicon?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines groundbreaking advancements in transistor technology. [Comments](https://news.ycombinator.com/item?id=43885478)
+* [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817) ([comments](https://news.ycombinator.com/item?id=43890538))
 
-* [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/) unveils a novel platform promoting secure and ephemeral collaborations. [Comments](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral)
+* [The UN Ditches Google for Form Submissions, Opts for Open Source 'CryptPad' Instead](https://news.slashdot.org/story/25/05/04/2350224/the-un-ditches-google-for-form-submissions-opts-for-open-source-cryptpad-instead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/05/04/2350224/the-un-ditches-google-for-form-submissions-opts-for-open-source-cryptpad-instead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## AI and Ethics
+## Artificial Intelligence and Automation
 
-* [After Reddit Thread on 'ChatGPT-Induced Psychosis', OpenAI Rolls Back GPT4o Update](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) reveals the challenges faced by OpenAI in balancing advancements with user well-being. [Comments](https://news.ycombinator.com/item?id=43891693)
+* [Apple Shortcuts is falling into "the automation gap"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/) ([comments](https://news.ycombinator.com/item?id=43892481))
 
-* [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/) critiques the disconnection between technology creators and user concerns. [Comments](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not)
+* [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/) ([comments](https://news.ycombinator.com/item?id=43892096))
 
-## Software and Development
+* [After Reddit Thread on 'ChatGPT-Induced Psychosis', OpenAI Rolls Back GPT4o Update](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Feather: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather) highlights a minimalist approach to web development in Rust. [Comments](https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async)
+* [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/) ([comments](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not))
 
-* [Functional HTML](https://overreacted.io/functional-html/) merges functional programming principles with web technologies. [Comments](https://lobste.rs/s/euv4fr/functional_html)
+## Open Source and Programming
 
-## Scientific and Environmental Progress
+* [Fuzzing with Grammars](https://www.fuzzingbook.org/html/Grammars.html) ([comments](https://lobste.rs/s/yggamf/fuzzing_with_grammars))
 
-* [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&from=rss) reports on significant strides in astronomical instrumentation. [Comments](https://news.ycombinator.com/item?id=43888157)
+* [Modern Latex](https://github.com/mrkline/modern-latex) ([comments](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids))
 
-* [NASA's Perseverance Rover Just Had A Close Call On Mars](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss) offers insights into this rover's mission and ongoing challenges. [Comments](https://news.ycombinator.com/item?id=43885478)
+* [Feather: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather) ([comments](https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async))
 
-## Cultural and Social Insights
+* [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/) ([comments](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral))
 
-* [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera) advocates for embracing experiences over the compulsion to document. [Comments](https://news.ycombinator.com/item?id=43890525)
+## Scientific Innovations and Studies
 
-* [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html) humorously comments on peculiar spam patterns. [Comments](https://lobste.rs/s/gwlxu1/hello_my_perverted_friend)
+* [Did Peking U. Just Make the World's Fastest Transistor - Without Using Silicon?](https://hardware.slashdot.org/story/25/05/04/036210/did-peking-u-just-make-the-worlds-fastest-transistor---without-using-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/05/04/036210/did-peking-u-just-make-the-worlds-fastest-transistor---without-using-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [NASA's Perseverance Rover Just Had A Close Call On Mars](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss))
+
+* [Dying Satellites Can Drive Climate Change and Ozone Depletion, Study Finds](https://science.slashdot.org/story/25/05/03/1934218/dying-satellites-can-drive-climate-change-and-ozone-depletion-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/03/1934218/dying-satellites-can-drive-climate-change-and-ozone-depletion-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Unique Human and Cultural Stories
+
+* [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/) ([comments](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on))
+
+* [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera) ([comments](https://news.ycombinator.com/item?id=43890525))
+
+* [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/) ([comments](https://news.ycombinator.com/item?id=43875136))
 
 ---
 
@@ -59,6 +71,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
+* [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
+* [2025-05-05, 07:34:00](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Class Action Accuses Toyota of Illegally Sharing Drivers&apos; Data](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-05, 07:24:06](https://lobste.rs/s/yggamf/fuzzing_with_grammars) - [Fuzzing with Grammars](https://www.fuzzingbook.org/html/Grammars.html)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \&quot;the automation gap\&quot;](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
@@ -76,6 +92,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:41:00](https://games.slashdot.org/story/25/05/04/2134209/harassed-by-assasins-creed-gamers-a-professor-fought-back-with-kindness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Harassed by Assasin&apos;s Creed Gamers, A Professor Fought Back With Kindness&apos;](https://games.slashdot.org/story/25/05/04/2134209/harassed-by-assasins-creed-gamers-a-professor-fought-back-with-kindness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
@@ -104,8 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-04, 15:20:25](https://lobste.rs/s/euv4fr/functional_html) - [Functional HTML](https://overreacted.io/functional-html/)
 * [2025-05-04, 14:50:10](https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed) - [Filtering GitHub actions by changed files](https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html)
 * [2025-05-04, 14:34:00](https://linux.slashdot.org/story/25/05/04/0455245/security-researchers-create-proof-of-concept-program-that-evades-linux-syscall-watching-antivirus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Security Researchers Create Proof-of-Concept Program that Evades Linux Syscall-Watching Antivirus](https://linux.slashdot.org/story/25/05/04/0455245/security-researchers-create-proof-of-concept-program-that-evades-linux-syscall-watching-antivirus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – Distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
-* [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [A Texan who built an empire of ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
 * [2025-05-04, 13:00:00](https://soylentnews.org/article.pl?sid=25/05/03/0340234&amp;from=rss) - [Microsoft: Windows Server Hotpatching to Require Subscription](https://soylentnews.org/article.pl?sid=25/05/03/0340234&amp;from=rss)
 * [2025-05-04, 12:37:52](https://news.ycombinator.com/item?id=43886368) - [Nevermind, an album on major chords](https://farina00.github.io/essays/nevermind/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [An Alabama landline that keeps ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
@@ -123,10 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-04, 03:33:00](https://soylentnews.org/article.pl?sid=25/05/03/0224236&amp;from=rss) - [TSMC Breaks Ground On Third Plant In Arizona](https://soylentnews.org/article.pl?sid=25/05/03/0224236&amp;from=rss)
 * [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 * [2025-05-04, 01:34:00](https://science.slashdot.org/story/25/05/03/1934218/dying-satellites-can-drive-climate-change-and-ozone-depletion-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dying Satellites Can Drive Climate Change and Ozone Depletion, Study Finds](https://science.slashdot.org/story/25/05/03/1934218/dying-satellites-can-drive-climate-change-and-ozone-depletion-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-04, 00:49:38](https://lobste.rs/s/gwlxu1/hello_my_perverted_friend) - [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
-* [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/03/0218240&amp;from=rss) - [Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search](https://soylentnews.org/article.pl?sid=25/05/03/0218240&amp;from=rss)
-* [2025-05-03, 22:43:00](https://hardware.slashdot.org/story/25/05/03/198214/ai-driven-robot-installs-nearly-10000-solar-modules-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Driven Robot Installs Nearly 10,000 Solar Modules in Australia](https://hardware.slashdot.org/story/25/05/03/198214/ai-driven-robot-installs-nearly-10000-solar-modules-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
 * [2025-05-03, 18:03:00](https://soylentnews.org/article.pl?sid=25/05/03/024229&amp;from=rss) - [The 35th Anniversary of the Hubble Space Telescope](https://soylentnews.org/article.pl?sid=25/05/03/024229&amp;from=rss)
 * [2025-05-03, 13:20:00](https://soylentnews.org/article.pl?sid=25/05/03/021233&amp;from=rss) - [Let&apos;s Remember That Extraordinary Claims Need Extraordinary Evidence](https://soylentnews.org/article.pl?sid=25/05/03/021233&amp;from=rss)
@@ -137,6 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-03, 01:12:44](https://news.ycombinator.com/item?id=43876084) - [I turned a 40 year old Apple Mouse into a speech to text button](https://workshop.cjpais.com/projects/handy-m0100)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of TM SGNL, the unofficial Signal app Trump officials used](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&amp;from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&amp;from=rss)
+* [2025-05-02, 23:01:28](https://news.ycombinator.com/item?id=43875360) - [Space Invaders on your wrist: the glory years of Casio video game watches](https://www.theguardian.com/games/2025/may/02/space-invaders-casio-video-game-watches)
+* [2025-05-02, 22:28:05](https://news.ycombinator.com/item?id=43875136) - [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/)
 * [2025-05-02, 21:13:07](https://news.ycombinator.com/item?id=43874641) - [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&amp;from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&amp;from=rss)
 * [2025-05-02, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/02/0534212&amp;from=rss) - [China&apos;s &apos;2D&apos; Chip Could Soon be Used to Make Silicon-Free Chips](https://soylentnews.org/article.pl?sid=25/05/02/0534212&amp;from=rss)
@@ -144,8 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-02, 04:13:00](https://soylentnews.org/article.pl?sid=25/04/30/1513218&amp;from=rss) - [Google is Killing Software Support for Early Nest Thermostats](https://soylentnews.org/article.pl?sid=25/04/30/1513218&amp;from=rss)
 * [2025-05-01, 23:32:00](https://soylentnews.org/article.pl?sid=25/04/30/1511234&amp;from=rss) - [OIN Marks 20 Years Of Defending Linux And Open Source From Patent Trolls](https://soylentnews.org/article.pl?sid=25/04/30/1511234&amp;from=rss)
 * [2025-05-01, 18:52:00](https://soylentnews.org/article.pl?sid=25/04/30/157220&amp;from=rss) - [Left or Right Arm? New Research Reveals Why Vaccination Site Matters for Immune Response](https://soylentnews.org/article.pl?sid=25/04/30/157220&amp;from=rss)
+* [2025-05-01, 18:10:54](https://news.ycombinator.com/item?id=43861297) - [Towards the Cutest Neural Network](https://kevinlynagh.com/towards-the-cutest-neural-network/)
 * [2025-05-01, 14:03:00](https://soylentnews.org/article.pl?sid=25/04/30/154230&amp;from=rss) - [Fusion Reactor Called ‘Norm’ Could Outperform Everything We’ve Built So Far](https://soylentnews.org/article.pl?sid=25/04/30/154230&amp;from=rss)
-* [2025-05-01, 11:19:26](https://news.ycombinator.com/item?id=43856208) - [Visualising home sun exposure with Rhino](https://ostwilkens.se/blog/sun-coverage)
 * [2025-05-01, 09:27:48](https://news.ycombinator.com/item?id=43855386) - [Urtext: The Python plaintext library for people who&apos;ve tried everything else](https://urtext.co/)
 * [2025-05-01, 09:21:00](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss) - [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss)
 * [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss)
