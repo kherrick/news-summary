@@ -1,44 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
+## Technology and Innovation
 
-* [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html) discusses a new programming language aimed at combining the performance of C with the simplicity of Go. [Comments](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go)
+* [A Look at the NYC Subway's Archaic Signal System](https://tech.slashdot.org/story/25/05/05/0712248/a-look-at-the-nyc-subways-archaic-signal-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore how outdated signal systems still guide NYC's extensive subway network.
 
-* [DNSanity: Quickly validate DNS servers at scale](https://github.com/nil0x42/dnsanity) introduces a tool for large-scale DNS server validation. [Comments](https://news.ycombinator.com/item?id=43893020)
+* [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/) - Introducing an innovative approach to treating filesystems as vector databases.
 
-* [Modern Latex](https://github.com/mrkline/modern-latex) overviews a streamlined LaTeX guide avoiding legacy issues. [Comments](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids)
+* [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk) - Analyzing a tool from AWS that inadvertently created vulnerabilities.
 
-* [Feather: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather) addresses developer frustrations with Rust by simplifying web framework usage. [Comments](https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async)
+* [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&from=rss) - A glimpse into China's groundbreaking nuclear energy advancements.
 
-* [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe) presents a browser-based tool for live coding tasks. [Comments](https://news.ycombinator.com/item?id=43892856)
+* [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/) - A unique project documenting Brooklyn's streets using rollerblades and 3D scanning.
+
+## Game Development and Entertainment
+
+* [Budget Titles Dominate 2025's Top-Rated Games as AAA Prices Climb To $80](https://games.slashdot.org/story/25/05/05/073207/budget-titles-dominate-2025s-top-rated-games-as-aaa-prices-climb-to-80?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How budget-friendly games are outperforming high-priced AAA titles.
+
+* ['Harassed by Assassin's Creed Gamers, A Professor Fought Back With Kindness'](https://games.slashdot.org/story/25/05/04/2134209/harassed-by-assasins-creed-gamers-a-professor-fought-back-with-kindness?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An inspiring tale of how positivity defeated online harassment.
+
+* ['Star Wars Day' Celebrations Hit Fortnite, Disney+, X.com - and Retailers Everywhere](https://entertainment.slashdot.org/story/25/05/05/0150219/star-wars-day-celebrations-hit-fortnite-disney-xcom---and-retailers-everywhere?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Star Wars-themed events take over popular platforms.
+
+* [History of "Adventure" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/) - A retrospective on the pioneer of action-adventure gaming.
 
 ## AI and Machine Learning
 
-* [Has Meta Figured Out How to Monetize AI - By Using It For Targeted Advertising?](https://tech.slashdot.org/story/25/05/05/0558205/has-meta-figured-out-how-to-monetize-ai---by-using-it-for-targeted-advertising?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) explores Meta’s efforts to use AI for ad customization. [Comments](https://news.ycombinator.com/item?id=43893740)
+* [Has Meta Figured Out How to Monetize AI - By Using It For Targeted Advertising?](https://tech.slashdot.org/story/25/05/05/0558205/has-meta-figured-out-how-to-monetize-ai---by-using-it-for-targeted-advertising?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta's controversial plans for AI in advertising.
 
-* [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/) critiques the disconnection between tech companies and public sentiment on AI. [Comments](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not)
+* [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/) - A legal battle addressing copyright in AI training.
 
-## Cybersecurity and Networking
+* [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/) - A look into integrating AI to enhance debugging processes.
 
-* [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk) uncovers a vulnerability introduced by an Amazon security solution. [Comments](https://news.ycombinator.com/item?id=43893906)
+* [After Reddit Thread on 'ChatGPT-Induced Psychosis', OpenAI Rolls Back GPT4o Update](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The unintended consequences of advanced AI development spark a rollback.
 
-* [Security Researchers Create Proof-of-Concept Program that Evades Linux Syscall-Watching Antivirus](https://linux.slashdot.org/story/25/05/04/0455245/security-researchers-create-proof-of-concept-program-that-evades-linux-syscall-watching-antivirus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) showcases a tool circumventing anti-virus protections on Linux. [Comments](https://news.ycombinator.com/item?id=43892096)
+## Engineering and Hardware
 
-## Telecommunication and Infrastructure
+* [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html) - An examination of an innovative method of using CCD for data memory.
 
-* [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/) examines network behavior during an ongoing blackout. [Comments](https://news.ycombinator.com/item?id=43894363)
+* [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/) - A technical breakdown of a significant cloud services outage.
 
-* [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php) offers a technical dive into compiler development and optimization. [Comments](https://news.ycombinator.com/item?id=43891398)
+* [The Absurdly Complicated Circuitry for the 386 Processor's Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&from=rss) - Shedding light on the intricate architecture behind legacy processors.
 
-## Physical Sciences and Engineering
+* [Modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex) - Simplifying LaTeX for easier documentation.
 
-* [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) reports on significant advancements in renewable nuclear energy. [Comments](https://news.ycombinator.com/item?id=43892856)
+## Society and Science
 
-* [The Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&amp;from=rss) describes breakthroughs in astrophysical instrumentation. [Comments](https://news.ycombinator.com/item?id=43891245)
+* [Majority in UK Now 'Self-Identify' as Neurodivergent](https://news.slashdot.org/story/25/05/05/0649225/majority-in-uk-now-self-identify-as-neurodivergent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A dive into the societal shift towards recognizing neurodivergence.
 
-## Novel Cultural Perspectives
+* [NASA's Perseverance Rover Just Had A Close Call On Mars ](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss) - A critical moment for NASA's Mars rover mission.
 
-* [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera) reflects on modern tendencies to rely on technology at the cost of creating personal memories. [Comments](https://news.ycombinator.com/item?id=43890525)
+* [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera) - A philosophical observation on experiencing life versus documenting it.
+
+* [Why Archers Didn't Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/) - A historical analysis of military tactics.
 
 ---
 
@@ -65,26 +77,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-05, 15:21:00](https://tech.slashdot.org/story/25/05/05/0712248/a-look-at-the-nyc-subways-archaic-signal-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Look at the NYC Subway&apos;s Archaic Signal System](https://tech.slashdot.org/story/25/05/05/0712248/a-look-at-the-nyc-subways-archaic-signal-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
+* [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
+* [2025-05-05, 14:40:00](https://games.slashdot.org/story/25/05/05/073207/budget-titles-dominate-2025s-top-rated-games-as-aaa-prices-climb-to-80?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Budget Titles Dominate 2025&apos;s Top-Rated Games as AAA Prices Climb To $80](https://games.slashdot.org/story/25/05/05/073207/budget-titles-dominate-2025s-top-rated-games-as-aaa-prices-climb-to-80?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
+* [2025-05-05, 14:20:04](https://news.ycombinator.com/item?id=43895456) - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
+* [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \&quot;Adventure\&quot; for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
+* [2025-05-05, 14:00:00](https://news.slashdot.org/story/25/05/05/0649225/majority-in-uk-now-self-identify-as-neurodivergent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Majority in UK Now &apos;Self-Identify&apos; as Neurodivergent](https://news.slashdot.org/story/25/05/05/0649225/majority-in-uk-now-self-identify-as-neurodivergent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
 * [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
-* [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
+* [2025-05-05, 12:22:10](https://news.ycombinator.com/item?id=43894305) - [The Death of Daydreaming: What we lose when phones take away boredom](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:34:00](https://tech.slashdot.org/story/25/05/05/0558205/has-meta-figured-out-how-to-monetize-ai---by-using-it-for-targeted-advertising?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Has Meta Figured Out How to Monetize AI - By Using It For Targeted Advertising?](https://tech.slashdot.org/story/25/05/05/0558205/has-meta-figured-out-how-to-monetize-ai---by-using-it-for-targeted-advertising?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-05, 11:15:32](https://news.ycombinator.com/item?id=43893759) - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
+* [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
 * [2025-05-05, 11:10:58](https://news.ycombinator.com/item?id=43893740) - [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 10:10:36](https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment) - [Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere](https://index.0x77.dev/blog/ros-devenv)
 * [2025-05-05, 09:58:31](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week)
 * [2025-05-05, 09:25:45](https://news.ycombinator.com/item?id=43893225) - [The Design of Compact Elastic Binary Trees (Cebtree)](http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html)
-* [2025-05-05, 08:43:30](https://news.ycombinator.com/item?id=43893020) - [DNSanity: Quickly validate DNS servers at scale](https://github.com/nil0x42/dnsanity)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 * [2025-05-05, 07:34:00](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Class Action Accuses Toyota of Illegally Sharing Drivers&apos; Data](https://tech.slashdot.org/story/25/05/04/2341203/class-action-accuses-toyota-of-illegally-sharing-drivers-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-05, 07:24:06](https://lobste.rs/s/yggamf/fuzzing_with_grammars) - [Fuzzing with Grammars](https://www.fuzzingbook.org/html/Grammars.html)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
-* [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-05, 03:43:00](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Reddit Thread on &apos;ChatGPT-Induced Psychosis&apos;, OpenAI Rolls Back GPT4o Update](https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor&apos;s Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss)
@@ -99,11 +117,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-04, 23:11:05](https://news.ycombinator.com/item?id=43890412) - [V.S. Naipaul: The Grief and the Glory](https://granta.com/vs-naipaul-the-grief-and-the-glory/)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss)
-* [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:41:00](https://games.slashdot.org/story/25/05/04/2134209/harassed-by-assasins-creed-gamers-a-professor-fought-back-with-kindness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Harassed by Assasin&apos;s Creed Gamers, A Professor Fought Back With Kindness&apos;](https://games.slashdot.org/story/25/05/04/2134209/harassed-by-assasins-creed-gamers-a-professor-fought-back-with-kindness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
-* [2025-05-04, 21:05:02](https://lobste.rs/s/08nzki/moving_beyond_containers_introducing) - [Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-05-04, 20:41:00](https://hardware.slashdot.org/story/25/05/04/2040204/disneyland-imagineers-defend-new-show-recreating-walt-disney-as-a-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disneyland Imagineers Defend New Show  Recreating Walt Disney as a Robot](https://hardware.slashdot.org/story/25/05/04/2040204/disneyland-imagineers-defend-new-show-recreating-walt-disney-as-a-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling&apos;s Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
 * [2025-05-04, 19:53:59](https://lobste.rs/s/iu01xj/you_can_t_prevent_your_last_outage_no) - [You can’t prevent your last outage, no matter how hard you try](https://surfingcomplexity.blog/2025/05/04/you-cant-prevent-your-last-outage-no-matter-how-hard-you-try/)
@@ -125,26 +141,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-04, 14:50:10](https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed) - [Filtering GitHub actions by changed files](https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html)
 * [2025-05-04, 14:34:00](https://linux.slashdot.org/story/25/05/04/0455245/security-researchers-create-proof-of-concept-program-that-evades-linux-syscall-watching-antivirus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Security Researchers Create Proof-of-Concept Program that Evades Linux Syscall-Watching Antivirus](https://linux.slashdot.org/story/25/05/04/0455245/security-researchers-create-proof-of-concept-program-that-evades-linux-syscall-watching-antivirus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 13:00:00](https://soylentnews.org/article.pl?sid=25/05/03/0340234&amp;from=rss) - [Microsoft: Windows Server Hotpatching to Require Subscription](https://soylentnews.org/article.pl?sid=25/05/03/0340234&amp;from=rss)
-* [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [An Alabama landline that keeps ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
-* [2025-05-04, 11:34:00](https://news.slashdot.org/story/25/05/04/0754238/firefox-could-be-doomed-without-google-search-deal-executive-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Could Be Doomed Without Google Search Deal, Executive Says](https://news.slashdot.org/story/25/05/04/0754238/firefox-could-be-doomed-without-google-search-deal-executive-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
 * [2025-05-04, 08:12:00](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss) - [NASA&apos;s Perseverance Rover Just Had A Close Call On Mars ](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss)
-* [2025-05-04, 07:34:00](https://hardware.slashdot.org/story/25/05/04/036210/did-peking-u-just-make-the-worlds-fastest-transistor---without-using-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did Peking U. Just Make the World&apos;s Fastest Transistor - Without Using Silicon?](https://hardware.slashdot.org/story/25/05/04/036210/did-peking-u-just-make-the-worlds-fastest-transistor---without-using-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
-* [2025-05-04, 04:34:00](https://slashdot.org/story/25/05/04/0341234/how-badly-did-chatgpt-and-copilot-fail-to-predict-the-winners-of-the-kentucky-derby?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Badly Did ChatGPT and Copilot Fail to Predict the Winners of the Kentucky Derby?](https://slashdot.org/story/25/05/04/0341234/how-badly-did-chatgpt-and-copilot-fail-to-predict-the-winners-of-the-kentucky-derby?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-04, 04:29:37](https://lobste.rs/s/td6ttp/dying_for_beauty) - [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
 * [2025-05-04, 03:33:00](https://soylentnews.org/article.pl?sid=25/05/03/0224236&amp;from=rss) - [TSMC Breaks Ground On Third Plant In Arizona](https://soylentnews.org/article.pl?sid=25/05/03/0224236&amp;from=rss)
 * [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 * [2025-05-03, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/03/0218240&amp;from=rss) - [Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search](https://soylentnews.org/article.pl?sid=25/05/03/0218240&amp;from=rss)
+* [2025-05-03, 22:04:14](https://news.ycombinator.com/item?id=43882740) - [Digitization Complete for World-Renowned Franco Novacco Map Collection](https://www.newberry.org/news/digitization-complete-for-world-renowned-franco-novacco-map-collection)
 * [2025-05-03, 18:03:00](https://soylentnews.org/article.pl?sid=25/05/03/024229&amp;from=rss) - [The 35th Anniversary of the Hubble Space Telescope](https://soylentnews.org/article.pl?sid=25/05/03/024229&amp;from=rss)
 * [2025-05-03, 16:41:07](https://news.ycombinator.com/item?id=43880248) - [Ghost in the machine? Legend of the &apos;haunted&apos; N64 video game cartridge](https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web)
 * [2025-05-03, 13:20:00](https://soylentnews.org/article.pl?sid=25/05/03/021233&amp;from=rss) - [Let&apos;s Remember That Extraordinary Claims Need Extraordinary Evidence](https://soylentnews.org/article.pl?sid=25/05/03/021233&amp;from=rss)
 * [2025-05-03, 08:37:00](https://soylentnews.org/article.pl?sid=25/05/03/0154209&amp;from=rss) - [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&amp;from=rss)
 * [2025-05-03, 08:28:23](https://news.ycombinator.com/item?id=43877644) - [Why Archers Didn&apos;t Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/)
+* [2025-05-03, 07:03:44](https://news.ycombinator.com/item?id=43877356) - [Circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
 * [2025-05-03, 03:52:00](https://soylentnews.org/article.pl?sid=25/05/02/0710252&amp;from=rss) - [\&quot;Aerial Urination\&quot;](https://soylentnews.org/article.pl?sid=25/05/02/0710252&amp;from=rss)
 * [2025-05-03, 01:20:46](https://news.ycombinator.com/item?id=43876135) - [Fuzzy images are our first look at Amazon&apos;s super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
-* [2025-05-03, 01:12:44](https://news.ycombinator.com/item?id=43876084) - [I turned a 40 year old Apple Mouse into a speech to text button](https://workshop.cjpais.com/projects/handy-m0100)
 * [2025-05-02, 23:10:00](https://soylentnews.org/article.pl?sid=25/05/02/064235&amp;from=rss) - [Monty Python and the Holy Grail Turns 50](https://soylentnews.org/article.pl?sid=25/05/02/064235&amp;from=rss)
 * [2025-05-02, 22:28:05](https://news.ycombinator.com/item?id=43875136) - [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/)
 * [2025-05-02, 18:25:00](https://soylentnews.org/article.pl?sid=25/05/02/0551254&amp;from=rss) - [Flying Squirrel-Inspired Drone With Foldable Wings Demonstrates High Maneuverability](https://soylentnews.org/article.pl?sid=25/05/02/0551254&amp;from=rss)
@@ -158,4 +171,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-01, 09:27:48](https://news.ycombinator.com/item?id=43855386) - [Urtext: The Python plaintext library for people who&apos;ve tried everything else](https://urtext.co/)
 * [2025-05-01, 09:21:00](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss) - [Here’s How We Might Generate Electricity From Rain](https://soylentnews.org/article.pl?sid=25/04/30/0213229&amp;from=rss)
 * [2025-05-01, 04:34:00](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss) - [Wired on Protecting Your Phone — and Your Privacy — at the US Border](https://soylentnews.org/article.pl?sid=25/04/30/025225&amp;from=rss)
-* [2025-05-01, 00:16:26](https://news.ycombinator.com/item?id=43852217) - [Thunderscope update: My take: Why open source is better](https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production)
