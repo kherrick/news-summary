@@ -1,52 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology and Software
+## Scientific Discoveries and Innovations
 
-* [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp) - Exploring performance improvements for Common Lisp programs. [Comments](https://lobste.rs/s/7ldnnl/optimizing_common_lisp)
+* [Scientists Identify New Mutation That Enables Three-Hour Sleepers](https://science.slashdot.org/story/25/05/06/234231/scientists-identify-new-mutation-that-enables-three-hour-sleepers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers have discovered a genetic variation that allows some people to thrive on just three hours of sleep per night.
 
-* [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html) - An open call for better performance visualization tools. [Comments](https://lobste.rs/s/tzbzxl/performance_profile_visualization)
+* [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - A breakthrough in mathematics has united longstanding theories within the realm of physics, solving a problem left unresolved for over a century.
 
-* [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0) - Key updates in this latest version of Argo CD for DevOps. [Comments](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0)
+* [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html) - Innovative research enables scientists to place fluorescent marks on tardigrades, the microscopic animals known for their extreme resilience.
 
-* [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0) - The latest version of the Lazarus IDE with significant improvements. [Comments](https://lobste.rs/s/odkudp/lazarus_release_4_0)
+## Technology and Open Source
 
-* [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/) - A deep dive into debugging complex errors in Rust programming. [Comments](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait)
+* [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/) - JetBrains has announced that CLion, its IDE for C and C++ development, is now available for free to non-commercial users.
 
-## Artificial Intelligence and Machine Learning
+* [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html) - A critical exploration of Unity's controversial move to ban VLC, raising concerns about its open-source policies.
 
-* [Recreating an iOS Animation with GLSL (interactive tutorial)](https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/) - A step-by-step recreation of advanced iOS animation. [Comments](https://lobste.rs/s/vvac3x/recreating_ios_animation_with_glsl)
+* [Amazon's Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon's autonomous vehicle division has issued a software recall following a crash in Las Vegas.
 
-* [AI Law Firm Offering $2.7 Legal Letters Wins 'Landmark' Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How AI is reshaping legal services. [Comments](https://news.ycombinator.com/item?id=43907820)
+* [Memory-Safe Sudo To Become the Default In Ubuntu](https://news.slashdot.org/story/25/05/06/213254/memory-safe-sudo-to-become-the-default-in-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ubuntu plans to implement a memory-safe version of the sudo command to enhance system security.
 
-* [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt) - Analyzing Anthropic's AI architecture. [Comments](https://news.ycombinator.com/item?id=43909409)
+* [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush) - Explore 'Brush,' a POSIX-compatible shell written in Rust, designed for enhanced safety and performance.
 
-* [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's latest AI innovation in Gemini. [Comments](https://news.ycombinator.com/item?id=43905942)
+* [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor) - The Zed Editor incorporates advanced AI to assist with coding and development workflows.
 
-* [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step) - Advancements in AI music generation. [Comments](https://news.ycombinator.com/item?id=43909398)
+## Ethics, Policies, and Regulation
 
-## Science and Discoveries
+* [FTC Bans Hidden Fees For Live Events and Short-Term Rentals](https://yro.slashdot.org/story/25/05/07/0043243/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FTC implements new rules to curb deceptive hidden fees in rentals and event ticketing.
 
-* [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - Bridging key mathematical and physical theories. [Comments](https://soylentnews.org/comments.pl?sid=25/05/06/0312252&cid=0)
+* [New Bill Would Force Apple, Google To Open App Store Ecosystems](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legislators propose a bill aimed at reducing restrictions on app store ecosystems.
 
-* [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/) - Unlocking the mysteries of cephalopod communication. [Comments](https://news.ycombinator.com/item?id=43904478)
+* [NSO Group Must Pay More Than $167 Million In Damages To WhatsApp For Spyware Campaign](https://yro.slashdot.org/story/25/05/06/2136240/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NSO Group faces significant financial penalties for its spyware-related activities.
 
-* [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html) - Innovative techniques for tagging microscopic creatures. [Comments](https://news.ycombinator.com/item?id=43901131)
+## Space and Aerospace Innovations
 
-## Corporate News and Legal Developments
+* [Stratolaunch's Talon-A2 Prototype Goes Hypersonic After Dropping From World's Largest Airplane](https://tech.slashdot.org/story/25/05/06/2146219/stratolaunchs-talon-a2-prototype-goes-hypersonic-after-dropping-from-worlds-largest-airplane?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Talon-A2 prototype achieves hypersonic speeds in an aerospace milestone.
 
-* [NSO Group Must Pay More Than $167 Million In Damages To WhatsApp For Spyware Campaign](https://yro.slashdot.org/story/25/05/06/2136240/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major settlement implicating privacy invasion. [Comments](https://news.ycombinator.com/item?id=43911167)
+* [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&from=rss) - A decommissioned Soviet spacecraft is set to re-enter Earth's atmosphere in an uncontrolled descent.
 
-* [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html) - A significant merger in the global food delivery market. [Comments](https://news.ycombinator.com/item?id=43902308)
-
-* [New Bill Would Force Apple, Google To Open App Store Ecosystems](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legislative steps toward platform fairness. [Comments](https://news.ycombinator.com/item?id=43911167)
-
-## Aerospace and Exploration
-
-* [Stratolaunch's Talon-A2 Prototype Goes Hypersonic After Dropping From World's Largest Airplane](https://tech.slashdot.org/story/25/05/06/2146219/stratolaunchs-talon-a2-prototype-goes-hypersonic-after-dropping-from-worlds-largest-airplane?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major milestone in hypersonic flight development. [Comments](https://news.ycombinator.com/item?id=43910565)
-
-* [NASA's Perseverance Rover Just Had A Close Call On Mars](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss) - Perseverance narrowly avoids hazards on its Mars mission. [Comments](https://news.ycombinator.com/item?id=43884418)
-
-* [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/) - Debates around the mysterious Planet Nine. [Comments](https://news.ycombinator.com/item?id=43907586)
+* [NASA's Perseverance Rover Just Had A Close Call On Mars](https://soylentnews.org/article.pl?sid=25/05/03/0334239&from=rss) - NASA's Mars rover narrowly avoided a potentially catastrophic incident.
 
 ---
 
@@ -73,6 +63,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-07, 13:00:00](https://yro.slashdot.org/story/25/05/07/0043243/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Bans Hidden Fees For Live Events and Short-Term Rentals](https://yro.slashdot.org/story/25/05/07/0043243/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+* [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
+* [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity&apos;s Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+* [2025-05-07, 12:22:00](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss) - [Hackers Abuse IPv6 Networking Feature to Hijack Windows Software Updates](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss)
+* [2025-05-07, 12:18:38](https://news.ycombinator.com/item?id=43914705) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+* [2025-05-07, 12:14:27](https://news.ycombinator.com/item?id=43914677) - [Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard)
+* [2025-05-07, 12:00:00](https://science.slashdot.org/story/25/05/06/234231/scientists-identify-new-mutation-that-enables-three-hour-sleepers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Identify New Mutation That Enables Three-Hour Sleepers](https://science.slashdot.org/story/25/05/06/234231/scientists-identify-new-mutation-that-enables-three-hour-sleepers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-07, 11:57:55](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities) - [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor)
+* [2025-05-07, 10:12:14](https://news.ycombinator.com/item?id=43913950) - [Migrating a JavaScript Project from Prettier and ESLint to BiomeJS](https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html)
+* [2025-05-07, 10:04:45](https://news.ycombinator.com/item?id=43913896) - [Agentic Editing in Zed](https://zed.dev/blog/fastest-ai-code-editor?e=60)
+* [2025-05-07, 10:00:00](https://news.slashdot.org/story/25/05/06/230252/pentagon-targets-open-source-security-risks-in-software-procurement-overhaul?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Targets Open Source Security Risks in Software Procurement Overhaul](https://news.slashdot.org/story/25/05/06/230252/pentagon-targets-open-source-security-risks-in-software-procurement-overhaul?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
@@ -86,9 +88,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:25:00](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Bill Would Force Apple, Google To Open App Store Ecosystems](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
-* [2025-05-07, 00:59:59](https://lobste.rs/s/fhcrmq/reverse_engineering_fujitsu_m7mu_relc) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 * [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
-* [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 * [2025-05-07, 00:45:00](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 00:08:15](https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment) - [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 * [2025-05-07, 00:02:00](https://hardware.slashdot.org/story/25/05/06/2111247/trump-admin-plans-to-shut-down-the-energy-star-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Admin Plans To Shut Down the Energy Star Program](https://hardware.slashdot.org/story/25/05/06/2111247/trump-admin-plans-to-shut-down-the-energy-star-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -99,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-06, 23:20:00](https://tech.slashdot.org/story/25/05/06/2119207/google-accidentally-reveals-androids-material-3-expressive-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Accidentally Reveals Android&apos;s Material 3 Expressive Interface](https://tech.slashdot.org/story/25/05/06/2119207/google-accidentally-reveals-androids-material-3-expressive-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 23:02:46](https://news.ycombinator.com/item?id=43910565) - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
 * [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
-* [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
 * [2025-05-06, 22:40:00](https://news.slashdot.org/story/25/05/06/213254/memory-safe-sudo-to-become-the-default-in-ubuntu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Memory-Safe Sudo To Become the Default In Ubuntu](https://news.slashdot.org/story/25/05/06/213254/memory-safe-sudo-to-become-the-default-in-ubuntu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 22:03:00](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss) - [Who&apos;s in?](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss)
 * [2025-05-06, 22:00:00](https://yro.slashdot.org/story/25/05/06/2056230/cisa-budget-faces-possible-500-million-cut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CISA Budget Faces Possible $500 Million Cut](https://yro.slashdot.org/story/25/05/06/2056230/cisa-budget-faces-possible-500-million-cut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -110,19 +109,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 20:37:00](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
-* [2025-05-06, 19:39:44](https://news.ycombinator.com/item?id=43908846) - [I built an AI code review agent in a few hours, here&apos;s what I learned](https://www.sourcebot.dev/blog/review-agent-learnings)
 * [2025-05-06, 19:25:00](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CEO Departures Hit Record Levels](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 18:45:00](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Law Firm Offering $2.7 Legal Letters Wins &apos;Landmark&apos; Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-06, 18:05:00](https://tech.slashdot.org/story/25/05/06/185254/microsoft-unveils-ai-powered-overhaul-for-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Unveils AI-Powered Overhaul for Windows 11](https://tech.slashdot.org/story/25/05/06/185254/microsoft-unveils-ai-powered-overhaul-for-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
-* [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
-* [2025-05-06, 17:25:00](https://linux.slashdot.org/story/25/05/06/1652215/microsoft-makes-fedora-an-official-windows-subsystem-for-linux-wsl-distribution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Makes Fedora an Official Windows Subsystem for Linux (WSL) Distribution](https://linux.slashdot.org/story/25/05/06/1652215/microsoft-makes-fedora-an-official-windows-subsystem-for-linux-wsl-distribution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 17:16:00](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss) - [Adventure – March 1980](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss)
-* [2025-05-06, 16:46:00](https://slashdot.org/story/25/05/06/1647209/reddit-ceo-says-idealism-masked-poor-work-ethic-in-companys-early-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reddit CEO Says &apos;Idealism&apos; Masked Poor Work Ethic in Company&apos;s Early Days](https://slashdot.org/story/25/05/06/1647209/reddit-ceo-says-idealism-masked-poor-work-ethic-in-companys-early-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
-* [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 * [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/)
@@ -132,8 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish &apos;talk&apos; with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 12:37:00](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss) - [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss)
 * [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
-* [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
-* [2025-05-06, 11:46:31](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 10:10:52](https://news.ycombinator.com/item?id=43903400) - [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
@@ -148,12 +139,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-05, 22:18:00](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss) - [Software Dev Fortifies His Blog With &apos;Zip Bombs&apos; - Attacking Bots Meet Their End With Software](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-05, 17:36:00](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss) - [Plastic-Eating Mealworms Native to Africa Discovered](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss)
-* [2025-05-05, 16:26:25](https://news.ycombinator.com/item?id=43896765) - [Loving 21st century gaming like an 18th century furniture expert](https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/)
-* [2025-05-05, 16:13:21](https://news.ycombinator.com/item?id=43896609) - [(ab?)using Node module hooks to speed up development](https://immaculata.dev/blog/hacking-nodejs-modules.html)
+* [2025-05-05, 14:46:52](https://news.ycombinator.com/item?id=43895693) - [Simulating, Detecting and Responding to S3 Ransomware Attacks](https://raphabot.com/articles/simulating-detecting-and-responding-s3-ransomware/)
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor&apos;s Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss)
+* [2025-05-04, 17:56:29](https://news.ycombinator.com/item?id=43888246) - [The World Of dBASE (1984) [video]](https://www.youtube.com/watch?v=bYU3CQomE5M)
 * [2025-05-04, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/03/1359244&amp;from=rss) - [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&amp;from=rss)
 * [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
 * [2025-05-04, 16:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&amp;from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&amp;from=rss)
