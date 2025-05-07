@@ -1,54 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Cybersecurity
+## Data Privacy and Cybersecurity
 
-* [NSO Group Must Pay More Than $167 Million In Damages To WhatsApp For Spyware Campaign](https://yro.slashdot.org/story/25/05/06/2136240/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NSO Group is ordered to pay significant damages for targeting WhatsApp users with spyware.
+* [NSO Group Must Pay More Than $167 Million In Damages To WhatsApp For Spyware Campaign](https://yro.slashdot.org/story/25/05/06/2136240/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Amazon's Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Zoox implements a software recall following safety concerns.
+* [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 
-* [Memory-Safe Sudo To Become the Default In Ubuntu](https://news.slashdot.org/story/25/05/06/213254/memory-safe-sudo-to-become-the-default-in-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security-focused changes are making memory-safe sudo the new standard on Ubuntu.
+* [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 
-* [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks) - A comprehensive overview of the state of SSL stacks and their implications.
+## Technology Innovation
 
-* [Google Accidentally Reveals Android's Material 3 Expressive Interface](https://tech.slashdot.org/story/25/05/06/2119207/google-accidentally-reveals-androids-material-3-expressive-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's reveal of a redesigned Android interface before its intended launch.
+* [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 
-* [Reddit CEO Says 'Idealism' Masked Poor Work Ethic in Company's Early Days](https://slashdot.org/story/25/05/06/1647209/reddit-ceo-says-idealism-masked-poor-work-ethic-in-companys-early-days?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reddit's journey through challenges in balancing ideals and operational efficiency.
+* [PA’s Largest Coal Plant to Become 4.5GW Gas-Fired AI Hub](https://soylentnews.org/article.pl?sid=25/05/06/032221&amp;from=rss)
 
-## Artificial Intelligence and Advancements
+* [Microsoft Unveils AI-Powered Overhaul for Windows 11](https://tech.slashdot.org/story/25/05/06/185254/microsoft-unveils-ai-powered-overhaul-for-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A preview of Google's enhanced AI model designed for improved processing.
+* [iOS 18.5 Enables Carrier Satellite Service Like T-Mobile Starlink On Older iPhones](https://tech.slashdot.org/story/25/05/06/2041241/ios-185-enables-carrier-satellite-service-like-t-mobile-starlink-on-older-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Will supercapacitors come to AI's rescue?](https://spectrum.ieee.org/supercapacitor-2671883490) - Exploring novel energy solutions to support future AI initiatives.
+* [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI Law Firm Offering $2.7 Legal Letters Wins 'Landmark' Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal services become more accessible with AI-driven initiatives.
+* [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 
-* [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/) - Understanding how AI models detect and quantify accent nuances.
+## Artificial Intelligence and Machine Learning
 
-## Science and Exploration
+* [AI Law Firm Offering $2.7 Legal Letters Wins 'Landmark' Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Scientist have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html) - An innovative methodology for studying hardy, microscopic creatures.
+* [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/)
 
-* [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&from=rss) - Milestone achievement in sustainable nuclear energy by China.
+* [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
 
-* [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/) - Deep-space explorations continue to dive into solar mysteries.
+* [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 
-* [A Strange Phrase Keeps Turning Up in Scientific Papers, but Why?](https://soylentnews.org/article.pl?sid=25/05/03/0154209&from=rss) - Curious patterns in academic publications intrigue researchers.
+## Open Source Development
 
-## Software and Open Source
+* [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
 
-* [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush) - A new shell implementation challenges conventional methods with Rust.
+* [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 
-* [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV) - Seeking insights or improvements? Explore the game-known codebase.
+* [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 
-* [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/) - Advancing Rust debugging methodologies for developers worldwide.
+* [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
 
-* [Towards React Server Components in Clojure, Part 1](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1) - Progressive server components for modern app-making.
+## Policy and Legislation
 
-## Corporate Developments and Policy
+* [New Bill Would Force Apple, Google To Open App Store Ecosystems](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [New Bill Would Force Apple, Google To Open App Store Ecosystems](https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legislative pressures aim to reshape dominant tech operations.
+* [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
 
-* [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html) - Consolidation moves in tech and service markets.
+* [CISA Budget Faces Possible $500 Million Cut](https://yro.slashdot.org/story/25/05/06/2056230/cisa-budget-faces-possible-500-million-cut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Global Events and Discoveries
+
+* [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
+
+* [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
+
+* [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 
 ---
 
@@ -86,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 * [2025-05-07, 00:45:00](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash](https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-07, 00:28:46](https://news.ycombinator.com/item?id=43911050) - [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
 * [2025-05-07, 00:08:15](https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment) - [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 * [2025-05-07, 00:02:00](https://hardware.slashdot.org/story/25/05/06/2111247/trump-admin-plans-to-shut-down-the-energy-star-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Admin Plans To Shut Down the Energy Star Program](https://hardware.slashdot.org/story/25/05/06/2111247/trump-admin-plans-to-shut-down-the-energy-star-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 23:51:11](https://lobste.rs/s/rdzahf/towards_react_server_components_clojure) - [Towards React Server Components in Clojure, Part 1](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1)
@@ -104,13 +111,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-06, 21:20:00](https://tech.slashdot.org/story/25/05/06/2041241/ios-185-enables-carrier-satellite-service-like-t-mobile-starlink-on-older-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iOS 18.5 Enables Carrier Satellite Service Like T-Mobile Starlink On Older iPhones](https://tech.slashdot.org/story/25/05/06/2041241/ios-185-enables-carrier-satellite-service-like-t-mobile-starlink-on-older-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-* [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude&apos;s system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 20:37:00](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Debuts an Updated Gemini 2.5 Pro AI Model Ahead of I/O](https://tech.slashdot.org/story/25/05/06/2036211/google-debuts-an-updated-gemini-25-pro-ai-model-ahead-of-io?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
-* [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will supercapacitors come to AI&apos;s rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 19:25:00](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CEO Departures Hit Record Levels](https://slashdot.org/story/25/05/06/1843232/ceo-departures-hit-record-levels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 18:45:00](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Law Firm Offering $2.7 Legal Letters Wins &apos;Landmark&apos; Approval](https://slashdot.org/story/25/05/06/1833226/ai-law-firm-offering-27-legal-letters-wins-landmark-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -150,7 +155,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-06, 00:01:10](https://lobste.rs/s/tfomzp/implementing_struct_arrays) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-05, 22:18:00](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss) - [Software Dev Fortifies His Blog With &apos;Zip Bombs&apos; - Attacking Bots Meet Their End With Software](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss)
+* [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-05, 17:36:00](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss) - [Plastic-Eating Mealworms Native to Africa Discovered](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss)
+* [2025-05-05, 16:26:25](https://news.ycombinator.com/item?id=43896765) - [Loving 21st century gaming like an 18th century furniture expert](https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/)
+* [2025-05-05, 16:13:21](https://news.ycombinator.com/item?id=43896609) - [(ab?)using Node module hooks to speed up development](https://immaculata.dev/blog/hacking-nodejs-modules.html)
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor&apos;s Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss)
