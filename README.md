@@ -1,38 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technological Innovations
 
-* [The First Driverless Semis Have Started Running Regular Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - Autonomous trucks are operational, marking a significant leap in logistics and transportation technology. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
+* [How Scientists Built the First-Ever 'Black Hole Bomb' Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss) - Scientists replicated black hole phenomena to create a groundbreaking laboratory analog. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss)
 
-* [Google To Fund Development of Three Nuclear Power Sites](https://hardware.slashdot.org/story/25/05/07/1948212/google-to-fund-development-of-three-nuclear-power-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alphabet's bold step towards cleaner energy illustrates its commitment to sustainability through nuclear innovation. [Comments](https://hardware.slashdot.org/story/25/05/07/1948212/google-to-fund-development-of-three-nuclear-power-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [First Driverless Semis Begin Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - Driverless semi-trucks are now operational, marking a significant milestone in automation for logistics. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
 
-* [Amazon Says New Warehouse Robot Can 'Feel' Items, But Won't Replace Workers](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cutting-edge robotics offers advanced sensing capabilities designed to enhance, rather than displace, human roles. [Comments](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Seagate's Ambitious Push for a 100TB Hard Drive by 2030](https://hardware.slashdot.org/story/25/05/07/1734205/seagate-working-to-develop-a-100tb-hard-drive-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Seagate announces its plans to drastically enhance storage technology. [Comments](https://hardware.slashdot.org/story/25/05/07/1734205/seagate-working-to-develop-a-100tb-hard-drive-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Advances in Artificial Intelligence
+## Cryptocurrency and Security
 
-* [Netflix Debuts Gen AI-Powered Search Tool, Tests Vertical Videos For Mobile](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Netflix blends generative AI and user interface trends to redefine content discovery experiences. [Comments](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [We Have Reached the 'Severed Fingers and Abductions' Stage of Crypto](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/) - Examining the rise of physical violence linked to cryptocurrency exchanges. [Comments](https://news.ycombinator.com/item?id=43923187)
 
-* [Web search on the Anthropic API](https://www.anthropic.com/news/web-search-api) - Anthropic introduces an advanced API with a focus on AI-powered web search. [Comments](https://news.ycombinator.com/item?id=43920188)
+* [Gmail Drops 3DES Cipher for SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html) - Gmail will deprecate the use of outdated 3DES encryption for better security. [Comments](https://news.ycombinator.com/item?id=43922975)
 
-* [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor) - Zed integrates AI features to enhance coding efficiency. [Comments](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities)
+## Artificial Intelligence
 
-## Scientific Discoveries
+* [AI of Dead Arizona Road Rage Victim Addresses Killer](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A court uses AI to let a deceased road rage victim voice their sentiments. [Comments](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) - A landmark achievement in mathematics and physics bridges a century-long gap. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss)
+* [Netflix Debuts AI-Powered Search and Vertical Viewing](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Netflix integrates AI to optimize user search experiences and tests new mobile visual formats. [Comments](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Scientists Build First-Ever 'Black Hole Bomb' Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss) - A revolutionary experiment uses simplified models to mimic extreme physics phenomena. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss)
+* [Zed Editor Adds Full AI Capabilities](https://zed.dev/blog/fastest-ai-code-editor) - Establishing itself as the fastest AI-augmented code editor, Zed gains robust AI features. [Comments](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities)
 
-## Open Source and Software Development
+## Policy and Governance
 
-* [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing) - New open-source tool simplifies local routing logistics, showcasing Python's flexibility. [Comments](https://news.ycombinator.com/item?id=43921653)
+* [Trump to Rescind Biden-Era AI Chip Export Curbs](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Expect major policy shifts as former curbs on AI-related technology and exports are reversed. [Comments](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty) - A blazing-fast tool reinforces coding standards and development workflows. [Comments](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker)
+* [DEA Ends Body Camera Program](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The federal law enforcement agency discontinues its controversial body camera initiative. [Comments](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Cybersecurity
+## Space and Science
 
-* [Hackers Abuse IPv6 Networking Feature to Hijack Windows Software Updates](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss) - Vulnerabilities in IPv6 highlight risks and the need for robust cybersecurity measures. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss)
+* [Mathematicians Solve a 125-Year-Old Problem](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) - Math meets physics and solves one of academia’s longstanding enigmas to unite three core theories. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss)
 
-* [Curl Battles Wave of AI-Generated False Vulnerability Reports](https://it.slashdot.org/story/25/05/07/1750249/curl-battles-wave-of-ai-generated-false-vulnerability-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Curl faces new challenges in vetting AI-created reports, emphasizing human oversight in security. [Comments](https://it.slashdot.org/story/25/05/07/1750249/curl-battles-wave-of-ai-generated-false-vulnerability-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NASA's Perseverance Rover Has a Close Call](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss) - The rover narrowly escapes a potentially mission-critical scenario. [Comments](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss)
 
 ---
 
@@ -59,12 +59,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
+* [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
+* [2025-05-08, 05:32:18](https://news.ycombinator.com/item?id=43923331) - [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)
+* [2025-05-08, 05:30:00](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI of Dead Arizona Road Rage Victim Addresses Killer In Court](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-08, 04:57:23](https://news.ycombinator.com/item?id=43923187) - [We have reached the \&quot;severed fingers and abductions\&quot; stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
+* [2025-05-08, 04:09:40](https://news.ycombinator.com/item?id=43922975) - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
 * [2025-05-08, 03:17:31](https://lobste.rs/s/0u2z1x/waiting_for_postgres_18_accelerating) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-08, 03:15:00](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Refutes Apple&apos;s Claims of Search Traffic Decline](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-08, 02:36:00](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - [The First Driverless Semis Have Started Running Regular Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
 * [2025-05-08, 01:50:13](https://lobste.rs/s/mcct5l/anemll_large_language_models_for_apple) - [ANEMLL: Large Language Models for Apple Neural Engine](https://www.anemll.com/)
-* [2025-05-07, 23:57:12](https://news.ycombinator.com/item?id=43921681) - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
-* [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
+* [2025-05-08, 01:15:49](https://lobste.rs/s/ft6ttd/writing_preloadable_malloc_rust_using) - [Writing a preloadable malloc in Rust, using MMTk](https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust)
+* [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
 * [2025-05-07, 23:45:10](https://news.ycombinator.com/item?id=43921624) - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 * [2025-05-07, 23:40:00](https://hardware.slashdot.org/story/25/05/07/1948212/google-to-fund-development-of-three-nuclear-power-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google To Fund Development of Three Nuclear Power Sites](https://hardware.slashdot.org/story/25/05/07/1948212/google-to-fund-development-of-three-nuclear-power-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 23:00:00](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix Debuts Gen AI-Powered Search Tool, Tests Vertical Videos For Mobile](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -73,7 +79,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
 * [2025-05-07, 21:40:00](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Says New Warehouse Robot Can &apos;Feel&apos; Items, But Won&apos;t Replace Workers](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
-* [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
 * [2025-05-07, 21:00:00](https://entertainment.slashdot.org/story/25/05/07/1915252/samsung-acquires-masimos-audio-business-for-350-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Acquires Masimo&apos;s Audio Business For $350 Million](https://entertainment.slashdot.org/story/25/05/07/1915252/samsung-acquires-masimos-audio-business-for-350-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 20:23:56](https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for) - [How to build small and secure Docker images for Rust (FROM scratch)](https://kerkour.com/rust-docker-from-scratch)
@@ -104,9 +109,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 15:18:16](https://lobste.rs/s/vcjamu/are_css_carousels_accessible) - [Are &apos;CSS Carousels&apos; accessible?](https://www.sarasoueidan.com/blog/css-carousels-accessibility/)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
-* [2025-05-07, 14:45:00](https://tech.slashdot.org/story/25/05/07/1445228/uber-says-waymo-autonomous-vehicles-outperforming-99-of-human-drivers-in-austin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Says Waymo Autonomous Vehicles Outperforming 99% of Human Drivers in Austin](https://tech.slashdot.org/story/25/05/07/1445228/uber-says-waymo-autonomous-vehicles-outperforming-99-of-human-drivers-in-austin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers files bankruptcy](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
-* [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships le chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
+* [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships Le Chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
@@ -119,32 +122,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
 * [2025-05-07, 07:37:00](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) - [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss)
-* [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: High-performance AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
 * [2025-05-07, 02:51:00](https://soylentnews.org/article.pl?sid=25/05/06/032221&amp;from=rss) - [PA’s Largest Coal Plant to Become 4.5GW Gas-Fired AI Hub](https://soylentnews.org/article.pl?sid=25/05/06/032221&amp;from=rss)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
-* [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-06, 22:03:00](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss) - [Who&apos;s in?](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss)
 * [2025-05-06, 17:16:00](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss) - [Adventure – March 1980](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss)
-* [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
-* [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [A new hairlike electrode for long-term, high-quality EEG monitoring](https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 12:37:00](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss) - [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss)
-* [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack](https://catern.com/inheritance.html)
+* [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack (2021)](https://catern.com/inheritance.html)
 * [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
 * [2025-05-06, 07:50:00](https://soylentnews.org/article.pl?sid=25/05/04/1840238&amp;from=rss) - [Backstage Access: Spotify’s Dev Tools Side-Hustle is Growing Legs](https://soylentnews.org/article.pl?sid=25/05/04/1840238&amp;from=rss)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 03:05:00](https://soylentnews.org/article.pl?sid=25/05/03/1953213&amp;from=rss) - [Microsoft Finally Launches its Controversial Recall Feature](https://soylentnews.org/article.pl?sid=25/05/03/1953213&amp;from=rss)
 * [2025-05-05, 22:18:00](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss) - [Software Dev Fortifies His Blog With &apos;Zip Bombs&apos; - Attacking Bots Meet Their End With Software](https://soylentnews.org/article.pl?sid=25/05/03/1949215&amp;from=rss)
 * [2025-05-05, 17:36:00](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss) - [Plastic-Eating Mealworms Native to Africa Discovered](https://soylentnews.org/article.pl?sid=25/05/03/1941255&amp;from=rss)
+* [2025-05-05, 15:05:33](https://news.ycombinator.com/item?id=43895890) - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss)
 * [2025-05-05, 10:22:01](https://news.ycombinator.com/item?id=43893464) - [Docs like code in basic terms](https://deborahwrites.com/blog/docs-like-code-basic-intro/)
-* [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor&apos;s Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss)
+* [2025-05-05, 01:22:28](https://news.ycombinator.com/item?id=43891147) - [Wikidive – AI guided rabbitholes in Wikipedia](https://wikidive.tulv.in/)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss)
-* [2025-05-04, 22:24:56](https://news.ycombinator.com/item?id=43890118) - [Bell&apos;s 1881 Metal detector](http://www.scitechantiques.com/belldiscovery/)
+* [2025-05-04, 22:03:11](https://news.ycombinator.com/item?id=43889972) - [Ancient DNA from the green Sahara reveals ancestral North African lineage](https://www.nature.com/articles/s41586-025-08793-7)
 * [2025-05-04, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/03/1359244&amp;from=rss) - [Largest Imaging Spectro-Polarimeter Achieves First Light](https://soylentnews.org/article.pl?sid=25/05/03/1359244&amp;from=rss)
 * [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
 * [2025-05-04, 16:37:00](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&amp;from=rss) - [janrinok - Resignation](https://soylentnews.org/meta/article.pl?sid=25/05/02/0531214&amp;from=rss)
