@@ -1,38 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations
+## Scientific Discoveries and Innovations
 
-* [How Scientists Built the First-Ever 'Black Hole Bomb' Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss) - Scientists replicated black hole phenomena to create a groundbreaking laboratory analog. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss)
+* [Dangerous Fungal Spores May Travel the Globe On 'Stratospheric Superhighway'](https://science.slashdot.org/story/25/05/07/1953201/dangerous-fungal-spores-may-travel-the-globe-on-stratospheric-superhighway?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This article documents the potential for fungal spores to traverse the globe via atmospheric pathways, potentially impacting ecosystems and public health.
 
-* [First Driverless Semis Begin Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - Driverless semi-trucks are now operational, marking a significant milestone in automation for logistics. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
+* [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&from=rss) - A breakthrough in mathematics that unites three fundamental theories in physics, solving a challenge over a century old.
 
-* [Seagate's Ambitious Push for a 100TB Hard Drive by 2030](https://hardware.slashdot.org/story/25/05/07/1734205/seagate-working-to-develop-a-100tb-hard-drive-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Seagate announces its plans to drastically enhance storage technology. [Comments](https://hardware.slashdot.org/story/25/05/07/1734205/seagate-working-to-develop-a-100tb-hard-drive-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Scientists Build First-Ever 'Black Hole Bomb' Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&from=rss) - Researchers have built an analog for a 'black hole bomb' that could pave the way for advancements in theoretical physics.
 
-## Cryptocurrency and Security
+## Technology and Software Updates
 
-* [We Have Reached the 'Severed Fingers and Abductions' Stage of Crypto](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/) - Examining the rise of physical violence linked to cryptocurrency exchanges. [Comments](https://news.ycombinator.com/item?id=43923187)
+* [SQLite Extension Hub](https://sqlpkg.org/) - This hub provides access to a range of SQLite extensions, fostering a more customizable database experience.
 
-* [Gmail Drops 3DES Cipher for SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html) - Gmail will deprecate the use of outdated 3DES encryption for better security. [Comments](https://news.ycombinator.com/item?id=43922975)
+* [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor) - Zed Editor enhances its functionality with full AI capabilities, offering developers smarter editing tools.
+
+* [ANEMLL: Large Language Models for Apple Neural Engine](https://www.anemll.com/) - Apple introduces ANEMLL, designed specifically to optimize large language models for its Neural Engine.
 
 ## Artificial Intelligence
 
-* [AI of Dead Arizona Road Rage Victim Addresses Killer](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A court uses AI to let a deceased road rage victim voice their sentiments. [Comments](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI of Dead Arizona Road Rage Victim Addresses Killer In Court](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This article explores the ethical implications of using AI versions of deceased individuals in the legal system.
 
-* [Netflix Debuts AI-Powered Search and Vertical Viewing](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Netflix integrates AI to optimize user search experiences and tests new mobile visual formats. [Comments](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Netflix Debuts Gen AI-Powered Search Tool, Tests Vertical Videos For Mobile](https://entertainment.slashdot.org/story/25/05/07/197232/netflix-debuts-gen-ai-powered-search-tool-tests-vertical-videos-for-mobile?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Netflix integrates AI-powered search capabilities to enhance user experience.
 
-* [Zed Editor Adds Full AI Capabilities](https://zed.dev/blog/fastest-ai-code-editor) - Establishing itself as the fastest AI-augmented code editor, Zed gains robust AI features. [Comments](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities)
+## Programming and Development
 
-## Policy and Governance
+* [How to build small and secure Docker images for Rust (FROM scratch)](https://kerkour.com/rust-docker-from-scratch) - A guide to constructing efficient and secure Rust docker images for minimal workloads.
 
-* [Trump to Rescind Biden-Era AI Chip Export Curbs](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Expect major policy shifts as former curbs on AI-related technology and exports are reversed. [Comments](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Writing a preloadable malloc in Rust, using MMTk](https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust) - A deep dive into replacing memory allocation in Rust using MMTk for advanced memory management.
 
-* [DEA Ends Body Camera Program](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The federal law enforcement agency discontinues its controversial body camera initiative. [Comments](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io) - Exploring new asynchronous I/O improvements in the upcoming version of PostgreSQL.
 
-## Space and Science
+## Business and Policy
 
-* [Mathematicians Solve a 125-Year-Old Problem](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) - Math meets physics and solves one of academia’s longstanding enigmas to unite three core theories. [Comments](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss)
+* [Google To Fund Development of Three Nuclear Power Sites](https://hardware.slashdot.org/story/25/05/07/1948212/google-to-fund-development-of-three-nuclear-power-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google invests in the future of clean energy by funding nuclear power projects.
 
-* [NASA's Perseverance Rover Has a Close Call](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss) - The rover narrowly escapes a potentially mission-critical scenario. [Comments](https://soylentnews.org/article.pl?sid=25/05/03/0334239&amp;from=rss)
+* [Trump Will Rescind Biden-Era AI Chip Export Curbs](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Policy changes concerning the export of AI-related chips could have significant global trade implications.
+
+* [VMware Perpetual License Holders Receive Cease-And-Desist Letters From Broadcom](https://yro.slashdot.org/story/25/05/07/1856255/vmware-perpetual-license-holders-receive-cease-and-desist-letters-from-broadcom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal disputes emerge surrounding perpetual licenses for VMware software.
 
 ---
 
@@ -59,14 +63,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-08, 09:24:15](https://lobste.rs/s/xnyrve/memory_safety_features_zig) - [Memory Safety Features in Zig](https://gencmurat.com/en/posts/memory-safety-features-in-zig/)
+* [2025-05-08, 07:22:00](https://soylentnews.org/article.pl?sid=25/05/06/1923215&amp;from=rss) - [People Trust Legal Advice Generated by ChatGPT More Than a Lawyer](https://soylentnews.org/article.pl?sid=25/05/06/1923215&amp;from=rss)
+* [2025-05-08, 07:01:08](https://news.ycombinator.com/item?id=43923801) - [Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
+* [2025-05-08, 07:00:00](https://science.slashdot.org/story/25/05/07/1953201/dangerous-fungal-spores-may-travel-the-globe-on-stratospheric-superhighway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dangerous Fungal Spores May Travel the Globe On &apos;Stratospheric Superhighway&apos;](https://science.slashdot.org/story/25/05/07/1953201/dangerous-fungal-spores-may-travel-the-globe-on-stratospheric-superhighway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
 * [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-* [2025-05-08, 05:32:18](https://news.ycombinator.com/item?id=43923331) - [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)
 * [2025-05-08, 05:30:00](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI of Dead Arizona Road Rage Victim Addresses Killer In Court](https://yro.slashdot.org/story/25/05/07/2029215/ai-of-dead-arizona-road-rage-victim-addresses-killer-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-08, 04:57:23](https://news.ycombinator.com/item?id=43923187) - [We have reached the \&quot;severed fingers and abductions\&quot; stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
-* [2025-05-08, 04:09:40](https://news.ycombinator.com/item?id=43922975) - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
 * [2025-05-08, 03:17:31](https://lobste.rs/s/0u2z1x/waiting_for_postgres_18_accelerating) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-08, 03:15:00](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Refutes Apple&apos;s Claims of Search Traffic Decline](https://tech.slashdot.org/story/25/05/08/0314235/google-refutes-apples-claims-of-search-traffic-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-08, 03:04:03](https://news.ycombinator.com/item?id=43922698) - [I can&apos;t understand Apple&apos;s Critical Alert policy](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
 * [2025-05-08, 02:36:00](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - [The First Driverless Semis Have Started Running Regular Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
 * [2025-05-08, 01:50:13](https://lobste.rs/s/mcct5l/anemll_large_language_models_for_apple) - [ANEMLL: Large Language Models for Apple Neural Engine](https://www.anemll.com/)
 * [2025-05-08, 01:15:49](https://lobste.rs/s/ft6ttd/writing_preloadable_malloc_rust_using) - [Writing a preloadable malloc in Rust, using MMTk](https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust)
@@ -79,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
 * [2025-05-07, 21:40:00](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Says New Warehouse Robot Can &apos;Feel&apos; Items, But Won&apos;t Replace Workers](https://hardware.slashdot.org/story/25/05/07/1930242/amazon-says-new-warehouse-robot-can-feel-items-but-wont-replace-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
-* [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
 * [2025-05-07, 21:00:00](https://entertainment.slashdot.org/story/25/05/07/1915252/samsung-acquires-masimos-audio-business-for-350-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Acquires Masimo&apos;s Audio Business For $350 Million](https://entertainment.slashdot.org/story/25/05/07/1915252/samsung-acquires-masimos-audio-business-for-350-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 20:23:56](https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for) - [How to build small and secure Docker images for Rust (FROM scratch)](https://kerkour.com/rust-docker-from-scratch)
 * [2025-05-07, 20:20:00](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Will Rescind Biden-Era AI Chip Export Curbs](https://yro.slashdot.org/story/25/05/07/2018224/trump-will-rescind-biden-era-ai-chip-export-curbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,7 +93,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 * [2025-05-07, 19:40:00](https://apple.slashdot.org/story/25/05/07/1856254/apples-eddy-cue-you-may-not-need-an-iphone-10-years-from-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Eddy Cue: &apos;You May Not Need an iPhone 10 Years From Now&apos;](https://apple.slashdot.org/story/25/05/07/1856254/apples-eddy-cue-you-may-not-need-an-iphone-10-years-from-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-* [2025-05-07, 19:06:54](https://lobste.rs/s/arnhsd/how_average_prolog_2017) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:00:00](https://yro.slashdot.org/story/25/05/07/1856255/vmware-perpetual-license-holders-receive-cease-and-desist-letters-from-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Perpetual License Holders Receive Cease-And-Desist Letters From Broadcom](https://yro.slashdot.org/story/25/05/07/1856255/vmware-perpetual-license-holders-receive-cease-and-desist-letters-from-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 18:10:00](https://it.slashdot.org/story/25/05/07/1750249/curl-battles-wave-of-ai-generated-false-vulnerability-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Curl Battles Wave of AI-Generated False Vulnerability Reports](https://it.slashdot.org/story/25/05/07/1750249/curl-battles-wave-of-ai-generated-false-vulnerability-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
@@ -105,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 16:04:00](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DEA Ends Body Camera Program](https://news.slashdot.org/story/25/05/07/1525236/dea-ends-body-camera-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
 * [2025-05-07, 15:23:03](https://lobste.rs/s/6icye2/writing_arabic_english_my_journey) - [Writing Arabic in English: My journey in creating a phonetic Arabic keyboard](https://sherifelmetwally.com/writing/writing-arabic-in-english)
-* [2025-05-07, 15:22:00](https://slashdot.org/story/25/05/07/1515211/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Chatbots Are &apos;Juicing Engagement&apos; Instead of Being Useful, Instagram Co-founder Warns](https://slashdot.org/story/25/05/07/1515211/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-07, 15:18:16](https://lobste.rs/s/vcjamu/are_css_carousels_accessible) - [Are &apos;CSS Carousels&apos; accessible?](https://www.sarasoueidan.com/blog/css-carousels-accessibility/)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
@@ -127,10 +130,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-06, 22:03:00](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss) - [Who&apos;s in?](https://soylentnews.org/meta/article.pl?sid=25/05/06/0251212&amp;from=rss)
 * [2025-05-06, 17:16:00](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss) - [Adventure – March 1980](https://soylentnews.org/article.pl?sid=25/05/05/2311202&amp;from=rss)
+* [2025-05-06, 15:13:37](https://news.ycombinator.com/item?id=43906066) - [Mass spectrometry method identifies pathogens within minutes instead of days](https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 12:37:00](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss) - [Soviet-Era Spacecraft Expected to Plunge Uncontrolled to Earth Next Week](https://soylentnews.org/article.pl?sid=25/05/05/0249236&amp;from=rss)
 * [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack (2021)](https://catern.com/inheritance.html)
-* [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
 * [2025-05-06, 07:50:00](https://soylentnews.org/article.pl?sid=25/05/04/1840238&amp;from=rss) - [Backstage Access: Spotify’s Dev Tools Side-Hustle is Growing Legs](https://soylentnews.org/article.pl?sid=25/05/04/1840238&amp;from=rss)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 03:05:00](https://soylentnews.org/article.pl?sid=25/05/03/1953213&amp;from=rss) - [Microsoft Finally Launches its Controversial Recall Feature](https://soylentnews.org/article.pl?sid=25/05/03/1953213&amp;from=rss)
@@ -139,8 +142,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-05, 15:05:33](https://news.ycombinator.com/item?id=43895890) - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 * [2025-05-05, 12:43:00](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss) - [You Have Two Months Left to Update Your Old LG Phone](https://soylentnews.org/article.pl?sid=25/05/03/1427232&amp;from=rss)
 * [2025-05-05, 10:22:01](https://news.ycombinator.com/item?id=43893464) - [Docs like code in basic terms](https://deborahwrites.com/blog/docs-like-code-basic-intro/)
+* [2025-05-05, 09:02:51](https://news.ycombinator.com/item?id=43893127) - [Hyper-Typing](https://pscanf.com/s/341/)
 * [2025-05-05, 08:04:00](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss) - [China Successfully Reloads a Running Thorium Reactor](https://soylentnews.org/article.pl?sid=25/05/03/1421205&amp;from=rss)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
+* [2025-05-05, 06:07:36](https://news.ycombinator.com/item?id=43892331) - [Extending a Language – Writing Powerful Macros in Scheme](https://mnieper.github.io/scheme-macros/README.html)
 * [2025-05-05, 03:16:00](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss) - [The Absurdly Complicated Circuitry for the 386 Processor&apos;s Registers](https://soylentnews.org/article.pl?sid=25/05/03/147205&amp;from=rss)
 * [2025-05-05, 01:22:28](https://news.ycombinator.com/item?id=43891147) - [Wikidive – AI guided rabbitholes in Wikipedia](https://wikidive.tulv.in/)
 * [2025-05-04, 22:32:00](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss) - [Why Do So Many AI Company Logos Look Like Buttholes?](https://soylentnews.org/article.pl?sid=25/05/03/145213&amp;from=rss)
