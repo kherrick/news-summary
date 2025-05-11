@@ -1,38 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Environment and Climate
+## AI and Technological Advances
 
-* [Sea Levels Rose Faster Than Expected Last Year. Blame Global Warming - But What Happens Next?](https://news.slashdot.org/story/25/05/10/0830239/sea-levels-rose-faster-than-expected-last-year-blame-global-warming---but-what-happens-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This article discusses unexpected acceleration in sea level rise and connects it to global warming, exploring potential implications.
+* [eBPF agent that captures pre-encrypted network traffic](https://github.com/qpoint-io/qtap) ([article](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted), [comments](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted))
 
-* [Lithium Deposit Valued At $1.5 Trillion Discovered In Oregon](https://news.slashdot.org/story/25/05/09/2210247/lithium-deposit-valued-at-15-trillion-discovered-in-oregon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant lithium deposit discovery highlights its potential in the transition to green energy systems.
+* [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise) ([article](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta), [comments](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta))
 
-## Advances in Technology
+* [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/) ([article](https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint))
 
-* [Organize your Go middleware without dependencies - Alex Edwards](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies) - A guide on efficiently organizing Go middleware, emphasizing simplicity and dependency-free design.
+* [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching) ([article](https://news.ycombinator.com/item?id=43949542))
 
-* [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise) - Advances in machine learning through polynomial-time algorithms are enabling better logic programming.
+* [Pope Leo XIV: "AI poses new challenges re: human dignity, justice and labour"](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html) ([article](https://news.ycombinator.com/item?id=43948130))
 
-* [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html) - Examination of vintage computing as engineers reverse-engineer the prefetch queue circuitry of an iconic 386 processor.
+## Breaking Industry News
 
-## Social and Political Issues
+* [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670) ([lobste.rs article](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google), [comments](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google), [Hacker News](https://news.ycombinator.com/item?id=43950976))
 
-* [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/) - The EU challenges Ireland to implement hate speech laws, potentially influencing broader speech regulations in Europe.
+* [Bill Gates Plans To Give Away His Wealth, Shutter Foundation Over Next 20 Years](https://news.slashdot.org/story/25/05/09/2216249/bill-gates-plans-to-give-away-his-wealth-shutter-foundation-over-next-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([article](https://news.slashdot.org/story/25/05/09/2216249/bill-gates-plans-to-give-away-his-wealth-shutter-foundation-over-next-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&from=rss) - A decisive move by Kuwait to address its energy crisis by banning crypto mining activities.
+* [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/) ([article](https://news.ycombinator.com/item?id=43950294))
 
-## Artificial Intelligence and Computing Ethics
+## Innovations and Science
 
-* [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/) - Examines vulnerabilities in Copilot AI used for SharePoint, emphasizing risks of advanced AI tools in enterprise systems.
+* [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) ([article](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss))
 
-* [AI Use Damages Professional Reputation, Study Suggests](https://slashdot.org/story/25/05/09/225245/ai-use-damages-professional-reputation-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fresh perspective on how AI reliance can harm professional reputations in certain fields.
+* [Astronomers Used Old 'Maps' to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss) ([article](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss))
 
-## Historical and Cultural Insights
+## Environmental and Societal Trends
 
-* [Why the Apple II Didn&apos;t Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters) - A historical deep dive into the reasoning behind the Apple II's design choices concerning lowercase letter support.
+* [Sea Levels Rose Faster Than Expected Last Year. Blame Global Warming - But What Happens Next?](https://news.slashdot.org/story/25/05/10/0830239/sea-levels-rose-faster-than-expected-last-year-blame-global-warming---but-what-happens-next?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([article](https://news.slashdot.org/story/25/05/10/0830239/sea-levels-rose-faster-than-expected-last-year-blame-global-warming---but-what-happens-next?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Failures and Controversies
-
-* [US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf) - Examination of Y Combinator's stance in a high-profile legal case against Google's alleged monopolistic practices.
+* [Life of a Marathon Streamer: Online for Three Years, Facing Isolation and Burnout](https://entertainment.slashdot.org/story/25/05/10/2334208/life-of-a-marathon-streamer-online-for-three-years-facing-isolation-and-burnout?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([article](https://entertainment.slashdot.org/story/25/05/10/2334208/life-of-a-marathon-streamer-online-for-three-years-facing-isolation-and-burnout?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -59,7 +57,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-11, 03:43:26](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted) - [eBPF agent that captures pre-encrypted network traffic](https://github.com/qpoint-io/qtap)
+* [2025-05-11, 03:39:18](https://lobste.rs/s/xonuxm/open_source_cursor_alternative) - [Open-source Cursor alternative](https://github.com/voideditor/void)
+* [2025-05-11, 03:38:30](https://lobste.rs/s/7trmcs/dotless_domains) - [Dotless Domains](https://lab.avl.la/dotless/)
+* [2025-05-11, 03:20:11](https://lobste.rs/s/hiacuh/spyder_tutorials) - [Spyder Tutorials](http://www.youtube.com/playlist?list=PLPonohdiDqg9epClEcXoAPUiK0pN5eRoc)
+* [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
+* [2025-05-11, 03:00:21](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google) - [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670)
+* [2025-05-11, 02:14:28](https://lobste.rs/s/47eqcj/netbsd_10_x_kernel_math_emulation) - [NetBSD 10.x kernel MATH_EMULATION](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
+* [2025-05-11, 01:49:00](https://science.slashdot.org/story/25/05/11/0147212/theranos-fraudsters-partner-launches-his-own-blood-testing-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Theranos Fraudster&apos;s Partner Launches His Own Blood-Testing Startup](https://science.slashdot.org/story/25/05/11/0147212/theranos-fraudsters-partner-launches-his-own-blood-testing-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss)
 * [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies - Alex Edwards](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
+* [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:51:00](https://news.ycombinator.com/item?id=43950294) - [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
 * [2025-05-10, 23:36:00](https://entertainment.slashdot.org/story/25/05/10/2334208/life-of-a-marathon-streamer-online-for-three-years-facing-isolation-and-burnout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Life of a Marathon Streamer: Online for Three Years, Facing Isolation and Burnout](https://entertainment.slashdot.org/story/25/05/10/2334208/life-of-a-marathon-streamer-online-for-three-years-facing-isolation-and-burnout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -82,7 +90,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-10, 18:05:09](https://news.ycombinator.com/item?id=43947630) - [For $595, you get what nobody else can give you for twice the price (1982) [pdf]](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf)
 * [2025-05-10, 17:34:00](https://it.slashdot.org/story/25/05/10/0656226/how-a-simple-question-tripped-up-a-north-korean-spy-interviewing-for-an-it-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How A Simple Question Tripped Up a North Korean Spy Interviewing for an IT Job](https://it.slashdot.org/story/25/05/10/0656226/how-a-simple-question-tripped-up-a-north-korean-spy-interviewing-for-an-it-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
-* [2025-05-10, 16:42:48](https://lobste.rs/s/kxmrsa/dcj11_single_board_computer_pdp_11) - [DCJ11 Single Board Computer (PDP-11)](https://www.5volts.ch/pages/dcj11sbc/)
 * [2025-05-10, 16:39:44](https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint) - [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/)
 * [2025-05-10, 16:34:00](https://tech.slashdot.org/story/25/05/10/0547237/more-us-airports-are-scanning-faces-but-a-new-bill-could-limit-the-practice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More US Airports are Scanning Faces.  But a New Bill Could Limit the Practice](https://tech.slashdot.org/story/25/05/10/0547237/more-us-airports-are-scanning-faces-but-a-new-bill-could-limit-the-practice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-10, 16:31:58](https://lobste.rs/s/azcfyx/announcing_lix_2_93_bici_bici) - [Announcing Lix 2.93 “Bici Bici”](https://lix.systems/blog/2025-05-06-lix-2.93-release/)
@@ -106,9 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
-* [2025-05-10, 10:49:34](https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
-* [2025-05-10, 10:27:02](https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for) - [Testing sourcery.ai and GitHub Copilot for cockpit PR reviews](https://piware.de/post/2025-08-09-sourcery/)
-* [2025-05-10, 10:04:47](https://news.ycombinator.com/item?id=43944467) - [The Deathbed Fallacy (2018)](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
 * [2025-05-10, 10:00:00](https://news.slashdot.org/story/25/05/09/2216249/bill-gates-plans-to-give-away-his-wealth-shutter-foundation-over-next-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Gates Plans To Give Away His Wealth, Shutter Foundation Over Next 20 Years](https://news.slashdot.org/story/25/05/09/2216249/bill-gates-plans-to-give-away-his-wealth-shutter-foundation-over-next-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
 * [2025-05-10, 07:00:00](https://news.slashdot.org/story/25/05/09/2210247/lithium-deposit-valued-at-15-trillion-discovered-in-oregon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lithium Deposit Valued At $1.5 Trillion Discovered In Oregon](https://news.slashdot.org/story/25/05/09/2210247/lithium-deposit-valued-at-15-trillion-discovered-in-oregon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -116,19 +120,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss) - [Mathematical Beauty, Truth and Proof in the Age of AI](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss)
 * [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
-* [2025-05-10, 06:23:29](https://lobste.rs/s/tz2xog/tuscolo_static_certificate) - [Tuscolo Static Certificate Transparency Log](https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m)
 * [2025-05-10, 03:30:00](https://slashdot.org/story/25/05/09/225245/ai-use-damages-professional-reputation-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Use Damages Professional Reputation, Study Suggests](https://slashdot.org/story/25/05/09/225245/ai-use-damages-professional-reputation-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-10, 02:45:40](https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake) - [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 * [2025-05-10, 02:04:00](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss) - [DOJ Confirms It Wants To Break Up Google&apos;s Advertising Tech Monopoly](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss)
 * [2025-05-10, 01:25:00](https://science.slashdot.org/story/25/05/09/2149209/court-unanimously-denies-theranos-founder-elizabeth-holmes-request-for-rehearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Court Unanimously Denies Theranos Founder Elizabeth Holmes&apos; Request For Rehearing](https://science.slashdot.org/story/25/05/09/2149209/court-unanimously-denies-theranos-founder-elizabeth-holmes-request-for-rehearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-10, 00:45:00](https://hardware.slashdot.org/story/25/05/09/2125208/huawei-unveils-a-harmonyos-laptop-its-first-windows-free-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Huawei Unveils a HarmonyOS Laptop, Its First Windows-Free Computer](https://hardware.slashdot.org/story/25/05/09/2125208/huawei-unveils-a-harmonyos-laptop-its-first-windows-free-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss)
-* [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 * [2025-05-09, 11:46:00](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss) - [Federal Court Says Cell Tower Dumps Violate the Fourth Amendment](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss)
-* [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
 * [2025-05-09, 07:01:00](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss) - [We Have Reached the “Severed Fingers and Abductions” Stage of the Crypto Revolution ](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss)
 * [2025-05-09, 02:14:00](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss) - [OpenSUSE Joins the End of 10 Campaign](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss)
 * [2025-05-08, 22:16:05](https://news.ycombinator.com/item?id=43931925) - [Adaptive Hashing](https://quotenil.com/adaptive-hashing.html)
@@ -142,7 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-08, 02:36:00](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - [The First Driverless Semis Have Started Running Regular Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
 * [2025-05-07, 21:55:00](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss) - [Scientists Build First-Ever &apos;Black Hole Bomb&apos; Analog](https://soylentnews.org/article.pl?sid=25/05/06/0348250&amp;from=rss)
 * [2025-05-07, 17:07:00](https://soylentnews.org/article.pl?sid=25/05/06/0338215&amp;from=rss) - [UK Could Require Solar Panels on Most New Homes by 2027](https://soylentnews.org/article.pl?sid=25/05/06/0338215&amp;from=rss)
-* [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
+* [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
 * [2025-05-07, 12:22:00](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss) - [Hackers Abuse IPv6 Networking Feature to Hijack Windows Software Updates](https://soylentnews.org/article.pl?sid=25/05/06/0334233&amp;from=rss)
 * [2025-05-07, 07:37:00](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss) - [Mathematicians Just Solved a 125-Year-Old Problem, Uniting 3 Theories in Physics](https://soylentnews.org/article.pl?sid=25/05/06/0312252&amp;from=rss)
 * [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
