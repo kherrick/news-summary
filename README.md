@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence Developments
+## Technology and Software Innovations
 
-* [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873) - An exploration of the increasing difficulty of opting out of AI technologies and the ethical concerns surrounding forced adoption.
+* [Flakes Have Failed](https://kilo.bytesize.xyz/flakes-have-failed) - Investigating the shortcomings of Nix flakes and the ecosystem's struggles to deliver on promises of reproducibility.
 
-* [Continuous Thought Machines](https://pub.sakana.ai/ctm/) - A look into continuous thought processes in AI and potential transformative impacts.
+* [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr) - Explore a self-hosted solution for web scraping, designed to give users control over their data gathering needs.
 
-* [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release) - Announcement of a breakthrough globally distributed AI model showcasing significant advancements in reinforcement learning.
+* [The Amoeba Microkernel](https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=755d25b6b7d2057206e46e91162e15ffc06bae73) - A deep dive into this fascinating microkernel and its unique architecture for distributed systems.
 
-## Technology and Software Highlights
+* [Plain Vanilla Web](https://plainvanillaweb.com/index.html) - Rediscovering the simplicity of the internet by highlighting web development achieved without modern frameworks.
 
-* [How I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/) - A detailed personal account of deep technical exploration and its unintended consequences.
+* [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c) - A minimalist Todo application emphasizing performance and purity in software development.
 
-* [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c) - A minimalist approach to app development using pure C without frameworks.
+## Cybersecurity and Privacy
 
-* [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) - Insights into making Rust programming more accessible to new developers.
+* [Over 3,200 Cursor Users Infected by Malicious Credential-Stealing npm Packages](https://developers.slashdot.org/story/25/05/11/2222257/over-3200-cursor-users-infected-by-malicious-credential-stealing-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Details on a widespread infection targeting Cursor users through malicious npm packages.
 
-* [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/) - Analysis of how industries can collaborate with academia to address the pause or blockage in academic career pipelines.
+* [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/) - A troubling vulnerability allowing remote code execution in pre-installed ASUS software.
 
-## Emerging Issues in Gaming and Tech
+* [US Copyright Office to AI Companies:  Fair Use Isn’t ‘Commercial Use of Vast Troves of Copyrighted Works’](https://yro.slashdot.org/story/25/05/12/0425233/us-copyright-office-to-ai-companies-fair-use-isnt-commercial-use-of-vast-troves-of-copyrighted-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of the legal tensions rising between AI companies and copyright protections.
 
-* [Videogame's Players Launch Boycott Over Bugs, Story Changes, Monetization](https://games.slashdot.org/story/25/05/12/0042210/videogames-players-launch-boycott-over-bugs-story-changes-monetization?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Players protest changes in gaming quality and excessive monetization strategies.
+## AI and Machine Learning
 
-* [Blizzard's 'Overwatch' Team Just Voted to Unionize](https://games.slashdot.org/story/25/05/11/0328248/blizzards-overwatch-team-just-voted-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant labor movement in the video game industry as development teams push back against company policies.
+* [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873) - An argument for preserving individual autonomy in the face of growing AI ubiquity.
 
-## Scientific and Industry Innovations
+* [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release) - Details about a large-scale distributed reinforcement learning project shaping AI advancements.
 
-* [Researchers Just Solved a Big, 70-Year-Old Problem for Fusion Energy](https://hardware.slashdot.org/story/25/05/11/239203/researchers-just-solved-a-big-70-year-old-problem-for-fusion-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Breakthroughs in fusion technology could pave the way for sustainable energy solutions.
+* [Continuous Thought Machines](https://pub.sakana.ai/ctm/) - An innovative exploration into continuous computational thought processes and their implications.
 
-* [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293) - Advancements in 3D-printing technology promise to revolutionize healthcare through innovative drug delivery systems.
+## Scientific Breakthroughs
 
-## Security and Privacy Developments
+* [Researchers Just Solved a Big, 70-Year-Old Problem for Fusion Energy](https://hardware.slashdot.org/story/25/05/11/239203/researchers-just-solved-a-big-70-year-old-problem-for-fusion-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Landmark resolution to a long-standing challenge in fusion energy research.
 
-* [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/) - Critical vulnerability discovered in pre-installed driver software highlights ongoing security concerns.
+* [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293) - Exciting advancements in direct 3D printing capabilities for biomedical applications.
 
-* [Over 3,200 Cursor Users Infected by Malicious Credential-Stealing npm Packages](https://developers.slashdot.org/story/25/05/11/2222257/over-3200-cursor-users-infected-by-malicious-credential-stealing-npm-packages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examination of a large-scale security breach targeting developers through npm packages.
+* [Astronomers Used Old 'Maps' to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243) - Utilizing historical astronomical maps to uncover possibly missing celestial bodies.
 
-## Historical and Cultural Insights
+## Ethical and Societal Implications
 
-* [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping) - Innovative technology deciphers ancient texts, providing new historical insights.
+* [Stop Saying 'Responsible Disclosure'](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html) - A critique of the terminology and philosophy underpinning traditional approaches to vulnerability disclosure.
 
-* [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&from=rss) - Perspective on how evolutionary differences in sun protection could have influenced survival outcomes.
+* [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710) - A curiosity-driven conversation exploring human interaction patterns and learning mechanisms.
 
 ---
 
@@ -67,6 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-12, 09:38:43](https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain) - [curl&apos;s CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
+* [2025-05-12, 08:35:00](https://lobste.rs/s/fj4g2x/patela_basement_full_amnesic_servers) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
+* [2025-05-12, 08:26:00](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US and China Agree To Temporarily Slash Tariffs](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
+* [2025-05-12, 07:41:39](https://news.ycombinator.com/item?id=43960518) - [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
+* [2025-05-12, 07:34:00](https://yro.slashdot.org/story/25/05/12/0425233/us-copyright-office-to-ai-companies-fair-use-isnt-commercial-use-of-vast-troves-of-copyrighted-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Copyright Office to AI Companies:  Fair Use Isn&apos;t &apos;Commercial Use of Vast Troves of Copyrighted Works&apos;](https://yro.slashdot.org/story/25/05/12/0425233/us-copyright-office-to-ai-companies-fair-use-isnt-commercial-use-of-vast-troves-of-copyrighted-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-12, 07:00:17](https://lobste.rs/s/p6vstm/stop_saying_responsible_disclosure) - [Stop Saying \&quot;Responsible Disclosure\&quot;](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
 * [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&amp;from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&amp;from=rss)
 * [2025-05-12, 05:54:27](https://lobste.rs/s/6js1hj/flakes_have_failed) - [Flakes Have Failed](https://kilo.bytesize.xyz/flakes-have-failed)
 * [2025-05-12, 04:41:50](https://news.ycombinator.com/item?id=43959710) - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
@@ -107,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-11, 16:34:00](https://it.slashdot.org/story/25/05/11/0544252/chinese-hackers-exploit-sap-netweaver-rce-flaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Hackers Exploit SAP NetWeaver RCE Flaw](https://it.slashdot.org/story/25/05/11/0544252/chinese-hackers-exploit-sap-netweaver-rce-flaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 * [2025-05-11, 15:58:00](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss) - [The Bayeux Penis Count](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss)
-* [2025-05-11, 15:57:39](https://news.ycombinator.com/item?id=43954649) - [I built a native Windows Todo app in pure C (278 KB, no frameworks)](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 15:34:00](https://developers.slashdot.org/story/25/05/11/0623242/what-happens-if-ai-coding-keeps-improving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens If AI Coding Keeps Improving?](https://developers.slashdot.org/story/25/05/11/0623242/what-happens-if-ai-coding-keeps-improving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-school shop students attract skilled-trades job offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 * [2025-05-11, 15:16:11](https://lobste.rs/s/ldtzsg/review_documentation_rust_ecosystem) - [A review of documentation in the Rust ecosystem](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
@@ -123,15 +129,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-11, 07:01:50](https://lobste.rs/s/u9hyan/xkcd_s_is_it_worth_time_considered_harmful) - [XKCD&apos;s \&quot;Is It Worth the Time?\&quot; Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html)
 * [2025-05-11, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss) - [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss)
 * [2025-05-11, 06:10:49](https://lobste.rs/s/9wvxpu/mipmap_selection_too_much_detail) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
-* [2025-05-11, 05:19:27](https://lobste.rs/s/n12xrd/sierpinski_triangle_my_bitwise) - [Sierpiński triangle? In my bitwise AND?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus&apos;s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-* [2025-05-11, 04:23:45](https://lobste.rs/s/ngbasc/fan_service) - [fan service](https://flak.tedunangst.com/post/fan-service)
-* [2025-05-11, 04:15:00](https://games.slashdot.org/story/25/05/11/0328248/blizzards-overwatch-team-just-voted-to-unionize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blizzard&apos;s &apos;Overwatch&apos; Team Just Voted to Unionize](https://games.slashdot.org/story/25/05/11/0328248/blizzards-overwatch-team-just-voted-to-unionize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-11, 03:38:30](https://lobste.rs/s/7trmcs/dotless_domains_2021) - [Dotless Domains (2021)](https://lab.avl.la/dotless/)
 * [2025-05-11, 03:00:21](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google) - [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670)
-* [2025-05-11, 01:49:00](https://science.slashdot.org/story/25/05/11/0147212/theranos-fraudsters-partner-launches-his-own-blood-testing-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Theranos Fraudster&apos;s Partner Launches His Own Blood-Testing Startup](https://science.slashdot.org/story/25/05/11/0147212/theranos-fraudsters-partner-launches-his-own-blood-testing-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss)
-* [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
 * [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss)
 * [2025-05-10, 16:29:04](https://lobste.rs/s/biswto/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/)
 * [2025-05-10, 16:22:00](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss) - [Astronomers Used Old &apos;Maps&apos; to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss)
@@ -140,21 +141,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
 * [2025-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss) - [Mathematical Beauty, Truth and Proof in the Age of AI](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss)
+* [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-10, 02:04:00](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss) - [DOJ Confirms It Wants To Break Up Google&apos;s Advertising Tech Monopoly](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss)
 * [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss)
 * [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss)
 * [2025-05-09, 11:46:00](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss) - [Federal Court Says Cell Tower Dumps Violate the Fourth Amendment](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss)
 * [2025-05-09, 07:01:00](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss) - [We Have Reached the “Severed Fingers and Abductions” Stage of the Crypto Revolution ](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss)
-* [2025-05-09, 03:41:54](https://news.ycombinator.com/item?id=43933605) - [Hill or High Water](https://royalsociety.org/blog/2025/05/hill-or-high-water/)
 * [2025-05-09, 02:14:00](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss) - [OpenSUSE Joins the End of 10 Campaign](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-08, 21:29:00](https://soylentnews.org/article.pl?sid=25/05/07/1350218&amp;from=rss) - [Building Custom Atomic Distributions - a Step-by-Step Guide](https://soylentnews.org/article.pl?sid=25/05/07/1350218&amp;from=rss)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 20:54:51](https://news.ycombinator.com/item?id=43931237) - [Making PyPI&apos;s test suite 81% faster – The Trail of Bits Blog](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
-* [2025-05-08, 17:05:11](https://news.ycombinator.com/item?id=43928364) - [In-Memory Ferroelectric Differentiator](https://www.nature.com/articles/s41467-025-58359-4)
 * [2025-05-08, 16:44:00](https://soylentnews.org/article.pl?sid=25/05/06/235250&amp;from=rss) - [Nvidia Warns US AI Hardware Export Rules Could Backfire Empowering Huawei To Define Global Standards](https://soylentnews.org/article.pl?sid=25/05/06/235250&amp;from=rss)
+* [2025-05-08, 13:15:26](https://news.ycombinator.com/item?id=43925820) - [Dart added support for cross-compilation](https://dart.dev/tools/dart-compile#cross-compilation-exe)
 * [2025-05-08, 12:00:00](https://soylentnews.org/article.pl?sid=25/05/06/2254241&amp;from=rss) - [Hacker Breaches Telemessage System Used By US Officials, Raising Security Concerns](https://soylentnews.org/article.pl?sid=25/05/06/2254241&amp;from=rss)
-* [2025-05-08, 11:03:14](https://news.ycombinator.com/item?id=43925005) - [Monitoring my Minecraft server with OpenTelemetry and Prometheus](https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry)
 * [2025-05-08, 07:22:00](https://soylentnews.org/article.pl?sid=25/05/06/1923215&amp;from=rss) - [People Trust Legal Advice Generated by ChatGPT More Than a Lawyer](https://soylentnews.org/article.pl?sid=25/05/06/1923215&amp;from=rss)
 * [2025-05-08, 02:36:00](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss) - [The First Driverless Semis Have Started Running Regular Longhaul Routes](https://soylentnews.org/article.pl?sid=25/05/06/1537247&amp;from=rss)
 * [2025-05-08, 01:48:00](https://news.ycombinator.com/item?id=43922341) - [Absolute Zero Reasoner](https://andrewzh112.github.io/absolute-zero-reasoner/)
