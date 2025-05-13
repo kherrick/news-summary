@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Advancements
+## AI and Machine Learning Advancements
 
-* [Asking Chatbots For Short Answers Can Increase Hallucinations, Study Finds](https://slashdot.org/story/25/05/12/2114214/asking-chatbots-for-short-answers-can-increase-hallucinations-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores how limiting chatbot responses to short answers can lead to factual inaccuracies.
+* [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 
-* [Google Launches New Initiative To Back Startups Building AI](https://tech.slashdot.org/story/25/05/12/2059257/google-launches-new-initiative-to-back-startups-building-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details Google's latest efforts to invest in AI-driven startup innovation.
+* [Google Developing Software AI Agent](https://developers.slashdot.org/story/25/05/12/225206/google-developing-software-ai-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/) - Introduces a benchmarking tool for assessing AI's safety and efficiency in healthcare.
+* [Google Launches New Initiative To Back Startups Building AI](https://tech.slashdot.org/story/25/05/12/2059257/google-launches-new-initiative-to-back-startups-building-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device) - A guide to creating a privacy-focused, on-device virtual assistant.
+* [Legion Health (YC S21) is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
 
-* [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/) - Investigates a macOS vulnerability affecting app permissions.
+* [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
 
-## Space and Science Innovations
+## Technology and Software Innovations
 
-* [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&from=rss) - Highlights China's ambitious mission to study extraterrestrial clouds.
+* [YS — YAML Done Wisely](https://yamlscript.org/)
 
-* [Reverse Engineering the 386 Processor's Prefetch Queue Circuitry](https://soylentnews.org/article.pl?sid=25/05/11/1444208&from=rss) - Discusses advances in understanding microprocessor behavior.
+* [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 
-* [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet) - Los Alamos' Jason Pruet talks AI's role in scientific discovery.
+* [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 
-* [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/) - Describes efforts to tackle a major bottleneck in nuclear fusion.
+* [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 
-* [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html) - A new study investigates the theoretical endpoint of the universe.
+* [Western Digital Invests in Ceramic Storage Firm That Claims 5,000-Year Data Retention](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Sustainability and Green Innovations
+## Scientific Advancements and Space Exploration
 
-* [Philips Debuts 3D Printable Components To Repair Products](https://hardware.slashdot.org/story/25/05/12/2041206/philips-debuts-3d-printable-components-to-repair-products?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unveils 3D printing as a revolutionary approach to product repair and longevity.
+* [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss)
 
-* [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&from=rss) - Explores unique methods for generating sustainable hydrogen fuel.
+* [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 
-* [Western Digital Invests in Ceramic Storage Firm That Claims 5,000-Year Data Retention](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investment in ultra-durable storage showcases a forward-thinking approach to data preservation.
+* [Astronomers Used Old 'Maps' to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/11/1444208&amp;from=rss)
 
-* [Climate Crisis Threatens the Banana, the World's Most Popular Fruit](https://news.slashdot.org/story/25/05/12/1535204/climate-crisis-threatens-the-banana-the-worlds-most-popular-fruit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines the impact of climate change on global agriculture.
+## Cybersecurity and Data Risks
 
-## Cybersecurity and Technological Ethics
+* [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 
-* [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html) - Reports severe vulnerabilities affecting a popular terminal application.
+* [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 
-* [Nations Meet At UN For 'Killer Robot' Talks](https://tech.slashdot.org/story/25/05/12/2023237/nations-meet-at-un-for-killer-robot-talks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - International discussions on autonomous weapons and AI ethics.
+* [VPN Firm Says It Didn't Know Customers Had Lifetime Subscriptions, Cancels Them](https://it.slashdot.org/story/25/05/12/2156258/vpn-firm-says-it-didnt-know-customers-had-lifetime-subscriptions-cancels-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Stop Saying \"Responsible Disclosure\"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html) - Challenges prevailing norms in public vulnerability reporting.
+## Cultural and Historical Insights
+
+* [Reddit Turns 20](https://tech.slashdot.org/story/25/05/12/2112256/reddit-turns-20?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
+
+* [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 
 ---
 
@@ -67,11 +73,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-13, 03:30:00](https://tech.slashdot.org/story/25/05/12/2112256/reddit-turns-20?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reddit Turns 20](https://tech.slashdot.org/story/25/05/12/2112256/reddit-turns-20?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-13, 02:19:27](https://lobste.rs/s/0vjs03/why_do_saturation_luminance_go_all_way_240) - [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 * [2025-05-13, 01:33:42](https://lobste.rs/s/xjcxwe/ys_yaml_done_wisely) - [YS — YAML Done Wisely](https://yamlscript.org/)
+* [2025-05-13, 01:25:00](https://developers.slashdot.org/story/25/05/12/225206/google-developing-software-ai-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Developing Software AI Agent](https://developers.slashdot.org/story/25/05/12/225206/google-developing-software-ai-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 * [2025-05-13, 01:16:00](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss) - [China&apos;s Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss)
 * [2025-05-13, 00:42:00](https://slashdot.org/story/25/05/12/2114214/asking-chatbots-for-short-answers-can-increase-hallucinations-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Asking Chatbots For Short Answers Can Increase Hallucinations, Study Finds](https://slashdot.org/story/25/05/12/2114214/asking-chatbots-for-short-answers-can-increase-hallucinations-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 00:30:35](https://news.ycombinator.com/item?id=43968713) - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 * [2025-05-13, 00:02:00](https://tech.slashdot.org/story/25/05/12/2059257/google-launches-new-initiative-to-back-startups-building-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Launches New Initiative To Back Startups Building AI](https://tech.slashdot.org/story/25/05/12/2059257/google-launches-new-initiative-to-back-startups-building-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-12, 23:33:49](https://lobste.rs/s/ba34q8/modern_microframework_for_web) - [A modern microframework for web development in C](https://github.com/savashn/ecewo)
 * [2025-05-12, 23:20:00](https://hardware.slashdot.org/story/25/05/12/2041206/philips-debuts-3d-printable-components-to-repair-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Philips Debuts 3D Printable Components To Repair Products](https://hardware.slashdot.org/story/25/05/12/2041206/philips-debuts-3d-printable-components-to-repair-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-12, 22:41:30](https://news.ycombinator.com/item?id=43968141) - [Understanding LucasArts&apos; iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
 * [2025-05-12, 22:40:00](https://it.slashdot.org/story/25/05/12/2156258/vpn-firm-says-it-didnt-know-customers-had-lifetime-subscriptions-cancels-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VPN Firm Says It Didn&apos;t Know Customers Had Lifetime Subscriptions, Cancels Them](https://it.slashdot.org/story/25/05/12/2156258/vpn-firm-says-it-didnt-know-customers-had-lifetime-subscriptions-cancels-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-12, 17:33:00](https://hardware.slashdot.org/story/25/05/12/1733225/nvidia-reportedly-raises-gpu-prices-by-10-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Reportedly Raises GPU Prices by 10-15%](https://hardware.slashdot.org/story/25/05/12/1733225/nvidia-reportedly-raises-gpu-prices-by-10-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-12, 17:09:56](https://lobste.rs/s/idkfrh/last_yast) - [The last of YaST?](https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/)
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
-* [2025-05-12, 16:55:39](https://news.ycombinator.com/item?id=43965099) - [Byte latent transformer: Patches scale better than tokens](https://arxiv.org/abs/2412.09871)
 * [2025-05-12, 16:49:00](https://slashdot.org/story/25/05/12/1649229/chegg-to-lay-off-22-of-workforce-as-ai-tools-shake-up-edtech-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chegg To Lay Off 22% of Workforce as AI Tools Shake Up Edtech Industry](https://slashdot.org/story/25/05/12/1649229/chegg-to-lay-off-22-of-workforce-as-ai-tools-shake-up-edtech-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-12, 16:35:19](https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser) - [Spall: a code profiler that runs in your browser](https://gravitymoth.com/spall/spall-web.html)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
@@ -107,15 +117,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-12, 15:32:10](https://lobste.rs/s/om8y2y/why_bell_labs_worked) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:20:00](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Western Digital Invests in Ceramic Storage Firm That Claims 5,000-Year Data Retention](https://hardware.slashdot.org/story/25/05/12/1519209/western-digital-invests-in-ceramic-storage-firm-that-claims-5000-year-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings are underrated (2024)](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 14:54:31](https://news.ycombinator.com/item?id=43963747) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
 * [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
-* [2025-05-12, 14:40:00](https://apple.slashdot.org/story/25/05/12/1251211/apple-considering-raising-iphone-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Considering Raising iPhone Prices](https://apple.slashdot.org/story/25/05/12/1251211/apple-considering-raising-iphone-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-12, 14:30:21](https://lobste.rs/s/vbfa75/avoid_each_with_object_generally) - [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 * [2025-05-12, 14:29:33](https://news.ycombinator.com/item?id=43963397) - [Reviving a modular cargo bike design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
-* [2025-05-12, 14:00:00](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US and China Agree To Temporarily Slash Tariffs](https://news.slashdot.org/story/25/05/12/0826256/us-and-china-agree-to-temporarily-slash-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-12, 13:39:34](https://news.ycombinator.com/item?id=43962770) - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 * [2025-05-12, 11:40:24](https://news.ycombinator.com/item?id=43961908) - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
@@ -133,28 +140,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 20:43:00](https://soylentnews.org/article.pl?sid=25/05/10/0150220&amp;from=rss) - [openSUSE Removes Deepin After Long String of Security Issues and Unauthorised Security Bypass](https://soylentnews.org/article.pl?sid=25/05/10/0150220&amp;from=rss)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
-* [2025-05-11, 19:57:15](https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve) - [Flattening Rust&apos;s Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-11, 16:52:27](https://lobste.rs/s/kltfhx/impressions_on_new_13_inch_framework) - [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
 * [2025-05-11, 15:58:00](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss) - [The Bayeux Penis Count](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss)
 * [2025-05-11, 11:11:00](https://soylentnews.org/article.pl?sid=25/05/10/0031230&amp;from=rss) - [Curl Project Founder Snaps over Deluge of Time-Sucking AI Slop Bug Reports](https://soylentnews.org/article.pl?sid=25/05/10/0031230&amp;from=rss)
-* [2025-05-11, 07:01:50](https://lobste.rs/s/u9hyan/xkcd_s_is_it_worth_time_considered_harmful) - [XKCD&apos;s \&quot;Is It Worth the Time?\&quot; Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html)
 * [2025-05-11, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss) - [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss)
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss)
 * [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss)
-* [2025-05-10, 20:48:01](https://news.ycombinator.com/item?id=43948869) - [Has anyone coined the term “fast tech” yet?](https://chaos.social/@gsuberland/114485304658708399)
 * [2025-05-10, 16:22:00](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss) - [Astronomers Used Old &apos;Maps&apos; to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
 * [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss)
+* [2025-05-10, 10:40:49](https://news.ycombinator.com/item?id=43944639) - [Policy of Transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [Writing N-body gravity simulations code in Python](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 06:52:00](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss) - [Mathematical Beauty, Truth and Proof in the Age of AI](https://soylentnews.org/article.pl?sid=25/05/09/0324231&amp;from=rss)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
 * [2025-05-10, 02:04:00](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss) - [DOJ Confirms It Wants To Break Up Google&apos;s Advertising Tech Monopoly](https://soylentnews.org/article.pl?sid=25/05/08/137234&amp;from=rss)
 * [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King (2001)](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
 * [2025-05-09, 21:19:00](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss) - [Software Bloat and Security: have we all Gone Mad?](https://soylentnews.org/article.pl?sid=25/05/08/1259227&amp;from=rss)
-* [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA Study Reveals Venus Crust Surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
+* [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA study reveals Venus crust surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
 * [2025-05-09, 16:33:00](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss) - [The Future of Data Storage Might be Ceramic Glass That Can Last Thousands of Years](https://soylentnews.org/article.pl?sid=25/05/08/1156250&amp;from=rss)
 * [2025-05-09, 11:46:00](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss) - [Federal Court Says Cell Tower Dumps Violate the Fourth Amendment](https://soylentnews.org/article.pl?sid=25/05/08/1151256&amp;from=rss)
+* [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
 * [2025-05-09, 07:53:54](https://news.ycombinator.com/item?id=43934682) - [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
 * [2025-05-09, 07:01:00](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss) - [We Have Reached the “Severed Fingers and Abductions” Stage of the Crypto Revolution ](https://soylentnews.org/article.pl?sid=25/05/07/2330241&amp;from=rss)
 * [2025-05-09, 02:14:00](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss) - [OpenSUSE Joins the End of 10 Campaign](https://soylentnews.org/article.pl?sid=25/05/07/1352238&amp;from=rss)
