@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Developments
+## Technological Innovations and Achievements
 
-* [Google Tests AI Search on Its Homepage](https://tech.slashdot.org/story/25/05/13/2342248/google-tests-ai-search-on-its-homepage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google is experimenting with AI-enhanced search functionality directly on its homepage, potentially altering the core user experience.
+* [Building, launching, and scaling ChatGPT Images](https://newsletter.pragmaticengineer.com/p/chatgpt-images) - An in-depth look at the development and scaling of ChatGPT's image generation capabilities. [Comments](https://lobste.rs/s/gle6bs/building_launching_scaling_chatgpt)
 
-* [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/) - A unique coding-based puzzle game challenges players to create shapes through programming.
+* [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/) - Monetary incentives for advancements in Rust code performance. [Comments](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust)
 
-* [Meta Threatens To Pull Facebook And Instagram Out Of Nigeria Over $290 Million Fine](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta is pushing back on Nigeria's heavy fine, suggesting dramatic exits from the social media market there.
+* [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/) - An exploration of key technical decisions in smartwatch design. [Comments](https://news.ycombinator.com/item?id=43981680)
 
-* [Audible Is Giving Publishers AI Tools To Quickly Make More Audiobooks](https://news.slashdot.org/story/25/05/13/228206/audible-is-giving-publishers-ai-tools-to-quickly-make-more-audiobooks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Audible integrates AI-powered tools to expedite audiobook creation for publishers.
+* [Student's Robot Obliterates 4x4 Rubik's Cube World Record](https://hardware.slashdot.org/story/25/05/13/213239/students-robot-obliterates-4x4-rubiks-cube-world-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough in robotics demonstrating exceptional speed and precision.
 
-* [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model) - A new model introduces human-inspired memory capabilities for large language models.
+## AI and Machine Learning
 
-## Security and Privacy
+* [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/) - A critical perspective on AI's current limitations. [Comments](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant)
 
-* [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123) - A controversial decision by GitHub imposes login requirements for open-source code browsing.
+* [Meta Threatens To Pull Facebook And Instagram Out Of Nigeria Over $290 Million Fine](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta's response to regulatory challenges regarding AI governance and content moderation. [Comments](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine)
 
-* [Meta Threatens To Pull Facebook And Instagram Out Of Nigeria Over $290 Million Fine](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This move by Meta links social media access conditions to hefty legal disputes.
+* [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/) - Leveraging large language models for knowledge graph creation. [Comments](https://news.ycombinator.com/item?id=43976895)
 
-* [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/) - Highlights a vulnerability in branch predictor architectures being exploited through race conditions.
+* [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model) - An innovative approach to contextual memory in AI systems. [Comments](https://news.ycombinator.com/item?id=43943928)
 
-* [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1) - Newly reported vulnerabilities affect the beloved terminal multiplexing application GNU Screen.
+## Programming and Software Development
 
-* [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html) - A confirmation flag in pkill could avoid unintentional process terminations and potential service outages.
+* [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3) - Exploring advancements in physics engines for programming and simulation. [Comments](https://lobste.rs/s/watrbl/avian_physics_0_3)
 
-## Programming and Development
+* [Cracking The Dave & Buster’s Anomaly](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly) - Debugging and anomaly detection in software systems. [Comments](https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly)
 
-* [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/) - Insights that challenge personal understanding of programming language principles.
+* [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap) - Analyzing Python's multithreading evolution and its impact on development. [Comments](https://lobste.rs/s/kpkczj/first_year_free_threaded_python)
 
-* [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) - Techniques and strategies to make the Rust programming language more accessible for new developers.
+## Policy, Governance, and Ethics
 
-* [Makepad 1.0: Rust UI Framework](https://makepad.nl/) - Announcing a robust new UI framework built in Rust, geared towards developers.
+* [Meta Threatens To Pull Facebook And Instagram Out Of Nigeria Over $290 Million Fine](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta's response to regulatory challenges regarding AI governance and content moderation. [Comments](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine)
 
-* [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree) - Tips for leveraging Git worktree for safer, organized experiments in code development.
+* [Republicans Try To Cram Decade-Long AI Regulation Ban Into Budget Reconciliation Bill](https://politics.slashdot.org/story/25/05/13/2033237/republicans-try-to-cram-decade-long-ai-regulation-ban-into-budget-reconciliation-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A controversial move targeting long-term AI governance restrictions.
 
-* [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap) - A retrospective on the adoption and challenges of free-threaded Python in various projects.
+## History and Science
 
-## Cultural and Historical Insights
+* [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss) - New interpretations of Viking history. [Comments](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss)
 
-* [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss) - An exploration of how perspectives on Viking history are shifting.
-
-* [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes) - A study investigates the repeatability of water-induced wrinkles as a fascinating biological phenomenon.
-
-* [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss) - China's bold attempts to collect data amidst the harsh conditions of Venus' atmosphere.
-
-* [The Bayeux Penis Count](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss) - A humorous and analytical look at depictions in the Bayeux Tapestry.
+* [Astronomers Used Old 'Maps' to Find What Could Be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss) - Using historical astronomical data for modern discoveries. [Comments](https://soylentnews.org/article.pl?sid=25/05/09/0353243&from=rss)
 
 ---
 
@@ -71,9 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-14, 09:41:59](https://lobste.rs/s/gle6bs/building_launching_scaling_chatgpt) - [Building, launching, and scaling ChatGPT Images](https://newsletter.pragmaticengineer.com/p/chatgpt-images)
+* [2025-05-14, 08:55:16](https://lobste.rs/s/watrbl/avian_physics_0_3) - [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3)
+* [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
+* [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
+* [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
+* [2025-05-14, 07:00:00](https://hardware.slashdot.org/story/25/05/14/0056248/gm-says-new-battery-chemistry-will-enable-400-mile-range-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Says New Battery Chemistry Will Enable 400-Mile Range EVs](https://hardware.slashdot.org/story/25/05/14/0056248/gm-says-new-battery-chemistry-will-enable-400-mile-range-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-14, 06:37:01](https://lobste.rs/s/yixtsg/my_djangocon_europe_2025) - [My DjangoCon Europe 2025](https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/)
-* [2025-05-14, 06:07:47](https://news.ycombinator.com/item?id=43981344) - [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123)
 * [2025-05-14, 05:51:00](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss) - [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss)
+* [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 05:30:00](https://yro.slashdot.org/story/25/05/14/001249/a-ripe-target-for-identity-thieves-prisoners-on-death-row?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Ripe Target For Identity Thieves: Prisoners on Death Row](https://yro.slashdot.org/story/25/05/14/001249/a-ripe-target-for-identity-thieves-prisoners-on-death-row?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
@@ -81,7 +81,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-14, 03:05:41](https://lobste.rs/s/cxpjdy/misadventures_dtrace_how_debug_macos) - [Misadventures in DTrace: how to debug the macOS kernel](https://jade.fyi/blog/misadventures-in-dtrace/)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
 * [2025-05-14, 01:25:00](https://tech.slashdot.org/story/25/05/13/2342248/google-tests-ai-search-on-its-homepage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Tests AI Search on Its Homepage](https://tech.slashdot.org/story/25/05/13/2342248/google-tests-ai-search-on-its-homepage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-14, 01:18:36](https://lobste.rs/s/efpmij/computers_can_run_backwards_2017) - [Computers That Can Run Backwards (2017)](https://www.americanscientist.org/article/computers-that-can-run-backwards)
 * [2025-05-14, 01:04:00](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss) - [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss)
 * [2025-05-14, 00:45:00](https://yro.slashdot.org/story/25/05/13/2234225/qatars-400-million-jet-for-trump-is-a-gold-plated-security-nightmare?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Qatar&apos;s $400 Million Jet For Trump Is a Gold-Plated Security Nightmare&apos;](https://yro.slashdot.org/story/25/05/13/2234225/qatars-400-million-jet-for-trump-is-a-gold-plated-security-nightmare?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-14, 00:02:00](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Threatens To Pull Facebook And Instagram Out Of Nigeria Over $290 Million Fine](https://tech.slashdot.org/story/25/05/13/2226214/meta-threatens-to-pull-facebook-and-instagram-out-of-nigeria-over-290-million-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -92,14 +91,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
 * [2025-05-13, 22:02:00](https://mobile.slashdot.org/story/25/05/13/2056206/google-wants-to-make-stolen-android-phones-basically-unsellable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Wants To Make Stolen Android Phones Basically Unsellable](https://mobile.slashdot.org/story/25/05/13/2056206/google-wants-to-make-stolen-android-phones-basically-unsellable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
-* [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
 * [2025-05-13, 21:20:00](https://tech.slashdot.org/story/25/05/13/2045258/nextcloud-cries-foul-over-google-play-store-app-rejection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://tech.slashdot.org/story/25/05/13/2045258/nextcloud-cries-foul-over-google-play-store-app-rejection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 20:40:00](https://politics.slashdot.org/story/25/05/13/2033237/republicans-try-to-cram-decade-long-ai-regulation-ban-into-budget-reconciliation-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Republicans Try To Cram Decade-Long AI Regulation Ban Into Budget Reconciliation Bill](https://politics.slashdot.org/story/25/05/13/2033237/republicans-try-to-cram-decade-long-ai-regulation-ban-into-budget-reconciliation-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 20:19:00](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss) - [Wikipedia Launches Legal Challenge Against UK Government](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss)
 * [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-* [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 19:17:54](https://news.ycombinator.com/item?id=43976557) - [Airbnb is in midlife crisis mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
 * [2025-05-13, 19:10:00](https://it.slashdot.org/story/25/05/13/1839205/usenix-sunsets-annual-technical-conference-after-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [USENIX Sunsets Annual Technical Conference After 30 Years](https://it.slashdot.org/story/25/05/13/1839205/usenix-sunsets-annual-technical-conference-after-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 18:35:00](https://tech.slashdot.org/story/25/05/13/1835253/google-says-over-1-billion-rcs-messages-sent-in-the-us-daily?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says Over 1 Billion RCS Messages Sent in the US Daily](https://tech.slashdot.org/story/25/05/13/1835253/google-says-over-1-billion-rcs-messages-sent-in-the-us-daily?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -110,10 +107,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
 * [2025-05-13, 17:21:00](https://it.slashdot.org/story/25/05/13/177238/office-apps-on-windows-10-no-longer-tied-to-october-2025-end-of-support-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Office Apps on Windows 10 No Longer Tied To October 2025 End-of-Support Date](https://it.slashdot.org/story/25/05/13/177238/office-apps-on-windows-10-no-longer-tied-to-october-2025-end-of-support-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
-* [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter&apos;s Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 16:42:00](https://news.slashdot.org/story/25/05/13/1641252/trump-administration-scraps-bidens-ai-chip-export-controls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration Scraps Biden&apos;s AI Chip Export Controls](https://news.slashdot.org/story/25/05/13/1641252/trump-administration-scraps-bidens-ai-chip-export-controls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-13, 16:05:00](https://tech.slashdot.org/story/25/05/13/165215/intel-certifies-shell-lubricant-for-cooling-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Certifies Shell Lubricant for Cooling AI Data Centers](https://tech.slashdot.org/story/25/05/13/165215/intel-certifies-shell-lubricant-for-cooling-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-13, 15:35:00](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss) - [Charting the Future of Biotechnology and AI](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a challenging problem](https://www.marginalia.nu/log/a_119_pdf/)
@@ -136,26 +131,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-13, 07:01:04](https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer) - [Fx v36 - JSON terminal viewer](https://github.com/antonmedv/fx/releases/tag/36.0.0)
 * [2025-05-13, 06:01:00](https://soylentnews.org/article.pl?sid=25/05/12/1114249&amp;from=rss) - [People Who Use AI at Work Are Perceived by Colleagues as Lazier and Less Competent, Study Finds](https://soylentnews.org/article.pl?sid=25/05/12/1114249&amp;from=rss)
 * [2025-05-13, 01:16:00](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss) - [China&apos;s Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss)
-* [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World&apos;s Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 19:33:00](https://soylentnews.org/article.pl?sid=25/05/11/1444208&amp;from=rss) - [Reverse Engineering the 386 Processor&apos;s Prefetch Queue Circuitry](https://soylentnews.org/article.pl?sid=25/05/11/1444208&amp;from=rss)
 * [2025-05-12, 15:46:00](https://soylentnews.org/article.pl?sid=25/05/11/1335239&amp;from=rss) - [Urine-Powered Electrolysis Systems Offer Energy-Efficient Green Hydrogen Production](https://soylentnews.org/article.pl?sid=25/05/11/1335239&amp;from=rss)
+* [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 * [2025-05-12, 10:57:00](https://soylentnews.org/article.pl?sid=25/05/11/1335201&amp;from=rss) - [‘Tone Deaf’: US Tech Company Responsible for Global IT Outage to Cut Jobs and Use AI](https://soylentnews.org/article.pl?sid=25/05/11/1335201&amp;from=rss)
 * [2025-05-12, 06:12:00](https://soylentnews.org/article.pl?sid=25/05/11/1323217&amp;from=rss) - [Into the Ethical AI Bush](https://soylentnews.org/article.pl?sid=25/05/11/1323217&amp;from=rss)
 * [2025-05-12, 01:28:00](https://soylentnews.org/article.pl?sid=25/05/10/0222240&amp;from=rss) - [Skype is Officially Dead](https://soylentnews.org/article.pl?sid=25/05/10/0222240&amp;from=rss)
 * [2025-05-11, 20:43:00](https://soylentnews.org/article.pl?sid=25/05/10/0150220&amp;from=rss) - [openSUSE Removes Deepin After Long String of Security Issues and Unauthorised Security Bypass](https://soylentnews.org/article.pl?sid=25/05/10/0150220&amp;from=rss)
-* [2025-05-11, 17:22:45](https://news.ycombinator.com/item?id=43955277) - [A visual history of the safety pin](https://museumofeverydaylife.org/current-exhibitions/a-visual-history-of-the-safety-pin)
 * [2025-05-11, 15:58:00](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss) - [The Bayeux Penis Count](https://soylentnews.org/article.pl?sid=25/05/10/0134211&amp;from=rss)
-* [2025-05-11, 14:22:49](https://news.ycombinator.com/item?id=43954027) - [Show HN: I’ve built an IoT device to let my family know when I’m in a meeting](https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/)
 * [2025-05-11, 11:11:00](https://soylentnews.org/article.pl?sid=25/05/10/0031230&amp;from=rss) - [Curl Project Founder Snaps over Deluge of Time-Sucking AI Slop Bug Reports](https://soylentnews.org/article.pl?sid=25/05/10/0031230&amp;from=rss)
+* [2025-05-11, 08:50:13](https://news.ycombinator.com/item?id=43952398) - [Vircadia, a Bun and PostgreSQL-powered reactivity layer for games](https://vircadia.com/)
 * [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
 * [2025-05-11, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss) - [Sunscreen Might Have Helped Early Humans Outlive Neanderthals](https://soylentnews.org/article.pl?sid=25/05/09/1729255&amp;from=rss)
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-11, 01:49:00](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss) - [How Hungry Fat Cells Could Someday Starve Cancer to Death](https://soylentnews.org/article.pl?sid=25/05/09/1211227&amp;from=rss)
 * [2025-05-10, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss) - [Kuwait Declares Cryptocurrency Mining Illegal Amid Power Crisis Crackdown](https://soylentnews.org/article.pl?sid=25/05/09/1123216&amp;from=rss)
 * [2025-05-10, 16:22:00](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss) - [Astronomers Used Old &apos;Maps&apos; to Find What Could be a 9th Planet in Our Solar System](https://soylentnews.org/article.pl?sid=25/05/09/0353243&amp;from=rss)
-* [2025-05-10, 13:56:36](https://news.ycombinator.com/item?id=43945665) - [Show HN: Mycelium](https://github.com/mycweb/mycelium)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
+* [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage collection of object storage at scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 11:36:00](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss) - [Washington the Eighth State to Pass ‘Right to Repair’ Law](https://soylentnews.org/article.pl?sid=25/05/09/0327207&amp;from=rss)
 * [2025-05-10, 10:41:21](https://news.ycombinator.com/item?id=43944640) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
