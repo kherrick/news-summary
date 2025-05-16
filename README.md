@@ -1,52 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Novel Scientific Theories and Research
+## Artificial Intelligence and Cloud Computing
 
-* [Dark Matter Formed When Fast Particles Slowed Down and Got Heavy, New Theory Says](https://science.slashdot.org/story/25/05/15/2311254/dark-matter-formed-when-fast-particles-slowed-down-and-got-heavy-new-theory-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [US, UAE Unveil Plan For New 5GW AI Campus In Abu Dhabi](https://slashdot.org/story/25/05/15/2333259/us-uae-unveil-plan-for-new-5gw-ai-campus-in-abu-dhabi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A collaboration between the US and UAE to create a cutting-edge AI campus equipped with 5GW of computing power.
 
-* [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
+* [China Launches First of 2,800 Satellites For AI Space Computing Constellation](https://science.slashdot.org/story/25/05/15/2326249/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China sets ambitious plans to lead in AI-powered space computing with a massive satellite network.
 
-* [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
+* [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/) - Discusses European cloud strategy emphasizing independence from U.S.-based infrastructure providers.
 
-## Technology and AI Advancements
+* [Meta Delays 'Behemoth' AI Model Release](https://meta.slashdot.org/story/25/05/15/2022210/meta-delays-behemoth-ai-model-release?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta postpones the launch of its enormous AI model.
 
-* [Do You Trust Mark Zuckerberg To Solve Your Loneliness With an 'AI Friend'?](https://tech.slashdot.org/story/25/05/15/2056257/do-you-trust-mark-zuckerberg-to-solve-your-loneliness-with-an-ai-friend?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213) - Nvidia’s NeMo microservices aim to streamline integration of AI agents within workloads.
 
-* [Student Demands Tuition Refund After Catching Professor Using ChatGPT](https://news.slashdot.org/story/25/05/15/2335227/student-demands-tuition-refund-after-catching-professor-using-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Technology and Development
 
-* [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
+* [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package) - MoonBit introduces virtual packages in their development environment.
 
-## Cybersecurity and Privacy
+* [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/) - An exploration into overlooked gaps in software and infrastructure.
 
-* [FBI: US Officials Targeted In Voice Deepfake Attacks Since April](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/) - A lightweight and performant ATproto relay with concise code.
 
-* [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
+* [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/) - Insights into improving Clojure development processes.
 
-* [Telegram Bans $35 Billion Black Markets Used To Sell Stolen Data, Launder Crypto](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam) - A new command-line tool for enhanced software management.
 
-## Programming and Developer Insights
+## Ethics and Public Interest
 
-* [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
+* [Student Demands Tuition Refund After Catching Professor Using ChatGPT](https://news.slashdot.org/story/25/05/15/2335227/student-demands-tuition-refund-after-catching-professor-using-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A student protests against educators using AI to replace genuine effort.
 
-* [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
+* [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/) - Epic Games criticizes Apple's policy on app store reinstatement.
 
-* [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+* [FBI: US Officials Targeted In Voice Deepfake Attacks Since April](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports of deepfake technologies being used in targeted attacks against U.S. officials.
 
-## Corporate and Legal Developments
+* [YouTube Crackdowns on AI-Generated Fake Movie Trailers](https://news.slashdot.org/story/25/05/15/2317224/youtube-crackdowns-on-ai-generated-fake-movie-trailers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A YouTube policy targetting misleading content generated by artificial intelligence.
 
-* [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
+* [Telegram Bans $35 Billion Black Markets Used To Sell Stolen Data, Launder Crypto](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Telegram shuts down large-scale illegal marketplaces.
 
-* [YouTube Crackdowns on AI-Generated Fake Movie Trailers](https://news.slashdot.org/story/25/05/15/2317224/youtube-crackdowns-on-ai-generated-fake-movie-trailers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Scientific Advances
 
-* [Anthropic's Lawyer Forced To Apologize After Claude Hallucinated Legal Citation](https://yro.slashdot.org/story/25/05/15/2031207/anthropics-lawyer-forced-to-apologize-after-claude-hallucinated-legal-citation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Dark Matter Formed When Fast Particles Slowed Down and Got Heavy, New Theory Says](https://science.slashdot.org/story/25/05/15/2311254/dark-matter-formed-when-fast-particles-slowed-down-and-got-heavy-new-theory-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough theory regarding the formation of dark matter.
 
-## Noteworthy Cultural and Educational Topics
+* [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html) - Gene-editing developments saving lives from rare disorders.
 
-* [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+* [Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam](https://onlinelibrary.wiley.com/doi/10.1002/cey2.650) - Innovative advancements in thermoelectric technology.
 
-* [American Schools Were Deeply Unprepared for ChatGPT, Public Records Show](https://news.slashdot.org/story/25/05/15/1819231/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss) - Research linking chemical pollutants with health risks.
 
-* [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
+* [75 Zero-Days Exploited in 2024 With Focus on Enterprise Tech](https://soylentnews.org/article.pl?sid=25/05/12/1123248&from=rss) - Rising threats in enterprise cybersecurity exploits.
+
+## Software and Programming
+
+* [Teal: a statically-typed dialect of Lua](https://teal-language.org/) - A new programming language blending Lua simplicity with static typing.
+
+* [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/) - A guide to modern web development utilizing OCaml.
+
+* [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap) - Observations from adopting free-threaded Python.
+
+* [Lock-Free Rust: How to Build a Rollercoaster While It's on Fire](https://yeet.cx/blog/lock-free-rust/) - Techniques for utilizing Rust in high-stakes programming scenarios.
+
+* [Lua for Elixir](https://davelucia.com/blog/lua-elixir) - Exploring the integration of Lua with the Elixir framework.
 
 ---
 
@@ -73,22 +85,38 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-16, 13:00:00](https://slashdot.org/story/25/05/15/2333259/us-uae-unveil-plan-for-new-5gw-ai-campus-in-abu-dhabi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US, UAE Unveil Plan For New 5GW AI Campus In Abu Dhabi](https://slashdot.org/story/25/05/15/2333259/us-uae-unveil-plan-for-new-5gw-ai-campus-in-abu-dhabi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-16, 12:46:37](https://lobste.rs/s/ynuae0/repair_time_requirements_prevent_data) - [Repair Time Requirements to Prevent Data Resurrection in Cassandra &amp; Scylla](https://msun.io/cassandra-scylla-repairs/)
+* [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Hub Sci-Net](https://sci-hub.se/sci-net)
+* [2025-05-16, 12:27:56](https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit) - [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package)
+* [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
+* [2025-05-16, 12:01:05](https://news.ycombinator.com/item?id=44004362) - [Dalus (YC W25) is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
+* [2025-05-16, 11:50:46](https://news.ycombinator.com/item?id=44004250) - [Grok&apos;s white genocide fixation caused by &apos;unauthorized modification&apos;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
+* [2025-05-16, 11:47:34](https://news.ycombinator.com/item?id=44004224) - [Prompts for our Grok chat assistant and grok bot on X](https://github.com/xai-org/grok-prompts)
+* [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
+* [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
+* [2025-05-16, 11:03:03](https://news.ycombinator.com/item?id=44003885) - [The Problem with Teens Isn&apos;t Smartphones–It&apos;s Their Families](https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones)
+* [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
+* [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
+* [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I&apos;m going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
+* [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss)
+* [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite&apos;s Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
+* [2025-05-16, 10:00:00](https://science.slashdot.org/story/25/05/15/2326249/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches First of 2,800 Satellites For AI Space Computing Constellation](https://science.slashdot.org/story/25/05/15/2326249/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-16, 09:43:17](https://news.ycombinator.com/item?id=44003449) - [You&apos;re Right You Are Working Longer and Attending More Meetings (2020)](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings)
+* [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
+* [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-16, 09:30:33](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend)
-* [2025-05-16, 09:28:21](https://news.ycombinator.com/item?id=44003371) - [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
+* [2025-05-16, 09:23:51](https://news.ycombinator.com/item?id=44003347) - [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
-* [2025-05-16, 07:05:31](https://news.ycombinator.com/item?id=44002536) - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
-* [2025-05-16, 07:00:11](https://news.ycombinator.com/item?id=44002522) - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
 * [2025-05-16, 07:00:00](https://science.slashdot.org/story/25/05/15/2311254/dark-matter-formed-when-fast-particles-slowed-down-and-got-heavy-new-theory-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dark Matter Formed When Fast Particles Slowed Down and Got Heavy, New Theory Says](https://science.slashdot.org/story/25/05/15/2311254/dark-matter-formed-when-fast-particles-slowed-down-and-got-heavy-new-theory-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 06:55:44](https://lobste.rs/s/hbsfjx/pathfinding) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
-* [2025-05-16, 06:53:52](https://lobste.rs/s/huwkim/unravelling_t_strings) - [Unravelling t-strings](https://snarky.ca/unravelling-t-strings/)
-* [2025-05-16, 06:23:05](https://news.ycombinator.com/item?id=44002333) - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
+* [2025-05-16, 06:23:05](https://news.ycombinator.com/item?id=44002333) - [BuyMeACoffee silently dropped support for many countries (2024)](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss) - [FTC Pushes The Enforcement Of Its &apos;Click-To-Cancel&apos; Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss)
 * [2025-05-16, 05:00:00](https://news.slashdot.org/story/25/05/15/2335227/student-demands-tuition-refund-after-catching-professor-using-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Demands Tuition Refund After Catching Professor Using ChatGPT](https://news.slashdot.org/story/25/05/15/2335227/student-demands-tuition-refund-after-catching-professor-using-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 03:30:00](https://tech.slashdot.org/story/25/05/15/2056257/do-you-trust-mark-zuckerberg-to-solve-your-loneliness-with-an-ai-friend?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do You Trust Mark Zuckerberg To Solve Your Loneliness With an &apos;AI Friend&apos;?](https://tech.slashdot.org/story/25/05/15/2056257/do-you-trust-mark-zuckerberg-to-solve-your-loneliness-with-an-ai-friend?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-16, 03:08:52](https://lobste.rs/s/m7wss7/there_s_more_nugget_wisdom_2023) - [There&apos;s More To That Nugget of Wisdom (2023)](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
 * [2025-05-16, 02:46:18](https://news.ycombinator.com/item?id=44001391) - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 * [2025-05-16, 01:43:27](https://news.ycombinator.com/item?id=44001087) - [Ollama&apos;s new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 * [2025-05-16, 01:42:27](https://lobste.rs/s/xw5sii/sunbeam_command_line_launcher) - [sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam)
@@ -96,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
 * [2025-05-16, 00:41:00](https://apple.slashdot.org/story/25/05/15/2327216/apple-keeps-fortnite-in-app-store-limbo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Keeps Fortnite in App Store Limbo](https://apple.slashdot.org/story/25/05/15/2327216/apple-keeps-fortnite-in-app-store-limbo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 00:40:35](https://news.ycombinator.com/item?id=44000759) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-* [2025-05-16, 00:29:09](https://news.ycombinator.com/item?id=44000700) - [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
 * [2025-05-16, 00:02:00](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI: US Officials Targeted In Voice Deepfake Attacks Since April](https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-15, 23:20:00](https://hardware.slashdot.org/story/25/05/15/2133241/microsoft-may-have-killed-the-surface-laptop-studio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft May Have Killed the Surface Laptop Studio](https://hardware.slashdot.org/story/25/05/15/2133241/microsoft-may-have-killed-the-surface-laptop-studio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -113,28 +140,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-15, 20:15:31](https://lobste.rs/s/fayqbl/rust_1_0_ten_years_later) - [Rust 1.0, ten years later](https://steveklabnik.com/writing/rust-ten-years-later/)
 * [2025-05-15, 20:07:00](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Telegram Bans $35 Billion Black Markets Used To Sell Stolen Data, Launder Crypto](https://yro.slashdot.org/story/25/05/15/205236/telegram-bans-35-billion-black-markets-used-to-sell-stolen-data-launder-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss) - [\&quot;Prompt Engineering\&quot; Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss)
-* [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
 * [2025-05-15, 19:03:00](https://tech.slashdot.org/story/25/05/15/193236/uber-expects-more-drivers-amid-robotaxi-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Expects More Drivers Amid Robotaxi Push](https://tech.slashdot.org/story/25/05/15/193236/uber-expects-more-drivers-amid-robotaxi-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
-* [2025-05-15, 18:47:55](https://news.ycombinator.com/item?id=43998049) - [Windsurf SWE-1: Our First Frontier Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
-* [2025-05-15, 18:43:43](https://news.ycombinator.com/item?id=43998008) - [Dr. Dobb&apos;s Journal interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
-* [2025-05-15, 18:20:00](https://news.slashdot.org/story/25/05/15/1819231/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [American Schools Were Deeply Unprepared for ChatGPT, Public Records Show](https://news.slashdot.org/story/25/05/15/1819231/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 * [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
-* [2025-05-15, 17:34:00](https://science.slashdot.org/story/25/05/15/1734220/baby-is-healed-with-worlds-first-personalized-gene-editing-treatment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Baby Is Healed With World&apos;s First Personalized Gene-Editing Treatment](https://science.slashdot.org/story/25/05/15/1734220/baby-is-healed-with-worlds-first-personalized-gene-editing-treatment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-15, 17:20:21](https://lobste.rs/s/xqshmm/please_please_please) - [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 * [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
+* [2025-05-15, 15:52:21](https://news.ycombinator.com/item?id=43996307) - [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss) - [&apos;World&apos;s First&apos; AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss)
-* [2025-05-15, 13:55:00](https://lobste.rs/s/760luf/rethinking_modern_asynchronous) - [Rethinking Modern Asynchronous Paradigms](https://blog.dogac.dev/modern-asynchronous-paradigms/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
-* [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
-* [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
-* [2025-05-15, 12:50:43](https://news.ycombinator.com/item?id=43994486) - [Show HN: A free AI risk assessment tool for LLM applications](https://www.gettavo.com/app)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss)
 * [2025-05-15, 05:47:00](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss) - [Copyright Office Thinks AI Companies Sometimes Stole Content](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss)
 * [2025-05-15, 04:09:36](https://lobste.rs/s/ot7gbr/stop_using_rest_for_state) - [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
@@ -142,21 +159,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-14, 21:08:03](https://lobste.rs/s/o15bge/scalar_select_anti_pattern) - [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 20:13:00](https://soylentnews.org/article.pl?sid=25/05/14/0020240&amp;from=rss) - [Ask Soylent: Insert Code Here](https://soylentnews.org/article.pl?sid=25/05/14/0020240&amp;from=rss)
 * [2025-05-14, 15:30:00](https://soylentnews.org/article.pl?sid=25/05/13/1445228&amp;from=rss) - [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://soylentnews.org/article.pl?sid=25/05/13/1445228&amp;from=rss)
-* [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 * [2025-05-14, 10:37:00](https://soylentnews.org/article.pl?sid=25/05/13/0245205&amp;from=rss) - [You Think Ransomware is Bad Now? Wait Until It Infects CPUs](https://soylentnews.org/article.pl?sid=25/05/13/0245205&amp;from=rss)
 * [2025-05-14, 05:51:00](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss) - [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss)
 * [2025-05-14, 01:04:00](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss) - [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss)
 * [2025-05-13, 20:19:00](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss) - [Wikipedia Launches Legal Challenge Against UK Government](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
 * [2025-05-13, 16:43:04](https://news.ycombinator.com/item?id=43974872) - [Lock-Free Rust: How to Build a Rollercoaster While It&apos;s on Fire](https://yeet.cx/blog/lock-free-rust/)
+* [2025-05-13, 16:20:13](https://news.ycombinator.com/item?id=43974599) - [Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam](https://onlinelibrary.wiley.com/doi/10.1002/cey2.650)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
-* [2025-05-13, 15:58:28](https://news.ycombinator.com/item?id=43974344) - [Bringing 3D shoppable products online with generative AI](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/)
 * [2025-05-13, 15:35:00](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss) - [Charting the Future of Biotechnology and AI](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss)
 * [2025-05-13, 14:57:57](https://news.ycombinator.com/item?id=43973677) - [Zinc Microcapacitors Are the Best of Both Worlds](https://spectrum.ieee.org/zinc-microcapacitor)
-* [2025-05-13, 12:20:03](https://news.ycombinator.com/item?id=43972083) - [Archisuits (2005–2006)](https://insecurespaces.net/archisuits-2005-2006/)
 * [2025-05-13, 10:46:00](https://soylentnews.org/article.pl?sid=25/05/12/1123248&amp;from=rss) - [75 Zero-Days Exploited in 2024 With Focus on Enterprise Tech](https://soylentnews.org/article.pl?sid=25/05/12/1123248&amp;from=rss)
-* [2025-05-13, 10:27:43](https://news.ycombinator.com/item?id=43971442) - [Rolling Highway](https://en.wikipedia.org/wiki/Rolling_highway)
-* [2025-05-13, 06:19:43](https://news.ycombinator.com/item?id=43970057) - [GTK Krell Monitors](https://gkrellm.srcbox.net/)
 * [2025-05-13, 06:01:00](https://soylentnews.org/article.pl?sid=25/05/12/1114249&amp;from=rss) - [People Who Use AI at Work Are Perceived by Colleagues as Lazier and Less Competent, Study Finds](https://soylentnews.org/article.pl?sid=25/05/12/1114249&amp;from=rss)
 * [2025-05-13, 01:16:00](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss) - [China&apos;s Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss)
 * [2025-05-13, 00:26:07](https://news.ycombinator.com/item?id=43968693) - [Comma 3X: Initial Impressions](https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions)
