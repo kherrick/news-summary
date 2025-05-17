@@ -1,52 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Artificial Intelligence and Technology
+## Programming and Software Development
 
-* [OpenAI Launches Codex, an AI Coding Agent, In ChatGPT](https://developers.slashdot.org/story/25/05/16/2052243/openai-launches-codex-an-ai-coding-agent-in-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI has released Codex, an advanced AI-enabled coding agent integrated into ChatGPT, demonstrating a major shift in AI-driven software development.
+* [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/) - A deep dive into Java's revolutionary impact on technology over the past three decades. [Comments](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech)
 
-* [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub) - Merliot is a novel project that connects physical devices to large language models (LLMs), offering intriguing applications in IoT and automation.
+* [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor) - Details the challenges and process of developing a hypervisor for RISC-V. [Comments](https://news.ycombinator.com/item?id=44012729)
 
-* [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach) - A citizen science initiative creating a network of amateur radio telescopes to expand space exploration and expand access to scientific research.
+* [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management) - Explores how JavaScript is evolving with new features for better resource management. [Comments](https://news.ycombinator.com/item?id=44012227)
 
-* [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql) - An exploration of techniques for training AI models to generate precise database queries.
+* [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix) - A promising new library for Java developers working with data. [Comments](https://news.ycombinator.com/item?id=44012074)
 
-* [Microsoft's Command Palette is a Powerful Launcher For Apps, Search](https://it.slashdot.org/story/25/05/17/0135210/microsofts-command-palette-is-a-powerful-launcher-for-apps-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's Command Palette introduces innovative search and app-launch functionalities, enhancing productivity.
+* [Programming in Martin-Löf's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/) - A foundational resource for learning programming based on type theory. [Comments](https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory)
 
-* [Walmart Prepares for a Future Where AI Shops for Consumers](https://slashdot.org/story/25/05/16/2138230/walmart-prepares-for-a-future-where-ai-shops-for-consumers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Walmart is envisioning a future where AI technology directly shops for customers, transforming retail shopping norms.
+* [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism) - A philosophical perspective on the role and trade-offs of static typing in programming. [Comments](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists)
 
-## Healthcare and Scientific Breakthroughs
+* [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool) - A look at a new alternative development tool for cross-platform projects. [Comments](https://news.ycombinator.com/item?id=44011515)
 
-* [FDA Clears First Blood Test To Help Diagnose Alzheimer's Disease](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FDA approves a pioneering blood test to aid in the diagnosis of Alzheimer’s Disease, a major step in early detection and treatment efforts.
+* [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub) - An innovative project connecting physical devices with large language models. [Comments](https://news.ycombinator.com/item?id=44011254)
 
-* [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&from=rss) - Breakthrough discoveries at the Large Hadron Collider show previously unreachable alchemical possibilities, turning folklore into reality.
+* [erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red) - Enhances Erlang development with visual programming tools. [Comments](https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based)
 
-## Programming and Developer Tools
+* [Teal: a statically-typed dialect of Lua](https://teal-language.org/) - Unveils the promise of Teal as a type-safe alternative to Lua. [Comments](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua)
 
-* [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix) - Introducing Fahmatrix, a Java-based lightweight alternative to Pandas for handling data frames.
+## Space and Exploration
 
-* [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/) - Best practices and patterns for improving application shutdown processes in the Go programming language.
+* [NASA Resurrects Voyager 1 Interstellar Spacecraft's Thrusters After 20 Years](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A remarkable advancement in reactivating a decades-old spacecraft. [Comments](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit) - KVSplit demonstrates improved performance for running extended machine learning contexts on Apple's Silicon hardware.
+* [China's Daring Cloud Sample Mission to Venus](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss) - A report on China's ambitious planetary exploration targeting Venus. [Comments](https://soylentnews.org/article.pl?sid=25/05/11/1440209&amp;from=rss)
 
-* [Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance](https://github.com/pallene-lang/pallene/tree/master) - Pallene offers Lua developers an optimized language built for performance-critical applications.
+## Artificial Intelligence
 
-## Economic and Societal Trends
+* [FDA Clears First Blood Test To Help Diagnose Alzheimer's Disease](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking step in medical and AI-assisted diagnostics for Alzheimer's. [Comments](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta Argues Enshittification Isn't Real](https://yro.slashdot.org/story/25/05/16/2047234/meta-argues-enshittification-isnt-real?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta contests claims surrounding the quality degradation of internet platforms, addressing broader industry challenges.
+* [Walmart Prepares for a Future Where AI Shops for Consumers](https://slashdot.org/story/25/05/16/2138230/walmart-prepares-for-a-future-where-ai-shops-for-consumers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into Walmart's AI-driven consumer shopping automation. [Comments](https://slashdot.org/story/25/05/16/2138230/walmart-prepares-for-a-future-where-ai-shops-for-consumers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Data Shows Boys and Young Men Are Falling Behind](https://news.slashdot.org/story/25/05/16/1746241/data-shows-boys-and-young-men-are-falling-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New data sheds light on ongoing educational and professional disparities faced by boys and young men globally.
+* [OpenAI Launches Codex, an AI Coding Agent, In ChatGPT](https://developers.slashdot.org/story/25/05/16/2052243/openai-launches-codex-an-ai-coding-agent-in-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How AI is reshaping coding with OpenAI's Codex integration. [Comments](https://developers.slashdot.org/story/25/05/16/2052243/openai-launches-codex-an-ai-coding-agent-in-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai) - Investigative piece on lobbying efforts against state regulations that aim to govern artificial intelligence practices.
+* [MIT Asks arXiv To Take Down Preprint Paper On AI and Scientific Discovery](https://science.slashdot.org/story/25/05/16/213210/mit-asks-arxiv-to-take-down-preprint-paper-on-ai-and-scientific-discovery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The latest controversy in AI research and academic publishing. [Comments](https://science.slashdot.org/story/25/05/16/213210/mit-asks-arxiv-to-take-down-preprint-paper-on-ai-and-scientific-discovery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Scientific and Lifestyle Explorations
+## Scientific Discoveries and Medicine
 
-* [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&from=rss) - Research reveals the profound ways in which music affects cerebral and physical synchronization.
+* [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss) - Breakthrough in alchemy-inspired transformations using particle physics. [Comments](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss)
 
-* [The Joys of Discovering the Roman Underground](https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/) - Exploring the archaeological wonders beneath Rome, offering fresh insights into its historical legacy.
+* [New Way To Pull Uranium From Water Can Help China's Nuclear Power Push](https://soylentnews.org/article.pl?sid=25/05/14/0413235&amp;from=rss) - Innovation in uranium extraction technology linked to nuclear energy advancements. [Comments](https://soylentnews.org/article.pl?sid=25/05/14/0413235&amp;from=rss)
 
-* [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7) - Researchers uncover extremophiles that challenge established biological boundaries and evolutionary theories.
+## Technology and Industry
 
-* [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&from=rss) - Highlighting the deadly implications of exposure to common plastic chemicals linked to cardiovascular diseases.
+* [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - Examines new privacy-focused features in the Bluetooth 6.1 standard. [Comments](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
+
+* [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - Nvidia reacts to economic pressures with increased GPU costs. [Comments](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
 
 ---
 
@@ -73,16 +75,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-17, 08:52:42](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
+* [2025-05-17, 08:38:09](https://news.ycombinator.com/item?id=44012933) - [A Critical Look at \&quot;A Critical Look at MCP.\&quot;](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
+* [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
+* [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
+* [2025-05-17, 07:00:00](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Resurrects Voyager 1 Interstellar Spacecraft&apos;s Thrusters After 20 Years](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
+* [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript&apos;s New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 * [2025-05-17, 03:30:00](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Clears First Blood Test To Help Diagnose Alzheimer&apos;s Disease](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks) - [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
 * [2025-05-17, 03:02:16](https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory) - [Programming in Martin-Lof&apos;s Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)
-* [2025-05-17, 02:51:35](https://lobste.rs/s/n8wg1s/graceful_shutdown_go_practical_patterns) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/)
 * [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
-* [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:46:06](https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus) - [Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
 * [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
+* [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay) - [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
@@ -94,9 +102,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
 * [2025-05-17, 00:10:00](https://hardware.slashdot.org/story/25/05/16/2133225/uk-needs-more-nuclear-to-power-ai-says-amazon-boss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Needs More Nuclear To Power AI, Says Amazon Boss](https://hardware.slashdot.org/story/25/05/16/2133225/uk-needs-more-nuclear-to-power-ai-says-amazon-boss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 23:30:00](https://hardware.slashdot.org/story/25/05/16/2122201/linux-swap-table-code-shows-the-potential-for-huge-performance-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Swap Table Code Shows The Potential For Huge Performance Gains](https://hardware.slashdot.org/story/25/05/16/2122201/linux-swap-table-code-shows-the-potential-for-huge-performance-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-16, 23:27:24](https://news.ycombinator.com/item?id=44010705) - [Will AI systems perform poorly due to AI-generated material in training data?](https://cacm.acm.org/news/the-collapse-of-gpt/)
 * [2025-05-16, 23:25:15](https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based) - [erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
-* [2025-05-16, 23:18:41](https://news.ycombinator.com/item?id=44010659) - [They Were Identical &apos;Twinnies&apos; Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
 * [2025-05-16, 23:13:36](https://lobste.rs/s/9y982t/pallene_statically_typed_ahead_time) - [Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance](https://github.com/pallene-lang/pallene/tree/master)
 * [2025-05-16, 22:50:00](https://tech.slashdot.org/story/25/05/16/2111259/apples-new-carplay-ultra-wont-fix-the-biggest-problem-of-phone-connected-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s New CarPlay &apos;Ultra&apos; Won&apos;t Fix the Biggest Problem of Phone-Connected Cars](https://tech.slashdot.org/story/25/05/16/2111259/apples-new-carplay-ultra-wont-fix-the-biggest-problem-of-phone-connected-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 22:10:00](https://science.slashdot.org/story/25/05/16/213210/mit-asks-arxiv-to-take-down-preprint-paper-on-ai-and-scientific-discovery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Asks arXiv To Take Down Preprint Paper On AI and Scientific Discovery](https://science.slashdot.org/story/25/05/16/213210/mit-asks-arxiv-to-take-down-preprint-paper-on-ai-and-scientific-discovery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -114,11 +120,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
 * [2025-05-16, 18:42:00](https://science.slashdot.org/story/25/05/16/1728214/covid-19-spikes-in-hong-kong-singapore-as-new-wave-spreads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Covid-19 Spikes in Hong Kong, Singapore as New Wave Spreads](https://science.slashdot.org/story/25/05/16/1728214/covid-19-spikes-in-hong-kong-singapore-as-new-wave-spreads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 18:38:56](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not) - [What Problems are Truly Technical, not Social?](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not)
-* [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
 * [2025-05-16, 17:50:00](https://news.slashdot.org/story/25/05/16/1746241/data-shows-boys-and-young-men-are-falling-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Data Shows Boys and Young Men Are Falling Behind](https://news.slashdot.org/story/25/05/16/1746241/data-shows-boys-and-young-men-are-falling-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 17:20:00](https://apple.slashdot.org/story/25/05/16/175234/apple-denies-blocking-fortnite-from-eu-stores-in-epic-dispute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Denies Blocking &apos;Fortnite&apos; From EU Stores in Epic Dispute](https://apple.slashdot.org/story/25/05/16/175234/apple-denies-blocking-fortnite-from-eu-stores-in-epic-dispute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-16, 17:01:00](https://news.ycombinator.com/item?id=44007644) - [Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe)
-* [2025-05-16, 16:40:00](https://science.slashdot.org/story/25/05/16/1640206/mit-says-it-no-longer-stands-behind-students-ai-research-paper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Says It No Longer Stands Behind Student&apos;s AI Research Paper](https://science.slashdot.org/story/25/05/16/1640206/mit-says-it-no-longer-stands-behind-students-ai-research-paper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-16, 15:54:46](https://lobste.rs/s/ypdu8r/gnu_parallel_examples) - [GNU Parallel Examples](https://www.gnu.org/software/parallel/parallel_examples.html)
 * [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
 * [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery](https://economics.mit.edu/news/assuring-accurate-research-record)
@@ -140,10 +143,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
-* [2025-05-15, 21:45:25](https://lobste.rs/s/ybjgex/leap_year_check_three_instructions) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss) - [\&quot;Prompt Engineering\&quot; Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
-* [2025-05-15, 17:08:20](https://news.ycombinator.com/item?id=43997071) - [The Joys of Discovering the Roman Underground](https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/)
+* [2025-05-15, 17:14:28](https://news.ycombinator.com/item?id=43997135) - [Popcorn: Run Elixir in WASM](https://popcorn.swmansion.com/)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss) - [&apos;World&apos;s First&apos; AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss)
@@ -156,8 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-14, 10:37:00](https://soylentnews.org/article.pl?sid=25/05/13/0245205&amp;from=rss) - [You Think Ransomware is Bad Now? Wait Until It Infects CPUs](https://soylentnews.org/article.pl?sid=25/05/13/0245205&amp;from=rss)
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
 * [2025-05-14, 05:51:00](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss) - [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss)
-* [2025-05-14, 05:44:32](https://news.ycombinator.com/item?id=43981198) - [How can traditional British TV survive the US streaming giants](https://www.bbc.co.uk/news/articles/cx2enydkew3o)
 * [2025-05-14, 01:04:00](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss) - [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&amp;from=rss)
+* [2025-05-13, 21:26:12](https://news.ycombinator.com/item?id=43977901) - [Fixrleak: Fixing Java Resource Leaks with GenAI](https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
 * [2025-05-13, 20:19:00](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss) - [Wikipedia Launches Legal Challenge Against UK Government](https://soylentnews.org/article.pl?sid=25/05/13/0140243&amp;from=rss)
 * [2025-05-13, 15:35:00](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss) - [Charting the Future of Biotechnology and AI](https://soylentnews.org/article.pl?sid=25/05/13/0133228&amp;from=rss)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
