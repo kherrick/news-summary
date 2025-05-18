@@ -1,44 +1,74 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Advances
+## Technology and Software Development
 
-* [China's Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss)
+* [Java Native Interface Integration with Rust](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8) - A practical guide shows how to supercharge Java projects by integrating with Rust using the Java Native Interface (JNI).
 
-* [Researchers Finally Link Long Covid 'Brain Fog' to Inflammation](https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [QUIC restarts, slow problems: udpgrm to the rescue](https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/) - Cloudflare explains how udpgrm can address slow restarts and other issues in QUIC-based communications.
 
-* [NASA Resurrects Voyager 1 Interstellar Spacecraft's Thrusters After 20 Years](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A JavaScript library for building parsers, interpreters, compilers, and more](https://ohmjs.org/) - A versatile library for creating advanced language tools in JavaScript.
 
-## Cybersecurity Updates
+* [Stack Overflow Seeks Realignment 'To Support the Builders of the Future in an AI World'](https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Stack Overflow discusses its vision to support developers in a rapidly evolving AI-driven landscape.
 
-* [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/) - [Comments](https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025)
+* [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67) - An analysis of how each programming language thrives in particular application domains.
 
-* [Curl Warns GitHub About 'Malicious Unicode' Security Issue](https://developers.slashdot.org/story/25/05/17/0420236/curl-warns-github-about-malicious-unicode-security-issue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://developers.slashdot.org/story/25/05/17/0420236/curl-warns-github-about-malicious-unicode-security-issue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Xata: Postgres with data branching and PII anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization) - A unique take on PostgreSQL featuring advanced data anonymization and flexible branching capabilities.
 
-* [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/) - [Comments 1](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) [Comments 2](https://news.ycombinator.com/item?id=44013913)
+* [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz) - Neal Stephenson offers his perspective on advancements and challenges in artificial intelligence.
 
-## Programming and Software
+* [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/) - Facebook introduces Pyrefly, a type-checking tool aimed at enhancing development workflows for Python.
 
-* [Google Restores Nextcloud Users' File Access on Android](https://tech.slashdot.org/story/25/05/17/2312252/google-restores-nextcloud-users-file-access-on-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://tech.slashdot.org/story/25/05/17/2312252/google-restores-nextcloud-users-file-access-on-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso) - A feature-rich text expander leveraging the Rust programming language for cross-platform capabilities.
 
-* [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management) - [Comments](https://lobste.rs/s/ezvcin/javascript_s_new_superpower_explicit)
+* [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html) - Microsoft introduces a project aiming to bring better concurrency mechanisms to Python development.
 
-* [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424) - [Comments](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets)
+## Hardware and Performance Updates
 
-## AI and Machine Learning
+* [China's Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&from=rss) - Highlights of Hygon's new high-performance 128-core processor.
 
-* [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora) - [Comments](https://news.ycombinator.com/item?id=44017913)
+* [Intel Struggles To Reverse AMD's Share Gains In x86 CPU Market](https://hardware.slashdot.org/story/25/05/17/2032204/intel-struggles-to-reverse-amds-share-gains-in-x86-cpu-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Intel faces increasing challenges in competing with AMD's growing CPU market share.
 
-* [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034) - [Comments](https://news.ycombinator.com/item?id=44016564)
+* [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html) - GNU releases version 1.0 of its digital payment system focused on privacy and fairness.
 
-* [Stack Overflow Seeks Realignment 'To Support the Builders of the Future in an AI World'](https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [ARMv9 Architecture Helps Lift Arm to New Financial Heights](https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/) - Insights into the architectural advancements driving ARM's commercial success.
 
-## Cultural and Historical Discoveries
+* [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&from=rss) - Nvidia reacts to economic factors by adjusting its GPU pricing.
 
-* [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/) - [Comments](https://news.ycombinator.com/item?id=44017692)
+## Privacy and Security
 
-* [Paleontologists Identify Tiny Three-Eyed 'Sea Moth' Predator in Fossils](https://science.slashdot.org/story/25/05/17/0520213/paleontologists-identify-tiny-three-eyed-sea-moth-predator-in-fossils?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://science.slashdot.org/story/25/05/17/0520213/paleontologists-identify-tiny-three-eyed-sea-moth-predator-in-fossils?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424) - Alarming evidence reveals unsafe practices in logging sensitive data by Postman.
 
-* [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/05/13/0234223&amp;from=rss)
+* [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/) - Let’s Encrypt announces an end to TLS client authentication certificates.
+
+* [Proton threatens to quit Switzerland over new surveillance law](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law) - Proton voices concerns and threats of relocation due to privacy law challenges in Switzerland.
+
+* [Easily Using SSH with FIDO2/U2F Hardware Security Keys](https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/) - A straightforward guide on securing SSH with hardware tokens.
+
+* [Curl Warns GitHub About 'Malicious Unicode' Security Issue](https://developers.slashdot.org/story/25/05/17/0420236/curl-warns-github-about-malicious-unicode-security-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security experts caution GitHub over Unicode vulnerabilities impacting code integrity.
+
+## Science and Exploration
+
+* [NASA Resurrects Voyager 1 Interstellar Spacecraft's Thrusters After 20 Years](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA demonstrates ingenuity by reviving aged technology in Voyager 1.
+
+* [Researchers Finally Link Long Covid 'Brain Fog' to Inflammation](https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists uncover physical factors contributing to lingering COVID-induced brain fog.
+
+* [Paleontologists Identify Tiny Three-Eyed 'Sea Moth' Predator in Fossils](https://science.slashdot.org/story/25/05/17/0520213/paleontologists-identify-tiny-three-eyed-sea-moth-predator-in-fossils?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Fossil evidence illuminates the evolution of curious marine predators.
+
+* [The Viking Age is Undergoing a Revisionist Transformation](https://soylentnews.org/article.pl?sid=25/05/13/0234223&from=rss) - Historians reassess long-held beliefs about the Viking Age's history and culture.
+
+* [The Most Promising Ways to Destroy 'Forever Chemicals'](https://news.slashdot.org/story/25/05/17/0645218/the-most-promising-ways-to-destroy-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating innovative methods to break down hazardous long-lasting chemicals.
+
+## Artificial Intelligence and Machine Learning
+
+* [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034) - A fresh perspective on demystifying AI transformers through statistical models.
+
+* [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora) - A groundbreaking tool to create anime videos using machine learning.
+
+* [“Prompt Engineering” Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&from=rss) - A reflection on how AI prompts transition from specialized jobs to everyday expertise.
+
+* [Nvidia NeMo Microservices to Embed AI Agents in Workflows](https://soylentnews.org/article.pl?sid=25/05/13/020213&from=rss) - Nvidia unveils microservices designed to seamlessly integrate AI agents into workflows.
+
+* [Is the Altruistic OpenAI Gone?](https://slashdot.org/story/25/05/17/1925212/is-the-altruistic-openai-gone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines concerns of mission drift within OpenAI amidst commercialization efforts.
 
 ---
 
@@ -65,13 +95,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-18, 08:54:50](https://lobste.rs/s/nuknfg/java_native_interface_integration_with) - [Java Native Interface Integration with Rust](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8)
+* [2025-05-18, 07:34:00](https://linux.slashdot.org/story/25/05/18/0452232/9-months-later-microsoft-finally-fixes-linux-dual-booting-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [9 Months Later, Microsoft Finally Fixes Linux Dual-Booting Bug](https://linux.slashdot.org/story/25/05/18/0452232/9-months-later-microsoft-finally-fixes-linux-dual-booting-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 * [2025-05-18, 05:32:50](https://lobste.rs/s/olwjn7/mystical) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-18, 05:12:00](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - [China&apos;s Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss)
+* [2025-05-18, 04:55:55](https://lobste.rs/s/mrqshv/ending_tls_client_authentication) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 03:34:00](https://developers.slashdot.org/story/25/05/18/019247/ask-slashdot-would-you-consider-a-low-latency-javascript-runtime-for-your-workflow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot: Would You Consider a Low-Latency JavaScript Runtime For Your Workflow?](https://developers.slashdot.org/story/25/05/18/019247/ask-slashdot-would-you-consider-a-low-latency-javascript-runtime-for-your-workflow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-18, 03:13:47](https://news.ycombinator.com/item?id=44018741) - [Pglocks.org](https://pglocks.org/)
 * [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
 * [2025-05-18, 02:15:50](https://lobste.rs/s/6kovtw/every_programming_language_has_its) - [Every programming language has its &apos;killer&apos; domain](https://huijzer.xyz/posts/67)
-* [2025-05-18, 01:57:39](https://news.ycombinator.com/item?id=44018386) - [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 * [2025-05-18, 01:34:00](https://tech.slashdot.org/story/25/05/17/2312252/google-restores-nextcloud-users-file-access-on-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Restores Nextcloud Users&apos; File Access on Android](https://tech.slashdot.org/story/25/05/17/2312252/google-restores-nextcloud-users-file-access-on-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
@@ -123,23 +156,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-17, 07:00:00](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Resurrects Voyager 1 Interstellar Spacecraft&apos;s Thrusters After 20 Years](https://science.slashdot.org/story/25/05/17/0111201/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
 * [2025-05-17, 03:30:00](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Clears First Blood Test To Help Diagnose Alzheimer&apos;s Disease](https://science.slashdot.org/story/25/05/16/2143244/fda-clears-first-blood-test-to-help-diagnose-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay_2022) - [Using unwrap() in Rust is Okay (2022)](https://burntsushi.net/unwrap/)
-* [2025-05-17, 01:35:00](https://it.slashdot.org/story/25/05/17/0135210/microsofts-command-palette-is-a-powerful-launcher-for-apps-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Command Palette is a Powerful Launcher For Apps, Search](https://it.slashdot.org/story/25/05/17/0135210/microsofts-command-palette-is-a-powerful-launcher-for-apps-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
 * [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)
 * [2025-05-16, 20:30:28](https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can) - [Senior devs aren&apos;t just faster, they can dodge problems juniors are forced to solve](https://boydkane.com/essays/experts)
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss)
-* [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss) - [FTC Pushes The Enforcement Of Its &apos;Click-To-Cancel&apos; Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
 * [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss) - [\&quot;Prompt Engineering\&quot; Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss)
-* [2025-05-15, 15:44:03](https://news.ycombinator.com/item?id=43996226) - [Weather Report from Saturn&apos;s Moon Titan](https://www.sci.news/astronomy/titan-weather-13907.html)
+* [2025-05-15, 19:17:23](https://news.ycombinator.com/item?id=43998341) - [Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code](https://github.com/pixeltable/pixelagent)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss) - [&apos;World&apos;s First&apos; AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss)
-* [2025-05-15, 14:31:53](https://news.ycombinator.com/item?id=43995501) - [How I fixed the infamous Basilisk II Windows “Black Screen” bug in 2013](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
+* [2025-05-15, 12:10:30](https://news.ycombinator.com/item?id=43994190) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
 * [2025-05-15, 10:58:09](https://news.ycombinator.com/item?id=43993707) - [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss)
 * [2025-05-15, 05:47:00](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss) - [Copyright Office Thinks AI Companies Sometimes Stole Content](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss)
