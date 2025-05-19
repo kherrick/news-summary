@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
+## Cybersecurity and Software Vulnerabilities
 
-* [Another HTML/CSS engine](https://github.com/skift-org/vaev) introduces a fresh browser engine developed from scratch. [Comments](https://lobste.rs/s/b019cn/another_html_css_engine)
+* [Delivering malware via Google Calendar invites and PUAs in an npm package](https://www.aikido.dev/blog/youre-invited-delivering-malware-via-google-calendar-invites-and-puas) ([comments](https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar))
 
-* [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html) explores bio-luminescence in life and its disappearance after death. [Comments](https://news.ycombinator.com/item?id=44025324)
+* [Mimalloc Cigarette: Losing one week of my life catching a memory leak](https://pwy.io/posts/mimalloc-cigarette/) ([comments](https://lobste.rs/s/mwvvha/mimalloc_cigarette_losing_one_week_my))
 
-* [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/) celebrates the landmark anniversary of the Rust programming language. [Comments](https://lobste.rs/s/wwac0i/rust_turns_10)
+* [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424) ([comments](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets))
 
-* [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/) highlights a project that democratizes humanoid robotics. [Comments](https://news.ycombinator.com/item?id=44023680)
+## Programming and Development Highlights
 
-* [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev) showcases a new browser engine with unique functionality. [Comments](https://news.ycombinator.com/item?id=44023144)
+* [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript) ([comments](https://news.ycombinator.com/item?id=44026799))
 
-## Science and Environmental Advances
+* [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev) ([comments](https://news.ycombinator.com/item?id=44023144))
 
-* [Since 2022 Nuclear Fusion Breakthrough, US Researchers Have More Than Doubled Its Power Output](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines progress toward sustainable energy. [Comments](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [async/await versus the Calloop Model](https://notgull.net/calloop/) ([comments](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model))
 
-* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss) discusses the possibility of water reserves on Mars and its implications. [Comments](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss)
+## Space and Scientific Discoveries
 
-* [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&from=rss) revisits an enduring programming tool for developers. [Comments](https://soylentnews.org/article.pl?sid=25/05/14/1143244&from=rss)
+* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss))
 
-## AI and Machine Learning
+* [Since 2022 Nuclear Fusion Breakthrough, US Researchers Have More Than Doubled Its Power Output](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Why We&apos;re Unlikely to Get Artificial General Intelligence Any Time Soon](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed) critiques the challenges of achieving AGI. [Comments](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Artificial Intelligence and Machine Learning
 
-* [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux) questions the design around large language model interfaces. [Comments](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s)
+* [Why We&apos;re Unlikely to Get Artificial General Intelligence Any Time Soon](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Societal and Historical Insights
+* [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368) ([comments](https://news.ycombinator.com/item?id=44022484))
 
-* [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc) reports on the economic shifts in educational hubs. [Comments](https://news.ycombinator.com/item?id=44026202)
+## History and Retrospectives
 
-* [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1) documents the formative years of the internet in Asia. [Comments](https://lobste.rs/s/gdyjew/asia_internet_history_first_decade_1980)
+* [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1) ([comments](https://lobste.rs/s/gdyjew/asia_internet_history_first_decade_1980))
 
-## Software and Database Development
-
-* [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/) delves into foundational principles in database architecture. [Comments](https://news.ycombinator.com/item?id=44026201)
-
-* [Async/await versus the Calloop Model](https://notgull.net/calloop/) compares two concurrency models in software design. [Comments](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model)
-
-## Engineering and Maker Projects
-
-* [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html) demonstrates a DIY solution for smart-home enthusiasts. [Comments](https://news.ycombinator.com/item?id=44022758)
-
-* [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html) shares the joy of recreating nostalgic technology. [Comments](https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc)
+* [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/) ([comments](https://lobste.rs/s/wwac0i/rust_turns_10))
 
 ---
 
@@ -69,20 +59,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-19, 06:08:03](https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar) - [Delivering malware via Google Calendar invites and PUAs in an npm package](https://www.aikido.dev/blog/youre-invited-delivering-malware-via-google-calendar-invites-and-puas)
+* [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
+* [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss)
 * [2025-05-19, 03:47:41](https://lobste.rs/s/b019cn/another_html_css_engine) - [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 * [2025-05-19, 03:43:54](https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine) - [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
 * [2025-05-19, 03:06:00](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Since 2022 Nuclear Fusion Breakthrough, US Researchers Have More Than Doubled Its Power Output](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-19, 02:58:46](https://news.ycombinator.com/item?id=44026202) - [America&apos;s College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
 * [2025-05-19, 02:58:27](https://news.ycombinator.com/item?id=44026201) - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
-* [2025-05-19, 01:42:38](https://news.ycombinator.com/item?id=44025851) - [The Utter Flimsiness of XAI&apos;s Processes](https://smol.news/p/the-utter-flimsiness-of-xais-processes)
 * [2025-05-19, 01:40:39](https://lobste.rs/s/gdyjew/asia_internet_history_first_decade_1980) - [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1)
 * [2025-05-19, 01:39:38](https://lobste.rs/s/lnr9im/mapgen4_trade_routes) - [Mapgen4 trade routes](https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/)
 * [2025-05-19, 00:38:34](https://news.ycombinator.com/item?id=44025484) - [Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.](https://www.remoteswe.fyi)
 * [2025-05-19, 00:33:27](https://lobste.rs/s/xtkhq8/testdesiderata) - [TestDesiderata](https://testdesiderata.com/)
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
-* [2025-05-19, 00:12:16](https://news.ycombinator.com/item?id=44025324) - [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
 * [2025-05-19, 00:06:00](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why We&apos;re Unlikely to Get Artificial General Intelligence Any Time Soon](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
 * [2025-05-18, 23:34:39](https://lobste.rs/s/iqxqcd/little_editor_could) - [The little editor that could](https://www.youtube.com/watch?v=GoyNMFccbow)
@@ -111,12 +101,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-18, 16:01:41](https://lobste.rs/s/aluo6d/macos_vms_docker_container) - [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-18, 15:56:18](https://news.ycombinator.com/item?id=44022265) - [Show HN: Buckaroo – Data table UI for Notebooks](https://github.com/paddymul/buckaroo)
 * [2025-05-18, 15:48:57](https://news.ycombinator.com/item?id=44022225) - [Spaced Repetition Memory System](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
+* [2025-05-18, 15:47:53](https://news.ycombinator.com/item?id=44022215) - [What do wealthy people buy, that ordinary people know nothing about? (2015)](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/)
 * [2025-05-18, 15:34:00](https://tech.slashdot.org/story/25/05/18/0558219/firefox-announces-same-day-update-after-two-minor-pwn2own-exploits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Announces Same-Day Update After Two Minor Pwn2Own Exploits](https://tech.slashdot.org/story/25/05/18/0558219/firefox-announces-same-day-update-after-two-minor-pwn2own-exploits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 14:50:40](https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:38:00](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss) - [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss)
 * [2025-05-18, 14:34:00](https://news.slashdot.org/story/25/05/18/044230/osus-open-source-lab-eyes-infrastructure-upgrades-and-sustainability-after-recent-funding-success?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OSU&apos;s Open Source Lab Eyes Infrastructure Upgrades and Sustainability After Recent Funding Success](https://news.slashdot.org/story/25/05/18/044230/osus-open-source-lab-eyes-infrastructure-upgrades-and-sustainability-after-recent-funding-success?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\&quot;Safe\&quot; YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:30:26](https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023) - [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
+* [2025-05-18, 12:08:52](https://news.ycombinator.com/item?id=44020734) - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10) - [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner&apos;s Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
@@ -132,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-17, 22:36:32](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets) - [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
 * [2025-05-17, 22:34:00](https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stack Overflow Seeks Realignment &apos;To Support the Builders of the Future in an AI World&apos;](https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-17, 21:51:33](https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025) - [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
-* [2025-05-17, 20:08:29](https://lobste.rs/s/goqzff/push_ifs_up_fors_down_2023) - [Push Ifs Up And Fors Down (2023)](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 19:39:00](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss) - [NCSC and Industry at Odds Over How to Tackle Shoddy Software](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan&apos;s IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
@@ -148,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss)
 * [2025-05-16, 14:05:52](https://news.ycombinator.com/item?id=44005692) - [Show HN: A platform to find tech conferences, discounts, and ticket giveaways](https://www.tech.tickets/)
-* [2025-05-16, 11:10:31](https://news.ycombinator.com/item?id=44003928) - [The Journal of Imaginary Research](https://journalofimaginaryresearch.home.blog/)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss) - [FTC Pushes The Enforcement Of Its &apos;Click-To-Cancel&apos; Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
@@ -158,5 +148,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss) - [&apos;World&apos;s First&apos; AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss)
 * [2025-05-15, 13:48:46](https://news.ycombinator.com/item?id=43995067) - [New research reveals the strongest solar event ever detected, in 12350 BC](https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss)
+* [2025-05-15, 09:34:28](https://news.ycombinator.com/item?id=43993311) - [Llama from scratch (2023)](https://blog.briankitano.com/llama-from-scratch/)
 * [2025-05-15, 05:47:00](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss) - [Copyright Office Thinks AI Companies Sometimes Stole Content](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss)
 * [2025-05-15, 01:01:00](https://soylentnews.org/article.pl?sid=25/05/14/0413235&amp;from=rss) - [New Way To Pull Uranium From Water Can Help China&apos;s Nuclear Power Push](https://soylentnews.org/article.pl?sid=25/05/14/0413235&amp;from=rss)
