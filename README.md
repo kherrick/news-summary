@@ -1,46 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments
+## Mergers and Acquisitions
 
-* [Microsoft's Edit on Windows is a New Command-Line Text Editor](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft's new command-line text editor aims to enhance developer workflows.
+* [Regeneron Pharmaceuticals To Buy 23andMe and Its Data For $256 Million](https://yro.slashdot.org/story/25/05/19/2039213/regeneron-pharmaceuticals-to-buy-23andme-and-its-data-for-256-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regeneron makes a major acquisition by purchasing 23andMe, highlighting the growing value of genetic data.
 
-* [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/) - Announcement detailing Microsoft's decision to make its new text editor open source.
+* [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron) - Additional insights into the implications of the deal between 23andMe and Regeneron.
 
-* [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/) - In a significant move, Microsoft has open-sourced the Windows Subsystem for Linux.
+## AI and Technology Innovations
 
-* [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk) - Anthropic unveils its SDK for developers to access Claude models.
+* [AI is More Persuasive Than People in Online Debates](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Study reveals AI's superior persuasive capabilities in online discussions, sparking conversations on its societal impacts.
 
-* [Racket v8.17](https://blog.racket-lang.org/2025/05/racket-v8-17.html) - Release notes highlight features and updates in the latest version of the Racket programming language.
+* [Jules: An Asynchronous Coding Agent](https://jules.google/) - Explore Google's new asynchronous coding AI assistant aimed at improving developer workflows.
 
-## Artificial Intelligence and Automation
+* [LinkedIn Executive Warns AI Threatens Entry-Level Jobs as Graduate Unemployment Rises](https://slashdot.org/story/25/05/19/187253/linkedin-executive-warns-ai-threatens-entry-level-jobs-as-graduate-unemployment-rises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - LinkedIn warns about AI's disruptive influence on job markets, particularly affecting new graduates.
 
-* [LinkedIn Executive Warns AI Threatens Entry-Level Jobs as Graduate Unemployment Rises](https://slashdot.org/story/25/05/19/187253/linkedin-executive-warns-ai-threatens-entry-level-jobs-as-graduate-unemployment-rises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns rise over AI's impact on job markets and graduate employment.
+* [How Miami Schools Are Leading 100,000 Students Into the A.I. Future](https://news.slashdot.org/story/25/05/19/1451202/how-miami-schools-are-leading-100000-students-into-the-ai-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Miami's forward-thinking educational policies prepare students for a future heavily influenced by AI.
 
-* [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/) - GitHub introduces Copilot as a coding agent in public preview, emphasizing AI-assisted software development.
+## Open Source and Development
 
-## Society and Impact
+* [Microsoft&apos;s Edit on Windows is a New Command-Line Text Editor](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft introduces a new open-source command-line text editor, enhancing developer options.
 
-* [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html) - A unique historical perspective on an unusual train route connecting Vienna and Pyongyang.
+* [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/) - Further exploration of the impacts of opening Edit's source code.
 
-* [How Miami Schools Are Leading 100,000 Students Into the A.I. Future](https://news.slashdot.org/story/25/05/19/1451202/how-miami-schools-are-leading-100000-students-into-the-ai-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Miami schools innovate by integrating AI education for a large student base.
+* [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/) - Microsoft makes strides in transparency by open-sourcing its Windows Subsystem for Linux.
 
-## Technology and Environment
+## Gaming and Creativity
 
-* [Germany Drops Opposition To Nuclear Power](https://hardware.slashdot.org/story/25/05/19/1456219/germany-drops-opposition-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A policy shift as Germany reconsiders nuclear energy.
+* [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries) - Highlights from the creative entries submitted to the annual Lisp-focused game jam.
 
-* [Danes Are Finally Going Nuclear. They Have To, Because of All Their Renewables](https://hardware.slashdot.org/story/25/05/19/013209/danes-are-finally-going-nuclear-they-have-to-because-of-all-their-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Denmark turns to nuclear solutions to balance its renewable energy ambitions.
+* [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/) - Insight into how developers are crafting games without reliance on engines.
 
-## Historical and Cultural Insights
+## Sustainability and Energy
 
-* [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/) - Obituary for a prominent figure in the Ubuntu Linux community.
+* [Germany Drops Opposition To Nuclear Power](https://hardware.slashdot.org/story/25/05/19/1456219/germany-drops-opposition-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A policy shift as Germany reconsiders its stance on nuclear energy to reconcile energy goals.
 
-* [Wikipedia's Most Translated Articles](https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html) - Analysis of the most translated topics on Wikipedia reflects global cultural significance.
-
-## Research and Science
-
-* [Since 2022 Nuclear Fusion Breakthrough, US Researchers Have More Than Doubled Its Power Output](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Progress in nuclear fusion research highlights sustained advancements.
-
-* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - Scientists investigate the possibility of subsurface aqueous reserves on Mars.
+* [Danes Are Finally Going Nuclear. They Have To, Because of All Their Renewables](https://hardware.slashdot.org/story/25/05/19/013209/danes-are-finally-going-nuclear-they-have-to-because-of-all-their-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Blending nuclear and renewable energy, Denmark shifts its energy strategies.
 
 ---
 
@@ -67,17 +61,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-19, 21:30:00](https://yro.slashdot.org/story/25/05/19/2039213/regeneron-pharmaceuticals-to-buy-23andme-and-its-data-for-256-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Regeneron Pharmaceuticals To Buy 23andMe and Its Data For $256 Million](https://yro.slashdot.org/story/25/05/19/2039213/regeneron-pharmaceuticals-to-buy-23andme-and-its-data-for-256-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
+* [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
+* [2025-05-19, 20:50:00](https://slashdot.org/story/25/05/19/2033214/xais-grok-3-comes-to-microsoft-azure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [xAI&apos;s Grok 3 Comes To Microsoft Azure](https://slashdot.org/story/25/05/19/2033214/xais-grok-3-comes-to-microsoft-azure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-19, 20:35:34](https://news.ycombinator.com/item?id=44034536) - [FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs](https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/)
+* [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
+* [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
+* [2025-05-19, 20:10:00](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI is More Persuasive Than People in Online Debates](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-19, 19:37:47](https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025) - [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries)
+* [2025-05-19, 19:30:00](https://news.slashdot.org/story/25/05/19/195203/european-green-investments-hold-billions-in-fossil-fuel-majors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [European &apos;Green&apos; Investments Hold Billions in Fossil Fuel Majors](https://news.slashdot.org/story/25/05/19/195203/european-green-investments-hold-billions-in-fossil-fuel-majors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-19, 19:10:18](https://lobste.rs/s/wadme2/internationalization_puzzles) - [Internationalization puzzles](https://i18n-puzzles.com/)
+* [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss)
 * [2025-05-19, 18:53:00](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Edit on Windows is a New Command-Line Text Editor](https://developers.slashdot.org/story/25/05/19/1853221/microsofts-edit-on-windows-is-a-new-command-line-text-editor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:30:54](https://lobste.rs/s/vjhylh/steve_langasek_one_ubuntu_linux_s_leading) - [Steve Langasek, One of Ubuntu Linux&apos;s Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+* [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
 * [2025-05-19, 18:18:35](https://lobste.rs/s/aohy4i/python_frozenset_interpretation) - [A Python frozenset interpretation of Dependent Type Theory](https://www.philipzucker.com/frozenset_dtt/)
 * [2025-05-19, 18:10:00](https://slashdot.org/story/25/05/19/187253/linkedin-executive-warns-ai-threatens-entry-level-jobs-as-graduate-unemployment-rises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LinkedIn Executive Warns AI Threatens Entry-Level Jobs as Graduate Unemployment Rises](https://slashdot.org/story/25/05/19/187253/linkedin-executive-warns-ai-threatens-entry-level-jobs-as-graduate-unemployment-rises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 18:07:36](https://lobste.rs/s/qef6s9/microsoft_edit_is_now_open_source) - [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
-* [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
+* [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft&apos;s ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
-* [2025-05-19, 17:43:32](https://news.ycombinator.com/item?id=44032510) - [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
 * [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
 * [2025-05-19, 17:30:00](https://tech.slashdot.org/story/25/05/19/1729259/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Plan To Fix the Web: Letting Every Website Run AI Search for Cheap](https://tech.slashdot.org/story/25/05/19/1729259/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:54:00](https://news.slashdot.org/story/25/05/19/1654225/microsoft-open-sources-windows-subsystem-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Open Sources Windows Subsystem for Linux](https://news.slashdot.org/story/25/05/19/1654225/microsoft-open-sources-windows-subsystem-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
@@ -95,14 +102,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 15:22:00](https://news.slashdot.org/story/25/05/19/1451202/how-miami-schools-are-leading-100000-students-into-the-ai-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Miami Schools Are Leading 100,000 Students Into the A.I. Future](https://news.slashdot.org/story/25/05/19/1451202/how-miami-schools-are-leading-100000-students-into-the-ai-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 15:14:17](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading) - [New flag options for “misleading” and “clickbait”?](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading)
 * [2025-05-19, 15:14:08](https://lobste.rs/s/lolkdn/too_much_go_misdirection) - [too much go misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
-* [2025-05-19, 15:10:12](https://news.ycombinator.com/item?id=44030696) - [SDB Scans the Ruby Stack Without the GVL](https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md)
 * [2025-05-19, 15:01:20](https://lobste.rs/s/1debtb/malware_attack_counterattack) - [Malware attack and counterattack](https://www.antoineschmitt.com/malware-attack-and-counterattack/)
-* [2025-05-19, 14:55:53](https://news.ycombinator.com/item?id=44030560) - [Kelp – simple replacement for homebrew on macOS](https://github.com/crhuber/kelp)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-19, 14:40:00](https://yro.slashdot.org/story/25/05/19/1331229/new-south-wales-education-department-caught-unaware-after-microsoft-teams-began-collecting-students-biometric-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New South Wales Education Department Caught Unaware After Microsoft Teams Began Collecting Students&apos; Biometric Data](https://yro.slashdot.org/story/25/05/19/1331229/new-south-wales-education-department-caught-unaware-after-microsoft-teams-began-collecting-students-biometric-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss)
 * [2025-05-19, 14:00:00](https://slashdot.org/story/25/05/19/130213/thoughts-about-the-evolution-of-mainstream-macroeconomics-over-the-last-40-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thoughts About the Evolution of Mainstream Macroeconomics Over the Last 40 Years](https://slashdot.org/story/25/05/19/130213/thoughts-about-the-evolution-of-mainstream-macroeconomics-over-the-last-40-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
 * [2025-05-19, 13:21:49](https://lobste.rs/s/wfpw3u/justification_filler_phrases) - [Justification Filler Phrases](https://serce.me/posts/2025-05-19-justification-filler-phrases)
 * [2025-05-19, 13:12:00](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week)
 * [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
@@ -123,40 +127,31 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 03:43:54](https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine) - [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
 * [2025-05-19, 03:06:00](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Since 2022 Nuclear Fusion Breakthrough, US Researchers Have More Than Doubled Its Power Output](https://hardware.slashdot.org/story/25/05/19/0044238/since-2022-nuclear-fusion-breakthrough-us-researchers-have-more-than-doubled-its-power-output?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
-* [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
-* [2025-05-19, 00:06:00](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why We&apos;re Unlikely to Get Artificial General Intelligence Any Time Soon](https://slashdot.org/story/25/05/19/003225/why-were-unlikely-to-get-artificial-general-intelligence-any-time-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
-* [2025-05-18, 22:19:00](https://games.slashdot.org/story/25/05/18/2216254/bungie-blames-stolen-marathon-art-on-former-developer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bungie Blames Stolen &apos;Marathon&apos; Art On Former Developer](https://games.slashdot.org/story/25/05/18/2216254/bungie-blames-stolen-marathon-art-on-former-developer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-18, 21:02:00](https://tech.slashdot.org/story/25/05/18/2059226/the-people-stuck-using-ancient-windows-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The People Stuck Using Ancient Windows Computers&apos;](https://tech.slashdot.org/story/25/05/18/2059226/the-people-stuck-using-ancient-windows-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
-* [2025-05-18, 20:11:09](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s) - [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
-* [2025-05-18, 19:59:00](https://tech.slashdot.org/story/25/05/18/1957205/why-two-amazon-drones-crashed-at-a-test-facility-in-a-december?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Two Amazon Drones Crashed at a Test Facility in a December](https://tech.slashdot.org/story/25/05/18/1957205/why-two-amazon-drones-crashed-at-a-test-facility-in-a-december?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss)
-* [2025-05-18, 16:01:41](https://lobste.rs/s/aluo6d/macos_vms_docker_container) - [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-18, 14:38:00](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss) - [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss)
-* [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\&quot;Safe\&quot; YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that&apos;s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
-* [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner&apos;s Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2025-05-18, 09:53:00](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss) - [White House Scraps Plan to Block Data Brokers From Selling Americans’ Sensitive Data](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss)
 * [2025-05-18, 05:12:00](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - [China&apos;s Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss)
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss)
 * [2025-05-17, 19:39:00](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss) - [NCSC and Industry at Odds Over How to Tackle Shoddy Software](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss)
 * [2025-05-17, 14:50:00](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss) - [EU Bug Database Fully Operational as US Slashes Infosec](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss)
+* [2025-05-17, 13:49:06](https://news.ycombinator.com/item?id=44014323) - [Show HN: A MCP server to evaluate Python code in WASM VM using RustPython](https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py)
 * [2025-05-17, 10:05:00](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss) - [A US Court Just Put Ownership of CRISPR Back in Play](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss)
 * [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss)
+* [2025-05-16, 19:03:32](https://news.ycombinator.com/item?id=44008793) - [Dominion Energy&apos;s NEM 2.0 Proposal: What It Means for Solar in Virginia](https://www.virtuesolar.com/2025/05/16/dominion-nem-2/)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss)
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss)
+* [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run your GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss) - [FTC Pushes The Enforcement Of Its &apos;Click-To-Cancel&apos; Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-16, 00:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss) - [When Your Favorite Song Plays, Your Brain ‘Physically Embodies’ Music](https://soylentnews.org/article.pl?sid=25/05/15/0147219&amp;from=rss)
-* [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 20:00:00](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss) - [\&quot;Prompt Engineering\&quot; Is No Longer A Job, But A Skill](https://soylentnews.org/article.pl?sid=25/05/14/0440229&amp;from=rss)
-* [2025-05-15, 18:50:08](https://news.ycombinator.com/item?id=43998075) - [About Asteroids, Atari&apos;s biggest arcade hit](https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade)
-* [2025-05-15, 16:15:47](https://news.ycombinator.com/item?id=43996515) - [Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting](https://github.com/habedi/cogitator)
 * [2025-05-15, 15:16:00](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss) - [&apos;World&apos;s First&apos; AMD GPU Driven Via USB3 - Tiny Corp Tests EGPUs on Apple Silicon, Linux and Windows](https://soylentnews.org/article.pl?sid=25/05/14/1148216&amp;from=rss)
 * [2025-05-15, 10:30:00](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss) - [A New Lazarus Arises – for the Fourth Time – for Pascal Fans](https://soylentnews.org/article.pl?sid=25/05/14/1143244&amp;from=rss)
 * [2025-05-15, 05:47:00](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss) - [Copyright Office Thinks AI Companies Sometimes Stole Content](https://soylentnews.org/politics/article.pl?sid=25/05/14/1136218&amp;from=rss)
