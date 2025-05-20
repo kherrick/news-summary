@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Developments and Innovations
+## Gaming and Creative Development
 
-* [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/) - A proposal for a compact and efficient annotation server designed to streamline data analysis. [Comments](https://lobste.rs/s/srktmw/ann_small_annotation_server)
+* [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/) explores innovative lighting techniques used in classic game design on the Nintendo 64. [Comments](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64)
 
-* [CERN Gears Up To Ship Antimatter Across Europe](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - CERN's pioneering plans to transport antimatter across European borders with potential futuristic applications. [Comments](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/) shares insights on developing games from scratch without pre-made engines. [Comments](https://news.ycombinator.com/item?id=44038209)
 
-* [Google Launches NotebookLM App For Android and iOS](https://tech.slashdot.org/story/25/05/19/211254/google-launches-notebooklm-app-for-android-and-ios?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google debuts a new productivity and note-taking app leveraging AI on mobile platforms. [Comments](https://tech.slashdot.org/story/25/05/19/211254/google-launches-notebooklm-app-for-android-and-ios?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries) highlights entries from a Lisp-based game development competition. [Comments](https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025)
 
-* [Apple's Next-Gen Version of Siri Is 'On Par' With ChatGPT](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple's Siri takes a massive leap forward, rivaling capabilities previously unique to ChatGPT. [Comments](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI and Machine Learning Innovations
 
-* [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/) - GitHub's AI-driven coding assistant enters public preview, promising enhanced developer workflows. [Comments](https://news.ycombinator.com/item?id=44031432)
+* [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres) discusses lessons learned from overestimating AI's capabilities in scientific research. [Comments](https://news.ycombinator.com/item?id=44037941)
 
-## AI and Machine Learning
+* [Apple's Next-Gen Version of Siri Is 'On Par' With ChatGPT](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) compares advancements in voice AI systems. [Comments](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI is More Persuasive Than People in Online Debates](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New studies reveal how AI outpaces human counterparts in influencing opinions during online discussions. [Comments](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI is More Persuasive Than People in Online Debates](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) explores AI outperforming humans in debate contexts. [Comments](https://slashdot.org/story/25/05/19/1910215/ai-is-more-persuasive-than-people-in-online-debates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195) - Speculative discussion on the timeline and scope of AI replacing managerial roles. [Comments](https://news.ycombinator.com/item?id=44037195)
+## Technological Innovations and Tools
 
-* [Jules: An Asynchronous Coding Agent](https://jules.google/) - Introduction to a tool that streamlines asynchronous coding challenges. [Comments](https://news.ycombinator.com/item?id=44034918)
+* [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/) details a unique experience of using AR glasses for development work. [Comments](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar)
 
-* [Is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai) - A lighthearted but functional implementation of AI to determine if numbers are even. [Comments](https://news.ycombinator.com/item?id=44036438)
+* [Kilo: A text editor in less than 1000 LOC with syntax highlight and search](https://github.com/antirez/kilo) showcases a minimalist, lightweight coding tool. [Comments](https://news.ycombinator.com/item?id=44034459)
 
-## Explorations in Cybersecurity and Privacy
+* [Introducing Obelisk deterministic workflow engine](https://obeli.sk/blog/introducing-obelisk/) unveils a new workflow engine designed for predictable and reproducible operations. [Comments](https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic)
 
-* [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/) - Massive leaked data raises security concerns and ethical questions about hacking. [Comments](https://news.ycombinator.com/item?id=44036647)
+## Privacy, Security, and Ethical Concerns
 
-* [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/) - The latest iteration of a well-known cybersecurity tool for tracking personal data breaches. [Comments](https://news.ycombinator.com/item?id=44035158)
+* [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) raises concerns about unethical consent processes for data collection. [Comments](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss)
 
-* [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss) - Controversy erupts as Nextcloud confronts Google's app distribution policies. [Comments](https://soylentnews.org/article.pl?sid=25/05/18/1411244&from=rss)
+* [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/) reveals a major data breach with significant risks. [Comments](https://news.ycombinator.com/item?id=44036647)
 
-## Scientific Discoveries and Space Exploration
+* [Sony Mass-Bans Russian PlayStation Accounts](https://games.slashdot.org/story/25/05/19/2112252/sony-mass-bans-russian-playstation-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) explores the interplay of global politics and digital platforms. [Comments](https://games.slashdot.org/story/25/05/19/2112252/sony-mass-bans-russian-playstation-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss) - New research hints at possibilities of vast, hidden oceans beneath the Martian surface. [Comments](https://soylentnews.org/article.pl?sid=25/05/18/1252203&from=rss)
+## Science and Environment
 
-* [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&from=rss) - Ingenious solutions extend the life of NASA's iconic Voyager 1 mission. [Comments](https://soylentnews.org/article.pl?sid=25/05/16/1759244&from=rss)
+* [CERN Gears Up To Ship Antimatter Across Europe](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) emphasizes progress in high-energy physics logistics. [Comments](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Creative and Niche Explorations
+* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) highlights exciting possibilities for extraterrestrial water on Mars. [Comments](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
 
-* [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/) - A unique mathematical visualization that stems from a casual thought experiment. [Comments](https://news.ycombinator.com/item?id=44036716)
-
-* [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/) - A deep dive into the challenges and rewards of developing games from scratch. [Comments](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine)
-
-* [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/) - A meticulous and slower approach to preserving web pages for posterity. [Comments](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way)
+* [Germany Drops Opposition To Nuclear Power](https://hardware.slashdot.org/story/25/05/19/1456219/germany-drops-opposition-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) signifies a shift in energy policy for a sustainable future. [Comments](https://hardware.slashdot.org/story/25/05/19/1456219/germany-drops-opposition-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -69,20 +65,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
+* [2025-05-20, 05:57:40](https://lobste.rs/s/ptmvyy/ircjournal_real_time_web_irc_log_viewer) - [ircjournal: Real-time web IRC log viewer](https://github.com/zopieux/ircjournal)
+* [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
+* [2025-05-20, 05:47:55](https://news.ycombinator.com/item?id=44038168) - [Cleo, the mathematician that tricked Stack Exchange](https://en.wikipedia.org/wiki/Cleo_(mathematician))
+* [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here&apos;s what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
+* [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss)
+* [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 03:30:00](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CERN Gears Up To Ship Antimatter Across Europe](https://science.slashdot.org/story/25/05/19/2124234/cern-gears-up-to-ship-antimatter-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 * [2025-05-20, 02:55:32](https://news.ycombinator.com/item?id=44037319) - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
-* [2025-05-20, 02:28:29](https://news.ycombinator.com/item?id=44037195) - [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
 * [2025-05-20, 01:36:15](https://news.ycombinator.com/item?id=44036900) - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
+* [2025-05-20, 01:34:02](https://lobste.rs/s/6n9ues/defense_old_pixel) - [In defense of an old pixel](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2025-05-20, 01:25:01](https://news.ycombinator.com/item?id=44036829) - [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
 * [2025-05-20, 01:04:14](https://news.ycombinator.com/item?id=44036716) - [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
 * [2025-05-20, 00:52:27](https://news.ycombinator.com/item?id=44036647) - [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
 * [2025-05-20, 00:50:00](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Next-Gen Version of Siri Is &apos;On Par&apos; With ChatGPT](https://apple.slashdot.org/story/25/05/19/2119226/apples-next-gen-version-of-siri-is-on-par-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-20, 00:19:44](https://news.ycombinator.com/item?id=44036438) - [Is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
 * [2025-05-20, 00:10:00](https://games.slashdot.org/story/25/05/19/2112252/sony-mass-bans-russian-playstation-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Mass-Bans Russian PlayStation Accounts](https://games.slashdot.org/story/25/05/19/2112252/sony-mass-bans-russian-playstation-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss)
 * [2025-05-19, 23:30:00](https://hardware.slashdot.org/story/25/05/19/2047236/qualcomm-to-launch-data-center-processors-that-link-to-nvidia-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qualcomm To Launch Data Center Processors That Link To Nvidia Chips](https://hardware.slashdot.org/story/25/05/19/2047236/qualcomm-to-launch-data-center-processors-that-link-to-nvidia-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-19, 22:53:17](https://news.ycombinator.com/item?id=44035793) - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
 * [2025-05-19, 22:50:26](https://news.ycombinator.com/item?id=44035770) - [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
 * [2025-05-19, 22:50:00](https://tech.slashdot.org/story/25/05/19/2054230/google-decided-against-offering-publishers-options-in-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Decided Against Offering Publishers Options In AI Search](https://tech.slashdot.org/story/25/05/19/2054230/google-decided-against-offering-publishers-options-in-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
@@ -110,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:30:00](https://tech.slashdot.org/story/25/05/19/1729259/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Plan To Fix the Web: Letting Every Website Run AI Search for Cheap](https://tech.slashdot.org/story/25/05/19/1729259/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
-* [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:54:00](https://news.slashdot.org/story/25/05/19/1654225/microsoft-open-sources-windows-subsystem-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Open Sources Windows Subsystem for Linux](https://news.slashdot.org/story/25/05/19/1654225/microsoft-open-sources-windows-subsystem-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 16:28:18](https://news.ycombinator.com/item?id=44031535) - [Game theory illustrated by an animated cartoon game](https://ncase.me/trust/)
@@ -121,14 +122,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 15:40:32](https://news.ycombinator.com/item?id=44031009) - [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:28:30](https://lobste.rs/s/4hqkqt/is_winter_coming) - [Is Winter Coming?](https://www.datagubbe.se/winter/)
 * [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
-* [2025-05-19, 15:14:17](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading) - [New flag options for “misleading” and “clickbait”?](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading)
 * [2025-05-19, 15:14:08](https://lobste.rs/s/lolkdn/too_much_go_misdirection) - [too much go misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
-* [2025-05-19, 15:01:20](https://lobste.rs/s/1debtb/malware_attack_counterattack) - [Malware attack and counterattack](https://www.antoineschmitt.com/malware-attack-and-counterattack/)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss)
 * [2025-05-19, 13:21:49](https://lobste.rs/s/wfpw3u/justification_filler_phrases) - [Justification Filler Phrases](https://serce.me/posts/2025-05-19-justification-filler-phrases)
 * [2025-05-19, 13:12:00](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week)
-* [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don&apos;t Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 * [2025-05-19, 09:44:07](https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic) - [Introducing Obelisk deterministic workflow engine](https://obeli.sk/blog/introducing-obelisk/)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss)
@@ -141,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
 * [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss)
 * [2025-05-18, 14:38:00](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss) - [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss)
-* [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner&apos;s Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2025-05-18, 09:53:00](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss) - [White House Scraps Plan to Block Data Brokers From Selling Americans’ Sensitive Data](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss)
 * [2025-05-18, 05:12:00](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - [China&apos;s Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss)
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss)
@@ -149,13 +146,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-17, 14:50:00](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss) - [EU Bug Database Fully Operational as US Slashes Infosec](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss)
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 * [2025-05-17, 10:05:00](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss) - [A US Court Just Put Ownership of CRISPR Back in Play](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss)
-* [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [The man who visited every country in the world – without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
+* [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
 * [2025-05-16, 19:45:00](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss) - [Scientists Find Lead Really Can Be Turned Into Gold (With Help From The LHC)](https://soylentnews.org/article.pl?sid=25/05/15/0827220&amp;from=rss)
 * [2025-05-16, 15:01:00](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss) - [Why Bell Labs Worked](https://soylentnews.org/article.pl?sid=25/05/14/2259213&amp;from=rss)
-* [2025-05-16, 13:43:56](https://news.ycombinator.com/item?id=44005461) - [Microbes in Gowanus teach lessons on fighting industrial pollution](https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution)
 * [2025-05-16, 10:20:00](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss) - [A Chemical in Plastics is Tied to Heart Disease Deaths](https://soylentnews.org/article.pl?sid=25/05/15/0224241&amp;from=rss)
+* [2025-05-16, 09:57:29](https://news.ycombinator.com/item?id=44003530) - [Solving the local optima problem – NQueens](https://github.com/Dpbm/n-rainhas/blob/main/readme-en.md)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 05:32:00](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss) - [FTC Pushes The Enforcement Of Its &apos;Click-To-Cancel&apos; Rule Back To July](https://soylentnews.org/article.pl?sid=25/05/15/0157228&amp;from=rss)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
