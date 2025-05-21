@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming and Technology Innovations
+## Emerging Technology
 
-* [Writing into uninitialized buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/) - Learn about the complexities and techniques of working with uninitialized buffers in Rust. [Comments](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust)
+* [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss))
 
-* [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/) - A mathematical deep dive into convolutions and kernel flips in programming. [Comments](https://news.ycombinator.com/item?id=44048306)
+* [Google Launches Veo 3, an AI Video Generator That Incorporates Audio](https://tech.slashdot.org/story/25/05/20/2042219/google-launches-veo-3-an-ai-video-generator-that-incorporates-audio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/20/2042219/google-launches-veo-3-an-ai-video-generator-that-incorporates-audio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [KDE Is Getting a Native Virtual Machine Manager Called 'Karton'](https://tech.slashdot.org/story/25/05/20/2223215/kde-is-getting-a-native-virtual-machine-manager-called-karton?utm_source=rss1.0mainlinkanon&utm_medium=feed) - KDE introduces a virtual machine manager for improved system management. [Comments](https://tech.slashdot.org/story/25/05/20/2223215/kde-is-getting-a-native-virtual-machine-manager-called-karton?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss))
 
-## AI and Data Technologies
+* [Google Is Rolling Out AI Mode To Everyone In the US](https://tech.slashdot.org/story/25/05/20/2035200/google-is-rolling-out-ai-mode-to-everyone-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/20/2035200/google-is-rolling-out-ai-mode-to-everyone-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Google Launches Veo 3, an AI Video Generator That Incorporates Audio](https://tech.slashdot.org/story/25/05/20/2042219/google-launches-veo-3-an-ai-video-generator-that-incorporates-audio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore Google's new AI-powered video and audio generator. [Comments](https://tech.slashdot.org/story/25/05/20/2042219/google-launches-veo-3-an-ai-video-generator-that-incorporates-audio?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science and Space
 
-* [19-Year-Old Accused of Largest Child Data Breach in US Agrees To Plead Guilty To Federal Charges](https://yro.slashdot.org/story/25/05/21/026213/19-year-old-accused-of-largest-child-data-breach-in-us-agrees-to-plead-guilty-to-federal-charges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shocking insights into a massive data breach targeting children. [Comments](https://yro.slashdot.org/story/25/05/21/026213/19-year-old-accused-of-largest-child-data-breach-in-us-agrees-to-plead-guilty-to-federal-charges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Jupiter Was Formerly Twice Its Current Size and Had a Much Stronger Magnetic Field](https://science.slashdot.org/story/25/05/20/2241246/jupiter-was-formerly-twice-its-current-size-and-had-a-much-stronger-magnetic-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/20/2241246/jupiter-was-formerly-twice-its-current-size-and-had-a-much-stronger-magnetic-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&from=rss) - Amazon's AWS proposes nuclear energy expansion to sustain AI technology growth. [Comments](https://soylentnews.org/article.pl?sid=25/05/20/1136209&from=rss)
+* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss))
 
-## Gaming and Media Developments
+* [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss))
 
-* [Fortnite Returns To Apple US App Store After 5-Year Ban](https://apple.slashdot.org/story/25/05/21/0435258/fortnite-returns-to-apple-us-app-store-after-5-year-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Fortnite's long-anticipated comeback to Apple's App Store. [Comments](https://apple.slashdot.org/story/25/05/21/0435258/fortnite-returns-to-apple-us-app-store-after-5-year-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cybersecurity
 
-* [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met) - The Metropolitan Museum receives a rare collection of priceless guitars. [Comments](https://news.ycombinator.com/item?id=44047693)
+* [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss))
 
-* [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html) - Discover a retro game-making platform designed for the web. [Comments](https://news.ycombinator.com/item?id=44042371)
+* [19-Year-Old Accused of Largest Child Data Breach in US Agrees To Plead Guilty To Federal Charges](https://yro.slashdot.org/story/25/05/21/026213/19-year-old-accused-of-largest-child-data-breach-in-us-agrees-to-plead-guilty-to-federal-charges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/05/21/026213/19-year-old-accused-of-largest-child-data-breach-in-us-agrees-to-plead-guilty-to-federal-charges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Cybersecurity Insights
+* [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://tech.slashdot.org/story/25/05/20/2215258/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/20/2215258/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) - Analysis of a nearly record-breaking DDoS attack on a prominent cybersecurity site. [Comments](https://lobste.rs/s/bl1b9q/krebsonsecurity_hit_with_near_record_6_3)
+## Development and Open Source
 
-* [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&from=rss) - Intel processors face revelations of significant data vulnerabilities. [Comments](https://soylentnews.org/article.pl?sid=25/05/20/1131213&from=rss)
+* [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/) ([comments](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust))
 
-* [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss) - An ambitious satellite project targeting enhanced computing in space. [Comments](https://soylentnews.org/article.pl?sid=25/05/19/0847257&from=rss)
+* [The Windows Subsystem for Linux is Now Open Source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/) ([comments](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open))
 
-## Social and Cultural Highlights
+* [Optional Rust-In-FreeBSD Support May 2025 Status Report](https://hardenedbsd.org/article/shawn-webb/2025-05-20/optional-rust-freebsd-support-may-2025-status-report) ([comments](https://lobste.rs/s/juveen/optional_rust_freebsd_support_may_2025))
 
-* [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://news.slashdot.org/story/25/05/20/2019221/chicago-sun-times-prints-summer-reading-list-full-of-fake-books?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A quirky editorial mistake leads to a list of fictional books. [Comments](https://news.slashdot.org/story/25/05/20/2019221/chicago-sun-times-prints-summer-reading-list-full-of-fake-books?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Business and Economics
 
-* [Ask HN: Conversational AI to Learn a Language](https://news.ycombinator.com/item?id=44012549) - A discussion on using AI-powered conversational tools for language acquisition. [Comments](https://news.ycombinator.com/item?id=44012549)
+* [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss))
 
-* [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b) - An individual story of going off-the-grid with solar energy. [Comments](https://news.ycombinator.com/item?id=44023226)
+* [Japan's Honda To Scale Back On EVs, Focus On Hybrids](https://tech.slashdot.org/story/25/05/20/2237202/japans-honda-to-scale-back-on-evs-focus-on-hybrids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/20/2237202/japans-honda-to-scale-back-on-evs-focus-on-hybrids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss))
 
 ---
 
@@ -65,9 +67,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
+* [2025-05-21, 07:30:05](https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack) - [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
+* [2025-05-21, 07:00:00](https://science.slashdot.org/story/25/05/20/2241246/jupiter-was-formerly-twice-its-current-size-and-had-a-much-stronger-magnetic-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jupiter Was Formerly Twice Its Current Size and Had a Much Stronger Magnetic Field](https://science.slashdot.org/story/25/05/20/2241246/jupiter-was-formerly-twice-its-current-size-and-had-a-much-stronger-magnetic-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 06:31:53](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust) - [Writing into uninitialized buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
-* [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 04:35:00](https://apple.slashdot.org/story/25/05/21/0435258/fortnite-returns-to-apple-us-app-store-after-5-year-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fortnite Returns To Apple US App Store After 5-Year Ban](https://apple.slashdot.org/story/25/05/21/0435258/fortnite-returns-to-apple-us-app-store-after-5-year-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
@@ -79,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-21, 00:50:35](https://lobste.rs/s/dmx9e3/apply_coop_matching_people_with_jobs_fit) - [apply.coop - Matching people with jobs that fit their values &amp; passions](https://apply.coop)
 * [2025-05-21, 00:45:00](https://tech.slashdot.org/story/25/05/20/2223215/kde-is-getting-a-native-virtual-machine-manager-called-karton?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE Is Getting a Native Virtual Machine Manager Called &apos;Karton&apos;](https://tech.slashdot.org/story/25/05/20/2223215/kde-is-getting-a-native-virtual-machine-manager-called-karton?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 00:02:00](https://tech.slashdot.org/story/25/05/20/2215258/krebsonsecurity-hit-with-near-record-63-tbps-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://tech.slashdot.org/story/25/05/20/2215258/krebsonsecurity-hit-with-near-record-63-tbps-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-20, 23:33:27](https://news.ycombinator.com/item?id=44046955) - [The value isn&apos;t in the code (2022)](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 * [2025-05-20, 23:27:00](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss) - [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss)
 * [2025-05-20, 23:20:00](https://slashdot.org/story/25/05/20/226218/spain-blocks-more-than-65000-airbnb-holiday-rental-listings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spain Blocks More Than 65,000 Airbnb Holiday Rental Listings](https://slashdot.org/story/25/05/20/226218/spain-blocks-more-than-65000-airbnb-holiday-rental-listings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-20, 22:40:00](https://yro.slashdot.org/story/25/05/20/2052220/coinbase-data-breach-will-lead-to-people-dying-techcrunch-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Coinbase Data Breach Will &apos;Lead To People Dying,&apos; TechCrunch Founder Says](https://yro.slashdot.org/story/25/05/20/2052220/coinbase-data-breach-will-lead-to-people-dying-techcrunch-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,9 +111,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 17:20:00](https://slashdot.org/story/25/05/20/1710222/adobe-forces-creative-cloud-users-into-pricier-ai-focused-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Forces Creative Cloud Users Into Pricier AI-Focused Plan](https://slashdot.org/story/25/05/20/1710222/adobe-forces-creative-cloud-users-into-pricier-ai-focused-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia&apos;s Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
-* [2025-05-20, 16:40:00](https://it.slashdot.org/story/25/05/20/1627210/microsoft-is-putting-ai-actions-into-the-windows-file-explorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft is Putting AI Actions Into the Windows File Explorer](https://it.slashdot.org/story/25/05/20/1627210/microsoft-is-putting-ai-actions-into-the-windows-file-explorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
-* [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
 * [2025-05-20, 15:50:09](https://lobste.rs/s/hnqnpj/jwno_tiling_wm_for_windows_written_janet) - [Jwno: a tiling WM for Windows, written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 15:43:26](https://lobste.rs/s/79hng1/interview_chief_maintainer_qt_project_on) - [Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6](https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/)
 * [2025-05-20, 15:33:42](https://lobste.rs/s/dtwy2u/open_file_format_for_storing_information) - [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
@@ -118,6 +119,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
 * [2025-05-20, 14:35:10](https://lobste.rs/s/pgnpyv/compiling_ocaml_ti_84_ce_calculator) - [Compiling OCaml to the TI-84+ CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
+* [2025-05-20, 14:29:00](https://news.ycombinator.com/item?id=44042070) - [OpenAI Codex hands-on review](https://zackproser.com/blog/openai-codex-review)
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss)
 * [2025-05-20, 13:55:19](https://lobste.rs/s/viwe6p/open_source_can_t_coordinate) - [Open Source Can&apos;t Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
@@ -128,11 +130,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)
 * [2025-05-20, 11:17:39](https://lobste.rs/s/5mpy9w/simple_search_engine_from_scratch) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI&apos;s energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
+* [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss)
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss)
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
-* [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss)
 * [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
@@ -140,7 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don&apos;t Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists find proof of sweeping language pattern once deemed a &apos;hoax&apos;](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
-* [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [Magic of software; what makes a good engineer also makes a good engineering org](https://moxie.org/2024/09/23/a-good-engineer.html)
+* [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [What makes a good engineer also makes a good engineering organization (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
 * [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss)
@@ -152,9 +154,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss)
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, former Commodore executive, has died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 19:39:00](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss) - [NCSC and Industry at Odds Over How to Tackle Shoddy Software](https://soylentnews.org/article.pl?sid=25/05/16/0247204&amp;from=rss)
+* [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
 * [2025-05-17, 14:50:00](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss) - [EU Bug Database Fully Operational as US Slashes Infosec](https://soylentnews.org/article.pl?sid=25/05/16/0232204&amp;from=rss)
 * [2025-05-17, 10:05:00](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss) - [A US Court Just Put Ownership of CRISPR Back in Play](https://soylentnews.org/article.pl?sid=25/05/16/0227217&amp;from=rss)
-* [2025-05-17, 07:02:46](https://news.ycombinator.com/item?id=44012549) - [Ask HN: Conversational AI to Learn a Language](https://news.ycombinator.com/item?id=44012549)
+* [2025-05-17, 09:07:13](https://news.ycombinator.com/item?id=44013046) - [Life before the web – Running a Startup in the 1980&apos;s (2016)](https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/)
 * [2025-05-17, 05:15:00](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss) - [Bluetooth 6.1 Enhances Privacy With Randomized RPA Timing](https://soylentnews.org/article.pl?sid=25/05/16/0218214&amp;from=rss)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 00:31:00](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss) - [Nvidia Reportedly Raises GPU Prices by 10-15% as Tariffs and TSMC Price Hikes Filter Down](https://soylentnews.org/article.pl?sid=25/05/16/0212240&amp;from=rss)
