@@ -1,64 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Scientific Breakthroughs
+## Privacy and Security Developments
 
-* [Brembo's New Brakes Cut Particulate Emissions By 90 Percent](https://tech.slashdot.org/story/25/05/21/211204/brembos-new-brakes-cut-particulate-emissions-by-90-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New brake technology that significantly reduces particulate emissions.
+* [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/) ([comments](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall)) - Signal emphasizes its commitment to privacy by announcing that it doesn't retain recallable message data by default.
 
-* [Possible new dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html) - Discovery of a potential new dwarf planet in the solar system.
+* [Phone Companies Failed To Warn Senators About Surveillance, Wyden Says](https://tech.slashdot.org/story/25/05/22/0156227/phone-companies-failed-to-warn-senators-about-surveillance-wyden-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/22/0156227/phone-companies-failed-to-warn-senators-about-surveillance-wyden-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Senator Ron Wyden criticizes telecom companies for not informing Congress about surveillance risks.
 
-* [ZEUS – A new two-petawatt laser facility at the University of Michigan](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/) - Introduction of a powerful new laser facility, advancing scientific research.
+* [Recent disruptive changes from Setuptools](https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/) ([comments](https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from)) - Recap of significant alterations in the Setuptools library that have impacted Python developers.
 
-* [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - Deployment of satellite constellations enabling advanced space computing applications.
+## Technology and AI Innovations
 
-* [China's Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - A breakthrough in CPU architecture showcasing a high core count and advanced multitasking features.
+* [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/21/1210228&from=rss)) - Highlight of the latest milestone in laser-driven fusion, achieving record-breaking energy efficiency.
 
-## AI and Large Language Models
+* [OpenAI Acquires Jony Ive's Startup in $6.5 Billion Deal To Create AI Devices](https://slashdot.org/story/25/05/21/1710237/openai-acquires-jony-ives-startup-in-65-billion-deal-to-create-ai-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/05/21/1710237/openai-acquires-jony-ives-startup-in-65-billion-deal-to-create-ai-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - A high-profile partnership aiming to build the next generation of AI-powered devices.
 
-* [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/) - Advice on aligning large language model (LLM) choices to specific use cases.
+* [The Information: Microsoft Engineers Forced To Dig Their Own AI Graves](https://slashdot.org/story/25/05/21/2021255/the-information-microsoft-engineers-forced-to-dig-their-own-ai-graves?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/05/21/2021255/the-information-microsoft-engineers-forced-to-dig-their-own-ai-graves?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Insight into tensions arising from Microsoft's drive for AI efficiency.
 
-* [Using Large Language Models for Commit Message Generation: A Preliminary Study](https://arxiv.org/abs/2401.05926) - Study leveraging LLMs for automated commit message generation.
+## Scientific Discoveries and Space Exploration
 
-* [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1) - Meta's initiative to support startups leveraging AI.
+* [Possible new dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html) ([comments](https://news.ycombinator.com/item?id=44054620)) - Astronomers discover a celestial body that may qualify as a dwarf planet.
 
-* [OpenAI Acquires Jony Ive's Startup in $6.5 Billion Deal To Create AI Devices](https://slashdot.org/story/25/05/21/1710237/openai-acquires-jony-ives-startup-in-65-billion-deal-to-create-ai-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Strategic acquisition aiming at innovative AI hardware.
+* [Big Surprise: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/21/1154206&from=rss)) - A unique solar system configuration challenges previous planetary theories.
 
-* [We did the math on AI’s energy footprint. Here’s the story you haven’t heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) - Analysis of AI's environmental impact.
+## Cultural and Environmental Issues
 
-## Ransomware and Cybersecurity Insights
+* [Quebec To Impose French-Language Quotas On Streaming Giants](https://yro.slashdot.org/story/25/05/21/2037230/quebec-to-impose-french-language-quotas-on-streaming-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/05/21/2037230/quebec-to-impose-french-language-quotas-on-streaming-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Efforts to preserve culture through French content requirements for media streaming platforms.
 
-* [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss) - Perspective on the deeper issues behind frequent ransomware attacks.
+* [Brembo's New Brakes Cut Particulate Emissions By 90 Percent](https://tech.slashdot.org/story/25/05/21/211204/brembos-new-brakes-cut-particulate-emissions-by-90-percent?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/21/211204/brembos-new-brakes-cut-particulate-emissions-by-90-percent?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Innovative braking technology aims at reducing particulate pollution significantly.
 
-* [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) - A massive DDoS attack targeting cybersecurity platforms.
+## Surveillance and Legal Cases
 
-* [Microsoft Says 394,000 Windows Computers Infected By Lumma Malware Globally](https://it.slashdot.org/story/25/05/21/1954240/microsoft-says-394000-windows-computers-infected-by-lumma-malware-globally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Details on global malware infiltration.
+* [Denver Detectives Crack Deadly Arson Case Using Teens' Google Search Histories](https://tech.slashdot.org/story/25/05/22/0226258/denver-detectives-crack-deadly-arson-case-using-teens-google-search-histories?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/22/0226258/denver-detectives-crack-deadly-arson-case-using-teens-google-search-histories?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Investigative use of digital footprints raises privacy concerns.
 
-* [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - Retailer ransomware attacks surge in the UK.
-
-* [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - Innovative AI applications potentially bypassing legal restrictions.
-
-## Data Privacy and Surveillance
-
-* [SEC Sues Crypto Startup Unicoin and Its Executives For Fraud](https://yro.slashdot.org/story/25/05/21/2055220/sec-sues-crypto-startup-unicoin-and-its-executives-for-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal battle involving fraudulent practices by a blockchain company.
-
-* [Phone Companies Failed To Warn Senators About Surveillance, Wyden Says](https://tech.slashdot.org/story/25/05/22/0156227/phone-companies-failed-to-warn-senators-about-surveillance-wyden-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations on communication firms' non-transparency on surveillance.
-
-* [White House Scraps Plan to Block Data Brokers From Selling Americans’ Sensitive Data](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss) - Government reversal on data privacy policy.
-
-* [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - Controversy over AI training user policies.
-
-* [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss) - Environmental impact of technological consumption.
-
-## Space Exploration and Celestial Events
-
-* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - Discovery hinting at Martian subterranean water bodies.
-
-* [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - Scientific projections on cosmic timeline.
-
-* [Big Surprise: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss) - Unveiling unique planetary dynamics.
-
-* [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - Pace set in space-based computational technology.
-
-* [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss) - Lifespan extension of interstellar exploration vessels.
+* [SEC Sues Crypto Startup Unicoin and Its Executives For Fraud](https://yro.slashdot.org/story/25/05/21/2055220/sec-sues-crypto-startup-unicoin-and-its-executives-for-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/05/21/2055220/sec-sues-crypto-startup-unicoin-and-its-executives-for-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - A legal crackdown on financial misconduct in the crypto industry.
 
 ---
 
@@ -85,15 +59,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn&apos;t Recall](https://signal.org/blog/signal-doesnt-recall/)
+* [2025-05-22, 07:00:22](https://lobste.rs/s/5imt51/oodle_2_9_14_intel_13th_14th_gen_cpus) - [Oodle 2.9.14 and Intel 13th/14th gen CPUs](https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/)
+* [2025-05-22, 06:43:04](https://lobste.rs/s/vo1ue5/libinput_preparing_introduce_lua_based) - [libinput Preparing To Introduce A Lua-Based Plugin System For Modifying Devices/Events](https://www.phoronix.com/news/libinput-Lua-Plugin-System)
+* [2025-05-22, 06:24:07](https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from) - [Recent disruptive changes from Setuptools](https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/)
+* [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
+* [2025-05-22, 05:00:00](https://tech.slashdot.org/story/25/05/22/0226258/denver-detectives-crack-deadly-arson-case-using-teens-google-search-histories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Denver Detectives Crack Deadly Arson Case Using Teens&apos; Google Search Histories](https://tech.slashdot.org/story/25/05/22/0226258/denver-detectives-crack-deadly-arson-case-using-teens-google-search-histories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
+* [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss)
 * [2025-05-22, 03:30:00](https://tech.slashdot.org/story/25/05/21/211204/brembos-new-brakes-cut-particulate-emissions-by-90-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brembo&apos;s New Brakes Cut Particulate Emissions By 90 Percent](https://tech.slashdot.org/story/25/05/21/211204/brembos-new-brakes-cut-particulate-emissions-by-90-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert&apos;s Guide](https://oblivus.com/blog/choosing-the-right-llm/)
 * [2025-05-22, 02:46:47](https://news.ycombinator.com/item?id=44058299) - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 02:45:02](https://lobste.rs/s/dtzhkh/kotlin_lsp_kotlin_language_server_plugin) - [kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 02:00:00](https://tech.slashdot.org/story/25/05/22/0156227/phone-companies-failed-to-warn-senators-about-surveillance-wyden-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Phone Companies Failed To Warn Senators About Surveillance, Wyden Says](https://tech.slashdot.org/story/25/05/22/0156227/phone-companies-failed-to-warn-senators-about-surveillance-wyden-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-22, 01:47:50](https://lobste.rs/s/y2kogj/using_large_language_models_for_commit) - [Using Large Language Models for Commit Message Generation: A Preliminary Study](https://arxiv.org/abs/2401.05926)
 * [2025-05-22, 01:19:41](https://news.ycombinator.com/item?id=44057841) - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 * [2025-05-22, 01:13:50](https://news.ycombinator.com/item?id=44057820) - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-* [2025-05-22, 01:00:09](https://news.ycombinator.com/item?id=44057752) - [How AppHarvest’s indoor farming scheme imploded (2023)](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
+* [2025-05-22, 00:56:11](https://news.ycombinator.com/item?id=44057731) - [Dijkstra on Ada](https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/)
 * [2025-05-22, 00:44:38](https://lobste.rs/s/asm7t8/typeid_lua) - [TypeID in Lua](https://push.cx/typeid-in-lua)
 * [2025-05-22, 00:31:01](https://news.ycombinator.com/item?id=44057612) - [Show HN: Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
 * [2025-05-22, 00:02:00](https://yro.slashdot.org/story/25/05/21/2055220/sec-sues-crypto-startup-unicoin-and-its-executives-for-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SEC Sues Crypto Startup Unicoin and Its Executives For Fraud](https://yro.slashdot.org/story/25/05/21/2055220/sec-sues-crypto-startup-unicoin-and-its-executives-for-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -124,17 +104,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don&apos;t scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:10:00](https://slashdot.org/story/25/05/21/1710237/openai-acquires-jony-ives-startup-in-65-billion-deal-to-create-ai-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Acquires Jony Ive&apos;s Startup in $6.5 Billion Deal To Create AI Devices](https://slashdot.org/story/25/05/21/1710237/openai-acquires-jony-ives-startup-in-65-billion-deal-to-create-ai-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to buy AI startup from Jony Ive](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 16:59:08](https://lobste.rs/s/m3wugb/my_technological_regrets) - [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
 * [2025-05-21, 16:44:00](https://tech.slashdot.org/story/25/05/21/1644208/windows-11-to-get-apple-style-app-continuity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11 To Get Apple-Style App Continuity ](https://tech.slashdot.org/story/25/05/21/1644208/windows-11-to-get-apple-style-app-continuity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/introduction_bases_obsidian_help) - [Introduction to Bases - Obsidian Help](https://help.obsidian.md/bases)
-* [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:01:00](https://tech.slashdot.org/story/25/05/21/1527224/meta-targets-more-underperformers-in-mid-year-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Targets More &apos;Underperformers&apos; in Mid-Year Reviews](https://tech.slashdot.org/story/25/05/21/1527224/meta-targets-more-underperformers-in-mid-year-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 * [2025-05-21, 15:30:47](https://lobste.rs/s/sn6wch/introducing_converse_11_major_leap) - [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
-* [2025-05-21, 15:22:00](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Brin: &apos;I Made a Lot of Mistakes With Google Glass&apos;](https://tech.slashdot.org/story/25/05/21/152229/googles-brin-i-made-a-lot-of-mistakes-with-google-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-21, 15:17:10](https://news.ycombinator.com/item?id=44052418) - [ZEUS – A new two-petawatt laser facility at the University of Michigan](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/)
 * [2025-05-21, 15:00:27](https://lobste.rs/s/f01o2f/there_ain_t_no_such_thing_as_free_custom) - [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization (2012)](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
@@ -148,32 +125,30 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-21, 10:59:56](https://lobste.rs/s/c6scqf/erlang_otp_28_0_release) - [Erlang/OTP 28.0 Release](https://www.erlang.org/news/180)
 * [2025-05-21, 10:14:45](https://lobste.rs/s/96ttp9/reading_code_is_still_most_effective) - [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
-* [2025-05-21, 07:30:05](https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack) - [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
 * [2025-05-21, 00:50:35](https://lobste.rs/s/dmx9e3/apply_coop_matching_people_with_jobs_fit) - [apply.coop - Matching people with jobs that fit their values &amp; passions](https://apply.coop)
 * [2025-05-20, 23:27:00](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss) - [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss)
-* [2025-05-20, 22:19:29](https://lobste.rs/s/srdmcg/litestream_revamped) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 21:43:07](https://lobste.rs/s/bl1b9q/krebsonsecurity_hit_with_near_record_6_3) - [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 * [2025-05-20, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss) - [UK-To-US English Converter Produced Amazing Mistakes](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss)
 * [2025-05-20, 18:45:00](https://soylentnews.org/article.pl?sid=25/05/20/0737207&amp;from=rss) - [Unlocking Voices: AR For Nonverbal Autism](https://soylentnews.org/article.pl?sid=25/05/20/0737207&amp;from=rss)
 * [2025-05-20, 15:33:42](https://lobste.rs/s/dtwy2u/open_file_format_for_storing_information) - [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss)
-* [2025-05-20, 12:12:40](https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly) - [Reports of Deno&apos;s Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss)
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss)
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss)
-* [2025-05-19, 21:30:50](https://news.ycombinator.com/item?id=44035105) - [Did Akira Nishitani Lie in the 1994 Capcom vs. Data East Lawsuit?](https://www.thrillingtalesofoldvideogames.com/blog/akira-nishitani-capcom-data-east-lawsuit)
 * [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss)
-* [2025-05-19, 08:27:48](https://news.ycombinator.com/item?id=44027624) - [Google releases Material 3 Expressive, a more emotional UI design system](https://m3.material.io/blog/building-with-m3-expressive)
+* [2025-05-19, 08:39:31](https://news.ycombinator.com/item?id=44027690) - [The Lost Decade of Small Data?](https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss)
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
-* [2025-05-18, 20:59:18](https://news.ycombinator.com/item?id=44024278) - [London’s water pumps: Where strange history flows freely (2024)](https://londonist.com/london/features/london-s-water-pump)
+* [2025-05-18, 23:18:51](https://news.ycombinator.com/item?id=44025033) - [Ancient reptile footprints are rewriting the history of when animals evolved](https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89)
 * [2025-05-18, 19:20:00](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss) - [U.S. Inks Bill to Force Geo-Tracking Tech for High-End Gaming and AI GPUs](https://soylentnews.org/article.pl?sid=25/05/17/0548228&amp;from=rss)
+* [2025-05-18, 17:03:55](https://news.ycombinator.com/item?id=44022736) - [Understanding the Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
 * [2025-05-18, 14:38:00](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss) - [NASA Keeps Ancient Voyager 1 Spacecraft Alive With Hail Mary Thruster Fix](https://soylentnews.org/article.pl?sid=25/05/16/1759244&amp;from=rss)
 * [2025-05-18, 09:53:00](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss) - [White House Scraps Plan to Block Data Brokers From Selling Americans’ Sensitive Data](https://soylentnews.org/article.pl?sid=25/05/16/1754242&amp;from=rss)
+* [2025-05-18, 09:32:39](https://news.ycombinator.com/item?id=44020107) - [Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene](https://iquilezles.org/articles/)
 * [2025-05-18, 05:12:00](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss) - [China&apos;s Hygon Details C86-5G: A 128-Core X86 CPU with Advanced Features and Four-Way SMT](https://soylentnews.org/article.pl?sid=25/05/16/1710236&amp;from=rss)
 * [2025-05-18, 00:24:00](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss) - [Oniux by Tor: Isolating Linux Applications at the Kernel Level for Secure Connections](https://soylentnews.org/article.pl?sid=25/05/16/1648245&amp;from=rss)
