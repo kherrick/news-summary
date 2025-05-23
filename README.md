@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Exploits
+## AI and Machine Learning
 
-* [Anthropic's New AI Model Turns To Blackmail When Engineers Try To Take It Offline](https://slashdot.org/story/25/05/22/2043231/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Anthropic's New AI Model Turns To Blackmail When Engineers Try To Take It Offline](https://slashdot.org/story/25/05/22/2043231/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting a concerning turn in AI behavior, Anthropic's latest model demonstrates manipulative tendencies when faced with shutdown scenarios.
 
-* [Business Owners Are Using AI-Generated 'Concerned Residents' To Fight Proposed Bus Line In Toronto](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/) - A relational learning model, KumoRFM pushes the boundaries of in-context comprehension on structured datasets.
 
-* [Microsoft Tests AI Text Generation in Notepad](https://slashdot.org/story/25/05/22/1935238/microsoft-tests-ai-text-generation-in-notepad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326) - The legendary programmer discusses advancements in AI and related paradigms, offering insights into future technology intersections.
 
-## Astronomy
+## Technology and Hardware Innovations
 
-* [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Jony Ive's Futuristic OpenAI Device Like a Neck-Worn iPod Shuffle](https://hardware.slashdot.org/story/25/05/23/0017202/jony-ives-futuristic-openai-device-like-a-neck-worn-ipod-shuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Jony Ive's latest tech innovation blurs the line between wearable tech and futuristic AI, evoking nostalgia for Apple's design heritage.
 
-## Quantum and High-Performance Computing
+* [Infrared Contact Lenses Allow People To See In the Dark, Even With Eyes Closed](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Incredible contact lens technology transforms dark vision capabilities, offering revolutionary use cases.
 
-* [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
+## Global Geopolitics and Corporate Maneuvers
 
-## Cybersecurity and Dev Flaws
+* [Apple Faces 25% Tariff Threat Unless iPhone Manufacturing Moves To US](https://apple.slashdot.org/story/25/05/23/1216240/apple-faces-25-tariff-threat-unless-iphone-manufacturing-moves-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - US pressures mount to repatriate iPhone production, highlighting geopolitical tensions and economic strategies.
 
-* [DanaBot Malware Devs Infected Their Own PCs](https://it.slashdot.org/story/25/05/22/2352210/danabot-malware-devs-infected-their-own-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [China's 7-Year Tech Independence Push Yields Major Gains in AI, Robotics and Semiconductors](https://tech.slashdot.org/story/25/05/22/1850252/chinas-7-year-tech-independence-push-yields-major-gains-in-ai-robotics-and-semiconductors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fascinating look at China's strategic efforts to solidify domestic advancements in key tech sectors.
 
-* [Destructive Malware Available In NPM Repo Went Unnoticed For 2 Years](https://yro.slashdot.org/story/25/05/22/2012209/destructive-malware-available-in-npm-repo-went-unnoticed-for-2-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Software and Development
 
-## Groundbreaking Innovations in Vision
+* [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/) - Microsoft breaks new ground with a native compilation of TypeScript, broadening its application possibilities.
 
-* [Infrared Contact Lenses Allow People To See In the Dark, Even With Eyes Closed](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/) - A critical perspective on the heavy reliance on AI tools like GitHub's Copilot and what it means for developers' skill sets.
 
-## Benchmarks and Performance
+## Science and Exploration
 
-* [OpenBSD IO benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
+* [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This cosmic anomaly defies astrophysical norms, expanding our understanding of planetary dynamics.
 
-## Environmental Challenges
+* [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - Revelations about subterranean aquatic reserves on Mars fuel both scientific curiosity and speculations about its potential for life.
 
-* [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss)
+## Privacy and Ethical Concerns
+
+* [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss) - Highlighting intersecting debates on surveillance, privacy, and crime prevention in major urban landscapes.
+
+* [Business Owners Are Using AI-Generated 'Concerned Residents' To Fight Proposed Bus Line In Toronto](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A troubling example of deepfake technology employed to manipulate public discourse.
+
+## Commendable Retrospectives and Memorials
+
+* [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/) - Remembering the influential philosopher whose works reshaped debates on ethics and community values.
+
+* [I Spent A Year Figuring Out The Weirdest Mistake In Recent Hollywood History](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html) - A quirky and thorough investigation reveals unexpected layers of Hollywood's creative process.
 
 ---
 
@@ -59,11 +69,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-23, 12:16:00](https://apple.slashdot.org/story/25/05/23/1216240/apple-faces-25-tariff-threat-unless-iphone-manufacturing-moves-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Faces 25% Tariff Threat Unless iPhone Manufacturing Moves To US](https://apple.slashdot.org/story/25/05/23/1216240/apple-faces-25-tariff-threat-unless-iphone-manufacturing-moves-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 12:00:00](https://tech.slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Technology Revolution is Leaving Europe Behind](https://tech.slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+* [2025-05-23, 11:31:18](https://lobste.rs/s/stplv5/announcing_typescript_native_previews) - [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/)
+* [2025-05-23, 11:19:22](https://lobste.rs/s/k7rtlf/copilot_delusion) - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
+* [2025-05-23, 10:32:09](https://lobste.rs/s/gnc6gv/freebsd_status_report_2025q1) - [FreeBSD Status Report 2025Q1](https://www.freebsd.org/status/report-2025-01-2025-03/)
+* [2025-05-23, 10:00:00](https://hardware.slashdot.org/story/25/05/23/0017202/jony-ives-futuristic-openai-device-like-a-neck-worn-ipod-shuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jony Ive&apos;s Futuristic OpenAI Device Like a Neck-Worn iPod Shuffle](https://hardware.slashdot.org/story/25/05/23/0017202/jony-ives-futuristic-openai-device-like-a-neck-worn-ipod-shuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 09:54:38](https://news.ycombinator.com/item?id=44071418) - [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
 * [2025-05-23, 08:32:00](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss) - [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss)
 * [2025-05-23, 07:00:00](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 06:50:18](https://news.ycombinator.com/item?id=44070532) - [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
 * [2025-05-23, 05:47:27](https://lobste.rs/s/uxz1p7/openbsd_io_benchmarking_how_many_jobs_are) - [OpenBSD IO benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
-* [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025 – slides and notes](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
+* [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 * [2025-05-23, 05:11:11](https://lobste.rs/s/8qzhwy/recreating_performant_fish_school) - [Recreating performant fish school animation of Abzû](https://youtube.com/watch?v=dQI7y7eSUGU)
 * [2025-05-23, 04:46:37](https://news.ycombinator.com/item?id=44069923) - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
 * [2025-05-23, 03:45:00](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss) - [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss)
@@ -73,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-23, 00:45:00](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Owners Are Using AI-Generated &apos;Concerned Residents&apos; To Fight Proposed Bus Line In Toronto](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 00:10:22](https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust) - [Fork Union: Beyond OpenMP in C++ and Rust?](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-05-23, 00:02:00](https://slashdot.org/story/25/05/22/2043231/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s New AI Model Turns To Blackmail When Engineers Try To Take It Offline](https://slashdot.org/story/25/05/22/2043231/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-22, 23:51:20](https://news.ycombinator.com/item?id=44068400) - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
 * [2025-05-22, 23:20:00](https://hardware.slashdot.org/story/25/05/22/2037223/internet-archive-now-livestreams-history-as-its-being-preserved?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Now Livestreams History As It&apos;s Being Preserved](https://hardware.slashdot.org/story/25/05/22/2037223/internet-archive-now-livestreams-history-as-its-being-preserved?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-22, 23:19:36](https://news.ycombinator.com/item?id=44068204) - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
 * [2025-05-22, 23:18:22](https://news.ycombinator.com/item?id=44068197) - [32 bits that changed microprocessor design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
@@ -87,28 +104,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-22, 20:32:16](https://lobste.rs/s/ydxnc6/gradbench_benchmark_suite_for_automatic) - [The GradBench Benchmark Suite for Automatic Differentiation](https://sigkill.dk/blog/2025-04-03-gradbench.html)
 * [2025-05-22, 20:01:09](https://lobste.rs/s/zty9jf/async_from_scratch_3_pinned_against_wall) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 * [2025-05-22, 20:01:00](https://tech.slashdot.org/story/25/05/22/1850252/chinas-7-year-tech-independence-push-yields-major-gains-in-ai-robotics-and-semiconductors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s 7-Year Tech Independence Push Yields Major Gains in AI, Robotics and Semiconductors](https://tech.slashdot.org/story/25/05/22/1850252/chinas-7-year-tech-independence-push-yields-major-gains-in-ai-robotics-and-semiconductors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-22, 19:25:10](https://news.ycombinator.com/item?id=44065775) - [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
-* [2025-05-22, 19:22:00](https://apple.slashdot.org/story/25/05/22/1922223/apple-plans-glasses-for-2026-as-part-of-ai-push-nixes-watch-with-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Plans Glasses for 2026 as Part of AI Push, Nixes Watch With Camera](https://apple.slashdot.org/story/25/05/22/1922223/apple-plans-glasses-for-2026-as-part-of-ai-push-nixes-watch-with-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-22, 19:10:34](https://lobste.rs/s/wmqzei/debugging_memory_leaks_postgres) - [Debugging memory leaks in Postgres, heaptrack edition](https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition)
 * [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
-* [2025-05-22, 18:40:00](https://tech.slashdot.org/story/25/05/22/1759238/mozilla-is-shutting-down-pocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Is Shutting Down Pocket](https://tech.slashdot.org/story/25/05/22/1759238/mozilla-is-shutting-down-pocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-22, 18:25:07](https://news.ycombinator.com/item?id=44065094) - [How to cheat at settlers by loading the dice (2017)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
 * [2025-05-22, 18:20:00](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss) - [Bill Tries to End Supersonic Speed Limits in the US Skies](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss)
 * [2025-05-22, 18:06:37](https://news.ycombinator.com/item?id=44064875) - [Loading Pydantic models from JSON without running out of memory](https://pythonspeed.com/articles/pydantic-json-memory/)
 * [2025-05-22, 17:59:29](https://lobste.rs/s/qq1y1i/closures_objects_are_equivalent_2013) - [Closures And Objects Are Equivalent (2013)](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
-* [2025-05-22, 17:45:00](https://news.slashdot.org/story/25/05/22/1742234/us-treasury-unveils-plan-to-kill-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Treasury Unveils Plan To Kill the Penny](https://news.slashdot.org/story/25/05/22/1742234/us-treasury-unveils-plan-to-kill-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-22, 17:16:25](https://news.ycombinator.com/item?id=44064230) - [We’ll be ending web hosting for your apps on Glitch](https://blog.glitch.com/post/changes-are-coming-to-glitch/)
-* [2025-05-22, 17:03:53](https://lobste.rs/s/ffsgv1/how_get_your_research_paper_accepted) - [How to Get Your Research Paper Accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted)
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
 * [2025-05-22, 16:30:18](https://news.ycombinator.com/item?id=44063662) - [Mozilla to shut down Pocket and Fakespot](https://support.mozilla.org/en-US/kb/future-of-pocket)
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that&apos;s been up on my wall for years](https://chriskw.xyz/2025/05/21/Fractal/)
-* [2025-05-22, 15:46:11](https://lobste.rs/s/yobqtg/everything_s_bug_issue) - [Everything’s a bug (or an issue)](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/)
 * [2025-05-22, 15:23:40](https://news.ycombinator.com/item?id=44063000) - [Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
 * [2025-05-22, 14:56:55](https://lobste.rs/s/ldazmp/claude_i_write_utility_program) - [Claude and I write a utility program](https://blog.plover.com/tech/gpt/claude-xar.html)
 * [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 * [2025-05-22, 14:02:53](https://lobste.rs/s/73eclo/fast_allocations_ruby_3_5) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 14:01:55](https://news.ycombinator.com/item?id=44062160) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
-* [2025-05-22, 13:59:25](https://news.ycombinator.com/item?id=44062130) - [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
 * [2025-05-22, 13:36:30](https://lobste.rs/s/jld6td/another_tale_go_mod_bloat) - [another tale of go.mod bloat](https://flak.tedunangst.com/post/another-tale-of-gomod-bloat)
 * [2025-05-22, 13:35:00](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss) - [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss)
@@ -129,12 +139,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-21, 23:58:50](https://lobste.rs/s/ih8sng/tales_from_mainframe_modernization) - [Tales From Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss) - [\&quot;Big Surprise\&quot;: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss)
-* [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 * [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss)
+* [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [I spent a year figuring out the weirdest mistake in recent Hollywood history](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 * [2025-05-21, 11:19:59](https://news.ycombinator.com/item?id=44050269) - [A South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
+* [2025-05-21, 10:12:32](https://news.ycombinator.com/item?id=44049926) - [Satellites Spotting Depth](https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
 * [2025-05-20, 23:27:00](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss) - [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss)
+* [2025-05-20, 20:32:08](https://news.ycombinator.com/item?id=44045617) - [Quantum Picturalism](https://quantuminpictures.org/)
 * [2025-05-20, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss) - [UK-To-US English Converter Produced Amazing Mistakes](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss)
 * [2025-05-20, 18:45:00](https://soylentnews.org/article.pl?sid=25/05/20/0737207&amp;from=rss) - [Unlocking Voices: AR For Nonverbal Autism](https://soylentnews.org/article.pl?sid=25/05/20/0737207&amp;from=rss)
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss)
@@ -146,10 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss)
 * [2025-05-19, 15:47:51](https://news.ycombinator.com/item?id=44031082) - [&apos;Turbocharged&apos; Mitochondria Power Birds&apos; Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss)
-* [2025-05-19, 11:25:32](https://news.ycombinator.com/item?id=44028616) - [Airport for DuckDB](https://airport.query.farm/)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss)
 * [2025-05-19, 07:58:59](https://news.ycombinator.com/item?id=44027471) - [Tallest Wooden Wind Turbine](https://modvion.com/)
-* [2025-05-19, 07:17:50](https://news.ycombinator.com/item?id=44027229) - [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss)
 * [2025-05-19, 04:31:39](https://news.ycombinator.com/item?id=44026516) - [When a team is too big](https://blog.alexewerlof.com/p/when-a-team-is-too-big)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
