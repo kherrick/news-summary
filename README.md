@@ -1,56 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Technology Advancements
 
-* [Authors Are Accidentally Leaving AI Prompts In their Novels](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The GCC compiler backend can now fully bootstrap the Rust compiler](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) ([Comments](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully))
 
-* [Attention Wasn&apos;t All We Needed](https://www.stephendiehl.com/posts/post_transformers/) ([comments](https://news.ycombinator.com/item?id=44075105))
+* [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://news.ycombinator.com/item?id=44076300) ([Comments](https://undo.io/))
 
-* [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable) ([comments](https://news.ycombinator.com/item?id=44074668))
+* [Making Postgres distributed with FoundationDB](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) ([Comments](https://fabianlindfors.se/blog/making-postgres-distributed/))
 
-* [America&apos;s Leading Alien Hunters Depend on AI to Speed Their Search](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [A 10x Faster TypeScript](https://lobste.rs/s/esdjob/10x_faster_typescript) ([Comments](https://www.youtube.com/watch?v=UJfF3-13aFo))
 
-* [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652) ([comments](https://news.ycombinator.com/item?id=44048574))
+* [Collaborative Text Editing without CRDTs or OT](https://lobste.rs/s/gdmtsf/collaborative_text_editing_without) ([Comments](https://mattweidner.com/2025/05/21/text-without-crdts.html))
 
-## Science and Technology Breakthroughs
+## AI Innovations and Concerns
 
-* [&apos;Landmark&apos; Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Google's AI Mode Is 'the Definition of Theft,' Publishers Say](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Infrared Contact Lenses Allow People To See In the Dark, Even With Eyes Closed](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://news.ycombinator.com/item?id=44074668) ([Comments](https://www.cip.org/blog/llm-judges-are-unreliable))
 
-* [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Deep Learning is no Intelligence](https://lobste.rs/s/0qfyqz/deep_learning_is_no_intelligence) ([Comments](https://cullmann.dev/posts/deep-learning-is-no-intelligence/))
 
-## Technology and Tools
+* [John Carmack talk at Upper Bound 2025](https://news.ycombinator.com/item?id=44070042) ([Comments](https://twitter.com/ID_AA_Carmack/status/1925710474366034326))
 
-* [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html) ([comments](https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager))
+## Historical Insights and Analysis
 
-* [Show HN: Hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news) ([comments](https://news.ycombinator.com/item?id=44075353))
+* [The world of Japan's PC-98 computer](https://news.ycombinator.com/item?id=44076501) ([Comments](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/))
 
-* [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648) ([comments](https://news.ycombinator.com/item?id=44073588))
+* [Japan and the Birth of Modern Shipbuilding](https://news.ycombinator.com/item?id=44075236) ([Comments](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding))
 
-* [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/) ([comments](https://lobste.rs/s/y94ihs/making_postgres_distributed_with))
+* [The metre originated in the French Revolution](https://news.ycombinator.com/item?id=44073867) ([Comments](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024))
 
-* [Collaborative Text Editing without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html) ([comments](https://lobste.rs/s/gdmtsf/collaborative_text_editing_without))
+* [A brief history of JavaScript](https://lobste.rs/s/um5h8u/brief_history_javascript) ([Comments](https://deno.com/blog/history-of-javascript))
 
-## Insights and Opinion
+## Science and Nature
 
-* [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america) ([comments](https://news.ycombinator.com/item?id=44074340))
+* [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Slime (2021)](https://granta.com/slime/) ([comments](https://news.ycombinator.com/item?id=44073870))
+* [A Formal Proof of Complexity Bounds on Diophantine Equations](https://news.ycombinator.com/item?id=44076170) ([Comments](https://arxiv.org/abs/2505.16963))
 
-* [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024) ([comments](https://news.ycombinator.com/item?id=44073867))
+* [Landmark Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/) ([comments](https://news.ycombinator.com/item?id=44071900))
+* [Caesar's Last Breath](https://news.ycombinator.com/item?id=44073185) ([Comments](https://charliesabino.com/caesars-last-breath/))
 
-* [The Technology Revolution is Leaving Europe Behind](https://tech.slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/05/23/0926234/the-technology-revolution-is-leaving-europe-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Industry Updates and Trends
 
-## Security and Surveillance
+* [College Board Keeps Apologizing For Screwing Up Digital SAT and AP Tests](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Vietnam Moves To Block Telegram App](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [NixOS 25.05 released](https://lobste.rs/s/unlqyd/nixos_25_05_released) ([Comments](https://nixos.org/blog/announcements/2025/nixos-2505/))
 
-* [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/22/1217221&from=rss))
+* [The future of Flatpak](https://lobste.rs/s/njfzwx/future_flatpak) ([Comments](https://lwn.net/Articles/1020571/))
 
-* [DanaBot Malware Devs Infected Their Own PCs](https://it.slashdot.org/story/25/05/22/2352210/danabot-malware-devs-infected-their-own-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/05/22/2352210/danabot-malware-devs-infected-their-own-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Vietnam Moves To Block Telegram App](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/05/23/1040226/vietnam-moves-to-block-telegram-app?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -77,27 +77,43 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
+* [2025-05-23, 21:20:00](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s AI Mode Is &apos;the Definition of Theft,&apos; Publishers Say](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan&apos;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
+* [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
+* [2025-05-23, 20:40:00](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [College Board Keeps Apologizing For Screwing Up Digital SAT and AP Tests](https://news.slashdot.org/story/25/05/23/201256/college-board-keeps-apologizing-for-screwing-up-digital-sat-and-ap-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 20:22:09](https://news.ycombinator.com/item?id=44076300) - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
+* [2025-05-23, 20:14:00](https://lobste.rs/s/l7hobk/indexing_hackage_glean_vs_hiedb) - [Indexing Hackage: Glean vs. hiedb](https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html)
+* [2025-05-23, 20:09:01](https://news.ycombinator.com/item?id=44076170) - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
+* [2025-05-23, 20:01:00](https://hardware.slashdot.org/story/25/05/23/1955245/spanish-grid-operator-faults-big-power-plants-in-blackout-blame-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spanish Grid Operator Faults Big Power Plants in Blackout Blame Game](https://hardware.slashdot.org/story/25/05/23/1955245/spanish-grid-operator-faults-big-power-plants-in-blackout-blame-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 19:56:12](https://news.ycombinator.com/item?id=44076064) - [The Transwedge Product](https://terathon.com/blog/transwedge-product.html)
+* [2025-05-23, 19:47:49](https://lobste.rs/s/unlqyd/nixos_25_05_released) - [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
+* [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
+* [2025-05-23, 19:20:00](https://news.slashdot.org/story/25/05/23/1912252/only-one-country-in-the-world-produces-all-the-food-it-needs-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Only One Country in the World Produces All the Food It Needs, Study Finds](https://news.slashdot.org/story/25/05/23/1912252/only-one-country-in-the-world-produces-all-the-food-it-needs-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-23, 19:13:55](https://lobste.rs/s/esdjob/10x_faster_typescript) - [A 10x Faster TypeScript](https://www.youtube.com/watch?v=UJfF3-13aFo)
+* [2025-05-23, 19:04:33](https://lobste.rs/s/fgvbsc/why_algebraic_effects) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+* [2025-05-23, 18:57:40](https://lobste.rs/s/um5h8u/brief_history_javascript) - [A brief history of JavaScript](https://deno.com/blog/history-of-javascript)
+* [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
+* [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:45:54](https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
-* [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: Hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
+* [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
 * [2025-05-23, 18:42:00](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Authors Are Accidentally Leaving AI Prompts In their Novels](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer&apos;s toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
+* [2025-05-23, 18:30:07](https://news.ycombinator.com/item?id=44075236) - [Japan and the Birth of Modern Shipbuilding](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding)
 * [2025-05-23, 18:14:57](https://lobste.rs/s/b56ikw/configuring_jujutsu) - [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn&apos;t All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
 * [2025-05-23, 18:06:06](https://lobste.rs/s/0qfyqz/deep_learning_is_no_intelligence) - [Deep Learning is no Intelligence](https://cullmann.dev/posts/deep-learning-is-no-intelligence/)
 * [2025-05-23, 18:00:00](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Landmark&apos; Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/05/22/2134201&amp;from=rss) - [A Nasa Mars Rover Looked Up At A Moody Sky. What It Saw Wasn&apos;t A Star. ](https://soylentnews.org/article.pl?sid=25/05/22/2134201&amp;from=rss)
-* [2025-05-23, 17:22:20](https://news.ycombinator.com/item?id=44074684) - [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 17:20:00](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Leading Alien Hunters Depend on AI to Speed Their Search](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 17:17:26](https://news.ycombinator.com/item?id=44074637) - [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
-* [2025-05-23, 17:03:10](https://news.ycombinator.com/item?id=44074531) - [You Don&apos;t Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
 * [2025-05-23, 16:58:39](https://news.ycombinator.com/item?id=44074487) - [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
 * [2025-05-23, 16:40:55](https://news.ycombinator.com/item?id=44074340) - [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america)
 * [2025-05-23, 16:40:00](https://developers.slashdot.org/story/25/05/23/134214/glitch-is-basically-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Glitch is Basically Shutting Down](https://developers.slashdot.org/story/25/05/23/134214/glitch-is-basically-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 16:13:43](https://news.ycombinator.com/item?id=44074111) - [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
 * [2025-05-23, 16:02:02](https://news.ycombinator.com/item?id=44074017) - [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
 * [2025-05-23, 16:00:00](https://science.slashdot.org/story/25/05/23/0936251/sharp-knives-reduce-onion-induced-tears-by-limiting-droplet-spray-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sharp Knives Reduce Onion-Induced Tears By Limiting Droplet Spray, Study Finds](https://science.slashdot.org/story/25/05/23/0936251/sharp-knives-reduce-onion-induced-tears-by-limiting-droplet-spray-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 15:43:54](https://news.ycombinator.com/item?id=44073870) - [Slime (2021)](https://granta.com/slime/)
 * [2025-05-23, 15:43:16](https://news.ycombinator.com/item?id=44073867) - [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 * [2025-05-23, 15:20:00](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan and the Birth of Modern Shipbuilding](https://slashdot.org/story/25/05/23/0959224/japan-and-the-birth-of-modern-shipbuilding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -124,23 +140,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-23, 10:00:00](https://hardware.slashdot.org/story/25/05/23/0017202/jony-ives-futuristic-openai-device-like-a-neck-worn-ipod-shuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jony Ive&apos;s Futuristic OpenAI Device Like a Neck-Worn iPod Shuffle](https://hardware.slashdot.org/story/25/05/23/0017202/jony-ives-futuristic-openai-device-like-a-neck-worn-ipod-shuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 08:32:00](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss) - [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss)
 * [2025-05-23, 07:00:00](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Weird Planet Is Orbiting Backwards Between Two Stars](https://science.slashdot.org/story/25/05/23/006244/weird-planet-is-orbiting-backwards-between-two-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 05:47:27](https://lobste.rs/s/uxz1p7/openbsd_io_benchmarking_how_many_jobs_are) - [OpenBSD IO benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 * [2025-05-23, 03:45:00](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss) - [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss)
-* [2025-05-23, 03:30:00](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Infrared Contact Lenses Allow People To See In the Dark, Even With Eyes Closed](https://science.slashdot.org/story/25/05/23/000216/infrared-contact-lenses-allow-people-to-see-in-the-dark-even-with-eyes-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 02:02:00](https://it.slashdot.org/story/25/05/22/2352210/danabot-malware-devs-infected-their-own-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DanaBot Malware Devs Infected Their Own PCs](https://it.slashdot.org/story/25/05/22/2352210/danabot-malware-devs-infected-their-own-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 01:25:00](https://tech.slashdot.org/story/25/05/22/2344201/att-has-6-billion-deal-to-buy-centurylink-fiber-broadband-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T Has $6 Billion Deal To Buy CenturyLink Fiber Broadband Business](https://tech.slashdot.org/story/25/05/22/2344201/att-has-6-billion-deal-to-buy-centurylink-fiber-broadband-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 00:45:00](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Owners Are Using AI-Generated &apos;Concerned Residents&apos; To Fight Proposed Bus Line In Toronto](https://news.slashdot.org/story/25/05/22/2334228/business-owners-are-using-ai-generated-concerned-residents-to-fight-proposed-bus-line-in-toronto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 00:10:22](https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust) - [Fork Union: Beyond OpenMP in C++ and Rust?](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-05-22, 23:06:00](https://soylentnews.org/article.pl?sid=25/05/22/012214&amp;from=rss) - [A Look at OpenAI From 2019](https://soylentnews.org/article.pl?sid=25/05/22/012214&amp;from=rss)
-* [2025-05-22, 22:16:54](https://lobste.rs/s/jsoz3t/hypersystem_pixel_display_font_for) - [Hypersystem: a pixel display font for Hypermedia Systems](https://deniz.aksimsek.tr/2025/hypersystem/)
-* [2025-05-22, 21:40:54](https://news.ycombinator.com/item?id=44067409) - [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
 * [2025-05-22, 20:01:09](https://lobste.rs/s/zty9jf/async_from_scratch_3_pinned_against_wall) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
-* [2025-05-22, 19:10:34](https://lobste.rs/s/wmqzei/debugging_memory_leaks_postgres) - [Debugging memory leaks in Postgres, heaptrack edition](https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition)
 * [2025-05-22, 18:20:00](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss) - [Bill Tries to End Supersonic Speed Limits in the US Skies](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss)
-* [2025-05-22, 14:56:55](https://lobste.rs/s/ldazmp/claude_i_write_utility_program) - [Claude and I write a utility program](https://blog.plover.com/tech/gpt/claude-xar.html)
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
-* [2025-05-22, 13:36:30](https://lobste.rs/s/jld6td/another_tale_go_mod_bloat) - [another tale of go.mod bloat](https://flak.tedunangst.com/post/another-tale-of-gomod-bloat)
 * [2025-05-22, 13:35:00](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss) - [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss)
 * [2025-05-22, 11:56:47](https://lobste.rs/s/j3mzif/making_rav1d_video_decoder_1_faster) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 * [2025-05-22, 11:53:38](https://lobste.rs/s/ngsbdq/3_years_extremely_remote_work) - [3 Years of Extremely Remote Work](https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html)
@@ -151,10 +156,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss) - [\&quot;Big Surprise\&quot;: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss)
 * [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss)
-* [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
-* [2025-05-21, 10:12:32](https://news.ycombinator.com/item?id=44049926) - [Satellites Spotting Depth](https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html)
+* [2025-05-21, 11:37:37](https://news.ycombinator.com/item?id=44050353) - [From RPC to transactions and durable executions](https://www.pramodb.com/index.php/2025/05/21/from-rpc-to-transactions-and-durable-executions/)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
-* [2025-05-21, 05:36:16](https://news.ycombinator.com/item?id=44048574) - [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
 * [2025-05-20, 23:27:00](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss) - [New Intel CPU Flaws Leak Sensitive Data From Privileged Memory](https://soylentnews.org/article.pl?sid=25/05/20/1131213&amp;from=rss)
 * [2025-05-20, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss) - [UK-To-US English Converter Produced Amazing Mistakes](https://soylentnews.org/article.pl?sid=25/05/20/1630257&amp;from=rss)
@@ -166,10 +169,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-19, 23:49:00](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss) - [Nextcloud Cries Foul Over Google Play Store App Rejection](https://soylentnews.org/article.pl?sid=25/05/18/1411244&amp;from=rss)
 * [2025-05-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss) - [The End of the Universe is Nigh!](https://soylentnews.org/article.pl?sid=25/05/18/148219&amp;from=rss)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
-* [2025-05-19, 16:48:29](https://news.ycombinator.com/item?id=44031755) - [Bits with Soul](https://www.darwin.cam.ac.uk/lectures/entry/bits-with-soul/)
-* [2025-05-19, 15:47:51](https://news.ycombinator.com/item?id=44031082) - [&apos;Turbocharged&apos; Mitochondria Power Birds&apos; Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-19, 14:24:00](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss) - [UK Retail Sector Hit by Ransomware Spree](https://soylentnews.org/article.pl?sid=25/05/18/145202&amp;from=rss)
 * [2025-05-19, 09:39:00](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss) - [How a New Type of AI is Helping Police Skirt Facial Recognition Bans](https://soylentnews.org/article.pl?sid=25/05/18/135204&amp;from=rss)
-* [2025-05-19, 07:58:59](https://news.ycombinator.com/item?id=44027471) - [Tallest Wooden Wind Turbine](https://modvion.com/)
 * [2025-05-19, 04:54:00](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss) - [The Day Grok Lost its Mind](https://soylentnews.org/article.pl?sid=25/05/18/1255206&amp;from=rss)
 * [2025-05-19, 00:05:00](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss) - [Mars May Have Vast Underground Oceans](https://soylentnews.org/article.pl?sid=25/05/18/1252203&amp;from=rss)
