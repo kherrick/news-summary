@@ -1,48 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology and Artificial Intelligence
+## Human and AI Interfaces
 
-* [Google's New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Commented on its potential for both creative and deceptive applications.
+* [Google's New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44079901))
 
-* [Microsoft Says Its Aurora AI Can Accurately Predict Air Quality, Typhoons](https://news.slashdot.org/story/25/05/23/2023207/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses its implications in improving weather forecasting systems.
+* [Microsoft Says Its Aurora AI Can Accurately Predict Air Quality, Typhoons](https://news.slashdot.org/story/25/05/23/2023207/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44077850))
 
-* [America's Leading Alien Hunters Depend on AI to Speed Their Search](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Shows how AI is reshaping the search for extraterrestrial life.
+* [Kraken Launches Digital Tokens To Offer 24/7 Trading of US Equities](https://news.slashdot.org/story/25/05/23/2135201/kraken-launches-digital-tokens-to-offer-247-trading-of-us-equities?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44078024))
 
-* [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://news.ycombinator.com/item?id=44078314) - Presents an AI-driven solution for accelerated learning.
+## Innovations in Technology
 
-## Innovations in Software and Systems
+* [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully) ([comments](https://news.ycombinator.com/item?id=44076449))
 
-* [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/) - Reflects on a decade of insights into distributed database systems.
+* [A 10x Faster TypeScript](https://www.youtube.com/watch?v=UJfF3-13aFo) ([comments](https://news.ycombinator.com/item?id=44073867))
 
-* [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully) - Significant milestone for Rust development.
+* [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/) ([comments](https://news.ycombinator.com/item?id=44079303))
 
-* [Show HN: HNRelevant – Add a "related" section to Hacker News](https://github.com/imdj/HNRelevant) - Enhances browsing and exploration on Hacker News.
+## Science and Space
 
-## Artificial Intelligence Ethical and Policy Implications
+* [Landmark' Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44078813))
 
-* [Google's AI Mode Is 'the Definition of Theft,' Publishers Say](https://tech.slashdot.org/story/25/05/23/209232/googles-ai-mode-is-the-definition-of-theft-publishers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Addresses controversy surrounding AI's use of copyrighted content.
+* [America's Leading Alien Hunters Depend on AI to Speed Their Search](https://science.slashdot.org/story/25/05/23/1310218/americas-leading-alien-hunters-depend-on-ai-to-speed-their-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44076449))
 
-* [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - Raises concerns about user control over data privacy in AI models.
+## Societal and Cultural Impact
 
-## Energy and Climate Innovations
+* [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max) ([comments](https://news.ycombinator.com/item?id=44076449))
 
-* [US Solar Keeps Surging, Generating More Power Than Hydro In 2025](https://hardware.slashdot.org/story/25/05/23/2156217/us-solar-keeps-surging-generating-more-power-than-hydro-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the growth of renewable power in the U.S.
+* [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/) ([comments](https://news.ycombinator.com/item?id=44078813))
 
-* [Landmark Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explores groundbreaking advances in agricultural resilience.
-
-## Developments in Space Technology
-
-* [A NASA Mars Rover Looked Up At A Moody Sky. What It Saw Wasn't A Star](https://soylentnews.org/article.pl?sid=25/05/22/2134201&amp;from=rss) - Captures a surprising celestial sighting.
-
-* [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - Advances space-based computational capabilities.
-
-## Noteworthy Health and Science Insights
-
-* [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/) - Breakthrough in safer pharmaceuticals.
-
-* [Police Secretly Monitored New Orleans With Facial Recognition Cameras](https://soylentnews.org/article.pl?sid=25/05/22/1217221&amp;from=rss) - Examines the balance of safety and privacy.
-
-* [High Priority Exploits Fixed in Firefox and Chrome](https://soylentnews.org/article.pl?sid=25/05/23/1158226&amp;from=rss) - Important updates for cybersecurity.
+* [TSMC's US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&from=rss) ([comments](https://news.ycombinator.com/item?id=44078024))
 
 ---
 
@@ -69,9 +55,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-24, 09:31:33](https://news.ycombinator.com/item?id=44079901) - [My Epic, 40-Year Dungeons and Dragons Odyssey](https://timharford.com/2024/11/my-epic-40-year-dungeons-dragons-odyssey/)
+* [2025-05-24, 08:20:00](https://soylentnews.org/article.pl?sid=25/05/23/1211234&amp;from=rss) - [In Lawsuit Over Teen&apos;s Death, Judge Rejects Arguments That AI Chatbots Have Free Speech Rights](https://soylentnews.org/article.pl?sid=25/05/23/1211234&amp;from=rss)
+* [2025-05-24, 07:52:45](https://lobste.rs/s/2v5n2d/kaleidoscopico) - [Kaleidoscopico](https://www.linusakesson.net/scene/kaleidoscopico/index.php)
+* [2025-05-24, 07:12:48](https://news.ycombinator.com/item?id=44079331) - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
+* [2025-05-24, 07:05:46](https://news.ycombinator.com/item?id=44079303) - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
+* [2025-05-24, 07:04:22](https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my) - [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-24, 07:00:00](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 06:40:35](https://lobste.rs/s/tvi48r/rqlite_turns_10_observations_from_decade) - [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
-* [2025-05-24, 05:20:15](https://news.ycombinator.com/item?id=44078930) - [Valve takes another step toward making SteamOS a true Windows competitor](https://arstechnica.com/gaming/2025/05/valve-adds-steamos-compatible-game-label-as-it-prepares-to-expand-beyond-steam-deck/)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:41:29](https://lobste.rs/s/rwxqnr/de_abstraction_conditional_escape) - [De-Abstraction and Conditional Escape Analysis](https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis)
 * [2025-05-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/05/23/128247&amp;from=rss) - [TSMC&apos;s US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&amp;from=rss)
@@ -107,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:45:54](https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:42:00](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Authors Are Accidentally Leaving AI Prompts In their Novels](https://news.slashdot.org/story/25/05/23/1829251/authors-are-accidentally-leaving-ai-prompts-in-their-novels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer&apos;s toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
 * [2025-05-23, 18:14:57](https://lobste.rs/s/b56ikw/configuring_jujutsu) - [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
 * [2025-05-23, 18:00:00](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Landmark&apos; Evolution Study Shows How Rice Inherits Tolerance To Cold Without DNA Changes](https://science.slashdot.org/story/25/05/23/1313239/landmark-evolution-study-shows-how-rice-inherits-tolerance-to-cold-without-dna-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/05/22/2134201&amp;from=rss) - [A Nasa Mars Rover Looked Up At A Moody Sky. What It Saw Wasn&apos;t A Star. ](https://soylentnews.org/article.pl?sid=25/05/22/2134201&amp;from=rss)
@@ -139,15 +129,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
 * [2025-05-22, 13:35:00](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss) - [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss)
 * [2025-05-22, 11:56:47](https://lobste.rs/s/j3mzif/making_rav1d_video_decoder_1_faster) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
-* [2025-05-22, 11:53:38](https://lobste.rs/s/ngsbdq/3_years_extremely_remote_work) - [3 Years of Extremely Remote Work](https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html)
-* [2025-05-22, 11:39:12](https://news.ycombinator.com/item?id=44061028) - [Show HN: Embedo – Word Equation Puzzle Game](https://news.ycombinator.com/item?id=44061028)
 * [2025-05-22, 08:42:00](https://soylentnews.org/article.pl?sid=25/05/21/1214206&amp;from=rss) - [Italy Fines Thousands as Crackdown on Pirate IPTV Targets Viewers](https://soylentnews.org/article.pl?sid=25/05/21/1214206&amp;from=rss)
-* [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn&apos;t Recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss)
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss)
-* [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss) - [\&quot;Big Surprise\&quot;: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss)
+* [2025-05-21, 14:06:11](https://news.ycombinator.com/item?id=44051602) - [Faulty 120W charger analysis (Anker GAN Prime) [video]](https://www.youtube.com/watch?v=-JV5VGO55-I)
 * [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss)
+* [2025-05-21, 10:29:36](https://news.ycombinator.com/item?id=44050009) - [Ask HN: Selling software to company I work for as an employee](https://news.ycombinator.com/item?id=44050009)
+* [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 * [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
@@ -158,6 +147,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-20, 14:00:00](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss) - [Regeneron to Buy 23andMe Out of Bankruptcy for $256 Million](https://soylentnews.org/article.pl?sid=25/05/19/1851246&amp;from=rss)
 * [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 * [2025-05-20, 09:16:00](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss) - [Space Computing Satellite Constellation Launched into Orbit](https://soylentnews.org/article.pl?sid=25/05/19/0847257&amp;from=rss)
-* [2025-05-20, 07:19:14](https://news.ycombinator.com/item?id=44038686) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
-* [2025-05-20, 05:48:15](https://news.ycombinator.com/item?id=44038172) - [Diary: J. M. Coetzee, (1) Mother Tongue](https://books.substack.com/p/diary-j-m-coetzee-1-mother-tongue)
 * [2025-05-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss) - [Meta Is Making Users Who Opted Out of AI Training Opt Out Again](https://soylentnews.org/article.pl?sid=25/05/19/0231252&amp;from=rss)
