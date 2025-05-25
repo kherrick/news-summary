@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## AI and Machine Learning Developments
 
-* [MCP Will Be Built Into Windows To Make an 'Agentic OS' - Bringing Security Concerns](https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/) ([comments](https://news.ycombinator.com/item?id=44085343))
 
-* [Researchers Build 'The World's Fastest Petahertz Quantum Transistor'. They Predict Lightwave Electronics](https://science.slashdot.org/story/25/05/24/0337249/researchers-build-the-worlds-fastest-petahertz-quantum-transistor-they-predict-lightwave-electronics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [MCP Will Be Built Into Windows To Make an 'Agentic OS' - Bringing Security Concerns](https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [CAPTCHAs are over (in ticketing)](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
+* [Google's New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Good Writing](https://paulgraham.com/goodwriting.html)
+## Cybersecurity and Privacy Concerns
 
-## Security and Privacy
+* [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo) ([comments](https://lobste.rs/s/g8nnd1/remote_prompt_injection_gitlab_duo_leads))
 
-* [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
+* [CAPTCHAs Don't Work Any More For Ticket Sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/) ([comments](https://lobste.rs/s/qjol4n/captchas_don_t_work_any_more_for_ticket))
 
-* [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
+* [In Lawsuit Over Teen's Death, Judge Rejects Arguments That AI Chatbots Have Free Speech Rights](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/23/1211234&from=rss))
 
-* [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
+## Scientific and Technological Advances
 
-## Science and Discovery
+* [Researchers Build 'The World's Fastest Petahertz Quantum Transistor'. They Predict Lightwave Electronics](https://science.slashdot.org/story/25/05/24/0337249/researchers-build-the-worlds-fastest-petahertz-quantum-transistor-they-predict-lightwave-electronics?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/05/24/0337249/researchers-build-the-worlds-fastest-petahertz-quantum-transistor-they-predict-lightwave-electronics?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [MIT physicists discover a new type of superconductor that's also a magnet](https://news.mit.edu/2025/mit-physicists-discover-new-type-superconductor-also-magnet-0522)
+* [How Many Qubits Will It Take to Break Secure Public Key Cryptography Algorithms?](https://it.slashdot.org/story/25/05/24/0530234/how-many-qubits-will-it-take-to-break-secure-public-key-cryptography-algorithms?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/05/24/0530234/how-many-qubits-will-it-take-to-break-secure-public-key-cryptography-algorithms?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Bird Feeders Have Caused a Dramatic Evolution of California Hummingbirds](https://science.slashdot.org/story/25/05/24/0213237/bird-feeders-have-caused-a-dramatic-evolution-of-california-hummingbirds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1) ([comments](https://news.ycombinator.com/item?id=44082892))
 
-* [All Living Things Emit Subtle Light Until They Die, Study Suggests](https://soylentnews.org/article.pl?sid=25/05/23/1218209&from=rss)
+## Unusual and Interesting Stories
 
-## AI and Automation
+* [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html) ([comments](https://news.ycombinator.com/item?id=44085188))
 
-* [Google's New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Amazon Cancels the 'Wheel of Time' Prime Video Series After 3 Seasons](https://entertainment.slashdot.org/story/25/05/24/201246/amazon-cancels-the-wheel-of-time-prime-video-series-after-3-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/05/24/201246/amazon-cancels-the-wheel-of-time-prime-video-series-after-3-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
+* [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html) ([comments](https://news.ycombinator.com/item?id=44080549))
 
-* [People Should Know About the 'Beliefs' LLMs Form About Them While Conversing](https://slashdot.org/story/25/05/24/1946203/people-should-know-about-the-beliefs-llms-form-about-them-while-conversing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Gaming and Retro Computing
 
-## Cultural Topics and Miscellaneous
+* [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/) ([comments](https://news.ycombinator.com/item?id=44083917))
 
-* [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
+* [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html) ([comments](https://news.ycombinator.com/item?id=44083910))
 
-* [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
+* [New 'Doom: The Dark Ages' Already Adjusted to Add Even More Dangerous Demons](https://games.slashdot.org/story/25/05/24/2356233/new-doom-the-dark-ages-already-adjusted-to-add-even-more-dangerous-demons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/05/24/2356233/new-doom-the-dark-ages-already-adjusted-to-add-even-more-dangerous-demons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
+## Economic and Political Perspectives
+
+* [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5) ([comments](https://news.ycombinator.com/item?id=44084017))
+
+* [EU-US Trade War Inevitable](https://soylentnews.org/article.pl?sid=25/05/23/1716207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/23/1716207&from=rss))
+
+* [Failure Mechanisms in Democratic Regimes – An Army's Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/) ([comments](https://news.ycombinator.com/item?id=44084653))
 
 ---
 
@@ -67,22 +73,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-25, 03:40:58](https://news.ycombinator.com/item?id=44085343) - [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
+* [2025-05-25, 03:21:07](https://lobste.rs/s/juxpci/goal_embeddable_scripting_array) - [goal - embeddable scripting array language](https://codeberg.org/anaseto/goal)
+* [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
+* [2025-05-25, 02:12:21](https://news.ycombinator.com/item?id=44085046) - [Python in LibreOffice (LibrePythonista Extension)](https://extensions.libreoffice.org/en/extensions/show/99231)
 * [2025-05-25, 02:09:00](https://soylentnews.org/article.pl?sid=25/05/24/171234&amp;from=rss) - [VPN Service Cancels Customers&apos; Lifetime Subscriptions After Takeover](https://soylentnews.org/article.pl?sid=25/05/24/171234&amp;from=rss)
-* [2025-05-25, 00:37:08](https://news.ycombinator.com/item?id=44084677) - [CAPTCHAs are over (in ticketing)](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
+* [2025-05-25, 01:43:14](https://lobste.rs/s/ozdlss/hierarchical_hypermedia_world_hyper_g) - [The hierarchical hypermedia world of Hyper-G](http://oldvcr.blogspot.com/2025/05/prior-art-dept-hierarchical-hypermedia.html)
+* [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
+* [2025-05-25, 01:34:00](https://games.slashdot.org/story/25/05/24/2356233/new-doom-the-dark-ages-already-adjusted-to-add-even-more-dangerous-demons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New &apos;Doom: The Dark Ages&apos; Already Adjusted to Add Even More Dangerous Demons](https://games.slashdot.org/story/25/05/24/2356233/new-doom-the-dark-ages-already-adjusted-to-add-even-more-dangerous-demons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-25, 01:13:41](https://news.ycombinator.com/item?id=44084818) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
+* [2025-05-25, 00:30:04](https://news.ycombinator.com/item?id=44084653) - [Failure Mechanisms in Democratic Regimes – An Army&apos;s Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
+* [2025-05-25, 00:07:12](https://news.ycombinator.com/item?id=44084577) - [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
 * [2025-05-25, 00:04:48](https://lobste.rs/s/6sidoz/domain_theory_lecture_notes) - [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
-* [2025-05-24, 23:50:46](https://news.ycombinator.com/item?id=44084504) - [MIT physicists discover a new type of superconductor that&apos;s also a magnet](https://news.mit.edu/2025/mit-physicists-discover-new-type-superconductor-also-magnet-0522)
-* [2025-05-24, 23:17:25](https://news.ycombinator.com/item?id=44084352) - [&apos;Crypto king&apos; turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)
 * [2025-05-24, 23:13:24](https://news.ycombinator.com/item?id=44084332) - [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
 * [2025-05-24, 22:34:00](https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MCP Will Be Built Into Windows To Make an &apos;Agentic OS&apos; - Bringing Security Concerns](https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/05/23/1731218&amp;from=rss) - [Be A Great Communicator To Progress In Engineering](https://soylentnews.org/article.pl?sid=25/05/23/1731218&amp;from=rss)
 * [2025-05-24, 22:15:31](https://lobste.rs/s/g8nnd1/remote_prompt_injection_gitlab_duo_leads) - [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:34:00](https://entertainment.slashdot.org/story/25/05/24/201246/amazon-cancels-the-wheel-of-time-prime-video-series-after-3-seasons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Cancels the &apos;Wheel of Time&apos; Prime Video Series After 3 Seasons](https://entertainment.slashdot.org/story/25/05/24/201246/amazon-cancels-the-wheel-of-time-prime-video-series-after-3-seasons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
 * [2025-05-24, 20:52:09](https://lobste.rs/s/2adp0p/there_is_no_diffie_hellman_elliptic_curve) - [There is no Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
 * [2025-05-24, 20:45:00](https://lobste.rs/s/qjol4n/captchas_don_t_work_any_more_for_ticket) - [CAPTCHAs don&apos;t work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
 * [2025-05-24, 20:43:11](https://news.ycombinator.com/item?id=44083695) - [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
-* [2025-05-24, 20:41:41](https://news.ycombinator.com/item?id=44083687) - [Show HN: 1 min workouts for people who sit all day](https://shortreps.com)
 * [2025-05-24, 20:34:00](https://slashdot.org/story/25/05/24/1946203/people-should-know-about-the-beliefs-llms-form-about-them-while-conversing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People Should Know About the &apos;Beliefs&apos; LLMs Form About Them While Conversing](https://slashdot.org/story/25/05/24/1946203/people-should-know-about-the-beliefs-llms-form-about-them-while-conversing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 20:22:59](https://news.ycombinator.com/item?id=44083580) - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
@@ -99,18 +112,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-24, 17:51:49](https://lobste.rs/s/xk3zpc/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2025-05-24, 17:44:00](https://soylentnews.org/article.pl?sid=25/05/23/1716207&amp;from=rss) - [EU-US Trade War Inevitable](https://soylentnews.org/article.pl?sid=25/05/23/1716207&amp;from=rss)
 * [2025-05-24, 17:34:00](https://science.slashdot.org/story/25/05/24/0213237/bird-feeders-have-caused-a-dramatic-evolution-of-california-hummingbirds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bird Feeders Have Caused a Dramatic Evolution of California Hummingbirds](https://science.slashdot.org/story/25/05/24/0213237/bird-feeders-have-caused-a-dramatic-evolution-of-california-hummingbirds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become &apos;commonplace&apos; as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
+* [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It is time to stop teaching frequentism to non-statisticians (2012)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 16:37:06](https://lobste.rs/s/nwqz0u/tale_testability_sending_non_send_types) - [A Tale of Testability and Sending Non-Send Types in Rust](https://geo-ant.github.io/blog/2025/rust-testability-and-non-send-types/)
 * [2025-05-24, 16:34:00](https://science.slashdot.org/story/25/05/24/0337249/researchers-build-the-worlds-fastest-petahertz-quantum-transistor-they-predict-lightwave-electronics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Build &apos;The World&apos;s Fastest Petahertz Quantum Transistor&apos;. They Predict Lightwave Electronics](https://science.slashdot.org/story/25/05/24/0337249/researchers-build-the-worlds-fastest-petahertz-quantum-transistor-they-predict-lightwave-electronics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-24, 15:49:12](https://news.ycombinator.com/item?id=44081850) - [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
 * [2025-05-24, 15:34:00](https://ask.slashdot.org/story/25/05/24/0430214/ask-slashdot-do-we-need-opt-out-by-default-privacy-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot:  Do We Need Opt-Out-By-Default Privacy Laws?](https://ask.slashdot.org/story/25/05/24/0430214/ask-slashdot-do-we-need-opt-out-by-default-privacy-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:49:14](https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler) - [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
 * [2025-05-24, 14:34:00](https://linux.slashdot.org/story/25/05/24/041237/red-hat-collaborates-with-sifive-on-risc-v-support-as-rhel-10-brings-ai-assistant-and-post-quantum-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Red Hat Collaborates with SIFive on RISC-V Support, as RHEL 10 Brings AI Assistant and Post-Quantum Security](https://linux.slashdot.org/story/25/05/24/041237/red-hat-collaborates-with-sifive-on-risc-v-support-as-rhel-10-brings-ai-assistant-and-post-quantum-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
-* [2025-05-24, 13:05:56](https://news.ycombinator.com/item?id=44080820) - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 * [2025-05-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/05/23/1218209&amp;from=rss) - [All Living Things Emit Subtle Light Until They Die, Study Suggests](https://soylentnews.org/article.pl?sid=25/05/23/1218209&amp;from=rss)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
 * [2025-05-24, 12:08:15](https://news.ycombinator.com/item?id=44080549) - [Hong Kong&apos;s Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
@@ -119,18 +130,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-24, 11:43:52](https://lobste.rs/s/ggrjtg/sandboxing_ai_tools_with_guix_containers) - [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
 * [2025-05-24, 10:00:00](https://games.slashdot.org/story/25/05/23/2248229/valve-adds-steamos-support-for-its-steam-deck-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve Adds SteamOS Support For Its Steam Deck Rivals](https://games.slashdot.org/story/25/05/23/2248229/valve-adds-steamos-support-for-its-steam-deck-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 08:20:00](https://soylentnews.org/article.pl?sid=25/05/23/1211234&amp;from=rss) - [In Lawsuit Over Teen&apos;s Death, Judge Rejects Arguments That AI Chatbots Have Free Speech Rights](https://soylentnews.org/article.pl?sid=25/05/23/1211234&amp;from=rss)
-* [2025-05-24, 07:52:45](https://lobste.rs/s/2v5n2d/kaleidoscopico) - [Kaleidoscopico](https://www.linusakesson.net/scene/kaleidoscopico/index.php)
 * [2025-05-24, 07:04:22](https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my) - [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-24, 07:00:00](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s New AI Video Tool Floods Internet With Real-Looking Clips](https://tech.slashdot.org/story/25/05/23/2240214/googles-new-ai-video-tool-floods-internet-with-real-looking-clips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 06:40:35](https://lobste.rs/s/tvi48r/rqlite_turns_10_observations_from_decade) - [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
 * [2025-05-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/05/23/128247&amp;from=rss) - [TSMC&apos;s US Factory Shows the Limits of Reshoring and Tariffs](https://soylentnews.org/article.pl?sid=25/05/23/128247&amp;from=rss)
 * [2025-05-24, 03:30:00](https://news.slashdot.org/story/25/05/23/2023207/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Says Its Aurora AI Can Accurately Predict Air Quality, Typhoons](https://news.slashdot.org/story/25/05/23/2023207/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-24, 00:45:00](https://hardware.slashdot.org/story/25/05/23/2156217/us-solar-keeps-surging-generating-more-power-than-hydro-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Solar Keeps Surging, Generating More Power Than Hydro In 2025](https://hardware.slashdot.org/story/25/05/23/2156217/us-solar-keeps-surging-generating-more-power-than-hydro-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-24, 00:02:00](https://news.slashdot.org/story/25/05/23/2135201/kraken-launches-digital-tokens-to-offer-247-trading-of-us-equities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kraken Launches Digital Tokens To Offer 24/7 Trading of US Equities](https://news.slashdot.org/story/25/05/23/2135201/kraken-launches-digital-tokens-to-offer-247-trading-of-us-equities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
-* [2025-05-23, 23:20:00](https://hardware.slashdot.org/story/25/05/23/2110200/trump-launches-reform-of-nuclear-industry-slashes-regulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Launches Reform of Nuclear Industry, Slashes Regulation](https://hardware.slashdot.org/story/25/05/23/2110200/trump-launches-reform-of-nuclear-industry-slashes-regulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2025-05-23, 22:49:00](https://soylentnews.org/article.pl?sid=25/05/23/1158226&amp;from=rss) - [High Priority Exploits Fixed in Firefox and Chrome](https://soylentnews.org/article.pl?sid=25/05/23/1158226&amp;from=rss)
 * [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
 * [2025-05-23, 19:47:49](https://lobste.rs/s/unlqyd/nixos_25_05_released) - [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
@@ -145,16 +151,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-23, 03:45:00](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss) - [UK Farmers Pray For Rain Amid Driest Spring Since 1852](https://soylentnews.org/article.pl?sid=25/05/21/2216220&amp;from=rss)
 * [2025-05-22, 23:06:00](https://soylentnews.org/article.pl?sid=25/05/22/012214&amp;from=rss) - [A Look at OpenAI From 2019](https://soylentnews.org/article.pl?sid=25/05/22/012214&amp;from=rss)
 * [2025-05-22, 18:20:00](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss) - [Bill Tries to End Supersonic Speed Limits in the US Skies](https://soylentnews.org/article.pl?sid=25/05/22/0059205&amp;from=rss)
-* [2025-05-22, 16:11:57](https://news.ycombinator.com/item?id=44063477) - [The Last Nomads](https://www.thedial.world/articles/news/issue-28/georgia-adjara-highlands-nomads)
 * [2025-05-22, 13:35:00](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss) - [Chicago Sun-Times Prints Summer Reading List Full of Fake Books](https://soylentnews.org/article.pl?sid=25/05/21/1543207&amp;from=rss)
 * [2025-05-22, 08:42:00](https://soylentnews.org/article.pl?sid=25/05/21/1214206&amp;from=rss) - [Italy Fines Thousands as Crackdown on Pirate IPTV Targets Viewers](https://soylentnews.org/article.pl?sid=25/05/21/1214206&amp;from=rss)
 * [2025-05-22, 03:59:00](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss) - [Laser-Powered Fusion Experiment More Than Doubles its Power Output](https://soylentnews.org/article.pl?sid=25/05/21/1210228&amp;from=rss)
 * [2025-05-22, 00:30:28](https://news.ycombinator.com/item?id=44057606) - [One of the Most Popular Games on the Planet](https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824)
 * [2025-05-21, 23:11:00](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss) - [Opinion: Unending Ransomware Attacks Are a Symptom, Not the Illness](https://soylentnews.org/article.pl?sid=25/05/21/127244&amp;from=rss)
+* [2025-05-21, 19:43:01](https://news.ycombinator.com/item?id=44055454) - [Nvidia Pushes Further into Cloud with GPU Marketplace](https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd)
 * [2025-05-21, 18:29:00](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss) - [\&quot;Big Surprise\&quot;: Astronomers Find Planet in Perpendicular Orbit Around Pair of Stars](https://soylentnews.org/article.pl?sid=25/05/21/1154206&amp;from=rss)
 * [2025-05-21, 13:42:00](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss) - [Annual Tech Waste Footprint Per Person is 11.2 Kg](https://soylentnews.org/article.pl?sid=25/05/20/1143239&amp;from=rss)
-* [2025-05-21, 10:22:08](https://news.ycombinator.com/item?id=44049965) - [Is Astrophotography Without Tracking Possible?](https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/)
+* [2025-05-21, 12:59:40](https://news.ycombinator.com/item?id=44050992) - [Personal Computer Origins: The Datapoint 2200](https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint)
 * [2025-05-21, 08:58:00](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss) - [Apple is Developing Tech So Users Can Control Devices With Only Their Thoughts](https://soylentnews.org/article.pl?sid=25/05/20/1138240&amp;from=rss)
 * [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
-* [2025-05-21, 04:56:44](https://news.ycombinator.com/item?id=44048420) - [Goethe&apos;s Faustian Life](https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography)
+* [2025-05-21, 05:38:47](https://news.ycombinator.com/item?id=44048589) - [The WinRAR Approach](https://basicappleguy.com/basicappleblog/the-winrar-approach)
 * [2025-05-21, 04:14:00](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss) - [AWS Claims That Britain Needs More Nuclear Power for AI Datacenters](https://soylentnews.org/article.pl?sid=25/05/20/1136209&amp;from=rss)
