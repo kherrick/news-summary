@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Space Discoveries
+## Environmental Discoveries and Innovations
 
-* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss))
+* [Telescope Upgrade Reveals Sun's 'Coronal Rain' In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss) - This article highlights the capabilities of upgraded telescopes in observing solar phenomena with remarkable detail, contributing significantly to our understanding of the Sun’s behavior.
 
-* [Evidence for 'Planet Nine' Lurking on the Fringes of the Solar System is Building](https://soylentnews.org/article.pl?sid=25/05/24/1755248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/24/1755248&amp;from=rss))
+* [Evidence for 'Planet Nine' Lurking on the Fringes of the Solar System is Building](https://soylentnews.org/article.pl?sid=25/05/24/1755248&amp;from=rss) - Research continues to substantiate the existence of a mysterious ninth planet far beyond Neptune, potentially reshaping our understanding of the solar system.
 
-* [The Blowtorch Theory: A new model for structure formation in the universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model) ([comments](https://news.ycombinator.com/item?id=44115973))
+## Technological Developments and Cyber Trends
 
-## Technology and Cybersecurity
+* [Microsoft Is Opening Windows Update To Third-Party Apps](https://tech.slashdot.org/story/25/05/28/2232237/microsoft-is-opening-windows-update-to-third-party-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A game-changing move by Microsoft to integrate third-party apps into Windows Update could transform how users experience software updates.
 
-* [Data Broker Giant LexisNexis Says Breach Exposed Personal Information of Over 364,000 People](https://it.slashdot.org/story/25/05/29/0232235/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/05/29/0232235/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg) - A new typed interface for FFmpeg introduces visual editing for filters, streamlining complex video creation workflows.
 
-* [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://yro.slashdot.org/story/25/05/28/2024243/mysterious-database-of-184-million-records-exposes-vast-array-of-login-credentials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/05/28/2024243/mysterious-database-of-184-million-records-exposes-vast-array-of-login-credentials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Data Broker Giant LexisNexis Says Breach Exposed Personal Information of Over 364,000 People](https://it.slashdot.org/story/25/05/29/0232235/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An alarming data breach at LexisNexis raises serious questions about data security in the hands of large brokers.
 
-* [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465) ([comments](https://news.ycombinator.com/item?id=44117465))
+## Space and Cosmic Discoveries
 
-## Artificial Intelligence Developments
+* [Astronomers Discover Mystery Cosmic Body Bursting With X-Rays](https://science.slashdot.org/story/25/05/29/0238200/astronomers-discover-mystery-cosmic-body-bursting-with-x-rays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronomers are puzzled by a newly discovered cosmic entity, intensely radiating X-rays and possibly harboring clues to unknown stellar phenomena.
 
-* [workflows for ai coding](https://anniecherkaev.com/the-times-they-are-ai-changing) ([comments](https://lobste.rs/s/4eenfe/workflows_for_ai_coding))
+* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) - This discovery of an enigmatic celestial body expands our perception of planetary and dwarf-like worlds in the distant reaches of the solar system.
 
-* [Firefox 139 adds experimental AI-powered link previews](https://9to5mac.com/2025/05/27/firefox-ai-link-previews/) ([comments](https://lobste.rs/s/kj0aux/firefox_139_adds_experimental_ai_powered))
+## Artificial Intelligence and Computational Innovations
 
-* [We did the Math on AI’s Energy Footprint. Here’s the Story you Haven’t Heard.](https://soylentnews.org/article.pl?sid=25/05/24/1910230&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/24/1910230&amp;from=rss))
+* [Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05) - Renowned economist Daron Acemoglu questions overinflated claims about AI's transformational potential on productivity.
 
-## Software and Development Tools
+* [Compiling a Neural Net to C for a 1,744× Speedup](https://slightknack.dev/blog/difflogic/) - Innovative methods to compile neural networks are offering substantial computational efficiencies, closing the performance gap for AI applications.
 
-* [Building a Distributed Cache for S3](https://clickhouse.com/blog/building-a-distributed-cache-for-s3) ([comments](https://lobste.rs/s/tweioa/building_distributed_cache_for_s3))
+* [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg) - A new tool enhances video rendering and editing with typed integration and a visual approach to filters using FFmpeg.
 
-* [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg) ([comments](https://news.ycombinator.com/item?id=44123098))
+## Technology and Applications in Daily Life
 
-* [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/) ([comments](https://news.ycombinator.com/item?id=44122582))
+* [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025) - A developer documents their journey of rewriting a Mac app in Rust, showcasing the language's benefits for performance and reliability.
 
-## Gaming and Entertainment
-
-* [EA Cancels Black Panther Game, Closes Cliffhanger Games](https://games.slashdot.org/story/25/05/28/2226236/ea-cancels-black-panther-game-closes-cliffhanger-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://games.slashdot.org/story/25/05/28/2226236/ea-cancels-black-panther-game-closes-cliffhanger-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [CD Projekt Red is Moving Forward With Cyberpunk 2](https://games.slashdot.org/story/25/05/28/2018208/cd-projekt-red-is-moving-forward-with-cyberpunk-2?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://games.slashdot.org/story/25/05/28/2018208/cd-projekt-red-is-moving-forward-with-cyberpunk-2?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Technology's Impact on Society
-
-* [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss))
-
-* [Humanoid AI-powered Robots Duke It Out In China Fight Competition](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss))
+* [Japan Post launches 'digital address' system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/) - Japan Post's groundbreaking digital address system leverages technology to modernize mail and package delivery services.
 
 ---
 
@@ -69,15 +59,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-05-29, 06:52:40](https://lobste.rs/s/tweioa/building_distributed_cache_for_s3) - [Building a Distributed Cache for S3](https://clickhouse.com/blog/building-a-distributed-cache-for-s3)
+* [2025-05-29, 10:00:00](https://news.slashdot.org/story/25/05/28/2048209/world-faces-new-danger-of-economic-denial-in-climate-fight-cop30-head-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World Faces New Danger of &apos;Economic Denial&apos; in Climate Fight, Cop30 Head Says](https://news.slashdot.org/story/25/05/28/2048209/world-faces-new-danger-of-economic-denial-in-climate-fight-cop30-head-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-29, 09:13:03](https://lobste.rs/s/n7ly8i/3_ways_javascript_frameworks_render_dom) - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
+* [2025-05-29, 08:37:08](https://lobste.rs/s/yt8har/wake_up_remix) - [Wake up, Remix](https://remix.run/blog/wake-up-remix)
+* [2025-05-29, 08:04:25](https://news.ycombinator.com/item?id=44123984) - [Nobel Laureate Daron Acemoglu: Don&apos;t Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
+* [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
+* [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
+* [2025-05-29, 07:00:00](https://science.slashdot.org/story/25/05/29/0238200/astronomers-discover-mystery-cosmic-body-bursting-with-x-rays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Discover Mystery Cosmic Body Bursting With X-Rays](https://science.slashdot.org/story/25/05/29/0238200/astronomers-discover-mystery-cosmic-body-bursting-with-x-rays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)
+* [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
+* [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:58:59](https://lobste.rs/s/4eenfe/workflows_for_ai_coding) - [workflows for ai coding](https://anniecherkaev.com/the-times-they-are-ai-changing)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 03:30:00](https://it.slashdot.org/story/25/05/29/0232235/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Data Broker Giant LexisNexis Says Breach Exposed Personal Information of Over 364,000 People](https://it.slashdot.org/story/25/05/29/0232235/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-29, 01:30:00](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss) - [Humanoid AI-powered Robots Duke It Out In China Fight Competition](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss)
 * [2025-05-29, 01:00:00](https://tech.slashdot.org/story/25/05/28/2232237/microsoft-is-opening-windows-update-to-third-party-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Is Opening Windows Update To Third-Party Apps](https://tech.slashdot.org/story/25/05/28/2232237/microsoft-is-opening-windows-update-to-third-party-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-29, 00:40:46](https://news.ycombinator.com/item?id=44121925) - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
 * [2025-05-29, 00:20:00](https://games.slashdot.org/story/25/05/28/2226236/ea-cancels-black-panther-game-closes-cliffhanger-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EA Cancels Black Panther Game, Closes Cliffhanger Games](https://games.slashdot.org/story/25/05/28/2226236/ea-cancels-black-panther-game-closes-cliffhanger-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-28, 23:40:00](https://news.slashdot.org/story/25/05/28/2221220/discords-new-currency-pays-users-to-interact-with-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord&apos;s New Currency Pays Users To Interact With Ads](https://news.slashdot.org/story/25/05/28/2221220/discords-new-currency-pays-users-to-interact-with-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-28, 23:00:00](https://yro.slashdot.org/story/25/05/28/2024243/mysterious-database-of-184-million-records-exposes-vast-array-of-login-credentials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://yro.slashdot.org/story/25/05/28/2024243/mysterious-database-of-184-million-records-exposes-vast-array-of-login-credentials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,10 +94,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-28, 19:42:00](https://tech.slashdot.org/story/25/05/28/1940259/google-photos-turns-10-with-major-editor-redesign-qr-code-sharing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Photos Turns 10 With Major Editor Redesign, QR Code Sharing](https://tech.slashdot.org/story/25/05/28/1940259/google-photos-turns-10-with-major-editor-redesign-qr-code-sharing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-28, 19:37:47](https://news.ycombinator.com/item?id=44119890) - [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
 * [2025-05-28, 19:34:34](https://lobste.rs/s/rqc5yc/compiler_explorer_promise_urls_last) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
-* [2025-05-28, 19:20:19](https://lobste.rs/s/awmftl/performance_es6_features_relative_es5) - [Performance of ES6 features relative to the ES5 baseline operations per second (2022)](http://incaseofstairs.com/six-speed/)
 * [2025-05-28, 18:40:00](https://slashdot.org/story/25/05/28/111250/japanese-authorities-refer-spoiler-website-operators-to-prosecutors-in-rare-corporate-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japanese Authorities Refer &apos;Spoiler Website&apos; Operators To Prosecutors in Rare Corporate Copyright Case](https://slashdot.org/story/25/05/28/111250/japanese-authorities-refer-spoiler-website-operators-to-prosecutors-in-rare-corporate-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-28, 18:00:00](https://news.slashdot.org/story/25/05/28/1616255/80-chance-of-record-heat-in-coming-years-climate-agencies-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [80% Chance of Record Heat in Coming Years, Climate Agencies Forecast](https://news.slashdot.org/story/25/05/28/1616255/80-chance-of-record-heat-in-coming-years-climate-agencies-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-28, 17:59:02](https://news.ycombinator.com/item?id=44118818) - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
 * [2025-05-28, 17:35:48](https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 17:28:20](https://lobste.rs/s/dsludj/linux_mount_namespaces_persistence) - [Linux Mount Namespaces and persistence](https://jmtd.net/log/mount_namespaces/)
 * [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a neural net to C for a speedup](https://slightknack.dev/blog/difflogic/)
@@ -110,16 +104,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
-* [2025-05-28, 16:40:00](https://tech.slashdot.org/story/25/05/28/1638216/japan-post-launches-digital-address-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Post Launches &apos;Digital Address&apos; System](https://tech.slashdot.org/story/25/05/28/1638216/japan-post-launches-digital-address-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-28, 16:33:49](https://news.ycombinator.com/item?id=44117779) - [Japan Post launches &apos;digital address&apos; system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
 * [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the promise of URLs that last forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 16:04:00](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss) - [Telescope Upgrade Reveals Sun&apos;s \&quot;Coronal Rain\&quot; In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss)
-* [2025-05-28, 16:01:00](https://it.slashdot.org/story/25/05/28/1215203/cyberattack-surge-creates-opportunity-for-insurers-prompts-rethink-on-premiums?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyberattack Surge Creates Opportunity for Insurers, Prompts Rethink on Premiums](https://it.slashdot.org/story/25/05/28/1215203/cyberattack-surge-creates-opportunity-for-insurers-prompts-rethink-on-premiums?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-28, 16:00:44](https://news.ycombinator.com/item?id=44117465) - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
+* [2025-05-28, 15:41:21](https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report) - [2024 Medley Interlisp Annual Report](https://interlisp.org/project/status/2024medleyannualreport/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:27:42](https://news.ycombinator.com/item?id=44117059) - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM codegen go brrr – Parallelization with Git worktrees and tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
-* [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [De-anonymization attacks against the privacy coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A new model for structure formation in the universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss) - [iPhone Won&apos;t Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss)
 * [2025-05-28, 10:57:50](https://lobste.rs/s/1kfzkq/cory_doctorow_on_how_we_lost_internet) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/)
@@ -128,10 +119,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-28, 08:33:36](https://lobste.rs/s/koodxv/thought_on_javascript_proof_work_anti) - [A thought on JavaScript \&quot;proof of work\&quot; anti-scraper systems](https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss)
 * [2025-05-28, 06:32:01](https://lobste.rs/s/kj0aux/firefox_139_adds_experimental_ai_powered) - [Firefox 139 adds experimental AI-powered link previews](https://9to5mac.com/2025/05/27/firefox-ai-link-previews/)
+* [2025-05-28, 01:53:43](https://news.ycombinator.com/item?id=44112149) - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
 * [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss) - [Security News: Telemessage Worsens, Predictive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss)
 * [2025-05-27, 21:36:31](https://lobste.rs/s/47b4ds/scrappy_make_little_apps_for_you_your) - [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-05-27, 21:04:00](https://soylentnews.org/article.pl?sid=25/05/27/1135228&amp;from=rss) - [Gabe Newell&apos;s Brain-Computer Interface Startup to Reveal First Chips Later This Year](https://soylentnews.org/article.pl?sid=25/05/27/1135228&amp;from=rss)
-* [2025-05-27, 19:27:51](https://lobste.rs/s/wfams6/awesome_emacs_on_macos) - [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
+* [2025-05-27, 20:09:15](https://news.ycombinator.com/item?id=44110264) - [They used Xenon to climb Everest in days – is it the future of mountaineering?](https://www.nytimes.com/2025/05/27/world/europe/mount-everest-xenon-gas-nepal-uk-climbers.html)
 * [2025-05-27, 18:05:42](https://lobste.rs/s/xafw94/own_your_email_domain) - [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
 * [2025-05-27, 16:16:00](https://soylentnews.org/article.pl?sid=25/05/27/1132236&amp;from=rss) - [Texas is Getting Ready to Ban Social Media for Anyone Under 18](https://soylentnews.org/article.pl?sid=25/05/27/1132236&amp;from=rss)
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \&quot;tech for good\&quot; job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
@@ -139,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-27, 11:31:00](https://soylentnews.org/article.pl?sid=25/05/27/0520206&amp;from=rss) - [Research Reveals &apos;Forever Chemicals&apos; Present in Beer](https://soylentnews.org/article.pl?sid=25/05/27/0520206&amp;from=rss)
 * [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
 * [2025-05-27, 06:43:00](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss) - [Scientists Discover Potential New Targets For Alzheimer’s Drugs](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss)
-* [2025-05-27, 06:26:46](https://news.ycombinator.com/item?id=44104399) - [3D Simulation of the Bombe Machine](https://bombe.virtualcolossus.co.uk/bombe/)
 * [2025-05-27, 01:53:00](https://soylentnews.org/article.pl?sid=25/05/25/2124211&amp;from=rss) - [Google Brings Ads to AI Search](https://soylentnews.org/article.pl?sid=25/05/25/2124211&amp;from=rss)
 * [2025-05-26, 23:49:11](https://news.ycombinator.com/item?id=44102712) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/)
 * [2025-05-26, 21:49:48](https://news.ycombinator.com/item?id=44101997) - [Unlocking Ractors: class instance variables in Ruby](https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html)
@@ -155,7 +146,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-25, 16:25:00](https://soylentnews.org/article.pl?sid=25/05/24/1730251&amp;from=rss) - [The Roman Massacre That Never Happened](https://soylentnews.org/article.pl?sid=25/05/24/1730251&amp;from=rss)
 * [2025-05-25, 14:00:07](https://news.ycombinator.com/item?id=44087898) - [A Visual History of Chessmen](https://chesshistory.github.io/)
 * [2025-05-25, 13:46:56](https://news.ycombinator.com/item?id=44087809) - [What If We Had Bigger Brains? Imagining Minds Beyond Ours](https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/)
-* [2025-05-25, 12:38:27](https://news.ycombinator.com/item?id=44087390) - [Mathematical Fiction](https://kasmana.people.charleston.edu/MATHFICT/default.html)
 * [2025-05-25, 12:10:44](https://news.ycombinator.com/item?id=44087248) - [Basic for the Raspberry Pi Pico and Pico 2](https://geoffg.net/picomite.html)
 * [2025-05-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/05/24/1718235&amp;from=rss) - [The Pedestrians Who Abetted a Hawk’s Deadly Attack](https://soylentnews.org/article.pl?sid=25/05/24/1718235&amp;from=rss)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
