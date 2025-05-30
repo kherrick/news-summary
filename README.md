@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Developments in Space Science
 
-* [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/) ([Comments](https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way))
+* [Scientists Have Clear Evidence of Martian Atmosphere 'Sputtering'](https://science.slashdot.org/story/25/05/30/040234/scientists-have-clear-evidence-of-martian-atmosphere-sputtering?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough discovery sheds light on the processes causing loss of Martian atmosphere, offering new insights into the Red Planet's history and current state.
 
-* [The Linux 6.15 kernel arrives and it's big a victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/) ([Comments](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory))
+* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&from=rss) - Astronomers have unveiled a mysterious celestial body located in the distant reaches of our solar system, raising questions about its formation and characteristics.
 
-* ['E-Tattoo' Could Track Mental Workload For People In High-Stake Jobs, Study Says](https://science.slashdot.org/story/25/05/29/222251/e-tattoo-could-track-mental-workload-for-people-in-high-stake-jobs-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/05/29/222251/e-tattoo-could-track-mental-workload-for-people-in-high-stake-jobs-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence and Computing
 
-* [Triangle splatting: radiance fields represented by triangles](https://trianglesplatting.github.io/) ([Comments](https://news.ycombinator.com/item?id=44132744))
+* [The Coming AI Revolution in Distributed Systems](https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html) - A detailed exploration of how AI is transforming distributed systems, with practical implications for future advancements in the field.
 
-## Programming and Software Development
+* [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&from=rss) - Emerging indicators suggest that the seemingly omnipotent AI models are facing fundamental challenges, exposing limitations as their usage scales.
 
-* [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html) ([Comments](https://lobste.rs/s/y13fa3/poor_man_s_types))
+* [GitHub Copilot Angles for Promotion From Assistant to Agent](https://soylentnews.org/article.pl?sid=25/05/25/1717211&from=rss) - GitHub Copilot's ambitious trajectory aims to transition it from an assistant role to a more independent and capable coding agent.
 
-* [Revisiting Loop Recognition in C++... in Rust](http://blomqu.ist/posts/2025/loop-recognition) ([Comments](https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust))
+## Advancements in Software Development and Programming
 
-* [The-One-True-Lisp-Style-Guide](https://github.com/foxsae/The-One-True-Lisp-Style-Guide) ([Comments](https://lobste.rs/s/xv6zge/one_true_lisp_style_guide))
+* [The Linux 6.15 kernel arrives and it's big a victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/) - The latest Linux kernel introduces substantial updates, including stronger integrations for Rust, marking a big win for developers.
 
-* [How to fix email encryption](https://weddige.eu/en/articles/lets-encrypt-emails/) ([Comments](https://lobste.rs/s/mzm2kk/how_fix_email_encryption))
+* [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html) - An insightful piece exploring a minimalist approach to type systems and their practical application in day-to-day coding.
 
-## Health and Science
+* [Revisiting Loop Recognition in C++... in Rust](http://blomqu.ist/posts/2025/loop-recognition) - Dive into a novel perspective on loop recognition, transitioning its implementation from C++ to Rust for conceptual and practical insights.
 
-* [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006) ([Comments](https://news.ycombinator.com/item?id=44133310))
+## Technological Innovations
 
-* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss))
+* [E-Tattoo' Could Track Mental Workload For People In High-Stake Jobs, Study Says](https://science.slashdot.org/story/25/05/29/222251/e-tattoo-could-track-mental-workload-for-people-in-high-stake-jobs-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers have developed an electronic 'tattoo' capable of monitoring mental effort, with applications for high-stress professions.
 
-* [Scientists Discover Potential New Targets For Alzheimer’s Drugs](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss))
+* [Positive Proof-of-Concept Experiments May Lead to the World's First Treatment for Celiac Disease](https://soylentnews.org/article.pl?sid=25/05/25/0833214&from=rss) - New experimental results raise hopes for the first effective treatment for Celiac Disease, offering potential relief for millions.
 
-## Cultural and Artistic Highlights
+## Cultural and Historical Highlights
 
-* [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection) ([Comments](https://news.ycombinator.com/item?id=44133251))
+* [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection) - A rare showcase of filmmaker David Lynch's memorabilia, featuring items from iconic movies and personal artifacts.
 
-* [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing) ([Comments](https://news.ycombinator.com/item?id=44132404))
+* [Dr John C. Clark, a scientist who disarmed atomic bombs twice](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst) - A compelling profile of John C. Clark and his remarkable contributions to nuclear disarmament through high-stakes, hands-on efforts.
 
-* [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/) ([Comments](https://news.ycombinator.com/item?id=44123852))
+## Cybersecurity and Internet Trends
 
-## Security and Privacy
+* [ASUS Router Backdoors Affect 9,000 Devices, Persists After Firmware Updates](https://it.slashdot.org/story/25/05/29/2052229/asus-router-backdoors-affect-9000-devices-persists-after-firmware-updates?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security researchers uncover significant vulnerabilities in ASUS routers, calling attention to persisting risks despite firmware updates.
 
-* [ASUS Router Backdoors Affect 9,000 Devices, Persists After Firmware Updates](https://it.slashdot.org/story/25/05/29/2052229/asus-router-backdoors-affect-9000-devices-persists-after-firmware-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/05/29/2052229/asus-router-backdoors-affect-9000-devices-persists-after-firmware-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [HellCaptcha: Accessibility Theater at Its Worst](https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/) ([Comments](https://lobste.rs/s/nl1rei/hellcaptcha_accessibility_theater_at))
-
-* [Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions](https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html) ([Comments](https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many))
+* [SEC Voluntarily Dismisses Lawsuit Against Binance](https://yro.slashdot.org/story/25/05/29/2155215/sec-voluntarily-dismisses-lawsuit-against-binance?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The SEC drops its high-profile case against Binance, signaling potential strategic changes in regulatory approaches toward crypto exchanges.
 
 ---
 
@@ -69,12 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
+* [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
+* [2025-05-30, 07:54:21](https://news.ycombinator.com/item?id=44133962) - [RFK Jr&apos;s &apos;Maha&apos; report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
+* [2025-05-30, 07:06:35](https://news.ycombinator.com/item?id=44133706) - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
+* [2025-05-30, 07:00:00](https://science.slashdot.org/story/25/05/30/040234/scientists-have-clear-evidence-of-martian-atmosphere-sputtering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Have Clear Evidence of Martian Atmosphere &apos;Sputtering&apos;](https://science.slashdot.org/story/25/05/30/040234/scientists-have-clear-evidence-of-martian-atmosphere-sputtering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
-* [2025-05-30, 06:41:38](https://lobste.rs/s/7qrihr/radix_2_51_trick_2017) - [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
+* [2025-05-30, 06:21:06](https://lobste.rs/s/jhsxpa/three_level_summary_neural_radiance) - [Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting](https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss) - [Lenovo Caught Out by Trump&apos;s on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss)
-* [2025-05-30, 05:55:37](https://news.ycombinator.com/item?id=44133310) - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
 * [2025-05-30, 05:42:58](https://news.ycombinator.com/item?id=44133251) - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
-* [2025-05-30, 05:11:14](https://news.ycombinator.com/item?id=44133093) - [Limits to Growth was right about collapse](https://thenextwavefutures.wordpress.com/2025/05/20/limits-to-growth-was-right-about-overshoot-and-collapse-new-data/)
 * [2025-05-30, 05:10:59](https://news.ycombinator.com/item?id=44133091) - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
 * [2025-05-30, 04:52:23](https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way) - [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-30, 04:36:21](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory) - [The Linux 6.15 kernel arrives and it&apos;s big a victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/)
@@ -107,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
 * [2025-05-29, 20:21:00](https://news.slashdot.org/story/25/05/29/2011206/india-needs-to-turn-the-air-con-on?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Needs To Turn the Air-Con On](https://news.slashdot.org/story/25/05/29/2011206/india-needs-to-turn-the-air-con-on?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 20:05:59](https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful) - [Making openat(2) and friends more useful in practice](https://undeadly.org/cgi?action=article;sid=20250529080623)
-* [2025-05-29, 19:53:27](https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many) - [Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions](https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html)
 * [2025-05-29, 19:40:00](https://developers.slashdot.org/story/25/05/29/1921248/stack-overflows-radical-new-plan-to-fight-ai-induced-death-spiral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stack Overflow&apos;s Radical New Plan To Fight AI-Induced Death Spiral](https://developers.slashdot.org/story/25/05/29/1921248/stack-overflows-radical-new-plan-to-fight-ai-induced-death-spiral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 19:01:00](https://developers.slashdot.org/story/25/05/29/1835258/anthropic-ceo-warns-ai-could-eliminate-half-of-all-entry-level-white-collar-jobs-within-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic CEO Warns AI Could Eliminate Half of All Entry-Level White-Collar Jobs Within Five Years](https://developers.slashdot.org/story/25/05/29/1835258/anthropic-ceo-warns-ai-could-eliminate-half-of-all-entry-level-white-collar-jobs-within-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
@@ -119,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 16:50:00](https://linux.slashdot.org/story/25/05/29/1650210/linux-format-ceases-publication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Format Ceases Publication](https://linux.slashdot.org/story/25/05/29/1650210/linux-format-ceases-publication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
-* [2025-05-29, 16:04:00](https://news.slashdot.org/story/25/05/29/164217/california-has-got-really-good-at-building-giant-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Has Got Really Good at Building Giant Batteries](https://news.slashdot.org/story/25/05/29/164217/california-has-got-really-good-at-building-giant-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-29, 15:55:00](https://lobste.rs/s/1j1muh/learning_c3) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
@@ -132,15 +129,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-29, 11:06:00](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss) - [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss)
 * [2025-05-29, 10:05:53](https://lobste.rs/s/e7ybwh/terraria_celeste_ported_webassembly) - [Terraria and Celeste ported to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
-* [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)
 * [2025-05-29, 01:30:00](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss) - [Humanoid AI-powered Robots Duke It Out In China Fight Competition](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss)
 * [2025-05-28, 22:02:47](https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff) - [parking_lot: ffffffffffffffff](https://fly.io/blog/parking-lot-ffffffffffffffff/)
+* [2025-05-28, 21:17:14](https://news.ycombinator.com/item?id=44120756) - [Turn a Tesla into a mapping vehicle with Mapillary](https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html)
 * [2025-05-28, 20:49:00](https://soylentnews.org/article.pl?sid=25/05/27/2241220&amp;from=rss) - [Intel Uncovers Alleged Embezzlement Involving Former Employee And Supplier](https://soylentnews.org/article.pl?sid=25/05/27/2241220&amp;from=rss)
 * [2025-05-28, 17:35:48](https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 16:04:00](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss) - [Telescope Upgrade Reveals Sun&apos;s \&quot;Coronal Rain\&quot; In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss)
-* [2025-05-28, 12:21:44](https://news.ycombinator.com/item?id=44115244) - [Flash Back: An “oral” history of Flash](https://goodinternetmagazine.com/oral-history-of-flash/)
-* [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
+* [2025-05-28, 15:16:35](https://news.ycombinator.com/item?id=44116906) - [Curie: A Research Experimentation Agent](https://github.com/Just-Curieous/Curie)
 * [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss) - [iPhone Won&apos;t Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss)
 * [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss) - [Security News: Telemessage Worsens, Predictive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss)
@@ -153,8 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-27, 11:52:13](https://news.ycombinator.com/item?id=44106007) - [Dr John C. Clark, a scientist who disarmed atomic bombs twice](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst)
 * [2025-05-27, 11:31:00](https://soylentnews.org/article.pl?sid=25/05/27/0520206&amp;from=rss) - [Research Reveals &apos;Forever Chemicals&apos; Present in Beer](https://soylentnews.org/article.pl?sid=25/05/27/0520206&amp;from=rss)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
+* [2025-05-27, 10:20:12](https://news.ycombinator.com/item?id=44105531) - [Superauthenticity: Computer Game Aspect Ratios](https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html)
 * [2025-05-27, 06:43:00](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss) - [Scientists Discover Potential New Targets For Alzheimer’s Drugs](https://soylentnews.org/article.pl?sid=25/05/27/0515241&amp;from=rss)
-* [2025-05-27, 04:18:18](https://news.ycombinator.com/item?id=44103923) - [Invading the Huum Uku WiFi Controller](https://kaurpalang.com/posts/invading-the-sauna/)
 * [2025-05-27, 01:53:00](https://soylentnews.org/article.pl?sid=25/05/25/2124211&amp;from=rss) - [Google Brings Ads to AI Search](https://soylentnews.org/article.pl?sid=25/05/25/2124211&amp;from=rss)
 * [2025-05-26, 21:07:00](https://soylentnews.org/article.pl?sid=25/05/25/2119235&amp;from=rss) - [The Sun is Producing Strong Solar Flares; Are There More Than Expected During This Solar Cycle?](https://soylentnews.org/article.pl?sid=25/05/25/2119235&amp;from=rss)
 * [2025-05-26, 16:21:00](https://soylentnews.org/article.pl?sid=25/05/25/2059205&amp;from=rss) - [Ex-NSA Listened to Scattered Spider&apos;s Calls: &apos;They&apos;re Good&apos;](https://soylentnews.org/article.pl?sid=25/05/25/2059205&amp;from=rss)
