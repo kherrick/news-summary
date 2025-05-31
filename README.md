@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation Insights
+## AI and Advancements
 
-* [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) ([comments](https://news.ycombinator.com/item?id=44141442)): This article explores the cognitive advantages of handwriting over typing in retaining memory and enhancing learning processes.
+* [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/) ([Comments](https://news.ycombinator.com/item?id=44142113))
 
-* [The Linux 6.15 kernel arrives and it's big a victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/) ([comments](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory)): Rust enthusiasts celebrate the significant role the programming language played in developments within the Linux 6.15 kernel.
+* [Stack Overflow's Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss))
 
-* [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html) ([comments](https://lobste.rs/s/al3t1f/c_rust_phrasebook)): A detailed guide for developers transitioning from C++ to Rust, detailing syntax and idiomatic programming patterns.
+* [Surprisingly fast AI-generated kernels we didn’t mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html) ([Comments](https://news.ycombinator.com/item?id=44139454))
 
-* [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time) ([comments](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s)): How engineers optimized Amazon EC2 instance boot times, significantly enhancing cloud service performance.
+* [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss))
 
-* [The Book of Shen](https://shenlanguage.org/TBoS/tbos.html) ([comments](https://lobste.rs/s/hqlvf9/book_shen)): This book dives deep into Shen, a sophisticated programming language for symbolic computation that merges logic and functional programming.
+## Tech Innovations
 
-## AI and Machine Learning Developments
+* [Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)](https://www.cerebras.ai/press-release/maverick) ([Comments](https://news.ycombinator.com/item?id=44141728))
 
-* [Stack Overflow's Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)): Stack Overflow adapts its model to stay relevant amidst the surge of AI-assisted programming and learning.
+* [The Linux 6.15 kernel arrives and it’s a big victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/) ([Comments](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory))
 
-* [Mary Meeker's first Trends report since 2019, focused on AI](https://www.bondcap.com/reports/tai) ([comments](https://news.ycombinator.com/item?id=44139403)): An analysis of AI's transformative impact across industries by a prominent tech analyst.
+* [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6) ([Comments](https://news.ycombinator.com/item?id=44125734))
 
-* [Surprisingly fast AI-generated kernels we didn't mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html) ([comments](https://news.ycombinator.com/item?id=44139454)): Researchers reveal unintended releases of highly efficient AI-generated computational kernels.
+## Cybersecurity Concerns
 
-## Security Concerns and Cyber Threats
+* [Billions of Cookies Up For Grabs As Experts Warn Over Session Security](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Billions of Cookies Up For Grabs As Experts Warn Over Session Security](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A new report highlights vulnerabilities in online session management systems, urging users to adopt stronger security practices.
+* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss))
 
-* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)): A botnet exploits ASUS router vulnerabilities to maintain unauthorized network access.
+* [Developer Builds Tool That Scrapes YouTube Comments, Uses AI To Predict Where Users Live](https://yro.slashdot.org/story/25/05/30/2133227/developer-builds-tool-that-scrapes-youtube-comments-uses-ai-to-predict-where-users-live?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/05/30/2133227/developer-builds-tool-that-scrapes-youtube-comments-uses-ai-to-predict-where-users-live?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss)): Practical approaches to curb malpractice in AI development and usage are examined.
+## Programming and Development
 
-## Space and Science Discoveries
+* [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html) ([Comments](https://lobste.rs/s/al3t1f/c_rust_phrasebook))
 
-* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)): Astronomers uncover evidence of an uncharted celestial body in the distant reaches of the solar system.
+* [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf) ([Comments](https://lobste.rs/s/ykhfh0/programming_beyond_practices))
 
-* [Telescope Upgrade Reveals Sun's "Coronal Rain" In Unprecedented Detail](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/27/2237231&amp;from=rss)): Advanced solar observations provide breathtaking new perspectives on solar phenomena.
+* [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time) ([Comments](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s))
 
-## Cultural and Miscellaneous Highlights
+## Unusual Finds and Discoveries
 
-* [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments) ([comments](https://news.ycombinator.com/item?id=44139626)): Stunning imagery reveals the unseen inner worlds of musical instruments through innovative photography.
+* [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram) ([Comments](https://news.ycombinator.com/item?id=44140918))
 
-* [Jerry Lewis's "The Day the Clown Cried" discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/) ([comments](https://news.ycombinator.com/item?id=44139592)): A long-lost and controversial film resurfaces, reigniting interest and debates in cinematic history.
+* [Jerry Lewis's 'The Day the Clown Cried' discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/) ([Comments](https://news.ycombinator.com/item?id=44139592))
+
+* [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments) ([Comments](https://news.ycombinator.com/item?id=44139626))
 
 ---
 
@@ -65,8 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-05-31, 06:20:18](https://lobste.rs/s/mihdik/beating_kctf_pow_with_avx512ifma_for_51k) - [Beating the kCTF PoW with AVX512IFMA for $51k](https://anemato.de/blog/kctf-vdf)
+* [2025-05-31, 05:48:16](https://news.ycombinator.com/item?id=44142113) - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
+* [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
+* [2025-05-31, 04:43:14](https://news.ycombinator.com/item?id=44141887) - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
+* [2025-05-31, 04:41:52](https://lobste.rs/s/kdopjy/simpler_backoff) - [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
+* [2025-05-31, 03:49:22](https://news.ycombinator.com/item?id=44141728) - [Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)](https://www.cerebras.ai/press-release/maverick)
 * [2025-05-31, 03:30:00](https://yro.slashdot.org/story/25/05/31/0029226/football-and-other-premium-tv-being-pirated-at-industrial-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Football and Other Premium TV Being Pirated At &apos;Industrial Scale&apos;](https://yro.slashdot.org/story/25/05/31/0029226/football-and-other-premium-tv-being-pirated-at-industrial-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-31, 02:20:57](https://news.ycombinator.com/item?id=44141442) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
+* [2025-05-31, 03:15:19](https://news.ycombinator.com/item?id=44141636) - [Learn touch typing – it&apos;s worth it](https://www.typequicker.com/blog/learn-touch-typing)
 * [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 * [2025-05-31, 00:52:00](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Billions of Cookies Up For Grabs As Experts Warn Over Session Security](https://it.slashdot.org/story/25/05/31/0020249/billions-of-cookies-up-for-grabs-as-experts-warn-over-session-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -77,12 +85,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-30, 22:50:00](https://tech.slashdot.org/story/25/05/30/2146239/instagram-isnt-just-for-square-photos-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instagram Isn&apos;t Just For Square Photos Anymore](https://tech.slashdot.org/story/25/05/30/2146239/instagram-isnt-just-for-square-photos-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
 * [2025-05-30, 22:24:09](https://news.ycombinator.com/item?id=44140378) - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
+* [2025-05-30, 22:18:48](https://news.ycombinator.com/item?id=44140349) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)
 * [2025-05-30, 22:10:00](https://tech.slashdot.org/story/25/05/30/2138237/microsoft-tests-notepad-text-formatting-in-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Tests Notepad Text Formatting In Windows 11](https://tech.slashdot.org/story/25/05/30/2138237/microsoft-tests-notepad-text-formatting-in-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 21:35:00](https://yro.slashdot.org/story/25/05/30/2133227/developer-builds-tool-that-scrapes-youtube-comments-uses-ai-to-predict-where-users-live?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Developer Builds Tool That Scrapes YouTube Comments, Uses AI To Predict Where Users Live](https://yro.slashdot.org/story/25/05/30/2133227/developer-builds-tool-that-scrapes-youtube-comments-uses-ai-to-predict-where-users-live?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
 * [2025-05-30, 20:50:00](https://slashdot.org/story/25/05/30/1954240/amazon-purges-billions-of-product-listings-in-cost-cutting-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Purges Billions of Product Listings in Cost-Cutting Drive](https://slashdot.org/story/25/05/30/1954240/amazon-purges-billions-of-product-listings-in-cost-cutting-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-* [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Jerry Lewis&apos;s \&quot;The Day the Clown Cried\&quot; discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
+* [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Jerry Lewis&apos;s “The Day the Clown Cried” discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:10:00](https://slashdot.org/story/25/05/30/1946239/united-chief-dismisses-budget-airline-model-as-dead-and-crappy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [United Chief Dismisses Budget Airline Model as &apos;Dead&apos; and &apos;Crappy&apos;](https://slashdot.org/story/25/05/30/1946239/united-chief-dismisses-budget-airline-model-as-dead-and-crappy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 20:07:00](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) - [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly fast AI-generated kernels we didn&apos;t mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
@@ -95,48 +104,43 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-30, 17:51:19](https://lobste.rs/s/hqlvf9/book_shen) - [The Book of Shen](https://shenlanguage.org/TBoS/tbos.html)
 * [2025-05-30, 17:41:00](https://news.slashdot.org/story/25/05/30/1741255/german-court-confirms-civil-liability-for-corporate-climate-harms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [German Court Confirms Civil Liability for Corporate Climate Harms](https://news.slashdot.org/story/25/05/30/1741255/german-court-confirms-civil-liability-for-corporate-climate-harms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
-* [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 * [2025-05-30, 16:44:00](https://news.slashdot.org/story/25/05/30/1643248/maha-report-found-to-contain-citations-to-nonexistent-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MAHA Report Found To Contain Citations To Nonexistent Studies](https://news.slashdot.org/story/25/05/30/1643248/maha-report-found-to-contain-citations-to-nonexistent-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-05-30, 16:36:10](https://news.ycombinator.com/item?id=44137867) - [Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work](https://capjs.js.org/)
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google&apos;s kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 * [2025-05-30, 16:13:00](https://slashdot.org/story/25/05/30/1614212/us-airlines-are-quietly-hitting-solo-and-business-travelers-with-higher-fares?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Airlines Are Quietly Hitting Solo and Business Travelers With Higher Fares](https://slashdot.org/story/25/05/30/1614212/us-airlines-are-quietly-hitting-solo-and-business-travelers-with-higher-fares?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
-* [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it&apos;s useful](https://blueberrywren.dev/blog/debruijn-explanation/)
-* [2025-05-30, 15:28:18](https://news.ycombinator.com/item?id=44137177) - [Show HN: Leap – Full-stack AI developer agent that deploys to AWS](https://leap.new)
 * [2025-05-30, 15:25:00](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss) - [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss)
-* [2025-05-30, 15:04:56](https://news.ycombinator.com/item?id=44136945) - [Adam Riess and the Hubble tension](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
-* [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 * [2025-05-30, 14:55:50](https://lobste.rs/s/x1eeru/decomplexification) - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/)
-* [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The &apos;white-collar bloodbath&apos; is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
+* [2025-05-30, 14:24:36](https://news.ycombinator.com/item?id=44136539) - [What&apos;s Working for YC Companies Since the AI Boom](https://jamesin.substack.com/p/whats-working-for-yc-companies-since)
+* [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The ‘white-collar bloodbath’ is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn&apos;t Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 * [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2025-05-30, 12:44:55](https://lobste.rs/s/4clijt/types_other_techniques_as_accessibility) - [Types and other techniques as an accessibility tool for the ADHD brain](https://www.youtube.com/watch?v=DG5gLPFKcbk)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
+* [2025-05-30, 12:08:40](https://news.ycombinator.com/item?id=44135369) - [The Darwin Gödel Machine: AI that improves itself by rewriting its own code](https://sakana.ai/dgm/)
 * [2025-05-30, 10:41:00](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss) - [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss)
 * [2025-05-30, 09:52:07](https://lobste.rs/s/1ch2zd/radix_2_51_trick_256_bit_addition_2020) - [The radix 2^51 trick to 256-bit addition (2020)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss) - [Lenovo Caught Out by Trump&apos;s on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss)
 * [2025-05-30, 04:52:23](https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way) - [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
-* [2025-05-30, 04:36:21](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory) - [The Linux 6.15 kernel arrives and it&apos;s big a victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/)
-* [2025-05-30, 03:55:37](https://news.ycombinator.com/item?id=44132673) - [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
+* [2025-05-30, 04:36:21](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory) - [The Linux 6.15 kernel arrives and it&apos;s a big victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/)
 * [2025-05-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss) - [How to Stop and Disable Unwanted Services From Linux System](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss)
-* [2025-05-30, 00:32:11](https://news.ycombinator.com/item?id=44131669) - [Copy Excel to Markdown Table (and vice versa)](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
 * [2025-05-29, 23:17:29](https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust) - [Revisiting Loop Recognition in C++... in Rust](http://blomqu.ist/posts/2025/loop-recognition)
 * [2025-05-29, 21:50:19](https://lobste.rs/s/cubwue/this_website_does_not_exist) - [This website does not exist](https://thiswebsitedoesnotexist.net/)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 * [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
-* [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc.](https://mcpdefender.com)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
 * [2025-05-29, 14:51:03](https://lobste.rs/s/9j9wdi/case_for_using_web_browser_as_your) - [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/tweety-v1/)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler&apos;s Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
-* [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What&apos;s cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
 * [2025-05-29, 11:06:00](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss) - [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss)
 * [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)
+* [2025-05-29, 05:44:59](https://news.ycombinator.com/item?id=44123432) - [Identifying Unmarked Iron](https://www.castironcollector.com/unmarked.php)
 * [2025-05-29, 04:29:30](https://news.ycombinator.com/item?id=44123131) - [Reverse engineering of Linear&apos;s sync engine](https://github.com/wzhudev/reverse-linear-sync-engine)
 * [2025-05-29, 01:30:00](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss) - [Humanoid AI-powered Robots Duke It Out In China Fight Competition](https://soylentnews.org/article.pl?sid=25/05/27/2358202&amp;from=rss)
 * [2025-05-28, 20:49:00](https://soylentnews.org/article.pl?sid=25/05/27/2241220&amp;from=rss) - [Intel Uncovers Alleged Embezzlement Involving Former Employee And Supplier](https://soylentnews.org/article.pl?sid=25/05/27/2241220&amp;from=rss)
@@ -147,9 +151,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-28, 13:51:49](https://news.ycombinator.com/item?id=44116044) - [Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places](https://testflight.apple.com/join/47CJ31VK)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 11:19:00](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss) - [iPhone Won&apos;t Be Made In US Anytime Soon: Analysts ](https://soylentnews.org/article.pl?sid=25/05/27/2233218&amp;from=rss)
-* [2025-05-28, 10:14:11](https://news.ycombinator.com/item?id=44114436) - [How to Run CRON Jobs in Postgres Without Extra Infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
+* [2025-05-28, 08:26:54](https://news.ycombinator.com/item?id=44113847) - [How large should your sample size be?](https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/)
 * [2025-05-28, 06:34:00](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss) - [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&amp;from=rss)
-* [2025-05-28, 05:22:26](https://news.ycombinator.com/item?id=44112974) - [Show HN: Circle Crop Image](https://circlecropimage.io/)
 * [2025-05-28, 01:47:00](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss) - [Security News: Telemessage Worsens, Predictive Patching, GoDaddy Incompetence, Credential DB Found](https://soylentnews.org/article.pl?sid=25/05/27/120223&amp;from=rss)
 * [2025-05-27, 21:04:00](https://soylentnews.org/article.pl?sid=25/05/27/1135228&amp;from=rss) - [Gabe Newell&apos;s Brain-Computer Interface Startup to Reveal First Chips Later This Year](https://soylentnews.org/article.pl?sid=25/05/27/1135228&amp;from=rss)
 * [2025-05-27, 16:16:00](https://soylentnews.org/article.pl?sid=25/05/27/1132236&amp;from=rss) - [Texas is Getting Ready to Ban Social Media for Anyone Under 18](https://soylentnews.org/article.pl?sid=25/05/27/1132236&amp;from=rss)
