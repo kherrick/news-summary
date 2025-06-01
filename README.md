@@ -2,63 +2,35 @@
 
 ## AI and Technology Innovations
 
-* [Does Anthropic's Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring Anthropic's achievements in AI and its signification for business readiness.
+* [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/) - [Hacker News comments](https://news.ycombinator.com/item?id=44152084)
 
-* [Will 'Vibe Coding' Transform Programming?](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new programming paradigm that could reshape how developers tackle software challenges.
+* [Does Anthropic's Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/) - Insight into the efficiency of DeepSeek's deployment models.
+* [Brazil Tests Letting Citizens Earn Money From Data in Their Digital Footprint](https://yro.slashdot.org/story/25/06/01/0222237/brazil-tests-letting-citizens-earn-money-from-data-in-their-digital-footprint?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://yro.slashdot.org/story/25/06/01/0222237/brazil-tests-letting-citizens-earn-money-from-data-in-their-digital-footprint?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [GitHub Users Angry at the Prospect of AI-Written Issues From Copilot](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining community pushback on AI-generated problem reports.
+* [GitHub Users Angry at the Prospect of AI-Written Issues From Copilot](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&from=rss) - Researchers discuss emerging limitations in leading AI systems.
+## Cybersecurity and Privacy
 
-## Data and Security Breaches
+* [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack) - [Lobsters comments](https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal)
 
-* [Victoria's Secret Website Laid Bare For Three Days After 'Security Incident'](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss) - A critical lapse exposing vulnerabilities within a popular retail platform.
+* [Harmful Responses Observed from LLMs Optimized for Human Feedback](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack) - A deep dive into the exploitation of payment terminal security.
+* [The Workers Who Lost Their Jobs To AI](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss) - ASUS routers targeted in a widespread cyberattack.
+## Astronomy and Space Exploration
 
-* [Russian Nuclear Site Blueprints Exposed In Public Procurement Database](https://yro.slashdot.org/story/25/05/31/2033201/russian-nuclear-site-blueprints-exposed-in-public-procurement-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sensitive site plans unwittingly revealed in government systems.
+* [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html) - [Hacker News comments](https://news.ycombinator.com/item?id=44152154)
 
-* [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - The implications of lobbying for stricter phone access control.
+* [America's Next NASA Administrator Will Not Be Former SpaceX Astronaut Jared Isaacman](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Slashdot comments](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Breakthroughs and Open Source
+## Open Source and Development Tools
 
-* [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/) - Developing and sharing optimized tools for benchmarking.
+* [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/) - [Lobsters comments](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui)
 
-* [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/) - Newly released resource combining Lean theorem proving and mathematical analysis.
+* [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector) - [Hacker News comments](https://news.ycombinator.com/item?id=44149177)
 
-* [Open Source 'Advanced Data Protection' For Everyone](https://it.slashdot.org/story/25/05/31/1859206/help-wanted-to-build-an-open-source-advanced-data-protection-for-everyone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Presenting an initiative to elevate global data security.
-
-* [Hugging Face Introduces Two Open-Source Robot Designs](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Collaboration fosters affordable advancements in robotics.
-
-* [Structured Errors in Go](https://southcla.ws/structured-errors-in-go) - Exploring improved debugging mechanisms in Go programming.
-
-## Society and Science
-
-* [The Workers Who Lost Their Jobs To AI](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A gripping story of employment trends in an AI-powered era.
-
-* [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss) - Proposed cuts that threaten the future of American scientific research.
-
-* [Why 200 US Climate Scientists are Hosting a 100-Hour YouTube Livestream](https://news.slashdot.org/story/25/05/31/0856253/why-200-us-climate-scientists-are-hosting-a-100-hour-youtube-livestream?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Leveraging media to combat climate challenges.
-
-* [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss) - Strategic alliances reshape global tech standings.
-
-* [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/) - Groundbreaking visuals of solar phenomena captured.
-
-## Historical and Niche Technologies
-
-* [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/) - Revisiting early Linux mobile technology.
-
-* [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/) - The curious case of security measures gone awry.
-
-* [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/) - Uncovering the history of a forgotten Microsoft project.
-
-* [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv) - Merging artistic detail with cutting-edge timekeeping.
-
-* [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss) - Surprising connections between science fiction and espionage.
+* [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68) - [Lobsters comments](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively)
 
 ---
 
@@ -85,6 +57,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-01, 17:52:00](https://news.slashdot.org/story/25/06/01/1749246/ladybird-browsers-nonprofit-becomes-public-charity-now-officially-tax-exempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Ladybird&apos; Browser&apos;s Nonprofit Becomes Public Charity, Now Officially Tax-Exempt](https://news.slashdot.org/story/25/06/01/1749246/ladybird-browsers-nonprofit-becomes-public-charity-now-officially-tax-exempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-01, 16:47:41](https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with) - [wl-kbptr: Control the mouse pointer with the keyboard on Wayland](https://github.com/moverest/wl-kbptr)
+* [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
+* [2025-06-01, 16:39:36](https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal) - [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
+* [2025-06-01, 16:36:03](https://news.ycombinator.com/item?id=44152084) - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
+* [2025-06-01, 16:34:00](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Harmful Responses Observed from LLMs Optimized for Human Feedback](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
 * [2025-06-01, 15:34:00](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Anthropic&apos;s Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss) - [Victoria&apos;s Secret Website Laid Bare For Three Days After &apos;Security Incident&apos;](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss)
 * [2025-06-01, 14:34:00](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Next NASA Administrator Will Not Be Former SpaceX Astronaut Jared Isaacman](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,7 +82,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 07:49:21](https://lobste.rs/s/rzvbe9/lean_companion_analysis_i) - [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-06-01, 07:34:00](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Workers Who Lost Their Jobs To AI](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
-* [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn&apos;t help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 * [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync&apos;s defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
@@ -113,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 05:59:59](https://news.ycombinator.com/item?id=44148933) - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss)
-* [2025-06-01, 05:05:53](https://news.ycombinator.com/item?id=44148781) - [Reviving Astoria – Windows&apos;s Lost Android](https://trungnt2910.com/astoria-windows-android/)
 * [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go (2022)](https://southcla.ws/structured-errors-in-go)
 * [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
@@ -146,16 +123,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 16:34:00](https://hardware.slashdot.org/story/25/05/31/0727206/china-just-held-the-first-ever-humanoid-robot-fight-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Just Held the First-Ever Humanoid Robot Fight Night](https://hardware.slashdot.org/story/25/05/31/0727206/china-just-held-the-first-ever-humanoid-robot-fight-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 15:34:00](https://it.slashdot.org/story/25/05/31/0439205/cnn-challenges-claim-ai-will-eliminate-half-of-white-collar-jobs-calls-it-part-of-the-ai-hype-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CNN Challenges Claim AI Will Eliminate Half of White-Collar Jobs, Calls It &apos;Part of the AI Hype Machine&apos;](https://it.slashdot.org/story/25/05/31/0439205/cnn-challenges-claim-ai-will-eliminate-half-of-white-collar-jobs-calls-it-part-of-the-ai-hype-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
-* [2025-05-31, 14:34:00](https://news.slashdot.org/story/25/05/31/0856253/why-200-us-climate-scientists-are-hosting-a-100-hour-youtube-livestream?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why 200 US Climate Scientists are Hosting a 100-Hour YouTube Livestream](https://news.slashdot.org/story/25/05/31/0856253/why-200-us-climate-scientists-are-hosting-a-100-hour-youtube-livestream?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 14:24:49](https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth) - [TclForth: Multi-platform desktop Forth based on Tcl/Tk](https://github.com/wejgaard/TclForth)
-* [2025-05-31, 13:00:00](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hugging Face Introduces Two Open-Source Robot Designs](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
-* [2025-05-31, 06:20:18](https://lobste.rs/s/mihdik/beating_kctf_pow_with_avx512ifma_for_51k) - [Beating the kCTF PoW with AVX512IFMA for $51k](https://anemato.de/blog/kctf-vdf)
+* [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
-* [2025-05-31, 04:41:52](https://lobste.rs/s/kdopjy/simpler_backoff) - [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
-* [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
 * [2025-05-30, 20:07:00](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) - [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)
@@ -166,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer&apos;s Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
-* [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
 * [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
