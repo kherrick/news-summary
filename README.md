@@ -1,52 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advances in Technology and Programming
+## AI and Technology Innovations
 
-* [Progressive JSON](https://overreacted.io/progressive-json/) explores a novel approach to lazy-loading JSON data for smoother, more efficient application development. [Comments](https://lobste.rs/s/cae88e/progressive_json)
+* [Does Anthropic's Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring Anthropic's achievements in AI and its signification for business readiness.
 
-* [Codex CLI is going native](https://github.com/openai/codex/discussions/1174), showing the continuous evolution of programming tools powered by OpenAI's innovations. [Comments](https://news.ycombinator.com/item?id=44150093)
+* [Will 'Vibe Coding' Transform Programming?](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new programming paradigm that could reshape how developers tackle software challenges.
 
-* [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/) brings new runtime streaming capabilities to a classic programming language. [Comments](https://news.ycombinator.com/item?id=44150081)
+* [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/) - Insight into the efficiency of DeepSeek's deployment models.
 
-* [How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice](https://arxiv.org/abs/2504.17178) offers insights into scalable storage designs. [Comments](https://lobste.rs/s/buoxqy/how_grow_lsm_tree_towards_bridging_gap)
+* [GitHub Users Angry at the Prospect of AI-Written Issues From Copilot](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining community pushback on AI-generated problem reports.
 
-* [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953) presents creative solutions for XOR problems, inspiring optimization in algorithms. [Comments](https://news.ycombinator.com/item?id=44149036)
+* [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&from=rss) - Researchers discuss emerging limitations in leading AI systems.
 
-* [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx) introduces an open-source way to enhance web analysis tasks. [Comments](https://news.ycombinator.com/item?id=44148665)
+## Data and Security Breaches
 
-## Artificial Intelligence and its Implications
+* [Victoria's Secret Website Laid Bare For Three Days After 'Security Incident'](https://soylentnews.org/article.pl?sid=25/05/30/198205&from=rss) - A critical lapse exposing vulnerabilities within a popular retail platform.
 
-* [Will 'Vibe Coding' Transform Programming?](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses the innovative 'vibe-first' approach in coding. [Comments](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack) - A deep dive into the exploitation of payment terminal security.
 
-* [Google AI Edge – on-device cross-platform AI deployment](https://ai.google.dev/edge) explores advancements in AI inference at the edge. [Comments](https://news.ycombinator.com/item?id=44149019)
+* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&from=rss) - ASUS routers targeted in a widespread cyberattack.
 
-* [DeepSeek's scaling challenges](https://www.seangoedecke.com/inference-batching-and-deepseek/) illustrate economic nuances in AI model deployment. [Comments](https://news.ycombinator.com/item?id=44149238)
+* [Russian Nuclear Site Blueprints Exposed In Public Procurement Database](https://yro.slashdot.org/story/25/05/31/2033201/russian-nuclear-site-blueprints-exposed-in-public-procurement-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sensitive site plans unwittingly revealed in government systems.
 
-* [GitHub Users Angry at the Prospect of AI-Written Issues From Copilot](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) provides discourse on the automation of issue tracking. [Comments](https://developers.slashdot.org/story/25/06/01/0049240/github-users-angry-at-the-prospect-of-ai-written-issues-from-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&from=rss) - The implications of lobbying for stricter phone access control.
 
-## Creative and Scientific Innovations
+## Breakthroughs and Open Source
 
-* [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY) dives into the possibilities of rendering with Gaussian splatting. [Comments](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past)
+* [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/) - Developing and sharing optimized tools for benchmarking.
 
-* [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/) showcases the advancement in visual computing. [Comments](https://news.ycombinator.com/item?id=44148524)
+* [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/) - Newly released resource combining Lean theorem proving and mathematical analysis.
 
-* [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/) chronicles an interesting tech resurrection. [Comments](https://news.ycombinator.com/item?id=44148781)
+* [Open Source 'Advanced Data Protection' For Everyone](https://it.slashdot.org/story/25/05/31/1859206/help-wanted-to-build-an-open-source-advanced-data-protection-for-everyone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Presenting an initiative to elevate global data security.
 
-* [China Just Held the First-Ever Humanoid Robot Fight Night](https://hardware.slashdot.org/story/25/05/31/0727206/china-just-held-the-first-ever-humanoid-robot-fight-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights a unique testing ground for innovation in robotics. [Comments](https://hardware.slashdot.org/story/25/05/31/0727206/china-just-held-the-first-ever-humanoid-robot-fight-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Hugging Face Introduces Two Open-Source Robot Designs](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Collaboration fosters affordable advancements in robotics.
 
-## Privacy and Security Concerns
+* [Structured Errors in Go](https://southcla.ws/structured-errors-in-go) - Exploring improved debugging mechanisms in Go programming.
 
-* [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68) proposes proactive countermeasures against automated abuse. [Comments](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively)
+## Society and Science
 
-* [rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/) discusses trade-offs in popular backup practices. [Comments](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough)
+* [The Workers Who Lost Their Jobs To AI](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A gripping story of employment trends in an AI-powered era.
 
-* [Russian Nuclear Site Blueprints Exposed In Public Procurement Database](https://yro.slashdot.org/story/25/05/31/2033201/russian-nuclear-site-blueprints-exposed-in-public-procurement-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) raises concerns over significant national security lapses. [Comments](https://yro.slashdot.org/story/25/05/31/2033201/russian-nuclear-site-blueprints-exposed-in-public-procurement-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&from=rss) - Proposed cuts that threaten the future of American scientific research.
 
-## Cultural and Historical Insights
+* [Why 200 US Climate Scientists are Hosting a 100-Hour YouTube Livestream](https://news.slashdot.org/story/25/05/31/0856253/why-200-us-climate-scientists-are-hosting-a-100-hour-youtube-livestream?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Leveraging media to combat climate challenges.
 
-* [I like Svelte more than React (it's store management)](https://river.berlin/blog/why-i-like-svelte-more-than-react/) reflects on user experiences and programming ecosystem choices. [Comments](https://news.ycombinator.com/item?id=44149890)
+* [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&from=rss) - Strategic alliances reshape global tech standings.
 
-* [Gallery Showcases The Dustiest, Grimiest PCs In Germany](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss) features shocking yet fascinating tech artifacts. [Comments](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss)
+* [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/) - Groundbreaking visuals of solar phenomena captured.
+
+## Historical and Niche Technologies
+
+* [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/) - Revisiting early Linux mobile technology.
+
+* [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/) - The curious case of security measures gone awry.
+
+* [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/) - Uncovering the history of a forgotten Microsoft project.
+
+* [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv) - Merging artistic detail with cutting-edge timekeeping.
+
+* [The CIA Used A Star Wars Fan Site To Secretly Communicate With Spies](https://soylentnews.org/article.pl?sid=25/05/27/124252&from=rss) - Surprising connections between science fiction and espionage.
 
 ---
 
@@ -73,13 +85,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-01, 15:34:00](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Anthropic&apos;s Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss) - [Victoria&apos;s Secret Website Laid Bare For Three Days After &apos;Security Incident&apos;](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss)
+* [2025-06-01, 14:34:00](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Next NASA Administrator Will Not Be Former SpaceX Astronaut Jared Isaacman](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-01, 14:33:11](https://lobste.rs/s/bmh4ui/developer_s_perspective_on_g_mate_s_yopy) - [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/)
+* [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
+* [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
+* [2025-06-01, 12:58:22](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui) - [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 11:34:00](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will &apos;Vibe Coding&apos; Transform Programming?](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-01, 11:22:55](https://news.ycombinator.com/item?id=44150093) - [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
 * [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
 * [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 * [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
-* [2025-06-01, 10:35:55](https://news.ycombinator.com/item?id=44149890) - [I like Svelte more than React (it&apos;s store management)](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
 * [2025-06-01, 10:32:02](https://lobste.rs/s/buoxqy/how_grow_lsm_tree_towards_bridging_gap) - [How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice](https://arxiv.org/abs/2504.17178)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss)
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of \&quot;Andor\&quot;](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
@@ -91,18 +108,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync&apos;s defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 * [2025-06-01, 06:32:20](https://news.ycombinator.com/item?id=44149019) - [Google AI Edge – on-device cross-platform AI deployment](https://ai.google.dev/edge)
-* [2025-06-01, 06:24:48](https://news.ycombinator.com/item?id=44149000) - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
+* [2025-06-01, 06:23:50](https://news.ycombinator.com/item?id=44148997) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:59:59](https://news.ycombinator.com/item?id=44148933) - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss)
 * [2025-06-01, 05:05:53](https://news.ycombinator.com/item?id=44148781) - [Reviving Astoria – Windows&apos;s Lost Android](https://trungnt2910.com/astoria-windows-android/)
 * [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
-* [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go](https://southcla.ws/structured-errors-in-go)
+* [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go (2022)](https://southcla.ws/structured-errors-in-go)
 * [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
 * [2025-06-01, 04:48:19](https://news.ycombinator.com/item?id=44148708) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
 * [2025-06-01, 04:45:50](https://lobste.rs/s/jotkj5/why_use_structured_errors_rust) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
-* [2025-06-01, 04:45:10](https://lobste.rs/s/537nqu/gso_challenging_software_optimization) - [GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](https://arxiv.org/abs/2505.23671)
 * [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 03:34:00](https://yro.slashdot.org/story/25/06/01/0222237/brazil-tests-letting-citizens-earn-money-from-data-in-their-digital-footprint?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brazil Tests Letting Citizens Earn Money From Data in Their Digital Footprint](https://yro.slashdot.org/story/25/06/01/0222237/brazil-tests-letting-citizens-earn-money-from-data-in-their-digital-footprint?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -135,10 +151,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 13:00:00](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hugging Face Introduces Two Open-Source Robot Designs](https://hardware.slashdot.org/story/25/05/31/015237/hugging-face-introduces-two-open-source-robot-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
-* [2025-05-31, 10:00:00](https://science.slashdot.org/story/25/05/31/010235/five-year-study-suggests-chimpanzees-strike-stones-against-trees-as-form-of-communication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Five-Year Study Suggests Chimpanzees Strike Stones Against Trees As Form of Communication](https://science.slashdot.org/story/25/05/31/010235/five-year-study-suggests-chimpanzees-strike-stones-against-trees-as-form-of-communication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
-* [2025-05-31, 07:00:00](https://hardware.slashdot.org/story/25/05/31/0049238/ai-could-consume-more-power-than-bitcoin-by-the-end-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Could Consume More Power Than Bitcoin By the End of 2025](https://hardware.slashdot.org/story/25/05/31/0049238/ai-could-consume-more-power-than-bitcoin-by-the-end-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-31, 06:20:18](https://lobste.rs/s/mihdik/beating_kctf_pow_with_avx512ifma_for_51k) - [Beating the kCTF PoW with AVX512IFMA for $51k](https://anemato.de/blog/kctf-vdf)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
 * [2025-05-31, 04:41:52](https://lobste.rs/s/kdopjy/simpler_backoff) - [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
@@ -147,14 +160,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
 * [2025-05-30, 20:07:00](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) - [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)
 * [2025-05-30, 15:25:00](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss) - [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss)
-* [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 10:41:00](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss) - [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss) - [Lenovo Caught Out by Trump&apos;s on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss)
 * [2025-05-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss) - [How to Stop and Disable Unwanted Services From Linux System](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss)
-* [2025-05-29, 21:52:00](https://news.ycombinator.com/item?id=44130743) - [The Future of Comments Is Lies, I Guess](https://aphyr.com/posts/388-the-future-of-comments-is-lies-i-guess)
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
+* [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer&apos;s Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
+* [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
