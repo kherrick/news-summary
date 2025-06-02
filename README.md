@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Cybersecurity and Software Vulnerabilities
 
-* [WebAIM: Up and Coming ARIA](https://webaim.org/blog/up-and-coming-aria/) explores the latest developments in ARIA for accessible web design. [Comments](https://lobste.rs/s/uyyi2n/webaim_up_coming_aria)
+* [CVE 2025-31200 CoreAudio bug exploited in the wild](https://blog.noahhw.dev/posts/cve-2025-31200/) ([comments](https://lobste.rs/s/wxdkfg/cve_2025_31200_coreaudio_bug_exploited))
 
-* [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650) dives into the challenges and progress in interpreting AI models in the finance sector. [Comments](https://news.ycombinator.com/item?id=44157618)
+* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html) discusses the application of hypervisors for memory analysis and reverse engineering. [Comments](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection)
+* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)
 
-## AI, Automation, and Unexpected Impacts
+## Artificial Intelligence
 
-* [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) satirizes the pitfalls of AI-generated recommendations. [Comments](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) highlights findings about autonomous behavior in AI models. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss)
+* [The Unreliability of LLMs and What Lies Ahead](https://verissimo.substack.com/p/verissimo-monthly-may-2025) ([comments](https://news.ycombinator.com/item?id=44160573))
 
-* [AI's Adoption and Growth Truly is 'Unprecedented'](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines the rapid integration of AI in various sectors. [Comments](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760) ([comments](https://news.ycombinator.com/item?id=44157077))
 
-## Software Development and Practices
+* [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss)
 
-* [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust) showcases Rust's impact on improving performance. [Comments](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting)
+## Science and Space
 
-* [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/) offers insights into managing Rust projects more effectively. [Comments](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies)
+* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss)
 
-* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) discusses best practices for error handling in Rust. [Comments](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries)
+* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44157177))
 
-## Digital Infrastructure and Security
+* [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)
 
-* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights a Linux vulnerability affecting major distributions. [Comments](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Software Development and Engineering
 
-* [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84) shares lessons from a large-scale cloud migration. [Comments](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters)
+* [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust) ([comments](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting))
 
-* [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/) introduces new resources for infrastructure resilience. [Comments](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure)
+* [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/) ([comments](https://lobste.rs/s/02usbk/gleam_v1_11_0_released))
 
-## Cultural and Historical Highlights
+* [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84) ([comments](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters))
 
-* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss) reflects on a historical timepiece's enduring functionality. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss)
+## Technology and Society
 
-* [The Phoenician Scheme: Is Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review) reviews a poignant creation by the well-known director. [Comments](https://news.ycombinator.com/item?id=44155761)
+* [ISP Settles With Record Labels That Demanded Mass Termination of Internet Users](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) details groundbreaking discoveries about the solar system. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss)
+* [Going To an Office and Pretending To Work: A Business That's Booming in China](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Microsoft Mandates Universal USB-C Functionality To End 'USB-C Port Confusion' on Windows 11 Devices](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -65,10 +67,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-02, 15:50:46](https://lobste.rs/s/uyyi2n/webaim_up_coming_aria) - [WebAIM: Up and Coming ARIA](https://webaim.org/blog/up-and-coming-aria/)
+* [2025-06-02, 18:56:14](https://lobste.rs/s/wxdkfg/cve_2025_31200_coreaudio_bug_exploited) - [CVE 2025-31200 CoreAudio bug exploited in the wild](https://blog.noahhw.dev/posts/cve-2025-31200/)
+* [2025-06-02, 18:10:00](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ISP Settles With Record Labels That Demanded Mass Termination of Internet Users](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 17:44:28](https://news.ycombinator.com/item?id=44161271) - [Disaster awaits if we don&apos;t secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
+* [2025-06-02, 17:25:00](https://science.slashdot.org/story/25/06/02/172202/web-scraping-ai-bots-cause-disruption-for-scientific-databases-and-journals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Web-Scraping AI Bots Cause Disruption For Scientific Databases and Journals](https://science.slashdot.org/story/25/06/02/172202/web-scraping-ai-bots-cause-disruption-for-scientific-databases-and-journals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 17:00:38](https://news.ycombinator.com/item?id=44160870) - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
+* [2025-06-02, 16:44:00](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Mandates Universal USB-C Functionality To End &apos;USB-C Port Confusion&apos; on Windows 11 Devices](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 16:36:46](https://news.ycombinator.com/item?id=44160573) - [The Unreliability of LLMs and What Lies Ahead](https://verissimo.substack.com/p/verissimo-monthly-may-2025)
+* [2025-06-02, 16:24:32](https://lobste.rs/s/8byzhb/can_chrome_extension_host_terminal) - [Can a chrome extension host a terminal emulator?](https://blog.pomdtr.me/posts/integrated-terminal/)
+* [2025-06-02, 16:16:11](https://news.ycombinator.com/item?id=44160358) - [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
+* [2025-06-02, 16:07:00](https://apple.slashdot.org/story/25/06/02/166230/apple-challenges-eu-order-to-open-ios-to-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Challenges EU Order To Open iOS To Rivals](https://apple.slashdot.org/story/25/06/02/166230/apple-challenges-eu-order-to-open-ios-to-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
 * [2025-06-02, 15:36:00](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
-* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
+* [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
+* [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
 * [2025-06-02, 14:59:52](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies) - [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/)
 * [2025-06-02, 14:40:00](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Stack Overflow&apos;s Reputation System Led To Its Own Downfall](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
@@ -89,10 +103,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 12:00:43](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters) - [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 11:34:00](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Adoption and Growth Truly is &apos;Unprecedented&apos;](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 11:28:28](https://news.ycombinator.com/item?id=44157701) - [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
-* [2025-06-02, 11:16:06](https://news.ycombinator.com/item?id=44157618) - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 * [2025-06-02, 11:09:45](https://news.ycombinator.com/item?id=44157584) - [Show HN: Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)
-* [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)
 * [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
@@ -102,14 +113,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 * [2025-06-02, 07:34:00](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Hubble Tension&apos; and the Nobel Prize Winner Who Wants to Replace Cosmology&apos;s Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 06:04:34](https://news.ycombinator.com/item?id=44156157) - [War and Wilderness: British Soldiers in Revolutionary America](https://www.historytoday.com/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 * [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss)
 * [2025-06-02, 04:34:00](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is “The Phoenician Scheme” Wes Anderson&apos;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
-* [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
-* [2025-06-02, 03:35:07](https://news.ycombinator.com/item?id=44155635) - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler&apos;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-06-02, 01:34:00](https://entertainment.slashdot.org/story/25/06/01/2323253/doctor-who-regenerates-in-surprise-season-finale-but-will-the-show-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Doctor Who&apos;  Regenerates in Surprise Season Finale.  But Will the Show Return?](https://entertainment.slashdot.org/story/25/06/01/2323253/doctor-who-regenerates-in-surprise-season-finale-but-will-the-show-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 00:16:00](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss) - [New JWST Observations of &apos;Trans-Neptunian Objects&apos; Could Help Reveal Our Solar System&apos;s Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss)
@@ -117,18 +127,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 22:34:00](https://it.slashdot.org/story/25/05/31/0545201/amid-turmoil-stack-overflow-asks-about-ai-salary-remote-work-in-15th-annual-developer-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amid Turmoil, Stack Overflow Asks About AI, Salary, Remote Work in 15th Annual Developer Survey](https://it.slashdot.org/story/25/05/31/0545201/amid-turmoil-stack-overflow-asks-about-ai-salary-remote-work-in-15th-annual-developer-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of &apos;Samurai Jack&apos;](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
 * [2025-06-01, 21:29:00](https://developers.slashdot.org/story/25/06/01/2114234/is-the-ai-job-apocalypse-already-here-for-some-recent-grads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the AI Job Apocalypse Already Here for Some Recent Grads?](https://developers.slashdot.org/story/25/06/01/2114234/is-the-ai-job-apocalypse-already-here-for-some-recent-grads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-01, 21:02:58](https://news.ycombinator.com/item?id=44153738) - [LibriVox](https://librivox.org/)
 * [2025-06-01, 21:02:17](https://news.ycombinator.com/item?id=44153732) - [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [2025-06-01, 21:00:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&amp;from=rss) - [NOAA Issues a &apos;Severe&apos; Solar Storm Alert, Auroras Expected at Lower Latitudes](https://soylentnews.org/breakingnews/article.pl?sid=25/06/01/2038209&amp;from=rss)
 * [2025-06-01, 20:29:00](https://tech.slashdot.org/story/25/06/01/203226/google-maps-falsely-told-drivers-in-germany-that-roads-across-the-country-were-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Maps Falsely Told Drivers in Germany That Roads Across the Country Were Closed](https://tech.slashdot.org/story/25/06/01/203226/google-maps-falsely-told-drivers-in-germany-that-roads-across-the-country-were-closed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 19:34:00](https://soylentnews.org/article.pl?sid=25/05/31/1945211&amp;from=rss) - [Using HDMI EMI for Fast Wireless Data Transfer](https://soylentnews.org/article.pl?sid=25/05/31/1945211&amp;from=rss)
-* [2025-06-01, 19:29:00](https://science.slashdot.org/story/25/06/01/1926231/uploading-the-human-mind-could-one-day-become-a-reality-predicts-neuroscientist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uploading the Human Mind Could One Day Become a Reality, Predicts Neuroscientist](https://science.slashdot.org/story/25/06/01/1926231/uploading-the-human-mind-could-one-day-become-a-reality-predicts-neuroscientist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-01, 17:52:00](https://news.slashdot.org/story/25/06/01/1749246/ladybird-browsers-nonprofit-becomes-public-charity-now-officially-tax-exempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Ladybird&apos; Browser&apos;s Nonprofit Becomes Public Charity, Now Officially Tax-Exempt](https://news.slashdot.org/story/25/06/01/1749246/ladybird-browsers-nonprofit-becomes-public-charity-now-officially-tax-exempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 16:47:41](https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with) - [wl-kbptr: Control the mouse pointer with the keyboard on Wayland](https://github.com/moverest/wl-kbptr)
 * [2025-06-01, 16:39:36](https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal) - [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
-* [2025-06-01, 16:34:00](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Harmful Responses Observed from LLMs Optimized for Human Feedback](https://slashdot.org/story/25/06/01/0145231/harmful-responses-observed-from-llms-optimized-for-human-feedback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
-* [2025-06-01, 15:34:00](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Anthropic&apos;s Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss) - [Victoria&apos;s Secret Website Laid Bare For Three Days After &apos;Security Incident&apos;](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss)
@@ -139,10 +144,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss)
 * [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
-* [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
-* [2025-05-31, 07:37:21](https://news.ycombinator.com/item?id=44142650) - [Hip: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm/hip)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
@@ -151,11 +154,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-30, 10:41:00](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss) - [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss) - [Lenovo Caught Out by Trump&apos;s on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss)
 * [2025-05-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss) - [How to Stop and Disable Unwanted Services From Linux System](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss)
-* [2025-05-29, 23:21:48](https://news.ycombinator.com/item?id=44131324) - [What works (and doesn&apos;t) selling formal methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
 * [2025-05-29, 22:16:18](https://news.ycombinator.com/item?id=44130915) - [The Atomic Airplane](https://whatisnuclear.com/the-story-of-the-atomic-airplane.html)
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
+* [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Onlook – Open-source, visual-first Cursor for designers](https://github.com/onlook-dev/onlook)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
-* [2025-05-29, 13:16:00](https://news.ycombinator.com/item?id=44125793) - [HeidiSQL Available Also for Linux](https://www.heidisql.com/forum.php?t=44068)
 * [2025-05-29, 12:25:19](https://news.ycombinator.com/item?id=44125334) - [EasyTier – P2P mesh VPN written in Rust using Tokio](https://easytier.cn/en/)
 * [2025-05-29, 11:06:00](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss) - [Some Signs of AI Model Collapse Begin to Reveal Themselves](https://soylentnews.org/article.pl?sid=25/05/28/1747229&amp;from=rss)
 * [2025-05-29, 06:15:00](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss) - [Scientists Just Discovered A Mysterious New World Far Beyond Pluto](https://soylentnews.org/article.pl?sid=25/05/28/0352254&amp;from=rss)
