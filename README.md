@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming
+## Emerging Technologies and Innovations
 
-* [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/) ([comments](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse))
+* [WebAIM: Up and Coming ARIA](https://webaim.org/blog/up-and-coming-aria/) explores the latest developments in ARIA for accessible web design. [Comments](https://lobste.rs/s/uyyi2n/webaim_up_coming_aria)
 
-* [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84) ([comments](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters))
+* [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650) dives into the challenges and progress in interpreting AI models in the finance sector. [Comments](https://news.ycombinator.com/item?id=44157618)
 
-* [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/) ([comments](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming))
+* [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html) discusses the application of hypervisors for memory analysis and reverse engineering. [Comments](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection)
 
-* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) ([comments](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries))
+## AI, Automation, and Unexpected Impacts
 
-* [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html) ([comments](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection))
+* [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) satirizes the pitfalls of AI-generated recommendations. [Comments](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760) ([comments](https://news.ycombinator.com/item?id=44157077))
+* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) highlights findings about autonomous behavior in AI models. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss)
 
-* [Backfilling Postgres TOAST Columns in Debezium Data Change Events](https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/) ([comments](https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns))
+* [AI's Adoption and Growth Truly is 'Unprecedented'](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines the rapid integration of AI in various sectors. [Comments](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md) ([comments](https://news.ycombinator.com/item?id=44157584))
+## Software Development and Practices
 
-* [Our production Ruby on Rails stack](https://attendlist.com/blog/production-rails-stack) ([comments](https://news.ycombinator.com/item?id=44157568))
+* [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust) showcases Rust's impact on improving performance. [Comments](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting)
 
-## Artificial Intelligence and Machine Learning
+* [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/) offers insights into managing Rust projects more effectively. [Comments](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies)
 
-* [AI's Adoption and Growth Truly is 'Unprecedented'](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode))
+* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) discusses best practices for error handling in Rust. [Comments](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries)
 
-* [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650) ([comments](https://news.ycombinator.com/item?id=44157618))
+## Digital Infrastructure and Security
 
-* [How can AI researchers save energy? By going backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/) ([comments](https://news.ycombinator.com/item?id=44155391))
+* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights a Linux vulnerability affecting major distributions. [Comments](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## General Science and Astronomy
+* [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84) shares lessons from a large-scale cloud migration. [Comments](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters)
 
-* [Hubble Tension and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44155247))
+* [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/) introduces new resources for infrastructure resilience. [Comments](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure)
 
-* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss) ([comments](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website))
+## Cultural and Historical Highlights
 
-* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44157177))
+* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss) reflects on a historical timepiece's enduring functionality. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/159251&from=rss)
 
-## Cybersecurity and Privacy
+* [The Phoenician Scheme: Is Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review) reviews a poignant creation by the well-known director. [Comments](https://news.ycombinator.com/item?id=44155761)
 
-* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/vhi9w8/is_it_javascript))
-
-* [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44155247))
-
-* [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/) ([comments](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable))
-
-## Open-Source Projects and Tools
-
-* [Kan.bn – An open-source alternative to Trello](https://github.com/kanbn/kan) ([comments](https://news.ycombinator.com/item?id=44157378))
-
-* [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv) ([comments](https://news.ycombinator.com/item?id=44157086))
-
-* [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/) ([comments](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure))
+* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) details groundbreaking discoveries about the solar system. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss)
 
 ---
 
@@ -77,23 +65,39 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-02, 15:50:46](https://lobste.rs/s/uyyi2n/webaim_up_coming_aria) - [WebAIM: Up and Coming ARIA](https://webaim.org/blog/up-and-coming-aria/)
+* [2025-06-02, 15:36:00](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
+* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+* [2025-06-02, 14:59:52](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies) - [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/)
+* [2025-06-02, 14:40:00](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Stack Overflow&apos;s Reputation System Led To Its Own Downfall](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
+* [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
+* [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
+* [2025-06-02, 14:24:00](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss) - [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss)
+* [2025-06-02, 14:00:00](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Going To an Office and Pretending To Work: A Business That&apos;s Booming in China](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
+* [2025-06-02, 13:43:38](https://lobste.rs/s/bbeigb/practical_dev_tcp_https_era) - [Practical /dev/tcp in the HTTPS Era](https://blog.pkgforge.dev/https-via-http)
+* [2025-06-02, 13:41:22](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai) - [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/)
+* [2025-06-02, 13:36:40](https://news.ycombinator.com/item?id=44158720) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
+* [2025-06-02, 13:33:54](https://lobste.rs/s/iqgjau/reducing_cargo_target_directory_size) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
+* [2025-06-02, 13:33:09](https://lobste.rs/s/jg3m3x/my_idea_how_modern_mailing_service_should) - [My idea of how a modern mailing service should work (2011)](https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea)
+* [2025-06-02, 13:18:39](https://lobste.rs/s/9uetee/our_grafana_loki_installs_have_quietly) - [Our Grafana and Loki installs have quietly become &apos;legacy software&apos; here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere)
 * [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
 * [2025-06-02, 12:59:19](https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
+* [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 12:00:43](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters) - [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 11:34:00](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Adoption and Growth Truly is &apos;Unprecedented&apos;](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 11:28:28](https://news.ycombinator.com/item?id=44157701) - [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
 * [2025-06-02, 11:16:06](https://news.ycombinator.com/item?id=44157618) - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 * [2025-06-02, 11:09:45](https://news.ycombinator.com/item?id=44157584) - [Show HN: Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)
-* [2025-06-02, 11:06:50](https://news.ycombinator.com/item?id=44157568) - [Our production Ruby on Rails stack](https://attendlist.com/blog/production-rails-stack)
 * [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)
-* [2025-06-02, 10:25:51](https://news.ycombinator.com/item?id=44157378) - [TradeExpert, a trading framework that employs a mix of experts](https://arxiv.org/abs/2411.00782)
+* [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss)
-* [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
+* [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
-* [2025-06-02, 09:29:02](https://news.ycombinator.com/item?id=44157086) - [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
 * [2025-06-02, 09:27:26](https://news.ycombinator.com/item?id=44157077) - [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
-* [2025-06-02, 09:08:54](https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns) - [Backfilling Postgres TOAST Columns in Debezium Data Change Events](https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/)
 * [2025-06-02, 08:59:37](https://news.ycombinator.com/item?id=44156935) - [If you are useful, it doesn&apos;t mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
@@ -102,13 +106,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 * [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss)
 * [2025-06-02, 04:34:00](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \&quot;The Phoenician Scheme\&quot; Wes Anderson&apos;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
+* [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is “The Phoenician Scheme” Wes Anderson&apos;s Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
+* [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
 * [2025-06-02, 03:35:07](https://news.ycombinator.com/item?id=44155635) - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
-* [2025-06-02, 02:29:45](https://news.ycombinator.com/item?id=44155391) - [How can AI researchers save energy? By going backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler&apos;s source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-06-02, 01:34:00](https://entertainment.slashdot.org/story/25/06/01/2323253/doctor-who-regenerates-in-surprise-season-finale-but-will-the-show-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Doctor Who&apos;  Regenerates in Surprise Season Finale.  But Will the Show Return?](https://entertainment.slashdot.org/story/25/06/01/2323253/doctor-who-regenerates-in-surprise-season-finale-but-will-the-show-return?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 01:17:54](https://news.ycombinator.com/item?id=44155069) - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
 * [2025-06-02, 00:16:00](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss) - [New JWST Observations of &apos;Trans-Neptunian Objects&apos; Could Help Reveal Our Solar System&apos;s Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss)
 * [2025-06-01, 22:38:00](https://science.slashdot.org/story/25/06/01/2234237/six-more-humans-successfully-carried-to-the-edge-of-space-by-blue-origin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Six More Humans Successfully Carried to the Edge of Space by Blue Origin](https://science.slashdot.org/story/25/06/01/2234237/six-more-humans-successfully-carried-to-the-edge-of-space-by-blue-origin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 22:34:00](https://it.slashdot.org/story/25/05/31/0545201/amid-turmoil-stack-overflow-asks-about-ai-salary-remote-work-in-15th-annual-developer-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amid Turmoil, Stack Overflow Asks About AI, Salary, Remote Work in 15th Annual Developer Survey](https://it.slashdot.org/story/25/05/31/0545201/amid-turmoil-stack-overflow-asks-about-ai-salary-remote-work-in-15th-annual-developer-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -127,32 +130,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
 * [2025-06-01, 15:34:00](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Anthropic&apos;s Success Prove Businesses are Ready to Adopt AI?](https://slashdot.org/story/25/05/31/0344221/does-anthropics-success-prove-businesses-are-ready-to-adopt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 14:48:00](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss) - [Victoria&apos;s Secret Website Laid Bare For Three Days After &apos;Security Incident&apos;](https://soylentnews.org/article.pl?sid=25/05/30/198205&amp;from=rss)
-* [2025-06-01, 14:34:00](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Next NASA Administrator Will Not Be Former SpaceX Astronaut Jared Isaacman](https://science.slashdot.org/story/25/06/01/0722227/americas-next-nasa-administrator-will-not-be-former-spacex-astronaut-jared-isaacman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
-* [2025-06-01, 12:58:22](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui) - [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
-* [2025-06-01, 11:34:00](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will &apos;Vibe Coding&apos; Transform Programming?](https://developers.slashdot.org/story/25/06/01/0251235/will-vibe-coding-transform-programming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss) - [Trump Proposes Huge Reduction in National Science Foundation Funding](https://soylentnews.org/article.pl?sid=25/05/31/1552206&amp;from=rss)
-* [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
-* [2025-06-01, 07:49:21](https://lobste.rs/s/rzvbe9/lean_companion_analysis_i) - [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
-* [2025-06-01, 07:34:00](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Workers Who Lost Their Jobs To AI](https://news.slashdot.org/story/25/05/31/2247207/the-workers-who-lost-their-jobs-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync&apos;s defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss)
-* [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
-* [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
-* [2025-06-01, 04:45:50](https://lobste.rs/s/jotkj5/why_use_structured_errors_rust) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
-* [2025-06-01, 02:11:15](https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my) - [WebSockets guarantee order - so why are my messages scrambled?](https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled)
 * [2025-06-01, 00:33:00](https://soylentnews.org/article.pl?sid=25/05/30/1846202&amp;from=rss) - [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&amp;from=rss)
 * [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter&apos;s concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
-* [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
 * [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss)
+* [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
+* [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
-* [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 07:37:21](https://news.ycombinator.com/item?id=44142650) - [Hip: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm/hip)
-* [2025-05-31, 06:46:41](https://news.ycombinator.com/item?id=44142359) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
@@ -160,11 +150,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-30, 15:25:00](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss) - [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss)
 * [2025-05-30, 10:41:00](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss) - [5 Ways to Stop AI Cheating](https://soylentnews.org/article.pl?sid=25/05/29/0338204&amp;from=rss)
 * [2025-05-30, 05:56:00](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss) - [Lenovo Caught Out by Trump&apos;s on-Again Off-Again Tariffs](https://soylentnews.org/article.pl?sid=25/05/29/0334246&amp;from=rss)
-* [2025-05-30, 04:06:27](https://news.ycombinator.com/item?id=44132741) - [Pianocorder (2022)](https://www.pianocorder.info/)
 * [2025-05-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss) - [How to Stop and Disable Unwanted Services From Linux System](https://soylentnews.org/article.pl?sid=25/05/29/0327229&amp;from=rss)
 * [2025-05-29, 23:21:48](https://news.ycombinator.com/item?id=44131324) - [What works (and doesn&apos;t) selling formal methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
+* [2025-05-29, 22:16:18](https://news.ycombinator.com/item?id=44130915) - [The Atomic Airplane](https://whatisnuclear.com/the-story-of-the-atomic-airplane.html)
 * [2025-05-29, 20:30:00](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss) - [Russia is Still Swimming in New Intel and AMD Chips Thanks to Sanction \&quot;Workarounds\&quot;](https://soylentnews.org/article.pl?sid=25/05/29/0221209&amp;from=rss)
-* [2025-05-29, 19:38:09](https://news.ycombinator.com/item?id=44129480) - [A man who sailed round the world with a chicken (2019)](https://www.theguardian.com/global/2019/apr/21/why-did-the-chicken-cross-the-globe-french-sailor-guirec-soudee-monique)
 * [2025-05-29, 15:48:00](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss) - [University Of Arizona Scientists Unveil Breakthrough Petahertz-Speed Transistor](https://soylentnews.org/article.pl?sid=25/05/28/1749257&amp;from=rss)
 * [2025-05-29, 13:16:00](https://news.ycombinator.com/item?id=44125793) - [HeidiSQL Available Also for Linux](https://www.heidisql.com/forum.php?t=44068)
 * [2025-05-29, 12:25:19](https://news.ycombinator.com/item?id=44125334) - [EasyTier – P2P mesh VPN written in Rust using Tokio](https://easytier.cn/en/)
