@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Hacking
+## Technology Innovations and Trends
 
-* [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss) - A cryptic informant exposes key individuals behind the infamous Conti ransomware group. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss)
+* [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/) - [Comments](https://news.ycombinator.com/item?id=44169504)
 
-* [Botnet Hacks 9,000+ ASUS Routers to Add Persistent SSH Backdoor](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss) - Botmasters leverage a persistent backdoor on thousands of ASUS devices to expand botnet operations. [Comments](https://soylentnews.org/article.pl?sid=25/05/29/0642240&amp;from=rss)
+* [Page Magic: A Chrome extension that uses AI to customize the appearance of any web page](https://github.com/khaledh/pagemagic) - [Comments](https://lobste.rs/s/h9maxf/page_magic_chrome_extension_uses_ai)
 
-* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A recently discovered vulnerability in core dumps could expose sensitive password information in popular Linux distributions. [Comments](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui) - [Comments](https://lobste.rs/s/muety7/swift_cross_ui_cross_platform)
 
-## Artificial Intelligence Trends and Challenges
+* [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown) - [Comments](https://news.ycombinator.com/item?id=44167592)
 
-* [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important) - A thought-provoking exploration of how AI could reshape the humanities in unexpected ways. [Comments](https://news.ycombinator.com/item?id=44166102)
+## Cybersecurity and Privacy Concerns
 
-* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss) - Researchers catalog legal cases influenced by AI misinformation and hallucinations. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss)
+* [Meta and Yandex are de-anonymizing Android users' web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/) - [Comments](https://news.ycombinator.com/item?id=44169115)
 
-* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss) - Investigation into OpenAI's self-modifying behaviors raises critical questions about AI governance. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss)
+* [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/) - [Comments](https://news.ycombinator.com/item?id=44169069)
 
-## Scientific Discoveries and Historical Insights
+* [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/) - [Comments](https://news.ycombinator.com/item?id=44169314)
 
-* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - Researchers uncover evidence suggesting a pre-Columbian origin for leprosy in the Americas. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss)
+## Artificial Intelligence and Machine Learning
 
-* ['Hubble Tension' and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How mounting evidence challenges the cosmological constant and standard models of the universe. [Comments](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702) - [Comments](https://news.ycombinator.com/item?id=44168835)
 
-* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) - A historical marvel continues to mark time for over half a millennium. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss)
+* [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important) - [Comments](https://news.ycombinator.com/item?id=44166102)
 
-## Technology and Programming Innovations
+* [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss)
 
-* [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown) - A sleek and intuitive new framework revitalizes document formatting. [Comments](https://news.ycombinator.com/item?id=44167592)
+## Software Development and Tools
 
-* [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde) - Streamlining compiler design with a high-performance toolkit in C++. [Comments](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline)
+* [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic) - [Comments](https://news.ycombinator.com/item?id=44169132)
 
-* [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust) - How adopting Rust accelerated a core traffic management system. [Comments](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting)
+* [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde) - [Comments](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline)
 
-## Cultural and Societal Reflections
+* [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol) - [Comments](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday)
 
-* [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/) - Dive into the commercial cloning industry and the ethical dilemmas it poses. [Comments](https://news.ycombinator.com/item?id=44167903)
+## Science Discoveries and Historical Insights
 
-* [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill) - Revisiting an infamous cold case that shocked the nation. [Comments](https://news.ycombinator.com/item?id=44166908)
+* [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing) - [Comments](https://news.ycombinator.com/item?id=44168265)
 
-* [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/) - A breakthrough that could revolutionize emergency medical care. [Comments](https://news.ycombinator.com/item?id=44163428)
+* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss)
+
+* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1439246&amp;from=rss)
 
 ---
 
@@ -65,16 +67,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-03, 12:56:27](https://news.ycombinator.com/item?id=44169504) - [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
+* [2025-06-03, 12:35:06](https://news.ycombinator.com/item?id=44169314) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
+* [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
+* [2025-06-03, 12:14:29](https://news.ycombinator.com/item?id=44169132) - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
+* [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Meta and Yandex are de-anonymizing Android users&apos; web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
+* [2025-06-03, 12:05:47](https://news.ycombinator.com/item?id=44169069) - [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
+* [2025-06-03, 12:02:54](https://news.ycombinator.com/item?id=44169050) - [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
+* [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-06-03, 11:35:28](https://lobste.rs/s/h9maxf/page_magic_chrome_extension_uses_ai) - [Page Magic: A Chrome extension that uses AI to customize the appearance of any web page](https://github.com/khaledh/pagemagic)
+* [2025-06-03, 11:30:44](https://news.ycombinator.com/item?id=44168835) - [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702)
+* [2025-06-03, 11:08:51](https://news.ycombinator.com/item?id=44168658) - [Ukraine&apos;s Autonomous Killer Drones Defeat Electronic Warfare](https://spectrum.ieee.org/ukraine-killer-drones)
+* [2025-06-03, 10:44:06](https://lobste.rs/s/muety7/swift_cross_ui_cross_platform) - [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
+* [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
+* [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
+* [2025-06-03, 09:42:23](https://news.ycombinator.com/item?id=44168134) - [EU Commission refuses to disclose authors behind its mass surveillance proposal](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
 * [2025-06-03, 09:30:00](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss) - [Mysterious Leaker Outs Conti Ransomware Kingpins](https://soylentnews.org/article.pl?sid=25/06/01/1835204&amp;from=rss)
-* [2025-06-03, 09:04:32](https://news.ycombinator.com/item?id=44167922) - [Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?](https://news.ycombinator.com/item?id=44167922)
-* [2025-06-03, 09:00:42](https://news.ycombinator.com/item?id=44167903) - [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
-* [2025-06-03, 07:36:04](https://news.ycombinator.com/item?id=44167412) - [Stop Over-Thinking AI Subscriptions – Peter Steinberger](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
 * [2025-06-03, 07:06:29](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline) - [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde)
-* [2025-06-03, 07:01:08](https://news.ycombinator.com/item?id=44167202) - [Demodesk (YC W19) Is Hiring Rails Engineers](https://demodesk.com/careers)
-* [2025-06-03, 06:42:49](https://news.ycombinator.com/item?id=44167089) - [Rsync&apos;s defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-03, 06:37:25](https://news.ycombinator.com/item?id=44167049) - [Fun with Futex](https://blog.fredrb.com/2025/06/02/futex-fun/)
-* [2025-06-03, 06:16:00](https://news.ycombinator.com/item?id=44166908) - [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill)
 * [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
 * [2025-06-03, 04:42:00](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
@@ -85,15 +96,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-03, 00:44:49](https://lobste.rs/s/75hp0g/what_s_higher_order_about_so_called_higher) - [What&apos;s higher-order about so-called higher-order references?](https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/)
 * [2025-06-03, 00:01:36](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password) - [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss)
-* [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU&apos;s Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
-* [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:48:44](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
-* [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 * [2025-06-02, 21:41:53](https://lobste.rs/s/qxgjrq/my_ai_skeptic_friends_are_all_nuts) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 20:43:01](https://lobste.rs/s/a763eo/tests_should_not_contain_logic) - [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html)
-* [2025-06-02, 20:41:24](https://news.ycombinator.com/item?id=44162814) - [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
 * [2025-06-02, 19:53:37](https://lobste.rs/s/xk09xw/public_protected_private_is_unnecessary) - [public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
@@ -118,15 +125,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 13:43:38](https://lobste.rs/s/bbeigb/practical_dev_tcp_https_era) - [Practical /dev/tcp in the HTTPS Era](https://blog.pkgforge.dev/https-via-http)
 * [2025-06-02, 13:41:22](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai) - [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/)
 * [2025-06-02, 13:18:39](https://lobste.rs/s/9uetee/our_grafana_loki_installs_have_quietly) - [Our Grafana and Loki installs have quietly become &apos;legacy software&apos; here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere)
-* [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 11:34:00](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Adoption and Growth Truly is &apos;Unprecedented&apos;](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
-* [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
 * [2025-06-02, 07:34:00](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Hubble Tension&apos; and the Nobel Prize Winner Who Wants to Replace Cosmology&apos;s Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 * [2025-06-02, 05:00:00](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss) - [Malware Reverse Engineering - Unraveling the Secrets of Encryption in Malware](https://soylentnews.org/article.pl?sid=25/06/01/151242&amp;from=rss)
 * [2025-06-02, 04:34:00](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -145,11 +148,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
-* [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+* [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-05-31, 09:05:53](https://news.ycombinator.com/item?id=44142991) - [A Complete Guide to Meta Prompting](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting)
+* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 * [2025-05-31, 07:26:30](https://news.ycombinator.com/item?id=44142592) - [A High-Level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
-* [2025-05-31, 07:14:00](https://news.ycombinator.com/item?id=44142519) - [Magic Ink: Information Software and the Graphical Interface](https://worrydream.com/MagicInk/)
 * [2025-05-31, 06:43:27](https://news.ycombinator.com/item?id=44142343) - [Sid Meier&apos;s Pirates – In-depth (2017)](https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
