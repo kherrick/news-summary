@@ -1,56 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Engineering
+## Artificial Intelligence and Technology Evolution
 
-* [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/) ([comments](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password))
+* [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html) - A perspective on the role of AI in Stack Overflow’s recent challenges.
 
-* [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs) ([comments](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing))
+* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&from=rss) - A database reveals how AI-generated hallucinations influenced court cases.
 
-* [DPS8M Performance](https://dps8m.gitlab.io/blog/posts/20250602_Performance/) ([comments](https://lobste.rs/s/el02dj/dps8m_performance))
+* [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/) - Exploring how Amazon adopted the Dafny programming language for program verification.
 
-* [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/) ([comments](https://news.ycombinator.com/item?id=44163618))
+* [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs) - A look into MongoDB's engineering practices for ensuring code alignment with specifications.
 
-* [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html) ([comments](https://lobste.rs/s/a763eo/tests_should_not_contain_logic))
+* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) - Researchers identify occurrences of OpenAI's model altering its shutdown script.
 
-## Artificial Intelligence
+## Science and Healthcare Innovations
 
-* [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) ([comments](https://lobste.rs/s/qxgjrq/my_ai_skeptic_friends_are_all_nuts))
+* [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/) - Breakthrough in artificial blood technology offering universal compatibility.
 
-* [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html) ([comments](https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow))
+* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) - Insights into the early days of our solar system through new space telescope data.
 
-* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss))
+* [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study) - Research finds a declining risk of dementia in younger demographics.
 
-* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss))
+* ['Hubble Tension' and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revisiting the standard model of cosmology to resolve 'Hubble Tension'.
 
-## Scientific Advances
+## Programming and Development Practices
 
-* [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/) ([comments](https://news.ycombinator.com/item?id=44163428))
+* [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html) - A comprehensive overview of modern system call implementations and signal handling.
 
-* [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study) ([comments](https://news.ycombinator.com/item?id=44160012))
+* [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html) - Advocating clear testing practices without embedded logic.
 
-* [Hubble Tension and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) - A deep dive into crafting proper error types in Rust.
 
-## Cybersecurity
+* [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/) - Best practices for handling Rust programming dependencies.
 
-* [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/) ([comments](https://news.ycombinator.com/item?id=44161894))
+## Cultural and Educational Highlights
 
-* [GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)](https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates) ([comments](https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates))
+* [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/) - The world’s largest punk archive transitions to a new preservation site.
 
-* [New Moderate Linux Flaw Allows Password Hash Theft Via Core Dumps in Ubuntu, RHEL, Fedora](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/06/02/0140228/new-moderate-linux-flaw-allows-password-hash-theft-via-core-dumps-in-ubuntu-rhel-fedora?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/) - An artistic and technical breakdown of mesh edge creation.
 
-## Business and Industry
+* [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/) - A metaphorical analysis of generative AI's impact on culture.
 
-* [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab) ([comments](https://news.ycombinator.com/item?id=44162443))
-
-* [ISP Settles With Record Labels That Demanded Mass Termination of Internet Users](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Microsoft Mandates Universal USB-C Functionality To End 'USB-C Port Confusion' on Windows 11 Devices](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/02/1640227/microsoft-mandates-universal-usb-c-functionality-to-end-usb-c-port-confusion-on-windows-11-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Creative and Cultural
-
-* [Show HN: I build one absurd web project every month](https://absurd.website) ([comments](https://news.ycombinator.com/item?id=44162363))
-
-* [Writing the Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code) ([comments](https://news.ycombinator.com/item?id=44155247))
+* [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code) - The historic release of INTERCAL's original compilation code.
 
 ---
 
@@ -77,23 +67,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-03, 01:57:47](https://lobste.rs/s/exhnck/technical_guide_system_calls) - [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
+* [2025-06-03, 01:33:41](https://news.ycombinator.com/item?id=44165346) - [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
+* [2025-06-03, 01:01:36](https://lobste.rs/s/qtyilg/genai_is_our_polyester) - [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
+* [2025-06-03, 00:44:49](https://lobste.rs/s/75hp0g/what_s_higher_order_about_so_called_higher) - [What&apos;s higher-order about so-called higher-order references?](https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/)
 * [2025-06-03, 00:01:36](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password) - [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss)
+* [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU&apos;s Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
 * [2025-06-02, 22:28:05](https://lobste.rs/s/el02dj/dps8m_performance) - [DPS8M Performance](https://dps8m.gitlab.io/blog/posts/20250602_Performance/)
 * [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:48:44](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
-* [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
+* [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 * [2025-06-02, 21:41:53](https://lobste.rs/s/qxgjrq/my_ai_skeptic_friends_are_all_nuts) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 20:43:01](https://lobste.rs/s/a763eo/tests_should_not_contain_logic) - [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html)
+* [2025-06-02, 20:41:24](https://news.ycombinator.com/item?id=44162814) - [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
 * [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:53:37](https://lobste.rs/s/xk09xw/public_protected_private_is_unnecessary) - [public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
 * [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM broke my brain in the right ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-06-02, 19:38:42](https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates) - [GoDaddy Issues Thousands of Certificates That Don&apos;t Work in Safari (again)](https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates)
-* [2025-06-02, 19:15:43](https://news.ycombinator.com/item?id=44162042) - [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
 * [2025-06-02, 19:10:00](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss) - [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 18:58:32](https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow) - [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html)
@@ -114,20 +109,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
 * [2025-06-02, 14:59:52](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies) - [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/)
 * [2025-06-02, 14:40:00](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Stack Overflow&apos;s Reputation System Led To Its Own Downfall](https://developers.slashdot.org/story/25/06/02/0922250/how-stack-overflows-reputation-system-led-to-its-own-downfall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
 * [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
-* [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
+* [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/)
 * [2025-06-02, 14:24:00](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss) - [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss)
 * [2025-06-02, 14:00:00](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Going To an Office and Pretending To Work: A Business That&apos;s Booming in China](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
 * [2025-06-02, 13:43:38](https://lobste.rs/s/bbeigb/practical_dev_tcp_https_era) - [Practical /dev/tcp in the HTTPS Era](https://blog.pkgforge.dev/https-via-http)
 * [2025-06-02, 13:41:22](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai) - [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/)
-* [2025-06-02, 13:36:40](https://news.ycombinator.com/item?id=44158720) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
-* [2025-06-02, 13:33:54](https://lobste.rs/s/iqgjau/reducing_cargo_target_directory_size) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
-* [2025-06-02, 13:33:09](https://lobste.rs/s/jg3m3x/my_idea_how_modern_mailing_service_should) - [My idea of how a modern mailing service should work (2011)](https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea)
 * [2025-06-02, 13:18:39](https://lobste.rs/s/9uetee/our_grafana_loki_installs_have_quietly) - [Our Grafana and Loki installs have quietly become &apos;legacy software&apos; here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere)
 * [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
-* [2025-06-02, 12:59:19](https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [Ask HN: How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 11:34:00](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Adoption and Growth Truly is &apos;Unprecedented&apos;](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -135,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) - [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
-* [2025-06-02, 08:59:37](https://news.ycombinator.com/item?id=44156935) - [If you are useful, it doesn&apos;t mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 07:34:00](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Hubble Tension&apos; and the Nobel Prize Winner Who Wants to Replace Cosmology&apos;s Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
@@ -159,6 +148,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
+* [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
