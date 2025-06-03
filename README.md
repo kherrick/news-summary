@@ -1,46 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Evolution
+## Emerging Technologies and Software Tools
 
-* [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html) - A perspective on the role of AI in Stack Overflow’s recent challenges.
+* [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol) ([comments](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday))
 
-* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&from=rss) - A database reveals how AI-generated hallucinations influenced court cases.
+* [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html) ([comments](https://news.ycombinator.com/item?id=44162814))
 
-* [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/) - Exploring how Amazon adopted the Dafny programming language for program verification.
+* [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/) ([comments](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai))
 
-* [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs) - A look into MongoDB's engineering practices for ensuring code alignment with specifications.
+* [A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta) ([comments](https://news.ycombinator.com/item?id=44159758))
 
-* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&from=rss) - Researchers identify occurrences of OpenAI's model altering its shutdown script.
+## Artificial Intelligence and Ethics
 
-## Science and Healthcare Innovations
+* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss))
 
-* [Japanese scientists develop artificial blood compatible with all blood types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/) - Breakthrough in artificial blood technology offering universal compatibility.
+* [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/) ([comments](https://lobste.rs/s/qtyilg/genai_is_our_polyester))
 
-* [New JWST Observations of 'Trans-Neptunian Objects' Could Help Reveal Our Solar System's Past](https://soylentnews.org/article.pl?sid=25/06/01/1439246&from=rss) - Insights into the early days of our solar system through new space telescope data.
+* [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html) ([comments](https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow))
 
-* [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study) - Research finds a declining risk of dementia in younger demographics.
+* [OpenAI Model Modifies Own Shutdown Script, Say Researchers](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/1517235&amp;from=rss))
 
-* ['Hubble Tension' and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revisiting the standard model of cosmology to resolve 'Hubble Tension'.
+## Historical and Scientific Insights
 
-## Programming and Development Practices
+* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss))
 
-* [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html) - A comprehensive overview of modern system call implementations and signal handling.
+* [Clock Still Keeping Village on Time After 500 Years](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/01/159251&amp;from=rss))
 
-* [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html) - Advocating clear testing practices without embedded logic.
+* [Bed Bugs Are Most Likely the First Human Pest, New Research Shows](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/05/29/0634252&amp;from=rss))
 
-* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) - A deep dive into crafting proper error types in Rust.
+* ['Hubble Tension' and the Nobel Prize Winner Who Wants to Replace Cosmology's Standard Model](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/02/049212/hubble-tension-and-the-nobel-prize-winner-who-wants-to-replace-cosmologys-standard-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/) - Best practices for handling Rust programming dependencies.
+## Programming and Development
 
-## Cultural and Educational Highlights
+* [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html) ([comments](https://lobste.rs/s/exhnck/technical_guide_system_calls))
 
-* [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/) - The world’s largest punk archive transitions to a new preservation site.
+* [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/) ([comments](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies))
 
-* [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/) - An artistic and technical breakdown of mesh edge creation.
+* [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) ([comments](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries))
 
-* [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/) - A metaphorical analysis of generative AI's impact on culture.
+* [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust) ([comments](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting))
 
-* [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code) - The historic release of INTERCAL's original compilation code.
+## Cultural and Societal Trends
+
+* [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/) ([comments](https://news.ycombinator.com/item?id=44163877))
+
+* [Going To an Office and Pretending To Work: A Business That's Booming in China](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/06/02/0858222/going-to-an-office-and-pretending-to-work-a-business-thats-booming-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Show HN: I build one absurd web project every month](https://absurd.website) ([comments](https://news.ycombinator.com/item?id=44162363))
+
+* [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important) ([comments](https://news.ycombinator.com/item?id=44166102))
 
 ---
 
@@ -67,14 +75,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
+* [2025-06-03, 04:42:00](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss)
+* [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
+* [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
+* [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand&apos;s tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
 * [2025-06-03, 01:57:47](https://lobste.rs/s/exhnck/technical_guide_system_calls) - [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
-* [2025-06-03, 01:33:41](https://news.ycombinator.com/item?id=44165346) - [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-03, 01:01:36](https://lobste.rs/s/qtyilg/genai_is_our_polyester) - [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-03, 00:44:49](https://lobste.rs/s/75hp0g/what_s_higher_order_about_so_called_higher) - [What&apos;s higher-order about so-called higher-order references?](https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/)
 * [2025-06-03, 00:01:36](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password) - [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-02, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss) - [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss)
 * [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU&apos;s Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
-* [2025-06-02, 22:28:05](https://lobste.rs/s/el02dj/dps8m_performance) - [DPS8M Performance](https://dps8m.gitlab.io/blog/posts/20250602_Performance/)
 * [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:48:44](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
@@ -83,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 20:43:01](https://lobste.rs/s/a763eo/tests_should_not_contain_logic) - [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html)
 * [2025-06-02, 20:41:24](https://news.ycombinator.com/item?id=44162814) - [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
-* [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:53:37](https://lobste.rs/s/xk09xw/public_protected_private_is_unnecessary) - [public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
 * [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM broke my brain in the right ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
@@ -103,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
 * [2025-06-02, 15:42:31](https://news.ycombinator.com/item?id=44160012) - [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
 * [2025-06-02, 15:36:00](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Insider Recommended Nonexistent Books To Staff As It Leans Into AI](https://news.slashdot.org/story/25/06/02/1537210/business-insider-recommended-nonexistent-books-to-staff-as-it-leans-into-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
@@ -118,7 +127,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-02, 13:41:22](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai) - [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/)
 * [2025-06-02, 13:18:39](https://lobste.rs/s/9uetee/our_grafana_loki_installs_have_quietly) - [Our Grafana and Loki installs have quietly become &apos;legacy software&apos; here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere)
 * [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
-* [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [Ask HN: How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 11:34:00](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Adoption and Growth Truly is &apos;Unprecedented&apos;](https://slashdot.org/story/25/06/02/0114203/ais-adoption-and-growth-truly-is-unprecedented?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
@@ -145,11 +153,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-01, 05:18:00](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss) - [Gallery Showcases The Dustiest, Grimiest PCs In Germany - 400 Images Of Fascinating Horror](https://soylentnews.org/article.pl?sid=25/05/30/1851210&amp;from=rss)
 * [2025-06-01, 00:33:00](https://soylentnews.org/article.pl?sid=25/05/30/1846202&amp;from=rss) - [China Hygon And Sugon Merge To Form Vertically Integrated Supercomputing Giant Against US Sanctions](https://soylentnews.org/article.pl?sid=25/05/30/1846202&amp;from=rss)
 * [2025-05-31, 19:47:00](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss) - [Overlooked Cells Might Explain The Human Brain’s Huge Storage Capacity](https://soylentnews.org/article.pl?sid=25/05/30/190238&amp;from=rss)
-* [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss) - [German Court Jails Volkswagen Execs Over Dieselgate Scandal](https://soylentnews.org/article.pl?sid=25/05/30/1544203&amp;from=rss)
 * [2025-05-31, 10:19:00](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss) - [Microsoft Dumps AI Into Notepad as &apos;Copilot All the Things&apos; Mania Takes Hold](https://soylentnews.org/article.pl?sid=25/05/30/0621214&amp;from=rss)
+* [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
-* [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
+* [2025-05-31, 07:14:00](https://news.ycombinator.com/item?id=44142519) - [Magic Ink: Information Software and the Graphical Interface](https://worrydream.com/MagicInk/)
+* [2025-05-31, 06:43:27](https://news.ycombinator.com/item?id=44142343) - [Sid Meier&apos;s Pirates – In-depth (2017)](https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html)
 * [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 * [2025-05-31, 05:37:00](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss) - [Verizon Asks Trump Admin to Destroy All Popular Phone Unlocking Requirements](https://soylentnews.org/article.pl?sid=25/05/30/041203&amp;from=rss)
 * [2025-05-31, 00:49:00](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss) - [Stack Overflow&apos;s Plan to Survive the Age of AI](https://soylentnews.org/article.pl?sid=25/05/30/0618221&amp;from=rss)
