@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies
+## Technology Advancements and Innovations
 
-* [Storing arbitrary data in Pokémon Emerald](https://sardap.github.io/mon-fs/) - A novel approach to modifying a popular game by embedding arbitrary data, reviving interest in classic gaming for innovative purposes. [Comments](https://lobste.rs/s/kg1gsg/storing_arbitrary_data_pokemon_emerald)
+* [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/) explores theoretical concepts in programming. [Comments](https://lobste.rs/s/lczxco/linearity_uniqueness)
 
-* [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first) - A groundbreaking achievement where an AI-driven drone outperforms human pilots in competitive racing. [Comments](https://news.ycombinator.com/item?id=44184900)
+* [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) introduces a promising energy storage technology. [Comments](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
 
-* [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects) - Innovation in 3D modeling showcasing advanced rendering techniques bypassing traditional rasterization. [Comments](https://news.ycombinator.com/item?id=44187645)
+* [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator) showcases a lightweight tool for monitoring air quality. [Comments](https://news.ycombinator.com/item?id=44189329)
 
-## Artificial Intelligence
+* [Missions To Mars With Starship Could Only Take Three Months](https://science.slashdot.org/story/25/06/05/0031220/missions-to-mars-with-starship-could-only-take-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses accelerated Mars expeditions. [Comments](https://science.slashdot.org/story/25/06/05/0031220/missions-to-mars-with-starship-could-only-take-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html) - A reflective critique on generative AI's current and future impacts. [Comments](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for)
+* [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first) highlights a significant achievement in robotics and AI. [Comments](https://news.ycombinator.com/item?id=44184900)
 
-* [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination) - Exploring discrepancies in AI-generated information accuracy and source understanding. [Comments](https://news.ycombinator.com/item?id=44188068)
+## Artificial Intelligence and Machine Learning
 
-* [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) - Insights into legal challenges surrounding AI data retention and privacy concerns. [Comments](https://news.ycombinator.com/item?id=44185913)
+* [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117) examines how language models navigate semantics. [Comments](https://news.ycombinator.com/item?id=44189426)
 
-## Cybersecurity and Privacy
+* [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination) analyzes discrepancies in AI comprehension. [Comments](https://news.ycombinator.com/item?id=44188068)
 
-* [Chinese Hacked US Telecom a Year Before Known Wireless Breaches](https://it.slashdot.org/story/25/06/05/0023243/chinese-hacked-us-telecom-a-year-before-known-wireless-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Revelations of undiscovered cyber-intrusions emphasize persistent vulnerabilities in critical infrastructure. [Comments](https://news.ycombinator.com/item?id=44188186)
+* [DreamWorks Co-Founder Katzenberg Likens AI To CGI Revolution](https://slashdot.org/story/25/06/04/2128246/dreamworks-co-founder-katzenberg-likens-ai-to-cgi-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) compares AI's potential to earlier technological milestones. [Comments](https://slashdot.org/story/25/06/04/2128246/dreamworks-co-founder-katzenberg-likens-ai-to-cgi-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/) - Tesla's bid to balance transparency with data privacy in crash incidents. [Comments](https://news.ycombinator.com/item?id=44186780)
+* [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects) showcases an innovative graphics tool. [Comments](https://news.ycombinator.com/item?id=44187645)
 
-## Corporate and Regulatory Developments
+## Industry and Business Developments
 
-* [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss) - European regulators assert authority with a massive fine against Apple under the DMA. [Comments](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss)
+* [Meta's Push Into Defense Tech Reflects Cultural Shift, CTO Says](https://tech.slashdot.org/story/25/06/05/0424214/metas-push-into-defense-tech-reflects-cultural-shift-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reveals Meta's interest in military applications. [Comments](https://tech.slashdot.org/story/25/06/05/0424214/metas-push-into-defense-tech-reflects-cultural-shift-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Reddit Sues AI Startup Anthropic For Breach of Contract, 'Unfair Competition'](https://yro.slashdot.org/story/25/06/04/1827213/reddit-sues-ai-startup-anthropic-for-breach-of-contract-unfair-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal dispute over AI utilization underscores evolving tensions between platforms and AI firms. [Comments](https://news.ycombinator.com/item?id=44185256)
+* [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss) highlights regulatory challenges for tech giants. [Comments](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss)
 
-## Scientific and Environmental Breakthroughs
+* [Chinese Hacked US Telecom a Year Before Known Wireless Breaches](https://it.slashdot.org/story/25/06/05/0023243/chinese-hacked-us-telecom-a-year-before-known-wireless-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) uncovers early vulnerabilities in telecoms. [Comments](https://it.slashdot.org/story/25/06/05/0023243/chinese-hacked-us-telecom-a-year-before-known-wireless-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss) - Scientists discover a sustainable method to harvest magnesium from seawater, promising environmental benefits. [Comments](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss)
+## Earth and Space Sciences
 
-* [Scientists in Japan Develop Plastic That Dissolves in Seawater Within Hours](https://science.slashdot.org/story/25/06/04/1718212/scientists-in-japan-develop-plastic-that-dissolves-in-seawater-within-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Addressing ocean pollution with innovative biodegradable plastic technology. [Comments](https://news.ycombinator.com/item?id=44181613)
+* [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation) commemorates the retirement of a pioneering satellite. [Comments](https://news.ycombinator.com/item?id=44188248)
+
+* [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b) offers new insights into celestial formations. [Comments](https://news.ycombinator.com/item?id=44186660)
+
+* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss) examines an eco-friendly resource extraction method. [Comments](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss)
+
+## Ethics and Privacy in Technology
+
+* [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) raises concerns about user privacy violations. [Comments](https://news.ycombinator.com/item?id=44185913)
+
+* [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/) underscores the balance between privacy and safety transparency. [Comments](https://news.ycombinator.com/item?id=44186780)
 
 ---
 
@@ -59,17 +69,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-05, 06:32:02](https://lobste.rs/s/kg1gsg/storing_arbitrary_data_pokemon_emerald) - [Storing arbitrary data in pokemon emerald](https://sardap.github.io/mon-fs/)
+* [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
+* [2025-06-05, 09:00:00](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) - [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
+* [2025-06-05, 08:58:52](https://lobste.rs/s/msfmtr/phptop_php_basic_ressource_profiler_safe) - [phptop: PHP basic ressource profiler safe and useful for production sites](https://github.com/bearstech/phptop)
+* [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
+* [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
+* [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-05, 07:00:00](https://science.slashdot.org/story/25/06/05/0031220/missions-to-mars-with-starship-could-only-take-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Missions To Mars With Starship Could Only Take Three Months](https://science.slashdot.org/story/25/06/05/0031220/missions-to-mars-with-starship-could-only-take-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
-* [2025-06-05, 05:36:59](https://lobste.rs/s/7gdg55/llms_elixir_windfall_deathblow) - [LLMs &amp; Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
 * [2025-06-05, 04:30:00](https://tech.slashdot.org/story/25/06/05/0424214/metas-push-into-defense-tech-reflects-cultural-shift-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s Push Into Defense Tech Reflects Cultural Shift, CTO Says](https://tech.slashdot.org/story/25/06/05/0424214/metas-push-into-defense-tech-reflects-cultural-shift-cto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss) - [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss)
-* [2025-06-05, 04:00:24](https://news.ycombinator.com/item?id=44188204) - [Old payphones get new life, thanks to Vermont engineer](https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public)
-* [2025-06-05, 03:56:43](https://news.ycombinator.com/item?id=44188186) - [Modeling land value taxes](https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift)
+* [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
 * [2025-06-05, 03:30:00](https://it.slashdot.org/story/25/06/05/0023243/chinese-hacked-us-telecom-a-year-before-known-wireless-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Hacked US Telecom a Year Before Known Wireless Breaches](https://it.slashdot.org/story/25/06/05/0023243/chinese-hacked-us-telecom-a-year-before-known-wireless-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-05, 03:27:47](https://news.ycombinator.com/item?id=44188068) - [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination)
 * [2025-06-05, 02:05:33](https://news.ycombinator.com/item?id=44187645) - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-* [2025-06-05, 01:13:14](https://news.ycombinator.com/item?id=44187336) - [Is This the End or the Beginning?](https://lichess.org/@/MeTooSlow/blog/is-this-the-end-or-the-beginning/9aJj08zM)
+* [2025-06-05, 01:50:15](https://lobste.rs/s/pd8g13/premature_design_is_not_design) - [Premature Design Is Not Design](https://articles.pragdave.me/p/premature-design-is-not-design)
 * [2025-06-05, 00:45:00](https://apple.slashdot.org/story/25/06/05/003221/apples-attempt-to-pause-app-store-antitrust-order-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Attempt To Pause App Store Antitrust Order Fails](https://apple.slashdot.org/story/25/06/05/003221/apples-attempt-to-pause-app-store-antitrust-order-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-05, 00:41:32](https://lobste.rs/s/mwigo2/how_let_s_encrypt_reduced_impact_zombie) - [How Let’s Encrypt reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-05, 00:02:00](https://news.slashdot.org/story/25/06/04/222206/whip-muxer-merged-to-ffmpeg-for-sub-second-latency-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WHIP Muxer Merged To FFmpeg For Sub-Second Latency Streaming](https://news.slashdot.org/story/25/06/04/222206/whip-muxer-merged-to-ffmpeg-for-sub-second-latency-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -91,6 +105,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-04, 20:40:00](https://yro.slashdot.org/story/25/06/04/2039245/openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Slams Court Order To Save All ChatGPT Logs, Including Deleted Chats](https://yro.slashdot.org/story/25/06/04/2039245/openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
 * [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart&apos;s Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
+* [2025-06-04, 20:20:17](https://lobste.rs/s/0rljre/error_monads_hard_way) - [Error Monads The Hard Way](https://articles.pragdave.me/p/error-monads-the-hard-way)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 19:59:51](https://news.ycombinator.com/item?id=44184861) - [Ada and SPARK enter the automotive ISO-26262 market with Nvidia](https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia)
@@ -109,13 +124,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-04, 16:44:07](https://lobste.rs/s/oscxsk/when_memory_was_measured_kilobytes_art) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 16:31:51](https://lobste.rs/s/33mhv3/dejagnu_2011) - [DejaGNU (2011)](https://www.airs.com/blog/archives/499/)
 * [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [IRS Direct File on GitHub](https://chrisgiven.com/2025/05/direct-file-on-github/)
-* [2025-06-04, 16:00:52](https://news.ycombinator.com/item?id=44182206) - [Show HN: GPT image editing, but for 3D models](https://www.adamcad.com/)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
 * [2025-06-04, 15:58:36](https://news.ycombinator.com/item?id=44182184) - [How we reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
-* [2025-06-04, 15:57:58](https://lobste.rs/s/tlvaia/how_reladiff_works_journey_through) - [How Reladiff Works - A Journey Through the Challenges and Techniques of Data Engineering with SQL](https://eshsoft.com/blog/how-reladiff-works)
 * [2025-06-04, 15:43:00](https://slashdot.org/story/25/06/04/1543234/chatgpt-adds-enterprise-cloud-integrations-for-dropbox-box-onedrive-google-drive-meeting-transcription?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Adds Enterprise Cloud Integrations For Dropbox, Box, OneDrive, Google Drive, Meeting Transcription](https://slashdot.org/story/25/06/04/1543234/chatgpt-adds-enterprise-cloud-integrations-for-dropbox-box-onedrive-google-drive-meeting-transcription?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-04, 15:22:00](https://entertainment.slashdot.org/story/25/06/04/1519210/hollywood-already-uses-generative-ai-and-is-hiding-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood Already Uses Generative AI (And Is Hiding It)](https://entertainment.slashdot.org/story/25/06/04/1519210/hollywood-already-uses-generative-ai-and-is-hiding-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-04, 15:21:22](https://news.ycombinator.com/item?id=44181700) - [A practical guide to building agents [pdf]](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 * [2025-06-04, 15:15:33](https://news.ycombinator.com/item?id=44181613) - [AGI is not multimodal](https://thegradient.pub/agi-is-not-multimodal/)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
@@ -124,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 * [2025-06-04, 12:32:32](https://lobste.rs/s/honikk/yet_another_llm) - [yet another LLM](https://www.yetanotherllm.com/)
 * [2025-06-04, 11:31:38](https://lobste.rs/s/mokfrm/experimenting_with_no_build_web) - [Experimenting with no-build Web Applications](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
-* [2025-06-04, 11:27:06](https://lobste.rs/s/uqds7a/distance_based_isa_for_efficient) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/03/0455214&amp;from=rss) - [Fire Safety Concerns Spark New Battery Rules on Flights](https://soylentnews.org/article.pl?sid=25/06/03/0455214&amp;from=rss)
 * [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
