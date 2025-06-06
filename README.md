@@ -1,42 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Controversial Technology and Privacy Issues
 
-* [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget) - A guide focused on constructing an AI server inexpensively, encouraging efficiency for tech enthusiasts. [Comments](https://news.ycombinator.com/item?id=44197347)
+* [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful) - A discussion on the challenges and potential harms of self-hosting media in the age of corporate-dominated media platforms. [Comments](https://news.ycombinator.com/item?id=44197932)
 
-* [Open Source Distilling](https://opensourcedistilling.com/) - Learn how open-source principles are applied to the world of distillation. [Comments](https://news.ycombinator.com/item?id=44197112)
+* [Nintendo Warns Switch 2 GameChat Users: 'Your Chat Is Recorded'](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Privacy concerns arise as Nintendo reveals that its GameChat functionality records user conversations. [Comments](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language) - A thought-provoking exploration of how machine learning interpretations align with biological processes. [Comments](https://news.ycombinator.com/item?id=44196410)
+* [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/) - OpenAI outlines its response to recent data-related demands from media organizations, emphasizing user privacy. [Comments](https://news.ycombinator.com/item?id=44196850)
 
-* [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/) - Details about an innovative engine tailored for processing large datasets in LLMs. [Comments](https://news.ycombinator.com/item?id=44195961)
+* [China Will Drop the Great Firewall For Some Users To Boost Free-Trade Port Ambitions](https://yro.slashdot.org/story/25/06/05/1943208/china-will-drop-the-great-firewall-for-some-users-to-boost-free-trade-port-ambitions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In a surprising move, China relaxes its notorious internet restrictions for specific users in targeted economic zones. [Comments](https://yro.slashdot.org/story/25/06/05/1943208/china-will-drop-the-great-firewall-for-some-users-to-boost-free-trade-port-ambitions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Defending adverbs exuberantly if conditionally](https://countercraft.substack.com/p/defending-adverbs-exuberantly-if) - A unique piece defending the importance of adverbs in language. [Comments](https://news.ycombinator.com/item?id=44195354)
+## Programming Innovations and Tools
 
-## Emerging Business and Policy Trends
+* [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523) - An entertaining recount of learning Rust swiftly in exchange for free pizza at a tech meetup. [Comments](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza)
 
-* [Proxy Services Feast On Ukraine's IP Address Exodus](https://tech.slashdot.org/story/25/06/05/2343244/proxy-services-feast-on-ukraines-ip-address-exodus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How the migration of IP addresses out of Ukraine is fueling a new digital trade. [Comments](https://tech.slashdot.org/comments.pl?sid=25/06/05/2343244)
+* [Show HN: Claude Composer](https://github.com/possibilities/claude-composer) - A new tool designed to enhance interactions with AI models by enabling customized composition settings for better outcomes. [Comments](https://news.ycombinator.com/item?id=44196417)
 
-* [Stablecoin Issuer Circle Soars 168% In IPO Debut](https://slashdot.org/story/25/06/05/215254/stablecoin-issuer-circle-soars-168-in-ipo-debut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Circle's remarkable public listing marks a landmark for cryptocurrencies and financial tech. [Comments](https://slashdot.org/comments.pl?sid=25/06/05/215254)
+* [Tokasaurus: An LLM inference engine for high-throughput workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/) - A specialized inference engine focused on optimizing large language model (LLM) workloads for speed and scale. [Comments](https://news.ycombinator.com/item?id=44195961)
 
-* [OpenAI Says Significant Number of Recent ChatGPT Misuses Likely Came From China](https://slashdot.org/story/25/06/05/1647233/openai-says-significant-number-of-recent-chatgpt-misuses-likely-came-from-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The AI giant raises critical concerns about the misuse of ChatGPT and its origins. [Comments](https://slashdot.org/comments.pl?sid=25/06/05/1647233)
+* [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language) - Exploring how machine learning methodologies mirror biological principles and are reshaping scientific inquiries. [Comments](https://news.ycombinator.com/item?id=44196410)
 
-## Scientific and Technical Discoveries
+## Emergent AI and Ethical Dilemmas
 
-* [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&from=rss) - A potential breakthrough in clean energy technologies. [Comments](https://soylentnews.org/comments.pl?sid=25/06/04/0129202&from=rss)
+* [OpenAI Says Significant Number of Recent ChatGPT Misuses Likely Came From China](https://slashdot.org/story/25/06/05/1647233/openai-says-significant-number-of-recent-chatgpt-misuses-likely-came-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The misuse of OpenAI's ChatGPT, allegedly traced to China, spotlights ongoing challenges in regulating generative AI tools. [Comments](https://news.ycombinator.com/item?id=44193390)
 
-* [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator) - Learn about a device making air quality measurement portable and accessible. [Comments](https://news.ycombinator.com/item?id=44189329)
+* [Anthropic CEO Warns 'All Bets Are Off' in 10 Years, Opposes AI Regulation Moratorium](https://slashdot.org/story/25/06/05/1819253/anthropic-ceo-warns-all-bets-are-off-in-10-years-opposes-ai-regulation-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cautionary forecast on AI's unpredictable trajectory amid debates over regulation frameworks. [Comments](https://slashdot.org/story/25/06/05/1819253/anthropic-ceo-warns-all-bets-are-off-in-10-years-opposes-ai-regulation-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss) - Innovative methods using seawater to extract magnesium, critical for industrial applications. [Comments](https://soylentnews.org/comments.pl?sid=25/06/03/0447247&from=rss)
+* [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human) - Introducing a 'human-in-the-loop' approach to mitigate the risk of hallucinated outputs in AI systems. [Comments](https://news.ycombinator.com/item?id=44196433)
 
-* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss) - Fresh insights on ancient diseases reshaping history narratives. [Comments](https://soylentnews.org/comments.pl?sid=25/06/01/1533234&from=rss)
+* [120 Court Cases Have Been Caught With AI Hallucinations, According to New Database](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss) - Highlighting the real-world consequences of AI errors infiltrating the judicial landscape. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1523222&amp;from=rss)
 
-## Critical Social Issues
+## Scientific and Engineering Developments
 
-* [China Will Drop the Great Firewall For Some Users To Boost Free-Trade Port Ambitions](https://yro.slashdot.org/story/25/06/05/1943208/china-will-drop-the-great-firewall-for-some-users-to-boost-free-trade-port-ambitions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting policy shifts in China to empower certain trade frameworks. [Comments](https://yro.slashdot.org/comments.pl?sid=25/06/05/1943208)
+* [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/) - An exploration of the mathematical elegance behind convolutions and their applications to signal processing. [Comments](https://lobste.rs/s/3bgtx3/convolutions_polynomials_flipped)
 
-* [The Trump Administration's Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&from=rss) - An in-depth critique of privacy implications surrounding citizen databases. [Comments](https://soylentnews.org/comments.pl?sid=25/06/04/1510212&from=rss)
+* [Spacex's Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss) - The latest setback for SpaceX as its ambitious heavy-lift rocket system faces testing hurdles. [Comments](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss)
 
-* [Consumer Group Accuses Shein of Manipulating Shoppers With 'Dark Patterns'](https://news.slashdot.org/story/25/06/05/2114241/consumer-group-accuses-shein-of-manipulating-shoppers-with-dark-patterns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ethical concerns surrounding e-commerce designs meant to influence buyers. [Comments](https://news.slashdot.org/comments.pl?sid=25/06/05/2114241)
+* [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) - Innovations in fuel cell technology open possibilities for reducing carbon footprint in transportation. [Comments](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
+
+* [Intel Wins Crucial Verdict in Legal Fight Against Patent Troll VLSI](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss) - Intel's significant courtroom victory could establish a deterrent for exploitative patent litigation. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1527223&amp;from=rss)
 
 ---
 
@@ -63,10 +65,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
+* [2025-06-06, 05:48:33](https://news.ycombinator.com/item?id=44198116) - [Twenty Years of TiddlyWiki (2024)](https://tiddlywiki.com/#History%20of%20TiddlyWiki:HelloThere%20%5B%5BQuick%20Start%5D%5D%20%5B%5BFind%20Out%20More%5D%5D%20%5B%5BHistory%20of%20TiddlyWiki%5D%5D%20%5B%5BTiddlyWiki%20on%20the%20Web%5D%5D%20%5B%5BTestimonials%20and%20Reviews%5D%5D%20GettingStarted%20Community)
+* [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
+* [2025-06-06, 04:22:28](https://lobste.rs/s/3bgtx3/convolutions_polynomials_flipped) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss) - [Spacex&apos;s Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss)
 * [2025-06-06, 03:30:00](https://tech.slashdot.org/story/25/06/05/2343244/proxy-services-feast-on-ukraines-ip-address-exodus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Proxy Services Feast On Ukraine&apos;s IP Address Exodus](https://tech.slashdot.org/story/25/06/05/2343244/proxy-services-feast-on-ukraines-ip-address-exodus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-06, 02:45:22](https://news.ycombinator.com/item?id=44197399) - [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
-* [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 * [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2025-06-06, 01:40:00](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Warns Switch 2 GameChat Users: &apos;Your Chat Is Recorded&apos;](https://games.slashdot.org/story/25/06/05/2330221/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
@@ -87,11 +91,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
 * [2025-06-05, 22:23:59](https://lobste.rs/s/j1ivqn/phasing_out_bazaar_code_hosting_at) - [Phasing out Bazaar code hosting at Launchpad](https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189)
 * [2025-06-05, 22:20:00](https://slashdot.org/story/25/06/05/215254/stablecoin-issuer-circle-soars-168-in-ipo-debut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stablecoin Issuer Circle Soars 168% In IPO Debut](https://slashdot.org/story/25/06/05/215254/stablecoin-issuer-circle-soars-168-in-ipo-debut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 21:40:00](https://apple.slashdot.org/story/25/06/05/2048253/apple-notes-expected-to-gain-markdown-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Notes Expected To Gain Markdown Support](https://apple.slashdot.org/story/25/06/05/2048253/apple-notes-expected-to-gain-markdown-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-05, 21:34:31](https://lobste.rs/s/ozjedn/machine_code_isn_t_scary) - [Machine Code Isn&apos;t Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
-* [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
+* [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM inference engine for high-throughput workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
+* [2025-06-05, 21:23:11](https://lobste.rs/s/zkavyl/fun_with_futex_building_my_own_mutex_c_for) - [Fun with Futex: building my own mutex in C for funtex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-05, 21:06:39](https://news.ycombinator.com/item?id=44195783) - [How Common Is Multiple Invention?](https://www.construction-physics.com/p/how-often-do-inventions-have-multiple)
 * [2025-06-05, 21:00:04](https://news.ycombinator.com/item?id=44195720) - [Converge (YC S23) Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
@@ -123,7 +127,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-05, 13:42:00](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss) - [German Roads Thrown Into Chaos After Google Maps Mislabels Highways As Closed](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 13:26:05](https://lobste.rs/s/8amahc/is_genai_digital_cocaine) - [Is GenAI Digital Cocaine?](https://makemeacto.substack.com/p/is-genai-digital-cocaine)
-* [2025-06-05, 13:18:28](https://lobste.rs/s/lbmywp/aplearn_machine_learning_library) - [APLearn: machine learning library](https://github.com/BobMcDear/aplearn)
 * [2025-06-05, 12:59:07](https://lobste.rs/s/bbu9pz/consumer_routers_router_security) - [Consumer Routers - Router Security](https://routersecurity.org/consumerrouters.php)
 * [2025-06-05, 10:58:49](https://lobste.rs/s/vtfzri/picking_uncontested_private_ip_subnets) - [Picking uncontested private IP subnets with usage data](https://blog.benjojo.co.uk/post/picking-unused-rfc1918-ip-space)
 * [2025-06-05, 10:12:55](https://lobste.rs/s/yjbsof/programming_system) - [A programming system](https://andreyor.st/posts/2023-10-18-a-programming-system/)
@@ -134,8 +137,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss) - [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss)
 * [2025-06-04, 23:30:00](https://soylentnews.org/article.pl?sid=25/06/04/0110238&amp;from=rss) - [In North Korea, Your Phone Secretly Takes Screenshots Every 5 Minutes for Government Surveillance](https://soylentnews.org/article.pl?sid=25/06/04/0110238&amp;from=rss)
-* [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
-* [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/03/1645240&amp;from=rss) - [Trust, Attitudes and Use of Artificial Intelligence 2025](https://soylentnews.org/article.pl?sid=25/06/03/1645240&amp;from=rss)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
