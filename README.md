@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovation and Discoveries
+## Technology and Engineering Innovations
 
-* [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/) ([comments](https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications))
+* [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage) - A novel tool that enables users to create visible images directly on the surface of compact discs using a CD burner. [Comments](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on).
 
-* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss))
+* [Volvo Debuts New IoT Seatbelt Design](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovations in car safety with Volvo's IoT-integrated seatbelt. [Comments](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/) - A technical dive into optimizing matrix operations in the Mojo programming language. [Comments](https://news.ycombinator.com/item?id=44204155).
 
-* [Scientists Create 'World's Smallest Violin'](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Scientists Create 'World's Smallest Violin'](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists unveil a micro-violin showcasing cutting-edge advancements in nanotechnology. [Comments](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Corporate and Market Dynamics
+## Hacking and Cybersecurity
 
-* [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199) ([comments](https://news.ycombinator.com/item?id=44207144))
+* [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/) - Discussion on the first exploitation vulnerabilities discovered for the Nintendo Switch 2. [Comments](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo).
 
-* [Volvo Debuts New IoT Seatbelt Design](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - Social media company X updates its policies amidst concerns over AI model training. [Comments](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss).
 
-* [Linux Foundation Tries To Play Peacemaker In Ongoing WordPress Scuffle](https://linux.slashdot.org/story/25/06/06/2156203/linux-foundation-tries-to-play-peacemaker-in-ongoing-wordpress-scuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/25/06/06/2156203/linux-foundation-tries-to-play-peacemaker-in-ongoing-wordpress-scuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [FBI: BadBox 2.0 Android Malware Infects Millions of Consumer Devices](https://it.slashdot.org/story/25/06/06/2033225/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new wave of malware targets consumer devices globally. [Comments](https://it.slashdot.org/story/25/06/06/2033225/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Top Researchers Leave Intel To Build Startup With 'The Biggest, Baddest CPU'](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Space and Science Discoveries
 
-## Artificial Intelligence and Advanced Computing
+* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - Insights into Venus's geological activity suggest the potential for an actively evolving landscape. [Comments](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss).
 
-* [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7) ([comments](https://news.ycombinator.com/item?id=44207304))
+* [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html) - An experimental nuclear reactor achieves a groundbreaking milestone in fusion energy. [Comments](https://news.ycombinator.com/item?id=44168184).
 
-* [I Read All of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/) ([comments](https://news.ycombinator.com/item?id=44205697))
+* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss) - Developing sustainable methods for magnesium extraction could revolutionize industries reliant on this metal. [Comments](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss).
 
-* [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks) ([comments](https://news.ycombinator.com/item?id=44203732))
+## Cultural and Historical Highlights
 
-* [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) ([comments](https://news.ycombinator.com/item?id=44203562))
+* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scholars use mapping to unravel a long-unsolved historical mystery. [Comments](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Historical Insights and Uncommon Practices
+* [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold) - Exploration into innovative medieval metallurgy practices. [Comments](https://news.ycombinator.com/item?id=44205599).
 
-* [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold) ([comments](https://news.ycombinator.com/item?id=44205599))
+* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - Archaeological evidence reshapes the understanding of leprosy's history in the Americas. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss).
 
-* [Falsehoods programmers believe about aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) ([comments](https://news.ycombinator.com/item?id=44205590))
+## Insights on AI and Technology Trends
 
-* [Magic NameRefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb) ([comments](https://lobste.rs/s/bhzsar/magic_namerefs))
+* [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) - Discussing the challenges of logical reasoning within AI models. [Comments](https://news.ycombinator.com/item?id=44203562).
 
-* [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml) ([comments](https://news.ycombinator.com/item?id=44199649))
+* [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/) - A technical analysis of a proprietary large language model client. [Comments](https://news.ycombinator.com/item?id=44207063).
+
+* [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks) - Open-source achievements in improving batch task capabilities of language models. [Comments](https://news.ycombinator.com/item?id=44203732).
 
 ---
 
@@ -65,21 +67,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
+* [2025-06-07, 08:30:00](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss) - [Klarna CEO Says Company Will Use Humans to Offer VIP Customer Service](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss)
+* [2025-06-07, 07:40:35](https://lobste.rs/s/pk22xl/enable_dark_theme_librewolf) - [Enable Dark Theme in LibreWolf](https://bitwilli.com/enable-dark-theme-in-librewolf)
+* [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
+* [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
 * [2025-06-07, 07:01:05](https://news.ycombinator.com/item?id=44207967) - [Ziina (YC W21) the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
+* [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
+* [2025-06-07, 07:00:00](https://apple.slashdot.org/story/25/06/06/2249222/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Warns Australia Against Joining EU In Mandating iPhone App Sideloading](https://apple.slashdot.org/story/25/06/06/2249222/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 04:54:38](https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications) - [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
-* [2025-06-07, 03:55:13](https://news.ycombinator.com/item?id=44207304) - [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss)
 * [2025-06-07, 03:30:00](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing&apos;s alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
+* [2025-06-07, 02:59:26](https://news.ycombinator.com/item?id=44207063) - [Reverse Engineering Cursor&apos;s LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
 * [2025-06-07, 01:21:00](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Create &apos;World&apos;s Smallest Violin&apos;](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-07, 00:30:00](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Volvo Debuts New IoT Seatbelt Design](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 23:50:00](https://linux.slashdot.org/story/25/06/06/2156203/linux-foundation-tries-to-play-peacemaker-in-ongoing-wordpress-scuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Foundation Tries To Play Peacemaker In Ongoing WordPress Scuffle](https://linux.slashdot.org/story/25/06/06/2156203/linux-foundation-tries-to-play-peacemaker-in-ongoing-wordpress-scuffle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 23:10:00](https://apple.slashdot.org/story/25/06/06/2147236/what-to-expect-from-apples-wwdc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What To Expect From Apple&apos;s WWDC](https://apple.slashdot.org/story/25/06/06/2147236/what-to-expect-from-apples-wwdc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss)
-* [2025-06-06, 22:36:33](https://news.ycombinator.com/item?id=44205718) - [What “working” means in the era of AI apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 * [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I Read All of Cloudflare&apos;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 22:30:00](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top Researchers Leave Intel To Build Startup With &apos;The Biggest, Baddest CPU&apos;](https://tech.slashdot.org/story/25/06/06/2059235/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
@@ -114,8 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:53:17](https://news.ycombinator.com/item?id=44201527) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:40:00](https://news.slashdot.org/story/25/06/06/1039216/youtube-pulls-tech-creators-self-hosting-tutorial-as-harmful-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Pulls Tech Creator&apos;s Self-Hosting Tutorial as &apos;Harmful Content&apos;](https://news.slashdot.org/story/25/06/06/1039216/youtube-pulls-tech-creators-self-hosting-tutorial-as-harmful-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-06, 14:37:19](https://lobste.rs/s/v8ny3n/apl_interpreter_haskell_2024) - [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
-* [2025-06-06, 14:00:00](https://news.slashdot.org/story/25/06/06/1025248/consumers-are-increasingly-turning-to-buy-now-pay-later-services-for-groceries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Consumers Are Increasingly Turning To Buy-Now-Pay-Later Services For Groceries](https://news.slashdot.org/story/25/06/06/1025248/consumers-are-increasingly-turning-to-buy-now-pay-later-services-for-groceries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist&apos;s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
@@ -129,17 +135,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-06, 11:08:17](https://lobste.rs/s/v6lr1v/fuzzer_blind_spots_meet_jepsen) - [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 * [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
-* [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss) - [The Far Side of the Moon May Host the World&apos;s Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss)
-* [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss) - [Spacex&apos;s Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss)
 * [2025-06-05, 23:14:00](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss) - [TSMC Is Once Again In Talks With US Officials Over A Possible Gigafab In The UAE](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 18:29:00](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss) - [The Trump Administration&apos;s Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss)
-* [2025-06-05, 15:14:12](https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing) - [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
 * [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
 * [2025-06-05, 13:42:00](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss) - [German Roads Thrown Into Chaos After Google Maps Mislabels Highways As Closed](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss)
 * [2025-06-05, 09:00:00](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) - [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
