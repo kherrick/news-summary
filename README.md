@@ -1,46 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Engineering Innovations
+## Cybersecurity and Technology Trends
 
-* [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage) - A novel tool that enables users to create visible images directly on the surface of compact discs using a CD burner. [Comments](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on).
+* [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://it.slashdot.org/story/25/06/07/0137211/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cybercriminals are leveraging new techniques to mask malicious web traffic, complicating detection and security efforts.
 
-* [Volvo Debuts New IoT Seatbelt Design](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovations in car safety with Volvo's IoT-integrated seatbelt. [Comments](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/) - A deep dive into the efficacy and limitations of Claude-generated code within Cloudflare projects.
 
-* [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/) - A technical dive into optimizing matrix operations in the Mojo programming language. [Comments](https://news.ycombinator.com/item?id=44204155).
+* [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/) - Exploring the coding and architecture of an LLM client to better understand its functionalities.
 
-* [Scientists Create 'World's Smallest Violin'](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists unveil a micro-violin showcasing cutting-edge advancements in nanotechnology. [Comments](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Innovative Science and Research
 
-## Hacking and Cybersecurity
+* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss) - Signs of active tectonics on Venus suggest ongoing geological processes reshaping the planet’s surface.
 
-* [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/) - Discussion on the first exploitation vulnerabilities discovered for the Nintendo Switch 2. [Comments](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo).
+* [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it) - Investigating the role of taurine as a possible anti-aging compound based on recent scientific studies.
 
-* [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - Social media company X updates its policies amidst concerns over AI model training. [Comments](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss).
+## Gaming and Developer Tools
 
-* [FBI: BadBox 2.0 Android Malware Infects Millions of Consumer Devices](https://it.slashdot.org/story/25/06/06/2033225/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new wave of malware targets consumer devices globally. [Comments](https://it.slashdot.org/story/25/06/06/2033225/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization) - A discussion on optimizing performance using the Zig programming language.
 
-## Space and Science Discoveries
+* [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/) - Nintendo's latest console faces security challenges shortly after its release.
 
-* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - Insights into Venus's geological activity suggest the potential for an actively evolving landscape. [Comments](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss).
+## Cutting-Edge Technology
 
-* [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html) - An experimental nuclear reactor achieves a groundbreaking milestone in fusion energy. [Comments](https://news.ycombinator.com/item?id=44168184).
+* [Startup Puts a Logical Qubit In a Single Piece of Hardware](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A startup revolutionizes quantum computing by consolidating a logical qubit into a single hardware unit.
 
-* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss) - Developing sustainable methods for magnesium extraction could revolutionize industries reliant on this metal. [Comments](https://soylentnews.org/article.pl?sid=25/06/03/0447247&amp;from=rss).
+* [Volvo Debuts New IoT Seatbelt Design](https://tech.slashdot.org/story/25/06/06/222246/volvo-debuts-new-iot-seatbelt-design?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Volvo's IoT-enabled seatbelts advance vehicle safety standards with integrated connectivity.
 
-## Cultural and Historical Highlights
+## Historical and Social Insights
 
-* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scholars use mapping to unravel a long-unsolved historical mystery. [Comments](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers use mapping tools to unravel a historical murder mystery from medieval times.
 
-* [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold) - Exploration into innovative medieval metallurgy practices. [Comments](https://news.ycombinator.com/item?id=44205599).
+* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&from=rss) - Evidence suggests that leprosy was present in the Americas well before European exploration.
 
-* [Leprosy Was in the Americas Long Before the Arrival of Europeans](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss) - Archaeological evidence reshapes the understanding of leprosy's history in the Americas. [Comments](https://soylentnews.org/article.pl?sid=25/06/01/1533234&amp;from=rss).
+## Environmental and Space Explorations
 
-## Insights on AI and Technology Trends
+* [Making Magnesium From Sea Water](https://soylentnews.org/article.pl?sid=25/06/03/0447247&from=rss) - A new technique could enable sustainable magnesium extraction from seawater.
 
-* [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) - Discussing the challenges of logical reasoning within AI models. [Comments](https://news.ycombinator.com/item?id=44203562).
-
-* [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/) - A technical analysis of a proprietary large language model client. [Comments](https://news.ycombinator.com/item?id=44207063).
-
-* [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks) - Open-source achievements in improving batch task capabilities of language models. [Comments](https://news.ycombinator.com/item?id=44203732).
+* [The Far Side of the Moon May Host the World’s Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) - Researchers propose deploying an ultra-sensitive telescope on the far side of the moon, protected from Earth's interference.
 
 ---
 
@@ -67,12 +63,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-07, 13:00:00](https://it.slashdot.org/story/25/06/07/0137211/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://it.slashdot.org/story/25/06/07/0137211/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-07, 12:04:45](https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing) - [Simplifying and Isolating Failure-Inducing Input (Delta Debugging)](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf)
+* [2025-06-07, 12:01:47](https://news.ycombinator.com/item?id=44209091) - [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it)
+* [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
+* [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare&apos;s Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
+* [2025-06-07, 12:00:00](https://news.slashdot.org/story/25/06/07/0220214/britain-prepares-to-go-all-in-on-nuclear-power---after-years-of-dither?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain Prepares To Go All-In On Nuclear Power - After Years of Dither](https://news.slashdot.org/story/25/06/07/0220214/britain-prepares-to-go-all-in-on-nuclear-power---after-years-of-dither?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-07, 11:50:28](https://news.ycombinator.com/item?id=44209029) - [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
+* [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We&apos;re Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
+* [2025-06-07, 10:34:23](https://lobste.rs/s/k1pj8b/maplibre_newsletter_may_2025) - [MapLibre Newsletter May 2025](https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/)
+* [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
+* [2025-06-07, 10:00:00](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Startup Puts a Logical Qubit In a Single Piece of Hardware](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
+* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 08:30:00](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss) - [Klarna CEO Says Company Will Use Humans to Offer VIP Customer Service](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss)
 * [2025-06-07, 07:40:35](https://lobste.rs/s/pk22xl/enable_dark_theme_librewolf) - [Enable Dark Theme in LibreWolf](https://bitwilli.com/enable-dark-theme-in-librewolf)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
-* [2025-06-07, 07:01:05](https://news.ycombinator.com/item?id=44207967) - [Ziina (YC W21) the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
 * [2025-06-07, 07:00:00](https://apple.slashdot.org/story/25/06/06/2249222/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Warns Australia Against Joining EU In Mandating iPhone App Sideloading](https://apple.slashdot.org/story/25/06/06/2249222/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 04:54:38](https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications) - [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
@@ -108,22 +115,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 18:18:27](https://lobste.rs/s/1yt2qz/supercharging_gcp_navigation_with) - [Supercharging GCP Navigation with Alfred](https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/)
 * [2025-06-06, 18:17:00](https://soylentnews.org/article.pl?sid=25/06/05/1218249&amp;from=rss) - [European Commission: Make Europe Great Again for Startups](https://soylentnews.org/article.pl?sid=25/06/05/1218249&amp;from=rss)
-* [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and scale](https://www.cursor.com/en/blog/series-c)
-* [2025-06-06, 17:07:56](https://lobste.rs/s/6ssfjk/binary_lambda_calculus) - [Binary Lambda Calculus](https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861)
 * [2025-06-06, 16:47:13](https://lobste.rs/s/xiem4j/clips_elevator_pitch) - [CLIPS: An Elevator Pitch](https://ryjo.codes/articles/clips-elevator-pitch.html)
 * [2025-06-06, 16:40:00](https://apple.slashdot.org/story/25/06/06/1633206/apple-faces-billions-in-losses-as-eu-comma-interpretation-ends-external-purchase-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Faces Billions in Losses as EU Comma Interpretation Ends External Purchase Fees](https://apple.slashdot.org/story/25/06/06/1633206/apple-faces-billions-in-losses-as-eu-comma-interpretation-ends-external-purchase-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 16:03:00](https://soylentnews.org/article.pl?sid=25/06/06/1417217&amp;from=rss) - [Japan&apos;s Resilience Moon Lander Has Crashed Into The Lunar Surface](https://soylentnews.org/article.pl?sid=25/06/06/1417217&amp;from=rss)
-* [2025-06-06, 16:00:00](https://tech.slashdot.org/story/25/06/06/1414204/about-20-of-tech-startups-worth-more-than-1-billion-will-fail-accel-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [About 20% of Tech Startups Worth More Than $1 Billion Will Fail, Accel Says](https://tech.slashdot.org/story/25/06/06/1414204/about-20-of-tech-startups-worth-more-than-1-billion-will-fail-accel-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
-* [2025-06-06, 15:33:10](https://news.ycombinator.com/item?id=44201872) - [Meta: Shut down your invasive AI Discover feed](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
-* [2025-06-06, 15:20:00](https://slashdot.org/story/25/06/06/1357256/trump-ai-czar-sacks-on-universal-basic-income-its-not-going-to-happen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump AI Czar Sacks on Universal Basic Income: &apos;It&apos;s Not Going To Happen&apos;](https://slashdot.org/story/25/06/06/1357256/trump-ai-czar-sacks-on-universal-basic-income-its-not-going-to-happen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 15:18:46](https://news.ycombinator.com/item?id=44201762) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:53:17](https://news.ycombinator.com/item?id=44201527) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
-* [2025-06-06, 14:40:00](https://news.slashdot.org/story/25/06/06/1039216/youtube-pulls-tech-creators-self-hosting-tutorial-as-harmful-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Pulls Tech Creator&apos;s Self-Hosting Tutorial as &apos;Harmful Content&apos;](https://news.slashdot.org/story/25/06/06/1039216/youtube-pulls-tech-creators-self-hosting-tutorial-as-harmful-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist&apos;s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
-* [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:32:45](https://lobste.rs/s/imidny/git_remote_sqlite_single_file_git_repos) - [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
@@ -131,19 +131,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-06, 13:27:57](https://lobste.rs/s/3wmstw/small_programs_languages) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2025-06-06, 12:38:48](https://lobste.rs/s/jl4drk/analyzing_metastable_failures) - [Analyzing Metastable Failures in Distributed Systems](http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html)
 * [2025-06-06, 11:22:42](https://lobste.rs/s/spmwde/i_let_chatgpt_make_all_my_architectural) - [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
-* [2025-06-06, 11:14:57](https://lobste.rs/s/ndcp7o/conventional_commit_message_generator) - [Conventional Commit message generator using local LLMs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/)
 * [2025-06-06, 11:08:17](https://lobste.rs/s/v6lr1v/fuzzer_blind_spots_meet_jepsen) - [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 * [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
-* [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss) - [The Far Side of the Moon May Host the World&apos;s Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss) - [Spacex&apos;s Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss)
 * [2025-06-05, 23:14:00](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss) - [TSMC Is Once Again In Talks With US Officials Over A Possible Gigafab In The UAE](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss)
-* [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 18:29:00](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss) - [The Trump Administration&apos;s Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss)
-* [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
 * [2025-06-05, 13:42:00](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss) - [German Roads Thrown Into Chaos After Google Maps Mislabels Highways As Closed](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss)
 * [2025-06-05, 09:00:00](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) - [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
