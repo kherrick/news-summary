@@ -1,38 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Advancements
+## Artificial Intelligence and Related Developments
 
-* [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - This breakthrough innovation in robotics introduces materials that can both sense and heal damage autonomously, an exciting leap in the field of advanced robotics.
+* [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/) - The author presents a counterpoint to AI skepticism, arguing passionately for the realistic benefits and applications of AI. [Comments](https://news.ycombinator.com/item?id=44214889)
 
-* [AI Firms Say They Can't Respect Copyright.  But A Nonprofit's Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A nonprofit demonstrates how researchers can build AI datasets that respect copyright laws, challenging claims by leading AI firms.
+* [AI Firms Say They Can&apos;t Respect Copyright. But A Nonprofit&apos;s Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at recent AI research tackling copyright compliance by creating a copyright-respecting dataset. [Comments](https://news.ycombinator.com/item?id=44211273)
 
-* [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg) - Fascinating new computational techniques show how to trade spatial constraints for temporal efficiency in algorithms.
+* [Anthropic&apos;s AI is Writing Its Own Blog - Oh Wait. No It&apos;s Not](https://slashdot.org/story/25/06/07/0412244/anthropics-ai-is-writing-its-own-blog---oh-wait-no-its-not?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing story on whether AI models should be producing content autonomously. [Comments](https://news.ycombinator.com/item?id=44210606)
 
-## Tributes and Legacy of Bill Atkinson
+## Technology and Software Innovations
 
-* [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating the life and contributions of Bill Atkinson, a pioneer in software design and original Macintosh team member.
+* [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/) - A detailed view into the complexities and challenges of Android app maintenance. [Comments](https://news.ycombinator.com/item?id=44214835)
 
-* [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip) - Memorial for the developer behind HyperCard and co-creator of technologies that changed personal computing.
+* [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to) - A nostalgic guide on emulating Windows 98 using DOSBox-X. [Comments](https://news.ycombinator.com/item?id=44214386)
 
-* [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html) - An insightful reminiscence about Bill Atkinson's role and experience during Apple's groundbreaking early days.
+* [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/) - Plans and insights into better SIMD (Single Instruction, Multiple Data) usage in modern computation tasks. [Comments](https://lobste.rs/s/1u6prg/plan_for_simd)
 
-## Privacy and Surveillance Concerns
+* [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/) - Explore a new superfamily of fonts designed specifically for coding. [Comments](https://news.ycombinator.com/item?id=44213590)
 
-* [ACLU Accuses California Local Government's Drones of 'Runaway Spying Operation'](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns are raised over the extensive and unregulated use of drones for surveillance.
+## Legacy and Tributes
 
-* [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta's Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Washington Post advises users to avoid certain widely used apps and browsers over privacy concerns.
+* [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reflecting on the legacy of Bill Atkinson, the creator of Hypercard and member of the original Mac team. [Comments](https://news.ycombinator.com/item?id=44206175)
 
-## Gaming and Entertainment Innovations
+* [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html) - A historical perspective from someone who joined early Apple Computer. [Comments](https://news.ycombinator.com/item?id=44212441)
 
-* [Nintendo Switch 2 Has Record-Breaking Launch, Selling Over 3 Million Units](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nintendo's highly anticipated console exceeds expectations with an unprecedented consumer response.
+## Scientific and Environmental Advances
 
-* ['King of the Hill' (and Dale Gribble) Return To TV After 15 Years](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The beloved animated series makes a comeback after over a decade.
+* [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&amp;from=rss) - Breakthroughs in robotics with materials that sense damage and self-heal. [Comments](https://news.ycombinator.com/item?id=44214386)
 
-## Historical and Scientific Discoveries
+* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - Research indicating tectonic activity on Venus is reshaping the planet's surface. [Comments](https://news.ycombinator.com/item?id=44207503)
 
-* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative mapping techniques uncover details to solve an ancient case.
+## Emerging Tools and Frameworks
 
-* [Student Discovers Long-Awaited Mystery Fungus Sought By LSD's Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rare fungal discovery fulfills decades-long search sparked by the inventor of LSD.
+* [Einops](https://einops.rocks) - Discover Einops, a library focused on simplifying tensor operations in machine learning. [Comments](https://lobste.rs/s/gjvk52/einops)
+
+* [xq: Query XML data using XPath](https://github.com/linkdd/xq) - Explore this tool for effective XML queries using XPath. [Comments](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath)
+
+## Privacy and Security Concerns
+
+* [Washington Post&apos;s Privacy Tip: Stop Using Chrome, Delete Meta&apos;s Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Some candid advice from the Washington Post on avoiding pervasive data tracking. [Comments](https://news.ycombinator.com/item?id=44205809)
+
+* [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://it.slashdot.org/story/25/06/07/0137211/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report on innovative methods criminals use to disguise web traffic. [Comments](https://news.ycombinator.com/item?id=44205403)
 
 ---
 
@@ -59,13 +67,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-08, 06:05:03](https://news.ycombinator.com/item?id=44214889) - [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)
+* [2025-06-08, 05:52:49](https://news.ycombinator.com/item?id=44214835) - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
+* [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [&lt;Blink&gt; and &lt;Marquee&gt; (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
+* [2025-06-08, 03:38:05](https://news.ycombinator.com/item?id=44214386) - [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)
 * [2025-06-08, 03:34:00](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ACLU Accuses California Local Government&apos;s Drones of &apos;Runaway Spying Operation&apos;](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&amp;from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&amp;from=rss)
+* [2025-06-08, 03:14:37](https://news.ycombinator.com/item?id=44214311) - [Louis Rossmann: We&apos;ve started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 * [2025-06-08, 02:20:09](https://lobste.rs/s/dki3rs/performance_random_floats) - [Performance of random floats](https://dotat.at/@/2025-06-08-floats.html)
 * [2025-06-08, 02:00:13](https://lobste.rs/s/gjvk52/einops) - [Einops](https://einops.rocks)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 * [2025-06-08, 01:34:00](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-08, 01:16:28](https://news.ycombinator.com/item?id=44213878) - [Should I Use a Carousel? (2013)](https://shouldiuseacarousel.com/)
 * [2025-06-08, 00:15:11](https://news.ycombinator.com/item?id=44213590) - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
 * [2025-06-07, 23:28:00](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Firms Say They Can&apos;t Respect Copyright.  But A Nonprofit&apos;s Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 22:43:58](https://lobste.rs/s/xhtiut/making_sense_acquire_release_semantics) - [Making Sense of Acquire-Release Semantics (2023)](https://davekilian.com/acquire-release.html)
@@ -77,10 +89,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
 * [2025-06-07, 20:59:00](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;King of the Hill&apos; (and Dale Gribble) Return To TV After 15 Years](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
-* [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
-* [2025-06-07, 20:27:38](https://news.ycombinator.com/item?id=44212413) - [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 19:01:17](https://news.ycombinator.com/item?id=44211779) - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
 * [2025-06-07, 18:58:00](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Discovers Long-Awaited Mystery Fungus Sought By LSD&apos;s Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 16:08:02](https://lobste.rs/s/chmlid/nix_2_29_0_with_nix_team_members) - [Nix 2.29.0 with Nix Team members](https://fulltimenix.com/episodes/nix-2-29-0-with-nix-team-members)
 * [2025-06-07, 15:34:00](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Washington Post&apos;s Privacy Tip: Stop Using Chrome, Delete Meta&apos;s Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 14:34:00](https://slashdot.org/story/25/06/07/0412244/anthropics-ai-is-writing-its-own-blog---oh-wait-no-its-not?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s AI is Writing Its Own Blog - Oh Wait. No It&apos;s Not](https://slashdot.org/story/25/06/07/0412244/anthropics-ai-is-writing-its-own-blog---oh-wait-no-its-not?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio (2011)](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 13:17:00](https://soylentnews.org/article.pl?sid=25/06/06/1139229&amp;from=rss) - [Reality Check: Microsoft Azure CTO Pushes Back on AI Vibe Coding Hype, Sees ‘Upper Limit’](https://soylentnews.org/article.pl?sid=25/06/06/1139229&amp;from=rss)
@@ -112,7 +121,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-07, 10:00:00](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Startup Puts a Logical Qubit In a Single Piece of Hardware](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
-* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
+* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface (2022)](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 08:30:00](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss) - [Klarna CEO Says Company Will Use Humans to Offer VIP Customer Service](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
@@ -121,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss)
 * [2025-06-07, 03:30:00](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
-* [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss)
 * [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I read all of Cloudflare&apos;s Claude-generated commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 22:02:02](https://lobste.rs/s/wnowgw/year_funded_freebsd) - [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
