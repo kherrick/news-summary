@@ -1,46 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations in Technology
+## Technology and AI Advancements
 
-* [Student Discovers Long-Awaited Mystery Fungus Sought By LSD's Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A pivotal discovery in the biological sciences links back to LSD's origins.
+* [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&from=rss) - This breakthrough innovation in robotics introduces materials that can both sense and heal damage autonomously, an exciting leap in the field of advanced robotics.
 
-* [Startup Puts a Logical Qubit In a Single Piece of Hardware](https://hardware.slashdot.org/story/25/06/06/2223229/startup-puts-a-logical-qubit-in-a-single-piece-of-hardware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Groundbreaking progress simplifies quantum computing by integrating a logical qubit into compact hardware.
+* [AI Firms Say They Can't Respect Copyright.  But A Nonprofit's Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A nonprofit demonstrates how researchers can build AI datasets that respect copyright laws, challenging claims by leading AI firms.
 
-* [Memvid: Video-based AI Memory Library](https://github.com/Olow304/memvid) - Transforming AI memory interactions through video-based learning libraries.
+* [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg) - Fascinating new computational techniques show how to trade spatial constraints for temporal efficiency in algorithms.
 
-* [Astonishing Discovery By Computer Scientist: How to Squeeze Space into Time](https://www.youtube.com/watch?v=8JuWdXrCmWg) - Exploring theoretical computing advancements connecting spatial and temporal efficiencies.
+## Tributes and Legacy of Bill Atkinson
 
-## Historical and Cultural Insights
+* [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating the life and contributions of Bill Atkinson, a pioneer in software design and original Macintosh team member.
 
-* [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Remembering a tech pioneer who transformed personal computing with HyperCard.
+* [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip) - Memorial for the developer behind HyperCard and co-creator of technologies that changed personal computing.
 
-* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Using historical mapping techniques to unravel a centuries-old mystery.
+* [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html) - An insightful reminiscence about Bill Atkinson's role and experience during Apple's groundbreaking early days.
 
-* [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall) - Investigating the engineering and environmental science behind an industrial design staple.
+## Privacy and Surveillance Concerns
 
-## AI Ethics and Progress
+* [ACLU Accuses California Local Government's Drones of 'Runaway Spying Operation'](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns are raised over the extensive and unregulated use of drones for surveillance.
 
-* [AI Firms Say They Can't Respect Copyright. But A Nonprofit's Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovating datasets while respecting intellectual property in AI training.
+* [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta's Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Washington Post advises users to avoid certain widely used apps and browsers over privacy concerns.
 
-* [Reality Check: Microsoft Azure CTO Pushes Back on AI Vibe Coding Hype, Sees 'Upper Limit'](https://soylentnews.org/article.pl?sid=25/06/06/1139229&from=rss) - Assessing the limitations and practicalities of AI tech and 'vibe coding.'
+## Gaming and Entertainment Innovations
 
-* [Anthropic's AI is Writing Its Own Blog - Oh Wait. No It's Not](https://slashdot.org/story/25/06/07/0412244/anthropics-ai-is-writing-its-own-blog---oh-wait-no-its-not?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reflecting on AI-generated content and attribution accountability.
+* [Nintendo Switch 2 Has Record-Breaking Launch, Selling Over 3 Million Units](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nintendo's highly anticipated console exceeds expectations with an unprecedented consumer response.
 
-## Privacy and Surveillance
+* ['King of the Hill' (and Dale Gribble) Return To TV After 15 Years](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The beloved animated series makes a comeback after over a decade.
 
-* [The US Is Turning Into a Mass Techno-Surveillance State](https://english.elpais.com/usa/2025-06-05/how-the-us-is-turning-into-a-mass-techno-surveillance-state.html) - Examining the growing reach of surveillance technologies in America.
+## Historical and Scientific Discoveries
 
-* [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Essential privacy advice in today’s digital environment.
+* [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative mapping techniques uncover details to solve an ancient case.
 
-* [In North Korea, Your Phone Secretly Takes Screenshots Every 5 Minutes for Government Surveillance](https://soylentnews.org/article.pl?sid=25/06/04/0110238&from=rss) - A shocking exposé on technological overreach in North Korea.
-
-## Environmental and Space Exploration
-
-* [Venus' Tectonics May Be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&from=rss) - Probing geological activities on Venus with new data.
-
-* [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&from=rss) - Spotlighting advancements in sustainable transportation technology.
-
-* [The Far Side of the Moon May Host the World's Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) - Plans to expand astronomical capabilities utilizing the Moon's unique properties.
+* [Student Discovers Long-Awaited Mystery Fungus Sought By LSD's Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rare fungal discovery fulfills decades-long search sparked by the inventor of LSD.
 
 ---
 
@@ -67,12 +59,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-08, 03:34:00](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ACLU Accuses California Local Government&apos;s Drones of &apos;Runaway Spying Operation&apos;](https://yro.slashdot.org/story/25/06/07/2346244/aclu-accuses-california-local-governments-drones-of-runaway-spying-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-08, 03:29:00](https://soylentnews.org/article.pl?sid=25/06/07/1155252&amp;from=rss) - [Damage-Sensing and Self-Healing Artificial Muscles Heralded as Huge Step Forward in Robotics](https://soylentnews.org/article.pl?sid=25/06/07/1155252&amp;from=rss)
 * [2025-06-08, 02:20:09](https://lobste.rs/s/dki3rs/performance_random_floats) - [Performance of random floats](https://dotat.at/@/2025-06-08-floats.html)
 * [2025-06-08, 02:00:13](https://lobste.rs/s/gjvk52/einops) - [Einops](https://einops.rocks)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 * [2025-06-08, 01:34:00](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Atkinson, Hypercard Creator and Original Mac Team Member, Dies at Age 74](https://apple.slashdot.org/story/25/06/08/016210/bill-atkinson-hypercard-creator-and-original-mac-team-member-dies-at-age-74?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-08, 01:16:28](https://news.ycombinator.com/item?id=44213878) - [Should I Use a Carousel? (2013)](https://shouldiuseacarousel.com/)
+* [2025-06-08, 00:15:11](https://news.ycombinator.com/item?id=44213590) - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
 * [2025-06-07, 23:28:00](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Firms Say They Can&apos;t Respect Copyright.  But A Nonprofit&apos;s Researchers Just Built a Copyright-Respecting Dataset](https://slashdot.org/story/25/06/07/0527212/ai-firms-say-they-cant-respect-copyright-but-a-nonprofits-researchers-just-built-a-copyright-respecting-dataset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-07, 23:08:51](https://news.ycombinator.com/item?id=44213301) - [The US is turning into a mass techno-surveillance state](https://english.elpais.com/usa/2025-06-05/how-the-us-is-turning-into-a-mass-techno-surveillance-state.html)
 * [2025-06-07, 22:43:58](https://lobste.rs/s/xhtiut/making_sense_acquire_release_semantics) - [Making Sense of Acquire-Release Semantics (2023)](https://davekilian.com/acquire-release.html)
 * [2025-06-07, 22:42:00](https://soylentnews.org/article.pl?sid=25/06/06/1411252&amp;from=rss) - [Windows Users! Keep the Machine You&apos;ve Got and Switch to Linux and Plasma](https://soylentnews.org/article.pl?sid=25/06/06/1411252&amp;from=rss)
 * [2025-06-07, 22:28:00](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Switch 2 Has Record-Breaking Launch, Selling Over 3 Million Units](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -84,13 +79,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
-* [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer](https://www.folklore.org/Joining_Apple_Computer.html)
+* [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 20:27:38](https://news.ycombinator.com/item?id=44212413) - [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 19:01:17](https://news.ycombinator.com/item?id=44211779) - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
 * [2025-06-07, 18:58:00](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Discovers Long-Awaited Mystery Fungus Sought By LSD&apos;s Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 18:39:21](https://news.ycombinator.com/item?id=44211612) - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
-* [2025-06-07, 18:11:25](https://news.ycombinator.com/item?id=44211417) - [Field Notes from Shipping Real Code with Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 * [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2025-06-07, 17:46:55](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful) - [How can one write blazing fast yet useful compilers (for lazy pure functional languages)?](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful)
@@ -127,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss)
 * [2025-06-07, 03:30:00](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cambridge Mapping Project Solves a Medieval Murder](https://yro.slashdot.org/story/25/06/06/2122243/cambridge-mapping-project-solves-a-medieval-murder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
-* [2025-06-07, 01:21:00](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Create &apos;World&apos;s Smallest Violin&apos;](https://news.slashdot.org/story/25/06/07/0121245/scientists-create-worlds-smallest-violin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss)
 * [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I read all of Cloudflare&apos;s Claude-generated commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
