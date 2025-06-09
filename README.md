@@ -1,36 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Analyses
+## Scientific Discoveries and Innovations
 
-* [Analyzing ipv4 trades with gnuplot](https://ipv4a-5539ad.gitlab.io/) - A technical deep dive into using Gnuplot to analyze the trade patterns of IPv4 addresses. [Comments](https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot)
+* [Are Dead Sea Scrolls Older Than We Thought?](https://soylentnews.org/article.pl?sid=25/06/08/031256&amp;from=rss) - Analysis suggests the scrolls' historical origins may predate previous estimates, offering new insights into their creation and significance.
 
-* [Microsoft Announces Upcoming Windows-Powered Handheld Xbox Device: the 'ROG Xbox Ally'](https://games.slashdot.org/story/25/06/08/2247235/microsoft-announces-upcoming-windows-powered-handheld-xbox-device-the-rog-xbox-ally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft unveils its latest gaming innovation, combining the portability of handheld devices with Xbox gaming. [Comments](https://games.slashdot.org/story/25/06/08/2247235/microsoft-announces-upcoming-windows-powered-handheld-xbox-device-the-rog-xbox-ally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NASA Pulls the Plug on Jupiter-Moon Lander, So Scientists Propose Landing It on Saturn](https://science.slashdot.org/story/25/06/08/215234/nasa-pulls-the-plug-on-jupiter-moon-lander-so-scientists-propose-landing-it-on-saturn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - After mission changes, NASA scientists are redirecting efforts towards an ambitious new target.
 
-* [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08) - The Zig programming language takes a major step in aligning its infrastructure, shifting its x86 back-end to default in debug mode. [Comments](https://news.ycombinator.com/item?id=44219857)
+* [Crypto Kidnapping Organiser Arrested in Morocco](https://soylentnews.org/article.pl?sid=25/06/07/1357214&amp;from=rss) - Authorities successfully apprehend a high-profile criminal allegedly behind cryptocurrency-related abductions.
 
-## Scientific Advancements and Environmental Insights
+## Technology and Software Development
 
-* [NASA Pulls the Plug on Jupiter-Moon Lander, So Scientists Propose Landing It on Saturn](https://science.slashdot.org/story/25/06/08/215234/nasa-pulls-the-plug-on-jupiter-moon-lander-so-scientists-propose-landing-it-on-saturn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA reconsiders its exploratory mission plans, aiming for Saturn instead of Jupiter's moon. [Comments](https://news.ycombinator.com/item?id=44219519)
+* [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) - Insights on using AI to build functional code bases, highlighting practical challenges and benefits.
 
-* ['We Finally May Be Able to Rid the World of Mosquitoes. But Should We?'](https://science.slashdot.org/story/25/06/07/0630231/we-finally-may-be-able-to-rid-the-world-of-mosquitoes-but-should-we?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Advances in biotechnology bring the possibility of eradicating mosquitoes, but ethical debates arise. [Comments](https://yro.slashdot.org/story/25/06/08/0520236/how-false-ufo-stories-were-created---sometimes-deliberately---by-the-us-military)
+* [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08) - A significant milestone for the Zig programming language, moving closer to self-reliance and efficiency.
 
-## AI and Big Tech Controversies
+* [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23) - A detailed account of phone modification and deeper insights into Motorola's ecosystem.
 
-* [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected) - A deep critique exposing missteps in AI-driven health applications. [Comments](https://news.ycombinator.com/item?id=44220135)
+* [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/) - Using Gnuplot to study the dynamics of IPv4 market activities.
 
-* [Mozilla Criticizes Meta's 'Invasive' Feed of Users' AI Prompts, Demands Its Shutdown](https://tech.slashdot.org/story/25/06/08/1929242/mozilla-criticizes-metas-invasive-feed-of-users-ai-prompts-demands-its-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mozilla calls out Meta's controversial AI moderation tactics. [Comments](https://tech.slashdot.org/story/25/06/08/1929242/mozilla-criticizes-metas-invasive-feed-of-users-ai-prompts-demands-its-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract) - A powerful tool for text recognition and its open-source potential for broader applications.
 
-## Historical and Cultural Explorations
+## Cultural and Historical Insights
 
-* [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway) - Experience and history of Germany's unique transport innovation. [Comments](https://news.ycombinator.com/item?id=44220179)
+* [Riding high in Germany on the world&apos;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway) - Exploring the history and enduring appeal of Wuppertal's suspended railway.
 
-* [How False UFO Stories Were Created - Sometimes Deliberately - by the US Military](https://news.slashdot.org/story/25/06/08/0520236/how-false-ufo-stories-were-created---sometimes-deliberately---by-the-us-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A historical investigation into the military's role in UFO narratives. [Comments](https://yro.slashdot.org/story/25/06/08/0139238/russian-spies-are-analyzing-data-from-chinas-wechat-app)
+* [Lisp Machines&apos; Computer’s Boom and Bust](https://www.youtube.com/watch?v=sV7C6Ezl35A) - A historical deep dive into the highs and lows of Lisp Machines.
 
-## Innovations in Cybersecurity and Open-Source
+* [The wire that transforms much of Manhattan into one big, symbolic home (2017)](https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home) - An exploration of the eruv, blending spirituality and public infrastructure.
 
-* [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe) - Critical discussion on server vulnerabilities and how they can be exploited. [Comments](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp)
+## Cybersecurity and Ethical Risks
 
-* [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract) - Introduction and updates on the top-tier open-source OCR engine. [Comments](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical)
+* [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe) - Highlighting threats stemming from server output vulnerabilities.
+
+* [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest) - A detailed analysis of potential misuse within software automation and security tools.
+
+* [Building supercomputers for autocrats probably isn&apos;t good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats) - Examines the ethical implications of enabling authoritarian regimes through technological advancement.
+
+## Innovative AI Applications and Critiques
+
+* [Caffeine Has a Weird Effect On Your Brain While You&apos;re Asleep](https://science.slashdot.org/story/25/06/08/2355252/caffeine-has-a-weird-effect-on-your-brain-while-youre-asleep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research highlights unexpected interactions between caffeine and sleep.
+
+* [After &apos;AI-First&apos; Promise, Duolingo CEO Admits &apos;I Did Not Expect the Blowback&apos;](https://it.slashdot.org/story/25/06/08/185209/after-ai-first-promise-duolingo-ceo-admits-i-did-not-expect-the-blowback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Responses to AI-first strategies spark realizations within tech leadership.
+
+* [Mozilla Criticizes Meta&apos;s &apos;Invasive&apos; Feed of Users&apos; AI Prompts, Demands Its Shutdown](https://tech.slashdot.org/story/25/06/08/1929242/mozilla-criticizes-metas-invasive-feed-of-users-ai-prompts-demands-its-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Clash over user privacy in the AI ecosystem.
+
+## Space Exploration and Discoveries
+
+* [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - New findings suggest tectonic processes actively alter Venus's landscape.
+
+* [The Far Side of the Moon May Host the World&apos;s Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss) - Discussions on advancing astronomical observation from lunar sites.
 
 ---
 
@@ -57,14 +75,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-09, 02:46:00](https://soylentnews.org/article.pl?sid=25/06/08/031256&amp;from=rss) - [Are Dead Sea Scrolls Older Than We Thought?](https://soylentnews.org/article.pl?sid=25/06/08/031256&amp;from=rss)
+* [2025-06-09, 02:23:00](https://science.slashdot.org/story/25/06/08/2355252/caffeine-has-a-weird-effect-on-your-brain-while-youre-asleep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Caffeine Has a Weird Effect On Your Brain While You&apos;re Asleep](https://science.slashdot.org/story/25/06/08/2355252/caffeine-has-a-weird-effect-on-your-brain-while-youre-asleep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-09, 02:16:48](https://lobste.rs/s/8tgpqm/field_notes_from_shipping_real_code_with) - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
+* [2025-06-09, 01:59:27](https://news.ycombinator.com/item?id=44220860) - [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
+* [2025-06-09, 01:23:00](https://news.slashdot.org/story/25/06/09/0121203/uk-renewable-energy-firms-are-being-paid-huge-sums-to-not-provide-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Renewable Energy Firms are Being Paid Huge Sums to Not Provide Power](https://news.slashdot.org/story/25/06/09/0121203/uk-renewable-energy-firms-are-being-paid-huge-sums-to-not-provide-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-09, 01:08:00](https://news.ycombinator.com/item?id=44220583) - [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 01:06:36](https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot) - [Analyzing ipv4 trades with gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 01:04:28](https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on) - [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23)
 * [2025-06-09, 00:11:36](https://lobste.rs/s/0zpecd/lisp_machines_computer_s_boom_bust) - [Lisp Machines&apos; Computer’s Boom and Bust](https://www.youtube.com/watch?v=sV7C6Ezl35A)
+* [2025-06-09, 00:04:28](https://news.ycombinator.com/item?id=44220287) - [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
 * [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world&apos;s oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
-* [2025-06-08, 23:25:41](https://news.ycombinator.com/item?id=44220135) - [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
-* [2025-06-08, 23:20:03](https://news.ycombinator.com/item?id=44220110) - [Ask HN: In 15 years, what will a gas station visit look like?](https://news.ycombinator.com/item?id=44220110)
+* [2025-06-08, 23:25:41](https://news.ycombinator.com/item?id=44220135) - [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
 * [2025-06-08, 22:57:00](https://games.slashdot.org/story/25/06/08/2247235/microsoft-announces-upcoming-windows-powered-handheld-xbox-device-the-rog-xbox-ally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Announces Upcoming Windows-Powered Handheld Xbox Device: the &apos;ROG Xbox Ally&apos;](https://games.slashdot.org/story/25/06/08/2247235/microsoft-announces-upcoming-windows-powered-handheld-xbox-device-the-rog-xbox-ally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-08, 22:26:43](https://news.ycombinator.com/item?id=44219871) - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-06-08, 22:24:14](https://news.ycombinator.com/item?id=44219857) - [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
 * [2025-06-08, 22:08:35](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical) - [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract)
 * [2025-06-08, 22:01:00](https://soylentnews.org/article.pl?sid=25/06/07/1357214&amp;from=rss) - [Crypto Kidnapping Organiser Arrested in Morocco](https://soylentnews.org/article.pl?sid=25/06/07/1357214&amp;from=rss)
@@ -74,7 +97,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn&apos;t good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can&apos;t use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
-* [2025-06-08, 20:22:33](https://news.ycombinator.com/item?id=44219270) - [The Wire That Transforms Much of Manhattan into One Big, Symbolic Home](https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home)
+* [2025-06-08, 20:22:33](https://news.ycombinator.com/item?id=44219270) - [The wire that transforms much of Manhattan into one big, symbolic home (2017)](https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
 * [2025-06-08, 20:01:29](https://lobste.rs/s/mgrtte/what_next_after_vibe_coding) - [What next after vibe coding](https://mastodon.social/@nixCraft/114649024218795319)
 * [2025-06-08, 19:32:00](https://tech.slashdot.org/story/25/06/08/1929242/mozilla-criticizes-metas-invasive-feed-of-users-ai-prompts-demands-its-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Criticizes Meta&apos;s &apos;Invasive&apos; Feed of Users&apos; AI Prompts, Demands Its Shutdown](https://tech.slashdot.org/story/25/06/08/1929242/mozilla-criticizes-metas-invasive-feed-of-users-ai-prompts-demands-its-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -86,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-08, 16:34:00](https://news.slashdot.org/story/25/06/08/0239237/welcome-to-campus-heres-your-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Welcome to Campus. Here&apos;s Your ChatGPT.&apos;](https://news.slashdot.org/story/25/06/08/0239237/welcome-to-campus-heres-your-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
-* [2025-06-08, 15:54:13](https://lobste.rs/s/mq1sfz/how_piefed_federates_flair_on_posts) - [How PieFed federates \&quot;flair\&quot; on posts and comments](https://join.piefed.social/2025/05/10/how-piefed-federates-flair-on-posts-and-comments/)
 * [2025-06-08, 15:34:46](https://lobste.rs/s/snhi5l/if_virtual_threads_are_solution_what_is) - [If Virtual Threads are the solution, what is the problem? (2023)](https://webtide.com/if-virtual-threads-are-the-solution-what-is-the-problem/)
 * [2025-06-08, 15:34:00](https://science.slashdot.org/story/25/06/07/0630231/we-finally-may-be-able-to-rid-the-world-of-mosquitoes-but-should-we?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;We Finally May Be Able to Rid the World of Mosquitoes. But Should We?&apos;](https://science.slashdot.org/story/25/06/07/0630231/we-finally-may-be-able-to-rid-the-world-of-mosquitoes-but-should-we?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
@@ -98,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
 * [2025-06-08, 11:34:00](https://news.slashdot.org/story/25/06/08/0520236/how-false-ufo-stories-were-created---sometimes-deliberately---by-the-us-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How False UFO Stories Were Created - Sometimes Deliberately - by the US Military](https://news.slashdot.org/story/25/06/08/0520236/how-false-ufo-stories-were-created---sometimes-deliberately---by-the-us-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
-* [2025-06-08, 09:09:19](https://news.ycombinator.com/item?id=44215726) - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian integration is cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
@@ -117,11 +138,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 22:42:00](https://soylentnews.org/article.pl?sid=25/06/06/1411252&amp;from=rss) - [Windows Users! Keep the Machine You&apos;ve Got and Switch to Linux and Plasma](https://soylentnews.org/article.pl?sid=25/06/06/1411252&amp;from=rss)
 * [2025-06-07, 22:28:00](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Switch 2 Has Record-Breaking Launch, Selling Over 3 Million Units](https://games.slashdot.org/story/25/06/07/2224259/nintendo-switch-2-has-record-breaking-launch-selling-over-3-million-units?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 21:05:32](https://lobste.rs/s/15wvld/mcp_vs_api) - [MCP vs API](https://glama.ai/blog/2025-06-06-mcp-vs-api)
-* [2025-06-07, 20:59:00](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;King of the Hill&apos; (and Dale Gribble) Return To TV After 15 Years](https://entertainment.slashdot.org/story/25/06/07/2055259/king-of-the-hill-and-dale-gribble-return-to-tv-after-15-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
-* [2025-06-07, 18:58:00](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Discovers Long-Awaited Mystery Fungus Sought By LSD&apos;s Inventor](https://science.slashdot.org/story/25/06/07/1854211/student-discovers-long-awaited-mystery-fungus-sought-by-lsds-inventor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2025-06-07, 17:46:55](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful) - [How can one write blazing fast yet useful compilers (for lazy pure functional languages)?](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful)
@@ -134,15 +153,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-06, 13:32:00](https://soylentnews.org/article.pl?sid=25/06/05/1054224&amp;from=rss) - [TSMC&apos;s 2Nm Wafer Prices Hit $30,000 As SRAM Yields Reportedly Hit 90%](https://soylentnews.org/article.pl?sid=25/06/05/1054224&amp;from=rss)
 * [2025-06-06, 08:48:00](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss) - [The Far Side of the Moon May Host the World&apos;s Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&amp;from=rss)
 * [2025-06-06, 03:59:00](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss) - [Spacex&apos;s Starship And Super Heavy Booster Crash](https://soylentnews.org/article.pl?sid=25/06/04/2236200&amp;from=rss)
+* [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI server on a budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 * [2025-06-05, 23:14:00](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss) - [TSMC Is Once Again In Talks With US Officials Over A Possible Gigafab In The UAE](https://soylentnews.org/article.pl?sid=25/06/04/2225230&amp;from=rss)
 * [2025-06-05, 18:29:00](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss) - [The Trump Administration&apos;s Plan for National Citizen Database is a Massive Threat to Civil Liberties](https://soylentnews.org/politics/article.pl?sid=25/06/04/1510212&amp;from=rss)
 * [2025-06-05, 13:42:00](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss) - [German Roads Thrown Into Chaos After Google Maps Mislabels Highways As Closed](https://soylentnews.org/article.pl?sid=25/06/04/156228&amp;from=rss)
-* [2025-06-05, 09:37:09](https://news.ycombinator.com/item?id=44189966) - [Efficient mRNA delivery to resting T cells to reverse HIV latency](https://www.nature.com/articles/s41467-025-60001-2)
 * [2025-06-05, 09:00:00](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss) - [A New Sodium Metal Fuel Cell Could Help Clean Up Transportation](https://soylentnews.org/article.pl?sid=25/06/04/0129202&amp;from=rss)
+* [2025-06-05, 07:53:14](https://news.ycombinator.com/item?id=44189391) - [How to get started with writing tech video essays](https://news.ycombinator.com/item?id=44189391)
 * [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
 * [2025-06-05, 06:22:09](https://news.ycombinator.com/item?id=44188839) - [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
 * [2025-06-05, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss) - [Apple Must Pay 500M Euro Digital Markets Act Fine by July 26](https://soylentnews.org/article.pl?sid=25/06/04/0117248&amp;from=rss)
 * [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
-* [2025-06-05, 03:54:32](https://news.ycombinator.com/item?id=44188178) - [Startup Equity 101](https://quarter--mile.com/Startup-Equity-101)
 * [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The &apos;giant firework&apos; built to break Hitler&apos;s Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
