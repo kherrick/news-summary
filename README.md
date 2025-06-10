@@ -1,46 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence Advancements and Challenges
+## Artificial Intelligence and Education
 
-* [Meta Is Creating a New AI Lab To Pursue 'Superintelligence'](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [New Code.org Curriculum Aims To Make Schoolkids Python-Literate and AI-Ready](https://developers.slashdot.org/story/25/06/09/2254257/new-codeorg-curriculum-aims-to-make-schoolkids-python-literate-and-ai-ready?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Code.org launches a new curriculum designed to teach Python to school students and prepare them for an AI-driven future. [Comments](https://developers.slashdot.org/story/25/06/09/2254257/new-codeorg-curriculum-aims-to-make-schoolkids-python-literate-and-ai-ready?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/) ([comments](https://news.ycombinator.com/item?id=44226978))
+* [Ohio University Says All Students Will Be Required To Train and 'Be Fluent' In AI](https://news.slashdot.org/story/25/06/09/2130227/ohio-university-says-all-students-will-be-required-to-train-and-be-fluent-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ohio University mandates AI fluency for all students as part of their curriculum redesign. [Comments](https://news.slashdot.org/story/25/06/09/2130227/ohio-university-says-all-students-will-be-required-to-train-and-be-fluent-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ohio University Says All Students Will Be Required To Train and 'Be Fluent' In AI](https://news.slashdot.org/story/25/06/09/2130227/ohio-university-says-all-students-will-be-required-to-train-and-be-fluent-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/09/2130227/ohio-university-says-all-students-will-be-required-to-train-and-be-fluent-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## AI Developments and Impacts
 
-* [YouTube Will 'Protect Free Expression' By Pulling Back On Content Moderation](https://yro.slashdot.org/story/25/06/09/1839245/youtube-will-protect-free-expression-by-pulling-back-on-content-moderation?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/06/09/1839245/youtube-will-protect-free-expression-by-pulling-back-on-content-moderation?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Meta Is Creating a New AI Lab To Pursue 'Superintelligence'](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta announces a cutting-edge AI lab to develop systems capable of achieving 'superintelligence.' [Comments](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Tech Policy and Governance
+* [Private Equity CEO Predicts AI Will Leave 60% of Finance Conference Attendees Jobless](https://slashdot.org/story/25/06/10/0016235/private-equity-ceo-predicts-ai-will-leave-60-of-finance-conference-attendees-jobless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Predictive analysis sparks concerns about AI displacing a significant portion of the finance workforce. [Comments](https://slashdot.org/story/25/06/10/0016235/private-equity-ceo-predicts-ai-will-leave-60-of-finance-conference-attendees-jobless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe) ([comments](https://news.ycombinator.com/item?id=44233480))
+## Science and Technology Innovations
 
-* [FAA To Eliminate Floppy Disks Used In Air Traffic Control Systems](https://hardware.slashdot.org/story/25/06/09/2249232/faa-to-eliminate-floppy-disks-used-in-air-traffic-control-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/06/09/2249232/faa-to-eliminate-floppy-disks-used-in-air-traffic-control-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [University Of Michigan Achieves First Human Brain Recording With Wireless Implant](https://soylentnews.org/article.pl?sid=25/06/08/0319228&amp;from=rss) - Groundbreaking wireless implant technology enables the first human brain recording. [Comments](https://soylentnews.org/article.pl?sid=25/06/08/0319228&amp;from=rss)
 
-* [ICANN Waves Hands in Protest at AFRINIC Election Arrangement](https://tech.slashdot.org/story/25/06/10/0111203/icann-waves-hands-in-protest-at-afrinic-election-arrangement?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/10/0111203/icann-waves-hands-in-protest-at-afrinic-election-arrangement?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&amp;from=rss) - Revolutionary markers could vastly improve fossil analysis accuracy. [Comments](https://soylentnews.org/article.pl?sid=25/06/08/0311242&amp;from=rss)
 
-## Space and Science Innovation
+## Programming and Development
 
-* [Second New Glenn Launch Slips Toward Fall As Program Leadership Departs](https://science.slashdot.org/story/25/06/09/230255/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/09/230255/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette) - A tool for advanced color quantization targeted at developers seeking precision. [Comments](https://news.ycombinator.com/item?id=44235628)
 
-* [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/08/0311242&from=rss))
+* [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp) - A lightweight server-client solution for messaging protocol implementations. [Comments](https://news.ycombinator.com/item?id=44233315)
 
-* [The Far Side of the Moon May Host the World's Most Sensitive Telescope, Shielded From Interference](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/05/1051216&from=rss))
+## Legal, Ethical, and Security Concerns
 
-## Historical and Cultural Insights
+* [U.S. Immigration Authorities Are Adding Children's DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss) - Policies on DNA usage for law enforcement spark ethical debates. [Comments](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss)
 
-* [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf) ([comments](https://news.ycombinator.com/item?id=44232699))
-
-* [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345) ([comments](https://news.ycombinator.com/item?id=44229841))
-
-* [Are Dead Sea Scrolls Older Than We Thought?](https://soylentnews.org/article.pl?sid=25/06/08/031256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/08/031256&from=rss))
-
-## Software Development and Open Source
-
-* [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126) ([comments](https://news.ycombinator.com/item?id=44233188))
-
-* [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08) ([comments](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now))
-
-* [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/) ([comments](https://lobste.rs/s/btogou/llms_are_cheap))
+* [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss) - Concerns raised over hastily implemented AI tools within the FDA. [Comments](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss)
 
 ---
 
@@ -67,18 +55,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
+* [2025-06-10, 13:00:00](https://developers.slashdot.org/story/25/06/09/2254257/new-codeorg-curriculum-aims-to-make-schoolkids-python-literate-and-ai-ready?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Code.org Curriculum Aims To Make Schoolkids Python-Literate and AI-Ready](https://developers.slashdot.org/story/25/06/09/2254257/new-codeorg-curriculum-aims-to-make-schoolkids-python-literate-and-ai-ready?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss) - [U.S. Immigration Authorities Are Adding Children&apos;s DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss)
+* [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
+* [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-10, 07:38:00](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Is Creating a New AI Lab To Pursue &apos;Superintelligence&apos;](https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-10, 07:19:00](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss) - [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss)
 * [2025-06-10, 07:00:00](https://science.slashdot.org/story/25/06/09/230255/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Second New Glenn Launch Slips Toward Fall As Program Leadership Departs](https://science.slashdot.org/story/25/06/09/230255/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-10, 06:51:14](https://news.ycombinator.com/item?id=44233480) - [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
-* [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
 * [2025-06-10, 05:01:49](https://news.ycombinator.com/item?id=44232714) - [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
 * [2025-06-10, 04:57:52](https://news.ycombinator.com/item?id=44232699) - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 * [2025-06-10, 04:04:41](https://news.ycombinator.com/item?id=44232371) - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
 * [2025-06-10, 03:55:30](https://news.ycombinator.com/item?id=44232314) - [AI Saved My Company from a 2-Year Litigation Nightmare](https://tylertringas.com/ai-legal/)
-* [2025-06-10, 03:51:56](https://news.ycombinator.com/item?id=44232296) - [Apple has announced its final version of macOS for Intel](https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/)
 * [2025-06-10, 03:30:00](https://hardware.slashdot.org/story/25/06/09/2249232/faa-to-eliminate-floppy-disks-used-in-air-traffic-control-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FAA To Eliminate Floppy Disks Used In Air Traffic Control Systems](https://hardware.slashdot.org/story/25/06/09/2249232/faa-to-eliminate-floppy-disks-used-in-air-traffic-control-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-10, 02:31:00](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss) - [American Science &amp; Surplus is Fighting for its Life and Here&apos;s Why You Should Care](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss)
 * [2025-06-10, 02:15:00](https://news.slashdot.org/story/25/06/10/0216200/if-india-chokes-less-it-will-fry-more?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [If India Chokes Less, It Will Fry More](https://news.slashdot.org/story/25/06/10/0216200/if-india-chokes-less-it-will-fry-more?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -97,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-09, 22:00:00](https://entertainment.slashdot.org/story/25/06/09/2120207/warner-bros-discovery-splits-streaming-from-cable-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Warner Bros. Discovery Splits Streaming From Cable TV](https://entertainment.slashdot.org/story/25/06/09/2120207/warner-bros-discovery-splits-streaming-from-cable-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-09, 21:45:00](https://soylentnews.org/article.pl?sid=25/06/08/1410212&amp;from=rss) - [New Technologies Help Wood-Burning Stoves Burn More Efficiently, Produce Less Smoke](https://soylentnews.org/article.pl?sid=25/06/08/1410212&amp;from=rss)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-* [2025-06-09, 21:25:44](https://news.ycombinator.com/item?id=44229694) - [The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 * [2025-06-09, 21:20:00](https://apple.slashdot.org/story/25/06/09/1859253/apple-lets-developers-tap-into-its-offline-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Lets Developers Tap Into Its Offline AI Models](https://apple.slashdot.org/story/25/06/09/1859253/apple-lets-developers-tap-into-its-offline-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:42:23](https://news.ycombinator.com/item?id=44229239) - [Container: Apple&apos;s Linux-Container Runtime](https://github.com/apple/container)
@@ -110,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-09, 18:12:31](https://lobste.rs/s/etkjh7/killing_x11) - [killing X11](https://flak.tedunangst.com/post/killing-X11)
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
-* [2025-06-09, 18:05:00](https://hardware.slashdot.org/story/25/06/09/180229/seagates-new-4tb-xbox-expansion-card-costs-more-than-the-xbox-series-s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Seagate&apos;s New 4TB Xbox Expansion Card Costs More Than the Xbox Series S](https://hardware.slashdot.org/story/25/06/09/180229/seagates-new-4tb-xbox-expansion-card-costs-more-than-the-xbox-series-s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-09, 17:49:28](https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less) - [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
 * [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 * [2025-06-09, 17:34:29](https://news.ycombinator.com/item?id=44226879) - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
@@ -121,7 +107,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
 * [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
 * [2025-06-09, 15:22:06](https://lobste.rs/s/wyizli/ai_angst) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
+* [2025-06-09, 15:16:48](https://news.ycombinator.com/item?id=44225352) - [Show HN: Most users won&apos;t report bugs unless you make it stupidly easy](https://news.ycombinator.com/item?id=44225352)
 * [2025-06-09, 14:47:55](https://lobste.rs/s/qjtoox/your_phoenix_application_directly_on) - [Your Phoenix application, directly on your Tailnet](https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e)
+* [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:40:42](https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle) - [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
 * [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
@@ -147,13 +135,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-07, 18:02:00](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss) - [Mathematical Model Helps European Regions Set Suitable Targets to Close Gender Gaps](https://soylentnews.org/article.pl?sid=25/06/06/0553236&amp;from=rss)
 * [2025-06-07, 13:17:00](https://soylentnews.org/article.pl?sid=25/06/06/1139229&amp;from=rss) - [Reality Check: Microsoft Azure CTO Pushes Back on AI Vibe Coding Hype, Sees ‘Upper Limit’](https://soylentnews.org/article.pl?sid=25/06/06/1139229&amp;from=rss)
 * [2025-06-07, 08:30:00](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss) - [Klarna CEO Says Company Will Use Humans to Offer VIP Customer Service](https://soylentnews.org/article.pl?sid=25/06/06/111254&amp;from=rss)
-* [2025-06-07, 06:53:41](https://news.ycombinator.com/item?id=44207943) - [Working with the EPA to Secure Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis)
 * [2025-06-07, 03:45:00](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss) - [Venus’ Tectonics May be Actively Reshaping its Surface](https://soylentnews.org/article.pl?sid=25/06/06/1057206&amp;from=rss)
+* [2025-06-07, 00:00:10](https://news.ycombinator.com/item?id=44206238) - [Why does C++ think my class is copy-constructible when it can&apos;t be?](https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254)
 * [2025-06-06, 23:02:00](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss) - [X Changes its Terms to Bar Training of AI Models Using its Content](https://soylentnews.org/article.pl?sid=25/06/05/2347208&amp;from=rss)
+* [2025-06-06, 22:25:01](https://news.ycombinator.com/item?id=44205620) - [NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops](https://www.jpl.nasa.gov/news/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere&apos;s surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
+* [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - [&apos;Proof&apos; Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)
 * [2025-06-06, 18:17:00](https://soylentnews.org/article.pl?sid=25/06/05/1218249&amp;from=rss) - [European Commission: Make Europe Great Again for Startups](https://soylentnews.org/article.pl?sid=25/06/05/1218249&amp;from=rss)
 * [2025-06-06, 18:06:11](https://news.ycombinator.com/item?id=44203464) - [Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction](https://www.nature.com/articles/s41586-025-08978-0)
-* [2025-06-06, 16:51:50](https://news.ycombinator.com/item?id=44202759) - [The Chicxulub Asteroid Impact and Mass Extinction](https://www.science.org/doi/10.1126/science.1177265)
 * [2025-06-06, 16:03:00](https://soylentnews.org/article.pl?sid=25/06/06/1417217&amp;from=rss) - [Japan&apos;s Resilience Moon Lander Has Crashed Into The Lunar Surface](https://soylentnews.org/article.pl?sid=25/06/06/1417217&amp;from=rss)
 * [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 13:32:00](https://soylentnews.org/article.pl?sid=25/06/05/1054224&amp;from=rss) - [TSMC&apos;s 2Nm Wafer Prices Hit $30,000 As SRAM Yields Reportedly Hit 90%](https://soylentnews.org/article.pl?sid=25/06/05/1054224&amp;from=rss)
