@@ -1,40 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Data Security
+## Media, Cinema, and Entertainment
 
-* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss))
+* [Mel Brooks is Making 'Spaceballs 2' After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The legendary director and comedian Mel Brooks revives a beloved classic with a sequel to 'Spaceballs' decades after the original release.
 
-* [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf) ([comments](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear))
+## Technological Advances and Tools
 
-* [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Radicle Desktop: A graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop) - An innovative GUI application enhancing the Radicle ecosystem by making peer-to-peer collaboration more accessible.
 
-* [Meta Invests $14.3 Billion in Scale AI](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Rendering crispy text on the GPU](https://osor.io/text) - A deep dive into GPU-accelerated text rendering techniques for sharp and scalable results.
 
-* [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html) - Introducing a Rust-based, Linux-compatible operating system that prioritizes memory safety and efficient kernel operations.
 
-## Design and Engineering
+## Science and Space Exploration
 
-* [Rendering crispy text on the GPU](https://osor.io/text) ([comments](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu))
+* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - A wealth of stunning astrophysical data from the James Webb Space Telescope is now available in a user-friendly searchable format for the public.
 
-* [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/) ([comments](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format))
+## Privacy and Security Concerns
 
-* [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client) ([comments](https://news.ycombinator.com/item?id=44265851))
+* [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Critical analysis reveals major privacy risks associated with Meta's artificial intelligence application.
 
-## Creative and Cultural Highlights
+* [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigations expose espionage targeting journalists using state-of-the-art spyware technology.
 
-* [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html) ([comments](https://news.ycombinator.com/item?id=44265869))
+## Sustainability and Eco-Innovation
 
-* [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) ([comments](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously))
+* [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - Innovative technology demonstrates how soda cans and seawater can be converted into hydrogen, presenting a unique approach to sustainable energy.
 
-* [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores) ([comments](https://news.ycombinator.com/item?id=44265105))
+## Creative Expressions and Experimental Projects
 
-## Hardware and Operating Systems
-
-* [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html) ([comments](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust))
-
-* [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/) ([comments](https://lobste.rs/s/thpska/jemalloc_postmortem))
-
-* [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/12/075226&amp;from=rss))
+* [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - An artistic and scientifically detailed interactive visualization of the solar system scaled down to a single pixel per unit.
 
 ---
 
@@ -61,14 +55,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-13, 08:27:14](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend)
+* [2025-06-13, 08:12:05](https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user) - [Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop)
+* [2025-06-13, 07:00:00](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mel Brooks is Making &apos;Spaceballs 2&apos; After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss)
 * [2025-06-13, 06:00:00](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 05:54:55](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously) - [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-* [2025-06-13, 05:39:12](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear) - [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf)
 * [2025-06-13, 05:26:35](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu) - [Rendering crispy text on the GPU](https://osor.io/text)
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
+* [2025-06-13, 03:31:44](https://news.ycombinator.com/item?id=44265501) - [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
 * [2025-06-13, 03:30:00](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 02:30:00](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Invests $14.3 Billion in Scale AI](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -83,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-13, 01:37:00](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Urged To Use Gloomier Population Forecasts After Plunge in Births](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 00:10:00](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Previews New Import/Export Feature To Make Passkeys More Interoperable](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 00:05:00](https://news.ycombinator.com/item?id=44264494) - [Major sugar substitute found to impair brain blood vessel cell function](https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html)
-* [2025-06-12, 23:42:00](https://news.ycombinator.com/item?id=44264376) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 * [2025-06-12, 23:39:51](https://lobste.rs/s/ngqs4g/case_for_software_craftsmanship_era) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 * [2025-06-12, 23:30:00](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Shopify Partners With Coinbase and Stripe In Landmark Stablecoin Deal](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 22:50:00](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Doubles Prime Video Ads to 6 Minutes Per Hour](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,8 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
 * [2025-06-12, 18:13:00](https://slashdot.org/story/25/06/12/1813241/barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Barbie Goes AI As Mattel Teams With OpenAI To Reinvent Playtime](https://slashdot.org/story/25/06/12/1813241/barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 17:31:00](https://yro.slashdot.org/story/25/06/12/1731258/more-than-a-dozen-vpn-apps-have-undisclosed-ties-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than a Dozen VPN Apps Have Undisclosed Ties To China](https://yro.slashdot.org/story/25/06/12/1731258/more-than-a-dozen-vpn-apps-have-undisclosed-ties-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-12, 16:54:39](https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice) - [diceomatic: a DSL for making children&apos;s dice games](https://robertheaton.com/diceomatic/)
-* [2025-06-12, 16:48:00](https://it.slashdot.org/story/25/06/12/1649201/anker-recalls-over-11-million-power-banks-due-to-fire-and-burn-risks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anker Recalls Over 1.1 Million Power Banks Due To Fire and Burn Risks](https://it.slashdot.org/story/25/06/12/1649201/anker-recalls-over-11-million-power-banks-due-to-fire-and-burn-risks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss) - [Cyberattack Cripples North America&apos;s Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss)
