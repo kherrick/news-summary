@@ -1,42 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Artificial Intelligence and Emerging Technologies
 
-* [Google's Test Turns Search Results Into an AI-Generated Podcast](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [AI Therapy Bots Are Conducting 'Illegal Behavior', Digital Rights Organizations Say](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns are rising regarding AI therapy bots engaging in arguably illegal and unethical practices as indicated by digital rights groups.
 
-* [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/) ([Comments](https://news.ycombinator.com/item?id=44267705))
+* [Google's Test Turns Search Results Into an AI-Generated Podcast](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google is experimenting with transforming search results into generative AI-driven podcasts.
 
-* [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html) ([Comments](https://news.ycombinator.com/item?id=44268197))
+* [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943) - An overview of evolving methodologies in autonomous language models and their implications.
 
-## Technology Development and Open Source
+* [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html) - Meta announces a hefty investment to push advances in AI superintelligence labs.
 
-* [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773) ([Comments](https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator))
+* [The Audacious Reboot of America's Nuclear Energy Program](https://hardware.slashdot.org/story/25/06/13/1723246/the-audacious-reboot-of-americas-nuclear-energy-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. launches a cutting-edge nuclear energy agenda rooted in emerging tech innovation.
 
-* [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org) ([Comments](https://news.ycombinator.com/item?id=44268782))
+## Advancements and Controversies in Business and Tech
 
-* [Luxe Game Engine](https://luxeengine.com/) ([Comments](https://news.ycombinator.com/item?id=44269270))
+* [23andMe's Founder Anne Wojcicki Wins Bid For DNA Testing Firm](https://science.slashdot.org/story/25/06/13/2046239/23andmes-founder-anne-wojcicki-wins-bid-for-dna-testing-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anne Wojcicki secures a strategic win for DNA analytics evolution.
 
-## Innovative Scientific Discoveries
+* [Walmart and Amazon Are Exploring Issuing Their Own Stablecoins](https://news.slashdot.org/story/25/06/13/1846255/walmart-and-amazon-are-exploring-issuing-their-own-stablecoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Retail giants signal their interest in blockchain-driven financial systems.
 
-* [Tiny Human Hearts Grown in Pig Embryos For the First Time](https://science.slashdot.org/story/25/06/13/152206/tiny-human-hearts-grown-in-pig-embryos-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/06/13/152206/tiny-human-hearts-grown-in-pig-embryos-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [GameStop CEO Says The Company's Future Isn't In Games](https://games.slashdot.org/story/25/06/13/1940258/gamestop-ceo-says-the-companys-future-isnt-in-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GameStop's leadership hints at a potential business model shift.
 
-* [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293) ([Comments](https://news.ycombinator.com/item?id=44268286))
+* [US Navy Backs Right To Repair After $13 Billion Carrier Crew Left Half-Fed By Contractor-Locked Ovens](https://tech.slashdot.org/story/25/06/13/0332208/us-navy-backs-right-to-repair-after-13-billion-carrier-crew-left-half-fed-by-contractor-locked-ovens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. Navy advocates for legislation enabling self-repair following supply chain mishaps.
 
-* [Meta Inks a New Geothermal Energy Deal To Support AI](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Salesforce Blocks AI Rivals From Using Slack Data](https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Competitive practices by Salesforce raise debate over data-sharing policies.
 
-## Unique and Retro-Themed Insights
+## Scientific Breakthroughs and Space Exploration
 
-* [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) ([Comments](https://news.ycombinator.com/item?id=44266828))
+* [Tiny Human Hearts Grown in Pig Embryos For the First Time](https://science.slashdot.org/story/25/06/13/152206/tiny-human-hearts-grown-in-pig-embryos-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Landmark developments in biotechnology show promise in xenotransplantation.
 
-* [Mel Brooks is Making 'Spaceballs 2' After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#) - Unexplained radio signals emerge from deep Antarctic ice, sparking intrigue.
 
-## Critical Security and Privacy Issues
+* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) - Access unprecedented space observations thanks to a major data release.
 
-* [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss))
+* [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&amp;from=rss) - Attempting innovative approaches for green hydrogen production using basic materials.
 
-* [Salesforce Blocks AI Rivals From Using Slack Data](https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Mel Brooks is Making 'Spaceballs 2' After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cult classic sequel in the works after decades-long anticipation.
 
-* [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Software, Tools, and Development Insights
+
+* [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773) - Certifying memory allocation with new mechanisms for safety and efficiency.
+
+* [Introducing Sulka, the Hardened Yocto Distro](https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/) - A fortified approach to Linux distributions with enhanced security layers.
+
+* [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/) - Tactics for safe, flexible computer use while minimizing risks.
+
+* [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/) - A deep dive into the optimization-focused emerging database technology.
+
+* [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/) - Reinventing wiki systems using lightweight HTML structures.
+
+## Historical and Philosophical Explorations
+
+* [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/) - Reflective study on altruistic transactions within randomness-driven frameworks.
+
+* [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html) - Reexamining a hundred-year-old mathematical conundrum.
+
+* [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor) - An enthusiastic discussion on theories of attraction in human interaction.
+
+* [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/) - Post-mortem exploration of a widely utilized memory allocator.
+
+* [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor) - A young researcher unravels a botanical mystery aligned with LSD research.
 
 ---
 
@@ -63,11 +85,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-13, 21:30:00](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Therapy Bots Are Conducting &apos;Illegal Behavior&apos;, Digital Rights Organizations Say](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-13, 21:08:31](https://news.ycombinator.com/item?id=44272287) - [Introducing Sulka, the Hardened Yocto Distro](https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/)
+* [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [Mumps (Programming Language)](https://en.wikipedia.org/wiki/MUMPS)
+* [2025-06-13, 20:50:00](https://science.slashdot.org/story/25/06/13/2046239/23andmes-founder-anne-wojcicki-wins-bid-for-dna-testing-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [23andMe&apos;s Founder Anne Wojcicki Wins Bid For DNA Testing Firm](https://science.slashdot.org/story/25/06/13/2046239/23andmes-founder-anne-wojcicki-wins-bid-for-dna-testing-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/06/13/0143245&amp;from=rss) - [The Federal Government in the Age of Artificial Intelligence](https://soylentnews.org/article.pl?sid=25/06/13/0143245&amp;from=rss)
+* [2025-06-13, 20:31:26](https://news.ycombinator.com/item?id=44271974) - [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
+* [2025-06-13, 20:10:00](https://games.slashdot.org/story/25/06/13/1940258/gamestop-ceo-says-the-companys-future-isnt-in-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GameStop CEO Says The Company&apos;s Future Isn&apos;t In Games](https://games.slashdot.org/story/25/06/13/1940258/gamestop-ceo-says-the-companys-future-isnt-in-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple&apos;s Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
+* [2025-06-13, 19:30:00](https://apple.slashdot.org/story/25/06/13/196231/the-vaporware-that-apple-insists-isnt-vaporware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Vaporware That Apple Insists Isn&apos;t Vaporware](https://apple.slashdot.org/story/25/06/13/196231/the-vaporware-that-apple-insists-isnt-vaporware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-13, 19:03:42](https://news.ycombinator.com/item?id=44271284) - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
+* [2025-06-13, 18:58:49](https://news.ycombinator.com/item?id=44271217) - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
+* [2025-06-13, 18:55:54](https://news.ycombinator.com/item?id=44271191) - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
+* [2025-06-13, 18:51:59](https://lobste.rs/s/hzlk4l/user_space_interrupts_2021) - [User-space interrupts (2021)](https://lwn.net/Articles/871113/)
+* [2025-06-13, 18:50:00](https://news.slashdot.org/story/25/06/13/1846255/walmart-and-amazon-are-exploring-issuing-their-own-stablecoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart and Amazon Are Exploring Issuing Their Own Stablecoins](https://news.slashdot.org/story/25/06/13/1846255/walmart-and-amazon-are-exploring-issuing-their-own-stablecoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
+* [2025-06-13, 18:30:47](https://news.ycombinator.com/item?id=44270965) - [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
 * [2025-06-13, 18:23:08](https://lobste.rs/s/c7udeu/strace_tips_for_better_debugging) - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
 * [2025-06-13, 18:15:00](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Test Turns Search Results Into an AI-Generated Podcast](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 18:04:07](https://news.ycombinator.com/item?id=44270717) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
-* [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I Convinced HP&apos;s Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
+* [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I convinced HP&apos;s board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 * [2025-06-13, 17:27:20](https://news.ycombinator.com/item?id=44270434) - [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/)
 * [2025-06-13, 17:25:00](https://hardware.slashdot.org/story/25/06/13/1723246/the-audacious-reboot-of-americas-nuclear-energy-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Audacious Reboot of America&apos;s Nuclear Energy Program](https://hardware.slashdot.org/story/25/06/13/1723246/the-audacious-reboot-of-americas-nuclear-energy-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
@@ -90,15 +126,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 14:00:00](https://tech.slashdot.org/story/25/06/13/1359240/google-is-killing-android-instant-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google is Killing Android Instant Apps](https://tech.slashdot.org/story/25/06/13/1359240/google-is-killing-android-instant-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 13:51:22](https://news.ycombinator.com/item?id=44268545) - [Show HN: Qrkey – Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
 * [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
 * [2025-06-13, 13:28:21](https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents) - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
-* [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
+* [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 13:00:00](https://tech.slashdot.org/story/25/06/13/0332208/us-navy-backs-right-to-repair-after-13-billion-carrier-crew-left-half-fed-by-contractor-locked-ovens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Navy Backs Right To Repair After $13 Billion Carrier Crew Left Half-Fed By Contractor-Locked Ovens](https://tech.slashdot.org/story/25/06/13/0332208/us-navy-backs-right-to-repair-after-13-billion-carrier-crew-left-half-fed-by-contractor-locked-ovens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 12:40:38](https://news.ycombinator.com/item?id=44267985) - [Show HN: Job Compass – AI agents that help you find jobs, not replace you](https://jobcompass.ai/)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
-* [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss)
 * [2025-06-13, 10:00:00](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Inks a New Geothermal Energy Deal To Support AI](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
@@ -106,37 +139,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-13, 08:12:05](https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user) - [Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop)
 * [2025-06-13, 07:00:00](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mel Brooks is Making &apos;Spaceballs 2&apos; After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss)
-* [2025-06-13, 06:00:00](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 05:54:55](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously) - [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 05:26:35](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu) - [Rendering crispy text on the GPU](https://osor.io/text)
-* [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
-* [2025-06-13, 05:04:56](https://news.ycombinator.com/item?id=44265833) - [Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model](https://www.parseable.com/blog/zero-shot-forecasting)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
-* [2025-06-13, 03:30:00](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 02:30:00](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Invests $14.3 Billion in Scale AI](https://tech.slashdot.org/story/25/06/13/0146238/meta-invests-143-billion-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
 * [2025-06-13, 02:23:44](https://lobste.rs/s/n8gpfg/three_algorithms_for_ysh_syntax) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 * [2025-06-13, 02:06:21](https://lobste.rs/s/vfjnar/what_i_talk_about_when_i_talk_about_irs) - [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
 * [2025-06-13, 01:43:00](https://soylentnews.org/article.pl?sid=25/06/12/075226&amp;from=rss) - [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&amp;from=rss)
 * [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
-* [2025-06-13, 01:37:00](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Urged To Use Gloomier Population Forecasts After Plunge in Births](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 00:10:00](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Previews New Import/Export Feature To Make Passkeys More Interoperable](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss) - [ChessGPT \&quot;Wrecked\&quot; by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn&apos;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn&apos;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
-* [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss) - [Cyberattack Cripples North America&apos;s Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss)
-* [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
-* [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
-* [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss)
 * [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss)
 * [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss)
@@ -144,11 +165,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-11, 11:40:00](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss) - [Hasta La Vista, Google Baby](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss)
 * [2025-06-11, 06:58:00](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss) - [‘We&apos;re Definitely on the Back Foot’: U.S. Risks Losing Fusion Energy Race to China, Industry Leaders](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss)
 * [2025-06-11, 02:14:00](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss) - [Ubuntu Dropping GNOME&apos;s X11 Session](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss)
+* [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
+* [2025-06-10, 22:19:50](https://news.ycombinator.com/item?id=44242125) - [EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]](https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&amp;id=570897)
 * [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss)
 * [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss)
+* [2025-06-10, 15:30:23](https://news.ycombinator.com/item?id=44238072) - [Thiings](https://www.thiings.co/things)
 * [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss) - [U.S. Immigration Authorities Are Adding Children&apos;s DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss)
-* [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-10, 07:19:00](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss) - [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss)
 * [2025-06-10, 02:31:00](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss) - [American Science &amp; Surplus is Fighting for its Life and Here&apos;s Why You Should Care](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss)
 * [2025-06-10, 00:04:40](https://news.ycombinator.com/item?id=44231044) - [Subtype Inference by Example](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html)
