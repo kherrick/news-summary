@@ -1,34 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Media, Cinema, and Entertainment
+## Tech Innovations and New Developments
 
-* [Mel Brooks is Making 'Spaceballs 2' After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The legendary director and comedian Mel Brooks revives a beloved classic with a sequel to 'Spaceballs' decades after the original release.
+* [Meta buys Scale AI in a $14.3B deal](https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html) ([comments](https://news.ycombinator.com/item?id=44266927))
 
-## Technological Advances and Tools
+* [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44265830))
 
-* [Radicle Desktop: A graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop) - An innovative GUI application enhancing the Radicle ecosystem by making peer-to-peer collaboration more accessible.
+* [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html) ([comments](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust))
 
-* [Rendering crispy text on the GPU](https://osor.io/text) - A deep dive into GPU-accelerated text rendering techniques for sharp and scalable results.
+* [Rendering crispy text on the GPU](https://osor.io/text) ([comments](https://news.ycombinator.com/item?id=44265233))
 
-* [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html) - Introducing a Rust-based, Linux-compatible operating system that prioritizes memory safety and efficient kernel operations.
+* [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md) ([comments](https://lobste.rs/s/n8gpfg/three_algorithms_for_ysh_syntax))
 
-## Science and Space Exploration
+* [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) ([comments](https://news.ycombinator.com/item?id=44266828))
 
-* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - A wealth of stunning astrophysical data from the James Webb Space Telescope is now available in a user-friendly searchable format for the public.
+## Emerging Issues in Privacy and Security
 
-## Privacy and Security Concerns
+* [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44267700))
 
-* [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Critical analysis reveals major privacy risks associated with Meta's artificial intelligence application.
+* [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44265860))
 
-* [Researchers Confirm Two Journalists Were Hacked With Paragon Spyware](https://yro.slashdot.org/story/25/06/12/2235231/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigations expose espionage targeting journalists using state-of-the-art spyware technology.
+* [The European public DNS that makes your Internet safer](https://www.dns0.eu) ([comments](https://news.ycombinator.com/item?id=44267091))
 
-## Sustainability and Eco-Innovation
+## Entertainment and Pop Culture
 
-* [Making Hydrogen With Soda Cans and Seawater](https://soylentnews.org/article.pl?sid=25/06/12/075226&from=rss) - Innovative technology demonstrates how soda cans and seawater can be converted into hydrogen, presenting a unique approach to sustainable energy.
+* [Mel Brooks is Making 'Spaceballs 2' After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44265825))
 
-## Creative Expressions and Experimental Projects
+## Open Source and Programming Highlights
 
-* [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - An artistic and scientifically detailed interactive visualization of the solar system scaled down to a single pixel per unit.
+* [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client) ([comments](https://news.ycombinator.com/item?id=44265851))
+
+* [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/) ([comments](https://news.ycombinator.com/item?id=44265501))
+
+## Space and Science Research
+
+* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44264986))
 
 ---
 
@@ -55,15 +61,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
+* [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
+* [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss)
+* [2025-06-13, 10:00:00](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Inks a New Geothermal Energy Deal To Support AI](https://hardware.slashdot.org/story/25/06/13/0318228/meta-inks-a-new-geothermal-energy-deal-to-support-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-13, 09:44:13](https://news.ycombinator.com/item?id=44267091) - [The European public DNS that makes your Internet safer](https://www.dns0.eu)
+* [2025-06-13, 09:02:28](https://news.ycombinator.com/item?id=44266927) - [Meta buys Scale AI in a $14.3B deal](https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html)
+* [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 08:27:14](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend)
 * [2025-06-13, 08:12:05](https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user) - [Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop)
 * [2025-06-13, 07:00:00](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mel Brooks is Making &apos;Spaceballs 2&apos; After 38 Years](https://entertainment.slashdot.org/story/25/06/13/0325219/mel-brooks-is-making-spaceballs-2-after-38-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 06:29:00](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss) - [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&amp;from=rss)
 * [2025-06-13, 06:00:00](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Meta AI App Is a Privacy Disaster](https://tech.slashdot.org/story/25/06/13/020259/the-meta-ai-app-is-a-privacy-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 05:54:55](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously) - [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [2025-06-13, 05:39:12](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear) - [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf)
 * [2025-06-13, 05:26:35](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu) - [Rendering crispy text on the GPU](https://osor.io/text)
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
+* [2025-06-13, 05:04:56](https://news.ycombinator.com/item?id=44265833) - [Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model](https://www.parseable.com/blog/zero-shot-forecasting)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:31:44](https://news.ycombinator.com/item?id=44265501) - [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
@@ -79,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-13, 01:37:00](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Urged To Use Gloomier Population Forecasts After Plunge in Births](https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 00:10:00](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Previews New Import/Export Feature To Make Passkeys More Interoperable](https://it.slashdot.org/story/25/06/12/2228212/apple-previews-new-importexport-feature-to-make-passkeys-more-interoperable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 00:05:00](https://news.ycombinator.com/item?id=44264494) - [Major sugar substitute found to impair brain blood vessel cell function](https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html)
 * [2025-06-12, 23:39:51](https://lobste.rs/s/ngqs4g/case_for_software_craftsmanship_era) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 * [2025-06-12, 23:30:00](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Shopify Partners With Coinbase and Stripe In Landmark Stablecoin Deal](https://news.slashdot.org/story/25/06/12/2221234/shopify-partners-with-coinbase-and-stripe-in-landmark-stablecoin-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 22:50:00](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Doubles Prime Video Ads to 6 Minutes Per Hour](https://entertainment.slashdot.org/story/25/06/12/2052205/amazon-doubles-prime-video-ads-to-6-minutes-per-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 21:50:08](https://news.ycombinator.com/item?id=44263562) - [The curse of Toumaï: an ancient skull and a bitter feud over humanity&apos;s origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
 * [2025-06-12, 21:30:00](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PCI Express 7.0 Specs Released](https://hardware.slashdot.org/story/25/06/12/2037225/pci-express-70-specs-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss) - [ChessGPT \&quot;Wrecked\&quot; by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss)
-* [2025-06-12, 21:00:00](https://news.ycombinator.com/item?id=44263139) - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 * [2025-06-12, 20:50:00](https://games.slashdot.org/story/25/06/12/2027249/microsoft-just-teased-its-next-gen-xbox-console-and-nobody-noticed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Just Teased Its Next-Gen Xbox Console, and Nobody Noticed](https://games.slashdot.org/story/25/06/12/2027249/microsoft-just-teased-its-next-gen-xbox-console-and-nobody-noticed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 20:10:00](https://games.slashdot.org/story/25/06/12/206219/engineer-creates-first-custom-motherboard-for-1990s-playstation-console?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Engineer Creates First Custom Motherboard For 1990s PlayStation Console](https://games.slashdot.org/story/25/06/12/206219/engineer-creates-first-custom-motherboard-for-1990s-playstation-console?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,14 +111,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 19:04:00](https://it.slashdot.org/story/25/06/12/194251/google-aws-cloudflare-among-popular-services-hit-by-widespread-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google, AWS, Cloudflare Among Popular Services Hit By Widespread Outage](https://it.slashdot.org/story/25/06/12/194251/google-aws-cloudflare-among-popular-services-hit-by-widespread-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
 * [2025-06-12, 18:13:00](https://slashdot.org/story/25/06/12/1813241/barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Barbie Goes AI As Mattel Teams With OpenAI To Reinvent Playtime](https://slashdot.org/story/25/06/12/1813241/barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-12, 17:31:00](https://yro.slashdot.org/story/25/06/12/1731258/more-than-a-dozen-vpn-apps-have-undisclosed-ties-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than a Dozen VPN Apps Have Undisclosed Ties To China](https://yro.slashdot.org/story/25/06/12/1731258/more-than-a-dozen-vpn-apps-have-undisclosed-ties-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-12, 18:07:25](https://news.ycombinator.com/item?id=44260753) - [Shooting the Moon: Art of Lunar Photography (2023)](https://astroimagery.com/astrophotography/shooting-the-moon/)
 * [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss) - [Cyberattack Cripples North America&apos;s Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss)
-* [2025-06-12, 16:12:45](https://news.ycombinator.com/item?id=44259398) - [US-backed Israeli company&apos;s spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
 * [2025-06-12, 15:03:52](https://news.ycombinator.com/item?id=44258654) - [Why does my ripped CD have messed up track names? And why is one track missing?](https://www.akpain.net/blog/inside-a-cd/)
-* [2025-06-12, 14:47:22](https://lobste.rs/s/kvg7od/python_language_summit_2025) - [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
 * [2025-06-12, 13:37:06](https://news.ycombinator.com/item?id=44257655) - [Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)](https://github.com/hunterirving/pico-crossing)
 * [2025-06-12, 13:32:56](https://news.ycombinator.com/item?id=44257609) - [Show HN: McWig – A modal, Vim-like text editor written in Go](https://github.com/firstrow/mcwig)
 * [2025-06-12, 13:09:50](https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
@@ -126,15 +137,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
-* [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
 * [2025-06-11, 16:26:00](https://soylentnews.org/article.pl?sid=25/06/11/0127250&amp;from=rss) - [OpenAI Slams Court Order to Save All ChatGPT Logs, Including Deleted Chats](https://soylentnews.org/article.pl?sid=25/06/11/0127250&amp;from=rss)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-11, 11:40:00](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss) - [Hasta La Vista, Google Baby](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss)
 * [2025-06-11, 06:58:00](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss) - [‘We&apos;re Definitely on the Back Foot’: U.S. Risks Losing Fusion Energy Race to China, Industry Leaders](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss)
 * [2025-06-11, 02:14:00](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss) - [Ubuntu Dropping GNOME&apos;s X11 Session](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss)
-* [2025-06-10, 22:56:51](https://news.ycombinator.com/item?id=44242435) - [Helion: A modern fast paced Doom FPS engine in C#](https://github.com/Helion-Engine/Helion)
 * [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss)
-* [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss)
 * [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss) - [U.S. Immigration Authorities Are Adding Children&apos;s DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
@@ -143,6 +151,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-09, 21:45:00](https://soylentnews.org/article.pl?sid=25/06/08/1410212&amp;from=rss) - [New Technologies Help Wood-Burning Stoves Burn More Efficiently, Produce Less Smoke](https://soylentnews.org/article.pl?sid=25/06/08/1410212&amp;from=rss)
 * [2025-06-09, 16:58:00](https://soylentnews.org/article.pl?sid=25/06/08/142216&amp;from=rss) - [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://soylentnews.org/article.pl?sid=25/06/08/142216&amp;from=rss)
 * [2025-06-09, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/08/0319228&amp;from=rss) - [University Of Michigan Achieves First Human Brain Recording With Wireless Implant](https://soylentnews.org/article.pl?sid=25/06/08/0319228&amp;from=rss)
-* [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes (2022)](https://math.mit.edu/~shor/435-LN/)
 * [2025-06-09, 07:27:00](https://soylentnews.org/article.pl?sid=25/06/08/0311242&amp;from=rss) - [Scientists Find New Markers To Identify Species From Fragments Of Fossilized Bone](https://soylentnews.org/article.pl?sid=25/06/08/0311242&amp;from=rss)
 * [2025-06-09, 02:46:00](https://soylentnews.org/article.pl?sid=25/06/08/031256&amp;from=rss) - [Are Dead Sea Scrolls Older Than We Thought?](https://soylentnews.org/article.pl?sid=25/06/08/031256&amp;from=rss)
