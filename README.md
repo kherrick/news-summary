@@ -1,36 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming Innovations
+## Artificial Intelligence and Machine Learning
 
-* [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/) - Introducing 'Hypershell', a Rust-based tool that leverages context-generic programming to provide a robust type-level DSL for shell scripting. [Comments](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell)
+* [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139) - Research on eliciting behaviors from language models without supervision. [Comments](https://news.ycombinator.com/item?id=44276041)
 
-* [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md) - Exploring the usage of Datalog principles in the Rust programming language to enable declarative programming. [Comments](https://lobste.rs/s/btlkeb/datalog_rust)
+* [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943) - Exploration of language models capable of adapting themselves over time. [Comments](https://news.ycombinator.com/item?id=44271284)
 
-* [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running) - An exploration of the new C2y programming language and its initial ecosystem. [Comments](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running)
+* [AI Therapy Bots Are Conducting 'Illegal Behavior', Digital Rights Organizations Say](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of ethical concerns surrounding AI in mental health therapy. [Comments](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Artificial Intelligence
+## Scientific and Environmental Discoveries
 
-* [Builder.ai did not “fake AI with 700 engineers”](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/) - Detailed rebuttal against allegations of misrepresentation in AI capabilities by Builder.ai. [Comments](https://lobste.rs/s/octsu0/builder_ai_did_not_fake_ai_with_700)
+* [Strange Radio Pulses Detected Coming From Ice In Antarctica](https://tech.slashdot.org/story/25/06/13/2115249/strange-radio-pulses-detected-coming-from-ice-in-antarctica?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unique radio signals originating from Antarctic glaciers spark scientific curiosity. [Comments](https://tech.slashdot.org/story/25/06/13/2115249/strange-radio-pulses-detected-coming-from-ice-in-antarctica?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AI Therapy Bots Are Conducting 'Illegal Behavior', Digital Rights Organizations Say](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns arise over the ethical and legal implications of AI therapy bots. [Comments](https://slashdot.org/story/25/06/13/2015216/ai-therapy-bots-are-conducting-illegal-behavior-digital-rights-organizations-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Climate Change Is Coming For Your Cheese](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss) - The impact of climate change on the global cheese industry. [Comments](https://soylentnews.org/article.pl?sid=25/06/13/0159230&from=rss)
 
-## Scientific Endeavors and Space
+## Technology Innovation and Software Development
 
-* [NASA Delays Commercial Crew Launch To Assess ISS Air Leak](https://science.slashdot.org/story/25/06/13/2123253/nasa-delays-commercial-crew-launch-to-assess-iss-air-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA holds off on a planned crew launch to investigate leaks on the International Space Station. [Comments](https://science.slashdot.org/story/25/06/13/2123253/nasa-delays-commercial-crew-launch-to-assess-iss-air-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/) - An innovative toolkit for writing shell scripts leveraging Rust. [Comments](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell)
 
-* [IBM Says It&apos;s Cracked Quantum Error Correction](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - IBM claims a significant breakthrough in addressing quantum error correction, crucial for scalable quantum computing. [Comments](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [APL Style: Patterns/Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On) - Exploration of efficient coding techniques and common pitfalls in APL. [Comments](https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns)
 
-## Industry and Technology Advances
+* [Tattoy: a text-based terminal compositor](https://tattoy.sh/) - Introduction to a text-centric user interface tool designed for terminal enthusiasts. [Comments](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor)
 
-* [Smart Tires Will Report On the Health of Roads In New Pilot Program](https://tech.slashdot.org/story/25/06/13/2050230/smart-tires-will-report-on-the-health-of-roads-in-new-pilot-program?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Smart tire technology enters trials, aiming to collect and relay data on road conditions. [Comments](https://tech.slashdot.org/story/25/06/13/2050230/smart-tires-will-report-on-the-health-of-roads-in-new-pilot-program?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d) - Netflix's approach to building scalable data representations. [Comments](https://news.ycombinator.com/item?id=44275575)
 
-* [Vital Chipmaking Software Access Restored to China After High-Level Call Between Trump/Xi Jinping](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss) - Diplomatic efforts allow China to regain essential software for semiconductor manufacturing. [Comments](https://soylentnews.org/article.pl?sid=25/06/13/0146252&from=rss)
+## Quantum Computing and Advanced Tech
 
-## Humor and Quirky Reads
+* [IBM Says It's Cracked Quantum Error Correction](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough in error correction technique for quantum systems. [Comments](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba) - A satirical guide to programming practices you should definitely avoid. [Comments](https://news.ycombinator.com/item?id=44274458)
+## Programming and Development Tools
 
-* [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger) - Delving into the eccentric phenomenon of airplane fly-ins to collect luxury meals. [Comments](https://news.ycombinator.com/item?id=44274031)
+* [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html) - Efficiency techniques for handling string operations in programming. [Comments](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string)
+
+* [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md) - Incorporating Datalog capabilities into the Rust programming ecosystem. [Comments](https://lobste.rs/s/btlkeb/datalog_rust)
+
+## Space Exploration and Astronomy
+
+* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) - Release of a large dataset from the James Webb Space Telescope with an accessible online interface. [Comments](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss)
 
 ---
 
@@ -57,19 +63,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-14, 12:43:52](https://lobste.rs/s/rrzmo1/exploring_amiga_blog_series_2018) - [\&quot;Exploring the Amiga\&quot; blog series (2018)](https://www.thedigitalcatonline.com/categories/amiga/)
+* [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
+* [2025-06-14, 12:21:33](https://lobste.rs/s/az487i/adding_public_transport_data_transitous) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
+* [2025-06-14, 12:00:07](https://news.ycombinator.com/item?id=44275843) - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
+* [2025-06-14, 10:57:00](https://soylentnews.org/article.pl?sid=25/06/13/0159230&amp;from=rss) - [Climate Change Is Coming For Your Cheese](https://soylentnews.org/article.pl?sid=25/06/13/0159230&amp;from=rss)
+* [2025-06-14, 10:56:52](https://news.ycombinator.com/item?id=44275575) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
+* [2025-06-14, 10:54:12](https://lobste.rs/s/lwiqw7/model_once_represent_everywhere_uda) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
+* [2025-06-14, 10:19:03](https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes) - [HTML spec change: escaping &lt; and &gt; in attributes](https://developer.chrome.com/blog/escape-attributes)
+* [2025-06-14, 10:00:00](https://tech.slashdot.org/story/25/06/13/2115249/strange-radio-pulses-detected-coming-from-ice-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Strange Radio Pulses Detected Coming From Ice In Antarctica](https://tech.slashdot.org/story/25/06/13/2115249/strange-radio-pulses-detected-coming-from-ice-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 07:00:00](https://science.slashdot.org/story/25/06/13/2123253/nasa-delays-commercial-crew-launch-to-assess-iss-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Delays Commercial Crew Launch To Assess ISS Air Leak](https://science.slashdot.org/story/25/06/13/2123253/nasa-delays-commercial-crew-launch-to-assess-iss-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 06:15:20](https://lobste.rs/s/4tmzdy/implementing_logic_programming) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 06:12:00](https://soylentnews.org/article.pl?sid=25/06/13/0152245&amp;from=rss) - [Mistral Releases a Vibe Coding Client, Mistral Code](https://soylentnews.org/article.pl?sid=25/06/13/0152245&amp;from=rss)
-* [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
-* [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
-* [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:57:59](https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns) - [APL Style: Patterns/Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On)
-* [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
-* [2025-06-14, 04:02:19](https://lobste.rs/s/octsu0/builder_ai_did_not_fake_ai_with_700) - [Builder.ai did not “fake AI with 700 engineers”](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/)
-* [2025-06-14, 03:41:14](https://news.ycombinator.com/item?id=44274031) - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-14, 03:30:00](https://tech.slashdot.org/story/25/06/13/2050230/smart-tires-will-report-on-the-health-of-roads-in-new-pilot-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smart Tires Will Report On the Health of Roads In New Pilot Program](https://tech.slashdot.org/story/25/06/13/2050230/smart-tires-will-report-on-the-health-of-roads-in-new-pilot-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-14, 02:45:03](https://news.ycombinator.com/item?id=44273857) - [Filedb: Disk-based key-value store inspired by Bitcask](https://github.com/rajivharlalka/filedb)
@@ -77,7 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-14, 01:30:00](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Says It&apos;s Cracked Quantum Error Correction](https://tech.slashdot.org/story/25/06/13/218205/ibm-says-its-cracked-quantum-error-correction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-14, 01:25:00](https://soylentnews.org/article.pl?sid=25/06/13/0146252&amp;from=rss) - [Vital Chipmaking Software Access Restored to China After High-Level Call Between Trump/Xi Jinping](https://soylentnews.org/article.pl?sid=25/06/13/0146252&amp;from=rss)
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
-* [2025-06-14, 00:56:08](https://lobste.rs/s/9gjyi0/solving_linkedin_queens_with_apl) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-14, 00:50:00](https://news.slashdot.org/story/25/06/13/210224/enterprise-ai-adoption-stalls-as-inferencing-costs-confound-cloud-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Enterprise AI Adoption Stalls As Inferencing Costs Confound Cloud Customers](https://news.slashdot.org/story/25/06/13/210224/enterprise-ai-adoption-stalls-as-inferencing-costs-confound-cloud-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-14, 00:10:00](https://hardware.slashdot.org/story/25/06/13/207259/there-arent-enough-cables-to-meet-growing-electricity-demand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [There Aren&apos;t Enough Cables To Meet Growing Electricity Demand](https://hardware.slashdot.org/story/25/06/13/207259/there-arent-enough-cables-to-meet-growing-electricity-demand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 23:30:00](https://developers.slashdot.org/story/25/06/13/2034219/uk-universities-sign-133-million-deal-to-avoid-oracle-java-back-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Universities Sign $13.3 Million Deal To Avoid Oracle Java Back Fees](https://developers.slashdot.org/story/25/06/13/2034219/uk-universities-sign-133-million-deal-to-avoid-oracle-java-back-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -97,20 +106,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-13, 18:23:08](https://lobste.rs/s/c7udeu/strace_tips_for_better_debugging) - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
 * [2025-06-13, 18:15:00](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Test Turns Search Results Into an AI-Generated Podcast](https://tech.slashdot.org/story/25/06/13/1815247/googles-test-turns-search-results-into-an-ai-generated-podcast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I convinced HP&apos;s board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
-* [2025-06-13, 17:25:00](https://hardware.slashdot.org/story/25/06/13/1723246/the-audacious-reboot-of-americas-nuclear-energy-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Audacious Reboot of America&apos;s Nuclear Energy Program](https://hardware.slashdot.org/story/25/06/13/1723246/the-audacious-reboot-of-americas-nuclear-energy-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
 * [2025-06-13, 16:49:11](https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator) - [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773)
 * [2025-06-13, 16:10:38](https://news.ycombinator.com/item?id=44269822) - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
 * [2025-06-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/06/13/0135229&amp;from=rss) - [Starlink Shut Down on United Regional Jets - Reports of Radio Interference on Embraer E175](https://soylentnews.org/article.pl?sid=25/06/13/0135229&amp;from=rss)
 * [2025-06-13, 15:44:42](https://lobste.rs/s/tdjxvv/modularizing_george_cave_s_eink_energy) - [Modularizing George Cave&apos;s eInk Energy Dashboard](https://slipway.co/blog/eink-energy-dashboard)
-* [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo&apos;s axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
 * [2025-06-13, 14:44:03](https://lobste.rs/s/kbcp5p/100_years_zermelo_s_axiom_choice_what_was) - [100 years of Zermelo’s axiom of choice: What was the problem with it?](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:23:45](https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is) - [OxCaml, Jane Street&apos;s extension of OCaml is now open-source](https://oxcaml.org)
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
-* [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 13:51:42](https://news.ycombinator.com/item?id=44268547) - [The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More](https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360)
 * [2025-06-13, 13:28:21](https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents) - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
 * [2025-06-13, 11:13:00](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss) - [Google Brute-Force Attack Exposes Phone Numbers in Minutes](https://soylentnews.org/article.pl?sid=25/06/13/0124202&amp;from=rss)
@@ -124,28 +129,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss) - [ChessGPT \&quot;Wrecked\&quot; by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn&apos;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
+* [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn&apos;t make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss) - [Cyberattack Cripples North America&apos;s Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss)
-* [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss)
 * [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss)
+* [2025-06-11, 23:40:10](https://news.ycombinator.com/item?id=44252999) - [Mollusk shell assemblages as a tool for identifying unaltered seagrass beds](https://www.int-res.com/abstracts/meps/v760/meps14839)
 * [2025-06-11, 21:11:00](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss) - [New Way to Track Covertly Android Users](https://soylentnews.org/article.pl?sid=25/06/11/0136231&amp;from=rss)
 * [2025-06-11, 18:33:36](https://news.ycombinator.com/item?id=44250461) - [How I uncovered a potential ancient Rome wine scam](https://phys.org/news/2025-06-uncovered-potential-ancient-rome-wine.html)
 * [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 16:26:00](https://soylentnews.org/article.pl?sid=25/06/11/0127250&amp;from=rss) - [OpenAI Slams Court Order to Save All ChatGPT Logs, Including Deleted Chats](https://soylentnews.org/article.pl?sid=25/06/11/0127250&amp;from=rss)
 * [2025-06-11, 11:40:00](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss) - [Hasta La Vista, Google Baby](https://soylentnews.org/article.pl?sid=25/06/11/0022207&amp;from=rss)
 * [2025-06-11, 06:58:00](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss) - [‘We&apos;re Definitely on the Back Foot’: U.S. Risks Losing Fusion Energy Race to China, Industry Leaders](https://soylentnews.org/article.pl?sid=25/06/10/1731239&amp;from=rss)
+* [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
 * [2025-06-11, 02:14:00](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss) - [Ubuntu Dropping GNOME&apos;s X11 Session](https://soylentnews.org/article.pl?sid=25/06/10/1727213&amp;from=rss)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
 * [2025-06-10, 21:32:00](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss) - [The Linux Mint Team is Testing a New Application for Providing Fingerprint Authentication](https://soylentnews.org/article.pl?sid=25/06/09/1724212&amp;from=rss)
 * [2025-06-10, 20:37:46](https://news.ycombinator.com/item?id=44241209) - [Protecting your code from other people&apos;s bugs](https://doi.org/10.1145/3733699)
 * [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss) - [Nice Ocean Conference You Have There](https://soylentnews.org/article.pl?sid=25/06/09/1718210&amp;from=rss)
-* [2025-06-10, 13:31:35](https://news.ycombinator.com/item?id=44236590) - [Paleoproteomic profiling recovers diverse proteins from 200yo human brains](https://phys.org/news/2025-05-paleoproteomic-profiling-recovers-diverse-proteins.html)
+* [2025-06-10, 15:00:54](https://news.ycombinator.com/item?id=44237654) - [Me an&apos; Algernon – grappling with (temporary) cognitive decline](https://tidyfirst.substack.com/p/me-an-algernon)
 * [2025-06-10, 12:07:00](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss) - [U.S. Immigration Authorities Are Adding Children&apos;s DNA to a Criminal Database](https://soylentnews.org/article.pl?sid=25/06/09/1710253&amp;from=rss)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
-* [2025-06-10, 09:40:19](https://news.ycombinator.com/item?id=44234626) - [\&quot;The Illusion of Thinking\&quot; – Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts)
 * [2025-06-10, 07:19:00](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss) - [FDA Rushed Out Agency-Wide AI Tool](https://soylentnews.org/article.pl?sid=25/06/09/1152234&amp;from=rss)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 * [2025-06-10, 02:31:00](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss) - [American Science &amp; Surplus is Fighting for its Life and Here&apos;s Why You Should Care](https://soylentnews.org/article.pl?sid=25/06/08/1422259&amp;from=rss)
