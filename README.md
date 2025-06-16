@@ -1,50 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Language Models
+## Artificial Intelligence and Technology Developments
 
-* [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent) ([comments](https://news.ycombinator.com/item?id=44286078))
+* [Meta's Llama 3.1 Can Recall 42% of the First Harry Potter Book](https://slashdot.org/story/25/06/15/2230206/metas-llama-31-can-recall-42-of-the-first-harry-potter-book?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses Meta's advancements in AI memory capabilities and its unique demonstration of retaining large portions of text.
 
-* [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) ([comments](https://lobste.rs/s/s6fvfd/building_software_on_top_large_language))
+* [Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost) - Examines a novel vulnerability that could enable data breaches through AI-powered platforms.
 
-* [New York State Begins Asking Employers to Officially Identify Layoffs Caused by AI](https://news.slashdot.org/story/25/06/15/046216/new-york-state-begins-asking-employers-to-offically-identify-layoffs-caused-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44283093))
+* [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) - Explores advancements in utilizing machine learning for next-generation software engineering.
 
-## Technological Innovations
+* [Let’s Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual) - An intriguing exploration of the psychological impacts caused by interactions with AI systems.
 
-* [Mitsubishi Launches EV Battery Swap Network in Tokyo - for Both Cars and Trucks](https://tech.slashdot.org/story/25/06/15/2336200/mitsubishi-launches-ev-battery-swap-network-in-tokyo---for-both-cars-and-trucks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44285521))
+## Environmental Innovations and Challenges
 
-* [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement) ([comments](https://news.ycombinator.com/item?id=44285521))
+* [Mitsubishi Launches EV Battery Swap Network in Tokyo - for Both Cars and Trucks](https://tech.slashdot.org/story/25/06/15/2336200/mitsubishi-launches-ev-battery-swap-network-in-tokyo---for-both-cars-and-trucks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the creation of EV battery swap networks aimed at revolutionizing Tokyo's transport systems.
 
-* [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming) ([comments](https://news.ycombinator.com/item?id=44285440))
+* [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement) - Details the development of technology to reduce greenhouse gas emissions in power grids.
 
-## Security and Privacy Concerns
+* [Could This City Be the Model for How to Tackle Both the Climate and Housing Crisis?](https://news.slashdot.org/story/25/06/15/207237/could-this-city-be-the-model-for-how-to-tackle-the-both-the-climate-and-housing-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Proposes a new urban development approach merging housing solutions with climate sustainability.
 
-* [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&from=rss) ([comments](https://news.ycombinator.com/item?id=44286078))
+## Security and Privacy
 
-* [Breaking down 'EchoLeak', the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost) ([comments](https://lobste.rs/s/ogh0zp/breaking_down_echoleak_first_zero_click))
+* [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss) - Raises alarms over widespread lack of security in networked camera systems.
 
-## Programming and Software Development
+* [Facial Recognition Error Sees Woman Wrongly Accused of Theft](https://slashdot.org/story/25/06/15/1817236/facial-recognition-error-sees-woman-wrongly-accused-of-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the potential risks and ethical issues in deploying facial recognition.
 
-* [DevTUI - A Swiss-army app for developers](https://devtui.com) ([comments](https://lobste.rs/s/ijyyt9/devtui_swiss_army_app_for_developers))
+* [Modifying an HDMI dummy plug’s EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/) - Explores how to secure and enhance device connections using a Raspberry Pi.
 
-* [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html) ([comments](https://lobste.rs/s/rqthj0/simplest_c_callback_from_sumatrapdf))
+## Programming and Developer Tools
 
-* [The Elixir Pipe Operator](https://dev.to/adolfont/the-elixir-pipe-operator-38fa) ([comments](https://lobste.rs/s/ww7kp7/elixir_pipe_operator))
+* [DevTUI - A Swiss-army app for developers](https://devtui.com) - Introduces an all-in-one terminal-based application tailored for programmers.
 
-## Curious Historical and Cultural Insights
+* [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html) - Shares insights and examples from SumatraPDF developers on improving simplicity in C++ programming.
 
-* [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html) ([comments](https://news.ycombinator.com/item?id=44284594))
+* [The Elixir Pipe Operator](https://dev.to/adolfont/the-elixir-pipe-operator-38fa) - Discusses the utility and elegance of the pipe operator in functional programming.
 
-* [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting) ([comments](https://news.ycombinator.com/item?id=44284723))
+## Cultural and Historical Highlights
 
-* [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7) ([comments](https://news.ycombinator.com/item?id=44285054))
+* [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting) - Unveils the scarcity and cultural value of Bob Ross's iconic artwork.
 
-## Scientific Discoveries and Space Exploration
+* [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html) - Fascinating look at symbolic communication methods used by itinerants.
 
-* [Cyborg Embryos Offer New Insights into Brain Growth](https://spectrum.ieee.org/embryo-electrode-array) ([comments](https://news.ycombinator.com/item?id=44255867))
-
-* [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed) ([comments](https://news.ycombinator.com/item?id=44261118))
-
-* [1.5Tb of James Webb Space Telescope Data Dumped On The Internet - New Searchable Database](https://soylentnews.org/article.pl?sid=25/06/12/159242&from=rss) ([comments](https://news.ycombinator.com/item?id=44255867))
+* [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7) - Reflects on the incredible life and legacy of the beloved natural history broadcaster.
 
 ---
 
@@ -71,10 +67,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-16, 01:44:58](https://news.ycombinator.com/item?id=44286078) - [Meta&apos;s Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
+* [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
 * [2025-06-16, 01:34:00](https://it.slashdot.org/story/25/06/16/0047207/amazons-return-to-office-mandate-sparks-complaints-from-disabled-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Return-to-Office Mandate Sparks Complaints from Disabled Employees](https://it.slashdot.org/story/25/06/16/0047207/amazons-return-to-office-mandate-sparks-complaints-from-disabled-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-16, 00:58:00](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss) - [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss)
 * [2025-06-16, 00:54:19](https://lobste.rs/s/ijyyt9/devtui_swiss_army_app_for_developers) - [DevTUI - A Swiss-army app for developers](https://devtui.com)
+* [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 * [2025-06-16, 00:12:02](https://lobste.rs/s/llzfuy/jokes_humour_public_android_api) - [Jokes and Humour in the public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 * [2025-06-15, 23:39:03](https://lobste.rs/s/s6fvfd/building_software_on_top_large_language) - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/)
 * [2025-06-15, 23:38:00](https://tech.slashdot.org/story/25/06/15/2336200/mitsubishi-launches-ev-battery-swap-network-in-tokyo---for-both-cars-and-trucks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mitsubishi Launches EV Battery Swap Network in Tokyo - for Both Cars and Trucks](https://tech.slashdot.org/story/25/06/15/2336200/mitsubishi-launches-ev-battery-swap-network-in-tokyo---for-both-cars-and-trucks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -116,13 +113,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
+* [2025-06-15, 11:41:53](https://news.ycombinator.com/item?id=44281812) - [Meta&apos;s Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
 * [2025-06-15, 11:34:00](https://slashdot.org/story/25/06/14/1648202/do-people-actually-want-smart-glasses-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do People Actually Want Smart Glasses Now?](https://slashdot.org/story/25/06/14/1648202/do-people-actually-want-smart-glasses-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:41:00](https://soylentnews.org/article.pl?sid=25/06/14/1623235&amp;from=rss) - [RIP: Bill Atkinson, Co-Creator Of Apple Lisa And Mac](https://soylentnews.org/article.pl?sid=25/06/14/1623235&amp;from=rss)
 * [2025-06-15, 10:27:40](https://lobste.rs/s/bvyeh9/breaking_my_security_assignments) - [Breaking my Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 07:34:00](https://science.slashdot.org/story/25/06/15/053254/space-is-the-perfect-place-to-study-cancer-and-someday-even-treat-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Space is the Perfect Place to Study Cancer and Someday Even Treat It](https://science.slashdot.org/story/25/06/15/053254/space-is-the-perfect-place-to-study-cancer-and-someday-even-treat-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 07:05:12](https://lobste.rs/s/ui5omv/art_lisp_writing) - [The Art of Lisp &amp; Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 05:57:00](https://soylentnews.org/article.pl?sid=25/06/14/1549226&amp;from=rss) - [Navy Backs Right to Repair After $13B Carrier Goes Half-Fed](https://soylentnews.org/article.pl?sid=25/06/14/1549226&amp;from=rss)
 * [2025-06-15, 03:49:00](https://news.slashdot.org/story/25/06/15/0115241/executives-from-meta-openai-and-palantir-commissioned-into-the-us-army-reserve?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Executives from Meta, OpenAI, and Palantir Commissioned Into the US Army Reserve](https://news.slashdot.org/story/25/06/15/0115241/executives-from-meta-openai-and-palantir-commissioned-into-the-us-army-reserve?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -145,7 +142,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:12:00](https://soylentnews.org/article.pl?sid=25/06/13/0152245&amp;from=rss) - [Mistral Releases a Vibe Coding Client, Mistral Code](https://soylentnews.org/article.pl?sid=25/06/13/0152245&amp;from=rss)
 * [2025-06-14, 05:38:07](https://news.ycombinator.com/item?id=44274435) - [Cure Dolly&apos;s Japanese Grammar Lessons](https://kellenok.github.io/cure-script/)
-* [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-14, 01:25:00](https://soylentnews.org/article.pl?sid=25/06/13/0146252&amp;from=rss) - [Vital Chipmaking Software Access Restored to China After High-Level Call Between Trump/Xi Jinping](https://soylentnews.org/article.pl?sid=25/06/13/0146252&amp;from=rss)
 * [2025-06-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/06/13/0143245&amp;from=rss) - [The Federal Government in the Age of Artificial Intelligence](https://soylentnews.org/article.pl?sid=25/06/13/0143245&amp;from=rss)
 * [2025-06-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/06/13/0135229&amp;from=rss) - [Starlink Shut Down on United Regional Jets - Reports of Radio Interference on Embraer E175](https://soylentnews.org/article.pl?sid=25/06/13/0135229&amp;from=rss)
@@ -156,9 +152,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-12, 21:01:00](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss) - [ChessGPT \&quot;Wrecked\&quot; by Atari 2600](https://soylentnews.org/article.pl?sid=25/06/11/1726256&amp;from=rss)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
 * [2025-06-12, 16:16:00](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss) - [Cyberattack Cripples North America&apos;s Largest Grocery Distributor, Threatening Supply Chain](https://soylentnews.org/article.pl?sid=25/06/11/1627232&amp;from=rss)
+* [2025-06-12, 14:25:14](https://news.ycombinator.com/item?id=44258199) - [Random Walk: A Modern Introduction [pdf]](https://www.math.uchicago.edu/~lawler/srwbook.pdf)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [Fields where Native Americans farmed a thousand years ago discovered in Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 11:31:00](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss) - [Dolphin LLM](https://soylentnews.org/article.pl?sid=25/06/10/2233256&amp;from=rss)
 * [2025-06-12, 10:11:17](https://news.ycombinator.com/item?id=44255867) - [Cyborg Embryos Offer New Insights into Brain Growth](https://spectrum.ieee.org/embryo-electrode-array)
-* [2025-06-12, 08:15:18](https://news.ycombinator.com/item?id=44255232) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
 * [2025-06-12, 06:45:00](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://soylentnews.org/article.pl?sid=25/06/11/0156201&amp;from=rss)
 * [2025-06-12, 01:56:00](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss) - [The Bethesda Declaration](https://soylentnews.org/article.pl?sid=25/06/11/0154240&amp;from=rss)
