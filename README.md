@@ -1,36 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and AI Developments
+## Technology and Artificial Intelligence
 
-* [Hackers Are Turning Tech Support Into a Threat](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exploration of how malicious actors are weaponizing tech support interactions for cyberattacks. [Comments](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [SpaceX Starship Explodes On Test Stand](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX's Starship prototype suffered a dramatic test stand explosion, halting progress on its ambitious next-generation spacecraft.
 
-* [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insight into Google's use of massive YouTube datasets to enhance AI video capabilities. [Comments](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The 16-Billion-Record Data Breach That No One’s Ever Heard of](https://it.slashdot.org/story/25/06/19/2028246/the-16-billion-record-data-breach-that-no-ones-ever-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A shocking report reveals one of the largest data breaches to date, yet it has gone largely unrecognized in mainstream discourse.
 
-* [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) - Report on critical vulnerabilities exposing Linux systems to complete root access. [Comments](https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access)
+* [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google leverages YouTube videos to enhance its AI capabilities for generating dynamic video content.
 
-* [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - Discovery of vulnerability in Microsoft 365's AI assistant revealing data without user consent. [Comments](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss)
+* [Reasoning LLMs Deliver Value Today, So AGI Hype Doesn’t Matter](https://slashdot.org/story/25/06/19/165237/reasoning-llms-deliver-value-today-so-agi-hype-doesnt-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A discussion on practical applications for reasoning LLMs, downplaying the urgency of achieving Artificial General Intelligence.
 
-## Scientific and Historical Insights
+* [AI Ethics Pioneer Calls Artificial General Intelligence 'Just Vibes and Snake Oil'](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An AI ethics expert critiques the current progress and promises of Artificial General Intelligence.
 
-* [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951) - Evidence reinforcing the Last Glacial Maximum timeline of human presence in North America. [Comments](https://news.ycombinator.com/item?id=44319585)
+* [MIT Experiment Finds ChatGPT-Assisted Writing Weakens Student Brain Connectivity and Memory](https://science.slashdot.org/story/25/06/19/089201/mit-experiment-finds-chatgpt-assisted-writing-weakens-student-brain-connectivity-and-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research from MIT identifies potential cognitive drawbacks with the increasing reliance on AI tools like ChatGPT.
 
-* [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/) - Fascinating examples of art formed through mathematical and geometric techniques. [Comments](https://news.ycombinator.com/item?id=44318874)
+* [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html) - OpenElections harnesses language models to improve election data analysis and accessibility.
 
-* [Elliptic Curves as Art](https://elliptic-curves.art/) - A creative approach to representing elliptic curves as compelling digital artistry. [Comments](https://lobste.rs/s/qc3ywx/elliptic_curves_as_art)
+* [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17) - An innovative approach for achieving faster inference times in large language models.
 
-## Technological Ecosystems and Innovations
+## Programming and Technology Insights
 
-* [Steam Beta Enables Proton On Linux For All Titles](https://games.slashdot.org/story/25/06/19/0053207/steam-beta-enables-proton-on-linux-for-all-titles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Steam introduces wider compatibility for Linux gaming through Proton in its latest beta. [Comments](https://games.slashdot.org/story/25/06/19/0053207/steam-beta-enables-proton-on-linux-for-all-titles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Less Humble Programmer (2023)](https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html) - A reflection on the programming community's culture and challenges in 2023.
 
-* [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS) - A lightweight operating system project blending nostalgia and modern programming paradigms. [Comments](https://news.ycombinator.com/item?id=44318588)
+* [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/) - The author details struggles and advances with Linux's graphical systems.
 
-* [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html) - Examination of unique closure systems implemented in a compact assembly language environment. [Comments](https://lobste.rs/s/5dbwyr/homegrown_closures_for_uxn)
+* [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp) - A new Python ORM tool tailored for software agents.
 
-## Cultural Reflections
+* [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html) - Insights into building simple closures in the Uxn assembly language.
 
-* [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/) - A visual journey capturing the essence and historical significance of Juneteenth. [Comments](https://news.ycombinator.com/item?id=44320851)
+* [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048) - A minimalist implementation of the game 2048 using ingenious data space optimization.
 
-* [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery) - A detailed look at a scandal that unraveled a state lottery system. [Comments](https://news.ycombinator.com/item?id=44318305)
+* [What would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/) - Speculative improvements and reimaginings for a future version of Kubernetes.
+
+* [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/) - Lessons from rewriting Kafka using modern Rust programming paradigms.
+
+## Noteworthy Social and Cultural Developments
+
+* [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss) - Examining the toll of boundless work cultures in the digital age.
+
+* [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/) - Visual storytelling commemorating Juneteenth and its historical significance.
+
+* [In praise of “normal” engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/) - A tribute to the steady, “normal” engineers who prioritize reliability and teamwork over flash.
+
+* [Iran Tells Citizens To Delete WhatsApp](https://yro.slashdot.org/story/25/06/19/0711241/iran-tells-citizens-to-delete-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A crackdown on digital privacy leads to controversial policy shifts in Iran.
+
+## Science and Education
+
+* [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951) - Evidence dating ancient human footprints confirms their Late Glacial Maximum origin.
+
+* [Quakes and Monster Shock Waves](https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves) - Findings showcase the intense dynamics of stellar environments.
+
+* [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908) - A personal journey into rationalist thinking and its impacts on decision-making.
+
+## Creative and Artistic Highlights
+
+* [Elliptic curves as art](https://elliptic-curves.art/) - Visual exploration of mathematical elliptic curves as abstract art.
+
+* [Curved-Crease Sculpture](https://erikdemaine.org/curved/) - Artistic designs created with folded paper and mathematical principles.
 
 ---
 
@@ -57,12 +83,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-19, 21:10:00](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Starship Explodes On Test Stand](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-19, 20:30:00](https://it.slashdot.org/story/25/06/19/2028246/the-16-billion-record-data-breach-that-no-ones-ever-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The 16-Billion-Record Data Breach That No One&apos;s Ever Heard of](https://it.slashdot.org/story/25/06/19/2028246/the-16-billion-record-data-breach-that-no-ones-ever-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-19, 20:15:15](https://news.ycombinator.com/item?id=44322153) - [Estrogen: A Trip Report](https://smoothbrains.net/posts/2025-06-15-estrogen.html)
+* [2025-06-19, 19:56:36](https://lobste.rs/s/ofnqos/less_humble_programmer_2023) - [The Less Humble Programmer (2023)](https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html)
+* [2025-06-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss) - [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss)
+* [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 * [2025-06-19, 18:40:00](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hackers Are Turning Tech Support Into a Threat](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 18:39:01](https://lobste.rs/s/atxw9h/bibliography_scheme_related_research) - [Bibliography of Scheme-related Research (2012)](https://web.archive.org/web/20180625085633/http://library.readscheme.org/)
-* [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice — fireborn](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
+* [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-19, 18:00:00](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 17:41:59](https://news.ycombinator.com/item?id=44320851) - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
-* [2025-06-19, 17:36:41](https://news.ycombinator.com/item?id=44320806) - [In Praise of \&quot;Normal\&quot; Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+* [2025-06-19, 17:36:41](https://news.ycombinator.com/item?id=44320806) - [In praise of “normal” engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 * [2025-06-19, 17:29:35](https://news.ycombinator.com/item?id=44320747) - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 * [2025-06-19, 17:26:54](https://lobste.rs/s/5dbwyr/homegrown_closures_for_uxn) - [Homegrown closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
@@ -81,11 +113,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 14:42:03](https://news.ycombinator.com/item?id=44319144) - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [2025-06-19, 14:40:00](https://slashdot.org/story/25/06/19/0535202/amazon-orders-employees-to-relocate-to-seattle-and-other-hubs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Orders Employees To Relocate To Seattle and Other Hubs](https://slashdot.org/story/25/06/19/0535202/amazon-orders-employees-to-relocate-to-seattle-and-other-hubs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss)
-* [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
+* [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Sculpture](https://erikdemaine.org/curved/)
 * [2025-06-19, 14:00:00](https://science.slashdot.org/story/25/06/19/089201/mit-experiment-finds-chatgpt-assisted-writing-weakens-student-brain-connectivity-and-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Experiment Finds ChatGPT-Assisted Writing Weakens Student Brain Connectivity and Memory](https://science.slashdot.org/story/25/06/19/089201/mit-experiment-finds-chatgpt-assisted-writing-weakens-student-brain-connectivity-and-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
-* [2025-06-19, 13:14:32](https://news.ycombinator.com/item?id=44318420) - [End of 10: Upgrade your old Windows 10 computer to Linux](https://endof10.org/)
-* [2025-06-19, 13:01:16](https://news.ycombinator.com/item?id=44318305) - [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
 * [2025-06-19, 13:00:00](https://news.slashdot.org/story/25/06/18/2323209/new-us-visa-rules-will-force-foreign-students-to-unlock-social-media-profiles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New US Visa Rules Will Force Foreign Students To Unlock Social Media Profiles](https://news.slashdot.org/story/25/06/18/2323209/new-us-visa-rules-will-force-foreign-students-to-unlock-social-media-profiles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 12:00:54](https://news.ycombinator.com/item?id=44317825) - [What would a Kubernetes 2.0 look like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
@@ -105,12 +135,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 04:02:27](https://news.ycombinator.com/item?id=44315321) - [Elliptic Curves as Art](https://elliptic-curves.art/)
 * [2025-06-19, 03:30:00](https://tech.slashdot.org/story/25/06/18/2317216/scammers-use-google-ads-to-inject-phony-help-lines-on-apple-microsoft-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scammers Use Google Ads To Inject Phony Help Lines On Apple, Microsoft Sites](https://tech.slashdot.org/story/25/06/18/2317216/scammers-use-google-ads-to-inject-phony-help-lines-on-apple-microsoft-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 01:20:00](https://news.slashdot.org/story/25/06/18/2310223/texas-instruments-to-invest-60-billion-to-make-semiconductors-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Instruments To Invest $60 Billion To Make Semiconductors In US](https://news.slashdot.org/story/25/06/18/2310223/texas-instruments-to-invest-60-billion-to-make-semiconductors-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-19, 00:41:00](https://yro.slashdot.org/story/25/06/18/1951212/major-oil-companies-face-first-climate-death-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Major Oil Companies Face First &apos;Climate Death&apos; Lawsuit](https://yro.slashdot.org/story/25/06/18/1951212/major-oil-companies-face-first-climate-death-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss)
 * [2025-06-19, 00:07:26](https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
-* [2025-06-19, 00:02:00](https://mobile.slashdot.org/story/25/06/18/1945255/apple-posts-strongest-two-month-iphone-growth-since-pandemic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Posts Strongest Two-Month iPhone Growth Since Pandemic](https://mobile.slashdot.org/story/25/06/18/1945255/apple-posts-strongest-two-month-iphone-growth-since-pandemic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-18, 23:31:32](https://lobste.rs/s/s0inoo/accessibility_programming_doesn_t_feel) - [Accessibility Programming Doesn&apos;t Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 22:53:08](https://lobste.rs/s/tuze84/s7_scheme) - [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
 * [2025-06-18, 21:39:09](https://lobste.rs/s/1nyzfj/it_s_true_we_don_t_care_about_accessibility) - [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
@@ -129,20 +156,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won&apos;t Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 * [2025-06-18, 00:32:00](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss) - [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss)
 * [2025-06-17, 19:45:00](https://soylentnews.org/article.pl?sid=25/06/17/0358247&amp;from=rss) - [You Don&apos;t Have to Almost Die to be Happy at Work, but It Helps](https://soylentnews.org/article.pl?sid=25/06/17/0358247&amp;from=rss)
-* [2025-06-17, 17:56:04](https://news.ycombinator.com/item?id=44301875) - [Public/protected/private is an unnecessary feature](https://catern.com/private.html)
+* [2025-06-17, 17:46:40](https://news.ycombinator.com/item?id=44301765) - [Star Quakes and Monster Shock Waves](https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves)
 * [2025-06-17, 15:05:00](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss) - [4Chan Under Investigation by Uk Ofcom Over Online Safety Concerns](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss)
 * [2025-06-17, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss) - [This Is Not A Drill](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
-* [2025-06-17, 12:03:01](https://news.ycombinator.com/item?id=44298087) - [Finding Dead Websites](https://www.marginalia.nu/log/a_122_dead_websites/)
 * [2025-06-17, 11:15:25](https://news.ycombinator.com/item?id=44297761) - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/)
+* [2025-06-17, 10:57:09](https://news.ycombinator.com/item?id=44297656) - [Testing a Robust Netcode with Godot](https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html)
 * [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss)
 * [2025-06-17, 05:30:00](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss) - [Can We Stop Big Tech From Controlling the Internet With AI Agents?](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss)
 * [2025-06-17, 00:43:00](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss) - [TSMC Slows Down Global Plans Due to Soft Demand, but Accelerates Arizona Fab Plans by Six Months](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss)
 * [2025-06-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/06/16/0057231&amp;from=rss) - [Washington Post in Talks With Substack About Using its Writers](https://soylentnews.org/article.pl?sid=25/06/16/0057231&amp;from=rss)
-* [2025-06-16, 17:45:49](https://news.ycombinator.com/item?id=44291681) - [Show HN: TrendFi – I built AI trading signals that self-optimize](https://trend.fi)
+* [2025-06-16, 17:41:27](https://news.ycombinator.com/item?id=44291642) - [Extracting memorized pieces of books from open-weight language models](https://arxiv.org/abs/2505.12546)
 * [2025-06-16, 15:11:00](https://soylentnews.org/article.pl?sid=25/06/16/0052252&amp;from=rss) - [Huawei CEO Says Washington Has Exaggerated its Achievements, Saying the Company Isn&apos;t That Powerful](https://soylentnews.org/article.pl?sid=25/06/16/0052252&amp;from=rss)
 * [2025-06-16, 10:25:00](https://soylentnews.org/article.pl?sid=25/06/15/145200&amp;from=rss) - [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&amp;from=rss)
-* [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [Researchers are now vacuuming DNA from the air](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
+* [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [DNA floating in the air tracks wildlife, viruses, even drugs](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
 * [2025-06-16, 07:02:40](https://news.ycombinator.com/item?id=44287248) - [Getting Started Strudel](https://strudel.cc/workshop/getting-started/)
 * [2025-06-16, 05:41:00](https://soylentnews.org/article.pl?sid=25/06/15/1353252&amp;from=rss) - [Photonic Processor Could Streamline 6G Wireless Signal Processing](https://soylentnews.org/article.pl?sid=25/06/15/1353252&amp;from=rss)
 * [2025-06-16, 00:58:00](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss) - [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss)
