@@ -1,62 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Developments and Research
+## Climate and Environmental Science
 
-* [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis) - Analysis of an advanced Web3 intrusion operation linked to North Korea’s Bluenoroff.
+* [Three Years Left To Limit Warming To 1.5C, Leading Scientists Warn](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A potential breakthrough in the chemical processing of crude oil.
+* [Axolotl Discovery Brings Us Closer Than Ever To Regrowing Human Limbs](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/) - Deep insights into rewriting Kafka’s infrastructure in Rust for better performance.
+* [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Photonic Processor Could Streamline 6G Wireless Signal Processing](https://soylentnews.org/article.pl?sid=25/06/15/1353252&amp;from=rss) - Research on photonic processors to advance the future of wireless networks.
+## AI and Technology Advancements
 
-* [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - A newly discovered vulnerability in AI enterprise tools.
+* [Social Media Ban Moves Closer in Australia After Tech Trial](https://tech.slashdot.org/story/25/06/20/0221229/social-media-ban-moves-closer-in-australia-after-tech-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Cybersecurity and Privacy
+* [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The 16-Billion-Record Data Breach That No One&apos;s Ever Heard of](https://it.slashdot.org/story/25/06/19/2028246/the-16-billion-record-data-breach-that-no-ones-ever-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Uncovering a massive, underreported data breach and its implications.
+* [AI Ethics Pioneer Calls Artificial General Intelligence 'Just Vibes and Snake Oil'](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) - Critical security vulnerabilities affecting major Linux distributions.
+## Cybersecurity and Data Privacy
 
-* [Hackers Are Turning Tech Support Into a Threat](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating social engineering tactics that transform tech support interactions into cyberattacks.
+* [The 16-Billion-Record Data Breach That No One's Ever Heard of](https://it.slashdot.org/story/25/06/19/2028246/the-16-billion-record-data-breach-that-no-ones-ever-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss) - A privacy alert about unsecured cameras broadcasting sensitive videos online.
+* [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html)
 
-## Artificial Intelligence Advancements and Challenges
+* [Massive Privacy Concern: Over 40,000 Security Cameras Are Streaming Unsecured Footage Worldwide](https://soylentnews.org/article.pl?sid=25/06/15/1350208&amp;from=rss)
 
-* [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17) - Exploring innovations to reduce latency in large language models.
+## Innovations in Space and Astronomy
 
-* [AI Ethics Pioneer Calls Artificial General Intelligence &apos;Just Vibes and Snake Oil&apos;](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A critique of AGI progress and its ethical considerations.
+* [SpaceX Starship Explodes On Test Stand](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How YouTube content is shaping Google’s AI video generation algorithms.
+* [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
 
-## Open Source and Community Innovations
+* [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss)
 
-* [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker) - A new Elixir-based BitTorrent tracker.
+## Programming and Software Development
 
-* [Literate programming tool for any language](https://github.com/zyedidia/Literate) - An open-source tool empowering code documentation across various languages.
+* [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 
-* [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang) - CLI development made easy with this open-source project.
+* [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 
-## Science and Exploration
+* [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
 
-* [SpaceX Starship Explodes On Test Stand](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A setback in SpaceX’s thermodynamics testing of Starship.
+## Open Source and Hacker Tools
 
-* [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss) - Stunning solar imagery revealing the south pole of the Sun.
+* [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
 
-* [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&amp;from=rss) - A groundbreaking discovery under Antarctic ice sparking curiosity.
+* [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 
-## Cultural Evolution and Nostalgia
+* [The Zed Debugger is Here](https://zed.dev/blog/debugger)
 
-* [Chinese Studios Plan AI-Powered Remakes of Kung Fu Classics](https://entertainment.slashdot.org/story/25/06/19/2050243/chinese-studios-plan-ai-powered-remakes-of-kung-fu-classics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Chinese cinema plans to modernize classic kung fu movies using AI.
+## Cultural and Historical Insights
 
-* [Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712) - A nostalgic look at rare gaming hardware from Thailand.
+* [Chinese Studios Plan AI-Powered Remakes of Kung Fu Classics](https://entertainment.slashdot.org/story/25/06/19/2050243/chinese-studios-plan-ai-powered-remakes-of-kung-fu-classics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Design and Art
+* [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 
-* [Elliptic curves as art](https://elliptic-curves.art/) - A creative exploration of math through elliptic curve visualizations.
-
-* [Curved-Crease Sculpture](https://erikdemaine.org/curved/) - Blending geometry and art in unique curved-crease sculptures.
+* [Reddit User Surprised When 1960s Computer Panel Emerged From Collapsed Family Garage](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss)
 
 ---
 
@@ -83,16 +81,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-20, 03:30:00](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Three Years Left To Limit Warming To 1.5C, Leading Scientists Warn](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-20, 02:58:39](https://lobste.rs/s/hnfoam/zig_rust) - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+* [2025-06-20, 02:30:00](https://tech.slashdot.org/story/25/06/20/0221229/social-media-ban-moves-closer-in-australia-after-tech-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Social Media Ban Moves Closer in Australia After Tech Trial](https://tech.slashdot.org/story/25/06/20/0221229/social-media-ban-moves-closer-in-australia-after-tech-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 01:44:55](https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside) - [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
 * [2025-06-20, 01:35:36](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature) - [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-20, 01:27:16](https://news.ycombinator.com/item?id=44323982) - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
+* [2025-06-20, 01:10:00](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Axolotl Discovery Brings Us Closer Than Ever To Regrowing Human Limbs](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 01:07:43](https://news.ycombinator.com/item?id=44323914) - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
-* [2025-06-20, 01:06:12](https://news.ycombinator.com/item?id=44323904) - [Open Source Can&apos;t Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
+* [2025-06-20, 01:06:12](https://news.ycombinator.com/item?id=44323904) - [Open source can&apos;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-06-20, 00:30:00](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 00:18:37](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them) - [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
 * [2025-06-20, 00:16:57](https://news.ycombinator.com/item?id=44323719) - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+* [2025-06-20, 00:13:00](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss) - [Fermilab G-2 Collaboration Publishes Final Result](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss)
 * [2025-06-19, 23:50:00](https://apple.slashdot.org/story/25/06/19/230226/macos-tahoe-beta-drops-firewire-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [macOS Tahoe Beta Drops FireWire Support](https://apple.slashdot.org/story/25/06/19/230226/macos-tahoe-beta-drops-firewire-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-19, 23:21:40](https://news.ycombinator.com/item?id=44323411) - [Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
+* [2025-06-19, 23:21:40](https://news.ycombinator.com/item?id=44323411) - [Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
+* [2025-06-19, 23:17:39](https://news.ycombinator.com/item?id=44323389) - [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
 * [2025-06-19, 23:10:00](https://slashdot.org/story/25/06/19/213255/publishers-facing-existential-threat-from-ai-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Publishers Facing Existential Threat From AI, Cloudflare CEO Says](https://slashdot.org/story/25/06/19/213255/publishers-facing-existential-threat-from-ai-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 22:49:49](https://news.ycombinator.com/item?id=44323253) - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
 * [2025-06-19, 22:30:00](https://entertainment.slashdot.org/story/25/06/19/2050243/chinese-studios-plan-ai-powered-remakes-of-kung-fu-classics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Studios Plan AI-Powered Remakes of Kung Fu Classics](https://entertainment.slashdot.org/story/25/06/19/2050243/chinese-studios-plan-ai-powered-remakes-of-kung-fu-classics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,12 +121,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 16:01:00](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Ethics Pioneer Calls Artificial General Intelligence &apos;Just Vibes and Snake Oil&apos;](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 15:54:51](https://lobste.rs/s/6sbyyj/16_billion_record_data_breach_no_one_s_ever) - [The 16-billion-record data breach that no one’s ever heard of](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
-* [2025-06-19, 15:22:00](https://yro.slashdot.org/story/25/06/19/0711241/iran-tells-citizens-to-delete-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran Tells Citizens To Delete WhatsApp](https://yro.slashdot.org/story/25/06/19/0711241/iran-tells-citizens-to-delete-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 15:17:33](https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle) - [A Dynamic Graph Approach to Immediate Cycle Collection](https://dl.acm.org/doi/10.1145/3735950.3735953)
-* [2025-06-19, 14:40:00](https://slashdot.org/story/25/06/19/0535202/amazon-orders-employees-to-relocate-to-seattle-and-other-hubs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Orders Employees To Relocate To Seattle and Other Hubs](https://slashdot.org/story/25/06/19/0535202/amazon-orders-employees-to-relocate-to-seattle-and-other-hubs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Sculpture](https://erikdemaine.org/curved/)
-* [2025-06-19, 14:00:00](https://science.slashdot.org/story/25/06/19/089201/mit-experiment-finds-chatgpt-assisted-writing-weakens-student-brain-connectivity-and-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Experiment Finds ChatGPT-Assisted Writing Weakens Student Brain Connectivity and Memory](https://science.slashdot.org/story/25/06/19/089201/mit-experiment-finds-chatgpt-assisted-writing-weakens-student-brain-connectivity-and-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 * [2025-06-19, 12:00:54](https://news.ycombinator.com/item?id=44317825) - [What would a Kubernetes 2.0 look like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
@@ -138,12 +139,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss)
 * [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss)
-* [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
-* [2025-06-18, 22:53:08](https://lobste.rs/s/tuze84/s7_scheme) - [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
 * [2025-06-18, 21:39:09](https://lobste.rs/s/1nyzfj/it_s_true_we_don_t_care_about_accessibility) - [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
 * [2025-06-18, 21:08:20](https://lobste.rs/s/5moehg/quick_notes_on_brief_agentic_coding) - [Quick notes on a brief agentic coding experience](https://olano.dev/blog/agentic-coding-experience/)
 * [2025-06-18, 20:16:53](https://lobste.rs/s/ncg3v3/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2025-06-18, 19:38:00](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss) - [Trump&apos;s Cuts to NASA and the National Science Foundation Will Have Huge Consequences](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss)
+* [2025-06-18, 17:57:44](https://news.ycombinator.com/item?id=44311968) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-18, 17:57:32](https://lobste.rs/s/rwbtwd/zed_debugger_is_here) - [The Zed Debugger is Here](https://zed.dev/blog/debugger)
 * [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
 * [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
@@ -159,9 +159,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-17, 15:05:00](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss) - [4Chan Under Investigation by Uk Ofcom Over Online Safety Concerns](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss)
 * [2025-06-17, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss) - [This Is Not A Drill](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
-* [2025-06-17, 12:17:02](https://news.ycombinator.com/item?id=44298211) - [What newspaper are you paying for these days?](https://news.ycombinator.com/item?id=44298211)
 * [2025-06-17, 11:15:25](https://news.ycombinator.com/item?id=44297761) - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/)
-* [2025-06-17, 10:57:09](https://news.ycombinator.com/item?id=44297656) - [Testing a Robust Netcode with Godot](https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html)
 * [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss)
 * [2025-06-17, 05:30:00](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss) - [Can We Stop Big Tech From Controlling the Internet With AI Agents?](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss)
 * [2025-06-17, 00:43:00](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss) - [TSMC Slows Down Global Plans Due to Soft Demand, but Accelerates Arizona Fab Plans by Six Months](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss)
