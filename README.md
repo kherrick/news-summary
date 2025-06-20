@@ -1,52 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Open Source and Software Development
+## Healthcare and Medical Innovations
 
-* [Achieving Excellence in Open Source Software Design](https://www.youtube.com/watch?v=12TJ-zTgiH0) ([comments](https://lobste.rs/s/uf70vb/achieving_excellence_open_source))
+* [Breakthrough Alzheimer’s Drugs Too Pricey for UK’s National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss) - The affordability of breakthrough Alzheimer’s drugs poses a challenge for the UK’s National Health Service. [Comments](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss)
 
-* [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl) ([comments](https://news.ycombinator.com/item?id=44324592))
+* [Axolotl Discovery Brings Us Closer Than Ever To Regrowing Human Limbs](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Fascinating discovery surrounding axolotls fuels hope for advances in human limb regeneration. [Comments](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Zig And Rust (2023)](https://matklad.github.io/2023/03/26/zig-and-rust.html) ([comments](https://lobste.rs/s/hnfoam/zig_rust_2023))
+## Technology and Software Development
 
-* [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/) ([comments](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature))
+* [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html) - Explore Infinite Mac OS X, a creative exploration of vintage systems. [Comments](https://lobste.rs/s/la5mgg/infinite_mac_os_x)
 
-* [Open source can't coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html) ([comments](https://news.ycombinator.com/item?id=44323904))
+* [Learn Makefiles](https://makefiletutorial.com/) - A detailed tutorial to demystify the art of crafting efficient Makefiles. [Comments](https://news.ycombinator.com/item?id=44325611)
 
-* [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf) ([comments](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them))
+* [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/) - A deep dive into one of computer science's classic papers and its implications today. [Comments](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature)
 
-## Climate and Sustainability
+## Environment and Astronomy
 
-* [‘Net Zero’ Is Collapsing in U.S. States](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss))
+* [Three Years Left To Limit Warming To 1.5C, Leading Scientists Warn](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A stark warning from scientists urging action to limit global warming. [Comments](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Three Years Left To Limit Warming To 1.5C, Leading Scientists Warn](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/19/2122207/three-years-left-to-limit-warming-to-15c-leading-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Our Galaxy’s Monster Black Hole Is Spinning Almost As Fast As Physics Allows](https://science.slashdot.org/story/25/06/19/236226/our-galaxys-monster-black-hole-is-spinning-almost-as-fast-as-physics-allows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The astonishing rotational speed of the Milky Way's supermassive black hole. [Comments](https://science.slashdot.org/story/25/06/19/236226/our-galaxys-monster-black-hole-is-spinning-almost-as-fast-as-physics-allows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Science and Discovery
+## Big Tech and Digital Freedom
 
-* [Axolotl Discovery Brings Us Closer Than Ever To Regrowing Human Limbs](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/) - A significant declaration on challenging the dominance of Big Tech companies. [Comments](https://news.ycombinator.com/item?id=44325596)
 
-* [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy) ([comments](https://news.ycombinator.com/item?id=44323389))
+* [Publishers Facing Existential Threat From AI, Cloudflare CEO Says](https://slashdot.org/story/25/06/19/213255/publishers-facing-existential-threat-from-ai-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into how AI may impact traditional publishing industries. [Comments](https://slashdot.org/story/25/06/19/213255/publishers-facing-existential-threat-from-ai-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Technology and AI
+## Space Exploration and Scientific Discoveries
 
-* [The 16-Billion-Record Data Breach That No One's Ever Heard of](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/) ([comments](https://lobste.rs/s/6sbyyj/16_billion_record_data_breach_no_one_s_ever))
+* [SpaceX Starship Explodes On Test Stand](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A setback for SpaceX as their ambitious spacecraft explodes during testing. [Comments](https://science.slashdot.org/story/25/06/19/2034234/spacex-starship-explodes-on-test-stand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17) ([comments](https://news.ycombinator.com/item?id=44321672))
+* [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss) - A groundbreaking look at the Sun's often unseen south pole. [Comments](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss)
 
-* [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Creative Innovations and Hobbyist Projects
 
-## Security
+* [Elliptic curves as art](https://elliptic-curves.art/) - A mesmerizing intersection of math and art using elliptic curves. [Comments](https://lobste.rs/s/qc3ywx/elliptic_curves_as_art)
 
-* [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) ([comments](https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access))
-
-* [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss))
-
-* [Hackers Are Turning Tech Support Into a Threat](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/06/19/1619248/hackers-are-turning-tech-support-into-a-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Innovation and Miscellaneous
-
-* [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis) ([comments](https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside))
+* [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS) - A fascinating new operating system project inspired by DOS. [Comments](https://news.ycombinator.com/item?id=44318588)
 
 ---
 
@@ -73,6 +63,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss) - [Breakthrough Alzheimer&apos;s Drugs Too Pricey for UK&apos;s National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss)
+* [2025-06-20, 08:43:42](https://lobste.rs/s/la5mgg/infinite_mac_os_x) - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+* [2025-06-20, 08:10:34](https://lobste.rs/s/jrm2jd/pipelined_state_machine_corruption) - [pipelined state machine corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
+* [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I Will Do Anything to End Homelessness Except Build More Homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
+* [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
+* [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
+* [2025-06-20, 07:52:00](https://news.ycombinator.com/item?id=44325563) - [JavaScript broke the web (and called it progress)](https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/)
+* [2025-06-20, 07:51:36](https://lobste.rs/s/3ew6rt/javascript_broke_web_called_it_progress) - [JavaScript broke the web (and called it progress)](https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/)
+* [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
+* [2025-06-20, 07:00:00](https://science.slashdot.org/story/25/06/19/236226/our-galaxys-monster-black-hole-is-spinning-almost-as-fast-as-physics-allows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Our Galaxy&apos;s Monster Black Hole Is Spinning Almost As Fast As Physics Allows](https://science.slashdot.org/story/25/06/19/236226/our-galaxys-monster-black-hole-is-spinning-almost-as-fast-as-physics-allows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 05:08:06](https://lobste.rs/s/uf70vb/achieving_excellence_open_source) - [Achieving Excellence in Open Source Software Design](https://www.youtube.com/watch?v=12TJ-zTgiH0)
 * [2025-06-20, 05:06:57](https://news.ycombinator.com/item?id=44324897) - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
 * [2025-06-20, 04:55:00](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss) - [‘Net Zero’ Is Collapsing in U.S. States](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss)
@@ -86,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-20, 01:35:36](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature) - [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-20, 01:10:00](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Axolotl Discovery Brings Us Closer Than Ever To Regrowing Human Limbs](https://science.slashdot.org/story/25/06/19/2130210/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 01:07:43](https://news.ycombinator.com/item?id=44323914) - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
-* [2025-06-20, 01:06:12](https://news.ycombinator.com/item?id=44323904) - [Open source can&apos;t coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-06-20, 00:30:00](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Chemical Engineers Develop New Way To Separate Crude Oil](https://science.slashdot.org/story/25/06/19/2256256/mit-chemical-engineers-develop-new-way-to-separate-crude-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 00:18:37](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them) - [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
 * [2025-06-20, 00:16:57](https://news.ycombinator.com/item?id=44323719) - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
@@ -109,14 +108,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-19, 18:00:00](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google is Using YouTube Videos To Train Its AI Video Generator](https://tech.slashdot.org/story/25/06/19/1613206/google-is-using-youtube-videos-to-train-its-ai-video-generator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
-* [2025-06-19, 17:29:35](https://news.ycombinator.com/item?id=44320747) - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 * [2025-06-19, 17:26:54](https://lobste.rs/s/5dbwyr/homegrown_closures_for_uxn) - [Homegrown closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 * [2025-06-19, 17:20:00](https://slashdot.org/story/25/06/19/165237/reasoning-llms-deliver-value-today-so-agi-hype-doesnt-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reasoning LLMs Deliver Value Today, So AGI Hype Doesn&apos;t Matter](https://slashdot.org/story/25/06/19/165237/reasoning-llms-deliver-value-today-so-agi-hype-doesnt-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-19, 17:00:39](https://news.ycombinator.com/item?id=44320460) - [Flowspace (YC S17) Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
 * [2025-06-19, 16:41:29](https://lobste.rs/s/ac19tp/2048_with_only_64_bits_state) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 16:40:00](https://apple.slashdot.org/story/25/06/19/084215/apple-software-chief-rejects-macos-on-ipad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Software Chief Rejects macOS on iPad](https://apple.slashdot.org/story/25/06/19/084215/apple-software-chief-rejects-macos-on-ipad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
-* [2025-06-19, 16:01:00](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Ethics Pioneer Calls Artificial General Intelligence &apos;Just Vibes and Snake Oil&apos;](https://slashdot.org/story/25/06/19/0510206/ai-ethics-pioneer-calls-artificial-general-intelligence-just-vibes-and-snake-oil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-19, 15:54:51](https://lobste.rs/s/6sbyyj/16_billion_record_data_breach_no_one_s_ever) - [The 16-billion-record data breach that no one’s ever heard of](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
 * [2025-06-19, 15:17:33](https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle) - [A Dynamic Graph Approach to Immediate Cycle Collection](https://dl.acm.org/doi/10.1145/3735950.3735953)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss)
@@ -128,38 +124,33 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I&apos;m a Rationalist Now](https://scottaaronson.blog/?p=8908)
 * [2025-06-19, 10:10:27](https://lobste.rs/s/cjnt2y/rewriting_kafka_rust_async_insights) - [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/)
 * [2025-06-19, 09:54:00](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss) - [Reddit User Surprised When 1960s Computer Panel Emerged From Collapsed Family Garage](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss)
-* [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [2025-06-19, 08:52:49](https://lobste.rs/s/qc3ywx/elliptic_curves_as_art) - [Elliptic curves as art](https://elliptic-curves.art/)
+* [2025-06-19, 08:39:22](https://lobste.rs/s/sk0zq9/liberux_nexx_interview_with_liberux) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
 * [2025-06-19, 06:37:07](https://lobste.rs/s/blwshw/charmbracelet_fang_cli_starter_kit) - [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang)
-* [2025-06-19, 06:28:32](https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access) - [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html)
 * [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss)
 * [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss)
 * [2025-06-18, 21:39:09](https://lobste.rs/s/1nyzfj/it_s_true_we_don_t_care_about_accessibility) - [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
 * [2025-06-18, 21:08:20](https://lobste.rs/s/5moehg/quick_notes_on_brief_agentic_coding) - [Quick notes on a brief agentic coding experience](https://olano.dev/blog/agentic-coding-experience/)
-* [2025-06-18, 20:16:53](https://lobste.rs/s/ncg3v3/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2025-06-18, 19:38:00](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss) - [Trump&apos;s Cuts to NASA and the National Science Foundation Will Have Huge Consequences](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss)
-* [2025-06-18, 17:57:44](https://news.ycombinator.com/item?id=44311968) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-18, 17:57:32](https://lobste.rs/s/rwbtwd/zed_debugger_is_here) - [The Zed Debugger is Here](https://zed.dev/blog/debugger)
-* [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
-* [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
 * [2025-06-18, 14:50:00](https://soylentnews.org/article.pl?sid=25/06/18/0115237&amp;from=rss) - [Google&apos;s Advanced Protection Arrives on Android: Should You Use It?](https://soylentnews.org/article.pl?sid=25/06/18/0115237&amp;from=rss)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn&apos;t Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 * [2025-06-18, 10:04:00](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss) - [The Effect of Physical Fitness on Mortality is Overestimated](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss)
 * [2025-06-18, 05:17:00](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss) - [SmartAttack Uses Smartwatches to Steal Data From Air-Gapped Systems](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss)
 * [2025-06-18, 00:32:00](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss) - [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss)
 * [2025-06-17, 19:45:00](https://soylentnews.org/article.pl?sid=25/06/17/0358247&amp;from=rss) - [You Don&apos;t Have to Almost Die to be Happy at Work, but It Helps](https://soylentnews.org/article.pl?sid=25/06/17/0358247&amp;from=rss)
-* [2025-06-17, 16:20:59](https://news.ycombinator.com/item?id=44300854) - [Show HN: RM2000 Tape Recorder, an audio sampler for macOS](https://rm2000.app)
+* [2025-06-17, 15:57:15](https://news.ycombinator.com/item?id=44300641) - [ELIZA Reanimated: Restoring the Mother of All Chatbots](https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc)
 * [2025-06-17, 15:05:00](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss) - [4Chan Under Investigation by Uk Ofcom Over Online Safety Concerns](https://soylentnews.org/article.pl?sid=25/06/16/0136200&amp;from=rss)
 * [2025-06-17, 14:52:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss) - [This Is Not A Drill](https://soylentnews.org/breakingnews/article.pl?sid=25/06/17/1439252&amp;from=rss)
+* [2025-06-17, 14:50:44](https://news.ycombinator.com/item?id=44299962) - [Chimpanzees yawn when observing an Android yawn](https://www.nature.com/articles/s41598-025-98639-z)
 * [2025-06-17, 12:33:44](https://news.ycombinator.com/item?id=44298360) - [Pipelined State Machine Corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
-* [2025-06-17, 11:15:25](https://news.ycombinator.com/item?id=44297761) - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/)
 * [2025-06-17, 10:18:00](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss) - [Behold the First Images of the Sun’s South Pole](https://soylentnews.org/article.pl?sid=25/06/16/0131240&amp;from=rss)
 * [2025-06-17, 05:30:00](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss) - [Can We Stop Big Tech From Controlling the Internet With AI Agents?](https://soylentnews.org/article.pl?sid=25/06/16/0115212&amp;from=rss)
 * [2025-06-17, 04:18:38](https://news.ycombinator.com/item?id=44295725) - [Virtual Cells](https://udara.io/science/virtual-cells/)
+* [2025-06-17, 01:58:59](https://news.ycombinator.com/item?id=44295096) - [Show HN: Sexprs – Lisp dialect written in Rust](https://github.com/gabrielfalcao/sexprs)
 * [2025-06-17, 00:43:00](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss) - [TSMC Slows Down Global Plans Due to Soft Demand, but Accelerates Arizona Fab Plans by Six Months](https://soylentnews.org/article.pl?sid=25/06/16/016221&amp;from=rss)
 * [2025-06-16, 19:56:00](https://soylentnews.org/article.pl?sid=25/06/16/0057231&amp;from=rss) - [Washington Post in Talks With Substack About Using its Writers](https://soylentnews.org/article.pl?sid=25/06/16/0057231&amp;from=rss)
-* [2025-06-16, 17:41:27](https://news.ycombinator.com/item?id=44291642) - [Extracting memorized pieces of books from open-weight language models](https://arxiv.org/abs/2505.12546)
 * [2025-06-16, 15:11:00](https://soylentnews.org/article.pl?sid=25/06/16/0052252&amp;from=rss) - [Huawei CEO Says Washington Has Exaggerated its Achievements, Saying the Company Isn&apos;t That Powerful](https://soylentnews.org/article.pl?sid=25/06/16/0052252&amp;from=rss)
 * [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
 * [2025-06-16, 10:25:00](https://soylentnews.org/article.pl?sid=25/06/15/145200&amp;from=rss) - [Buried Under 2 Kilometers of Antarctic Ice, Scientists Find a 34-Million-Year-Old Lost World](https://soylentnews.org/article.pl?sid=25/06/15/145200&amp;from=rss)
