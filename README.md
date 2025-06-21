@@ -1,40 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Challenges
+## AI and Technology Developments
 
-* [Meta Discussed Buying Perplexity Before Investing In Scale AI](https://meta.slashdot.org/story/25/06/20/2015248/meta-discussed-buying-perplexity-before-investing-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta reportedly considered acquiring Perplexity AI before shifting focus to Scale AI, highlighting the tech giant's evolving AI strategies.
+* [SoftBank's Son Pitches $1 Trillion Arizona AI Hub](https://news.slashdot.org/story/25/06/20/2212217/softbanks-son-pitches-1-trillion-arizona-ai-hub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An ambitious plan by SoftBank's CEO Masayoshi Son to create a massive AI investment hub in Arizona valued at $1 trillion.
 
-* [BBC Threatens Legal Action Against Perplexity AI Over Content Scraping](https://news.slashdot.org/story/25/06/20/2022200/bbc-threatens-legal-action-against-perplexity-ai-over-content-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The BBC accuses Perplexity AI of content scraping, raising questions about copyright issues in AI advancements.
+* [AI Models From Major Companies Resort To Blackmail in Stress Tests](https://slashdot.org/story/25/06/20/2010257/ai-models-from-major-companies-resort-to-blackmail-in-stress-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Stress testing reveals questionable ethical behavior emerging from major AI models under specific conditions.
 
-* [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs) - A new security-first operating system showcases innovative cryptography and deterministic programming language features.
+* [Meta Discussed Buying Perplexity Before Investing In Scale AI](https://meta.slashdot.org/story/25/06/20/2015248/meta-discussed-buying-perplexity-before-investing-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insight into Meta's strategic moves in AI, showcasing interest in acquiring Perplexity prior to its Scale AI investment.
 
-* [AI Models From Major Companies Resort To Blackmail in Stress Tests](https://slashdot.org/story/25/06/20/2010257/ai-models-from-major-companies-resort-to-blackmail-in-stress-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Experiments reveal stress-induced 'blackmail' behaviors in AI models from leading companies, prompting ethical concerns in AI development.
+## Surveillance and Privacy Concerns
 
-## Environmental and Social Impact Stories
+* [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/) - Controversy grows over Samsung's distribution of a pre-installed spyware app on phones in the WANA region.
 
-* [Banning Plastic Bags Works To Limit Shoreline Litter, Study Finds](https://science.slashdot.org/story/25/06/20/201242/banning-plastic-bags-works-to-limit-shoreline-litter-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research highlights the significant success of plastic bag bans in reducing shoreline litter globally.
+* [BBC Threatens Legal Action Against Perplexity AI Over Content Scraping](https://news.slashdot.org/story/25/06/20/2022200/bbc-threatens-legal-action-against-perplexity-ai-over-content-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - BBC challenges Perplexity AI citing concerns over copyright and content scraping practices.
 
-* [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&amp;from=rss) - A spotlight on the essential role and continued underrepresentation of women in the semiconductor industry workforce.
+## Unique Hardware and Scientific Insights
 
-## Unique Technological Projects
+* [Tiny Undervalued Hardware Companions (2024)](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/) - Exploring lesser-known hardware devices with clever utility and undervalued potential.
 
-* [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html) - A deep dive into the relevance and application of Galois fields in modern coding and cryptography.
+* [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor) - A look at the fascinating phenomenon of Earth's natural nuclear reactor from billions of years ago.
 
-* [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html) - A nostalgic project offering infinite runtime for Mac OS X through emulation, inviting users to relive a classic era in computing history.
+## Environmental and Societal Changes
 
-* [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js) - A browser-based revival of the classic Tux Racer game, showcasing nostalgia-driven software innovation.
+* [Banning Plastic Bags Works To Limit Shoreline Litter, Study Finds](https://science.slashdot.org/story/25/06/20/201242/banning-plastic-bags-works-to-limit-shoreline-litter-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research highlights the success of plastic bag bans in reducing shoreline litter.
 
-## High-Profile Incidents
+* [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&amp;from=rss) - Addressing gender gaps in semiconductor industries to fulfill critical workforce needs.
 
-* [Record DDoS Pummels Site With Once-Unimaginable 7.3Tbps of Junk Traffic](https://yro.slashdot.org/story/25/06/20/2010218/record-ddos-pummels-site-with-once-unimaginable-73tbps-of-junk-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A record-breaking distributed denial-of-service (DDoS) attack underlines escalating cybersecurity threats.
+## Miscellaneous Highlights
 
-* [SpaceX Rocket Explodes in New Setback to Elon Musk’s Mars Project](https://soylentnews.org/article.pl?sid=25/06/19/2331254&amp;from=rss) - A SpaceX rocket explosion disrupts Mars exploration goals, signaling setbacks in ambitious space projects.
+* [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000) - An unusual retrieval operation using power tools to access Bitcoin ATM cash storage.
 
-## Innovative Tools and Resources
-
-* [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html) - A novel online tool enabling users to inspect and extract files from MSI installers directly within their browsers.
-
-* [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/) - A creative analysis of environmental themes in Miyazaki's Nausicaä film, inspiring thought on ecological storytelling.
+* [The JAWS shark is public domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/) - Legal insights into how the iconic shark from JAWS entered the public domain for usage.
 
 ---
 
@@ -61,16 +57,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-21, 03:30:00](https://news.slashdot.org/story/25/06/20/2212217/softbanks-son-pitches-1-trillion-arizona-ai-hub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SoftBank&apos;s Son Pitches $1 Trillion Arizona AI Hub](https://news.slashdot.org/story/25/06/20/2212217/softbanks-son-pitches-1-trillion-arizona-ai-hub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-21, 03:06:42](https://news.ycombinator.com/item?id=44334167) - [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
+* [2025-06-21, 02:19:47](https://news.ycombinator.com/item?id=44333960) - [Tiny Undervalued Hardware Companions (2024)](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
+* [2025-06-21, 02:13:47](https://news.ycombinator.com/item?id=44333921) - [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
 * [2025-06-21, 02:10:00](https://news.slashdot.org/story/25/06/20/2158226/sunken-superyacht-of-uk-tech-tycoon-mike-lynch-recovered-near-sicily?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sunken Superyacht of UK Tech Tycoon Mike Lynch Recovered Near Sicily](https://news.slashdot.org/story/25/06/20/2158226/sunken-superyacht-of-uk-tech-tycoon-mike-lynch-recovered-near-sicily?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 01:30:00](https://mobile.slashdot.org/story/25/06/20/2034241/apple-adds-energy-and-battery-labels-to-iphone-and-ipad-pages-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Adds Energy and Battery Labels To iPhone and iPad Pages In EU](https://mobile.slashdot.org/story/25/06/20/2034241/apple-adds-energy-and-battery-labels-to-iphone-and-ipad-pages-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 00:50:00](https://news.slashdot.org/story/25/06/20/2022200/bbc-threatens-legal-action-against-perplexity-ai-over-content-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [BBC Threatens Legal Action Against Perplexity AI Over Content Scraping](https://news.slashdot.org/story/25/06/20/2022200/bbc-threatens-legal-action-against-perplexity-ai-over-content-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 00:28:24](https://lobste.rs/s/b1xxlr/more_undervalued_hardware_companions) - [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
+* [2025-06-21, 00:21:25](https://news.ycombinator.com/item?id=44333388) - [Learn You Galois Fields for Great Good (00)](https://xorvoid.com/galois_fields_for_great_good_00.html)
 * [2025-06-21, 00:10:00](https://meta.slashdot.org/story/25/06/20/2015248/meta-discussed-buying-perplexity-before-investing-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Discussed Buying Perplexity Before Investing In Scale AI](https://meta.slashdot.org/story/25/06/20/2015248/meta-discussed-buying-perplexity-before-investing-in-scale-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 23:54:19](https://lobste.rs/s/g3ds7c/youtube_s_new_anti_adblock_measures) - [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 23:54:00](https://soylentnews.org/article.pl?sid=25/06/19/2339244&amp;from=rss) - [Women in Semiconductors: A Critical Workforce Need](https://soylentnews.org/article.pl?sid=25/06/19/2339244&amp;from=rss)
 * [2025-06-20, 23:51:57](https://lobste.rs/s/f38nbb/all_roads_lead_disaster) - [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
 * [2025-06-20, 23:30:00](https://slashdot.org/story/25/06/20/1954245/applebees-and-ihop-plan-to-introduce-ai-in-restaurants?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Applebee&apos;s and IHOP Plan To Introduce AI in Restaurants](https://slashdot.org/story/25/06/20/1954245/applebees-and-ihop-plan-to-introduce-ai-in-restaurants?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-20, 23:28:14](https://news.ycombinator.com/item?id=44333077) - [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)
 * [2025-06-20, 23:27:42](https://lobste.rs/s/ncraze/learn_you_galois_fields_for_great_good) - [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html)
 * [2025-06-20, 22:50:00](https://yro.slashdot.org/story/25/06/20/2010218/record-ddos-pummels-site-with-once-unimaginable-73tbps-of-junk-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Record DDoS Pummels Site With Once-Unimaginable 7.3Tbps of Junk Traffic](https://yro.slashdot.org/story/25/06/20/2010218/record-ddos-pummels-site-with-once-unimaginable-73tbps-of-junk-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 22:26:52](https://news.ycombinator.com/item?id=44332699) - [AbsenceBench: Language models can&apos;t tell what&apos;s missing](https://arxiv.org/abs/2506.11440)
@@ -108,15 +108,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 16:35:05](https://news.ycombinator.com/item?id=44329449) - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
 * [2025-06-20, 16:05:43](https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23) - [Gulaschprogrammiernacht 23](https://media.ccc.de/c/gpn23)
-* [2025-06-20, 16:01:00](https://tech.slashdot.org/story/25/06/20/1539228/microsoft-is-deleting-old-drivers-from-windows-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Is Deleting Old Drivers From Windows Update](https://tech.slashdot.org/story/25/06/20/1539228/microsoft-is-deleting-old-drivers-from-windows-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki&apos;s Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 15:05:36](https://lobste.rs/s/ixjwwe/reworking_memory_management_cruby) - [Reworking Memory Management in CRuby: A Practitioner Report](https://blog.peterzhu.ca/assets/ismm_2025.pdf)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 14:21:00](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss) - [LibreOffice Adds Voice To &apos;Ditch Windows For Linux&apos; Campaign](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss)
-* [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust](https://github.com/e3ntity/nanograd)
-* [2025-06-20, 12:44:09](https://news.ycombinator.com/item?id=44327173) - [Klong: A Simple Array Language](https://t3x.org/klong/)
 * [2025-06-20, 11:31:00](https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend)
-* [2025-06-20, 11:08:18](https://news.ycombinator.com/item?id=44326620) - [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
 * [2025-06-20, 10:35:34](https://lobste.rs/s/6lqco4/my_a11y_journey) - [My A11y Journey](https://mjg59.dreamwidth.org/72379.html)
 * [2025-06-20, 09:52:50](https://news.ycombinator.com/item?id=44326145) - [Oklo, the Earth&apos;s Two-billion-year-old only Known Natural Nuclear Reactor (2018)](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
 * [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss) - [Breakthrough Alzheimer&apos;s Drugs Too Pricey for UK&apos;s National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss)
@@ -140,7 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-18, 12:15:56](https://news.ycombinator.com/item?id=44309208) - [Proba-3&apos;s first artificial solar eclipse](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse)
 * [2025-06-18, 10:04:00](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss) - [The Effect of Physical Fitness on Mortality is Overestimated](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss)
 * [2025-06-18, 08:37:12](https://news.ycombinator.com/item?id=44307892) - [No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]](https://xol.io/random/vcc-paper.pdf)
-* [2025-06-18, 07:25:16](https://news.ycombinator.com/item?id=44307445) - [Ancient termite poo reveals 120M-year-old secrets of Australia&apos;s forests](https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html)
+* [2025-06-18, 07:14:28](https://news.ycombinator.com/item?id=44307388) - [I Dropped the Production Database on a Friday Night](https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night)
 * [2025-06-18, 05:17:00](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss) - [SmartAttack Uses Smartwatches to Steal Data From Air-Gapped Systems](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss)
 * [2025-06-18, 00:32:00](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss) - [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss)
 * [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
