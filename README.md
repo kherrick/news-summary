@@ -1,48 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cutting-Edge Technology and Innovations
+## Technology and Software
 
-* [GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research](https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation) ([comments](https://lobste.rs/s/46wjpu/gem_gpu_accelerated_emulator_inspired))
+* [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/) - In a significant shift, Denmark announces its transition to Linux, potentially setting a precedent for other nations. Read more on [Hacker News](https://news.ycombinator.com/item?id=44346120).
 
-* [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io) ([comments](https://news.ycombinator.com/item?id=44344246))
+* [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io) - A tool designed to prioritize privacy by redirecting users to alternative site frontends. Explore its features on [Hacker News](https://news.ycombinator.com/item?id=44344246).
 
-* [SmartAttack Uses Smartwatches to Steal Data From Air-Gapped Systems](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss))
+* [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV) - A new lightweight beta version of the popular ad-blocker arrives for Safari on iOS devices. Get the discussion on [Hacker News](https://news.ycombinator.com/item?id=44335664).
 
-* [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html) ([comments](https://news.ycombinator.com/item?id=44342977))
+## AI and Automation Impact
 
-## Medical and Scientific Breakthroughs
+* [What if Customers Started Saying No to AI?](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exploration of how consumer backlash might influence AI adoption. Dive into the topic on [Slashdot](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [People with Severe Type 1 Diabetes are Cured in Small Trial of New Drug](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [CEOs Have Started Warning: AI is Coming For Your Job](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major companies are openly acknowledging the employment impacts of AI. Further discussion on [Slashdot](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [One Shot To Stop HIV: MIT's Bold Vaccine Breakthrough](https://science.slashdot.org/story/25/06/21/0451227/one-shot-to-stop-hiv-mits-bold-vaccine-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/21/0451227/one-shot-to-stop-hiv-mits-bold-vaccine-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Science and Health
 
-* [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss))
+* [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - A defunct NASA satellite sparks curiosity with an unanticipated emission. More details on [SoylentNews](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss).
 
-## Programming and Software Development
+* [People with Severe Type 1 Diabetes are Cured in Small Trial of New Drug](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking trial suggests a potential cure for type 1 diabetes. Read about it on [Slashdot](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0) ([comments](https://lobste.rs/s/obalic/announcing_logtape_1_0_0))
+## Education and Creativity
 
-* [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf) ([comments](https://news.ycombinator.com/item?id=44342731))
+* [Is 'Minecraft' a Better Way to Teach Programming in the Age of AI?](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Utilizing Minecraft as an educational tool for programming skills is being further explored. Explore the conversation on [Slashdot](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/) ([comments](https://lobste.rs/s/toboca/adding_linear_time_lookbehinds_re2))
+* [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/) - A new utility for creating appealing screenshots, available free of charge. Check out the commentary on [Hacker News](https://news.ycombinator.com/item?id=44344873).
 
-## Global and Geopolitical Events
+## International and Political
 
-* [USA Bombs Iran's Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss) ([comments](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss))
+* [USA Bombs Iran's Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss) - A major geopolitical event as the U.S. targets Iran's nuclear facilities. Read the full coverage on [SoylentNews](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss).
 
-* [U.S. bombs Iranian nuclear sites](https://www.bbc.co.uk/news/live/ckg3rzj8emjt) ([comments](https://news.ycombinator.com/item?id=44341639))
-
-## Education and Gaming
-
-* [Is 'Minecraft' a Better Way to Teach Programming in the Age of AI?](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start) ([comments](https://news.ycombinator.com/item?id=44340386))
-
-## Privacy and Cybersecurity
-
-* [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/) ([comments](https://news.ycombinator.com/item?id=44335065))
-
-* [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/) ([comments](https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s))
+* [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/) - Denmark's inclusive approach to archaeology yields valuable historical and cultural insights. Explore the feature on [Scientific American](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/).
 
 ---
 
@@ -69,6 +57,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
+* [2025-06-22, 11:34:00](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What if Customers Started Saying No to AI?](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
 * [2025-06-22, 09:16:27](https://lobste.rs/s/46wjpu/gem_gpu_accelerated_emulator_inspired) - [GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research](https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation)
 * [2025-06-22, 09:07:18](https://lobste.rs/s/jazbbc/mental_model_server_components) - [The Mental Model of Server Components](https://saewitz.com/the-mental-model-of-server-components)
 * [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss)
@@ -76,7 +67,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-22, 07:34:00](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is &apos;Minecraft&apos; a Better Way to Teach Programming in the Age of AI?](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 07:06:42](https://lobste.rs/s/mvoez2/announcing_clippy_feature_freeze) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
-* [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
+* [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
+* [2025-06-22, 06:00:20](https://lobste.rs/s/flzrp1/basic_facts_about_gpus) - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-22, 04:34:00](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People with Severe Type 1 Diabetes are Cured in Small Trial of New Drug](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss)
@@ -87,7 +79,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-22, 01:34:00](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Your Car&apos;s Touchscreen Is More Dangerous Than Your Phone](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 00:00:16](https://news.ycombinator.com/item?id=44341639) - [U.S. bombs Iranian nuclear sites](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
 * [2025-06-21, 23:44:25](https://lobste.rs/s/ecsykp/see_jane_128_by_arktronics_run_featuring) - [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
-* [2025-06-21, 23:39:00](https://lobste.rs/s/mrwcem/bind_loose_reference_2020) - [To Bind and Loose a Reference (2020)](https://thephd.dev/to-bind-and-loose-a-reference-optional)
 * [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We&apos;re Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss)
 * [2025-06-21, 23:26:00](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CEOs Have Started Warning: AI is Coming For Your Job](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 22:44:28](https://news.ycombinator.com/item?id=44341281) - [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
@@ -122,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-21, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/19/2344222&amp;from=rss) - [This is Your Brain on ChatGPT](https://soylentnews.org/article.pl?sid=25/06/19/2344222&amp;from=rss)
 * [2025-06-21, 08:57:21](https://lobste.rs/s/5zj5e9/cosmoe_beos_class_library_on_top_wayland) - [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
-* [2025-06-21, 07:00:00](https://science.slashdot.org/story/25/06/21/0242226/macron-says-europe-must-become-space-power-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Macron Says Europe Must Become &apos;Space Power&apos; Again](https://science.slashdot.org/story/25/06/21/0242226/macron-says-europe-must-become-space-power-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 06:29:00](https://news.ycombinator.com/item?id=44335065) - [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
 * [2025-06-21, 05:07:05](https://lobste.rs/s/zibhyg/praise_normal_engineers) - [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-21, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/19/2318221&amp;from=rss) - [German Government Moves Closer to Ditching Microsoft: \&quot;We&apos;re Done With Teams!\&quot;](https://soylentnews.org/article.pl?sid=25/06/19/2318221&amp;from=rss)
@@ -137,29 +127,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-20, 14:21:00](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss) - [LibreOffice Adds Voice To &apos;Ditch Windows For Linux&apos; Campaign](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss)
 * [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss) - [Breakthrough Alzheimer&apos;s Drugs Too Pricey for UK&apos;s National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss)
 * [2025-06-20, 04:55:00](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss) - [‘Net Zero’ Is Collapsing in U.S. States](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss)
-* [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Finally, a Makefile formatter (50 years overdue)](https://github.com/EbodShojaei/bake)
+* [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
 * [2025-06-20, 00:13:00](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss) - [Fermilab G-2 Collaboration Publishes Final Result](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss)
 * [2025-06-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss) - [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss)
+* [2025-06-19, 10:33:44](https://news.ycombinator.com/item?id=44317242) - [Show HN: I&apos;m building an app to replace Overleaf and Notion](https://news.ycombinator.com/item?id=44317242)
 * [2025-06-19, 09:54:00](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss) - [Reddit User Surprised When 1960s Computer Panel Emerged From Collapsed Family Garage](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss)
-* [2025-06-19, 08:44:57](https://news.ycombinator.com/item?id=44316678) - [Polylogarithm Values at a Golden Ratio-Based Argument](https://zenodo.org/records/15696357)
 * [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss)
 * [2025-06-19, 00:22:00](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss) - [Honda Shows Low Speed, Narrow BEV for City Delivery](https://soylentnews.org/article.pl?sid=25/06/18/0123206&amp;from=rss)
-* [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
+* [2025-06-18, 23:43:25](https://news.ycombinator.com/item?id=44314203) - [Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete](https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete)
 * [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
 * [2025-06-18, 19:38:00](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss) - [Trump&apos;s Cuts to NASA and the National Science Foundation Will Have Huge Consequences](https://soylentnews.org/article.pl?sid=25/06/18/0120221&amp;from=rss)
+* [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What is the most realistic submarine movie? (2019)](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&amp;source=i_email&amp;medium=email&amp;content=Oct2024AnalysisTool&amp;messageTypeId=140367)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 14:50:00](https://soylentnews.org/article.pl?sid=25/06/18/0115237&amp;from=rss) - [Google&apos;s Advanced Protection Arrives on Android: Should You Use It?](https://soylentnews.org/article.pl?sid=25/06/18/0115237&amp;from=rss)
 * [2025-06-18, 13:29:31](https://news.ycombinator.com/item?id=44309734) - [The bad boy of bar charts: William Playfair (2023)](https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html)
-* [2025-06-18, 12:27:51](https://news.ycombinator.com/item?id=44309279) - [Compiler for the B Programming Language](https://github.com/tsoding/b)
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark&apos;s Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go&apos;s parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 10:04:00](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss) - [The Effect of Physical Fitness on Mortality is Overestimated](https://soylentnews.org/article.pl?sid=25/06/17/0655244&amp;from=rss)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
-* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 * [2025-06-18, 08:02:32](https://news.ycombinator.com/item?id=44307667) - [Type Inference Zoo](https://zoo.cuichen.cc/)
-* [2025-06-18, 07:45:22](https://news.ycombinator.com/item?id=44307552) - [P2piano: A P2P collaboration space for the musically inclined](https://p2piano.com/)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft&apos;s New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-18, 05:17:00](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss) - [SmartAttack Uses Smartwatches to Steal Data From Air-Gapped Systems](https://soylentnews.org/article.pl?sid=25/06/17/0651210&amp;from=rss)
 * [2025-06-18, 00:32:00](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss) - [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://soylentnews.org/article.pl?sid=25/06/17/0648206&amp;from=rss)
