@@ -1,44 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Technology and Software Innovations
 
-* [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss) - A deep dive into ongoing issues with GPU power connectors and the widespread inconvenience caused by their failures. [Comments](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss)
+* [Telescopes Are Tries: A Dependent Type Shellac on SQLite](https://www.philipzucker.com/telescope_tries/) - An exploration into the concept of dependent types in computing, applied uniquely to SQLite. [Comments](https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type)
 
-* [tabiew: A TUI for viewing &amp; querying CSV, TSV, JSON, SQLITE, and more](https://github.com/shshemi/tabiew) - A versatile text user interface for data querying across a variety of formats. [Comments](https://lobste.rs/s/eowepp/tabiew_tui_for_viewing_querying_csv_tsv)
+* [tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more](https://github.com/shshemi/tabiew) - A versatile text-based interface for data manipulation across multiple formats. [Comments](https://lobste.rs/s/eowepp/tabiew_tui_for_viewing_querying_csv_tsv)
 
-* [Asterinas: a new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/) - Announcement of an innovative and Linux-compatible kernel designed for experimentation. [Comments](https://lobste.rs/s/5wc5cm/asterinas_new_linux_compatible_kernel)
+* [Makefile formatter and linter](https://github.com/EbodShojaei/bake) - A tool designed to enhance the readability and usability of Makefiles. [Comments](https://lobste.rs/s/kk3zx3/makefile_formatter_linter)
 
-* [Makefile formatter and linter](https://github.com/EbodShojaei/bake) - A tool that simplifies writing and maintaining Makefiles by formatting and linting them. [Comments](https://lobste.rs/s/kk3zx3/makefile_formatter_linter)
+* [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate) - Introduction of a project focusing on innovative state machine architecture. [Comments](https://news.ycombinator.com/item?id=44351817)
 
-* [Allocators are Monkeys With Typewriters](https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/) - A humorous yet informative take on allocation in programming. [Comments](https://lobste.rs/s/yvwdco/allocators_are_monkeys_with_typewriters)
+## Artificial Intelligence and Machine Learning
 
-## AI and Computational Insights
+* [Is America Finally Improving Its Electric Car Chargers?](https://news.slashdot.org/story/25/06/23/0149223/is-america-finally-improving-its-electric-car-chargers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Questions arise around advancements in EV infrastructure. [Comments](https://news.slashdot.org/story/25/06/23/0149223/is-america-finally-improving-its-electric-car-chargers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279) - An impressive optimization showcasing the power of modern vector processing units. [Comments](https://news.ycombinator.com/item?id=44351068) [Comments](https://lobste.rs/s/vaxtvz/finding_billion_factorials_60_ms_with)
+* [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364) - A research paper introducing TMU for enhanced AI computations. [Comments](https://news.ycombinator.com/item?id=44351798)
 
-* [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364) - A technical exploration of a novel AI processing unit pushing performance boundaries. [Comments](https://news.ycombinator.com/item?id=44351798)
+* [OpenAI Pulls Promotional Materials About Jony Ive Deal (After Trademark Lawsuit)](https://yro.slashdot.org/story/25/06/22/222250/openai-pulls-promotional-materials-about-jony-ive-deal-after-trademark-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal challenges bring scrutiny to OpenAI's branding tactics. [Comments](https://yro.slashdot.org/story/25/06/22/222250/openai-pulls-promotional-materials-about-jony-ive-deal-after-trademark-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [OpenAI Pulls Promotional Materials About Jony Ive Deal (After Trademark Lawsuit)](https://yro.slashdot.org/story/25/06/22/222250/openai-pulls-promotional-materials-about-jony-ive-deal-after-trademark-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI finds itself in legal hot water over claims involving renowned designer Jony Ive. [Comments](https://yro.slashdot.org/story/25/06/22/222250/openai-pulls-promotional-materials-about-jony-ive-deal-after-trademark-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Gaming and Interactive Media
 
-## Science and Space
+* [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/) - Insights into leveraging computational algorithms for gaming applications. [Comments](https://news.ycombinator.com/item?id=44351487)
 
-* [Tiny Orange Beads Found By Apollo Astronauts Reveal Moon's Volcanic Past](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A closer look at lunar samples revealing the Moon's explosive volcanic history. [Comments](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Lego Island Playable in the Browser](https://isle.pizza) - A recreation of the classic game, now accessible in web browsers. [Comments](https://news.ycombinator.com/item?id=44351028)
 
-* [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - An old satellite continues to surprise with unexpected radio emissions. [Comments](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss)
+## Science and Space Exploration
 
-## Cultural and Social Developments
+* [Tiny Orange Beads Found By Apollo Astronauts Reveal Moon's Volcanic Past](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apollo missions unearth evidence of intense volcanic activity on the Moon. [Comments](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Linus Torvalds Photographed with Bill Gates - for the First Time Ever](https://linux.slashdot.org/story/25/06/22/2131259/linus-torvalds-photographed-with-bill-gates---for-the-first-time-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A historic first meeting between two icons of technology. [Comments](https://linux.slashdot.org/story/25/06/22/2131259/linus-torvalds-photographed-with-bill-gates---for-the-first-time-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - Unexpected activity from a defunct satellite puzzles researchers. [Comments](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss)
 
-* [Gartner: ‘AI is Not Doing its Job and Should Leave Us Alone’](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss) - A controversial viewpoint on AI efficacy in various industries. [Comments](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss)
+## Cultural and Historical Perspectives
 
-* [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss) - The end of an era as a beloved radio personality steps back. [Comments](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss)
+* [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html) - Reflections on using the new Typst markup language for academic writing. [Comments](https://news.ycombinator.com/item?id=44350322)
 
-## Emerging Trends in Programming
-
-* [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate) - Innovative library for creating state machines with composability in mind. [Comments](https://news.ycombinator.com/item?id=44351817)
-
-* [Discover C++26’s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/) - An introduction to one of the most awaited C++ language features. [Comments](https://lobste.rs/s/thwfed/discover_c_26_s_compile_time_reflection)
+* [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary) - Analysis of the shifting cultural value assigned to literary fiction. [Comments](https://news.ycombinator.com/item?id=44347973)
 
 ---
 
@@ -65,6 +61,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-23, 06:26:42](https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type) - [Telescopes Are Tries: A Dependent Type Shellac on SQLite](https://www.philipzucker.com/telescope_tries/)
+* [2025-06-23, 05:48:00](https://developers.slashdot.org/story/25/06/23/0542243/behind-the-scenes-at-the-python-software-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Behind the Scenes at the Python Software Foundation](https://developers.slashdot.org/story/25/06/23/0542243/behind-the-scenes-at-the-python-software-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-23, 04:41:53](https://lobste.rs/s/tbr1um/implicit_is_better_than_explicit) - [Implicit is better than explicit](https://sophiabits.com/blog/implicit-is-better-than-explicit)
+* [2025-06-23, 04:35:47](https://lobste.rs/s/ez1fqj/compressing_for_browser_go) - [Compressing for the browser in Go](https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html)
+* [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
+* [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
+* [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn&apos;t immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
 * [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss)
 * [2025-06-23, 03:25:01](https://lobste.rs/s/eowepp/tabiew_tui_for_viewing_querying_csv_tsv) - [tabiew: A TUI for viewing &amp; querying CSV, TSV, JSON, SQLITE, and more](https://github.com/shshemi/tabiew)
 * [2025-06-23, 02:34:16](https://lobste.rs/s/5wc5cm/asterinas_new_linux_compatible_kernel) - [Asterinas: a new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
@@ -77,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-23, 01:00:00](https://news.ycombinator.com/item?id=44351580) - [Optifye.ai (YC W25) – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
 * [2025-06-23, 00:42:34](https://news.ycombinator.com/item?id=44351487) - [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
 * [2025-06-23, 00:12:00](https://developers.slashdot.org/story/25/06/23/009244/redmonk-ranks-top-programming-languages-over-time---and-considers-ditching-its-stack-overflow-metric?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [RedMonk Ranks Top Programming Languages Over Time - and Considers Ditching Its &apos;Stack Overflow&apos; Metric](https://developers.slashdot.org/story/25/06/23/009244/redmonk-ranks-top-programming-languages-over-time---and-considers-ditching-its-stack-overflow-metric?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-23, 00:11:00](https://news.ycombinator.com/item?id=44351310) - [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
 * [2025-06-22, 23:20:00](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss) - [Gartner: ‘AI is Not Doing its Job and Should Leave Us Alone’](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss)
 * [2025-06-22, 23:12:50](https://news.ycombinator.com/item?id=44351068) - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
 * [2025-06-22, 23:11:05](https://lobste.rs/s/vaxtvz/finding_billion_factorials_60_ms_with) - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
@@ -106,6 +108,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-22, 17:50:00](https://entertainment.slashdot.org/story/25/06/22/1747250/how-the-music-industry-is-building-the-tech-to-hunt-down-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How the Music Industry is Building the Tech to Hunt Down AI-Generated Songs](https://entertainment.slashdot.org/story/25/06/22/1747250/how-the-music-industry-is-building-the-tech-to-hunt-down-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 17:21:42](https://lobste.rs/s/thwfed/discover_c_26_s_compile_time_reflection) - [Discover C++26’s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 * [2025-06-22, 17:13:13](https://lobste.rs/s/olfqe5/pallene_language) - [Pallene Language](https://github.com/pallene-lang/pallene)
+* [2025-06-22, 17:06:51](https://news.ycombinator.com/item?id=44348448) - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 * [2025-06-22, 17:06:42](https://lobste.rs/s/a9ve6f/my_first_impressions_gleam) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-06-22, 16:34:00](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tiny Orange Beads Found By Apollo Astronauts Reveal Moon&apos;s Volcanic Past](https://science.slashdot.org/story/25/06/22/0358233/tiny-orange-beads-found-by-apollo-astronauts-reveal-moons-volcanic-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
@@ -114,28 +117,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-22, 14:34:00](https://science.slashdot.org/story/25/06/21/054219/a-cracked-piece-of-metal-self-healed-in-experiment-that-stunned-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Cracked Piece of Metal Self-Healed In Experiment That Stunned Scientists](https://science.slashdot.org/story/25/06/21/054219/a-cracked-piece-of-metal-self-healed-in-experiment-that-stunned-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 14:23:52](https://lobste.rs/s/rx7uy1/you_are_what_you_launch_how_software) - [you are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-06-22, 13:51:00](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss) - [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss)
-* [2025-06-22, 12:43:42](https://news.ycombinator.com/item?id=44346450) - [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 * [2025-06-22, 11:34:00](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What if Customers Started Saying No to AI?](https://slashdot.org/story/25/06/21/1755225/what-if-customers-started-saying-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git&apos;s coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-* [2025-06-22, 09:07:18](https://lobste.rs/s/jazbbc/mental_model_server_components) - [The Mental Model of Server Components](https://saewitz.com/the-mental-model-of-server-components)
 * [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss)
 * [2025-06-22, 07:34:00](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is &apos;Minecraft&apos; a Better Way to Teach Programming in the Age of AI?](https://developers.slashdot.org/story/25/06/22/0535221/is-minecraft-a-better-way-to-teach-programming-in-the-age-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 07:27:27](https://news.ycombinator.com/item?id=44344708) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2025-06-22, 07:06:42](https://lobste.rs/s/mvoez2/announcing_clippy_feature_freeze) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
-* [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
 * [2025-06-22, 06:00:20](https://lobste.rs/s/flzrp1/basic_facts_about_gpus) - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-22, 04:34:00](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People with Severe Type 1 Diabetes are Cured in Small Trial of New Drug](https://science.slashdot.org/story/25/06/22/0317248/people-with-severe-type-1-diabetes-are-cured-in-small-trial-of-new-drug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss)
 * [2025-06-22, 03:00:00](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss) - [UPDATED: USA Bombs Iran&apos;s Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss)
-* [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
-* [2025-06-22, 02:46:23](https://lobste.rs/s/lgum1v/b_compiler_written_crust) - [B compiler written in Crust](https://github.com/tsoding/b)
 * [2025-06-22, 01:34:00](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Your Car&apos;s Touchscreen Is More Dangerous Than Your Phone](https://tech.slashdot.org/story/25/06/22/0044222/why-your-cars-touchscreen-is-more-dangerous-than-your-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We&apos;re Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss)
-* [2025-06-21, 23:26:00](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CEOs Have Started Warning: AI is Coming For Your Job](https://it.slashdot.org/story/25/06/21/2324244/ceos-have-started-warning-ai-is-coming-for-your-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-21, 18:45:00](https://soylentnews.org/article.pl?sid=25/06/20/2250249&amp;from=rss) - [The Russian FSB May Have Access to Telegram Messages](https://soylentnews.org/article.pl?sid=25/06/20/2250249&amp;from=rss)
 * [2025-06-21, 14:09:00](https://soylentnews.org/article.pl?sid=25/06/19/2351241&amp;from=rss) - [Penn State Research Team Builds 2D CMOS System](https://soylentnews.org/article.pl?sid=25/06/19/2351241&amp;from=rss)
-* [2025-06-21, 10:01:57](https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s) - [Unexpected security footguns in Go&apos;s parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-21, 09:23:00](https://soylentnews.org/article.pl?sid=25/06/19/2344222&amp;from=rss) - [This is Your Brain on ChatGPT](https://soylentnews.org/article.pl?sid=25/06/19/2344222&amp;from=rss)
 * [2025-06-21, 07:51:19](https://news.ycombinator.com/item?id=44335583) - [2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)](https://siglog.org/winner-of-the-2025-alonzo-church-award/)
 * [2025-06-21, 04:36:00](https://soylentnews.org/article.pl?sid=25/06/19/2318221&amp;from=rss) - [German Government Moves Closer to Ditching Microsoft: \&quot;We&apos;re Done With Teams!\&quot;](https://soylentnews.org/article.pl?sid=25/06/19/2318221&amp;from=rss)
@@ -144,15 +139,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-20, 19:36:18](https://news.ycombinator.com/item?id=44331201) - [Kilauea volcano errupts, lava more than 1k feet high [video]](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
 * [2025-06-20, 19:06:00](https://soylentnews.org/article.pl?sid=25/06/19/2331254&amp;from=rss) - [SpaceX Rocket Explodes in New Setback to Elon Musk’s Mars Project](https://soylentnews.org/article.pl?sid=25/06/19/2331254&amp;from=rss)
+* [2025-06-20, 14:52:23](https://news.ycombinator.com/item?id=44328275) - [The Tandy Corporation](https://www.abortretry.fail/p/the-tandy-corporation-part-1)
 * [2025-06-20, 14:21:00](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss) - [LibreOffice Adds Voice To &apos;Ditch Windows For Linux&apos; Campaign](https://soylentnews.org/article.pl?sid=25/06/19/2327225&amp;from=rss)
 * [2025-06-20, 13:27:21](https://news.ycombinator.com/item?id=44327554) - [Adobe Project Indigo is a new photo app from former Pixel camera engineers](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)
 * [2025-06-20, 09:36:00](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss) - [Breakthrough Alzheimer&apos;s Drugs Too Pricey for UK&apos;s National Health Service](https://soylentnews.org/article.pl?sid=25/06/19/0919227&amp;from=rss)
 * [2025-06-20, 04:55:00](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss) - [‘Net Zero’ Is Collapsing in U.S. States](https://soylentnews.org/article.pl?sid=25/06/18/1523244&amp;from=rss)
+* [2025-06-20, 02:52:38](https://news.ycombinator.com/item?id=44324319) - [Encounters with Reality on Christine Rosen&apos;s the Extinction of Experience](https://thepointmag.com/criticism/encounters-with-reality/)
 * [2025-06-20, 00:13:00](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss) - [Fermilab G-2 Collaboration Publishes Final Result](https://soylentnews.org/article.pl?sid=25/06/18/1445231&amp;from=rss)
 * [2025-06-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss) - [Welcome to the ‘Infinite Workday’ of 8 P.M. Meetings and Constant Messages](https://soylentnews.org/article.pl?sid=25/06/18/1420200&amp;from=rss)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 14:39:00](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss) - [Marijuana to Treat Autism? Some Parents Say Yes](https://soylentnews.org/article.pl?sid=25/06/18/1415223&amp;from=rss)
-* [2025-06-19, 12:33:21](https://news.ycombinator.com/item?id=44318050) - [There&apos;s Gold in the Hills](https://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/)
 * [2025-06-19, 09:54:00](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss) - [Reddit User Surprised When 1960s Computer Panel Emerged From Collapsed Family Garage](https://soylentnews.org/article.pl?sid=25/06/18/0134253&amp;from=rss)
 * [2025-06-19, 06:42:58](https://news.ycombinator.com/item?id=44316093) - [We’ve had a Denisovan skull since the 1930s—only nobody knew](https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/)
 * [2025-06-19, 05:08:00](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss) - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://soylentnews.org/article.pl?sid=25/06/18/0130206&amp;from=rss)
