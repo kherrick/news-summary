@@ -1,48 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Releases
+## Technology and Innovation
 
-* [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app) - A guide to creating iOS applications without requiring macOS or an Apple device.
+* [Meta's Massive AI Data Center Is Stressing Out a Louisiana Community](https://tech.slashdot.org/story/25/06/24/221211/metas-massive-ai-data-center-is-stressing-out-a-louisiana-community?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore how Meta's ambitious AI infrastructure project is sparking environmental and community concerns in Louisiana.
 
-* [Firefox 140 Arrives With ESR Status](https://news.slashdot.org/story/25/06/24/2210239/firefox-140-arrives-with-esr-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefox debuts version 140, introducing ESR support and new features like tab unloading and CSS API updates.
+* [Google Rolls Out New Gemini Model That Can Run On Robots Locally](https://hardware.slashdot.org/story/25/06/24/2150256/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's latest AI innovation powers robots while operating completely on-device.
 
-* [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit) - Microsoft surprises developers with a Rust implementation of its old-school MS-DOS editor now available for Linux.
+* [Uber, Waymo Robotaxi Service Opens To Passengers In Atlanta](https://tech.slashdot.org/story/25/06/24/2044244/uber-waymo-robotaxi-service-opens-to-passengers-in-atlanta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Self-driving taxi services debut for public use in Atlanta, signaling a new era in transport.
 
-* [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html) - A new Rust runtime engine allows hot-patching, enhancing developer productivity.
+* [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html) - A novel runtime hotpatching tool for Rust enables faster and more efficient hot-reloads in development.
 
-* [Google Rolls Out New Gemini Model That Can Run On Robots Locally](https://hardware.slashdot.org/story/25/06/24/2150256/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google introduces the Gemini AI model capable of running directly on robotic devices.
+## Environmental and Social Issues
 
-## Unconventional Approaches and Thought Experiments
+* [Noise Pollution Harms Health of Millions Across Europe, Report Finds](https://science.slashdot.org/story/25/06/24/2031242/noise-pollution-harms-health-of-millions-across-europe-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examine the widespread health impacts of noise pollution across Europe in this revealing new report.
 
-* [Managing Time When Time Doesn’t Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/) - A thought-provoking blog exploring the concept of time beyond its conventional understanding.
+* [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss) - A surprising archaeological discovery sheds light on ancient life in South America.
 
-* [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming) - A developer's deep dive into the complexities of time management in programming.
+* [EV-Carrying Ship Sinks In Pacific Ocean After Catching Fire](https://tech.slashdot.org/story/25/06/24/2032250/ev-carrying-ship-sinks-in-pacific-ocean-after-catching-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Learn about the challenges of transporting electric vehicles and the environmental risks involved.
 
-* [The Bitter Lesson is Coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) - Analysis on why tokenization may face significant shifts amidst emerging AI trends.
+## Cultural and Historical Discoveries
 
-## Cybersecurity and Online Safety
+* [Finding a 27-Year-Old Easter Egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/) - An intriguing deep dive into tech history uncovers a hidden gem in Apple’s Power Mac G3 ROM.
 
-* [Show HN: VSCan - Detect Malicious VSCode Extensions](https://vscan.dev/) - New tool aims to detect unsafe VSCode extensions, enhancing security for developers.
+* [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&from=rss) - A breakthrough in material science offers a peek into new self-repairing material capabilities.
 
-* [Hacking TLD EPP registry servers (2023)](https://hackcompute.com/hacking-epp-servers/) - A report unveiling vulnerabilities and potential security risks in TLD registry servers.
+* [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html) - Explore one of the most bizarre neurological syndromes ever recorded in this fascinating story.
 
-* [XBOW, an autonomous penetration tester, has reached the top spot on HackerOne](https://xbow.com/blog/top-1-how-xbow-did-it/) - How an AI-driven penetration testing tool climbed the leaderboard on HackerOne.
+## Software and Development
 
-## Remarkable Discoveries and Historic Accounts
+* [Firefox 140 Released With 'Unload Tab', CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140) - Dive into the latest updates and features of Firefox 140, addressing modern web development needs.
 
-* [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&from=rss) - Gas workers stumble upon an ancient mummy, offering a glimpse into Peru’s past.
+* [The Bitter Lesson is Coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) - A thought-provoking article on the future of tokenization in technology.
 
-* [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/) - A curious discovery within the Power Mac G3 ROM uncovered decades later.
+* [Porting GPU Shaders to Rust GPU 30x Faster with AI](https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/) - AI tools accelerate GPU shader workflow processes significantly with Rust GPU implementation.
 
-* [Massive DDoS Attack Delivered 37.4Tb In 45 Seconds, Equivalent To 10,000 Hd Movies, To One Victim IP](https://soylentnews.org/article.pl?sid=25/06/23/194255&from=rss) - Record-breaking DDoS attack highlights escalating cybersecurity challenges.
+## Corporate and Economic Developments
 
-## Artificial Intelligence and Industry Competition
+* [Microsoft Planning 'Major' Xbox Layoffs Next Week](https://games.slashdot.org/story/25/06/24/2049205/microsoft-planning-major-xbox-layoffs-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major upheaval is expected in Microsoft's gaming division.
 
-* [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry) - A close examination of how ChatGPT's enterprise strategy is intensifying its rivalry with Copilot.
+* [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet's Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&from=rss) - Industry experts caution about the economic pressures AI imposes on the contemporary web landscape.
 
-* [OpenAI Quietly Designed a Rival To Google Workspace, Microsoft Office](https://it.slashdot.org/story/25/06/24/1613242/openai-quietly-designed-a-rival-to-google-workspace-microsoft-office?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's bold move to compete with office productivity giants.
+* [WD Escapes Half a Billion in Patent Damages as Judge Trims Award To $1](https://yro.slashdot.org/story/25/06/24/1925240/wd-escapes-half-a-billion-in-patent-damages-as-judge-trims-award-to-1?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Western Digital dodges a massive financial penalty in a high-profile legal battle.
 
-* [Anthropic Bags Key 'Fair Use' Win For AI Platforms, But Faces Trial Over Damages For Millions of Pirated Works](https://yro.slashdot.org/story/25/06/24/1519209/anthropic-bags-key-fair-use-win-for-ai-platforms-but-faces-trial-over-damages-for-millions-of-pirated-works?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Anthropic secures a legal victory but faces challenges over AI-related copyright infringement.
+## Unique Applications and Engineering Feats
+
+* [PicoEMP: Low-Cost Electromagnetic Fault Injection (EMFI) Tool](https://github.com/newaetech/chipshouter-picoemp) - A compact and affordable tool for testing hardware vulnerabilities.
+
+* [Managing Time When Time Doesn't Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/) - An unconventional perspective on resource management and time in speculative scenarios.
+
+* [Timdle – Place Historical Events in Chronological Order](https://www.timdle.com/) - A unique trivia platform for history enthusiasts and puzzle lovers alike.
 
 ---
 
@@ -69,11 +75,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-25, 03:30:00](https://tech.slashdot.org/story/25/06/24/221211/metas-massive-ai-data-center-is-stressing-out-a-louisiana-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s Massive AI Data Center Is Stressing Out a Louisiana Community](https://tech.slashdot.org/story/25/06/24/221211/metas-massive-ai-data-center-is-stressing-out-a-louisiana-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-25, 03:18:00](https://soylentnews.org/article.pl?sid=25/06/24/0039212&amp;from=rss) - [BEV Battery Swapping in Shanghai](https://soylentnews.org/article.pl?sid=25/06/24/0039212&amp;from=rss)
+* [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
+* [2025-06-25, 02:46:38](https://news.ycombinator.com/item?id=44373222) - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
+* [2025-06-25, 01:31:02](https://news.ycombinator.com/item?id=44372881) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
+* [2025-06-25, 01:30:00](https://slashdot.org/story/25/06/24/2224236/huawei-chair-says-the-future-of-comms-is-fiber-to-the-room?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Huawei Chair Says the Future of Comms Is Fiber-To-The-Room](https://slashdot.org/story/25/06/24/2224236/huawei-chair-says-the-future-of-comms-is-fiber-to-the-room?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-25, 01:28:34](https://lobste.rs/s/ccit25/build_your_first_ios_app_on_linux_windows) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app)
-* [2025-06-25, 01:10:33](https://news.ycombinator.com/item?id=44372767) - [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
 * [2025-06-25, 00:50:00](https://news.slashdot.org/story/25/06/24/2210239/firefox-140-arrives-with-esr-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox 140 Arrives With ESR Status](https://news.slashdot.org/story/25/06/24/2210239/firefox-140-arrives-with-esr-status?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-25, 00:39:20](https://news.ycombinator.com/item?id=44372585) - [Hacking TLD EPP registry servers (2023)](https://hackcompute.com/hacking-epp-servers/)
-* [2025-06-25, 00:28:12](https://news.ycombinator.com/item?id=44372528) - [Managing Time When Time Doesn&apos;t Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+* [2025-06-25, 00:28:12](https://news.ycombinator.com/item?id=44372528) - [Managing time when time doesn&apos;t exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+* [2025-06-25, 00:13:27](https://news.ycombinator.com/item?id=44372424) - [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
 * [2025-06-25, 00:10:00](https://hardware.slashdot.org/story/25/06/24/2150256/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Rolls Out New Gemini Model That Can Run On Robots Locally](https://hardware.slashdot.org/story/25/06/24/2150256/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-25, 00:07:04](https://news.ycombinator.com/item?id=44372380) - [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
 * [2025-06-24, 23:30:00](https://games.slashdot.org/story/25/06/24/2049205/microsoft-planning-major-xbox-layoffs-next-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Planning &apos;Major&apos; Xbox Layoffs Next Week](https://games.slashdot.org/story/25/06/24/2049205/microsoft-planning-major-xbox-layoffs-next-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -89,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 20:12:00](https://tech.slashdot.org/story/25/06/24/2012231/android-chrome-users-can-now-move-address-bar-to-bottom-of-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android Chrome Users Can Now Move Address Bar To Bottom of Screen](https://tech.slashdot.org/story/25/06/24/2012231/android-chrome-users-can-now-move-address-bar-to-bottom-of-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
-* [2025-06-24, 19:55:53](https://news.ycombinator.com/item?id=44370370) - [The economics behind \&quot;Basic Economy\&quot; – A masterclass in price discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
 * [2025-06-24, 19:44:31](https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from) - [Chromium&apos;s build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 * [2025-06-24, 19:25:00](https://yro.slashdot.org/story/25/06/24/1925240/wd-escapes-half-a-billion-in-patent-damages-as-judge-trims-award-to-1?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WD Escapes Half a Billion in Patent Damages as Judge Trims Award To $1](https://yro.slashdot.org/story/25/06/24/1925240/wd-escapes-half-a-billion-in-patent-damages-as-judge-trims-award-to-1?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-24, 19:20:11](https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c) - [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
@@ -107,19 +117,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-24, 16:41:00](https://it.slashdot.org/story/25/06/24/1613242/openai-quietly-designed-a-rival-to-google-workspace-microsoft-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Quietly Designed a Rival To Google Workspace, Microsoft Office](https://it.slashdot.org/story/25/06/24/1613242/openai-quietly-designed-a-rival-to-google-workspace-microsoft-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-24, 16:33:15](https://lobste.rs/s/pulujk/one_more_re_nightmare_compiler_2021) - [The one-more-re-nightmare compiler (2021)](https://applied-langua.ge/posts/omrn-compiler.html)
 * [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT&apos;s enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
-* [2025-06-24, 16:01:00](https://slashdot.org/story/25/06/24/1536213/china-on-cusp-of-seeing-over-100-deepseeks-ex-top-official-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China on Cusp of Seeing Over 100 DeepSeeks, Ex-Top Official Says](https://slashdot.org/story/25/06/24/1536213/china-on-cusp-of-seeing-over-100-deepseeks-ex-top-official-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [XBOW, an autonomous penetration tester, has reached the top spot on HackerOne](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:31:56](https://lobste.rs/s/ihlmb2/fixes_for_five_lix_cves) - [Fixes for five Lix CVEs](https://lix.systems/blog/2025-06-24-lix-cves/)
 * [2025-06-24, 15:28:13](https://lobste.rs/s/xzoth8/nix_development_setup_for_factor) - [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
-* [2025-06-24, 15:20:00](https://yro.slashdot.org/story/25/06/24/1519209/anthropic-bags-key-fair-use-win-for-ai-platforms-but-faces-trial-over-damages-for-millions-of-pirated-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Bags Key &apos;Fair Use&apos; Win For AI Platforms, But Faces Trial Over Damages For Millions of Pirated Works](https://yro.slashdot.org/story/25/06/24/1519209/anthropic-bags-key-fair-use-win-for-ai-platforms-but-faces-trial-over-damages-for-millions-of-pirated-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
-* [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 14:18:11](https://news.ycombinator.com/item?id=44366548) - [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
 * [2025-06-24, 14:14:03](https://news.ycombinator.com/item?id=44366494) - [The bitter lesson is coming for tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 * [2025-06-24, 14:12:06](https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird&apos;s donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 * [2025-06-24, 14:05:10](https://news.ycombinator.com/item?id=44366409) - [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
-* [2025-06-24, 14:03:41](https://news.ycombinator.com/item?id=44366395) - [Show HN: Oasis – An open-source, 3D-printed smart terrarium](https://github.com/justbuchanan/oasis)
 * [2025-06-24, 13:58:37](https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 * [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&amp;from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet&apos;s Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&amp;from=rss)
 * [2025-06-24, 13:06:45](https://news.ycombinator.com/item?id=44365806) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
@@ -147,12 +153,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss)
 * [2025-06-22, 23:20:00](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss) - [Gartner: ‘AI is Not Doing its Job and Should Leave Us Alone’](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss)
+* [2025-06-22, 18:56:53](https://news.ycombinator.com/item?id=44349379) - [Advanced Python Function Debugging with MCP Integration](https://github.com/kordless/gnosis-mystic)
 * [2025-06-22, 18:35:00](https://soylentnews.org/article.pl?sid=25/06/22/0319216&amp;from=rss) - [Book Documents the Rise and Fall of the Concept of the Private Life](https://soylentnews.org/article.pl?sid=25/06/22/0319216&amp;from=rss)
 * [2025-06-22, 17:56:14](https://news.ycombinator.com/item?id=44348862) - [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html)
+* [2025-06-22, 15:02:23](https://news.ycombinator.com/item?id=44347464) - [Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp](https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/)
 * [2025-06-22, 14:39:55](https://news.ycombinator.com/item?id=44347294) - [Canal Boat Simulator](https://jacobfilipp.com/boat/)
 * [2025-06-22, 13:51:00](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss) - [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&amp;from=rss)
 * [2025-06-22, 09:04:00](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss) - [Dead NASA Satellite Unexpectedly Emits Powerful Radio Pulse](https://soylentnews.org/article.pl?sid=25/06/21/1928245&amp;from=rss)
-* [2025-06-22, 05:00:29](https://news.ycombinator.com/item?id=44343810) - [World Curling tightens sweeping rules, bans firmer broom foams ahead of Olympics](https://www.cbc.ca/sports/olympics/winter/curling/world-curling-broom-ban-1.7566638)
 * [2025-06-22, 04:15:00](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss) - [Man’s Health Crashes After Getting Donated Kidney](https://soylentnews.org/article.pl?sid=25/06/21/137201&amp;from=rss)
 * [2025-06-22, 03:00:00](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss) - [UPDATED: USA Bombs Iran&apos;s Nuclear Sites](https://soylentnews.org/politics/article.pl?sid=25/06/22/0239226&amp;from=rss)
 * [2025-06-21, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss) - [Scientists Once Hoarded Pre-Nuclear Steel; Now We&apos;re Hoarding Pre-AI Content](https://soylentnews.org/article.pl?sid=25/06/21/1225217&amp;from=rss)
