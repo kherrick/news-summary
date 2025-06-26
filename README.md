@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Ethics
+## Revolutionary Technology Developments
 
-* [Meta Beats Copyright Suit From Authors Over AI Training on Books](https://tech.slashdot.org/story/25/06/25/2127222/meta-beats-copyright-suit-from-authors-over-ai-training-on-books?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Swarms of Tiny Nose Robots Could Clear Infected Sinuses, Researchers Say](https://hardware.slashdot.org/story/25/06/25/218250/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examines how nanotechnology is being developed for precise medical interventions.
 
-* [Microsoft Sued By Authors Over Use of Books in AI Training](https://news.slashdot.org/story/25/06/25/2137220/microsoft-sued-by-authors-over-use-of-books-in-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Games Run Faster On SteamOS Than Windows 11, Ars Testing Finds](https://games.slashdot.org/story/25/06/25/2034243/games-run-faster-on-steamos-than-windows-11-ars-testing-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ars Technica explores gaming performance improvements on SteamOS compared to Windows.
 
-* [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+* [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/) - Discover a groundbreaking geometric shape with unique physical properties.
 
-* [Creating AI Based Entirely on Ethically-Sourced Data](https://soylentnews.org/article.pl?sid=25/06/24/1258205&from=rss)
+## Artificial Intelligence in Society
 
-## Innovative Technologies and Software
+* [Meta Beats Copyright Suit From Authors Over AI Training on Books](https://tech.slashdot.org/story/25/06/25/2127222/meta-beats-copyright-suit-from-authors-over-ai-training-on-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta successfully defends against allegations of improper AI training using copyrighted books.
 
-* [Swarms of Tiny Nose Robots Could Clear Infected Sinuses, Researchers Say](https://hardware.slashdot.org/story/25/06/25/218250/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Judge Denies Creating 'Mass Surveillance Program' Harming All ChatGPT Users](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss) - Court ruling impacts privacy concerns with AI-based platforms.
 
-* [Speculative Optimizations for WebAssembly using Deopts and Inlining](https://v8.dev/blog/wasm-speculative-optimizations)
+* [Creating AI Based Entirely on Ethically-Sourced Data](https://soylentnews.org/article.pl?sid=25/06/24/1258205&amp;from=rss) - Advances efforts to ensure ethical data sourcing in AI development.
 
-* [The best interfaces we never built](https://www.chrbutler.com/the-best-interfaces-we-never-built)
+## Software and Engineering Insights
 
-* [Psylo Browser Obscures Digital Fingerprints By Giving Every Tab Its Own IP Address](https://tech.slashdot.org/story/25/06/25/2050258/psylo-browser-obscures-digital-fingerprints-by-giving-every-tab-its-own-ip-address?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise](https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/) - Investigates a mysterious behavior in long-standing Linux systems.
 
-## Space, Energy, and Future Planning
+* [Reverse Engineering the Microchip CLB Part 1: Background and Reverse Engineering the BLEs](http://mcp-clb.markomo.me/P1-Background-and-RE/) - A detailed dive into uncovering the inner workings of the Microchip CLB.
 
-* [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
+* [The best interfaces we never built](https://www.chrbutler.com/the-best-interfaces-we-never-built) - A thought-provoking reflection on user interface design possibilities.
 
-* [Interstellar Flight: Perspectives and Patience](https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/)
+## Environmental and Social Impacts
 
-* [Astronomers Locate Universe's 'Missing' Matter in the Largest Cosmic Structures](https://soylentnews.org/article.pl?sid=25/06/22/0357239&from=rss)
+* [Overfishing Has Caused Cod To Halve in Body Size Since 1990s, Study Finds](https://science.slashdot.org/story/25/06/25/1842223/overfishing-has-caused-cod-to-halve-in-body-size-since-1990s-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A stark look at how human activity impacts marine ecosystems.
 
-## Hardware, Gaming, and Optimization
+* [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids) - Highlights achievements in renewable energy infrastructure and resilience.
 
-* [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
+* [America’s incarceration rate is in decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/) - The Atlantic explores a significant shift in criminal justice trends.
 
-* [Games Run Faster On SteamOS Than Windows 11, Ars Testing Finds](https://games.slashdot.org/story/25/06/25/2034243/games-run-faster-on-steamos-than-windows-11-ars-testing-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cultural and Historical Discoveries
 
-## Environmental and Societal Challenges
+* [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/) - Efforts to document and preserve lost chapters in gaming history.
 
-* [Overfishing Has Caused Cod To Halve in Body Size Since 1990s, Study Finds](https://science.slashdot.org/story/25/06/25/1842223/overfishing-has-caused-cod-to-halve-in-body-size-since-1990s-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Aaron Sorkin's The Social Network Sequel Officially in Development](https://entertainment.slashdot.org/story/25/06/25/2144252/aaron-sorkins-the-social-network-sequel-officially-in-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights a significant movie sequel focusing on modern social media dynamics.
 
-* [America's incarceration rate is in decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/)
-
-## Notable Announcements and Historical News
-
-* [Aaron Sorkin's The Social Network Sequel Officially in Development](https://entertainment.slashdot.org/story/25/06/25/2144252/aaron-sorkins-the-social-network-sequel-officially-in-development?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Dr. Demento Announces Retirement From Radio After 55 Years](https://soylentnews.org/article.pl?sid=25/06/21/1934229&from=rss)
+* [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&amp;from=rss) - An accidental but stunning archaeological discovery in South America.
 
 ---
 
@@ -71,10 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
+* [2025-06-26, 06:07:47](https://lobste.rs/s/xvzlix/reverse_engineering_microchip_clb_part_1) - [Reverse Engineering the Microchip CLB Part 1: Background and Reverse Engineering the BLEs](http://mcp-clb.markomo.me/P1-Background-and-RE/)
+* [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 * [2025-06-26, 03:45:22](https://lobste.rs/s/f6kee2/swift_android_workgroup) - [Swift Android Workgroup](https://www.swift.org/android-workgroup/)
 * [2025-06-26, 03:30:00](https://hardware.slashdot.org/story/25/06/25/218250/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Swarms of Tiny Nose Robots Could Clear Infected Sinuses, Researchers Say](https://hardware.slashdot.org/story/25/06/25/218250/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 03:17:53](https://lobste.rs/s/0c77sf/paragraph_flowing_as_fold) - [Paragraph flowing as a fold](https://www.sigwinch.xyz/cs/2024/flow-fold.html)
 * [2025-06-26, 03:13:22](https://lobste.rs/s/gg6dpw/jan_nano_128k_4b_model_with_super_long) - [Jan-nano-128k: A 4B Model with a Super-Long Context Window (Still Outperforms 671B [in MCP])](https://huggingface.co/Menlo/Jan-nano-128k)
+* [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren&apos;t: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 * [2025-06-26, 02:38:00](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss) - [Judge Denies Creating “Mass Surveillance Program” Harming All ChatGPT Users](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss)
 * [2025-06-26, 01:30:00](https://tech.slashdot.org/story/25/06/25/2127222/meta-beats-copyright-suit-from-authors-over-ai-training-on-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Beats Copyright Suit From Authors Over AI Training on Books](https://tech.slashdot.org/story/25/06/25/2127222/meta-beats-copyright-suit-from-authors-over-ai-training-on-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 00:58:44](https://lobste.rs/s/mjgw4h/speculative_optimizations_for) - [Speculative Optimizations for WebAssembly using Deopts and Inlining](https://v8.dev/blog/wasm-speculative-optimizations)
@@ -99,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 * [2025-06-25, 19:42:57](https://news.ycombinator.com/item?id=44381168) - [The Offline Club](https://www.theoffline-club.com)
-* [2025-06-25, 19:40:10](https://news.ycombinator.com/item?id=44381144) - [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
 * [2025-06-25, 19:36:55](https://news.ycombinator.com/item?id=44381093) - [Libxml2&apos;s \&quot;no security embargoes\&quot; policy](https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/)
 * [2025-06-25, 19:30:00](https://slashdot.org/story/25/06/25/194207/bernie-sanders-says-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bernie Sanders Says If AI Makes Us So Productive, We Should Get a 4-Day Work Week](https://slashdot.org/story/25/06/25/194207/bernie-sanders-says-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-25, 18:50:00](https://slashdot.org/story/25/06/25/1757229/lyon-abandons-microsoft-office-to-strengthen-digital-sovereignty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lyon Abandons Microsoft Office To Strengthen &apos;Digital Sovereignty&apos;](https://slashdot.org/story/25/06/25/1757229/lyon-abandons-microsoft-office-to-strengthen-digital-sovereignty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -124,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-25, 15:31:47](https://lobste.rs/s/gxly2u/web_embeddable_common_lisp) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:05:17](https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 15:01:26](https://lobste.rs/s/dqz4ye/what_s_new_gleam_1_11) - [What&apos;s new in Gleam 1.11](https://www.youtube.com/watch?v=AKIZG0Dq3Bc)
-* [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or human? Creating an invisible Turing test for the internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 14:22:23](https://lobste.rs/s/ntl2iw/how_write_compelling_release) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it&apos;s running on your competitor&apos;s PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
@@ -132,27 +128,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 13:00:11](https://lobste.rs/s/t8yq3x/reading_nfc_passport_chips_linux) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 12:45:00](https://soylentnews.org/article.pl?sid=25/06/24/0336243&amp;from=rss) - [Apple to Australians: You&apos;re Too Stupid to Choose Your Own Apps](https://soylentnews.org/article.pl?sid=25/06/24/0336243&amp;from=rss)
-* [2025-06-25, 11:28:22](https://lobste.rs/s/shxzwu/interactive_handbook_on_data_structures) - [Interactive Handbook on Data Structures and Algorithms](https://cartesian.app/)
-* [2025-06-25, 10:35:58](https://news.ycombinator.com/item?id=44375696) - [Experience Making a 1-minute AI movie with my 7-year old daughter](https://drsandor.net/ai/minecraft/)
 * [2025-06-25, 10:02:54](https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on) - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/)
 * [2025-06-25, 08:02:00](https://soylentnews.org/article.pl?sid=25/06/24/0044241&amp;from=rss) - [UK Retail&apos;s Estimated Cyberattack Costs Pegged at $500M](https://soylentnews.org/article.pl?sid=25/06/24/0044241&amp;from=rss)
 * [2025-06-25, 03:18:00](https://soylentnews.org/article.pl?sid=25/06/24/0039212&amp;from=rss) - [BEV Battery Swapping in Shanghai](https://soylentnews.org/article.pl?sid=25/06/24/0039212&amp;from=rss)
-* [2025-06-25, 01:28:34](https://lobste.rs/s/ccit25/build_your_first_ios_app_on_linux_windows) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app)
 * [2025-06-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/06/24/0032246&amp;from=rss) - [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&amp;from=rss)
 * [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 * [2025-06-24, 17:51:00](https://soylentnews.org/article.pl?sid=25/06/24/0030208&amp;from=rss) - [Breathprints?](https://soylentnews.org/article.pl?sid=25/06/24/0030208&amp;from=rss)
-* [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird&apos;s donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 * [2025-06-24, 13:09:00](https://soylentnews.org/article.pl?sid=25/06/24/0021200&amp;from=rss) - [Cloudflare CEO Warns AI Crawlers and Summaries Are Eroding the Internet&apos;s Business Model](https://soylentnews.org/article.pl?sid=25/06/24/0021200&amp;from=rss)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-24, 08:23:00](https://soylentnews.org/article.pl?sid=25/06/23/194255&amp;from=rss) - [Massive DDoS Attack Delivered 37.4Tb In 45 Seconds, Equivalent To 10,000 Hd Movies, To One Victim IP](https://soylentnews.org/article.pl?sid=25/06/23/194255&amp;from=rss)
 * [2025-06-24, 03:36:00](https://soylentnews.org/article.pl?sid=25/06/22/1718247&amp;from=rss) - [US Tech Czar: China Just Two Years Behind On Chip Design](https://soylentnews.org/article.pl?sid=25/06/22/1718247&amp;from=rss)
 * [2025-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=25/06/22/179210&amp;from=rss) - [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&amp;from=rss)
+* [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
 * [2025-06-23, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&amp;from=rss) - [US and Allied Base  Al Udeid in Qatar Attacked](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&amp;from=rss)
+* [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
 * [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&amp;from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&amp;from=rss)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
 * [2025-06-23, 13:18:00](https://soylentnews.org/article.pl?sid=25/06/22/1649205&amp;from=rss) - [Open Internet Stack: The EU Commission’s Vague Plans for Open Source](https://soylentnews.org/article.pl?sid=25/06/22/1649205&amp;from=rss)
-* [2025-06-23, 12:16:30](https://news.ycombinator.com/item?id=44355003) - [Introduction to error handling strategies in Go](https://go-monk.beehiiv.com/p/error-handling)
+* [2025-06-23, 11:34:26](https://news.ycombinator.com/item?id=44354643) - [Build a Sentence-Level Text-to-Speech Reader in JavaScript](https://jsdev.space/tts-sentence-reader/)
 * [2025-06-23, 08:34:00](https://soylentnews.org/article.pl?sid=25/06/22/0357239&amp;from=rss) - [Astronomers Locate Universe&apos;s &apos;Missing&apos; Matter in the Largest Cosmic Structures](https://soylentnews.org/article.pl?sid=25/06/22/0357239&amp;from=rss)
 * [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss)
 * [2025-06-22, 23:20:00](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss) - [Gartner: ‘AI is Not Doing its Job and Should Leave Us Alone’](https://soylentnews.org/article.pl?sid=25/06/22/0326239&amp;from=rss)
