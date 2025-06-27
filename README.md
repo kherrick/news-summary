@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Technology and Innovation
 
-* [Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+* [Doctors Perform First Robotic Heart Transplant In US Without Opening a Chest](https://science.slashdot.org/story/25/06/26/2110248/doctors-perform-first-robotic-heart-transplant-in-us-without-opening-a-chest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking achievement in medical technology, this robotic procedure marks a significant milestone in heart transplantation.
 
-* [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
+* [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss) - Innovative use of bioengineering enables bacteria to tackle plastic pollution and produce useful pharmaceuticals.
 
-* [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
+* [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html) - A deep dive into an ambitious project aiming to breathe new life into Lisp architecture through FPGA technology.
 
-* [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
+* [Starlink Helps Eight More Nations Pass 50% IPv6 Adoption](https://tech.slashdot.org/story/25/06/27/0637210/starlink-helps-eight-more-nations-pass-50-ipv6-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring how satellite internet continues to drive global IPv6 adoption rates.
 
-* [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
+## Artificial Intelligence and Machine Learning
 
-* [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
+* [The Monster Inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3) - A critique and analysis of the limitations and potential risks associated with conversational AI like ChatGPT.
 
-* [Apple's Swift Coding Language Is Working On Android Support](https://apple.slashdot.org/story/25/06/26/2133212/apples-swift-coding-language-is-working-on-android-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF) - A new AI tool designed to address pressing challenges in model degradation and catastrophic outcomes.
 
-## Artificial Intelligence and Research
+* [An Updated PNG Spec](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss) - Revised specifications for PNG files could improve compatibility and functionality in AI-related image processing.
 
-* [Doctors Perform First Robotic Heart Transplant In US Without Opening a Chest](https://science.slashdot.org/story/25/06/26/2110248/doctors-perform-first-robotic-heart-transplant-in-us-without-opening-a-chest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Engineering and Computing
 
-* [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss)
+* [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/) - Breaking down the new tag compatibility rules in C for advanced type parameterization.
 
-* [New IQ Research Shows Why Smarter People Make Better Decisions](https://science.slashdot.org/story/25/06/26/2339259/new-iq-research-shows-why-smarter-people-make-better-decisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o) - A deep exploration into how large language models (LLMs) are influencing programming language adoption trends.
 
-## Business and Policy
+* [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr) - A technical analysis of unconventional yet effective expression patterns in Rust.
 
-* [Big Accounting Firms Fail To Track AI Impact on Audit Quality, Says Regulator](https://tech.slashdot.org/story/25/06/27/0426230/big-accounting-firms-fail-to-track-ai-impact-on-audit-quality-says-regulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Environmental and Societal Impact
 
-* [Britain Shuns $34 Billion Morocco-UK Subsea Power Project](https://hardware.slashdot.org/story/25/06/26/2336210/britain-shuns-34-billion-morocco-uk-subsea-power-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - A look at the evolving attitudes towards geoengineering as a response to climate change.
 
-* [Uber In Talks With Founder Travis Kalanick To Fund Self-Driving Car Deal](https://tech.slashdot.org/story/25/06/26/2059214/uber-in-talks-with-founder-travis-kalanick-to-fund-self-driving-car-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [36% of Chinese Undergraduates Choose Engineering, Compared To 5% in US and UK](https://news.slashdot.org/story/25/06/27/1340213/36-of-chinese-undergraduates-choose-engineering-compared-to-5-in-us-and-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study highlighting major educational trends and their potential geopolitical implications.
 
-## Historical and Scientific Discoveries
+* [Comcast's New Plans Dump the Data Caps](https://mobile.slashdot.org/story/25/06/26/2124252/comcasts-new-plans-dump-the-data-caps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A shift in broadband policies challenges data constraints and could improve internet accessibility.
 
-* [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
+## Innovative Personal Projects
 
-* [Peru Gas Workers Find Thousand-Year-Old Mummy](https://soylentnews.org/article.pl?sid=25/06/24/0032246&amp;from=rss)
+* [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot) - A unique visualization project showcasing an airline pilot's travel routes using engaging graphics.
 
-## Open Source and Innovation
+* [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html) - An inventive DIY smart home system built entirely on Bash scripting.
 
-* [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
-
-* [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
-
-* [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
-
-* [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/)
+* [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink) - Introducing a simple yet functional local network directory synchronization tool.
 
 ---
 
@@ -73,12 +67,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-27, 15:20:00](https://science.slashdot.org/story/25/06/27/0724231/deeper-sleep-stages-boost-problem-solving-insights-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deeper Sleep Stages Boost Problem-Solving Insights, Study Finds](https://science.slashdot.org/story/25/06/27/0724231/deeper-sleep-stages-boost-problem-solving-insights-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
+* [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
+* [2025-06-27, 14:40:00](https://tech.slashdot.org/story/25/06/27/0637210/starlink-helps-eight-more-nations-pass-50-ipv6-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starlink Helps Eight More Nations Pass 50% IPv6 Adoption](https://tech.slashdot.org/story/25/06/27/0637210/starlink-helps-eight-more-nations-pass-50-ipv6-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \&quot;Understanding\&quot; the World to \&quot;Depicting\&quot; It](https://qwenlm.github.io/blog/qwen-vlo/)
+* [2025-06-27, 14:16:58](https://news.ycombinator.com/item?id=44396977) - [The Monster Inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3)
+* [2025-06-27, 14:00:00](https://news.slashdot.org/story/25/06/27/1340213/36-of-chinese-undergraduates-choose-engineering-compared-to-5-in-us-and-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [36% of Chinese Undergraduates Choose Engineering, Compared To 5% in US and UK](https://news.slashdot.org/story/25/06/27/1340213/36-of-chinese-undergraduates-choose-engineering-compared-to-5-in-us-and-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-27, 13:34:46](https://lobste.rs/s/2le5gj/richard_feldman_on_new_language_adoption) - [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o)
+* [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I&apos;m an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
+* [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 * [2025-06-27, 13:00:00](https://hardware.slashdot.org/story/25/06/26/2351234/brother-printer-bug-in-689-models-exposes-millions-to-hacking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brother Printer Bug In 689 Models Exposes Millions To Hacking](https://hardware.slashdot.org/story/25/06/26/2351234/brother-printer-bug-in-689-models-exposes-millions-to-hacking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-27, 12:33:25](https://news.ycombinator.com/item?id=44396303) - [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
-* [2025-06-27, 12:33:03](https://news.ycombinator.com/item?id=44396299) - [Creating a pan-European legal entity, the right way](https://klinger.io/posts/eu-inc)
+* [2025-06-27, 12:39:53](https://news.ycombinator.com/item?id=44396342) - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
 * [2025-06-27, 12:04:00](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss) - [An Updated PNG Spec](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss)
 * [2025-06-27, 11:55:25](https://lobste.rs/s/7x7pey/memory_safety_is_merely_table_stakes_safe) - [Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
 * [2025-06-27, 11:14:54](https://lobste.rs/s/nkizry/conferences_clarity_smokescreens) - [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
+* [2025-06-27, 11:10:54](https://news.ycombinator.com/item?id=44395810) - [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF)
+* [2025-06-27, 11:09:42](https://news.ycombinator.com/item?id=44395799) - [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 11:07:53](https://lobste.rs/s/pibyff/my_lights_run_on_bash) - [My Lights Run on Bash](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 10:48:35](https://lobste.rs/s/33tzjt/lispmfpga_goal_this_project_is_create) - [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
 * [2025-06-27, 10:00:00](https://science.slashdot.org/story/25/06/26/2339259/new-iq-research-shows-why-smarter-people-make-better-decisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New IQ Research Shows Why Smarter People Make Better Decisions](https://science.slashdot.org/story/25/06/26/2339259/new-iq-research-shows-why-smarter-people-make-better-decisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,13 +93,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 07:00:00](https://hardware.slashdot.org/story/25/06/26/2336210/britain-shuns-34-billion-morocco-uk-subsea-power-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain Shuns $34 Billion Morocco-UK Subsea Power Project](https://hardware.slashdot.org/story/25/06/26/2336210/britain-shuns-34-billion-morocco-uk-subsea-power-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-27, 06:37:27](https://lobste.rs/s/vagwql/adaptive_simplified_design_system) - [Adaptive, simplified design system colors](https://www.gfor.rest/blog/advanced-design-utils-colors)
-* [2025-06-27, 06:30:44](https://news.ycombinator.com/item?id=44394208) - [Apple Will Transition from the CTF to the CTC for EU Businesses](https://developer.apple.com/news/?id=awedznci)
 * [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
 * [2025-06-27, 04:30:00](https://tech.slashdot.org/story/25/06/27/0426230/big-accounting-firms-fail-to-track-ai-impact-on-audit-quality-says-regulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Big Accounting Firms Fail To Track AI Impact on Audit Quality, Says Regulator](https://tech.slashdot.org/story/25/06/27/0426230/big-accounting-firms-fail-to-track-ai-impact-on-audit-quality-says-regulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-27, 03:51:26](https://news.ycombinator.com/item?id=44393547) - [Biomolecular shifts occur in our 40s and 60s (2024)](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
 * [2025-06-27, 03:30:00](https://science.slashdot.org/story/25/06/26/2110248/doctors-perform-first-robotic-heart-transplant-in-us-without-opening-a-chest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Doctors Perform First Robotic Heart Transplant In US Without Opening a Chest](https://science.slashdot.org/story/25/06/26/2110248/doctors-perform-first-robotic-heart-transplant-in-us-without-opening-a-chest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin&apos;s Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
@@ -108,21 +111,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-26, 21:00:00](https://news.slashdot.org/story/25/06/26/2031231/youtube-search-gets-its-own-version-of-googles-ai-overviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Search Gets Its Own Version of Google&apos;s AI Overviews](https://news.slashdot.org/story/25/06/26/2031231/youtube-search-gets-its-own-version-of-googles-ai-overviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 20:52:48](https://lobste.rs/s/vzgkve/apple_announces_sweeping_app_store) - [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
 * [2025-06-26, 20:27:00](https://tech.slashdot.org/story/25/06/26/2025246/vmware-perpetual-license-holder-receives-audit-letter-from-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Perpetual License Holder Receives Audit Letter From Broadcom](https://tech.slashdot.org/story/25/06/26/2025246/vmware-perpetual-license-holder-receives-audit-letter-from-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:08:28](https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli) - [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
 * [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
 * [2025-06-26, 19:40:25](https://lobste.rs/s/k9fv55/no_time_learn_web_framework_x) - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/)
-* [2025-06-26, 19:40:00](https://apple.slashdot.org/story/25/06/26/1910220/apple-to-open-app-store-to-competitors-in-eu-as-it-seeks-to-avoid-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Open App Store To Competitors in EU As It Seeks To Avoid Fines](https://apple.slashdot.org/story/25/06/26/1910220/apple-to-open-app-store-to-competitors-in-eu-as-it-seeks-to-avoid-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
-* [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [“Why is the Rust compiler so slow?”](https://sharnoff.io/blog/why-rust-compiler-slow)
+* [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [Why is the Rust compiler so slow?](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
 * [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
 * [2025-06-26, 19:10:32](https://lobste.rs/s/y81ftk/matrix_v1_15_release) - [Matrix v1.15 release](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
-* [2025-06-26, 19:02:00](https://games.slashdot.org/story/25/06/26/192220/sony-wont-budge-on-playstation-plus-day-one-releases-for-first-party-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Won&apos;t Budge on PlayStation Plus Day-One Releases For First-Party Games](https://games.slashdot.org/story/25/06/26/192220/sony-wont-budge-on-playstation-plus-day-one-releases-for-first-party-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 18:58:39](https://lobste.rs/s/llgmmr/announcing_rust_1_88_0) - [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
-* [2025-06-26, 18:30:56](https://news.ycombinator.com/item?id=44390005) - [Show HN: Magnitude – Open-source AI browser automation framework](https://github.com/magnitudedev/magnitude)
-* [2025-06-26, 18:11:30](https://news.ycombinator.com/item?id=44389816) - [E.A. Spitzka&apos;s Studies of Exceptional and Deviant Brains (2024)](https://www.huntington.org/verso/ea-spitzkas-studies-exceptional-and-deviant-brains)
-* [2025-06-26, 18:10:00](https://tech.slashdot.org/story/25/06/26/1737218/windows-is-getting-rid-of-the-blue-screen-of-death-after-40-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows is Getting Rid of the Blue Screen of Death After 40 Years](https://tech.slashdot.org/story/25/06/26/1737218/windows-is-getting-rid-of-the-blue-screen-of-death-after-40-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-26, 17:26:01](https://lobste.rs/s/xpugii/what_ui_first_distinguished_radio) - [What UI first distinguished radio buttons from checkboxes with circles and squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss) - [Rubin Telescope To Collect Up To 500,000 Tb Of Data From 3,200-Megapixel Camera Over Ten Years](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss)
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\&quot;Why is the Rust compiler so slow?\&quot;](https://sharnoff.io/blog/why-rust-compiler-slow)
@@ -136,11 +133,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-26, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss) - [Key Fair Use Ruling Clarifies When Books Can be Used for AI Training](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
-* [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
 * [2025-06-26, 08:10:19](https://lobste.rs/s/vw3pwh/box_combinators) - [Box combinators](https://mmapped.blog/posts/41-box-combinators)
 * [2025-06-26, 07:23:00](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss) - [Blaze Sends Ship Carrying Hundreds Of Chinese EVs To Bottom Of Pacific](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss)
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
-* [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 * [2025-06-26, 02:38:00](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss) - [Judge Denies Creating “Mass Surveillance Program” Harming All ChatGPT Users](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss)
 * [2025-06-25, 22:17:00](https://soylentnews.org/article.pl?sid=25/06/24/1258205&amp;from=rss) - [Creating AI Based Entirely on Ethically-Sourced Data](https://soylentnews.org/article.pl?sid=25/06/24/1258205&amp;from=rss)
 * [2025-06-25, 17:30:00](https://soylentnews.org/article.pl?sid=25/06/24/1256227&amp;from=rss) - [New Research Provides First Evidence of the Use of Browser Fingerprints for Online Tracking](https://soylentnews.org/article.pl?sid=25/06/24/1256227&amp;from=rss)
@@ -155,7 +150,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-24, 00:33:00](https://news.ycombinator.com/item?id=44361681) - [VA Tech scientists are building a better fog harp](https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/)
 * [2025-06-23, 23:31:13](https://news.ycombinator.com/item?id=44361288) - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 * [2025-06-23, 22:52:00](https://soylentnews.org/article.pl?sid=25/06/22/179210&amp;from=rss) - [A Cracked Piece of Metal Self-Healed in Experiment That Stunned Scientists](https://soylentnews.org/article.pl?sid=25/06/22/179210&amp;from=rss)
-* [2025-06-23, 21:53:29](https://news.ycombinator.com/item?id=44360558) - [Bogong moths use a stellar compass for long-distance navigation at night](https://www.nature.com/articles/s41586-025-09135-3)
 * [2025-06-23, 20:00:24](https://news.ycombinator.com/item?id=44359454) - [A Lisp adventure on the calm waters of the dead C (2021)](https://mihaiolteanu.me/language-abstractions)
 * [2025-06-23, 19:13:38](https://news.ycombinator.com/item?id=44359045) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
 * [2025-06-23, 19:09:00](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&amp;from=rss) - [US and Allied Base  Al Udeid in Qatar Attacked](https://soylentnews.org/breakingnews/article.pl?sid=25/06/23/1910209&amp;from=rss)
@@ -163,7 +157,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-23, 18:08:00](https://soylentnews.org/article.pl?sid=25/06/22/173242&amp;from=rss) - [50 Years of JAWS](https://soylentnews.org/article.pl?sid=25/06/22/173242&amp;from=rss)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
+* [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 * [2025-06-23, 13:18:00](https://soylentnews.org/article.pl?sid=25/06/22/1649205&amp;from=rss) - [Open Internet Stack: The EU Commission’s Vague Plans for Open Source](https://soylentnews.org/article.pl?sid=25/06/22/1649205&amp;from=rss)
 * [2025-06-23, 08:34:00](https://soylentnews.org/article.pl?sid=25/06/22/0357239&amp;from=rss) - [Astronomers Locate Universe&apos;s &apos;Missing&apos; Matter in the Largest Cosmic Structures](https://soylentnews.org/article.pl?sid=25/06/22/0357239&amp;from=rss)
-* [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 * [2025-06-23, 03:48:00](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss) - [The GPU 16-Pin Melting Fiasco Is Getting Ridiculous](https://soylentnews.org/article.pl?sid=25/06/22/0341247&amp;from=rss)
