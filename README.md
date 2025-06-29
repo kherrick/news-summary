@@ -1,34 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Mishaps and Industry Drama
+## Linux and Open Source Developments
 
-* [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/) ([Comments](https://news.ycombinator.com/item?id=44410159))
+* [New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [X11 Fork XLibre Released For Testing On Systemd-Free Artix Linux](https://linux.slashdot.org/story/25/06/28/054245/x11-fork-xlibre-released-for-testing-on-systemd-free-artix-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Artificial Intelligence Advances and Issues
+* [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback)
 
-* [AI Improves At Improving Itself Using an Evolutionary Trick](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence Innovations and Critiques
 
-* [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread) ([Comments](https://news.ycombinator.com/item?id=44409405))
+* [AI Improves At Improving Itself Using an Evolutionary Trick](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Innovative Software and Tools
+* [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 
-* [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://github.com/SolidLao/GPTuner) ([Comments](https://lobste.rs/s/yybmas/gptuner_manual_reading_database_tuning))
+* [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 
-* [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback) ([Comments](https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility))
+* [People Are Being Committed After Spiraling Into 'ChatGPT Psychosis'](https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cultural Commentary and Business Trends
+## Programming Tools and Techniques
 
-* [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/) ([Comments](https://news.ycombinator.com/item?id=44408552))
+* [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 
-* [Duolingo Stock Plummets After Slowing User Growth, Possibly Caused By 'AI-First' Backlash](https://it.slashdot.org/story/25/06/28/2036249/duolingo-stock-plummets-after-slowing-user-growth-possibly-caused-by-ai-first-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/06/28/2036249/duolingo-stock-plummets-after-slowing-user-growth-possibly-caused-by-ai-first-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 
-## Exploration and Creativity
+* [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 
-* [An Indoor Beehive in My Bedroom Wall](https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/) ([Comments](https://news.ycombinator.com/item?id=44406178))
+## Hardware and Manufacturing
 
-* [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh) ([Comments](https://news.ycombinator.com/item?id=44407661))
+* [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
+
+* [Mercedes-AMG to Drop Four-Cylinder for Inline-Sixes and V-8s](https://tech.slashdot.org/story/25/06/28/0342219/mercedes-amg-to-drop-four-cylinder-for-inline-sixes-and-v-8s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Sparcs Cubesats To Test Electrodynamic Tethers](https://soylentnews.org/article.pl?sid=25/06/27/021255&from=rss)
+
+## Human and Cultural Impacts of Technology
+
+* [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
+
+* [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+
+* [Call Center Workers Are Tired of Being Mistaken for AI](https://it.slashdot.org/story/25/06/28/1740215/call-center-workers-are-tired-of-being-mistaken-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -55,7 +67,8 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-29, 03:34:02](https://news.ycombinator.com/item?id=44410159) - [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
+* [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
+* [2025-06-29, 04:35:00](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss) - [Fedora Plans to Drop 32-Bit  i686 Packages](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss)
 * [2025-06-29, 03:34:00](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 03:27:18](https://lobste.rs/s/yybmas/gptuner_manual_reading_database_tuning) - [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://github.com/SolidLao/GPTuner)
 * [2025-06-29, 01:34:00](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Improves At Improving Itself Using an Evolutionary Trick](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -70,13 +83,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-28, 22:39:00](https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People Are Being Committed After Spiraling Into &apos;ChatGPT Psychosis&apos;](https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 22:10:28](https://lobste.rs/s/p0pozh/fil_c) - [Fil-C](https://github.com/pizlonator/llvm-project-deluge)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-* [2025-06-28, 21:55:47](https://news.ycombinator.com/item?id=44408484) - [Exploring Trichromacy through Maxwell&apos;s Color Experiment (2023)](https://maxwell.kohterai.com/)
 * [2025-06-28, 21:52:24](https://news.ycombinator.com/item?id=44408459) - [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
 * [2025-06-28, 21:39:00](https://yro.slashdot.org/story/25/06/28/1941246/sinaloa-cartel-used-phone-data-and-surveillance-cameras-to-find-and-kill-fbi-informants-in-2018-doj-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sinaloa Cartel Used Phone Data and Surveillance Cameras To Find and Kill FBI Informants in 2018, DOJ Says](https://yro.slashdot.org/story/25/06/28/1941246/sinaloa-cartel-used-phone-data-and-surveillance-cameras-to-find-and-kill-fbi-informants-in-2018-doj-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 20:39:00](https://it.slashdot.org/story/25/06/28/2036249/duolingo-stock-plummets-after-slowing-user-growth-possibly-caused-by-ai-first-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Duolingo Stock Plummets After Slowing User Growth, Possibly Caused By &apos;AI-First&apos; Backlash](https://it.slashdot.org/story/25/06/28/2036249/duolingo-stock-plummets-after-slowing-user-growth-possibly-caused-by-ai-first-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss)
-* [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:34:00](https://science.slashdot.org/story/25/06/28/1440217/leak-stops-on-the-international-space-station-but-nasa-engineers-still-worry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Leak Stops on the International Space Station. But NASA Engineers Still Worry](https://science.slashdot.org/story/25/06/28/1440217/leak-stops-on-the-international-space-station-but-nasa-engineers-still-worry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
 * [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
@@ -88,6 +99,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-28, 17:34:00](https://tech.slashdot.org/story/25/06/28/0427240/researchers-accuse-uber-of-using-opaque-algorithm-to-dramatically-boost-its-profits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Accuse Uber of Using Opaque Algorithm To Dramatically Boost Its Profits](https://tech.slashdot.org/story/25/06/28/0427240/researchers-accuse-uber-of-using-opaque-algorithm-to-dramatically-boost-its-profits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 16:55:01](https://news.ycombinator.com/item?id=44406178) - [An Indoor Beehive in My Bedroom Wall](https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/)
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
+* [2025-06-28, 16:50:19](https://news.ycombinator.com/item?id=44406140) - [Is being bilingual good for your brain?](https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain)
 * [2025-06-28, 16:34:00](https://linux.slashdot.org/story/25/06/28/054245/x11-fork-xlibre-released-for-testing-on-systemd-free-artix-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [X11 Fork XLibre Released For Testing On Systemd-Free Artix Linux](https://linux.slashdot.org/story/25/06/28/054245/x11-fork-xlibre-released-for-testing-on-systemd-free-artix-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 15:34:00](https://tech.slashdot.org/story/25/06/28/047250/how-a-crewless-ai-enhanced-vessel-will-patrol-denmarks-and-natos-waters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Crewless, AI-Enhanced Vessel Will Patrol Denmark&apos;s and NATO&apos;s Waters](https://tech.slashdot.org/story/25/06/28/047250/how-a-crewless-ai-enhanced-vessel-will-patrol-denmarks-and-natos-waters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss)
@@ -129,6 +141,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-27, 11:14:54](https://lobste.rs/s/nkizry/conferences_clarity_smokescreens) - [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
 * [2025-06-27, 07:14:00](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss) - [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss)
+* [2025-06-26, 22:27:11](https://news.ycombinator.com/item?id=44392104) - [The Perils of &apos;Design Thinking&apos;](https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/)
 * [2025-06-26, 21:43:00](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss) - [Apple&apos;s A19 May Be Powerful, But Leans Towards Saving Power](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss)
 * [2025-06-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss) - [Rubin Telescope To Collect Up To 500,000 Tb Of Data From 3,200-Megapixel Camera Over Ten Years](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss)
 * [2025-06-26, 15:25:25](https://news.ycombinator.com/item?id=44388324) - [Tennis Scorigami](https://www.tennis-scorigami.com/)
@@ -136,7 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-26, 07:23:00](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss) - [Blaze Sends Ship Carrying Hundreds Of Chinese EVs To Bottom Of Pacific](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss)
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 02:38:00](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss) - [Judge Denies Creating “Mass Surveillance Program” Harming All ChatGPT Users](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss)
-* [2025-06-25, 22:58:20](https://news.ycombinator.com/item?id=44382576) - [Infrastructure at Roblox](https://corp.roblox.com/newsroom/2025/06/roblox-infrastructure-supporting-record-breaking-games)
+* [2025-06-26, 01:13:29](https://news.ycombinator.com/item?id=44383341) - [Show HN: SVG Lined Tile Generator](https://adpreese.github.io/svg-lined-tiles/)
+* [2025-06-25, 22:37:53](https://news.ycombinator.com/item?id=44382419) - [Improving River Simulation](https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html)
 * [2025-06-25, 22:17:00](https://soylentnews.org/article.pl?sid=25/06/24/1258205&amp;from=rss) - [Creating AI Based Entirely on Ethically-Sourced Data](https://soylentnews.org/article.pl?sid=25/06/24/1258205&amp;from=rss)
 * [2025-06-25, 17:30:00](https://soylentnews.org/article.pl?sid=25/06/24/1256227&amp;from=rss) - [New Research Provides First Evidence of the Use of Browser Fingerprints for Online Tracking](https://soylentnews.org/article.pl?sid=25/06/24/1256227&amp;from=rss)
 * [2025-06-25, 15:36:38](https://news.ycombinator.com/item?id=44378517) - [Show HN: AGL a toy language that compiles to Go](https://github.com/alaingilbert/agl)
