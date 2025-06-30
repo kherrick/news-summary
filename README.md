@@ -1,58 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Milestones and Innovations
+## Advancements in Technology and Science
 
-* [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/) ([comments](https://news.ycombinator.com/item?id=44419446))
+* [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/) ([Comments](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c))
 
-* [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/) ([comments](https://news.ycombinator.com/item?id=44419091))
+* [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/06/29/1610258&from=rss))
 
-* [UK Scientists Plan to Construct Synthetic Human Genetic Material From Scratch](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44418692))
+* [UK Scientists Plan to Construct Synthetic Human Genetic Material From Scratch](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44418692))
 
-* [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss))
+* [Carbon Record Reveals Evidence of Extensive Human Fire Use 50,000 Years Ago](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [ICE test train reaches speeds of up to 405.0 km/h](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394) ([comments](https://news.ycombinator.com/item?id=44417276))
+## Technology's Influence on Society
 
-## Artificial Intelligence Developments
+* [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss))
 
-* [Generative AI’s crippling and widespread failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread) ([comments](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread))
+* [Generative AI’s Crippling and Widespread Failure to Induce Robust Models of the World](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread) ([Comments](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread))
 
-* [Has an AI Backlash Begun?](https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Has an AI Backlash Begun?](https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Beware of Promoting AI in Products, Researchers Warn Marketers](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Noteworthy Achievements and Events
 
-* [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/) ([comments](https://news.ycombinator.com/item?id=44414171))
+* [Thousands in Norway Told They Had Won Life-Changing Sums in Lottery Error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error) ([Comments](https://news.ycombinator.com/item?id=44420943))
 
-* [AI Improves At Improving Itself Using an Evolutionary Trick](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [After 45 Years, 74-Year-Old Spreadsheet Legend/EFF Cofounder Mitch Kapor Gets His MIT Degree](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Scientific Discoveries
+* [Blue Origin Just Launched Six More Passengers to the Edge of Space](https://science.slashdot.org/story/25/06/29/1841252/blue-origin-just-launched-six-more-passengers-to-the-edge-of-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/06/29/1841252/blue-origin-just-launched-six-more-passengers-to-the-edge-of-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Mysterious Radio Burst Turns Out to Be From a Dead 1967 NASA Satellite](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Quirky and Experimental Innovation
 
-* [First Images From World’s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss))
+* [Gridfinity: The Modular, Open-Source Grid Storage System](https://gridfinity.xyz/) ([Comments](https://news.ycombinator.com/item?id=44419091))
 
-* [Carbon Record Reveals Evidence of Extensive Human Fire Use 50,000 Years Ago](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [I Made my VM Think it has a CPU Fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html) ([Comments](https://news.ycombinator.com/item?id=44413185))
 
-* [Earth is Trapping Much More Heat Than Climate Models Forecast](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Amber insect fossils reveal 'zombie' fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil) ([comments](https://news.ycombinator.com/item?id=44391590))
-
-## Open Source and Development Tools
-
-* [The Book of Shaders](https://thebookofshaders.com/) ([comments](https://news.ycombinator.com/item?id=44389622))
-
-* [NativeJIT: A C++ expression → x64 JIT](https://github.com/BitFunnel/NativeJIT) ([comments](https://news.ycombinator.com/item?id=44418840))
-
-* [RSS as my default web browser (for some stuff)](https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/) ([comments](https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some))
-
-* [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/) ([comments](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place))
-
-## Cultural and Historical Highlights
-
-* [After 45 Years, 74-Year-Old Spreadsheet Legend/EFF Cofounder Mitch Kapor Gets His MIT Degree](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Jane Austen's Boldest Novel Is Also Her Least Understood](https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html) ([comments](https://news.ycombinator.com/item?id=44401350))
-
-* [Computer and coding books from Usborne (1982-1985)](https://usborne.com/us/books/computer-and-coding-books) ([comments](https://lobste.rs/s/l6nfum/computer_coding_books_from_usborne_1982))
+* [We Accidentally Solved Robotics by Watching 1M Hours of YouTube](https://ksagar.bearblog.dev/vjepa/) ([Comments](https://news.ycombinator.com/item?id=44414171))
 
 ---
 
@@ -79,30 +59,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
+* [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
+* [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
+* [2025-06-30, 08:47:54](https://news.ycombinator.com/item?id=44420943) - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
+* [2025-06-30, 08:34:00](https://news.slashdot.org/story/25/06/30/0453227/in-last-minute-move-canada-rescinds-digital-services-tax-restarts-negotiations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In Last-Minute Move, Canada Rescinds Digital Services Tax, Restarts Negotiations](https://news.slashdot.org/story/25/06/30/0453227/in-last-minute-move-canada-rescinds-digital-services-tax-restarts-negotiations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 * [2025-06-30, 04:49:39](https://news.ycombinator.com/item?id=44419496) - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
-* [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
+* [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-30, 04:34:00](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After 45 Years, 74-Year-Old Spreadsheet Legend/EFF Cofounder Mitch Kapor Gets His MIT Degree](https://yro.slashdot.org/story/25/06/30/0312235/after-45-years-74-year-old-spreadsheet-legendeff-cofounder-mitch-kapor-gets-his-mit-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 * [2025-06-30, 02:59:52](https://news.ycombinator.com/item?id=44418840) - [NativeJIT: A C++ expression –&gt; x64 JIT](https://github.com/BitFunnel/NativeJIT)
 * [2025-06-30, 02:35:23](https://news.ycombinator.com/item?id=44418692) - [LLM&apos;s Illusion of Alignment](https://www.systemicmisalignment.com/)
 * [2025-06-30, 02:34:00](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Scientists Plan to Construct Synthetic Human Genetic Material From Scratch](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-30, 02:09:30](https://news.ycombinator.com/item?id=44418520) - [Continuous Glucose Monitoring](https://www.imperialviolet.org/2025/06/29/cgm.html)
 * [2025-06-30, 00:45:36](https://news.ycombinator.com/item?id=44418036) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-30, 00:34:00](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Beware of Promoting AI in Products, Researchers Warn Marketers](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-29, 23:51:57](https://news.ycombinator.com/item?id=44417725) - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss)
-* [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
-* [2025-06-29, 22:43:08](https://news.ycombinator.com/item?id=44417276) - [ICE test train reaches speeds of up to 405.0 km/h](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394)
+* [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in four African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
 * [2025-06-29, 22:36:00](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Earth is Trapping Much More Heat Than Climate Models Forecast](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 22:22:32](https://news.ycombinator.com/item?id=44417091) - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 21:34:00](https://news.slashdot.org/story/25/06/29/2132204/for-the-free-software-foundations-summer-fundraiser-the-gnu-press-shop-is-open?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [For the Free Software Foundation&apos;s Summer Fundraiser, the &apos;GNU Press Shop&apos; is Open ](https://news.slashdot.org/story/25/06/29/2132204/for-the-free-software-foundations-summer-fundraiser-the-gnu-press-shop-is-open?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-29, 20:28:54](https://lobste.rs/s/dfa66w/on_error_handling_rust) - [On Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
-* [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 19:59:00](https://it.slashdot.org/story/25/06/29/1956256/new-nsacisa-report-again-urges-the-use-of-memory-safe-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New NSA/CISA Report Again Urges the Use of Memory-Safe Programming Language](https://it.slashdot.org/story/25/06/29/1956256/new-nsacisa-report-again-urges-the-use-of-memory-safe-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
@@ -120,7 +100,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 15:50:00](https://lobste.rs/s/1q5lko/python_gil_removal_reveals_second) - [Python GIL Removal Reveals Second, Stronger GIL Behind It](https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3)
 * [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 15:34:00](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Just How Much Space Data Will the Rubin Observatory Collect?](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
+* [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [Event – Fast, In-Process Event Dispatcher](https://github.com/kelindar/event)
 * [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 14:34:00](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carbon Record Reveals Evidence of Extensive Human Fire Use 50,000 Years Ago](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 14:22:16](https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some) - [RSS as my default web browser (for some stuff)](https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/)
@@ -140,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
 * [2025-06-29, 04:35:00](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss) - [Fedora Plans to Drop 32-Bit  i686 Packages](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss)
 * [2025-06-29, 03:34:00](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-29, 01:34:00](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Improves At Improving Itself Using an Evolutionary Trick](https://slashdot.org/story/25/06/28/2314203/ai-improves-at-improving-itself-using-an-evolutionary-trick?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 23:36:02](https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility) - [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:10:28](https://lobste.rs/s/p0pozh/fil_c) - [Fil-C](https://github.com/pizlonator/llvm-project-deluge)
@@ -151,21 +130,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss)
 * [2025-06-28, 07:58:01](https://lobste.rs/s/7d4on3/newbie_s_first_contribution_rust_for) - [A Newbie&apos;s First Contribution to (Rust for) Linux](https://blog.buenzli.dev/rust-for-linux-first-contrib/)
 * [2025-06-28, 07:03:00](https://soylentnews.org/article.pl?sid=25/06/26/158255&amp;from=rss) - [Edit is Back](https://soylentnews.org/article.pl?sid=25/06/26/158255&amp;from=rss)
-* [2025-06-28, 06:38:39](https://lobste.rs/s/39mnhf/bcachefs_may_be_headed_out_kernel) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-06-28, 02:17:00](https://soylentnews.org/article.pl?sid=25/06/26/153208&amp;from=rss) - [Trump Administration Moves to Count Crypto as a Federal Mortgage Asset](https://soylentnews.org/article.pl?sid=25/06/26/153208&amp;from=rss)
+* [2025-06-27, 23:55:22](https://news.ycombinator.com/item?id=44401358) - [Cross-Compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:54:29](https://news.ycombinator.com/item?id=44401350) - [Jane Austen&apos;s Boldest Novel Is Also Her Least Understood](https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html)
 * [2025-06-27, 21:33:00](https://soylentnews.org/article.pl?sid=25/06/26/0234223&amp;from=rss) - [A Solid-State Battery Breakthrough May be Taking Shape in Maryland](https://soylentnews.org/article.pl?sid=25/06/26/0234223&amp;from=rss)
 * [2025-06-27, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/26/0227253&amp;from=rss) - [Greek Man Sentenced to Prison for Running a Private Torrent Site 10 Years Ago](https://soylentnews.org/article.pl?sid=25/06/26/0227253&amp;from=rss)
+* [2025-06-27, 15:28:14](https://news.ycombinator.com/item?id=44397546) - [To the Postbox](https://literaryreview.co.uk/to-the-postbox)
+* [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New Proof Dramatically Compresses Space Needed for Computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 * [2025-06-27, 12:04:00](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss) - [An Updated PNG Spec](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss)
+* [2025-06-27, 11:51:22](https://news.ycombinator.com/item?id=44396034) - [Does Form Shape Function?](https://www.quantamagazine.org/does-form-really-shape-function-20250612/)
 * [2025-06-27, 07:14:00](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss) - [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss)
-* [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 02:45:02](https://news.ycombinator.com/item?id=44393307) - [Touching the back wall of the Apple store](https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss)
 * [2025-06-26, 21:43:00](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss) - [Apple&apos;s A19 May Be Powerful, But Leans Towards Saving Power](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss)
-* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [Amber insect fossils reveal \&quot;zombie\&quot; fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
+* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 19:20:52](https://news.ycombinator.com/item?id=44390440) - [Ultrasound toothbrush promises painless checks for hidden gum problems](https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html)
 * [2025-06-26, 18:22:05](https://news.ycombinator.com/item?id=44389926) - [Building untrusted container images safely at scale](https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely)
-* [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders](https://thebookofshaders.com/)
+* [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
 * [2025-06-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss) - [Rubin Telescope To Collect Up To 500,000 Tb Of Data From 3,200-Megapixel Camera Over Ten Years](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss)
 * [2025-06-26, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss) - [Key Fair Use Ruling Clarifies When Books Can be Used for AI Training](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth&apos;s \&quot;Premature Optimization\&quot; Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
