@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology and Data
+## Scientific Breakthroughs and Innovations
 
-* [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss))
+* [UK Scientists Plan to Construct Synthetic Human Genetic Material From Scratch](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers in the UK announce plans to create synthetic human genetic material, a significant leap in biotechnology.
 
-* [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) ([comments](https://news.ycombinator.com/item?id=44417725))
+* [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&from=rss) - A parallel project focusing on crafting artificial DNA highlights its potential benefits and ethical considerations.
 
-* [Earth is Trapping Much More Heat Than Climate Models Forecast](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [New NSA/CISA Report Again Urges the Use of Memory-Safe Programming Language](https://it.slashdot.org/story/25/06/29/1956256/new-nsacisa-report-again-urges-the-use-of-memory-safe-programming-language?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This report advocates for safer programming practices to enhance cyber resilience.
 
-* [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/) ([comments](https://news.ycombinator.com/item?id=44416710))
+* [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&from=rss) - Scientists leverage genetically modified bacteria to turn plastic waste into useful pharmaceutical compounds.
 
-* [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss))
+## Space and Astronomy
 
-* [Just How Much Space Data Will the Rubin Observatory Collect?](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Just How Much Space Data Will the Rubin Observatory Collect?](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Rubin Observatory is set to accumulate unprecedented volumes of astronomical data, revolutionizing astrophysics.
 
-## Artificial Intelligence and its Challenges
+* [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss) - Stunning new images from the largest digital camera in operation showcase deep-space phenomena.
 
-* [Beware of Promoting AI in Products, Researchers Warn Marketers](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence and Ethical Implications
 
-* [To Spam AI Chatbots, Companies Spam Reddit with AI-Generated Posts](https://tech.slashdot.org/story/25/06/28/1649245/to-spam-ai-chatbots-companies-spam-reddit-with-ai-generated-posts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/06/28/1649245/to-spam-ai-chatbots-companies-spam-reddit-with-ai-generated-posts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Has an AI Backlash Begun?](https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Growing concerns emerge regarding the unchecked use and societal impact of AI technologies.
 
-* [Generative AI's crippling and widespread failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread) ([comments](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread))
+* [Beware of Promoting AI in Products, Researchers Warn Marketers](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Experts caution about potential over-reliance on AI for branding and its consequences for consumer trust.
 
-## Environmental and Climate Concerns
+## Environmental and Climate Developments
 
-* [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate) ([comments](https://news.ycombinator.com/item?id=44414853))
+* [Earth is Trapping Much More Heat Than Climate Models Forecast](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New findings underscore the urgent need for improved climate models and solutions to mitigate global warming.
 
-* [Carbon Record Reveals Evidence of Extensive Human Fire Use 50,000 Years Ago](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide) - A report analyzes global maritime activity, raising questions about sustainability and geopolitical competition.
 
-## Privacy and Security
+## Technology and Digital Innovations
 
-* [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221) ([comments](https://news.ycombinator.com/item?id=44417549))
+* [Commodore Acquired for a 'Low Seven Figure' Price – CEO from Retro Community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community) - The iconic brand finds renewed investment and potential for retro tech resurgence.
 
-* [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad) ([comments](https://news.ycombinator.com/item?id=44411069))
+* [Zero Trust for Bring Your Own Cloud (BYOC)](https://signoz.io/blog/zero-trust-bring-your-own-cloud) - Exploration of secure cloud paradigms emphasizes the rising relevance of Zero Trust models.
 
-* [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss))
+* [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/) - A deep dive into deconstructing microchips reveals insights into hardware engineering.
 
-## Scientific Discoveries and Computing
+## Health and Medicine
 
-* [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/) ([comments](https://news.ycombinator.com/item?id=44414171))
-
-* [Mysterious Radio Burst Turns Out to Be From a Dead 1967 NASA Satellite](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/) ([comments](https://news.ycombinator.com/item?id=44416589))
+* [Nearly 20% of Cancer Drugs Defective in 4 African Nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221) - A systemic issue affecting critical cancer treatments shines a light on global pharmaceutical inequalities.
 
 ---
 
@@ -69,6 +65,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-06-30, 02:34:00](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Scientists Plan to Construct Synthetic Human Genetic Material From Scratch](https://science.slashdot.org/story/25/06/30/0143234/uk-scientists-plan-to-construct-synthetic-human-genetic-material-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-30, 01:53:47](https://news.ycombinator.com/item?id=44418424) - [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
+* [2025-06-30, 01:17:54](https://news.ycombinator.com/item?id=44418222) - [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
+* [2025-06-30, 00:58:54](https://news.ycombinator.com/item?id=44418105) - [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
+* [2025-06-30, 00:45:36](https://news.ycombinator.com/item?id=44418036) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-30, 00:34:00](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Beware of Promoting AI in Products, Researchers Warn Marketers](https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 23:51:57](https://news.ycombinator.com/item?id=44417725) - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
@@ -77,7 +78,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 23:03:07](https://news.ycombinator.com/item?id=44417417) - [Commodore acquired for a &apos;low seven figure&apos; price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
 * [2025-06-29, 22:36:00](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Earth is Trapping Much More Heat Than Climate Models Forecast](https://news.slashdot.org/story/25/06/29/2233252/earth-is-trapping-much-more-heat-than-climate-models-forecast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-29, 22:22:32](https://news.ycombinator.com/item?id=44417091) - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
-* [2025-06-29, 22:22:30](https://news.ycombinator.com/item?id=44417090) - [Bitcoin&apos;s Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 21:43:50](https://news.ycombinator.com/item?id=44416710) - [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
 * [2025-06-29, 21:34:00](https://news.slashdot.org/story/25/06/29/2132204/for-the-free-software-foundations-summer-fundraiser-the-gnu-press-shop-is-open?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [For the Free Software Foundation&apos;s Summer Fundraiser, the &apos;GNU Press Shop&apos; is Open ](https://news.slashdot.org/story/25/06/29/2132204/for-the-free-software-foundations-summer-fundraiser-the-gnu-press-shop-is-open?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 15:50:00](https://lobste.rs/s/1q5lko/python_gil_removal_reveals_second) - [Python GIL Removal Reveals Second, Stronger GIL Behind It](https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3)
 * [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 15:34:00](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Just How Much Space Data Will the Rubin Observatory Collect?](https://science.slashdot.org/story/25/06/29/0119223/just-how-much-space-data-will-the-rubin-observatory-collect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-29, 15:33:57](https://news.ycombinator.com/item?id=44413921) - [Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)](https://llmapitest.com/)
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
 * [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 14:34:00](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carbon Record Reveals Evidence of Extensive Human Fire Use 50,000 Years Ago](https://science.slashdot.org/story/25/06/29/0142237/carbon-record-reveals-evidence-of-extensive-human-fire-use-50000-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -122,10 +121,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss)
 * [2025-06-29, 09:01:34](https://lobste.rs/s/dfhenp/webassembly_troubles_part_4_microwasm) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 * [2025-06-29, 08:23:49](https://lobste.rs/s/lqf7tn/using_internet_without_ipv4) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
-* [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
-* [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple&apos;s Trust-Eroding &apos;F1 the Movie&apos; Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-29, 07:34:00](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mysterious Radio Burst Turns Out to Be From a Dead 1967 NASA Satellite](https://science.slashdot.org/story/25/06/29/0410213/mysterious-radio-burst-turns-out-to-be-from-a-dead-1967-nasa-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-29, 07:07:03](https://news.ycombinator.com/item?id=44410900) - [The Unsustainability of Moore&apos;s Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
 * [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
 * [2025-06-29, 04:35:00](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss) - [Fedora Plans to Drop 32-Bit  i686 Packages](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss)
 * [2025-06-29, 03:34:00](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash](https://linux.slashdot.org/story/25/06/29/0248236/new-linux-kernel-drama-torvalds-drops-bcachefs-support-after-clash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -134,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:39:00](https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People Are Being Committed After Spiraling Into &apos;ChatGPT Psychosis&apos;](https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 22:10:28](https://lobste.rs/s/p0pozh/fil_c) - [Fil-C](https://github.com/pizlonator/llvm-project-deluge)
-* [2025-06-28, 21:39:00](https://yro.slashdot.org/story/25/06/28/1941246/sinaloa-cartel-used-phone-data-and-surveillance-cameras-to-find-and-kill-fbi-informants-in-2018-doj-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sinaloa Cartel Used Phone Data and Surveillance Cameras To Find and Kill FBI Informants in 2018, DOJ Says](https://yro.slashdot.org/story/25/06/28/1941246/sinaloa-cartel-used-phone-data-and-surveillance-cameras-to-find-and-kill-fbi-informants-in-2018-doj-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss)
 * [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss)
 * [2025-06-28, 14:09:24](https://lobste.rs/s/6zbrhj/i_really_like_helix_editor) - [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/)
@@ -150,13 +145,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-27, 07:14:00](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss) - [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss)
 * [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 04:16:01](https://news.ycombinator.com/item?id=44393657) - [Raymond Laflamme (1960-2025)](https://scottaaronson.blog/?p=8949)
+* [2025-06-27, 02:45:02](https://news.ycombinator.com/item?id=44393307) - [Touching the back wall of the Apple store](https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss)
 * [2025-06-26, 21:43:00](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss) - [Apple&apos;s A19 May Be Powerful, But Leans Towards Saving Power](https://soylentnews.org/article.pl?sid=25/06/25/1717228&amp;from=rss)
+* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [Amber insect fossils reveal \&quot;zombie\&quot; fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders](https://thebookofshaders.com/)
 * [2025-06-26, 16:53:00](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss) - [Rubin Telescope To Collect Up To 500,000 Tb Of Data From 3,200-Megapixel Camera Over Ten Years](https://soylentnews.org/article.pl?sid=25/06/25/1715224&amp;from=rss)
 * [2025-06-26, 14:40:55](https://news.ycombinator.com/item?id=44387923) - [Show HN: Rust -&gt; WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art](https://github.com/gametorch/image_to_pixel_art_wasm)
 * [2025-06-26, 12:11:00](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss) - [Key Fair Use Ruling Clarifies When Books Can be Used for AI Training](https://soylentnews.org/article.pl?sid=25/06/25/1712202&amp;from=rss)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth&apos;s \&quot;Premature Optimization\&quot; Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-26, 07:23:00](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss) - [Blaze Sends Ship Carrying Hundreds Of Chinese EVs To Bottom Of Pacific](https://soylentnews.org/article.pl?sid=25/06/25/0358212&amp;from=rss)
-* [2025-06-26, 06:22:01](https://news.ycombinator.com/item?id=44384679) - [Oldest boomerang doesn&apos;t come back](https://www.bbc.co.uk/news/articles/cren818q5x1o)
 * [2025-06-26, 02:38:00](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss) - [Judge Denies Creating “Mass Surveillance Program” Harming All ChatGPT Users](https://soylentnews.org/article.pl?sid=25/06/24/2342222&amp;from=rss)
