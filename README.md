@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Science Breakthroughs
+## AI and Autonomous Technology
 
-* [Google Buys 200 Megawatts of Fusion Energy That Doesn&apos;t Even Exist Yet](https://hardware.slashdot.org/story/25/06/30/2143225/google-buys-200-megawatts-of-fusion-energy-that-doesnt-even-exist-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [China Hosts First Fully Autonomous AI Robot Football Match](https://hardware.slashdot.org/story/25/06/30/224233/china-hosts-first-fully-autonomous-ai-robot-football-match?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A milestone event showcasing advancements in robotics, held in China where AI-powered robots competed independently in football matches.
 
-* [NASA To Stream Rocket Launches and Spacewalks On Netflix](https://entertainment.slashdot.org/story/25/06/30/2135227/nasa-to-stream-rocket-launches-and-spacewalks-on-netflix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering) - A thought-provoking perspective on the evolution of skills required for crafting effective AI interactions, emphasizing 'context engineering' over traditional prompting.
 
-* [Norwegian Lotto Mistakenly Told Thousands They Were Filthy Rich After Math Error](https://science.slashdot.org/story/25/06/30/2131215/norwegian-lotto-mistakenly-told-thousands-they-were-filthy-rich-after-math-error?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Innovative Energy Developments
 
-* [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
+* [Google Buys 200 Megawatts of Fusion Energy That Doesn't Even Exist Yet](https://hardware.slashdot.org/story/25/06/30/2143225/google-buys-200-megawatts-of-fusion-energy-that-doesnt-even-exist-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google invests in futuristic fusion energy technology, showcasing confidence in speculative sustainable energy solutions.
 
-* [Microsoft&apos;s New AI Tool Outperforms Doctors 4-to-1 in Diagnostic Accuracy](https://science.slashdot.org/story/25/06/30/1712220/microsofts-new-ai-tool-outperforms-doctors-4-to-1-in-diagnostic-accuracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A Solid-State Battery Breakthrough May be Taking Shape in Maryland](https://soylentnews.org/article.pl?sid=25/06/26/0234223&from=rss) - Researchers may have achieved a breakthrough in solid-state batteries, a significant leap forward for energy storage innovation.
 
-## AI and Machine Learning Innovations
+## Space Exploration
 
-* [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
+* [NASA To Stream Rocket Launches and Spacewalks On Netflix](https://entertainment.slashdot.org/story/25/06/30/2135227/nasa-to-stream-rocket-launches-and-spacewalks-on-netflix?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA partners with Netflix to bring real-time access to space exploration highlights, reaching an unprecedented global audience.
 
-* [The new skill in AI is not prompting, it&apos;s context engineering](https://www.philschmid.de/context-engineering)
+* [First Images From World's Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&from=rss) - Stunning images from a groundbreaking digital camera provide unprecedented views of the universe.
 
-* [Show HN: TokenDagger – A tokenizer faster than OpenAI&apos;s Tiktoken](https://github.com/M4THYOU/TokenDagger)
+## Programming and Tech Tools
 
-## Big Tech and Business
+* [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/) - An in-depth guide on building robust command-line interfaces in Rust using the Clap library.
 
-* [Oracle Inks Cloud Deal Worth $30 Billion a Year](https://developers.slashdot.org/story/25/06/30/218226/oracle-inks-cloud-deal-worth-30-billion-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/) - An exploration of memory model nuances in C programming, introducing the concept of 'provenance.'
 
-* [Apple Loses Bid To Dismiss US Smartphone Monopoly Case](https://apple.slashdot.org/story/25/06/30/204242/apple-loses-bid-to-dismiss-us-smartphone-monopoly-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Privacy, Security, and Cryptography
 
-* [Apple Weighs Using Anthropic or OpenAI To Power Siri in Major Reversal](https://apple.slashdot.org/story/25/06/30/1918231/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [VP.net Promises 'Cryptographically Verifiable Privacy'](https://news.slashdot.org/story/25/06/30/1852224/vpnet-promises-cryptographically-verifiable-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new network claims to offer privacy that is both advanced and cryptographically secured.
 
-## Unique Discoveries
+* [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot) - Highlighting a critical vulnerability in the Sudo command, underlining risks for systems administrators.
 
-* [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
+## Cultural and Miscellaneous Discoveries
 
-* [The hidden JTAG in a Qualcomm/Snapdragon device’s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
+* [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8) - A surprising discovery of a hidden massive model train setup excites both urban explorers and hobbyists.
 
-## Historical and Cultural Contributions
+* [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&from=rss) - A profound scientific discourse diving into the inexplicable precision of universal constants well-suited for life.
 
-* [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
+## Corporate Moves and Market Dynamics
 
-* [First Images From World&apos;s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss)
+* [Apple Loses Bid To Dismiss US Smartphone Monopoly Case](https://apple.slashdot.org/story/25/06/30/204242/apple-loses-bid-to-dismiss-us-smartphone-monopoly-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple's legal challenges in the United States highlight ongoing antitrust scrutiny.
+
+* [Oracle Inks Cloud Deal Worth $30 Billion a Year](https://developers.slashdot.org/story/25/06/30/218226/oracle-inks-cloud-deal-worth-30-billion-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Oracle secures a lucrative cloud services contract, bolstering its position in the tech industry.
 
 ---
 
@@ -65,9 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-01, 03:57:00](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss) - [CISA, NSA Repeat Call for Memory Safe Programming Languages](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss)
+* [2025-07-01, 03:30:00](https://hardware.slashdot.org/story/25/06/30/224233/china-hosts-first-fully-autonomous-ai-robot-football-match?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Hosts First Fully Autonomous AI Robot Football Match](https://hardware.slashdot.org/story/25/06/30/224233/china-hosts-first-fully-autonomous-ai-robot-football-match?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 02:02:00](https://hardware.slashdot.org/story/25/06/30/2143225/google-buys-200-megawatts-of-fusion-energy-that-doesnt-even-exist-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Buys 200 Megawatts of Fusion Energy That Doesn&apos;t Even Exist Yet](https://hardware.slashdot.org/story/25/06/30/2143225/google-buys-200-megawatts-of-fusion-energy-that-doesnt-even-exist-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-01, 01:25:07](https://news.ycombinator.com/item?id=44429695) - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
 * [2025-07-01, 01:25:00](https://entertainment.slashdot.org/story/25/06/30/2135227/nasa-to-stream-rocket-launches-and-spacewalks-on-netflix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA To Stream Rocket Launches and Spacewalks On Netflix](https://entertainment.slashdot.org/story/25/06/30/2135227/nasa-to-stream-rocket-launches-and-spacewalks-on-netflix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-01, 00:58:22](https://news.ycombinator.com/item?id=44429531) - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
 * [2025-07-01, 00:45:00](https://science.slashdot.org/story/25/06/30/2131215/norwegian-lotto-mistakenly-told-thousands-they-were-filthy-rich-after-math-error?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Norwegian Lotto Mistakenly Told Thousands They Were Filthy Rich After Math Error](https://science.slashdot.org/story/25/06/30/2131215/norwegian-lotto-mistakenly-told-thousands-they-were-filthy-rich-after-math-error?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-01, 00:41:04](https://news.ycombinator.com/item?id=44429457) - [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
 * [2025-07-01, 00:02:00](https://tech.slashdot.org/story/25/06/30/2123239/windows-user-base-shrinks-by-400-million-in-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows User Base Shrinks By 400 Million In Three Years](https://tech.slashdot.org/story/25/06/30/2123239/windows-user-base-shrinks-by-400-million-in-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 00:01:15](https://news.ycombinator.com/item?id=44429225) - [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
 * [2025-06-30, 23:56:08](https://lobste.rs/s/nid79d/google_developer_search_appliance) - [Google Developer Search Appliance – Proxmox Port](https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar)
@@ -90,22 +97,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 19:54:11](https://news.ycombinator.com/item?id=44427147) - [Price of rice in Japan falls below ¥4k per 5kg](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
 * [2025-06-30, 19:52:19](https://news.ycombinator.com/item?id=44427134) - [Public Signal Backups Testing](https://community.signalusers.org/t/public-signal-backups-testing/69984)
-* [2025-06-30, 19:36:27](https://lobste.rs/s/rq7ffv/building_accurate_address_matching) - [Building Accurate Address Matching Systems](https://www.robinlinacre.com/address_matching/)
 * [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
-* [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
+* [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The original LZEXE (A.K.A. Kosinski) compressor source code has been released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
 * [2025-06-30, 18:56:16](https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-06-30, 18:50:00](https://news.slashdot.org/story/25/06/30/1852224/vpnet-promises-cryptographically-verifiable-privacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VP.net Promises \&quot;Cryptographically Verifiable Privacy\&quot;](https://news.slashdot.org/story/25/06/30/1852224/vpnet-promises-cryptographically-verifiable-privacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-30, 18:45:00](https://tech.slashdot.org/story/25/06/30/1825238/wordpress-ceo-regrets-belongs-to-me-comment-amid-ongoing-wp-engine-legal-battle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WordPress CEO Regrets &apos;Belongs to Me&apos; Comment Amid Ongoing WP Engine Legal Battle](https://tech.slashdot.org/story/25/06/30/1825238/wordpress-ceo-regrets-belongs-to-me-comment-amid-ongoing-wp-engine-legal-battle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-06-30, 18:38:47](https://news.ycombinator.com/item?id=44426476) - [Show HN: We&apos;re two coffee nerds who built an AI app to track beans and recipes](https://beanbook.app)
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The hidden JTAG in a Qualcomm/Snapdragon device’s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
-* [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What&apos;s the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:08:00](https://slashdot.org/story/25/06/30/188259/in-china-coins-and-banknotes-have-all-but-disappeared?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In China, Coins and Banknotes Have All But Disappeared](https://slashdot.org/story/25/06/30/188259/in-china-coins-and-banknotes-have-all-but-disappeared?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don&apos;t make &apos;em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
-* [2025-06-30, 17:20:00](https://science.slashdot.org/story/25/06/30/1712220/microsofts-new-ai-tool-outperforms-doctors-4-to-1-in-diagnostic-accuracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s New AI Tool Outperforms Doctors 4-to-1 in Diagnostic Accuracy](https://science.slashdot.org/story/25/06/30/1712220/microsofts-new-ai-tool-outperforms-doctors-4-to-1-in-diagnostic-accuracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for practices that harm developers and consumers](https://proton.me/blog/apple-lawsuit)
 * [2025-06-30, 17:00:57](https://news.ycombinator.com/item?id=44425537) - [14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
 * [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I write type-safe generic data structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
@@ -127,32 +131,31 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-30, 10:22:14](https://lobste.rs/s/vaqyrt/history_unix_manpages) - [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
 * [2025-06-30, 10:05:08](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week)
 * [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
-* [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
+* [2025-06-29, 20:10:54](https://news.ycombinator.com/item?id=44416009) - [YouTube No Translation](https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss)
 * [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
+* [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) - [First Images From World&apos;s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss)
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss)
 * [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
 * [2025-06-29, 04:35:00](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss) - [Fedora Plans to Drop 32-Bit  i686 Packages](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss)
 * [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss)
 * [2025-06-28, 20:01:54](https://news.ycombinator.com/item?id=44407708) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
-* [2025-06-28, 16:27:58](https://news.ycombinator.com/item?id=44405937) - [Jacobi Ellipsoid](https://en.wikipedia.org/wiki/Jacobi_ellipsoid)
 * [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss)
+* [2025-06-28, 14:21:06](https://news.ycombinator.com/item?id=44404897) - [Publishing Pepys](https://literaryreview.co.uk/publishing-pepys)
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss)
-* [2025-06-28, 08:28:37](https://news.ycombinator.com/item?id=44403117) - [Beneath the canopy: Pioneering satellite reveals rainforests&apos; hidden worlds](https://www.bbc.co.uk/news/resources/idt-d7353b50-0fea-46ba-8495-ae9e25192cfe)
 * [2025-06-28, 07:03:00](https://soylentnews.org/article.pl?sid=25/06/26/158255&amp;from=rss) - [Edit is Back](https://soylentnews.org/article.pl?sid=25/06/26/158255&amp;from=rss)
 * [2025-06-28, 06:11:38](https://news.ycombinator.com/item?id=44402618) - [Creating fair dice from random objects](https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/)
 * [2025-06-28, 02:17:00](https://soylentnews.org/article.pl?sid=25/06/26/153208&amp;from=rss) - [Trump Administration Moves to Count Crypto as a Federal Mortgage Asset](https://soylentnews.org/article.pl?sid=25/06/26/153208&amp;from=rss)
 * [2025-06-27, 21:33:00](https://soylentnews.org/article.pl?sid=25/06/26/0234223&amp;from=rss) - [A Solid-State Battery Breakthrough May be Taking Shape in Maryland](https://soylentnews.org/article.pl?sid=25/06/26/0234223&amp;from=rss)
-* [2025-06-27, 17:50:44](https://news.ycombinator.com/item?id=44398809) - [The Plot of the Phantom, a text adventure that took 40 years to finish](https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/)
 * [2025-06-27, 16:47:00](https://soylentnews.org/article.pl?sid=25/06/26/0227253&amp;from=rss) - [Greek Man Sentenced to Prison for Running a Private Torrent Site 10 Years Ago](https://soylentnews.org/article.pl?sid=25/06/26/0227253&amp;from=rss)
-* [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New proof dramatically compresses space needed for computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
+* [2025-06-27, 15:19:57](https://news.ycombinator.com/item?id=44397482) - [So you want to serialize some DER?](https://alexgaynor.net/2025/jun/20/serialize-some-der/)
 * [2025-06-27, 12:04:00](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss) - [An Updated PNG Spec](https://soylentnews.org/article.pl?sid=25/06/26/0225203&amp;from=rss)
 * [2025-06-27, 07:14:00](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss) - [Modified Bacteria Convert Plastic Waste Into Pain Reliever](https://soylentnews.org/article.pl?sid=25/06/26/0223205&amp;from=rss)
 * [2025-06-27, 02:29:00](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss) - [Why Geoengineering is No Longer a Complete Taboo for Scientists](https://soylentnews.org/article.pl?sid=25/06/26/0210246&amp;from=rss)
