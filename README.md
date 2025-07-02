@@ -1,36 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Corporate and Industry Developments
+## Scientific Advancements and Theories
 
-* [Laptop Mag Is Shutting Down](https://hardware.slashdot.org/story/25/07/01/2133224/laptop-mag-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The long-standing technology magazine announces its closure.
+* [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss) - A controversial theory suggesting that time may possess three dimensions, fundamentally altering our understanding of space and time relationships.
 
-* [Apple Accuses Former Engineer of Taking Vision Pro Secrets To Snap](https://yro.slashdot.org/story/25/07/01/2128235/apple-accuses-former-engineer-of-taking-vision-pro-secrets-to-snap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple files a lawsuit over alleged intellectual theft concerning its Vision Pro technology.
+* [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800) - An exploration of Hilbert's sixth problem using Boltzmann's theory to derive fluid equations, potentially redefining aspects of mathematical physics.
 
-* [Xerox Buys Lexmark For $1.5 Billion As Print Industry Clings To Relevance](https://slashdot.org/story/25/07/01/2247221/xerox-buys-lexmark-for-15-billion-as-print-industry-clings-to-relevance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Xerox's acquisition underscores challenges in the shrinking print industry.
+* [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d) - A study analyzing the impact of tree coverage on temperature reduction and heat exposure mitigation in urban environments like Las Vegas.
 
-## Emerging Technologies and Innovative Efforts
+## Technology and Software
 
-* [Tech Hobbyist Destroys 51 MicroSD Cards To Build Ultimate Performance Database](https://it.slashdot.org/story/25/07/01/155208/tech-hobbyist-destroys-51-microsd-cards-to-build-ultimate-performance-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A tech hobbyist pushes the limits of storage performance using unconventional methods.
+* [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1) - A major update in the open-source OpenBao project, adding namespaces and other features for more efficient secret management.
 
-* [Amazon Deploys Its One Millionth Robot, Releases Generative AI Model](https://hardware.slashdot.org/story/25/07/01/2046242/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Milestone for automation and AI in Amazon's logistics and wider tech industry.
+* [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/) - Challenging conventional wisdom in software development, this article explores cases where deleting code tests is beneficial to project health.
 
-## Privacy and Policies
+* [Amazon Deploys Its One Millionth Robot, Releases Generative AI Model](https://hardware.slashdot.org/story/25/07/01/2046242/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon celebrates a milestone in robotics deployment while showcasing their enhancements in generative AI models.
 
-* [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New regulatory measures implemented on Tinder to verify user identities.
+## Corporate Developments
 
-* [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html) - Broader restrictions now introduced to ensure age-based search compliance.
+* [Figma Files For IPO](https://slashdot.org/story/25/07/01/2058244/figma-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Popular design tool Figma files for a public offering, signaling a significant step in its company evolution.
 
-## Climate, Environment, and Urban Planning
+* [Xerox Buys Lexmark For $1.5 Billion As Print Industry Clings To Relevance](https://slashdot.org/story/25/07/01/2247221/xerox-buys-lexmark-for-15-billion-as-print-industry-clings-to-relevance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In a bid to rejuvenate the print industry, Xerox acquires Lexmark, marking a noteworthy move in a waning sector.
 
-* [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d) - Study highlights trees' critical role in cooling rising urban temperatures.
+## Privacy, Security, and Ethics
 
-* [Global Warming Is Speeding Up and the World Is Feeling the Effects](https://news.slashdot.org/story/25/07/01/164239/global-warming-is-speeding-up-and-the-world-is-feeling-the-effects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports on the accelerating impacts of climate change and global warming.
+* [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tinder introduces facial recognition in California to prevent fraud and ensure user safety.
 
-## Tech Employment and Economic Shifts
+* [AI is Now Screening Job Candidates Before Humans Ever See Them](https://slashdot.org/story/25/07/01/186240/ai-is-now-screening-job-candidates-before-humans-ever-see-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Artificial intelligence algorithms now handle initial job applicant screenings, raising questions about bias and data privacy.
 
-* [AI Arms Race Drives Engineer Pay To More Than $10 Million](https://tech.slashdot.org/story/25/07/01/1536223/ai-arms-race-drives-engineer-pay-to-more-than-10-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI-related demand causes salaries in tech to skyrocket.
+## Cultural and Historical Discoveries
 
-* [Figment Files IPO](https://slashdot.org/story/25/07/01/2058244/figma-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Visual collaboration company proceeds final steps for Initial Offering expansion globally impacting workforce Pvt Listings.
+* [The Roman Roads Research Association](https://www.romanroads.org/) - Learn about an organization dedicated to researching and preserving ancient Roman infrastructure, shedding light on historical engineering marvels.
+
+* [Soldier's wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513) - An exceptional discovery at a Roman military site offers insights into the daily lives of soldiers in antiquity.
 
 ---
 
@@ -57,13 +59,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-02, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss) - [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss)
+* [2025-07-02, 03:36:39](https://lobste.rs/s/68zztb/openbao_community_fork_vault_released_v2) - [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1)
+* [2025-07-02, 03:30:00](https://hardware.slashdot.org/story/25/07/01/221237/googles-data-center-energy-use-doubled-in-4-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Data Center Energy Use Doubled In 4 Years](https://hardware.slashdot.org/story/25/07/01/221237/googles-data-center-energy-use-doubled-in-4-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-02, 03:20:12](https://lobste.rs/s/tw7pzd/you_should_delete_tests) - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
+* [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
 * [2025-07-02, 01:25:00](https://hardware.slashdot.org/story/25/07/01/2133224/laptop-mag-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Laptop Mag Is Shutting Down](https://hardware.slashdot.org/story/25/07/01/2133224/laptop-mag-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-02, 00:45:00](https://yro.slashdot.org/story/25/07/01/2128235/apple-accuses-former-engineer-of-taking-vision-pro-secrets-to-snap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Accuses Former Engineer of Taking Vision Pro Secrets To Snap](https://yro.slashdot.org/story/25/07/01/2128235/apple-accuses-former-engineer-of-taking-vision-pro-secrets-to-snap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert&apos;s sixth problem: derivation of fluid equations via Boltzmann&apos;s theory](https://arxiv.org/abs/2503.01800)
 * [2025-07-02, 00:02:00](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
-* [2025-07-01, 23:30:35](https://news.ycombinator.com/item?id=44438900) - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
-* [2025-07-01, 23:29:28](https://news.ycombinator.com/item?id=44438890) - [America&apos;s Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 23:20:00](https://slashdot.org/story/25/07/01/2058244/figma-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Figma Files For IPO](https://slashdot.org/story/25/07/01/2058244/figma-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 23:00:00](https://slashdot.org/story/25/07/01/2247221/xerox-buys-lexmark-for-15-billion-as-print-industry-clings-to-relevance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xerox Buys Lexmark For $1.5 Billion As Print Industry Clings To Relevance](https://slashdot.org/story/25/07/01/2247221/xerox-buys-lexmark-for-15-billion-as-print-industry-clings-to-relevance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -78,7 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-01, 20:40:00](https://it.slashdot.org/story/25/07/01/155208/tech-hobbyist-destroys-51-microsd-cards-to-build-ultimate-performance-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech Hobbyist Destroys 51 MicroSD Cards To Build Ultimate Performance Database](https://it.slashdot.org/story/25/07/01/155208/tech-hobbyist-destroys-51-microsd-cards-to-build-ultimate-performance-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
 * [2025-07-01, 20:26:35](https://news.ycombinator.com/item?id=44437712) - [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
-* [2025-07-01, 20:03:58](https://news.ycombinator.com/item?id=44437539) - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 * [2025-07-01, 20:00:00](https://tech.slashdot.org/story/25/07/01/181213/att-now-lets-customers-lock-down-account-to-prevent-sim-swapping-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T Now Lets Customers Lock Down Account To Prevent SIM Swapping Attacks](https://tech.slashdot.org/story/25/07/01/181213/att-now-lets-customers-lock-down-account-to-prevent-sim-swapping-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
 * [2025-07-01, 19:20:00](https://it.slashdot.org/story/25/07/01/1552216/it-worker-sentenced-to-seven-months-after-trashing-company-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IT Worker Sentenced To Seven Months After Trashing Company Network](https://it.slashdot.org/story/25/07/01/1552216/it-worker-sentenced-to-seven-months-after-trashing-company-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,25 +92,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-01, 18:12:00](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss) - [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 18:00:00](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Flips AI Scraping Model With Pay-Per-Crawl System For Publishers](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-01, 17:56:59](https://lobste.rs/s/lkxakl/what_should_native_dom_templating_api) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like)
 * [2025-07-01, 17:20:00](https://tech.slashdot.org/story/25/07/01/1536223/ai-arms-race-drives-engineer-pay-to-more-than-10-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Arms Race Drives Engineer Pay To More Than $10 Million](https://tech.slashdot.org/story/25/07/01/1536223/ai-arms-race-drives-engineer-pay-to-more-than-10-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) is hiring an engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
 * [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell&apos;s Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code⇄GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
-* [2025-07-01, 16:40:00](https://news.slashdot.org/story/25/07/01/164239/global-warming-is-speeding-up-and-the-world-is-feeling-the-effects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global Warming Is Speeding Up and the World Is Feeling the Effects](https://news.slashdot.org/story/25/07/01/164239/global-warming-is-speeding-up-and-the-world-is-feeling-the-effects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-01, 16:24:24](https://news.ycombinator.com/item?id=44435500) - [Show HN: Core – open source memory graph for LLMs – shareable, user owned](https://github.com/RedPlanetHQ/core)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They&apos;re off by half a million](https://calvin.sh/blog/fed-lie/)
+* [2025-07-01, 15:57:23](https://news.ycombinator.com/item?id=44435211) - [Show HN: HackerNewt – Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2025-07-01, 15:47:21](https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique) - [Emoji Kitchen - Browse Google&apos;s unique emoji combinations](https://emojikitchen.dev/)
 * [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434574) - [Ask HN: Who wants to be hired? (July 2025)](https://news.ycombinator.com/item?id=44434574)
-* [2025-07-01, 14:26:36](https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong) - [FUZZING&apos;25 Keynote: \&quot;Are you sure you belong in academia?\&quot;](https://www.youtube.com/watch?v=qQGuQ_4V6WI)
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
-* [2025-07-01, 13:46:56](https://news.ycombinator.com/item?id=44433899) - [Experience converting a mathematical software package to C++20 modules [PDF]](https://arxiv.org/abs/2506.21654)
+* [2025-07-01, 13:46:56](https://news.ycombinator.com/item?id=44433899) - [Converting a large mathematical software package written in C++ to C++20 modules](https://arxiv.org/abs/2506.21654)
 * [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
@@ -124,7 +127,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
-* [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
@@ -134,14 +136,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 15:29:43](https://news.ycombinator.com/item?id=44413895) - [Voyage of Magellan – Epilogue: Sailor of Eternal Fame](https://analog-antiquarian.net/2025/06/27/epilogue-sailor-of-eternal-fame/)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) - [First Images From World&apos;s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss)
+* [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
+* [2025-06-29, 09:30:09](https://news.ycombinator.com/item?id=44411586) - [Show HN: A local secrets manager with easy backup](https://github.com/raiyanyahya/yacs)
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss)
 * [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
 * [2025-06-29, 04:35:00](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss) - [Fedora Plans to Drop 32-Bit  i686 Packages](https://soylentnews.org/article.pl?sid=25/06/29/0427207&amp;from=rss)
-* [2025-06-29, 00:19:13](https://news.ycombinator.com/item?id=44409276) - [Muxio: Rust layered stream and RPC toolkit](https://crates.io/crates/muxio)
 * [2025-06-28, 20:15:00](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss) - [Win11 Black Screen of Death update](https://soylentnews.org/article.pl?sid=25/06/28/0137201&amp;from=rss)
 * [2025-06-28, 17:20:34](https://news.ycombinator.com/item?id=44406401) - [Soldier&apos;s wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513)
 * [2025-06-28, 15:30:00](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss) - [Sparcs Cubesats To Test Electrodynamic Tethers ](https://soylentnews.org/article.pl?sid=25/06/27/021255&amp;from=rss)
 * [2025-06-28, 13:07:19](https://news.ycombinator.com/item?id=44404447) - [Show HN: I made a 2D game engine in Dart](https://bullseye2d.org/)
+* [2025-06-28, 12:33:44](https://news.ycombinator.com/item?id=44404243) - [Why Do Swallows Fly to the Korean DMZ?](https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group&apos;s social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
 * [2025-06-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss) - [Canonical to Remove GPU Exploit Mitigation to Gain 20% Performance Boost](https://soylentnews.org/article.pl?sid=25/06/26/1527200&amp;from=rss)
 * [2025-06-28, 10:07:38](https://news.ycombinator.com/item?id=44403547) - [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames)
