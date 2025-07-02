@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Scientific Breakthroughs and Innovations
 
-* [c2rust: Migrate C code to Rust](https://github.com/immunant/c2rust) - An open source tool to help developers transition C codebases to the Rust programming language, improving memory safety.
+* [Genetic Study Reveals Humanity's Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss) - This research uncovers the most extensive human migration in history, offering new insights into population genetics. [Comments](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss)
 
-* [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/) - Learn how Mandelbrot sets are implemented in x86 assembly, showcasing programming creativity and performance.
+* [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss) - A fascinating new perspective on time and space that challenges conventional scientific paradigms. [Comments](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss)
 
-* [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1) - The open-source community refines key-value store Vault, adding functionality such as namespaces.
+* [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - Research on squid skin could revolutionize stealth materials and optics in technology. [Comments](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
 
-* [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/) - A provocative take on optimizing test practices in software development.
+## Technology and AI Developments
 
-* [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800) - A new mathematical exploration linking Boltzmann's theorem to fluid mechanics.
+* [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies) - A critical exploration of how AI companies interact with web data at the cost of user trust. [Comments](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies)
 
-* [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html) - An in-depth exploration of Haskell’s syntax challenges and related design decisions.
+* [Cloudflare Flips AI Scraping Model With Pay-Per-Crawl System For Publishers](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A shift in the AI web scraping landscape might provide new opportunities for content monetization. [Comments](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW) - A new tool designed to create aesthetically pleasing infrastructure diagrams offline.
+* [Amazon Deploys Its One Millionth Robot, Releases Generative AI Model](https://hardware.slashdot.org/story/25/07/01/2046242/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon scales up its automation and AI initiatives, signaling broader industrial shifts. [Comments](https://hardware.slashdot.org/story/25/07/01/2046242/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## AI and Data Privacy
+## Corporate News and Failures
 
-* [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tinder's controversial new facial recognition policy aims to strengthen user authentication.
+* [Bezos-Backed Methane Tracking Satellite Is Lost In Space](https://tech.slashdot.org/story/25/07/01/2211218/bezos-backed-methane-tracking-satellite-is-lost-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major setback for environmental surveillance initiatives led by Blue Origin. [Comments](https://tech.slashdot.org/story/25/07/01/2211218/bezos-backed-methane-tracking-satellite-is-lost-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html) - New regulations could limit anonymous search options in Australia.
+* [Laptop Mag Is Shutting Down](https://hardware.slashdot.org/story/25/07/01/2133224/laptop-mag-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The iconic magazine ceases operations after decades of product reviews and tech news. [Comments](https://hardware.slashdot.org/story/25/07/01/2133224/laptop-mag-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss) - Google’s counter-offensive against declining search engine analytics focuses on publisher monetization.
+## Cybersecurity and Privacy Concerns
 
-* [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/) - Trusted fake review detection tool Fakespot discontinues service.
+* [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss) - Newly identified vulnerabilities highlight the risks of Bluetooth-based surveillance. [Comments](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss)
 
-## Scientific Discoveries and Exploration
+* [Tinder To Require Facial Recognition Check For New Users In California](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial move to boost user security underscores privacy trade-offs. [Comments](https://yro.slashdot.org/story/25/07/01/2112208/tinder-to-require-facial-recognition-check-for-new-users-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss) - A bold scientific paradigm suggesting time triads over traditional space-focused physics.
+## Historical and Mathematical Insights
 
-* [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - Delve into the mysteries of the cosmos' fine-tuned attributes.
+* [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800) - This study revisits one of the major mathematical challenges and its implications in physics. [Comments](https://news.ycombinator.com/item?id=44439242)
 
-* [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732) - Investigating innovative propulsion techniques for advancing deep space exploration.
-
-* [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames) - Discussion on how graph theory shapes mechanics and designs within gaming.
-
-## Infrastructure and Innovations
-
-* [Google's Data Center Energy Use Doubled In 4 Years](https://hardware.slashdot.org/story/25/07/01/221237/googles-data-center-energy-use-doubled-in-4-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's green goals countered by reported energy spikes in its infrastructure.
-
-* [Cloudflare Flips AI Scraping Model With Pay-Per-Crawl System For Publishers](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A unique monetization strategy to empower content owners in the age of AI.
-
-* [Tech Hobbyist Destroys 51 MicroSD Cards To Build Ultimate Performance Database](https://it.slashdot.org/story/25/07/01/155208/tech-hobbyist-destroys-51-microsd-cards-to-build-ultimate-performance-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A daring experiment pushes storage technology to its limits.
+* [Soldier's wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513) - An archaeological find sheds light on the lives of Roman soldiers. [Comments](https://news.ycombinator.com/item?id=44406401)
 
 ---
 
@@ -69,6 +59,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-02, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss) - [Genetic Study Reveals Humanity&apos;s Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss)
+* [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web&apos;s broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
+* [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
+* [2025-07-02, 07:00:00](https://tech.slashdot.org/story/25/07/01/2211218/bezos-backed-methane-tracking-satellite-is-lost-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bezos-Backed Methane Tracking Satellite Is Lost In Space](https://tech.slashdot.org/story/25/07/01/2211218/bezos-backed-methane-tracking-satellite-is-lost-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-02, 06:41:32](https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust) - [c2rust: Migrate C code to Rust](https://github.com/immunant/c2rust)
 * [2025-07-02, 05:31:08](https://news.ycombinator.com/item?id=44440509) - [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
 * [2025-07-02, 04:59:00](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&amp;from=rss) - [Stripe Donations Back Online](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&amp;from=rss)
@@ -106,13 +100,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta&apos;s AI Talent Poaching: &apos;Missionaries Will Beat Mercenaries&apos;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 18:00:00](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Flips AI Scraping Model With Pay-Per-Crawl System For Publishers](https://tech.slashdot.org/story/25/07/01/1745245/cloudflare-flips-ai-scraping-model-with-pay-per-crawl-system-for-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-01, 17:20:00](https://tech.slashdot.org/story/25/07/01/1536223/ai-arms-race-drives-engineer-pay-to-more-than-10-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Arms Race Drives Engineer Pay To More Than $10 Million](https://tech.slashdot.org/story/25/07/01/1536223/ai-arms-race-drives-engineer-pay-to-more-than-10-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) is hiring an engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
 * [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell&apos;s Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code-GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
-* [2025-07-01, 16:24:24](https://news.ycombinator.com/item?id=44435500) - [Show HN: Core – open source memory graph for LLMs – shareable, user owned](https://github.com/RedPlanetHQ/core)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They&apos;re off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-07-01, 15:47:21](https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique) - [Emoji Kitchen - Browse Google&apos;s unique emoji combinations](https://emojikitchen.dev/)
 * [2025-07-01, 15:31:45](https://news.ycombinator.com/item?id=44434938) - [HN Slop: AI startup ideas generated from Hacker News](https://www.josh.ing/hn-slop)
@@ -140,15 +131,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-06-30, 23:13:00](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss) - [Group of Investors Represented by Youtuber Perifractic Buys Commodore](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss)
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
-* [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss)
 * [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss)
-* [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) - [First Images From World&apos;s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss)
+* [2025-06-29, 13:03:12](https://news.ycombinator.com/item?id=44412808) - [The Titanic&apos;s Best Lifeboat](https://99percentinvisible.org/episode/632-the-titanics-best-lifeboat/)
 * [2025-06-29, 12:52:42](https://news.ycombinator.com/item?id=44412726) - [Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)](https://news.ycombinator.com/item?id=44412726)
+* [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A neural brain implant provides near instantaneous speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
 * [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss)
 * [2025-06-29, 04:46:00](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss) - [Reason for the Site Outage - the Cable Had Been Cut Again!](https://soylentnews.org/meta/article.pl?sid=25/06/29/0446225&amp;from=rss)
