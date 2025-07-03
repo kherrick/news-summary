@@ -1,44 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Digital Privacy
+## Astronomy and Space Discoveries
 
-* [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss) - Cybersecurity expert Bruce Schneier discusses how growing fears of cyber vulnerabilities undermine confidence in modern voting systems.
+* [A New 'Interstellar Visitor' Has Entered the Solar System](https://science.slashdot.org/story/25/07/03/0041226/a-new-interstellar-visitor-has-entered-the-solar-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exciting astronomical discovery highlights the arrival of a new interstellar object into our solar system, sparking interest in its origins and characteristics.
 
-* [Data Breach Reveals Catwatchful 'Stalkerware' Is Spying On Thousands of Phones](https://yro.slashdot.org/story/25/07/03/0023253/data-breach-reveals-catwatchful-stalkerware-is-spying-on-thousands-of-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach uncovers the extent to which a stalkerware app is secretly tracking thousands of phones.
+* [Astronomers discover third interstellar object to visit our Solar System](https://minorplanetcenter.net/mpec/K25/K25N12.html) - Details have been revealed about yet another interstellar object, marking significant progress in the study of celestial visitors.
 
-* [Google Ordered To Pay $315 Million for Taking Data From Idle Android Phones](https://yro.slashdot.org/story/25/07/02/1818254/google-ordered-to-pay-315-million-for-taking-data-from-idle-android-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A court orders Google to pay massive damages for covertly collecting user data from idle Android devices.
+* [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/) - A scientific breakthrough sheds light on the processes through which stars create heavy atomic elements.
 
-* [China's Giant New Gamble With Digital IDs](https://yro.slashdot.org/story/25/07/02/1827222/chinas-giant-new-gamble-with-digital-ids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China embarks on a high-stakes initiative to introduce digital IDs amidst privacy and security concerns.
+## AI and Cybersecurity
 
-## Scientific and Technological Advancements
+* [I scanned all of GitHub's 'oops commits' for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets) - A vigilant hunt to uncover sensitive information exposed through inadvertent GitHub commits poses significant cybersecurity questions.
 
-* [Proposed Budget Seeks To Close Mauna Loa Observatory's Climate CO2 Study](https://news.slashdot.org/story/25/07/03/0031226/proposed-budget-seeks-to-close-mauna-loa-observatorys-climate-co2-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Budget cuts threaten a crucial observatory known for its long-term climate change studies on CO2.
+* [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss) - Renowned cybersecurity expert Bruce Schneier discusses vulnerabilities in digital voting systems and their impact on voter confidence.
 
-* [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients) - A breakthrough in gene therapy successfully restores hearing in patients with hereditary deafness.
+* [Data Breach Reveals Catwatchful 'Stalkerware' Is Spying On Thousands of Phones](https://yro.slashdot.org/story/25/07/03/0023253/data-breach-reveals-catwatchful-stalkerware-is-spying-on-thousands-of-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach exposes the widespread use of 'stalkerware,' emphasizing the risks to personal privacy and device security.
 
-* [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/) - Researchers tackle long-standing questions about stellar processes that create heavy elements.
+## Technology Advancements and Trends
 
-* [Vitamin C Boosts Epidermal Growth via DNA Demethylation](https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext) - A study reveals mechanisms by which Vitamin C induces epidermal growth through genetic regulation.
+* [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699) - Researchers introduce innovative ways to enhance Transformer neural networks through natural patterns.
 
-## Corporate and Market Shifts
+* [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler) - This article explores the inspection of large language models (LLMs) and their potential new role as compilers.
 
-* [Intel's New CEO Explores Big Shift In Chip Manufacturing Business](https://tech.slashdot.org/story/25/07/02/2149214/intels-new-ceo-explores-big-shift-in-chip-manufacturing-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel eyes a transformative business strategy under its recently appointed CEO.
+* [Intel's New CEO Explores Big Shift In Chip Manufacturing Business](https://tech.slashdot.org/story/25/07/02/2149214/intels-new-ceo-explores-big-shift-in-chip-manufacturing-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel's leadership introduces strategies to reform its chip manufacturing model.
 
-* [Foxconn Mysteriously Tells Chinese Workers To Quit India and Return To China](https://apple.slashdot.org/story/25/07/03/0016210/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Foxconn withdraws workers from India, raising questions about business and geopolitical motives.
+## Scientific Innovations
 
-* [Grammarly Acquires AI Email Client Superhuman](https://slashdot.org/story/25/07/02/2128229/grammarly-acquires-ai-email-client-superhuman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Grammarly’s acquisition of a premium email client signals its expanding influence in AI-driven tools.
+* [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082) - A groundbreaking quantum computation achievement demonstrates speed gains in tackling specific algebraic problems.
 
-* [Nintendo Locked Down the Switch 2's USB-C Port, Broke Third-Party Docking](https://hardware.slashdot.org/story/25/07/02/2136241/nintendo-locked-down-the-switch-2s-usb-c-port-broke-third-party-docking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Nintendo introduces restrictions on its new console's USB-C connections, hindering compatibility with third-party docks.
+* [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5) - Comprehensive genome analysis of ancient Egyptian remains offers insights into early human migration patterns.
 
-## Intriguing Discoveries and Explorations
+## Social and Ethical Issues
 
-* [The Uncertain Future of Coding Careers and Why I'm Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/) - Reflections on the evolving nature of programming careers in an era dominated by AI.
+* [Proposed Budget Seeks To Close Mauna Loa Observatory's Climate CO2 Study](https://news.slashdot.org/story/25/07/03/0031226/proposed-budget-seeks-to-close-mauna-loa-observatorys-climate-co2-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns rise over a funding proposal threatening to shut down critical climate research at Mauna Loa Observatory.
 
-* [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html) - Exploration of one of the most remote roads, a fascinating glimpse into isolation tourism.
+* [Foxconn Mysteriously Tells Chinese Workers To Quit India and Return To China](https://apple.slashdot.org/story/25/07/03/0016210/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Speculation surrounds the reasons behind Foxconn's abrupt shift in workforce policies between India and China.
 
-* [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5) - Landmark genetic analysis sheds light on a pivotal era in ancient Egyptian history.
+## Health and Biology Discoveries
 
-* [Evidence of a 12,800-year-old shallow airburst depression in Louisiana](https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004) - New evidence suggests a massive extraterrestrial event may have shaped early human history.
+* [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients) - Promising outcomes from gene therapy experiments that successfully recover hearing in individuals with deafness.
+
+* [Vitamin C Boosts Epidermal Growth via DNA Demethylation](https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext) - Research highlights how Vitamin C stimulates skin growth through innovative biological mechanisms.
+
+## Cultural and Historical Insights
+
+* [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/) - An article delves into the intersection of Zen principles and Quaker traditions, blending philosophy with spirituality.
+
+* [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/) - A creative project visualizing the lunar phase through the simplicity of ASCII art.
 
 ---
 
@@ -65,13 +73,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-03, 07:00:00](https://science.slashdot.org/story/25/07/03/0041226/a-new-interstellar-visitor-has-entered-the-solar-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New &apos;Interstellar Visitor&apos; Has Entered the Solar System](https://science.slashdot.org/story/25/07/03/0041226/a-new-interstellar-visitor-has-entered-the-solar-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-03, 06:44:19](https://news.ycombinator.com/item?id=44452317) - [I scanned all of GitHub&apos;s \&quot;oops commits\&quot; for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+* [2025-07-03, 06:15:09](https://news.ycombinator.com/item?id=44452140) - [We reimagined Transformer architectures inspired by nature&apos;s hidden structures](https://ieeexplore.ieee.org/document/10754699)
+* [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 * [2025-07-03, 03:33:00](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss) - [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss)
 * [2025-07-03, 03:30:00](https://yro.slashdot.org/story/25/07/03/0023253/data-breach-reveals-catwatchful-stalkerware-is-spying-on-thousands-of-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Data Breach Reveals Catwatchful &apos;Stalkerware&apos; Is Spying On Thousands of Phones](https://yro.slashdot.org/story/25/07/03/0023253/data-breach-reveals-catwatchful-stalkerware-is-spying-on-thousands-of-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover third interstellar object to visit our Solar System](https://minorplanetcenter.net/mpec/K25/K25N12.html)
+* [2025-07-03, 02:05:23](https://news.ycombinator.com/item?id=44450937) - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 * [2025-07-03, 02:02:00](https://news.slashdot.org/story/25/07/03/0031226/proposed-budget-seeks-to-close-mauna-loa-observatorys-climate-co2-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Proposed Budget Seeks To Close Mauna Loa Observatory&apos;s Climate CO2 Study](https://news.slashdot.org/story/25/07/03/0031226/proposed-budget-seeks-to-close-mauna-loa-observatorys-climate-co2-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-03, 01:45:27](https://news.ycombinator.com/item?id=44450812) - [The Uncertain Future of Coding Careers and Why I&apos;m Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-03, 01:25:00](https://apple.slashdot.org/story/25/07/03/0016210/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Foxconn Mysteriously Tells Chinese Workers To Quit India and Return To China](https://apple.slashdot.org/story/25/07/03/0016210/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-03, 01:07:04](https://news.ycombinator.com/item?id=44450575) - [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
+* [2025-07-03, 01:07:04](https://news.ycombinator.com/item?id=44450575) - [Trans-Taiga Road (2004)](https://www.jamesbayroad.com/ttr/index.html)
 * [2025-07-03, 00:45:00](https://news.slashdot.org/story/25/07/03/0012219/hacker-with-political-agenda-stole-data-from-columbia-university-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hacker With &apos;Political Agenda&apos; Stole Data From Columbia, University Says](https://news.slashdot.org/story/25/07/03/0012219/hacker-with-political-agenda-stole-data-from-columbia-university-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-03, 00:24:46](https://news.ycombinator.com/item?id=44450304) - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
 * [2025-07-03, 00:06:16](https://news.ycombinator.com/item?id=44450182) - [Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON](https://github.com/c4pt0r/gmailtail)
@@ -103,9 +116,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-02, 18:01:00](https://news.slashdot.org/story/25/07/02/1754237/recent-droughts-are-slow-moving-global-catastrophe---un-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Recent Droughts Are &apos;Slow-Moving Global Catastrophe&apos; - UN Report](https://news.slashdot.org/story/25/07/02/1754237/recent-droughts-are-slow-moving-global-catastrophe---un-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-02, 17:49:24](https://lobste.rs/s/okcpex/programming_as_theory_building) - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf)
 * [2025-07-02, 17:37:01](https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor) - [sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains](https://github.com/i04n/sslcheck)
-* [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) is hiring an AI solutions engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
-* [2025-07-02, 17:20:00](https://hardware.slashdot.org/story/25/07/02/1715258/lordes-new-cd-is-so-transparent-that-stereos-cant-even-read-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lorde&apos;s New CD is So Transparent That Stereos Can&apos;t Even Read It](https://hardware.slashdot.org/story/25/07/02/1715258/lordes-new-cd-is-so-transparent-that-stereos-cant-even-read-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 * [2025-07-02, 16:45:28](https://news.ycombinator.com/item?id=44445877) - [Features of D That I Love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
@@ -115,7 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:49:44](https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing) - [Uncloud -  tool for deploying and managing containerised applications](https://github.com/psviderski/uncloud)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
-* [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
 * [2025-07-02, 13:17:00](https://soylentnews.org/article.pl?sid=25/07/02/0110229&amp;from=rss) - [Mexican Drug Cartel Hacker Spied on FBI Official&apos;s Phone to Track and Kill Informants](https://soylentnews.org/article.pl?sid=25/07/02/0110229&amp;from=rss)
 * [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
@@ -133,26 +143,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-01, 22:53:00](https://soylentnews.org/article.pl?sid=25/06/30/1817206&amp;from=rss) - [Ex-Nato Hacker: In Cyber, There’s No Such Thing As A Ceasefire](https://soylentnews.org/article.pl?sid=25/06/30/1817206&amp;from=rss)
 * [2025-07-01, 18:12:00](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss) - [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss)
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a Hit Man](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
+* [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon&apos;s phase live in ASCII art](https://asciimoon.com/)
-* [2025-07-01, 09:35:05](https://news.ycombinator.com/item?id=44432142) - [Escher&apos;s art and computer science](https://github.com/gritzko/librdx/blob/master/blog/escher.md)
 * [2025-07-01, 08:42:00](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss) - [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss)
-* [2025-07-01, 07:55:53](https://news.ycombinator.com/item?id=44431638) - [Evidence of a 12,800-year-old shallow airburst depression in Louisiana](https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004)
 * [2025-07-01, 03:57:00](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss) - [CISA, NSA Repeat Call for Memory Safe Programming Languages](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss)
 * [2025-06-30, 23:13:00](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss) - [Group of Investors Represented by Youtuber Perifractic Buys Commodore](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss)
 * [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
-* [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [More Efficient Thermoelectric Cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
+* [2025-06-30, 15:52:22](https://news.ycombinator.com/item?id=44424747) - [There&apos;s no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+* [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss)
 * [2025-06-29, 23:32:00](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss) - [Work Begins to Create Artificial Human DNA From Scratch](https://soylentnews.org/article.pl?sid=25/06/29/164217&amp;from=rss)
 * [2025-06-29, 18:50:00](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss) - [Why Countries Are Suddenly Broadcasting Their Spies’ Exploits](https://soylentnews.org/article.pl?sid=25/06/29/1253258&amp;from=rss)
-* [2025-06-29, 17:53:42](https://news.ycombinator.com/item?id=44414965) - [A list is a monad](https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/)
 * [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
-* [2025-06-29, 14:10:57](https://news.ycombinator.com/item?id=44413308) - [Efficient set-membership filters and dictionaries based on SAT](https://github.com/NationalSecurityAgency/XORSATFilter)
 * [2025-06-29, 14:05:00](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss) - [First Images From World&apos;s Largest Digital Camera Reveal Galaxies and Cosmic Collisions](https://soylentnews.org/article.pl?sid=25/06/29/0435239&amp;from=rss)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 09:19:00](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss) - [Danish Copyright on Your Digital Representation](https://soylentnews.org/article.pl?sid=25/06/29/0430235&amp;from=rss)
