@@ -1,40 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Environmental and Technological Innovations
+## Advancements in Technology and AI
 
-* [Sterilized Flies To Be Released In Order To Stop Flesh-Eating Maggot Infestation](https://science.slashdot.org/story/25/07/03/2356217/sterilized-flies-to-be-released-in-order-to-stop-flesh-eating-maggot-infestation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists are employing sterilized insect interventions to curb harmful infestations, presenting an eco-friendly pest control method.
+* [A catamorphic lambda-calculus interpreter](https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html) - Examines how catamorphic recursion transforms abstract syntax trees into a more streamlined lambda calculus approach. [Comments](https://lobste.rs/s/gzzo0m/catamorphic_lambda_calculus)
 
-* [Norway Reached 96.9% Market Share For EVs In June](https://tech.slashdot.org/story/25/07/03/2341234/norway-reached-969-market-share-for-evs-in-june?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A remarkable milestone in sustainable transportation, Norway continues its dominance in electric vehicle adoption.
+* [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/) - Explores how wasm-based AI agents can operate directly in browsers. [Comments](https://news.ycombinator.com/item?id=44461341)
 
-* [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250) - Exploring marine methods for carbon dioxide reduction, this approach creatively ties climate solutions to maritime operations.
+* [Norway Reached 96.9% Market Share For EVs In June](https://tech.slashdot.org/story/25/07/03/2341234/norway-reached-969-market-share-for-evs-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting Norway's leap in electronic vehicle adoption. [Comments](https://tech.slashdot.org/story/25/07/03/2341234/norway-reached-969-market-share-for-evs-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Arm-Based Servers to Grow 70% This Year](https://soylentnews.org/article.pl?sid=25/07/02/1148257&amp;from=rss) - The rapid adoption of ARM architecture promises a shift in data center energy efficiency and computational capability.
+* [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) - Investigates the potential of AI like Claude to manage retail systems. [Comments](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why)
 
-## AI Advances and Ethical Questions
+## Environmental and Scientific Discoveries
 
-* [Researchers Caught Hiding AI Prompts in Research Papers To Get Favorable Reviews](https://science.slashdot.org/story/25/07/03/1859237/researchers-caught-hiding-ai-prompts-in-research-papers-to-get-favorable-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Uncovering concerning practices in academia where AI influences the impartiality of reviews.
+* [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications) - Reports on critical changes in ocean circulation patterns with grave climate implications. [Comments](https://news.ycombinator.com/item?id=44461222)
 
-* [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/) - Philosophical reflections on human relevance and creativity in the age of automated programming agents.
+* [Sterilized Flies To Be Released In Order To Stop Flesh-Eating Maggot Infestation](https://science.slashdot.org/story/25/07/03/2356217/sterilized-flies-to-be-released-in-order-to-stop-flesh-eating-maggot-infestation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A novel ecological intervention to curb pest issues. [Comments](https://science.slashdot.org/story/25/07/03/2356217/sterilized-flies-to-be-released-in-order-to-stop-flesh-eating-maggot-infestation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [ChatGPT Creates Phisher's Paradise By Recommending the Wrong URLs for Major Companies](https://it.slashdot.org/story/25/07/03/1912216/chatgpt-creates-phishers-paradise-by-recommending-the-wrong-urls-for-major-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting risks when AI suggests erroneous or harmful actions, with significant implications for cybersecurity.
+## Technology Governance and Impact
 
-## Semiconductor and Tech Industry Developments
+* [Google says \"not a security vulnerability\", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ) - Discusses issues regarding Google's response to potential flaws. [Comments](https://news.ycombinator.com/item?id=44461368)
 
-* [China Could Be The World's Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&amp;from=rss) - A forecast reflecting China's growing dominance in the semiconductor sector.
+* [China Could Be The World's Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss) - Predictions about China's growing role in semiconductor manufacturing. [Comments](https://soylentnews.org/article.pl?sid=25/07/02/1640204&from=rss)
 
-* [Samsung Delays $44 Billion Texas Chip Fab Because 'There Are No Customers'](https://hardware.slashdot.org/story/25/07/03/2034239/samsung-delays-44-billion-texas-chip-fab-because-there-are-no-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A setback highlighting challenges in the chip manufacturing market.
-
-## Societal Trends and Economic Impacts
-
-* [Wells Fargo Scandal Pushed Customers Toward Fintech, Says UC Davis Study](https://news.slashdot.org/story/25/07/03/2349257/wells-fargo-scandal-pushed-customers-toward-fintech-says-uc-davis-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A detailed exploration of how scandals reshape consumer trust and accelerate the shift to digital banking.
-
-* [Nearly 1,000 Britons Will Keep Four-Day Work Week After Trial](https://news.slashdot.org/story/25/07/03/2018215/nearly-1000-britons-will-keep-four-day-work-week-after-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A promising signal for global labor policy as trials of reduced work weeks gain momentum.
-
-## Innovations in Open Source and Software Development
-
-* [My open source project was relicensed by a YC company [license updated]](https://twitter.com/soham_btw/status/1940952786491027886) - A case that underscores the complexities of licensing in the open source ecosystem.
-
-* [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev) - Turso aims to redefine database solutions with cutting-edge implementations of SQLite.
+* [Ripple Applies For US Banking License](https://news.slashdot.org/story/25/07/03/2335200/ripple-applies-for-us-banking-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ripple's move into mainstream banking. [Comments](https://news.slashdot.org/story/25/07/03/2335200/ripple-applies-for-us-banking-license?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -61,6 +49,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-04, 06:31:33](https://lobste.rs/s/gzzo0m/catamorphic_lambda_calculus) - [A catamorphic lambda-calculus interpreter](https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html)
+* [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno&apos;s limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
+* [2025-07-04, 05:35:00](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&amp;from=rss) - [Happy Independence Day !!!](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&amp;from=rss)
+* [2025-07-04, 05:26:58](https://news.ycombinator.com/item?id=44461368) - [Google says \&quot;not a security vulnerability\&quot;, quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)
+* [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
+* [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
+* [2025-07-04, 04:48:32](https://news.ycombinator.com/item?id=44461208) - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
+* [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
+* [2025-07-04, 03:55:47](https://news.ycombinator.com/item?id=44461015) - [LooksMapping](https://looksmapping.com/)
 * [2025-07-04, 03:30:00](https://science.slashdot.org/story/25/07/03/2356217/sterilized-flies-to-be-released-in-order-to-stop-flesh-eating-maggot-infestation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sterilized Flies To Be Released In Order To Stop Flesh-Eating Maggot Infestation](https://science.slashdot.org/story/25/07/03/2356217/sterilized-flies-to-be-released-in-order-to-stop-flesh-eating-maggot-infestation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-04, 02:46:34](https://lobste.rs/s/cdrqny/tools_code_is_all_you_need) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-04, 02:27:00](https://soylentnews.org/article.pl?sid=25/07/02/1640204&amp;from=rss) - [China Could Be The World&apos;s Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&amp;from=rss)
@@ -74,8 +71,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-03, 23:30:00](https://slashdot.org/story/25/07/03/2028252/microsoft-copilot-joins-chatgpt-at-the-feet-of-the-mighty-atari-2600-video-chess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Copilot Joins ChatGPT At the Feet of the Mighty Atari 2600 Video Chess](https://slashdot.org/story/25/07/03/2028252/microsoft-copilot-joins-chatgpt-at-the-feet-of-the-mighty-atari-2600-video-chess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-03, 23:05:10](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [2025-07-03, 22:50:00](https://games.slashdot.org/story/25/07/03/2022217/stop-killing-games-consumer-movement-hits-major-milestones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Stop Killing Games&apos; Consumer Movement Hits Major Milestones](https://games.slashdot.org/story/25/07/03/2022217/stop-killing-games-consumer-movement-hits-major-milestones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-03, 22:21:12](https://lobste.rs/s/l4p4sc/coding_advent) - [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
-* [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 22:10:00](https://news.slashdot.org/story/25/07/03/2018215/nearly-1000-britons-will-keep-four-day-work-week-after-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nearly 1,000 Britons Will Keep Four-Day Work Week After Trial](https://news.slashdot.org/story/25/07/03/2018215/nearly-1000-britons-will-keep-four-day-work-week-after-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 21:43:00](https://soylentnews.org/article.pl?sid=25/07/02/1636207&amp;from=rss) - [Earthquake-Induced Electricity Offers Answer to Mystery of Gold Nugget Formation](https://soylentnews.org/article.pl?sid=25/07/02/1636207&amp;from=rss)
@@ -86,6 +81,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 20:10:00](https://science.slashdot.org/story/25/07/03/1859237/researchers-caught-hiding-ai-prompts-in-research-papers-to-get-favorable-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Caught Hiding AI Prompts in Research Papers To Get Favorable Reviews](https://science.slashdot.org/story/25/07/03/1859237/researchers-caught-hiding-ai-prompts-in-research-papers-to-get-favorable-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
 * [2025-07-03, 19:52:39](https://lobste.rs/s/8s8chj/our_fullstack_architecture_eta_htmx_lit) - [Our Fullstack Architecture: Eta, HTMX, and Lit](https://www.lorenstew.art/blog/eta-htmx-lit-stack)
 * [2025-07-03, 19:49:02](https://lobste.rs/s/52gism/scary_surprisingly_deep_rabbit_hole_rust) - [The scary and surprisingly deep rabbit hole of Rust&apos;s temporaries](https://taping-memory.dev/temporaries-rabbit-hole/)
 * [2025-07-03, 19:30:00](https://it.slashdot.org/story/25/07/03/1833218/a-lot-of-product-makers-snub-right-to-repair-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Lot of Product Makers Snub Right To Repair Laws](https://it.slashdot.org/story/25/07/03/1833218/a-lot-of-product-makers-snub-right-to-repair-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,14 +90,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
 * [2025-07-03, 17:36:13](https://news.ycombinator.com/item?id=44457390) - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2025-07-03, 17:30:00](https://science.slashdot.org/story/25/07/03/171214/scientists-warn-us-will-lose-a-generation-of-talent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Warn US Will Lose a Generation of Talent](https://science.slashdot.org/story/25/07/03/171214/scientists-warn-us-will-lose-a-generation-of-talent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-03, 17:15:56](https://news.ycombinator.com/item?id=44457215) - [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 16:56:00](https://soylentnews.org/article.pl?sid=25/07/02/1214228&amp;from=rss) - [Why the Sun is So Good at Evaporating Water](https://soylentnews.org/article.pl?sid=25/07/02/1214228&amp;from=rss)
 * [2025-07-03, 16:44:18](https://news.ycombinator.com/item?id=44456904) - [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 * [2025-07-03, 16:41:47](https://lobste.rs/s/fbwzai/portability_tar_features) - [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
 * [2025-07-03, 16:38:02](https://news.ycombinator.com/item?id=44456827) - [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
 * [2025-07-03, 16:34:51](https://news.ycombinator.com/item?id=44456779) - [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
-* [2025-07-03, 15:58:32](https://news.ycombinator.com/item?id=44456379) - [Encoding Jake Gyllenhaal into one million checkboxes (2024)](https://ednamode.xyz/blogs/2.html)
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man&apos;s Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
 * [2025-07-03, 15:19:20](https://news.ycombinator.com/item?id=44455950) - [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
 * [2025-07-03, 15:18:01](https://news.ycombinator.com/item?id=44455933) - [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
@@ -119,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-03, 08:16:00](https://soylentnews.org/article.pl?sid=25/07/02/1148257&amp;from=rss) - [Arm-Based Servers to Grow 70% This Year](https://soylentnews.org/article.pl?sid=25/07/02/1148257&amp;from=rss)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 03:33:00](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss) - [Bruce Schneier on How Cybersecurity Fears Affect Confidence in Voting Systems](https://soylentnews.org/article.pl?sid=25/07/02/1144216&amp;from=rss)
-* [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-02, 22:50:00](https://soylentnews.org/article.pl?sid=25/07/02/1141208&amp;from=rss) - [Fedora: Proposal for the Removal of i686 Withdrawn](https://soylentnews.org/article.pl?sid=25/07/02/1141208&amp;from=rss)
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
@@ -128,28 +121,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 * [2025-07-02, 13:17:00](https://soylentnews.org/article.pl?sid=25/07/02/0110229&amp;from=rss) - [Mexican Drug Cartel Hacker Spied on FBI Official&apos;s Phone to Track and Kill Informants](https://soylentnews.org/article.pl?sid=25/07/02/0110229&amp;from=rss)
-* [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss) - [Genetic Study Reveals Humanity&apos;s Longest Migration](https://soylentnews.org/article.pl?sid=25/07/01/0415211&amp;from=rss)
 * [2025-07-02, 04:59:00](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&amp;from=rss) - [Stripe Donations Back Online](https://soylentnews.org/meta/article.pl?sid=25/07/02/0418216&amp;from=rss)
 * [2025-07-02, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss) - [New Theory Proposes Time Has Three Dimensions, With Space as a Secondary Effect](https://soylentnews.org/article.pl?sid=25/07/01/028205&amp;from=rss)
 * [2025-07-01, 22:53:00](https://soylentnews.org/article.pl?sid=25/06/30/1817206&amp;from=rss) - [Ex-Nato Hacker: In Cyber, There’s No Such Thing As A Ceasefire](https://soylentnews.org/article.pl?sid=25/06/30/1817206&amp;from=rss)
 * [2025-07-01, 18:12:00](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss) - [As AI Kills Search Traffic, Google Launches Offerwall to Boost Publisher Revenue](https://soylentnews.org/article.pl?sid=25/06/30/1738246&amp;from=rss)
-* [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 13:28:00](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss) - [Facebook is Starting to Feed its AI With Private, Unpublished Photos](https://soylentnews.org/article.pl?sid=25/06/30/1737227&amp;from=rss)
+* [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
-* [2025-07-01, 10:31:54](https://news.ycombinator.com/item?id=44432451) - [Sound Chip, whisper me your secrets [video]](https://media.ccc.de/v/gpn23-302-sound-chip-whisper-me-your-secrets-)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
-* [2025-07-01, 09:16:43](https://news.ycombinator.com/item?id=44432055) - [You are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-07-01, 08:42:00](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss) - [Bluetooth Flaws Could Let Hackers Spy Through Your Microphone](https://soylentnews.org/article.pl?sid=25/06/30/1153228&amp;from=rss)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 03:57:00](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss) - [CISA, NSA Repeat Call for Memory Safe Programming Languages](https://soylentnews.org/article.pl?sid=25/06/30/1149231&amp;from=rss)
-* [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 * [2025-06-30, 23:13:00](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss) - [Group of Investors Represented by Youtuber Perifractic Buys Commodore](https://soylentnews.org/article.pl?sid=25/06/30/0625204&amp;from=rss)
 * [2025-06-30, 18:30:00](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss) - [Scientists Unlock the Light-Bending Secrets of Squid Skin](https://soylentnews.org/article.pl?sid=25/06/30/0230251&amp;from=rss)
 * [2025-06-30, 13:45:00](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss) - [You Sound Like ChatGPT](https://soylentnews.org/article.pl?sid=25/06/30/020252&amp;from=rss)
-* [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [(Experiment) Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
+* [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [Experiment: Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
+* [2025-06-30, 12:53:11](https://news.ycombinator.com/item?id=44422662) - [How AI on Microcontrollers Actually Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/)
 * [2025-06-30, 10:15:52](https://news.ycombinator.com/item?id=44421490) - [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 * [2025-06-30, 09:03:00](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss) - [Why Are the Physical Constants of the Universe So Perfect for Life?](https://soylentnews.org/article.pl?sid=25/06/29/1626204&amp;from=rss)
-* [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 * [2025-06-30, 04:18:00](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss) - [At Last, We Are Discovering What Quantum Computers Will be Useful for](https://soylentnews.org/article.pl?sid=25/06/29/1610258&amp;from=rss)
