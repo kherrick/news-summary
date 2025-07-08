@@ -1,56 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Emerging AI and Technology Trends
 
-* [The Open-Source Software Saving the Internet From AI Bot Scrapers](https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Open-source tools are being utilized to counteract the rise of internet scraping by AI bots.
+* [People Are Using AI Chatbots To Guide Their Psychedelic Trips](https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing exploration of how people are employing AI chatbots for introspective journeys during psychedelic experiences. [Comments](https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/) - Exploring innovative uses of generative algorithms for creating anamorphic imagery.
+* [The Open-Source Software Saving the Internet From AI Bot Scrapers](https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Details a community-driven response in the fight against AI bots scraping online content. [Comments](https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863) - Y Combinator startup introduces high-speed AI-powered code editing.
+* [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/) - A humorous take on product development influenced by mistaken AI assumptions. [Comments](https://lobste.rs/s/yctrpk/adding_feature_because_chatgpt).
 
-* [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298) - A research paper that proposes a diffusion-based approach enabling ultra-fast language models.
+## Privacy and Security
 
-## Technology Innovations and Tools
+* [Fubo Pays $3.4 Million To Settle Claims It Illegally Shared User Data With Advertisers](https://yro.slashdot.org/story/25/07/07/2250222/fubo-pays-34-million-to-settle-claims-it-illegally-shared-user-data-with-advertisers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major streaming service faces legal scrutiny over allegations of improper data sharing. [Comments](https://yro.slashdot.org/story/25/07/07/2250222/fubo-pays-34-million-to-settle-claims-it-illegally-shared-user-data-with-advertisers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Sniffnet - Comfortably Monitor Your Internet Traffic](https://soylentnews.org/article.pl?sid=25/07/06/1317252&from=rss) - A new tool designed for detailed monitoring of internet traffic in user-friendly ways.
+* [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/) - Highlights the advantages of deploying certificate transparency for secure web services. [Comments](https://lobste.rs/s/xenlje/you_should_run_certificate_transparency).
 
-* [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/) - Detailed arguments for adopting certificate transparency logs to enhance digital trust.
+## Innovations in Science and Mathematics
 
-* [Applied Cryptography: comprehensive, novel course materials released under Creative Commons](https://appliedcryptography.page) - Open-source cryptography course materials are now available for public use.
+* [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/) - Examines a groundbreaking achievement in mathematical optimization. [Comments](https://news.ycombinator.com/item?id=44493196).
 
-* [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html) - A guide to bridge Haskell and Swift ecosystems through XCFramework.
+* [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/) - A Disney Research project exploring computer graphics techniques for anamorphic images. [Comments](https://news.ycombinator.com/item?id=44495154).
 
-## Environmental and Clean Energy Developments
+## Ethics, Society, and Technology
 
-* [Poland's Clean Energy Usage Overtakes Coal For First Time](https://hardware.slashdot.org/story/25/07/07/1524200/polands-clean-energy-usage-overtakes-coal-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Poland achieves a milestone in clean energy by surpassing coal consumption.
+* [BBC staff: we're forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel) - A claim regarding media bias within the British Broadcasting Corporation. [Comments](https://news.ycombinator.com/item?id=44496391).
 
-* [New Delhi Forced To Withdraw Plan To Scrap Old Cars After Public Backlash](https://tech.slashdot.org/story/25/07/07/1930219/new-delhi-forced-to-withdraw-plan-to-scrap-old-cars-after-public-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Public opposition leads to a policy reversal regarding vehicle scrappage in New Delhi.
-
-## Legal Battles and Industry Dynamics
-
-* [Samsung and Epic Games Call a Truce In App Store Lawsuit](https://yro.slashdot.org/story/25/07/07/2128217/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The resolution of the feud between Samsung and Epic Games over app store practices.
-
-* [Apple Links Directly To Web in Full-Screen TV App Ad, Ignoring Rules for Other Developers](https://apple.slashdot.org/story/25/07/07/1859211/apple-links-directly-to-web-in-full-screen-tv-app-ad-ignoring-rules-for-other-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple bypasses its own developer rules, raising questions within the tech community.
-
-## Research and Discoveries
-
-* [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/) - Mathematicians break a sphere-packing record inspired by an unconventional line of thinking.
-
-* [See How the Herpes Virus Reshapes Our Cells’ DNA in Just Eight Hours](https://soylentnews.org/article.pl?sid=25/07/06/1311241&from=rss) - Study illustrates how the herpes virus manipulates cellular DNA.
-
-* [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html) - Archaeologists unearth a long-lost hymn offering insights into ancient Babylonian culture.
-
-## Transportation and Mobility
-
-* [Waymo Starts Robotaxi Testing In Philadelphia and NYC](https://tech.slashdot.org/story/25/07/07/2136225/waymo-starts-robotaxi-testing-in-philadelphia-and-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Waymo expands its automated vehicle operations to New York and Philadelphia.
-
-* [NYC Subway Simulator and Route Designer](https://buildmytransit.nyc) - A platform to simulate and design NYC subway routes, catering to enthusiasts and urban planners.
-
-## Cultural Exploration and History
-
-* [Ancient DNA Reveals Make-Up of Roman Empire's Favourite Sauce](https://soylentnews.org/article.pl?sid=25/07/05/1339218&from=rss) - Scientists use ancient DNA to unravel the composition of a famed Roman condiment.
-
-* [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/) - Study uncovers how Neanderthals processed animal fat millennia ago.
+* [Jack Dorsey Launches a WhatsApp Messaging Rival Built On Bluetooth](https://mobile.slashdot.org/story/25/07/07/2132201/jack-dorsey-launches-a-whatsapp-messaging-rival-built-on-bluetooth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the launch of an innovative encrypted messaging app leveraging Bluetooth. [Comments](https://mobile.slashdot.org/story/25/07/07/2132201/jack-dorsey-launches-a-whatsapp-messaging-rival-built-on-bluetooth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -77,6 +51,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-08, 03:30:00](https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People Are Using AI Chatbots To Guide Their Psychedelic Trips](https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-08, 02:45:57](https://news.ycombinator.com/item?id=44496502) - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+* [2025-07-08, 02:18:01](https://news.ycombinator.com/item?id=44496391) - [BBC staff: we&apos;re forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
+* [2025-07-08, 02:10:00](https://slashdot.org/story/25/07/07/2254236/tennis-players-criticize-ai-technology-used-by-wimbledon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tennis Players Criticize AI Technology Used By Wimbledon](https://slashdot.org/story/25/07/07/2254236/tennis-players-criticize-ai-technology-used-by-wimbledon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-08, 01:30:00](https://yro.slashdot.org/story/25/07/07/2250222/fubo-pays-34-million-to-settle-claims-it-illegally-shared-user-data-with-advertisers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fubo Pays $3.4 Million To Settle Claims It Illegally Shared User Data With Advertisers](https://yro.slashdot.org/story/25/07/07/2250222/fubo-pays-34-million-to-settle-claims-it-illegally-shared-user-data-with-advertisers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-08, 01:09:50](https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works) - [How Janet&apos;s PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 * [2025-07-08, 00:50:00](https://apple.slashdot.org/story/25/07/07/2243248/apple-just-added-more-frost-to-its-liquid-glass-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Just Added More Frost To Its Liquid Glass Design](https://apple.slashdot.org/story/25/07/07/2243248/apple-just-added-more-frost-to-its-liquid-glass-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-08, 00:10:00](https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Open-Source Software Saving the Internet From AI Bot Scrapers](https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,7 +66,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 * [2025-07-07, 22:10:26](https://lobste.rs/s/oapkjg/code_trust_vibrators_pacemakers) - [CODE AND TRUST: vibrators to pacemakers](https://punkx.org/jackdoe/code-and-trust.html)
 * [2025-07-07, 22:10:00](https://yro.slashdot.org/story/25/07/07/2128217/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung and Epic Games Call a Truce In App Store Lawsuit](https://yro.slashdot.org/story/25/07/07/2128217/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-07, 21:39:17](https://news.ycombinator.com/item?id=44494941) - [China is increasingly a home to major brands](https://musgrave.substack.com/p/oh-no-i-betrayed-america)
 * [2025-07-07, 21:30:00](https://games.slashdot.org/story/25/07/07/1937247/nintendo-wants-to-keep-traditional-approach-to-development-as-costs-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Wants To Keep &apos;Traditional Approach&apos; To Development as Costs Skyrocket](https://games.slashdot.org/story/25/07/07/1937247/nintendo-wants-to-keep-traditional-approach-to-development-as-costs-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-07, 21:24:25](https://lobste.rs/s/axef4c/applied_cryptography_comprehensive) - [Applied Cryptography: comprehensive, novel course materials released under Creative Commons](https://appliedcryptography.page)
 * [2025-07-07, 20:55:00](https://tech.slashdot.org/story/25/07/07/1930219/new-delhi-forced-to-withdraw-plan-to-scrap-old-cars-after-public-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Delhi Forced To Withdraw Plan To Scrap Old Cars After Public Backlash](https://tech.slashdot.org/story/25/07/07/1930219/new-delhi-forced-to-withdraw-plan-to-scrap-old-cars-after-public-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,11 +86,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – A sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 17:01:53](https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2025-07-07, 17:00:56](https://lobste.rs/s/cobucv/automatically_packaging_haskell) - [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html)
-* [2025-07-07, 16:49:00](https://news.slashdot.org/story/25/07/07/1649218/eu-holds-back-on-signing-climate-action-pledge-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Holds Back on Signing Climate Action Pledge With China](https://news.slashdot.org/story/25/07/07/1649218/eu-holds-back-on-signing-climate-action-pledge-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
-* [2025-07-07, 16:01:00](https://news.slashdot.org/story/25/07/07/1555255/america-has-two-labor-markets-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America Has Two Labor Markets Now](https://news.slashdot.org/story/25/07/07/1555255/america-has-two-labor-markets-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-07, 15:23:57](https://news.ycombinator.com/item?id=44491333) - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
-* [2025-07-07, 15:23:00](https://hardware.slashdot.org/story/25/07/07/1524200/polands-clean-energy-usage-overtakes-coal-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Poland&apos;s Clean Energy Usage Overtakes Coal For First Time](https://hardware.slashdot.org/story/25/07/07/1524200/polands-clean-energy-usage-overtakes-coal-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete) - [Prompt Coding: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 14:58:09](https://news.ycombinator.com/item?id=44491071) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
 * [2025-07-07, 14:40:45](https://news.ycombinator.com/item?id=44490863) - [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
@@ -137,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-06, 19:44:56](https://lobste.rs/s/fwdhpz/belgium_is_unsafe_for_cvd) - [Belgium is unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:25:07](https://lobste.rs/s/bfswxu/real_genai_issue) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/05/1910216&amp;from=rss) - [Inside Elon Musk&apos;s Stellar Year at the Texas Capitol](https://soylentnews.org/article.pl?sid=25/07/05/1910216&amp;from=rss)
-* [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \&quot;web OS\&quot; based on the Apple Lisa&apos;s UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 * [2025-07-06, 14:30:00](https://soylentnews.org/article.pl?sid=25/07/05/1341208&amp;from=rss) - [Bezos-Funded Satellite Tracking Methane Emissions Loses Power in Space](https://soylentnews.org/article.pl?sid=25/07/05/1341208&amp;from=rss)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
@@ -145,11 +118,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-06, 05:45:00](https://soylentnews.org/article.pl?sid=25/07/04/2251218&amp;from=rss) - [Where Does Time Actually Come From?](https://soylentnews.org/article.pl?sid=25/07/04/2251218&amp;from=rss)
 * [2025-07-06, 01:30:00](https://soylentnews.org/article.pl?sid=25/07/04/2154255&amp;from=rss) - [On July 7 Google Gemini Will Have Access to Your Android Apps, Even If You Turned It Off](https://soylentnews.org/article.pl?sid=25/07/04/2154255&amp;from=rss)
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv&apos;s dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
-* [2025-07-05, 23:19:28](https://news.ycombinator.com/item?id=44476339) - [Show HN: From Photos to Positions: Prototyping VLM-Based Indoor Maps](https://arjo129.github.io/blog/5-7-2025-From-Photos-To-Positions-Prototyping.html)
 * [2025-07-05, 21:12:00](https://soylentnews.org/article.pl?sid=25/07/03/1156244&amp;from=rss) - [MASH - and the Loretta Swit Obituary](https://soylentnews.org/article.pl?sid=25/07/03/1156244&amp;from=rss)
-* [2025-07-05, 18:15:13](https://news.ycombinator.com/item?id=44474485) - [Artist in Residence on a Satellite](http://global.cafa.edu.cn/infoDetail/1/324)
 * [2025-07-05, 16:26:00](https://soylentnews.org/article.pl?sid=25/07/03/1127224&amp;from=rss) - [Release The Fish](https://soylentnews.org/article.pl?sid=25/07/03/1127224&amp;from=rss)
 * [2025-07-05, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/03/1124254&amp;from=rss) - [Candidatus Sukunaarchaeum Mirabile is a Novel Archaeon With an Unprecedentedly Small Genome](https://soylentnews.org/article.pl?sid=25/07/03/1124254&amp;from=rss)
+* [2025-07-05, 09:06:14](https://news.ycombinator.com/item?id=44471251) - [CU Randomness Beacon](https://random.colorado.edu/)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-05, 07:00:00](https://soylentnews.org/article.pl?sid=25/07/03/0247205&amp;from=rss) - [Canada Orders Chinese CCTV Biz Hikvision To Quit The Country](https://soylentnews.org/article.pl?sid=25/07/03/0247205&amp;from=rss)
 * [2025-07-05, 02:15:00](https://soylentnews.org/article.pl?sid=25/07/03/0230247&amp;from=rss) - [North Koreans Posing As Remote Workers stole $1M ](https://soylentnews.org/article.pl?sid=25/07/03/0230247&amp;from=rss)
@@ -161,9 +133,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-04, 19:55:27](https://news.ycombinator.com/item?id=44467379) - [Why are there no good dinosaur films?](https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films)
 * [2025-07-04, 17:03:31](https://news.ycombinator.com/item?id=44466143) - [Charles Babbage and deciphering codes (1864)](https://mathshistory.st-andrews.ac.uk/Extras/Babbage_deciphering/)
 * [2025-07-04, 16:41:00](https://soylentnews.org/article.pl?sid=25/07/02/1652201&amp;from=rss) - [SpaceX Launches UK Satellite To Create Semiconductors In Low Earth Orbit](https://soylentnews.org/article.pl?sid=25/07/02/1652201&amp;from=rss)
+* [2025-07-04, 13:57:19](https://news.ycombinator.com/item?id=44464628) - [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
 * [2025-07-04, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/02/1648236&amp;from=rss) - [Two Years Later, Meta is Making DMs on Threads Official](https://soylentnews.org/article.pl?sid=25/07/02/1648236&amp;from=rss)
 * [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 07:11:00](https://soylentnews.org/article.pl?sid=25/07/02/1645202&amp;from=rss) - [Norwegian Northern Lights Operational ](https://soylentnews.org/article.pl?sid=25/07/02/1645202&amp;from=rss)
+* [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno&apos;s limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
 * [2025-07-04, 05:35:00](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&amp;from=rss) - [Happy Independence Day !!!](https://soylentnews.org/meta/article.pl?sid=25/07/04/0527252&amp;from=rss)
 * [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
 * [2025-07-04, 02:27:00](https://soylentnews.org/article.pl?sid=25/07/02/1640204&amp;from=rss) - [China Could Be The World&apos;s Top Semiconductor Foundry Hub By 2030](https://soylentnews.org/article.pl?sid=25/07/02/1640204&amp;from=rss)
