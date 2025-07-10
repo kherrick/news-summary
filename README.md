@@ -1,44 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Industry Shifts
+## AI and Technology Innovations
 
-* [Hugging Face Launches $299 Robot That Could Disrupt Entire Robotics Industry](https://hardware.slashdot.org/story/25/07/09/2051245/hugging-face-launches-299-robot-that-could-disrupt-entire-robotics-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [America's Largest Power Grid Is Struggling To Meet Demand From AI](https://hardware.slashdot.org/story/25/07/09/235205/americas-largest-power-grid-is-struggling-to-meet-demand-from-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The increasing demand for AI technologies is challenging the infrastructure of America's largest power grid.
 
-* [IKEA Ditches Zigbee For Thread Going All In On Matter Smart Homes](https://mobile.slashdot.org/story/25/07/09/2038213/ikea-ditches-zigbee-for-thread-going-all-in-on-matter-smart-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Browser Extensions Turn Nearly 1 Million Browsers Into Website-Scraping Bots](https://tech.slashdot.org/story/25/07/09/2257245/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This report delves into how browser extensions are being exploited for mass web scraping.
 
-* [OpenAI To Release AI Web Browser in Challenge To Chrome](https://tech.slashdot.org/story/25/07/09/1818249/openai-to-release-ai-web-browser-in-challenge-to-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Hugging Face Launches $299 Robot That Could Disrupt Entire Robotics Industry](https://hardware.slashdot.org/story/25/07/09/2051245/hugging-face-launches-299-robot-that-could-disrupt-entire-robotics-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Hugging Face introduces an affordable robot aiming to revolutionize the robotics sector.
 
-* [Samsung Launches Three New Foldable Smartphones As It Fends Off Chinese Rivals](https://mobile.slashdot.org/story/25/07/09/2027259/samsung-launches-three-new-foldable-smartphones-as-it-fends-off-chinese-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [MicroHs, a tiny Haskell Compiler](https://www.youtube.com/watch?v=SJwvPEq4Mok) - Explore MicroHs, a minimal Haskell compiler created to illustrate compiler simplicity.
 
-## Cybersecurity and Privacy Concerns
+* [OpenAI To Release AI Web Browser in Challenge To Chrome](https://tech.slashdot.org/story/25/07/09/1818249/openai-to-release-ai-web-browser-in-challenge-to-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI announces an AI-based web browser designed to rival Google's Chrome.
 
-* [Browser Extensions Turn Nearly 1 Million Browsers Into Website-Scraping Bots](https://tech.slashdot.org/story/25/07/09/2257245/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Apple Working on Updated Vision Pro With M4 Chip as Early as 2025](https://apple.slashdot.org/story/25/07/09/1731248/apple-working-on-updated-vision-pro-with-m4-chip-as-early-as-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple is reportedly developing a next-gen Vision Pro incorporating the M4 chip.
 
-* [AMD Warns of New Meltdown, Spectre-like Bugs Affecting CPUs](https://it.slashdot.org/story/25/07/09/1835230/amd-warns-of-new-meltdown-spectre-like-bugs-affecting-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Cybersecurity Concerns
 
-* [McDonald&apos;s AI Hiring Bot Exposed Millions of Applicants&apos; Data To Hackers](https://yro.slashdot.org/story/25/07/09/2014234/mcdonalds-ai-hiring-bot-exposed-millions-of-applicants-data-to-hackers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [McDonald's AI Hiring Bot Exposed Millions of Applicants' Data To Hackers](https://yro.slashdot.org/story/25/07/09/2014234/mcdonalds-ai-hiring-bot-exposed-millions-of-applicants-data-to-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An investigation reveals a major breach in McDonald's AI hiring system, risking the personal data of millions.
 
-## Innovative Tools and Software
+* [AMD Warns of New Meltdown, Spectre-like Bugs Affecting CPUs](https://it.slashdot.org/story/25/07/09/1835230/amd-warns-of-new-meltdown-spectre-like-bugs-affecting-cpus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMD raises alarms over serious vulnerabilities reminiscent of Meltdown and Spectre.
 
-* [MicroHs, a tiny Haskell Compiler](https://www.youtube.com/watch?v=SJwvPEq4Mok)
+* [How to Stop Your LG or Samsung Smart TV From Tracking You](https://soylentnews.org/article.pl?sid=25/07/08/1129207&from=rss) - A guide on preventing smart TVs from monitoring and studying users' viewing habits.
 
-* [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
+## Programming and Development
 
-* [Roll your own in-game UI with Clay and NanoVG](https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf)
+* [Closures for Hare](https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E) - An update on the programming language Hare and its integration of closures.
 
-## Scientific Discoveries and Research
+* [Writing a very simple JIT Compiler in about 1000 lines of C](https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html) - A walkthrough in crafting a simplistic JIT compiler with minimal code.
 
-* [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
+* [Hare by Example](https://harebyexample.org) - Learn Hare programming with concrete examples from this in-depth tutorial.
 
-* [Animal Diseases Leapt To Humans When We Started Keeping Livestock](https://science.slashdot.org/story/25/07/09/1649202/animal-diseases-leapt-to-humans-when-we-started-keeping-livestock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/) - A critique of various attempts to implement variadic generics in Rust.
 
-* [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss)
+* [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html) - A practical guide to using Pi-Hole and Tailscale for advanced DNS setups.
 
-## Industry and Global Developments
+## Scientific and Cultural Discoveries
 
-* [UK Full-Fiber Broadband Coverage Jumps From 12% to 78% in Five Years](https://news.slashdot.org/story/25/07/09/2021217/uk-full-fiber-broadband-coverage-jumps-from-12-to-78-in-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [First Leisure Swim for Parisians Into the Seine in More Than a Century](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss) - Citizens of Paris celebrate as the Seine is declared clean enough for leisure swimming.
 
-* [Western Europe Sees Hottest June on Record Amid Extreme Heatwaves](https://news.slashdot.org/story/25/07/09/1826228/western-europe-sees-hottest-june-on-record-amid-extreme-heatwaves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&from=rss) - Explores bats' unique resilience to cancer, offering insights into genetic and immune factors.
+
+* [Ancient DNA Reveals Make-Up of Roman Empire's Favourite Sauce](https://soylentnews.org/article.pl?sid=25/07/05/1339218&from=rss) - Analysis of ancient DNA sheds light on the composition of a popular Roman fish sauce.
+
+* [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo) - Groundbreaking discovery of a long-hidden ancient city in Peru.
+
+## Environmental and Energy Updates
+
+* [Western Europe Sees Hottest June on Record Amid Extreme Heatwaves](https://news.slashdot.org/story/25/07/09/1826228/western-europe-sees-hottest-june-on-record-amid-extreme-heatwaves?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Western Europe endures record-breaking heatwaves, marking the hottest June.
+
+* [UK Full-Fiber Broadband Coverage Jumps From 12% to 78% in Five Years](https://news.slashdot.org/story/25/07/09/2021217/uk-full-fiber-broadband-coverage-jumps-from-12-to-78-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant leap in broadband coverage in the UK, transforming digital infrastructure.
+
+* [Where Does Time Actually Come From?](https://soylentnews.org/article.pl?sid=25/07/04/2251218&from=rss) - Academic perspectives explore the origins of time and its broader implications.
 
 ---
 
@@ -65,9 +77,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-10, 03:30:00](https://hardware.slashdot.org/story/25/07/09/235205/americas-largest-power-grid-is-struggling-to-meet-demand-from-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Largest Power Grid Is Struggling To Meet Demand From AI](https://hardware.slashdot.org/story/25/07/09/235205/americas-largest-power-grid-is-struggling-to-meet-demand-from-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-10, 03:05:46](https://news.ycombinator.com/item?id=44516793) - [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
+* [2025-07-10, 02:09:46](https://lobste.rs/s/bhnto9/closures_for_hare) - [Closures for Hare](https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E)
 * [2025-07-10, 02:02:00](https://news.slashdot.org/story/25/07/09/2317211/max-changed-back-to-hbo-max?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Max Changed Back To HBO Max](https://news.slashdot.org/story/25/07/09/2317211/max-changed-back-to-hbo-max?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-10, 01:49:33](https://lobste.rs/s/idkqmw/writing_very_simple_jit_compiler_about) - [Writing a very simple JIT Compiler in about 1000 lines of C](https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html)
 * [2025-07-10, 01:25:00](https://tech.slashdot.org/story/25/07/09/2257245/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Browser Extensions Turn Nearly 1 Million Browsers Into Website-Scraping Bots](https://tech.slashdot.org/story/25/07/09/2257245/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 * [2025-07-10, 00:45:00](https://tech.slashdot.org/story/25/07/09/2247255/soundslice-adds-ascii-tab-support-after-chatgpt-hallucinates-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Soundslice Adds ASCII Tab Support After ChatGPT Hallucinates Feature](https://tech.slashdot.org/story/25/07/09/2247255/soundslice-adds-ascii-tab-support-after-chatgpt-hallucinates-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-10, 00:31:42](https://lobste.rs/s/jb8xjy/using_fs_usage_see_what_files_process_is) - [Using fs_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage)
 * [2025-07-10, 00:02:00](https://hardware.slashdot.org/story/25/07/09/2051245/hugging-face-launches-299-robot-that-could-disrupt-entire-robotics-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hugging Face Launches $299 Robot That Could Disrupt Entire Robotics Industry](https://hardware.slashdot.org/story/25/07/09/2051245/hugging-face-launches-299-robot-that-could-disrupt-entire-robotics-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 23:20:00](https://mobile.slashdot.org/story/25/07/09/2038213/ikea-ditches-zigbee-for-thread-going-all-in-on-matter-smart-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IKEA Ditches Zigbee For Thread Going All In On Matter Smart Homes](https://mobile.slashdot.org/story/25/07/09/2038213/ikea-ditches-zigbee-for-thread-going-all-in-on-matter-smart-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 23:08:00](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss) - [How to Stop Your LG or Samsung Smart TV From Tracking You](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss)
@@ -80,10 +98,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 21:53:19](https://news.ycombinator.com/item?id=44515087) - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
 * [2025-07-09, 21:44:22](https://news.ycombinator.com/item?id=44515023) - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 * [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
-* [2025-07-09, 21:24:28](https://news.ycombinator.com/item?id=44514877) - [Memory-Level Parallelism: Apple M2 vs. Apple M4](https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/)
 * [2025-07-09, 21:20:00](https://yro.slashdot.org/story/25/07/09/2014234/mcdonalds-ai-hiring-bot-exposed-millions-of-applicants-data-to-hackers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [McDonald&apos;s AI Hiring Bot Exposed Millions of Applicants&apos; Data To Hackers](https://yro.slashdot.org/story/25/07/09/2014234/mcdonalds-ai-hiring-bot-exposed-millions-of-applicants-data-to-hackers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna&apos;s Archive](https://github.com/iosifache/annas-mcp)
-* [2025-07-09, 20:45:19](https://news.ycombinator.com/item?id=44514559) - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 * [2025-07-09, 20:41:00](https://it.slashdot.org/story/25/07/09/1835230/amd-warns-of-new-meltdown-spectre-like-bugs-affecting-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AMD Warns of New Meltdown, Spectre-like Bugs Affecting CPUs](https://it.slashdot.org/story/25/07/09/1835230/amd-warns-of-new-meltdown-spectre-like-bugs-affecting-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 20:02:00](https://tech.slashdot.org/story/25/07/09/1831232/microsoft-touts-500-million-in-ai-savings-while-slashing-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Touts $500 Million in AI Savings While Slashing Jobs](https://tech.slashdot.org/story/25/07/09/1831232/microsoft-touts-500-million-in-ai-savings-while-slashing-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
@@ -100,10 +116,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
 * [2025-07-09, 17:25:00](https://slashdot.org/story/25/07/09/176219/microsoft-pledges-4-billion-for-ai-education-training-programs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Pledges $4 Billion for AI Education Training Programs](https://slashdot.org/story/25/07/09/176219/microsoft-pledges-4-billion-for-ai-education-training-programs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 17:08:54](https://news.ycombinator.com/item?id=44512470) - [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
+* [2025-07-09, 16:59:20](https://lobste.rs/s/o4jgix/apple_vs_law) - [Apple Vs The Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-09, 16:53:10](https://lobste.rs/s/fvorwd/quite_few_words_about_async) - [(Quite) A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
-* [2025-07-09, 16:48:00](https://science.slashdot.org/story/25/07/09/1649202/animal-diseases-leapt-to-humans-when-we-started-keeping-livestock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Animal Diseases Leapt To Humans When We Started Keeping Livestock](https://science.slashdot.org/story/25/07/09/1649202/animal-diseases-leapt-to-humans-when-we-started-keeping-livestock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-09, 16:00:20](https://lobste.rs/s/9hzhgi/roll_your_own_game_ui_with_clay_nanovg) - [Roll your own in-game UI with Clay and NanoVG](https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf)
-* [2025-07-09, 15:28:58](https://news.ycombinator.com/item?id=44511282) - [Nuclear Waste Reprocessing Gains Momentum in the U.S.](https://spectrum.ieee.org/nuclear-waste-reprocessing-transmutation)
 * [2025-07-09, 15:08:29](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 14:52:04](https://news.ycombinator.com/item?id=44510731) - [Linda Yaccarino is leaving X](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
 * [2025-07-09, 14:40:24](https://news.ycombinator.com/item?id=44510600) - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
@@ -120,20 +135,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 07:27:51](https://lobste.rs/s/vwlbig/frame_preference_history_mac_settings) - [Frame of preference – A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
 * [2025-07-09, 07:04:36](https://news.ycombinator.com/item?id=44507076) - [Most RESTful APIs aren&apos;t really RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html)
 * [2025-07-09, 04:04:45](https://news.ycombinator.com/item?id=44506251) - [Phrase origin: Why do we \&quot;call\&quot; functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
-* [2025-07-09, 03:53:59](https://lobste.rs/s/8ixtyt/agents_don_t_have_agency) - [Agents don&apos;t have agency](https://kconner.com/2025/07/08/agents-dont-have-agency.html)
 * [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss) - [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss)
 * [2025-07-09, 02:55:35](https://lobste.rs/s/zjlygh/phrase_origin_why_do_we_call_functions) - [Phrase origin: Why do we “call” functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
-* [2025-07-09, 02:37:28](https://news.ycombinator.com/item?id=44505876) - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
-* [2025-07-09, 01:11:12](https://lobste.rs/s/tp5eoc/hippocratic_license) - [Hippocratic License](https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt)
-* [2025-07-09, 00:55:00](https://lobste.rs/s/xjttka/toml_v0_9) - [toml v0.9](https://epage.github.io/blog/2025/07/toml-09/)
 * [2025-07-08, 23:02:00](https://soylentnews.org/article.pl?sid=25/07/07/0143225&amp;from=rss) - [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&amp;from=rss)
+* [2025-07-08, 22:37:21](https://news.ycombinator.com/item?id=44504676) - [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
 * [2025-07-08, 21:14:37](https://lobste.rs/s/os54bi/systemd_has_been_complete_utter) - [systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
 * [2025-07-08, 18:11:00](https://soylentnews.org/article.pl?sid=25/07/07/0139229&amp;from=rss) - [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&amp;from=rss)
 * [2025-07-08, 16:37:55](https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key) - [Announcing FOKS, the Federated Open Key Service](https://blog.foks.pub/posts/introducing/)
 * [2025-07-08, 14:21:56](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-08, 13:30:00](https://soylentnews.org/article.pl?sid=25/07/06/2318236&amp;from=rss) - [The European Commission&apos;s Call for Technical Advisors: Save Privacy](https://soylentnews.org/article.pl?sid=25/07/06/2318236&amp;from=rss)
-* [2025-07-08, 10:40:03](https://news.ycombinator.com/item?id=44498766) - [Why LLMs Can&apos;t Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
-* [2025-07-08, 10:14:02](https://lobste.rs/s/9vvhzr/two_weeks_wayback) - [Two weeks of wayback](https://ariadne.space/2025/07/07/two-weeks-of-wayback.html)
 * [2025-07-08, 08:45:00](https://soylentnews.org/article.pl?sid=25/07/06/2238227&amp;from=rss) - [First Leisure Swim for Parisians Into the Seine in More Than a Century](https://soylentnews.org/article.pl?sid=25/07/06/2238227&amp;from=rss)
 * [2025-07-08, 04:31:00](https://soylentnews.org/article.pl?sid=25/07/06/1323229&amp;from=rss) - [UK Eyes New Laws Over Cable Sabotage](https://soylentnews.org/article.pl?sid=25/07/06/1323229&amp;from=rss)
 * [2025-07-07, 23:45:00](https://soylentnews.org/article.pl?sid=25/07/06/1317252&amp;from=rss) - [Sniffnet - Comfortably Monitor Your Internet Traffic](https://soylentnews.org/article.pl?sid=25/07/06/1317252&amp;from=rss)
@@ -144,14 +154,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-07, 09:31:00](https://soylentnews.org/article.pl?sid=25/07/06/131253&amp;from=rss) - [How to Fully Incapacitate Google Tag Manager and Why You Should (2022)](https://soylentnews.org/article.pl?sid=25/07/06/131253&amp;from=rss)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&amp;from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&amp;from=rss)
-* [2025-07-07, 00:21:42](https://news.ycombinator.com/item?id=44485428) - [Ask HN: How is the tech scene in LA?](https://news.ycombinator.com/item?id=44485428)
 * [2025-07-07, 00:00:00](https://soylentnews.org/article.pl?sid=25/07/06/1241242&amp;from=rss) - [Verizon Denies Legitimacy of 61 Million Records for Sale](https://soylentnews.org/article.pl?sid=25/07/06/1241242&amp;from=rss)
+* [2025-07-06, 22:15:03](https://news.ycombinator.com/item?id=44484579) - [Code and Trust: Vibrators to Pacemakers](https://punkx.org/jackdoe/code-and-trust.html)
+* [2025-07-06, 21:50:52](https://news.ycombinator.com/item?id=44484409) - [The Origin of the Research University](https://asteriskmag.com/issues/10/the-origin-of-the-research-university)
 * [2025-07-06, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/05/1910216&amp;from=rss) - [Inside Elon Musk&apos;s Stellar Year at the Texas Capitol](https://soylentnews.org/article.pl?sid=25/07/05/1910216&amp;from=rss)
-* [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [Jank Programming Language](https://jank-lang.org/)
+* [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [The jank programming language](https://jank-lang.org/)
 * [2025-07-06, 15:34:04](https://news.ycombinator.com/item?id=44481627) - [Understand CPU Branch Instructions Better](https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/)
 * [2025-07-06, 14:30:00](https://soylentnews.org/article.pl?sid=25/07/05/1341208&amp;from=rss) - [Bezos-Funded Satellite Tracking Methane Emissions Loses Power in Space](https://soylentnews.org/article.pl?sid=25/07/05/1341208&amp;from=rss)
 * [2025-07-06, 13:56:04](https://news.ycombinator.com/item?id=44480852) - [Making Explainable Minesweeper](https://sublevelgames.github.io/blogs/2025-07-06-making-explainable-minesweeper/)
 * [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
+* [2025-07-06, 11:57:15](https://news.ycombinator.com/item?id=44479949) - [Show HN: Virby, a vfkit-based Linux builder for Nix-Darwin](https://github.com/quinneden/virby-nix-darwin)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 09:48:00](https://soylentnews.org/article.pl?sid=25/07/05/1339218&amp;from=rss) - [Ancient DNA Reveals Make-Up of Roman Empire&apos;s Favourite Sauce](https://soylentnews.org/article.pl?sid=25/07/05/1339218&amp;from=rss)
 * [2025-07-06, 05:45:00](https://soylentnews.org/article.pl?sid=25/07/04/2251218&amp;from=rss) - [Where Does Time Actually Come From?](https://soylentnews.org/article.pl?sid=25/07/04/2251218&amp;from=rss)
