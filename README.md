@@ -1,62 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence Advancements and Challenges
+## Artificial Intelligence Applications
 
-* [Not So Fast: AI Coding Tools Can Actually Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown) - A critical perspective on AI coding assistants, revealing instances of reduced productivity.
+* [AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44527947))
 
-* [AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Achievement in autonomous surgical procedures using AI.
+* [Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44527947))
 
-* [Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploration of AI's increasing role in urban waste management.
+* [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html) ([comments](https://news.ycombinator.com/item?id=44530375))
 
-* [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss) - Debut of Apple's contribution to AI-based coding language modeling.
+## Innovations in Science and Technology
 
-* [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) - Analysis of AI’s effect on productivity in open-source software development.
+* [Psilocybin Treatment Extends Cellular Lifespan, Improves Survival of Aged Mice](https://science.slashdot.org/story/25/07/11/0354259/psilocybin-treatment-extends-cellular-lifespan-improves-survival-of-aged-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44530375))
 
-## Technology and Innovations
+* [Using Sound Waves to Put Out Fire: Story of Two George Mason University Students](https://wowparrot.com/using-sound-waves-to-put-out-fire/) ([comments](https://news.ycombinator.com/item?id=44530807))
 
-* [Mill Build Tool v1.0.0 Release Highlights](https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html) - Version 1.0.0 release of the Mill build tool, including key features and updates.
+* [Shrink Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss) ([comments](https://news.ycombinator.com/item?id=44522056))
 
-* [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/) - New browser-based multiplayer game inspired by Risk.
+## Technology Industry Shifts
 
-* [Google Replaces Android Developer Preview With Rolling Canary Channel](https://developers.slashdot.org/story/25/07/10/2329218/google-replaces-android-developer-preview-with-rolling-canary-channel?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google announces a new rolling update strategy for Android developers.
+* [Nvidia Has Become the World's First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0025232&from=rss) ([comments](https://news.ycombinator.com/item?id=44529213))
 
-* [Lossless float image compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/) - A breakthrough in efficient image compression techniques.
+* [Google Replaces Android Developer Preview With Rolling Canary Channel](https://developers.slashdot.org/story/25/07/10/2329218/google-replaces-android-developer-preview-with-rolling-canary-channel?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44531125))
 
-* [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/) - Highlights a new approach and textbook for concurrent programming.
-
-## Major Corporate Developments
-
-* [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&from=rss) - Nvidia reaches an unprecedented valuation milestone.
-
-* [Indeed, Glassdoor To Cut 1,300 Jobs in AI-Focused Consolidation](https://slashdot.org/story/25/07/10/1756200/indeed-glassdoor-to-cut-1300-jobs-in-ai-focused-consolidation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Consolidation in the AI job market leads to significant layoffs at Indeed and Glassdoor.
-
-* [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/) - Examines legal challenges faced by Apple.
-
-* [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) - Introduction to an open-source tool competing with Cloudflare Tunnels.
-
-## Health and Science
-
-* [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/) - A cautionary tale about excessive supplement intake.
-
-* [An (almost) catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/) - Analysis of a critical error in the OpenZFS system.
-
-* [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss) - Advances in laser-based particle acceleration.
-
-## Legal and Privacy Issues
-
-* [German Court Rules Meta Tracking Tech Violates EU Privacy Laws](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal setback for Meta in Europe over tracking technology.
-
-* [Russia Blocks Ethical Hacking Legislation Over Security Concerns](https://it.slashdot.org/story/25/07/10/1833225/russia-blocks-ethical-hacking-legislation-over-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Deliberations on the ethical dilemmas of cybersecurity.
-
-* [Qantas Confirms Data Breach Impacts 5.7 Million Customers](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scale and implications of Qantas' customer information breach.
-
-## Cultural and Historical Highlights
-
-* [A remembrance of Matthew S. Trout (mst)](https://curtispoe.org/blog/rip-mst.html) - Tribute to the impact of a renowned developer.
-
-* [Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/) - Insights into George Orwell's historical reflections.
-
-* [First Leisure Swim for Parisians Into the Seine in More Than a Century](https://soylentnews.org/article.pl?sid=25/07/06/2238227&from=rss) - Reopening of the Seine for public swimming marks a historic milestone.
+* [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/story.pl?sid=25/Templates.json)
 
 ---
 
@@ -83,17 +49,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-11, 12:52:15](https://news.ycombinator.com/item?id=44531561) - [&apos;Click-to-cancel&apos; rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
+* [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
+* [2025-07-11, 11:28:11](https://news.ycombinator.com/item?id=44530922) - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
+* [2025-07-11, 11:10:25](https://news.ycombinator.com/item?id=44530807) - [Using Sound Waves to Put Out Fire: Story of Two George Mason University Students](https://wowparrot.com/using-sound-waves-to-put-out-fire/)
+* [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson&apos;s Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
+* [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \&quot;cutlass\&quot; in it](https://twitter.com/cis_female/status/1943069934332055912)
+* [2025-07-11, 10:03:11](https://news.ycombinator.com/item?id=44530375) - [At Amazon&apos;s Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
+* [2025-07-11, 10:00:00](https://science.slashdot.org/story/25/07/11/0354259/psilocybin-treatment-extends-cellular-lifespan-improves-survival-of-aged-mice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Psilocybin Treatment Extends Cellular Lifespan, Improves Survival of Aged Mice](https://science.slashdot.org/story/25/07/11/0354259/psilocybin-treatment-extends-cellular-lifespan-improves-survival-of-aged-mice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 09:40:31](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend)
 * [2025-07-11, 09:22:27](https://lobste.rs/s/8zc40x/mill_build_tool_v1_0_0_release_highlights) - [Mill Build Tool v1.0.0 Release Highlights](https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html)
-* [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss)
 * [2025-07-11, 07:34:00](https://lobste.rs/s/1r7tgd/not_so_fast_ai_coding_tools_can_actually) - [Not So Fast: AI Coding Tools Can Actually Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-11, 07:00:00](https://science.slashdot.org/story/25/07/11/0349227/senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Senator Calls Out Texas For Trying To Steal Shuttle From Smithsonian](https://science.slashdot.org/story/25/07/11/0349227/senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 06:57:22](https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer) - [sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware](https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-* [2025-07-11, 06:08:30](https://news.ycombinator.com/item?id=44528851) - [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
 * [2025-07-11, 05:30:20](https://lobste.rs/s/68ekgl/writing_ir_from_scratch_survive_write) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
+* [2025-07-11, 04:51:51](https://news.ycombinator.com/item?id=44528509) - [The day someone created 184 billion Bitcoin (2020)](https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator)
 * [2025-07-11, 03:30:00](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 03:30:00](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss) - [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss)
 * [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
@@ -118,15 +91,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 20:01:00](https://slashdot.org/story/25/07/10/1756200/indeed-glassdoor-to-cut-1300-jobs-in-ai-focused-consolidation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indeed, Glassdoor To Cut 1,300 Jobs in AI-Focused Consolidation](https://slashdot.org/story/25/07/10/1756200/indeed-glassdoor-to-cut-1300-jobs-in-ai-focused-consolidation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://github.com/cactus-compute/cactus)
 * [2025-07-10, 19:20:00](https://tech.slashdot.org/story/25/07/10/1752220/physical-buttons-make-comeback-on-mazda-steering-wheels-as-company-adopts-first-touchscreen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Physical Buttons Make Comeback on Mazda Steering Wheels as Company Adopts First Touchscreen](https://tech.slashdot.org/story/25/07/10/1752220/physical-buttons-make-comeback-on-mazda-steering-wheels-as-company-adopts-first-touchscreen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
 * [2025-07-10, 18:41:00](https://yro.slashdot.org/story/25/07/10/1659205/judge-throws-out-lawsuit-accusing-apple-of-taking-bribes-to-avoid-competing-with-visa-and-mastercard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Throws Out Lawsuit Accusing Apple of Taking Bribes To Avoid Competing With Visa and Mastercard](https://yro.slashdot.org/story/25/07/10/1659205/judge-throws-out-lawsuit-accusing-apple-of-taking-bribes-to-avoid-competing-with-visa-and-mastercard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-10, 18:01:00](https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China is Building 74% of All Current Solar and Wind Projects](https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
 * [2025-07-10, 17:58:00](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss) - [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss)
 * [2025-07-10, 17:33:07](https://news.ycombinator.com/item?id=44523409) - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/)
 * [2025-07-10, 17:24:35](https://lobste.rs/s/1batvy/measuring_impact_early_2025_ai_on) - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 17:02:20](https://lobste.rs/s/gm4vnt/vibe_coding_casino_rise_programming_by) - [Vibe Coding Casino: Rise of programming by slot machine](https://evrim.zone/blog/opinion/vibes_casino)
-* [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the impact of AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [2025-07-10, 15:46:42](https://lobste.rs/s/fkkoys/coverdrop_blowing_whistle_through_news) - [CoverDrop: Blowing the Whistle Through A News App](https://www.coverdrop.org/)
 * [2025-07-10, 15:25:56](https://news.ycombinator.com/item?id=44522076) - [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
@@ -140,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss)
 * [2025-07-10, 12:57:49](https://lobste.rs/s/ofymzw/computer_scientists_figure_out_how_prove) - [Computer Scientists Figure Out How To Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
-* [2025-07-10, 12:51:19](https://news.ycombinator.com/item?id=44520438) - [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: Federated Open Key Service](https://foks.pub/)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
@@ -153,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
 * [2025-07-09, 18:18:00](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss) - [EU Rattles its Purse and AI Datacenter Builders Come Running](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss)
 * [2025-07-09, 13:28:00](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss) - [MIT Engineers Develop Electrochemical Sensors for Cheap, Disposable Diagnostics](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss)
-* [2025-07-09, 11:49:21](https://news.ycombinator.com/item?id=44508837) - [Million Times Million](https://susam.net/million-times-million.html)
 * [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
 * [2025-07-09, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss) - [Stop Killing Games Finally Reaches One Million Signature Milestone, but There&apos;s a Pretty Big Catch](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss)
 * [2025-07-09, 07:05:17](https://news.ycombinator.com/item?id=44507078) - [Series of posts on HTTP status codes (2018)](https://evertpot.com/http/)
@@ -166,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-08, 04:31:00](https://soylentnews.org/article.pl?sid=25/07/06/1323229&amp;from=rss) - [UK Eyes New Laws Over Cable Sabotage](https://soylentnews.org/article.pl?sid=25/07/06/1323229&amp;from=rss)
 * [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing database trends through 1.8M Hacker News headlines](https://camelai.com/blog/hn-database-hype/)
 * [2025-07-07, 23:45:00](https://soylentnews.org/article.pl?sid=25/07/06/1317252&amp;from=rss) - [Sniffnet - Comfortably Monitor Your Internet Traffic](https://soylentnews.org/article.pl?sid=25/07/06/1317252&amp;from=rss)
-* [2025-07-07, 21:29:31](https://news.ycombinator.com/item?id=44494852) - [The Wet History of Media in the Bathroom](https://thereader.mitpress.mit.edu/the-wet-history-of-media-in-the-bathroom/)
 * [2025-07-07, 18:58:00](https://soylentnews.org/article.pl?sid=25/07/06/1311241&amp;from=rss) - [See How the Herpes Virus Reshapes Our Cells’ DNA in Just Eight Hours](https://soylentnews.org/article.pl?sid=25/07/06/1311241&amp;from=rss)
 * [2025-07-07, 16:30:18](https://news.ycombinator.com/item?id=44492014) - [Batch Mode in the Gemini API: Process More for Less](https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/)
 * [2025-07-07, 16:01:13](https://news.ycombinator.com/item?id=44491709) - [Show HN: Interactive pinout for the Raspberry Pi Pico 2](https://pico2.pinout.xyz)
