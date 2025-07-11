@@ -1,54 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Milestones
+## AI and Robotics
 
-* [AI Impacts on Developer Productivity: Measuring the impact of AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study)
+* [AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Anubis now supports non-JS challenges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
+* [Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+* [Video Game Actors End 11-Month Strike With New AI Protections](https://games.slashdot.org/story/25/07/10/2119204/video-game-actors-end-11-month-strike-with-new-ai-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/07/10/2119204/video-game-actors-end-11-month-strike-with-new-ai-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
+## Privacy and Security
 
-* [Leaping: Self-Improving Voice AI from Y Combinator](https://news.ycombinator.com/item?id=44523523)
+* [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256) ([comments](https://news.ycombinator.com/item?id=44528204))
 
-* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+* [German Court Rules Meta Tracking Tech Violates EU Privacy Laws](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Security and Privacy Challenges
+* [Qantas Confirms Data Breach Impacts 5.7 Million Customers](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Qantas Confirms Data Breach Impacts 5.7 Million Customers](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Healthcare and Medicines
 
-* [German Court Rules Meta Tracking Tech Violates EU Privacy Laws](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147) ([comments](https://news.ycombinator.com/item?id=44528193))
 
-* [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
+* [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html) ([comments](https://news.ycombinator.com/item?id=44527484))
 
-* [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
+* [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/07/0143225&from=rss))
 
-* [Swedish Bodyguards Reveal Prime Minister's Location on Fitness App](https://yro.slashdot.org/story/25/07/10/168215/swedish-bodyguards-reveal-prime-ministers-location-on-fitness-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Climate and Environment
 
-## Advances and Insights in Engineering and Science
+* [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/08/2330230&from=rss))
 
-* [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&amp;from=rss)
+* [China is Building 74% of All Current Solar and Wind Projects](https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Earth Is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss)
+* [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/09/116236&from=rss))
 
-* [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss)
+## Tech Innovations
 
-* [Flix – A powerful effect-oriented programming language](https://flix.dev/)
+* [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/) ([comments](https://lobste.rs/s/ljookn/concurrent_programming_with_harmony))
 
-## Cultural and Policy Impacts
+* [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) ([comments](https://news.ycombinator.com/item?id=44526015))
 
-* [New EU Regulations Require Transparency, Copyright Protection From Powerful AI Systems](https://tech.slashdot.org/story/25/07/10/1449202/new-eu-regulations-require-transparency-copyright-protection-from-powerful-ai-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Video Game Actors End 11-Month Strike With New AI Protections](https://games.slashdot.org/story/25/07/10/2119204/video-game-actors-end-11-month-strike-with-new-ai-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss)
-
-## Energy and Environment
-
-* [China is Building 74% of All Current Solar and Wind Projects](https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss)
+* [Lossless float image compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/) ([comments](https://lobste.rs/s/zs83tx/lossless_float_image_compression))
 
 ---
 
@@ -75,12 +65,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-11, 03:43:23](https://news.ycombinator.com/item?id=44528204) - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
+* [2025-07-11, 03:41:12](https://news.ycombinator.com/item?id=44528193) - [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
+* [2025-07-11, 03:30:00](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help](https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-11, 02:02:00](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling](https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-11, 01:25:00](https://developers.slashdot.org/story/25/07/10/2329218/google-replaces-android-developer-preview-with-rolling-canary-channel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Replaces Android Developer Preview With Rolling Canary Channel](https://developers.slashdot.org/story/25/07/10/2329218/google-replaces-android-developer-preview-with-rolling-canary-channel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-11, 01:21:06](https://lobste.rs/s/ljookn/concurrent_programming_with_harmony) - [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/)
+* [2025-07-11, 01:14:49](https://news.ycombinator.com/item?id=44527484) - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
 * [2025-07-11, 00:45:00](https://news.slashdot.org/story/25/07/10/2327220/youtube-cant-put-pandoras-ai-slop-back-in-the-box?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Can&apos;t Put Pandora&apos;s AI Slop Back in the Box](https://news.slashdot.org/story/25/07/10/2327220/youtube-cant-put-pandoras-ai-slop-back-in-the-box?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 00:38:06](https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challanges) - [Anubis now supports non-JS challanges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
 * [2025-07-11, 00:36:34](https://lobste.rs/s/z4jhtb/remembrance_matthew_s_trout_mst) - [A remembrance of Matthew S. Trout (mst)](https://curtispoe.org/blog/rip-mst.html)
 * [2025-07-11, 00:04:16](https://lobste.rs/s/zs83tx/lossless_float_image_compression) - [Lossless float image compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/)
 * [2025-07-11, 00:02:00](https://games.slashdot.org/story/25/07/10/2119204/video-game-actors-end-11-month-strike-with-new-ai-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Video Game Actors End 11-Month Strike With New AI Protections](https://games.slashdot.org/story/25/07/10/2119204/video-game-actors-end-11-month-strike-with-new-ai-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+* [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 23:28:31](https://news.ycombinator.com/item?id=44526852) - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 * [2025-07-10, 23:20:00](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qantas Confirms Data Breach Impacts 5.7 Million Customers](https://it.slashdot.org/story/25/07/10/2110255/qantas-confirms-data-breach-impacts-57-million-customers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 23:04:03](https://lobste.rs/s/pzqxqm/postgres_listen_notify_does_not_scale) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
@@ -88,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 22:00:00](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [German Court Rules Meta Tracking Tech Violates EU Privacy Laws](https://yro.slashdot.org/story/25/07/10/2056216/german-court-rules-meta-tracking-tech-violates-eu-privacy-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 21:50:43](https://news.ycombinator.com/item?id=44526015) - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
 * [2025-07-10, 21:22:00](https://it.slashdot.org/story/25/07/10/1833225/russia-blocks-ethical-hacking-legislation-over-security-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Blocks Ethical Hacking Legislation Over Security Concerns](https://it.slashdot.org/story/25/07/10/1833225/russia-blocks-ethical-hacking-legislation-over-security-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
 * [2025-07-10, 20:41:00](https://tech.slashdot.org/story/25/07/10/180230/gemini-can-now-turn-your-photos-into-video-with-veo-3?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gemini Can Now Turn Your Photos Into Video With Veo 3](https://tech.slashdot.org/story/25/07/10/180230/gemini-can-now-turn-your-photos-into-video-with-veo-3?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 20:11:28](https://lobste.rs/s/jjqmuu/almost_catastrophic_openzfs_bug_humans) - [An (almost) catastrophic OpenZFS bug and the humans that made it (and Rust is here too)](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
 * [2025-07-10, 20:01:00](https://slashdot.org/story/25/07/10/1756200/indeed-glassdoor-to-cut-1300-jobs-in-ai-focused-consolidation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indeed, Glassdoor To Cut 1,300 Jobs in AI-Focused Consolidation](https://slashdot.org/story/25/07/10/1756200/indeed-glassdoor-to-cut-1300-jobs-in-ai-focused-consolidation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,21 +101,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 17:24:35](https://lobste.rs/s/1batvy/measuring_impact_early_2025_ai_on) - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 17:24:00](https://yro.slashdot.org/story/25/07/10/168215/swedish-bodyguards-reveal-prime-ministers-location-on-fitness-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Swedish Bodyguards Reveal Prime Minister&apos;s Location on Fitness App](https://yro.slashdot.org/story/25/07/10/168215/swedish-bodyguards-reveal-prime-ministers-location-on-fitness-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 17:02:20](https://lobste.rs/s/gm4vnt/vibe_coding_casino_rise_programming_by) - [Vibe Coding Casino: Rise of programming by slot machine](https://evrim.zone/blog/opinion/vibes_casino)
-* [2025-07-10, 16:40:00](https://news.slashdot.org/story/25/07/10/1533207/why-america-still-cant-get-disaster-alerts-right?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why America Still Can&apos;t Get Disaster Alerts Right](https://news.slashdot.org/story/25/07/10/1533207/why-america-still-cant-get-disaster-alerts-right?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the impact of AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
-* [2025-07-10, 16:01:00](https://science.slashdot.org/story/25/07/10/161254/senators-signal-theyre-prepared-to-push-back-against-nasa-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Senators Signal They&apos;re Prepared To Push Back Against NASA Cuts](https://science.slashdot.org/story/25/07/10/161254/senators-signal-theyre-prepared-to-push-back-against-nasa-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 15:46:42](https://lobste.rs/s/fkkoys/coverdrop_blowing_whistle_through_news) - [CoverDrop: Blowing the Whistle Through A News App](https://www.coverdrop.org/)
 * [2025-07-10, 15:25:56](https://news.ycombinator.com/item?id=44522076) - [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
 * [2025-07-10, 15:21:38](https://lobste.rs/s/0yqrym/lessons_from_creating_my_first_text) - [Lessons From Creating My First Text Adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
-* [2025-07-10, 15:20:00](https://tech.slashdot.org/story/25/07/10/1449202/new-eu-regulations-require-transparency-copyright-protection-from-powerful-ai-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New EU Regulations Require Transparency, Copyright Protection From Powerful AI Systems](https://tech.slashdot.org/story/25/07/10/1449202/new-eu-regulations-require-transparency-copyright-protection-from-powerful-ai-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-10, 15:10:59](https://lobste.rs/s/eaumem/jai_demo_design_explanation) - [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ)
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:50:25](https://lobste.rs/s/5l2kgz/diffusion_elites_surprisingly_good) - [Diffusion Elites: surprisingly good, simple and embarrassingly parallel](https://blog.christianperone.com/2025/07/diffusion-elites/)
 * [2025-07-10, 14:36:01](https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for) - [What&apos;s //go:nosplit for?](https://mcyoung.xyz/2025/07/07/nosplit/)
 * [2025-07-10, 14:32:23](https://lobste.rs/s/uohkhq/multi_player_durable_stream_playground) - [Multi-player Durable Stream Playground](https://s2.dev/playground)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
-* [2025-07-10, 13:51:21](https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021) - [Haskell Lenses From Scratch (2021)](https://www.youtube.com/watch?v=3kduOmZ2Wxw)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss)
 * [2025-07-10, 12:57:49](https://lobste.rs/s/ofymzw/computer_scientists_figure_out_how_prove) - [Computer Scientists Figure Out How To Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 12:51:19](https://news.ycombinator.com/item?id=44520438) - [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
@@ -127,9 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 12:35:21](https://news.ycombinator.com/item?id=44520292) - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
-* [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
-* [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
-* [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 * [2025-07-10, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss) - [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [Matt Trout has died](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-10, 06:26:27](https://lobste.rs/s/migsbj/unveiling_open_source_heroes_power_our) - [Unveiling the Open Source heroes that power our digital infrastructure](https://maintaine.rs/)
@@ -144,6 +133,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
 * [2025-07-09, 13:28:00](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss) - [MIT Engineers Develop Electrochemical Sensors for Cheap, Disposable Diagnostics](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss)
 * [2025-07-09, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss) - [Stop Killing Games Finally Reaches One Million Signature Milestone, but There&apos;s a Pretty Big Catch](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss)
+* [2025-07-09, 07:05:17](https://news.ycombinator.com/item?id=44507078) - [Series of posts on HTTP status codes](https://evertpot.com/http/)
+* [2025-07-09, 03:51:27](https://news.ycombinator.com/item?id=44506188) - [Apple-1 Computer, handmade by Steve Jobs [video]](https://www.youtube.com/watch?v=XdBKuBhdZwg)
 * [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss) - [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss)
 * [2025-07-08, 23:02:00](https://soylentnews.org/article.pl?sid=25/07/07/0143225&amp;from=rss) - [A New Diabetes Treatment Could Free People From Insulin Injections](https://soylentnews.org/article.pl?sid=25/07/07/0143225&amp;from=rss)
 * [2025-07-08, 21:14:37](https://lobste.rs/s/os54bi/systemd_has_been_complete_utter) - [systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
@@ -161,7 +152,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-07, 14:14:00](https://soylentnews.org/article.pl?sid=25/07/06/136235&amp;from=rss) - [The Terrifying Truth About Why Tesla&apos;s Cars Keep Crashing](https://soylentnews.org/article.pl?sid=25/07/06/136235&amp;from=rss)
 * [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
 * [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That&apos;s Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
-* [2025-07-07, 10:29:56](https://news.ycombinator.com/item?id=44488731) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
 * [2025-07-07, 09:31:00](https://soylentnews.org/article.pl?sid=25/07/06/131253&amp;from=rss) - [How to Fully Incapacitate Google Tag Manager and Why You Should (2022)](https://soylentnews.org/article.pl?sid=25/07/06/131253&amp;from=rss)
 * [2025-07-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/07/06/1250244&amp;from=rss) - [CISPE Warns EU Against Over-Regulation of Water](https://soylentnews.org/article.pl?sid=25/07/06/1250244&amp;from=rss)
 * [2025-07-07, 00:00:00](https://soylentnews.org/article.pl?sid=25/07/06/1241242&amp;from=rss) - [Verizon Denies Legitimacy of 61 Million Records for Sale](https://soylentnews.org/article.pl?sid=25/07/06/1241242&amp;from=rss)
