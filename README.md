@@ -1,60 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Developments in Technology and Artificial Intelligence
+## Artificial Intelligence and Machine Learning
 
-* [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf) - Highlights an intriguing effort to replicate quantum factorization achievements using modest hardware.
+* [AI Slows Down Some Experienced Software Developers, Study Finds](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report highlights how AI tools may reduce productivity among seasoned programmers, sparking discussions on balancing tech use in development. [Comments](https://news.ycombinator.com/item?id=44537113)
 
-* [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://science.slashdot.org/story/25/07/11/2314204/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examines AI therapy bots and the unintended consequences of their use in healthcare applications.
+* [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://science.slashdot.org/story/25/07/11/2314204/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Stanford's findings reveal risks associated with using AI therapy tools prone to misleading users. [Comments](https://news.ycombinator.com/item?id=44534893)
 
-* [OpenAI delays launch of open-weight model](https://twitter.com/sama/status/1943837550369812814) - OpenAI postpones the release of an open-weight language model, sparking questions about AI development priorities.
+## Cybersecurity and Privacy
 
-* [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html) - Collaboration between ETH Zurich and EPFL offers a language model developed with public-focused infrastructure.
+* [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&from=rss) - A critical vulnerability in the Bluetooth stack has left vehicles prone to hacking attacks. [Comments](https://news.ycombinator.com/item?id=44536018)
 
-* [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) - Evaluates how early 2025 AI tools influence productivity among experienced developers.
+* [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/) - GravityForms plugin malware discovery brings supply chain attacks to the forefront. [Comments](https://news.ycombinator.com/item?id=44539879)
 
-## Space and Future Technology
+## Environmental and Space Innovations
 
-* [Please Don't Cut Funds For Space Traffic Control, Industry Begs Congress](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Industry leaders urge Congress to preserve funding for critical space traffic management.
+* [Solar Was the Leading Source of Electricity In the EU Last Month](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Solar energy rises as the EU's top electricity source, setting a positive milestone for renewable energy. [Comments](https://news.ycombinator.com/item?id=44540062)
 
-* [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper) - Astronomers have shifted focus to examining an intriguing object from outside our solar system.
+* [Please Don’t Cut Funds For Space Traffic Control, Industry Begs Congress](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Stakeholders plea to Congress against slashing space traffic oversight budget. [Comments](https://news.ycombinator.com/item?id=44533223)
 
-## Scientific and Medical Discoveries
+## Legacy Technology and Digital Art
 
-* [Researchers Develop New Tool To Measure Biological Age](https://science.slashdot.org/story/25/07/11/236230/researchers-develop-new-tool-to-measure-biological-age?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explores an innovative tool that determines biological age, potentially advancing health metrics.
+* [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) - Nostalgia meets digital art as 1980s MacPaint visuals resurface, showcasing early design innovation. [Comments](https://news.ycombinator.com/item?id=44540402)
 
-* [Psilocybin shows promise as anti-aging therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/) - Investigates the potential of psilocybin as an anti-aging therapeutic solution.
+* [Bill Atkinson's psychedelic user interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill) - A dive into Atkinson's revolutionary UI design trajectory from spiritual inspiration to Mac computing. [Comments](https://news.ycombinator.com/item?id=44530767)
 
-* [Why Don’t Bats Get Cancer? Researchers Discover Protection From Genes and Strong Immune Systems](https://soylentnews.org/article.pl?sid=25/07/07/0139229&amp;from=rss) - Details fascinating genetic and immune aspects of bats that may inspire cancer research.
+## Innovative Open Source Projects and Tools
 
-## Cybersecurity and Digital Privacy
+* [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf) - Introducing DSLF, a minimalistic, Rust-based URL shortener alternative. [Comments](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly)
 
-* [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/) - Detailed analysis of a supply chain vulnerability within the official GravityForms plugin.
-
-* [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss) - Describes a novel attack method exploiting Android's UI behavior to deceive users.
-
-* [AI is Scraping the Web, but the Web is Fighting Back](https://soylentnews.org/article.pl?sid=25/07/09/1114240&amp;from=rss) - Examines the escalating battle between web scrapers and privacy defenders.
-
-## Technological Innovation and Tools
-
-* [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf) - Introduces a lightweight, Rust-based URL shortening alternative to mainstream solutions.
-
-* [Monorail – Turn CSS animations into interactive SVG graphs](https://muffinman.io/monorail/) - A creative tool that visualizes CSS animations as interactive SVG graphs.
-
-* [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker) - Enhances HDD activity tracking with auditory feedback.
-
-* [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/) - Guide to constructing a straightforward router using OpenBSD systems.
-
-## Environmental and Scientific Challenges
-
-* [Solar Was the Leading Source of Electricity In the EU Last Month](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Solar power becomes Europe's dominant electricity source for a record-setting month.
-
-* [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss) - Warns of accelerating ocean warming caused by diminishing Antarctic sea ice.
-
-## Cultural and Historical Insights
-
-* [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) - Revisits the enduring creativity and visual appeal of mid-1980s MacPaint artwork.
-
-* [Derinkuyu: A Subterranean Marvel of Ancient Engineering with Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - Explores the engineering wonders of the ancient underground city of Derinkuyu.
+* [Incus – Next-generation system container, application container, and VM manager](https://linuxcontainers.org/incus/) - A fresh step in containerization technology with Incus. [Comments](https://news.ycombinator.com/item?id=44539338)
 
 ---
 
@@ -81,16 +55,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-12, 13:00:00](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Slows Down Some Experienced Software Developers, Study Finds](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-12, 12:00:11](https://news.ycombinator.com/item?id=44541458) - [Sieve (YC X25) is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
+* [2025-07-12, 10:10:53](https://news.ycombinator.com/item?id=44540858) - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
 * [2025-07-12, 10:00:00](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Please Don&apos;t Cut Funds For Space Traffic Control, Industry Begs Congress](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss)
 * [2025-07-12, 08:45:15](https://news.ycombinator.com/item?id=44540402) - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
-* [2025-07-12, 08:14:02](https://news.ycombinator.com/item?id=44540241) - [New Date(\&quot;WTF\&quot;) – How well do you know JavaScript&apos;s Date class?](https://jsdate.wtf)
+* [2025-07-12, 08:14:02](https://news.ycombinator.com/item?id=44540241) - [New Date(\&quot;wtf\&quot;) – How well do you know JavaScript&apos;s Date class?](https://jsdate.wtf)
 * [2025-07-12, 07:29:48](https://news.ycombinator.com/item?id=44540052) - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
 * [2025-07-12, 07:00:00](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar Was the Leading Source of Electricity In the EU Last Month](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 06:41:59](https://news.ycombinator.com/item?id=44539879) - [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss) - [CEO Claims Intel No Longer In The \&quot;Top 10 Semiconductor Companies\&quot; ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss)
-* [2025-07-12, 05:01:19](https://news.ycombinator.com/item?id=44539433) - [Psilocybin shows promise as anti-aging therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
-* [2025-07-12, 04:36:30](https://news.ycombinator.com/item?id=44539338) - [What is Incus?](https://linuxcontainers.org/incus/)
+* [2025-07-12, 04:36:30](https://news.ycombinator.com/item?id=44539338) - [Incus – Next-generation system container, application container, and VM manager](https://linuxcontainers.org/incus/)
 * [2025-07-12, 03:30:00](https://science.slashdot.org/story/25/07/11/2314204/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://science.slashdot.org/story/25/07/11/2314204/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
 * [2025-07-12, 02:02:00](https://science.slashdot.org/story/25/07/11/236230/researchers-develop-new-tool-to-measure-biological-age?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Develop New Tool To Measure Biological Age](https://science.slashdot.org/story/25/07/11/236230/researchers-develop-new-tool-to-measure-biological-age?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,7 +75,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-12, 01:08:39](https://lobste.rs/s/gw7wq0/hanami_elephant_room) - [Hanami and the elephant in the room](https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/)
 * [2025-07-12, 01:07:33](https://news.ycombinator.com/item?id=44538413) - [OpenAI delays launch of open-weight model](https://twitter.com/sama/status/1943837550369812814)
 * [2025-07-12, 00:45:00](https://games.slashdot.org/story/25/07/11/1936226/ifixit-the-switch-2-pro-is-a-piss-poor-excuse-for-a-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iFixit: the Switch 2 Pro is a &apos;Piss-Poor Excuse For a Controller&apos;](https://games.slashdot.org/story/25/07/11/1936226/ifixit-the-switch-2-pro-is-a-piss-poor-excuse-for-a-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-12, 00:31:46](https://news.ycombinator.com/item?id=44538212) - [HDD Clicker generates HDD clicking sounds, based on HDD Led activity](https://www.serdashop.com/HDDClicker)
 * [2025-07-12, 00:31:00](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - [Derinkuyu: A Subterranean Marvel of Ancient Engineering with  Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss)
 * [2025-07-12, 00:02:00](https://news.slashdot.org/story/25/07/11/1945201/jpmorgan-tells-fintechs-they-have-to-pay-up-for-customer-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [JPMorgan Tells Fintechs They Have To Pay Up For Customer Data](https://news.slashdot.org/story/25/07/11/1945201/jpmorgan-tells-fintechs-they-have-to-pay-up-for-customer-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 23:20:00](https://tech.slashdot.org/story/25/07/11/2246210/openais-windsurf-deal-is-off-windsurfs-ceo-is-going-to-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Windsurf Deal Is Off, Windsurf&apos;s CEO Is Going To Google](https://tech.slashdot.org/story/25/07/11/2246210/openais-windsurf-deal-is-off-windsurfs-ceo-is-going-to-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -111,7 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-11, 21:50:51](https://news.ycombinator.com/item?id=44537113) - [A software conference that advocates for quality](https://bettersoftwareconference.com/)
 * [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 21:22:00](https://apple.slashdot.org/story/25/07/11/1812202/apple-adds-2013-mac-pro-2019-macbook-air-airports-to-vintage-list?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Adds 2013 Mac Pro, 2019 MacBook Air, AirPorts To Vintage List](https://apple.slashdot.org/story/25/07/11/1812202/apple-adds-2013-mac-pro-2019-macbook-air-airports-to-vintage-list?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-11, 21:01:21](https://news.ycombinator.com/item?id=44536748) - [Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)](https://careers.activeloop.ai/)
 * [2025-07-11, 20:40:00](https://science.slashdot.org/story/25/07/11/1750256/us-abandons-hunt-for-signal-of-cosmic-inflation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Abandons Hunt For Signal of Cosmic Inflation](https://science.slashdot.org/story/25/07/11/1750256/us-abandons-hunt-for-signal-of-cosmic-inflation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 20:26:40](https://lobste.rs/s/k6njx6/rethinking_our_adoption_strategy) - [Rethinking our Adoption Strategy](https://www.youtube.com/watch?v=YPAaUFGrlEE)
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
@@ -120,22 +95,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-11, 19:46:00](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss) - [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss)
 * [2025-07-11, 19:29:00](https://lobste.rs/s/rqkuul/placing_functions) - [Placing functions](https://blog.yoshuawuyts.com/placing-functions/)
 * [2025-07-11, 19:26:05](https://lobste.rs/s/ugyxdj/new_date_wtf) - [new Date(\&quot;wtf\&quot;)](https://jsdate.wtf/)
+* [2025-07-11, 19:24:24](https://news.ycombinator.com/item?id=44535977) - [Introduction to Digital Filters (2024)](https://ccrma.stanford.edu/~jos/filters/)
 * [2025-07-11, 19:24:07](https://lobste.rs/s/ltp2yr/wasm_hard_way_porting_chicory_compiler) - [Wasm the Hard Way: Porting the Chicory Compiler to Android](https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/)
 * [2025-07-11, 19:20:00](https://slashdot.org/story/25/07/11/1734217/few-danes-work-until-official-retirement-age-as-government-pushes-it-to-70?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Few Danes Work Until Official Retirement Age as Government Pushes It to 70](https://slashdot.org/story/25/07/11/1734217/few-danes-work-until-official-retirement-age-as-government-pushes-it-to-70?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
-* [2025-07-11, 18:40:00](https://news.slashdot.org/story/25/07/11/1728246/how-hot-can-it-get-literally-scientists-weigh-in?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Hot Can It Get, Literally? Scientists Weigh In](https://news.slashdot.org/story/25/07/11/1728246/how-hot-can-it-get-literally-scientists-weigh-in?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-11, 18:01:35](https://lobste.rs/s/w7ft2q/evtx_viewer_windows_event_log_explorer) - [EVTX Viewer - Windows Event Log Explorer](https://omerbenamram.github.io/evtx/)
 * [2025-07-11, 17:39:49](https://lobste.rs/s/c5cxwu/cybersecurity_risk_assessment_request) - [Cybersecurity Risk Assessment Request](https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 17:21:43](https://lobste.rs/s/eagdbx/jank_is_c) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 17:19:55](https://lobste.rs/s/ccyux0/building_simple_router_with_openbsd) - [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
-* [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
 * [2025-07-11, 15:19:42](https://lobste.rs/s/kphnsz/efficiency_sparse_hash_table) - [Efficiency of a sparse hash table](https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html)
 * [2025-07-11, 15:02:00](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss) - [What is AGI? Nobody Agrees, and It&apos;s Tearing Microsoft and OpenAI Apart.](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini&apos;s storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
 * [2025-07-11, 13:33:17](https://lobste.rs/s/35tpxv/clustered_postgresql) - [Clustered PostgreSQL](https://arch.dog/bark/clustered-postgresql)
 * [2025-07-11, 13:24:30](https://lobste.rs/s/vzkmtj/forget_borrow_checkers_c3_solved_memory) - [Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
-* [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repaste Your MacBook](https://christianselig.com/2025/07/repaste-macbook/)
+* [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repasting a MacBook](https://christianselig.com/2025/07/repaste-macbook/)
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson&apos;s psychedelic user interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 09:40:31](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss)
@@ -157,6 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-09, 23:08:00](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss) - [How to Stop Your LG or Samsung Smart TV From Tracking You](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss)
 * [2025-07-09, 18:18:00](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss) - [EU Rattles its Purse and AI Datacenter Builders Come Running](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss)
 * [2025-07-09, 16:06:03](https://news.ycombinator.com/item?id=44511722) - [Rice rebels: Research reveals grain&apos;s brewing benefits](https://phys.org/news/2025-06-rice-rebels-reveals-grain-brewing.html)
+* [2025-07-09, 14:50:30](https://news.ycombinator.com/item?id=44510717) - [Only on Nantucket: The Curious Case of the \&quot;Stolen\&quot; Mercedes](https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the)
 * [2025-07-09, 13:28:00](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss) - [MIT Engineers Develop Electrochemical Sensors for Cheap, Disposable Diagnostics](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss)
 * [2025-07-09, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss) - [Stop Killing Games Finally Reaches One Million Signature Milestone, but There&apos;s a Pretty Big Catch](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss)
 * [2025-07-09, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss) - [Inside the Australian Lab Growing a Biological Computer](https://soylentnews.org/article.pl?sid=25/07/07/2215236&amp;from=rss)
