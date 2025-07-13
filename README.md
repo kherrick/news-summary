@@ -1,50 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Culture and Literature
 
-* [Hacking coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html) - An exploration of implementing coroutines in C, detailing the challenges and technical feats achieved.
+* [Ursula K. Le Guin: Still Battling the Powers That Be](https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/) ([comments](https://news.ycombinator.com/item?id=44549953)) - A retrospective on Ursula K. Le Guin, the renowned author celebrated for challenging societal norms through her speculative fiction.
 
-* [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/) - A deep dive into Zig's new asynchronous I/O mechanism, offering performance insights for developers.
+## Science and Space
 
-* [The Design and Implementation of Extensible Records for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-3/) - Discusses the mechanics of extensible record types in Rust under the Contextual Generic Programming paradigm.
+* [Mysterious pre-Islamic script from Oman finally deciphered](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered) ([comments](https://news.ycombinator.com/item?id=44549145)) - Researchers unveil the mysteries of an ancient script, offering new insights into pre-Islamic history.
 
-* [Hill Space: Neural nets that do perfect arithmetic (to 10⁻¹⁶ precision)](https://hillspace.justindujardin.com/) - A fascinating look into neural networks capable of performing arithmetic operations with extreme levels of precision.
+* [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Aiming to unlock the distant past of the universe, astronomers propose a satellite stationed on the Moon's far side.
 
-* [How I found a bypass in Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/) - A technical breakdown of circumventing Google's measures to block ad-blockers.
+## Technology and Programming
 
-* [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/) - Chronicles the journey of implementing a C compiler and the insights gleaned along the way.
+* [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/) ([comments](https://news.ycombinator.com/item?id=44549134)) - An exploration of how collaborative citizen science gaming platforms are contributing to medical discoveries.
 
-## Space and Science Exploration
+* [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297) ([comments](https://news.ycombinator.com/item?id=44548610)) - A user advocates for a revenue model to support Firefox’s continued independence and innovation.
 
-* [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece) - Highlights India's progress in space exploration as ISRO tests critical propulsion systems for its human spaceflight program.
+* [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html) ([comments](https://news.ycombinator.com/item?id=44546640)) - A dive into adding coroutine support in C programming for async solutions.
 
-* [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Plans for a groundbreaking satellite to study ancient radio waves from the far side of the Moon.
+* [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/) ([comments](https://lobste.rs/s/mtcsug/zig_s_new_async_i_o)) - An update on Zig's advancements with a new model for asynchronous input/output operations.
 
-* [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&from=rss) - Innovative laser technologies setting new benchmarks for proton acceleration.
+## Entertainment and Media
 
-## Artificial Intelligence and Automation
+* [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson) ([comments](https://news.ycombinator.com/item?id=44548353)) - Reflections on William Gibson's iconic cyberpunk novel and its relevance in today's context.
 
-* [Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model](https://twitter.com/Kimi_Moonshot/status/1943687594560332025) - A breakthrough model pushing AI capabilities in understanding and generation.
+* [DC's 'Brighter' Superman Movie Smashes Box Offices Expectations](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-offices-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-offices-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - The latest Superman installment marks its return with a refreshing take and a surprising blockbuster performance.
 
-* [Programming Affordances That Invite Mistakes](https://thetechenabler.substack.com/p/programming-affordance-when-a-languages) - A reflection on how programming languages can inadvertently lead developers to common errors.
+## Security and Vulnerabilities
 
-* [AI Slows Down Some Experienced Software Developers, Study Finds](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An investigation into unexpected productivity dips among seasoned developers using AI tools.
+* [How I found a bypass in Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/) ([comments](https://news.ycombinator.com/item?id=44547089)) - Insights into circumventing Google’s adblock restrictions, highlighting ongoing tactics in online ad wars.
 
-## Cybersecurity and Privacy
+* [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss)) - Experts debunk lingering myths about reviving the extinct Moa species.
 
-* ['123456' Password Exposed Chats for 64 Million McDonald's Job Applicants](https://soylentnews.org/article.pl?sid=25/07/12/1213215&from=rss) - A major security incident highlighting vulnerabilities in password practices.
+## Environment and Innovation
 
-* [Malware found in official gravityforms plugin indicating supply chain breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/) - Analysis of malicious software found in a widely-used WordPress plugin.
+* [Amelia Earhart's Airplane May Finally Have Been Found](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A potential breakthrough in the longstanding mystery of aviation history.
 
-* [NVIDIA Warns Its High-End GPUs May Be Vulnerable to Rowhammer Attacks](https://hardware.slashdot.org/story/25/07/12/199238/nvidia-warns-its-high-end-gpus-may-be-vulnerable-to-rowhammer-attacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Warning on potential vulnerabilities in NVIDIA’s top-tier GPUs.
-
-## Cultural and Historical Insights
-
-* [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson) - A retrospective analysis and review of William Gibson’s seminal cyberpunk novel.
-
-* [Amelia Earhart's Airplane May Finally Have Been Found](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New evidence pointing to the discovery of the legendary aviator's plane.
-
-* [Derinkuyu: A Subterranean Marvel of Ancient Engineering with Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&from=rss) - An exploration of an ancient underground city showcasing human ingenuity.
+* [Edward Burtynsky's monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale) ([comments](https://news.ycombinator.com/item?id=44547089)) - A photo project documenting humanity's environmental footprint on an unprecedented scale.
 
 ---
 
@@ -71,16 +63,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-13, 12:34:33](https://news.ycombinator.com/item?id=44549953) - [Ursula K. Le Guin: Still Battling the Powers That Be](https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/)
+* [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [You have a fake North Korean IT worker problem](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
+* [2025-07-13, 11:34:00](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-offices-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DC&apos;s &apos;Brighter&apos; Superman Movie Smashes Box Offices Expectations](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-offices-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [Mysterious pre-Islamic script from Oman finally deciphered](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
+* [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 * [2025-07-13, 09:52:04](https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0) - [perldelta - what is new for perl v5.42.0](https://perldoc.perl.org/perldelta)
+* [2025-07-13, 09:44:47](https://news.ycombinator.com/item?id=44548906) - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 * [2025-07-13, 09:40:00](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss) - [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
-* [2025-07-13, 08:19:04](https://news.ycombinator.com/item?id=44548519) - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 * [2025-07-13, 08:19:04](https://lobste.rs/s/1yqzqb/design_implementation_extensible) - [The Design and Implementation of Extensible Records for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-3/)
 * [2025-07-13, 08:17:48](https://lobste.rs/s/ra4nyf/dict_unpacking_at_home_can_we_have_dict) - [dict-unpacking-at-home: can we have dict unpacking in python?](https://github.com/asottile/dict-unpacking-at-home)
+* [2025-07-13, 08:16:02](https://news.ycombinator.com/item?id=44548503) - [Why Lua Beats MicroPython for Serious Embedded Devs](https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs)
 * [2025-07-13, 07:48:44](https://news.ycombinator.com/item?id=44548353) - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 * [2025-07-13, 07:34:00](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-13, 07:29:00](https://news.ycombinator.com/item?id=44548252) - [Gmail AI hallucinates, distorts email contents](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)
-* [2025-07-13, 06:37:48](https://news.ycombinator.com/item?id=44548022) - [Hill Space: Neural nets that do perfect arithmetic (to 10⁻¹⁶ precision)](https://hillspace.justindujardin.com/)
 * [2025-07-13, 06:20:11](https://lobste.rs/s/ubpr2o/migrating_my_nas_from_coreos_flatcar) - [Migrating my NAS from CoreOS/Flatcar Linux to NixOS](https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/)
 * [2025-07-13, 04:56:00](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss) - [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss)
 * [2025-07-13, 03:34:00](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amelia Earhart&apos;s Airplane May Finally Have Been Found](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,9 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-12, 19:29:00](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss) - [Semiconductor Industry Could Short Out as Copper Runs Dry](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google&apos;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 18:34:00](https://slashdot.org/story/25/07/12/1730242/microsoft-outlook-malfunctioned-for-over-21-hours-wednesday-and-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Outlook Malfunctioned For Over 21 Hours  Wednesday and Thursday](https://slashdot.org/story/25/07/12/1730242/microsoft-outlook-malfunctioned-for-over-21-hours-wednesday-and-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
-* [2025-07-12, 18:14:37](https://news.ycombinator.com/item?id=44543865) - [Supreme Court&apos;s ruling practically wipes out free speech for sex writing online](https://ellsberg.substack.com/p/free-speech)
-* [2025-07-12, 17:41:44](https://news.ycombinator.com/item?id=44543638) - [Show HN: I made a JSFiddle-style playground to test and share prompts fast](https://langfa.st/)
 * [2025-07-12, 17:34:00](https://hardware.slashdot.org/story/25/07/12/044242/much-of-the-worlds-solar-gear-is-made-using-fossil-power-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Much of the World&apos;s Solar Gear is Made Using Fossil Power in China](https://hardware.slashdot.org/story/25/07/12/044242/much-of-the-worlds-solar-gear-is-made-using-fossil-power-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-12, 16:34:00](https://slashdot.org/story/25/07/12/1550205/bitcoin-hits-an-all-time-high-of-118000-up-21-for-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Hits an All-Time High of $118,000, Up 21% for 2025](https://slashdot.org/story/25/07/12/1550205/bitcoin-hits-an-all-time-high-of-118000-up-21-for-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -121,14 +114,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-12, 14:34:00](https://tech.slashdot.org/story/25/07/12/0326234/before-air-india-boeing-787-crash-fuel-switches-were-cut-off-preliminary-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Before Air India Boeing 787 Crash, Fuel Switches Were Cut Off, Preliminary Report Says](https://tech.slashdot.org/story/25/07/12/0326234/before-air-india-boeing-787-crash-fuel-switches-were-cut-off-preliminary-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 13:00:00](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Slows Down Some Experienced Software Developers, Study Finds](https://developers.slashdot.org/story/25/07/12/016247/ai-slows-down-some-experienced-software-developers-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [The fish kick may be the fastest subsurface swim stroke yet (2015)](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
-* [2025-07-12, 12:23:33](https://news.ycombinator.com/item?id=44541565) - [Working through &apos;Writing A C Compiler&apos;](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 10:00:00](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Please Don&apos;t Cut Funds For Space Traffic Control, Industry Begs Congress](https://science.slashdot.org/story/25/07/12/0052223/please-dont-cut-funds-for-space-traffic-control-industry-begs-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss)
 * [2025-07-12, 08:45:15](https://news.ycombinator.com/item?id=44540402) - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 * [2025-07-12, 08:14:02](https://news.ycombinator.com/item?id=44540241) - [New Date(\&quot;wtf\&quot;) – How well do you know JavaScript&apos;s Date class?](https://jsdate.wtf)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
-* [2025-07-12, 07:00:00](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar Was the Leading Source of Electricity In the EU Last Month](https://hardware.slashdot.org/story/25/07/12/0045216/solar-was-the-leading-source-of-electricity-in-the-eu-last-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-12, 06:41:59](https://news.ycombinator.com/item?id=44539879) - [Malware found in official gravityforms plugin indicating supply chain breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss) - [CEO Claims Intel No Longer In The \&quot;Top 10 Semiconductor Companies\&quot; ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss)
 * [2025-07-12, 01:08:39](https://lobste.rs/s/gw7wq0/hanami_elephant_room) - [Hanami and the elephant in the room](https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/)
 * [2025-07-12, 00:31:00](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - [Derinkuyu: A Subterranean Marvel of Ancient Engineering with  Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss)
@@ -141,12 +131,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
 * [2025-07-11, 15:11:24](https://news.ycombinator.com/item?id=44533044) - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
 * [2025-07-11, 15:02:00](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss) - [What is AGI? Nobody Agrees, and It&apos;s Tearing Microsoft and OpenAI Apart.](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss)
-* [2025-07-11, 14:41:47](https://news.ycombinator.com/item?id=44532674) - [Bayeux Tapestry Will Return to the U.K. In 950 Years](https://news.artnet.com/art-world/bayeux-tapestry-british-museum-loan-2665313)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss)
 * [2025-07-11, 07:27:47](https://news.ycombinator.com/item?id=44529274) - [C++: Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
 * [2025-07-11, 03:30:00](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss) - [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss)
 * [2025-07-11, 02:00:10](https://news.ycombinator.com/item?id=44527739) - [Chrome&apos;s hidden X-Browser-Validation header reverse engineered](https://github.com/dsekz/chrome-x-browser-validation-header)
 * [2025-07-11, 00:38:06](https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges) - [Anubis now supports non-JS challenges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
+* [2025-07-11, 00:21:16](https://news.ycombinator.com/item?id=44527172) - [Axon&apos;s Draft One AI Police Report Generator Is Designed to Defy Transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)
 * [2025-07-10, 22:43:00](https://soylentnews.org/article.pl?sid=25/07/09/1114240&amp;from=rss) - [AI is Scraping the Web, but the Web is Fighting Back](https://soylentnews.org/article.pl?sid=25/07/09/1114240&amp;from=rss)
 * [2025-07-10, 17:58:00](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss) - [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss)
@@ -154,10 +144,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-10, 11:59:35](https://news.ycombinator.com/item?id=44520000) - [HNSW as abstract data structure: video intro to Redis vector sets](https://www.youtube.com/watch?v=kVApsFUeuEA)
 * [2025-07-10, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss) - [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss)
 * [2025-07-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/08/1724218&amp;from=rss) - [The Curious Rise of Giant Tablets on Wheels](https://soylentnews.org/article.pl?sid=25/07/08/1724218&amp;from=rss)
+* [2025-07-09, 23:32:53](https://news.ycombinator.com/item?id=44515783) - [Notes on Graham&apos;s ANSI Common Lisp](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
 * [2025-07-09, 23:08:00](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss) - [How to Stop Your LG or Samsung Smart TV From Tracking You](https://soylentnews.org/article.pl?sid=25/07/08/1129207&amp;from=rss)
 * [2025-07-09, 22:32:41](https://news.ycombinator.com/item?id=44515379) - [Capturing the International Space Station (2022)](https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station)
 * [2025-07-09, 22:10:37](https://news.ycombinator.com/item?id=44515210) - [Two-step system makes plastic from carbon dioxide, water and electricity](https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html)
 * [2025-07-09, 18:18:00](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss) - [EU Rattles its Purse and AI Datacenter Builders Come Running](https://soylentnews.org/article.pl?sid=25/07/08/1122201&amp;from=rss)
+* [2025-07-09, 16:59:30](https://news.ycombinator.com/item?id=44512350) - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
 * [2025-07-09, 13:28:00](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss) - [MIT Engineers Develop Electrochemical Sensors for Cheap, Disposable Diagnostics](https://soylentnews.org/article.pl?sid=25/07/08/1113258&amp;from=rss)
 * [2025-07-09, 09:33:57](https://news.ycombinator.com/item?id=44507931) - [Experimental imperative-style music sequence generator engine](https://github.com/renoise/pattrns)
 * [2025-07-09, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss) - [Stop Killing Games Finally Reaches One Million Signature Milestone, but There&apos;s a Pretty Big Catch](https://soylentnews.org/article.pl?sid=25/07/07/2242255&amp;from=rss)
