@@ -1,54 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Open Source Developments
+## Technology and Software Innovations
 
-* [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut) - An open-source video editing tool that serves as an alternative to CapCut, offering creators a free and customizable solution.
+* [Stepanov’s biggest blunder](https://mmapped.blog/posts/43-stepanovs-biggest-blunder) discusses lessons from C++ pioneer Alexander Stepanov's programming decisions. ([Comments](https://lobste.rs/s/zyiibk/stepanov_s_biggest_blunder))
 
-* [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab) - A workbench designed to simplify reverse-engineering of Android applications directly within VS Code.
+* [Improving AVIF in Open Source](https://halide.cx/blog/improving-avif-in-open-source/index.html) explains advancements in AVIF image format and its benefits to the open-source community. ([Comments](https://lobste.rs/s/hvo6lf/improving_avif_open_source))
 
-* [How I found a bypass in Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/) - A post detailing methods used to bypass Google's latest anti-adblock measures, with technical insights.
+* [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh) introduces a privacy-respecting grammar tool for personal use. ([Comments](https://news.ycombinator.com/item?id=44556684))
 
-* [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/) - Highlights innovations in Zig's new asynchronous I/O system and its implications for developers.
+* [Let’s Learn x86-64 Assembly! Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html) provides a beginner-friendly guide to x86-64 assembly programming. ([Comments](https://lobste.rs/s/rqewmw/let_s_learn_x86_64_assembly_part_0_setup))
 
-* [Programming Language Theory has a public relations problem](https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/) - Exploration of challenges in making programming language theory more accessible to the broader public.
+* [Store tags after payloads](https://www.scattered-thoughts.net/writing/store-tags-after-payloads/) delves into efficient data storage strategies in software. ([Comments](https://lobste.rs/s/x9s2mu/store_tags_after_payloads))
 
-* [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet) - A tool designed to mimic LeetCode-style exercises, customized for learning LLMs and AI models.
+* [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut) introduces a free, open-source alternative for video editing. ([Comments](https://news.ycombinator.com/item?id=44553752))
 
-* [Notes on Graham's ANSI Common Lisp](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html) - Detailed notes on influential concepts from Paul Graham's ANSI Common Lisp book.
+* [How I found a bypass in Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/) explores how a researcher uncovered a workaround to Google's ad-blocking techniques. ([Comments](https://lobste.rs/s/pbj1da/how_i_found_bypass_google_s_big_anti))
 
-* [Hacking coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html) - A technical deep-dive on implementing coroutines into the C programming language.
+## Scientific Discoveries and Environmental Updates
 
-## Scientific Discoveries and Space Exploration
+* [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/) explores funding challenges faced by key astronomical observatories. ([Comments](https://news.ycombinator.com/item?id=44555804))
 
-* [Black hole merger challenges our understanding of black hole formation](https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197) - Astronomers have detected a massive black hole merger that defies existing models of black hole formation.
+* [Black hole merger challenges our understanding of black hole formation](https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197) sheds light on a massive black hole merger that defies theoretical predictions. ([Comments](https://news.ycombinator.com/item?id=44555220))
 
-* [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Plans to detect ancient radio waves using a satellite on the Moon's far side.
+* [Underwater Turbine Spins 6.5 Years Off Scotland’s Coast, Proving Viability of Tidal Energy](https://news.slashdot.org/story/25/07/12/0428216/underwater-turbine-spins-65-years-off-scotlands-coast-proving-viability-of-tidal-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights renewable energy advancements in tidal power. ([Comments](https://news.slashdot.org/story/25/07/12/0428216/underwater-turbine-spins-65-years-off-scotlands-coast-proving-viability-of-tidal-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/) - Financial limitations put the operational futures of the James Webb and Hubble telescopes at risk.
+* [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed) introduces a mission to uncover ancient cosmic radio signals. ([Comments](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Amelia Earhart's Airplane May Finally Have Been Found](https://tech.slashdot.org/story/25/07/13/0215218/amelia-earharts-airplane-may-finally-have-been-found?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Possible discovery of Amelia Earhart's long-lost aircraft may rewrite aviation history.
+## Society and Industry Insights
 
-## Economic and Industrial Challenges
+* [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/) delves into the rise of deceptive operations in Myanmar. ([Comments](https://news.ycombinator.com/item?id=44556406))
 
-* [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/) - Automotive giant Stellantis faces financial turmoil in China, with massive debt obligations.
+* [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/) highlights financial challenges faced by the global automaker. ([Comments](https://news.ycombinator.com/item?id=44555836))
 
-* [More Than Half of Carbon Credit Auditors Have Signed Off on 'Overclaimed' Benefits](https://news.slashdot.org/story/25/07/14/0058203/more-than-half-of-carbon-credit-auditors-have-signed-off-on-overclaimed-benefits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigative report revealing significant flaws in carbon credit auditing and accountability.
+* [Some Amazon Warehouses are Losing Hundreds of Workers After Changes in Legal Status](https://yro.slashdot.org/story/25/07/13/2345250/some-amazon-warehouses-are-losing-hundreds-of-workers-after-changes-in-legal-status?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores worker challenges following policy shifts at Amazon. ([Comments](https://yro.slashdot.org/story/25/07/13/2345250/some-amazon-warehouses-are-losing-hundreds-of-workers-after-changes-in-legal-status?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Zombie Fabs Plague China's Chipmaking Ambitions, Failures Burning Tens of Billions of Dollars](https://soylentnews.org/article.pl?sid=25/07/12/1336231&from=rss) - Examination of how failed semiconductor factories are impacting China's economic goals.
+## Historical and Ethical Reflections
 
-* [Hypercapitalism and the AI talent wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent) - Insight into the competitive market dynamics driving AI talent acquisition.
+* [1960s Schools Experiment That Created a New Alphabet and Left Thousands of Children Unable to Spell](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss) examines how educational experiments in the '60s had unexpected impacts on literacy. ([Comments](https://soylentnews.org/article.pl?sid=25/07/13/008207&from=rss))
 
-* [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90) - Market dominance in food delivery raises economic and consumer concerns.
+* [The Scourge of Arial (2001)](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/) critiques the widespread adoption of the Arial font in design history. ([Comments](https://news.ycombinator.com/item?id=44555317))
 
-## Cybersecurity and Privacy
-
-* [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&from=rss) - Security vulnerabilities in Bluetooth systems threaten millions of modern vehicles.
-
-* [Does showing seconds in the system tray actually use more power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power) - Examines the technical implications of additional system tray features on battery consumption.
-
-* [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424) - Study on risks of alignment issues in fine-tuning large language models.
-
-* [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&from=rss) - Investigation into deportation risks caused by flawed governmental evaluation software.
+* [70,000 Years Ago Humans Underwent A Major Shift – That’s Why We Exist](https://soylentnews.org/article.pl?sid=25/07/11/238234&from=rss) explores pivotal evolutionary changes in human history. ([Comments](https://soylentnews.org/article.pl?sid=25/07/11/238234&from=rss))
 
 ---
 
@@ -75,6 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-14, 06:13:27](https://lobste.rs/s/zyiibk/stepanov_s_biggest_blunder) - [Stepanov’s biggest blunder](https://mmapped.blog/posts/43-stepanovs-biggest-blunder)
+* [2025-07-14, 06:00:34](https://lobste.rs/s/olsvyy/c_portable_assembly_language_1997) - [C-: A Portable Assembly Language (1997)](https://www.microsoft.com/en-us/research/publication/c-a-portable-assembly-language/)
+* [2025-07-14, 05:57:15](https://lobste.rs/s/hvo6lf/improving_avif_open_source) - [Improving AVIF in Open Source](https://halide.cx/blog/improving-avif-in-open-source/index.html)
+* [2025-07-14, 05:37:13](https://lobste.rs/s/snv4c3/fairlight_tv_127_d011_mayhem) - [FairLight TV #127, $D011 Mayhem](https://www.youtube.com/watch?v=0KhH4YrUsXo)
+* [2025-07-14, 05:36:50](https://lobste.rs/s/2gmuhq/how_does_screen_work) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
+* [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
+* [2025-07-14, 04:59:00](https://developers.slashdot.org/story/25/07/14/0456224/ada-beats-sql-perl-and-fortan-for-10-spot-on-programming-language-popularity-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ada Beats SQL, Perl, and Fortan for #10 Spot on Programming Language Popularity Index](https://developers.slashdot.org/story/25/07/14/0456224/ada-beats-sql-perl-and-fortan-for-10-spot-on-programming-language-popularity-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-14, 04:16:29](https://news.ycombinator.com/item?id=44556406) - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
 * [2025-07-14, 02:17:06](https://news.ycombinator.com/item?id=44555836) - [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
 * [2025-07-14, 02:10:54](https://news.ycombinator.com/item?id=44555804) - [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
 * [2025-07-14, 02:02:46](https://lobste.rs/s/x9s2mu/store_tags_after_payloads) - [Store tags after payloads](https://www.scattered-thoughts.net/writing/store-tags-after-payloads/)
@@ -103,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-13, 17:48:52](https://lobste.rs/s/wjdfe5/apple_trace_cache) - [Apple Trace Cache](https://www.realworldtech.com/forum/?threadid=223220)
 * [2025-07-13, 17:47:00](https://science.slashdot.org/story/25/07/13/1743232/some-gut-microbes-can-absorb-and-help-expel-forever-chemicals-study-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Gut Microbes Can Absorb and Help Expel &apos;Forever Chemicals&apos;, Study Shows](https://science.slashdot.org/story/25/07/13/1743232/some-gut-microbes-can-absorb-and-help-expel-forever-chemicals-study-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 17:19:31](https://lobste.rs/s/v9qbqc/haiku_activity_contract_report_june_2025) - [Haiku Activity &amp; Contract Report, June 2025](https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/)
-* [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does showing seconds in the system tray actually use more power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 * [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
@@ -111,21 +110,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A technical look at Iran&apos;s internet shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 16:34:00](https://news.slashdot.org/story/25/07/12/0428216/underwater-turbine-spins-65-years-off-scotlands-coast-proving-viability-of-tidal-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Underwater Turbine Spins 6.5 Years Off Scotland&apos;s Coast, Proving Viability of Tidal Energy](https://news.slashdot.org/story/25/07/12/0428216/underwater-turbine-spins-65-years-off-scotlands-coast-proving-viability-of-tidal-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 16:30:34](https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic) - [detour: A detour through the Linux dynamic linker](https://github.com/graphitemaster/detour)
-* [2025-07-13, 15:57:34](https://news.ycombinator.com/item?id=44551318) - [Zig&apos;s new I/O: function coloring is inevitable?](https://blog.ivnj.org/post/function-coloring-is-inevitable)
 * [2025-07-13, 15:34:00](https://tech.slashdot.org/story/25/07/12/0624259/chinas-omoway-announces-a-new-self-driving-electric-scooter-named-omo-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Omoway Announces a New Self-Driving Electric Scooter Named &apos;Omo X&apos;](https://tech.slashdot.org/story/25/07/12/0624259/chinas-omoway-announces-a-new-self-driving-electric-scooter-named-omo-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Fine dining restaurants researching guests to make their dinner unforgettable](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 14:34:00](https://games.slashdot.org/story/25/07/13/0437254/nintendo-banned-switch-2-owner-for-playing-a-used-switch-1-game-they-bought-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Banned Switch 2 Owner For Playing a Used Switch 1 Game They Bought Online](https://games.slashdot.org/story/25/07/13/0437254/nintendo-banned-switch-2-owner-for-playing-a-used-switch-1-game-they-bought-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 14:29:56](https://lobste.rs/s/cxucew/bringing_virtualization_x86) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)](https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
 * [2025-07-13, 14:28:00](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss) - [Man&apos;s Ghastly Festering Ulcer Stumps Doctors—Until They Cut Out a Wedge of Flesh](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
-* [2025-07-13, 13:45:39](https://lobste.rs/s/lkbawj/local_chatbot_rag_with_freebsd_knowledge) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 * [2025-07-13, 11:34:00](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-office-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DC&apos;s &apos;Brighter&apos; Superman Movie Smashes Box Office Expectations](https://entertainment.slashdot.org/story/25/07/12/2317208/dcs-brighter-superman-movie-smashes-box-office-expectations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 09:52:04](https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0) - [perldelta - what is new for perl v5.42.0](https://perldoc.perl.org/5.42.0/perldelta)
 * [2025-07-13, 09:40:00](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss) - [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss)
 * [2025-07-13, 08:19:04](https://lobste.rs/s/1yqzqb/design_implementation_extensible) - [The Design and Implementation of Extensible Records for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-3/)
-* [2025-07-13, 08:17:48](https://lobste.rs/s/ra4nyf/dict_unpacking_at_home_can_we_have_dict) - [dict-unpacking-at-home: can we have dict unpacking in python?](https://github.com/asottile/dict-unpacking-at-home)
 * [2025-07-13, 07:34:00](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Plan Far Side of the Moon Satellite to Hear Billion-Year-Old Radio Waves](https://science.slashdot.org/story/25/07/13/031226/astronomers-plan-far-side-of-the-moon-satellite-to-hear-billion-year-old-radio-waves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-13, 06:20:11](https://lobste.rs/s/ubpr2o/migrating_my_nas_from_coreos_flatcar) - [Migrating my NAS from CoreOS/Flatcar Linux to NixOS](https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/)
 * [2025-07-13, 04:56:00](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss) - [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss)
@@ -133,15 +129,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-13, 02:28:06](https://lobste.rs/s/hul45q/constrained_languages_are_easier) - [constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-13, 01:53:33](https://lobste.rs/s/pbj1da/how_i_found_bypass_google_s_big_anti) - [How I found a bypass in Google&apos;s big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-13, 01:34:00](https://tech.slashdot.org/story/25/07/13/0113254/ev-sets-new-record-for-longest-trip-on-a-single-charge---749-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Sets New Record for Longest Trip on a Single Charge - 749 Miles](https://tech.slashdot.org/story/25/07/13/0113254/ev-sets-new-record-for-longest-trip-on-a-single-charge---749-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-13, 01:12:41](https://lobste.rs/s/oqaxxt/hacking_coroutines_into_c) - [Hacking coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 * [2025-07-13, 00:14:00](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss) - [&apos;123456&apos; Password Exposed Chats for 64 Million McDonald&apos;s Job Applicants](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss)
 * [2025-07-13, 00:13:27](https://lobste.rs/s/mtcsug/zig_s_new_async_i_o) - [Zig&apos;s New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+* [2025-07-12, 23:55:39](https://news.ycombinator.com/item?id=44546265) - [Show HN: ArchGW – An intelligent edge and service proxy for agents](https://github.com/katanemo/archgw/)
 * [2025-07-12, 22:46:58](https://lobste.rs/s/4tgs7o/simple_live_reload_for_developing_static) - [Simple live reload for developing static sites](https://leanrada.com/notes/simple-live-reload/)
-* [2025-07-12, 22:34:00](https://news.slashdot.org/story/25/07/12/0534248/firefox-is-fine-the-people-running-it-are-not?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Firefox is Fine. The People Running It are Not&apos;](https://news.slashdot.org/story/25/07/12/0534248/firefox-is-fine-the-people-running-it-are-not?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-12, 21:57:37](https://lobste.rs/s/cbchxp/don_t_animate_height) - [Don&apos;t animate height](https://www.granola.ai/blog/dont-animate-height)
-* [2025-07-12, 21:44:03](https://lobste.rs/s/ijyz5o/easy_dynamic_dispatch_using_glibc) - [Easy dynamic dispatch using GLIBC Hardware Capabilities](https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/)
 * [2025-07-12, 19:29:00](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss) - [Semiconductor Industry Could Short Out as Copper Runs Dry](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss)
-* [2025-07-12, 16:16:40](https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler) - [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 14:45:00](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss) - [70,000 Years Ago Humans Underwent A Major Shift – That’s Why We Exist ](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss)
 * [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss) - [CEO Claims Intel No Longer In The \&quot;Top 10 Semiconductor Companies\&quot; ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss)
@@ -149,18 +142,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-11, 19:46:00](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss) - [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss)
 * [2025-07-11, 15:02:00](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss) - [What is AGI? Nobody Agrees, and It&apos;s Tearing Microsoft and OpenAI Apart.](https://soylentnews.org/article.pl?sid=25/07/11/0518225&amp;from=rss)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
-* [2025-07-11, 13:01:07](https://news.ycombinator.com/item?id=44531642) - [How secure is your Bitcoin wallet&apos;s mnemonic seed phrase?](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 * [2025-07-11, 08:15:00](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss) - [Nvidia Has Become the World’s First Company Worth $4 Trillion](https://soylentnews.org/article.pl?sid=25/07/10/0029200&amp;from=rss)
 * [2025-07-11, 03:30:00](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss) - [Apple Just Released an Interesting Coding Language Model](https://soylentnews.org/article.pl?sid=25/07/10/0025232&amp;from=rss)
-* [2025-07-11, 00:21:16](https://news.ycombinator.com/item?id=44527172) - [Axon’s Draft One is designed to defy transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)
 * [2025-07-10, 22:43:00](https://soylentnews.org/article.pl?sid=25/07/09/1114240&amp;from=rss) - [AI is Scraping the Web, but the Web is Fighting Back](https://soylentnews.org/article.pl?sid=25/07/09/1114240&amp;from=rss)
 * [2025-07-10, 20:47:34](https://news.ycombinator.com/item?id=44525405) - [How to scale RL to 10^26 FLOPs](https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops)
 * [2025-07-10, 17:58:00](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss) - [Earth is Going to Spin Much Faster Over the Next Few Months](https://soylentnews.org/article.pl?sid=25/07/09/116236&amp;from=rss)
+* [2025-07-10, 17:30:33](https://news.ycombinator.com/item?id=44523372) - [Burning a Magnesium NeXT Cube (1993)](https://simson.net/ref/1993/cubefire.html)
 * [2025-07-10, 16:21:13](https://news.ycombinator.com/item?id=44522683) - [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
-* [2025-07-10, 13:52:27](https://news.ycombinator.com/item?id=44521108) - [Chimpfluencers Stick Grass in Their Ears and Butts in Latest Viral Trend](https://www.sciencealert.com/chimpfluencers-are-sticking-grass-in-their-ears-and-butts-in-latest-viral-trend)
 * [2025-07-10, 13:32:49](https://news.ycombinator.com/item?id=44520855) - [Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser](https://vidmix.app/ffmpeg-in-plain-english/)
 * [2025-07-10, 13:14:00](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss) - [Compact GeV Proton Acceleration Using Ultra-Intense Lasers](https://soylentnews.org/article.pl?sid=25/07/09/1058230&amp;from=rss)
-* [2025-07-10, 11:43:36](https://news.ycombinator.com/item?id=44519890) - [A job queue in two lines of JavaScript](https://jameshfisher.com/2025/07/07/a-job-queue-in-two-lines-of-js/)
+* [2025-07-10, 11:28:04](https://news.ycombinator.com/item?id=44519776) - [Monitoring My Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
+* [2025-07-10, 10:41:58](https://news.ycombinator.com/item?id=44519470) - [A Century of Quantum Mechanics](https://home.cern/news/news/physics/century-quantum-mechanics)
 * [2025-07-10, 10:30:42](https://news.ycombinator.com/item?id=44519395) - [The underground cathedral protecting Tokyo from floods (2018)](https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods)
 * [2025-07-10, 08:30:00](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss) - [Shrinking Antarctic Sea Ice Is Warming The Ocean Faster Than Expected](https://soylentnews.org/article.pl?sid=25/07/08/2330230&amp;from=rss)
 * [2025-07-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/07/08/1724218&amp;from=rss) - [The Curious Rise of Giant Tablets on Wheels](https://soylentnews.org/article.pl?sid=25/07/08/1724218&amp;from=rss)
