@@ -1,46 +1,26 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Data Breaches
+## Technology and Software Developments
 
-* [Doge Denizen Marko Elez Leaked API Key for XAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/) ([comments](https://news.ycombinator.com/item?id=44567008))
+* [Meta's Superintelligence Lab Considers Shift To Closed AI Model](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta's AI lab deliberates moving towards a closed AI model, signaling a strategic pivot in the development of superintelligent systems. [Comments](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Data brokers are selling flight information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice) ([comments](https://news.ycombinator.com/item?id=44561736))
+* [China's Moonshot Launches Free AI Model Kimi K2 That Outperforms GPT-4 In Key Benchmarks](https://developers.slashdot.org/story/25/07/14/1942209/chinas-moonshot-launches-free-ai-model-kimi-k2-that-outperforms-gpt-4-in-key-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking AI model from China claims superiority to GPT-4 across several performance metrics. [Comments](https://developers.slashdot.org/story/25/07/14/1942209/chinas-moonshot-launches-free-ai-model-kimi-k2-that-outperforms-gpt-4-in-key-benchmarks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [123456' Password Exposed Chats for 64 Million McDonald&apos;s Job Applicants](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss))
+* [Apple Faces Calls To Reboot AI Strategy With Shares Slumping](https://apple.slashdot.org/story/25/07/14/193204/apple-faces-calls-to-reboot-ai-strategy-with-shares-slumping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Weak market performance leads to demands for Apple's AI strategy overhaul. [Comments](https://apple.slashdot.org/story/25/07/14/193204/apple-faces-calls-to-reboot-ai-strategy-with-shares-slumping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Advances and Controversies in Artificial Intelligence
+* [Two Guys Hated Using Comcast, So They Built Their Own Fiber ISP](https://tech.slashdot.org/story/25/07/14/1935230/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Frustration with traditional ISPs leads tech-savvy individuals to construct their own high-speed alternative. [Comments](https://tech.slashdot.org/story/25/07/14/1935230/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta&apos;s Superintelligence Lab Considers Shift To Closed AI Model](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Scientific Discoveries and Observations
 
-* [China&apos;s Moonshot Launches Free AI Model Kimi K2 That Outperforms GPT-4 In Key Benchmarks](https://developers.slashdot.org/story/25/07/14/1942209/chinas-moonshot-launches-free-ai-model-kimi-k2-that-outperforms-gpt-4-in-key-benchmarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/07/14/1942209/chinas-moonshot-launches-free-ai-model-kimi-k2-that-outperforms-gpt-4-in-key-benchmarks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Physicists Start To Pin Down How Stars Forge Heavy Atoms](https://soylentnews.org/article.pl?sid=25/07/14/0413203&from=rss) - Researchers advance in decoding the cosmic formation of heavy elements in stellar processes. [Comments](https://soylentnews.org/article.pl?sid=25/07/14/0413203&from=rss)
 
-* [Cognition AI Buys Windsurf as AI Frenzy Escalates](https://slashdot.org/story/25/07/14/1820248/cognition-ai-buys-windsurf-as-ai-frenzy-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44563324))
+* [Armagh Observatory Marks 230 Years of Recording Weather](https://news.slashdot.org/story/25/07/14/1858223/armagh-observatory-marks-230-years-of-recording-weather?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating over two centuries of collected meteorological data. [Comments](https://news.slashdot.org/story/25/07/14/1858223/armagh-observatory-marks-230-years-of-recording-weather?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html) ([comments](https://news.ycombinator.com/item?id=44565416))
+## Security, Privacy, and Infrastructure
 
-## Scientific Discoveries and Environmental Issues
+* [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf) - An exploration of hidden flaws in AWS Lambda's platform operations. [Comments](https://news.ycombinator.com/item?id=44566996)
 
-* [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date) ([comments](https://news.ycombinator.com/item?id=44564656))
-
-* [East Asian aerosol cleanup has likely contributed to global warming](https://www.nature.com/articles/s43247-025-02527-3) ([comments](https://news.ycombinator.com/item?id=44558034))
-
-* [Armagh Observatory Marks 230 Years of Recording Weather](https://news.slashdot.org/story/25/07/14/1858223/armagh-observatory-marks-230-years-of-recording-weather?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/07/14/1858223/armagh-observatory-marks-230-years-of-recording-weather?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Technology and Innovation Highlights
-
-* [Two Guys Hated Using Comcast, So They Built Their Own Fiber ISP](https://tech.slashdot.org/story/25/07/14/1935230/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/07/14/1935230/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/) ([comments](https://news.ycombinator.com/item?id=44565004))
-
-* [NeuralOS: An operating system powered by neural networks](https://neural-os.com/) ([comments](https://news.ycombinator.com/item?id=44564531))
-
-## Historical and Cultural Insights
-
-* [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/) ([comments](https://news.ycombinator.com/item?id=44566034))
-
-* [Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/) ([comments](https://news.ycombinator.com/item?id=44561818))
-
-* [Derinkuyu: A Subterranean Marvel of Ancient Engineering with Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss))
+* [BulletVPN Shuts Down, Killing Lifetime Members' Subscriptions](https://tech.slashdot.org/story/25/07/14/1420257/bulletvpn-shuts-down-killing-lifetime-members-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The closure of BulletVPN leaves lifetime subscribers without service. [Comments](https://tech.slashdot.org/story/25/07/14/1420257/bulletvpn-shuts-down-killing-lifetime-members-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -67,7 +47,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-07-15, 01:24:45](https://news.ycombinator.com/item?id=44567008) - [Doge Denizen Marko Elez Leaked API Key for XAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/)
+* [2025-07-15, 03:52:38](https://news.ycombinator.com/item?id=44567683) - [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
+* [2025-07-15, 03:45:05](https://lobste.rs/s/jwmx9x/diving_into_plasma_bigscreen) - [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
+* [2025-07-15, 03:43:57](https://news.ycombinator.com/item?id=44567650) - [Show HN: CallFS – S3-style object store in one Go binary (MIT)](https://github.com/ebogdum/callfs)
+* [2025-07-15, 03:15:00](https://soylentnews.org/article.pl?sid=25/07/14/0413203&amp;from=rss) - [Physicists Start To Pin Down How Stars Forge Heavy Atoms](https://soylentnews.org/article.pl?sid=25/07/14/0413203&amp;from=rss)
+* [2025-07-15, 01:50:12](https://news.ycombinator.com/item?id=44567134) - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
 * [2025-07-15, 01:22:49](https://news.ycombinator.com/item?id=44566996) - [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
 * [2025-07-15, 00:34:40](https://news.ycombinator.com/item?id=44566748) - [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
 * [2025-07-15, 00:27:21](https://news.ycombinator.com/item?id=44566714) - [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
@@ -92,7 +76,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-14, 19:30:00](https://yro.slashdot.org/story/25/07/14/1837234/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MoonPay Executives May Have Sent $250,000 To Nigerian Scammer, DoJ Filing Suggests](https://yro.slashdot.org/story/25/07/14/1837234/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 19:23:46](https://lobste.rs/s/l3mnv9/guessing_player_s_sunrise) - [Guessing the player&apos;s sunrise](https://docs.getlost.gg/latest/blog/sun-time/)
-* [2025-07-14, 19:13:16](https://lobste.rs/s/qtfnlu/embedding_user_defined_indexes_apache) - [Embedding User-Defined Indexes in Apache Parquet Files](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 18:50:00](https://slashdot.org/story/25/07/14/1820248/cognition-ai-buys-windsurf-as-ai-frenzy-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cognition AI Buys Windsurf as AI Frenzy Escalates](https://slashdot.org/story/25/07/14/1820248/cognition-ai-buys-windsurf-as-ai-frenzy-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-14, 18:46:44](https://lobste.rs/s/qov0vo/row_polymorphic_programming) - [Row Polymorphic Programming](https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html)
 * [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss)
@@ -107,9 +90,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-14, 17:01:08](https://lobste.rs/s/qhgjks/using_elm_2025) - [Using Elm in 2025](https://engagesoftware.com/news/post/7033/using-elm-in-2025)
 * [2025-07-14, 16:45:00](https://tech.slashdot.org/story/25/07/14/1617251/google-plans-to-combine-chromeos-and-android-into-single-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Plans To Combine ChromeOS and Android Into Single Platform](https://tech.slashdot.org/story/25/07/14/1617251/google-plans-to-combine-chromeos-and-android-into-single-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding user-defined indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
-* [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 * [2025-07-14, 16:05:00](https://tech.slashdot.org/story/25/07/14/165238/zuckerberg-pledges-hundreds-of-billions-for-ai-data-centers-in-superintelligence-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zuckerberg Pledges Hundreds of Billions For AI Data Centers in Superintelligence Push](https://tech.slashdot.org/story/25/07/14/165238/zuckerberg-pledges-hundreds-of-billions-for-ai-data-centers-in-superintelligence-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data brokers are selling flight information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 15:20:00](https://tech.slashdot.org/story/25/07/14/1420257/bulletvpn-shuts-down-killing-lifetime-members-subscriptions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [BulletVPN Shuts Down, Killing Lifetime Members&apos; Subscriptions](https://tech.slashdot.org/story/25/07/14/1420257/bulletvpn-shuts-down-killing-lifetime-members-subscriptions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
@@ -138,6 +119,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-13, 23:45:00](https://soylentnews.org/article.pl?sid=25/07/13/008207&amp;from=rss) - [1960s Schools Experiment That Created a New Alphabet and Left Thousands of Children Unable to Spell](https://soylentnews.org/article.pl?sid=25/07/13/008207&amp;from=rss)
 * [2025-07-13, 20:34:28](https://lobste.rs/s/byp59z/programming_language_theory_has_public) - [Programming Language Theory has a public relations problem](https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/)
 * [2025-07-13, 19:15:00](https://soylentnews.org/article.pl?sid=25/07/12/1336231&amp;from=rss) - [Zombie Fabs Plague China&apos;s Chipmaking Ambitions, Failures Burning Tens of Billions of Dollars](https://soylentnews.org/article.pl?sid=25/07/12/1336231&amp;from=rss)
+* [2025-07-13, 18:32:46](https://news.ycombinator.com/item?id=44552419) - [Clashes between web and X11 colors in the CSS color scheme](https://en.wikipedia.org/wiki/X11_color_names)
 * [2025-07-13, 14:28:00](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss) - [Man&apos;s Ghastly Festering Ulcer Stumps Doctors—Until They Cut Out a Wedge of Flesh](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss)
 * [2025-07-13, 09:40:00](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss) - [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss)
 * [2025-07-13, 04:56:00](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss) - [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss)
@@ -147,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-12, 14:45:00](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss) - [70,000 Years Ago Humans Underwent A Major Shift – That’s Why We Exist ](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss)
 * [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss) - [CEO Claims Intel No Longer In The \&quot;Top 10 Semiconductor Companies\&quot; ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss)
-* [2025-07-12, 04:18:50](https://news.ycombinator.com/item?id=44539268) - [Predicting Competitive Pokémon VGC Leads Using Latent Semantic Analysis](https://jgeekstudies.org/2025/07/11/predicting-competitive-pokemon-vgc-leads-using-latent-semantic-analysis-a-data-driven-approach-to-team-matchups/)
 * [2025-07-12, 00:31:00](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - [Derinkuyu: A Subterranean Marvel of Ancient Engineering with  Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss)
 * [2025-07-11, 19:46:00](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss) - [New Android TapTrap Attack Fools Users With Invisible UI Trick](https://soylentnews.org/article.pl?sid=25/07/11/114218&amp;from=rss)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
