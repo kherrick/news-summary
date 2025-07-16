@@ -1,58 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, Machine Learning, and Cryptographic Advances
+## Artificial Intelligence and Machine Learning
 
-* [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt) - Anthropic's approach with Claude AI is challenging OpenAI's dominance by focusing on 'Artifacts,' resulting in innovative applications.
+* [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/) - Learn about a streamlined deployment approach for Large Language Models (LLMs) as microservices, featuring one-click usability. [Comments](https://news.ycombinator.com/item?id=44578558)
 
-* [Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/) - AI luminary Mira Murati secures major funding for her startup, emphasizing cutting-edge developments.
+* [Music Insiders Call for Warning Labels After AI-Generated Band Gets 1 Million Plays On Spotify](https://entertainment.slashdot.org/story/25/07/16/008254/music-insiders-call-for-warning-labels-after-ai-generated-band-gets-1-million-plays-on-spotify?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversy arises as AI-generated music achieves significant streaming success. [Comments](https://entertainment.slashdot.org/story/25/07/16/008254/music-insiders-call-for-warning-labels-after-ai-generated-band-gets-1-million-plays-on-spotify?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140) - Go introduces a cryptographic module compliant with FIPS 140-3, enhancing security for developers.
+* [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel) - A novel environment for functional programming featuring 'typed holes' to aid development. [Comments](https://news.ycombinator.com/item?id=44574864)
 
-* [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral) - An exciting new release in open-source models focuses on speech understanding, pushing the boundaries in audio ML.
+* [Hugging Face Is Hosting 5,000 Nonconsensual AI Models of Real People](https://yro.slashdot.org/story/25/07/15/1457229/hugging-face-is-hosting-5000-nonconsensual-ai-models-of-real-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Delving into ethical concerns related to unauthorized AI datasets. [Comments](https://yro.slashdot.org/story/25/07/15/1457229/hugging-face-is-hosting-5000-nonconsensual-ai-models-of-real-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cybersecurity and Vulnerability Insights
+## Space and Technology
 
-* [Hackers Can Remotely Trigger the Brakes on American Trains and the Problem Has Been Ignored for Years](https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A startling vulnerability in American train systems poses critical safety challenges.
+* [Congress moves to reject bulk of White House's proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/) - Legislative efforts aim to sustain NASA's budget against proposed reductions. [Comments](https://news.ycombinator.com/item?id=44578255)
 
-* [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure) - A report detailing OpenAI's approach to responsibly tackling disclosed vulnerabilities.
+* [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/) - Updates on Helix Editor's latest release with performance and feature enhancements. [Comments](https://lobste.rs/s/ppxfaq/helix_25_07_highlights)
 
-* [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/) - Research unveils realistic attack vectors on GPU memory exploiting Rowhammer.
+## Security and Privacy
 
-* [Hugging Face Is Hosting 5,000 Nonconsensual AI Models of Real People](https://yro.slashdot.org/story/25/07/15/1457229/hugging-face-is-hosting-5000-nonconsensual-ai-models-of-real-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns rise over ethical AI practices as unauthorized models based on real people's data are hosted.
+* [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/) - Examination of vulnerabilities that expose GPU memory to rowhammer-style attacks. [Comments](https://news.ycombinator.com/item?id=44577268)
 
-## Technology Developments and Releases
+* [Hackers Can Remotely Trigger the Brakes on American Trains and the Problem Has Been Ignored for Years](https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigative reporting on a longstanding cybersecurity flaw within American rail systems. [Comments](https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [KDE's Android TV Alternative, Plasma Bigscreen, Rises From the Dead](https://tech.slashdot.org/story/25/07/15/1956221/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Plasma Bigscreen gets a reboot, offering an alternative to Android TV.
+## Ethics and Society
 
-* [LibreOffice Lands Built-In Support For Bitcoin As Currency](https://linux.slashdot.org/story/25/07/15/1932202/libreoffice-lands-built-in-support-for-bitcoin-as-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - LibreOffice integrates Bitcoin support, marking an interesting shift toward cryptocurrency adoption.
+* [Thousands of Afghans Secretly Moved To Britain After Data Leak](https://news.slashdot.org/story/25/07/16/0127216/thousands-of-afghans-secretly-moved-to-britain-after-data-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Uncovering an operation to relocate Afghans following sensitive data disclosures. [Comments](https://news.slashdot.org/story/25/07/16/0127216/thousands-of-afghans-secretly-moved-to-britain-after-data-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Blender 4.5 LTS Released](https://tech.slashdot.org/story/25/07/15/1912208/blender-45-lts-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The latest Blender release improves LTS support and adds significant upgrades for 3D animators.
+* [Young Americans Face Job Market Disconnect as Parents Offer Outdated Career Advice](https://slashdot.org/story/25/07/15/1612213/young-americans-face-job-market-disconnect-as-parents-offer-outdated-career-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis addressing generational job market misalignments. [Comments](https://slashdot.org/story/25/07/15/1612213/young-americans-face-job-market-disconnect-as-parents-offer-outdated-career-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Compiler bootstrapping in Nixpkgs](https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/) - Dive into Nixpkgs advancements in reliable and repeatable compiler building as part of Nix's ecosystem.
+## Science and Innovation
 
-## Science and Space
+* [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://science.slashdot.org/story/25/07/15/1735204/nist-ion-clock-sets-new-record-for-most-accurate-clock-in-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Breakthrough in timekeeping made by the NIST Ion Clock. [Comments](https://news.ycombinator.com/item?id=44572499)
 
-* [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://science.slashdot.org/story/25/07/15/1735204/nist-ion-clock-sets-new-record-for-most-accurate-clock-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers achieve unprecedented timekeeping precision with advancements in ion clock technology.
-
-* [Princeton Study Maps 200,000 years of Human–Neanderthal Interbreeding](https://soylentnews.org/article.pl?sid=25/07/14/1758208&amp;from=rss) - New data sheds light on the genetic legacy of human and Neanderthal interactions.
-
-* [Physicists Start To Pin Down How Stars Forge Heavy Atoms](https://soylentnews.org/article.pl?sid=25/07/14/0413203&amp;from=rss) - Astrophysics research uncovers insights into nucleosynthesis processes in stars.
-
-## Unique and Quirky Innovations
-
-* [Snot-Filtering Tech Could Be The Answer To A Dust-Free PC](https://soylentnews.org/article.pl?sid=25/07/14/188221&amp;from=rss) - A creative approach to PC cooling borrows elements from biological systems.
-
-* [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini) - Introducing GPT-powered robotics with a soft robotic tentacle design.
-
-* [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/) - A groundbreaking tool enabling exploration of fractals beyond traditional limits.
-
-## Historical and Cultural Explorations
-
-* [Derinkuyu: A Subterranean Marvel of Ancient Engineering with Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - Discover the wonders of ancient engineering with the underground city of Derinkuyu.
-
-* [1960s Schools Experiment That Created a New Alphabet and Left Thousands of Children Unable to Spell](https://soylentnews.org/article.pl?sid=25/07/13/008207&amp;from=rss) - Revisiting a radical educational experiment and its consequences.
-
-* [The Story of Mel, A Real Programmer, Annotated (1996)](https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000) - Annotations on one of the most iconic tales of old-school programming.
+* [Princeton Study Maps 200,000 years of Human–Neanderthal Interbreeding](https://soylentnews.org/article.pl?sid=25/07/14/1758208&from=rss) - Insightful research into the complex genetic history between human populations. [Comments](https://soylentnews.org/article.pl?sid=25/07/14/1758208&from=rss)
 
 ---
 
@@ -79,11 +59,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-16, 04:03:04](https://news.ycombinator.com/item?id=44578558) - [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)
+* [2025-07-16, 03:30:00](https://entertainment.slashdot.org/story/25/07/16/008254/music-insiders-call-for-warning-labels-after-ai-generated-band-gets-1-million-plays-on-spotify?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Music Insiders Call for Warning Labels After AI-Generated Band Gets 1 Million Plays On Spotify](https://entertainment.slashdot.org/story/25/07/16/008254/music-insiders-call-for-warning-labels-after-ai-generated-band-gets-1-million-plays-on-spotify?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-16, 02:56:53](https://news.ycombinator.com/item?id=44578255) - [Congress moves to reject bulk of White House&apos;s proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
+* [2025-07-16, 02:51:00](https://soylentnews.org/article.pl?sid=25/07/14/1819237&amp;from=rss) - [GPS On The Fritz? Britain And France Plot A Backup Plan](https://soylentnews.org/article.pl?sid=25/07/14/1819237&amp;from=rss)
+* [2025-07-16, 02:37:37](https://news.ycombinator.com/item?id=44578143) - [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
+* [2025-07-16, 01:36:37](https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 * [2025-07-16, 01:30:00](https://news.slashdot.org/story/25/07/16/0127216/thousands-of-afghans-secretly-moved-to-britain-after-data-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thousands of Afghans Secretly Moved To Britain After Data Leak](https://news.slashdot.org/story/25/07/16/0127216/thousands-of-afghans-secretly-moved-to-britain-after-data-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-16, 00:46:36](https://lobste.rs/s/apenjf/openzfs_bug_ported_c) - [OpenZFS Bug Ported to C](https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C)
 * [2025-07-16, 00:05:45](https://news.ycombinator.com/item?id=44577268) - [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
 * [2025-07-15, 23:52:16](https://lobste.rs/s/vvslmj/google_wifi_pro_glitching_from_root_el3) - [Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization](https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/)
-* [2025-07-15, 23:50:02](https://news.ycombinator.com/item?id=44577171) - [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
 * [2025-07-15, 23:30:00](https://slashdot.org/story/25/07/15/2211203/anthropic-rolls-out-claude-ai-for-financial-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Rolls Out Claude AI For Financial Services](https://slashdot.org/story/25/07/15/2211203/anthropic-rolls-out-claude-ai-for-financial-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 23:29:54](https://news.ycombinator.com/item?id=44577018) - [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
 * [2025-07-15, 22:50:00](https://news.slashdot.org/story/25/07/15/1922235/reddit-starts-verifying-ages-of-users-in-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reddit Starts Verifying Ages of Users In the UK](https://news.slashdot.org/story/25/07/15/1922235/reddit-starts-verifying-ages-of-users-in-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,12 +88,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-15, 19:30:00](https://yro.slashdot.org/story/25/07/15/194255/cloudflare-starts-blocking-pirate-sites-for-uk-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Starts Blocking Pirate Sites For UK Users](https://yro.slashdot.org/story/25/07/15/194255/cloudflare-starts-blocking-pirate-sites-for-uk-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 19:23:56](https://lobste.rs/s/dpbwfi/hazel_live_functional_programming) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 * [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
-* [2025-07-15, 19:16:59](https://news.ycombinator.com/item?id=44574815) - [Helix Editor 25.07](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 18:50:00](https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hackers Can Remotely Trigger the Brakes on American Trains and the Problem Has Been Ignored for Years](https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 18:24:51](https://news.ycombinator.com/item?id=44574318) - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
 * [2025-07-15, 18:10:00](https://tech.slashdot.org/story/25/07/15/183201/perplexity-ceo-says-tech-giants-copy-anything-thats-good?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity CEO Says Tech Giants &apos;Copy Anything That&apos;s Good&apos;](https://tech.slashdot.org/story/25/07/15/183201/perplexity-ceo-says-tech-giants-copy-anything-thats-good?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 17:50:04](https://lobste.rs/s/deydno/encrypting_files_with_passkeys_age) - [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical corrections in architecture and typography](https://www.nubero.ch/blog/015/)
+* [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [Plasma Bigscreen rises from the dead with a better UI](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:34:00](https://science.slashdot.org/story/25/07/15/1735204/nist-ion-clock-sets-new-record-for-most-accurate-clock-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://science.slashdot.org/story/25/07/15/1735204/nist-ion-clock-sets-new-record-for-most-accurate-clock-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 17:30:55](https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope) - [Wikipedia outage report for May&apos;s Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
 * [2025-07-15, 17:24:00](https://soylentnews.org/article.pl?sid=25/07/14/1758208&amp;from=rss) - [Princeton Study Maps 200,000 years of Human–Neanderthal Interbreeding](https://soylentnews.org/article.pl?sid=25/07/14/1758208&amp;from=rss)
@@ -126,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-15, 15:05:26](https://lobste.rs/s/ouvq8x/poor_man_s_bitemporal_data_system_sqlite) - [Poor man&apos;s bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 * [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
-* [2025-07-15, 14:44:00](https://slashdot.org/story/25/07/15/1444226/candy-crush-maker-king-lays-off-200-staff-replacing-many-with-ai-tools-they-built?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Candy Crush-Maker King Lays Off 200 Staff, Replacing Many With AI Tools They Built](https://slashdot.org/story/25/07/15/1444226/candy-crush-maker-king-lays-off-200-staff-replacing-many-with-ai-tools-they-built?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-15, 13:06:39](https://lobste.rs/s/r5omhr/openzfs_bug_ported_zig) - [OpenZFS Bug Ported to Zig](https://andrewkelley.me/post/openzfs-bug-ported-zig.html)
 * [2025-07-15, 12:45:00](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss) - [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss)
@@ -145,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss)
 * [2025-07-14, 18:42:16](https://lobste.rs/s/alrfrd/best_c_library) - [The Best C++ Library](https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people)
 * [2025-07-14, 17:30:20](https://lobste.rs/s/1l3beg/panasonic_openbsd_3) - [Panasonic + OpenBSD = &lt;3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
-* [2025-07-14, 17:01:08](https://lobste.rs/s/qhgjks/using_elm_2025) - [Using Elm in 2025](https://engagesoftware.com/news/post/7033/using-elm-in-2025)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&amp;from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&amp;from=rss)
 * [2025-07-14, 09:15:00](https://soylentnews.org/article.pl?sid=25/07/13/0039240&amp;from=rss) - [&apos;Positive Review Only&apos;: Researchers Hide AI Prompts in Papers](https://soylentnews.org/article.pl?sid=25/07/13/0039240&amp;from=rss)
@@ -154,7 +137,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-13, 19:15:00](https://soylentnews.org/article.pl?sid=25/07/12/1336231&amp;from=rss) - [Zombie Fabs Plague China&apos;s Chipmaking Ambitions, Failures Burning Tens of Billions of Dollars](https://soylentnews.org/article.pl?sid=25/07/12/1336231&amp;from=rss)
 * [2025-07-13, 14:28:00](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss) - [Man&apos;s Ghastly Festering Ulcer Stumps Doctors—Until They Cut Out a Wedge of Flesh](https://soylentnews.org/article.pl?sid=25/07/12/1251234&amp;from=rss)
 * [2025-07-13, 09:40:00](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss) - [This Glitchy, Error-Prone Tool Could Get You Deported](https://soylentnews.org/article.pl?sid=25/07/12/1244241&amp;from=rss)
-* [2025-07-13, 08:59:42](https://news.ycombinator.com/item?id=44548701) - [What Was Cyberpunk? In Memoriam: 1980-2020 (2020)](https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 04:56:00](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss) - [Experts Say It is Unlikely You Will See a Moa Any Time Soon](https://soylentnews.org/article.pl?sid=25/07/12/1237201&amp;from=rss)
 * [2025-07-13, 00:14:00](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss) - [&apos;123456&apos; Password Exposed Chats for 64 Million McDonald&apos;s Job Applicants](https://soylentnews.org/article.pl?sid=25/07/12/1213215&amp;from=rss)
@@ -164,9 +146,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-12, 19:29:00](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss) - [Semiconductor Industry Could Short Out as Copper Runs Dry](https://soylentnews.org/article.pl?sid=25/07/12/123235&amp;from=rss)
 * [2025-07-12, 14:45:00](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss) - [70,000 Years Ago Humans Underwent A Major Shift – That’s Why We Exist ](https://soylentnews.org/article.pl?sid=25/07/11/238234&amp;from=rss)
 * [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [The Story of Mel, A Real Programmer, Annotated (1996)](https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000)
-* [2025-07-12, 14:06:30](https://news.ycombinator.com/item?id=44542164) - [How Culture Is Made](https://www.metalabel.com/studio/release-strategies/how-culture-is-made)
-* [2025-07-12, 12:09:40](https://news.ycombinator.com/item?id=44541509) - [Is there a literacy crisis?](https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai)
 * [2025-07-12, 10:56:24](https://news.ycombinator.com/item?id=44541088) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/)
 * [2025-07-12, 10:00:00](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss) - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://soylentnews.org/article.pl?sid=25/07/11/2237233&amp;from=rss)
+* [2025-07-12, 09:47:30](https://news.ycombinator.com/item?id=44540724) - [Show HN: Reviving a 20 year old OS X App](https://andrewshaw.nl/blog/reviving-genius)
 * [2025-07-12, 05:15:00](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss) - [CEO Claims Intel No Longer In The \&quot;Top 10 Semiconductor Companies\&quot; ](https://soylentnews.org/article.pl?sid=25/07/11/2226206&amp;from=rss)
 * [2025-07-12, 00:31:00](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss) - [Derinkuyu: A Subterranean Marvel of Ancient Engineering with  Capacity for 20,000 Inhabitants](https://soylentnews.org/article.pl?sid=25/07/11/1218211&amp;from=rss)
