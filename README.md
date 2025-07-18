@@ -1,36 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Challenges
+## AI and Emerging Technologies
 
-* [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain) - An insightful exploration of economic factors that hinder the rapid adoption of artificial intelligence. [Comments](https://news.ycombinator.com/item?id=44601562)
+* [Netflix uses generative AI in one of its shows for first time](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta) ([comments](https://news.ycombinator.com/item?id=44602779))
 
-* [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe) - A breakthrough in encryption technology that could enable a more secure, privacy-focused internet. [Comments](https://news.ycombinator.com/item?id=44601023)
+* [Robinhood CEO Says Majority of Company's New Code Written by AI](https://developers.slashdot.org/story/25/07/17/1918220/robinhood-ceo-says-majority-of-companys-new-code-written-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/07/17/1918220/robinhood-ceo-says-majority-of-companys-new-code-written-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss) - The discovery of new vulnerabilities in Nvidia GPUs highlights risks in hardware security. [Comments](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss)
+* [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe) ([comments](https://news.ycombinator.com/item?id=44601023))
 
-* [Hackers exploit a blind spot by hiding malware inside DNS records](https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/) - Innovative malware techniques reveal critical gaps in cybersecurity frameworks. [Comments](https://lobste.rs/s/a29mny/hackers_exploit_blind_spot_by_hiding)
+* [OpenAI Debuts AI Agent That Controls Browsers To Automate Shopping, Presentations](https://it.slashdot.org/story/25/07/17/1726216/openai-debuts-ai-agent-that-controls-browsers-to-automate-shopping-presentations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/07/17/1726216/openai-debuts-ai-agent-that-controls-browsers-to-automate-shopping-presentations?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Software and Development Practices
+## Security and Privacy
 
-* [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/) - A critical look at how Secure Boot certificate expirations could impact Linux systems. [Comments](https://news.ycombinator.com/item?id=44601045)
+* [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/) ([comments](https://news.ycombinator.com/item?id=44601045))
 
-* [Supporting Faster File Load Times with Memory Optimizations in Rust](https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/) - Figma's efforts in leveraging Rust for optimizing file load performance. [Comments](https://lobste.rs/s/pz9rgk/supporting_faster_file_load_times_with)
+* [Hackers exploit a blind spot by hiding malware inside DNS records](https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/) ([comments](https://lobste.rs/s/a29mny/hackers_exploit_blind_spot_by_hiding))
 
-* [How we tracked down a Go 1.24 memory regression across hundreds of pods](https://www.datadoghq.com/blog/engineering/go-memory-regression/) - Discover strategies to counter performance bottlenecks in programming. [Comments](https://lobste.rs/s/zjhb8g/how_we_tracked_down_go_1_24_memory)
+* [Google Spots Tailored Backdoor Malware Aimed At SonicWall Appliances](https://it.slashdot.org/story/25/07/17/2049256/google-spots-tailored-backdoor-malware-aimed-at-sonicwall-appliances?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/07/17/2049256/google-spots-tailored-backdoor-malware-aimed-at-sonicwall-appliances?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Societal Impacts and Global Events
+## Scientific and Historical Discoveries
 
-* [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7) - The sudden cancellation of a major restoration project raises environmental and economic concerns. [Comments](https://news.ycombinator.com/item?id=44599984)
+* [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune) ([comments](https://news.ycombinator.com/item?id=44599711))
 
-* [Ukrainian Hackers Claim To Have Destroyed Major Russian Drone Maker's Entire Network](https://tech.slashdot.org/story/25/07/17/2350256/ukrainian-hackers-claim-to-have-destroyed-major-russian-drone-makers-entire-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold maneuver in the digital theater of cyber warfare amidst ongoing conflict. [Comments](https://tech.slashdot.org/story/25/07/17/2350256/ukrainian-hackers-claim-to-have-destroyed-major-russian-drone-makers-entire-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php) ([comments](https://news.ycombinator.com/item?id=44556997))
 
-## Scientific Discoveries and Studies
+* [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/16/1725249&from=rss))
 
-* [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune) - A fascinating celestial alignment deepens our understanding of the solar system. [Comments](https://news.ycombinator.com/item?id=44599711)
+## Engineering and Technology
 
-* [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds) - Evolutionary science reveals surprising adaptability in mammalian species. [Comments](https://news.ycombinator.com/item?id=44599334)
+* [How Go 1.24's Swiss Tables saved us hundreds of gigabytes](https://www.datadoghq.com/blog/engineering/go-swiss-tables/) ([comments](https://lobste.rs/s/zcizsx/how_go_1_24_s_swiss_tables_saved_us_hundreds))
 
-* [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - New research indicates rapid geological changes from modern industrial practices. [Comments](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss)
+* [Supporting Faster File Load Times with Memory Optimizations in Rust](https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/) ([comments](https://lobste.rs/s/pz9rgk/supporting_faster_file_load_times_with))
+
+* [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI) ([comments](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake))
+
+## Social and Cultural Trends
+
+* [House Passes Historic Crypto Bill Regulating Stablecoins](https://yro.slashdot.org/story/25/07/17/2321219/house-passes-historic-crypto-bill-regulating-stablecoins?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/07/17/2321219/house-passes-historic-crypto-bill-regulating-stablecoins?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Dictionary.com 'Devastated' Paid Users By Abruptly Deleting Saved Word Lists](https://tech.slashdot.org/story/25/07/17/2329217/dictionarycom-devastated-paid-users-by-abruptly-deleting-saved-word-lists?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/07/17/2329217/dictionarycom-devastated-paid-users-by-abruptly-deleting-saved-word-lists?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Gaming and Entertainment
+
+* [Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/) ([comments](https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for))
 
 ---
 
@@ -57,26 +69,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-07-18, 05:38:55](https://news.ycombinator.com/item?id=44601562) - [Why is AI so slow to spread?](https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain)
-* [2025-07-18, 05:37:17](https://news.ycombinator.com/item?id=44601548) - [Apple bans entire dev account, no reason given](https://twitter.com/rameerez/status/1945784476723810739)
+* [2025-07-18, 09:34:42](https://news.ycombinator.com/item?id=44602779) - [Netflix uses generative AI in one of its shows for first time](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta)
+* [2025-07-18, 08:36:47](https://news.ycombinator.com/item?id=44602532) - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
+* [2025-07-18, 08:35:22](https://lobste.rs/s/xzxxng/when_root_meets_immutable_openbsd) - [When Root Meets Immutable: OpenBSD chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
+* [2025-07-18, 08:22:59](https://lobste.rs/s/ytnxm6/engineering_end_work) - [Engineering the End of Work](https://schmud.de/posts/2025-07-15-engineering-end-of-work.html)
+* [2025-07-18, 08:05:26](https://news.ycombinator.com/item?id=44602364) - [Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)](https://www.arva.ai/careers/ai-research-engineer)
+* [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss)
+* [2025-07-18, 04:05:54](https://news.ycombinator.com/item?id=44601096) - [Data on How America Sold Out Its Computer Science Graduates](https://ifspp.substack.com/p/data-on-how-america-sold-out-its)
 * [2025-07-18, 03:53:31](https://news.ycombinator.com/item?id=44601045) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/)
 * [2025-07-18, 03:49:50](https://news.ycombinator.com/item?id=44601023) - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
+* [2025-07-18, 03:22:18](https://lobste.rs/s/zcizsx/how_go_1_24_s_swiss_tables_saved_us_hundreds) - [How Go 1.24&apos;s Swiss Tables saved us hundreds of gigabytes](https://www.datadoghq.com/blog/engineering/go-swiss-tables/)
 * [2025-07-18, 02:27:43](https://news.ycombinator.com/item?id=44600594) - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
 * [2025-07-18, 02:25:13](https://lobste.rs/s/l8a8zq/nih_is_far_cheaper_than_wrong_dependency) - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
 * [2025-07-18, 02:24:18](https://lobste.rs/s/pz9rgk/supporting_faster_file_load_times_with) - [Supporting Faster File Load Times with Memory Optimizations in Rust](https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/)
+* [2025-07-18, 02:24:15](https://news.ycombinator.com/item?id=44600574) - [Fixing a Direct3D9 bug in Far Cry (2018)](https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/)
 * [2025-07-18, 02:14:33](https://news.ycombinator.com/item?id=44600512) - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 * [2025-07-18, 02:05:00](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss) - [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss)
-* [2025-07-18, 01:28:58](https://lobste.rs/s/zjhb8g/how_we_tracked_down_go_1_24_memory) - [How we tracked down a Go 1.24 memory regression across hundreds of pods](https://www.datadoghq.com/blog/engineering/go-memory-regression/)
 * [2025-07-18, 00:50:41](https://lobste.rs/s/yv7r9s/forgejo_v12) - [Forgejo v12](https://forgejo.org/2025-07-release-v12-0/)
-* [2025-07-18, 00:45:18](https://news.ycombinator.com/item?id=44599984) - [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
 * [2025-07-18, 00:45:00](https://tech.slashdot.org/story/25/07/17/2350256/ukrainian-hackers-claim-to-have-destroyed-major-russian-drone-makers-entire-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ukrainian Hackers Claim To Have Destroyed Major Russian Drone Maker&apos;s Entire Network](https://tech.slashdot.org/story/25/07/17/2350256/ukrainian-hackers-claim-to-have-destroyed-major-russian-drone-makers-entire-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-18, 00:02:00](https://tech.slashdot.org/story/25/07/17/2329217/dictionarycom-devastated-paid-users-by-abruptly-deleting-saved-word-lists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dictionary.com &apos;Devastated&apos; Paid Users By Abruptly Deleting Saved Word Lists](https://tech.slashdot.org/story/25/07/17/2329217/dictionarycom-devastated-paid-users-by-abruptly-deleting-saved-word-lists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-18, 00:01:54](https://news.ycombinator.com/item?id=44599711) - [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
 * [2025-07-17, 23:38:48](https://news.ycombinator.com/item?id=44599549) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 23:23:00](https://yro.slashdot.org/story/25/07/17/2321219/house-passes-historic-crypto-bill-regulating-stablecoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [House Passes Historic Crypto Bill Regulating Stablecoins](https://yro.slashdot.org/story/25/07/17/2321219/house-passes-historic-crypto-bill-regulating-stablecoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-17, 23:22:56](https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for) - [Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/)
-* [2025-07-17, 23:10:38](https://news.ycombinator.com/item?id=44599334) - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
-* [2025-07-17, 23:10:03](https://news.ycombinator.com/item?id=44599325) - [23andMe is out of bankruptcy. You should still delete your DNA](https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/)
 * [2025-07-17, 23:09:06](https://lobste.rs/s/dm7pow/my_favorite_use_case_for_ai_is_writing_logs) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 22:20:00](https://it.slashdot.org/story/25/07/17/2049256/google-spots-tailored-backdoor-malware-aimed-at-sonicwall-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Spots Tailored Backdoor Malware Aimed At SonicWall Appliances](https://it.slashdot.org/story/25/07/17/2049256/google-spots-tailored-backdoor-malware-aimed-at-sonicwall-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-17, 21:40:00](https://yro.slashdot.org/story/25/07/17/2044218/new-russian-law-criminalizes-online-searches-for-controversial-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Russian Law Criminalizes Online Searches For Controversial Content](https://yro.slashdot.org/story/25/07/17/2044218/new-russian-law-criminalizes-online-searches-for-controversial-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,9 +132,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss)
 * [2025-07-17, 09:16:14](https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
 * [2025-07-17, 08:25:02](https://lobste.rs/s/cuaicj/project_servfail_one_year) - [Project SERVFAIL: one year in](https://sdomi.pl/weblog/25-servfail-first-year/)
-* [2025-07-17, 07:24:11](https://lobste.rs/s/iclgb7/bypassing_specialization_rust_how_i) - [\&quot;Bypassing\&quot; specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 07:07:00](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss)
-* [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-17, 02:22:00](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss) - [Merger of Two Massive Black Holes is One for the Record Books](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss)
 * [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Perfume reviews](https://gwern.net/blog/2025/perfume)
 * [2025-07-16, 21:33:00](https://soylentnews.org/article.pl?sid=25/07/15/1642247&amp;from=rss) - [Nvidia CEO says China&apos;s Military Will Avoid U.S. AI Tech](https://soylentnews.org/article.pl?sid=25/07/15/1642247&amp;from=rss)
@@ -136,15 +149,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-15, 12:45:00](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss) - [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss)
 * [2025-07-15, 09:16:21](https://news.ycombinator.com/item?id=44569367) - [RisingWave: An Open‑Source Stream‑Processing and Management Platform](https://github.com/risingwavelabs/risingwave)
 * [2025-07-15, 08:59:08](https://news.ycombinator.com/item?id=44569278) - [TCP-in-UDP Solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
+* [2025-07-15, 08:07:52](https://news.ycombinator.com/item?id=44569019) - [Inspect ANSI control codes and escape sequences](https://ansi.tools)
 * [2025-07-15, 08:02:00](https://soylentnews.org/article.pl?sid=25/07/14/0944243&amp;from=rss) - [Core Ultra 5 245HX Blasts Past Desktop Counterpart in PassMark](https://soylentnews.org/article.pl?sid=25/07/14/0944243&amp;from=rss)
+* [2025-07-15, 06:53:45](https://news.ycombinator.com/item?id=44568594) - [DIY Telescope Mods That Transformed My Astrophotography](https://www.youtube.com/watch?v=Efmzr_K4ApQ)
 * [2025-07-15, 05:39:26](https://news.ycombinator.com/item?id=44568147) - [A look at IBM&apos;s short-lived \&quot;butterfly\&quot; ThinkPad 701 of 1995](https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard)
 * [2025-07-15, 03:15:00](https://soylentnews.org/article.pl?sid=25/07/14/0413203&amp;from=rss) - [Physicists Start To Pin Down How Stars Forge Heavy Atoms](https://soylentnews.org/article.pl?sid=25/07/14/0413203&amp;from=rss)
 * [2025-07-14, 23:30:00](https://soylentnews.org/article.pl?sid=25/07/13/232209&amp;from=rss) - [Supporting Mission-Driven Space Innovation, For Earth And Beyond](https://soylentnews.org/article.pl?sid=25/07/13/232209&amp;from=rss)
-* [2025-07-14, 21:54:05](https://news.ycombinator.com/item?id=44565763) - [The End of Windows 10: a toolkit for community repair groups](https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/)
 * [2025-07-14, 18:45:00](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss) - [China Claims Big Advances In Classical And Quantum Computers](https://soylentnews.org/article.pl?sid=25/07/13/044254&amp;from=rss)
 * [2025-07-14, 16:15:41](https://news.ycombinator.com/item?id=44561895) - [Extending That XOR Trick to Billions of Rows](https://nochlin.com/blog/extending-that-xor-trick)
 * [2025-07-14, 14:00:00](https://soylentnews.org/article.pl?sid=25/07/13/014215&amp;from=rss) - [AMD Discloses New CPU Flaws that can Enable Data Leaks via Timing Attacks](https://soylentnews.org/article.pl?sid=25/07/13/014215&amp;from=rss)
 * [2025-07-14, 09:15:00](https://soylentnews.org/article.pl?sid=25/07/13/0039240&amp;from=rss) - [&apos;Positive Review Only&apos;: Researchers Hide AI Prompts in Papers](https://soylentnews.org/article.pl?sid=25/07/13/0039240&amp;from=rss)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 * [2025-07-14, 04:30:00](https://soylentnews.org/article.pl?sid=25/07/13/0024234&amp;from=rss) - [The Foolproof Way to Win Any Lottery, According to Maths](https://soylentnews.org/article.pl?sid=25/07/13/0024234&amp;from=rss)
-* [2025-07-14, 03:57:02](https://news.ycombinator.com/item?id=44556318) - [Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C](https://github.com/sammycage/plutofilter)
