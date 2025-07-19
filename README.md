@@ -1,54 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Tools
+## Technology and Software Innovations
 
-* [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser) [(comments)](https://news.ycombinator.com/item?id=44611320)
+* [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/) - A comprehensive breakdown of a self-hosted tech stack for privacy and control. [Comments](https://news.ycombinator.com/item?id=44612151)
 
-* [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/) [(comments)](https://news.ycombinator.com/item?id=44611223)
+* [Radio Hobbyists, Rejoice! Good News for LoRa & Mesh](https://soylentnews.org/article.pl?sid=25/07/18/0124213&from=rss) - Updates on LoRa technology and its growing potential for mesh networking. [Comments](https://soylentnews.org/article.pl?sid=25/07/18/0124213&from=rss)
 
-* [lsr: ls with io_uring](https://rockorager.dev/log/lsr-ls-but-with-io-uring/) [(comments)](https://news.ycombinator.com/item?id=44604050)
+* [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440) - A new feature in the Bun runtime allowing isolated installations. [Comments](https://news.ycombinator.com/item?id=44611467)
 
-* [polycode: Encode a binary file as a rational polynomial function](https://codeberg.org/cve/polycode) [(comments)](https://lobste.rs/s/jwbvyr/polycode_encode_binary_file_as_rational)
+* [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/) - A tool simplifying the process of creating custom Debian packages. [Comments](https://news.ycombinator.com/item?id=44611223)
 
-* [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/) [(comments)](https://news.ycombinator.com/item?id=44608840)
+* [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser) - A nostalgic yet practical software solution for vintage Macintosh users. [Comments](https://news.ycombinator.com/item?id=44611320)
 
-## Open Source Developments
+## AI, Science, and the Future
 
-* [Forgejo v12](https://forgejo.org/2025-07-release-v12-0/) [(comments)](https://lobste.rs/s/yv7r9s/forgejo_v12)
+* [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening) - A breakthrough in early cancer detection through blood tests. [Comments](https://news.ycombinator.com/item?id=44608295)
 
-* [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/) [(comments)](https://news.ycombinator.com/item?id=44610468)
+* [AI capex is so big that it’s affecting economic statistics](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/) - The impact of artificial intelligence infrastructure on the global economy. [Comments](https://news.ycombinator.com/item?id=44609130)
 
-* [Servo adds support for network inspector devtools](https://servo.org/blog/2025/07/17/this-month-in-servo/) [(comments)](https://lobste.rs/s/99mqr2/servo_adds_support_for_network_inspector)
+* [Meta says it won’t sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html) - Controversy over regulatory demands on AI development. [Comments](https://news.ycombinator.com/item?id=44607838)
 
-## Corporate News and Shutdowns
+## Challenging Tech Perspectives
 
-* [Intel Announces It&apos;s Shutting Down Clear Linux](https://www.phoronix.com/news/Intel-Ends-Clear-Linux) [(comments)](https://news.ycombinator.com/item?id=44611270)
+* [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html) - Critique on the state of asynchronous programming in Rust. [Comments](https://lobste.rs/s/f0um5j/async_rust_is_bad_language)
 
-* [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716) [(comments)](https://news.ycombinator.com/item?id=44611098)
+* [Asynchrony is not concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/) - Highlights distinctions and misconceptions about these programming concepts. [Comments](https://news.ycombinator.com/item?id=44608754)
 
-## AI Progress and Ethical Concerns
+* [This Should Not Be Possible](https://ghuntley.com/no/) - Exploration of unpredictable or paradoxical outcomes in technology. [Comments](https://news.ycombinator.com/item?id=44612042)
 
-* [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/) [(comments)](https://news.ycombinator.com/item?id=44608275)
+## Gaming and Computational Challenges
 
-* [AI capex is so big that it&apos;s affecting economic statistics](https://paulkedrosky.com/honey-ai-capex-ate-the-economy/) [(comments)](https://news.ycombinator.com/item?id=44609130)
+* [Super Mario Bros is (Computationally) Hard](https://www.youtube.com/watch?v=unLPk4H1hto) - Analysis of the computational complexity inherent in the classic video game. [Comments](https://lobste.rs/s/pz8p8c/super_mario_bros_is_computationally_hard)
 
-## Scientific Breakthroughs
+* [The year of peak might and magic](https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/) - A retrospective on classic gaming milestones. [Comments](https://news.ycombinator.com/item?id=44607403)
 
-* [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening) [(comments)](https://news.ycombinator.com/item?id=44608295)
+## Legacy Tech, Security, and Challenges
 
-* [Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237) [(comments)](https://news.ycombinator.com/item?id=44608622)
+* [firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/) - Security risks uncovered within popular Arch Linux packages. [Comments](https://lobste.rs/s/df2azc/firefox_patch_bin_librewolf_fix_bin_zen)
 
-* [A New Geometry for Einstein&apos;s Theory of Relativity](https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/) [(comments)](https://news.ycombinator.com/item?id=44605670)
+* [Shutting down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716) - The end of Intel’s innovative Linux distribution targeted at optimization. [Comments](https://lobste.rs/s/vaqh5i/shutting_down_clear_linux_os)
 
-## Pop Culture and Computational Complexity
+## Creative and Experimental Projects
 
-* [Super Mario Bros is (Computationally) Hard](https://www.youtube.com/watch?v=unLPk4H1hto) [(comments)](https://lobste.rs/s/pz8p8c/super_mario_bros_is_computationally_hard)
+* [polycode: Encode a binary file as a rational polynomial function](https://codeberg.org/cve/polycode) - A fascinating approach to data encoding through polynomial functions. [Comments](https://lobste.rs/s/jwbvyr/polycode_encode_binary_file_as_rational)
 
-## Cybersecurity and Privacy
+* [Pimping my Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html) - A detailed guide to transforming a classic Casio calculator. [Comments](https://lobste.rs/s/ojxlqm/pimping_my_casio_part_deux)
 
-* [firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/) [(comments)](https://lobste.rs/s/df2azc/firefox_patch_bin_librewolf_fix_bin_zen)
+## Tech Culture and Advocacy
 
-* [DOGE Staffer With Access to Americans&apos; Personal Data Leaked Private xAI API Key](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss)
+* [I’m Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/) - A challenge to the dominance of algorithm-driven systems in modern life. [Comments](https://news.ycombinator.com/item?id=44610623)
+
+* [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/) - Critique of modern advertising and its exploitative tendencies. [Comments](https://news.ycombinator.com/item?id=44612023)
 
 ---
 
@@ -75,10 +77,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-19, 02:56:02](https://news.ycombinator.com/item?id=44612151) - [My Ultimate Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
+* [2025-07-19, 02:30:51](https://news.ycombinator.com/item?id=44612042) - [This Should Not Be Possible](https://ghuntley.com/no/)
+* [2025-07-19, 02:25:50](https://news.ycombinator.com/item?id=44612023) - [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
+* [2025-07-19, 01:37:00](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss) - [Radio Hobbyists, Rejoice! Good News for LoRa &amp; Mesh](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss)
+* [2025-07-19, 01:25:00](https://news.ycombinator.com/item?id=44611692) - [We do not break userspace (2012)](https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/)
+* [2025-07-19, 00:43:08](https://news.ycombinator.com/item?id=44611467) - [Bun adds pnpm-style isolated installation mode](https://github.com/oven-sh/bun/pull/20440)
 * [2025-07-19, 00:20:48](https://news.ycombinator.com/item?id=44611320) - [Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs](https://www.macintoshrepository.org/44146-mr-browser)
-* [2025-07-19, 00:12:13](https://news.ycombinator.com/item?id=44611270) - [Intel Announces It&apos;s Shutting Down Clear Linux](https://www.phoronix.com/news/Intel-Ends-Clear-Linux)
 * [2025-07-19, 00:04:31](https://news.ycombinator.com/item?id=44611223) - [Debcraft – Easiest way to modify and build Debian packages](https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/)
-* [2025-07-18, 23:45:12](https://news.ycombinator.com/item?id=44611098) - [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 * [2025-07-18, 23:43:41](https://lobste.rs/s/vaqh5i/shutting_down_clear_linux_os) - [Shutting down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
 * [2025-07-18, 23:29:11](https://lobste.rs/s/f0um5j/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2025-07-18, 23:22:49](https://news.ycombinator.com/item?id=44610925) - [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
@@ -101,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-18, 18:40:30](https://news.ycombinator.com/item?id=44608312) - [Show HN: Molab, a cloud-hosted Marimo notebook workspace](https://molab.marimo.io/notebooks)
 * [2025-07-18, 18:39:06](https://news.ycombinator.com/item?id=44608295) - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
 * [2025-07-18, 18:39:02](https://news.ycombinator.com/item?id=44608294) - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
-* [2025-07-18, 18:36:39](https://news.ycombinator.com/item?id=44608275) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-18, 17:56:37](https://news.ycombinator.com/item?id=44607838) - [Meta says it wont sign Europe AI agreement, calling it growth stunting overreach](https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html)
 * [2025-07-18, 17:21:49](https://news.ycombinator.com/item?id=44607403) - [The year of peak might and magic](https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/)
 * [2025-07-18, 17:08:16](https://lobste.rs/s/datuh1/kap_lang) - [Kap lang](https://kapdemo.dhsdevelopments.com/)
@@ -116,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-18, 12:28:26](https://lobste.rs/s/jwbvyr/polycode_encode_binary_file_as_rational) - [polycode: Encode a binary file as a rational polynomial function](https://codeberg.org/cve/polycode)
 * [2025-07-18, 11:26:00](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss) - [Intel Axes Thousands of Technicians and Engineers in Sweeping U.S. Layoffs](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss)
 * [2025-07-18, 11:04:13](https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend)
-* [2025-07-18, 10:22:15](https://news.ycombinator.com/item?id=44603066) - [CP/M creator Gary Kildall&apos;s memoirs released as free download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
 * [2025-07-18, 08:35:22](https://lobste.rs/s/xzxxng/when_root_meets_immutable_openbsd) - [When Root Meets Immutable: OpenBSD chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 * [2025-07-18, 08:22:59](https://lobste.rs/s/ytnxm6/engineering_end_work) - [Engineering the End of Work](https://schmud.de/posts/2025-07-15-engineering-end-of-work.html)
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss)
@@ -146,7 +150,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-17, 14:58:56](https://lobste.rs/s/udtfpn/zig_s_new_writer) - [Zig&apos;s new Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 14:40:00](https://tech.slashdot.org/story/25/07/17/145222/uber-plans-20000-robotaxis-in-six-year-rollout-with-lucid-and-nuro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Plans 20,000 Robotaxis in Six-Year Rollout with Lucid and Nuro](https://tech.slashdot.org/story/25/07/17/145222/uber-plans-20000-robotaxis-in-six-year-rollout-with-lucid-and-nuro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-17, 14:24:13](https://lobste.rs/s/mklbl9/lsr_ls_with_io_uring) - [lsr: ls but with io_uring](https://tangled.sh/@rockorager.dev/lsr)
-* [2025-07-17, 13:52:14](https://news.ycombinator.com/item?id=44593441) - [Converting Integers to Floats Using Hyperfocus (2022)](https://blog.m-ou.se/floats/)
 * [2025-07-17, 11:54:46](https://lobste.rs/s/s92ylk/two_simple_rules_fix_code_reviews) - [Two Simple Rules to Fix Code Reviews](https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews)
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss)
 * [2025-07-17, 07:07:00](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss)
@@ -158,9 +161,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-16, 02:51:00](https://soylentnews.org/article.pl?sid=25/07/14/1819237&amp;from=rss) - [GPS On The Fritz? Britain And France Plot A Backup Plan](https://soylentnews.org/article.pl?sid=25/07/14/1819237&amp;from=rss)
 * [2025-07-15, 22:13:00](https://soylentnews.org/article.pl?sid=25/07/14/188221&amp;from=rss) - [Snot-Filtering Tech Could Be The Answer To A Dust-Free PC](https://soylentnews.org/article.pl?sid=25/07/14/188221&amp;from=rss)
 * [2025-07-15, 17:24:00](https://soylentnews.org/article.pl?sid=25/07/14/1758208&amp;from=rss) - [Princeton Study Maps 200,000 years of Human–Neanderthal Interbreeding](https://soylentnews.org/article.pl?sid=25/07/14/1758208&amp;from=rss)
-* [2025-07-15, 16:21:59](https://news.ycombinator.com/item?id=44572807) - [Sage: An atomic bomb kicked off the biggest computing project in history](https://www.ibm.com/history/sage)
-* [2025-07-15, 15:18:48](https://news.ycombinator.com/item?id=44572068) - [Show HN: Simulating autonomous drone formations](https://github.com/sushrut141/ketu)
+* [2025-07-15, 16:57:06](https://news.ycombinator.com/item?id=44573287) - [The Halo Effect](https://kwokchain.com/2025/07/15/the-halo-effect/)
 * [2025-07-15, 12:45:00](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss) - [AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds](https://soylentnews.org/article.pl?sid=25/07/14/1740236&amp;from=rss)
+* [2025-07-15, 12:22:33](https://news.ycombinator.com/item?id=44570389) - [Show HN: OrioleDB Beta12 Features and Benchmarks](https://www.orioledb.com/blog/orioledb-beta12-benchmarks)
 * [2025-07-15, 11:39:18](https://news.ycombinator.com/item?id=44570113) - [C++: zero-cost static initialization](https://cofault.com/zero-cost-static.html)
 * [2025-07-15, 08:11:19](https://news.ycombinator.com/item?id=44569032) - [Trying Guix: A Nixer&apos;s impressions](https://tazj.in/blog/trying-guix)
 * [2025-07-15, 08:02:00](https://soylentnews.org/article.pl?sid=25/07/14/0944243&amp;from=rss) - [Core Ultra 5 245HX Blasts Past Desktop Counterpart in PassMark](https://soylentnews.org/article.pl?sid=25/07/14/0944243&amp;from=rss)
