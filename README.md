@@ -1,46 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Genetic Innovations
+## Science and Technology Breakthroughs
 
-* [Healthy Babies Born in Britain After Scientists Used DNA From Three People to Avoid Genetic Disease](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Healthy Babies Born in Britain After Scientists Used DNA From Three People to Avoid Genetic Disease](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists achieve a major breakthrough in genetics to prevent inherited diseases.
 
-## Technology and Innovation
+* [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A pioneering chip combining electronics and photonics is manufactured in a commercial foundry.
 
-* [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Artificial Intelligence and Programming
 
-* [Android Phones Can Detect Earthquakes Before the Ground Starts Shaking](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) - A comprehensive analysis comparing large language model architectures.
 
-* [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583) ([Comments](https://news.ycombinator.com/item?id=44618762))
+* [Rethinking CLI Interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/) - Exploring innovative ways to design command-line interfaces for AI.
 
-* [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/) ([Comments](https://news.ycombinator.com/item?id=44617184))
+* [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai) - Reflections on the evolving nature of AI development practices.
 
-## Environmental and Health Concerns
+## Open Source and Software Tools
 
-* [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm) ([Comments](https://news.ycombinator.com/item?id=44621268))
+* [Show HN: MCP Server for Blender that Builds 3D Scenes via Natural Language](https://blender-mcp-psi.vercel.app/) - A tool enabling natural language commands to create 3D scenes in Blender.
 
-* [In Shallow Water Ships Trigger Seafloor Methane Emissions, Study Finds](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Borg – Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/) - A robust tool for secure and efficient data backups.
 
-## Software and Cloud
+* [metap: A Meta-Programming Layer for Python](https://sbaziotis.com/compilers/metap.html) - Innovative meta-programming framework to simplify Python code.
 
-* [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/) ([Comments](https://news.ycombinator.com/item?id=44621487))
+## Sociopolitical and Ethical Issues
 
-* [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/) ([Comments](https://lobste.rs/s/3cigc9/structuring_large_clojure_codebases))
+* [Ring Introducing New Feature to Allow Police to Live-Stream Access to Cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance) - Concerns raised about privacy and surveillance with Amazon Ring’s new feature.
 
-* [Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling](https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9) ([Comments](https://news.ycombinator.com/item?id=44616760))
+* [23andMe's Data Sold to Nonprofit Run by Its Co-Founder - 'And I Still Don't Trust It'](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversy over data privacy in genetic testing.
 
-## Controversial News
+## Cultural and Philosophical Reflections
 
-* [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit) ([Comments](https://news.ycombinator.com/item?id=44621675))
+* [The Bewildering Phenomenon of Declining Quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html) - Analyzing the cultural decline in quality across various domains.
 
-* [Ring introducing new feature to allow police to live-stream access to cameras](https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance) ([Comments](https://news.ycombinator.com/item?id=44620002))
+* [Death by AI](https://davebarry.substack.com/p/death-by-ai) - Satirical yet thought-provoking take on AI's pitfalls.
 
-* [23andMe's Data Sold to Nonprofit Run by Its Co-Founder - 'And I Still Don't Trust It'](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Historical and Legacy Highlights
 
-## Historical and Cultural Insights
+* [What Eyewitnesses Remembered About the World's First Atomic Bomb Explosion in 1945](https://tech.slashdot.org/story/25/07/19/187249/what-eyewitnesses-remembered-about-the-worlds-first-atomic-bomb-explosion-in-1945?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Recollections of a pivotal moment in history.
 
-* [What Eyewitnesses Remembered About the World's First Atomic Bomb Explosion in 1945](https://tech.slashdot.org/story/25/07/19/187249/what-eyewitnesses-remembered-about-the-worlds-first-atomic-bomb-explosion-in-1945?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/07/19/187249/what-eyewitnesses-remembered-about-the-worlds-first-atomic-bomb-explosion-in-1945?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [After 30 Years, You Can Buy a New 'Commodore 64 Ultimate' for $299](https://slashdot.org/story/25/07/19/0528234/after-30-years-you-can-buy-a-new-commodore-64-ultimate-for-299?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Nostalgia meets modern computing capabilities.
 
-* [After 30 Years, You Can Buy a New 'Commodore 64 Ultimate' for $299](https://slashdot.org/story/25/07/19/0528234/after-30-years-you-can-buy-a-new-commodore-64-ultimate-for-299?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/25/07/19/0528234/after-30-years-you-can-buy-a-new-commodore-64-ultimate-for-299?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Environmental and Climate Considerations
+
+* [In Shallow Water Ships Trigger Seafloor Methane Emissions, Study Finds](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining the unintended ecological impacts of maritime activities.
+
+* [Most Warming This Century May Be Due To Air Pollution Cuts](https://soylentnews.org/article.pl?sid=25/07/18/0920228&amp;from=rss) - Surprising findings on the relationship between air pollution and global warming.
 
 ---
 
@@ -67,19 +71,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-20, 09:40:45](https://lobste.rs/s/szcq9k/async_i_o_on_linux_durability) - [Async I/O on Linux and durability](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
+* [2025-07-20, 08:26:20](https://news.ycombinator.com/item?id=44623036) - [“I noticed a clear violation of our contributing guidelines”](https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548)
+* [2025-07-20, 08:10:51](https://news.ycombinator.com/item?id=44622953) - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
+* [2025-07-20, 08:02:00](https://news.slashdot.org/story/25/07/20/058235/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jack Dorsey Pumps $10M Into a Nonprofit Focused on Open Source Social Media](https://news.slashdot.org/story/25/07/20/058235/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-20, 06:56:01](https://news.ycombinator.com/item?id=44622608) - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+* [2025-07-20, 06:42:58](https://news.ycombinator.com/item?id=44622543) - [Roman Roads Research Association (UK)](https://www.romanroads.org/index.html)
+* [2025-07-20, 06:20:02](https://news.ycombinator.com/item?id=44622454) - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 * [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss)
+* [2025-07-20, 06:03:33](https://news.ycombinator.com/item?id=44622382) - [Will the Fear of Being Confused for AI Mean That We Will Now Write Differently?](https://3quarksdaily.com/3quarksdaily/2025/06/will-the-fear-of-being-confused-for-ai-mean-that-we-will-now-write-differently.html)
+* [2025-07-20, 06:01:45](https://news.ycombinator.com/item?id=44622374) - [Show HN: MCP server for Blender that builds 3D scenes via natural language](https://blender-mcp-psi.vercel.app/)
 * [2025-07-20, 04:02:00](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Healthy Babies Born in Britain After Scientists Used DNA From Three People to Avoid Genetic Disease](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-20, 03:14:26](https://news.ycombinator.com/item?id=44621675) - [Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges](https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit)
-* [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg - Deduplicating Archiver with Compression and Encryption](https://www.borgbackup.org/)
+* [2025-07-20, 02:36:53](https://news.ycombinator.com/item?id=44621487) - [Borg – Deduplicating archiver with compression and encryption](https://www.borgbackup.org/)
 * [2025-07-20, 02:23:13](https://lobste.rs/s/3cigc9/structuring_large_clojure_codebases) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-20, 02:23:00](https://games.slashdot.org/story/25/07/20/0219213/that-coldplay-kiss-cam-couple-just-became-a-vibe-coded-videogame---and-then-an-nft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [That Coldplay &apos;Kiss Cam&apos; Couple Just Became a Vibe-Coded Videogame - and Then an NFT](https://games.slashdot.org/story/25/07/20/0219213/that-coldplay-kiss-cam-couple-just-became-a-vibe-coded-videogame---and-then-an-nft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-20, 02:02:44](https://news.ycombinator.com/item?id=44621268) - [Erythritol linked to brain cell damage and stroke risk](https://www.sciencedaily.com/releases/2025/07/250718035156.htm)
-* [2025-07-20, 01:33:47](https://news.ycombinator.com/item?id=44621119) - [New York’s bill banning One-Person Train Operation](https://www.etany.org/statements/impeding-progress-costing-riders-opto)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss)
+* [2025-07-20, 01:28:35](https://news.ycombinator.com/item?id=44621088) - [The AGI Final Frontier: The CLJ-AGI Benchmark](https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark)
 * [2025-07-20, 00:44:00](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-20, 00:13:17](https://lobste.rs/s/sjzggo/parallelizing_physics_solver) - [Parallelizing the physics solver](https://youtu.be/Kvsvd67XUKw)
-* [2025-07-19, 23:58:18](https://news.ycombinator.com/item?id=44620623) - [I Used Arch, BTW: macOS, Day 1](https://yberreby.com/posts/i-used-arch-btw-macos-day-1/)
-* [2025-07-19, 23:54:40](https://news.ycombinator.com/item?id=44620606) - [Beyond Meat Fights for Survival](https://foodinstitute.com/focus/beyond-meat-fights-for-survival/)
+* [2025-07-19, 23:54:40](https://news.ycombinator.com/item?id=44620606) - [Beyond Meat fights for survival](https://foodinstitute.com/focus/beyond-meat-fights-for-survival/)
 * [2025-07-19, 23:35:08](https://lobste.rs/s/jtd0b1/giving_up_on_element_matrix_org) - [Giving Up on Element &amp; Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 22:50:40](https://lobste.rs/s/z2ehwo/borrowchecker_is_what_i_like_least_about) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
 * [2025-07-19, 22:34:00](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [23andMe&apos;s Data Sold to Nonprofit Run by Its Co-Founder - &apos;And I Still Don&apos;t Trust It&apos;](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,17 +97,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-19, 22:11:12](https://lobste.rs/s/pv4vxu/why_you_should_choose_htmx_for_your_next) - [Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA](https://hamy.xyz/blog/2024-02_htmx-for-side-projects)
 * [2025-07-19, 21:34:00](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In Shallow Water Ships Trigger Seafloor Methane Emissions, Study Finds](https://news.slashdot.org/story/25/07/19/1958211/in-shallow-water-ships-trigger-seafloor-methane-emissions-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 21:19:56](https://lobste.rs/s/8wrzuo/metap_meta_programming_layer_for_python) - [metap: A Meta-Programming Layer for Python](https://sbaziotis.com/compilers/metap.html)
-* [2025-07-19, 20:50:40](https://news.ycombinator.com/item?id=44619258) - [The future of ultra-fast passenger travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)
 * [2025-07-19, 20:34:00](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android Phones Can Detect Earthquakes Before the Ground Starts Shaking](https://news.slashdot.org/story/25/07/19/1934209/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 20:33:00](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss) - [The Fascinating Science of Pain – and Why Everyone Feels it Differently](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss)
-* [2025-07-19, 20:15:26](https://news.ycombinator.com/item?id=44618959) - [Trigon: Exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
 * [2025-07-19, 20:13:54](https://lobste.rs/s/toitpk/trigon_exploiting_coprocessors_for_fun) - [Trigon: exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
-* [2025-07-19, 19:52:30](https://news.ycombinator.com/item?id=44618762) - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
 * [2025-07-19, 19:43:23](https://news.ycombinator.com/item?id=44618687) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 19:41:15](https://lobste.rs/s/3isa6t/make_your_own_backup_system_part_1) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 19:34:00](https://tech.slashdot.org/story/25/07/19/187249/what-eyewitnesses-remembered-about-the-worlds-first-atomic-bomb-explosion-in-1945?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Eyewitnesses Remembered About the World&apos;s First Atomic Bomb Explosion in 1945](https://tech.slashdot.org/story/25/07/19/187249/what-eyewitnesses-remembered-about-the-worlds-first-atomic-bomb-explosion-in-1945?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 19:27:50](https://news.ycombinator.com/item?id=44618535) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
-* [2025-07-19, 19:01:56](https://news.ycombinator.com/item?id=44618335) - [What the Fuck Python](https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb)
 * [2025-07-19, 18:34:00](https://tech.slashdot.org/story/25/07/19/168254/boeing-fuel-switches-checked-as-critic-cites-a-similar-fuel-switch-cutoff-in-2019?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boeing Fuel Switches Checked, as Critic Cites a Similar Fuel Switch Cutoff in 2019](https://tech.slashdot.org/story/25/07/19/168254/boeing-fuel-switches-checked-as-critic-cites-a-similar-fuel-switch-cutoff-in-2019?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 17:45:20](https://lobste.rs/s/xh8lz6/faq_what_s_kevlinhenney) - [FAQ: What’s a @KevlinHenney?](https://kevlinhenney.medium.com/faq-whats-a-kevlinhenney-cc98d172f811)
 * [2025-07-19, 17:34:00](https://it.slashdot.org/story/25/07/19/0659227/chinese-companies-now-authorized-to-conduct-foreign-cyberattacks-sell-access-to-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Companies Now Authorized to Conduct Foreign Cyberattacks, Sell Access to Government](https://it.slashdot.org/story/25/07/19/0659227/chinese-companies-now-authorized-to-conduct-foreign-cyberattacks-sell-access-to-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -119,8 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-19, 11:03:00](https://lobste.rs/s/cwmt11/do_you_understand_f_strings) - [Do you understand f-strings?](https://fstrings.wtf/)
 * [2025-07-19, 10:00:00](https://news.slashdot.org/story/25/07/19/0028202/microsoft-to-stop-using-engineers-in-china-for-tech-support-of-us-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Stop Using Engineers In China For Tech Support of US Military](https://news.slashdot.org/story/25/07/19/0028202/microsoft-to-stop-using-engineers-in-china-for-tech-support-of-us-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 08:26:20](https://lobste.rs/s/p0ylu1/linux_secure_boot_certificate) - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)
-* [2025-07-19, 07:58:26](https://news.ycombinator.com/item?id=44613486) - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
-* [2025-07-19, 07:00:00](https://science.slashdot.org/story/25/07/18/2228201/largest-piece-of-mars-on-earth-fetches-53-million-at-auction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Largest Piece of Mars On Earth Fetches $5.3 Million At Auction](https://science.slashdot.org/story/25/07/18/2228201/largest-piece-of-mars-on-earth-fetches-53-million-at-auction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-19, 06:20:00](https://soylentnews.org/article.pl?sid=25/07/18/0136203&amp;from=rss) - [Two Guys Hated Using Comcast, So They Built Their Own Fiber ISP](https://soylentnews.org/article.pl?sid=25/07/18/0136203&amp;from=rss)
 * [2025-07-19, 01:37:00](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss) - [Radio Hobbyists, Rejoice! Good News for LoRa &amp; Mesh](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss)
 * [2025-07-18, 23:43:41](https://lobste.rs/s/vaqh5i/shutting_down_clear_linux_os) - [Shutting down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
@@ -133,7 +137,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-18, 16:10:00](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss) - [DOGE Staffer With Access to Americans&apos; Personal Data Leaked Private xAI API Key](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss)
 * [2025-07-18, 15:56:40](https://lobste.rs/s/fzjq4y/jsonptr_using_wuffs_memory_safe_zero) - [Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder (2020)](https://nigeltao.github.io/blog/2020/jsonptr.html)
 * [2025-07-18, 15:49:02](https://lobste.rs/s/hoxhnw/petition_repeal_online_safety_act) - [Petition: Repeal the Online Safety Act](https://petition.parliament.uk/petitions/722903)
-* [2025-07-18, 12:31:17](https://lobste.rs/s/99mqr2/servo_adds_support_for_network_inspector) - [Servo adds support for network inspector devtools](https://servo.org/blog/2025/07/17/this-month-in-servo/)
 * [2025-07-18, 11:26:00](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss) - [Intel Axes Thousands of Technicians and Engineers in Sweeping U.S. Layoffs](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss)
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss)
 * [2025-07-18, 02:25:13](https://lobste.rs/s/l8a8zq/nih_is_far_cheaper_than_wrong_dependency) - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
@@ -143,16 +146,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-17, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/16/182208&amp;from=rss) - [Holographic Ribbon Aims To Oust Magnetic Tape With 50-Year Life Span And 200Tb Per Cartridge](https://soylentnews.org/article.pl?sid=25/07/16/182208&amp;from=rss)
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss)
 * [2025-07-17, 10:43:05](https://news.ycombinator.com/item?id=44591775) - [Mushroom learns to crawl after being given robot body (2024)](https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html)
-* [2025-07-17, 09:16:41](https://news.ycombinator.com/item?id=44591332) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
-* [2025-07-17, 07:26:22](https://news.ycombinator.com/item?id=44590671) - [\&quot;Bypassing\&quot; Specialization in Rust or How I Learned to Stop Worrying and Love F](https://oakchris1955.eu/posts/bypassing_specialization/)
+* [2025-07-17, 07:26:22](https://news.ycombinator.com/item?id=44590671) - [“Bypassing” specialization in Rust](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 07:07:00](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss)
 * [2025-07-17, 06:39:17](https://news.ycombinator.com/item?id=44590391) - [How to Run an Arduino for Years on a Battery (2021)](https://makecademy.com/arduino-battery)
 * [2025-07-17, 02:22:00](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss) - [Merger of Two Massive Black Holes is One for the Record Books](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss)
+* [2025-07-16, 22:25:42](https://news.ycombinator.com/item?id=44587486) - [Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping](https://www.preprints.org/manuscript/202507.1198/v1)
 * [2025-07-16, 21:33:00](https://soylentnews.org/article.pl?sid=25/07/15/1642247&amp;from=rss) - [Nvidia CEO says China&apos;s Military Will Avoid U.S. AI Tech](https://soylentnews.org/article.pl?sid=25/07/15/1642247&amp;from=rss)
+* [2025-07-16, 20:08:41](https://news.ycombinator.com/item?id=44586283) - [First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/)
 * [2025-07-16, 18:25:14](https://news.ycombinator.com/item?id=44585370) - [Matterport walkthrough of the original Microsoft Building 3](https://my.matterport.com/show/?m=SZSV6vjcf4L)
 * [2025-07-16, 16:53:00](https://soylentnews.org/article.pl?sid=25/07/15/1528250&amp;from=rss) - [Texas Governor Says His Emails With Elon Musk are Too ‘Intimate or Embarrassing’ to Release](https://soylentnews.org/article.pl?sid=25/07/15/1528250&amp;from=rss)
-* [2025-07-16, 16:52:11](https://news.ycombinator.com/item?id=44584414) - [Zig Interface Revisited](https://williamw520.github.io/2025/07/13/zig-interface-revisited.html)
 * [2025-07-16, 15:25:30](https://news.ycombinator.com/item?id=44583316) - [Hungary&apos;s oldest library is fighting to save books from a beetle infestation](https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles)
+* [2025-07-16, 14:21:20](https://news.ycombinator.com/item?id=44582694) - [A Treatise for One Network – Anonymous National Deliberation [pdf]](https://simurgh-beau.github.io/)
 * [2025-07-16, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/15/0229246&amp;from=rss) - [Secretive Chinese Satellite Emerges in Surprising Orbit After 6-Day Vanishing Act](https://soylentnews.org/article.pl?sid=25/07/15/0229246&amp;from=rss)
 * [2025-07-16, 10:14:42](https://news.ycombinator.com/item?id=44580567) - [I tried vibe coding in BASIC and it didn&apos;t go well](https://www.goto10retro.com/p/vibe-coding-in-basic)
 * [2025-07-16, 07:34:00](https://soylentnews.org/article.pl?sid=25/07/14/1828216&amp;from=rss) - [Stopping The Rot When Good Software Goes Bad Means New Rules](https://soylentnews.org/article.pl?sid=25/07/14/1828216&amp;from=rss)
