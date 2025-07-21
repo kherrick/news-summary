@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Space Discoveries
+## Technological Innovations and Discoveries
 
-* [Fossil Discovered Beyond Pluto Implies 'Something Dramatic' Happened 400M Years Ago](https://science.slashdot.org/story/25/07/21/0120233/fossil-discovered-beyond-pluto-implies-something-dramatic-happened-400m-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists have discovered a 'fossil' object beyond Pluto, suggesting a dramatic event reshaped the solar system 400 million years ago.
+* [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin) - A novel way to control Daikin air conditioning units using the ESP32 microcontroller.
 
-## Technology and Infrastructure Advancements
+* [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking quantum chip integrating electronic and photonic components, created in a commercial setting.
 
-* [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers unveil the first quantum chip combining electronic and photonic components on a commercial production line.
+* [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling) - Samsung explores advanced cooling technology without using refrigerants.
 
-* [Healthy Babies Born in Britain After Scientists Used DNA From Three People to Avoid Genetic Disease](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists made significant progress in genetic engineering by successfully using DNA from three individuals to avoid transmitting genetic diseases.
+* [Claude Jailbroken to Mint Unlimited Stripe Coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit) - Insights into exploiting ChatGPT-derived AI to generate Stripe discount codes.
 
-## Security and Cyber Threats
+## Cosmic and Environmental Insights
 
-* [Remote Access Trojan (RAT) Found in the AUR (Arch Linux User Repository)](https://soylentnews.org/article.pl?sid=25/07/20/1854256&amp;from=rss) - A Remote Access Trojan (RAT) was discovered in Arch Linux's User Repository, sparking concern over security in open-source ecosystems.
+* ['Fossil' Discovered Beyond Pluto Implies 'Something Dramatic' Happened 400M Years Ago](https://science.slashdot.org/story/25/07/21/0120233/fossil-discovered-beyond-pluto-implies-something-dramatic-happened-400m-years-ago?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A mysterious discovery hints at a dramatic, ancient cosmic event.
 
-* [Tens of Thousands of SharePoint Servers at Risk. Microsoft Issues No Patch](https://it.slashdot.org/story/25/07/20/2340220/tens-of-thousands-of-sharepoint-servers-at-risk-microsoft-issues-no-patch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A critical SharePoint vulnerability leaves many servers at risk as Microsoft opts not to release a patch.
+* [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&from=rss) - Research reveals faster-than-expected transformation of industrial waste into stable rock formations.
 
-## Unique Applications of AI and Technology
+* [Merger of Two Massive Black Holes is One for the Record Books](https://soylentnews.org/article.pl?sid=25/07/15/1735235&from=rss) - A remarkable merger of black holes sets new records in astrophysics.
 
-* [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit) - A report reveals how iMessage integration in Claude AI enables hijacking for misuse.
+## Artificial Intelligence and Software Insights
 
-* [Exploring the Secrets of layoutPriority in SwiftUI ZStack](https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/) - Delve into SwiftUI’s ZStack layoutPriority, uncovering its intricacies for efficient app design.
+* [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count) - A discussion on time-based logging strategies for software systems.
 
-## Cultural and Business Insights
+* [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154) - An updated perspective on utilizing large language models for coding.
 
-* [Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)](https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/) - A review explores how the sitcom 'Peep Show' portrays human morality and subtle evil in daily life.
+* [Responsible AI in Enterprise Applications: A Practitioner's View](https://www.jjude.com/responsible-ai-in-enterprise-apps/) - Practical insights about deploying responsible AI into enterprise-level applications.
 
-* [How Gmail Server Evidence Led to a Jury Verdict of $23.2 Million For Wrongful Death](https://yro.slashdot.org/story/25/07/20/1559242/how-gmail-server-evidence-led-to-a-jury-verdict-of-232-million-for-wrongful-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A wrongful death lawsuit leveraged Gmail server evidence, resulting in a $23.2 million court ruling.
+## Security and Ethical Questions
 
-## Sustainability and Environmental Innovation
+* [Remote Access Trojan (RAT) Found in the AUR (Arch Linux User Repository)](https://soylentnews.org/article.pl?sid=25/07/20/1854256&from=rss) - A security vulnerability involving a Trojan found in Linux's AUR.
 
-* [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling) - Samsung pioneers Peltier-based cooling technology to reduce reliance on traditional refrigerants.
+* ['Tens of Thousands' of SharePoint Servers at Risk. Microsoft Issues No Patch](https://it.slashdot.org/story/25/07/20/2340220/tens-of-thousands-of-sharepoint-servers-at-risk-microsoft-issues-no-patch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's handling of a major vulnerability impacting SharePoint servers.
 
-* [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - Researchers report fast transformation of industrial waste into rock, offering potential carbon sequestration benefits.
+* [Why not to use iframes for embedded dashboards](https://embeddable.com/blog/iframes-for-embedding) - A cautionary piece on security risks and drawbacks of embedding via iframes.
 
-## Emerging Trends in Software and Development
+## Unusual Findings and Stories
 
-* [Rust Clippy performance status update](https://blog.goose.love/posts/clippy-performance-status-update/) - A performance update on Rust's Clippy tool highlights improvements in its static analysis capabilities.
+* [The Genius Device That Rocked F1](https://www.youtube.com/watch?v=FhmLb2DhNYM) - Explore an innovative F1 device that transformed the sport.
 
-* [Parallelizing the physics solver](https://youtu.be/Kvsvd67XUKw) - A deep dive into techniques for improving physics solvers through parallel processing.
+* [That Coldplay 'Kiss Cam' Couple Just Became a Vibe-Coded Videogame - and Then an NFT](https://games.slashdot.org/story/25/07/20/0219213/that-coldplay-kiss-cam-couple-just-became-a-vibe-coded-videogame---and-then-an-nft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A quirky cross-media journey from a concert moment to NFT and game.
 
 ---
 
@@ -65,12 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-21, 03:38:31](https://lobste.rs/s/zqttvz/esp32_faikin_esp32_based_module_control) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:44:00](https://science.slashdot.org/story/25/07/21/0120233/fossil-discovered-beyond-pluto-implies-something-dramatic-happened-400m-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Fossil&apos; Discovered Beyond Pluto Implies &apos;Something Dramatic&apos; Happened 400M Years Ago](https://science.slashdot.org/story/25/07/21/0120233/fossil-discovered-beyond-pluto-implies-something-dramatic-happened-400m-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-21, 01:40:05](https://lobste.rs/s/25zyzd/tools_trade) - [Tools of the Trade](https://www.youtube.com/watch?v=YNtoDGS4uak)
+* [2025-07-21, 01:22:00](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss) - [Open, Free, and Completely Ignored: The Strange Afterlife of Symbian](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss)
 * [2025-07-21, 01:15:55](https://news.ycombinator.com/item?id=44630927) - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
 * [2025-07-21, 00:59:34](https://lobste.rs/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for) - [Is there any good onboarding SaaS tool for iOS apps?](https://lobste.rs/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for)
-* [2025-07-21, 00:53:21](https://news.ycombinator.com/item?id=44630815) - [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
-* [2025-07-21, 00:33:04](https://news.ycombinator.com/item?id=44630724) - [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
-* [2025-07-21, 00:23:33](https://news.ycombinator.com/item?id=44630676) - [Computational Complexity of Neural Networks](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
+* [2025-07-21, 00:53:21](https://news.ycombinator.com/item?id=44630815) - [Claude Jailbroken to Mint Unlimited Stripe Coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit)
+* [2025-07-21, 00:33:04](https://news.ycombinator.com/item?id=44630724) - [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
+* [2025-07-21, 00:23:33](https://news.ycombinator.com/item?id=44630676) - [Computational complexity of neural networks (2022)](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
 * [2025-07-21, 00:16:25](https://news.ycombinator.com/item?id=44630648) - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
 * [2025-07-20, 23:59:39](https://news.ycombinator.com/item?id=44630551) - [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
 * [2025-07-20, 23:44:00](https://it.slashdot.org/story/25/07/20/2340220/tens-of-thousands-of-sharepoint-servers-at-risk-microsoft-issues-no-patch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Tens of Thousands&apos; of SharePoint Servers at Risk. Microsoft Issues No Patch](https://it.slashdot.org/story/25/07/20/2340220/tens-of-thousands-of-sharepoint-servers-at-risk-microsoft-issues-no-patch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -85,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-20, 21:00:52](https://lobste.rs/s/hqbhxk/exploring_secrets_layoutpriority) - [Exploring the Secrets of layoutPriority in SwiftUI ZStack](https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/)
 * [2025-07-20, 20:51:41](https://news.ycombinator.com/item?id=44629206) - [FFmpeg devs boast of another 100x leap thanks to handwritten assembly code](https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code)
 * [2025-07-20, 20:44:00](https://slashdot.org/story/25/07/20/2041256/how-did-amazon-spin-this-years-prime-day-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Did Amazon Spin This Year&apos;s Prime Day Sales?](https://slashdot.org/story/25/07/20/2041256/how-did-amazon-spin-this-years-prime-day-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-20, 20:43:16](https://news.ycombinator.com/item?id=44629134) - [Tough news for our UK users](https://blog.janitorai.com/posts/3/)
 * [2025-07-20, 20:35:36](https://news.ycombinator.com/item?id=44629074) - [EU commissioner shocked by dangers of some goods sold by Shein and Temu](https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu)
 * [2025-07-20, 20:35:00](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss) - [Iran Seeks Three Cloud Providers To Power Its Government](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss)
 * [2025-07-20, 20:18:54](https://news.ycombinator.com/item?id=44628930) - [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
@@ -115,14 +117,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-20, 11:04:02](https://news.ycombinator.com/item?id=44623953) - [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 * [2025-07-20, 11:04:00](https://soylentnews.org/article.pl?sid=25/07/19/0033258&amp;from=rss) - [The Latest Windows PCs Remember Everything](https://soylentnews.org/article.pl?sid=25/07/19/0033258&amp;from=rss)
 * [2025-07-20, 09:40:45](https://lobste.rs/s/szcq9k/async_i_o_on_linux_durability) - [Async I/O on Linux and durability](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
-* [2025-07-20, 09:33:48](https://news.ycombinator.com/item?id=44623361) - [AI is killing the web – can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
 * [2025-07-20, 08:02:00](https://news.slashdot.org/story/25/07/20/058235/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jack Dorsey Pumps $10M Into a Nonprofit Focused on Open Source Social Media](https://news.slashdot.org/story/25/07/20/058235/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss)
 * [2025-07-20, 04:02:00](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Healthy Babies Born in Britain After Scientists Used DNA From Three People to Avoid Genetic Disease](https://science.slashdot.org/story/25/07/20/0328203/healthy-babies-born-in-britain-after-scientists-used-dna-from-three-people-to-avoid-genetic-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-20, 02:23:00](https://games.slashdot.org/story/25/07/20/0219213/that-coldplay-kiss-cam-couple-just-became-a-vibe-coded-videogame---and-then-an-nft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [That Coldplay &apos;Kiss Cam&apos; Couple Just Became a Vibe-Coded Videogame - and Then an NFT](https://games.slashdot.org/story/25/07/20/0219213/that-coldplay-kiss-cam-couple-just-became-a-vibe-coded-videogame---and-then-an-nft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss)
 * [2025-07-20, 00:44:00](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Electronic-Photonic Quantum Chip Created In Commercial Foundry](https://hardware.slashdot.org/story/25/07/20/0042202/first-electronic-photonic-quantum-chip-created-in-commercial-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-20, 00:13:17](https://lobste.rs/s/sjzggo/parallelizing_physics_solver) - [Parallelizing the physics solver](https://youtu.be/Kvsvd67XUKw)
 * [2025-07-19, 23:35:08](https://lobste.rs/s/jtd0b1/giving_up_on_element_matrix_org) - [Giving Up on Element &amp; Matrix.org](https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/)
 * [2025-07-19, 22:50:40](https://lobste.rs/s/z2ehwo/borrowchecker_is_what_i_like_least_about) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
 * [2025-07-19, 22:34:00](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [23andMe&apos;s Data Sold to Nonprofit Run by Its Co-Founder - &apos;And I Still Don&apos;t Trust It&apos;](https://science.slashdot.org/story/25/07/19/0252236/23andmes-data-sold-to-nonprofit-run-by-its-co-founder---and-i-still-dont-trust-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -131,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-19, 20:33:00](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss) - [The Fascinating Science of Pain – and Why Everyone Feels it Differently](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss)
 * [2025-07-19, 19:41:15](https://lobste.rs/s/3isa6t/make_your_own_backup_system_part_1) - [Make Your Own Backup System – Part 1: Strategy Before Scripts](https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/)
 * [2025-07-19, 17:24:39](https://lobste.rs/s/naiwvd/my_ultimate_self_hosting_setup) - [My Ultimate Self-hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
-* [2025-07-19, 16:57:09](https://lobste.rs/s/czx98y/rethinking_cli_interfaces_for_ai) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 15:50:00](https://soylentnews.org/article.pl?sid=25/07/18/0939219&amp;from=rss) - [FuguIta: OpenBSD Live CD - Desktop Environment Demo Version with XFCE v.4.20.0](https://soylentnews.org/article.pl?sid=25/07/18/0939219&amp;from=rss)
 * [2025-07-19, 11:17:48](https://news.ycombinator.com/item?id=44614510) - [SIOF (Scheme in One File) – A Minimal R7RS Scheme System](https://github.com/false-schemers/siof)
 * [2025-07-19, 11:08:00](https://soylentnews.org/article.pl?sid=25/07/18/0920228&amp;from=rss) - [Most Warming This Century May Be Due To Air Pollution Cuts](https://soylentnews.org/article.pl?sid=25/07/18/0920228&amp;from=rss)
@@ -140,6 +139,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-19, 01:37:00](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss) - [Radio Hobbyists, Rejoice! Good News for LoRa &amp; Mesh](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss)
 * [2025-07-18, 20:55:00](https://soylentnews.org/article.pl?sid=25/07/18/0111248&amp;from=rss) - [Drones, AI and Robot Pickers: Meet the Fully Autonomous Farm](https://soylentnews.org/article.pl?sid=25/07/18/0111248&amp;from=rss)
 * [2025-07-18, 16:10:00](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss) - [DOGE Staffer With Access to Americans&apos; Personal Data Leaked Private xAI API Key](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss)
+* [2025-07-18, 13:13:33](https://news.ycombinator.com/item?id=44604311) - [Using the Matrix Cores of AMD RDNA 4 Architecture GPUs](https://gpuopen.com/learn/using_matrix_core_amd_rdna4/)
 * [2025-07-18, 11:48:39](https://news.ycombinator.com/item?id=44603657) - [Why not to use iframes for embedded dashboards](https://embeddable.com/blog/iframes-for-embedding)
 * [2025-07-18, 11:26:00](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss) - [Intel Axes Thousands of Technicians and Engineers in Sweeping U.S. Layoffs](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss)
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss)
@@ -151,8 +151,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-17, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/16/182208&amp;from=rss) - [Holographic Ribbon Aims To Oust Magnetic Tape With 50-Year Life Span And 200Tb Per Cartridge](https://soylentnews.org/article.pl?sid=25/07/16/182208&amp;from=rss)
 * [2025-07-17, 16:01:17](https://news.ycombinator.com/item?id=44594808) - [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
 * [2025-07-17, 15:43:04](https://news.ycombinator.com/item?id=44594584) - [Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once](https://conductor.build/)
+* [2025-07-17, 15:34:29](https://news.ycombinator.com/item?id=44594486) - [Slow Motion Became Cinema&apos;s Dominant Special Effect](https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime)
 * [2025-07-17, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss) - [AI Slows Down Some Experienced Software Developers](https://soylentnews.org/article.pl?sid=25/07/16/1758241&amp;from=rss)
-* [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [Jove (Jonathan&apos;s Own Version of Emacs)](https://en.wikipedia.org/wiki/JOVE)
+* [2025-07-17, 09:35:37](https://news.ycombinator.com/item?id=44591439) - [JOVE – Jonathan’s Own Version of Emacs (1983)](https://github.com/jonmacs/jove/)
 * [2025-07-17, 09:12:26](https://news.ycombinator.com/item?id=44591305) - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 * [2025-07-17, 07:07:00](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss) - [Industrial Waste is Turning Into Rock in Just Decades, Study Suggests](https://soylentnews.org/article.pl?sid=25/07/16/1725249&amp;from=rss)
 * [2025-07-17, 02:22:00](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss) - [Merger of Two Massive Black Holes is One for the Record Books](https://soylentnews.org/article.pl?sid=25/07/15/1735235&amp;from=rss)
