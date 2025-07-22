@@ -1,20 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Employment and Ethical Issues
+## Artificial Intelligence and Technology Innovations
 
-* ["Shameful" CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html) - [Comments](https://news.ycombinator.com/item?id=44644645)
+* [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/) ([comments](https://news.ycombinator.com/item?id=44645391)) - A cynical yet insightful critique on the ongoing AI craze and its speculative trajectory.
 
-* [Spotify Publishes AI-Generated Songs From Dead Artists Without Permission](https://entertainment.slashdot.org/story/25/07/21/2037254/spotify-publishes-ai-generated-songs-from-dead-artists-without-permission?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=44641961)
+* [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/) ([comments](https://news.ycombinator.com/item?id=44642349)) - Fascinating examples of how AI explores unconventional physics experiments that yield valid outcomes.
 
-## Technological Advancements in AI
+* [SoftBank and Open AI's $500 Billion AI Project Struggles To Get Off Ground](https://slashdot.org/story/25/07/21/220229/softbank-and-open-ais-500-billion-ai-project-struggles-to-get-off-ground?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/07/21/220229/softbank-and-open-ais-500-billion-ai-project-struggles-to-get-off-ground?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Challenges to achieve technological and operational feasibility in a massive AI venture.
 
-* [SoftBank and Open AI's $500 Billion AI Project Struggles To Get Off Ground](https://slashdot.org/story/25/07/21/220229/softbank-and-open-ais-500-billion-ai-project-struggles-to-get-off-ground?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=44642349)
+## Cybersecurity and Privacy
 
-* [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/) - [Comments](https://news.ycombinator.com/item?id=44642349)
+* [Anatomy of a SYN-ACK attack](https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack) ([comments](https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack)) - A detailed breakdown of SYN-ACK-related cyberattacks and mitigation methods.
 
-## Transportation Updates
+* [Hackers Exploit a Blind Spot By Hiding Malware Inside DNS Records](https://it.slashdot.org/story/25/07/21/1739207/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/07/21/1739207/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Insights into a novel blind spot exploited by malware within DNS records.
 
-* [Alaska Airlines Resumes Operations After System Glitch Grounds All Flights](https://it.slashdot.org/story/25/07/21/2025255/alaska-airlines-resumes-operations-after-system-glitch-grounds-all-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=44640331.Confirming]
+## AI Ethics and Societal Impacts
+
+* [Spotify Publishes AI-Generated Songs From Dead Artists Without Permission](https://entertainment.slashdot.org/story/25/07/21/2037254/spotify-publishes-ai-generated-songs-from-dead-artists-without-permission?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/07/21/2037254/spotify-publishes-ai-generated-songs-from-dead-artists-without-permission?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Debates over ethical boundaries in using AI for creative works involving deceased personalities.
+
+## Science and Space
+
+* [An unprecedented window into how diseases take hold years before symptoms appear](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits) ([comments](https://news.ycombinator.com/item?id=44602609)) - Insights from genetic and biological data studies predicting diseases pre-symptomatically.
+
+* [Largest piece of Mars on Earth fetches $5.3M at auction](https://apnews.com/article/mars-rock-meteorite-auction-dinosaur-sothebys-01d7ccfc8dc580ad86f8e97a305fc8fa) ([comments](https://news.ycombinator.com/item?id=44609154)) - A rare Martian meteorite becomes an auction landmark.
+
+## Cultural and Historical Highlights
+
+* [Tokyo's retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification) ([comments](https://news.ycombinator.com/item?id=44611298)) - How cultural heritage struggles under urban modernization.
 
 ---
 
@@ -41,15 +53,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-22, 10:57:18](https://news.ycombinator.com/item?id=44645391) - [The Hater&apos;s Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
+* [2025-07-22, 10:52:24](https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack) - [Anatomy of a SYN-ACK attack](https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack)
+* [2025-07-22, 10:51:30](https://news.ycombinator.com/item?id=44645353) - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
+* [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
+* [2025-07-22, 10:33:16](https://lobste.rs/s/5fat5j/openai_hallucinates_silences_as_meaning) - [OpenAI hallucinates silences as \&quot;ترجمة نانسي قنقر\&quot;, meaning \&quot;Translation by Nancy Qunqar\&quot;](https://news.ycombinator.com/item?id=44643564)
+* [2025-07-22, 10:33:00](https://soylentnews.org/article.pl?sid=25/07/21/1642237&amp;from=rss) - [Microsoft Says It Will No Longer Use Engineers in China for Department of Defense Work](https://soylentnews.org/article.pl?sid=25/07/21/1642237&amp;from=rss)
+* [2025-07-22, 10:16:55](https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol) - [A Self-hosted, BSD-native Gemini Protocol Server Stack – The BSD Cafe Journal](https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/)
+* [2025-07-22, 10:05:16](https://lobste.rs/s/2m8sl6/foreword_for_fuzz_testing_book) - [Foreword for Fuzz Testing Book](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2025-07-22, 08:49:44](https://news.ycombinator.com/item?id=44644645) - [&apos;Shameful&apos; CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
-* [2025-07-22, 08:11:57](https://news.ycombinator.com/item?id=44644428) - [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)
 * [2025-07-22, 08:08:37](https://news.ycombinator.com/item?id=44644404) - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 * [2025-07-22, 07:00:35](https://news.ycombinator.com/item?id=44643981) - [Kapa.ai (YC S23) is hiring a software engineers (EU remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
 * [2025-07-22, 06:23:25](https://lobste.rs/s/nfqut5/semi_automated_assembly_verification) - [Semi-Automated Assembly Verification in Python using pypcode Semantics](https://www.philipzucker.com/assembly_verify/)
 * [2025-07-22, 05:47:00](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss) - [Thelonious Monk, the Teenage Weirdo, and the Battle Over a Lost Sonic Masterpiece](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss)
 * [2025-07-22, 05:42:10](https://news.ycombinator.com/item?id=44643564) - [Complete silence is always hallucinated as \&quot;ترجمة نانسي قنقر\&quot; in Arabic](https://github.com/openai/whisper/discussions/2608)
 * [2025-07-22, 04:27:28](https://lobste.rs/s/r79s3w/devenv_1_8_progress_tui_secretspec) - [devenv 1.8: Progress TUI, SecretSpec Integration, Listing Tasks, and Smaller Containers](https://devenv.sh/blog/2025/07/22/devenv-18-progress-tui-secretspec-integration-listing-tasks-and-smaller-containers)
-* [2025-07-22, 02:49:29](https://news.ycombinator.com/item?id=44642796) - [We have made the decision to not continue paying for BBB accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
 * [2025-07-22, 01:40:00](https://slashdot.org/story/25/07/21/220229/softbank-and-open-ais-500-billion-ai-project-struggles-to-get-off-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SoftBank and Open AI&apos;s $500 Billion AI Project Struggles To Get Off Ground](https://slashdot.org/story/25/07/21/220229/softbank-and-open-ais-500-billion-ai-project-struggles-to-get-off-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 01:28:49](https://news.ycombinator.com/item?id=44642349) - [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
 * [2025-07-22, 01:04:00](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss) - [Meta is Building “Several” Multi-Gigawatt Compute Clusters](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss)
@@ -67,15 +85,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-21, 21:49:28](https://lobste.rs/s/h8bfgy/sapling) - [Sapling](https://sapling-scm.com/)
 * [2025-07-21, 21:16:10](https://lobste.rs/s/cvhdvw/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2025-07-21, 21:10:55](https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms) - [Working on a Programming Language in the Age of LLMs](https://ryelang.org/blog/posts/programming-language-in-age-of-llms/)
-* [2025-07-21, 20:57:11](https://news.ycombinator.com/item?id=44640331) - [The surprising geography of American left-handedness (2015)](https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/)
 * [2025-07-21, 20:49:09](https://lobste.rs/s/6uj96z/automating_away_claude_s_bad_habits_with) - [Automating Away Claude&apos;s Bad Habits with Hooks](https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/)
 * [2025-07-21, 20:40:00](https://games.slashdot.org/story/25/07/21/201226/xbox-cloud-games-will-soon-follow-you-across-xbox-pc-and-windows-handhelds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xbox Cloud Games Will Soon Follow You Across Xbox, PC, and Windows Handhelds](https://games.slashdot.org/story/25/07/21/201226/xbox-cloud-games-will-soon-follow-you-across-xbox-pc-and-windows-handhelds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-21, 20:19:00](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss) - [Weird Space Weather Seems to Have Influenced Human Behavior 41,000 years ago](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss)
 * [2025-07-21, 20:00:00](https://yro.slashdot.org/story/25/07/21/1957210/weak-password-allowed-hackers-to-sink-a-158-year-old-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Weak Password Allowed Hackers To Sink a 158-Year-Old Company](https://yro.slashdot.org/story/25/07/21/1957210/weak-password-allowed-hackers-to-sink-a-158-year-old-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-21, 19:48:42](https://lobste.rs/s/lgcpmp/fuzzing_kotlin_compiler) - [Fuzzing the Kotlin Compiler](https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/)
-* [2025-07-21, 19:47:51](https://lobste.rs/s/ddklvz/cppq_simple_reliable_efficient) - [cppq: Simple, reliable &amp; efficient distributed task queues for C++17](https://github.com/h2337/cppq)
 * [2025-07-21, 19:40:15](https://news.ycombinator.com/item?id=44639524) - [Erlang 28 on GRiSP Nano using only 16 MB](https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto)
-* [2025-07-21, 19:31:43](https://news.ycombinator.com/item?id=44639421) - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
 * [2025-07-21, 19:08:00](https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Advanced Version of Gemini With Deep Think Officially Achieves Gold-Medal Standard at the International Mathematical Olympiad](https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-21, 18:52:26](https://news.ycombinator.com/item?id=44638948) - [I know genomes and I didn’t delete my data from 23andMe](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
 * [2025-07-21, 18:22:11](https://news.ycombinator.com/item?id=44638580) - [What went wrong inside recalled Anker PowerCore 10000 power banks?](https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks)
@@ -103,34 +118,32 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-21, 12:13:19](https://lobste.rs/s/adii2s/dissertation_typesetting) - [Dissertation Typesetting Considerations](https://tony-zorman.com/posts/phd-typesetting.html)
 * [2025-07-21, 11:11:27](https://lobste.rs/s/xeqwij/gren_25s_easier_interop_concurrent_tasks) - [Gren 25S: Easier interop, concurrent tasks and zero-install packages](https://gren-lang.org/news/250721_gren_25s/)
 * [2025-07-21, 10:55:00](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss) - [Delta Air Lines is Using AI to Set the Maximum Price You’re Willing to Pay](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss)
-* [2025-07-21, 10:03:07](https://lobste.rs/s/hxgrd2/safe_cell_field_projection_rust_2020) - [Safe Cell field projection in Rust (2020)](https://www.abubalay.com/blog/2020/01/05/cell-field-projection)
-* [2025-07-21, 08:14:44](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data) - [How do you bundle application data in different languages?](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data)
 * [2025-07-21, 06:09:00](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss)
 * [2025-07-21, 01:22:00](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss) - [Open, Free, and Completely Ignored: The Strange Afterlife of Symbian](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss)
 * [2025-07-20, 23:32:43](https://lobste.rs/s/tpmdss/why_lexing_parsing_should_be_separate) - [Why Lexing and Parsing Should Be Separate](https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate)
 * [2025-07-20, 21:58:06](https://news.ycombinator.com/item?id=44629710) - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
 * [2025-07-20, 20:35:00](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss) - [Iran Seeks Three Cloud Providers To Power Its Government](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss)
 * [2025-07-20, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/20/1854256&amp;from=rss) - [Remote Access Trojan (RAT) Found in the AUR (Arch Linux User Repository)](https://soylentnews.org/article.pl?sid=25/07/20/1854256&amp;from=rss)
-* [2025-07-20, 17:00:46](https://lobste.rs/s/ihmxdn/they_re_putting_blue_food_coloring) - [They&apos;re putting blue food coloring in everything](https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/)
 * [2025-07-20, 15:49:00](https://soylentnews.org/article.pl?sid=25/07/19/123202&amp;from=rss) - [Intel Has Discontinued Clear Linux, Effective Immediately](https://soylentnews.org/article.pl?sid=25/07/19/123202&amp;from=rss)
-* [2025-07-20, 12:22:09](https://lobste.rs/s/6ifojq/coding_with_llms_summer_2025_update) - [Coding with LLMs in the summer of 2025 (an update)](https://antirez.com/news/154)
 * [2025-07-20, 11:04:00](https://soylentnews.org/article.pl?sid=25/07/19/0033258&amp;from=rss) - [The Latest Windows PCs Remember Everything](https://soylentnews.org/article.pl?sid=25/07/19/0033258&amp;from=rss)
 * [2025-07-20, 06:18:00](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss) - [Infographic: Every Microsoft Acquisition Since 1986](https://soylentnews.org/article.pl?sid=25/07/19/0023239&amp;from=rss)
 * [2025-07-20, 01:33:00](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss) - [Is Tor Trustworthy and Safe?](https://soylentnews.org/article.pl?sid=25/07/18/2350226&amp;from=rss)
 * [2025-07-19, 20:33:00](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss) - [The Fascinating Science of Pain – and Why Everyone Feels it Differently](https://soylentnews.org/article.pl?sid=25/07/18/0948223&amp;from=rss)
+* [2025-07-19, 20:23:33](https://news.ycombinator.com/item?id=44619020) - [Show HN: A rudimentary game engine to build four dimensional VR evironments](https://www.brainpaingames.com/Hypershack.html)
 * [2025-07-19, 15:50:00](https://soylentnews.org/article.pl?sid=25/07/18/0939219&amp;from=rss) - [FuguIta: OpenBSD Live CD - Desktop Environment Demo Version with XFCE v.4.20.0](https://soylentnews.org/article.pl?sid=25/07/18/0939219&amp;from=rss)
+* [2025-07-19, 15:12:04](https://news.ycombinator.com/item?id=44616158) - [Unexpected inconsistency in records – Jon Skeet&apos;s coding blog](https://codeblog.jonskeet.uk/2025/07/19/unexpected-inconsistency-in-records/)
 * [2025-07-19, 12:41:15](https://news.ycombinator.com/item?id=44615033) - [Nasa’s X-59 quiet supersonic aircraft begins taxi tests](https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/)
 * [2025-07-19, 11:08:00](https://soylentnews.org/article.pl?sid=25/07/18/0920228&amp;from=rss) - [Most Warming This Century May Be Due To Air Pollution Cuts](https://soylentnews.org/article.pl?sid=25/07/18/0920228&amp;from=rss)
 * [2025-07-19, 06:20:00](https://soylentnews.org/article.pl?sid=25/07/18/0136203&amp;from=rss) - [Two Guys Hated Using Comcast, So They Built Their Own Fiber ISP](https://soylentnews.org/article.pl?sid=25/07/18/0136203&amp;from=rss)
 * [2025-07-19, 01:37:00](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss) - [Radio Hobbyists, Rejoice! Good News for LoRa &amp; Mesh](https://soylentnews.org/article.pl?sid=25/07/18/0124213&amp;from=rss)
 * [2025-07-19, 00:17:10](https://news.ycombinator.com/item?id=44611298) - [Tokyo&apos;s retro shotengai arcades are falling victim to gentrification](https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification)
 * [2025-07-18, 20:55:00](https://soylentnews.org/article.pl?sid=25/07/18/0111248&amp;from=rss) - [Drones, AI and Robot Pickers: Meet the Fully Autonomous Farm](https://soylentnews.org/article.pl?sid=25/07/18/0111248&amp;from=rss)
+* [2025-07-18, 20:01:22](https://news.ycombinator.com/item?id=44609154) - [Largest piece of Mars on Earth fetches $5.3M at auction](https://apnews.com/article/mars-rock-meteorite-auction-dinosaur-sothebys-01d7ccfc8dc580ad86f8e97a305fc8fa)
 * [2025-07-18, 16:31:42](https://news.ycombinator.com/item?id=44606653) - [Look up macOS system binaries](https://macosbin.com)
 * [2025-07-18, 16:10:00](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss) - [DOGE Staffer With Access to Americans&apos; Personal Data Leaked Private xAI API Key](https://soylentnews.org/article.pl?sid=25/07/18/011202&amp;from=rss)
 * [2025-07-18, 14:47:16](https://news.ycombinator.com/item?id=44605245) - [Losing language features: some stories about disjoint unions](https://graydon2.dreamwidth.org/318788.html)
 * [2025-07-18, 12:36:40](https://news.ycombinator.com/item?id=44604024) - [Python Audio Processing with Pedalboard](https://lwn.net/Articles/1027814/)
 * [2025-07-18, 11:26:00](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss) - [Intel Axes Thousands of Technicians and Engineers in Sweeping U.S. Layoffs](https://soylentnews.org/article.pl?sid=25/07/17/127255&amp;from=rss)
 * [2025-07-18, 08:55:56](https://news.ycombinator.com/item?id=44602609) - [An unprecedented window into how diseases take hold years before symptoms appear](https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits)
-* [2025-07-18, 07:35:49](https://news.ycombinator.com/item?id=44602197) - [What happens when an octopus engages with art?](https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art)
 * [2025-07-18, 06:49:00](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss) - [Engineering the Origin of the Wheel](https://soylentnews.org/article.pl?sid=25/07/17/124242&amp;from=rss)
 * [2025-07-18, 02:05:00](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss) - [Nvidia Chips Become the First GPUs to Fall to Rowhammer Bit-Flip Attacks](https://soylentnews.org/article.pl?sid=25/07/17/1148204&amp;from=rss)
