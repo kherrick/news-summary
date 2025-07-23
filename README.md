@@ -1,36 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Developments and Insights
+## Emerging Technologies and AI Innovations
 
-* [Humans Can Be Tracked With Unique 'Fingerprint' Based On How Their Bodies Block Wi-Fi Signals](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fascinating look into how Wi-Fi signals can uniquely identify individuals based on how their bodies interact with the signal. [Comments](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [AI Coding Agents Are Removing Programming Language Barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/) - Highlighting how AI-driven tools are enhancing cross-language development and removing programming complexities. [Comments](https://lobste.rs/s/gsvrwc/ai_coding_agents_are_removing)
 
-* [Amazon Buys Bee AI Wearable That Listens To Everything You Say](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon takes steps into wearables with the acquisition of Bee AI, a device capable of capturing vast amounts of verbal data. [Comments](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Amazon Buys Bee AI Wearable That Listens To Everything You Say](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's acquisition of an AI wearable device that emphasizes pervasive voice-based interaction. [Comments](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Nvidia's CUDA Platform Now Support RISC-V](https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NVIDIA expands support for its CUDA platform to RISC-V processors, a significant move in the hardware domain. [Comments](https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+## Cybersecurity and Surveillance
 
-## Science and Research
+* [Funding For Program To Stop Next Stuxnet From Hitting US Expired Sunday](https://news.slashdot.org/story/25/07/22/2250221/funding-for-program-to-stop-next-stuxnet-from-hitting-us-expired-sunday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns grow over cyber defense gap after key program funding lapses. [Comments](https://news.slashdot.org/story/25/07/22/2250221/funding-for-program-to-stop-next-stuxnet-from-hitting-us-expired-sunday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss) - Archaeologists reveal insights into ancient feasting and the lengths prehistoric humans went to for ceremonial gatherings. [Comments](https://soylentnews.org/article.pl?sid=25/07/21/225220&from=rss).
+* [Humans Can Be Tracked With Unique 'Fingerprint' Based On How Their Bodies Block Wi-Fi Signals](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research reveals a new surveillance method leveraging Wi-Fi signal disruption. [Comments](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss) - Alarming research uncovers potential serious health risks associated with common sugar substitutes. [Comments](https://soylentnews.org/article.pl?sid=25/07/21/2142206&from=rss).
+## Scientific Discoveries
 
-* [Many Lung Cancers Are Now in Nonsmokers. Scientists Want to Know Why.](https://science.slashdot.org/story/25/07/22/163219/many-lung-cancers-are-now-in-nonsmokers-scientists-want-to-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Surge in lung cancer cases in nonsmokers prompts researchers to investigate potential causes. [Comments](https://science.slashdot.org/story/25/07/22/163219/many-lung-cancers-are-now-in-nonsmokers-scientists-want-to-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss) - Archaeologists uncover rare prehistoric feast shedding light on early human rituals. [Comments](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss)
 
-## Cybersecurity and Technology Challenges
+* [COVID Pandemic Aged Brains By an Average of 5.5 Months, Study Finds](https://science.slashdot.org/story/25/07/22/214228/covid-pandemic-aged-brains-by-an-average-of-55-months-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study quantifies the neurological impact of pandemic-induced stress. [Comments](https://science.slashdot.org/story/25/07/22/214228/covid-pandemic-aged-brains-by-an-average-of-55-months-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/) - Analysis of the TapTrap vulnerability, an exploit targeting Android devices. [Comments](https://news.ycombinator.com/item?id=44654299).
+## Environmental and Geological News
 
-* [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/) - A personal account of licensing complexities related to Open Graph images. [Comments](https://news.ycombinator.com/item?id=44654494).
+* [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/) - Researchers capture unprecedented footage of tectonic movements. [Comments](https://news.ycombinator.com/item?id=44655128)
 
-* [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients) - Exploration of vulnerabilities and fun chaos caused by gzip bombs in email systems. [Comments](https://news.ycombinator.com/item?id=44651536).
+## Open-Source and Developer Updates
 
-## Cultural and Historical Stories
+* [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/) - An initiative to standardize APIs across telecom networks. [Comments](https://news.ycombinator.com/item?id=44654569)
 
-* [Thelonious Monk, the Teenage Weirdo, and the Battle Over a Lost Sonic Masterpiece](https://soylentnews.org/article.pl?sid=25/07/21/1617239&from=rss) - A compelling narrative about a lost musical masterpiece and its impact on jazz history. [Comments](https://soylentnews.org/article.pl?sid=25/07/21/1617239&from=rss).
+* [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html) - Exploring advanced ergonomic options for typists. [Comments](https://news.ycombinator.com/item?id=44653586)
 
-* [My favourite German word](https://vurt.org/articles/my-favourite-german-word/) - A delightful exploration of a linguistic favorite in German vocabulary. [Comments](https://news.ycombinator.com/item?id=44613268).
+## Cultural and Historical Contexts
 
-* [Science Confirms What We All Suspected: Four-Day Weeks Rule](https://slashdot.org/story/25/07/22/2027203/science-confirms-what-we-all-suspected-four-day-weeks-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research supports the benefits of a four-day workweek, affirming popular sentiment. [Comments](https://slashdot.org/story/25/07/22/2027203/science-confirms-what-we-all-suspected-four-day-weeks-rule?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [The Escobar Phone Scam Saga Has Finally Come To an End](https://yro.slashdot.org/story/25/07/22/2245236/the-escobar-phone-scam-saga-has-finally-come-to-an-end?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A notorious scam involving counterfeit phones concludes. [Comments](https://yro.slashdot.org/story/25/07/22/2245236/the-escobar-phone-scam-saga-has-finally-come-to-an-end?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/) - A historic stance by the Czech government on political censorship. [Comments](https://news.ycombinator.com/item?id=44655369)
 
 ---
 
@@ -57,13 +59,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-23, 04:20:00](https://news.slashdot.org/story/25/07/22/2250221/funding-for-program-to-stop-next-stuxnet-from-hitting-us-expired-sunday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Funding For Program To Stop Next Stuxnet From Hitting US Expired Sunday](https://news.slashdot.org/story/25/07/22/2250221/funding-for-program-to-stop-next-stuxnet-from-hitting-us-expired-sunday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-23, 03:36:36](https://lobste.rs/s/gsvrwc/ai_coding_agents_are_removing) - [AI Coding Agents Are Removing Programming Language Barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
+* [2025-07-23, 03:30:00](https://science.slashdot.org/story/25/07/22/214228/covid-pandemic-aged-brains-by-an-average-of-55-months-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [COVID Pandemic Aged Brains By an Average of 5.5 Months, Study Finds](https://science.slashdot.org/story/25/07/22/214228/covid-pandemic-aged-brains-by-an-average-of-55-months-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-23, 03:05:17](https://news.ycombinator.com/item?id=44655369) - [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/)
+* [2025-07-23, 02:15:22](https://news.ycombinator.com/item?id=44655128) - [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/)
 * [2025-07-23, 01:40:00](https://yro.slashdot.org/story/25/07/22/2245236/the-escobar-phone-scam-saga-has-finally-come-to-an-end?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Escobar Phone Scam Saga Has Finally Come To an End](https://yro.slashdot.org/story/25/07/22/2245236/the-escobar-phone-scam-saga-has-finally-come-to-an-end?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 01:10:00](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Can Be Tracked With Unique &apos;Fingerprint&apos; Based On How Their Bodies Block Wi-Fi Signals](https://mobile.slashdot.org/story/25/07/22/2112203/humans-can-be-tracked-with-unique-fingerprint-based-on-how-their-bodies-block-wi-fi-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss)
 * [2025-07-23, 00:40:10](https://news.ycombinator.com/item?id=44654569) - [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
 * [2025-07-23, 00:30:00](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Buys Bee AI Wearable That Listens To Everything You Say](https://slashdot.org/story/25/07/22/2116255/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 00:27:43](https://news.ycombinator.com/item?id=44654494) - [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
-* [2025-07-23, 00:16:18](https://news.ycombinator.com/item?id=44654444) - [Why you can&apos;t color calibrate deep space photos](https://maurycyz.com/misc/cc/)
 * [2025-07-22, 23:55:19](https://news.ycombinator.com/item?id=44654299) - [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
 * [2025-07-22, 23:53:32](https://lobste.rs/s/of4j17/taptrap_animation_driven_tapjacking_on) - [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
 * [2025-07-22, 23:50:00](https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia&apos;s CUDA Platform Now Support RISC-V](https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -75,7 +81,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-22, 21:53:00](https://apple.slashdot.org/story/25/07/22/2016222/apple-set-to-stave-off-daily-fines-eu-to-accept-app-store-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Set To Stave Off Daily Fines, EU To Accept App Store Changes](https://apple.slashdot.org/story/25/07/22/2016222/apple-set-to-stave-off-daily-fines-eu-to-accept-app-store-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 21:12:30](https://news.ycombinator.com/item?id=44653072) - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
 * [2025-07-22, 21:00:34](https://news.ycombinator.com/item?id=44652938) - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
-* [2025-07-22, 20:16:18](https://news.ycombinator.com/item?id=44652482) - [NonRAID – fork of unRAID array kernel module](https://github.com/qvr/nonraid)
+* [2025-07-22, 20:50:25](https://lobste.rs/s/rwl6s2/kelp_ui_library_for_people_who_love_html) - [Kelp: A UI library for people who love HTML, powered by modern CSS and Web Components](https://kelpui.com/)
 * [2025-07-22, 20:15:00](https://yro.slashdot.org/story/25/07/22/2013209/california-wont-force-isps-to-offer-15-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Won&apos;t Force ISPs To Offer $15 Broadband](https://yro.slashdot.org/story/25/07/22/2013209/california-wont-force-isps-to-offer-15-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 20:09:00](https://soylentnews.org/article.pl?sid=25/07/21/2142206&amp;from=rss) - [Popular Sugar Substitute Linked to Brain Cell Damage and Stroke Risk](https://soylentnews.org/article.pl?sid=25/07/21/2142206&amp;from=rss)
 * [2025-07-22, 19:56:26](https://lobste.rs/s/xfppsr/nvidia_announced_this_week_they_are) - [NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors](https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V)
@@ -104,9 +110,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-22, 15:22:00](https://slashdot.org/story/25/07/22/1451201/banks-view-heavy-buy-now-pay-later-use-as-red-flag-for-loan-approvals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Banks View Heavy &apos;Buy Now, Pay Later&apos; Use as Red Flag for Loan Approvals](https://slashdot.org/story/25/07/22/1451201/banks-view-heavy-buy-now-pay-later-use-as-red-flag-for-loan-approvals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 15:22:00](https://soylentnews.org/article.pl?sid=25/07/21/2130213&amp;from=rss) - [A Strange Fossil at the Edge of the Solar System Just Shook Up Planet Nine Theories](https://soylentnews.org/article.pl?sid=25/07/21/2130213&amp;from=rss)
 * [2025-07-22, 15:18:56](https://news.ycombinator.com/item?id=44648144) - [Many lung cancers are now in nonsmokers](https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html)
-* [2025-07-22, 14:40:00](https://yro.slashdot.org/story/25/07/22/140208/mike-lynchs-estate-and-business-partner-owe-hp-944m-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mike Lynch&apos;s Estate and Business Partner Owe HP $944M, Court Rules](https://yro.slashdot.org/story/25/07/22/140208/mike-lynchs-estate-and-business-partner-owe-hp-944m-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 14:17:05](https://news.ycombinator.com/item?id=44647190) - [Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code](https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html)
-* [2025-07-22, 14:04:00](https://tech.slashdot.org/story/25/07/22/144239/google-launches-oss-rebuild?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Launches OSS Rebuild](https://tech.slashdot.org/story/25/07/22/144239/google-launches-oss-rebuild?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-22, 14:02:48](https://lobste.rs/s/iodpgb/library_babel) - [Library of Babel](https://libraryofbabel.app/about)
 * [2025-07-22, 13:53:46](https://news.ycombinator.com/item?id=44646925) - [OSS Rebuild: open-source, rebuilt to last](https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html)
 * [2025-07-22, 13:43:16](https://news.ycombinator.com/item?id=44646801) - [TODOs aren&apos;t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
@@ -121,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-22, 04:27:28](https://lobste.rs/s/r79s3w/devenv_1_8_progress_tui_secretspec) - [devenv 1.8: Progress TUI, SecretSpec Integration, Listing Tasks, and Smaller Containers](https://devenv.sh/blog/2025/07/22/devenv-18-progress-tui-secretspec-integration-listing-tasks-and-smaller-containers)
 * [2025-07-22, 01:04:00](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss) - [Meta is Building “Several” Multi-Gigawatt Compute Clusters](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss)
 * [2025-07-21, 23:41:28](https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs) - [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
-* [2025-07-21, 21:53:24](https://lobste.rs/s/brxlbh/advanced_version_gemini_with_deep_think) - [Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 * [2025-07-21, 21:49:28](https://lobste.rs/s/h8bfgy/sapling) - [Sapling](https://sapling-scm.com/)
 * [2025-07-21, 21:16:10](https://lobste.rs/s/cvhdvw/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2025-07-21, 21:10:55](https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms) - [Working on a Programming Language in the Age of LLMs](https://ryelang.org/blog/posts/programming-language-in-age-of-llms/)
@@ -129,10 +132,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-21, 15:48:48](https://lobste.rs/s/sdpydb/connmap_x11_desktop_widget_shows) - [connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time](https://github.com/h2337/connmap)
 * [2025-07-21, 15:39:00](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss) - [HP is Going to Monitor PC Usage With a \&quot;Carfax for PCs\&quot; ](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss)
 * [2025-07-21, 15:23:25](https://news.ycombinator.com/item?id=44636277) - [Hegel Dust](https://www.bookforum.com/print/3201/hegel-dust-62209)
-* [2025-07-21, 12:34:37](https://lobste.rs/s/qykvpg/deeper_theories_program_design) - [Deeper theories of program design](https://typesanitizer.com/blog/deeper-theories.html)
+* [2025-07-21, 14:42:11](https://news.ycombinator.com/item?id=44635676) - [No Cheese Please](https://www.lrb.co.uk/the-paper/v47/n13/anthony-grafton/no-cheese-please)
 * [2025-07-21, 12:13:19](https://lobste.rs/s/adii2s/dissertation_typesetting) - [Dissertation Typesetting Considerations](https://tony-zorman.com/posts/phd-typesetting.html)
 * [2025-07-21, 10:55:00](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss) - [Delta Air Lines is Using AI to Set the Maximum Price You’re Willing to Pay](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss)
-* [2025-07-21, 08:21:42](https://news.ycombinator.com/item?id=44632904) - [Can Dave Hurwitz Save Classical Recording?](https://www.newyorker.com/culture/persons-of-interest/can-dave-hurwitz-save-classical-recording)
 * [2025-07-21, 06:09:00](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss)
 * [2025-07-21, 01:22:00](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss) - [Open, Free, and Completely Ignored: The Strange Afterlife of Symbian](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss)
 * [2025-07-20, 20:35:00](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss) - [Iran Seeks Three Cloud Providers To Power Its Government](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss)
