@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Electric Vehicles and Technology
+## Technology and Software Updates
 
-* [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/) ([comments](https://news.ycombinator.com/item?id=44666157))
+* [systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes](https://www.phoronix.com/news/systemd-258-rc1) ([Comments](https://lobste.rs/s/p1fztx/systemd_258_rc1_is_massive_feature))
 
-* [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia) ([comments](https://news.ycombinator.com/item?id=44665928))
+* [FDA's New Drug Approval AI Is Generating Fake Studies](https://science.slashdot.org/story/25/07/23/2044251/fdas-new-drug-approval-ai-is-generating-fake-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/07/23/2044251/fdas-new-drug-approval-ai-is-generating-fake-studies?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Meta Unveils Wristband That Controls Computers With Muscle Signals](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features) ([Comments](https://lobste.rs/s/sk2yop/you_can_now_disable_all_ai_features_zed))
 
-## Cybersecurity
+* [NPM 'accidentally' removes Stylus package, breaks builds and pipelines](https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/) ([Comments](https://lobste.rs/s/2i7to2/npm_accidentally_removes_stylus_package))
 
-* [Administrator of Major Dark Web Cybercrime Forum Arrested In Ukraine](https://yro.slashdot.org/story/25/07/24/0055200/administrator-of-major-dark-web-cybercrime-forum-arrested-in-ukraine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/07/24/0055200/administrator-of-major-dark-web-cybercrime-forum-arrested-in-ukraine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Cybersecurity Concerns and Incidents
 
-* [SharePoint Vulnerability With 9.8 Severity Rating Under Exploit Across Globe](https://soylentnews.org/article.pl?sid=25/07/23/1254253&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/23/1254253&amp;from=rss))
+* [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown) ([Comments](https://news.ycombinator.com/item?id=44667472))
 
-* [Conversations Between LLMs Could Automate the Creation of Exploits, Study Shows](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss))
+* [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People's Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss))
 
-* [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one) ([comments](https://news.ycombinator.com/item?id=44663684))
+* [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one) ([Comments](https://news.ycombinator.com/item?id=44663684))
 
-## Environmental and Health Innovations
+* [US Nuclear Weapons Agency 'Among 400 Organizations Breached By Chinese Hackers'](https://news.slashdot.org/story/25/07/23/1652240/us-nuclear-weapons-agency-among-400-organizations-breached-by-chinese-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/07/23/1652240/us-nuclear-weapons-agency-among-400-organizations-breached-by-chinese-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Sony is Fighting Climate Change By Scaling Back PS5 Performance](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Innovative and Unique Projects
 
-* [FDA&apos;s New Drug Approval AI Is Generating Fake Studies](https://science.slashdot.org/story/25/07/23/2044251/fdas-new-drug-approval-ai-is-generating-fake-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/07/23/2044251/fdas-new-drug-approval-ai-is-generating-fake-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/) ([Comments](https://news.ycombinator.com/item?id=44665815))
 
-## AI and Innovation
+* [TrackWeight: Use your Mac trackpad as a weighing scale](https://github.com/KrishKrosh/TrackWeight) ([Comments](https://lobste.rs/s/dtmziw/trackweight_use_your_mac_trackpad_as))
 
-* [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/) ([comments](https://news.ycombinator.com/item?id=44663227))
+* [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara) ([Comments](https://news.ycombinator.com/item?id=44661846))
 
-* [How distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/) ([comments](https://news.ycombinator.com/item?id=44629805))
+* [Meta Unveils Wristband That Controls Computers With Muscle Signals](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Building better AI tools](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/) ([comments](https://news.ycombinator.com/item?id=44659921))
+## Environmental and Societal Developments
 
-## Unique and Quirky Insights
+* [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/) ([Comments](https://news.ycombinator.com/item?id=44666157))
 
-* [I made Tinder but it&apos;s only pictures of my wife and I can only swipe right](https://trytender.app/) ([comments](https://news.ycombinator.com/item?id=44664873))
+* [Matson Suspends Shipping EVs Citing Hazards of Lithium-ion Batteries](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/07/22/074257&from=rss))
 
-* [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail) ([comments](https://news.ycombinator.com/item?id=44665373))
+* [Top UN Court Says Countries Can Sue Each Other Over Climate Change](https://news.slashdot.org/story/25/07/23/1741214/top-un-court-says-countries-can-sue-each-other-over-climate-change?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/07/23/1741214/top-un-court-says-countries-can-sue-each-other-over-climate-change?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Vintage Macintosh Programming Book Library](https://vintageapple.org/macprogramming/index_year.html) ([comments](https://news.ycombinator.com/item?id=44665704))
-
-* [Neil Armstrong&apos;s customs form for moon rocks (2016)](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html) ([comments](https://news.ycombinator.com/item?id=44660437))
+* [How Much Would You Pay For an American-Made Laptop? Palmer Luckey Wants To Know](https://hardware.slashdot.org/story/25/07/23/218247/how-much-would-you-pay-for-an-american-made-laptop-palmer-luckey-wants-to-know?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/25/07/23/218247/how-much-would-you-pay-for-an-american-made-laptop-palmer-luckey-wants-to-know?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -67,13 +65,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-24, 06:40:48](https://news.ycombinator.com/item?id=44667667) - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
+* [2025-07-24, 06:23:36](https://lobste.rs/s/p1fztx/systemd_258_rc1_is_massive_feature) - [systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes](https://www.phoronix.com/news/systemd-258-rc1)
+* [2025-07-24, 06:07:17](https://news.ycombinator.com/item?id=44667472) - [Shattering the Rotation Illusion: The Attacker View &amp; AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
+* [2025-07-24, 06:04:03](https://lobste.rs/s/ucm2ip/jnj_j_janet) - [JNJ: J iN Janet](https://sr.ht/~subsetpark/JNJ/)
+* [2025-07-24, 05:28:00](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss) - [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People&apos;s Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss)
+* [2025-07-24, 04:20:52](https://news.ycombinator.com/item?id=44666896) - [CVE-2025-54090: Apache HTTP Server: &apos;RewriteCond expr&apos; always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 * [2025-07-24, 02:13:20](https://news.ycombinator.com/item?id=44666157) - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 * [2025-07-24, 02:10:00](https://science.slashdot.org/story/25/07/23/2021220/us-to-withdraw-from-unesco-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US To Withdraw From UNESCO Again](https://science.slashdot.org/story/25/07/23/2021220/us-to-withdraw-from-unesco-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-24, 01:41:55](https://news.ycombinator.com/item?id=44665984) - [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-* [2025-07-24, 01:33:48](https://news.ycombinator.com/item?id=44665928) - [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
 * [2025-07-24, 01:30:00](https://yro.slashdot.org/story/25/07/24/0055200/administrator-of-major-dark-web-cybercrime-forum-arrested-in-ukraine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Administrator of Major Dark Web Cybercrime Forum Arrested In Ukraine](https://yro.slashdot.org/story/25/07/24/0055200/administrator-of-major-dark-web-cybercrime-forum-arrested-in-ukraine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-24, 01:12:14](https://news.ycombinator.com/item?id=44665815) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-* [2025-07-24, 00:53:45](https://news.ycombinator.com/item?id=44665704) - [Vintage Macintosh Programming Book Library (2017)](https://vintageapple.org/macprogramming/index_year.html)
 * [2025-07-24, 00:51:11](https://lobste.rs/s/hip584/death_industrial_design_era_dull) - [The Death Of Industrial Design And The Era Of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-07-24, 00:50:00](https://hardware.slashdot.org/story/25/07/23/218247/how-much-would-you-pay-for-an-american-made-laptop-palmer-luckey-wants-to-know?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Much Would You Pay For an American-Made Laptop? Palmer Luckey Wants To Know](https://hardware.slashdot.org/story/25/07/23/218247/how-much-would-you-pay-for-an-american-made-laptop-palmer-luckey-wants-to-know?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-24, 00:39:00](https://soylentnews.org/article.pl?sid=25/07/23/1254253&amp;from=rss) - [SharePoint Vulnerability With 9.8 Severity Rating Under Exploit Across Globe](https://soylentnews.org/article.pl?sid=25/07/23/1254253&amp;from=rss)
@@ -81,7 +83,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-23, 23:56:25](https://news.ycombinator.com/item?id=44665373) - [I drank every cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
 * [2025-07-23, 23:50:49](https://lobste.rs/s/fgo66i/kernel) - [Kernel](https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page)
 * [2025-07-23, 23:30:00](https://hardware.slashdot.org/story/25/07/23/2031219/leading-3d-printing-site-bans-firearm-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Leading 3D Printing Site Bans Firearm Files](https://hardware.slashdot.org/story/25/07/23/2031219/leading-3d-printing-site-bans-firearm-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [I made Tinder but it&apos;s only pictures of my wife and I can only swipe right](https://trytender.app/)
+* [2025-07-23, 22:53:27](https://news.ycombinator.com/item?id=44664873) - [Show HN: Tinder but it&apos;s only pictures of my wife and I can only swipe right](https://trytender.app/)
 * [2025-07-23, 22:50:00](https://tech.slashdot.org/story/25/07/23/2024201/starlink-powered-t-satellite-service-is-now-live-on-t-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starlink-Powered &apos;T-Satellite&apos; Service Is Now Live On T-Mobile](https://tech.slashdot.org/story/25/07/23/2024201/starlink-powered-t-satellite-service-is-now-live-on-t-mobile?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 22:34:09](https://lobste.rs/s/xtmt3s/vintage_macintosh_programming_book) - [Vintage Macintosh Programming Book Library](https://vintageapple.org/macprogramming/index_year.html)
 * [2025-07-23, 22:10:00](https://games.slashdot.org/story/25/07/23/2058221/julian-lefay-father-of-the-elder-scrolls-has-died-aged-59?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Julian LeFay, &apos;Father of The Elder Scrolls,&apos; Has Died Aged 59](https://games.slashdot.org/story/25/07/23/2058221/julian-lefay-father-of-the-elder-scrolls-has-died-aged-59?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -97,14 +99,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-23, 19:30:00](https://tech.slashdot.org/story/25/07/23/192212/war-on-hidden-motors-goes-undercover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [War on Hidden Motors Goes Undercover](https://tech.slashdot.org/story/25/07/23/192212/war-on-hidden-motors-goes-undercover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 19:02:46](https://news.ycombinator.com/item?id=44662757) - [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [2025-07-23, 18:50:00](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony is Fighting Climate Change By Scaling Back PS5 Performance](https://games.slashdot.org/story/25/07/23/1810221/sony-is-fighting-climate-change-by-scaling-back-ps5-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-23, 18:37:48](https://news.ycombinator.com/item?id=44662497) - [Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 * [2025-07-23, 18:21:29](https://lobste.rs/s/sk2yop/you_can_now_disable_all_ai_features_zed) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 * [2025-07-23, 18:10:00](https://news.slashdot.org/story/25/07/23/1741214/top-un-court-says-countries-can-sue-each-other-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top UN Court Says Countries Can Sue Each Other Over Climate Change](https://news.slashdot.org/story/25/07/23/1741214/top-un-court-says-countries-can-sue-each-other-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 17:38:20](https://news.ycombinator.com/item?id=44661846) - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 * [2025-07-23, 17:30:00](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Unveils Wristband That Controls Computers With Muscle Signals](https://tech.slashdot.org/story/25/07/23/1714242/meta-unveils-wristband-that-controls-computers-with-muscle-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 17:24:32](https://news.ycombinator.com/item?id=44661682) - [The Promised LAN](https://tpl.house/)
 * [2025-07-23, 17:09:47](https://news.ycombinator.com/item?id=44661527) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://machinelearning.apple.com/research/fast-vision-language-models)
-* [2025-07-23, 17:01:14](https://news.ycombinator.com/item?id=44661420) - [Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)](https://www.optery.com/careers/)
 * [2025-07-23, 16:59:16](https://lobste.rs/s/qpakro/promised_lan) - [The Promised LAN](https://tpl.house/)
 * [2025-07-23, 16:52:00](https://news.slashdot.org/story/25/07/23/1652240/us-nuclear-weapons-agency-among-400-organizations-breached-by-chinese-hackers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Nuclear Weapons Agency &apos;Among 400 Organizations Breached By Chinese Hackers&apos;](https://news.slashdot.org/story/25/07/23/1652240/us-nuclear-weapons-agency-among-400-organizations-breached-by-chinese-hackers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-23, 16:19:05](https://lobste.rs/s/lzfgwb/superfunctions_solve_color_problem) - [Superfunctions: solve the \&quot;color\&quot; problem of Python](https://github.com/pomponchik/transfunctions)
@@ -124,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-23, 13:00:55](https://lobste.rs/s/c53kzb/20_years_linux_on_desktop_part_4) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
 * [2025-07-23, 12:24:54](https://lobste.rs/s/dtmziw/trackweight_use_your_mac_trackpad_as) - [TrackWeight: Use your Mac trackpad as a weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-23, 11:32:31](https://lobste.rs/s/ixfukh/font_size_adjust_is_useful) - [font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
-* [2025-07-23, 11:19:26](https://lobste.rs/s/lsww5q/building_systems_simply) - [Building Systems, Simply](https://www.youtube.com/watch?v=jVC4DP-8xLM)
 * [2025-07-23, 10:24:00](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss) - [The Atomic Bomb Marker Inside Your Body](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss)
 * [2025-07-23, 10:22:42](https://news.ycombinator.com/item?id=44657556) - [Lumo: Privacy-first AI assistant](https://proton.me/blog/lumo-ai)
 * [2025-07-23, 10:19:00](https://lobste.rs/s/25kvql/what_is_x_forwarded_for_when_can_you_trust) - [What is X-Forwarded-For and when can you trust it?](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
@@ -139,17 +138,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-22, 16:50:09](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds) - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 15:22:00](https://soylentnews.org/article.pl?sid=25/07/21/2130213&amp;from=rss) - [A Strange Fossil at the Edge of the Solar System Just Shook Up Planet Nine Theories](https://soylentnews.org/article.pl?sid=25/07/21/2130213&amp;from=rss)
 * [2025-07-22, 13:40:34](https://lobste.rs/s/j1hijj/todos_aren_t_for_doing) - [TODOs aren’t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
-* [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 * [2025-07-22, 10:33:00](https://soylentnews.org/article.pl?sid=25/07/21/1642237&amp;from=rss) - [Microsoft Says It Will No Longer Use Engineers in China for Department of Defense Work](https://soylentnews.org/article.pl?sid=25/07/21/1642237&amp;from=rss)
 * [2025-07-22, 05:47:00](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss) - [Thelonious Monk, the Teenage Weirdo, and the Battle Over a Lost Sonic Masterpiece](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss)
 * [2025-07-22, 01:04:00](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss) - [Meta is Building “Several” Multi-Gigawatt Compute Clusters](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss)
 * [2025-07-21, 20:19:00](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss) - [Weird Space Weather Seems to Have Influenced Human Behavior 41,000 years ago](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss)
 * [2025-07-21, 15:39:00](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss) - [HP is Going to Monitor PC Usage With a \&quot;Carfax for PCs\&quot; ](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss)
+* [2025-07-21, 13:18:47](https://news.ycombinator.com/item?id=44634756) - [(Python) Poste Italiane document parser](https://github.com/genbs/poste-italiane-parser)
 * [2025-07-21, 10:55:00](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss) - [Delta Air Lines is Using AI to Set the Maximum Price You’re Willing to Pay](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss)
+* [2025-07-21, 07:52:20](https://news.ycombinator.com/item?id=44632739) - [Leprechauns, root causes, and other fairy tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/)
 * [2025-07-21, 06:09:00](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss)
 * [2025-07-21, 01:22:00](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss) - [Open, Free, and Completely Ignored: The Strange Afterlife of Symbian](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss)
-* [2025-07-21, 01:11:40](https://news.ycombinator.com/item?id=44630901) - [China develops new method to mass-produce high-quality semiconductors](https://news.cgtn.com/news/2025-07-19/China-develops-new-method-to-mass-produce-high-quality-semiconductors-1F8iTEyEwVi/p.html)
-* [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [How distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
+* [2025-07-20, 22:09:27](https://news.ycombinator.com/item?id=44629805) - [Distillation makes AI models smaller and cheaper](https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/)
 * [2025-07-20, 20:35:00](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss) - [Iran Seeks Three Cloud Providers To Power Its Government](https://soylentnews.org/article.pl?sid=25/07/19/1342209&amp;from=rss)
 * [2025-07-20, 19:12:00](https://soylentnews.org/article.pl?sid=25/07/20/1854256&amp;from=rss) - [Remote Access Trojan (RAT) Found in the AUR (Arch Linux User Repository)](https://soylentnews.org/article.pl?sid=25/07/20/1854256&amp;from=rss)
 * [2025-07-20, 15:51:15](https://news.ycombinator.com/item?id=44626359) - [Checklists are hard, but still a good thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood)
