@@ -1,38 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## New Technologies and Innovations
+## Censorship and Privacy Concerns
 
-* [Scientists Are Developing Artificial Blood That Could Save Lives In Emergencies](https://science.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/b6iupp/code_creation_way_nature_intended))
+* [Against the Censorship of Adult Content by Payment Processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/) - This article delves into how payment processors are influencing internet content by limiting services for adult content creators, raising questions on the boundaries of corporate influence. [Comments](https://news.ycombinator.com/item?id=44679406)
 
-* [Alto turns your Apple Notes into a website](https://alto.so/) ([comments](https://news.ycombinator.com/item?id=44678112))
+* [Jitsi privacy flaw that enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one) - A concerning privacy flaw in Jitsi allows surreptitious capture of audio and video with minimal effort, sparking debates on security in video conferencing. [Comments](https://lobste.rs/s/ityek6/jitsi_privacy_flaw_enables_one_click)
 
-* [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/) ([comments](https://news.ycombinator.com/item?id=44676691))
+## Innovative Technologies
 
-* [Google's New 'Web Guide' Uses AI To Organize the Search Results Page](https://tech.slashdot.org/story/25/07/24/201240/googles-new-web-guide-uses-ai-to-organize-the-search-results-page?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/tao1sp/valid_html_zip_bomb))
+* [Scientists Are Developing Artificial Blood That Could Save Lives In Emergencies](https://science.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Artificial blood, a breakthrough in medical science, promises to revolutionize emergency care and save countless lives. [Comments](https://news.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Positron – A next-generation data science IDE](https://positron.posit.co/) ([comments](https://news.ycombinator.com/item?id=44634598))
+* [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) - Anthropic reveals insights into its Claude Code system, showcasing advancements in AI-driven coding tools. [Comments](https://news.ycombinator.com/item?id=44678535)
 
-## Ethical and Security Concerns
+## Cybersecurity and Legal Issues
 
-* [UK Student Jailed For Selling Phishing Kits Linked To $135M of Fraud](https://news.slashdot.org/story/25/07/25/0055206/uk-student-jailed-for-selling-phishing-kits-linked-to-135m-of-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44678535))
+* [UK Student Jailed For Selling Phishing Kits Linked To $135M of Fraud](https://news.slashdot.org/story/25/07/25/0055206/uk-student-jailed-for-selling-phishing-kits-linked-to-135m-of-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A UK student's sophisticated phishing schemes linked to massive financial fraud highlight ongoing cybercrime challenges. [Comments](https://news.slashdot.org/story/25/07/25/0055206/uk-student-jailed-for-selling-phishing-kits-linked-to-135m-of-fraud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Intel Will Shed 24,000 Employees This Year, Retreat In Germany, Poland, Costa Rica, and Ohio](https://hardware.slashdot.org/story/25/07/24/2339237/intel-will-shed-24000-employees-this-year-retreat-in-germany-poland-costa-rica-and-ohio?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44676961))
+## Space Exploration and Technology
 
-* [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People's Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&from=rss) ([comments](https://lobste.rs/s/az8v5r/renting_is_for_suckers))
+* [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss) - A fascinating retelling of how Star Trek-inspired names for space shuttles brought cultural and scientific worlds together. [Comments](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss)
 
-* [Jitsi privacy flaw that enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one) ([comments](https://lobste.rs/s/ityek6/jitsi_privacy_flaw_enables_one_click))
+## Programming and Development Insights
 
-## Environmental and Social News
+* [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/) - This article advocates for the thoughtful use of type systems in programming to improve robustness and reduce errors. [Comments](https://lobste.rs/s/a9frrj/use_your_type_system)
 
-* [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss) ([comments](https://news.slashdot.org/story/25/07/24/1524209/nfts-qualify-for-trademark-protection-ninth-circuit-rules))
+## Economic and Corporate News
 
-* [SharePoint Vulnerability With 9.8 Severity Rating Under Exploit Across Globe](https://soylentnews.org/article.pl?sid=25/07/23/1254253&from=rss) ([comments](https://lobste.rs/s/abbg3j/when_is_webassembly_going_get_dom_support))
-
-* [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees) ([comments](https://news.ycombinator.com/item?id=44675965))
-
-* [Fearful of AI-Generated Grant Proposals, NIH Limits Scientists to Six Applications Per Year](https://soylentnews.org/article.pl?sid=25/07/23/1253202&from=rss) ([comments](https://news.slashdot.org/story/25/07/24/1442257/board-game-crowdfunding-platform-gamefound-acquires-indiegogo))
-
-* [Delta Air Lines is Using AI to Set the Maximum Price You’re Willing to Pay](https://soylentnews.org/article.pl?sid=25/07/20/0259241&from=rss) ([comments](https://lobste.rs/s/sf2q8y/wayback_0_1_released))
+* [Intel Will Shed 24,000 Employees This Year, Retreat In Germany, Poland, Costa Rica, and Ohio](https://hardware.slashdot.org/story/25/07/24/2339237/intel-will-shed-24000-employees-this-year-retreat-in-germany-poland-costa-rica-and-ohio?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Intel plans to downsize its workforce and operations in several regions, pointing to shifting priorities and economic challenges. [Comments](https://hardware.slashdot.org/story/25/07/24/2339237/intel-will-shed-24000-employees-this-year-retreat-in-germany-poland-costa-rica-and-ohio?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -59,9 +53,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-07-25, 01:43:27](https://news.ycombinator.com/item?id=44678535) - [Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+* [2025-07-25, 03:49:10](https://news.ycombinator.com/item?id=44679406) - [Against the Censorship of Adult Content by Payment Processors](https://soatok.blog/2025/07/24/against-the-censorship-of-adult-content-by-payment-processors/)
+* [2025-07-25, 02:50:32](https://news.ycombinator.com/item?id=44679048) - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
+* [2025-07-25, 01:43:27](https://news.ycombinator.com/item?id=44678535) - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
 * [2025-07-25, 01:40:00](https://news.slashdot.org/story/25/07/25/0055206/uk-student-jailed-for-selling-phishing-kits-linked-to-135m-of-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Student Jailed For Selling Phishing Kits Linked To $135M of Fraud](https://news.slashdot.org/story/25/07/25/0055206/uk-student-jailed-for-selling-phishing-kits-linked-to-135m-of-fraud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-25, 01:23:43](https://news.ycombinator.com/item?id=44678426) - [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
 * [2025-07-25, 01:00:00](https://science.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Are Developing Artificial Blood That Could Save Lives In Emergencies](https://science.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 00:39:55](https://news.ycombinator.com/item?id=44678112) - [Alto turns your Apple Notes into a website](https://alto.so/)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss)
@@ -82,7 +77,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-24, 21:18:04](https://lobste.rs/s/qpbfsa/new_aarch64_backend) - [New Aarch64 Backend](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:52:41](https://news.ycombinator.com/item?id=44675965) - [Intel CEO Letter to Employees](https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees)
 * [2025-07-24, 20:40:00](https://apple.slashdot.org/story/25/07/24/205229/apple-releases-public-betas-of-its-new-software-updates-with-liquid-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Releases Public Betas of Its New Software Updates With Liquid Glass](https://apple.slashdot.org/story/25/07/24/205229/apple-releases-public-betas-of-its-new-software-updates-with-liquid-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-24, 20:28:58](https://news.ycombinator.com/item?id=44675691) - [American sentenced for helping North Koreans get jobs at U.S. firms](https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/)
 * [2025-07-24, 20:24:00](https://tech.slashdot.org/story/25/07/24/2022240/starlink-suffers-worldwide-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starlink Suffers Worldwide Outage](https://tech.slashdot.org/story/25/07/24/2022240/starlink-suffers-worldwide-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
 * [2025-07-24, 20:19:57](https://news.ycombinator.com/item?id=44675553) - [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
@@ -100,6 +94,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-24, 15:35:39](https://news.ycombinator.com/item?id=44672003) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 15:24:00](https://yro.slashdot.org/story/25/07/24/1524209/nfts-qualify-for-trademark-protection-ninth-circuit-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NFTs Qualify For Trademark Protection, Ninth Circuit Rules](https://yro.slashdot.org/story/25/07/24/1524209/nfts-qualify-for-trademark-protection-ninth-circuit-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+* [2025-07-24, 15:05:12](https://news.ycombinator.com/item?id=44671601) - [Show HN: Nia – MCP server that gives more docs and repos to coding agents](https://www.trynia.ai/)
 * [2025-07-24, 14:59:15](https://lobste.rs/s/rmlaoa/fallout_s_memory_model) - [Fallout&apos;s Memory Model](https://youtube.com/watch?v=6kB_fko6SIg)
 * [2025-07-24, 14:57:05](https://news.ycombinator.com/item?id=44671484) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 14:56:00](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss) - [Real Milk Proteins, No Cows: Engineered Bacteria Pave the Way for Vegan Cheese and Yogurt](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss)
@@ -138,16 +133,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-22, 05:47:00](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss) - [Thelonious Monk, the Teenage Weirdo, and the Battle Over a Lost Sonic Masterpiece](https://soylentnews.org/article.pl?sid=25/07/21/1617239&amp;from=rss)
 * [2025-07-22, 01:04:00](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss) - [Meta is Building “Several” Multi-Gigawatt Compute Clusters](https://soylentnews.org/article.pl?sid=25/07/20/2227233&amp;from=rss)
 * [2025-07-21, 20:19:00](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss) - [Weird Space Weather Seems to Have Influenced Human Behavior 41,000 years ago](https://soylentnews.org/article.pl?sid=25/07/20/221207&amp;from=rss)
+* [2025-07-21, 15:42:39](https://news.ycombinator.com/item?id=44636534) - [modernish](https://github.com/modernish/modernish)
 * [2025-07-21, 15:39:00](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss) - [HP is Going to Monitor PC Usage With a \&quot;Carfax for PCs\&quot; ](https://soylentnews.org/article.pl?sid=25/07/20/1650210&amp;from=rss)
 * [2025-07-21, 15:20:49](https://news.ycombinator.com/item?id=44636240) - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/)
+* [2025-07-21, 13:52:33](https://news.ycombinator.com/item?id=44635105) - [Low-Temp 2D Semiconductors: A Chipmaking Shift](https://spectrum.ieee.org/cdimensions-2d-semiconductors)
 * [2025-07-21, 12:59:56](https://news.ycombinator.com/item?id=44634598) - [Positron – A next-generation data science IDE](https://positron.posit.co/)
 * [2025-07-21, 12:57:26](https://news.ycombinator.com/item?id=44634576) - [Why concatenative programming matters (2012)](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 * [2025-07-21, 12:04:49](https://news.ycombinator.com/item?id=44634208) - [Mwm – The smallest usable X11 window manager](https://github.com/lslvr/mwm)
-* [2025-07-21, 11:39:48](https://news.ycombinator.com/item?id=44634030) - [Superfunctions: A universal solution against sync/async fragmentation in Python](https://github.com/pomponchik/transfunctions)
 * [2025-07-21, 10:55:00](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss) - [Delta Air Lines is Using AI to Set the Maximum Price You’re Willing to Pay](https://soylentnews.org/article.pl?sid=25/07/20/0259241&amp;from=rss)
 * [2025-07-21, 08:42:05](https://news.ycombinator.com/item?id=44633024) - [RE#: High performance derivative-based regular expression matching (2024)](https://arxiv.org/abs/2407.20479)
-* [2025-07-21, 08:01:27](https://news.ycombinator.com/item?id=44632783) - [The POSIX specification of vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)
 * [2025-07-21, 07:40:01](https://news.ycombinator.com/item?id=44632674) - [I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
-* [2025-07-21, 06:30:21](https://news.ycombinator.com/item?id=44632314) - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4)
 * [2025-07-21, 06:09:00](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://soylentnews.org/article.pl?sid=25/07/20/0228244&amp;from=rss)
 * [2025-07-21, 01:22:00](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss) - [Open, Free, and Completely Ignored: The Strange Afterlife of Symbian](https://soylentnews.org/article.pl?sid=25/07/19/1538201&amp;from=rss)
