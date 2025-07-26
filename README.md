@@ -1,50 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech and Innovation
+## Technology and Science Innovations
 
-* [Meta Names Shengjia Zhao As Chief Scientist of AI Superintelligence Unit](https://tech.slashdot.org/story/25/07/25/2143237/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A notable leadership move by Meta, highlighting the intensifying race to dominate AI innovation.
+* [Split Flap](https://fx.hot.page/split-flap) - A detailed look at a retro-style mechanical display technology that has found modern applications.
 
-* [Linux Kernel Could Soon Expose Every Line AI Helps Write](https://linux.slashdot.org/story/25/07/25/1950226/linux-kernel-could-soon-expose-every-line-ai-helps-write?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing proposal aiming to increase code transparency about AI's role in development.
+* [Google Set Up Two Robotic Arms For a Game of Infinite Table Tennis](https://hardware.slashdot.org/story/25/07/25/2237245/google-set-up-two-robotic-arms-for-a-game-of-infinite-table-tennis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google showcases advancements in robotics using AI-driven arms in an endless ping pong simulation.
 
-* [Rust running on every major GPU platform](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/) - Rust achieves compatibility with major GPU platforms, marking a significant milestone in programming.
+* [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/) - Groundbreaking AI-enabled surgical robot operation achieves new milestones in minimally invasive procedures.
 
-* [Lobsters Interview with Technomancy](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy) - An insightful discussion with Technomancy on software development themes.
+## Corporate and Social Developments
 
-* [Experimental Surgery Performed by AI-Driven Surgical Robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/) - A major leap in medical robotics with AI conducting complex procedures.
+* [Meta Names Shengjia Zhao As Chief Scientist of AI Superintelligence Unit](https://tech.slashdot.org/story/25/07/25/2143237/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta strengthens focus on next-gen AI by appointing Shengjia Zhao to lead its Superintelligence division.
 
-## Cybersecurity and Privacy
+* [Echelon Kills Smart Home Gym Equipment Offline Capabilities With Update](https://mobile.slashdot.org/story/25/07/25/2134233/echelon-kills-smart-home-gym-equipment-offline-capabilities-with-update?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversial firmware update removes offline functionality, raising concerns about product usability and consumer rights.
 
-* [Women Dating Safety App 'Tea' Breached, Users' IDs Posted To 4chan](https://yro.slashdot.org/story/25/07/25/1934249/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A severe privacy breach exposing users of a safety-focused app.
+* [Women Dating Safety App 'Tea' Breached, Users' IDs Posted to 4chan](https://yro.slashdot.org/story/25/07/25/1934249/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant data breach exposes user IDs from a safety-focused app, highlighting cybersecurity gaps.
 
-* [Judge Sanctions Lawyers Defending Alabama's Prison System For Using Fake ChatGPT Cases In Filings](https://yro.slashdot.org/story/25/07/25/1945229/judge-sanctions-lawyers-defending-alabamas-prison-system-for-using-fake-chatgpt-cases-in-filings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Raises concerns about the misuse of AI in legal contexts.
+## Environmental Innovations and Challenges
 
-* [Internet Archive Designated as a Federal Depository Library](https://yro.slashdot.org/story/25/07/25/1735224/internet-archive-designated-as-a-federal-depository-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A recognition of the Archive's role in preserving digital treasures.
+* [The Manmade Clouds That Could Help Save the Great Barrier Reef](https://news.slashdot.org/story/25/07/25/181205/the-manmade-clouds-that-could-help-save-the-great-barrier-reef?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring innovative geoengineering efforts aimed at protecting one of Earth's natural wonders.
 
-## Science and Environment
+* [Air Pollution Raises Risk of Dementia, Say Cambridge Scientists](https://science.slashdot.org/story/25/07/25/1743228/air-pollution-raises-risk-of-dementia-say-cambridge-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New research links worsening air quality to neurological health risks, urging stronger pollution controls.
 
-* [The Manmade Clouds That Could Help Save the Great Barrier Reef](https://news.slashdot.org/story/25/07/25/181205/the-manmade-clouds-that-could-help-save-the-great-barrier-reef?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative climate intervention for protecting coral reefs.
+## Cybersecurity and AI Concerns
 
-* [Air Pollution Raises Risk of Dementia, Say Cambridge Scientists](https://science.slashdot.org/story/25/07/25/1743228/air-pollution-raises-risk-of-dementia-say-cambridge-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research linking pollution to long-term cognitive issues.
+* [Judge Sanctions Lawyers Defending Alabama's Prison System For Using Fake ChatGPT Cases In Filings](https://yro.slashdot.org/story/25/07/25/1945229/judge-sanctions-lawyers-defending-alabamas-prison-system-for-using-fake-chatgpt-cases-in-filings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A cautionary tale about overreliance on generative AI for legal submissions.
 
-* [Clean Cyclists Now Outperform Doped Champions of Tour de France's Past](https://science.slashdot.org/story/25/07/25/1756232/clean-cyclists-now-outperform-doped-champions-of-tour-de-frances-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Evidence that clean sports performance can surpass questionable practices.
+* [Linux Kernel Could Soon Expose Every Line AI Helps Write](https://linux.slashdot.org/story/25/07/25/1950226/linux-kernel-could-soon-expose-every-line-ai-helps-write?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Debate emerges over proposed transparency measures for AI contributions to open-source projects.
 
-## Software Development and Tools
+* [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/) - Study highlights a novel method of extracting sensitive data from chips by utilizing power domain separation vulnerabilities.
 
-* [GNOME Calendar: A New Era of Accessibility Achieved in 90 Days](https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/) - Accessibility triumph in the GNOME ecosystem.
+## Astronomy and Space Exploration
 
-* [Nullable but not null](https://efe.me/posts/nullable-but-not-null/) - An intriguing take on programming concepts in code design.
+* [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&from=rss) - Astronomers confirm the existence of a long-suspected stellar companion, further expanding our understanding of Betelgeuse.
 
-* [Monotonic and Wall Clock Time in the Go Time Package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/) - Explains advancements in Go’s time handling mechanisms.
-
-* [Using Fortune to Reinforce Habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/) - An unusual but motivating use of software to instill habits.
-
-## Technology and Hardware Developments
-
-* [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu) - A groundbreaking development in CPU technology.
-
-* [Claude Code Introduces Specialized Sub-Agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents) - A leap in task-specific AI capabilities.
-
-* [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html) - Fascinating retroengineering of outdated tech using open source practices.
+* [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&from=rss) - A nostalgic recount of how pop culture influenced the naming of NASA's space shuttles.
 
 ---
 
@@ -71,6 +61,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-26, 03:35:00](https://lobste.rs/s/oosbf5/split_flap) - [Split Flap](https://fx.hot.page/split-flap)
+* [2025-07-26, 03:30:00](https://hardware.slashdot.org/story/25/07/25/2237245/google-set-up-two-robotic-arms-for-a-game-of-infinite-table-tennis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Set Up Two Robotic Arms For a Game of Infinite Table Tennis](https://hardware.slashdot.org/story/25/07/25/2237245/google-set-up-two-robotic-arms-for-a-game-of-infinite-table-tennis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss)
+* [2025-07-26, 01:30:00](https://tech.slashdot.org/story/25/07/25/2151251/pebble-is-officially-pebble-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pebble Is Officially Pebble Again](https://tech.slashdot.org/story/25/07/25/2151251/pebble-is-officially-pebble-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-26, 01:02:50](https://news.ycombinator.com/item?id=44690354) - [DJI couldn&apos;t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
 * [2025-07-26, 00:50:00](https://tech.slashdot.org/story/25/07/25/2143237/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Names Shengjia Zhao As Chief Scientist of AI Superintelligence Unit](https://tech.slashdot.org/story/25/07/25/2143237/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 00:10:00](https://mobile.slashdot.org/story/25/07/25/2134233/echelon-kills-smart-home-gym-equipment-offline-capabilities-with-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Echelon Kills Smart Home Gym Equipment Offline Capabilities With Update](https://mobile.slashdot.org/story/25/07/25/2134233/echelon-kills-smart-home-gym-equipment-offline-capabilities-with-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 23:30:00](https://yro.slashdot.org/story/25/07/25/1945229/judge-sanctions-lawyers-defending-alabamas-prison-system-for-using-fake-chatgpt-cases-in-filings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Sanctions Lawyers Defending Alabama&apos;s Prison System For Using Fake ChatGPT Cases In Filings](https://yro.slashdot.org/story/25/07/25/1945229/judge-sanctions-lawyers-defending-alabamas-prison-system-for-using-fake-chatgpt-cases-in-filings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,20 +82,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-25, 21:02:31](https://lobste.rs/s/6qe3ml/nullable_not_null) - [Nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 * [2025-07-25, 20:55:55](https://lobste.rs/s/3uemyk/rust_running_on_every_major_gpu_platform) - [Rust running on every major GPU platform](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-25, 20:51:00](https://news.slashdot.org/story/25/07/25/181205/the-manmade-clouds-that-could-help-save-the-great-barrier-reef?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Manmade Clouds That Could Help Save the Great Barrier Reef](https://news.slashdot.org/story/25/07/25/181205/the-manmade-clouds-that-could-help-save-the-great-barrier-reef?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-25, 20:48:05](https://news.ycombinator.com/item?id=44688265) - [A Union Pacific-Norfolk Southern combination would redraw the railroad map](https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/)
 * [2025-07-25, 20:34:22](https://news.ycombinator.com/item?id=44688096) - [Experimental surgery performed by AI-driven surgical robot](https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/)
 * [2025-07-25, 20:10:00](https://science.slashdot.org/story/25/07/25/1756232/clean-cyclists-now-outperform-doped-champions-of-tour-de-frances-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Clean Cyclists Now Outperform Doped Champions of Tour de France&apos;s Past](https://science.slashdot.org/story/25/07/25/1756232/clean-cyclists-now-outperform-doped-champions-of-tour-de-frances-past?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 19:53:06](https://lobste.rs/s/dxhuqb/bringing_decade_old_bicycle_navigator) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-25, 19:30:00](https://science.slashdot.org/story/25/07/25/1743228/air-pollution-raises-risk-of-dementia-say-cambridge-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Air Pollution Raises Risk of Dementia, Say Cambridge Scientists](https://science.slashdot.org/story/25/07/25/1743228/air-pollution-raises-risk-of-dementia-say-cambridge-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-25, 19:28:51](https://news.ycombinator.com/item?id=44687326) - [Stackless Traversal (2018)](https://www.dyalog.com/blog/2018/01/stackless-traversal/)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer&apos;s Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 18:50:00](https://yro.slashdot.org/story/25/07/25/1735224/internet-archive-designated-as-a-federal-depository-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Designated as a Federal Depository Library](https://yro.slashdot.org/story/25/07/25/1735224/internet-archive-designated-as-a-federal-depository-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-25, 18:43:24](https://news.ycombinator.com/item?id=44686726) - [Claude Code Introduces Specialized Sub-Agents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 * [2025-07-25, 18:27:18](https://lobste.rs/s/ljvdv9/monotonic_wall_clock_time_go_time_package) - [Monotonic and Wall Clock Time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/)
 * [2025-07-25, 18:11:21](https://news.ycombinator.com/item?id=44686317) - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 * [2025-07-25, 18:10:00](https://tech.slashdot.org/story/25/07/25/1726243/man-awarded-12500-after-google-street-view-camera-captured-him-naked-in-his-yard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Man Awarded $12,500 After Google Street View Camera Captured Him Naked in His Yard](https://tech.slashdot.org/story/25/07/25/1726243/man-awarded-12500-after-google-street-view-camera-captured-him-naked-in-his-yard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 17:59:25](https://news.ycombinator.com/item?id=44686164) - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 * [2025-07-25, 17:36:25](https://news.ycombinator.com/item?id=44685875) - [Never write your own date parsing library](https://www.zachleat.com/web/adventures-in-date-parsing/)
 * [2025-07-25, 17:30:00](https://it.slashdot.org/story/25/07/25/1714202/dns-security-is-important-but-dnssec-may-be-a-failed-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DNS Security is Important But DNSSEC May Be a Failed Experiment](https://it.slashdot.org/story/25/07/25/1714202/dns-security-is-important-but-dnssec-may-be-a-failed-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-25, 17:20:20](https://news.ycombinator.com/item?id=44685669) - [Implementing a functional language with graph reduction (2021)](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 * [2025-07-25, 17:19:00](https://lobste.rs/s/5fytcr/implementing_functional_language_with) - [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 * [2025-07-25, 16:56:37](https://lobste.rs/s/zzvbul/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2025-07-25, 16:56:04](https://news.ycombinator.com/item?id=44685342) - [Internet Archive is now a federal depository library](https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean)
@@ -109,16 +104,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-25, 16:32:32](https://news.ycombinator.com/item?id=44685067) - [CO2 Battery](https://energydome.com/co2-battery/)
 * [2025-07-25, 16:30:44](https://news.ycombinator.com/item?id=44685050) - [Efficient Computer&apos;s Electron E1 CPU – 100x more efficient than Arm?](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 16:27:51](https://news.ycombinator.com/item?id=44685011) - [Steam, Itch.io are pulling ‘porn’ games. Critics say it&apos;s a slippery slope](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
-* [2025-07-25, 16:13:00](https://it.slashdot.org/story/25/07/25/1613250/microsoft-used-china-based-support-for-multiple-us-agencies-potentially-exposing-sensitive-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Used China-Based Support for Multiple U.S. Agencies, Potentially Exposing Sensitive Data](https://it.slashdot.org/story/25/07/25/1613250/microsoft-used-china-based-support-for-multiple-us-agencies-potentially-exposing-sensitive-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 15:36:52](https://news.ycombinator.com/item?id=44684373) - [Women dating safety app &apos;Tea&apos; breached, users&apos; IDs posted to 4chan](https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/)
-* [2025-07-25, 15:21:00](https://news.slashdot.org/story/25/07/25/1521224/were-not-learning-anything-stanford-gsb-students-sound-the-alarm-over-academics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;We&apos;re Not Learning Anything&apos;: Stanford GSB Students Sound The Alarm Over Academics](https://news.slashdot.org/story/25/07/25/1521224/were-not-learning-anything-stanford-gsb-students-sound-the-alarm-over-academics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss)
 * [2025-07-25, 14:41:03](https://news.ycombinator.com/item?id=44683682) - [Programming vehicles in games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
 * [2025-07-25, 14:38:42](https://lobste.rs/s/c4bhyg/programming_vehicles_games) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:23:10](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend)
-* [2025-07-25, 13:40:19](https://news.ycombinator.com/item?id=44683011) - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 * [2025-07-25, 13:35:09](https://news.ycombinator.com/item?id=44682964) - [It&apos;s a DE9, not a DB9 (but we know what you mean)](https://news.sparkfun.com/14298)
 * [2025-07-25, 13:30:54](https://news.ycombinator.com/item?id=44682932) - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
 * [2025-07-25, 12:39:41](https://news.ycombinator.com/item?id=44682465) - [Show HN: Price Per Token – LLM API Pricing Data](https://pricepertoken.com/)
@@ -127,11 +119,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-25, 11:16:37](https://lobste.rs/s/1bpslf/433_how_make_font_says_nothing) - [433: How to Make a Font that Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss)
 * [2025-07-25, 09:14:18](https://lobste.rs/s/xtiwkr/time_i_wasted_weeks_hand_optimizing) - [That time I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
-* [2025-07-25, 08:18:28](https://lobste.rs/s/bva342/vet_command_line_tool_acts_as_safety_net) - [vet a command-line tool that acts as a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
 * [2025-07-25, 08:16:21](https://lobste.rs/s/7cffqo/celebrating_20_years_mdn) - [Celebrating 20 years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
 * [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss) - [&apos;I Destroyed Months of Your Work in Seconds&apos; Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss)
-* [2025-07-25, 01:40:11](https://news.ycombinator.com/item?id=44678512) - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
 * [2025-07-24, 22:50:56](https://lobste.rs/s/a9frrj/use_your_type_system) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
@@ -152,7 +142,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-23, 17:14:50](https://news.ycombinator.com/item?id=44661592) - [Why is there a date of 1968 in the Intel Chipset Device Software Utility?](https://www.intel.com/content/www/us/en/support/articles/000095169/processors.html)
 * [2025-07-23, 15:10:00](https://soylentnews.org/article.pl?sid=25/07/22/0822201&amp;from=rss) - [Microsoft Wants to Find Out Why Windows 11 is So Slow](https://soylentnews.org/article.pl?sid=25/07/22/0822201&amp;from=rss)
 * [2025-07-23, 10:24:00](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss) - [The Atomic Bomb Marker Inside Your Body](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss)
+* [2025-07-23, 10:03:23](https://news.ycombinator.com/item?id=44657465) - [Choosing the rijght .NET container image for your workload](https://medium.com/@mfundo/all-the-net-core-opsy-things-37b2e21eabb4)
 * [2025-07-23, 09:16:26](https://news.ycombinator.com/item?id=44657188) - [Researchers value null results, but struggle to publish them](https://www.nature.com/articles/d41586-025-02312-4)
+* [2025-07-23, 07:40:26](https://news.ycombinator.com/item?id=44656684) - [Steve Jobs&apos; cabinet](https://perfectdays23.substack.com/p/steve-jobs-cabinet)
 * [2025-07-23, 07:28:58](https://news.ycombinator.com/item?id=44656624) - [Running PostmarketOS on Android Termux proot without a custom ROM (2024)](https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/)
 * [2025-07-23, 05:35:00](https://soylentnews.org/article.pl?sid=25/07/22/074257&amp;from=rss) - [Matson Suspends Shipping EVs Citing Hazards of Lithium-ion Batteries](https://soylentnews.org/article.pl?sid=25/07/22/074257&amp;from=rss)
 * [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss)
