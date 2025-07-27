@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Language Models
+## Technological Innovations and Automation
 
-* [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html) ([comments](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json))
+* [OverHAuL: Harnessing Automation for C Libraries with Large Language Models](https://kchousos.github.io/BSc-Thesis/) ([article](https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c) | [comments](https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c))
 
-* [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI) ([comments](https://lobste.rs/s/p3bxpe/chaos_ai_agents))
+* [copyparty: portable file server with resumable uploads, dedup, WebDAV, and more](https://github.com/9001/copyparty) ([article](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with) | [comments](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with))
 
-* [AI Industry's Size Obsession is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss))
+* [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html) ([article](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) | [comments](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json))
 
-* [Conversations Between LLMs Could Automate the Creation of Exploits, Study Shows](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss))
+* [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org) ([article](https://news.ycombinator.com/item?id=44698185) | [comments](https://news.ycombinator.com/item?id=44698185))
 
-## Space and Satellite Innovations
+## Renewable Energy and Sustainability
 
-* [‘Serious Delays’ Hit Satellite Mega-Constellations of China's Starlink Rivals](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) ([article](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) | [comments](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss))
 
-* [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615) ([comments](https://news.ycombinator.com/item?id=44697465))
+* [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials) ([article](https://news.ycombinator.com/item?id=44698928) | [comments](https://news.ycombinator.com/item?id=44698928))
 
-* [NASA Scientist Finds Predicted Companion Star to Betelgeuse](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss))
+* [Google Will Help Scale 'Long-Duration Energy Storage' Solution for Clean Power](https://hardware.slashdot.org/story/25/07/26/2123234/google-will-help-scale-long-duration-energy-storage-solution-for-clean-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([article](https://hardware.slashdot.org/story/25/07/26/2123234/google-will-help-scale-long-duration-energy-storage-solution-for-clean-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) | [comments](https://hardware.slashdot.org/story/25/07/26/2123234/google-will-help-scale-long-duration-energy-storage-solution-for-clean-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Cutting-Edge Technology and Tools
+## Artificial Intelligence and Its Challenges
 
-* [Janet: Lightweight, Expressive, Modern Lisp](https://janet-lang.org) ([comments](https://news.ycombinator.com/item?id=44698185))
+* [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI) ([article](https://lobste.rs/s/p3bxpe/chaos_ai_agents) | [comments](https://lobste.rs/s/p3bxpe/chaos_ai_agents))
 
-* [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/) ([comments](https://news.ycombinator.com/item?id=44699393))
+* [How we rooted Copilot](https://research.eye.security/how-we-rooted-copilot/) ([article](https://news.ycombinator.com/item?id=44695098) | [comments](https://news.ycombinator.com/item?id=44695098))
 
-* [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/) ([comments](https://news.ycombinator.com/item?id=44697131))
+* [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) ([article](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) | [comments](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss))
 
-* [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304) ([comments](https://news.ycombinator.com/item?id=44699052))
+## Space and Aerospace Developments
 
-## Environmental and Energy Industry Updates
+* [Serious Delays Hit Satellite Mega-Constellations of China's Starlink Rivals](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([article](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) | [comments](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Google Will Help Scale 'Long-Duration Energy Storage' Solution for Clean Power](https://hardware.slashdot.org/story/25/07/26/2123234/google-will-help-scale-long-duration-energy-storage-solution-for-clean-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/07/26/2123234/google-will-help-scale-long-duration-energy-storage-solution-for-clean-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Did a Vendor's Leak Help Attackers Exploit Microsoft's SharePoint Servers?](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([article](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) | [comments](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials) ([comments](https://news.ycombinator.com/item?id=44698928))
+## Niche Programming and Development Tools
 
-* [The natural diamond industry is getting rocked. Thank the lab-grown variety](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336) ([comments](https://news.ycombinator.com/item?id=44693570))
+* [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/) ([article](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) | [comments](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick))
 
-## Health and Medical Insights
+* [exosphere: A simple centralized patch management and reporting tool for unix systems](https://github.com/mrdaemon/exosphere) ([article](https://lobste.rs/s/6i8us2/exosphere_simple_centralized_patch) | [comments](https://lobste.rs/s/6i8us2/exosphere_simple_centralized_patch))
 
-* [Coronary artery calcium testing can reveal plaque in arteries, but is underused](https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html) ([comments](https://news.ycombinator.com/item?id=44697145))
-
-* [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss))
-
-* [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss))
+* [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html) ([article](https://lobste.rs/s/og1pru/how_configure_x11_simple_way) | [comments](https://lobste.rs/s/og1pru/how_configure_x11_simple_way))
 
 ---
 
@@ -69,22 +65,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-27, 12:22:35](https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c) - [OverHAuL: Harnessing Automation for C Libraries with Large Language Models](https://kchousos.github.io/BSc-Thesis/)
+* [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
+* [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
+* [2025-07-27, 11:34:00](https://idle.slashdot.org/story/25/07/27/0532227/chuck-e-cheese-handcuffed-and-arrested-in-florida-charged-with-using-a-stolen-credit-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Chuck E. Cheese&apos; Handcuffed and Arrested in Florida, Charged with Using a Stolen Credit Card](https://idle.slashdot.org/story/25/07/27/0532227/chuck-e-cheese-handcuffed-and-arrested-in-florida-charged-with-using-a-stolen-credit-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-27, 11:21:42](https://news.ycombinator.com/item?id=44700471) - [No AI Content](https://eclecticlight.co/2025/07/27/last-week-on-my-mac-%f0%9f%a6%89-no-ai-content/)
+* [2025-07-27, 10:39:07](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with) - [copyparty: portable file server with resumable uploads, dedup, WebDAV, and more](https://github.com/9001/copyparty)
 * [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
+* [2025-07-27, 09:21:13](https://news.ycombinator.com/item?id=44699980) - [Constrained languages are easier to optimize](https://jyn.dev/constrained-languages-are-easier-to-optimize/)
 * [2025-07-27, 07:34:00](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Serious Delays&apos; Hit Satellite Mega-Constellations of China&apos;s Starlink Rivals ](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
-* [2025-07-27, 07:11:16](https://news.ycombinator.com/item?id=44699437) - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
-* [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
+* [2025-07-27, 07:15:57](https://news.ycombinator.com/item?id=44699452) - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+* [2025-07-27, 07:07:09](https://news.ycombinator.com/item?id=44699421) - [When we get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
 * [2025-07-27, 07:01:02](https://news.ycombinator.com/item?id=44699393) - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
 * [2025-07-27, 06:09:40](https://lobste.rs/s/p3bxpe/chaos_ai_agents) - [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI)
-* [2025-07-27, 05:17:03](https://news.ycombinator.com/item?id=44699052) - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
 * [2025-07-27, 04:35:33](https://news.ycombinator.com/item?id=44698928) - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 * [2025-07-27, 04:34:00](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did a Vendor&apos;s Leak Help Attackers Exploit Microsoft&apos;s SharePoint Servers?](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 03:38:27](https://news.ycombinator.com/item?id=44698754) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 03:37:12](https://lobste.rs/s/xtxvyd/fast_cheap_bulk_storage_using_lvm_cache) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
-* [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter sensor revolutionizes air quality measurement](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
+* [2025-07-27, 03:34:47](https://news.ycombinator.com/item?id=44698733) - [Smallest particulate matter air quality sensor for ultra-compact IoT devices](https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html)
 * [2025-07-27, 02:49:34](https://lobste.rs/s/6i8us2/exosphere_simple_centralized_patch) - [exosphere: A simple centralized patch management and reporting tool for unix systems](https://github.com/mrdaemon/exosphere)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
 * [2025-07-27, 01:35:00](https://entertainment.slashdot.org/story/25/07/27/0131241/comic-con-peeks-at-new-alien-and-avatar-series-plus-predator-and-coyote-vs-acme-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comic-Con Peeks at New &apos;Alien&apos; and &apos;Avatar&apos; Series, Plus &apos;Predator&apos; and &apos;Coyote vs. Acme&apos; Movies](https://entertainment.slashdot.org/story/25/07/27/0131241/comic-con-peeks-at-new-alien-and-avatar-series-plus-predator-and-coyote-vs-acme-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,7 +95,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-26, 23:43:26](https://news.ycombinator.com/item?id=44697798) - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
 * [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
 * [2025-07-26, 23:03:26](https://news.ycombinator.com/item?id=44697590) - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
-* [2025-07-26, 22:39:19](https://news.ycombinator.com/item?id=44697465) - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
 * [2025-07-26, 22:34:00](https://yro.slashdot.org/story/25/07/26/0126224/astronomer-hires-coldplay-lead-singers-ex-wife-as-temporary-spokesperson-gwyneth-paltrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomer Hires Coldplay Lead Singer&apos;s Ex-Wife as &apos;Temporary&apos; Spokesperson:  Gwyneth Paltrow](https://yro.slashdot.org/story/25/07/26/0126224/astronomer-hires-coldplay-lead-singers-ex-wife-as-temporary-spokesperson-gwyneth-paltrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 22:32:45](https://news.ycombinator.com/item?id=44697437) - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 * [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
@@ -104,12 +104,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-26, 21:24:51](https://news.ycombinator.com/item?id=44697007) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
 * [2025-07-26, 21:04:12](https://lobste.rs/s/stness/test_results_for_amd_zen_5) - [Test results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&amp;start=11)
-* [2025-07-26, 21:03:03](https://news.ycombinator.com/item?id=44696894) - [Arvo Pärt at 90](https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90)
 * [2025-07-26, 20:34:00](https://hardware.slashdot.org/story/25/07/26/1946217/stack-exchange-moves-everything-to-the-cloud-destroys-servers-in-new-jersey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stack Exchange Moves Everything to the Cloud, Destroys Servers in New Jersey ](https://hardware.slashdot.org/story/25/07/26/1946217/stack-exchange-moves-everything-to-the-cloud-destroys-servers-in-new-jersey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 19:34:00](https://games.slashdot.org/story/25/07/26/1658233/chatgpt-loses-in-a-game-of-chess-against-magnus-carlsen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Loses in a Game of Chess Against Magnus Carlsen](https://games.slashdot.org/story/25/07/26/1658233/chatgpt-loses-in-a-game-of-chess-against-magnus-carlsen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 18:34:00](https://developers.slashdot.org/story/25/07/26/0642239/google-gemini-deletes-users-files-then-just-admits-i-have-failed-you-completely-and-catastrophically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Gemini Deletes User&apos;s Files, Then Just Admits &apos;I Have Failed You Completely and Catastrophically&apos;](https://developers.slashdot.org/story/25/07/26/0642239/google-gemini-deletes-users-files-then-just-admits-i-have-failed-you-completely-and-catastrophically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 18:25:13](https://news.ycombinator.com/item?id=44696033) - [What went wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
-* [2025-07-26, 18:00:32](https://news.ycombinator.com/item?id=44695877) - [Where are vacation homes located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
 * [2025-07-26, 17:34:00](https://science.slashdot.org/story/25/07/26/0456207/asteroid-2024-yr4-spared-the-earth-what-happens-if-it-hits-the-moon-instead-in-2032?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Asteroid 2024 YR4 Spared The Earth. What Happens if It Hits the Moon Instead in 2032?](https://science.slashdot.org/story/25/07/26/0456207/asteroid-2024-yr4-spared-the-earth-what-happens-if-it-hits-the-moon-instead-in-2032?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 16:45:50](https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
 * [2025-07-26, 16:34:00](https://slashdot.org/story/25/07/26/0523241/chatgpt-gives-instructions-for-dangerous-pagan-rituals-and-devil-worship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Gives Instructions for Dangerous Pagan Rituals and Devil Worship](https://slashdot.org/story/25/07/26/0523241/chatgpt-gives-instructions-for-dangerous-pagan-rituals-and-devil-worship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -132,19 +130,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss) - [Debian Linux \&quot;Trixie\&quot; is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss)
 * [2025-07-26, 04:38:35](https://lobste.rs/s/jmttl2/can_llms_do_accounting) - [Can LLMs Do Accounting?](https://accounting.penrose.com/)
 * [2025-07-26, 03:35:00](https://lobste.rs/s/oosbf5/split_flap) - [Split Flap](https://fx.hot.page/split-flap)
-* [2025-07-26, 03:30:00](https://hardware.slashdot.org/story/25/07/25/2237245/google-set-up-two-robotic-arms-for-a-game-of-infinite-table-tennis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Set Up Two Robotic Arms For a Game of Infinite Table Tennis](https://hardware.slashdot.org/story/25/07/25/2237245/google-set-up-two-robotic-arms-for-a-game-of-infinite-table-tennis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss)
-* [2025-07-25, 22:56:42](https://lobste.rs/s/dfket6/gnome_calendar_new_era_accessibility) - [GNOME Calendar: A New Era of Accessibility Achieved in 90 Days](https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/)
 * [2025-07-25, 21:38:09](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy) - [Lobsters Interview with Technomancy](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy)
 * [2025-07-25, 21:31:00](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) - [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss)
-* [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer&apos;s Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
-* [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss)
 * [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss) - [&apos;I Destroyed Months of Your Work in Seconds&apos; Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss)
 * [2025-07-24, 19:41:00](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss) - [mwm: An X11 Window Manager in 20 Lines of Code](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss)
 * [2025-07-24, 14:56:00](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss) - [Real Milk Proteins, No Cows: Engineered Bacteria Pave the Way for Vegan Cheese and Yogurt](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss)
+* [2025-07-24, 10:19:59](https://news.ycombinator.com/item?id=44669026) - [BlueOS Kernel – Written in Rust, compatible with POSIX](https://github.com/vivoblueos/kernel)
 * [2025-07-24, 10:15:00](https://soylentnews.org/meta/article.pl?sid=25/07/24/1019233&amp;from=rss) - [Bots, Spiders, Scrapers and AI - Connections to SN](https://soylentnews.org/meta/article.pl?sid=25/07/24/1019233&amp;from=rss)
 * [2025-07-24, 10:11:00](https://soylentnews.org/article.pl?sid=25/07/23/1253202&amp;from=rss) - [Fearful of AI-Generated Grant Proposals, NIH Limits Scientists to Six Applications Per Year](https://soylentnews.org/article.pl?sid=25/07/23/1253202&amp;from=rss)
 * [2025-07-24, 05:28:00](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss) - [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People&apos;s Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss)
@@ -157,8 +152,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-23, 19:54:00](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss) - [Conversations Between LLMs Could Automate the Creation of Exploits, Study Shows](https://soylentnews.org/article.pl?sid=25/07/22/0833233&amp;from=rss)
 * [2025-07-23, 17:12:57](https://news.ycombinator.com/item?id=44661571) - [Cable Bacteria Are Living Batteries](https://www.asimov.press/p/cable-bacteria)
 * [2025-07-23, 15:57:11](https://news.ycombinator.com/item?id=44660656) - [Reading QR codes without a computer](https://qr.blinry.org/)
-* [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
+* [2025-07-23, 15:20:28](https://news.ycombinator.com/item?id=44660219) - [A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)](https://github.com/pawl/raspberry-pi-1u-server)
 * [2025-07-23, 15:10:00](https://soylentnews.org/article.pl?sid=25/07/22/0822201&amp;from=rss) - [Microsoft Wants to Find Out Why Windows 11 is So Slow](https://soylentnews.org/article.pl?sid=25/07/22/0822201&amp;from=rss)
+* [2025-07-23, 12:58:48](https://news.ycombinator.com/item?id=44658722) - [Three high-performance RISC-V processors to watch in H2 2025](https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/)
+* [2025-07-23, 12:13:52](https://news.ycombinator.com/item?id=44658323) - [Return of wolves to Yellowstone has led to a surge in aspen trees](https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years)
 * [2025-07-23, 10:24:00](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss) - [The Atomic Bomb Marker Inside Your Body](https://soylentnews.org/article.pl?sid=25/07/22/079200&amp;from=rss)
 * [2025-07-23, 05:35:00](https://soylentnews.org/article.pl?sid=25/07/22/074257&amp;from=rss) - [Matson Suspends Shipping EVs Citing Hazards of Lithium-ion Batteries](https://soylentnews.org/article.pl?sid=25/07/22/074257&amp;from=rss)
 * [2025-07-23, 00:54:00](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss) - [11,000-Year-Old Feast Uncovered: Why Hunters Hauled Wild Boars Across Mountains](https://soylentnews.org/article.pl?sid=25/07/21/225220&amp;from=rss)
