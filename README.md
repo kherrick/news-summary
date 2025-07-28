@@ -1,54 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI
+## Advancing Technology and AI
 
-* [Security Researchers Find Evidence SkyRover X1 Is Disguised DJI Product](https://tech.slashdot.org/story/25/07/28/1521248/security-researchers-find-evidence-skyrover-x1-is-disguised-dji-product?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security researchers reveal potential connections between SkyRover X1 and DJI, raising questions about product origins and rebranding strategies.
+* [Bevy in Production: Building Modeling at Metabuild](https://www.youtube.com/watch?v=16r9plbAhXo) - An insightful look into how Bevy is utilized for creating building models, showcasing its real-world applications. [Article](https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at)
 
-* [Tao on "blue team" vs. "red team" LLMs](https://mathstodon.xyz/@tao/114915604830689046) - An exploration of tactics and challenges when employing AI large language models (LLMs) in defensive and offensive cybersecurity.
+* [Chinese Universities Want Students To Use More AI, Not Less](https://news.slashdot.org/story/25/07/28/1732217/chinese-universities-want-students-to-use-more-ai-not-less?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A shift in educational paradigms with AI embraced as a learning tool.
 
-* [Google's New Security Project 'OSS Rebuild' Tackles Package Supply Chain Verification](https://news.slashdot.org/story/25/07/28/0254233/googles-new-security-project-oss-rebuild-tackles-package-supply-chain-verification?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google introduces a security initiative aiming to address vulnerabilities in the open-source software supply chain.
+* [Google's New Security Project 'OSS Rebuild' Tackles Package Supply Chain Verification](https://news.slashdot.org/story/25/07/28/0254233/googles-new-security-project-oss-rebuild-tackles-package-supply-chain-verification?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Addressing security risks through open-source software management.
 
-* [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece) - Insights into how artificial intelligence can integrate into everyday decision-making and tasks.
+* [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) - A compelling argument for human-centric AI user enhancements over assistive copilots. [Comments](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds)
 
-* [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) - A novel perspective on prioritizing AI-human collaborative interfaces over traditional copilots.
+## Progress in Space and Science
 
-## Science and Health
+* [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/) - Discoveries about the interstellar object 3I/Atlas provide fresh insights into space phenomena. [Comments](https://news.ycombinator.com/item?id=44713579)
 
-* [Ageing Accelerates at Around Age 50 - Some Organs Faster Than Others](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers study the varying rates at which aging impacts different organs post-50 years of age.
+* [Ageing Accelerates at Around Age 50 - Some Organs Faster Than Others](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Studies delve into aging rates and their impacts on different human organs.
 
-* [Researchers Quietly Planned a Test to Dim Sunlight Over 3,900 Square Miles](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A controversial experiment to explore geoengineering techniques to combat climate change.
+* [Astronomers Use Black Holes to Pinpoint Earth's Location. But are Phones and Wifi Blocking the View?](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An innovative method to locate Earth amidst challenges posed by modern technology.
 
-* [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&from=rss) - A dubious claim regarding bleach as a potential treatment for cancer generates skepticism and backlash.
+## Digital Security and Policy
 
-* [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&from=rss) - Fascinating research uncovers cells capable of dual breathing pathways, unveiling potential implications for medicine.
+* [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b) - How new regulations impact online privacy behaviors. [Comments](https://news.ycombinator.com/item?id=44706653)
 
-* [Real Milk Proteins, No Cows: Engineered Bacteria Pave the Way for Vegan Cheese and Yogurt](https://soylentnews.org/article.pl?sid=25/07/23/1245206&from=rss) - Innovations in food science leverage engineered bacteria to create sustainable dairy alternatives.
+* [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&from=rss) - A major crackdown on botnet operators threatening online security.
 
-## Programming and Development
+* [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/) - Controversial update sparks debates over control and customization. [Comments](https://news.ycombinator.com/item?id=44706409)
 
-* [Following up on the Python JIT](https://lwn.net/Articles/1029307/) - Updates on the progress and implementation challenges of Just-In-Time (JIT) compilation in Python.
+## Cutting Edge in Development and Design
 
-* [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance) - A deep dive into utilizing SIMD for faster hash table operations.
+* [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance) - An exploration of optimizing performance using SIMD. [Comments](https://news.ycombinator.com/item?id=44707546)
 
-* [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org) - A modern take on programming language principles, provided in this updated edition.
+* [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/) - Key principles to create user interfaces tailored for younger audiences. [Comments](https://news.ycombinator.com/item?id=44712311)
 
-* [LLVM Integrated Assembler: Engineering Better Fragments](https://maskray.me/blog/2025-07-27-llvm-integrated-assembler-engineering-better-fragments) - Insights into crafting more efficient and modular code with LLVM fragment improvements.
+* [What would an efficient and trustworthy meeting culture look like?](https://abitmighty.com/posts/the-ultimate-meeting-culture) - Proposals for overhauling corporate meeting dynamics.
 
-## Cultural and Historical Perspectives
+## Innovations in Energy and Environment
 
-* [Tom Lehrer, Satirical Songwriter and Mathematician, Dies at Age 97](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reflecting on the life and legacy of Tom Lehrer, a visionary known for blending humor, math, and music.
+* [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&from=rss) - Renewable energy advancements in lightweight solar solutions.
 
-* [George Lucas Makes First Comic-Con Appearance to Discuss His Upcoming 'Museum of Narrative Art'](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&utm_medium=feed) - George Lucas shares his vision for a museum celebrating storytelling and creative narratives.
+* [Real Milk Proteins, No Cows: Engineered Bacteria Pave the Way for Vegan Cheese and Yogurt](https://soylentnews.org/article.pl?sid=25/07/23/1245206&from=rss) - Biotech reshaping the food industry while reducing animal reliance.
 
-* [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/) - The intricate and profound connections between geological phenomena and human temporal understanding.
-
-* [200k Flemish Drivers Can Turn Traffic Lights Green](https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/) - Revolutionary changes in traffic management systems through app-driven technology.
-
-## Space and Astronomy
-
-* [Astronomers Use Black Holes to Pinpoint Earth's Location. But are Phones and Wifi Blocking the View?](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Challenges in astronomical techniques as modern technology interferes with observations using cosmic landmarks.
-
-* [NASA Scientist Finds Predicted Companion Star to Betelgeuse](https://soylentnews.org/article.pl?sid=25/07/25/0459237&from=rss) - A groundbreaking discovery confirms the hypothesized stellar companion to the massive Betelgeuse.
+* [Researchers Quietly Planned a Test to Dim Sunlight Over 3,900 Square Miles](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Experimental geoengineering to combat climate change sparks controversy.
 
 ---
 
@@ -75,14 +67,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-28, 19:01:46](https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at) - [Bevy in Production: Building Modeling at Metabuild](https://www.youtube.com/watch?v=16r9plbAhXo)
+* [2025-07-28, 18:37:43](https://news.ycombinator.com/item?id=44713837) - [Claude Code new limits – Important updates to your Max account usage limits](https://news.ycombinator.com/item?id=44713837)
+* [2025-07-28, 18:12:00](https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Adds Copilot Mode To Edge](https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 18:09:17](https://news.ycombinator.com/item?id=44713579) - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
+* [2025-07-28, 18:07:23](https://news.ycombinator.com/item?id=44713566) - [Say Goodbye to the Internet as We Know It](https://europeanconservative.com/articles/commentary/say-goodbye-to-the-internet-as-we-know-it/)
+* [2025-07-28, 17:53:52](https://news.ycombinator.com/item?id=44713414) - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
+* [2025-07-28, 17:32:00](https://news.slashdot.org/story/25/07/28/1732217/chinese-universities-want-students-to-use-more-ai-not-less?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Universities Want Students To Use More AI, Not Less](https://news.slashdot.org/story/25/07/28/1732217/chinese-universities-want-students-to-use-more-ai-not-less?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 17:11:00](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss) - [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss)
+* [2025-07-28, 17:00:38](https://lobste.rs/s/nled17/jeopardy_world) - [Jeopardy! world](https://hauleth.dev/post/jeopardy-world/)
+* [2025-07-28, 16:53:00](https://news.slashdot.org/story/25/07/28/1653234/nearly-half-of-us-venture-capital-professionals-in-middle-to-senior-positions-have-no-successful-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nearly Half of US Venture Capital Professionals in Middle To Senior Positions Have No Successful Investments](https://news.slashdot.org/story/25/07/28/1653234/nearly-half-of-us-venture-capital-professionals-in-middle-to-senior-positions-have-no-successful-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 16:36:43](https://lobste.rs/s/bf8a5i/from_xml_json_cbor) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
+* [2025-07-28, 16:19:03](https://news.ycombinator.com/item?id=44712315) - [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents)
+* [2025-07-28, 16:18:49](https://news.ycombinator.com/item?id=44712311) - [I saved a PNG image to a bird](https://www.youtube.com/watch?v=hCQCP-5g5bo)
+* [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
+* [2025-07-28, 16:07:00](https://tech.slashdot.org/story/25/07/28/166238/windows-11-is-a-minefield-of-micro-aggressions-in-the-shipping-lane-of-progress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11 is a &apos;Minefield of Micro-aggressions in the Shipping Lane of Progress&apos;](https://tech.slashdot.org/story/25/07/28/166238/windows-11-is-a-minefield-of-micro-aggressions-in-the-shipping-lane-of-progress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 15:40:05](https://news.ycombinator.com/item?id=44711940) - [Requesting Funding for 90s.dev](https://90s.dev/blog/requesting-funding-for-90s-dev.html)
 * [2025-07-28, 15:22:00](https://tech.slashdot.org/story/25/07/28/1521248/security-researchers-find-evidence-skyrover-x1-is-disguised-dji-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Security Researchers Find Evidence SkyRover X1 Is Disguised DJI Product](https://tech.slashdot.org/story/25/07/28/1521248/security-researchers-find-evidence-skyrover-x1-is-disguised-dji-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 15:21:13](https://news.ycombinator.com/item?id=44711745) - [Simplify, then add delightness: On designing for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
+* [2025-07-28, 15:06:00](https://news.ycombinator.com/item?id=44711612) - [The first 100% effective HIV prevention drug is approved and going global](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/)
 * [2025-07-28, 14:57:55](https://news.ycombinator.com/item?id=44711519) - [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
 * [2025-07-28, 14:40:00](https://news.slashdot.org/story/25/07/28/1350217/can-a-country-be-too-rich-norway-is-finding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can a Country Be Too Rich? Norway Is Finding Out](https://news.slashdot.org/story/25/07/28/1350217/can-a-country-be-too-rich-norway-is-finding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on \&quot;blue team\&quot; vs. \&quot;red team\&quot; LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
+* [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
 * [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
 * [2025-07-28, 14:00:00](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ageing Accelerates at Around Age 50 - Some Organs Faster Than Others](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 13:36:28](https://news.ycombinator.com/item?id=44710750) - [The 1970s psychology experiment behind &apos;Star Wars&apos; special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
 * [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:30:00](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss) - [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss)
@@ -94,9 +104,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 10:10:41](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week)
 * [2025-07-28, 10:02:36](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 10:02:14](https://lobste.rs/s/i4hxlc/approve_merge_requests_with_your_eyes) - [Approve merge requests with your eyes closed](https://blog.jse.li/posts/approval/)
-* [2025-07-28, 08:40:07](https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio) - [Dynamic Phase Alignment in Audio](https://www.youtube.com/watch?v=JNCVj_RtdZw)
 * [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
+* [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to make websites that will require lots of your time and energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification) - [Redditor Speculates that EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
 * [2025-07-28, 07:34:00](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Use Black Holes to Pinpoint Earth&apos;s Location.  But are Phones and Wifi Blocking the View?](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 07:27:17](https://news.ycombinator.com/item?id=44708173) - [What would an efficient and trustworthy meeting culture look like?](https://abitmighty.com/posts/the-ultimate-meeting-culture)
@@ -113,35 +123,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-28, 01:39:00](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Easy NTSYNC Arrives For Steam Users With GE-Proton 10.10](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 00:19:23](https://news.ycombinator.com/item?id=44705958) - [Claude Code Router](https://github.com/musistudio/claude-code-router)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 23:49:00](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tom Lehrer, Satirical Songwriter and Mathematician, Dies at Age 97](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 22:51:00](https://hardware.slashdot.org/story/25/07/27/2248257/huawei-shows-off-384-chip-ai-computing-system-that-rival-nvidias-top-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Huawei Shows Off 384-Chip AI Computing System That Rival Nvidia&apos;s Top Product](https://hardware.slashdot.org/story/25/07/27/2248257/huawei-shows-off-384-chip-ai-computing-system-that-rival-nvidias-top-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
-* [2025-07-27, 22:07:07](https://lobste.rs/s/obwtbz/designing_flatpack_bed) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:48:00](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Quietly Planned a Test to Dim Sunlight Over 3,900 Square Miles](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
 * [2025-07-27, 21:02:28](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine) - [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
-* [2025-07-27, 20:09:29](https://news.ycombinator.com/item?id=44704270) - [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 19:59:00](https://news.slashdot.org/story/25/07/27/1957211/vpn-downloads-surge-in-uk-as-new-age-verification-rules-take-effect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VPN Downloads Surge in UK as New Age-Verification Rules Take Effect](https://news.slashdot.org/story/25/07/27/1957211/vpn-downloads-surge-in-uk-as-new-age-verification-rules-take-effect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
-* [2025-07-27, 18:34:00](https://slashdot.org/story/25/07/27/1818251/is-chatgpt-making-you-stupid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is ChatGPT Making You Stupid?](https://slashdot.org/story/25/07/27/1818251/is-chatgpt-making-you-stupid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 17:57:06](https://news.ycombinator.com/item?id=44703164) - [Performance and telemetry analysis of Trae IDE, ByteDance&apos;s VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
-* [2025-07-27, 17:34:00](https://games.slashdot.org/story/25/07/27/1640244/its-doom-but-you-can-cut-copy-and-paste-opponents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;It&apos;s DOOM, but You Can Cut, Copy and Paste Opponents&apos;](https://games.slashdot.org/story/25/07/27/1640244/its-doom-but-you-can-cut-copy-and-paste-opponents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 17:19:19](https://news.ycombinator.com/item?id=44702833) - [Ask HN: What are you working on? (July 2025)](https://news.ycombinator.com/item?id=44702833)
-* [2025-07-27, 16:34:00](https://entertainment.slashdot.org/story/25/07/26/2225254/fantastic-four-tops-superman-opening-second-largest-of-the-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Fantastic Four&apos; Tops &apos;Superman&apos; Opening, Second-Largest of the Year](https://entertainment.slashdot.org/story/25/07/26/2225254/fantastic-four-tops-superman-opening-second-largest-of-the-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 15:34:00](https://hardware.slashdot.org/story/25/07/26/0358240/to-fight-climate-change-norway-wants-to-become-europes-carbon-dump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To Fight Climate Change, Norway Wants to Become Europe&apos;s Carbon Dump](https://hardware.slashdot.org/story/25/07/26/0358240/to-fight-climate-change-norway-wants-to-become-europes-carbon-dump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
-* [2025-07-27, 10:39:07](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with) - [copyparty: portable file server with resumable uploads, dedup, WebDAV, and more](https://github.com/9001/copyparty)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
-* [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) - [AI Industry&apos;s Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss)
@@ -151,20 +148,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-25, 21:31:00](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) - [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss)
 * [2025-07-25, 15:12:19](https://news.ycombinator.com/item?id=44684055) - [Getting the KIM-1 to talk to my Mac](https://blog.jgc.org/2025/02/getting-kim-1-to-talk-to-my-mac.html)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss)
+* [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [Cells that breathe oxygen and sulfur at the same time](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
 * [2025-07-25, 11:08:45](https://news.ycombinator.com/item?id=44681858) - [Terminal app can now run full graphical Linux apps in the latest Android Canary](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss)
 * [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss) - [&apos;I Destroyed Months of Your Work in Seconds&apos; Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss)
+* [2025-07-24, 20:35:04](https://news.ycombinator.com/item?id=44675771) - [NixOS on a Tuxedo InfinityBook Pro 14 Gen9 AMD Laptop](https://fnune.com/hardware/2025/07/20/nixos-on-a-tuxedo-infinitybook-pro-14-gen9-amd/)
 * [2025-07-24, 20:10:15](https://news.ycombinator.com/item?id=44675438) - [A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing](https://arxiv.org/abs/2506.22707)
 * [2025-07-24, 19:41:00](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss) - [mwm: An X11 Window Manager in 20 Lines of Code](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss)
-* [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog&apos;s performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
-* [2025-07-24, 17:50:39](https://news.ycombinator.com/item?id=44673787) - [Trying to play an isomorphic piano (2022) [video]](https://www.youtube.com/watch?v=j4itL174C-4)
 * [2025-07-24, 15:53:58](https://news.ycombinator.com/item?id=44672230) - [Aeneas transforms how historians connect the past](https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/)
-* [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
-* [2025-07-24, 15:20:49](https://news.ycombinator.com/item?id=44671802) - [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
 * [2025-07-24, 14:56:00](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss) - [Real Milk Proteins, No Cows: Engineered Bacteria Pave the Way for Vegan Cheese and Yogurt](https://soylentnews.org/article.pl?sid=25/07/23/1245206&amp;from=rss)
-* [2025-07-24, 14:08:26](https://news.ycombinator.com/item?id=44670885) - [200k Flemish drivers can turn traffic lights green](https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/)
-* [2025-07-24, 13:32:50](https://news.ycombinator.com/item?id=44670483) - [Solid protocol restores digital agency](https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html)
 * [2025-07-24, 10:15:00](https://soylentnews.org/meta/article.pl?sid=25/07/24/1019233&amp;from=rss) - [Bots, Spiders, Scrapers and AI - Connections to SN](https://soylentnews.org/meta/article.pl?sid=25/07/24/1019233&amp;from=rss)
 * [2025-07-24, 10:11:00](https://soylentnews.org/article.pl?sid=25/07/23/1253202&amp;from=rss) - [Fearful of AI-Generated Grant Proposals, NIH Limits Scientists to Six Applications Per Year](https://soylentnews.org/article.pl?sid=25/07/23/1253202&amp;from=rss)
 * [2025-07-24, 05:28:00](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss) - [A Surveillance Vendor Was Caught Exploiting a New SS7 Attack to Track People&apos;s Phone Locations](https://soylentnews.org/article.pl?sid=25/07/23/1249230&amp;from=rss)
