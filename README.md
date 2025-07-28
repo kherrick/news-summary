@@ -1,46 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Artificial Intelligence
 
-* [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/) - [Discussion](https://lobste.rs/s/yornw7/many_javascript_runtimes_last_decade)
+* [Generative AI. "Slop Generators, are unsuitable for use [ ]"](https://asahilinux.org/docs/project/policies/slop/) ([comments](https://news.ycombinator.com/item?id=44708884))
 
-* [Yalep - Micro language based on Lean for teaching mathematical high-school proofs](https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep) - [Discussion](https://lobste.rs/s/4clcyb/yalep_micro_language_based_on_lean_for)
+* [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding) ([comments](https://news.ycombinator.com/item?id=44708028))
 
-* [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance) - [Discussion](https://news.ycombinator.com/item?id=44707546)
+* [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) ([comments](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds))
 
-* [multiplex: Command-line process multiplexer](https://github.com/sebastien/multiplex) - [Discussion](https://lobste.rs/s/r6rbyk/multiplex_command_line_process)
+## Technology Innovations and Challenges
 
-* [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research) - [Discussion](https://news.ycombinator.com/item?id=44703164)
+* [Dynamic Phase Alignment in Audio](https://www.youtube.com/watch?v=JNCVj_RtdZw) ([comments](https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio))
 
-## Artificial Intelligence Developments
+* [Bringing together Clazy and Clang-Tidy](https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html) ([comments](https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy))
 
-* [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) - [Discussion](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds)
+* [LLVM integrated assembler: Engineering better fragments](https://maskray.me/blog/2025-07-27-llvm-integrated-assembler-engineering-better-fragments) ([comments](https://lobste.rs/s/p4ufsf/llvm_integrated_assembler_engineering))
 
-* [Huawei Shows Off 384-Chip AI Computing System That Rival Nvidia's Top Product](https://hardware.slashdot.org/story/25/07/27/2248257/huawei-shows-off-384-chip-ai-computing-system-that-rival-nvidias-top-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/) ([comments](https://news.ycombinator.com/item?id=44706409))
 
-## Cybersecurity and Privacy
+## Software Development
 
-* [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
+* [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex) ([comments](https://news.ycombinator.com/item?id=44707440))
 
-* [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b) - [Discussion](https://news.ycombinator.com/item?id=44706653)
+* [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org) ([comments](https://lobste.rs/s/zqinhx/programming_languages_application))
 
-## Cultural and Historical Highlights
+* [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance) ([comments](https://news.ycombinator.com/item?id=44707546))
 
-* [George Lucas Makes First Comic-Con Appearance to Discuss His Upcoming 'Museum of Narrative Art'](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Space and Astronomy
 
-* [Tom Lehrer, Satirical Songwriter and Mathematician, Dies at Age 97](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion](https://news.ycombinator.com/item?id=44702782)
+* [Astronomers Use Black Holes to Pinpoint Earth's Location. But are Phones and Wifi Blocking the View?](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Scientific Advances and Discussions
+* [NASA Scientist Finds Predicted Companion Star to Betelgeuse](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss))
 
-* [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
+## Cultural and Industry News
 
-* [To Fight Climate Change, Norway Wants to Become Europe's Carbon Dump](https://hardware.slashdot.org/story/25/07/26/0358240/to-fight-climate-change-norway-wants-to-become-europes-carbon-dump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [George Lucas Makes First Comic-Con Appearance to Discuss His Upcoming 'Museum of Narrative Art'](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Unique and Quirky Reads
-
-* [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine) - [Discussion](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine)
-
-* [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million) - [Discussion](https://news.ycombinator.com/item?id=44706137)
+* [Tom Lehrer, Satirical Songwriter and Mathematician, Dies at Age 97](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44702782))
 
 ---
 
@@ -67,6 +63,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-28, 09:18:17](https://news.ycombinator.com/item?id=44708884) - [Generative AI. \&quot;Slop Generators, are unsuitable for use [ ]\&quot;](https://asahilinux.org/docs/project/policies/slop/)
+* [2025-07-28, 08:40:07](https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio) - [Dynamic Phase Alignment in Audio](https://www.youtube.com/watch?v=JNCVj_RtdZw)
+* [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
+* [2025-07-28, 08:06:01](https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy) - [Bringing together Clazy and Clang-Tidy](https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html)
+* [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
+* [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
+* [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/eu_age_verification_app_ban_any_android) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
+* [2025-07-28, 07:34:00](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Use Black Holes to Pinpoint Earth&apos;s Location.  But are Phones and Wifi Blocking the View?](https://science.slashdot.org/story/25/07/28/043232/astronomers-use-black-holes-to-pinpoint-earths-location-but-are-phones-and-wifi-blocking-the-view?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-28, 07:25:58](https://lobste.rs/s/jfixfr/ultimate_meeting_culture) - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
+* [2025-07-28, 07:02:14](https://news.ycombinator.com/item?id=44708028) - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 * [2025-07-28, 06:39:26](https://lobste.rs/s/yornw7/many_javascript_runtimes_last_decade) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-28, 06:28:23](https://lobste.rs/s/4clcyb/yalep_micro_language_based_on_lean_for) - [Yalep - Micro language based on Lean for teaching mathematical high-school proofs](https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep)
 * [2025-07-28, 06:21:15](https://lobste.rs/s/p4ufsf/llvm_integrated_assembler_engineering) - [LLVM integrated assembler: Engineering better fragments](https://maskray.me/blog/2025-07-27-llvm-integrated-assembler-engineering-better-fragments)
@@ -74,14 +80,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 05:40:42](https://lobste.rs/s/eqmttb/trane) - [[trane]](https://lisp.trane.studio/?tutor)
 * [2025-07-28, 05:18:10](https://news.ycombinator.com/item?id=44707440) - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
 * [2025-07-28, 05:16:26](https://lobste.rs/s/r6rbyk/multiplex_command_line_process) - [multiplex: Command-line process mutliplexer](https://github.com/sebastien/multiplex)
+* [2025-07-28, 04:47:46](https://news.ycombinator.com/item?id=44707300) - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
 * [2025-07-28, 04:35:00](https://news.ycombinator.com/item?id=44707261) - [“Tivoization” and your right to install under Copyleft and GPL (2021)](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 * [2025-07-28, 03:34:00](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [George Lucas Makes First Comic-Con Appearance to Discuss His Upcoming &apos;Museum of Narrative Art&apos;](https://entertainment.slashdot.org/story/25/07/28/0047248/george-lucas-makes-first-comic-con-appearance-to-discuss-his-upcoming-museum-of-narrative-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
-* [2025-07-28, 02:33:04](https://news.ycombinator.com/item?id=44706653) - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
 * [2025-07-28, 01:46:44](https://news.ycombinator.com/item?id=44706428) - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
+* [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-28, 01:39:00](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Easy NTSYNC Arrives For Steam Users With GE-Proton 10.10](https://games.slashdot.org/story/25/07/28/0057226/easy-ntsync-arrives-for-steam-users-with-ge-proton-1010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 00:56:04](https://news.ycombinator.com/item?id=44706137) - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
 * [2025-07-28, 00:19:23](https://news.ycombinator.com/item?id=44705958) - [Claude Code Router](https://github.com/musistudio/claude-code-router)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 23:49:00](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tom Lehrer, Satirical Songwriter and Mathematician, Dies at Age 97](https://entertainment.slashdot.org/story/25/07/27/2347205/tom-lehrer-satirical-songwriter-and-mathematician-dies-at-age-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -90,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-27, 22:51:00](https://hardware.slashdot.org/story/25/07/27/2248257/huawei-shows-off-384-chip-ai-computing-system-that-rival-nvidias-top-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Huawei Shows Off 384-Chip AI Computing System That Rival Nvidia&apos;s Top Product](https://hardware.slashdot.org/story/25/07/27/2248257/huawei-shows-off-384-chip-ai-computing-system-that-rival-nvidias-top-product?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 22:18:44](https://news.ycombinator.com/item?id=44705240) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
-* [2025-07-27, 22:09:14](https://news.ycombinator.com/item?id=44705171) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 22:07:07](https://lobste.rs/s/obwtbz/designing_flatpack_bed) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:48:00](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Quietly Planned a Test to Dim Sunlight Over 3,900 Square Miles](https://news.slashdot.org/story/25/07/27/2146205/researchers-quietly-planned-a-test-to-dim-sunlight-over-3900-square-miles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 21:12:59](https://news.ycombinator.com/item?id=44704736) - [Making Postgres slower](https://byteofdev.com/posts/making-postgres-slow/)
@@ -112,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-27, 16:34:00](https://entertainment.slashdot.org/story/25/07/26/2225254/fantastic-four-tops-superman-opening-second-largest-of-the-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Fantastic Four&apos; Tops &apos;Superman&apos; Opening, Second-Largest of the Year](https://entertainment.slashdot.org/story/25/07/26/2225254/fantastic-four-tops-superman-opening-second-largest-of-the-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 15:34:00](https://hardware.slashdot.org/story/25/07/26/0358240/to-fight-climate-change-norway-wants-to-become-europes-carbon-dump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To Fight Climate Change, Norway Wants to Become Europe&apos;s Carbon Dump](https://hardware.slashdot.org/story/25/07/26/0358240/to-fight-climate-change-norway-wants-to-become-europes-carbon-dump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 14:34:00](https://idle.slashdot.org/story/25/07/27/0015211/creator-of-1995-phishing-tool-aohell-on-piracy-script-kiddies-and-what-he-thinks-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Creator of 1995 Phishing Tool &apos;AOHell&apos; On Piracy, Script Kiddies, and What He Thinks of AI](https://idle.slashdot.org/story/25/07/27/0015211/creator-of-1995-phishing-tool-aohell-on-piracy-script-kiddies-and-what-he-thinks-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-27, 14:28:49](https://news.ycombinator.com/item?id=44701574) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-27, 14:25:47](https://news.ycombinator.com/item?id=44701555) - [Dumb Pipe](https://www.dumbpipe.dev/)
 * [2025-07-27, 12:23:31](https://news.ycombinator.com/item?id=44700815) - [The JJ VCS workshop: A zero-to-hero speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
@@ -123,31 +127,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 * [2025-07-27, 07:34:00](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Serious Delays&apos; Hit Satellite Mega-Constellations of China&apos;s Starlink Rivals ](https://science.slashdot.org/story/25/07/27/0233215/serious-delays-hit-satellite-mega-constellations-of-chinas-starlink-rivals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
-* [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
 * [2025-07-27, 04:34:00](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did a Vendor&apos;s Leak Help Attackers Exploit Microsoft&apos;s SharePoint Servers?](https://it.slashdot.org/story/25/07/27/0337218/did-a-vendors-leak-help-attackers-exploit-microsofts-sharepoint-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
-* [2025-07-27, 01:35:00](https://entertainment.slashdot.org/story/25/07/27/0131241/comic-con-peeks-at-new-alien-and-avatar-series-plus-predator-and-coyote-vs-acme-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comic-Con Peeks at New &apos;Alien&apos; and &apos;Avatar&apos; Series, Plus &apos;Predator&apos; and &apos;Coyote vs. Acme&apos; Movies](https://entertainment.slashdot.org/story/25/07/27/0131241/comic-con-peeks-at-new-alien-and-avatar-series-plus-predator-and-coyote-vs-acme-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-27, 00:23:12](https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when) - [Getting decent error reports in Bash when you&apos;re using &apos;set -e&apos;](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
-* [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
-* [2025-07-26, 21:04:12](https://lobste.rs/s/stness/test_results_for_amd_zen_5) - [Test results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&amp;start=11)
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) - [AI Industry&apos;s Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss)
-* [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss)
-* [2025-07-26, 09:01:51](https://lobste.rs/s/zditcp/it_s_time_for_modern_css_kill_spa) - [It&apos;s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss) - [Debian Linux \&quot;Trixie\&quot; is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss)
 * [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss)
 * [2025-07-25, 21:31:00](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) - [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss)
-* [2025-07-25, 19:13:59](https://news.ycombinator.com/item?id=44687145) - [Britain&apos;s spies-for-hire are running wild](https://www.politico.eu/article/uk-british-spies-private-intelligence-government-ministers/)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss)
 * [2025-07-25, 10:24:44](https://news.ycombinator.com/item?id=44681616) - [Bits 0x02: switching to orion as a browser](https://andinfinity.eu/post/2025-07-24-bits-0x02/)
 * [2025-07-25, 10:01:00](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss) - [Welcome to DebConf25 - the 26th Debian Linux Conference](https://soylentnews.org/article.pl?sid=25/07/24/1032215&amp;from=rss)
 * [2025-07-25, 05:17:00](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss) - [&apos;I Destroyed Months of Your Work in Seconds&apos; Says AI Coding Tool ](https://soylentnews.org/article.pl?sid=25/07/24/1027254&amp;from=rss)
 * [2025-07-25, 00:36:03](https://news.ycombinator.com/item?id=44678083) - [How big can I print my image?](https://maurycyz.com/misc/printing/)
 * [2025-07-25, 00:28:00](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss) - [How the Space Shuttles Were Given Better Names Thanks to Star Trek](https://soylentnews.org/article.pl?sid=25/07/24/1023256&amp;from=rss)
-* [2025-07-24, 22:14:28](https://news.ycombinator.com/item?id=44676963) - [AlphaDec: A human-readable alternative to ULID/Snowflake IDs](https://github.com/firasd/alphadec)
+* [2025-07-24, 23:50:04](https://news.ycombinator.com/item?id=44677765) - [Mobile Bess Powers Remote Heavy Equipment](https://spectrum.ieee.org/mobile-bess)
 * [2025-07-24, 19:41:00](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss) - [mwm: An X11 Window Manager in 20 Lines of Code](https://soylentnews.org/article.pl?sid=25/07/24/0312243&amp;from=rss)
 * [2025-07-24, 19:35:31](https://news.ycombinator.com/item?id=44675053) - [How I fixed my blog&apos;s performance issues by writing a new Jekyll plugin](https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/)
 * [2025-07-24, 15:47:11](https://news.ycombinator.com/item?id=44672149) - [Software Development at 800 Words per Minute](https://neurrone.com/posts/software-development-at-800-wpm/)
