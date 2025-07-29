@@ -1,52 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advancements
+## Technology and Software
 
-* [AI Is Wrecking a Fragile Job Market for College Graduates](https://www.wsj.com/lifestyle/careers/ai-entry-level-jobs-graduates-b224d624) ([comments](https://news.ycombinator.com/item?id=44717827))
+* [Visa and Mastercard Are Getting Overwhelmed By Gamer Fury Over Censorship](https://yro.slashdot.org/story/25/07/28/2223235/visa-and-mastercard-are-getting-overwhelmed-by-gamer-fury-over-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Payment giants Visa and Mastercard are facing significant backlash from gamers, who accuse the companies of enabling censorship within the gaming industry.
 
-* [OpenAI's ChatGPT Agent Casually Clicks Through 'I Am Not a Robot' Verification Test](https://slashdot.org/story/25/07/28/2034216/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44717827))
+* [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html) - An entry reflecting on the end of Erlang official manuals and the community’s role in documenting the language.
 
-* [Tesla Signs $16.5 Billion Contract With Samsung To Make AI Chips](https://hardware.slashdot.org/story/25/07/28/207225/tesla-signs-165-billion-contract-with-samsung-to-make-ai-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44717827))
+* [Contraction Hierarchies: HMC Clinic Project Recap](https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic) - A detailed recap of contraction hierarchies developed in the HMC Clinic, with optimization techniques.
 
-* [Microsoft Adds Copilot Mode To Edge](https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44713757))
+* [Claude Code Users Hit With Weekly Rate Limits](https://developers.slashdot.org/story/25/07/29/0156200/claude-code-users-hit-with-weekly-rate-limits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports highlight frustrations from GPT users facing weekly rate limits imposed by Claude Code.
 
-* [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html) ([comments](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful))
+* [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/) - A hands-on blog post by a developer detailing the creation of a new game streaming video codec called PyroWave.
 
-## Privacy and Security Concerns
+## Cybersecurity and Privacy
 
-* [A Second Tea Breach Reveals Users' DMs About Abortions and Cheating](https://yro.slashdot.org/story/25/07/28/210244/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - Alarming report on Chinese hackers accessing sensitive U.S. networks for intelligence purposes.
 
-* [Cyberattack Cripples Russian Airline Aeroflot](https://it.slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot))
+* [A Second Tea Breach Reveals Users' DMs About Abortions and Cheating](https://yro.slashdot.org/story/25/07/28/210244/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The fallout extends as a second data breach at social media platform 'Tea' exposes private messages on highly sensitive topics.
 
-* [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) ([comments](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your))
+* [Cyberattack Cripples Russian Airline Aeroflot](https://it.slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant cyberattack disrupts Aeroflot's operations, casting light on vulnerabilities in airline security systems.
 
-## Research and Science Highlights
+* [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - Google launches legal action against cybercriminals operating a massive botnet responsible for malicious activities.
 
-* [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions) ([comments](https://news.ycombinator.com/item?id=44717226))
+## Artificial Intelligence and Research
 
-* [FDA has approved Yeztugo, a drug that provides protection against HIV infection](https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/) ([comments](https://news.slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot))
+* [Microsoft Adds Copilot Mode To Edge](https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The new 'copilot mode' in Edge aims to enhance productivity by offering AI-driven assistance.
 
-* [Ageing Accelerates at Around Age 50 - Some Organs Faster Than Others](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful))
+* [Principles for production AI agents](https://www.app.build/blog/six-principles-production-ai-agents) - Insights into developing production-grade AI agents with reliability and ethical considerations.
 
-## Tech Hardware Updates
+* [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans) - A new robotic innovation seeks to outperform humans in harvesting delicate fruits.
 
-* [Anker Is No Longer Selling 3D Printers](https://hardware.slashdot.org/story/25/07/28/2052257/anker-is-no-longer-selling-3d-printers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your))
+* [Chinese Universities Want Students To Use More AI, Not Less](https://news.slashdot.org/story/25/07/28/1732217/chinese-universities-want-students-to-use-more-ai-not-less?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Chinese universities encourage increased AI usage among students to align with technological advancements.
 
-* [Say Goodbye To Your Custom ROMs As Samsung's One UI 8 Kills Bootloader Unlock](https://mobile.slashdot.org/story/25/07/28/2024254/say-goodbye-to-your-custom-roms-as-samsungs-one-ui-8-kills-bootloader-unlock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful))
+## Space and Science
 
-## Space and Astronomy
+* [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/) - A comprehensive study of the recently observed interstellar comet and its implications for understanding space phenomena.
 
-* [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens) ([comments](https://news.slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) - A key breakthrough as NASA identifies the predicted companion star related to Betelgeuse's mysterious behavior.
 
-* [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/) ([comments](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful))
+* [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens) - A reflection on the Vatican Observatory's contributions to fostering the reconciliation of science and faith.
 
-## Interesting Experimental Projects
+## Business and Industry
 
-* [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/) ([comments](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful))
+* [Bankrupt Futurehome Suddenly Makes Its Smart Home Hub a Subscription Service](https://news.slashdot.org/story/25/07/28/2211238/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial struggles force Futurehome to adopt a contentious subscription-based model for its devices.
 
-* [Robot hand could harvest blackberries better than humans](https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans) ([comments](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens))
+* [Tesla Signs $16.5 Billion Contract With Samsung To Make AI Chips](https://hardware.slashdot.org/story/25/07/28/207225/tesla-signs-165-billion-contract-with-samsung-to-make-ai-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tesla deepens its investment in AI technology through a billion-dollar partnership with Samsung.
 
-* [Tao on “blue team” vs. “red team” LLMs](https://mathstodon.xyz/@tao/114915604830689046) ([comments](https://slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot))
+* [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss) - AMD CEO defends the added costs of U.S.-manufactured semiconductor chips.
+
+* [Nearly Half of US Venture Capital Professionals in Middle To Senior Positions Have No Successful Investments](https://news.slashdot.org/story/25/07/28/1653234/nearly-half-of-us-venture-capital-professionals-in-middle-to-senior-positions-have-no-successful-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The venture capital industry faces scrutiny as data shows a dearth of success among many senior professionals.
 
 ---
 
@@ -73,19 +75,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-07-29, 01:11:46](https://news.ycombinator.com/item?id=44717827) - [AI Is Wrecking a Fragile Job Market for College Graduates](https://www.wsj.com/lifestyle/careers/ai-entry-level-jobs-graduates-b224d624)
+* [2025-07-29, 03:30:00](https://yro.slashdot.org/story/25/07/28/2223235/visa-and-mastercard-are-getting-overwhelmed-by-gamer-fury-over-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Visa and Mastercard Are Getting Overwhelmed By Gamer Fury Over Censorship](https://yro.slashdot.org/story/25/07/28/2223235/visa-and-mastercard-are-getting-overwhelmed-by-gamer-fury-over-censorship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-29, 03:29:53](https://news.ycombinator.com/item?id=44718686) - [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)
+* [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
+* [2025-07-29, 02:48:01](https://lobste.rs/s/jrippd/contraction_hierarchies_hmc_clinic) - [Contraction Hierarchies: HMC Clinic Project Recap](https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic)
+* [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss)
+* [2025-07-29, 01:57:44](https://news.ycombinator.com/item?id=44718117) - [Fintech dystopia](https://fintechdystopia.com/)
+* [2025-07-29, 01:55:00](https://developers.slashdot.org/story/25/07/29/0156200/claude-code-users-hit-with-weekly-rate-limits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code Users Hit With Weekly Rate Limits](https://developers.slashdot.org/story/25/07/29/0156200/claude-code-users-hit-with-weekly-rate-limits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-29, 01:36:21](https://lobste.rs/s/pkfax4/tandy_color_computer_1_composite_video) - [Tandy Color Computer 1 composite video](https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html)
+* [2025-07-29, 00:51:24](https://lobste.rs/s/trvu9n/identity_behaviour) - [Identity and behaviour](https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/)
 * [2025-07-29, 00:10:00](https://news.slashdot.org/story/25/07/28/2211238/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bankrupt Futurehome Suddenly Makes Its Smart Home Hub a Subscription Service](https://news.slashdot.org/story/25/07/28/2211238/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 23:47:07](https://news.ycombinator.com/item?id=44717226) - [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
 * [2025-07-28, 23:30:00](https://yro.slashdot.org/story/25/07/28/210244/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Second Tea Breach Reveals Users&apos; DMs About Abortions and Cheating](https://yro.slashdot.org/story/25/07/28/210244/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 22:50:00](https://hardware.slashdot.org/story/25/07/28/2052257/anker-is-no-longer-selling-3d-printers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anker Is No Longer Selling 3D Printers](https://hardware.slashdot.org/story/25/07/28/2052257/anker-is-no-longer-selling-3d-printers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 22:10:00](https://slashdot.org/story/25/07/28/2034216/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s ChatGPT Agent Casually Clicks Through &apos;I Am Not a Robot&apos; Verification Test](https://slashdot.org/story/25/07/28/2034216/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 22:04:03](https://news.ycombinator.com/item?id=44716270) - [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
 * [2025-07-28, 22:00:00](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss) - [As Site Blocking Is Increasing, European Commission Subtly Slaps Down Italy’s Piracy Shield](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss)
-* [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their ID – Use Your Local UK MP&apos;s ID for the Online Safety Act](https://use-their-id.com/)
-* [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican Observatory Looks to the Heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
+* [2025-07-28, 21:49:10](https://news.ycombinator.com/item?id=44716106) - [Show HN: Use Their Dd – Use your local UK MP&apos;s ID for the online safety act](https://use-their-id.com/)
+* [2025-07-28, 21:34:40](https://news.ycombinator.com/item?id=44715966) - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 * [2025-07-28, 21:30:00](https://mobile.slashdot.org/story/25/07/28/2024254/say-goodbye-to-your-custom-roms-as-samsungs-one-ui-8-kills-bootloader-unlock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Say Goodbye To Your Custom ROMs As Samsung&apos;s One UI 8 Kills Bootloader Unlock](https://mobile.slashdot.org/story/25/07/28/2024254/say-goodbye-to-your-custom-roms-as-samsungs-one-ui-8-kills-bootloader-unlock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 20:50:00](https://it.slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyberattack Cripples Russian Airline Aeroflot](https://it.slashdot.org/story/25/07/28/2018201/cyberattack-cripples-russian-airline-aeroflot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 20:44:26](https://news.ycombinator.com/item?id=44715391) - [The Useless UseCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 * [2025-07-28, 20:24:38](https://news.ycombinator.com/item?id=44715166) - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
 * [2025-07-28, 20:14:27](https://lobste.rs/s/5kv9jc/linux_6_16_changelog) - [Linux 6.16 changelog](https://kernelnewbies.org/Linux_6.16)
 * [2025-07-28, 20:10:00](https://hardware.slashdot.org/story/25/07/28/207225/tesla-signs-165-billion-contract-with-samsung-to-make-ai-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesla Signs $16.5 Billion Contract With Samsung To Make AI Chips](https://hardware.slashdot.org/story/25/07/28/207225/tesla-signs-165-billion-contract-with-samsung-to-make-ai-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,33 +125,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 14:36:39](https://news.ycombinator.com/item?id=44711306) - [Tao on “blue team” vs. “red team” LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 * [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 14:15:52](https://news.ycombinator.com/item?id=44711106) - [GLM-4.5: Reasoning, Coding, and Agentic Abililties](https://z.ai/blog/glm-4.5)
-* [2025-07-28, 14:11:35](https://news.ycombinator.com/item?id=44711075) - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
-* [2025-07-28, 14:00:00](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ageing Accelerates at Around Age 50 - Some Organs Faster Than Others](https://science.slashdot.org/story/25/07/28/1336248/ageing-accelerates-at-around-age-50---some-organs-faster-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-28, 13:10:00](https://news.ycombinator.com/item?id=44710533) - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:30:00](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss) - [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss)
 * [2025-07-28, 12:06:27](https://lobste.rs/s/jdd06m/no_moar_cookies) - [No moar cookies](https://paretosecurity.com/blog/no-moar-cookies/)
-* [2025-07-28, 11:34:00](https://news.slashdot.org/story/25/07/28/0254233/googles-new-security-project-oss-rebuild-tackles-package-supply-chain-verification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s New Security Project &apos;OSS Rebuild&apos; Tackles Package Supply Chain Verification](https://news.slashdot.org/story/25/07/28/0254233/googles-new-security-project-oss-rebuild-tackles-package-supply-chain-verification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-28, 10:13:07](https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 10:10:41](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week)
 * [2025-07-28, 10:02:36](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
-* [2025-07-28, 10:02:14](https://lobste.rs/s/i4hxlc/approve_merge_requests_with_your_eyes) - [Approve merge requests with your eyes closed](https://blog.jse.li/posts/approval/)
 * [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
 * [2025-07-28, 07:41:41](https://news.ycombinator.com/item?id=44708270) - [How to make websites that will require lots of your time and energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification) - [Redditor Speculates that EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
-* [2025-07-28, 06:39:26](https://lobste.rs/s/yornw7/many_javascript_runtimes_last_decade) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
-* [2025-07-28, 06:28:23](https://lobste.rs/s/4clcyb/yalep_micro_language_based_on_lean_for) - [Yalep - Micro language based on Lean for teaching mathematical high-school proofs](https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep)
 * [2025-07-28, 05:41:34](https://news.ycombinator.com/item?id=44707546) - [SIMD within a register: How I doubled hash table lookup performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 05:40:42](https://lobste.rs/s/eqmttb/trane) - [[trane]](https://lisp.trane.studio/?tutor)
 * [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
+* [2025-07-28, 01:43:36](https://news.ycombinator.com/item?id=44706409) - [Samsung Removes Bootloader Unlocking with One UI 8](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 22:51:28](https://news.ycombinator.com/item?id=44705445) - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
-* [2025-07-27, 21:02:28](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine) - [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
+* [2025-07-27, 12:23:09](https://news.ycombinator.com/item?id=44700812) - [AV-Racer Devlog (1): Getting a functional car model](https://wassimulator.com/blog/programming/av-racer/devlog_1.html)
 * [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
@@ -151,10 +153,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) - [AI Industry&apos;s Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss)
-* [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: (Ask HN) Color Me Same – A New Kind of Logic Game – Pursue It Further?](https://color-me-same.franzai.com/)
+* [2025-07-26, 09:22:36](https://news.ycombinator.com/item?id=44692665) - [Show HN: Color Me Same – A new kind of logic game](https://color-me-same.franzai.com/)
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss) - [Debian Linux \&quot;Trixie\&quot; is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss)
 * [2025-07-26, 02:54:46](https://news.ycombinator.com/item?id=44690914) - [SQLx – Rust SQL Toolkit](https://github.com/launchbadge/sqlx)
 * [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss)
+* [2025-07-25, 22:47:52](https://news.ycombinator.com/item?id=44689402) - [SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets](https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/)
 * [2025-07-25, 21:31:00](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss) - [NASA Scientist Finds Predicted Companion Star to Betelgeuse - NASA](https://soylentnews.org/article.pl?sid=25/07/25/0459237&amp;from=rss)
 * [2025-07-25, 14:44:00](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss) - [Doctors Used Music Instead of Medication for Dementia Treatment](https://soylentnews.org/article.pl?sid=25/07/24/1036232&amp;from=rss)
 * [2025-07-25, 12:38:31](https://news.ycombinator.com/item?id=44682451) - [Cells that breathe oxygen and sulfur at the same time](https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/)
