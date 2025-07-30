@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming and Technology Advancements
+## Design and User Experience
 
-* [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259) - A detailed exploration into Wayland's misunderstood design principles and potential benefits.
+* [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/): A discussion on choosing between simple flat design or incorporating realistic design elements for user interfaces. [Comments](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic)
 
-* [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/) - New advancements in integrating machine learning inference directly into web development using PHP.
+* [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/): A novel way to manage bookmarks using a filesystem metaphor. [Comments](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem)
 
-* [KernelScript: DSL for eBPF-Centric Development](https://github.com/multikernel/kernelscript) - Introducing KernelScript, a domain-specific language for eBPF-focused development, enabling innovative security and observability use cases.
+* [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/): A preview of upcoming features improving collaborative and interactive data visualizations. [Comments](https://news.ycombinator.com/item?id=44724068)
 
-* [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/) - Updates to Raspberry Pi's microcontroller improve operation and add larger flash variants.
+## Technological Innovations
 
-* [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/) - A look at the preview of Observable Notebooks 2.0, inviting more interactive and collaborative coding environments.
+* [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0): A creative demonstration of mobile technology's potential for server operations. [Comments](https://news.ycombinator.com/item?id=44731272)
 
-* [Learning basic electronics by building fireflies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/) - A playful and educational guide to understanding electronics through hands-on creation.
+* [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/): Introducing a machine learning inference framework tailored for PHP. [Comments](https://lobste.rs/s/6xuupj/php_ort_machine_learning_inference_for)
 
-* [This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft](https://www.youtube.com/watch?v=lebdqAN1pd8) - A fascinating project showcasing the complexity and creativity involved in crafting a calculator within Minecraft.
+* [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/): Enhancements to Raspberry Pi microcontroller, fixing bugs and adding new flash memory variants. [Comments](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9)
 
-## Artificial Intelligence and Machine Learning
+## AI and Machine Learning
 
-* [ChatGPT's New Study Mode Is Designed To Help You Learn, Not Just Give Answers](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI introduces a learning-focused mode for ChatGPT to enhance user study experiences.
+* [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/): Exploring the role and reception of AI applications within open-source Linux environments. [Comments](https://lobste.rs/s/uketwa/artificial_intelligence_linux)
 
-* [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856) - A deep dive into the relationship between supervised fine-tuning and reinforcement learning methodologies.
+* [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/): Insightful approaches to ensure rigorous testing for AI systems. [Comments](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like)
 
-* [Apple Loses Fourth AI Researcher in a Month To Meta](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta continues to attract talent from Apple, focusing on AI research advancements.
+* [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/): A tool transforming books into interactive text-based games. [Comments](https://news.ycombinator.com/item?id=44725202)
 
-* [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/) - Insights into rigorous approaches for testing artificial intelligence systems to ensure reliability and trust.
+## Environment and Climate
 
-* [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html) - Personal insights into an AI tool's practical applications for problem-solving.
+* [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive): Major seismic activity in the Pacific raises alarms across the region. [Comments](https://news.ycombinator.com/item?id=44729865)
 
-## Global Events and Security
+* [Google Failed To Warn 10 Million of Turkey Earthquake Severity](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&utm_medium=feed): Criticisms of Google's response during Turkey's earthquake disaster. [Comments](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive) - A major earthquake in the Pacific triggers tsunami warnings with potential widespread impacts.
+* [EPA Moves To Repeal Finding That Allows Climate Regulation](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed): A pivot in U.S. climate policy with potential global implications. [Comments](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation)
 
-* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cyberattacks lead to significant state responses as Minnesota deploys the National Guard.
+## Cybersecurity
 
-* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss) - Concerns rise over cybersecurity following revelations of network breaches by Chinese hackers.
+* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss): A detailed analysis of a recent compromise affecting military networks. [Comments](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss)
 
-## Innovative Products and Ideas
+* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed): A localized cyberattack prompts state-level intervention. [Comments](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack)
 
-* [Jack Dorsey's Bluetooth Messaging App Bitchat Now On App Store](https://mobile.slashdot.org/story/25/07/29/216224/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new decentralized communication platform leveraging Bluetooth for connectivity.
-
-* [Maru OS – Use your phone as your PC](https://maruos.com/) - Explore the possibilities of using a smartphone as a fully functional PC with Maru OS.
-
-* [I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/) - A creative AI solution brings interactive storytelling to life, transforming any book into a text adventure.
-
-## Science and Environment
-
-* [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand) - New research uncovers mechanisms behind the brain's ability to adjust blood flow as needed.
-
-* [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/) - A concerning trend shows increased honey bee mortality despite reduced antibiotic usage.
-
-* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&from=rss) - Groundbreaking research challenges traditional physics with gold's extreme heating resilience.
+* [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss): Highlighting vulnerabilities in AI development platforms. [Comments](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss)
 
 ---
 
@@ -77,9 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-30, 06:43:00](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic) - [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/)
+* [2025-07-30, 06:16:09](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system) - [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
+* [2025-07-30, 06:08:20](https://news.ycombinator.com/item?id=44731272) - [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0)
+* [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
 * [2025-07-30, 01:40:00](https://politics.slashdot.org/story/25/07/29/2259223/apples-ios-26-text-filters-could-cost-political-campaigns-millions-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s iOS 26 Text Filters Could Cost Political Campaigns Millions of Dollars](https://politics.slashdot.org/story/25/07/29/2259223/apples-ios-26-text-filters-could-cost-political-campaigns-millions-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-30, 01:05:46](https://news.ycombinator.com/item?id=44730021) - [Pkgbase Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 01:00:00](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Rolls Out Age-Estimation Tech To Identify US Teens, Apply Additional Protections](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 * [2025-07-30, 00:20:00](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -97,11 +90,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:20:00](https://slashdot.org/story/25/07/29/204213/opera-accuses-microsoft-of-anti-competitive-edge-tactics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera Accuses Microsoft of Anti-Competitive Edge Tactics](https://slashdot.org/story/25/07/29/204213/opera-accuses-microsoft-of-anti-competitive-edge-tactics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 20:18:23](https://news.ycombinator.com/item?id=44727788) - [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856)
-* [2025-07-29, 20:03:29](https://news.ycombinator.com/item?id=44727653) - [Dropbox Passwords discontinuation](https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation)
 * [2025-07-29, 19:40:00](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Failed To Warn 10 Million of Turkey Earthquake Severity](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-29, 19:37:05](https://news.ycombinator.com/item?id=44727420) - [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
 * [2025-07-29, 19:36:02](https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is) - [Typechecking Is Undecidable When &apos;Type&apos; Is a Type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
-* [2025-07-29, 19:24:40](https://news.ycombinator.com/item?id=44727298) - [Maru OS – Use your phone as your PC](https://maruos.com/)
 * [2025-07-29, 19:15:24](https://lobste.rs/s/uketwa/artificial_intelligence_linux) - [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/)
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 19:06:00](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Loses Fourth AI Researcher in a Month To Meta](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -133,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss)
 * [2025-07-29, 12:03:14](https://lobste.rs/s/dp1rdd/i_m_never_going_back_matrix) - [I&apos;m never going back to Matrix](https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/)
-* [2025-07-29, 11:43:17](https://lobste.rs/s/umbpkk/debugging_pixel_8_kernel_via_kgdb) - [Debugging the Pixel 8 kernel via KGDB](https://xairy.io/articles/pixel-kgdb)
 * [2025-07-29, 11:21:54](https://lobste.rs/s/mygrq6/loading_credentials_from_bitwarden_with) - [Loading credentials from Bitwarden with direnv](https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/)
 * [2025-07-29, 11:12:03](https://news.ycombinator.com/item?id=44721791) - [Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL](https://github.com/Danau5tin/terminal-bench-rl)
 * [2025-07-29, 10:24:11](https://lobste.rs/s/4ns2of/useless_usecallback) - [The Useless useCallback](https://tkdodo.eu/blog/the-useless-use-callback)
@@ -146,21 +135,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 22:00:00](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss) - [As Site Blocking Is Increasing, European Commission Subtly Slaps Down Italy’s Piracy Shield](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss)
 * [2025-07-28, 19:28:17](https://lobste.rs/s/ucvpt5/i_designed_my_own_ridiculously_fast_game) - [I designed my own ridiculously fast game streaming video codec](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 17:11:00](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss) - [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss)
-* [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:30:00](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss) - [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss)
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
-* [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification) - [Redditor Speculates that EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
+* [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
-* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Actual Size Online Ruler (Mm,Cm,Inches)](https://anruler.com/)
-* [2025-07-27, 03:38:18](https://news.ycombinator.com/item?id=44698753) - [Measuring Engineering](https://fffej.substack.com/p/measuring-engineering)
+* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Online Ruler – Measuring in inches/centimeters](https://anruler.com/)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
+* [2025-07-26, 19:59:00](https://news.ycombinator.com/item?id=44696543) - [The Sail instruction-set semantics specification language](https://alasdair.github.io/manual.html)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) - [AI Industry&apos;s Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss)
