@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Design and User Experience
+## Technology Insights and Innovations
 
-* [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/): A discussion on choosing between simple flat design or incorporating realistic design elements for user interfaces. [Comments](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic)
+* [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria) - Mitochondria's critical role in regulating sleep is explored in this scientific post. [Comments](https://news.ycombinator.com/item?id=44732020)
 
-* [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/): A novel way to manage bookmarks using a filesystem metaphor. [Comments](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem)
+* [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html) - FreeBSD introduces PKGBASE changes by removing the base system feature. [Comments](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system)
 
-* [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/): A preview of upcoming features improving collaborative and interactive data visualizations. [Comments](https://news.ycombinator.com/item?id=44724068)
+* [Nadim Kobeissi's Applied Cryptography Course](https://www.youtube.com/watch?v=z6kK7rIbyB0) - A YouTube series dives deep into applied cryptography concepts. [Comments](https://lobste.rs/s/2qrwtx/nadim_kobeissi_s_applied_cryptography)
 
-## Technological Innovations
+* [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/) - An innovative filesystem tool for browser bookmarks management. [Comments](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem)
 
-* [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0): A creative demonstration of mobile technology's potential for server operations. [Comments](https://news.ycombinator.com/item?id=44731272)
+* [Linux 6.16 Brings Faster File Systems, Improved Confidential Memory Support, and More Rust Support](https://linux.slashdot.org/story/25/07/29/2118206/linux-616-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exciting updates in Linux kernel enhancing performance and Rust integration. [Comments](https://news.ycombinator.com/item?id=44728188)
 
-* [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/): Introducing a machine learning inference framework tailored for PHP. [Comments](https://lobste.rs/s/6xuupj/php_ort_machine_learning_inference_for)
+## Artificial Intelligence and Data Privacy
 
-* [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/): Enhancements to Raspberry Pi microcontroller, fixing bugs and adding new flash memory variants. [Comments](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9)
+* [ChatGPT's New Study Mode Is Designed To Help You Learn, Not Just Give Answers](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI introduces a new study mode for ChatGPT to help user learning. [Comments](https://news.ycombinator.com/item?id=44725764)
 
-## AI and Machine Learning
+* [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856) - A published paper discusses supervised fine-tuning for deep learning models. [Comments](https://lobste.rs/s/uketwa/artificial_intelligence_linux)
 
-* [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/): Exploring the role and reception of AI applications within open-source Linux environments. [Comments](https://lobste.rs/s/uketwa/artificial_intelligence_linux)
+* [YouTube Rolls Out Age-Estimation Tech To Identify US Teens, Apply Additional Protections](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed) - YouTube strengthens safety with age-estimation technologies. [Comments](https://news.ycombinator.com/item?id=44729865)
 
-* [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/): Insightful approaches to ensure rigorous testing for AI systems. [Comments](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like)
+## Cybersecurity and Digital Threats
 
-* [Show HN: I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/): A tool transforming books into interactive text-based games. [Comments](https://news.ycombinator.com/item?id=44725202)
+* [NASA May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&from=rss) - NASA anticipates staffing impact following resignation shifts. [Comments](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Environment and Climate
+* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Minnesota deploys National Guard following significant cyberattack. [Comments](https://soylentnews.org/article.pl?sid=25/07/28/1524227&from=rss)
 
-* [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive): Major seismic activity in the Pacific raises alarms across the region. [Comments](https://news.ycombinator.com/item?id=44729865)
+* [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon's AI Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss) - Major vulnerabilities found in Amazon's AI Assistant. [Comments](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Google Failed To Warn 10 Million of Turkey Earthquake Severity](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&utm_medium=feed): Criticisms of Google's response during Turkey's earthquake disaster. [Comments](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Industry Developments
 
-* [EPA Moves To Repeal Finding That Allows Climate Regulation](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed): A pivot in U.S. climate policy with potential global implications. [Comments](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation)
+* [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&from=rss) - China steps ahead with its domestic GPU advancements aiding AI. [Comments](https://lobste.rs/s/a64fre/artificial_intelligence_trends_uk)
 
-## Cybersecurity
+* [Anthropic Nears Deal To Raise Funding at $170 Billion Valuation](https://slashdot.org/story/25/07/29/1642226/anthropic-nears-deal-to-raise-funding-at-170-billion-valuation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Anthropic garners investor interest with massive funding round. [Comments](https://news.ycombinator.com/item?id=44725306)
 
-* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss): A detailed analysis of a recent compromise affecting military networks. [Comments](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss)
+* [Apple Opens Manufacturing Academy in Detroit](https://apple.slashdot.org/story/25/07/29/1510224/apple-opens-manufacturing-academy-in-detroit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple boosts manufacturing skill development with Detroit tech academy. [Comments](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss)
 
-* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed): A localized cyberattack prompts state-level intervention. [Comments](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack)
+## Unusual Scientific Discoveries
 
-* [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss): Highlighting vulnerabilities in AI development platforms. [Comments](https://soylentnews.org/article.pl?sid=25/07/27/2215239&from=rss)
+* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&from=rss) - Research reveals incredible thermal properties of gold under pressure. [Comments](https://lobste.rs/s/uketwa/artificial_intelligence_linux)
+
+* [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss) - Discoveries point to a planetary system in constant upheaval. [Comments](https://news.ycombinator.com/item?id=44726731)
+
+* [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand) - Insights into neural mechanisms for blood supply regulation. [Comments](https://soylentnews.org/article.pl?sid=25/07/27/0228236&from=rss)
 
 ---
 
@@ -65,9 +69,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-30, 08:34:10](https://news.ycombinator.com/item?id=44732020) - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
+* [2025-07-30, 07:41:55](https://lobste.rs/s/2qrwtx/nadim_kobeissi_s_applied_cryptography) - [Nadim Kobeissi&apos;s Applied Cryptography Course](https://www.youtube.com/watch?v=z6kK7rIbyB0)
+* [2025-07-30, 07:15:08](https://lobste.rs/s/70mi93/month_using_xmpp_for_every_call_chat_2023) - [A month using XMPP for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
+* [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss)
 * [2025-07-30, 06:43:00](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic) - [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/)
 * [2025-07-30, 06:16:09](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system) - [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
-* [2025-07-30, 06:08:20](https://news.ycombinator.com/item?id=44731272) - [Man creates featured multi-user fileserver using his phone. Whilst commuting](https://www.youtube.com/watch?v=15_-hgsX2V0)
 * [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
@@ -85,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 21:44:00](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss) - [Senator Demands Mandiant Hand Over Telco Salt Typhoon Probes](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss)
 * [2025-07-29, 21:40:00](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT&apos;s New Study Mode Is Designed To Help You Learn, Not Just Give Answers](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 21:34:28](https://news.ycombinator.com/item?id=44728513) - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
-* [2025-07-29, 21:09:03](https://lobste.rs/s/ctjdsh/eskil_steenberg_i_ve_had_it_with_security) - [Eskil Steenberg – I&apos;ve had it with the security orthodoxy](https://www.youtube.com/watch?v=SbeNRICgzTA)
 * [2025-07-29, 21:00:00](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EPA Moves To Repeal Finding That Allows Climate Regulation](https://news.slashdot.org/story/25/07/29/208244/epa-moves-to-repeal-finding-that-allows-climate-regulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 20:57:47](https://news.ycombinator.com/item?id=44728188) - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
 * [2025-07-29, 20:20:00](https://slashdot.org/story/25/07/29/204213/opera-accuses-microsoft-of-anti-competitive-edge-tactics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera Accuses Microsoft of Anti-Competitive Edge Tactics](https://slashdot.org/story/25/07/29/204213/opera-accuses-microsoft-of-anti-competitive-edge-tactics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 19:06:00](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Loses Fourth AI Researcher in a Month To Meta](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
-* [2025-07-29, 18:13:50](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like) - [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [Elements of System Design](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:22:00](https://slashdot.org/story/25/07/29/1721245/60-of-americans-use-ai-for-search-only-37-for-workplace-tasks-new-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [60% of Americans Use AI for Search, Only 37% for Workplace Tasks, New Poll Finds](https://slashdot.org/story/25/07/29/1721245/60-of-americans-use-ai-for-search-only-37-for-workplace-tasks-new-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
@@ -144,7 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
 * [2025-07-27, 10:13:58](https://news.ycombinator.com/item?id=44700199) - [Analoguediehard](http://www.analoguediehard.com/)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
-* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Online Ruler – Measuring in inches/centimeters](https://anruler.com/)
+* [2025-07-27, 04:42:24](https://news.ycombinator.com/item?id=44698946) - [Show HN: Cant, rust nn lib for learning](https://github.com/TuckerBMorgan/can-t)
+* [2025-07-27, 02:43:33](https://news.ycombinator.com/item?id=44698513) - [Show HN: The Aria Programming Language](https://github.com/egranata/aria)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
@@ -153,5 +159,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-26, 16:32:00](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss) - [AI Industry&apos;s Size Obsession Is Killing ROI, Engineer Argues](https://soylentnews.org/article.pl?sid=25/07/26/0131222&amp;from=rss)
 * [2025-07-26, 11:43:00](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss) - [Work Less, Feel Better](https://soylentnews.org/article.pl?sid=25/07/25/0534229&amp;from=rss)
 * [2025-07-26, 06:58:00](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss) - [Debian Linux \&quot;Trixie\&quot; is Planned to Release on August 9](https://soylentnews.org/article.pl?sid=25/07/25/0511234&amp;from=rss)
-* [2025-07-26, 06:57:17](https://news.ycombinator.com/item?id=44691986) - [JavaScript decided my day starts at 9am](https://senhongo.com/blog/when-javaScript-decided-my-day-starts-at-9am)
 * [2025-07-26, 02:14:00](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss) - [Low(er) Price Tesla Announced](https://soylentnews.org/article.pl?sid=25/07/25/055215&amp;from=rss)
