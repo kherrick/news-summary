@@ -1,52 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Advancements
+## Programming and Technology Advancements
 
-* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - An intriguing discovery reveals that gold can withstand temperatures dramatically above its melting point without liquefying, raising questions for material science and its applications.
+* [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259) - A detailed exploration into Wayland's misunderstood design principles and potential benefits.
 
-* [Linux 6.16 Brings Faster File Systems, Improved Confidential Memory Support, and More Rust Support](https://linux.slashdot.org/story/25/07/29/2118206/linux-616-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linux 6.16 update offers significant system improvements and increases in Rust language support.
+* [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/) - New advancements in integrating machine learning inference directly into web development using PHP.
 
-* [Maru OS – Use your phone as your PC](https://maruos.com/) - A bold innovation transforms smartphones into powerful personal computers, merging mobile and desktop computing.
+* [KernelScript: DSL for eBPF-Centric Development](https://github.com/multikernel/kernelscript) - Introducing KernelScript, a domain-specific language for eBPF-focused development, enabling innovative security and observability use cases.
 
-* [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/) - A deep dive into how AI is merging with open-source Linux development.
+* [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/) - Updates to Raspberry Pi's microcontroller improve operation and add larger flash variants.
 
-* [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/) - A preview of next-gen online notebooks promising enhanced collaborative data exploration.
+* [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/) - A look at the preview of Observable Notebooks 2.0, inviting more interactive and collaborative coding environments.
+
+* [Learning basic electronics by building fireflies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/) - A playful and educational guide to understanding electronics through hands-on creation.
+
+* [This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft](https://www.youtube.com/watch?v=lebdqAN1pd8) - A fascinating project showcasing the complexity and creativity involved in crafting a calculator within Minecraft.
 
 ## Artificial Intelligence and Machine Learning
 
-* [ChatGPT&apos;s New Study Mode Is Designed To Help You Learn, Not Just Give Answers](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI's ChatGPT adds features that transform the chatbot into an interactive study companion.
+* [ChatGPT's New Study Mode Is Designed To Help You Learn, Not Just Give Answers](https://news.slashdot.org/story/25/07/29/2042244/chatgpts-new-study-mode-is-designed-to-help-you-learn-not-just-give-answers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI introduces a learning-focused mode for ChatGPT to enhance user study experiences.
 
-* [YouTube Rolls Out Age-Estimation Tech To Identify US Teens, Apply Additional Protections](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant step in safeguarding younger users with AI-driven age-verification tools.
+* [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856) - A deep dive into the relationship between supervised fine-tuning and reinforcement learning methodologies.
 
-* [Supervised fine tuning on curated data is reinforcement learning](https://arxiv.org/abs/2507.12856) - Researchers spotlight supervised data as an essential approach to reinforce AI training.
+* [Apple Loses Fourth AI Researcher in a Month To Meta](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta continues to attract talent from Apple, focusing on AI research advancements.
 
-* [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html) - Exploration of a productivity-enhancing AI tool in everyday tasks.
+* [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/) - Insights into rigorous approaches for testing artificial intelligence systems to ensure reliability and trust.
 
-* [Study mode](https://openai.com/index/chatgpt-study-mode/) - Insights into OpenAI's new study mode enhancing its usability for educational purposes.
+* [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html) - Personal insights into an AI tool's practical applications for problem-solving.
 
-## Cybersecurity and National Responses
+## Global Events and Security
 
-* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cyber incident in Minnesota prompts state-level military deployment to counteract malicious threats.
+* [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive) - A major earthquake in the Pacific triggers tsunami warnings with potential widespread impacts.
 
-* [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss) - Alarming exploitation of AI coding tools showcases hacking vulnerabilities.
+* [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cyberattacks lead to significant state responses as Minnesota deploys the National Guard.
 
-* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - U.S. cybersecurity under threat once more, as military configurations are compromised.
+* [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&from=rss) - Concerns rise over cybersecurity following revelations of network breaches by Chinese hackers.
 
-## Environmental and Natural Disaster Insights
+## Innovative Products and Ideas
 
-* [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive) - A high-magnitude earthquake triggers a Pacific-wide tsunami advisory.
+* [Jack Dorsey's Bluetooth Messaging App Bitchat Now On App Store](https://mobile.slashdot.org/story/25/07/29/216224/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new decentralized communication platform leveraging Bluetooth for connectivity.
 
-* [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/) - Critical findings warn of the ongoing environmental crisis impacting global food security.
+* [Maru OS – Use your phone as your PC](https://maruos.com/) - Explore the possibilities of using a smartphone as a fully functional PC with Maru OS.
 
-* [Google Failed To Warn 10 Million of Turkey Earthquake Severity](https://tech.slashdot.org/story/25/07/29/1917206/google-failed-to-warn-10-million-of-turkey-earthquake-severity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's early warning systems are called into question after failing to notify millions during a severe earthquake.
+* [I built an AI that turns any book into a text adventure game](https://www.kathaaverse.com/) - A creative AI solution brings interactive storytelling to life, transforming any book into a text adventure.
 
-## Innovative Technologies and Products
+## Science and Environment
 
-* [Jack Dorsey&apos;s Bluetooth Messaging App Bitchat Now On App Store](https://mobile.slashdot.org/story/25/07/29/216224/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tech innovator Jack Dorsey releases an offline messaging app powered by Bluetooth.
+* [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand) - New research uncovers mechanisms behind the brain's ability to adjust blood flow as needed.
 
-* [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/) - Bringing machine learning inference capabilities to the PHP web ecosystem.
+* [More honey bees dying, even as antibiotic use halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/) - A concerning trend shows increased honey bee mortality despite reduced antibiotic usage.
 
-* [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306) - A new open-source tool simplifies note-taking with powerful AI capabilities.
+* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&from=rss) - Groundbreaking research challenges traditional physics with gold's extreme heating resilience.
 
 ---
 
@@ -73,7 +77,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
+* [2025-07-30, 01:40:00](https://politics.slashdot.org/story/25/07/29/2259223/apples-ios-26-text-filters-could-cost-political-campaigns-millions-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s iOS 26 Text Filters Could Cost Political Campaigns Millions of Dollars](https://politics.slashdot.org/story/25/07/29/2259223/apples-ios-26-text-filters-could-cost-political-campaigns-millions-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 01:00:00](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Rolls Out Age-Estimation Tech To Identify US Teens, Apply Additional Protections](https://news.slashdot.org/story/25/07/29/2237252/youtube-rolls-out-age-estimation-tech-to-identify-us-teens-apply-additional-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 00:38:25](https://news.ycombinator.com/item?id=44729865) - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 * [2025-07-30, 00:20:00](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Minnesota Activates National Guard After St. Paul Cyberattack](https://it.slashdot.org/story/25/07/29/2229221/minnesota-activates-national-guard-after-st-paul-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,10 +106,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 19:13:32](https://news.ycombinator.com/item?id=44727191) - [How the brain increases blood flow on demand](https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand)
 * [2025-07-29, 19:06:00](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Loses Fourth AI Researcher in a Month To Meta](https://apple.slashdot.org/story/25/07/29/196228/apple-loses-fourth-ai-researcher-in-a-month-to-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 18:24:23](https://news.ycombinator.com/item?id=44726731) - [A month using XMPP (using Snikket) for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
-* [2025-07-29, 18:20:11](https://news.ycombinator.com/item?id=44726672) - [Show HN: A GitHub Action that quizzes you on a pull request](https://github.com/dkamm/pr-quiz)
 * [2025-07-29, 18:13:50](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like) - [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/)
 * [2025-07-29, 17:44:58](https://news.ycombinator.com/item?id=44726280) - [Elements of System Design](https://github.com/jarulraj/periodic-table)
 * [2025-07-29, 17:22:00](https://slashdot.org/story/25/07/29/1721245/60-of-americans-use-ai-for-search-only-37-for-workplace-tasks-new-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [60% of Americans Use AI for Search, Only 37% for Workplace Tasks, New Poll Finds](https://slashdot.org/story/25/07/29/1721245/60-of-americans-use-ai-for-search-only-37-for-workplace-tasks-new-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-29, 17:17:58](https://news.ycombinator.com/item?id=44725966) - [ACM Transitions to Full Open Access](https://www.acm.org/publications/openaccess)
 * [2025-07-29, 17:02:00](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss) - [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss)
 * [2025-07-29, 17:01:14](https://news.ycombinator.com/item?id=44725764) - [Study mode](https://openai.com/index/chatgpt-study-mode/)
 * [2025-07-29, 17:00:43](https://news.ycombinator.com/item?id=44725757) - [Learning basic electronics by building fireflies](http://a64.in/posts/learning-basic-electronics-by-building-fireflies/)
@@ -119,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 15:25:00](https://apple.slashdot.org/story/25/07/29/1510224/apple-opens-manufacturing-academy-in-detroit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Opens Manufacturing Academy in Detroit](https://apple.slashdot.org/story/25/07/29/1510224/apple-opens-manufacturing-academy-in-detroit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 15:04:22](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9) - [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/)
 * [2025-07-29, 14:59:18](https://news.ycombinator.com/item?id=44724238) - [Irrelevant facts about cats added to math problems increase LLM errors by 300%](https://www.science.org/content/article/scienceadviser-cats-confuse-ai)
-* [2025-07-29, 14:47:00](https://apple.slashdot.org/story/25/07/29/1447214/apple-shift-turns-india-into-worlds-top-maker-of-us-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Shift Turns India Into World&apos;s Top Maker of US Smartphones](https://apple.slashdot.org/story/25/07/29/1447214/apple-shift-turns-india-into-worlds-top-maker-of-us-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-29, 14:44:00](https://news.ycombinator.com/item?id=44724068) - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 * [2025-07-29, 14:26:47](https://news.ycombinator.com/item?id=44723818) - [Structuring large Clojure codebases with Biff](https://biffweb.com/p/structuring-large-codebases/)
 * [2025-07-29, 13:58:08](https://lobste.rs/s/4n7281/rules_derive_deriving_using_macro_rules) - [rules_derive: deriving using macro_rules](https://matx.com/research/rules_derive)
@@ -142,7 +147,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 19:28:17](https://lobste.rs/s/ucvpt5/i_designed_my_own_ridiculously_fast_game) - [I designed my own ridiculously fast game streaming video codec](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
 * [2025-07-28, 17:11:00](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss) - [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss)
 * [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
-* [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:30:00](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss) - [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss)
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
@@ -152,9 +156,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
+* [2025-07-27, 06:03:05](https://news.ycombinator.com/item?id=44699199) - [Actual Size Online Ruler (Mm,Cm,Inches)](https://anruler.com/)
 * [2025-07-27, 03:38:18](https://news.ycombinator.com/item?id=44698753) - [Measuring Engineering](https://fffej.substack.com/p/measuring-engineering)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
-* [2025-07-27, 01:37:24](https://news.ycombinator.com/item?id=44698216) - [The Day Wall Street Was Silent (1979)](https://time.com/archive/6850749/business-the-day-wall-street-was-silent/)
 * [2025-07-27, 01:03:42](https://news.ycombinator.com/item?id=44698087) - [USB-C for Lightning iPhones](https://obsoless.com/products/iph0n3-usb-c-protection-case)
 * [2025-07-26, 21:19:00](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss) - [Tesla Continues Slide As Musk Warns Of \&quot;Rough Quarters\&quot; Ahead](https://soylentnews.org/article.pl?sid=25/07/26/0136203&amp;from=rss)
 * [2025-07-26, 16:44:17](https://news.ycombinator.com/item?id=44695364) - [Microsoft Flight Simulator 2024: WebAssembly SDK](https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm)
