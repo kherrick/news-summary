@@ -1,54 +1,74 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech and AI Developments
+## Exciting Advances in Science and Technology
 
-* [Google Tool Misused To Scrub Tech CEO's Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Raises questions about misuse of technology for reputation management.
+* [Peacock Feathers Can Be Lasers](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers have discovered how peacock feathers can function as lasers, opening new avenues in biomimetics and optical technologies.
 
-* [Google's AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Illustrates the advancements in AI-driven geospatial data mapping.
+* [Google's AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This news highlights Google's groundbreaking AI system that enables detailed mapping anywhere on Earth via satellite data.
 
-* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores the impact of generative AI on creative professions.
+* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - India collaboratively launches a satellite with NASA to enhance climate monitoring capabilities.
 
-* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights novel applications of AI in entertainment.
+* [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars) - Fascinating new theories suggest 'little red dots' in the early universe could represent black hole stars.
 
-## Open Source and Software Insights
+* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - A surprising discovery allows gold to reach unparalleled temperatures without melting, altering material science perspectives.
 
-* [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html) - A curious look at unconventional approaches to blogging using low-level programming tools.
+## AI and its Growing Impacts
 
-* [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301) - Revives interest in historically significant graphical interfaces.
+* [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard) - A tool to monitor and automatically stop AI agents that risk overspending.
 
-* [Crush: The glamorous AI coding agent for your favorite terminal](https://github.com/charmbracelet/crush) - A stylish coding assistant designed to integrate seamlessly into developer workflows.
+* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Voice actors advocate against the rise of AI replacing their roles in dubbing production.
 
-* [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat) - Examines open protocols shaping decentralized communication systems.
+* [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44) - A concerning vulnerability in an AI coding platform allows unauthorized data access.
 
-## Scientific and Space Advancements
+* [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/) - Investigations reveal personal data embedded within massive AI training datasets.
 
-* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Marks a significant international collaboration for tackling climate change.
+* [OpenAI’s ChatGPT Agent Casually Clicks Through 'I am not a robot' Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - ChatGPT demonstrates its abilities by bypassing CAPTCHA tests.
 
-* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss) - Adds to our understanding of black hole formation mechanisms.
+## Ethics and Regulation in Technology
 
-* [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars) - Sheds light on unique celestial objects hypothesized in the universe's infancy.
+* [Google Tool Misused To Scrub Tech CEO's Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns arise over the misuse of Google's tools to omit potentially damaging records from public visibility.
 
-## Cybersecurity and Regulation Challenges
+* [Google is Using AI Age Checks To Lock Down User Accounts](https://tech.slashdot.org/story/25/07/30/1731256/google-is-using-ai-age-checks-to-lock-down-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google employs AI to enforce age restrictions, sparking privacy debates.
 
-* [US Intelligence Intervened With DOJ To Push HPE-Juniper Merger](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reveals the intersection of technology mergers and national security.
+* [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - China's development of 6nm GPUs signals movement toward reduced foreign tech reliance.
 
-* [Google is Using AI Age Checks To Lock Down User Accounts](https://tech.slashdot.org/story/25/07/30/1731256/google-is-using-ai-age-checks-to-lock-down-user-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the increasing use of AI in account security.
+* [US Intelligence Intervened With DOJ To Push HPE-Juniper Merger](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report surfaces regarding U.S. intelligence pressures in a tech merger negotiation.
 
-* [Tech CEO's Negative Coverage Vanished from Google via Security Flaw](https://search.slashdot.org/story/25/07/30/1631222/tech-ceos-negative-coverage-vanished-from-google-via-security-flaw?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical flaw with potential ethical implications.
+## Software Development and Open Source
 
-## Creative and Thought-Provoking Articles
+* [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html) - Insight into the enhancements made to the Futhark compiler for better debugging and tracking.
 
-* [Flat design vs realistic ('skeuomorphic') design](https://www.flatisbad.com/) - Explores the divide in user interface design philosophies.
+* [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html) - A quirky approach to creating a blog using unconventional programming methods.
 
-* [The math is haunted](https://overreacted.io/the-math-is-haunted/) - A whimsical exploration of mathematical anomalies.
+* [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/) - Exploring new methods of verified programming with RISC-V and ghost code.
 
-* [Vibe code is legacy code](https://blog.val.town/vibe-code) - Reflects on the cultural and technical life cycle of programming trends.
+* [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat) - A deep look at the mechanisms powering open and federated chat systems.
 
-## Miscellaneous and Unique Ideas
+* [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now) - Building a fully functional hypervisor in Rust, with a focus on low-level operations.
 
-* [Bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/) - A creative tool for organizing digital resources.
+## Cultural and Societal Perspectives
 
-* [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment) - Encourages DIY approaches to self-publishing.
+* [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen) - A tribute to the legacy of Hans Christian Andersen and his influence on global storytelling.
+
+* [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record) - Documenting architectural choices with a focus on clarity and traceability.
+
+* [Attention is your scarcest resource](https://www.benkuhn.net/attention/) - A reflection on productivity and how to focus attention in the digital era.
+
+* [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - An analysis of the shifting role of social platforms in modern connectivity.
+
+* [Books about Lisp's 'beauty'?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - A discussion on the elegance and timelessness of Lisp programming.
+
+## Miscellaneous Notable Topics
+
+* [First Australian-Made Rocket Crashes After 14 Seconds of Flight](https://slashdot.org/story/25/07/30/1936241/first-australian-made-rocket-crashes-after-14-seconds-of-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The short-lived, yet noteworthy, maiden flight of Australia’s first homegrown rocket.
+
+* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - NASA's Webb telescope might have observed an entirely new form of black hole formation.
+
+* [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment) - An inspiring guide to self-publishing physical books with minimal resources.
+
+* [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - A hardware oddity reimagined as a feature sparks interest and debate.
+
+* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's bet on a unique AI startup that empowers users to generate custom TV content.
 
 ---
 
@@ -75,9 +95,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-31, 07:00:00](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Peacock Feathers Can Be Lasers](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
+* [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
+* [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
+* [2025-07-31, 04:38:54](https://lobste.rs/s/rltgp7/tracking_source_locations_futhark) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
+* [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I know when you&apos;re vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+* [2025-07-31, 03:43:15](https://lobste.rs/s/8u05xg/architecture_decision_record) - [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record)
 * [2025-07-31, 03:30:00](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Tool Misused To Scrub Tech CEO&apos;s Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-31, 03:18:31](https://news.ycombinator.com/item?id=44742021) - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+* [2025-07-31, 01:36:12](https://lobste.rs/s/hpmmo4/build_your_own_minisforum_n5_inspired) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-31, 01:30:00](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-31, 01:01:02](https://news.ycombinator.com/item?id=44741305) - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-07-31, 00:52:00](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
 * [2025-07-30, 22:50:00](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The Future is Not Self-Hosted&apos;](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 22:24:58](https://news.ycombinator.com/item?id=44740222) - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
-* [2025-07-30, 22:21:03](https://news.ycombinator.com/item?id=44740185) - [Pentagon Pizza Index](https://www.pizzint.watch/)
 * [2025-07-30, 22:10:00](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Invests In &apos;Netflix of AI&apos; Start-Up Fable, Which Lets You Make Your Own TV Shows ](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 21:53:38](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - [Books about Lisp&apos;s \&quot;beauty\&quot;?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty)
 * [2025-07-30, 21:32:00](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - [OpenAI’s ChatGPT Agent Casually Clicks Through “I am not a robot” Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss)
@@ -95,14 +123,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 21:19:03](https://news.ycombinator.com/item?id=44739632) - [Ollama&apos;s new app](https://ollama.com/blog/new-app)
 * [2025-07-30, 21:18:21](https://news.ycombinator.com/item?id=44739618) - [Early universe&apos;s &apos;little red dots&apos; may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
 * [2025-07-30, 21:13:20](https://news.ycombinator.com/item?id=44739556) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
+* [2025-07-30, 21:07:13](https://news.ycombinator.com/item?id=44739494) - [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen)
 * [2025-07-30, 20:50:00](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Intelligence Intervened With DOJ To Push HPE-Juniper Merger](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The math is haunted](https://overreacted.io/the-math-is-haunted/)
+* [2025-07-30, 20:46:49](https://news.ycombinator.com/item?id=44739315) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-30, 20:20:08](https://lobste.rs/s/ykjkon/hype_is_product) - [The Hype is the Product](https://rys.io/en/180.html)
 * [2025-07-30, 20:10:00](https://tech.slashdot.org/story/25/07/30/1916258/google-confirms-it-will-sign-the-eu-ai-code-of-practice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Confirms It Will Sign the EU AI Code of Practice](https://tech.slashdot.org/story/25/07/30/1916258/google-confirms-it-will-sign-the-eu-ai-code-of-practice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 19:39:18](https://lobste.rs/s/aqiske/emacs_macos_bug) - [Emacs: The MacOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 19:35:00](https://it.slashdot.org/story/25/07/30/1935230/nothings-phone-3-is-stymied-by-contentious-design-and-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nothing&apos;s Phone 3 Is Stymied By Contentious Design and Price](https://it.slashdot.org/story/25/07/30/1935230/nothings-phone-3-is-stymied-by-contentious-design-and-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 18:58:16](https://lobste.rs/s/7nho3g/dive_into_open_chat_protocols) - [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
-* [2025-07-30, 18:55:43](https://news.ycombinator.com/item?id=44738161) - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
 * [2025-07-30, 18:50:00](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 18:15:35](https://news.ycombinator.com/item?id=44737676) - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:14:00](https://it.slashdot.org/story/25/07/30/1814253/dropbox-pulls-the-plug-on-password-manager?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dropbox Pulls the Plug on Password Manager](https://it.slashdot.org/story/25/07/30/1814253/dropbox-pulls-the-plug-on-password-manager?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -112,9 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 17:21:17](https://news.ycombinator.com/item?id=44736967) - [Fast](https://www.catherinejue.com/fast)
 * [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - [NASA’s Webb Finds Possible &apos;Direct Collapse&apos; Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss)
-* [2025-07-30, 16:41:00](https://search.slashdot.org/story/25/07/30/1631222/tech-ceos-negative-coverage-vanished-from-google-via-security-flaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech CEO&apos;s Negative Coverage Vanished from Google via Security Flaw](https://search.slashdot.org/story/25/07/30/1631222/tech-ceos-negative-coverage-vanished-from-google-via-security-flaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 16:25:12](https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
-* [2025-07-30, 16:18:14](https://news.ycombinator.com/item?id=44736176) - [Crush: Glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 16:08:44](https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent) - [Why We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
@@ -125,30 +151,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 15:13:43](https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables) - [2000 words about arrays and tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:44:08](https://lobste.rs/s/mrzwqr/writing_memory_efficient_c_structs) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 14:15:07](https://news.ycombinator.com/item?id=44734522) - [A short post on short trains](https://shakeddown.substack.com/p/a-short-post-on-short-trains)
-* [2025-07-30, 14:11:36](https://news.ycombinator.com/item?id=44734471) - [Show HN: Open-source alternative to ChatGPT Agents for browsing](https://github.com/trymeka/agent)
 * [2025-07-30, 14:02:15](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust) - [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
-* [2025-07-30, 13:26:10](https://lobste.rs/s/p9axqd/rfc_862_echo_protocol) - [RFC 862: Echo Protocol](https://datatracker.ietf.org/doc/html/rfc862)
-* [2025-07-30, 13:24:50](https://news.ycombinator.com/item?id=44733892) - [Show HN: An AI agent that learns your product and guides your users](https://frigade.ai)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
-* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I&apos;m rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 13:05:22](https://lobste.rs/s/uyudor/optimize_cpu_performance_with) - [Optimize CPU performance with Instruments](https://developer.apple.com/videos/play/wwdc2025/308/)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist (2022)](https://www.htmlhobbyist.com/)
 * [2025-07-30, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss) - [EU-US Draft 15Pc Tariff Agreement Appears To Include Pharma, Chips](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss)
-* [2025-07-30, 11:02:23](https://lobste.rs/s/nadv6h/activity_monitor_anatomy) - [Activity Monitor Anatomy](https://www.bazhenov.me/posts/activity-monitor-anatomy/)
 * [2025-07-30, 10:03:14](https://lobste.rs/s/iubohk/phoenix_liveview_v1_1_0) - [Phoenix LiveView v1.1.0](https://hexdocs.pm/phoenix_live_view/changelog.html)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-30, 07:15:08](https://lobste.rs/s/70mi93/month_using_xmpp_for_every_call_chat_2023) - [A month using XMPP for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss)
 * [2025-07-30, 06:43:00](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic) - [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/)
-* [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
 * [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Fixing Ctrl+C in Rust terminal apps: Child process management](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-29, 21:44:00](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss) - [Senator Demands Mandiant Hand Over Telco Salt Typhoon Probes](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss)
 * [2025-07-29, 17:02:00](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss) - [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
+* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
 * [2025-07-29, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss)
 * [2025-07-29, 07:27:00](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss) - [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss)
 * [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss)
@@ -160,9 +181,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
 * [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
+* [2025-07-27, 18:52:49](https://news.ycombinator.com/item?id=44703581) - [Open source BOM management (for me)](https://www.vincentuden.xyz/blog/pcb_management)
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
-* [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
 * [2025-07-27, 06:50:00](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss)
-* [2025-07-27, 05:53:40](https://news.ycombinator.com/item?id=44699174) - [.NET 10 Preview 6 brings JIT improvements, one-shot tool execution](https://www.infoworld.com/article/4023654/net-10-preview-6-brings-jit-improvements-one-shot-tool-execution.html)
 * [2025-07-27, 02:06:00](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss)
