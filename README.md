@@ -1,74 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Exciting Advances in Science and Technology
+## Technology and Software Innovations
 
-* [Peacock Feathers Can Be Lasers](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers have discovered how peacock feathers can function as lasers, opening new avenues in biomimetics and optical technologies.
+* [The Design and Implementation of Extensible Variants for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-4/) explores advanced data type handling in Rust, pushing the boundaries of extensibility [comments](https://lobste.rs/s/mplsem/design_implementation_extensible).
 
-* [Google's AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This news highlights Google's groundbreaking AI system that enables detailed mapping anywhere on Earth via satellite data.
+* [a5-py: Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5-py) introduces a novel geospatial data management technique [comments](https://lobste.rs/s/727kdh/a5_py_pentagonal_geospatial_indexing).
 
-* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - India collaboratively launches a satellite with NASA to enhance climate monitoring capabilities.
+* [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html) sheds light on enhancing error tracking in a high-performance language [comments](https://news.ycombinator.com/item?id=44742359).
 
-* [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars) - Fascinating new theories suggest 'little red dots' in the early universe could represent black hole stars.
+* [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now) harnesses Rust for hypervisor development, simplifying virtualization [comments](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust).
 
-* [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - A surprising discovery allows gold to reach unparalleled temperatures without melting, altering material science perspectives.
+## Science and Exciting Discoveries
 
-## AI and its Growing Impacts
+* [Peacock Feathers Can Be Lasers](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses unexpected optical properties of peacock feathers [comments](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard) - A tool to monitor and automatically stop AI agents that risk overspending.
+* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss) delves into groundbreaking findings on black hole formation [comments](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss).
 
-* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Voice actors advocate against the rise of AI replacing their roles in dubbing production.
+* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) marks an international collaboration to study climate change [comments](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44) - A concerning vulnerability in an AI coding platform allows unauthorized data access.
+## AI Tools, Ethics, and Warnings
 
-* [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/) - Investigations reveal personal data embedded within massive AI training datasets.
+* [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard) introduces a safeguard against runaway AI processes [comments](https://news.ycombinator.com/item?id=44742710).
 
-* [OpenAI’s ChatGPT Agent Casually Clicks Through 'I am not a robot' Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - ChatGPT demonstrates its abilities by bypassing CAPTCHA tests.
+* [Google Confirms It Will Sign the EU AI Code of Practice](https://tech.slashdot.org/story/25/07/30/1916258/google-confirms-it-will-sign-the-eu-ai-code-of-practice?utm_source=rss1.0mainlinkanon&utm_medium=feed) reflects the transformative influence of AI governance [comments](https://tech.slashdot.org/story/25/07/30/1916258/google-confirms-it-will-sign-the-eu-ai-code-of-practice?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Ethics and Regulation in Technology
+* [OpenAI’s ChatGPT Agent Casually Clicks Through 'I am not a robot' Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&from=rss) highlights the evolving challenges in AI-human interactions [comments](https://soylentnews.org/article.pl?sid=25/07/29/1652215&from=rss).
 
-* [Google Tool Misused To Scrub Tech CEO's Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns arise over the misuse of Google's tools to omit potentially damaging records from public visibility.
+## Noteworthy Cultural Insights
 
-* [Google is Using AI Age Checks To Lock Down User Accounts](https://tech.slashdot.org/story/25/07/30/1731256/google-is-using-ai-age-checks-to-lock-down-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google employs AI to enforce age restrictions, sparking privacy debates.
+* [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss) argues for the enduring relevance of blogging [comments](https://soylentnews.org/article.pl?sid=25/07/30/0121254&from=rss).
 
-* [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - China's development of 6nm GPUs signals movement toward reduced foreign tech reliance.
+* [150 Years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen) uncovers fascinating stories behind Andersen’s legacy [comments](https://news.ycombinator.com/item?id=44739494).
 
-* [US Intelligence Intervened With DOJ To Push HPE-Juniper Merger](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report surfaces regarding U.S. intelligence pressures in a tech merger negotiation.
+* [‘The Future is Not Self-Hosted’](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines the shifting landscape of software hosting [comments](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Software Development and Open Source
+## Emerging Business and Industry Movements
 
-* [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html) - Insight into the enhancements made to the Futhark compiler for better debugging and tracking.
+* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights the struggles of artists in the face of advancing AI [comments](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html) - A quirky approach to creating a blog using unconventional programming methods.
+* [Google Tool Misused To Scrub Tech CEO’s Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) reveals attempts to manipulate online reputations [comments](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/) - Exploring new methods of verified programming with RISC-V and ghost code.
-
-* [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat) - A deep look at the mechanisms powering open and federated chat systems.
-
-* [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now) - Building a fully functional hypervisor in Rust, with a focus on low-level operations.
-
-## Cultural and Societal Perspectives
-
-* [150 years of Hans Christian Andersen](https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen) - A tribute to the legacy of Hans Christian Andersen and his influence on global storytelling.
-
-* [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record) - Documenting architectural choices with a focus on clarity and traceability.
-
-* [Attention is your scarcest resource](https://www.benkuhn.net/attention/) - A reflection on productivity and how to focus attention in the digital era.
-
-* [Social Media Is Dead – Here’s What Comes Next](https://soylentnews.org/article.pl?sid=25/07/26/0146240&amp;from=rss) - An analysis of the shifting role of social platforms in modern connectivity.
-
-* [Books about Lisp's 'beauty'?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - A discussion on the elegance and timelessness of Lisp programming.
-
-## Miscellaneous Notable Topics
-
-* [First Australian-Made Rocket Crashes After 14 Seconds of Flight](https://slashdot.org/story/25/07/30/1936241/first-australian-made-rocket-crashes-after-14-seconds-of-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The short-lived, yet noteworthy, maiden flight of Australia’s first homegrown rocket.
-
-* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - NASA's Webb telescope might have observed an entirely new form of black hole formation.
-
-* [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment) - An inspiring guide to self-publishing physical books with minimal resources.
-
-* [WD Makes Click Of Death A Feature](https://soylentnews.org/article.pl?sid=25/07/26/0153214&amp;from=rss) - A hardware oddity reimagined as a feature sparks interest and debate.
-
-* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's bet on a unique AI startup that empowers users to generate custom TV content.
+* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) delves into user-created content and entertainment’s AI future [comments](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
 ---
 
@@ -95,9 +67,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-31, 09:30:41](https://lobste.rs/s/mplsem/design_implementation_extensible) - [The Design and Implementation of Extensible Variants for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-4/)
+* [2025-07-31, 08:37:57](https://lobste.rs/s/727kdh/a5_py_pentagonal_geospatial_indexing) - [a5-py: Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5-py)
+* [2025-07-31, 08:02:05](https://lobste.rs/s/olb8w6/mounting_atmosphere) - [Mounting The Atmosphere](https://oppi.li/posts/mounting_the_atmosphere/)
+* [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss)
 * [2025-07-31, 07:00:00](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Peacock Feathers Can Be Lasers](https://science.slashdot.org/story/25/07/31/0025256/peacock-feathers-can-be-lasers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-31, 05:54:04](https://news.ycombinator.com/item?id=44742710) - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
-* [2025-07-31, 05:08:56](https://news.ycombinator.com/item?id=44742513) - [Stargate Norway](https://openai.com/index/introducing-stargate-norway/)
 * [2025-07-31, 04:40:31](https://news.ycombinator.com/item?id=44742359) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:38:54](https://lobste.rs/s/rltgp7/tracking_source_locations_futhark) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 04:16:40](https://news.ycombinator.com/item?id=44742251) - [I know when you&apos;re vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
@@ -141,11 +116,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 16:59:09](https://news.ycombinator.com/item?id=44736646) - [Australia widens teen social media ban to YouTube, scraps exemption](https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/)
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - [NASA’s Webb Finds Possible &apos;Direct Collapse&apos; Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss)
 * [2025-07-30, 16:25:12](https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
-* [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 16:08:44](https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent) - [Why We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
 * [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
-* [2025-07-30, 15:50:48](https://lobste.rs/s/scar6u/verified_assembly_2_memory_risc_v_cuts_for) - [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/)
 * [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
 * [2025-07-30, 15:24:03](https://lobste.rs/s/yd42ea/agentic_coding_things_didn_t_work) - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/)
 * [2025-07-30, 15:13:43](https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables) - [2000 words about arrays and tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
@@ -154,11 +127,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 14:02:15](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust) - [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now)
 * [2025-07-30, 13:32:23](https://news.ycombinator.com/item?id=44733968) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 13:17:28](https://news.ycombinator.com/item?id=44733817) - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
-* [2025-07-30, 13:05:22](https://lobste.rs/s/uyudor/optimize_cpu_performance_with) - [Optimize CPU performance with Instruments](https://developer.apple.com/videos/play/wwdc2025/308/)
+* [2025-07-30, 13:15:35](https://news.ycombinator.com/item?id=44733800) - [I launched 17 side projects. Result? I&apos;m rich in expired domains](https://news.ycombinator.com/item?id=44733800)
 * [2025-07-30, 12:29:52](https://news.ycombinator.com/item?id=44733341) - [Problem solving often a matter of cooking up an appropriate Markov chain (2007)](http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf)
 * [2025-07-30, 12:03:54](https://news.ycombinator.com/item?id=44733119) - [The HTML Hobbyist (2022)](https://www.htmlhobbyist.com/)
 * [2025-07-30, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss) - [EU-US Draft 15Pc Tariff Agreement Appears To Include Pharma, Chips](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss)
-* [2025-07-30, 10:03:14](https://lobste.rs/s/iubohk/phoenix_liveview_v1_1_0) - [Phoenix LiveView v1.1.0](https://hexdocs.pm/phoenix_live_view/changelog.html)
 * [2025-07-30, 09:59:09](https://news.ycombinator.com/item?id=44732464) - [A major AI training data set contains millions of examples of personal data](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
 * [2025-07-30, 07:15:08](https://lobste.rs/s/70mi93/month_using_xmpp_for_every_call_chat_2023) - [A month using XMPP for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss)
@@ -167,15 +139,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
 * [2025-07-29, 22:05:04](https://news.ycombinator.com/item?id=44728796) - [Fixing Ctrl+C in Rust terminal apps: Child process management](https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management)
 * [2025-07-29, 21:44:00](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss) - [Senator Demands Mandiant Hand Over Telco Salt Typhoon Probes](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss)
+* [2025-07-29, 19:07:59](https://news.ycombinator.com/item?id=44727130) - [A Quantum Gravimeter for GPS Backup](https://spectrum.ieee.org/quantum-gravity-sensor)
 * [2025-07-29, 17:02:00](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss) - [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
-* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
+* [2025-07-29, 14:57:29](https://news.ycombinator.com/item?id=44724216) - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/)
 * [2025-07-29, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss)
 * [2025-07-29, 07:27:00](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss) - [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss)
 * [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss)
+* [2025-07-28, 22:46:19](https://news.ycombinator.com/item?id=44716653) - [OpenAI&apos;s ChatGPT Agent casually clicks through \&quot;I am not a robot\&quot; verification](https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/)
 * [2025-07-28, 22:00:00](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss) - [As Site Blocking Is Increasing, European Commission Subtly Slaps Down Italy’s Piracy Shield](https://soylentnews.org/article.pl?sid=25/07/26/1935251&amp;from=rss)
 * [2025-07-28, 17:11:00](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss) - [AMD CEO Says U.S.-Made TSMC Chips Are More Expensive, But Worth It](https://soylentnews.org/article.pl?sid=25/07/26/1924256&amp;from=rss)
-* [2025-07-28, 13:02:49](https://news.ycombinator.com/item?id=44710461) - [Ferroelectric helps break transistor limits](https://spectrum.ieee.org/negative-capacitance-schottky-limit)
 * [2025-07-28, 12:30:00](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss) - [Inventor Claims Bleach Injections will Destroy Cancer Tumors](https://soylentnews.org/article.pl?sid=25/07/26/192237&amp;from=rss)
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
