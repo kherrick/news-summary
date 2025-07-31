@@ -1,36 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology
+## Tech and AI Developments
 
-* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Voice actors express growing concerns about AI replacing their industry as automated dubbing tools improve, sparking debates about labor rights in creative fields.
+* [Google Tool Misused To Scrub Tech CEO's Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Raises questions about misuse of technology for reputation management.
 
-* [Google's AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI by Google demonstrates its ability to generate detailed terrestrial maps on a global scale using satellite imagery.
+* [Google's AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Illustrates the advancements in AI-driven geospatial data mapping.
 
-* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon funds an ambitious initiative that enables users to create personalized TV shows using AI.
+* [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores the impact of generative AI on creative professions.
 
-## Innovative Development and Engineering
+* [Amazon Invests In 'Netflix of AI' Start-Up Fable, Which Lets You Make Your Own TV Shows](https://entertainment.slashdot.org/story/25/07/30/1949202/amazon-invests-in-netflix-of-ai-start-up-fable-which-lets-you-make-your-own-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights novel applications of AI in entertainment.
 
-* [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - A new feature in FreeBSD 15.0's installer could streamline the setup process for users preferring KDE Plasma as their desktop environment.
+## Open Source and Software Insights
 
-* [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301) - OpenBSD announces support for the historic Common Desktop Environment, maintaining retro compatibility for certain workflows and aesthetics.
+* [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html) - A curious look at unconventional approaches to blogging using low-level programming tools.
 
-## Unique Projects and Perspectives
+* [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301) - Revives interest in historically significant graphical interfaces.
 
-* [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html) - An unconventional approach to blog creation showcases the creative use of C preprocessor macros in web development.
+* [Crush: The glamorous AI coding agent for your favorite terminal](https://github.com/charmbracelet/crush) - A stylish coding assistant designed to integrate seamlessly into developer workflows.
 
-* [The math is haunted](https://overreacted.io/the-math-is-haunted/) - A thought-provoking take on how mathematical understanding can feel mysterious and even eerie in complex problem-solving scenarios.
+* [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat) - Examines open protocols shaping decentralized communication systems.
 
-## Scientific Discoveries and Space Exploration
+## Scientific and Space Advancements
 
-* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - NASA's James Webb Space Telescope uncovers intriguing evidence of a direct-collapse black hole, illuminating early universe mysteries.
+* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Marks a significant international collaboration for tackling climate change.
 
-* [India Launches NASA-ISRO Satellite To Track Climate Threats From Space](https://science.slashdot.org/story/25/07/30/1839229/india-launches-nasa-isro-satellite-to-track-climate-threats-from-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A collaborative satellite launch by NASA and ISRO marks strides in monitoring environmental changes and climate risks.
+* [NASA’s Webb Finds Possible 'Direct Collapse' Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&from=rss) - Adds to our understanding of black hole formation mechanisms.
 
-## New Frontiers in Tech and Business
+* [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars) - Sheds light on unique celestial objects hypothesized in the universe's infancy.
 
-* [Boring Company To Build Tesla Tunnels Under Nashville](https://tech.slashdot.org/story/25/07/30/2015220/boring-company-to-build-tesla-tunnels-under-nashville?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Elon Musk's Boring Company initiates plans for Tesla-only underground transit systems in Nashville, aiming to revolutionize urban travel.
+## Cybersecurity and Regulation Challenges
 
-* [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/) - Figma gears up for its public debut as a leading design technology company.
+* [US Intelligence Intervened With DOJ To Push HPE-Juniper Merger](https://yro.slashdot.org/story/25/07/30/1926221/us-intelligence-intervened-with-doj-to-push-hpe-juniper-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reveals the intersection of technology mergers and national security.
+
+* [Google is Using AI Age Checks To Lock Down User Accounts](https://tech.slashdot.org/story/25/07/30/1731256/google-is-using-ai-age-checks-to-lock-down-user-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the increasing use of AI in account security.
+
+* [Tech CEO's Negative Coverage Vanished from Google via Security Flaw](https://search.slashdot.org/story/25/07/30/1631222/tech-ceos-negative-coverage-vanished-from-google-via-security-flaw?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical flaw with potential ethical implications.
+
+## Creative and Thought-Provoking Articles
+
+* [Flat design vs realistic ('skeuomorphic') design](https://www.flatisbad.com/) - Explores the divide in user interface design philosophies.
+
+* [The math is haunted](https://overreacted.io/the-math-is-haunted/) - A whimsical exploration of mathematical anomalies.
+
+* [Vibe code is legacy code](https://blog.val.town/vibe-code) - Reflects on the cultural and technical life cycle of programming trends.
+
+## Miscellaneous and Unique Ideas
+
+* [Bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/) - A creative tool for organizing digital resources.
+
+* [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment) - Encourages DIY approaches to self-publishing.
 
 ---
 
@@ -57,13 +75,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-07-31, 03:30:00](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Tool Misused To Scrub Tech CEO&apos;s Shady Past From Search](https://tech.slashdot.org/story/25/07/30/2216225/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
 * [2025-07-31, 01:42:58](https://news.ycombinator.com/item?id=44741539) - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
 * [2025-07-31, 01:30:00](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Voice Actors Push Back As AI Threatens Dubbing Industry](https://slashdot.org/story/25/07/30/227205/voice-actors-push-back-as-ai-threatens-dubbing-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-07-31, 01:02:13](https://news.ycombinator.com/item?id=44741314) - [Paradise Lost](https://alexandermigdal.com/paradise-lost/)
 * [2025-07-31, 01:01:02](https://news.ycombinator.com/item?id=44741305) - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-07-31, 00:52:00](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s AlphaEarth AI Maps Any 10-Meter Area on Earth Using Satellite Data](https://news.slashdot.org/story/25/07/30/2032255/googles-alphaearth-ai-maps-any-10-meter-area-on-earth-using-satellite-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-31, 00:10:00](https://tech.slashdot.org/story/25/07/30/2015220/boring-company-to-build-tesla-tunnels-under-nashville?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boring Company To Build Tesla Tunnels Under Nashville](https://tech.slashdot.org/story/25/07/30/2015220/boring-company-to-build-tesla-tunnels-under-nashville?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-07-30, 23:50:20](https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot) - [Go&apos;s race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 23:30:00](https://tech.slashdot.org/story/25/07/30/205208/scammers-unleash-flood-of-slick-online-gaming-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scammers Unleash Flood of Slick Online Gaming Sites](https://tech.slashdot.org/story/25/07/30/205208/scammers-unleash-flood-of-slick-online-gaming-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
 * [2025-07-30, 22:50:00](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The Future is Not Self-Hosted&apos;](https://hardware.slashdot.org/story/25/07/30/203220/the-future-is-not-self-hosted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -99,7 +118,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 16:12:32](https://news.ycombinator.com/item?id=44736101) - [Critical vulnerability in AI coding platform Base44 allowing unauthorized access](https://www.wiz.io/blog/critical-vulnerability-base44)
 * [2025-07-30, 16:11:58](https://news.ycombinator.com/item?id=44736090) - [Optician Sans – A free font based on historical eye charts and optotypes](https://optician-sans.com/)
 * [2025-07-30, 16:08:44](https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent) - [Why We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
-* [2025-07-30, 16:01:00](https://developers.slashdot.org/story/25/07/30/150216/ai-code-generators-are-writing-vulnerable-software-nearly-half-the-time-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Code Generators Are Writing Vulnerable Software Nearly Half the Time, Analysis Finds](https://developers.slashdot.org/story/25/07/30/150216/ai-code-generators-are-writing-vulnerable-software-nearly-half-the-time-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-07-30, 15:54:02](https://news.ycombinator.com/item?id=44735843) - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
 * [2025-07-30, 15:50:48](https://lobste.rs/s/scar6u/verified_assembly_2_memory_risc_v_cuts_for) - [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/)
 * [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
@@ -131,7 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-29, 21:44:00](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss) - [Senator Demands Mandiant Hand Over Telco Salt Typhoon Probes](https://soylentnews.org/article.pl?sid=25/07/28/1520211&amp;from=rss)
 * [2025-07-29, 17:02:00](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss) - [Hacker Injects Malicious, Potentially Disk-Wiping Prompt Into Amazon&apos;s Ai Coding Assistant](https://soylentnews.org/article.pl?sid=25/07/27/2215239&amp;from=rss)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
-* [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 12:15:00](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss) - [Gold Can be Heated to 14 Times its Melting Point Without Melting](https://soylentnews.org/article.pl?sid=25/07/27/0234226&amp;from=rss)
 * [2025-07-29, 07:27:00](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss) - [Discovery Alert: Flaring Star, Toasted Planet](https://soylentnews.org/article.pl?sid=25/07/27/0228236&amp;from=rss)
 * [2025-07-29, 02:40:00](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss) - [Chinese Hackers Breached U.S. Army National Guard to Steal Network Configurations](https://soylentnews.org/article.pl?sid=25/07/26/1945219&amp;from=rss)
@@ -142,6 +159,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-28, 07:45:00](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss) - [Coding, Remote Work and Rehabilitation](https://soylentnews.org/article.pl?sid=25/07/26/1848241&amp;from=rss)
 * [2025-07-28, 02:58:00](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss) - [Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet](https://soylentnews.org/article.pl?sid=25/07/26/1844226&amp;from=rss)
 * [2025-07-27, 22:15:00](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss) - [The Cells That Breathe Two Ways](https://soylentnews.org/article.pl?sid=25/07/26/1830254&amp;from=rss)
+* [2025-07-27, 21:13:52](https://news.ycombinator.com/item?id=44704742) - [Show HN: Open-source physical rack-mounted GUI for home lab](https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks)
 * [2025-07-27, 17:37:00](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss) - [UK To Ban Making Ransomware Payments For Some Organizations](https://soylentnews.org/article.pl?sid=25/07/26/1613246&amp;from=rss)
 * [2025-07-27, 16:32:46](https://news.ycombinator.com/item?id=44702478) - [Ultra-Rapid Vision in Birds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099)
 * [2025-07-27, 11:47:00](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss) - [Japan Bets Big on Ultrathin, Ultralight Solar Panels](https://soylentnews.org/article.pl?sid=25/07/26/0330200&amp;from=rss)
