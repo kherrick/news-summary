@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Health and Science Breakthroughs
+## Artificial Intelligence Developments
 
-* [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/) - A significant advancement highlights the potential cure for HIV, particularly focusing on children as key beneficiaries. [Comments](https://news.ycombinator.com/item?id=44765981).
+* [Top AI Salaries Dwarf Those of the Manhattan Project and the Space Race](https://news.slashdot.org/story/25/08/01/237243/top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI specialists are demanding salaries that exceed historic technological mega-projects, reflecting the industry's enormous value and rapid growth.
 
-* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - A peculiar discovery in which nature's engineering, like peacock feathers, produces laser-like properties. [Comments](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss).
+* [A.I. Researchers Are Negotiating $250 Million Pay Packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html) - Top AI researchers are negotiating compensation packages reminiscent of professional athletes, underlining the fierce competition in talent acquisition.
 
-## Technological Innovations
+* [Anthropic Revokes OpenAI's Access To Claude Over Terms of Service Violation](https://developers.slashdot.org/story/25/08/01/2237220/anthropic-revokes-openais-access-to-claude-over-terms-of-service-violation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic terminates OpenAI's access to its Claude model due to policy breaches, signaling growing tensions among AI firms.
 
-* [Microsoft is open sourcing Windows 11's UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/) - A major move by Microsoft to open-source its complex user interface framework for developers. [Comments](https://news.ycombinator.com/item?id=44765600).
+## Technological Innovations and Discoveries
 
-* [Peak Energy Ships America's First Grid-Scale Sodium-Ion Battery](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A revolution in energy storage with the first sodium-ion battery deployment. [Comments](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - Researchers have shown that peacock feathers can emit laser light under specific conditions, highlighting unexpected properties in biological structures.
 
-* [Aurora's Self-Driving Trucks Are Now Driving At Night](https://tech.slashdot.org/story/25/08/01/2242247/auroras-self-driving-trucks-are-now-driving-at-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Aurora self-driving tech breaks boundaries by enabling commercial night driving. [Comments](https://tech.slashdot.org/story/25/08/01/2242247/auroras-self-driving-trucks-are-now-driving-at-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - A radioactive wasp nest was discovered at a former U.S. nuclear bomb production site, raising environmental and safety questions.
 
-## Data Privacy and Ethics
+## Societal Impacts of Tech
 
-* [A Luggage Service's Web Bugs Exposed the Travel Plans of Every User](https://yro.slashdot.org/story/25/08/01/219227/a-luggage-services-web-bugs-exposed-the-travel-plans-of-every-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the risks of web bugs in revealing sensitive user travel data. [Comments](https://yro.slashdot.org/story/25/08/01/219227/a-luggage-services-web-bugs-exposed-the-travel-plans-of-every-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [We may not like what we become if A.I. solves Loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem) - An exploration of the societal and psychological implications of AI's potential capacity to alleviate loneliness.
 
-* [India To Penalize Universities With Too Many Retractions](https://science.slashdot.org/story/25/08/01/1938215/india-to-penalize-universities-with-too-many-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold initiative in academia to ensure quality and accountability within research. [Comments](https://science.slashdot.org/story/25/08/01/1938215/india-to-penalize-universities-with-too-many-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [A Luggage Service's Web Bugs Exposed the Travel Plans of Every User](https://yro.slashdot.org/story/25/08/01/219227/a-luggage-services-web-bugs-exposed-the-travel-plans-of-every-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Security flaws in a luggage service's website compromised user travel plans, underscoring digital privacy challenges.
 
-## Corporate and Technological Policies
+## Scientific Research and Health
 
-* [Anthropic Revokes OpenAI's Access To Claude Over Terms of Service Violation](https://developers.slashdot.org/story/25/08/01/2237220/anthropic-revokes-openais-access-to-claude-over-terms-of-service-violation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic takes action against OpenAI due to contractual issues involving its Claude technology. [Comments](https://developers.slashdot.org/story/25/08/01/2237220/anthropic-revokes-openais-access-to-claude-over-terms-of-service-violation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission) - A study links ivermectin to potential reduced malaria transmission, offering fresh hope in addressing the global health issue.
 
-* [Palantir Lands $10 Billion Army Software and Data Contract](https://tech.slashdot.org/story/25/08/01/2055248/palantir-lands-10-billion-army-software-and-data-contract?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Palantir secures a monumental U.S. Army deal showcasing its leadership in military technologies. [Comments](https://tech.slashdot.org/story/25/08/01/2055248/palantir-lands-10-billion-army-software-and-data-contract?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://hardware.slashdot.org/story/25/08/01/2313250/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A detailed map identifies optimal regions for deploying solar technology to maximize environmental benefits.
 
-## Emerging Discoveries and Historical Reflections
+## Software and Programming
 
-* [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/) - Extraordinary accomplishment by a teenager unraveling a significant mathematical problem. [Comments](https://news.ycombinator.com/item?id=44759152).
+* [git: purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html) - Developers are working on a 64-bit adaptation of Inferno, extending its usability and relevance in modern systems.
 
-* [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/) - Insightful updates from the Ladybird browser project, highlighting its rapid development. [Comments](https://news.ycombinator.com/item?id=44765292).
+* [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/) - Elixir is highlighted as a solution to reduce software architectural complexity, enhancing development efficiency.
 
-* [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/) - A deep dive into the philosophical intricacies of mathematical structures. [Comments](https://lobste.rs/s/43hw9a/math_is_haunted).
+* [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html) - Practical advice on guiding users through technology, emphasizing simple and empathetic teaching methods.
+
+## Unique Stories and Commentary
+
+* [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie) - A linguistic and computational achievement showcasing how to efficiently encode Icelandic grammatical patterns.
+
+* [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html) - A quirky blend of innovation and humor: a computer that integrates coffee-making functionality.
 
 ---
 
@@ -59,11 +65,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
-* [2025-08-02, 07:52:40](https://news.ycombinator.com/item?id=44765600) - [Microsoft is open sourcing Windows 11&apos;s UI framework](https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/)
+* [2025-08-02, 13:00:00](https://news.slashdot.org/story/25/08/01/237243/top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top AI Salaries Dwarf Those of the Manhattan Project and the Space Race](https://news.slashdot.org/story/25/08/01/237243/top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-02, 12:34:19](https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
+* [2025-08-02, 11:44:42](https://news.ycombinator.com/item?id=44766831) - [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission)
+* [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. Researchers Are Negotiating $250 Million Pay Packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
+* [2025-08-02, 11:28:33](https://news.ycombinator.com/item?id=44766718) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
+* [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss)
+* [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+* [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
+* [2025-08-02, 11:02:15](https://lobste.rs/s/ogd44u/git_purgatorio_wip_64_bit_port_inferno) - [git: purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html)
+* [2025-08-02, 10:59:12](https://lobste.rs/s/jf7ldc/this_month_ladybird_july_2025) - [This Month in Ladybird - July 2025](https://ladybird.org/newsletter/2025-07-31/)
+* [2025-08-02, 10:52:36](https://news.ycombinator.com/item?id=44766508) - [We may not like what we become if A.I. solves Loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
+* [2025-08-02, 10:18:46](https://news.ycombinator.com/item?id=44766326) - [North Korea sent me abroad to be a secret IT worker. My wages funded the regime](https://www.bbc.com/news/articles/c15wk77zxngo)
+* [2025-08-02, 10:00:00](https://hardware.slashdot.org/story/25/08/01/2313250/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://hardware.slashdot.org/story/25/08/01/2313250/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 07:00:00](https://science.slashdot.org/story/25/08/01/2254211/lying-increases-trust-in-science-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lying Increases Trust In Science, Study Finds](https://science.slashdot.org/story/25/08/01/2254211/lying-increases-trust-in-science-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
-* [2025-08-02, 06:28:31](https://news.ycombinator.com/item?id=44765264) - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
+* [2025-08-02, 06:34:25](https://news.ycombinator.com/item?id=44765292) - [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 06:20:00](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss)
 * [2025-08-02, 05:23:40](https://lobste.rs/s/pm9hcp/keep_calm_carry_on) - [Keep calm and carry on](https://boston.conman.org/2025/08/01.1)
 * [2025-08-02, 04:26:53](https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i) - [Jujutsu For Busy Devs, Part 2: \&quot;How Do I...?\&quot;](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1)
@@ -79,7 +95,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 00:02:00](https://yro.slashdot.org/story/25/08/01/219227/a-luggage-services-web-bugs-exposed-the-travel-plans-of-every-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Luggage Service&apos;s Web Bugs Exposed the Travel Plans of Every User](https://yro.slashdot.org/story/25/08/01/219227/a-luggage-services-web-bugs-exposed-the-travel-plans-of-every-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-01, 23:20:00](https://tech.slashdot.org/story/25/08/01/2055248/palantir-lands-10-billion-army-software-and-data-contract?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Palantir Lands $10 Billion Army Software and Data Contract](https://tech.slashdot.org/story/25/08/01/2055248/palantir-lands-10-billion-army-software-and-data-contract?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-01, 22:40:00](https://slashdot.org/story/25/08/01/2049255/atlassian-terminates-150-staff-with-pre-recorded-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Atlassian Terminates 150 Staff With Pre-Recorded Video](https://slashdot.org/story/25/08/01/2049255/atlassian-terminates-150-staff-with-pre-recorded-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-01, 22:08:53](https://lobste.rs/s/bwy6sv/libvirt_incremental_backups_for_raw) - [libvirt - incremental backups for raw devices](https://abbbi.github.io/datafile/)
 * [2025-08-01, 22:04:38](https://news.ycombinator.com/item?id=44762959) - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
 * [2025-08-01, 22:00:00](https://slashdot.org/story/25/08/01/2043256/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon CEO Wants To Put Ads In Your Alexa+ Conversations](https://slashdot.org/story/25/08/01/2043256/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-01, 21:53:13](https://news.ycombinator.com/item?id=44762880) - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
@@ -95,28 +110,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-01, 19:48:06](https://news.ycombinator.com/item?id=44761548) - [Native Sparse Attention](https://aclanthology.org/2025.acl-long.1126/)
 * [2025-08-01, 19:27:43](https://lobste.rs/s/muk05v/reflections_on_matrix_criticism_over) - [Reflections on Matrix criticism over the last week](https://youtu.be/OyuqM7RbX5E)
 * [2025-08-01, 19:24:00](https://it.slashdot.org/story/25/08/01/1855254/belgium-bans-internet-archives-open-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Belgium Bans Internet Archive&apos;s &apos;Open Library&apos;](https://it.slashdot.org/story/25/08/01/1855254/belgium-bans-internet-archives-open-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-01, 18:45:00](https://tech.slashdot.org/story/25/08/01/1845229/google-backpedals-on-googl-shutdown-to-preserve-active-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Backpedals On Goo.gl Shutdown To Preserve Active Links](https://tech.slashdot.org/story/25/08/01/1845229/google-backpedals-on-googl-shutdown-to-preserve-active-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-01, 18:06:07](https://lobste.rs/s/xkynzw/what_declarative_languages_are_2013) - [What Declarative Languages Are (2013)](https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html)
-* [2025-08-01, 18:06:00](https://slashdot.org/story/25/08/01/186206/verizon-is-upping-its-fees-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Verizon is Upping Its Fees Again](https://slashdot.org/story/25/08/01/186206/verizon-is-upping-its-fees-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-01, 17:18:16](https://lobste.rs/s/bonzbw/i_couldn_t_submit_pr_so_i_got_hired_fixed_it) - [I couldn&apos;t submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:59:51](https://news.ycombinator.com/item?id=44759417) - [I couldn&apos;t submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
-* [2025-08-01, 16:36:51](https://news.ycombinator.com/item?id=44759171) - [Ergonomic keyboarding with the Svalboard: a half-year retrospective](https://twey.io/hci/svalboard/)
 * [2025-08-01, 16:35:40](https://news.ycombinator.com/item?id=44759152) - [At 17, Hannah Cairo solved a major math mystery](https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/)
 * [2025-08-01, 16:12:00](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss) - [Trump Caving on Nvidia H20 Export Curbs May Disrupt His Bigger Trade War](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss)
 * [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757794) - [Ask HN: Who is hiring? (August 2025)](https://news.ycombinator.com/item?id=44757794)
-* [2025-08-01, 15:00:05](https://news.ycombinator.com/item?id=44757792) - [Ask HN: Who wants to be hired? (August 2025)](https://news.ycombinator.com/item?id=44757792)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
 * [2025-08-01, 14:27:31](https://lobste.rs/s/9fwqhg/long_term_support) - [Long Term Support](https://www.sqlite.org/lts.html)
-* [2025-08-01, 13:25:08](https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with) - [Stack traces for Postgres errors with backtrace_functions](https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions)
 * [2025-08-01, 12:22:55](https://lobste.rs/s/jdk9z8/vibe_code_is_legacy_code) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-08-01, 12:13:12](https://news.ycombinator.com/item?id=44755654) - [Launch HN: Societies.io (YC W25) – AI simulations of your target audience](https://news.ycombinator.com/item?id=44755654)
 * [2025-08-01, 11:24:00](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss) - [From Apple to Greek Defense Start-up](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss)
 * [2025-08-01, 11:03:44](https://lobste.rs/s/nv7a9k/how_nixos_is_built) - [How NixOS is built](https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/)
 * [2025-08-01, 10:11:10](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend)
-* [2025-08-01, 09:49:09](https://lobste.rs/s/rxkmvd/pride_versioning) - [Pride Versioning](https://pridever.org/)
 * [2025-08-01, 09:44:07](https://lobste.rs/s/qsrdnn/agendafs_filesystem_for_syncing_notes) - [agendafs: A filesystem for syncing notes to your calendar](https://sr.ht/~marcc/agendafs/)
-* [2025-08-01, 09:08:59](https://news.ycombinator.com/item?id=44754523) - [Our Farewell from Google Play](https://secuso.aifb.kit.edu/english/2809.php)
 * [2025-08-01, 09:04:16](https://news.ycombinator.com/item?id=44754492) - [Replacing tmux in my dev workflow](https://bower.sh/you-might-not-need-tmux)
 * [2025-08-01, 08:52:00](https://lobste.rs/s/dsmzzu/if_odin_had_macros) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss)
@@ -127,15 +135,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss)
 * [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss)
-* [2025-07-31, 16:17:25](https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language) - [The smallest embeddable scripting language, part 1](https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html)
-* [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
+* [2025-07-31, 13:35:14](https://news.ycombinator.com/item?id=44745490) - [OpenAI&apos;s \&quot;Study Mode\&quot; and the risks of flattery](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
 * [2025-07-31, 11:45:00](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss) - [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss)
-* [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorbike protection – whilst being dragged along concrete](https://www.youtube.com/watch?v=xwuRUcAGIEU)
+* [2025-07-31, 10:10:52](https://news.ycombinator.com/item?id=44744121) - [Why leather is best motorcycle protection [video]](https://www.youtube.com/watch?v=xwuRUcAGIEU)
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
 * [2025-07-30, 21:32:00](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - [OpenAI’s ChatGPT Agent Casually Clicks Through “I am not a robot” Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss)
+* [2025-07-30, 20:19:44](https://news.ycombinator.com/item?id=44739041) - [Palo Alto Networks agrees to buy CyberArk for $25B](https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/)
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - [NASA’s Webb Finds Possible &apos;Direct Collapse&apos; Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss)
-* [2025-07-30, 15:37:40](https://news.ycombinator.com/item?id=44735613) - [The tradeoff between human and AI context](https://softwaredoug.com/blog/2025/07/30/layers-of-ai-coding)
 * [2025-07-30, 14:14:56](https://news.ycombinator.com/item?id=44734515) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-30, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss) - [EU-US Draft 15Pc Tariff Agreement Appears To Include Pharma, Chips](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss)
 * [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss)
