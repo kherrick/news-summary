@@ -1,50 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology
+## Artificial Intelligence and Ethics
 
-* [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring the potential for integrating moral emotions like guilt into AI systems to enhance decision-making and behavior.
+* [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring whether simulating emotions like guilt in AI systems could lead to improved decision-making and performance. [Comments](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Satellites, Drones, and AI: the New 'High-Tech Quest to Fight Wildfires'](https://news.slashdot.org/story/25/08/02/0059225/satellites-drones-and-ai-the-new-high-tech-quest-to-fight-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An investigation into cutting-edge tools like AI, satellites, and drones being deployed to combat wildfires effectively.
+* [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem) - A critical take on the implications of AI tackling loneliness and its impact on humanity. [Comments](https://news.ycombinator.com/item?id=44766508)
 
-* [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss) - Research identifying professions most at risk for disruption by AI advancements.
+## Privacy and Security
 
-* [AI Tools Gave False Information About Tsunami Advisories](https://slashdot.org/story/25/08/02/1645254/ai-tools-gave-false-information-about-tsunami-advisories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns over the reliability of AI systems highlighted by the spread of incorrect tsunami warnings.
+* [Hackers Steal Driver's Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss) - A major data breach exposes sensitive information of users from a controversial app. [Comments](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss)
 
-## Software Development and Engineering
+* [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos) - Innovative technology embeds hidden codes in light for video authentication to combat deepfakes. [Comments](https://news.ycombinator.com/item?id=44768513)
 
-* [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek) - Introduction to Voltpeek, a tool designed to inspect and analyze electrical signals with a Vim-inspired interface.
+## Innovations in Science and Technology
 
-* [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/) - Insight into how C++26 reflections could enable compile-time UML generation and meta-programming possibilities.
+* [Peak Energy Ships America's First Grid-Scale Sodium-Ion Battery](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The latest milestone in renewable energy storage technology with sodium-ion batteries. [Comments](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Unikernel Guide: Build & Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/) - A guide advocating for unikernels as a minimalistic and secure foundation for modern apps.
+* [Satellites, Drones, and AI: the New 'High-Tech Quest to Fight Wildfires'](https://news.slashdot.org/story/25/08/02/0059225/satellites-drones-and-ai-the-new-high-tech-quest-to-fight-wildfires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Advanced technology applications in wildfire mitigation efforts. [Comments](https://news.slashdot.org/story/25/08/02/0059225/satellites-drones-and-ai-the-new-high-tech-quest-to-fight-wildfires?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Show HN: WebGPU enables local LLM in the browser – demo site with AI chat](https://andreinwald.github.io/browser-llm/) - A demonstration of utilizing WebGPU to run local language models directly in browser environments.
+## Programming and Development
 
-## Data, Privacy, and Security
+* [purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html) - A work-in-progress to enhance the Inferno operating system for modern hardware compatibility. [Comments](https://lobste.rs/s/ogd44u/purgatorio_wip_64_bit_port_inferno)
 
-* [Despite Breach and Lawsuits, Tea Dating App Surges in Popularity](https://yro.slashdot.org/story/25/08/02/2334243/despite-breach-and-lawsuits-tea-dating-app-surges-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How a dating app grew amidst security controversies and legal disputes.
+* [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek) - A new oscilloscope software with a Vim-inspired interface for enhanced usability. [Comments](https://news.ycombinator.com/item?id=44772997)
 
-* [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - Community discussion on effective techniques for preserving personal data.
+## Data and Algorithms
 
-* [Hiding secret codes in light protects against fake videos](https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos) - Innovative use of light-based codes to authenticate digital content against forgeries.
+* [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie) - Achieving high data compression for linguistic applications using a trie structure. [Comments](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension)
 
-* [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - Discovery of hazardous biological formations near nuclear facilities raises environmental safety concerns.
-
-## Innovation and Unusual Discoveries
-
-* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - A fascinating exploration into the optical properties of peacock feathers and their potential to emit coherent laser-like light.
-
-* [Modern Tattooers Meet Their Ancient Match with the Ice Mummies of Siberia](https://soylentnews.org/article.pl?sid=25/08/01/1517221&amp;from=rss) - How preserved tattoos on Siberian mummies influence modern tattoo artistry.
-
-* [Four Radioactive Wasp Nests Found Near US Nuclear Storage Site](https://hardware.slashdot.org/story/25/08/02/1848200/four-radioactive-wasp-nests-found-near-us-nuclear-storage-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Stunning discovery of radioactive wasp nests posing environmental and health challenges.
-
-## Environment and Energy
-
-* [Early Universe's 'Little Red Dots' May Be Black Hole Stars](https://science.slashdot.org/story/25/08/02/0516214/early-universes-little-red-dots-may-be-black-hole-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New interpretations of cosmic phenomena suggest previously unknown stellar formations.
-
-* [Peak Energy Ships America's First Grid-Scale Sodium-Ion Battery](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A pivotal moment for energy storage solutions with the deployment of sodium-ion technology.
-
-* [Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff](https://hardware.slashdot.org/story/25/08/01/2313250/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Geographic research identifying solar development areas maximizing climatic and economic impact.
+* [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/) - Crafting a minimalistic virtual machine for arithmetic operations with a focus on bytecode parsing. [Comments](https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser)
 
 ---
 
@@ -71,6 +55,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-03, 02:52:09](https://news.ycombinator.com/item?id=44773690) - [Parsing Without ASTs and Optimizing with Sea of Nodes [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
+* [2025-08-03, 01:43:00](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fiverr Ad Mocks Vibe Coding - with a Singing Overripe Avocado](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-03, 01:22:00](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss) - [Hackers Steal Driver&apos;s Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss)
 * [2025-08-03, 00:36:00](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 00:29:22](https://news.ycombinator.com/item?id=44772997) - [Show HN: Voltpeek – Vim-inspired oscilloscope software](https://github.com/schuyler4/voltpeek)
 * [2025-08-03, 00:12:15](https://news.ycombinator.com/item?id=44772917) - [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
@@ -122,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 03:30:00](https://developers.slashdot.org/story/25/08/01/2237220/anthropic-revokes-openais-access-to-claude-over-terms-of-service-violation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Revokes OpenAI&apos;s Access To Claude Over Terms of Service Violation](https://developers.slashdot.org/story/25/08/01/2237220/anthropic-revokes-openais-access-to-claude-over-terms-of-service-violation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 02:02:00](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Peak Energy Ships America&apos;s First Grid-Scale Sodium-Ion Battery](https://hardware.slashdot.org/story/25/08/01/2120225/peak-energy-ships-americas-first-grid-scale-sodium-ion-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 01:37:00](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss) - [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss)
-* [2025-08-02, 01:25:00](https://tech.slashdot.org/story/25/08/01/2242247/auroras-self-driving-trucks-are-now-driving-at-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Aurora&apos;s Self-Driving Trucks Are Now Driving At Night](https://tech.slashdot.org/story/25/08/01/2242247/auroras-self-driving-trucks-are-now-driving-at-night?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 00:22:14](https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for) - [candyfloss: an ergonomic python library for running video pipelines](https://git.hella.cheap/bob/candyfloss)
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:52:00](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss) - [Intel Confirms It Will Dramatically Cut Its Workforce By The End Of 2025](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss)
@@ -144,13 +130,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
-* [2025-07-31, 14:49:07](https://news.ycombinator.com/item?id=44746270) - [Speed up suspend/resume for FreeBSD](https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html)
 * [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Ongoing Lean formalisation of the proof of Fermat&apos;s Last Theorem](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 11:45:00](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss) - [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss)
-* [2025-07-31, 08:00:19](https://news.ycombinator.com/item?id=44743432) - [Double-slit experiment holds up when stripped to its quantum essentials](https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728)
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss)
+* [2025-07-31, 04:43:26](https://news.ycombinator.com/item?id=44742373) - [Super-resolution of Sentinel-2 images (10M –&gt; 5M)](https://github.com/Topping1/L1BSR-GUI)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
 * [2025-07-31, 00:23:34](https://news.ycombinator.com/item?id=44741078) - [Remote hosting for your telescope](https://www.sierra-remote.com/)
+* [2025-07-30, 21:59:23](https://news.ycombinator.com/item?id=44739998) - [Neural networks that learn non-linearity without activation functions [pdf]](https://www.tahabouhsine.com/nmn/assets/deep_learning_two_point_o_point_one.pdf)
 * [2025-07-30, 21:32:00](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - [OpenAI’s ChatGPT Agent Casually Clicks Through “I am not a robot” Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss)
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - [NASA’s Webb Finds Possible &apos;Direct Collapse&apos; Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
@@ -158,6 +144,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-07-30, 14:09:40](https://news.ycombinator.com/item?id=44734450) - [Mezzano, an operating system written in Common Lisp](https://github.com/froggey/Mezzano)
 * [2025-07-30, 11:57:00](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss) - [EU-US Draft 15Pc Tariff Agreement Appears To Include Pharma, Chips](https://soylentnews.org/article.pl?sid=25/07/28/1538201&amp;from=rss)
 * [2025-07-30, 07:13:00](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss) - [China Advances Toward Tech Independence With New Homegrown 6nm Gaming And AI GPUs](https://soylentnews.org/article.pl?sid=25/07/28/1533222&amp;from=rss)
-* [2025-07-30, 05:29:05](https://news.ycombinator.com/item?id=44731116) - [How I do support and community](https://pketh.org/support-community.html)
 * [2025-07-30, 02:53:10](https://news.ycombinator.com/item?id=44730544) - [Online Collection of Keygen Music](https://keygenmusic.tk)
 * [2025-07-30, 02:32:00](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss) - [Nasa May Lose Close To 4,000 Employees After Latest Deferred Resignation Round](https://soylentnews.org/article.pl?sid=25/07/28/1524227&amp;from=rss)
