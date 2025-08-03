@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Artificial Intelligence and Technology Usage
 
-* [5 Million People Tried Microsoft's AI Coding Tool 'GitHub Copilot' in the Last 3 Months](https://developers.slashdot.org/story/25/08/03/037202/5-million-people-tried-microsofts-ai-coding-tool-github-copilot-in-the-last-3-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Toughest Programming Question for High School Students on This Year&apos;s CS Exam: Arrays](https://developers.slashdot.org/story/25/08/03/0351204/the-toughest-programming-question-for-high-school-students-on-this-years-cs-exam-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing challenge for high school students tackling computer science concepts of arrays.
 
-* [Linux Kernel 6.16 Lands With 38 Million Lines of Code](https://soylentnews.org/article.pl?sid=25/08/02/1242221&from=rss)
+* [China&apos;s Government Pushes Real-World AI Use to Jumpstart Its Adoption](https://yro.slashdot.org/story/25/08/02/0243223/chinas-government-pushes-real-world-ai-use-to-jumpstart-its-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at China's initiative to embed AI into practical applications and speed up its adoption.
 
-* [Seed7 – The Extensible Programming Language](https://seed7.net)
+* [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exploration of the ethical and functional implications of simulating human-like traits in AI.
 
-* [How To Make (almost) Anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
+* [America&apos;s Los Alamos Lab Is Now Investing Heavily In AI For Science](https://yro.slashdot.org/story/25/08/03/0447207/americas-los-alamos-lab-is-now-investing-heavily-in-ai-for-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into how AI might revolutionize scientific research at one of the USA's top labs.
 
-* [Injecting Java from Native Libraries on Android](https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html)
+* [5 Million People Tried Microsoft&apos;s AI Coding Tool &apos;GitHub Copilot&apos; in the Last 3 Months](https://developers.slashdot.org/story/25/08/03/037202/5-million-people-tried-microsofts-ai-coding-tool-github-copilot-in-the-last-3-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A staggering adoption rate indicates developers' interest in AI-assisted coding.
 
 ## Gaming and Entertainment
 
-* [Nintendo Has Sold Over 6 Million Switch 2s, But Still Can't Keep Up With Demand](https://games.slashdot.org/story/25/08/03/0357231/nintendo-has-sold-over-6-million-switch-2s-but-still-cant-keep-up-with-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Nintendo Has Sold Over 6 Million Switch 2s, But Still Can&apos;t Keep Up With Demand](https://games.slashdot.org/story/25/08/03/0357231/nintendo-has-sold-over-6-million-switch-2s-but-still-cant-keep-up-with-demand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - High demand continues to outpace supply for Nintendo's latest gaming console.
 
-* [Itch.io Starts Returning the Free Games It Removed From Its Store](https://games.slashdot.org/story/25/08/03/0537212/itchio-starts-returning-the-free-games-it-removed-from-its-store?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Itch.io Starts Returning the Free Games It Removed From Its Store](https://games.slashdot.org/story/25/08/03/0537212/itchio-starts-returning-the-free-games-it-removed-from-its-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Developers and gamers welcome a return of free games on this indie gaming platform.
 
-## Society and Culture
+## Hackers and Cybersecurity
 
-* [Did Craigslist Really Kill the Newspaper Industry?](https://news.slashdot.org/story/25/08/03/0611232/did-craigslist-really-kill-the-newspaper-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Hackers Steal Driver&apos;s Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss) - A concerning data breach targeting a female-focused app.
 
-* [Hackers Steal Driver's Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&from=rss)
+* [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&amp;from=rss) - A notable conference for hackers and cybersecurity enthusiasts returns.
 
-* [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
+## Programming and Development
 
-## Innovative and Quirky
+* [cchistory: Tracking Claude Code System Prompt and Tool Changes](https://mariozechner.at/posts/2025-08-03-cchistory/) - A detailed look into tracking updates for Claude AI's coding tools.
 
-* [Domino's Deploys Boston Dynamics' Robot Dog To Deliver Pizza And Fend Off Seagulls On Beaches](https://soylentnews.org/article.pl?sid=25/08/02/0446236&from=rss)
+* [Why Semantic HTML Still Matters](https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/) - Highlights the importance of semantic practices in modern web development.
 
-* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&from=rss)
+* [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html) - A celebration of creative, complex, and obfuscated coding challenges in C.
 
-* [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&from=rss)
+* [A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html) - Nostalgia meets technical prowess in this rare computing setup exploration.
 
-## AI and Ethical Considerations
+## Science and Environment
 
-* [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133) - An insight into the tension between privatization and conservation in U.S. national parks.
 
-* [America's Los Alamos Lab Is Now Investing Heavily In AI For Science](https://yro.slashdot.org/story/25/08/03/0447207/americas-los-alamos-lab-is-now-investing-heavily-in-ai-for-science?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - A fascinating discovery of laser emission phenomena in nature.
 
-* [AI Tools Gave False Information About Tsunami Advisories](https://slashdot.org/story/25/08/02/1645254/ai-tools-gave-false-information-about-tsunami-advisories?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Four Radioactive Wasp Nests Found Near US Nuclear Storage Site](https://hardware.slashdot.org/story/25/08/02/1848200/four-radioactive-wasp-nests-found-near-us-nuclear-storage-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A troubling find near a sensitive nuclear site showcases unexpected wildlife risks.
+
+## Ethics and Society
+
+* [Did Craigslist Really Kill the Newspaper Industry?](https://news.slashdot.org/story/25/08/03/0611232/did-craigslist-really-kill-the-newspaper-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigates Craigslist's role in transforming the traditional classifieds market.
+
+* [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem) - Examines potential societal shifts if AI fills emotional and social voids.
 
 ---
 
@@ -67,6 +73,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-03, 18:38:00](https://developers.slashdot.org/story/25/08/03/0351204/the-toughest-programming-question-for-high-school-students-on-this-years-cs-exam-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Toughest Programming Question for High School Students on This Year&apos;s CS Exam:  Arrays](https://developers.slashdot.org/story/25/08/03/0351204/the-toughest-programming-question-for-high-school-students-on-this-years-cs-exam-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-03, 18:25:01](https://lobste.rs/s/vxws0m/sub_title) - [Sub/Title](https://subtitle.wackyneighbor.com)
+* [2025-08-03, 17:17:05](https://news.ycombinator.com/item?id=44778087) - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
+* [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+* [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN Report Finds UN Reports Are Not Widely Read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
+* [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Anthropic: Persona Vectors](https://www.anthropic.com/research/persona-vectors)
+* [2025-08-03, 16:34:00](https://yro.slashdot.org/story/25/08/02/0243223/chinas-government-pushes-real-world-ai-use-to-jumpstart-its-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Government Pushes Real-World AI Use to Jumpstart Its Adoption](https://yro.slashdot.org/story/25/08/02/0243223/chinas-government-pushes-real-world-ai-use-to-jumpstart-its-adoption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/02/1248204&amp;from=rss) - [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&amp;from=rss)
 * [2025-08-03, 15:34:00](https://developers.slashdot.org/story/25/08/03/037202/5-million-people-tried-microsofts-ai-coding-tool-github-copilot-in-the-last-3-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [5 Million People Tried Microsoft&apos;s AI Coding Tool &apos;GitHub Copilot&apos; in the Last 3 Months](https://developers.slashdot.org/story/25/08/03/037202/5-million-people-tried-microsofts-ai-coding-tool-github-copilot-in-the-last-3-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 14:34:00](https://games.slashdot.org/story/25/08/03/0357231/nintendo-has-sold-over-6-million-switch-2s-but-still-cant-keep-up-with-demand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Has Sold Over 6 Million Switch 2s, But Still Can&apos;t Keep Up With Demand](https://games.slashdot.org/story/25/08/03/0357231/nintendo-has-sold-over-6-million-switch-2s-but-still-cant-keep-up-with-demand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -79,6 +92,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 11:20:14](https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on) - [Injecting Java from native libraries on Android](https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html)
 * [2025-08-03, 10:50:00](https://soylentnews.org/article.pl?sid=25/08/02/1242221&amp;from=rss) - [Linux Kernel 6.16 Lands With 38 Million Lines of Code](https://soylentnews.org/article.pl?sid=25/08/02/1242221&amp;from=rss)
 * [2025-08-03, 10:32:51](https://news.ycombinator.com/item?id=44775563) - [If you&apos;re remote, ramble](https://stephango.com/ramblings)
+* [2025-08-03, 10:07:44](https://news.ycombinator.com/item?id=44775485) - [EHRs – The Hidden Distraction in Your Doctor&apos;s Office](https://spectrum.ieee.org/electronic-health-records)
 * [2025-08-03, 07:42:00](https://games.slashdot.org/story/25/08/03/0537212/itchio-starts-returning-the-free-games-it-removed-from-its-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Itch.io Starts Returning the Free Games It Removed From Its Store](https://games.slashdot.org/story/25/08/03/0537212/itchio-starts-returning-the-free-games-it-removed-from-its-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 07:28:54](https://lobste.rs/s/hlj66l/type_safety_back_forth) - [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
@@ -91,11 +105,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 04:49:00](https://yro.slashdot.org/story/25/08/03/0447207/americas-los-alamos-lab-is-now-investing-heavily-in-ai-for-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Los Alamos Lab Is Now Investing Heavily In AI For Science](https://yro.slashdot.org/story/25/08/03/0447207/americas-los-alamos-lab-is-now-investing-heavily-in-ai-for-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 04:11:55](https://news.ycombinator.com/item?id=44774027) - [Seed7 – The Extensible Programming Language](https://seed7.net)
-* [2025-08-03, 03:43:42](https://news.ycombinator.com/item?id=44773919) - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
 * [2025-08-03, 01:43:00](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fiverr Ad Mocks Vibe Coding - with a Singing Overripe Avocado](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 01:22:00](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss) - [Hackers Steal Driver&apos;s Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss)
 * [2025-08-03, 00:36:00](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-03, 00:12:15](https://news.ycombinator.com/item?id=44772917) - [C++26 Reflections adventures and compile-time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
 * [2025-08-02, 23:36:00](https://yro.slashdot.org/story/25/08/02/2334243/despite-breach-and-lawsuits-tea-dating-app-surges-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Despite Breach and Lawsuits, Tea Dating App Surges in Popularity](https://yro.slashdot.org/story/25/08/02/2334243/despite-breach-and-lawsuits-tea-dating-app-surges-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 22:49:11](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related)
 * [2025-08-02, 22:26:47](https://news.ycombinator.com/item?id=44772177) - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
@@ -111,15 +123,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 16:40:51](https://news.ycombinator.com/item?id=44769039) - [Telo MT1](https://www.telotrucks.com/)
 * [2025-08-02, 16:34:00](https://science.slashdot.org/story/25/08/02/0516214/early-universes-little-red-dots-may-be-black-hole-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Early Universe&apos;s &apos;Little Red Dots&apos; May Be Black Hole Stars](https://science.slashdot.org/story/25/08/02/0516214/early-universes-little-red-dots-may-be-black-hole-stars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 15:53:00](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss) - [Microsoft Bans LibreOffice Developer&apos;s Account Without Warning, Rejects Appeal](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss)
-* [2025-08-02, 15:34:00](https://news.slashdot.org/story/25/08/02/030232/facing-us-chip-restrictions-china-pitches-global-cooperation-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Facing US Chip Restrictions, China Pitches Global Cooperation on AI](https://news.slashdot.org/story/25/08/02/030232/facing-us-chip-restrictions-china-pitches-global-cooperation-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
-* [2025-08-02, 14:34:00](https://science.slashdot.org/story/25/08/02/0426200/for-sale-a-1990-airstream-trailernasa-command-vehicle-for-space-shuttle-landings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [For Sale: a 1990 Airstream Trailer/NASA Command Vehicle for Space Shuttle Landings](https://science.slashdot.org/story/25/08/02/0426200/for-sale-a-1990-airstream-trailernasa-command-vehicle-for-space-shuttle-landings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-02, 13:43:10](https://news.ycombinator.com/item?id=44767555) - [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
 * [2025-08-02, 13:27:25](https://news.ycombinator.com/item?id=44767433) - [Anandtech.com now redirects to its forums](https://forums.anandtech.com/)
 * [2025-08-02, 13:12:39](https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from) - [Executing arbitrary Python code from a comment](https://www.hacktron.ai/blog/posts/python-zip-confusion/)
 * [2025-08-02, 12:34:19](https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
 * [2025-08-02, 12:12:27](https://news.ycombinator.com/item?id=44766962) - [At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [2025-08-02, 11:34:39](https://news.ycombinator.com/item?id=44766758) - [A.I. researchers are negotiating $250M pay packages](https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html)
 * [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss)
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
@@ -132,27 +140,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 00:22:14](https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for) - [candyfloss: an ergonomic python library for running video pipelines](https://git.hella.cheap/bob/candyfloss)
 * [2025-08-01, 20:52:00](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss) - [Intel Confirms It Will Dramatically Cut Its Workforce By The End Of 2025](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It&apos;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
-* [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 16:12:00](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss) - [Trump Caving on Nvidia H20 Export Curbs May Disrupt His Bigger Trade War](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss)
 * [2025-08-01, 11:24:00](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss) - [From Apple to Greek Defense Start-up](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss)
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss)
 * [2025-08-01, 01:55:00](https://soylentnews.org/article.pl?sid=25/07/30/1438215&amp;from=rss) - [Anthropic Unveils New Rate Limits to Curb Claude Code Power Users](https://soylentnews.org/article.pl?sid=25/07/30/1438215&amp;from=rss)
 * [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss)
+* [2025-07-31, 17:53:54](https://news.ycombinator.com/item?id=44748226) - [Watching the World in a Dark Room: The Early Modern Camera Obscura](https://publicdomainreview.org/essay/the-early-modern-camera-obscura)
+* [2025-07-31, 17:15:25](https://news.ycombinator.com/item?id=44747786) - [Show HN: My Bytecode Optimizer Beats Copilot by 2X](https://deviantabstraction.com/2025/07/29/how-my-bytecode-optimizer-beats-copilot-by-2x/)
 * [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss)
 * [2025-07-31, 15:25:49](https://news.ycombinator.com/item?id=44746621) - [6 weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-07-31, 15:21:31](https://news.ycombinator.com/item?id=44746583) - [PixiEditor 2.0 – A FOSS universal 2D graphics editor](https://pixieditor.net/blog/2025/07/30/20-release/)
 * [2025-07-31, 14:28:58](https://news.ycombinator.com/item?id=44746062) - [Show HN: Implementation of DDPM (Denoising Diffusion Probabilistic Models)](https://github.com/alenMangattu/DDPM-Denoising-Diffusion-Probabilistic-Models)
-* [2025-07-31, 13:59:41](https://news.ycombinator.com/item?id=44745727) - [Ongoing Lean formalisation of the proof of Fermat&apos;s Last Theorem](https://github.com/ImperialCollegeLondon/FLT)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 11:45:00](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss) - [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss)
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
-* [2025-07-30, 22:34:47](https://news.ycombinator.com/item?id=44740325) - [The Ski Rental Problem](https://lesves.github.io/articles/ski-rental/)
 * [2025-07-30, 21:54:00](https://news.ycombinator.com/item?id=44739944) - [Micron rolls out 276-layer SSD trio for speed, scale, and stability](https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/)
-* [2025-07-30, 21:38:24](https://news.ycombinator.com/item?id=44739813) - [Flipping Bits in the World](https://opuslabs.substack.com/p/how-to-flip-bits-in-the-world)
 * [2025-07-30, 21:32:00](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss) - [OpenAI’s ChatGPT Agent Casually Clicks Through “I am not a robot” Verification Test](https://soylentnews.org/article.pl?sid=25/07/29/1652215&amp;from=rss)
+* [2025-07-30, 19:02:19](https://news.ycombinator.com/item?id=44738228) - [A game that can be played riding the New York Subway (1980)](https://www.gricer.com/subway_game/subway_game.html)
 * [2025-07-30, 18:20:03](https://news.ycombinator.com/item?id=44737738) - [Flourishing chemosynthetic life at the greatest depths of hadal trenches](https://www.nature.com/articles/s41586-025-09317-z)
-* [2025-07-30, 17:47:12](https://news.ycombinator.com/item?id=44737296) - [Descent of Inanna into the Underworld](https://en.wikipedia.org/wiki/Descent_of_Inanna_into_the_Underworld)
 * [2025-07-30, 17:14:04](https://news.ycombinator.com/item?id=44736854) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 16:48:00](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss) - [NASA’s Webb Finds Possible &apos;Direct Collapse&apos; Black Hole](https://soylentnews.org/article.pl?sid=25/07/29/0611252&amp;from=rss)
 * [2025-07-30, 16:08:02](https://news.ycombinator.com/item?id=44736025) - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
