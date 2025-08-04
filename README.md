@@ -1,30 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Advancements and Challenges in Artificial Intelligence
 
-* [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref) - Insights into the challenges and methods of parsing complex PDF structures. [Comments](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf)
+* [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) - This article explores methods to assess AI's proficiency in executing complex, lengthy tasks and outlines implications for future AI development. [Comments](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks)
 
-* [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints) - A unique tool that challenges boundaries by parsing TypeScript types entirely within the same language. [Comments](https://news.ycombinator.com/item?id=44781523)
+* [Disney Struggles With How to Use AI - While Retaining Copyrights and Avoiding Legal Issues](https://games.slashdot.org/story/25/08/04/0432213/disney-struggles-with-how-to-use-ai---while-retaining-copyrights-and-avoiding-legal-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Disney faces challenges in balancing AI innovation with legal and copyright considerations. [Comments](https://games.slashdot.org/story/25/08/04/0432213/disney-struggles-with-how-to-use-ai---while-retaining-copyrights-and-avoiding-legal-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Q Programming Language](https://git.urbach.dev/cli/q) - Introducing Q, a minimalist programming language designed with efficiency in mind. [Comments](https://lobste.rs/s/t7osqo/q_programming_language)
+* [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss) - A look at Microsoft's research into industries most likely to experience job displacement due to AI technologies. [Comments](https://soylentnews.org/article.pl?sid=25/08/01/0118232&from=rss)
 
-* [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos) - Explore an impressively fast tool for analyzing disk usage on macOS. [Comments](https://lobste.rs/s/ddphh5/maybe_fastest_disk_usage_program_on_macos)
+## Programming and Development Innovations
 
-* [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/) - Revisiting an intriguing approach to enhance programming learning experiences. [Comments](https://news.ycombinator.com/item?id=44780552)
+* [a parser for typescript types, written in typescript types](https://github.com/easrng/tsints) - An experimental TypeScript type parser created using TypeScript types showcases unique metaprogramming capabilities. [Comments](https://lobste.rs/s/gcrajk/parser_for_typescript_types_written)
 
-## Industry Trends and Economic Insights
+* [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref) - A detailed guide to understanding and handling the complexities of PDF parsing. [Comments](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf)
 
-* [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25) - An analysis of economic pressures disproportionately impacting low-wage earners. [Comments](https://news.ycombinator.com/item?id=44781189)
+* [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/) - CriTcl simplifies integrating C functions into Tcl by generating and using compiled C code at runtime. [Comments](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl)
 
-* ['A Black Hole': America's New Graduates Discover a Dismal Job Market](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring the bleak employment landscape for recent graduates. [Comments](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Technological Milestones and Discoveries
 
-## Cultural and Historical Perspectives
+* [N6 (Hexanitrogen) Synthesized for the First Time - Twice As Energy Dense As TNT](https://science.slashdot.org/story/25/08/03/2042230/n6-hexanitrogen-synthesized-for-the-first-time---twice-as-energy-dense-as-tnt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists have synthesized hexanitrogen, a high-energy compound with potential applications in explosives and fuel. [Comments](https://science.slashdot.org/story/25/08/03/2042230/n6-hexanitrogen-synthesized-for-the-first-time---twice-as-energy-dense-as-tnt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [How Napster Inspired a Generation of Rule-Breaking Entrepreneurs](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Tracing Napster's influence on modern tech entrepreneurship. [Comments](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html) - Researchers uncover a novel quantum state at the edge of two exotic materials, potentially advancing quantum computing. [Comments](https://news.ycombinator.com/item?id=44754697)
 
-## Artificial Intelligence and Ethics
+## Society, Economics, and Workforce Challenges
 
-* [Subliminal Learning: Language Models Transmit Behavioral Traits Via Hidden Signals in Data](https://soylentnews.org/article.pl?sid=25/08/02/1318209&from=rss) - Investigating hidden data behaviors within large language models. [Comments](https://soylentnews.org/article.pl?sid=25/08/02/1318209&from=rss)
+* [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25) - An analysis of economic disparities reveals wage stagnation affecting the most vulnerable US workers. [Comments](https://news.ycombinator.com/item?id=44781189)
+
+* [A Black Hole': America's New Graduates Discover a Dismal Job Market](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into the challenges recent graduates face in finding employment amidst economic uncertainties. [Comments](https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Environmental and Energy Developments
+
+* [Shrinking freshwater availability increasing land contribution to sea level rise](https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming) - A global study reveals the alarming impact of freshwater depletion on sea level rise and land subsidence. [Comments](https://news.ycombinator.com/item?id=44779178)
+
+* [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&from=rss) - Alarm over accelerating loss of freshwater resources amid climate change and overextraction. [Comments](https://soylentnews.org/article.pl?sid=25/07/30/0127251&from=rss)
+
+## Cultural Impact and Historical Insights
+
+* [How Napster Inspired a Generation of Rule-Breaking Entrepreneurs](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining Napster's influence on 'rule-breaking' innovation and entrepreneurship. [Comments](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Modern Tattooers Meet Their Ancient Match with the Ice Mummies of Siberia](https://soylentnews.org/article.pl?sid=25/08/01/1517221&from=rss) - Comparing contemporary tattooing techniques to intricate body art discovered on ancient Siberian mummies. [Comments](https://soylentnews.org/article.pl?sid=25/08/01/1517221&from=rss)
 
 ---
 
@@ -51,6 +65,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-04, 06:52:49](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+* [2025-08-04, 05:47:00](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss) - [Kali Linux Can Now Run in Apple Containers on macOS Systems](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss)
+* [2025-08-04, 04:34:00](https://games.slashdot.org/story/25/08/04/0432213/disney-struggles-with-how-to-use-ai---while-retaining-copyrights-and-avoiding-legal-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Struggles With How to Use AI - While Retaining Copyrights and Avoiding Legal Issues](https://games.slashdot.org/story/25/08/04/0432213/disney-struggles-with-how-to-use-ai---while-retaining-copyrights-and-avoiding-legal-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-04, 03:08:12](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-04, 02:53:51](https://lobste.rs/s/t7osqo/q_programming_language) - [The Q Programming Language](https://git.urbach.dev/cli/q)
 * [2025-08-04, 02:21:00](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Napster Inspired a Generation of Rule-Breaking Entrepreneurs](https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -67,7 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 23:42:00](https://tech.slashdot.org/story/25/08/03/2339217/hyundais-electric-car-sales-surged-50-over-july-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hyundai&apos;s Electric Car Sales Surged 50% Over July 2024](https://tech.slashdot.org/story/25/08/03/2339217/hyundais-electric-car-sales-surged-50-over-july-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 23:12:36](https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist) - [Render your Jupyter notebooks in OpenGist](https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist)
 * [2025-08-03, 22:57:22](https://news.ycombinator.com/item?id=44780552) - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
-* [2025-08-03, 22:55:28](https://news.ycombinator.com/item?id=44780544) - [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 * [2025-08-03, 22:55:05](https://news.ycombinator.com/item?id=44780540) - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
 * [2025-08-03, 22:50:53](https://news.ycombinator.com/item?id=44780515) - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
 * [2025-08-03, 22:27:57](https://news.ycombinator.com/item?id=44780377) - [Human speech may have a universal transmission rate (2019)](https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second)
@@ -75,7 +91,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 22:19:00](https://developers.slashdot.org/story/25/08/03/2216259/winners-announced-in-2025s-international-obfuscated-c-code-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Winners Announced in 2025&apos;s &apos;International Obfuscated C Code Competition&apos;](https://developers.slashdot.org/story/25/08/03/2216259/winners-announced-in-2025s-international-obfuscated-c-code-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 21:32:40](https://lobste.rs/s/avqqha/governance_gnome) - [Governance in GNOME](https://www.bassi.io)
 * [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
-* [2025-08-03, 21:09:02](https://news.ycombinator.com/item?id=44779839) - [\&quot;If you can rack it, you can run UniFi OS\&quot; Ubiquiti self-hosted UniFi OS release](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
+* [2025-08-03, 21:09:02](https://news.ycombinator.com/item?id=44779839) - [Everything to know about UniFi OS Server](https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/)
 * [2025-08-03, 20:55:00](https://science.slashdot.org/story/25/08/03/2042230/n6-hexanitrogen-synthesized-for-the-first-time---twice-as-energy-dense-as-tnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [N6 (Hexanitrogen) Synthesized for the First Time - Twice As Energy Dense As TNT](https://science.slashdot.org/story/25/08/03/2042230/n6-hexanitrogen-synthesized-for-the-first-time---twice-as-energy-dense-as-tnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
 * [2025-08-03, 20:21:54](https://news.ycombinator.com/item?id=44779428) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
@@ -85,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 19:16:26](https://lobste.rs/s/7k3hlk/future_software_is_small) - [The Future Of Software Is Small](https://www.aparker.io/post/3lvjepuyf4q2w)
 * [2025-08-03, 19:16:18](https://news.ycombinator.com/item?id=44778936) - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
 * [2025-08-03, 18:38:00](https://developers.slashdot.org/story/25/08/03/0351204/the-toughest-programming-question-for-high-school-students-on-this-years-cs-exam-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Toughest Programming Question for High School Students on This Year&apos;s CS Exam:  Arrays](https://developers.slashdot.org/story/25/08/03/0351204/the-toughest-programming-question-for-high-school-students-on-this-years-cs-exam-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-03, 17:00:32](https://news.ycombinator.com/item?id=44777965) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-08-03, 16:49:08](https://news.ycombinator.com/item?id=44777869) - [UN report finds UN reports are not widely read](https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/)
 * [2025-08-03, 16:38:53](https://news.ycombinator.com/item?id=44777766) - [How Python grew from a language to a community](https://thenewstack.io/how-python-grew-from-a-language-to-a-community/)
 * [2025-08-03, 16:38:06](https://news.ycombinator.com/item?id=44777760) - [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
@@ -114,8 +129,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-03, 04:34:36](https://news.ycombinator.com/item?id=44774104) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 01:43:00](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fiverr Ad Mocks Vibe Coding - with a Singing Overripe Avocado](https://developers.slashdot.org/story/25/08/03/0141234/fiverr-ad-mocks-vibe-coding---with-a-singing-overripe-avocado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-03, 01:22:00](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss) - [Hackers Steal Driver&apos;s Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss)
-* [2025-08-03, 00:36:00](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Would AI Perform Better If We Simulated Guilt?](https://slashdot.org/story/25/08/02/1921226/would-ai-perform-better-if-we-simulated-guilt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-02, 22:49:11](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related)
+* [2025-08-02, 21:39:42](https://news.ycombinator.com/item?id=44771808) - [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 * [2025-08-02, 20:35:00](https://soylentnews.org/article.pl?sid=25/08/01/1517221&amp;from=rss) - [Modern Tattooers Meet Their Ancient Match with the Ice Mummies of Siberia](https://soylentnews.org/article.pl?sid=25/08/01/1517221&amp;from=rss)
 * [2025-08-02, 19:22:58](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 15:53:00](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss) - [Microsoft Bans LibreOffice Developer&apos;s Account Without Warning, Rejects Appeal](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss)
@@ -123,22 +138,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 13:38:14](https://news.ycombinator.com/item?id=44767508) - [Efficiently Generating a Number in a Range (2018)](https://www.pcg-random.org/posts/bounded-rands.html)
 * [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss)
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer_1996) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
-* [2025-08-02, 08:42:31](https://news.ycombinator.com/item?id=44765807) - [System-Wide Safety Project](https://www.nasa.gov/directorates/armd/aosp/sws/)
 * [2025-08-02, 08:24:29](https://news.ycombinator.com/item?id=44765730) - [Welcome to url.town, population 465](https://url.town/)
 * [2025-08-02, 07:39:42](https://news.ycombinator.com/item?id=44765562) - [Life, Work, Death and the Peasant: Family Formation](https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/)
 * [2025-08-02, 06:20:00](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss)
-* [2025-08-02, 01:43:14](https://news.ycombinator.com/item?id=44764261) - [Cube: Packing a 5x5x5 cube with Y-pentominoes](https://kociemba.org/themen/125puzzle/index.html)
+* [2025-08-02, 03:31:50](https://news.ycombinator.com/item?id=44764696) - [A dedicated skin-to-brain circuit for cool sensation in mice](https://www.sciencedaily.com/releases/2025/07/250730030354.htm)
 * [2025-08-02, 01:37:00](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss) - [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss)
 * [2025-08-01, 20:56:28](https://news.ycombinator.com/item?id=44762397) - [Show HN: Schematra – Sinatra-inspired minimal web framework for Chicken Scheme](https://github.com/rolandoam/schematra)
 * [2025-08-01, 20:52:00](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss) - [Intel Confirms It Will Dramatically Cut Its Workforce By The End Of 2025](https://soylentnews.org/article.pl?sid=25/07/30/1511218&amp;from=rss)
-* [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It&apos;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 * [2025-08-01, 16:12:00](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss) - [Trump Caving on Nvidia H20 Export Curbs May Disrupt His Bigger Trade War](https://soylentnews.org/politics/article.pl?sid=25/07/30/158210&amp;from=rss)
 * [2025-08-01, 11:24:00](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss) - [From Apple to Greek Defense Start-up](https://soylentnews.org/article.pl?sid=25/07/30/1457215&amp;from=rss)
+* [2025-08-01, 09:42:00](https://news.ycombinator.com/item?id=44754697) - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 * [2025-08-01, 06:41:00](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss) - [X37B is Set to Launch and Test Quantum Navigation Technology](https://soylentnews.org/article.pl?sid=25/07/30/1450258&amp;from=rss)
 * [2025-08-01, 01:55:00](https://soylentnews.org/article.pl?sid=25/07/30/1438215&amp;from=rss) - [Anthropic Unveils New Rate Limits to Curb Claude Code Power Users](https://soylentnews.org/article.pl?sid=25/07/30/1438215&amp;from=rss)
 * [2025-07-31, 21:10:00](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss) - [Meta Pirated and Seeded Porn for Years to Train AI, Lawsuit Says](https://soylentnews.org/article.pl?sid=25/07/30/0143216&amp;from=rss)
 * [2025-07-31, 16:29:00](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss) - [Why We Need a Right Not to be Manipulated](https://soylentnews.org/article.pl?sid=25/07/30/0133228&amp;from=rss)
 * [2025-07-31, 13:29:40](https://news.ycombinator.com/item?id=44745441) - [2,500-year-old Siberian &apos;ice mummy&apos; had intricate tattoos, imaging reveals](https://www.bbc.com/news/articles/c4gzx0zm68vo)
 * [2025-07-31, 11:45:00](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss) - [We Are Undergoing Unprecedented Loss of Freshwater Across the Planet](https://soylentnews.org/article.pl?sid=25/07/30/0127251&amp;from=rss)
+* [2025-07-31, 08:36:36](https://news.ycombinator.com/item?id=44743631) - [C++: \&quot;model of the hardware\&quot; vs. \&quot;model of the compiler\&quot; (2018)](http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/)
 * [2025-07-31, 07:01:00](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss) - [Manuel Moreale on Why Blogs Matter](https://soylentnews.org/article.pl?sid=25/07/30/0121254&amp;from=rss)
 * [2025-07-31, 02:17:00](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss) - [FreeBSD 15.0’S Installer to Gain Option to Install a Full KDE Plasma Desktop Environment](https://soylentnews.org/article.pl?sid=25/07/30/0113232&amp;from=rss)
