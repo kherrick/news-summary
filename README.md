@@ -1,58 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Developments
+## Artificial Intelligence and Emerging Technologies
 
-* [RIP To the Macintosh HD Hard Drive Icon, 2000-2025](https://hardware.slashdot.org/story/25/08/05/2221223/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The iconic Macintosh HD hard drive icon is being retired after 25 years.
+* [AI and the Democratization of Cybercrime](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss) - Examination of how artificial intelligence makes hacking tools more accessible to cybercriminals. [Comments](https://soylentnews.org/article.pl?sid=25/08/05/0156215&from=rss).
 
-* [Jim Acosta Interviews AI Version of Teenager Killed in Parkland Shooting](https://slashdot.org/story/25/08/05/2235206/jim-acosta-interviews-ai-version-of-teenager-killed-in-parkland-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking yet controversial use of AI recreates a deceased individual for an interview.
+* [Jim Acosta Interviews AI Version of Teenager Killed in Parkland Shooting](https://slashdot.org/story/25/08/05/2235206/jim-acosta-interviews-ai-version-of-teenager-killed-in-parkland-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversial use of AI to simulate conversations with a deceased individual. [Comments](https://slashdot.org/story/25/08/05/2235206/jim-acosta-interviews-ai-version-of-teenager-killed-in-parkland-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [cosmopolitan: build-once run-anywhere c library](https://github.com/jart/cosmopolitan) - An innovative library enabling cross-platform C execution with a single build.
+* [Swedish PM Under Fire For Using AI In Role](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversy over government official's reliance on artificial intelligence. [Comments](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Google's New Genie 3 AI Model Creates Video Game Worlds In Real Time](https://tech.slashdot.org/story/25/08/05/211240/googles-new-genie-3-ai-model-creates-video-game-worlds-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI model by Google revolutionizes real-time gaming world generation.
+* [OpenAI Offers 20 Million User Chats In ChatGPT Lawsuit. NYT Wants 120 Million.](https://yro.slashdot.org/story/25/08/05/2130255/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Coverage of a legal clash between OpenAI and NYT over data use in AI training. [Comments](https://yro.slashdot.org/story/25/08/05/2130255/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Cybersecurity and Privacy
+## Open Source and Technology Innovation
 
-* [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/) - An official guide for countering drones is issued for military personnel.
+* [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS) - A compact, open-source text-to-speech model for CPU-only environments. [Comments](https://news.ycombinator.com/item?id=44807868).
 
-* [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/) - A software tool focuses on privacy by assisting users in removing their personal data.
+* [A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional) - New developments in creating an efficient assembler through functional programming. [Comments](https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using).
 
-* [ChatGPT Users Shocked to Learn Their Chats Were in Google Search Results](https://soylentnews.org/article.pl?sid=25/08/04/0644251&amp;from=rss) - Concerns raised after OpenAI conversations surface in public search results.
+* [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134) - Announcement about archiving Picocrypt, a file encryption tool. [Comments](https://news.ycombinator.com/item?id=44807210).
 
-* [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/) - Insights into identifying sensitive encoded data like JSON and keys.
+* [cosmopolitan: build-once run-anywhere c library](https://github.com/jart/cosmopolitan) - Explore the cross-platform capabilities of the Cosmopolitan library. [Comments](https://lobste.rs/s/lixhpb/cosmopolitan_build_once_run_anywhere_c).
 
-## Software and Development
+## Hardware, Software, and Industry Updates
 
-* [Software Rot](https://permacomputing.net/software_rot/) - A deep dive on how and why software slowly deteriorates over time.
+* [RIP To the Macintosh HD Hard Drive Icon, 2000-2025](https://hardware.slashdot.org/story/25/08/05/2221223/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Looking back on the iconic Macintosh HD hard drive icon as Apple pivots. [Comments](https://hardware.slashdot.org/story/25/08/05/2221223/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html) - Important coding considerations for developers using Go.
+* [Intel Struggles With Key Manufacturing Process For Next PC Chip](https://hardware.slashdot.org/story/25/08/05/2110203/intel-struggles-with-key-manufacturing-process-for-next-pc-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Challenges in Intel's latest chip manufacturing processes. [Comments](https://hardware.slashdot.org/story/25/08/05/2110203/intel-struggles-with-key-manufacturing-process-for-next-pc-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/) - A compact and resource-efficient text-to-speech AI model garners attention.
+* [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/) - A significant tool added to the US Marines' arsenal to counter drone threats. [Comments](https://news.ycombinator.com/item?id=44807154).
 
-* [Rod Burstall: In Memoriam](https://arxiv.org/html/2505.06456v1) - A tribute to Rod Burstall, a significant contributor to computer science.
+* [DRAM Prices Soar as China Eyes Self-Reliance For High-End Chips](https://hardware.slashdot.org/story/25/08/05/1935219/dram-prices-soar-as-china-eyes-self-reliance-for-high-end-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting shifts in the DRAM market as China advances chip production. [Comments](https://hardware.slashdot.org/story/25/08/05/1935219/dram-prices-soar-as-china-eyes-self-reliance-for-high-end-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Science, Health, and Technology
+## Miscellaneous and Human Interest
 
-* [Ozempic shows anti-aging effects in trial](https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years) - Clinical trials show promising anti-aging results for Ozempic.
+* [Omarchy is on the move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=) - A reflective piece on organizational changes. [Comments](https://lobste.rs/s/gtwfjj/omarchy_is_on_move).
 
-* [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging) - State-of-the-art imaging captures extremely rapid events.
+* [Have you ever regretted open-sourcing something?](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing) - A discussion of challenges in the open-source community. [Comments](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing).
 
-* [Solid-State Batteries Charge in 3 Minutes: Why Aren&apos;t They in Your Phones and Cars Yet?](https://soylentnews.org/article.pl?sid=25/08/03/2136209&amp;from=rss) - Explores the hurdles keeping solid-state batteries from mass adoption.
+* [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html) - Programming insights into the pitfalls of using Go's struct embedding. [Comments](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding).
 
-* [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - A surprising scientific discovery about nature's optical properties.
-
-## Economic and Market Updates
-
-* [DRAM Prices Soar as China Eyes Self-Reliance For High-End Chips](https://hardware.slashdot.org/story/25/08/05/1935219/dram-prices-soar-as-china-eyes-self-reliance-for-high-end-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The global memory chip market reacts to China's increasing self-dependency.
-
-* [US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief](https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html) - A geopolitical move with significance for the chip manufacturing domain.
-
-* [China Forms AI Alliances To Cut U.S. Tech Reliance](https://soylentnews.org/article.pl?sid=25/08/03/2140229&amp;from=rss) - China's initiative to minimize dependency on U.S. technology gains urgency.
-
-## Hackers and Security Incidents
-
-* [Hacker Plants Three Strains Of Malware In A Steam Early Access Game Called Chemia](https://soylentnews.org/article.pl?sid=25/08/02/1252242&amp;from=rss) - Malicious activity discovered in an indie game.
-
-* [Hackers Steal Driver's Licenses, Private Data of Women Who Signed up for App that Lets Them Rate Men](https://soylentnews.org/article.pl?sid=25/08/01/2222237&amp;from=rss) - A troubling breach targets personal user data on a controversial app.
+* [Los Alamos is capturing images of explosions at 7 millionths of a second](https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging) - A breakthrough in imaging explosive dynamics. [Comments](https://news.ycombinator.com/item?id=44798695).
 
 ---
 
@@ -79,16 +65,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-06, 05:08:00](https://soylentnews.org/article.pl?sid=25/08/05/0156215&amp;from=rss) - [AI and the Democratization of Cybercrime](https://soylentnews.org/article.pl?sid=25/08/05/0156215&amp;from=rss)
+* [2025-08-06, 05:04:36](https://news.ycombinator.com/item?id=44807868) - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+* [2025-08-06, 03:55:07](https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using) - [A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
+* [2025-08-06, 03:49:02](https://news.ycombinator.com/item?id=44807410) - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
+* [2025-08-06, 03:37:32](https://lobste.rs/s/gtwfjj/omarchy_is_on_move) - [Omarchy is on the move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=)
 * [2025-08-06, 03:30:00](https://hardware.slashdot.org/story/25/08/05/2221223/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [RIP To the Macintosh HD Hard Drive Icon, 2000-2025](https://hardware.slashdot.org/story/25/08/05/2221223/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-06, 03:14:22](https://news.ycombinator.com/item?id=44807210) - [I&apos;m Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
 * [2025-08-06, 03:05:17](https://news.ycombinator.com/item?id=44807154) - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
-* [2025-08-06, 02:57:05](https://news.ycombinator.com/item?id=44807115) - [I built a tool to help people remove their info from the Tea App](https://www.suetea.com/)
 * [2025-08-06, 02:35:19](https://news.ycombinator.com/item?id=44807002) - [Software Rot](https://permacomputing.net/software_rot/)
 * [2025-08-06, 02:34:10](https://news.ycombinator.com/item?id=44806996) - [US tech rules the European market](https://proton.me/blog/us-tech-rules-europe)
-* [2025-08-06, 02:07:27](https://news.ycombinator.com/item?id=44806862) - [Drivers who appeal school speed zone camera fines almost guaranteed to lose](https://www.abcactionnews.com/news/state/theres-no-point-in-fighting-drivers-who-appeal-school-speed-zone-camera-fines-almost-guaranteed-to-lose)
 * [2025-08-06, 02:02:00](https://slashdot.org/story/25/08/05/2235206/jim-acosta-interviews-ai-version-of-teenager-killed-in-parkland-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jim Acosta Interviews AI Version of Teenager Killed in Parkland Shooting](https://slashdot.org/story/25/08/05/2235206/jim-acosta-interviews-ai-version-of-teenager-killed-in-parkland-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-06, 01:50:22](https://news.ycombinator.com/item?id=44806764) - [If you&apos;re a direct employee of HP/Compaq you&apos;re not allowed to look at this code](https://www.ukcert.org.uk/repository/exploits/NETSYS_COM%20-%20The%20Intelligent%20Hacker%27s%20Choice%20-%20http--www_netsys_com-library-alerts-2002-08-05-dxchpwd.txt)
 * [2025-08-06, 01:25:00](https://tech.slashdot.org/story/25/08/05/2153232/perplexity-says-cloudflares-accusations-of-stealth-ai-scraping-are-based-on-embarrassing-errors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity Says Cloudflare&apos;s Accusations of &apos;Stealth&apos; AI Scraping Are Based On Embarrassing Errors](https://tech.slashdot.org/story/25/08/05/2153232/perplexity-says-cloudflares-accusations-of-stealth-ai-scraping-are-based-on-embarrassing-errors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-06, 01:13:17](https://news.ycombinator.com/item?id=44806543) - [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
 * [2025-08-06, 01:06:05](https://lobste.rs/s/lixhpb/cosmopolitan_build_once_run_anywhere_c) - [cosmopolitan: build-once run-anywhere c library](https://github.com/jart/cosmopolitan)
 * [2025-08-06, 00:45:00](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Swedish PM Under Fire For Using AI In Role](https://yro.slashdot.org/story/25/08/05/2144208/swedish-pm-under-fire-for-using-ai-in-role?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-06, 00:25:00](https://soylentnews.org/article.pl?sid=25/08/05/0152249&amp;from=rss) - [Christiaan Huygens and the Scientific Secrets of Saturn](https://soylentnews.org/article.pl?sid=25/08/05/0152249&amp;from=rss)
@@ -100,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-05, 21:22:00](https://hardware.slashdot.org/story/25/08/05/1935219/dram-prices-soar-as-china-eyes-self-reliance-for-high-end-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DRAM Prices Soar as China Eyes Self-Reliance For High-End Chips](https://hardware.slashdot.org/story/25/08/05/1935219/dram-prices-soar-as-china-eyes-self-reliance-for-high-end-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-05, 21:14:49](https://news.ycombinator.com/item?id=44804411) - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
 * [2025-08-05, 21:02:21](https://news.ycombinator.com/item?id=44804230) - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
-* [2025-08-05, 20:46:38](https://news.ycombinator.com/item?id=44804043) - [What&apos;s wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 * [2025-08-05, 20:44:00](https://tech.slashdot.org/story/25/08/05/1922258/us-proposes-new-drone-rules-that-could-lead-to-starbucks-amazon-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Proposes New Drone Rules That Could Lead To Starbucks, Amazon Deliveries](https://tech.slashdot.org/story/25/08/05/1922258/us-proposes-new-drone-rules-that-could-lead-to-starbucks-amazon-deliveries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-05, 20:04:00](https://science.slashdot.org/story/25/08/05/190228/retraction-prone-editors-identified-at-megajournal-plos-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Retraction-Prone Editors Identified at Megajournal PLoS ONE](https://science.slashdot.org/story/25/08/05/190228/retraction-prone-editors-identified-at-megajournal-plos-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-05, 19:40:00](https://soylentnews.org/article.pl?sid=25/08/04/0644251&amp;from=rss) - [ChatGPT Users Shocked to Learn Their Chats Were in Google Search Results](https://soylentnews.org/article.pl?sid=25/08/04/0644251&amp;from=rss)
@@ -140,12 +127,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-05, 10:56:07](https://news.ycombinator.com/item?id=44796526) - [Scientific fraud has become an &apos;industry,&apos; analysis finds](https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds)
 * [2025-08-05, 10:03:00](https://soylentnews.org/article.pl?sid=25/08/03/2136209&amp;from=rss) - [Solid-State Batteries Charge in 3 Minutes:  Why Aren&apos;t They in Your Phones and Cars Yet?](https://soylentnews.org/article.pl?sid=25/08/03/2136209&amp;from=rss)
 * [2025-08-05, 09:01:54](https://news.ycombinator.com/item?id=44795825) - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
-* [2025-08-05, 08:54:40](https://lobste.rs/s/a10ymw/pragmatism_programming_proverbs) - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
-* [2025-08-05, 07:11:20](https://lobste.rs/s/2ppwhw/cordoomceps_replacing_amiga_s_brain_with) - [Cordoomceps - replacing an Amiga&apos;s brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 * [2025-08-05, 07:09:02](https://lobste.rs/s/0wmqnt/getting_started_with_randomised_testing) - [Getting Started with Randomised Testing](https://lewiscampbell.tech/blog/250805.html)
 * [2025-08-05, 06:50:48](https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_662_lines_odin) - [Lisp interpreter with GC in 662 lines of Odin (and &lt;500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-05, 05:22:00](https://soylentnews.org/article.pl?sid=25/08/03/0242234&amp;from=rss) - [Ousted Vaccine Panel Members Say Rigorous Science is Being Abandoned](https://soylentnews.org/article.pl?sid=25/08/03/0242234&amp;from=rss)
 * [2025-08-05, 04:45:20](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn) - [What trick of the trade took you too long to learn?](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn)
+* [2025-08-05, 01:43:40](https://news.ycombinator.com/item?id=44793446) - [Tell HN: Anthropic expires paid credits after a year](https://news.ycombinator.com/item?id=44793446)
 * [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&amp;from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&amp;from=rss)
 * [2025-08-04, 23:13:37](https://lobste.rs/s/z3zgvi/every_reason_why_i_hate_ai) - [Every reason why I hate AI](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 * [2025-08-04, 22:16:41](https://lobste.rs/s/s69lnq/markdown_monster) - [Markdown Monster](https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md)
@@ -154,10 +140,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-04, 13:59:08](https://lobste.rs/s/i81fly/how_perplexity_is_evading_anti_crawling) - [How Perplexity is Evading Anti-crawling Measures](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
 * [2025-08-04, 10:33:00](https://soylentnews.org/article.pl?sid=25/08/02/2149227&amp;from=rss) - [Coffee Prices Rise as U.S. Imposes Tariffs on Top Exporter Brazil](https://soylentnews.org/article.pl?sid=25/08/02/2149227&amp;from=rss)
+* [2025-08-04, 06:35:17](https://news.ycombinator.com/item?id=44782690) - [Kart – Distributed version-control for geospatial and tabular data](https://kartproject.org/)
 * [2025-08-04, 05:47:00](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss) - [Kali Linux Can Now Run in Apple Containers on macOS Systems](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss)
-* [2025-08-04, 05:03:12](https://news.ycombinator.com/item?id=44782260) - [When Disney Went Digital](https://animationobsessive.substack.com/p/when-disney-went-digital)
 * [2025-08-04, 01:02:00](https://soylentnews.org/article.pl?sid=25/08/02/1318209&amp;from=rss) - [Subliminal Learning: Language Models Transmit Behavioral Traits Via Hidden Signals in Data](https://soylentnews.org/article.pl?sid=25/08/02/1318209&amp;from=rss)
 * [2025-08-03, 20:21:00](https://soylentnews.org/article.pl?sid=25/08/02/1252242&amp;from=rss) - [Hacker Plants Three Strains Of Malware In A Steam Early Access Game Called Chemia](https://soylentnews.org/article.pl?sid=25/08/02/1252242&amp;from=rss)
+* [2025-08-03, 17:51:41](https://news.ycombinator.com/item?id=44778304) - [Bourdain, My Camera, and Me (2021)](https://www.melaniedunea.com/essays/blog-post-title-one-phd62)
 * [2025-08-03, 15:35:00](https://soylentnews.org/article.pl?sid=25/08/02/1248204&amp;from=rss) - [Hackers on Planet Earth (HOPE) In Person and Virtual Tickets Being Sold!](https://soylentnews.org/article.pl?sid=25/08/02/1248204&amp;from=rss)
 * [2025-08-03, 10:50:00](https://soylentnews.org/article.pl?sid=25/08/02/1242221&amp;from=rss) - [Linux Kernel 6.16 Lands With 38 Million Lines of Code](https://soylentnews.org/article.pl?sid=25/08/02/1242221&amp;from=rss)
 * [2025-08-03, 06:05:00](https://soylentnews.org/article.pl?sid=25/08/02/0446236&amp;from=rss) - [Domino&apos;s Deploys Boston Dynamics&apos; Robot Dog To Deliver Pizza And Fend Off Seagulls On Beaches](https://soylentnews.org/article.pl?sid=25/08/02/0446236&amp;from=rss)
@@ -167,6 +154,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-02, 15:53:00](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss) - [Microsoft Bans LibreOffice Developer&apos;s Account Without Warning, Rejects Appeal](https://soylentnews.org/article.pl?sid=25/08/01/1511227&amp;from=rss)
 * [2025-08-02, 11:37:00](https://news.ycombinator.com/item?id=44766771) - [Ask HN: Have you ever regretted open-sourcing something?](https://news.ycombinator.com/item?id=44766771)
 * [2025-08-02, 11:08:00](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss) - [Radioactive Wasp Nest Found at Site Where US Once Made Nuclear Bombs](https://soylentnews.org/article.pl?sid=25/08/01/1139259&amp;from=rss)
-* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+* [2025-08-02, 09:20:42](https://news.ycombinator.com/item?id=44765981) - [The first widespread cure for HIV could be in children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
 * [2025-08-02, 06:20:00](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss) - [Peacock Feathers Can Emit Laser Beams](https://soylentnews.org/article.pl?sid=25/08/01/0126209&amp;from=rss)
 * [2025-08-02, 01:37:00](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss) - [Microsoft Research Tries to Predict Jobs Most Impacted (i.e., Lost) by AI](https://soylentnews.org/article.pl?sid=25/08/01/0118232&amp;from=rss)
