@@ -1,58 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning Developments
+## Cybersecurity and Exploit Developments
 
-* [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/) ([comments](https://news.ycombinator.com/item?id=44833929))
+* [Abusing Ubuntu 24.04 features for root privilege escalation](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/) - Highlights a vulnerability in Ubuntu 24.04 that allows root privilege escalation, raising concerns about Linux security. [Comments](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root)
 
-* [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/) ([comments](https://news.ycombinator.com/item?id=44827794))
+* [A Full-Chain Exploit of an Unfused Qualcomm Device](https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html) - Details a comprehensive exploit of Qualcomm devices that bypasses security measures. [Comments](https://lobste.rs/s/4cslil/full_chain_exploit_unfused_qualcomm)
 
-* [OpenAI Releases GPT-5](https://slashdot.org/story/25/08/07/1719223/openai-releases-gpt-5?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44826997))
+* [Plague: A Newly Discovered PAM-Based Backdoor for Linux](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss) - Discusses the discovery of a backdoor targeting Linux, emphasizing the risks of misused PAM configurations. [Comments](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss)
 
-* [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el) ([comments](https://news.ycombinator.com/item?id=44811567))
+* [Encryption Made For Police and Military Radios May Be Easily Cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/) - Reveals vulnerabilities in encryption systems designed for law enforcement and military communication. [Comments](https://news.ycombinator.com/item?id=44828504)
 
-* [How AI conquered the US economy: A visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a) ([comments](https://news.ycombinator.com/item?id=44822665))
+## Artificial Intelligence Updates and Insights
 
-## Cybersecurity Insights
+* [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/) - Examines GPT-5’s performance on complex code review tasks, exploring its potential for software development. [Comments](https://news.ycombinator.com/item?id=44833929)
 
-* [Exploiting Retbleed in the real world](https://bughunters.google.com/blog/6243730100977664/exploiting-retbleed-in-the-real-world) ([comments](https://lobste.rs/s/t00vt8/exploiting_retbleed_real_world))
+* [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7) - An intriguing look into the leaked system prompt of GPT-5, offering insights into its internal workings. [Comments](https://lobste.rs/s/lv2ijd/gpt_5_leaked_system_prompt)
 
-* [A Full-Chain Exploit of an Unfused Qualcomm Device](https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html) ([comments](https://lobste.rs/s/4cslil/full_chain_exploit_unfused_qualcomm))
+* [OpenAI's new open-source model is basically Phi-5](https://www.seangoedecke.com/gpt-oss-is-phi-5/) - Comments on OpenAI's latest move towards openness with its new Phi-5-derived model. [Comments](https://news.ycombinator.com/item?id=44828884)
 
-* [Plague: A Newly Discovered PAM-Based Backdoor for Linux](https://soylentnews.org/article.pl?sid=25/08/05/1452205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss))
+* [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el) - Introduction of Claude Code IDE's support in Emacs, combining AI capabilities with a powerful text editor. [Comments](https://news.ycombinator.com/item?id=44811567)
 
-* [Encryption Made For Police and Military Radios May Be Easily Cracked](https://it.slashdot.org/story/25/08/07/217234/encryption-made-for-police-and-military-radios-may-be-easily-cracked?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44828504))
+## Programming and Development
 
-## Technology and Programming Advancements
+* [How I ended up writing Gleam for a living](https://www.youtube.com/watch?v=BfPRcanTWXA) - A developer shares their journey into building and working full-time with the Gleam language. [Comments](https://lobste.rs/s/s7wj5y/how_i_ended_up_writing_gleam_for_living)
 
-* [Arenas in Rust](https://russellw.github.io/arenas) ([comments](https://lobste.rs/s/lzladd/arenas_rust))
+* [Arenas in Rust](https://russellw.github.io/arenas) - Deep dive into memory management in Rust using arena allocation techniques. [Comments](https://lobste.rs/s/lzladd/arenas_rust)
 
-* [KomoDo, my first KDE app](https://akselmo.dev/posts/komodo-my-first-kde-app/) ([comments](https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app))
+* [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/) - Announcement of the latest updates and enhancements in the Rust programming language. [Comments](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0)
 
-* [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722) ([comments](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules))
+* [More shell tricks: first class lists, jq, and the es shell](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html) - Explores advanced shell scripting techniques for developers. [Comments](https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es)
 
-* [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/) ([comments](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0))
+## Technology and Industry Trends
 
-* [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html) ([comments](https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus))
+* [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss) - Discusses the use of secret codes embedded in light to counteract deepfake videos. [Comments](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss)
 
-## Economic and Industry Shifts
+* [China Solves 'Tunnel Boom' Problem With Maglev Trains](https://tech.slashdot.org/story/25/08/08/0045208/china-solves-tunnel-boom-problem-with-maglev-trains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's innovative solution to noise pollution issues in tunnels created by high-speed trains. [Comments](https://tech.slashdot.org/story/25/08/08/0045208/china-solves-tunnel-boom-problem-with-maglev-trains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1123237&from=rss))
+* [Digital Foundry, the Most Trusted Name in Game Console Analysis, is Going Independent](https://games.slashdot.org/story/25/08/07/1530229/digital-foundry-the-most-trusted-name-in-game-console-analysis-is-going-independent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of a prominent gaming outlet's transition to independence. [Comments](https://games.slashdot.org/story/25/08/07/1530229/digital-foundry-the-most-trusted-name-in-game-console-analysis-is-going-independent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [China's Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/07/1610201&from=rss))
-
-* [Trump Signs Executive Order Opening 401(k) Retirement Market To Crypto Investments](https://slashdot.org/story/25/08/07/2010210/trump-signs-executive-order-opening-401k-retirement-market-to-crypto-investments?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44827635))
-
-* [Coffee Prices Rise as U.S. Imposes Tariffs on Top Exporter Brazil](https://soylentnews.org/article.pl?sid=25/08/02/2149227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1923455&from=rss))
-
-## Fascinating Discoveries
-
-* [Space's Spinning Enigma: A ‘Unicorn’ Object Defies Astrophysics](https://soylentnews.org/article.pl?sid=25/08/05/1150228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1512236&from=rss))
-
-* [Infrared Contact Lens Helps People See in the Dark, Even With Their Eyes Closed](https://soylentnews.org/article.pl?sid=25/08/05/151223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1453207&from=rss))
-
-* [Underwater Robot Draws in Millions of Viewers](https://soylentnews.org/article.pl?sid=25/08/05/1550247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1134345&from=rss))
-
-* [Inspired by Astronauts, Researchers Use High-Tech Pants to Uncover Heart Issues on MRI](https://soylentnews.org/article.pl?sid=25/08/05/1441236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/06/1644356&from=rss))
+* [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss) - Shocking report of AWS obliterating long-standing client data with minimal notification. [Comments](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss)
 
 ---
 
@@ -79,18 +65,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-08, 09:34:16](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/)
+* [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss)
+* [2025-08-08, 09:17:19](https://lobste.rs/s/o2zxif/oops_safari_i_think_you_spilled_something) - [Oops Safari, I think You Spilled Something](https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/)
+* [2025-08-08, 08:46:10](https://lobste.rs/s/s7wj5y/how_i_ended_up_writing_gleam_for_living) - [How I ended up writing Gleam for a living](https://www.youtube.com/watch?v=BfPRcanTWXA)
+* [2025-08-08, 07:06:22](https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam) - [Writing surtoget.no with gleam](https://lindbakk.com/blog/introducing-surtoget_no)
+* [2025-08-08, 07:00:00](https://tech.slashdot.org/story/25/08/08/0045208/china-solves-tunnel-boom-problem-with-maglev-trains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Solves &apos;Tunnel Boom&apos; Problem With Maglev Trains](https://tech.slashdot.org/story/25/08/08/0045208/china-solves-tunnel-boom-problem-with-maglev-trains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-08, 06:55:32](https://lobste.rs/s/zxppfh/all_cool_kids_are_doing_it) - [All the cool kids are doing it](https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/)
-* [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 Real-World Code Reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
-* [2025-08-08, 05:50:54](https://lobste.rs/s/t00vt8/exploiting_retbleed_real_world) - [Exploiting Retbleed in the real world](https://bughunters.google.com/blog/6243730100977664/exploiting-retbleed-in-the-real-world)
+* [2025-08-08, 06:01:30](https://news.ycombinator.com/item?id=44833932) - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
+* [2025-08-08, 06:00:22](https://news.ycombinator.com/item?id=44833929) - [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
 * [2025-08-08, 05:48:49](https://lobste.rs/s/4cslil/full_chain_exploit_unfused_qualcomm) - [A Full-Chain Exploit of an Unfused Qualcomm Device](https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html)
 * [2025-08-08, 05:45:42](https://news.ycombinator.com/item?id=44833834) - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 * [2025-08-08, 05:40:34](https://lobste.rs/s/lv2ijd/gpt_5_leaked_system_prompt) - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
 * [2025-08-08, 05:39:34](https://lobste.rs/s/lzladd/arenas_rust) - [Arenas in Rust](https://russellw.github.io/arenas)
 * [2025-08-08, 04:35:00](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss) - [China&apos;s Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss)
 * [2025-08-08, 03:30:00](https://hardware.slashdot.org/story/25/08/08/0031253/first-ever-reviews-of-mario-and-zelda?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Ever Reviews of Mario and Zelda](https://hardware.slashdot.org/story/25/08/08/0031253/first-ever-reviews-of-mario-and-zelda?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-08, 03:09:05](https://news.ycombinator.com/item?id=44832990) - [GPT-5 leaked system prompt?](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
 * [2025-08-08, 02:55:28](https://news.ycombinator.com/item?id=44832927) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
-* [2025-08-08, 02:37:12](https://news.ycombinator.com/item?id=44832829) - [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
 * [2025-08-08, 00:50:00](https://news.slashdot.org/story/25/08/08/0021259/the-backlash-against-duolingo-going-ai-first-didnt-even-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Backlash Against Duolingo Going &apos;AI-First&apos; Didn&apos;t Even Matter](https://news.slashdot.org/story/25/08/08/0021259/the-backlash-against-duolingo-going-ai-first-didnt-even-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-07, 23:52:00](https://soylentnews.org/article.pl?sid=25/08/06/1435231&amp;from=rss) - [OpenAI Announces Two “gpt-oss” Open AI Models, and You Can Download Them Today](https://soylentnews.org/article.pl?sid=25/08/06/1435231&amp;from=rss)
 * [2025-08-07, 23:34:52](https://news.ycombinator.com/item?id=44831704) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
@@ -119,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-07, 17:49:49](https://news.ycombinator.com/item?id=44827862) - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 * [2025-08-07, 17:46:18](https://news.ycombinator.com/item?id=44827794) - [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 * [2025-08-07, 17:30:00](https://slashdot.org/story/25/08/07/1719223/openai-releases-gpt-5?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Releases GPT-5](https://slashdot.org/story/25/08/07/1719223/openai-releases-gpt-5?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-07, 17:12:21](https://news.ycombinator.com/item?id=44827216) - [Show HN: Browser AI agent platform designed for reliability](https://github.com/nottelabs/notte)
 * [2025-08-07, 17:06:39](https://news.ycombinator.com/item?id=44827101) - [GPT-5 for Developers](https://openai.com/index/introducing-gpt-5-for-developers)
 * [2025-08-07, 17:00:21](https://news.ycombinator.com/item?id=44826997) - [GPT-5](https://openai.com/gpt-5/)
 * [2025-08-07, 16:50:00](https://news.slashdot.org/story/25/08/07/1637255/openai-pays-bonuses-ranging-up-to-millions-of-dollars-to-1000-researchers-engineers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Pays Bonuses Ranging Up To Millions of Dollars To 1,000 Researchers, Engineers](https://news.slashdot.org/story/25/08/07/1637255/openai-pays-bonuses-ranging-up-to-millions-of-dollars-to-1000-researchers-engineers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -130,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-07, 15:30:00](https://games.slashdot.org/story/25/08/07/1530229/digital-foundry-the-most-trusted-name-in-game-console-analysis-is-going-independent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Digital Foundry, the Most Trusted Name in Game Console Analysis, is Going Independent](https://games.slashdot.org/story/25/08/07/1530229/digital-foundry-the-most-trusted-name-in-game-console-analysis-is-going-independent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-07, 15:09:02](https://news.ycombinator.com/item?id=44825491) - [How to sell if your user is not the buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
 * [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
-* [2025-08-07, 14:40:00](https://slashdot.org/story/25/08/07/1427230/us-president-calls-on-intel-ceo-to-resign-over-china-ties?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US President Calls on Intel CEO To Resign Over China Ties](https://slashdot.org/story/25/08/07/1427230/us-president-calls-on-intel-ceo-to-resign-over-china-ties?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-07, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss) - [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss)
 * [2025-08-07, 14:20:43](https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16) - [Asahi Linux Progress Report: Linux 6.16](https://asahilinux.org/2025/08/progress-report-6-16/)
 * [2025-08-07, 13:58:25](https://news.ycombinator.com/item?id=44824539) - [Windows XP Professional](https://win32.run/)
@@ -142,13 +130,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-07, 10:12:54](https://news.ycombinator.com/item?id=44822665) - [How AI conquered the US economy: A visual FAQ](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)
 * [2025-08-07, 09:33:00](https://soylentnews.org/article.pl?sid=25/08/05/1550247&amp;from=rss) - [Underwater Robot Draws in Millions of Viewers](https://soylentnews.org/article.pl?sid=25/08/05/1550247&amp;from=rss)
 * [2025-08-07, 08:25:26](https://lobste.rs/s/foh4ch/jujutsu_support_reviewboard) - [Jujutsu support in Reviewboard](https://reviews.reviewboard.org/r/14336/)
-* [2025-08-07, 08:03:13](https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2025-08-07, 04:51:00](https://soylentnews.org/article.pl?sid=25/08/05/151223&amp;from=rss) - [Infrared Contact Lens Helps People See in the Dark, Even With Their Eyes Closed](https://soylentnews.org/article.pl?sid=25/08/05/151223&amp;from=rss)
-* [2025-08-07, 02:21:52](https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 * [2025-08-07, 00:07:00](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss) - [Plague: A Newly Discovered PAM-Based Backdoor for Linux](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 19:20:00](https://soylentnews.org/article.pl?sid=25/08/05/1446223&amp;from=rss) - [Russian Volcano Erupts for First Time in Centuries](https://soylentnews.org/article.pl?sid=25/08/05/1446223&amp;from=rss)
-* [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:26:18](https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles) - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 14:37:00](https://soylentnews.org/article.pl?sid=25/08/05/1441236&amp;from=rss) - [Inspired by Astronauts, Researchers Use High-Tech Pants to Uncover Heart Issues on MRI](https://soylentnews.org/article.pl?sid=25/08/05/1441236&amp;from=rss)
 * [2025-08-06, 13:17:38](https://news.ycombinator.com/item?id=44811567) - [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
@@ -162,12 +147,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-05, 05:22:00](https://soylentnews.org/article.pl?sid=25/08/03/0242234&amp;from=rss) - [Ousted Vaccine Panel Members Say Rigorous Science is Being Abandoned](https://soylentnews.org/article.pl?sid=25/08/03/0242234&amp;from=rss)
 * [2025-08-05, 00:40:00](https://soylentnews.org/article.pl?sid=25/08/03/0225206&amp;from=rss) - [World News: United Nations Report Finds UN Reports Aren’t Widely Read](https://soylentnews.org/article.pl?sid=25/08/03/0225206&amp;from=rss)
 * [2025-08-04, 23:14:15](https://news.ycombinator.com/item?id=44792419) - [Over engineering my homelab so I don&apos;t pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
+* [2025-08-04, 22:14:02](https://news.ycombinator.com/item?id=44791923) - [FLUX.1-Krea and the Rise of Opinionated Models](https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html)
 * [2025-08-04, 20:00:00](https://soylentnews.org/article.pl?sid=25/08/03/0219201&amp;from=rss) - [Brain Scans Reveal Parahippocampal Cortex Thinning in Those with Depression and Neuroticism](https://soylentnews.org/article.pl?sid=25/08/03/0219201&amp;from=rss)
 * [2025-08-04, 15:15:00](https://soylentnews.org/article.pl?sid=25/08/03/026228&amp;from=rss) - [Clouds, Sub Cables, Report No Impact From Monster Quake](https://soylentnews.org/article.pl?sid=25/08/03/026228&amp;from=rss)
+* [2025-08-04, 12:55:52](https://news.ycombinator.com/item?id=44785144) - [What Is Popover=Hint?](https://una.im/popover-hint/)
 * [2025-08-04, 11:56:30](https://news.ycombinator.com/item?id=44784619) - [Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?](https://news.ycombinator.com/item?id=44784619)
+* [2025-08-04, 11:51:00](https://news.ycombinator.com/item?id=44784570) - [Virtual Linux Devices on ARM64](https://underjord.io/500-virtual-linux-devices-on-arm64.html)
 * [2025-08-04, 10:46:02](https://news.ycombinator.com/item?id=44784090) - [Open music foundation models for full-song generation](https://map-yue.github.io/)
 * [2025-08-04, 10:33:00](https://soylentnews.org/article.pl?sid=25/08/02/2149227&amp;from=rss) - [Coffee Prices Rise as U.S. Imposes Tariffs on Top Exporter Brazil](https://soylentnews.org/article.pl?sid=25/08/02/2149227&amp;from=rss)
-* [2025-08-04, 10:05:53](https://news.ycombinator.com/item?id=44783820) - [MCDB – full-stack web servers in Minecraft](https://github.com/NoahCagle/MCDB)
 * [2025-08-04, 08:53:15](https://news.ycombinator.com/item?id=44783368) - [Writing a storage engine for Postgres: An in-memory table access method (2023)](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 * [2025-08-04, 05:47:00](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss) - [Kali Linux Can Now Run in Apple Containers on macOS Systems](https://soylentnews.org/article.pl?sid=25/08/02/2145230&amp;from=rss)
 * [2025-08-04, 01:02:00](https://soylentnews.org/article.pl?sid=25/08/02/1318209&amp;from=rss) - [Subliminal Learning: Language Models Transmit Behavioral Traits Via Hidden Signals in Data](https://soylentnews.org/article.pl?sid=25/08/02/1318209&amp;from=rss)
