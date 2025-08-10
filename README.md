@@ -1,20 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Artificial Intelligence
+## Innovative Technological Developments
 
-* [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss) - A Danish zoo introduces a controversial program to recreate a 'natural food chain' by asking the public to donate unwanted pets as food for predator animals, stimulating extensive discussions about ethics and sustainability.
+* [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen) ([comments](https://news.ycombinator.com/item?id=44853064))
 
-* [Hour of Code Announces It’s Now Evolving Into ‘Hour of AI’](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The popular Hour of Code initiative has transitioned to focusing on AI education, reflecting the growing importance of artificial intelligence.
+* [Students Have Been Called to the Office - Or Arrested - for False Alarms from AI-Powered Surveillance Systems](https://news.slashdot.org/story/25/08/09/0624254/students-have-been-called-to-the-office---or-arrested---for-false-alarms-from-ai-powered-surveillance-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
 
-* [AI must RTFM: Why Technical Writers Are Becoming Context Curators](https://passo.uno/from-tech-writers-to-ai-context-curators/) - A deeper look into how technical writers are transforming into key contributors for AI, ensuring machines operate contextually and effectively.
+* [Chevy Silverado EV Drives 1,059.2 Miles on a Single Charge, Surpassing World Record](https://tech.slashdot.org/story/25/08/09/0517212/chevy-silverado-ev-drives-10592-miles-on-a-single-charge-surpassing-world-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
 
-## Space Exploration and Science
+* [Initiative Seeks AI Lab to Build 'American Truly Open Models' (ATOM)](https://news.slashdot.org/story/25/08/09/1916243/initiative-seeks-ai-lab-to-build-american-truly-open-models-atom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
 
-* [SpaceX's Crew-10 Astronauts Return to Earth After Nearly 5 Months in Space](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX's Crew-10 astronauts conclude their mission and return to Earth, marking another milestone in space exploration.
+* [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html) ([comments](https://news.ycombinator.com/item?id=44848782))
 
-## Personal Experiences and Insights
+## Artificial Intelligence and Software Updates
 
-* [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html) - A former Apple employee shares a personal and humorous account of a career misstep that nearly led to termination, providing insights into unconventional workplace norms.
+* [Hour of Code Announces It's Now Evolving Into 'Hour of AI'](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44852582))
+
+* [An AI-first program synthesis framework built around a new programming language](https://queue.acm.org/detail.cfm?id=3746223) ([comments](https://news.ycombinator.com/item?id=44852582))
+
+* [Google Says Its AI-Based Bug Hunter Found 20 Security Vulnerabilities](https://it.slashdot.org/story/25/08/09/1947230/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44852582))
+
+## Astronomy and Space Exploration
+
+* [SpaceX's Crew-10 Astronauts Return to Earth After Nearly 5 months in Space](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [NASA Crew-10 Astronauts Depart Space Station After Five-Month Mission](https://science.slashdot.org/story/25/08/08/2323252/nasa-crew-10-astronauts-depart-space-station-after-five-month-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [Spacecraft Designed That Could Carry 2,400 People on a 400-Year Trip to Alpha Centauri](https://science.slashdot.org/story/25/08/09/1731242/spacecraft-designed-that-could-carry-2400-people-on-a-400-year-trip-to-alpha-centauri?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+## Environmental and Societal Impact
+
+* [Long-term exposure to outdoor air pollution linked to increased risk of dementia](https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [California Successfully Tests 'Virtual Power Plant', Drawing Power From Batteries in 100,000 Homes](https://hardware.slashdot.org/story/25/08/09/0446221/california-successfully-tests-virtual-power-plant-drawing-power-from-batteries-in-100000-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [Japanese Company Staff Implicated In Alleged Theft of Key TSMC Technology](https://yro.slashdot.org/story/25/08/08/2335203/japanese-company-staff-implicated-in-alleged-theft-of-key-tsmc-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+## Unique and Curious Miscellaneous Stories
+
+* [Strange Wild Pigs in California - What Turned Their Flesh Blue?](https://news.slashdot.org/story/25/08/09/033255/strange-wild-pigs-in-california---what-turned-their-flesh-blue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=44848782))
+
+* [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html) ([comments](https://news.ycombinator.com/item?id=44848782))
 
 ---
 
@@ -41,11 +69,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
+* [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
+* [2025-08-10, 05:29:49](https://lobste.rs/s/2xbhlw/janet_minipbt_translation) - [Janet Minipbt Translation](https://github.com/sogaiu/janet-minipbt-translation)
+* [2025-08-10, 05:13:28](https://lobste.rs/s/fcwft7/all_on_omarchy_at_37signals) - [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
 * [2025-08-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss) - [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss)
+* [2025-08-10, 03:38:14](https://news.ycombinator.com/item?id=44852582) - [Melonking Website](https://melonking.net/)
 * [2025-08-10, 03:34:00](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Hour of Code&apos; Announces It&apos;s Now Evolving Into &apos;Hour of AI&apos;](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 01:34:00](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX&apos;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 00:39:33](https://lobste.rs/s/kqv0a7/first_time_i_was_almost_fired_from_apple) - [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
-* [2025-08-10, 00:30:51](https://lobste.rs/s/cgdekj/ai_must_rtfm_why_technical_writers_are) - [AI must RTFM: Why technical writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
 * [2025-08-10, 00:12:36](https://news.ycombinator.com/item?id=44851590) - [Happy BuyNothing Day](https://justbuynothing.com/)
 * [2025-08-09, 23:07:58](https://news.ycombinator.com/item?id=44851214) - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 * [2025-08-09, 23:05:39](https://lobste.rs/s/tvdgb4/gpts_feeling_left_behind) - [GPTs and feeling left behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
@@ -74,9 +106,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-09, 15:34:00](https://linux.slashdot.org/story/25/08/09/0328207/kdes-other-distro---kde-linux---now-available-to-download-in-pre-alpha?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE&apos;s &apos;Other&apos; Distro - KDE Linux - Now Available To Download In Pre-Alpha](https://linux.slashdot.org/story/25/08/09/0328207/kdes-other-distro---kde-linux---now-available-to-download-in-pre-alpha?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-09, 15:05:48](https://lobste.rs/s/rlrrgk/notes_on_smaller_rust_2019) - [Notes on a smaller Rust (2019)](https://without.boats/blog/notes-on-a-smaller-rust/)
 * [2025-08-09, 15:03:43](https://lobste.rs/s/vvis5u/what_even_is_distributed_systems) - [What even is distributed systems](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
-* [2025-08-09, 14:56:16](https://news.ycombinator.com/item?id=44847001) - [ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [2025-08-09, 14:47:38](https://news.ycombinator.com/item?id=44846922) - [My Lethal Trifecta talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/)
-* [2025-08-09, 14:42:10](https://news.ycombinator.com/item?id=44846871) - [MCP overlooks hard-won lessons from distributed systems](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
 * [2025-08-09, 14:41:56](https://lobste.rs/s/pnu5hc/why_racket_why_lisp_2014) - [Why Racket? Why Lisp? (2014)](https://practicaltypography.com/why-racket-why-lisp.html)
 * [2025-08-09, 14:34:00](https://hardware.slashdot.org/story/25/08/09/0446221/california-successfully-tests-virtual-power-plant-drawing-power-from-batteries-in-100000-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Successfully Tests &apos;Virtual Power Plant&apos;, Drawing Power From Batteries in 100,000 Homes](https://hardware.slashdot.org/story/25/08/09/0446221/california-successfully-tests-virtual-power-plant-drawing-power-from-batteries-in-100000-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-09, 13:48:00](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss) - [Hacker Summer Camp: What to Expect From BSides, Black Hat, and DEF CON](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss)
@@ -97,7 +127,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-09, 09:02:00](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss) - [An Ohio Couple Welcomes a Baby Boy From a Nearly 31-Year-Old Frozen Embryo](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss)
 * [2025-08-09, 07:00:00](https://science.slashdot.org/story/25/08/08/2323252/nasa-crew-10-astronauts-depart-space-station-after-five-month-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Crew-10 Astronauts Depart Space Station After Five-Month Mission](https://science.slashdot.org/story/25/08/08/2323252/nasa-crew-10-astronauts-depart-space-station-after-five-month-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-09, 05:04:38](https://lobste.rs/s/dhjlvv/gnome_49_backlight_changes) - [GNOME 49 Backlight Changes](https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/)
-* [2025-08-09, 04:55:49](https://lobste.rs/s/6v9osj/over_engineering_my_homelab_so_i_don_t_pay) - [Over engineering my homelab so I don&apos;t pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
 * [2025-08-09, 04:16:00](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss) - [KubeSphere Kills Open Source Edition](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss)
 * [2025-08-09, 03:30:00](https://science.slashdot.org/story/25/08/08/2150214/smartwatches-offer-little-insight-into-stress-levels-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://science.slashdot.org/story/25/08/08/2150214/smartwatches-offer-little-insight-into-stress-levels-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
@@ -107,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-08, 21:35:30](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne) - [Lobsters Interview with Hwayne](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne)
 * [2025-08-08, 21:20:21](https://lobste.rs/s/qtm9uv/puzzling_python_program) - [A puzzling Python program](https://jo3-l.dev/posts/python-countdown/)
 * [2025-08-08, 18:50:00](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss) - [More Malware Uploaded to Arch Linux AUR](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss)
-* [2025-08-08, 15:30:03](https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe) - [Hypothesis is now thread-safe](https://hypothesis.works/articles/thread-safe/)
 * [2025-08-08, 14:05:00](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss) - [Ubuntu Replacing wget With wcurl](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss)
 * [2025-08-08, 12:59:03](https://lobste.rs/s/qllaru/http_is_not_simple) - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/)
 * [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss)
@@ -120,7 +148,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-07, 04:51:00](https://soylentnews.org/article.pl?sid=25/08/05/151223&amp;from=rss) - [Infrared Contact Lens Helps People See in the Dark, Even With Their Eyes Closed](https://soylentnews.org/article.pl?sid=25/08/05/151223&amp;from=rss)
 * [2025-08-07, 00:07:00](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss) - [Plague: A Newly Discovered PAM-Based Backdoor for Linux](https://soylentnews.org/article.pl?sid=25/08/05/1452205&amp;from=rss)
 * [2025-08-06, 19:20:00](https://soylentnews.org/article.pl?sid=25/08/05/1446223&amp;from=rss) - [Russian Volcano Erupts for First Time in Centuries](https://soylentnews.org/article.pl?sid=25/08/05/1446223&amp;from=rss)
-* [2025-08-06, 17:40:40](https://news.ycombinator.com/item?id=44815164) - [Testing Bitchat at the music festival](https://primal.net/saunter/testing-bitchat-at-the-music-festival)
 * [2025-08-06, 16:57:08](https://news.ycombinator.com/item?id=44814587) - [Consistency over Availability: How rqlite Handles the CAP theorem](https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/)
 * [2025-08-06, 15:17:22](https://news.ycombinator.com/item?id=44813175) - [A Simple CPU on the Game of Life (2021)](https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html)
 * [2025-08-06, 14:37:00](https://soylentnews.org/article.pl?sid=25/08/05/1441236&amp;from=rss) - [Inspired by Astronauts, Researchers Use High-Tech Pants to Uncover Heart Issues on MRI](https://soylentnews.org/article.pl?sid=25/08/05/1441236&amp;from=rss)
@@ -128,6 +155,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-06, 12:14:47](https://news.ycombinator.com/item?id=44810945) - [Who got arrested in the raid on the XSS crime forum?](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/)
 * [2025-08-06, 12:08:22](https://news.ycombinator.com/item?id=44810890) - [Don&apos;t “let it crash”, let it heal](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-06, 11:26:18](https://news.ycombinator.com/item?id=44810565) - [Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018)](https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1)
+* [2025-08-06, 10:20:10](https://news.ycombinator.com/item?id=44810144) - [The importance of offtopic](https://blog.tadzik.net/the-importance-of-offtopic.html)
 * [2025-08-06, 09:58:00](https://soylentnews.org/article.pl?sid=25/08/05/1150228&amp;from=rss) - [Space&apos;s Spinning Enigma: A ‘Unicorn’ Object Defies Astrophysics](https://soylentnews.org/article.pl?sid=25/08/05/1150228&amp;from=rss)
 * [2025-08-06, 08:09:09](https://news.ycombinator.com/item?id=44809166) - [How I use Tailscale](https://chameth.com/how-i-use-tailscale/)
 * [2025-08-06, 05:08:00](https://soylentnews.org/article.pl?sid=25/08/05/0156215&amp;from=rss) - [AI and the Democratization of Cybercrime](https://soylentnews.org/article.pl?sid=25/08/05/0156215&amp;from=rss)
