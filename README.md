@@ -1,36 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Security
+## Technology and Programming
 
-* [How Python is Fighting Open Source's 'Phantom' Dependencies Problem](https://developers.slashdot.org/story/25/08/11/025214/how-python-is-fighting-open-sources-phantom-dependencies-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Article explores Python's approach to tackling dependency issues within open source projects and commentary on the effectiveness of these methods. [Comments](https://developers.slashdot.org/story/25/08/11/025214/how-python-is-fighting-open-sources-phantom-dependencies-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - A promising CAD kernel built in Rust highlights innovations in design engineering compatibility with programming trends.
 
-* [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss) - Critical security vulnerability in WinRAR being exploited to spread malware. [Comments](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss)
+* [Faster substring search with SIMD in Zig](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - Demonstrates how Zig utilizes SIMD instructions to accelerate substring search operations significantly.
 
-* [$1M Stolen in 'Industrial-Scale Crypto Theft' Using AI-Generated Code](https://yro.slashdot.org/story/25/08/11/0037258/1m-stolen-in-industrial-scale-crypto-theft-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hackers leverage AI to create more effective malware for significant cryptocurrency-based heists. [Comments](https://yro.slashdot.org/story/25/08/11/0037258/1m-stolen-in-industrial-scale-crypto-theft-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Exploiting a Buggy Zilog C Compiler](https://lobste.rs/s/uonssp/exploiting_buggy_zilog_c_compiler) - Exploring advantages and challenges with unintended features in legacy compiler technologies.
 
-## Programming and Development
+* [Fundamental guide to understanding DRAM Memory](https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram) - A thorough resource to grasp the complex architecture and functionality of DRAM.
 
-* [Unducking Typescript primitive aliases](https://zerotrickpony.com/unducking/) - Exploration of using aliases creatively in TypeScript primitives to avoid duck-typing issues. [Comments](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases)
+* [Unducking Typescript primitive aliases](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - A deep dive into improving TypeScript code usefulness by redefining primitive aliases.
 
-* [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html) - Insight into building safe C containers with optional types for improved code safety. [Comments](https://news.ycombinator.com/item?id=44860908)
+* [Zig’s Lovely Syntax](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - An in-depth discussion on how Zig language emphasizes readability and simplified syntax for developers.
 
-* [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/) - A deep dive into applying lambda lifting for Lisp compilation. [Comments](https://news.ycombinator.com/item?id=44858892)
+* [onion: Stack language compiled to lua](https://lobste.rs/s/cghulj/onion_stack_language_compiled_lua) - An exploration of a stack-based language's innovative approach compiled to Lua for runtime efficiency.
 
-## AI and Machine Learning
+* [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://news.ycombinator.com/item?id=44853064) - A tool that makes generating audiobooks accessible by directly converting e-books and text.
 
-* [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the) - Discussion on the evolution of AI models from GPT-2 to open-source alternatives. [Comments](https://news.ycombinator.com/item?id=44855690)
+* [Resurrecting Google’s Search Appliance](https://lobste.rs/s/ensoxg/resurrecting_google_s_search_appliance) - A fascinating look into reviving legacy technology for modern use cases.
 
-* ['Hour of Code' Announces It's Now Evolving Into 'Hour of AI'](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Education initiative shifts focus towards AI-centric learning modules. [Comments](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Artificial Intelligence and Machine Learning
 
-* [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac) - Analysis highlights the strengths of diffusion models in data learning contexts. [Comments](https://news.ycombinator.com/item?id=44856101)
+* [Doomprompting Is the New Doomscrolling](https://lobste.rs/s/egtsjs/doomprompting_is_new_doomscrolling) - Analyzing how changing AI-enhanced interactions affect human behavior and mental health.
 
-## Remarkable Innovations
+* [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - Highlights disparities in AI access and affordability across the globe.
 
-* [Autonomous AI-Guided Black Hawk Helicopter Tested to Fight Wildfires](https://science.slashdot.org/story/25/08/10/237219/autonomous-ai-guided-black-hawk-helicopter-tested-to-fight-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative firefighting technology leverages sophisticated AI-powered helicopters for disaster mitigation. [Comments](https://science.slashdot.org/story/25/08/10/237219/autonomous-ai-guided-black-hawk-helicopter-tested-to-fight-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How Python is Fighting Open Source's Phantom Dependencies Problem](https://developers.slashdot.org/story/25/08/11/025214/how-python-is-fighting-open-sources-phantom-dependencies-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A solution-driven overview of challenges Python faces from phantom dependencies in its open-source ecosystem.
 
-* [Astrophysicist Proposes Paperclip-Sized Spacecraft Could Travel at Lightspeed to a Black Hole](https://science.slashdot.org/story/25/08/10/2124249/astrophysicist-proposes-paperclip-sized-spacecraft-could-travel-at-lightspeed-to-a-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hypothetical project suggests unbelievably small spacecraft may achieve lightspeed travel. [Comments](https://science.slashdot.org/story/25/08/10/2124249/astrophysicist-proposes-paperclip-sized-spacecraft-could-travel-at-lightspeed-to-a-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [$1M Stolen in 'Industrial-Scale Crypto Theft' Using AI-Generated Code](https://yro.slashdot.org/story/25/08/11/0037258/1m-stolen-in-industrial-scale-crypto-theft-using-ai-generated-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A case study analyzing risks associated with AI-generated malicious exploits.
 
-* [Meteorite That Hit Home Is Older Than Earth, Scientists Say](https://science.slashdot.org/story/25/08/10/1647247/meteorite-that-hit-home-is-older-than-earth-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers uncover evidence pointing to extraterrestrial origins predating planetary formation. [Comments](https://science.slashdot.org/story/25/08/10/1647247/meteorite-that-hit-home-is-older-than-earth-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Autonomous AI-Guided Black Hawk Helicopter Tested to Fight Wildfires](https://science.slashdot.org/story/25/08/10/237219/autonomous-ai-guided-black-hawk-helicopter-tested-to-fight-wildfires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fascinating use of AI in vital rescue and safety operations in response to natural disasters.
+
+## Open Source and Developer Tools
+
+* [Setting up a CI server for Forgejo](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - Step-by-step guide for developers employing continuous integration tools for Forgejo repositories.
+
+* [Compiling Lisp through Lambda Lifting](https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting) - A detailed process into how to optimize Lisp programs through lambda lifting techniques.
+
+* [How I code with AI on a budget/free](https://news.ycombinator.com/item?id=44850932) - A narrative exploring cost-effective AI tools for software programmers and developers.
+
+* [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://news.ycombinator.com/item?id=44856935) - A new scripting language emphasizing speed and deployability for developers.
+
+## Technology Ethics and Society
+
+* [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&from=rss) - A cautionary tale of overlooked vulnerabilities making staple software tools potential threat vectors.
+
+* [Hour of Code Announces It's Evolving Into Hour of AI](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how education initiatives are adapting to integrate AI coding principles.
 
 ---
 
@@ -57,7 +73,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-11, 09:43:58](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://www.fornjot.app/)
+* [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
+* [2025-08-11, 09:28:00](https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
+* [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss)
+* [2025-08-11, 08:38:06](https://lobste.rs/s/uonssp/exploiting_buggy_zilog_c_compiler) - [Exploiting a Buggy Zilog C Compiler](https://farlow.dev/2025/08/08/exploiting-a-buggy-zilog-c-compiler)
+* [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
+* [2025-08-11, 08:21:00](https://science.slashdot.org/story/25/08/11/068247/as-demand-for-plant-based-meat-weakens-in-the-us-beyond-disappoints-wall-street?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Demand for Plant-Based Meat Weakens in the US, Beyond Disappoints Wall Street](https://science.slashdot.org/story/25/08/11/068247/as-demand-for-plant-based-meat-weakens-in-the-us-beyond-disappoints-wall-street?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-11, 08:07:00](https://lobste.rs/s/egtsjs/doomprompting_is_new_doomscrolling) - [Doomprompting Is the New Doomscrolling](https://www.workingtheorys.com/p/doomprompting)
+* [2025-08-11, 07:59:18](https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram) - [Fundamental guide to understanding DRAM Memory](https://www.chiplog.io/p/fundamental-guide-to-understanding)
 * [2025-08-11, 06:38:28](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - [Unducking Typescript primitive aliases](https://zerotrickpony.com/unducking/)
+* [2025-08-11, 06:11:59](https://news.ycombinator.com/item?id=44861175) - [A ChatGPT Pro subscription costs 38.6 months of income in low-income countries](https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs)
 * [2025-08-11, 05:56:33](https://news.ycombinator.com/item?id=44861106) - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 * [2025-08-11, 05:21:00](https://tech.slashdot.org/story/25/08/11/0518238/how-12-enola-gay-crew-members-remember-dropping-the-atomic-bomb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How 12 &apos;Enola Gay&apos; Crew Members Remember Dropping the Atomic Bomb](https://tech.slashdot.org/story/25/08/11/0518238/how-12-enola-gay-crew-members-remember-dropping-the-atomic-bomb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 05:19:01](https://news.ycombinator.com/item?id=44860932) - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
@@ -75,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 00:40:00](https://yro.slashdot.org/story/25/08/11/0037258/1m-stolen-in-industrial-scale-crypto-theft-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [$1M Stolen in &apos;Industrial-Scale Crypto Theft&apos; Using AI-Generated Code](https://yro.slashdot.org/story/25/08/11/0037258/1m-stolen-in-industrial-scale-crypto-theft-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 00:33:09](https://news.ycombinator.com/item?id=44859710) - [TCP Client Self-Connect (2013)](http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html)
 * [2025-08-11, 00:31:03](https://lobste.rs/s/xvahem/tcp_client_self_connect_2013) - [TCP Client Self-Connect (2013)](https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html)
-* [2025-08-10, 23:59:12](https://lobste.rs/s/kscd3m/abusing_entra_oauth_for_fun_access) - [Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-10, 23:45:00](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss) - [Is Perrier as Pure as it Claims? The Bottled Water Scandal Gripping France](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss)
 * [2025-08-10, 23:09:00](https://science.slashdot.org/story/25/08/10/237219/autonomous-ai-guided-black-hawk-helicopter-tested-to-fight-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Autonomous AI-Guided Black Hawk Helicopter Tested to Fight Wildfires](https://science.slashdot.org/story/25/08/10/237219/autonomous-ai-guided-black-hawk-helicopter-tested-to-fight-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 22:35:44](https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting) - [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
@@ -88,10 +113,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-10, 18:48:00](https://hardware.slashdot.org/story/25/08/10/1845255/as-electric-bills-rise-evidence-mounts-that-us-data-centers-share-blame?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Electric Bills Rise, Evidence Mounts That U.S. Data Centers Share Blame](https://hardware.slashdot.org/story/25/08/10/1845255/as-electric-bills-rise-evidence-mounts-that-us-data-centers-share-blame?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 17:53:09](https://news.ycombinator.com/item?id=44856935) - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
 * [2025-08-10, 17:34:00](https://science.slashdot.org/story/25/08/10/1647247/meteorite-that-hit-home-is-older-than-earth-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meteorite That Hit Home Is Older Than Earth, Scientists Say](https://science.slashdot.org/story/25/08/10/1647247/meteorite-that-hit-home-is-older-than-earth-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-10, 17:19:25](https://news.ycombinator.com/item?id=44856667) - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
 * [2025-08-10, 16:50:34](https://news.ycombinator.com/item?id=44856426) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-10, 16:34:00](https://tech.slashdot.org/story/25/08/10/0314235/kde-calls-microsofts-copilot-key-dumb-will-let-you-remap-it-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE Calls Microsoft&apos;s Copilot Key &apos;Dumb&apos;, Will Let You Remap It Soon](https://tech.slashdot.org/story/25/08/10/0314235/kde-calls-microsofts-copilot-key-dumb-will-let-you-remap-it-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-10, 16:32:38](https://lobste.rs/s/t2e1a7/mcp_accidentally_universal_plugin) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 * [2025-08-10, 16:04:05](https://news.ycombinator.com/item?id=44856101) - [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 * [2025-08-10, 15:34:00](https://hardware.slashdot.org/story/25/08/09/040219/a-huge-2-billion-solar--storage-project-in-california-powers-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Huge $2 Billion &apos;Solar + Storage&apos; Project in California Powers Up](https://hardware.slashdot.org/story/25/08/09/040219/a-huge-2-billion-solar--storage-project-in-california-powers-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig&apos;s Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
@@ -99,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-10, 14:56:53](https://lobste.rs/s/ensoxg/resurrecting_google_s_search_appliance) - [Resurrecting Google&apos;s Search Appliance](https://www.youtube.com/watch?v=bjrmH7hVBOo)
 * [2025-08-10, 14:34:00](https://developers.slashdot.org/story/25/08/10/0449256/rusts-annual-tech-report-trusted-publishing-for-packages-and-a-crust-interop-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust&apos;s Annual Tech Report: Trusted Publishing for Packages and a C++/Rust Interop Strategy](https://developers.slashdot.org/story/25/08/10/0449256/rusts-annual-tech-report-trusted-publishing-for-packages-and-a-crust-interop-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 14:23:17](https://lobste.rs/s/8mdoo2/ohyaml_wtf_yaml_quiz) - [ohyaml.wtf | YAML Quiz](https://www.ohyaml.wtf/)
-* [2025-08-10, 14:15:43](https://lobste.rs/s/jrocec/speeding_up_javascript_ecosystem_semver) - [Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
 * [2025-08-10, 13:44:05](https://news.ycombinator.com/item?id=44855157) - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 * [2025-08-10, 13:32:13](https://news.ycombinator.com/item?id=44855079) - [Try and](https://ygdp.yale.edu/phenomena/try-and)
 * [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss)
@@ -109,42 +131,37 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-10, 11:29:32](https://lobste.rs/s/424inu/creating_high_quality_electronics) - [Creating high quality electronics schematics](https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html)
 * [2025-08-10, 10:08:42](https://lobste.rs/s/1z3oiy/elixir_misconceptions_1_don_t_let_it_crash) - [Elixir Misconceptions #1 - Don&apos;t \&quot;let it crash\&quot; but \&quot;let it heal\&quot;](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-10, 09:50:25](https://news.ycombinator.com/item?id=44854035) - [Writing simple tab-completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-* [2025-08-10, 09:45:43](https://lobste.rs/s/avxwbl/introducing_rr_chaos_mode_2016) - [Introducing rr Chaos Mode (2016)](https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 * [2025-08-10, 08:32:31](https://lobste.rs/s/cghulj/onion_stack_language_compiled_lua) - [onion: Stack language compiled to lua](https://github.com/yumaikas/onion)
 * [2025-08-10, 08:28:00](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss) - [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss)
 * [2025-08-10, 07:34:00](https://tech.slashdot.org/story/25/08/10/0626249/aol-finally-discontinues-its-dial-up-internet-access---after-34-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years](https://tech.slashdot.org/story/25/08/10/0626249/aol-finally-discontinues-its-dial-up-internet-access---after-34-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
+* [2025-08-10, 05:56:14](https://news.ycombinator.com/item?id=44853064) - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 * [2025-08-10, 05:13:28](https://lobste.rs/s/fcwft7/all_on_omarchy_at_37signals) - [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
 * [2025-08-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss) - [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss)
 * [2025-08-10, 03:34:00](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Hour of Code&apos; Announces It&apos;s Now Evolving Into &apos;Hour of AI&apos;](https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-10, 01:34:00](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX&apos;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space](https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-10, 00:39:33](https://lobste.rs/s/kqv0a7/first_time_i_was_almost_fired_from_apple) - [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
-* [2025-08-09, 23:05:39](https://lobste.rs/s/tvdgb4/gpts_feeling_left_behind) - [GPTs and feeling left behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
 * [2025-08-09, 23:01:00](https://soylentnews.org/article.pl?sid=25/08/09/0123224&amp;from=rss) - [Personalized Pricing Has Spread Across Many Industries. Here&apos;s How Consumers Can Avoid It](https://soylentnews.org/article.pl?sid=25/08/09/0123224&amp;from=rss)
 * [2025-08-09, 22:27:37](https://news.ycombinator.com/item?id=44850913) - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 * [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \&quot;trixie\&quot; released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 18:15:00](https://soylentnews.org/article.pl?sid=25/08/09/0113237&amp;from=rss) - [YouTube to Gauge US Users’ Ages With AI After UK and Australia Add Age Checks](https://soylentnews.org/article.pl?sid=25/08/09/0113237&amp;from=rss)
 * [2025-08-09, 13:48:00](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss) - [Hacker Summer Camp: What to Expect From BSides, Black Hat, and DEF CON](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss)
-* [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer&apos;s perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:02:00](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss) - [An Ohio Couple Welcomes a Baby Boy From a Nearly 31-Year-Old Frozen Embryo](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss)
 * [2025-08-09, 04:16:00](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss) - [KubeSphere Kills Open Source Edition](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss)
-* [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-08, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/08/0056210&amp;from=rss) - [RFK Jr Cancels $500m in mRNA Vaccine Development in the US](https://soylentnews.org/article.pl?sid=25/08/08/0056210&amp;from=rss)
 * [2025-08-08, 18:50:00](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss) - [More Malware Uploaded to Arch Linux AUR](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss)
 * [2025-08-08, 14:05:00](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss) - [Ubuntu Replacing wget With wcurl](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss)
+* [2025-08-08, 11:14:33](https://news.ycombinator.com/item?id=44835703) - [Dropbox announces new gen server hardware for higher efficiency and scalability](https://dropbox.tech/infrastructure/seventh-generation-server-hardware)
+* [2025-08-08, 09:36:23](https://news.ycombinator.com/item?id=44835161) - [Show HN: I built a service to run Claude Code in the Cloud](https://agentwrap.dev/)
 * [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss)
 * [2025-08-08, 05:02:23](https://news.ycombinator.com/item?id=44833607) - [The enduring puzzle of static electricity](https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven)
 * [2025-08-08, 04:35:00](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss) - [China&apos;s Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss)
-* [2025-08-08, 04:34:54](https://news.ycombinator.com/item?id=44833448) - [Digital Foundry leaves IGN, now independent [video]](https://www.youtube.com/watch?v=tl7bIJ2yu4I)
-* [2025-08-08, 00:29:19](https://news.ycombinator.com/item?id=44832060) - [Reflections on Soviet Amateur Photography](https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/)
 * [2025-08-07, 23:52:00](https://soylentnews.org/article.pl?sid=25/08/06/1435231&amp;from=rss) - [OpenAI Announces Two “gpt-oss” Open AI Models, and You Can Download Them Today](https://soylentnews.org/article.pl?sid=25/08/06/1435231&amp;from=rss)
 * [2025-08-07, 19:07:00](https://soylentnews.org/article.pl?sid=25/08/06/1129217&amp;from=rss) - [U.S. Semiconductor Design Company Fined $140 Million Over China Dealings](https://soylentnews.org/article.pl?sid=25/08/06/1129217&amp;from=rss)
 * [2025-08-07, 14:57:34](https://news.ycombinator.com/item?id=44825347) - [Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”](https://mrwint.github.io/winter/writeup/writeup2.html)
 * [2025-08-07, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss) - [AWS Deleted a 10-Year Account and All Data Without Warning](https://soylentnews.org/article.pl?sid=25/08/06/1123237&amp;from=rss)
-* [2025-08-07, 13:39:25](https://news.ycombinator.com/item?id=44824321) - [Easily run Windows software on Linux with Bottles](https://usebottles.com/)
 * [2025-08-07, 11:49:17](https://news.ycombinator.com/item?id=44823272) - [PHP compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
-* [2025-08-07, 09:39:42](https://news.ycombinator.com/item?id=44822486) - [\&quot;McKinsey in a Box\&quot;: The End of Strategic Consulting?](https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting)
+* [2025-08-07, 10:23:12](https://news.ycombinator.com/item?id=44822730) - [Millau Viaduct](https://www.fosterandpartners.com/projects/millau-viaduct)
 * [2025-08-07, 09:33:00](https://soylentnews.org/article.pl?sid=25/08/05/1550247&amp;from=rss) - [Underwater Robot Draws in Millions of Viewers](https://soylentnews.org/article.pl?sid=25/08/05/1550247&amp;from=rss)
 * [2025-08-07, 08:37:29](https://news.ycombinator.com/item?id=44822076) - [Bouncing on trampolines to run eBPF programs](https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/)
 * [2025-08-07, 08:04:04](https://news.ycombinator.com/item?id=44821848) - [Lists and Lists: Basics of Lisp through interactive fiction (1996)](https://eblong.com/zarf/zweb/lists/)
