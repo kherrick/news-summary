@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Logical Reasoning
+## Cutting-edge Scientific Developments
 
-* [LLMs' "simulated reasoning" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/) ([comments](https://news.ycombinator.com/item?id=44872850))
+* [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - Researchers are developing ultra-durable bacterial cellulose sheets as an eco-friendly alternative to plastic products. [Comments](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
 
-* [LLMs' 'Simulated Reasoning' Abilities Are a 'Brittle Mirage,' Researchers Find](https://slashdot.org/story/25/08/11/2253229/llms-simulated-reasoning-abilities-are-a-brittle-mirage-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Quantum 'Schrödinger's Cat' Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss) - Scientists conduct an unparalleled quantum physics experiment, keeping a Schrödinger's cat state alive for over 23 minutes. [Comments](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
 
-## Space and Satellite Technology
+* [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss) - Researchers in Japan are pioneering efforts to develop artificial blood with the potential to revolutionize medical treatments. [Comments](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss)
 
-* [Amazon's Starlink Competitor Tops 100 Satellites](https://tech.slashdot.org/story/25/08/12/045203/amazons-starlink-competitor-tops-100-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Tech and Software Innovations
 
-## Cybersecurity and Digital Privacy
+* [The 'high-level CPU' challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html) - A thought-provoking challenge asks what we might achieve with extreme abstractions in CPU design. [Comments](https://lobste.rs/s/ykunj2/high_level_cpu_challenge)
 
-* [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/) ([comments](https://news.ycombinator.com/item?id=44872313))
+* [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/) - A creator details how advanced tools can emerge from minimalist codebases. [Comments](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable)
 
-* [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss)
+* [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki) - A debut announcement of 'Neki,' a sharded Postgres solution seeking to balance high performance and distributed database needs. [Comments](https://news.ycombinator.com/item?id=44867374)
 
-* [The Dead Need Right To Delete Their Data So They Can't Be AI-ified, Lawyer Says](https://yro.slashdot.org/story/25/08/11/2248200/the-dead-need-right-to-delete-their-data-so-they-cant-be-ai-ified-lawyer-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI, Privacy, and Ethics
 
-## Technological Innovations
+* [LLMs' 'Simulated Reasoning' Abilities Are a 'Brittle Mirage,' Researchers Find](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/) - Studies suggest large language models excel at creating plausible-sounding nonsense rather than true logical inference. [Comments](https://news.ycombinator.com/item?id=44872850)
 
-* [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/) ([comments](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable))
+* [The Dead Need Right To Delete Their Data So They Can't Be AI-ified, Lawyer Says](https://yro.slashdot.org/story/25/08/11/2248200/the-dead-need-right-to-delete-their-data-so-they-cant-be-ai-ified-lawyer-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal arguments arise around post-mortem rights in the age of data persistence and AI. [Comments](https://yro.slashdot.org/story/25/08/11/2248200/the-dead-need-right-to-delete-their-data-so-they-cant-be-ai-ified-lawyer-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html) ([comments](https://news.ycombinator.com/item?id=44871901))
+* [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/) - A controversy unfolds as certain software is discovered to potentially compromise clipboard data. [Comments](https://news.ycombinator.com/item?id=44872313)
 
-* [uxn](https://100r.co/site/uxn.html) ([comments](https://lobste.rs/s/3aogtw/uxn))
+## Environment and Sustainability
 
-## Legal and Corporate Developments
+* [Amazon's Starlink Competitor Tops 100 Satellites](https://tech.slashdot.org/story/25/08/12/045203/amazons-starlink-competitor-tops-100-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's satellite internet competitor reaches a major milestone, escalating the race for global connectivity. [Comments](https://tech.slashdot.org/story/25/08/12/045203/amazons-starlink-competitor-tops-100-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/) ([comments](https://news.ycombinator.com/item?id=44870895))
+* [Jellyfish Swarm Forces French Nuclear Plant To Shut](https://hardware.slashdot.org/story/25/08/11/2113213/jellyfish-swarm-forces-french-nuclear-plant-to-shut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An unexpected environmental factor forces an energy shutdown, revealing vulnerabilities in infrastructure. [Comments](https://hardware.slashdot.org/story/25/08/11/2113213/jellyfish-swarm-forces-french-nuclear-plant-to-shut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Energy and Environment
+* [Biochar From Human Waste Could Solve Global Fertilizer Shortages, Study Finds](https://news.slashdot.org/story/25/08/11/1939238/biochar-from-human-waste-could-solve-global-fertilizer-shortages-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Turning human waste into biochar offers a potential breakthrough solution for fertilizer shortages and waste management. [Comments](https://news.slashdot.org/story/25/08/11/1939238/biochar-from-human-waste-could-solve-global-fertilizer-shortages-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Jellyfish Swarm Forces French Nuclear Plant To Shut](https://hardware.slashdot.org/story/25/08/11/2113213/jellyfish-swarm-forces-french-nuclear-plant-to-shut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Historical and Cultural Highlights
 
-## Social and Cultural Topics
+* [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488) - Remembering the influential typographer behind the Hack programming font. [Comments](https://news.ycombinator.com/item?id=44871817)
 
-* [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488) ([comments](https://news.ycombinator.com/item?id=44871817))
+* [RIP: Dame Stephanie 'Steve' Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss) - Celebrating the life of a tech pioneer and advocate for women in business and computer engineering. [Comments](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss)
 
-* [RIP: Dame Stephanie 'Steve' Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss)
+* [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp) - Delve into the legacy of one of the most celebrated operating systems. [Comments](https://lobste.rs/s/en2zdl/history_windows_xp)
 
 ---
 
@@ -65,6 +65,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
+* [2025-08-12, 08:54:36](https://lobste.rs/s/odyti6/anything_you_can_do_i_can_do_worse_with) - [Anything you can do, I can do worse with macro_rules (2023)](https://www.youtube.com/watch?v=7uSM60jlkBE)
+* [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
+* [2025-08-12, 08:11:36](https://lobste.rs/s/hs9zf7/mutually_attacking_knights) - [Mutually Attacking Knights](https://susam.net/mutually-attacking-knights.html)
+* [2025-08-12, 07:17:35](https://lobste.rs/s/ykunj2/high_level_cpu_challenge) - [The \&quot;high-level CPU\&quot; challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
+* [2025-08-12, 07:00:06](https://news.ycombinator.com/item?id=44873222) - [CoLoop (YC S21) Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
 * [2025-08-12, 07:00:00](https://tech.slashdot.org/story/25/08/12/045203/amazons-starlink-competitor-tops-100-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Starlink Competitor Tops 100 Satellites](https://tech.slashdot.org/story/25/08/12/045203/amazons-starlink-competitor-tops-100-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-12, 05:52:47](https://news.ycombinator.com/item?id=44872850) - [LLMs&apos; \&quot;simulated reasoning\&quot; abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 * [2025-08-12, 05:05:55](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable) - [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/)
@@ -72,7 +78,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 04:08:13](https://news.ycombinator.com/item?id=44872313) - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 * [2025-08-12, 03:30:00](https://slashdot.org/story/25/08/11/2253229/llms-simulated-reasoning-abilities-are-a-brittle-mirage-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LLMs&apos; &apos;Simulated Reasoning&apos; Abilities Are a &apos;Brittle Mirage,&apos; Researchers Find](https://slashdot.org/story/25/08/11/2253229/llms-simulated-reasoning-abilities-are-a-brittle-mirage-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-12, 03:16:14](https://lobste.rs/s/ye4man/sonshi_style_k_keyboard_on_laptop) - [Sonshi-style a.k.a. Keyboard on Laptop](https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/)
-* [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
+* [2025-08-12, 03:05:22](https://news.ycombinator.com/item?id=44871901) - [Weathering Software Winter (2022)](https://100r.co/site/weathering_software_winter.html)
 * [2025-08-12, 03:01:30](https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver) - [ai reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
 * [2025-08-12, 02:51:53](https://news.ycombinator.com/item?id=44871817) - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
 * [2025-08-12, 02:35:24](https://lobste.rs/s/3aogtw/uxn) - [uxn](https://100r.co/site/uxn.html)
@@ -85,9 +91,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 23:50:00](https://yro.slashdot.org/story/25/08/11/2236208/trump-calls-intel-ceo-a-success-after-demanding-resignation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Calls Intel CEO a &apos;Success&apos; After Demanding Resignation](https://yro.slashdot.org/story/25/08/11/2236208/trump-calls-intel-ceo-a-success-after-demanding-resignation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss) - [Quantum \&quot;Schrödinger&apos;s Cat\&quot; Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
 * [2025-08-11, 23:10:00](https://tech.slashdot.org/story/25/08/11/2142246/gm-plans-renewed-push-on-driverless-cars-after-cruise-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Plans Renewed Push On Driverless Cars After Cruise Debacle](https://tech.slashdot.org/story/25/08/11/2142246/gm-plans-renewed-push-on-driverless-cars-after-cruise-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-11, 23:03:37](https://news.ycombinator.com/item?id=44870445) - [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
-* [2025-08-11, 22:39:41](https://news.ycombinator.com/item?id=44870277) - [Starbucks in Korea asks customers to stop bringing in printers/desktop computers](https://fortune.com/2025/08/11/starbucks-south-korea-policy-desktop-computer-printer-ban-cagongjok/)
 * [2025-08-11, 22:30:00](https://slashdot.org/story/25/08/11/2133223/eu-commission-approves-48-billion-prosus-takeover-of-just-eat-takeaway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Commission Approves $4.8 Billion Prosus&apos; Takeover of Just Eat Takeaway](https://slashdot.org/story/25/08/11/2133223/eu-commission-approves-48-billion-prosus-takeover-of-just-eat-takeaway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 22:21:53](https://news.ycombinator.com/item?id=44870137) - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 * [2025-08-11, 21:50:00](https://yro.slashdot.org/story/25/08/11/2123206/nvidia-and-amd-to-pay-15-of-china-chip-sale-revenues-to-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia and AMD To Pay 15% of China Chip Sale Revenues To US Government](https://yro.slashdot.org/story/25/08/11/2123206/nvidia-and-amd-to-pay-15-of-china-chip-sale-revenues-to-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
 * [2025-08-11, 20:10:00](https://news.slashdot.org/story/25/08/11/1939238/biochar-from-human-waste-could-solve-global-fertilizer-shortages-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Biochar From Human Waste Could Solve Global Fertilizer Shortages, Study Finds](https://news.slashdot.org/story/25/08/11/1939238/biochar-from-human-waste-could-solve-global-fertilizer-shortages-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 19:30:00](https://it.slashdot.org/story/25/08/11/1858209/promising-linux-project-dies-after-dev-faces-harassment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Promising Linux Project Dies After Dev Faces Harassment](https://it.slashdot.org/story/25/08/11/1858209/promising-linux-project-dies-after-dev-faces-harassment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-11, 19:27:15](https://lobste.rs/s/cxt89q/colour_malarkey_2023) - [Colour Malarkey (2023)](https://www.retrorgb.com/colour-malarkey.html)
 * [2025-08-11, 18:51:00](https://it.slashdot.org/story/25/08/11/1851211/starbucks-asks-customers-in-south-korea-to-stop-bringing-printers-and-desktop-computers-into-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Starbucks Asks Customers in South Korea To Stop Bringing Printers and Desktop Computers Into Stores](https://it.slashdot.org/story/25/08/11/1851211/starbucks-asks-customers-in-south-korea-to-stop-bringing-printers-and-desktop-computers-into-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss)
 * [2025-08-11, 18:12:00](https://hardware.slashdot.org/story/25/08/11/1814206/americas-clean-hydrogen-dreams-are-fading-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Clean Hydrogen Dreams Are Fading, Again](https://hardware.slashdot.org/story/25/08/11/1814206/americas-clean-hydrogen-dreams-are-fading-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 16:50:00](https://news.slashdot.org/story/25/08/11/1650253/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://news.slashdot.org/story/25/08/11/1650253/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-11, 16:33:26](https://news.ycombinator.com/item?id=44866208) - [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
-* [2025-08-11, 16:05:30](https://lobste.rs/s/l2tn82/choosing_typeface) - [Choosing typeface](https://imperavi.com/books/ui-typography/basis/choosing-typeface/)
 * [2025-08-11, 15:48:34](https://lobste.rs/s/hlyyv9/tour_standard_ml_2021) - [A Tour of Standard ML (2021)](https://saityi.github.io/sml-tour/tour/welcome)
 * [2025-08-11, 15:47:48](https://news.ycombinator.com/item?id=44865560) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [2025-08-11, 15:30:49](https://news.ycombinator.com/item?id=44865290) - [Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use](https://news.ycombinator.com/item?id=44865290)
@@ -123,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 13:59:02](https://news.ycombinator.com/item?id=44864134) - [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-11, 13:12:41](https://lobste.rs/s/y6cpkw/llm_coding_assistant_census) - [LLM Coding Assistant Census](https://aleyan.com/blog/2025-llm-assistant-census/)
 * [2025-08-11, 12:01:58](https://news.ycombinator.com/item?id=44863242) - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
-* [2025-08-11, 11:33:50](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week)
 * [2025-08-11, 11:09:44](https://lobste.rs/s/gezsia/bevy_s_fifth_birthday) - [Bevy&apos;s Fifth Birthday](https://bevy.org/news/bevys-fifth-birthday/)
 * [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss)
@@ -131,7 +132,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 07:15:38](https://news.ycombinator.com/item?id=44861521) - [AOL to discontinue dial-up internet](https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html)
 * [2025-08-11, 05:14:00](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss) - [RIP: James Lovell Dead at 97](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss)
 * [2025-08-11, 04:34:00](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss) - [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss)
-* [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)
+* [2025-08-11, 01:32:31](https://news.ycombinator.com/item?id=44860015) - [Optimizing my sleep around Claude usage limits](https://mattwie.se/no-sleep-till-agi)
 * [2025-08-10, 23:45:00](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss) - [Is Perrier as Pure as it Claims? The Bottled Water Scandal Gripping France](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss)
 * [2025-08-10, 19:37:25](https://news.ycombinator.com/item?id=44857643) - [How Boom uses software to accelerate hardware development](https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical)
 * [2025-08-10, 18:57:00](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss) - [Man Swaps His Salt for Sodium Bromide—and Suffers Psychosis](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss)
@@ -151,10 +152,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-08, 19:11:13](https://news.ycombinator.com/item?id=44840573) - [How to teach your kids to play poker: Start with one card](https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four)
 * [2025-08-08, 18:50:00](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss) - [More Malware Uploaded to Arch Linux AUR](https://soylentnews.org/article.pl?sid=25/08/07/1131203&amp;from=rss)
 * [2025-08-08, 17:32:57](https://news.ycombinator.com/item?id=44839575) - [All known 49-year-old Apple-1 computer](https://www.apple1registry.com/en/list.html)
-* [2025-08-08, 17:25:03](https://news.ycombinator.com/item?id=44839496) - [Byte Buddy is a code generation and manipulation library for Java](https://bytebuddy.net/)
-* [2025-08-08, 15:17:40](https://news.ycombinator.com/item?id=44838029) - [You&apos;re Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)
 * [2025-08-08, 15:10:54](https://news.ycombinator.com/item?id=44837949) - [Why tail-recursive functions are loops](https://kmicinski.com/functional-programming/2025/08/01/loops/)
+* [2025-08-08, 14:06:18](https://news.ycombinator.com/item?id=44837124) - [Artificial biosensor can better measure the body&apos;s main stress hormone](https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html)
 * [2025-08-08, 14:05:00](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss) - [Ubuntu Replacing wget With wcurl](https://soylentnews.org/article.pl?sid=25/08/07/0255247&amp;from=rss)
+* [2025-08-08, 12:38:11](https://news.ycombinator.com/item?id=44836294) - [A fast, low-latency, open-hardware e-paper monitor and dev kit](https://www.crowdsupply.com/modos-tech/modos-paper-monitor)
 * [2025-08-08, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss) - [Hiding Secret Codes in Light Can Protect Against Fake Videos](https://soylentnews.org/article.pl?sid=25/08/07/0248239&amp;from=rss)
 * [2025-08-08, 05:51:02](https://news.ycombinator.com/item?id=44833869) - [FreeBSD Scheduling on Hybrid CPUs](https://wiki.freebsd.org/Scheduler/Hybrid)
 * [2025-08-08, 04:35:00](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss) - [China&apos;s Solar Giants Quietly Shed a Third of Their Workforces Last Year](https://soylentnews.org/article.pl?sid=25/08/06/235236&amp;from=rss)
