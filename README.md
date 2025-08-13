@@ -1,42 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Artificial Intelligence and Technology Advancements
 
-* [Cornell Researchers Develop Invisible Light-Based Watermark To Detect Deepfakes](https://slashdot.org/story/25/08/12/2214243/cornell-researchers-develop-invisible-light-based-watermark-to-detect-deepfakes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers from Cornell University have introduced a cutting-edge technique that leverages invisible light-based watermarks to address deepfake detection challenges.
+* [Why does AI feel so different?](https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/) ([comments](https://news.ycombinator.com/item?id=44884825))
 
-* [Google and IBM Believe First Workable Quantum Computer is in Sight](https://tech.slashdot.org/story/25/08/12/2048213/google-and-ibm-believe-first-workable-quantum-computer-is-in-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking leap forward in quantum computing as Google and IBM signal imminence of a functional quantum machine.
+* [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/12/0427247&from=rss))
 
-* [AI Is Forcing the Return of the In-Person Job Interview](https://slashdot.org/story/25/08/12/1913202/ai-is-forcing-the-return-of-the-in-person-job-interview?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Trends in AI-driven job applications highlight how automation may be prompting a resurgence in face-to-face interviews.
+* [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407) ([comments](https://news.ycombinator.com/item?id=44884091))
 
-* [Microsoft is Trying To Poach Meta AI Talent and Offering Multimillion-Dollar Pay Packages](https://slashdot.org/story/25/08/12/1726210/microsoft-is-trying-to-poach-meta-ai-talent-and-offering-multimillion-dollar-pay-packages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft ramps up its recruitment efforts for AI expertise with lucrative packages aimed at Meta professionals.
+* [Google and IBM Believe First Workable Quantum Computer is in Sight](https://tech.slashdot.org/story/25/08/12/2048213/google-and-ibm-believe-first-workable-quantum-computer-is-in-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/08/12/2048213/google-and-ibm-believe-first-workable-quantum-computer-is-in-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Cultural and Urban Observations
+* [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs) ([comments](https://news.ycombinator.com/item?id=44883987))
 
-* [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/) - Dive into a captivating visualization of textual elements across the sprawling urban canvas of New York City streets.
+## Software and Open Source Developments
 
-* [Search all text in New York City](https://www.alltext.nyc/) - Explore an innovative platform that enables searching across NYC, transforming how text-driven exploration is approached in urban landscapes.
+* [Go 1.25 Release Notes](https://go.dev/doc/go1.25) ([comments](https://lobste.rs/s/fh5wex/go_1_25_release_notes))
 
-## Cybersecurity Concerns
+* [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0) ([comments](https://lobste.rs/s/kvit4x/syncthing_v2_0))
 
-* [Russia Is Suspected To Be Behind Breach of Federal Court Filing System](https://yro.slashdot.org/story/25/08/12/213252/russia-is-suspected-to-be-behind-breach-of-federal-court-filing-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Speculation of Russian involvement in compromising confidential court filing systems signals heightened threats in cybersecurity.
+* [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/) ([comments](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa))
 
-* [Sloppy AI Defenses Take Cybersecurity Back To the 1990s, Researchers Say](https://it.slashdot.org/story/25/08/12/2037200/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights on the growing ineffectiveness of current AI security measures reminiscent of older cybersecurity eras.
+## Cybersecurity and Cryptography
 
-## Historical and Scientific Insights
+* [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/11/2227259&from=rss))
 
-* [Quantum 'Schrödinger's Cat' Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&from=rss) - Scientists achieve a remarkable feat as Schrödinger's Cat persists in a quantum state for an unprecedented duration.
+* [Russia Is Suspected To Be Behind Breach of Federal Court Filing System](https://yro.slashdot.org/story/25/08/12/213252/russia-is-suspected-to-be-behind-breach-of-federal-court-filing-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/08/12/213252/russia-is-suspected-to-be-behind-breach-of-federal-court-filing-system?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp) - Delve into the legacy and developmental history of one of Microsoft’s most iconic operating systems, Windows XP.
+## Cultural and Historical Insights
 
-## Environmental Innovations
+* [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856) ([comments](https://news.ycombinator.com/item?id=44884393))
 
-* [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&from=rss) - A novel approach to sustainable material development with potential to revolutionize applications in biodegradable plastics.
+* [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/) ([comments](https://lobste.rs/s/86ptga/nyc_s_urban_textscape))
 
-## Community and Ethics in Technology
+## Legal and Ethical Concerns in Tech
 
-* [Do Kwon Pleads Guilty to US Fraud Charges In $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/08/12/2142218/do-kwon-pleads-guilty-to-us-fraud-charges-in-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The chilling saga of fraud in the cryptocurrency sector sees closure with significant implications for financial ethics.
+* [Do Kwon Pleads Guilty to US Fraud Charges In $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/08/12/2142218/do-kwon-pleads-guilty-to-us-fraud-charges-in-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/08/12/2142218/do-kwon-pleads-guilty-to-us-fraud-charges-in-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Fight Chat Control](https://fightchatcontrol.eu/) - Activists rally against digital surveillance and explore the impact of chat control policies on privacy and freedom.
+* [Linus Torvalds Blasts Kernel Dev For 'Making the World Worse' With 'Garbage' Patches](https://linux.slashdot.org/story/25/08/12/2150211/linus-torvalds-blasts-kernel-dev-for-making-the-world-worse-with-garbage-patches?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://linux.slashdot.org/story/25/08/12/2150211/linus-torvalds-blasts-kernel-dev-for-making-the-world-worse-with-garbage-patches?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Innovative Ideas and Experiments
+
+* [Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/) ([comments](https://news.ycombinator.com/item?id=44878151))
+
+* [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/) ([comments](https://news.ycombinator.com/item?id=44884546))
 
 ---
 
@@ -63,13 +69,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-13, 05:12:58](https://news.ycombinator.com/item?id=44884825) - [Why does AI feel so different?](https://blog.nilenso.com/blog/2025/08/12/why-does-ai-feel-so-different/)
+* [2025-08-13, 04:43:39](https://news.ycombinator.com/item?id=44884709) - [F-Droid build servers can&apos;t build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
+* [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
+* [2025-08-13, 04:08:45](https://lobste.rs/s/4zxyua/numba_v2_compiler_design) - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
+* [2025-08-13, 04:03:18](https://news.ycombinator.com/item?id=44884546) - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 * [2025-08-13, 03:57:41](https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files) - [Fennel libraries as single files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 * [2025-08-13, 03:51:00](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss) - [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss)
 * [2025-08-13, 03:30:00](https://linux.slashdot.org/story/25/08/12/2150211/linus-torvalds-blasts-kernel-dev-for-making-the-world-worse-with-garbage-patches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds Blasts Kernel Dev For &apos;Making the World Worse&apos; With &apos;Garbage&apos; Patches](https://linux.slashdot.org/story/25/08/12/2150211/linus-torvalds-blasts-kernel-dev-for-making-the-world-worse-with-garbage-patches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-13, 03:24:19](https://lobste.rs/s/oyqcxq/claude_code_is_all_you_need) - [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+* [2025-08-13, 03:26:53](https://news.ycombinator.com/item?id=44884393) - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
+* [2025-08-13, 02:26:32](https://news.ycombinator.com/item?id=44884091) - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
 * [2025-08-13, 02:09:18](https://news.ycombinator.com/item?id=44883987) - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
 * [2025-08-13, 02:01:16](https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still) - [Crowdsourcing Broken QR Codes (Still)](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
-* [2025-08-13, 01:50:17](https://news.ycombinator.com/item?id=44883870) - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
 * [2025-08-13, 01:25:00](https://slashdot.org/story/25/08/12/2214243/cornell-researchers-develop-invisible-light-based-watermark-to-detect-deepfakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cornell Researchers Develop Invisible Light-Based Watermark To Detect Deepfakes](https://slashdot.org/story/25/08/12/2214243/cornell-researchers-develop-invisible-light-based-watermark-to-detect-deepfakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 01:18:23](https://lobste.rs/s/86ptga/nyc_s_urban_textscape) - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/)
 * [2025-08-13, 00:45:00](https://yro.slashdot.org/story/25/08/12/2142218/do-kwon-pleads-guilty-to-us-fraud-charges-in-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Kwon Pleads Guilty to US Fraud Charges In $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/08/12/2142218/do-kwon-pleads-guilty-to-us-fraud-charges-in-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -79,9 +90,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 23:20:00](https://news.slashdot.org/story/25/08/12/2050216/boston-public-library-aims-to-increase-access-to-a-vast-historic-archive-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boston Public Library Aims To Increase Access To a Vast Historic Archive Using AI](https://news.slashdot.org/story/25/08/12/2050216/boston-public-library-aims-to-increase-access-to-a-vast-historic-archive-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss)
 * [2025-08-12, 22:41:00](https://tech.slashdot.org/story/25/08/12/2048213/google-and-ibm-believe-first-workable-quantum-computer-is-in-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google and IBM Believe First Workable Quantum Computer is in Sight](https://tech.slashdot.org/story/25/08/12/2048213/google-and-ibm-believe-first-workable-quantum-computer-is-in-sight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-12, 22:19:08](https://news.ycombinator.com/item?id=44882441) - [Show HN: Doom port to pure Go – Gore](https://github.com/AndreRenaud/gore)
 * [2025-08-12, 22:18:55](https://news.ycombinator.com/item?id=44882438) - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
 * [2025-08-12, 22:00:00](https://it.slashdot.org/story/25/08/12/2037200/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sloppy AI Defenses Take Cybersecurity Back To the 1990s, Researchers Say](https://it.slashdot.org/story/25/08/12/2037200/sloppy-ai-defenses-take-cybersecurity-back-to-the-1990s-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-12, 21:25:01](https://news.ycombinator.com/item?id=44881977) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 21:20:00](https://tech.slashdot.org/story/25/08/12/2018257/threads-now-has-more-than-400-million-monthly-active-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Threads Now Has More Than 400 Million Monthly Active Users](https://tech.slashdot.org/story/25/08/12/2018257/threads-now-has-more-than-400-million-monthly-active-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-12, 21:13:48](https://lobste.rs/s/a7avpz/introduction_python_rust_interop_for) - [An Introduction to Python-Rust Interop for Scientific Codebases](https://github.com/nrposner/coding_club)
 * [2025-08-12, 20:40:00](https://slashdot.org/story/25/08/12/2011252/china-urges-firms-to-avoid-nvidia-h20-chips-after-trump-resumes-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Urges Firms To Avoid Nvidia H20 Chips After Trump Resumes Sales](https://slashdot.org/story/25/08/12/2011252/china-urges-firms-to-avoid-nvidia-h20-chips-after-trump-resumes-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,17 +113,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 16:33:38](https://news.ycombinator.com/item?id=44878650) - [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
 * [2025-08-12, 16:31:02](https://lobste.rs/s/jfvyez/git_interactive_rebase_order_is_wrong) - [Git Interactive Rebase Order is Wrong (2019)](https://salferrarello.com/git-interactive-rebase-order-is-wrong/)
 * [2025-08-12, 16:19:42](https://lobste.rs/s/1fduyi/jenny_s_daily_drivers_freedos_1_4) - [Jenny’s Daily Drivers: FreeDOS 1.4](https://hackaday.com/2025/08/06/jennys-daily-drivers-freedos-1-4/)
-* [2025-08-12, 16:10:03](https://news.ycombinator.com/item?id=44878257) - [Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics](https://news.ycombinator.com/item?id=44878257)
 * [2025-08-12, 16:02:40](https://news.ycombinator.com/item?id=44878151) - [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
 * [2025-08-12, 16:02:23](https://news.ycombinator.com/item?id=44878147) - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
-* [2025-08-12, 15:19:35](https://news.ycombinator.com/item?id=44877404) - [Evaluating LLMs playing text adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 * [2025-08-12, 14:56:53](https://news.ycombinator.com/item?id=44877076) - [Why are there so many rationalist cults?](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
 * [2025-08-12, 14:04:40](https://news.ycombinator.com/item?id=44876356) - [Journaling using Nix, Vim and coreutils](https://tangled.sh/@oppi.li/journal)
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss)
 * [2025-08-12, 13:41:44](https://lobste.rs/s/9tcapq/stylish_bugs) - [stylish bugs](https://flak.tedunangst.com/post/stylish-bugs)
 * [2025-08-12, 13:32:16](https://news.ycombinator.com/item?id=44875992) - [Training language models to be warm and empathetic makes them less reliable](https://arxiv.org/abs/2507.21919)
-* [2025-08-12, 11:42:31](https://lobste.rs/s/bguepr/desired_features_git_killer_next) - [Desired features in a \&quot;git-killer\&quot; (next-generation DVCS)](https://heidiwaterhouse.com/git-along-now/)
 * [2025-08-12, 11:34:39](https://lobste.rs/s/puv5fm/radicle_1_3_0) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
 * [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \&quot;Hello World\&quot; in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
@@ -121,6 +129,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 07:17:35](https://lobste.rs/s/ykunj2/high_level_cpu_challenge_2008) - [The \&quot;high-level CPU\&quot; challenge (2008)](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 * [2025-08-12, 05:05:55](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable) - [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss)
+* [2025-08-12, 03:35:52](https://news.ycombinator.com/item?id=44872114) - [From Here?](https://www.dirtyfeed.org/2025/07/from-here/)
 * [2025-08-12, 03:01:30](https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver) - [ai reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
 * [2025-08-12, 02:35:24](https://lobste.rs/s/3aogtw/uxn) - [uxn](https://100r.co/site/uxn.html)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss) - [Quantum \&quot;Schrödinger&apos;s Cat\&quot; Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
@@ -136,22 +145,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 04:34:00](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss) - [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss)
 * [2025-08-10, 23:45:00](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss) - [Is Perrier as Pure as it Claims? The Bottled Water Scandal Gripping France](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss)
 * [2025-08-10, 18:57:00](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss) - [Man Swaps His Salt for Sodium Bromide—and Suffers Psychosis](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss)
+* [2025-08-10, 18:14:38](https://news.ycombinator.com/item?id=44857100) - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
+* [2025-08-10, 16:14:40](https://news.ycombinator.com/item?id=44856161) - [The Anti-Pattern Game](https://hakon.gylterud.net/antipattern/)
 * [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss)
 * [2025-08-10, 11:40:14](https://news.ycombinator.com/item?id=44854518) - [LLMs aren&apos;t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-10, 08:28:00](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss) - [Japanese Scientists Develop Artificial Blood](https://soylentnews.org/article.pl?sid=25/08/09/0850232&amp;from=rss)
-* [2025-08-10, 03:47:31](https://news.ycombinator.com/item?id=44852612) - [So You Bought a Fancy Vintage Car. Now Who&apos;s Going to Restore It?](https://www.bloomberg.com/news/features/2025-08-08/from-porsche-to-aston-martin-classic-car-mechanics-are-a-dying-breed)
 * [2025-08-10, 03:45:00](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss) - [Denmark Zoo: Donate Unwanted Pets to Feed Predators and Imitate ‘Natural Food Chain’](https://soylentnews.org/article.pl?sid=25/08/09/0847239&amp;from=rss)
-* [2025-08-10, 01:33:43](https://news.ycombinator.com/item?id=44852058) - [Galileo’s telescopes: Seeing is believing (2010)](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
-* [2025-08-09, 23:02:33](https://news.ycombinator.com/item?id=44851181) - [Debian GNU/Hurd 2025 released](https://lists.debian.org/debian-hurd/2025/08/msg00038.html)
 * [2025-08-09, 23:01:00](https://soylentnews.org/article.pl?sid=25/08/09/0123224&amp;from=rss) - [Personalized Pricing Has Spread Across Many Industries. Here&apos;s How Consumers Can Avoid It](https://soylentnews.org/article.pl?sid=25/08/09/0123224&amp;from=rss)
-* [2025-08-09, 22:35:16](https://news.ycombinator.com/item?id=44850976) - [Fixing a loud PSU fan without dying](https://chameth.com/fixing-a-loud-psu-fan-without-dying/)
 * [2025-08-09, 18:15:00](https://soylentnews.org/article.pl?sid=25/08/09/0113237&amp;from=rss) - [YouTube to Gauge US Users’ Ages With AI After UK and Australia Add Age Checks](https://soylentnews.org/article.pl?sid=25/08/09/0113237&amp;from=rss)
 * [2025-08-09, 14:33:12](https://news.ycombinator.com/item?id=44846781) - [Bezier-rs – algorithms for Bézier segments and shapes](https://graphite.rs/libraries/bezier-rs/)
 * [2025-08-09, 13:48:00](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss) - [Hacker Summer Camp: What to Expect From BSides, Black Hat, and DEF CON](https://soylentnews.org/article.pl?sid=25/08/08/047222&amp;from=rss)
 * [2025-08-09, 11:48:24](https://news.ycombinator.com/item?id=44845787) - [Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²](https://www.sdo.group/study)
 * [2025-08-09, 09:02:00](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss) - [An Ohio Couple Welcomes a Baby Boy From a Nearly 31-Year-Old Frozen Embryo](https://soylentnews.org/article.pl?sid=25/08/08/0353246&amp;from=rss)
 * [2025-08-09, 08:20:00](https://news.ycombinator.com/item?id=44844903) - [Visualizing quaternions: An explorable video series (2018)](https://eater.net/quaternions)
-* [2025-08-09, 07:31:42](https://news.ycombinator.com/item?id=44844733) - [Dumb to managed switch conversion (2010)](https://spritesmods.com/?art=rtl8366sb&amp;page=1)
 * [2025-08-09, 04:16:00](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss) - [KubeSphere Kills Open Source Edition](https://soylentnews.org/article.pl?sid=25/08/08/0113247&amp;from=rss)
 * [2025-08-09, 02:26:48](https://news.ycombinator.com/item?id=44843586) - [Blender is Native on Windows 11 on Arm](https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm)
 * [2025-08-09, 01:07:48](https://news.ycombinator.com/item?id=44843223) - [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
