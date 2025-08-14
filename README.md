@@ -1,50 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology Advancements and Developments
 
-* [Debian 13 "Trixie" and Debian "Hurd 2025" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss))
+* [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast) - A deep dive comparing configuration languages Jsonnet, Dhall, and Cue, evaluating their strengths and weaknesses. [Comments](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue)
 
-* [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/) ([comments](https://lobste.rs/s/cts5fi/modifying_other_people_s_software))
+* [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol) - NGINX now supports ACME protocol natively, simplifying SSL/TLS certificate management. [Comments](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme)
 
-* [nixidy: Kubernetes GitOps with nix and Argo CD](https://nixidy.dev) ([comments](https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd))
+* [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/) - Exploring a programming language and runtime designed for AI-driven conversational applications. [Comments](https://news.ycombinator.com/item?id=44897098)
 
-* [Our Paint | A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html) ([comments](https://lobste.rs/s/5e4oh9/our_paint_natural_painting_program))
+* [Cross-Site Request Forgery](https://words.filippo.io/csrf/) - In-depth explanation of Cross-Site Request Forgery, its risks, and prevention techniques. [Comments](https://lobste.rs/s/6s0n5d/cross_site_request_forgery)
 
-* [Coalton Playground: Type-Safe Lisp in Your Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/) ([comments](https://lobste.rs/s/rq9woq/coalton_playground_type_safe_lisp_your))
+## Innovation and Science
 
-## Artificial Intelligence
+* [First Antidote For Carbon Monoxide Poisoning 'Cleans' Blood In Minutes](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking medical development offers rapid detoxification for carbon monoxide poisoning. [Comments](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Google's Gemini AI Will Get More Personalized By Remembering Details Automatically](https://tech.slashdot.org/story/25/08/13/2143233/googles-gemini-ai-will-get-more-personalized-by-remembering-details-automatically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/08/13/2143233/googles-gemini-ai-will-get-more-personalized-by-remembering-details-automatically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [MadeYouReset: Turning HTTP/2 Server Against Itself](https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/) - A security exploration of how HTTP/2 servers can be exploited. [Comments](https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server)
 
-* [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/) ([comments](https://news.ycombinator.com/item?id=44893254))
+* [Debian 13 "Trixie" and Debian "Hurd 2025" Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss) - Debian announces updates for both its Linux and Hurd operating systems. [Comments](https://soylentnews.org/article.pl?sid=25/08/12/180244&from=rss)
 
-* [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/) ([comments](https://news.ycombinator.com/item?id=44891090))
+## AI and Open Source
 
-* [Apple Plots Expansion Into AI Robots, Home Security and Smart Displays](https://apple.slashdot.org/story/25/08/13/1846238/apple-plots-expansion-into-ai-robots-home-security-and-smart-displays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/08/13/1846238/apple-plots-expansion-into-ai-robots-home-security-and-smart-displays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [My AI-driven identity crisis](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/) - A personal story examining impacts of AI on human identity. [Comments](https://news.ycombinator.com/item?id=44896539)
 
-## Cybersecurity and Privacy
+* [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure) - A proposal advocating for open-source funding models that resemble public infrastructure. [Comments](https://news.ycombinator.com/item?id=44896433)
 
-* [MadeYouReset: Turning HTTP/2 Server Against Itself](https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/) ([comments](https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server))
+* [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams) - A GitHub project introducing a novel memory system for large language models. [Comments](https://news.ycombinator.com/item?id=44896489)
 
-* [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol) ([comments](https://news.ycombinator.com/item?id=44889941))
+* [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments) - Highlighting efforts to develop open-source payment solutions to counter high transaction fees. [Comments](https://news.ycombinator.com/item?id=44896085)
 
-* [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss))
+## Cultural Retrospection
 
-## Science and Environment
+* [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/) - A retrospective look at Medieval learning approaches and their relevance today. [Comments](https://news.ycombinator.com/item?id=44895497)
 
-* [First Antidote For Carbon Monoxide Poisoning 'Cleans' Blood In Minutes](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Extreme Heat Breaks Temperature Records in Europe](https://news.slashdot.org/story/25/08/13/1449205/temperature-records-broken-as-extreme-heat-grips-parts-of-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/13/1449205/temperature-records-broken-as-extreme-heat-grips-parts-of-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Countrywide Natural Experiment Links Built Environment To Physical Activity](https://science.slashdot.org/story/25/08/13/188205/countrywide-natural-experiment-links-built-environment-to-physical-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/13/188205/countrywide-natural-experiment-links-built-environment-to-physical-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Historical and Retrospective Insights
-
-* [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/) ([comments](https://news.ycombinator.com/item?id=44895497))
-
-* [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/) ([comments](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further))
-
-* [Plan 9 Desktop Guide](https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html) ([comments](https://lobste.rs/s/1ugmaz/plan_9_desktop_guide))
+* [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/) - Revisiting the historical legacy and impact of HyperCard on modern computing. [Comments](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further)
 
 ---
 
@@ -71,10 +59,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
+* [2025-08-14, 05:40:19](https://news.ycombinator.com/item?id=44897098) - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
+* [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
+* [2025-08-14, 03:44:55](https://news.ycombinator.com/item?id=44896539) - [My AI-driven identity crisis](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
 * [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss) - [Debian 13 \&quot;Trixie\&quot; and Debian \&quot;Hurd 2025\&quot; Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss)
+* [2025-08-14, 03:34:11](https://news.ycombinator.com/item?id=44896489) - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
 * [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People&apos;s Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 * [2025-08-14, 03:30:00](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Antidote For Carbon Monoxide Poisoning &apos;Cleans&apos; Blood In Minutes](https://science.slashdot.org/story/25/08/14/0010227/first-antidote-for-carbon-monoxide-poisoning-cleans-blood-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-14, 03:24:17](https://news.ycombinator.com/item?id=44896433) - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
 * [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
+* [2025-08-14, 02:19:37](https://news.ycombinator.com/item?id=44896085) - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
+* [2025-08-14, 01:12:00](https://lobste.rs/s/6s0n5d/cross_site_request_forgery) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-14, 00:58:55](https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server) - [MadeYouReset: Turning HTTP/2 Server Against Itself](https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/)
 * [2025-08-14, 00:29:46](https://news.ycombinator.com/item?id=44895497) - [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
 * [2025-08-14, 00:10:00](https://tech.slashdot.org/story/25/08/13/2334249/how-the-unraveling-of-two-pentagon-projects-may-result-in-a-costly-do-over?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How the Unraveling of Two Pentagon Projects May Result In a Costly Do-Over](https://tech.slashdot.org/story/25/08/13/2334249/how-the-unraveling-of-two-pentagon-projects-may-result-in-a-costly-do-over?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -91,19 +87,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-13, 20:43:46](https://news.ycombinator.com/item?id=44893600) - [NIST Finalizes &apos;Lightweight Cryptography&apos; Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [2025-08-13, 20:41:44](https://lobste.rs/s/1ugmaz/plan_9_desktop_guide) - [Plan 9 Desktop Guide](https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html)
 * [2025-08-13, 20:13:00](https://tech.slashdot.org/story/25/08/13/2011212/polestar-sets-production-car-record-for-longest-drive-on-a-single-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Polestar Sets Production Car Record For Longest Drive On a Single Charge](https://tech.slashdot.org/story/25/08/13/2011212/polestar-sets-production-car-record-for-longest-drive-on-a-single-charge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
+* [2025-08-13, 20:11:50](https://news.ycombinator.com/item?id=44893254) - [Illinois limits the use of AI in therapy and psychotherapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
 * [2025-08-13, 19:45:45](https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls) - [Snooping On Slow Builds (Using Syscalls)](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [2025-08-13, 18:48:00](https://apple.slashdot.org/story/25/08/13/1846238/apple-plots-expansion-into-ai-robots-home-security-and-smart-displays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Plots Expansion Into AI Robots, Home Security and Smart Displays](https://apple.slashdot.org/story/25/08/13/1846238/apple-plots-expansion-into-ai-robots-home-security-and-smart-displays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/pyx)
+* [2025-08-13, 18:42:49](https://news.ycombinator.com/item?id=44892209) - [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
 * [2025-08-13, 18:28:14](https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now) - [pyx: a Python-native package registry, now in Beta](https://astral.sh/blog/introducing-pyx)
 * [2025-08-13, 18:10:00](https://science.slashdot.org/story/25/08/13/188205/countrywide-natural-experiment-links-built-environment-to-physical-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Countrywide Natural Experiment Links Built Environment To Physical Activity](https://science.slashdot.org/story/25/08/13/188205/countrywide-natural-experiment-links-built-environment-to-physical-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss)
 * [2025-08-13, 18:05:05](https://news.ycombinator.com/item?id=44891759) - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-* [2025-08-13, 17:31:08](https://news.ycombinator.com/item?id=44891302) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 17:30:00](https://entertainment.slashdot.org/story/25/08/13/174211/samsung-launches-worlds-first-micro-rgb-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Launches World&apos;s First Micro RGB TV](https://entertainment.slashdot.org/story/25/08/13/174211/samsung-launches-worlds-first-micro-rgb-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 17:11:35](https://news.ycombinator.com/item?id=44891090) - [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
-* [2025-08-13, 17:00:37](https://news.ycombinator.com/item?id=44890956) - [ReadMe (YC W15) Is Hiring a Developer Experience PM](https://readme.com/careers#product-manager-developer-experience)
 * [2025-08-13, 16:50:00](https://tech.slashdot.org/story/25/08/13/1651209/young-americans-push-playback-beyond-1x-as-platforms-widen-speed-controls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Young Americans Push Playback Beyond 1x as Platforms Widen Speed Controls](https://tech.slashdot.org/story/25/08/13/1651209/young-americans-push-playback-beyond-1x-as-platforms-widen-speed-controls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 16:05:00](https://it.slashdot.org/story/25/08/13/165224/microsoft-makes-pull-print-generally-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Makes Pull Print Generally Available](https://it.slashdot.org/story/25/08/13/165224/microsoft-makes-pull-print-generally-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
@@ -111,32 +105,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-13, 15:41:55](https://news.ycombinator.com/item?id=44889941) - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-13, 15:36:00](https://news.slashdot.org/story/25/08/13/1536215/chinas-lead-in-open-source-ai-jolts-washington-and-silicon-valley?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Lead in Open-Source AI Jolts Washington and Silicon Valley](https://news.slashdot.org/story/25/08/13/1536215/chinas-lead-in-open-source-ai-jolts-washington-and-silicon-valley?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 15:26:28](https://news.ycombinator.com/item?id=44889715) - [Study: Social media probably can&apos;t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
-* [2025-08-13, 15:19:53](https://news.ycombinator.com/item?id=44889627) - [This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
 * [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
-* [2025-08-13, 15:00:33](https://news.ycombinator.com/item?id=44889359) - [Coalton Playground: Type-Safe Lisp in the Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:48:00](https://news.slashdot.org/story/25/08/13/1449205/temperature-records-broken-as-extreme-heat-grips-parts-of-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Temperature Records Broken as Extreme Heat Grips Parts of Europe](https://news.slashdot.org/story/25/08/13/1449205/temperature-records-broken-as-extreme-heat-grips-parts-of-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-13, 14:27:40](https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-13, 14:00:00](https://news.slashdot.org/story/25/08/13/1355200/us-embeds-trackers-in-ai-chip-shipments-to-catch-diversions-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Embeds Trackers in AI Chip Shipments To Catch Diversions To China](https://news.slashdot.org/story/25/08/13/1355200/us-embeds-trackers-in-ai-chip-shipments-to-catch-diversions-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-13, 13:33:45](https://news.ycombinator.com/item?id=44888236) - [When DEF CON partners with the U.S. Army](https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss)
 * [2025-08-13, 13:06:29](https://news.ycombinator.com/item?id=44887965) - [So what&apos;s the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
 * [2025-08-13, 12:54:45](https://news.ycombinator.com/item?id=44887853) - [Pebble Time 2 Design Reveal [video]](https://www.youtube.com/watch?v=pcPzmDePH3E)
 * [2025-08-13, 12:26:22](https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize) - [Starting with pytest’s parametrize](https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html)
-* [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across the UK](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
+* [2025-08-13, 10:56:50](https://news.ycombinator.com/item?id=44886913) - [Facial recognition vans to be rolled out across police forces in England](https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613)
 * [2025-08-13, 10:19:35](https://news.ycombinator.com/item?id=44886647) - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
 * [2025-08-13, 08:34:00](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss) - [Small Clouds Out as VMware Again Changes Partner Program](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-* [2025-08-13, 07:00:26](https://lobste.rs/s/5yyh3p/git_who_git_blame_for_file_trees) - [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 * [2025-08-13, 03:51:00](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss) - [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss)
-* [2025-08-13, 01:18:23](https://lobste.rs/s/86ptga/nyc_s_urban_textscape) - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/)
 * [2025-08-13, 01:14:36](https://news.ycombinator.com/item?id=44883634) - [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
 * [2025-08-13, 00:01:08](https://lobste.rs/s/fh5wex/go_1_25_release_notes) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss)
 * [2025-08-12, 19:53:17](https://news.ycombinator.com/item?id=44881109) - [Print, a one-line BASIC program](https://10print.org)
-* [2025-08-12, 18:41:46](https://lobste.rs/s/ks1m49/ashet_home_computer) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss) - [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss)
 * [2025-08-12, 17:43:41](https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c) - [How I do (type-safe) container types in C](https://louissven.xyz/article/how_I_do_container_types_in_C.md)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
@@ -145,18 +133,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 12:01:56](https://news.ycombinator.com/item?id=44875154) - [Le Lamp – an open source expressive robot](https://github.com/humancomputerlab/LeLamp)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
 * [2025-08-12, 07:19:13](https://news.ycombinator.com/item?id=44873341) - [ForgeFed: ActivityPub-based forge federation protocol](https://forgefed.org)
-* [2025-08-12, 06:12:32](https://news.ycombinator.com/item?id=44872984) - [Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers](https://blog.voyageai.com/2025/08/11/rerank-2-5/)
+* [2025-08-12, 06:07:14](https://news.ycombinator.com/item?id=44872948) - [Show HN: XR2000: A science fiction programming challenge](https://clearsky.dev/blog/xr2000/)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss)
-* [2025-08-12, 00:42:04](https://news.ycombinator.com/item?id=44871093) - [Why top and free in containers don&apos;t show the correct container memory (2018)](https://ops.tips/blog/why-top-inside-container-wrong-memory/)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss) - [Quantum \&quot;Schrödinger&apos;s Cat\&quot; Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
+* [2025-08-11, 20:37:07](https://news.ycombinator.com/item?id=44869184) - [Debian 13 arrives with major updates for Linux users – what&apos;s new in &apos;Trixie&apos;](https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/)
 * [2025-08-11, 19:40:47](https://news.ycombinator.com/item?id=44868563) - [Show HN: Real-time privacy protection for smart glasses](https://github.com/PrivacyIsAllYouNeed/protector)
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss)
-* [2025-08-11, 16:11:16](https://news.ycombinator.com/item?id=44865908) - [Fighting with YouTube to show a preview image](https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/)
 * [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss) - [RIP: Dame Stephanie &apos;Steve&apos; Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss)
 * [2025-08-11, 14:01:00](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss) - [CalyxOS: The Pause That Wasn&apos;t](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss)
 * [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss)
 * [2025-08-11, 05:14:00](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss) - [RIP: James Lovell Dead at 97](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss)
 * [2025-08-11, 04:34:00](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss) - [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss)
+* [2025-08-11, 01:46:22](https://news.ycombinator.com/item?id=44860080) - [Nyxt: The Emacs-like web browser](https://lwn.net/Articles/1001773/)
 * [2025-08-10, 23:45:00](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss) - [Is Perrier as Pure as it Claims? The Bottled Water Scandal Gripping France](https://soylentnews.org/article.pl?sid=25/08/09/188231&amp;from=rss)
 * [2025-08-10, 18:57:00](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss) - [Man Swaps His Salt for Sodium Bromide—and Suffers Psychosis](https://soylentnews.org/article.pl?sid=25/08/09/091234&amp;from=rss)
 * [2025-08-10, 13:12:00](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss) - [Oh No, Wavy Dave! Robot Crustacean Waves at Fiddler Crabs for Science, Has a Bad Time](https://soylentnews.org/article.pl?sid=25/08/09/0853200&amp;from=rss)
