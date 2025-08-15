@@ -1,34 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security
+## Cultural, Historical, and Scientific Insights
 
-* [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/) ([Comments](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual))
+* [Submerged Roman bathhouse in Baiae may be part of Cicero's villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/) ([comments](https://news.ycombinator.com/item?id=44911554))
 
-* [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol) ([Comments](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme))
+* [The Unreasonable Effectiveness of Data (2009)](https://research.google.com/pubs/archive/35179.pdf) ([comments](https://lobste.rs/s/imoebi/unreasonable_effectiveness_data_2009))
 
-* [Plex Users Urged To Update Media Server After Security Flaw Exposed](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44907531))
+* [Ghost Particle That Smashed Into Earth Breaks Records](https://science.slashdot.org/story/25/08/14/2335238/ghost-particle-that-smashed-into-earth-breaks-records?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/08/14/2335238/ghost-particle-that-smashed-into-earth-breaks-records?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma) ([Comments](https://news.ycombinator.com/item?id=44907569))
+* [Quantum "Schrödinger's Cat" Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
 
-* [Russian Hackers Seized Control of Norwegian Dam, Spy Chief Says](https://it.slashdot.org/story/25/08/14/232228/russian-hackers-seized-control-of-norwegian-dam-spy-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44907531))
+## Technological Failures and Risks
 
-## Science and Innovation
+* [Mozilla Firefox users report significant CPU power usage issues](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/) ([comments](https://news.ycombinator.com/item?id=44910719))
 
-* ['Ghost Particle' That Smashed Into Earth Breaks Records](https://science.slashdot.org/story/25/08/14/2335238/ghost-particle-that-smashed-into-earth-breaks-records?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44907531))
+* [Meta's AI rules allowed potentially harmful 'sensual' chats and false medical advice](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/) ([comments](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual))
 
-* [New Type of Supernova Detected as Black Hole Causes Star To Explode](https://science.slashdot.org/story/25/08/14/1916235/new-type-of-supernova-detected-as-black-hole-causes-star-to-explode?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme))
+* [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss)
 
-* [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/) ([Comments](https://news.ycombinator.com/item?id=44909133))
+* [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&amp;from=rss)
 
-* [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) ([Comments](https://news.ycombinator.com/item?id=44908610))
+## Open Source and Programming Developments
 
-## Social and Cultural Impact
+* [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/) ([comments](https://news.ycombinator.com/item?id=44902127))
 
-* [Culture Influences Men's Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss) ([Comments](https://news.ycombinator.com/item?id=44910161))
+* [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast) ([comments](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue))
 
-* [African Union Urges Adoption of World Map Showing Continent's True Size](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44910161))
+* [Org-social: a decentralized social network running on Org Mode](https://github.com/tanrax/org-social) ([comments](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social))
 
-* [Impoverished Streaming Services Are Driving Viewers Back to Piracy](https://yro.slashdot.org/story/25/08/14/2158204/impoverished-streaming-services-are-driving-viewers-back-to-piracy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=44905808))
+* [Emacs 30.2 is here](https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2) ([comments](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here))
+
+## Security Breaches and International Developments
+
+* [Plex Users Urged To Update Media Server After Security Flaw Exposed](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed))
+
+* [Russian Hackers Seized Control of Norwegian Dam, Spy Chief Says](https://it.slashdot.org/story/25/08/14/232228/russian-hackers-seized-control-of-norwegian-dam-spy-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Applied Materials Sued In China Over Alleged Trade Secret Theft](https://slashdot.org/story/25/08/14/2325232/applied-materials-sued-in-china-over-alleged-trade-secret-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Exploring AI and Emerging Technologies
+
+* [Google Releases Pint-Size Gemma Open AI Model](https://tech.slashdot.org/story/25/08/14/2150230/google-releases-pint-size-gemma-open-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/08/14/2150230/google-releases-pint-size-gemma-open-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software) ([comments](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software))
+
+* [DINOv3 from Facebook Research](https://github.com/facebookresearch/dinov3) ([comments](https://news.ycombinator.com/item?id=44904993))
+
+* [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&amp;cid=65583466)
+
+## Environmental and Social Commentary
+
+* [African Union Urges Adoption of World Map Showing Continent's True Size](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size))
+
+* [Culture Influences Men's Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
+
+* [Plastic Pollution Treaty Talks Deadlocked as Negotiations Draw To a Close](https://news.slashdot.org/story/25/08/14/198211/plastic-pollution-treaty-talks-deadlocked-as-negotiations-draw-to-a-close?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -55,7 +81,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-08-15, 09:10:43](https://news.ycombinator.com/item?id=44910161) - [UK government states that &apos;safety&apos; act is about influence over public discourse](https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222)
+* [2025-08-15, 12:34:08](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com) - [Proposal: ban tedunangst.com](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com)
+* [2025-08-15, 12:33:43](https://lobste.rs/s/imoebi/unreasonable_effectiveness_data_2009) - [The Unreasonable Effectiveness of Data (2009)](https://research.google.com/pubs/archive/35179.pdf)
+* [2025-08-15, 12:31:34](https://news.ycombinator.com/item?id=44911554) - [Submerged Roman bathhouse in Baiae may be part of Cicero&apos;s villa](https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/)
+* [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
+* [2025-08-15, 12:14:46](https://news.ycombinator.com/item?id=44911423) - [Open hardware desktop 3D printing is dead – you just don&apos;t know it yet](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
+* [2025-08-15, 12:03:10](https://news.ycombinator.com/item?id=44911325) - [It is time to &apos;Correct the Map&apos;](https://correctthemap.org/)
+* [2025-08-15, 12:01:09](https://news.ycombinator.com/item?id=44911302) - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2025-08-15, 11:32:40](https://news.ycombinator.com/item?id=44911069) - [Court Records Reveal Sig Sauer Knew of Pistol Risks for Years](https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/)
+* [2025-08-15, 11:04:13](https://news.ycombinator.com/item?id=44910848) - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
+* [2025-08-15, 10:42:57](https://news.ycombinator.com/item?id=44910719) - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)
+* [2025-08-15, 10:07:53](https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh) - [GitHub Actions safe_sleep.sh](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh)
+* [2025-08-15, 10:00:00](https://slashdot.org/story/25/08/14/2325232/applied-materials-sued-in-china-over-alleged-trade-secret-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Applied Materials Sued In China Over Alleged Trade Secret Theft](https://slashdot.org/story/25/08/14/2325232/applied-materials-sued-in-china-over-alleged-trade-secret-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-15, 09:50:13](https://news.ycombinator.com/item?id=44910393) - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 * [2025-08-15, 08:51:06](https://lobste.rs/s/yk6f9n/anaphoric_macros) - [Anaphoric Macros](https://letoverlambda.com/index.cl/guest/chap6.html)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
 * [2025-08-15, 07:35:26](https://lobste.rs/s/p7eaca/slog_is_aptly_named) - [slog is aptly named](https://flak.tedunangst.com/post/slog-is-aptly-named)
@@ -64,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-15, 06:11:51](https://news.ycombinator.com/item?id=44909133) - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
 * [2025-08-15, 04:34:12](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual) - [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
 * [2025-08-15, 04:33:56](https://lobste.rs/s/nu7cjz/why_lean_4_replaced_ocaml_as_my_primary) - [Why Lean 4 replaced OCaml as my Primary Language](https://kirancodes.me/posts/log-ocaml-to-lean.html)
-* [2025-08-15, 04:25:59](https://news.ycombinator.com/item?id=44908610) - [Teenage Engineering&apos;s free computer case](https://teenage.engineering/store/computer-2)
 * [2025-08-15, 03:47:21](https://lobste.rs/s/wcevj6/your_mac_game_is_probably_rendering) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-15, 03:30:00](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [African Union Urges Adoption of World Map Showing Continent&apos;s True Size](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss)
@@ -85,18 +122,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 21:26:00](https://slashdot.org/story/25/08/14/1928226/paypal-no-longer-available-for-steam-purchases-outside-major-currency-zones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PayPal No Longer Available for Steam Purchases Outside Major Currency Zones](https://slashdot.org/story/25/08/14/1928226/paypal-no-longer-available-for-steam-purchases-outside-major-currency-zones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 21:19:00](https://news.ycombinator.com/item?id=44905808) - [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 * [2025-08-14, 21:06:37](https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing) - [what is the go proxy even doing?](https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing)
-* [2025-08-14, 21:01:04](https://news.ycombinator.com/item?id=44905647) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-08-14, 20:52:10](https://lobste.rs/s/zwz8ka/nan_propagation_novel_method_for) - [NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box Computational Functions](https://arxiv.org/abs/2507.23186)
 * [2025-08-14, 20:45:00](https://science.slashdot.org/story/25/08/14/1916235/new-type-of-supernova-detected-as-black-hole-causes-star-to-explode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Type of Supernova Detected as Black Hole Causes Star To Explode](https://science.slashdot.org/story/25/08/14/1916235/new-type-of-supernova-detected-as-black-hole-causes-star-to-explode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 20:05:00](https://news.slashdot.org/story/25/08/14/198211/plastic-pollution-treaty-talks-deadlocked-as-negotiations-draw-to-a-close?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Plastic Pollution Treaty Talks Deadlocked as Negotiations Draw To a Close](https://news.slashdot.org/story/25/08/14/198211/plastic-pollution-treaty-talks-deadlocked-as-negotiations-draw-to-a-close?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 20:02:46](https://news.ycombinator.com/item?id=44904993) - [DINOv3](https://github.com/facebookresearch/dinov3)
-* [2025-08-14, 19:53:12](https://news.ycombinator.com/item?id=44904869) - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
-* [2025-08-14, 19:50:47](https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real) - [Mixbox - Natural Color Mixing Based on Real Pigments (2021)](https://scrtwpns.com/mixbox/)
 * [2025-08-14, 19:30:00](https://games.slashdot.org/story/25/08/14/1859256/ex-playstation-boss-says-game-subscription-turns-developers-into-wage-slaves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ex-PlayStation Boss Says Game Subscription Turns Developers Into &apos;Wage Slaves&apos;](https://games.slashdot.org/story/25/08/14/1859256/ex-playstation-boss-says-game-subscription-turns-developers-into-wage-slaves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 18:52:00](https://slashdot.org/story/25/08/14/1852218/the-head-of-chatgpt-wont-rule-out-adding-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Head of ChatGPT Won&apos;t Rule Out Adding Ads](https://slashdot.org/story/25/08/14/1852218/the-head-of-chatgpt-wont-rule-out-adding-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 18:22:58](https://lobste.rs/s/1v1slg/jujutsu_with_radicle) - [Jujutsu with Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 * [2025-08-14, 18:19:42](https://news.ycombinator.com/item?id=44903803) - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&amp;cid=65583466)
-* [2025-08-14, 18:10:00](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s AI Rules Have Let Bots Hold &apos;Sensual&apos; Chats With Kids, Offer False Medical Info](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss)
 * [2025-08-14, 17:50:23](https://lobste.rs/s/tuodvv/placing_arguments) - [Placing Arguments](https://blog.yoshuawuyts.com/placing-arguments/)
 * [2025-08-14, 17:33:06](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers) - [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
@@ -108,8 +141,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 * [2025-08-14, 15:24:53](https://news.ycombinator.com/item?id=44901528) - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
 * [2025-08-14, 14:53:44](https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup) - [Enforce Proper direnv Setup](https://joeyates.info/posts/enforce-proper-direnv-setup/)
-* [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
-* [2025-08-14, 13:48:24](https://news.ycombinator.com/item?id=44900340) - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can&apos;t really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss)
@@ -120,11 +151,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
 * [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss) - [Debian 13 \&quot;Trixie\&quot; and Debian \&quot;Hurd 2025\&quot; Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss)
-* [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People&apos;s Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
-* [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss)
 * [2025-08-13, 19:45:45](https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls) - [Snooping On Slow Builds (Using Syscalls)](https://danielchasehooper.com/posts/syscall-build-snooping/)
-* [2025-08-13, 18:28:14](https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now) - [pyx: a Python-native package registry, now in Beta](https://astral.sh/blog/introducing-pyx)
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss)
 * [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 15:00:25](https://news.ycombinator.com/item?id=44889354) - [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social)
@@ -133,15 +161,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-13, 03:51:00](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss) - [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss)
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss)
 * [2025-08-12, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss) - [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss)
-* [2025-08-12, 13:44:29](https://news.ycombinator.com/item?id=44876115) - [Stylish Bugs](https://flak.tedunangst.com/post/stylish-bugs)
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss)
-* [2025-08-12, 12:00:04](https://news.ycombinator.com/item?id=44875137) - [Progress towards universal Copy/Paste shortcuts on Linux](https://mark.stosberg.com/universal-copy-paste/)
+* [2025-08-12, 12:35:07](https://news.ycombinator.com/item?id=44875440) - [Lessons learned from buying an open source repo](https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
-* [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
+* [2025-08-12, 07:01:01](https://news.ycombinator.com/item?id=44873225) - [Death and What Comes Next (2002)](https://www.lspace.org/books/dawcn/dawcn-english.html)
 * [2025-08-12, 05:03:34](https://news.ycombinator.com/item?id=44872578) - [Galileo&apos;s Telescopes: Seeing Is Believing](https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss)
 * [2025-08-11, 23:28:00](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss) - [Quantum \&quot;Schrödinger&apos;s Cat\&quot; Survives For Mind-Blowing 23 Minutes In Record-Breaking Experiment](https://soylentnews.org/article.pl?sid=25/08/10/1038254&amp;from=rss)
-* [2025-08-11, 20:37:20](https://news.ycombinator.com/item?id=44869188) - [Snapshots of Kids Bike Jumping in the 1970s](https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/)
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss)
 * [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss) - [RIP: Dame Stephanie &apos;Steve&apos; Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss)
 * [2025-08-11, 14:01:00](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss) - [CalyxOS: The Pause That Wasn&apos;t](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss)
