@@ -1,42 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Economic and Social Trends
+## Technology and Software Development
 
-* [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc) ([comments](https://news.ycombinator.com/item?id=44907660))
+* [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/) explores issues with blurry game rendering on Macs. [Comments](https://lobste.rs/s/wcevj6/your_mac_game_is_probably_rendering).
 
-* [Impoverished Streaming Services Are Driving Viewers Back to Piracy](https://yro.slashdot.org/story/25/08/14/2158204/impoverished-streaming-services-are-driving-viewers-back-to-piracy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44905647))
+* [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers) discusses fascinating uses of finite state transducers. [Comments](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers).
 
-## Pharmaceutical and Tech Industry Critiques
+* [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html) provides insights into a developer's decision to embrace OCaml. [Comments](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language).
 
-* [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma) ([comments](https://news.ycombinator.com/item?id=44907569))
+* [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite) details the work behind rewriting a GTK-based application. [Comments](https://lobste.rs/s/8hsb3l/we_rewrote_ghostty_gtk_application).
 
-* [Big Tech's AI Data Centers Are Driving Up Electricity Bills for Everyone](https://hardware.slashdot.org/story/25/08/14/1655246/big-techs-ai-data-centers-are-driving-up-electricity-bills-for-everyone?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44901683))
+* [Syncing with Postgres: Logical Replication vs. ETL](https://www.paradedb.com/blog/etl_vs_logical_replication) explores data synchronization strategies for Postgres. [Comments](https://lobste.rs/s/hfojix/syncing_with_postgres_logical).
 
-## Cybersecurity and Software Updates
+## Open Source and Decentralization
 
-* [Plex Users Urged To Update Media Server After Security Flaw Exposed](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44907531))
+* [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) examines the economics and impact of open source software. [Comments](https://soylentnews.org/comments.pl?sid=25/08/13/1621256&from=rss).
 
-* [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss) ([comments](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software))
+* [Org-social is a decentralized social network that runs on Org Mode](https://github.com/tanrax/org-social) introduces a unique decentralized platform using Emacs Org Mode. [Comments](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social).
 
-## AI Breakthroughs and Controversies
+* [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast) reviews tools for configuration management. [Comments](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue).
 
-* [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/) ([comments](https://news.ycombinator.com/item?id=44906918))
+* [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf) introduces innovative logging technology. [Comments](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for).
 
-* [Meta's AI Rules Have Let Bots Hold 'Sensual' Chats With Kids, Offer False Medical Info](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real))
+* [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol) outlines new ACME protocol support for NGINX. [Comments](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme).
 
-* [Google Releases Pint-Size Gemma Open AI Model](https://tech.slashdot.org/story/25/08/14/2150230/google-releases-pint-size-gemma-open-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44906305))
+## Science and AI Research
 
-## Significant Scientific Advancements
+* [New Type of Supernova Detected as Black Hole Causes Star To Explode](https://science.slashdot.org/story/25/08/14/1916235/new-type-of-supernova-detected-as-black-hole-causes-star-to-explode?utm_source=rss1.0mainlinkanon&utm_medium=feed) reveals a groundbreaking discovery in astrophysics. [Comments](https://science.slashdot.org/comments.pl?sid=25/08/14/1916235).
 
-* [New protein therapy shows promise as antidote for carbon monoxide poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html) ([comments](https://lobste.rs/s/xzubsr/how_rig_elections))
+* [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/) provides an unsettling perspective on machine learning errors. [Comments](https://news.ycombinator.com/item?id=44906918).
 
-* [New Type of Supernova Detected as Black Hole Causes Star To Explode](https://science.slashdot.org/story/25/08/14/1916235/new-type-of-supernova-detected-as-black-hole-causes-star-to-explode?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here))
+* [Meta's AI Rules Have Let Bots Hold 'Sensual' Chats With Kids, Offer False Medical Info](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&utm_medium=feed) investigates controversial AI chat behavior. [Comments](https://tech.slashdot.org/comments.pl?sid=25/08/14/1759222).
 
-## Programming and Software Highlights
+* [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/) highlights advances in compact AI models. [Comments](https://news.ycombinator.com/item?id=44905808).
 
-* [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/) ([comments](https://news.ycombinator.com/item?id=44902127))
+* [NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box Computational Functions](https://arxiv.org/abs/2507.23186) introduces a promising research paper on computational sparsity. [Comments](https://lobste.rs/s/zwz8ka/nan_propagation_novel_method_for).
 
-* [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer) ([comments](https://lobste.rs/s/tuodvv/placing_arguments))
+## Security and Hacking
+
+* [Russian Hackers Seized Control of Norwegian Dam, Spy Chief Says](https://it.slashdot.org/story/25/08/14/232228/russian-hackers-seized-control-of-norwegian-dam-spy-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) sheds light on a high-stakes cybersecurity event. [Comments](https://it.slashdot.org/comments.pl?sid=25/08/14/232228).
+
+* [Plex Users Urged To Update Media Server After Security Flaw Exposed](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&utm_medium=feed) warns about vulnerabilities in Plex servers. [Comments](https://it.slashdot.org/comments.pl?sid=25/08/14/236202).
+
+* [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&from=rss) delves into a concerning recall exposing sensitive data. [Comments](https://soylentnews.org/comments.pl?sid=25/08/13/1139229&from=rss).
+
+* [WinRAR zero-day Exploited to Plant Malware on Archive Extraction](https://soylentnews.org/article.pl?sid=25/08/09/1818247&from=rss) details a vulnerability impacting the popular file tool. [Comments](https://soylentnews.org/comments.pl?sid=25/08/09/1818247&from=rss).
+
+## Cultural and Educational Highlights
+
+* [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451) examines a fascinating auction involving cryptography. [Comments](https://news.ycombinator.com/item?id=44907366).
+
+* [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/) provides a retro perspective on airbrush art from the 1980s. [Comments](https://news.ycombinator.com/item?id=44904869).
+
+* [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466) shares inspiring reflections from the famous Apple co-founder. [Comments](https://news.ycombinator.com/item?id=44903803).
+
+* [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese) provides a heartfelt take on language learning and loss. [Comments](https://news.ycombinator.com/item?id=44907531).
+
+* [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound) highlights an innovative city-building game concept. [Comments](https://news.ycombinator.com/item?id=44906662).
 
 ---
 
@@ -63,7 +83,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-08-15, 01:27:29](https://news.ycombinator.com/item?id=44907660) - [Nobody’s buying homes, nobody’s switching jobs, America’s mobility is stalling](https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc)
+* [2025-08-15, 03:47:21](https://lobste.rs/s/wcevj6/your_mac_game_is_probably_rendering) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
+* [2025-08-15, 03:30:00](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [African Union Urges Adoption of World Map Showing Continent&apos;s True Size](https://news.slashdot.org/story/25/08/14/2315236/african-union-urges-adoption-of-world-map-showing-continents-true-size?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss)
+* [2025-08-15, 01:25:00](https://it.slashdot.org/story/25/08/14/232228/russian-hackers-seized-control-of-norwegian-dam-spy-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Hackers Seized Control of Norwegian Dam, Spy Chief Says](https://it.slashdot.org/story/25/08/14/232228/russian-hackers-seized-control-of-norwegian-dam-spy-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 01:08:42](https://news.ycombinator.com/item?id=44907569) - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
 * [2025-08-15, 01:01:13](https://news.ycombinator.com/item?id=44907531) - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
 * [2025-08-15, 01:00:00](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Plex Users Urged To Update Media Server After Security Flaw Exposed](https://it.slashdot.org/story/25/08/14/236202/plex-users-urged-to-update-media-server-after-security-flaw-exposed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,11 +119,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 18:10:00](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s AI Rules Have Let Bots Hold &apos;Sensual&apos; Chats With Kids, Offer False Medical Info](https://tech.slashdot.org/story/25/08/14/1759222/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss)
 * [2025-08-14, 17:50:23](https://lobste.rs/s/tuodvv/placing_arguments) - [Placing Arguments](https://blog.yoshuawuyts.com/placing-arguments/)
+* [2025-08-14, 17:33:58](https://news.ycombinator.com/item?id=44903265) - [Show HN: Evaluating LLMs on creative writing via reader usage, not benchmarks](https://www.narrator.sh/)
 * [2025-08-14, 17:33:06](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers) - [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
 * [2025-08-14, 17:33:00](https://science.slashdot.org/story/25/08/14/1733234/why-cars-still-dont-have-airless-tires-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Cars Still Don&apos;t Have Airless Tires, Yet](https://science.slashdot.org/story/25/08/14/1733234/why-cars-still-dont-have-airless-tires-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 16:56:31](https://news.ycombinator.com/item?id=44902797) - [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
-* [2025-08-14, 16:55:00](https://hardware.slashdot.org/story/25/08/14/1655246/big-techs-ai-data-centers-are-driving-up-electricity-bills-for-everyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Big Tech&apos;s AI Data Centers Are Driving Up Electricity Bills for Everyone](https://hardware.slashdot.org/story/25/08/14/1655246/big-techs-ai-data-centers-are-driving-up-electricity-bills-for-everyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-14, 16:10:00](https://news.slashdot.org/story/25/08/14/1610236/commissioner-of-canada-elections-will-explore-the-use-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Commissioner of Canada Elections Will &apos;Explore the Use&apos; of AI](https://news.slashdot.org/story/25/08/14/1610236/commissioner-of-canada-elections-will-explore-the-use-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-14, 16:08:36](https://news.ycombinator.com/item?id=44902148) - [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
 * [2025-08-14, 16:06:55](https://news.ycombinator.com/item?id=44902127) - [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [2025-08-14, 15:47:43](https://news.ycombinator.com/item?id=44901853) - [Show HN: OWhisper – Ollama for realtime speech-to-text](https://docs.hyprnote.com/owhisper/what-is-this)
@@ -108,6 +130,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 15:34:46](https://news.ycombinator.com/item?id=44901683) - [Show HN: I built a free alternative to Adobe Acrobat PDF viewer](https://github.com/embedpdf/embed-pdf-viewer)
 * [2025-08-14, 14:53:44](https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup) - [Enforce Proper direnv Setup](https://joeyates.info/posts/enforce-proper-direnv-setup/)
 * [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
+* [2025-08-14, 13:48:24](https://news.ycombinator.com/item?id=44900340) - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/)
 * [2025-08-14, 13:26:09](https://news.ycombinator.com/item?id=44900116) - [Why LLMs can&apos;t really build software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 13:14:35](https://news.ycombinator.com/item?id=44899999) - [Blood oxygen monitoring returning to Apple Watch in the US](https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/)
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss)
@@ -124,7 +147,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 01:12:00](https://lobste.rs/s/6s0n5d/cross_site_request_forgery) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 23:03:16](https://news.ycombinator.com/item?id=44894910) - [What does Palantir actually do?](https://www.wired.com/story/palantir-what-the-company-does/)
 * [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss)
-* [2025-08-13, 21:51:50](https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd) - [nixidy: Kubernetes GitOps with nix and Argo CD](https://nixidy.dev)
 * [2025-08-13, 20:41:44](https://lobste.rs/s/1ugmaz/plan_9_desktop_guide) - [Plan 9 Desktop Guide](https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html)
 * [2025-08-13, 20:34:27](https://news.ycombinator.com/item?id=44893522) - [All Souls exam questions and the limits of machine reasoning](https://resobscura.substack.com/p/all-souls-exam-questions-and-the)
 * [2025-08-13, 19:45:45](https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls) - [Snooping On Slow Builds (Using Syscalls)](https://danielchasehooper.com/posts/syscall-build-snooping/)
@@ -139,7 +161,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss)
 * [2025-08-12, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss) - [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss)
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss)
-* [2025-08-12, 13:15:34](https://news.ycombinator.com/item?id=44875848) - [What&apos;s the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
+* [2025-08-12, 12:43:43](https://news.ycombinator.com/item?id=44875522) - [Show HN: Understanding the Spatial Web Browser Engine](https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
 * [2025-08-12, 08:05:39](https://news.ycombinator.com/item?id=44873635) - [Architecting large software projects [video]](https://www.youtube.com/watch?v=sSpULGNHyoI)
 * [2025-08-12, 04:14:00](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss) - [Here’s How Deepfake Vishing Attacks Work, and Why They Can Be Hard to Detect](https://soylentnews.org/article.pl?sid=25/08/10/1521232&amp;from=rss)
@@ -148,7 +170,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-11, 18:45:00](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss) - [Asian Hornet’s Unique Buzz May Hold Secret to Containing Invasive Species](https://soylentnews.org/article.pl?sid=25/08/10/1036210&amp;from=rss)
 * [2025-08-11, 14:14:00](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss) - [RIP: Dame Stephanie &apos;Steve&apos; Shirley, Technology Pioneer, Dies Aged 91](https://soylentnews.org/article.pl?sid=25/08/11/145224&amp;from=rss)
 * [2025-08-11, 14:01:00](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss) - [CalyxOS: The Pause That Wasn&apos;t](https://soylentnews.org/article.pl?sid=25/08/09/1958210&amp;from=rss)
-* [2025-08-11, 13:59:57](https://news.ycombinator.com/item?id=44864141) - [Repairing an HP 5370A Time Interval Counter](https://tomverbeure.github.io/2025/08/10/HP-5370A-Repair.html)
+* [2025-08-11, 13:18:52](https://news.ycombinator.com/item?id=44863754) - [The Kuzma Self-Playing Guitar System](https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System)
 * [2025-08-11, 09:11:00](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss) - [Americans, Be Warned: Lessons From Reddit’s Chaotic UK Age Verification Rollout](https://soylentnews.org/article.pl?sid=25/08/09/1827235&amp;from=rss)
 * [2025-08-11, 07:18:13](https://news.ycombinator.com/item?id=44861536) - [Homekit-steam-user-switcher: A way to remotely switch Steam users using HomeKit](https://github.com/rcarmo/homekit-steam-user-switcher)
 * [2025-08-11, 05:14:00](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss) - [RIP: James Lovell Dead at 97](https://soylentnews.org/article.pl?sid=25/08/11/0456211&amp;from=rss)
