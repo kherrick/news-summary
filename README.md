@@ -1,22 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Open Source Updates
 
-* [New Brain Device Is First To Read Out Inner Speech](https://science.slashdot.org/story/25/08/15/1950205/new-brain-device-is-first-to-read-out-inner-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Detail](https://news.ycombinator.com/item?id=44919891): In a groundbreaking advancement, researchers have developed a brain device capable of reading inner speech, pushing the boundaries of neurotechnology.
+* [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html) ([comments](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian))
 
-* [Sam Altman's Brain Chip Venture Is Mulling Gene Therapy Approach](https://slashdot.org/story/25/08/15/2012223/sam-altmans-brain-chip-venture-is-mulling-gene-therapy-approach?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Detail](https://news.ycombinator.com/item?id=44922241): A fusion of brain chips and gene therapy is being explored, hinting at futuristic enhancements in human capabilities.
+* [Python Surges in Popularity. And So Does Perl](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Environmental and Sustainability Developments
+* [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/) ([comments](https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds))
 
-* [Aging Can Spread Through Your Body Via a Single Protein, Study Finds](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://news.ycombinator.com/item?id=44922342): A study emphasizes the role of a single protein in aging processes, offering potential insights for anti-aging research.
+* [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803) ([comments](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty))
 
-* [Arctic Glaciers Face 'Terminal' Decline As Microbes Accelerate Ice Melt](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery): The environmental impact of microbes on glacial melting is detailed, raising concerns about Arctic ecosystems.
+* [Modernizing Standard ML of New Jersey: A Status Report (2023)](https://youtu.be/fJPN_NOJlmc) ([comments](https://lobste.rs/s/yxijut/modernizing_standard_ml_new_jersey))
 
-## Digital Infrastructure and Tools
+## Artificial Intelligence and Machine Learning
 
-* [The Future of Large Files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/) - [Detail](https://lobste.rs/s/vew3ph/future_large_files_git_is_git): Innovations in Git may simplify managing large files, marking a pivotal shift in version control systems.
+* [OpenAI's GPT-5 Sees a Big Surge in Enterprise Use](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Vaultwarden Now Supports SSO with OIDC](https://news.ycombinator.com/item?id=44911560) - [Comments](https://news.ycombinator.com/item?id=44911560): Integration of SSO features is enabling seamless service logins for users and providers.
+* [Sam Altman's Brain Chip Venture Is Mulling Gene Therapy Approach](https://slashdot.org/story/25/08/15/2012223/sam-altmans-brain-chip-venture-is-mulling-gene-therapy-approach?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/08/15/2012223/sam-altmans-brain-chip-venture-is-mulling-gene-therapy-approach?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [New Brain Device Is First To Read Out Inner Speech](https://science.slashdot.org/story/25/08/15/1950205/new-brain-device-is-first-to-read-out-inner-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/15/1950205/new-brain-device-is-first-to-read-out-inner-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Proposal: mark/punish AI imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) ([comments](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery))
+
+## Scientific Discoveries and Research
+
+* [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/) ([comments](https://news.ycombinator.com/item?id=44923465))
+
+* [ADHD Drugs Have Wider Life Benefits, Study Suggests](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Aging Can Spread Through Your Body Via a Single Protein, Study Finds](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Arctic Glaciers Face 'Terminal' Decline As Microbes Accelerate Ice Melt](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Health, Environment, and Human Behavior
+
+* [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html) ([comments](https://news.ycombinator.com/item?id=44923404))
+
+* [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/15/1320204&from=rss))
+
+* [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth) ([comments](https://news.ycombinator.com/item?id=44922571))
+
+## Engineering and System Design
+
+* [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers) ([comments](https://news.ycombinator.com/item?id=44922020))
+
+* [Good system design](https://www.seangoedecke.com/good-system-design/) ([comments](https://news.ycombinator.com/item?id=44921137))
+
+* [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/) ([comments](https://news.ycombinator.com/item?id=44917450))
 
 ---
 
@@ -43,17 +73,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
+* [2025-08-16, 15:34:00](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s GPT-5 Sees a Big Surge in Enterprise Use](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Payment Processor Fun 2025 – Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
+* [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
+* [2025-08-16, 14:34:00](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Python Surges in Popularity. And So Does Perl](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-16, 13:54:19](https://news.ycombinator.com/item?id=44923465) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
+* [2025-08-16, 13:48:32](https://news.ycombinator.com/item?id=44923404) - [A Race to Save a Signature American Tree from a Deadly Disease](https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html)
+* [2025-08-16, 13:48:12](https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+* [2025-08-16, 13:00:00](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ADHD Drugs Have Wider Life Benefits, Study Suggests](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-16, 12:41:17](https://news.ycombinator.com/item?id=44922819) - [Seagate spins up a raid on a counterfeit hard drive workshop](https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans)
+* [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss)
+* [2025-08-16, 12:13:12](https://news.ycombinator.com/item?id=44922571) - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
 * [2025-08-16, 12:00:59](https://news.ycombinator.com/item?id=44922484) - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&amp;ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
-* [2025-08-16, 11:36:27](https://news.ycombinator.com/item?id=44922342) - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
-* [2025-08-16, 11:34:06](https://news.ycombinator.com/item?id=44922324) - [Open Office Is Giving You Secondhand ADHD](https://floustate.com/blog/open-office-secondhand-adhd)
-* [2025-08-16, 11:16:30](https://news.ycombinator.com/item?id=44922241) - [Microsoft keeps adding stuff into Windows we don&apos;t need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)
 * [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
 * [2025-08-16, 10:34:35](https://news.ycombinator.com/item?id=44922020) - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
-* [2025-08-16, 10:19:39](https://news.ycombinator.com/item?id=44921945) - [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
 * [2025-08-16, 10:00:00](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Aging Can Spread Through Your Body Via a Single Protein, Study Finds](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-16, 09:07:49](https://news.ycombinator.com/item?id=44921609) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss)
-* [2025-08-16, 07:39:32](https://news.ycombinator.com/item?id=44921142) - [Once Again, Oil States Thwart Agreement on Plastics](https://e360.yale.edu/digest/global-plastics-treaty)
-* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+* [2025-08-16, 07:38:46](https://news.ycombinator.com/item?id=44921137) - [Good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 07:00:00](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arctic Glaciers Face &apos;Terminal&apos; Decline As Microbes Accelerate Ice Melt](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
 * [2025-08-16, 06:07:44](https://lobste.rs/s/yxijut/modernizing_standard_ml_new_jersey) - [Modernizing Standard ML of New Jersey: A Status Report (2023)](https://youtu.be/fJPN_NOJlmc)
@@ -69,18 +107,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-15, 23:20:00](https://news.slashdot.org/story/25/08/15/1938241/croatia-revises-digital-nomad-visa-to-last-up-to-3-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Croatia Revises Digital Nomad Visa To Last Up To 3 Years](https://news.slashdot.org/story/25/08/15/1938241/croatia-revises-digital-nomad-visa-to-last-up-to-3-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 22:40:00](https://tech.slashdot.org/story/25/08/15/1928209/google-ai-overviews-linked-to-25-drop-in-publisher-referral-traffic-new-data-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google AI Overviews Linked To 25% Drop In Publisher Referral Traffic, New Data Shows](https://tech.slashdot.org/story/25/08/15/1928209/google-ai-overviews-linked-to-25-drop-in-publisher-referral-traffic-new-data-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 22:34:17](https://news.ycombinator.com/item?id=44918060) - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
-* [2025-08-15, 22:26:03](https://lobste.rs/s/racbf7/futzing_fraction) - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html)
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss) - [Internal Meta Guidelines for AI Permit \&quot;Sensual\&quot; Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss)
 * [2025-08-15, 22:00:00](https://tech.slashdot.org/story/25/08/15/1918250/global-ev-sales-up-27-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global EV Sales Up 27% In 2025](https://tech.slashdot.org/story/25/08/15/1918250/global-ev-sales-up-27-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 21:26:53](https://news.ycombinator.com/item?id=44917450) - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-08-15, 21:25:33](https://lobste.rs/s/t1bjbx/i_m_building_media_server_out_leftover_pc) - [I&apos;m building a media server out of leftover PC parts and a 3D printed case](https://www.tomshardware.com/news/live/3d-printed-media-server)
 * [2025-08-15, 21:21:00](https://news.slashdot.org/story/25/08/15/154241/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Cheapfake&apos; AI Celeb Videos Are Rage-Baiting People on YouTube](https://news.slashdot.org/story/25/08/15/154241/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 20:40:00](https://news.slashdot.org/story/25/08/15/109215/new-zealands-population-exodus-hits-13-year-high-as-economy-worsens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Zealand&apos;s Population Exodus Hits 13-Year High as Economy Worsens](https://news.slashdot.org/story/25/08/15/109215/new-zealands-population-exodus-hits-13-year-high-as-economy-worsens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-15, 20:12:10](https://lobste.rs/s/vhmplt/depth_analysis_on_valorant_s_guarded) - [In-depth analysis on Valorant&apos;s Guarded Regions (2023)](https://reversing.info/posts/guardedregions/)
-* [2025-08-15, 20:12:00](https://news.slashdot.org/story/25/08/15/2015213/vpnet-publishes-sgx-enclave-code-zero-trust-privacy-you-can-actually-verify?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VP.NET Publishes SGX Enclave Code: Zero-Trust Privacy You Can Actually Verify](https://news.slashdot.org/story/25/08/15/2015213/vpnet-publishes-sgx-enclave-code-zero-trust-privacy-you-can-actually-verify?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 20:07:06](https://news.ycombinator.com/item?id=44916783) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
-* [2025-08-15, 20:02:00](https://linux.slashdot.org/story/25/08/15/1536230/another-linux-distro-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Another Linux Distro Is Shutting Down](https://linux.slashdot.org/story/25/08/15/1536230/another-linux-distro-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-15, 19:20:00](https://science.slashdot.org/story/25/08/15/1533203/exposure-to-some-common-pfas-changes-gene-activity-new-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Exposure To Some Common Pfas Changes Gene Activity, New Study Finds](https://science.slashdot.org/story/25/08/15/1533203/exposure-to-some-common-pfas-changes-gene-activity-new-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:25:02](https://news.ycombinator.com/item?id=44915824) - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 * [2025-08-15, 18:23:35](https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux) - [is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
@@ -103,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 11:06:27](https://news.ycombinator.com/item?id=44910865) - [I accidentally became PureGym’s unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-08-15, 10:07:53](https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh) - [GitHub Actions safe_sleep.sh](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh)
-* [2025-08-15, 08:51:06](https://lobste.rs/s/yk6f9n/anaphoric_macros) - [Anaphoric Macros](https://letoverlambda.com/index.cl/guest/chap6.html)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
 * [2025-08-15, 07:35:26](https://lobste.rs/s/p7eaca/slog_is_aptly_named) - [slog is aptly named](https://flak.tedunangst.com/post/slog-is-aptly-named)
 * [2025-08-15, 04:34:12](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual) - [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
@@ -115,13 +147,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-14, 21:06:37](https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing) - [what is the go proxy even doing?](https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing)
 * [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss)
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss)
-* [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How Randomness Improves Algorithms?](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
+* [2025-08-14, 09:43:53](https://news.ycombinator.com/item?id=44898560) - [How randomness improves algorithms (2023)](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2025-08-14, 08:22:00](https://soylentnews.org/article.pl?sid=25/08/13/1127246&amp;from=rss) - [Reddit Bars Internet Archive From its Website, Sparking Access Concerns](https://soylentnews.org/article.pl?sid=25/08/13/1127246&amp;from=rss)
 * [2025-08-14, 03:37:00](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss) - [Debian 13 \&quot;Trixie\&quot; and Debian \&quot;Hurd 2025\&quot; Released](https://soylentnews.org/article.pl?sid=25/08/12/180244&amp;from=rss)
 * [2025-08-13, 22:56:00](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss) - [Microsoft Sued for Discontinuing Windows 10 Support](https://soylentnews.org/article.pl?sid=25/08/12/1737238&amp;from=rss)
 * [2025-08-13, 18:49:42](https://news.ycombinator.com/item?id=44892283) - [AI is different](https://www.antirez.com/news/155)
 * [2025-08-13, 18:10:00](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss) - [Oracle VirtualBox Licensing Tweak Lies in Wait for Unwary](https://soylentnews.org/article.pl?sid=25/08/12/1155214&amp;from=rss)
-* [2025-08-13, 13:59:23](https://news.ycombinator.com/item?id=44888548) - [Show HN: Prime Number Grid Visualizer](https://enda.sh/primegrid/)
+* [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss)
 * [2025-08-13, 08:34:00](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss) - [Small Clouds Out as VMware Again Changes Partner Program](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss)
 * [2025-08-13, 03:51:00](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss) - [OpenAI Will Not Disclose GPT-5’s Energy Use. It Could be Higher Than Past Models](https://soylentnews.org/article.pl?sid=25/08/12/0427247&amp;from=rss)
@@ -130,7 +162,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-12, 23:08:00](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss) - [Using a Fan Can Make Older Adults Hotter in a Dry Heat](https://soylentnews.org/article.pl?sid=25/08/12/0419218&amp;from=rss)
 * [2025-08-12, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss) - [Post-Quantum Cryptography Advice Added to OpenSSH Website](https://soylentnews.org/article.pl?sid=25/08/11/2227259&amp;from=rss)
 * [2025-08-12, 15:06:08](https://news.ycombinator.com/item?id=44877201) - [Recto – A Truly 2D Language](https://masatohagiwara.net/recto.html)
-* [2025-08-12, 14:03:47](https://news.ycombinator.com/item?id=44876346) - [ARM adds neural accelerators to GPUs](https://newsroom.arm.com/news/arm-announces-arm-neural-technology)
 * [2025-08-12, 13:42:00](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss) - [Coding Error Blamed After Parts of Constitution Disappear From US Website](https://soylentnews.org/article.pl?sid=25/08/10/233218&amp;from=rss)
 * [2025-08-12, 08:55:00](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss) - [Extra-Strong Bacterial Cellulose Sheets as a Biodegradable Alternative to Plastic](https://soylentnews.org/article.pl?sid=25/08/10/2217254&amp;from=rss)
 * [2025-08-12, 05:04:21](https://news.ycombinator.com/item?id=44872584) - [Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity](https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/)
