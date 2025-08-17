@@ -1,48 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Regulation
+## Technology Advancements
 
-* [America's Labor Unions are Backing State Regulations for AI Use in Workplaces](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Labor unions advocate for state-level oversight of AI usage in workplaces.
+* [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0) ([comments](https://news.ycombinator.com/item?id=44929260))
 
-* [Illinois Bans AI Therapy, Joins Two Other States in Regulating Chatbots](https://news.slashdot.org/story/25/08/16/0434221/illinois-bans-ai-therapy-joins-two-other-states-in-regulating-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Illinois takes a stand against AI therapy with new chatbot regulations.
+* [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss))
 
-* [AI Is Reshaping Hacking. No One Agrees How Fast](https://it.slashdot.org/story/25/08/16/1936221/ai-is-reshaping-hacking-no-one-agrees-how-fast?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A discussion on the rapid transformation of hacking with AI and its unpredictable pace.
+* [Tversky Neural Networks](https://gonzoml.substack.com/p/tversky-neural-networks) ([comments](https://news.ycombinator.com/item?id=44925123))
 
-## Environmental Science and Innovations
+* [ADHD Drugs Have Wider Life Benefits, Study Suggests](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/15/2040240/adhd-drugs-have-wider-life-benefits-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Researchers Solve Long-Standing Mystery After Voyager's 1986 Flyby of Uranus](https://science.slashdot.org/story/25/08/16/2045223/researchers-solve-long-standing-mystery-after-voyagers-1986-flyby-of-uranus?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists uncover answers regarding Uranus' mysteries decades post-flyby.
+* [New Brain Device Is First To Read Out Inner Speech](https://science.slashdot.org/story/25/08/15/1950205/new-brain-device-is-first-to-read-out-inner-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/15/1950205/new-brain-device-is-first-to-read-out-inner-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Aging Can Spread Through Your Body Via a Single Protein, Study Finds](https://science.slashdot.org/story/25/08/15/2031257/aging-can-spread-through-your-body-via-a-single-protein-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New findings link aging with a specific protein's impact on the body.
+## AI and Machine Learning Regulations
 
-* [Virtual Power Plants: Where Home Batteries are Saving Americans from Blackouts](https://hardware.slashdot.org/story/25/08/16/0335211/virtual-power-plants-where-home-batteries-are-saving-americans-from-blackouts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How distributed home batteries are mitigating power outages.
+* [America's Labor Unions are Backing State Regulations for AI Use in Workplaces](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Cybersecurity and Software Updates
+* [Illinois Bans AI Therapy, Joins Two Other States in Regulating Chatbots](https://news.slashdot.org/story/25/08/16/0434221/illinois-bans-ai-therapy-joins-two-other-states-in-regulating-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/16/0434221/illinois-bans-ai-therapy-joins-two-other-states-in-regulating-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Hyundai Wants Ioniq 5 Customers to Pay for Cybersecurity Patch in Baffling Move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/) - Hyundai asks customers to shoulder costs for critical cybersecurity updates.
+* [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon's Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss))
 
-* [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md) - A guide focusing on securing and strengthening Linux systemd services.
+## Unique Insights and Policies
 
-* [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports) - The maintainer of libxml2 highlights the impracticality of embargoed vulnerability fixes.
+* [I Throw Itching Powder at Tulips (2014)](https://dreamsongs.com/Files/Tulips.pdf) ([comments](https://lobste.rs/s/a1i2fj/i_throw_itching_powder_at_tulips_2014))
 
-## Technological Milestones
+* [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/) ([comments](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers))
 
-* [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&from=rss) - Bill Gates expects a revolutionary replacement for smartphones.
+* [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280) ([comments](https://news.ycombinator.com/item?id=44926965))
 
-* [OpenAI's GPT-5 Sees a Big Surge in Enterprise Use](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) - GPT-5 adoption skyrockets across industries due to its advancements.
+## Tools and Techniques
 
-## Unique and Creative Concepts
+* [eBPF Networking Techniques - Packet Redirection (2023)](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/) ([comments](https://lobste.rs/s/vdukt5/ebpf_networking_techniques_packet))
 
-* [I Throw Itching Powder at Tulips (2014)](https://dreamsongs.com/Files/Tulips.pdf) - A quirky essay blending nature, human behavior, and the peculiar.
+* [Understanding Diffie-Hellman with Clocks](https://appliedcryptography.page/gadgets/clocks) ([comments](https://lobste.rs/s/qxzgi0/understanding_diffie_hellman_with))
 
-* [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/) - An exploration of onion dicing optimized using mathematical principles.
+* [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html) ([comments](https://news.ycombinator.com/item?id=44927953))
 
-* [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/) - A playful quiz aligning developers with various programming philosophies.
+## Environmental and Space Discoveries
 
-## Sustainability and Recycling
+* [Researchers Solve Long-Standing Mystery After Voyager's 1986 Flyby of Uranus](https://science.slashdot.org/story/25/08/16/2045223/researchers-solve-long-standing-mystery-after-voyagers-1986-flyby-of-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/16/2045223/researchers-solve-long-standing-mystery-after-voyagers-1986-flyby-of-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Princeton NuEnergy's Battery Recycling Tech Recovers 97% of Lithium-Ion Material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/) - A major breakthrough in lithium-ion battery recycling announced by Princeton NuEnergy.
+* [Can We Harness Light Like Nature for a New Era of Green Chemistry?](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Can We Harness Light Like Nature for a New Era of Green Chemistry?](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The potential for light-harnessing chemicals inspired by nature.
+* [Arctic Glaciers Face 'Terminal' Decline As Microbes Accelerate Ice Melt](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/15/2027248/arctic-glaciers-face-terminal-decline-as-microbes-accelerate-ice-melt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -69,9 +69,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-17, 06:03:27](https://news.ycombinator.com/item?id=44929260) - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 * [2025-08-17, 03:34:00](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Labor Unions are Backing State Regulations for AI Use in Workplaces](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 03:22:31](https://lobste.rs/s/a1i2fj/i_throw_itching_powder_at_tulips_2014) - [I Throw Itching Powder at Tulips (2014)](https://dreamsongs.com/Files/Tulips.pdf)
-* [2025-08-17, 02:53:23](https://news.ycombinator.com/item?id=44928504) - [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
 * [2025-08-17, 02:49:48](https://news.ycombinator.com/item?id=44928497) - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss)
 * [2025-08-17, 02:44:40](https://lobste.rs/s/vdukt5/ebpf_networking_techniques_packet) - [eBPF Networking Techniques - Packet Redirection (2023)](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
@@ -85,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss)
 * [2025-08-16, 22:04:29](https://news.ycombinator.com/item?id=44927244) - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 22:01:42](https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz) - [Dev Compass - Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
-* [2025-08-16, 22:00:06](https://lobste.rs/s/rpz1fw/dyna_logic_programming_for_machine) - [Dyna — Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 21:49:00](https://news.slashdot.org/story/25/08/16/0434221/illinois-bans-ai-therapy-joins-two-other-states-in-regulating-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Illinois Bans AI Therapy, Joins Two Other States in Regulating Chatbots](https://news.slashdot.org/story/25/08/16/0434221/illinois-bans-ai-therapy-joins-two-other-states-in-regulating-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-16, 21:16:58](https://lobste.rs/s/bkpfyt/ambient_age_verification) - [Ambient age verification](https://www.jwz.org/blog/2025/07/ambient-age-verification/)
 * [2025-08-16, 21:12:40](https://news.ycombinator.com/item?id=44926965) - [Living with Williams Syndrome, the &apos;opposite of autism&apos; (2014)](https://www.bbc.com/news/health-26888280)
@@ -100,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 18:37:17](https://news.ycombinator.com/item?id=44925853) - [A Lisp in 99LOC](https://github.com/Robert-van-Engelen/tinylisp)
-* [2025-08-16, 18:36:46](https://news.ycombinator.com/item?id=44925847) - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
 * [2025-08-16, 18:34:00](https://news.slashdot.org/story/25/08/16/1749228/remember-the-companies-making-vital-open-source-contributions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Remember the Companies Making Vital Open Source Contributions](https://news.slashdot.org/story/25/08/16/1749228/remember-the-companies-making-vital-open-source-contributions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 * [2025-08-16, 18:00:33](https://news.ycombinator.com/item?id=44925597) - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
@@ -115,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-16, 15:47:12](https://news.ycombinator.com/item?id=44924461) - [OpenAI Progress](https://progress.openai.com)
 * [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
 * [2025-08-16, 15:34:00](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s GPT-5 Sees a Big Surge in Enterprise Use](https://it.slashdot.org/story/25/08/16/0623240/openais-gpt-5-sees-a-big-surge-in-enterprise-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-16, 15:01:20](https://news.ycombinator.com/item?id=44924055) - [Making Your Own Merchant Service Provider](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 * [2025-08-16, 14:49:49](https://news.ycombinator.com/item?id=44923962) - [Princeton NuEnergy&apos;s battery recycling tech recovers 97% of lithium-ion material](https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/)
 * [2025-08-16, 14:34:00](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Python Surges in Popularity. And So Does Perl](https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -139,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss) - [Internal Meta Guidelines for AI Permit \&quot;Sensual\&quot; Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss)
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
+* [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss)
@@ -155,6 +153,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-13, 15:23:11](https://news.ycombinator.com/item?id=44889673) - [An Argument for Increasing TCP&apos;s Initial Congestion Window Again](https://jeclark.net/articles/tcp-initcwnd/?tag=performance)
 * [2025-08-13, 14:47:01](https://news.ycombinator.com/item?id=44889163) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2](https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html)
 * [2025-08-13, 13:22:00](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss) - [Smartwatches Offer Little Insight Into Stress Levels, Researchers Find](https://soylentnews.org/article.pl?sid=25/08/12/1147242&amp;from=rss)
+* [2025-08-13, 12:42:00](https://news.ycombinator.com/item?id=44887744) - [SuperSight: A graphical enhancement mod for Brøderbund&apos;s \&quot;Stunts\&quot;](https://marnetto.net/2025/02/20/broderbund-stunts-1)
+* [2025-08-13, 12:30:31](https://news.ycombinator.com/item?id=44887643) - [Counting Words at SIMD Speed](https://healeycodes.com/counting-words-at-simd-speed)
 * [2025-08-13, 11:08:50](https://news.ycombinator.com/item?id=44886997) - [FFmpeg moves to Forgejo](https://code.ffmpeg.org/FFmpeg/FFmpeg)
 * [2025-08-13, 09:09:34](https://news.ycombinator.com/item?id=44886202) - [The Raft Consensus Algorithm (2015)](https://raft.github.io/)
 * [2025-08-13, 08:34:00](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss) - [Small Clouds Out as VMware Again Changes Partner Program](https://soylentnews.org/article.pl?sid=25/08/12/1137226&amp;from=rss)
