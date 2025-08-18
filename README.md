@@ -1,58 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming Innovations
+## Technology and Software
 
-* [Recto — a truly 2D language](https://masatohagiwara.net/recto.html) - An intriguing new programming language that operates in two dimensions, offering a different paradigm for problem-solving.
+* [ZFS scrubs check (much) less than you probably think they do (2018)](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII) - A deep dive into the limitations of ZFS scrubs when analyzing file corruption consistency.
 
-* [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/) - A minimalist approach to web applications packed into a single HTML file.
+* [Website is served from nine Neovim buffers on my old ThinkPad](https://vim.gabornyeki.com/) - A unique showcase of a web server using Neovim buffers to serve web pages.
 
-* [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee) - A new tool to simplify and optimize background tasks in .NET development.
+* [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html) - Examines the customization options available for Lisp REPLs to enhance user workflows.
 
-* [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/introduction/) - Comprehensive resource to understand NixOS and its Flakes feature, targeted towards developers exploring reproducible builds.
+* [Mangle – a language for deductive database programming](https://github.com/google/mangle) - Google's language initiative for efficiently programming deductive databases.
 
-* [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening) - Insights into securing `SystemD` services for enhanced server protection.
+## Artificial Intelligence and Security
 
-* [Fun with Finite State Transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers) - Article diving into finite state transducers and their innovative applications.
+* [When you're asking AI chatbots for answers, they're data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/) - Discusses how AI chatbots exploit user data for surveillance purposes.
 
-* [Modifying other people's software](https://natkr.com/2025-08-14-modifying-other-peoples-software/) - A discussion on ethical and technical considerations when working with external code bases.
+* [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare) - A critique of large language models and their potential to exacerbate security issues.
 
-## Artificial Intelligence and Machine Learning
+* [Google's 'AI Overview' Pointed Him to a Customer Service Number. It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights the dangers of AI-generated misinformation leading to scam activities.
 
-* [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia) - Australia’s antitrust revelation regarding Google sparks debate about the tech giant’s practices.
+## Scientific and Medical Advances
 
-* [LLM Found Transmitting Behavioral Traits to 'Student' LLM Via Hidden Signals in Data](https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A study showing how language models influence each other during training.
+* [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) - Introduces a novel bioengineering approach using human hair to produce dental repairs.
 
-* [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html) - Discussion on the limitations of Language Learning Models (LLMs) when conceptualizing the world.
+* [Electromechanical reshaping, an alternative to laser eye surgery](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html) - Looks into a groundbreaking non-laser method for corrective eye surgery.
 
-* [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&from=rss) - Problems arising from Mozilla’s AI integration in their web browser.
+## Environment and Sustainability
 
-## Scientific Discoveries and Innovations
+* [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678) - Explores strategies to rethink demolition through circular economy principles.
 
-* [Rare 'Upper Atmosphere Lightning' Photographed From ISS](https://science.slashdot.org/story/25/08/18/0423227/rare-upper-atmosphere-lightning-photographed-from-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A remarkable image captures rare lightning phenomena above Earth from space.
+* [In Barcelona, Certain Buses Run On Biomethane Produced From Human Waste](https://tech.slashdot.org/story/25/08/17/0139251/in-barcelona-certain-buses-run-on-biomethane-produced-from-human-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses innovative sustainable transportation fuel methods.
 
-* [Can We Harness Light Like Nature for a New Era of Green Chemistry?](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring biomimicry in chemical processes inspired by plants.
+## Open Source and Development Tools
 
-* [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss) - Rediscovery of a settlement in Pompeii post-eruption unveils ancient resilience.
+* [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw) - A tool for testing and debugging GitHub Actions workflows locally.
 
-## Security and Privacy Concerns
+* [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee) - Presents a solution for simplified task management in .NET development.
 
-* [Male-Oriented App 'TeaOnHer' Also Had Security Flaws That Could Leak Men’s Driver’s License Photos](https://it.slashdot.org/story/25/08/18/0550252/male-oriented-app-teaonher-also-had-security-flaws-that-could-leak-mens-drivers-license-photos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Another app faces scrutiny for serious vulnerabilities.
+* [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus) - Nvidia's latest tool for efficient GPU kernel-level programming.
 
-* [Security Flaws In Carmaker's Web Portal Let a Hacker Remotely Unlock Cars](https://it.slashdot.org/story/25/08/17/0221251/security-flaws-in-carmakers-web-portal-let-a-hacker-remotely-unlock-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The automotive industry faces challenges in securing connected systems.
+## Cultural and Historical Discoveries
 
-* [Google's 'AI Overview' Pointed Him to a Customer Service Number. It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A scam linked to AI results causing user concerns over reliability.
+* [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) - New archaeological evidence reveals human activities in post-eruption Pompeii.
 
-* [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports) - Decision to stop embargoed reports highlights challenges in open-source project management.
+* [The Lives and Loves of James Baldwin](https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review) - A reflective analysis of the personal relationships and legacies of James Baldwin.
 
-## Software Development Tools and Practices
+## Consumer and Business Impact
 
-* [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/) - An innovative tool for creating and visualizing tree-like data structures in ASCII format.
+* [Duolingo's Stock Down 38%, Plummets After OpenAI's GPT-5 Language App-Building Demo](https://yro.slashdot.org/story/25/08/17/194212/duolingos-stock-down-38-plummets-after-openais-gpt-5-language-app-building-demo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines how GPT-5's language capabilities disrupted the edtech market.
 
-* [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw) - A utility for developers to debug GitHub Action workflows on local environments.
-
-* [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html) - Comprehensive guide on using assertions effectively for error handling.
-
-* [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf) - Advanced mathematical approaches for understanding complex systems in machine learning.
+* [$81M 'Trade Secrets' Verdict Against Boeing Was Overturned - and Then Reinstated](https://tech.slashdot.org/story/25/08/18/0055216/81m-trade-secrets-verdict-against-boeing-was-overturned---and-then-reinstated?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details the legal complexities surrounding Boeing's trade secrets dispute.
 
 ---
 
@@ -79,17 +75,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-18, 13:04:35](https://lobste.rs/s/munhml/preventing_naptr_spam) - [Preventing NAPTR Spam](https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/)
+* [2025-08-18, 12:44:06](https://lobste.rs/s/hvmtob/zfs_scrubs_check_much_less_than_you) - [ZFS scrubs check (much) less than you probably think they do (2018)](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII)
+* [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss)
+* [2025-08-18, 11:59:53](https://lobste.rs/s/giy0kl/all_atc_message_routing_germany_was_done) - [All ATC message routing in Germany was done through Emacs](https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/)
+* [2025-08-18, 11:58:17](https://news.ycombinator.com/item?id=44939660) - [When you&apos;re asking AI chatbots for answers, they&apos;re data-mining you](https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/)
+* [2025-08-18, 11:42:31](https://news.ycombinator.com/item?id=44939551) - [The circular economy could make demolition a thing of the past](https://theconversation.com/the-circular-economy-could-make-demolition-a-thing-of-the-past-heres-how-261678)
+* [2025-08-18, 11:34:00](https://science.slashdot.org/story/25/08/18/0631210/5-of-americans-are-cancer-survivors---and-theyre-living-longer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [5% of Americans are Cancer Survivors - and They&apos;re Living Longer](https://science.slashdot.org/story/25/08/18/0631210/5-of-americans-are-cancer-survivors---and-theyre-living-longer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-18, 11:04:34](https://news.ycombinator.com/item?id=44939331) - [LLMs and coding agents are a security nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+* [2025-08-18, 11:03:22](https://news.ycombinator.com/item?id=44939324) - [Website is served from nine Neovim buffers on my old ThinkPad](https://vim.gabornyeki.com/)
+* [2025-08-18, 11:02:04](https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim) - [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
+* [2025-08-18, 10:44:11](https://lobste.rs/s/monzbv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/monzbv/what_are_you_doing_this_week)
+* [2025-08-18, 10:02:31](https://news.ycombinator.com/item?id=44938963) - [MCP tools with dependent types](https://vlaaad.github.io/mcp-tools-with-dependent-types)
+* [2025-08-18, 09:53:03](https://news.ycombinator.com/item?id=44938920) - [MCP doesn&apos;t need tools, it needs code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-08-18, 09:36:45](https://lobste.rs/s/tdpcjd/busybee_lightweight_observable) - [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee)
+* [2025-08-18, 09:35:17](https://news.ycombinator.com/item?id=44938818) - [Electromechanical reshaping,  an alternative to laser eye surgery](https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html)
 * [2025-08-18, 09:32:35](https://lobste.rs/s/ohfxkz/we_needed_better_cloud_storage_for_python) - [We Needed Better Cloud Storage for Python so We Built Obstore](https://developmentseed.org/blog/2025-08-01-obstore/)
 * [2025-08-18, 09:03:18](https://lobste.rs/s/bsyd6a/nixos_flakes_book) - [NixOS &amp; Flakes Book](https://nixos-and-flakes.thiscute.world/introduction/)
-* [2025-08-18, 08:51:34](https://lobste.rs/s/bnlh45/short_statistical_reasoning_test) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 * [2025-08-18, 08:25:58](https://lobste.rs/s/tagrrs/introducing_illumos_cafe_another_cozy) - [Introducing the illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 08:10:33](https://lobste.rs/s/pddgnt/trick_use_mkmerge_at_top_level_nixos) - [A Trick To Use mkMerge at The Top Level of a NixOS module](https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43)
 * [2025-08-18, 08:10:20](https://lobste.rs/s/hpzxmg/i_tried_every_todo_app_ended_up_with_txt) - [I Tried Every Todo App and Ended Up With a .txt File](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-18, 07:34:00](https://it.slashdot.org/story/25/08/18/0550252/male-oriented-app-teaonher-also-had-security-flaws-that-could-leak-mens-drivers-license-photos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Male-Oriented App &apos;TeaOnHer&apos; Also Had Security Flaws That Could Leak Men&apos;s Driver&apos;s License Photos](https://it.slashdot.org/story/25/08/18/0550252/male-oriented-app-teaonher-also-had-security-flaws-that-could-leak-mens-drivers-license-photos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss)
 * [2025-08-18, 07:11:00](https://news.ycombinator.com/item?id=44938156) - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
-* [2025-08-18, 06:55:55](https://news.ycombinator.com/item?id=44938083) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 * [2025-08-18, 06:38:11](https://news.ycombinator.com/item?id=44937991) - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 * [2025-08-18, 05:25:00](https://science.slashdot.org/story/25/08/18/0423227/rare-upper-atmosphere-lightning-photographed-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rare &apos;Upper Atmosphere Lightning&apos; Photographed From ISS](https://science.slashdot.org/story/25/08/18/0423227/rare-upper-atmosphere-lightning-photographed-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 05:21:17](https://lobste.rs/s/6jljsk/wrkflw_validate_run_github_actions) - [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw)
@@ -100,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 03:52:18](https://lobste.rs/s/7rikhb/system_inside_system) - [The System Inside the System](https://worksonmymachine.ai/p/the-system-inside-the-system)
 * [2025-08-18, 03:32:44](https://lobste.rs/s/inpnyd/customizing_lisp_repls) - [Customizing Lisp REPLs](https://aartaka.me/customize-repl.html)
 * [2025-08-18, 02:54:55](https://news.ycombinator.com/item?id=44936945) - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
-* [2025-08-18, 02:52:29](https://news.ycombinator.com/item?id=44936932) - [Show HN: ASCII Tree Editor](https://asciitree.reorx.com/)
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
 * [2025-08-18, 02:25:00](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s &apos;AI Overview&apos; Pointed Him to a Customer Service Number.  It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 01:40:29](https://news.ycombinator.com/item?id=44936575) - [Non-Uniform Memory Access (NUMA) is reshaping microservice placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
@@ -112,19 +119,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss)
 * [2025-08-17, 21:40:47](https://news.ycombinator.com/item?id=44935169) - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
 * [2025-08-17, 21:24:00](https://it.slashdot.org/story/25/08/17/2120232/androids-pkvm-becomes-first-globally-certified-software-to-achieve-sesip-level-5-security-certification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android&apos;s pKVM Becomes First Globally Certified Software to Achieve SESIP Level 5 Security Certification](https://it.slashdot.org/story/25/08/17/2120232/androids-pkvm-becomes-first-globally-certified-software-to-achieve-sesip-level-5-security-certification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-17, 21:03:03](https://lobste.rs/s/lje7dc/gaussian_processes_for_machine_learning) - [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf)
 * [2025-08-17, 19:52:03](https://news.ycombinator.com/item?id=44934391) - [Show HN: Doxx – Terminal .docx viewer inspired by Glow](https://github.com/bgreenwell/doxx)
-* [2025-08-17, 19:51:39](https://news.ycombinator.com/item?id=44934386) - [I Prefer RST to Markdown (2024)](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2025-08-17, 19:07:00](https://yro.slashdot.org/story/25/08/17/194212/duolingos-stock-down-38-plummets-after-openais-gpt-5-language-app-building-demo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Duolingo&apos;s Stock Down 38%, Plummets After OpenAI&apos;s GPT-5 Language App-Building Demo](https://yro.slashdot.org/story/25/08/17/194212/duolingos-stock-down-38-plummets-after-openais-gpt-5-language-app-building-demo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
-* [2025-08-17, 17:46:04](https://news.ycombinator.com/item?id=44933401) - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
 * [2025-08-17, 17:34:00](https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LLM Found Transmitting Behavioral Traits to &apos;Student&apos; LLM Via Hidden Signals in Data](https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 17:26:56](https://news.ycombinator.com/item?id=44933255) - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
 * [2025-08-17, 17:08:00](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss) - [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss)
 * [2025-08-17, 16:53:03](https://news.ycombinator.com/item?id=44932980) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-17, 16:34:00](https://games.slashdot.org/story/25/08/17/062255/more-game-workers-at-microsofts-blizzard-join-a-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Game Workers at Microsoft&apos;s &apos;Blizzard&apos; Join a Union](https://games.slashdot.org/story/25/08/17/062255/more-game-workers-at-microsofts-blizzard-join-a-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 16:13:06](https://news.ycombinator.com/item?id=44932651) - [Show HN: OverType – A Markdown WYSIWYG editor that&apos;s just a textarea](https://news.ycombinator.com/item?id=44932651)
-* [2025-08-17, 16:10:37](https://news.ycombinator.com/item?id=44932624) - [MS-DOS development resources](https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md)
 * [2025-08-17, 16:00:56](https://lobste.rs/s/wub5ol/brief_consideration_input_shapes) - [A brief consideration of input shapes (fuzzing)](https://addisoncrump.info/research/consideration-of-input-shapes/)
 * [2025-08-17, 15:48:51](https://lobste.rs/s/ztwmik/beyond_booleans_propositions_lean) - [Beyond Booleans: Propositions in Lean](https://overreacted.io/beyond-booleans/)
 * [2025-08-17, 15:34:00](https://it.slashdot.org/story/25/08/17/0221251/security-flaws-in-carmakers-web-portal-let-a-hacker-remotely-unlock-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Security Flaws In Carmaker&apos;s Web Portal Let a Hacker Remotely Unlock Cars](https://it.slashdot.org/story/25/08/17/0221251/security-flaws-in-carmakers-web-portal-let-a-hacker-remotely-unlock-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -132,9 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-17, 14:34:00](https://tech.slashdot.org/story/25/08/17/0139251/in-barcelona-certain-buses-run-on-biomethane-produced-from-human-waste?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In Barcelona, Certain Buses Run On Biomethane Produced From Human Waste](https://tech.slashdot.org/story/25/08/17/0139251/in-barcelona-certain-buses-run-on-biomethane-produced-from-human-waste?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 14:29:22](https://news.ycombinator.com/item?id=44931824) - [Show HN: NextDNS Adds \&quot;Bypass Age Verification\&quot;](https://news.ycombinator.com/item?id=44931824)
 * [2025-08-17, 14:08:18](https://news.ycombinator.com/item?id=44931666) - [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/)
-* [2025-08-17, 13:28:29](https://news.ycombinator.com/item?id=44931415) - [Why Nim?](https://undefined.pyfy.ch/why-nim)
-* [2025-08-17, 13:27:41](https://lobste.rs/s/pvmfvc/careful_communication) - [Careful Communication](https://blog.lyall.co/careful-communication/)
-* [2025-08-17, 13:08:44](https://news.ycombinator.com/item?id=44931321) - [BBC Micro, ancestor to ARM](https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/)
 * [2025-08-17, 12:21:00](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss) - [Massive Magnets Are on the Move: Repurposing Electromagnets for Research](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss)
 * [2025-08-17, 11:34:00](https://yro.slashdot.org/story/25/08/17/1123235/former-intel-engineer-sentenced-for-stealing-trade-secrets-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Intel Engineer Sentenced for Stealing Trade Secrets for Microsoft](https://yro.slashdot.org/story/25/08/17/1123235/former-intel-engineer-sentenced-for-stealing-trade-secrets-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
@@ -143,29 +143,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss)
 * [2025-08-17, 03:34:00](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Labor Unions are Backing State Regulations for AI Use in Workplaces](https://it.slashdot.org/story/25/08/16/0512211/americas-labor-unions-are-backing-state-regulations-for-ai-use-in-workplaces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss)
-* [2025-08-17, 01:35:00](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can We Harness Light Like Nature for a New Era of Green Chemistry?](https://science.slashdot.org/story/25/08/17/0011242/can-we-harness-light-like-nature-for-a-new-era-of-green-chemistry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss)
-* [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
-* [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon&apos;s Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss)
+* [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss)
+* [2025-08-16, 12:08:45](https://news.ycombinator.com/item?id=44922540) - [Walkie-Textie Wireless Communicator](http://www.technoblogy.com/show?2AON)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss)
-* [2025-08-16, 03:21:43](https://news.ycombinator.com/item?id=44919831) - [A Visual Exploration of Gaussian Processes (2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [2025-08-16, 03:07:00](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss) - [Many Countries Banned From Using PayPal for Steam Games in Latest Payment Processor Drama](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss)
+* [2025-08-16, 02:44:22](https://news.ycombinator.com/item?id=44919666) - [8x19 Text Mode Font Origins](https://www.os2museum.com/wp/8x19-text-mode-font-origins/)
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss) - [Internal Meta Guidelines for AI Permit \&quot;Sensual\&quot; Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss)
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss)
+* [2025-08-15, 14:24:29](https://news.ycombinator.com/item?id=44912822) - [Sky Calendar](https://abramsplanetarium.org/SkyCalendar/index.html)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss)
-* [2025-08-15, 12:34:27](https://news.ycombinator.com/item?id=44911582) - [Viking-Age hoard reveals trade between England and the Islamic World](https://www.heritagedaily.com/2025/08/viking-age-hoard-reveals-trade-between-england-and-the-islamic-world/155786)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
 * [2025-08-15, 04:11:48](https://news.ycombinator.com/item?id=44908528) - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss)
 * [2025-08-14, 23:36:46](https://news.ycombinator.com/item?id=44906985) - [Nvidia Tilus: A Tile-Level GPU Kernel Programming Language](https://github.com/NVIDIA/tilus)
 * [2025-08-14, 22:37:00](https://soylentnews.org/article.pl?sid=25/08/13/1347256&amp;from=rss) - [Joint Polar System METOP-SGA1 Launched](https://soylentnews.org/article.pl?sid=25/08/13/1347256&amp;from=rss)
 * [2025-08-14, 17:52:00](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss) - [AOL is Discontinuing its Dial-Up Service](https://soylentnews.org/article.pl?sid=25/08/13/1344242&amp;from=rss)
-* [2025-08-14, 17:30:12](https://news.ycombinator.com/item?id=44903227) - [Fun with Finite State Transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
-* [2025-08-14, 15:29:55](https://news.ycombinator.com/item?id=44901608) - [Leeches and the Legitimizing of Folk-Medicine](https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine)
 * [2025-08-14, 13:03:00](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss) - [Microsoft Recall Exposes Passwords and Banking Data](https://soylentnews.org/article.pl?sid=25/08/13/1139229&amp;from=rss)
 * [2025-08-14, 13:02:49](https://news.ycombinator.com/item?id=44899886) - [Scientists discover surprising language &apos;shortcuts&apos; in birdsong – like humans](https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/)
 * [2025-08-14, 08:22:00](https://soylentnews.org/article.pl?sid=25/08/13/1127246&amp;from=rss) - [Reddit Bars Internet Archive From its Website, Sparking Access Concerns](https://soylentnews.org/article.pl?sid=25/08/13/1127246&amp;from=rss)
