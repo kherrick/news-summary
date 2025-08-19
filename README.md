@@ -1,80 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in AI and Technology
+## Tech Innovations and Tools
 
-* [Gates Funds $1 Million AI Alzheimer&apos;s Prize](https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Bill Gates announces a $1 million prize to advance AI solutions addressing Alzheimer's disease.
+* [AnduinOS](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
 
-* [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246) - A new YC company provides tools aimed at safer, regulated use of AI in clinical contexts.
+* [D2 (text to diagram tool) now supports ASCII renders](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
 
-* [MIT Report: 95% of Generative AI Pilots at Companies Are Failing](https://slashdot.org/story/25/08/19/146205/mit-report-95-of-generative-ai-pilots-at-companies-are-failing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - MIT study reveals challenges in implementing generative AI in corporate environments.
+* [Positron, a New Data Science IDE](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
 
-* [AI is a mass-delusion event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/) - The Atlantic explores societal misconceptions surrounding the mass adoption of AI.
+* [Emacs as your video-trimming tool](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 
-* [OpenAI Launches $4.6 Budget AI Subscription Tier in India](https://slashdot.org/story/25/08/19/0333218/openai-launches-46-budget-ai-subscription-tier-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI releases an affordable subscription tier to expand accessibility in India.
+* [Critical Cache Poisoning Vulnerability in Dnsmasq](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 
-* [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&from=rss) - Survey findings highlight AI usage rates and disparities in opinions on regulation across U.S. states.
+* [Prime Number Grid](https://news.ycombinator.com/item?id=44949162) - [Prime Number Grid](https://susam.net/primegrid.html)
 
-* [AI 'Business Agents' Will Kill SaaS by 2030, Says Microsoft](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft predicts AI disruptors replacing software-as-a-service models within the next decade.
+## Artificial Intelligence
 
-## Technology Developments and Innovations
+* [Mark Zuckerberg Plans To Shake Up Meta&apos;s AI Efforts, Again](https://tech.slashdot.org/story/25/08/19/1748256/mark-zuckerberg-plans-to-shake-up-metas-ai-efforts-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mark Zuckerberg Plans To Shake Up Meta's AI Efforts, Again](https://tech.slashdot.org/story/25/08/19/1748256/mark-zuckerberg-plans-to-shake-up-metas-ai-efforts-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html) - A newly reported vulnerability threatens DNS security.
+* [Gates Funds $1 Million AI Alzheimer&apos;s Prize](https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gates Funds $1 Million AI Alzheimer's Prize](https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [PyPI Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/) - PyPI implements measures to defend against domain resurrection exploits.
+* [MIT Report: 95% of Generative AI Pilots at Companies Are Failing](https://slashdot.org/story/25/08/19/146205/mit-report-95-of-generative-ai-pilots-at-companies-are-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Report: 95% of Generative AI Pilots at Companies Are Failing](https://slashdot.org/story/25/08/19/146205/mit-report-95-of-generative-ai-pilots-at-companies-are-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google&apos;s TPU](https://github.com/tiny-tpu-v2/tiny-tpu) - Explore a lightweight, open-source TPU for computational tasks.
+* [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246) - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
 
-* [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering) - An open-source project that facilitates secure, local dictation capabilities.
+## Cybersecurity
 
-* [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower) - Open-source hardware innovation brings autonomy to lawn mowing.
+* [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
 
-* [Left to Right Programming](https://graic.net/p/left-to-right-programming) - A unique programming methodology emphasizing straightforward code progression.
+* [CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox](https://lobste.rs/s/8amms6/crlite_fast_private_comprehensive) - [CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 
-* [Making a floppy disk from scratch](https://www.youtube.com/watch?v=TBiFGhnXsh8) - Detailed exploration into manually creating a basic floppy disk.
+## Scientific Discoveries
 
-* [Geotoy – Shadertoy for 3D Geometry](https://3d.ameo.design/geotoy) - An innovative playground for developing 3D shapes and geometry shaders.
+* [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss) - [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss)
 
-* [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net) - A design-oriented tool enabling smooth illustration for non-professional artists.
+* [As Alaska&apos;s salmon plummet, scientists home in on the killer – Science – AAAS](https://news.ycombinator.com/item?id=44952672) - [As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS](https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer)
 
-* [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html) - Historical recount of how Counter-Strike evolved out of a college project to become a cultural phenomenon.
+## Interesting Cultural and Historical Insights
 
-* [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/) - An innovative approach to hosting using Neovim on legacy hardware.
+* [A renovation project in Turkey led to the discovery of a lost city (2023)](https://news.ycombinator.com/item?id=44952789) - [A renovation project in Turkey led to the discovery of a lost city (2023)](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
 
-## Explorations in Culture and Science
+* [How to Build a Medieval Castle](https://news.ycombinator.com/item?id=44948352) - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle)
 
-* [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&from=rss) - Revolutionary research reveals possibilities for manipulating cellular environments with 3D printing.
-
-* [Understanding GNOME Shell’s focus stealing prevention](https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/) - Dive into GNOME shell's user-focused design upgrades.
-
-* [Prime Number Grid](https://susam.net/primegrid.html) - Mathematically creative visualization of prime numbers in a grid format.
-
-* [The Life and Death of London&apos;s Crystal Palace (2021)](https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/) - Investigating the legacy and destruction of a historic architectural icon.
-
-* [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&from=rss) - Environmental innovations using eDNA for expansive biosurveys.
-
-* [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss) - Scientific inquiry into black hole phenomena and multiverse emergence.
-
-* [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&from=rss) - Archaeological discoveries challenge assumptions of Pompeii's post-disaster history.
-
-* [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/) - Advanced imaging uncovers ancient religious texts hidden within mundane objects.
-
-* [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&from=rss) - Sociological study shows cultural variance affecting men's domestic struggles.
-
-* [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&from=rss) - Creative scientific innovation turning waste material into a dental repair solution.
-
-## Policy, Governance, and Industry Impact
-
-* [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss) - Legal hurdles mount for Wikipedia as online safety legislation tightens restrictions.
-
-* [Intel is Getting a $2 Billion Investment From SoftBank](https://slashdot.org/story/25/08/18/2337225/intel-is-getting-a-2-billion-investment-from-softbank?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Intel secures strategic financing amidst industrial expansion.
-
-* [US FTC Sues Ticket Reseller For Evading Taylor Swift&apos;s Eras Tour Ticket Limits](https://news.slashdot.org/story/25/08/19/0716252/us-ftc-sues-ticket-reseller-for-evading-taylor-swifts-eras-tour-ticket-limits?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ticket market manipulation sparks regulatory action from the FTC.
-
-* [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped) - UK shifts its stance, discontinuing requests for encrypted access.
-
-* [OpenAI subscription tier for making AI more accessible](https://slashdot.org/story/25/08/18/2330231/fujifilm-announces-second-us-price-increase-in-august?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI boosts affordability amidst strategies to expand offerings under competitive pressure.
-
-* [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&from=rss) - A comprehensive analysis covering how open source influences cost models and innovation pipelines.
+* [Making a floppy disk from scratch](https://lobste.rs/s/qyd1yy/making_floppy_disk_from_scratch) - [Making a floppy disk from scratch](https://www.youtube.com/watch?v=TBiFGhnXsh8)
 
 ---
 
@@ -101,20 +69,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-19, 18:42:25](https://news.ycombinator.com/item?id=44954823) - [AnduinOS](https://www.anduinos.com/)
+* [2025-08-19, 18:14:41](https://news.ycombinator.com/item?id=44954524) - [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
+* [2025-08-19, 18:01:00](https://tech.slashdot.org/story/25/08/19/1748256/mark-zuckerberg-plans-to-shake-up-metas-ai-efforts-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mark Zuckerberg Plans To Shake Up Meta&apos;s AI Efforts, Again](https://tech.slashdot.org/story/25/08/19/1748256/mark-zuckerberg-plans-to-shake-up-metas-ai-efforts-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 17:53:27](https://lobste.rs/s/8amms6/crlite_fast_private_comprehensive) - [CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
+* [2025-08-19, 17:20:00](https://it.slashdot.org/story/25/08/19/1719236/windows-power-users-frustrated-as-microsoft-forces-automatic-app-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows Power Users Frustrated as Microsoft Forces Automatic App Updates](https://it.slashdot.org/story/25/08/19/1719236/windows-power-users-frustrated-as-microsoft-forces-automatic-app-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 16:35:00](https://soylentnews.org/article.pl?sid=25/08/19/0044229&amp;from=rss) - [Federal Court Filing System Hit in Sweeping Hack](https://soylentnews.org/article.pl?sid=25/08/19/0044229&amp;from=rss)
+* [2025-08-19, 16:23:00](https://lobste.rs/s/c417pn/emacs_as_your_video_trimming_tool) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
+* [2025-08-19, 16:22:01](https://news.ycombinator.com/item?id=44953316) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
+* [2025-08-19, 16:18:27](https://news.ycombinator.com/item?id=44953282) - [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
+* [2025-08-19, 16:03:00](https://news.slashdot.org/story/25/08/19/162258/three-quarters-of-countries-face-below-replacement-fertility-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Three-Quarters of Countries Face Below-Replacement Fertility by 2050](https://news.slashdot.org/story/25/08/19/162258/three-quarters-of-countries-face-below-replacement-fertility-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 15:55:15](https://news.ycombinator.com/item?id=44953032) - [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
+* [2025-08-19, 15:43:23](https://lobste.rs/s/hcbilp/jepsen_18_serializable_mom_by_kyle) - [Jepsen 18: Serializable Mom by Kyle Kingsbury](https://youtu.be/dpTxWePmW5Y)
+* [2025-08-19, 15:34:55](https://news.ycombinator.com/item?id=44952789) - [A renovation project in Turkey led to the discovery of a lost city (2023)](https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps)
+* [2025-08-19, 15:25:42](https://news.ycombinator.com/item?id=44952672) - [As Alaska&apos;s salmon plummet, scientists home in on the killer – Science – AAAS](https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer)
 * [2025-08-19, 15:02:00](https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gates Funds $1 Million AI Alzheimer&apos;s Prize](https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-19, 14:53:11](https://news.ycombinator.com/item?id=44952246) - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
-* [2025-08-19, 14:48:54](https://news.ycombinator.com/item?id=44952185) - [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
+* [2025-08-19, 14:48:54](https://news.ycombinator.com/item?id=44952185) - [\&quot;Remove mentions of XSLT from the html spec\&quot;](https://github.com/whatwg/html/pull/11563)
 * [2025-08-19, 14:35:30](https://lobste.rs/s/fqhfqc/language_models_as_thespians) - [Language Models as Thespians](https://jstrieb.github.io/posts/llm-thespians/)
+* [2025-08-19, 14:20:25](https://news.ycombinator.com/item?id=44951862) - [Positron, a New Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
+* [2025-08-19, 14:14:44](https://news.ycombinator.com/item?id=44951799) - [Why I&apos;m all-in on Zen Browser](https://werd.io/why-im-all-in-on-zen-browser/)
 * [2025-08-19, 14:13:05](https://lobste.rs/s/owhphj/lawnmower_irc_server) - [The Lawnmower IRC Server](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
 * [2025-08-19, 14:05:00](https://slashdot.org/story/25/08/19/146205/mit-report-95-of-generative-ai-pilots-at-companies-are-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Report: 95% of Generative AI Pilots at Companies Are Failing](https://slashdot.org/story/25/08/19/146205/mit-report-95-of-generative-ai-pilots-at-companies-are-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-19, 13:54:47](https://lobste.rs/s/va2mvi/without_futex_it_s_futile) - [Without the futex, it&apos;s futile](https://h4x0r.org/futex/)
-* [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the Futex, It&apos;s Futile](https://h4x0r.org/futex/)
+* [2025-08-19, 13:53:42](https://news.ycombinator.com/item?id=44951563) - [Without the futex, it&apos;s futile](https://h4x0r.org/futex/)
 * [2025-08-19, 13:45:09](https://lobste.rs/s/qyd1yy/making_floppy_disk_from_scratch) - [Making a floppy disk from scratch](https://www.youtube.com/watch?v=TBiFGhnXsh8)
-* [2025-08-19, 13:29:58](https://news.ycombinator.com/item?id=44951287) - [Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering](https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27)
 * [2025-08-19, 12:56:47](https://news.ycombinator.com/item?id=44950981) - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 * [2025-08-19, 12:52:11](https://news.ycombinator.com/item?id=44950952) - [Vim Macros for Beancount](https://tangled.sh/@adam.tngl.sh/vim-beancounting)
 * [2025-08-19, 12:10:09](https://news.ycombinator.com/item?id=44950661) - [Launch HN: Uplift (YC S25) – Voice models for under-served languages](https://news.ycombinator.com/item?id=44950661)
-* [2025-08-19, 11:58:34](https://news.ycombinator.com/item?id=44950600) - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
 * [2025-08-19, 11:53:00](https://soylentnews.org/article.pl?sid=25/08/19/0039216&amp;from=rss) - [Charged Drops Don&apos;t Splash](https://soylentnews.org/article.pl?sid=25/08/19/0039216&amp;from=rss)
 * [2025-08-19, 11:30:00](https://news.slashdot.org/story/25/08/19/1123215/uk-is-lagging-behind-rest-of-world-in-tackling-big-tech-says-fortnite-chief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK is Lagging Behind Rest of World in Tackling Big Tech, Says Fortnite Chief](https://news.slashdot.org/story/25/08/19/1123215/uk-is-lagging-behind-rest-of-world-in-tackling-big-tech-says-fortnite-chief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-19, 11:14:32](https://lobste.rs/s/7wwm4h/reserve_first) - [Reserve First](https://matklad.github.io/2025/08/16/reserve-first.html)
@@ -146,20 +128,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 21:33:00](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss) - [A Tale of Two Distros: One Outgoing and One Incoming](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss)
-* [2025-08-18, 21:28:05](https://news.ycombinator.com/item?id=44945532) - [Obsidian Bases](https://help.obsidian.md/bases)
-* [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google&apos;s TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
+* [2025-08-18, 19:20:01](https://news.ycombinator.com/item?id=44944241) - [Show HN: Chroma Cloud – serverless search database for AI](https://trychroma.com/cloud)
 * [2025-08-18, 18:01:00](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI &apos;Business Agents&apos; Will Kill SaaS by 2030, Says Microsoft](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-18, 17:08:36](https://news.ycombinator.com/item?id=44942936) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-18, 17:00:00](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gamblers Now Bet on AI Models Like Racehorses](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 16:52:29](https://news.ycombinator.com/item?id=44942731) - [Show HN: Whispering – Open-source, local-first dictation you can trust](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
 * [2025-08-18, 16:48:00](https://soylentnews.org/article.pl?sid=25/08/18/1141215&amp;from=rss) - [Radioactive Water From UK Nuclear Bomb Base Leaked Into Sea, Files Show](https://soylentnews.org/article.pl?sid=25/08/18/1141215&amp;from=rss)
-* [2025-08-18, 16:00:00](https://tech.slashdot.org/story/25/08/18/109237/linkedin-is-the-fakest-platform-of-them-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LinkedIn Is the Fakest Platform of Them All](https://tech.slashdot.org/story/25/08/18/109237/linkedin-is-the-fakest-platform-of-them-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-18, 15:00:00](https://tech.slashdot.org/story/25/08/18/102226/the-one-feature-that-keeps-me-from-recommending-flip-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The One Feature That Keeps Me From Recommending Flip Phones&apos;](https://tech.slashdot.org/story/25/08/18/102226/the-one-feature-that-keeps-me-from-recommending-flip-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-18, 14:59:26](https://news.ycombinator.com/item?id=44941369) - [Counter-Strike: A billion-dollar game built in a dorm room](https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html)
-* [2025-08-18, 14:16:25](https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
-* [2025-08-18, 14:00:00](https://news.slashdot.org/story/25/08/18/0953228/wikipedia-volunteer-uncovers-decade-long-campaign-that-created-335-articles-about-one-composer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia Volunteer Uncovers Decade-Long Campaign That Created 335 Articles About One Composer](https://news.slashdot.org/story/25/08/18/0953228/wikipedia-volunteer-uncovers-decade-long-campaign-that-created-335-articles-about-one-composer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-18, 13:39:53](https://news.ycombinator.com/item?id=44940485) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
-* [2025-08-18, 13:22:45](https://lobste.rs/s/1qr3zy/gpt_5_goes_hard_on_real_world_programming) - [GPT-5 goes hard on real-world programming](https://www.omerba.dev/blog/gpt-5-evtx-zig-parser)
 * [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss)
 * [2025-08-18, 11:59:53](https://lobste.rs/s/giy0kl/all_atc_message_routing_germany_was_done) - [All ATC message routing in Germany was done through Emacs (2021)](https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/)
 * [2025-08-18, 11:02:04](https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim) - [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
@@ -167,8 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 08:25:58](https://lobste.rs/s/tagrrs/introducing_illumos_cafe_another_cozy) - [Introducing the illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 08:10:20](https://lobste.rs/s/hpzxmg/i_tried_every_todo_app_ended_up_with_txt) - [I Tried Every Todo App and Ended Up With a .txt File](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss)
-* [2025-08-18, 06:35:02](https://news.ycombinator.com/item?id=44937978) - [EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)](https://github.com/eloqdata/eloqkv)
-* [2025-08-18, 04:02:05](https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext) - [Why I prefer rST [reStructuredText] to Markdown (2024)](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+* [2025-08-18, 06:18:58](https://news.ycombinator.com/item?id=44937893) - [Staff disquiet as Alan Turing Institute faces identity crisis](https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis)
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
@@ -177,12 +149,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss)
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss)
-* [2025-08-16, 20:54:54](https://news.ycombinator.com/item?id=44926855) - [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon&apos;s Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss)
-* [2025-08-16, 15:27:27](https://news.ycombinator.com/item?id=44924261) - [Netflix Revamps Tudum&apos;s CQRS Architecture with Raw Hollow In-Memory Object Store](https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/)
-* [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
-* [2025-08-16, 13:53:39](https://news.ycombinator.com/item?id=44923451) - [How to Use Snprintf](https://bernsteinbear.com/blog/snprintf/)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss)
+* [2025-08-16, 11:41:02](https://news.ycombinator.com/item?id=44922362) - [Figma&apos;s Multiplayer Technology (2019)](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+* [2025-08-16, 08:43:19](https://news.ycombinator.com/item?id=44921467) - [Guile bindings for Sway window manager](https://github.com/ebeem/guile-swayer)
 * [2025-08-16, 07:49:51](https://news.ycombinator.com/item?id=44921195) - [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss)
 * [2025-08-16, 03:07:00](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss) - [Many Countries Banned From Using PayPal for Steam Games in Latest Payment Processor Drama](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss)
@@ -191,6 +161,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss)
 * [2025-08-15, 14:28:56](https://news.ycombinator.com/item?id=44912881) - [In 2006, Hitachi developed a 0.15mm-sized RFID chip](https://www.hitachi.com/New/cnews/060206.html)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss)
-* [2025-08-15, 09:35:15](https://news.ycombinator.com/item?id=44910300) - [The Life and Death of London&apos;s Crystal Palace (2021)](https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
 * [2025-08-15, 03:20:00](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss) - [Harvard Business School on the Value of Open Source Software](https://soylentnews.org/article.pl?sid=25/08/13/1621256&amp;from=rss)
