@@ -1,52 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Digital Risks
+## Technology Innovations and Challenges
 
-* [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/) - Explore the implications of a significant breach targeting Intel employees and internal systems.
+* [OpenAI Launches $4.6 Budget AI Subscription Tier in India](https://slashdot.org/story/25/08/19/0333218/openai-launches-46-budget-ai-subscription-tier-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI introduces an affordable AI subscription tier tailored for the Indian market, expanding access to cutting-edge AI tools.
 
-* [HR Giant Workday Got Hacked](https://gizmodo.com/hr-giant-workday-got-hacked-2000644474) - Workday faces security issues after suffering a major hack, spotlighting vulnerabilities in HR systems.
+* [Intel is Getting a $2 Billion Investment From SoftBank](https://slashdot.org/story/25/08/18/2337225/intel-is-getting-a-2-billion-investment-from-softbank?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel secures significant funding from SoftBank, signaling confidence in the tech giant's strategic endeavors.
 
-* [Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images) - The backdoor in Docker images remains a threat, highlighting supply-chain risks in software.
+* [AI 'Business Agents' Will Kill SaaS by 2030, Says Microsoft](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft predicts disruptive consequences for SaaS with the rise of specialized AI agents.
 
-* [Google's 'AI Overview' Pointed Him to a Customer Service Number. It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's AI modules unintentionally direct users to scams, raising concerns over reliability.
+* [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/) - Legal pushback against T-Mobile's stance on data privacy sparks judicial confrontation.
 
-* [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/) - Judicial pushback against T-Mobile’s controversial stance on location data privacy.
+* [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/) - A new native push notification tool simplifies developer workflows and integrates deeply into various ecosystems.
 
-## Artificial Intelligence and Future Trends
+## Cybersecurity and Privacy Concerns
 
-* [Gamblers Now Bet on AI Models Like Racehorses](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Betting on AI models gains traction, blending technology with traditional gambling.
+* [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images) - A persistent security threat hidden in Docker images draws attention to deeper software vulnerabilities.
 
-* [AI 'Business Agents' Will Kill SaaS by 2030, Says Microsoft](https://slashdot.org/story/25/08/18/181255/ai-business-agents-will-kill-saas-by-2030-says-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft predicts a transformation in software economics driven by AI.
+* [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/) - Intel's cybersecurity compromised, showcasing vulnerabilities in its operations.
 
-* [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/) - Organizations spent billions on generative AI tools, with many yielding limited returns.
+* [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/) - Critiques on Google's perceived monopolistic practices affecting the essence of an open internet.
 
-* [AI is a mass-delusion event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/) - Critics argue AI advancements are often exaggerated, creating societal illusions.
+* [Radioactive Water From UK Nuclear Bomb Base Leaked Into Sea, Files Show](https://soylentnews.org/article.pl?sid=25/08/18/1141215&amp;from=rss) - Classified documentation reveals environmental hazards posed by nuclear base operations.
 
-* [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) - A notable service tackles deepfake and generative AI identification challenges.
+## AI and Machine Learning Insights
 
-## Technological Innovations and Highlights
+* [AI is a mass-delusion event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/) - An analysis questions the rationality driving AI investments and the hype surrounding its applications.
 
-* [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu) - Highlights Google's TPU architecture with a simplified version.
+* [Gamblers Now Bet on AI Models Like Racehorses](https://news.slashdot.org/story/25/08/18/1655234/gamblers-now-bet-on-ai-models-like-racehorses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Novel betting practices emerge around AI models' performances, blending technology with traditional gambling.
 
-* [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&from=rss) - New theories shed light on cosmic phenomena with insights into blackhole rebounds.
+* [GPT-5 goes hard on real-world programming](https://www.omerba.dev/blog/gpt-5-evtx-zig-parser) - The latest advancements in GPT-5 showcase its growing adeptness in handling programming tasks.
 
-* [Rare 'Upper Atmosphere Lightning' Photographed From ISS](https://science.slashdot.org/story/25/08/18/0423227/rare-upper-atmosphere-lightning-photographed-from-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A rare lightning phenomenon captured from Earth’s orbit.
+* [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) - New API provides robust solutions to detect and combat deepfakes and generative AI misuse.
 
-* [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com) - Demonstrating functional yet minimalistic AI processors.
+## Cultural and Historical Insights
 
-* [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/) - Insights on a new platform for mobile notifications tailored to users.
+* [Why Did Hollywood Stop Making Comedies? A Statistical Analysis](https://entertainment.slashdot.org/story/25/08/18/2333256/why-did-hollywood-stop-making-comedies-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In-depth analysis explores the decline of comedies in Hollywood's production slate.
 
-## Cultural and Economic Insights
+* [The peculiar case of Japanese web design](https://sabrinas.space) - A deep dive into the unique, often nostalgic elements of Japanese website design.
 
-* [Why Did Hollywood Stop Making Comedies? A Statistical Analysis](https://entertainment.slashdot.org/story/25/08/18/2333256/why-did-hollywood-stop-making-comedies-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines the declining production of comedy films in Hollywood.
+* [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) - New archaeological findings suggest resettlement efforts in Pompeii post-eruption.
 
-* [LinkedIn Is the Fakest Platform of Them All](https://tech.slashdot.org/story/25/08/18/109237/linkedin-is-the-fakest-platform-of-them-all?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores authenticity challenges on LinkedIn and its growing user dynamics.
+* [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) - Visionary insights by Gates hint at groundbreaking technology succeeding smartphones.
 
-* [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/) - A historical freediving feat illustrating human limits.
+## Open Source and Hardware Developments
 
-* [How Can England Possibly Be Running Out of Water?](https://news.slashdot.org/story/25/08/18/2323214/how-can-england-possibly-be-running-out-of-water?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating causes of water shortages in England amidst climate pressures.
+* [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower) - A community-driven, open-source project transforms traditional lawn mowers into autonomous machines.
 
-* [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&from=rss) - Debating governmental involvement in key tech firms.
+* [A minimal tensor processing unit (TPU), inspired by Google's TPU](https://github.com/tiny-tpu-v2/tiny-tpu) - Researchers showcase a compact TPU, broadening accessibility for machine learning experiments.
+
+* [Anna's Archive: An Update from the Team](https://annas-archive.org/blog/an-update-from-the-team.html) - Insights from the team behind Anna's Archive on recent advancements and challenges.
+
+* [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons) - A unique repository offering educational content on FFmpeg's assembly optimizations.
 
 ---
 
@@ -73,25 +77,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-19, 03:33:00](https://slashdot.org/story/25/08/19/0333218/openai-launches-46-budget-ai-subscription-tier-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Launches $4.6 Budget AI Subscription Tier in India](https://slashdot.org/story/25/08/19/0333218/openai-launches-46-budget-ai-subscription-tier-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss)
+* [2025-08-19, 02:02:00](https://slashdot.org/story/25/08/18/2337225/intel-is-getting-a-2-billion-investment-from-softbank?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel is Getting a $2 Billion Investment From SoftBank](https://slashdot.org/story/25/08/18/2337225/intel-is-getting-a-2-billion-investment-from-softbank?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 01:25:03](https://news.ycombinator.com/item?id=44947276) - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
 * [2025-08-19, 01:13:23](https://lobste.rs/s/x9fvbx/persistent_risk_xz_utils_backdoor_still) - [Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
 * [2025-08-19, 01:01:00](https://entertainment.slashdot.org/story/25/08/18/2333256/why-did-hollywood-stop-making-comedies-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Did Hollywood Stop Making Comedies? A Statistical Analysis](https://entertainment.slashdot.org/story/25/08/18/2333256/why-did-hollywood-stop-making-comedies-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-19, 00:35:08](https://news.ycombinator.com/item?id=44946996) - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
 * [2025-08-19, 00:12:18](https://lobste.rs/s/y7gw78/ai_is_mass_delusion_event) - [AI is a mass-delusion event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/)
 * [2025-08-19, 00:12:17](https://news.ycombinator.com/item?id=44946813) - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
 * [2025-08-19, 00:07:22](https://news.ycombinator.com/item?id=44946783) - [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
+* [2025-08-19, 00:05:59](https://news.ycombinator.com/item?id=44946774) - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 * [2025-08-19, 00:04:11](https://news.ycombinator.com/item?id=44946762) - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
 * [2025-08-19, 00:01:00](https://slashdot.org/story/25/08/18/2330231/fujifilm-announces-second-us-price-increase-in-august?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fujifilm Announces Second US Price Increase in August](https://slashdot.org/story/25/08/18/2330231/fujifilm-announces-second-us-price-increase-in-august?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 23:44:47](https://lobste.rs/s/t5ygt3/peculiar_case_japanese_web_design) - [The peculiar case of Japanese web design](https://sabrinas.space)
 * [2025-08-18, 23:23:00](https://news.slashdot.org/story/25/08/18/2323214/how-can-england-possibly-be-running-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Can England Possibly Be Running Out of Water?](https://news.slashdot.org/story/25/08/18/2323214/how-can-england-possibly-be-running-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-18, 23:22:14](https://news.ycombinator.com/item?id=44946404) - [HR Giant Workday Got Hacked](https://gizmodo.com/hr-giant-workday-got-hacked-2000644474)
 * [2025-08-18, 23:19:45](https://lobste.rs/s/bdwpyk/understanding_gnome_shell_s_focus) - [Understanding GNOME Shell’s focus stealing prevention](https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/)
 * [2025-08-18, 22:52:37](https://lobste.rs/s/6cls8e/intel_outside_hacking_every_intel) - [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/)
 * [2025-08-18, 22:29:44](https://news.ycombinator.com/item?id=44945966) - [What could have been](https://coppolaemilio.com/entries/what-could-have-been/)
-* [2025-08-18, 22:27:01](https://news.ycombinator.com/item?id=44945943) - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
+* [2025-08-18, 22:29:14](https://news.ycombinator.com/item?id=44945959) - [Lab-grown salmon hits the menu](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
 * [2025-08-18, 22:02:15](https://news.ycombinator.com/item?id=44945783) - [Structured (Synchronous) Concurrency](https://fsantanna.github.io/sc.html)
 * [2025-08-18, 21:54:13](https://news.ycombinator.com/item?id=44945730) - [Newgrounds: Flash Forward 2025](https://www.newgrounds.com/bbs/topic/1542140)
 * [2025-08-18, 21:50:15](https://lobste.rs/s/asfwb9/system_guide_five_sample_pc_builds_from) - [System Guide: Five sample PC builds, from $500 to $5,000](https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/)
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
-* [2025-08-18, 21:43:22](https://news.ycombinator.com/item?id=44945660) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 21:33:00](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss) - [A Tale of Two Distros: One Outgoing and One Incoming](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss)
 * [2025-08-18, 21:31:49](https://news.ycombinator.com/item?id=44945562) - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
@@ -99,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 21:10:39](https://news.ycombinator.com/item?id=44945379) - [Show HN: Fractional jobs – part-time roles for engineers](https://www.fractionaljobs.io)
 * [2025-08-18, 20:34:37](https://news.ycombinator.com/item?id=44945008) - [A minimal tensor processing unit (TPU), inspired by Google&apos;s TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
-* [2025-08-18, 19:54:53](https://news.ycombinator.com/item?id=44944620) - [GenAI FOMO has spurred businesses to light nearly $40B on fire](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/)
 * [2025-08-18, 19:52:14](https://news.ycombinator.com/item?id=44944592) - [Show HN: I built a toy TPU that can do inference and training on the XOR problem](https://www.tinytpu.com)
 * [2025-08-18, 19:25:01](https://news.ycombinator.com/item?id=44944291) - [T-Mobile claimed selling location data without consent is legal–judges disagree](https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/)
 * [2025-08-18, 18:51:23](https://news.ycombinator.com/item?id=44943986) - [Show HN: We started building an AI dev tool but it turned into a Sims-style game](https://www.youtube.com/watch?v=sRPnX_f2V_c)
@@ -138,26 +145,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
 * [2025-08-18, 02:25:00](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s &apos;AI Overview&apos; Pointed Him to a Customer Service Number.  It Was a Scam](https://yro.slashdot.org/story/25/08/18/0223228/googles-ai-overview-pointed-him-to-a-customer-service-number-it-was-a-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-18, 00:59:00](https://tech.slashdot.org/story/25/08/18/0055216/81m-trade-secrets-verdict-against-boeing-was-overturned---and-then-reinstated?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [$81M &apos;Trade Secrets&apos; Verdict Against Boeing Was Overturned - and Then Reinstated](https://tech.slashdot.org/story/25/08/18/0055216/81m-trade-secrets-verdict-against-boeing-was-overturned---and-then-reinstated?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-17, 23:15:00](https://news.slashdot.org/story/25/08/17/2312222/americas-ev-registrations-rise-7-in-2025---giving-evs-a-75-market-share?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s EV Registrations Rise 7% in 2025 - Giving EVs a 7.5% Market Share](https://news.slashdot.org/story/25/08/17/2312222/americas-ev-registrations-rise-7-in-2025---giving-evs-a-75-market-share?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss)
-* [2025-08-17, 21:24:00](https://it.slashdot.org/story/25/08/17/2120232/androids-pkvm-becomes-first-globally-certified-software-to-achieve-sesip-level-5-security-certification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android&apos;s pKVM Becomes First Globally Certified Software to Achieve SESIP Level 5 Security Certification](https://it.slashdot.org/story/25/08/17/2120232/androids-pkvm-becomes-first-globally-certified-software-to-achieve-sesip-level-5-security-certification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
 * [2025-08-17, 17:08:00](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss) - [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss)
 * [2025-08-17, 12:21:00](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss) - [Massive Magnets Are on the Move: Repurposing Electromagnets for Research](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss)
 * [2025-08-17, 07:34:00](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) - [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss)
 * [2025-08-17, 02:47:00](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss) - [Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement](https://soylentnews.org/article.pl?sid=25/08/16/0019213&amp;from=rss)
 * [2025-08-16, 23:48:35](https://news.ycombinator.com/item?id=44927778) - [An IRC-Enabled Lawn Mower](https://jotunheimr.idlerpg.net/users/jotun/lawnmower/)
+* [2025-08-16, 23:15:25](https://news.ycombinator.com/item?id=44927629) - [Free up space (effortlessly) on WSL2](https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/)
 * [2025-08-16, 22:07:00](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss) - [Americans Who ‘Learned To Code’ At Obama’s Behest Can’t Find Jobs Now](https://soylentnews.org/article.pl?sid=25/08/16/008232&amp;from=rss)
 * [2025-08-16, 20:54:54](https://news.ycombinator.com/item?id=44926855) - [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
 * [2025-08-16, 17:23:00](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss) - [On its Fifth Try, SpaceX Manages Launch of Competitor Amazon&apos;s Satellites](https://soylentnews.org/article.pl?sid=25/08/15/2243238&amp;from=rss)
 * [2025-08-16, 14:01:38](https://news.ycombinator.com/item?id=44923520) - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 * [2025-08-16, 12:34:00](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss) - [Trump Administration Considering US Government Purchase of Stake in Intel](https://soylentnews.org/politics/article.pl?sid=25/08/15/1324240&amp;from=rss)
-* [2025-08-16, 09:41:57](https://news.ycombinator.com/item?id=44921780) - [The Cutaway Illustrations of Fred Freeman (2016)](https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/)
 * [2025-08-16, 07:48:00](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss) - [In Trial, People Lost Twice as Much Weight by Ditching Ultraprocessed Food](https://soylentnews.org/article.pl?sid=25/08/15/1320204&amp;from=rss)
 * [2025-08-16, 03:07:00](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss) - [Many Countries Banned From Using PayPal for Steam Games in Latest Payment Processor Drama](https://soylentnews.org/article.pl?sid=25/08/15/1316257&amp;from=rss)
+* [2025-08-16, 02:12:45](https://news.ycombinator.com/item?id=44919527) - [Int. Association for the Preservation of Spiritualist and Occult Periodicals](https://iapsop.com)
 * [2025-08-15, 22:22:00](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss) - [Internal Meta Guidelines for AI Permit \&quot;Sensual\&quot; Discussions With Children](https://soylentnews.org/article.pl?sid=25/08/15/0813246&amp;from=rss)
-* [2025-08-15, 22:14:57](https://news.ycombinator.com/item?id=44917890) - [What learning react won&apos;t teach you: Image Formats](https://idiallo.com/blog/react-and-image-format)
-* [2025-08-15, 18:34:24](https://news.ycombinator.com/item?id=44915939) - [Sikkim and the Himalayan Chess Game (2016)](https://www.historytoday.com/archive/feature/sikkim-and-himalayan-chess-game)
+* [2025-08-15, 17:39:24](https://news.ycombinator.com/item?id=44915228) - [Precision mapping tracks woody plant spread across Great Plains grasslands](https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html)
 * [2025-08-15, 17:35:00](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss) - [Half of US Adults Now Use AI—but Views on How to Regulate the Technology Vary Widely by State](https://soylentnews.org/article.pl?sid=25/08/13/1633213&amp;from=rss)
 * [2025-08-15, 12:51:00](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss) - [Awesome Wooden Pixel Display](https://soylentnews.org/article.pl?sid=25/08/13/1629233&amp;from=rss)
 * [2025-08-15, 08:07:00](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss) - [Culture Influences Men&apos;s Experiences With Intimate Partner Violence, Study Finds](https://soylentnews.org/article.pl?sid=25/08/13/1625217&amp;from=rss)
