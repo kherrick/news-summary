@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Emerging Technologies
+## Technology and Innovation
 
-* [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss) - A thought-provoking article discussing the societal and economic implications of AI-driven automation and potential solutions for a post-money future. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss)
+* [Google Plans Advanced Nuclear Reactor Project For Tennessee](https://hardware.slashdot.org/story/25/08/21/0251255/google-plans-advanced-nuclear-reactor-project-for-tennessee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/08/21/0251255/google-plans-advanced-nuclear-reactor-project-for-tennessee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem) - A demonstration exploring the use of Git as a storage system for AI memory, bypassing typical vector databases. [Comments](https://news.ycombinator.com/item?id=44969622)
+* [Serbian Scientists Experiment With Mealworms To Degrade Polystyrene](https://science.slashdot.org/story/25/08/20/2245213/serbian-scientists-experiment-with-mealworms-to-degrade-polystyrene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/08/20/2245213/serbian-scientists-experiment-with-mealworms-to-degrade-polystyrene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Google's Pixel Watch 4 Has a Big Focus On AI](https://hardware.slashdot.org/story/25/08/20/2113247/googles-pixel-watch-4-has-a-big-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into Google's latest wearable, emphasizing artificial intelligence features. [Comments](https://hardware.slashdot.org/story/25/08/20/2113247/googles-pixel-watch-4-has-a-big-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Harvard Dropouts To Launch 'Always On' AI Smart Glasses That Listen, Record Every Conversation](https://hardware.slashdot.org/story/25/08/20/2058229/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-record-every-conversation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/08/20/2058229/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-record-every-conversation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Harvard Dropouts To Launch 'Always On' AI Smart Glasses That Listen, Record Every Conversation](https://hardware.slashdot.org/story/25/08/20/2058229/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-record-every-conversation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deep dive into the privacy and ethical implications of new AI-enabled smart glasses. [Comments](https://hardware.slashdot.org/story/25/08/20/2058229/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-record-every-conversation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss))
 
-* [Masimo Sues US Customs Over Apple Watch Blood Oxygen Workaround](https://yro.slashdot.org/story/25/08/20/2222249/masimo-sues-us-customs-over-apple-watch-blood-oxygen-workaround?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The legal battle over health-focused wearable technology intensifies as Masimo challenges loopholes in Apple's technology. [Comments](https://yro.slashdot.org/story/25/08/20/2222249/masimo-sues-us-customs-over-apple-watch-blood-oxygen-workaround?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI and Machine Learning
 
-## Science and Environment
+* [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss))
 
-* [Serbian Scientists Experiment With Mealworms To Degrade Polystyrene](https://science.slashdot.org/story/25/08/20/2245213/serbian-scientists-experiment-with-mealworms-to-degrade-polystyrene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An innovative approach to tackle plastic pollution using mealworms. [Comments](https://science.slashdot.org/story/25/08/20/2245213/serbian-scientists-experiment-with-mealworms-to-degrade-polystyrene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Meta Freezes AI Hiring](https://tech.slashdot.org/story/25/08/21/0227208/meta-freezes-ai-hiring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/08/21/0227208/meta-freezes-ai-hiring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss) - A groundbreaking technique paving the way for advanced bioengineering and medical applications. [Comments](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss)
+* [Slice: SAST + LLM Interprocedural Context Extractor](https://noperator.dev/posts/slice/) ([comments](https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context))
 
-* [UAE Adds Newborns To Major Genome Project](https://news.slashdot.org/story/25/08/20/1948219/uae-adds-newborns-to-major-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Details on UAE’s ambitious initiative to include newborns in its genome sequencing project. [Comments](https://news.slashdot.org/story/25/08/20/1948219/uae-adds-newborns-to-major-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Environment and Science
 
-## Programming and Open Source
+* [UAE Adds Newborns To Major Genome Project](https://news.slashdot.org/story/25/08/20/1948219/uae-adds-newborns-to-major-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/20/1948219/uae-adds-newborns-to-major-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Python f-string cheat sheet](https://fstring.help/cheat/) - A concise guide for Python developers looking to maximize their productivity with f-strings. [Comments](https://news.ycombinator.com/item?id=44969221)
+* [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss))
 
-* [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/) - An introduction to a new CLI parsing tool focused on type-safety in TypeScript. [Comments](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli)
+* [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss))
 
-* [Show HN: Luminal – Open-source, search-based GPU compiler](https://github.com/luminal-ai/luminal) - A new tool for developers working with GPU-based computing, emphasizing search-based optimizations. [Comments](https://news.ycombinator.com/item?id=44963135)
+## Cybersecurity and Legal Developments
 
-* [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html) - A humorous yet insightful look into online security measures. [Comments](https://lobste.rs/s/qw5iyf/why_are_anime_catgirls_blocking_my_access)
+* [Oregon Man Accused of Operating One of Most Powerful Attack 'Botnets' Ever Seen](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Social and Economic Issues
+* [Home Depot sued for 'secretly' using facial recognition at self-checkouts](https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/) ([comments](https://news.ycombinator.com/item?id=44962771))
 
-* [Reading crisis' prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/) - Denmark takes a significant step to address declining reading rates by scrapping heavy book taxes. [Comments](https://news.ycombinator.com/item?id=44969277)
+* [FTC Sues LA Fitness For Making it Difficult for Consumers To Cancel Gym Memberships](https://news.slashdot.org/story/25/08/20/180201/ftc-sues-la-fitness-for-making-it-difficult-for-consumers-to-cancel-gym-memberships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/20/180201/ftc-sues-la-fitness-for-making-it-difficult-for-consumers-to-cancel-gym-memberships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [India Seeks Ban on Online Betting Apps To Curb Addiction](https://news.slashdot.org/story/25/08/20/1718225/india-seeks-ban-on-online-betting-apps-to-curb-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A government initiative aimed at reducing online gambling addiction. [Comments](https://news.slashdot.org/story/25/08/20/1718225/india-seeks-ban-on-online-betting-apps-to-curb-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Historical and Cultural Explorations
 
-## Ethics and Controversies
+* [People Reoccupied Pompeii After Vesuvius Eruption, Archaeologists Find](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/16/1255244&amp;from=rss))
 
-* [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss) - An essay warning about the cultural erosion risks posed by AI chatbots. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss)
+* [The Illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/) ([comments](https://news.ycombinator.com/item?id=44938499))
 
-* [Oregon Man Accused of Operating One of Most Powerful Attack 'Botnets' Ever Seen](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming details about large-scale botnet operations and their implications. [Comments](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/) ([comments](https://news.ycombinator.com/item?id=44968883))
 
 ---
 
@@ -67,11 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-21, 07:56:30](https://news.ycombinator.com/item?id=44970269) - [Australia Post halts transit shipping to US as &apos;chaotic&apos; tariff deadline looms](https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456)
+* [2025-08-21, 07:31:51](https://lobste.rs/s/sm1y3p/faster_loading_credentials_from) - [Faster loading of credentials from Bitwarden using rbw](https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw)
+* [2025-08-21, 07:00:00](https://hardware.slashdot.org/story/25/08/21/0251255/google-plans-advanced-nuclear-reactor-project-for-tennessee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Plans Advanced Nuclear Reactor Project For Tennessee](https://hardware.slashdot.org/story/25/08/21/0251255/google-plans-advanced-nuclear-reactor-project-for-tennessee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-21, 06:38:00](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss) - [If AI Takes Most of Our Jobs, Money as We Know It Will be Over. What Then?](https://soylentnews.org/article.pl?sid=25/08/20/033241&amp;from=rss)
 * [2025-08-21, 06:20:11](https://news.ycombinator.com/item?id=44969622) - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
-* [2025-08-21, 05:19:47](https://news.ycombinator.com/item?id=44969277) - [&apos;Reading crisis&apos; prompts Denmark to end 25% tax on books](https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/)
-* [2025-08-21, 05:08:08](https://news.ycombinator.com/item?id=44969221) - [Python f-string cheat sheet](https://fstring.help/cheat/)
-* [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Contrasting Data and Objects (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
+* [2025-08-21, 05:08:08](https://news.ycombinator.com/item?id=44969221) - [Python f-string cheat sheets (2022)](https://fstring.help/cheat/)
+* [2025-08-21, 05:06:05](https://news.ycombinator.com/item?id=44969211) - [Data, objects, and how we&apos;re railroaded into poor design (2018)](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 * [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
 * [2025-08-21, 04:11:46](https://lobste.rs/s/eutnza/nope_strengthening_domain) - [NOPE: Strengthening Domain Authentication (RWC 2025)](https://www.youtube.com/watch?v=j8pdfHnTvsU)
 * [2025-08-21, 03:53:47](https://news.ycombinator.com/item?id=44968883) - [The Pleasure of Patterns in Art](https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/)
@@ -81,10 +83,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-21, 02:25:24](https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context) - [Slice: SAST + LLM Interprocedural Context Extractor](https://noperator.dev/posts/slice/)
 * [2025-08-21, 01:52:00](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss) - [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss)
 * [2025-08-21, 01:25:00](https://science.slashdot.org/story/25/08/20/2236217/most-air-cleaning-devices-have-not-been-tested-on-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Most Air Cleaning Devices Have Not Been Tested On People](https://science.slashdot.org/story/25/08/20/2236217/most-air-cleaning-devices-have-not-been-tested-on-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-21, 01:14:49](https://news.ycombinator.com/item?id=44968129) - [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 * [2025-08-21, 00:45:00](https://yro.slashdot.org/story/25/08/20/2222249/masimo-sues-us-customs-over-apple-watch-blood-oxygen-workaround?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Masimo Sues US Customs Over Apple Watch Blood Oxygen Workaround](https://yro.slashdot.org/story/25/08/20/2222249/masimo-sues-us-customs-over-apple-watch-blood-oxygen-workaround?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-21, 00:31:56](https://lobste.rs/s/hrdrbr/why_does_my_regular_expression_work_x_not_y) - [Why does my regular expression work in X but not in Y?](https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y)
-* [2025-08-21, 00:30:45](https://news.ycombinator.com/item?id=44967923) - [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
 * [2025-08-21, 00:10:07](https://news.ycombinator.com/item?id=44967796) - [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
 * [2025-08-21, 00:02:00](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oregon Man Accused of Operating One of Most Powerful Attack &apos;Botnets&apos; Ever Seen](https://it.slashdot.org/story/25/08/20/2214216/oregon-man-accused-of-operating-one-of-most-powerful-attack-botnets-ever-seen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-20, 23:20:00](https://hardware.slashdot.org/story/25/08/20/2113247/googles-pixel-watch-4-has-a-big-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Pixel Watch 4 Has a Big Focus On AI](https://hardware.slashdot.org/story/25/08/20/2113247/googles-pixel-watch-4-has-a-big-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-20, 18:45:00](https://slashdot.org/story/25/08/20/1844240/chinese-virtual-human-salespeople-are-outperforming-their-real-human-counterparts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese &apos;Virtual Human&apos; Salespeople Are Outperforming Their Real Human Counterparts](https://slashdot.org/story/25/08/20/1844240/chinese-virtual-human-salespeople-are-outperforming-their-real-human-counterparts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-20, 18:27:25](https://news.ycombinator.com/item?id=44964693) - [Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover](https://imperialcollegelondon.github.io/FLT/)
 * [2025-08-20, 18:00:00](https://news.slashdot.org/story/25/08/20/180201/ftc-sues-la-fitness-for-making-it-difficult-for-consumers-to-cancel-gym-memberships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Sues LA Fitness For Making it Difficult for Consumers To Cancel Gym Memberships](https://news.slashdot.org/story/25/08/20/180201/ftc-sues-la-fitness-for-making-it-difficult-for-consumers-to-cancel-gym-memberships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-20, 17:25:00](https://news.slashdot.org/story/25/08/20/1718225/india-seeks-ban-on-online-betting-apps-to-curb-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Seeks Ban on Online Betting Apps To Curb Addiction](https://news.slashdot.org/story/25/08/20/1718225/india-seeks-ban-on-online-betting-apps-to-curb-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-20, 17:04:51](https://news.ycombinator.com/item?id=44963724) - [An Update on Pytype](https://github.com/google/pytype)
 * [2025-08-20, 16:49:42](https://lobste.rs/s/5mlh66/proposal_for_inline_llm_instructions) - [A proposal for inline LLM instructions in HTML based on llms.txt](https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html)
 * [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&amp;from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&amp;from=rss)
@@ -130,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-20, 09:51:43](https://lobste.rs/s/sqh8uy/zed_for_windows_what_s_taking_so_long) - [Zed for Windows: What&apos;s Taking So Long?](https://zed.dev/blog/windows-progress-report)
 * [2025-08-20, 09:43:04](https://news.ycombinator.com/item?id=44960316) - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
 * [2025-08-20, 07:11:12](https://lobste.rs/s/s0ppha/why_is_my_device_touchpad_mouse_keyboard) - [Why is my device a touchpad and a mouse and a keyboard?](http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html)
-* [2025-08-20, 07:00:04](https://lobste.rs/s/ieopk7/monad_annoyance) - [Monad annoyance](https://macwright.com/2025/08/19/monad-annoyance)
 * [2025-08-20, 06:48:00](https://soylentnews.org/article.pl?sid=25/08/19/1550241&amp;from=rss) - [Scientists Say Tool Can Sniff 5G Traffic, Launch &apos;Attacks&apos; Without Using Rogue Base Stations](https://soylentnews.org/article.pl?sid=25/08/19/1550241&amp;from=rss)
 * [2025-08-20, 03:33:44](https://lobste.rs/s/uwwr6r/monoid_augmented_fifos_deamortised) - [Monoid-augmented FIFOs, deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
 * [2025-08-20, 02:12:51](https://lobste.rs/s/xecakg/long_season_langdev) - [The long season of langdev](https://blog.fogus.me/langdev/long-season.html)
@@ -147,14 +145,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss)
 * [2025-08-18, 21:33:00](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss) - [A Tale of Two Distros: One Outgoing and One Incoming](https://soylentnews.org/article.pl?sid=25/08/18/1144234&amp;from=rss)
 * [2025-08-18, 16:48:00](https://soylentnews.org/article.pl?sid=25/08/18/1141215&amp;from=rss) - [Radioactive Water From UK Nuclear Bomb Base Leaked Into Sea, Files Show](https://soylentnews.org/article.pl?sid=25/08/18/1141215&amp;from=rss)
+* [2025-08-18, 14:17:01](https://news.ycombinator.com/item?id=44940896) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
 * [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss)
-* [2025-08-18, 11:56:03](https://news.ycombinator.com/item?id=44939642) - [Universal Tool Calling Protocol (UTCP)](https://github.com/universal-tool-calling-protocol/python-utcp)
+* [2025-08-18, 08:27:57](https://news.ycombinator.com/item?id=44938499) - [The Illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss)
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
 * [2025-08-18, 01:32:44](https://news.ycombinator.com/item?id=44936535) - [French firm Gouach is pitching an Infinite Battery with replaceable cells](https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/)
 * [2025-08-17, 21:53:00](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss) - [What’s a Smut Peddler to Do These Days?](https://soylentnews.org/article.pl?sid=25/08/17/1310222&amp;from=rss)
 * [2025-08-17, 17:31:33](https://news.ycombinator.com/item?id=44933290) - [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
 * [2025-08-17, 17:08:00](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss) - [Air Pollution Filters Help Scientists Produce First UK Wildlife Survey Using eDNA](https://soylentnews.org/article.pl?sid=25/08/17/0238238&amp;from=rss)
+* [2025-08-17, 15:42:32](https://news.ycombinator.com/item?id=44932401) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-17, 13:18:21](https://news.ycombinator.com/item?id=44931371) - [Epson MX-80 Fonts](https://mw.rat.bz/MX-80/)
 * [2025-08-17, 13:05:31](https://news.ycombinator.com/item?id=44931305) - [Mirror Ball Emoji Proposal (2018) [pdf]](https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf)
 * [2025-08-17, 12:21:00](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss) - [Massive Magnets Are on the Move: Repurposing Electromagnets for Research](https://soylentnews.org/article.pl?sid=25/08/17/0227231&amp;from=rss)
