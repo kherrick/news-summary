@@ -1,54 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Innovations in Technology and Development
 
-* [The Baby Paradox in Haskell](https://blog.jle.im/entry/the-baby-paradox-in-haskell.html) - A dive into an intriguing paradox resolved using Haskell, exploring abstract programming concepts. [Comments](https://lobste.rs/s/tkydi6/baby_paradox_haskell)
+* [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI) - A lingering puzzle in Minecraft's coding offers an intriguing challenge for developers and gamers alike. [Comments](https://news.ycombinator.com/item?id=44981802)
 
-* [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html) - Zero syscall HTTPS server using io_uring and kTLS with Rust, pushing performance and scalability boundaries. [Comments](https://news.ycombinator.com/item?id=44980865)
+* [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html) - Exploring how modern technologies like io_uring, kTLS, and Rust simplify HTTPS server optimization. [Comments](https://news.ycombinator.com/item?id=44980865)
 
-* [Agent Inference - A user-agent / browser quiz](https://ai.174070135.xyz/) - A playful quiz on how web browsers identify themselves through user agents. [Comments](https://lobste.rs/s/my8sdy/agent_inference_user_agent_browser_quiz)
+* [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/) - A unique TypeScript tool focused on ensuring CLI parsers remain type-safe and combinatorial. [Comments](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli)
 
-* [Using Common Lisp from inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html) - Exploring how Common Lisp can operate within modern web browsers. [Comments](https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser)
+## Astronomical Discoveries
 
-* [On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se](https://zayenz.se/blog/post/benchmarking-linkedin-queens/) - Benchmarking mathematical solvers with a fascinating real-world problem. [Comments](https://lobste.rs/s/fzszai/on_benchmarking_minizinc_linkedin)
+* [Astronomers Discover Hidden Moon Orbiting Uranus](https://science.slashdot.org/story/25/08/21/2356259/astronomers-discover-hidden-moon-orbiting-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronomers uncover a previously unknown celestial body orbiting Uranus. [Comments](https://science.slashdot.org/story/25/08/21/2356259/astronomers-discover-hidden-moon-orbiting-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Artificial Intelligence and AI Developments
+* [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - Evidence suggests black holes might serve as cosmic bridges to new universes. [Comments](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
 
-* [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf) - Performance benchmarking between state-of-the-art GPT models using MedHELM datasets. [Comments](https://news.ycombinator.com/item?id=44979107)
+## Advancements in Artificial Intelligence
 
-* [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era) - A perspective on developing AI products in an era dominated by probabilistic reasoning. [Comments](https://news.ycombinator.com/item?id=44976468)
+* [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era) - A focus on the complexities of developing AI systems in the era of probability-driven decision-making. [Comments](https://news.ycombinator.com/item?id=44976468)
 
-* [The AI Job Title Decoder Ring](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html) - Demystifying the often ambiguous titles in the AI job landscape. [Comments](https://news.ycombinator.com/item?id=44976929)
+* [The Month of AI Bugs 2025](https://monthofaibugs.com/) - Showcasing the vulnerabilities and challenges faced by AI systems in 2025. [Comments](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025)
 
-## Quantum Computing and Advanced Science
+* [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/) - Researchers uncover ways to exploit image scaling for adversarial attacks against AI models. [Comments](https://news.ycombinator.com/item?id=44971845)
 
-* ['Rosetta Stone' of Code Shrinks Quantum Computer Hardware Needs](https://science.slashdot.org/story/25/08/22/009241/rosetta-stone-of-code-shrinks-quantum-computer-hardware-needs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New coding techniques aim to significantly reduce quantum hardware demand. [Comments](https://science.slashdot.org/story/25/08/22/009241/rosetta-stone-of-code-shrinks-quantum-computer-hardware-needs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Quantum and Computing Breakthroughs
 
-* [Solar Panels in Space 'Could Provide 80% of Europe's Renewable Energy By 2050'](https://news.slashdot.org/story/25/08/21/1650224/solar-panels-in-space-could-provide-80-of-europes-renewable-energy-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How space-based solar panel technology could revolutionize Europe's energy. [Comments](https://news.slashdot.org/story/25/08/21/1650224/solar-panels-in-space-could-provide-80-of-europes-renewable-energy-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* ['Rosetta Stone' of Code Shrinks Quantum Computer Hardware Needs](https://science.slashdot.org/story/25/08/22/009241/rosetta-stone-of-code-shrinks-quantum-computer-hardware-needs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new development reduces the hardware demands for quantum computing through innovative coding techniques. [Comments](https://science.slashdot.org/story/25/08/22/009241/rosetta-stone-of-code-shrinks-quantum-computer-hardware-needs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Society and Digital Behavior
+* [The Baby Paradox in Haskell](https://blog.jle.im/entry/the-baby-paradox-in-haskell.html) - An exploration of a fascinating paradox implemented in the Haskell programming language. [Comments](https://lobste.rs/s/tkydi6/baby_paradox_haskell)
 
-* [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html) - Investigating why developers are drawn to creating overly complex systems. [Comments](https://lobste.rs/s/hty9zp/why_do_software_developers_love)
+## Ethical and Societal Challenges
 
-* [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/) - A thought-provoking look at vulnerabilities introduced through image processing in AI. [Comments](https://news.ycombinator.com/item?id=44971845)
+* [Why LinkedIn Rewards Mediocrity](https://tech.slashdot.org/story/25/08/21/2045209/why-linkedin-rewards-mediocrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining the social and professional implications of LinkedIn's gamified engagement systems. [Comments](https://tech.slashdot.org/story/25/08/21/2045209/why-linkedin-rewards-mediocrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [How Chefs and Scientists Are Using Kombucha and Kimchi to Study Microbiology](https://soylentnews.org/article.pl?sid=25/08/20/0125237&amp;from=rss) - An innovative partnership between culinary traditions and scientific inquiry. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/0125237&amp;from=rss)
+* [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss) - Volkswagen's polarizing decision to monetize car performance through subscription services raises ethical concerns. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss)
 
-## Global Events and Policies
+## Fascinating Tools and Innovations
 
-* [Denmark Ending Letter Deliveries Is a Sign of the Digital Times](https://tech.slashdot.org/story/25/08/21/1928230/denmark-ending-letter-deliveries-is-a-sign-of-the-digital-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The shift towards complete digitization as Denmark ends letter deliveries. [Comments](https://tech.slashdot.org/story/25/08/21/1928230/denmark-ending-letter-deliveries-is-a-sign-of-the-digital-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/) - An unusual exploration into mobile-based control systems for shopping carts. [Comments](https://news.ycombinator.com/item?id=44980004)
 
-* [Russia Orders State-Backed WhatsApp Rival Pre-Installed On Phones and Tablets](https://tech.slashdot.org/story/25/08/21/2015241/russia-orders-state-backed-whatsapp-rival-pre-installed-on-phones-and-tablets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Russia's technological sovereignty through mandated messaging apps. [Comments](https://tech.slashdot.org/story/25/08/21/2015241/russia-orders-state-backed-whatsapp-rival-pre-installed-on-phones-and-tablets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Mozilla Warns Germany Could Declare Ad Blockers Illegal](https://soylentnews.org/article.pl?sid=25/08/20/1736217&amp;from=rss) - Implications of Germany potentially banning ad blocking technologies. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/1736217&amp;from=rss)
-
-## Culture and Media
-
-* [Forth Poems](https://youtu.be/YZ4nYqQSyMo) - A creative take on programming, blending Forth and poetry. [Comments](https://lobste.rs/s/cfuzzv/introducing_forth_poems)
-
-* [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss) - How AI chatbots may pose a threat to traditional humanistic values. [Comments](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss)
-
-* [1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]](https://www.youtube.com/watch?v=jHG_I-9a7FY) - A retrospective on one of Sony's iconic innovations. [Comments](https://news.ycombinator.com/item?id=44971607)
+* [Using Common Lisp from inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html) - A noteworthy approach to embedding Common Lisp within web browsers. [Comments](https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser)
 
 ---
 
@@ -75,7 +65,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-22, 07:18:48](https://news.ycombinator.com/item?id=44981802) - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
+* [2025-08-22, 07:00:00](https://science.slashdot.org/story/25/08/21/2356259/astronomers-discover-hidden-moon-orbiting-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Discover Hidden Moon Orbiting Uranus](https://science.slashdot.org/story/25/08/21/2356259/astronomers-discover-hidden-moon-orbiting-uranus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-22, 06:22:44](https://lobste.rs/s/tkydi6/baby_paradox_haskell) - [The Baby Paradox in Haskell](https://blog.jle.im/entry/the-baby-paradox-in-haskell.html)
+* [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss)
 * [2025-08-22, 05:22:50](https://lobste.rs/s/cfuzzv/introducing_forth_poems) - [Introducing Forth poems](https://youtu.be/YZ4nYqQSyMo)
 * [2025-08-22, 05:20:26](https://lobste.rs/s/hnwcq6/what_hell_is_going_on_right_now) - [What the hell is going on right now?](https://catskull.net/what-the-hell-is-going-on-right-now.html)
 * [2025-08-22, 03:51:44](https://news.ycombinator.com/item?id=44980865) - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
@@ -110,11 +103,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-21, 18:58:00](https://slashdot.org/story/25/08/21/1858221/cisco-announces-mass-layoffs-just-after-soaring-revenue-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cisco Announces Mass Layoffs Just After Soaring Revenue Report](https://slashdot.org/story/25/08/21/1858221/cisco-announces-mass-layoffs-just-after-soaring-revenue-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-21, 18:49:57](https://news.ycombinator.com/item?id=44976568) - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
 * [2025-08-21, 18:42:10](https://news.ycombinator.com/item?id=44976468) - [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
-* [2025-08-21, 18:27:07](https://lobste.rs/s/fzszai/on_benchmarking_minizinc_linkedin) - [On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se](https://zayenz.se/blog/post/benchmarking-linkedin-queens/)
 * [2025-08-21, 18:10:00](https://games.slashdot.org/story/25/08/21/187249/microsoft-re-joins-handheld-gaming-fight-against-nintendos-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Re-joins Handheld Gaming Fight Against Nintendo&apos;s Switch](https://games.slashdot.org/story/25/08/21/187249/microsoft-re-joins-handheld-gaming-fight-against-nintendos-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-21, 17:53:30](https://lobste.rs/s/c35dnv/bitnami_deprecation) - [Bitnami Deprecation](https://raesene.github.io/blog/2025/08/21/bitnami-deprecation/)
 * [2025-08-21, 17:30:00](https://tech.slashdot.org/story/25/08/21/1727239/google-says-the-quiet-part-out-loud-ip68-protection-doesnt-last?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says the Quiet Part Out Loud: IP68 Protection Doesn&apos;t Last](https://tech.slashdot.org/story/25/08/21/1727239/google-says-the-quiet-part-out-loud-ip68-protection-doesnt-last?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-21, 17:15:13](https://lobste.rs/s/xoa1sx/core_rust) - [the core of rust](https://jyn.dev/the-core-of-rust/)
-* [2025-08-21, 16:50:00](https://news.slashdot.org/story/25/08/21/1650224/solar-panels-in-space-could-provide-80-of-europes-renewable-energy-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar Panels in Space &apos;Could Provide 80% of Europe&apos;s Renewable Energy By 2050&apos;](https://news.slashdot.org/story/25/08/21/1650224/solar-panels-in-space-could-provide-80-of-europes-renewable-energy-by-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-21, 16:09:00](https://soylentnews.org/article.pl?sid=25/08/20/1743213&amp;from=rss) - [Physics of Badminton’s New Killer Spin Serve](https://soylentnews.org/article.pl?sid=25/08/20/1743213&amp;from=rss)
 * [2025-08-21, 15:51:48](https://lobste.rs/s/nhmsd8/adding_my_home_electricity_uptime_status) - [adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger (2023)](https://lock.cmpxchg8b.com/ledger.html)
@@ -160,10 +152,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-18, 16:42:53](https://news.ycombinator.com/item?id=44942627) - [Miles from the ocean, there&apos;s diving beneath the streets of Budapest](https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave)
 * [2025-08-18, 16:36:10](https://news.ycombinator.com/item?id=44942547) - [Elegant mathematics bending the future of design](https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/)
 * [2025-08-18, 16:01:44](https://news.ycombinator.com/item?id=44942099) - [Show HN: OS X Mavericks Forever](https://mavericksforever.com/)
-* [2025-08-18, 15:40:35](https://news.ycombinator.com/item?id=44941847) - [24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville](https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville)
 * [2025-08-18, 15:19:05](https://news.ycombinator.com/item?id=44941605) - [An interactive guide to SVG paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 * [2025-08-18, 15:13:39](https://news.ycombinator.com/item?id=44941546) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
+* [2025-08-18, 14:30:28](https://news.ycombinator.com/item?id=44941056) - [VHS-C: when a lazy idea stumbles towards perfection [video]](https://www.youtube.com/watch?v=HFYWHeBhYbM)
 * [2025-08-18, 12:05:00](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss) - [Toothpaste Made From Hair Provides Natural Root to Repair Teeth](https://soylentnews.org/article.pl?sid=25/08/17/1234239&amp;from=rss)
-* [2025-08-18, 12:03:12](https://news.ycombinator.com/item?id=44939688) - [Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)](https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/)
 * [2025-08-18, 07:21:00](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss) - [Firefox’s New “AI” Features Cause CPU Spikes and Battery Drain](https://soylentnews.org/article.pl?sid=25/08/17/1246229&amp;from=rss)
 * [2025-08-18, 02:36:00](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss) - [Blackhole Bounce - New Universes](https://soylentnews.org/article.pl?sid=25/08/17/1237215&amp;from=rss)
