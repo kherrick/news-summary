@@ -1,52 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technological Innovations
 
-* [The 9 Go test assertions I use (and why)](https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use) ([comments](https://lobste.rs/s/sxk1le/9_go_test_assertions_i_use_why))
+* [Google Says It Dropped the Energy Cost of AI Queries By 33x In One Year](https://tech.slashdot.org/story/25/08/22/2118234/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major advancement in energy efficiency for artificial intelligence is heralded by Google, potentially reshaping AI operations.
 
-* [South Korea deploys hologram police officer to fight crime – and it's working](https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working) ([comments](https://news.ycombinator.com/item?id=44991643))
+* [Meta Set To Unveil First Consumer-Ready Smart Glasses With a Display, Wristband](https://hardware.slashdot.org/story/25/08/22/217232/meta-set-to-unveil-first-consumer-ready-smart-glasses-with-a-display-wristband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta's innovation in wearable technology marks a significant milestone in consumer AR devices.
 
-* [Meta Set To Unveil First Consumer-Ready Smart Glasses With a Display, Wristband](https://hardware.slashdot.org/story/25/08/22/217232/meta-set-to-unveil-first-consumer-ready-smart-glasses-with-a-display-wristband?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/08/22/217232/meta-set-to-unveil-first-consumer-ready-smart-glasses-with-a-display-wristband?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Waymo Granted First Permit To Begin Testing Autonomous Vehicles In NYC](https://tech.slashdot.org/story/25/08/22/2036239/waymo-granted-first-permit-to-being-testing-autonomous-vehicles-in-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Waymo progresses in self-driving technology, making a debut in one of the most challenging urban environments.
 
-* [Waymo Granted First Permit To Being Testing Autonomous Vehicles In NYC](https://tech.slashdot.org/story/25/08/22/2036239/waymo-granted-first-permit-to-being-testing-autonomous-vehicles-in-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html))
+## Policy and Regulation Developments
 
-* [w65c832: W65C832 (32 bit 6502) in an FPGA](https://github.com/mikeakohn/w65c832) ([comments](https://lobste.rs/s/snhdea/w65c832_w65c832_32_bit_6502_fpga))
+* [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582) - Proposed regulations in Japan highlight societal concerns about excessive screen time.
 
-## Cybersecurity and Privacy
+* [Bluesky Blocks Service In Mississippi Over Age Assurance Law](https://tech.slashdot.org/story/25/08/22/2327213/bluesky-blocks-service-in-mississippi-over-age-assurance-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Age verification laws spark complications for social media platforms, leading to regional service restrictions.
 
-* [Computer Fraud Laws Used to Prosecute Leaking Air Crash Footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/) ([comments](https://news.ycombinator.com/item?id=44991542))
-
-* [Bluesky Blocks Service In Mississippi Over Age Assurance Law](https://tech.slashdot.org/story/25/08/22/2327213/bluesky-blocks-service-in-mississippi-over-age-assurance-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=44990886))
-
-* [4chan Refuses To Pay UK Online Safety Act Fines](https://news.slashdot.org/story/25/08/22/2029253/4chan-refuses-to-pay-uk-online-safety-act-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://soylentnews.org/article.pl?sid=25/08/18/122222&from=rss))
-
-## Open Source and Development
-
-* [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn) ([comments](https://news.ycombinator.com/item?id=44990680))
-
-* [nitro: a tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/) ([comments](https://lobste.rs/s/xltjpn/nitro_tiny_flexible_init_system_process))
-
-* [The First MoQ CDN: Cloudflare](https://moq.dev/blog/first-cdn/) ([comments](https://lobste.rs/s/kl2nwa/first_moq_cdn_cloudflare))
-
-* [Why Was Apache Kafka Created?](https://bigdatastream.substack.com/p/why-was-apache-kafka-created) ([comments](https://lobste.rs/s/pc87c0/why_was_apache_kafka_created))
+* [T-Mobile Claimed Selling Location Data Without Consent is Legal—Judges Disagree](https://soylentnews.org/article.pl?sid=25/08/22/010203&amp;from=rss) - Legal disputes over data privacy challenge corporate practices in mobile technology.
 
 ## Environment and Sustainability
 
-* [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss))
+* [Record Solar Growth Keeps China&apos;s CO2 Falling in First Half of 2025](https://news.slashdot.org/story/25/08/22/2036256/record-solar-growth-keeps-chinas-co2-falling-in-first-half-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's solar energy expansion demonstrates a tangible impact on reducing carbon emissions.
 
-* [Record Solar Growth Keeps China's CO2 Falling in First Half of 2025](https://news.slashdot.org/story/25/08/22/2036256/record-solar-growth-keeps-chinas-co2-falling-in-first-half-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/22/2036256/record-solar-growth-keeps-chinas-co2-falling-in-first-half-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&amp;from=rss) - A disturbing trend unfolds as climate shifts push tree species to their limits.
 
-## AI and Machine Learning
+* [Workers Need Better Protections From the Heat](https://news.slashdot.org/story/25/08/22/2020223/workers-need-better-protections-from-the-heat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Escalating temperatures prompt calls for improved safety measures for laborers.
 
-* [Apple Explores Using Google Gemini AI To Power Revamped Siri](https://apple.slashdot.org/story/25/08/22/1733230/apple-explores-using-google-gemini-ai-to-power-revamped-siri?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/08/22/1925255/europe-is-losing?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Software Development and Tools
 
-* [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631) ([comments](https://news.ycombinator.com/item?id=44985278))
+* [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful) - A detailed exploration into the advantages of using materialized views in database systems.
 
-## Policy and Regulation
+* [The 9 Go test assertions I use (and why)](https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use) - Insight into effective testing strategies for Go programming.
 
-* [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html) ([comments](https://news.ycombinator.com/item?id=44989773))
+* [bubbletea-rs: A rust implementation of Bubbletea](https://github.com/whit3rabbit/bubbletea-rs) - A notable Rust crate that adapts the functional model-view-update architecture.
 
-* [Microsoft Reportedly Cuts China's Early Access to Bug Disclosures, PoC Exploit Code](https://it.slashdot.org/story/25/08/22/2059255/microsoft-reportedly-cuts-chinas-early-access-to-bug-disclosures-poc-exploit-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/08/22/1515238/coinbase-reverses-remote-first-policy-after-north-korean-infiltration-attempts?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Industry and Corporate Movements
+
+* [Meta Signs $10 Billion Cloud Deal With Google](https://meta.slashdot.org/story/25/08/22/2043255/meta-signs-10-billion-cloud-deal-with-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google and Meta collaborate on a massive cloud agreement, pushing AI and data offerings.
+
+* [U.S. government takes 10% stake in Intel](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html) - A significant move as the U.S. secures equity in a leading semiconductor firm.
+
+* [Microsoft Reportedly Cuts China&apos;s Early Access to Bug Disclosures, PoC Exploit Code](https://it.slashdot.org/story/25/08/22/2059255/microsoft-reportedly-cuts-chinas-early-access-to-bug-disclosures-poc-exploit-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Geopolitical concerns surface as Microsoft rethinks its vulnerability sharing practices.
 
 ---
 
@@ -73,13 +65,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-23, 03:30:00](https://tech.slashdot.org/story/25/08/22/2118234/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says It Dropped the Energy Cost of AI Queries By 33x In One Year](https://tech.slashdot.org/story/25/08/22/2118234/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
+* [2025-08-23, 02:20:09](https://news.ycombinator.com/item?id=44992446) - [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
+* [2025-08-23, 01:25:00](https://soylentnews.org/article.pl?sid=25/08/22/010203&amp;from=rss) - [T-Mobile Claimed Selling Location Data Without Consent is Legal—Judges Disagree](https://soylentnews.org/article.pl?sid=25/08/22/010203&amp;from=rss)
 * [2025-08-23, 01:14:05](https://lobste.rs/s/sxk1le/9_go_test_assertions_i_use_why) - [The 9 Go test assertions I use (and why)](https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use)
+* [2025-08-23, 00:59:02](https://news.ycombinator.com/item?id=44991884) - [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
 * [2025-08-23, 00:20:00](https://tech.slashdot.org/story/25/08/22/2327213/bluesky-blocks-service-in-mississippi-over-age-assurance-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bluesky Blocks Service In Mississippi Over Age Assurance Law](https://tech.slashdot.org/story/25/08/22/2327213/bluesky-blocks-service-in-mississippi-over-age-assurance-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-23, 00:19:08](https://news.ycombinator.com/item?id=44991643) - [South Korea deploys hologram police officer to fight crime – and it&apos;s working](https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working)
-* [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer Fraud Laws Used to Prosecute Leaking Air Crash Footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
-* [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [70% of Japan smartphone games bypass in-app payment to avoid US tech giants](https://english.kyodonews.net/articles/-/59689)
+* [2025-08-23, 00:04:56](https://news.ycombinator.com/item?id=44991542) - [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
+* [2025-08-22, 23:50:13](https://news.ycombinator.com/item?id=44991384) - [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
 * [2025-08-22, 23:40:00](https://hardware.slashdot.org/story/25/08/22/217232/meta-set-to-unveil-first-consumer-ready-smart-glasses-with-a-display-wristband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Set To Unveil First Consumer-Ready Smart Glasses With a Display, Wristband](https://hardware.slashdot.org/story/25/08/22/217232/meta-set-to-unveil-first-consumer-ready-smart-glasses-with-a-display-wristband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-22, 23:16:10](https://news.ycombinator.com/item?id=44991117) - [Why the Internet Is Turning to Shit](https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit)
 * [2025-08-22, 23:09:04](https://news.ycombinator.com/item?id=44991039) - [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
 * [2025-08-22, 23:00:00](https://it.slashdot.org/story/25/08/22/2059255/microsoft-reportedly-cuts-chinas-early-access-to-bug-disclosures-poc-exploit-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Reportedly Cuts China&apos;s Early Access to Bug Disclosures, PoC Exploit Code](https://it.slashdot.org/story/25/08/22/2059255/microsoft-reportedly-cuts-chinas-early-access-to-bug-disclosures-poc-exploit-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-22, 22:59:56](https://lobste.rs/s/8bnfjy/on_use_llm_assistants_for_kernel) - [On the use of LLM assistants for kernel development](https://lwn.net/Articles/1032612/)
@@ -102,7 +97,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-22, 18:51:57](https://lobste.rs/s/kl2nwa/first_moq_cdn_cloudflare) - [The First MoQ CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 18:50:00](https://news.slashdot.org/story/25/08/22/1849210/intel-has-agreed-to-a-deal-for-us-to-take-10-equity-stake-trump-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Has Agreed To a Deal For US To Take 10% Equity Stake, Trump Says](https://news.slashdot.org/story/25/08/22/1849210/intel-has-agreed-to-a-deal-for-us-to-take-10-equity-stake-trump-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-22, 18:47:30](https://news.ycombinator.com/item?id=44988271) - [Show HN: JavaScript-free (X)HTML Includes](https://github.com/Evidlo/xsl-website)
-* [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
+* [2025-08-22, 18:24:16](https://news.ycombinator.com/item?id=44987924) - [The first Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 18:14:00](https://it.slashdot.org/story/25/08/22/1814219/default-microsoft-365-domains-face-100-email-daily-limit-starting-october?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Default Microsoft 365 Domains Face 100-Email Daily Limit Starting October](https://it.slashdot.org/story/25/08/22/1814219/default-microsoft-365-domains-face-100-email-daily-limit-starting-october?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-22, 17:56:12](https://news.ycombinator.com/item?id=44987552) - [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
 * [2025-08-22, 17:41:48](https://news.ycombinator.com/item?id=44987380) - [Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
@@ -118,11 +113,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-22, 16:06:15](https://news.ycombinator.com/item?id=44986251) - [Closing the Nix gap: From environments to packaged applications for rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 15:56:00](https://soylentnews.org/article.pl?sid=25/08/21/123255&amp;from=rss) - [Adult Sites Are Stashing Exploit Code Inside Racy .svg Files](https://soylentnews.org/article.pl?sid=25/08/21/123255&amp;from=rss)
 * [2025-08-22, 15:22:42](https://news.ycombinator.com/item?id=44985730) - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
-* [2025-08-22, 15:22:00](https://slashdot.org/story/25/08/22/1515238/coinbase-reverses-remote-first-policy-after-north-korean-infiltration-attempts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Coinbase Reverses Remote-First Policy After North Korean Infiltration Attempts](https://slashdot.org/story/25/08/22/1515238/coinbase-reverses-remote-first-policy-after-north-korean-infiltration-attempts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-22, 14:48:27](https://lobste.rs/s/othw2q/go_is_still_not_good) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
-* [2025-08-22, 14:43:31](https://news.ycombinator.com/item?id=44985278) - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 * [2025-08-22, 14:38:21](https://lobste.rs/s/cw265v/have_smart_glasses_finally_hit) - [Have smart glasses finally hit an inflection point?](https://torment-nexus.mathewingram.com/have-smart-glasses-finally-hit-an-inflection-point/)
-* [2025-08-22, 14:14:26](https://news.ycombinator.com/item?id=44984958) - [Build Log: Macintosh Classic](https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic)
 * [2025-08-22, 14:08:37](https://lobste.rs/s/nhrlya/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-08-22, 13:55:12](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad) - [Lobsters Interview with Matklad](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad)
 * [2025-08-22, 12:59:07](https://news.ycombinator.com/item?id=44984096) - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
@@ -135,10 +127,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-22, 06:22:44](https://lobste.rs/s/tkydi6/baby_paradox_haskell) - [The Baby Paradox in Haskell](https://blog.jle.im/entry/the-baby-paradox-in-haskell.html)
 * [2025-08-22, 06:22:00](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss) - [VW Introduces Monthly Subscription to Increase Car Power](https://soylentnews.org/article.pl?sid=25/08/20/2255245&amp;from=rss)
 * [2025-08-22, 06:18:56](https://news.ycombinator.com/item?id=44981525) - [It’s not wrong that \&quot;\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\&quot;.length == 7 (2019)](https://hsivonen.fi/string-length/)
-* [2025-08-22, 05:22:50](https://lobste.rs/s/cfuzzv/introducing_forth_poems) - [Introducing Forth poems](https://youtu.be/YZ4nYqQSyMo)
 * [2025-08-22, 05:20:26](https://lobste.rs/s/hnwcq6/what_hell_is_going_on_right_now) - [What the hell is going on right now?](https://catskull.net/what-the-hell-is-going-on-right-now.html)
 * [2025-08-22, 04:48:29](https://news.ycombinator.com/item?id=44981088) - [Top Secret: Automatically filter sensitive information](https://thoughtbot.com/blog/top-secret)
-* [2025-08-22, 02:05:53](https://news.ycombinator.com/item?id=44980339) - [Everything is correlated (2014–23)](https://gwern.net/everything)
 * [2025-08-22, 01:35:00](https://soylentnews.org/article.pl?sid=25/08/20/2242220&amp;from=rss) - [We Need to Become Unoptomizable](https://soylentnews.org/article.pl?sid=25/08/20/2242220&amp;from=rss)
 * [2025-08-22, 01:09:33](https://news.ycombinator.com/item?id=44980064) - [The issue of anti-cheat on Linux (2024)](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)
 * [2025-08-22, 00:39:07](https://lobste.rs/s/goaf6y/issue_anti_cheat_on_linux) - [The issue of anti-cheat on Linux](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)
@@ -152,14 +142,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-21, 01:52:00](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss) - [A Treatise on AI Chatbots Undermining the Enlightenment](https://soylentnews.org/article.pl?sid=25/08/20/0153218&amp;from=rss)
 * [2025-08-20, 21:08:00](https://soylentnews.org/article.pl?sid=25/08/20/0149227&amp;from=rss) - [Whoops, They Did It Again](https://soylentnews.org/article.pl?sid=25/08/20/0149227&amp;from=rss)
 * [2025-08-20, 16:22:00](https://soylentnews.org/article.pl?sid=25/08/20/0132257&amp;from=rss) - [The Big Slow Church Move](https://soylentnews.org/article.pl?sid=25/08/20/0132257&amp;from=rss)
+* [2025-08-20, 12:47:06](https://news.ycombinator.com/item?id=44961443) - [Why is this hard?](https://programmersstone.blog/posts/why-is-this-hard/)
 * [2025-08-20, 11:35:00](https://soylentnews.org/article.pl?sid=25/08/20/0125237&amp;from=rss) - [How Chefs and Scientists Are Using Kombucha and Kimchi to Study Microbiology](https://soylentnews.org/article.pl?sid=25/08/20/0125237&amp;from=rss)
 * [2025-08-20, 11:08:15](https://news.ycombinator.com/item?id=44960750) - [Shader Academy: Learn computer graphics by solving challenges](https://shaderacademy.com/)
 * [2025-08-20, 06:48:00](https://soylentnews.org/article.pl?sid=25/08/19/1550241&amp;from=rss) - [Scientists Say Tool Can Sniff 5G Traffic, Launch &apos;Attacks&apos; Without Using Rogue Base Stations](https://soylentnews.org/article.pl?sid=25/08/19/1550241&amp;from=rss)
 * [2025-08-20, 02:06:00](https://soylentnews.org/article.pl?sid=25/08/19/1547232&amp;from=rss) - [Can’t Pay, Won’t Pay: Impoverished Streaming Services are Driving Viewers Back to Piracy](https://soylentnews.org/article.pl?sid=25/08/19/1547232&amp;from=rss)
 * [2025-08-19, 21:21:00](https://soylentnews.org/article.pl?sid=25/08/19/0050215&amp;from=rss) - [Attorneys General, HCA Settle Over Nurse Training Repayment Provisions](https://soylentnews.org/article.pl?sid=25/08/19/0050215&amp;from=rss)
+* [2025-08-19, 20:25:06](https://news.ycombinator.com/item?id=44955923) - [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)
 * [2025-08-19, 19:23:00](https://soylentnews.org/article.pl?sid=25/08/19/195256&amp;from=rss) - [Only 3 Stories in the Submissions Queue](https://soylentnews.org/article.pl?sid=25/08/19/195256&amp;from=rss)
 * [2025-08-19, 16:35:00](https://soylentnews.org/article.pl?sid=25/08/19/0044229&amp;from=rss) - [Federal Court Filing System Hit in Sweeping Hack](https://soylentnews.org/article.pl?sid=25/08/19/0044229&amp;from=rss)
 * [2025-08-19, 15:18:18](https://news.ycombinator.com/item?id=44952572) - [What Happened to Egghead Software](https://dfarq.homeip.net/what-happened-to-egghead-software/)
 * [2025-08-19, 11:53:00](https://soylentnews.org/article.pl?sid=25/08/19/0039216&amp;from=rss) - [Charged Drops Don&apos;t Splash](https://soylentnews.org/article.pl?sid=25/08/19/0039216&amp;from=rss)
+* [2025-08-19, 11:39:47](https://news.ycombinator.com/item?id=44950482) - [I Run a Full Linux Desktop in Docker Just Because I Can](https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/)
 * [2025-08-19, 07:05:00](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss) - [Scientists 3D Print Inside a Living Cell](https://soylentnews.org/article.pl?sid=25/08/18/126258&amp;from=rss)
 * [2025-08-19, 02:20:00](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss) - [Wikipedia Loses Challenge Against Online Safety Act, but the Door is Open for a Challenge](https://soylentnews.org/article.pl?sid=25/08/18/122222&amp;from=rss)
