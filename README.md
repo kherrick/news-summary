@@ -1,40 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Tech and Innovations
 
-* [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion) ([comments](https://news.ycombinator.com/item?id=45020457))
+* [Farmers Insurance Data Breach Impacts 1.1 Million People After Salesforce Attack](https://it.slashdot.org/story/25/08/25/2154254/farmers-insurance-data-breach-impacts-11-million-people-after-salesforce-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A Salesforce attack has reportedly impacted millions of people, exposing data vulnerabilities among major enterprises.
 
-* [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP) ([comments](https://lobste.rs/s/8mw7xt/precision_encoded_pixels_tiny_yet))
+* [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion) - This project demonstrates innovative uses of Wi-Fi for real-time motion sensing in 3D spaces.
 
-* [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/) ([comments](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android))
+* [Scientists Develop Interface That ‘Reads’ Thoughts From Speech-Impaired Patients](https://soylentnews.org/article.pl?sid=25/08/22/073206&from=rss) - Cutting-edge research creates new hope in communication for speech-impaired individuals.
 
-* [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/) ([comments](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle))
+* [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP) - A novel approach to compressing pixel art that could redefine efficiency in digital design.
 
-* [Nvidia's New 'Robot Brain' Goes On Sale](https://hardware.slashdot.org/story/25/08/25/207231/nvidias-new-robot-brain-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android))
+## Science Discoveries and Nature
 
-## Cybersecurity and Privacy
+* [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls) - A fascinating look at how catfish adapt to extreme environments.
 
-* [Farmers Insurance Data Breach Impacts 1.1 Million People After Salesforce Attack](https://it.slashdot.org/story/25/08/25/2154254/farmers-insurance-data-breach-impacts-11-million-people-after-salesforce-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/25/2154254/farmers-insurance-data-breach-impacts-11-million-people-after-salesforce-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&from=rss) - Scientists question if the 'most distant star' could actually be something else.
 
-* [FTC Warns Tech Giants Not To Bow To Foreign Pressure on Encryption](https://news.slashdot.org/story/25/08/25/1939221/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/25/1939221/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Tree Species Face Unprecedented Climate Shifts Across Their Ranges](https://soylentnews.org/article.pl?sid=25/08/21/1213229&from=rss) - Climate change's effects on tree species and their ecosystems reveal alarming trends.
 
-* [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html) ([comments](https://news.ycombinator.com/item?id=45016794))
+* [Webb Discovers a New Moon Orbiting Uranus](https://soylentnews.org/article.pl?sid=25/08/22/0551243&from=rss) - NASA's Webb telescope unveils a potential new moon around Uranus.
 
-## Science and Space
+## Technology Security and Ethics
 
-* [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss))
+* [FTC Warns Tech Giants Not To Bow To Foreign Pressure on Encryption](https://news.slashdot.org/story/25/08/25/1939221/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FTC takes a firm stance on encryption, warning against foreign influence.
 
-* [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss))
+* [Apple Accuses Former Apple Watch Staffer of Conspiring to Steal Trade Secrets for Oppo](https://yro.slashdot.org/story/25/08/25/2023259/apple-accuses-former-apple-watch-staffer-of-conspiring-to-steal-trade-secrets-for-oppo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple embroiled in legal battles over alleged intellectual property theft.
 
-## Open Source and Decentralization
+* [Perplexity's AI Browser Comet Vulnerable To Prompt Injection Attacks That Hijack User Accounts](https://it.slashdot.org/story/25/08/25/1654220/perplexitys-ai-browser-comet-vulnerable-to-prompt-injection-attacks-that-hijack-user-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security flaws in AI-related browsers raise concerns regarding account safety.
 
-* [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/) ([comments](https://news.ycombinator.com/item?id=45019950))
+## Environmental Developments
 
-* [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of) ([comments](https://news.ycombinator.com/item?id=45018773))
+* [Study Shows Which Vehicles Pollute the Least In Every US County](https://tech.slashdot.org/story/25/08/25/220258/study-shows-which-vehicles-pollute-the-least-in-every-us-county?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Detailed analysis ranks vehicle emissions across U.S. counties.
 
-## Environmental Studies
+* [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&from=rss) - Sediment layers in the Great Salt Lake tell stories of climate and environmental change.
 
-* [In a Hotter World, Some People Age Faster, Researchers Find](https://news.slashdot.org/story/25/08/25/184250/in-a-hotter-world-some-people-age-faster-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/25/184250/in-a-hotter-world-some-people-age-faster-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Tech Innovation and Engineering
+
+* [Nvidia's New 'Robot Brain' Goes On Sale](https://hardware.slashdot.org/story/25/08/25/207231/nvidias-new-robot-brain-goes-on-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nvidia releases advanced robotics hardware for innovation and automation.
+
+* [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis) - Detailed breakdown of identifying, understanding, and applying Raspberry Pi models.
 
 ---
 
@@ -61,9 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-08-26, 00:31:11](https://news.ycombinator.com/item?id=45020866) - [MAID in Canada](https://nathansnelgrove.com/2025/08/maid-in-canada)
+* [2025-08-26, 03:30:00](https://tech.slashdot.org/story/25/08/25/220258/study-shows-which-vehicles-pollute-the-least-in-every-us-county?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Shows Which Vehicles Pollute the Least In Every US County](https://tech.slashdot.org/story/25/08/25/220258/study-shows-which-vehicles-pollute-the-least-in-every-us-county?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-26, 03:03:03](https://lobste.rs/s/x6sye6/inside_windows_3) - [Inside Windows 3](https://www.xtof.info/inside-windows3.html)
+* [2025-08-26, 01:37:28](https://news.ycombinator.com/item?id=45021300) - [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
+* [2025-08-26, 01:02:59](https://news.ycombinator.com/item?id=45021078) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
+* [2025-08-26, 00:37:42](https://news.ycombinator.com/item?id=45020903) - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss)
 * [2025-08-26, 00:20:00](https://it.slashdot.org/story/25/08/25/2154254/farmers-insurance-data-breach-impacts-11-million-people-after-salesforce-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Farmers Insurance Data Breach Impacts 1.1 Million People After Salesforce Attack](https://it.slashdot.org/story/25/08/25/2154254/farmers-insurance-data-breach-impacts-11-million-people-after-salesforce-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-26, 00:06:16](https://lobste.rs/s/aurzu2/structural_vs_mathematical_under_2023) - [Structural vs. Mathematical “Under” (2023)](https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/)
 * [2025-08-26, 00:03:25](https://news.ycombinator.com/item?id=45020685) - [macOS 26 Tahoe&apos;s Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
 * [2025-08-25, 23:40:00](https://linux.slashdot.org/story/25/08/25/2149223/linux-turns-34?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Turns 34](https://linux.slashdot.org/story/25/08/25/2149223/linux-turns-34?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-25, 23:26:42](https://news.ycombinator.com/item?id=45020457) - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
@@ -73,15 +82,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-25, 21:40:00](https://yro.slashdot.org/story/25/08/25/2023259/apple-accuses-former-apple-watch-staffer-of-conspiring-to-steal-trade-secrets-for-oppo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Accuses Former Apple Watch Staffer of Conspiring to Steal Trade Secrets for Oppo](https://yro.slashdot.org/story/25/08/25/2023259/apple-accuses-former-apple-watch-staffer-of-conspiring-to-steal-trade-secrets-for-oppo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/precision_encoded_pixels_tiny_yet) - [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 21:00:00](https://hardware.slashdot.org/story/25/08/25/207231/nvidias-new-robot-brain-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia&apos;s New &apos;Robot Brain&apos; Goes On Sale](https://hardware.slashdot.org/story/25/08/25/207231/nvidias-new-robot-brain-goes-on-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-25, 20:59:22](https://news.ycombinator.com/item?id=45018933) - [A short proof of the Hairy Ball theorem (2016) [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
-* [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Social media&apos;s next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+* [2025-08-25, 20:47:10](https://news.ycombinator.com/item?id=45018773) - [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
 * [2025-08-25, 20:40:39](https://news.ycombinator.com/item?id=45018708) - [Llama Fund: Crowdfund AI Models](https://llama.fund)
-* [2025-08-25, 20:38:06](https://lobste.rs/s/mbh4jl/make_easy_change_hard) - [Make the easy change hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 20:20:35](https://news.ycombinator.com/item?id=45018509) - [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
 * [2025-08-25, 20:20:00](https://search.slashdot.org/story/25/08/25/201210/perplexity-launches-subscription-program-that-includes-revenue-sharing-with-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity Launches Subscription Program That Includes Revenue Sharing With Publishers](https://search.slashdot.org/story/25/08/25/201210/perplexity-launches-subscription-program-that-includes-revenue-sharing-with-publishers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-25, 20:19:21](https://news.ycombinator.com/item?id=45018494) - [Study finds gaps in evidence for air-cleaning technologies to prevent infections](https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections)
-* [2025-08-25, 20:04:15](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle) - [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss)
 * [2025-08-25, 19:41:51](https://news.ycombinator.com/item?id=45018081) - [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
 * [2025-08-25, 19:39:00](https://news.slashdot.org/story/25/08/25/1939221/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Warns Tech Giants Not To Bow To Foreign Pressure on Encryption](https://news.slashdot.org/story/25/08/25/1939221/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-25, 15:28:00](https://apple.slashdot.org/story/25/08/25/1528251/musks-xai-sues-apple-and-openai-over-alleged-antitrust-violations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Musk&apos;s xAI Sues Apple and OpenAI Over Alleged Antitrust Violations](https://apple.slashdot.org/story/25/08/25/1528251/musks-xai-sues-apple-and-openai-over-alleged-antitrust-violations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss)
-* [2025-08-25, 14:41:00](https://slashdot.org/story/25/08/25/1436233/chinese-solar-makers-losses-deepen-as-industry-vows-to-end-price-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Solar Makers&apos; Losses Deepen as Industry Vows To End Price War](https://slashdot.org/story/25/08/25/1436233/chinese-solar-makers-losses-deepen-as-industry-vows-to-end-price-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-25, 14:17:38](https://news.ycombinator.com/item?id=45014131) - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 * [2025-08-25, 13:40:11](https://news.ycombinator.com/item?id=45013737) - [A small change to improve browsers for keyboard navigation](https://b.43z.one/2025-07-22/)
 * [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
@@ -116,9 +120,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-25, 09:11:26](https://lobste.rs/s/btxegl/why_i_read_technical_books) - [Why I Read Technical Books](https://ratfactor.com/b/technical-books)
 * [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
 * [2025-08-25, 07:20:14](https://lobste.rs/s/n7bchj/once_upon_pipe_west_working_adapter_from) - [Once Upon a Pipe in the West: A working adapter from HDMI to Gardena](https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena)
-* [2025-08-25, 07:03:56](https://news.ycombinator.com/item?id=45011096) - [Scamlexity: When agentic AI browsers get scammed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 * [2025-08-25, 06:32:04](https://news.ycombinator.com/item?id=45010876) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 05:30:00](https://soylentnews.org/article.pl?sid=25/08/24/1253242&amp;from=rss) - [Radio Waves Can Strengthen Sense of Smell](https://soylentnews.org/article.pl?sid=25/08/24/1253242&amp;from=rss)
+* [2025-08-25, 05:22:15](https://news.ycombinator.com/item?id=45010484) - [Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-25, 05:17:44](https://news.ycombinator.com/item?id=45010461) - [Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don&apos;t like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 02:42:09](https://lobste.rs/s/hvub48/regular_expression_matching_can_be) - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
@@ -133,13 +137,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
 * [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:36:00](https://soylentnews.org/article.pl?sid=25/08/22/079224&amp;from=rss) - [Turning the Lights Back on](https://soylentnews.org/article.pl?sid=25/08/22/079224&amp;from=rss)
-* [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
-* [2025-08-24, 09:26:31](https://news.ycombinator.com/item?id=45002760) - [MetaScope Build 10: Revolutionary File Processing and External Drive Support](https://zalodesignstudio.com/portfolio/metascope/releases/metascope-v1-0-2-build-10/)
+* [2025-08-24, 09:58:13](https://news.ycombinator.com/item?id=45002896) - [The Annotated Transformer (2022)](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [2025-08-24, 07:39:36](https://news.ycombinator.com/item?id=45002182) - [A visual introduction to big O notation](https://samwho.dev/big-o/)
 * [2025-08-24, 07:23:30](https://news.ycombinator.com/item?id=45002092) - [DeepWiki: Understand Any Codebase](https://www.aitidbits.ai/p/deepwiki)
 * [2025-08-24, 07:09:53](https://news.ycombinator.com/item?id=45002048) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 * [2025-08-24, 06:13:33](https://news.ycombinator.com/item?id=45001815) - [Turning a Decommissioned iPhone into a UniFi Protect Camera](https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera)
 * [2025-08-24, 05:52:00](https://soylentnews.org/article.pl?sid=25/08/22/073206&amp;from=rss) - [Scientists Develop Interface That ‘Reads’ Thoughts From Speech-Impaired Patients](https://soylentnews.org/article.pl?sid=25/08/22/073206&amp;from=rss)
+* [2025-08-24, 05:45:13](https://news.ycombinator.com/item?id=45001710) - [Mob Programming (2018)](https://mobprogramming.org/)
 * [2025-08-24, 05:10:10](https://news.ycombinator.com/item?id=45001556) - [How to make things slower so they go faster](https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/)
 * [2025-08-24, 01:12:00](https://soylentnews.org/article.pl?sid=25/08/22/0656227&amp;from=rss) - [AWS CEO Says Using AI to Replace Junior Staff is &apos;Dumbest Thing I&apos;ve Ever Heard&apos;](https://soylentnews.org/article.pl?sid=25/08/22/0656227&amp;from=rss)
 * [2025-08-23, 20:25:00](https://soylentnews.org/article.pl?sid=25/08/22/0551243&amp;from=rss) - [Webb Discovers a New Moon Orbiting Uranus](https://soylentnews.org/article.pl?sid=25/08/22/0551243&amp;from=rss)
