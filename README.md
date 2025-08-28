@@ -1,50 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space Exploration and Technology
+## Open Source and Developer Insights
 
-* [With Starship Flight 10, SpaceX Prioritized Resilience Over Perfection](https://science.slashdot.org/story/25/08/27/2153208/with-starship-flight-10-spacex-prioritized-resilience-over-perfection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX's latest Starship test demonstrated a shift towards focusing on resilience rather than flawless execution as it pushes forward in its ambitious plans for humanity's interplanetary future.
+* [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/) ([comments](https://lobste.rs/s/dgpbar/open_source_is_one_person)) - A thought-provoking piece discussing the heavy reliance on single individuals in many open source projects.
 
-## Artificial Intelligence and Productivity
+* [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo) ([comments](https://lobste.rs/s/9ir5gz/rust_for_everyone)) - A comprehensive beginner's guide to Rust, ideal for coders of all levels.
 
-* [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf) - A study delves into how AI might be impacting employment trends, likened to early warning signals such as canaries in coal mines.
+* [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt) ([comments](https://news.ycombinator.com/item?id=45047572)) - A minimalist approach to link management that emphasizes simplicity and organization.
 
-* [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/) - A fascinating exploration of how AI-generated language like ChatGPT's vocabulary is influencing human speech patterns offline.
+* [Former TLM that was involuntarily reclassified as an EM because I had too many r... | Hacker News](https://news.ycombinator.com/item?id=45046164) ([comments](https://lobste.rs/s/z9w001/former_tlm_was_involuntarily)) - A candid account of career transitions within engineering management.
 
-* [One Long Sentence is All It Takes To Make LLMs Misbehave](https://slashdot.org/story/25/08/27/1756253/one-long-sentence-is-all-it-takes-to-make-llms-misbehave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A discussion on how intricate prompts can cause large language models to produce unexpected or faulty responses.
+## Science and Technology Developments
 
-## Security and Privacy
+* [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india) ([comments](https://news.ycombinator.com/item?id=45048473)) - India restricts access to Sci-Hub, sparking debate over academic freedom and intellectual property.
 
-* [Silver State Goes Dark as Cyberattack Knocks Nevada Websites Offline](https://it.slashdot.org/story/25/08/27/2143210/silver-state-goes-dark-as-cyberattack-knocks-nevada-websites-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cyberattack on Nevada's state infrastructure underscores the ongoing vulnerabilities to modern digital threats.
+* [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/) ([comments](https://news.ycombinator.com/item?id=45047897)) - A discussion on enhancing user trust and usability of onion services using certificates.
 
-* [FBI Warns Chinese Hacking Campaign Has Expanded, Reaching 80 Countries](https://it.slashdot.org/story/25/08/27/1644221/fbi-warns-chinese-hacking-campaign-has-expanded-reaching-80-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The FBI issues a stark warning over the expansion of a Chinese hacking campaign impacting numerous countries worldwide.
+* [Xz Format Inadequate for General Use](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss)) - Concerns raised over the limitations and inefficiencies of using Xz format for general compression needs.
 
-## Emerging Business Trends
+* [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss)) - Showcasing innovative solutions from a NASA-hosted challenge.
 
-* [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html) - Google's restructuring strategy reduces managerial roles to improve efficiency in team management.
+## Cybersecurity and Legal Cases
 
-## Scientific and Environmental Advancements
+* [Silver State Goes Dark as Cyberattack Knocks Nevada Websites Offline](https://it.slashdot.org/story/25/08/27/2143210/silver-state-goes-dark-as-cyberattack-knocks-nevada-websites-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/08/27/2143210/silver-state-goes-dark-as-cyberattack-knocks-nevada-websites-offline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A major cyberattack in Nevada disrupts state websites, raising serious cybersecurity concerns.
 
-* [Deforestation Has Killed Half a Million People in Past 20 Years, Study Finds](https://news.slashdot.org/story/25/08/27/1729211/deforestation-has-killed-half-a-million-people-in-past-20-years-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A sobering study links deforestation to the deaths of half a million people over two decades.
+* [4chan and Kiwi Farms Sue the UK Over Its Age Verification Law](https://yro.slashdot.org/story/25/08/27/205230/4chan-and-kiwi-farms-sue-the-uk-over-its-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/08/27/205230/4chan-and-kiwi-farms-sue-the-uk-over-its-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Controversial forums challenge the UK's age verification regulations in court.
 
-* [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss) - Researchers develop a novel method for sustainable carbon capture using shrimp waste, unveiling a unique avenue in climate mitigation.
+* [Defense Department Reportedly Relies On Utility Written by Russian Dev](https://tech.slashdot.org/story/25/08/27/2026245/defense-department-reportedly-relies-on-utility-written-by-russian-dev?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/08/27/2026245/defense-department-reportedly-relies-on-utility-written-by-russian-dev?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Raises questions about the U.S. Department of Defense's reliance on foreign-developed software.
 
-## Legal and Ethical Challenges
+## Artificial Intelligence Impacts
 
-* [4chan and Kiwi Farms Sue the UK Over Its Age Verification Law](https://yro.slashdot.org/story/25/08/27/205230/4chan-and-kiwi-farms-sue-the-uk-over-its-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial platforms 4chan and Kiwi Farms challenge a UK law enforcing age verification for online content access.
+* [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf) ([comments](https://news.ycombinator.com/item?id=45047659)) - A research paper analyzing the workforce disruptions caused by AI implementations.
 
-## Health and Wellbeing
+* [One Long Sentence is All It Takes To Make LLMs Misbehave](https://slashdot.org/story/25/08/27/1756253/one-long-sentence-is-all-it-takes-to-make-llms-misbehave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/08/27/1756253/one-long-sentence-is-all-it-takes-to-make-llms-misbehave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Highlighting a peculiar vulnerability in large language models.
 
-* [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411) - A scientific investigation explores how specific breathwork routines paired with music can alter cognitive states.
+* [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss)) - Examining the intersection of AI and the font design industry.
 
-## Historical and Cultural Insights
+## Environmental Studies
 
-* [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss) - The enduring impact of levee failures during Hurricane Katrina and how they reshaped disaster preparedness in the U.S.
+* [Deforestation Has Killed Half a Million People in Past 20 Years, Study Finds](https://news.slashdot.org/story/25/08/27/1729211/deforestation-has-killed-half-a-million-people-in-past-20-years-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/08/27/1729211/deforestation-has-killed-half-a-million-people-in-past-20-years-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A somber look into the human costs of deforestation.
 
-## Tech Tools and Platforms
+* [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss)) - Innovative approach to turning shrimp waste into a sustainable carbon capture method.
 
-* [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo) - An inclusive video tutorial introduces viewers to Rust, emphasizing how everyone can harness its potential.
-
-* [doxx - A viewer for Microsoft Word .docx files in the terminal](https://terminaltrove.com/doxx/) - Innovations in productivity tools as this terminal-based viewer simplifies document access for developers.
+* [Kelp Forests in Marine Protected Areas are More Resilient to Marine Heatwaves](https://soylentnews.org/article.pl?sid=25/08/26/0056205&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/08/26/0056205&amp;from=rss)) - Addressing the role of marine reserves in combating climate change effects in ocean ecosystems.
 
 ---
 
@@ -71,7 +69,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
+* [2025-08-28, 05:39:22](https://lobste.rs/s/hzyrkt/update_about_hidden_performa_550) - [An update about the hidden Performa 550 recovery partition](https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/)
+* [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss)
+* [2025-08-28, 04:47:01](https://news.ycombinator.com/item?id=45048473) - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
+* [2025-08-28, 04:37:12](https://news.ycombinator.com/item?id=45048419) - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [2025-08-28, 03:30:00](https://science.slashdot.org/story/25/08/27/2153208/with-starship-flight-10-spacex-prioritized-resilience-over-perfection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [With Starship Flight 10, SpaceX Prioritized Resilience Over Perfection](https://science.slashdot.org/story/25/08/27/2153208/with-starship-flight-10-spacex-prioritized-resilience-over-perfection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-28, 03:05:42](https://news.ycombinator.com/item?id=45047897) - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
 * [2025-08-28, 03:01:30](https://lobste.rs/s/9ir5gz/rust_for_everyone) - [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo)
 * [2025-08-28, 02:28:19](https://news.ycombinator.com/item?id=45047659) - [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 * [2025-08-28, 02:12:23](https://news.ycombinator.com/item?id=45047572) - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
@@ -100,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 17:14:30](https://lobste.rs/s/a6tlkb/doxx_viewer_for_microsoft_word_docx_files) - [doxx - A viewer for Microsoft Word .docx files in the terminal](https://terminaltrove.com/doxx/)
-* [2025-08-27, 17:01:06](https://news.ycombinator.com/item?id=45042175) - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-08-27, 16:44:00](https://it.slashdot.org/story/25/08/27/1644221/fbi-warns-chinese-hacking-campaign-has-expanded-reaching-80-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Warns Chinese Hacking Campaign Has Expanded, Reaching 80 Countries](https://it.slashdot.org/story/25/08/27/1644221/fbi-warns-chinese-hacking-campaign-has-expanded-reaching-80-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-27, 16:24:12](https://news.ycombinator.com/item?id=45041743) - [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
@@ -122,12 +125,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss)
 * [2025-08-27, 09:43:43](https://news.ycombinator.com/item?id=45037365) - [The GitHub website is slow on Safari](https://github.com/orgs/community/discussions/170758)
-* [2025-08-27, 06:57:56](https://news.ycombinator.com/item?id=45036294) - [The Therac-25 Incident (2021)](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain&lt;T&gt;](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-27, 01:38:48](https://news.ycombinator.com/item?id=45034496) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
-* [2025-08-27, 01:18:19](https://lobste.rs/s/gljsa0/shared_ptr_t_not_always_atomic_reference) - [shared_ptr&lt;T&gt;: the (not always) atomic reference counted smart pointer (2019)](https://snf.github.io/2019/02/13/shared-ptr-optimization/)
 * [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss)
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
@@ -139,22 +140,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-26, 13:10:11](https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on) - [Developing an alt text button for images on my website](https://jamesg.blog/2025/08/17/alt-text-button)
 * [2025-08-26, 10:02:00](https://soylentnews.org/article.pl?sid=25/08/25/197208&amp;from=rss) - [Does 3I/ATLAS Generate its Own Light?](https://soylentnews.org/article.pl?sid=25/08/25/197208&amp;from=rss)
 * [2025-08-26, 08:34:15](https://news.ycombinator.com/item?id=45023857) - [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
-* [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 05:16:00](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss) - [Revolutionary AI Tech Breathes Life Into Virtual Companion Animals](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss)
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss)
-* [2025-08-25, 19:15:02](https://news.ycombinator.com/item?id=45017770) - [A mini-book on AWS networking](https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction)
 * [2025-08-25, 17:46:15](https://news.ycombinator.com/item?id=45016579) - [Will Bardenwerper on Baseball&apos;s Betrayal of Its Minor League Roots](https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss)
 * [2025-08-25, 12:11:38](https://news.ycombinator.com/item?id=45012995) - [Areal, Are.na&apos;s new typeface](https://www.are.na/editorial/introducing-areal-are-nas-new-typeface)
 * [2025-08-25, 10:15:00](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss) - [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss)
+* [2025-08-25, 08:43:55](https://news.ycombinator.com/item?id=45011679) - [What is this? The case for continually questioning our online experience](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
 * [2025-08-25, 07:58:56](https://news.ycombinator.com/item?id=45011404) - [About Containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
 * [2025-08-25, 07:12:22](https://news.ycombinator.com/item?id=45011158) - [On the screen, Libyans learned about everything but themselves (2021)](https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/)
 * [2025-08-25, 05:30:00](https://soylentnews.org/article.pl?sid=25/08/24/1253242&amp;from=rss) - [Radio Waves Can Strengthen Sense of Smell](https://soylentnews.org/article.pl?sid=25/08/24/1253242&amp;from=rss)
 * [2025-08-25, 00:50:00](https://soylentnews.org/article.pl?sid=25/08/23/2218218&amp;from=rss) - [Creative Commons Becomes an Official UNESCO NGO Partner](https://soylentnews.org/article.pl?sid=25/08/23/2218218&amp;from=rss)
 * [2025-08-24, 22:35:23](https://news.ycombinator.com/item?id=45008434) - [Nvidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 * [2025-08-24, 20:03:00](https://soylentnews.org/article.pl?sid=25/08/23/2216200&amp;from=rss) - [U.S. Government Now Holds 10% Stake in Intel](https://soylentnews.org/article.pl?sid=25/08/23/2216200&amp;from=rss)
-* [2025-08-24, 17:03:44](https://news.ycombinator.com/item?id=45005823) - [&apos;Rocks as big as cars&apos; are flying down the Dolomites](https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling)
 * [2025-08-24, 15:18:00](https://soylentnews.org/article.pl?sid=25/08/23/1053236&amp;from=rss) - [‘Quiet Cracking’ is Spreading in Offices: Half of Workers are at Breaking Point](https://soylentnews.org/article.pl?sid=25/08/23/1053236&amp;from=rss)
 * [2025-08-24, 10:36:00](https://soylentnews.org/article.pl?sid=25/08/22/079224&amp;from=rss) - [Turning the Lights Back on](https://soylentnews.org/article.pl?sid=25/08/22/079224&amp;from=rss)
 * [2025-08-24, 05:52:00](https://soylentnews.org/article.pl?sid=25/08/22/073206&amp;from=rss) - [Scientists Develop Interface That ‘Reads’ Thoughts From Speech-Impaired Patients](https://soylentnews.org/article.pl?sid=25/08/22/073206&amp;from=rss)
