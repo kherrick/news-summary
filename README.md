@@ -1,48 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Advances
+## Innovative Science and Technology
 
-* [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - Mercedes showcases groundbreaking five-minute charging for BEVs alongside new speed records. [Comments](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
+* [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss) - A fascinating study on how controlled breathing techniques can achieve altered states of mind.
 
-* [Florida Deploys Robot Rabbits To Control Invasive Burmese Python Population](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A unique solution using robot rabbits to address invasive pythons in Florida. [Comments](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Nanoparticles Turn Houseplants Into Night Lights](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists have developed a technology that enables houseplants to emit light at night using nanoparticles.
 
-* [Microsoft&apos;s Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - Reflecting on how Windows 95 revolutionized technology and pop culture. [Comments](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss)
+* [Florida Deploys Robot Rabbits To Control Invasive Burmese Python Population](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn how Florida is using robotic rabbits to address ecological issues caused by invasive Burmese pythons.
 
-## Artificial Intelligence and Security
+## Advancements in Artificial Intelligence
 
-* [Unpacking Passkeys Pwned: Possibly the most specious research in decades](https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/) - A critical analysis of emerging research about alleged passkey vulnerabilities. [Comments](https://lobste.rs/s/ada1u6/unpacking_passkeys_pwned_possibly_most)
+* [Microsoft Reveals Two In-House AI Models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft shares details of their latest AI innovations and models.
 
-* [Microsoft Reveals Two In-House AI Models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft announces its latest development efforts in artificial intelligence. [Comments](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Anthropic Will Start Training Its AI Models on Chat Transcripts](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new initiative to use chat transcripts in training AI for superior conversational capabilities.
 
-* [Anthropic Will Start Training Its AI Models on Chat Transcripts](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New AI training techniques involve utilizing chat transcripts for model enhancements. [Comments](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html) - A study reveals generative AI's impact on job availability for young professionals in the U.S.
 
-## Software and Programming
+## Intriguing Technological Updates
 
-* [Java 25&apos;s new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/) - A deep dive into Java's latest tool for precise performance profiling. [Comments](https://lobste.rs/s/34087c/java_25_s_new_cpu_time_profiler)
+* [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - Mercedes showcases cutting-edge technology for fast-charging electric vehicles.
 
-* [Expert LSP: Official Elixir Language Server](https://github.com/elixir-lang/expert) - A dedicated new Elixir language server enhances developer experience. [Comments](https://lobste.rs/s/gft7eu/expert_lsp_official_elixir_language)
+* [Amtrak's New 160mph Acela Trains Take Just As Long As the Old Ones](https://tech.slashdot.org/story/25/08/28/2128257/amtraks-new-160mph-acela-trains-take-just-as-long-as-the-old-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - High-speed trains with limitations that raise questions about infrastructure bottlenecks.
 
-* [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/) - Exploring how advancements in CSS reduce reliance on JavaScript. [Comments](https://news.ycombinator.com/item?id=45056878)
+* [FFmpeg 8 Can Now Subtitle Your Videos on the Fly](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The latest update to FFmpeg brings advanced real-time video subtitling capabilities.
 
-## Science and Environment
+## Cybersecurity Challenges and Updates
 
-* [Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research highlights startling levels of microplastic inhalation. [Comments](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [TransUnion Says Hackers Stole 4.4 Million Customers' Personal Information](https://it.slashdot.org/story/25/08/28/1758241/transunion-says-hackers-stole-44-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach affecting millions of customers prompts fresh concerns about cybersecurity.
 
-* [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss) - A fascinating look at convergent evolution in blind cavefish species. [Comments](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss)
+* [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html) - An alert about vulnerable Libxslt software with critical unpatched bugs.
 
-## Retro Tech and Historical Insights
+* [Unpacking Passkeys Pwned: Possibly the most specious research in decades](https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/) - A critique of controversial security research claiming passkeys are easily compromised.
 
-* [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/) - An analysis of quirky CPU behaviors impacting performance. [Comments](https://news.ycombinator.com/item?id=45057346)
+## Eco Innovations and Challenges
 
-* [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/) - Creative efforts to reimagine the Minecraft world with spherical landscapes. [Comments](https://lobste.rs/s/bnc3ue/making_minecraft_spherical)
+* [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss) - SpaceX continues pushing frontiers with the latest Dragon mission.
 
-* [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot) - Unearthing the culinary and cultural importance of a unique fruit. [Comments](https://news.ycombinator.com/item?id=45041879)
+* [Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Eye-opening research about airborne microplastics and their health implications.
 
-## Social Changes and Policies
+* [Canadian EV Sales Collapse by 35% as Gas Car Purchases Surge](https://soylentnews.org/article.pl?sid=25/08/26/0050212&amp;from=rss) - Why electric vehicle sales are faltering in Canada amidst a resurgence in traditional car purchases.
 
-* [Japanese Town Proposes Two-Hour Daily Limit on Smartphones](https://slashdot.org/story/25/08/28/186258/japanese-town-proposes-two-hour-daily-limit-on-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold initiative to tackle screen time among residents. [Comments](https://slashdot.org/story/25/08/28/186258/japanese-town-proposes-two-hour-daily-limit-on-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Fun and Curious Topics
 
-* [An Empty Strip and Fewer Tips: is Las Vegas in Trouble?](https://soylentnews.org/article.pl?sid=25/08/27/2323243&amp;from=rss) - Examining the economic challenges and slowdown in tourism affecting Las Vegas. [Comments](https://soylentnews.org/article.pl?sid=25/08/27/2323243&amp;from=rss)
+* [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&amp;torchCursor=true&amp;comicSans=true&amp;fakeCursors=true&amp;peskyFly=true) - A tool for injecting humorous chaos into any website.
+
+* [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/) - Explore a novel twist where the iconic Minecraft world becomes spherical.
+
+* [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0) - A captivating video sharing the history and evolution of the popular Python programming language.
 
 ---
 
@@ -69,6 +73,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-29, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss) - [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss)
+* [2025-08-29, 07:00:00](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nanoparticles Turn Houseplants Into Night Lights](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
+* [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-29, 05:40:59](https://lobste.rs/s/fok4qx/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2025-08-29, 05:03:14](https://lobste.rs/s/ydjspd/case_for_writing_coding_manually) - [The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
@@ -88,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - [Microsoft&apos;s Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss)
 * [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 23:20:00](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FFmpeg 8 Can Now Subtitle Your Videos on the Fly](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-28, 23:04:01](https://news.ycombinator.com/item?id=45058024) - [RSS is awesome](https://evanverma.com/rss-is-awesome)
 * [2025-08-28, 22:40:00](https://slashdot.org/story/25/08/28/1823233/microsofts-copilot-ai-is-now-inside-samsung-tvs-and-monitors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Copilot AI is Now Inside Samsung TVs and Monitors](https://slashdot.org/story/25/08/28/1823233/microsofts-copilot-ai-is-now-inside-samsung-tvs-and-monitors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert&apos;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 22:00:00](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Refuses To Divulge Data Flows To Police Scotland](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-28, 18:01:00](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers) - [Block ads and trackers](https://lichess.org/ads)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain&lt;T&gt;](https://nshipster.com/uncertainty/)
-* [2025-08-28, 17:20:00](https://slashdot.org/story/25/08/28/1540255/solo-founders-are-battling-silicon-valleys-biggest-bias?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solo Founders Are Battling Silicon Valley&apos;s Biggest Bias](https://slashdot.org/story/25/08/28/1540255/solo-founders-are-battling-silicon-valleys-biggest-bias?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
 * [2025-08-28, 16:43:05](https://news.ycombinator.com/item?id=45054260) - [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
 * [2025-08-28, 16:22:02](https://news.ycombinator.com/item?id=45054040) - [Launch HN: Dedalus Labs (YC S25) – Vercel for Agents](https://news.ycombinator.com/item?id=45054040)
@@ -138,12 +144,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss)
 * [2025-08-28, 00:04:00](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss) - [Xz Format Inadequate for General Use](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss)
 * [2025-08-27, 19:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1222255&amp;from=rss) - [Google Will Require Developer Verification to Install Android Apps, Including Sideloading](https://soylentnews.org/article.pl?sid=25/08/27/1222255&amp;from=rss)
-* [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
-* [2025-08-27, 16:34:31](https://news.ycombinator.com/item?id=45041879) - [A forgotten medieval fruit with a vulgar name (2021)](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&amp;from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&amp;from=rss)
 * [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss)
+* [2025-08-27, 08:39:32](https://news.ycombinator.com/item?id=45036944) - [Show HN: Vectorless RAG](https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb)
 * [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to learn for math for modeling?](https://news.ycombinator.com/item?id=45036708)
 * [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
+* [2025-08-27, 07:41:37](https://news.ycombinator.com/item?id=45036603) - [Show HN: Envoy – Command Logger](https://github.com/heyyviv/envoy)
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can&apos;t code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss)
 * [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss)
@@ -153,7 +159,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-26, 10:02:00](https://soylentnews.org/article.pl?sid=25/08/25/197208&amp;from=rss) - [Does 3I/ATLAS Generate its Own Light?](https://soylentnews.org/article.pl?sid=25/08/25/197208&amp;from=rss)
 * [2025-08-26, 05:16:00](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss) - [Revolutionary AI Tech Breathes Life Into Virtual Companion Animals](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss)
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss)
-* [2025-08-25, 21:35:45](https://news.ycombinator.com/item?id=45019329) - [How life-size cows made of butter became an iconic symbol of the Midwest](https://www.smithsonianmag.com/smithsonian-institution/how-life-size-cows-made-of-butter-became-an-iconic-symbol-of-the-midwest-180987208/)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss)
 * [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss)
