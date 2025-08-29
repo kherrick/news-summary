@@ -1,52 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovative Science and Technology
+## AI and Technology Impact
 
-* [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss) - A fascinating study on how controlled breathing techniques can achieve altered states of mind.
+* [Meta might be secretly scanning your phone's camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/) [(comments)](https://news.ycombinator.com/item?id=45062910)
 
-* [Nanoparticles Turn Houseplants Into Night Lights](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists have developed a technology that enables houseplants to emit light at night using nanoparticles.
+* [Anthropic reverses privacy stance, will train on Claude chats](https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ) [(comments)](https://news.ycombinator.com/item?id=45062683)
 
-* [Florida Deploys Robot Rabbits To Control Invasive Burmese Python Population](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn how Florida is using robotic rabbits to address ecological issues caused by invasive Burmese pythons.
+* [Microsoft reveals two in-house AI models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) [(comments)](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Advancements in Artificial Intelligence
+* [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/) [(comments)](https://lobste.rs/s/bnc3ue/making_minecraft_spherical)
 
-* [Microsoft Reveals Two In-House AI Models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft shares details of their latest AI innovations and models.
+## Innovative Developments
 
-* [Anthropic Will Start Training Its AI Models on Chat Transcripts](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new initiative to use chat transcripts in training AI for superior conversational capabilities.
+* [Nanoparticles Turn Houseplants Into Night Lights](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&utm_medium=feed) [(comments)](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html) - A study reveals generative AI's impact on job availability for young professionals in the U.S.
+* [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/08/28/1214205&from=rss)
 
-## Intriguing Technological Updates
+* [Florida Deploys Robot Rabbits To Control Invasive Burmese Python Population](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&utm_medium=feed) [(comments)](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - Mercedes showcases cutting-edge technology for fast-charging electric vehicles.
+## Privacy and Security
 
-* [Amtrak's New 160mph Acela Trains Take Just As Long As the Old Ones](https://tech.slashdot.org/story/25/08/28/2128257/amtraks-new-160mph-acela-trains-take-just-as-long-as-the-old-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - High-speed trains with limitations that raise questions about infrastructure bottlenecks.
+* [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html) [(comments)](https://news.ycombinator.com/item?id=45060004)
 
-* [FFmpeg 8 Can Now Subtitle Your Videos on the Fly](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The latest update to FFmpeg brings advanced real-time video subtitling capabilities.
+* [Microsoft Refuses To Divulge Data Flows To Police Scotland](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&utm_medium=feed) [(comments)](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cybersecurity Challenges and Updates
+## Culture and Critical Reflections
 
-* [TransUnion Says Hackers Stole 4.4 Million Customers' Personal Information](https://it.slashdot.org/story/25/08/28/1758241/transunion-says-hackers-stole-44-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach affecting millions of customers prompts fresh concerns about cybersecurity.
+* [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx) [(comments)](https://news.ycombinator.com/item?id=45057404)
 
-* [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html) - An alert about vulnerable Libxslt software with critical unpatched bugs.
-
-* [Unpacking Passkeys Pwned: Possibly the most specious research in decades](https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/) - A critique of controversial security research claiming passkeys are easily compromised.
-
-## Eco Innovations and Challenges
-
-* [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss) - SpaceX continues pushing frontiers with the latest Dragon mission.
-
-* [Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Eye-opening research about airborne microplastics and their health implications.
-
-* [Canadian EV Sales Collapse by 35% as Gas Car Purchases Surge](https://soylentnews.org/article.pl?sid=25/08/26/0050212&amp;from=rss) - Why electric vehicle sales are faltering in Canada amidst a resurgence in traditional car purchases.
-
-## Fun and Curious Topics
-
-* [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&amp;torchCursor=true&amp;comicSans=true&amp;fakeCursors=true&amp;peskyFly=true) - A tool for injecting humorous chaos into any website.
-
-* [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/) - Explore a novel twist where the iconic Minecraft world becomes spherical.
-
-* [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0) - A captivating video sharing the history and evolution of the popular Python programming language.
+* [Microsoft's Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss) [(comments)](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss)
 
 ---
 
@@ -73,19 +55,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-08-29, 12:01:52](https://news.ycombinator.com/item?id=45062914) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2025-08-29, 12:01:31](https://news.ycombinator.com/item?id=45062910) - [Meta might be secretly scanning your phone&apos;s camera roll](https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/)
+* [2025-08-29, 11:39:26](https://news.ycombinator.com/item?id=45062738) - [If you have a Claude account, they&apos;re going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
+* [2025-08-29, 11:29:10](https://news.ycombinator.com/item?id=45062683) - [Anthropic reverses privacy stance, will train on Claude chats](https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ)
+* [2025-08-29, 11:19:49](https://lobste.rs/s/7ecrz1/style_your_underlines) - [Style your underlines](https://adactio.com/journal/22084)
+* [2025-08-29, 11:15:39](https://news.ycombinator.com/item?id=45062614) - [Tesla said it didn&apos;t have key data in a fatal crash. Then a hacker found it](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/)
+* [2025-08-29, 10:15:58](https://news.ycombinator.com/item?id=45062274) - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
+* [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I&apos;ve Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
+* [2025-08-29, 10:00:00](https://slashdot.org/story/25/08/29/0037244/taco-bells-ai-drive-thru-plan-gets-caught-up-on-trolls-and-glitches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Taco Bell&apos;s AI Drive-Thru Plan Gets Caught Up On Trolls and Glitches](https://slashdot.org/story/25/08/29/0037244/taco-bells-ai-drive-thru-plan-gets-caught-up-on-trolls-and-glitches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-29, 09:28:50](https://news.ycombinator.com/item?id=45061980) - [Probability of typing a wrong Bitcoin address](https://www.johndcook.com/blog/2025/08/28/wrong-address/)
 * [2025-08-29, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss) - [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss)
+* [2025-08-29, 08:42:40](https://news.ycombinator.com/item?id=45061689) - [Contrastive Representations for Temporal Reasoning](https://princeton-rl.github.io/CRTR/)
 * [2025-08-29, 07:00:00](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nanoparticles Turn Houseplants Into Night Lights](https://science.slashdot.org/story/25/08/29/0030247/nanoparticles-turn-houseplants-into-night-lights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-08-29, 06:44:07](https://lobste.rs/s/gcsmnd/primitive_tortureboard) - [The primitive tortureboard](https://aresluna.org/the-primitive-tortureboard/)
 * [2025-08-29, 06:37:21](https://news.ycombinator.com/item?id=45060920) - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
-* [2025-08-29, 05:40:59](https://lobste.rs/s/fok4qx/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
+* [2025-08-29, 05:40:59](https://lobste.rs/s/fok4qx/which_parsing_approach_2020) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2025-08-29, 05:03:14](https://lobste.rs/s/ydjspd/case_for_writing_coding_manually) - [The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
 * [2025-08-29, 04:22:48](https://news.ycombinator.com/item?id=45060161) - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
 * [2025-08-29, 03:57:46](https://news.ycombinator.com/item?id=45060004) - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
 * [2025-08-29, 03:54:25](https://lobste.rs/s/ada1u6/unpacking_passkeys_pwned_possibly_most) - [Unpacking Passkeys Pwned: Possibly the most specious research in decades](https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/)
 * [2025-08-29, 03:30:00](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Florida Deploys Robot Rabbits To Control Invasive Burmese Python Population](https://hardware.slashdot.org/story/25/08/28/217230/florida-deploys-robot-rabbits-to-control-invasive-burmese-python-population?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-29, 02:39:44](https://news.ycombinator.com/item?id=45059470) - [A deep dive into Debian 13 /tmp: What&apos;s new, and what to do if you don&apos;t like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
-* [2025-08-29, 02:15:46](https://lobste.rs/s/34087c/java_25_s_new_cpu_time_profiler) - [Java 25&apos;s new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-08-29, 02:02:00](https://tech.slashdot.org/story/25/08/28/2128257/amtraks-new-160mph-acela-trains-take-just-as-long-as-the-old-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amtrak&apos;s New 160mph Acela Trains Take Just As Long As the Old Ones](https://tech.slashdot.org/story/25/08/28/2128257/amtraks-new-160mph-acela-trains-take-just-as-long-as-the-old-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-29, 01:55:14](https://news.ycombinator.com/item?id=45059160) - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
 * [2025-08-29, 01:25:00](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Reveals Two In-House AI Models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,19 +86,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-29, 00:44:27](https://news.ycombinator.com/item?id=45058688) - [Claude Sonnet will ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 * [2025-08-29, 00:02:00](https://tech.slashdot.org/story/25/08/28/2052249/stellantis-shelves-level-3-driver-assistance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stellantis Shelves Level 3 Driver-Assistance Program](https://tech.slashdot.org/story/25/08/28/2052249/stellantis-shelves-level-3-driver-assistance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - [Microsoft&apos;s Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss)
-* [2025-08-28, 23:27:27](https://news.ycombinator.com/item?id=45058171) - [Python: The Documentary [video]](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [2025-08-28, 23:20:00](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FFmpeg 8 Can Now Subtitle Your Videos on the Fly](https://news.slashdot.org/story/25/08/28/1844210/ffmpeg-8-can-now-subtitle-your-videos-on-the-fly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 22:40:00](https://slashdot.org/story/25/08/28/1823233/microsofts-copilot-ai-is-now-inside-samsung-tvs-and-monitors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Copilot AI is Now Inside Samsung TVs and Monitors](https://slashdot.org/story/25/08/28/1823233/microsofts-copilot-ai-is-now-inside-samsung-tvs-and-monitors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 22:02:28](https://news.ycombinator.com/item?id=45057561) - [Rupert&apos;s Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 22:00:00](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Refuses To Divulge Data Flows To Police Scotland](https://slashdot.org/story/25/08/28/1815208/microsoft-refuses-to-divulge-data-flows-to-police-scotland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-28, 21:57:40](https://news.ycombinator.com/item?id=45057513) - [An eyecare foundation model for clinical assistance](https://www.nature.com/articles/s41591-025-03900-7)
 * [2025-08-28, 21:44:47](https://news.ycombinator.com/item?id=45057404) - [The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
-* [2025-08-28, 21:39:18](https://news.ycombinator.com/item?id=45057346) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 * [2025-08-28, 21:36:41](https://lobste.rs/s/ikj4ff/flat_monthly_subscription_open_source) - [A flat monthly subscription to open-source LLMs](https://synthetic.new/newsletter/entries/subscriptions)
 * [2025-08-28, 21:36:36](https://news.ycombinator.com/item?id=45057322) - [Expert: LSP for Elixir](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:22:00](https://tech.slashdot.org/story/25/08/28/1816210/imgurs-community-is-in-full-revolt-against-its-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Imgur&apos;s Community Is In Full Revolt Against Its Owner](https://tech.slashdot.org/story/25/08/28/1816210/imgurs-community-is-in-full-revolt-against-its-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 21:04:36](https://news.ycombinator.com/item?id=45057020) - [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&amp;torchCursor=true&amp;comicSans=true&amp;fakeCursors=true&amp;peskyFly=true)
-* [2025-08-28, 20:49:34](https://news.ycombinator.com/item?id=45056878) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 20:41:00](https://slashdot.org/story/25/08/28/186258/japanese-town-proposes-two-hour-daily-limit-on-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japanese Town Proposes Two-Hour Daily Limit on Smartphones](https://slashdot.org/story/25/08/28/186258/japanese-town-proposes-two-hour-daily-limit-on-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 20:02:00](https://yro.slashdot.org/story/25/08/28/182244/us-to-publish-economic-data-on-blockchain-commerce-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US To Publish Economic Data On Blockchain, Commerce Chief Says](https://yro.slashdot.org/story/25/08/28/182244/us-to-publish-economic-data-on-blockchain-commerce-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -114,14 +102,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-28, 19:38:20](https://news.ycombinator.com/item?id=45056177) - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
 * [2025-08-28, 19:20:00](https://it.slashdot.org/story/25/08/28/1758241/transunion-says-hackers-stole-44-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TransUnion Says Hackers Stole 4.4 Million Customers&apos; Personal Information](https://it.slashdot.org/story/25/08/28/1758241/transunion-says-hackers-stole-44-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss)
-* [2025-08-28, 18:52:33](https://lobste.rs/s/q2lbzh/newton_data_storage) - [Newton Data Storage](http://www.canicula.com/newton/prog/soups.htm)
 * [2025-08-28, 18:52:00](https://news.ycombinator.com/item?id=45055641) - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
 * [2025-08-28, 18:41:00](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Will Start Training Its AI Models on Chat Transcripts](https://yro.slashdot.org/story/25/08/28/1643241/anthropic-will-start-training-its-ai-models-on-chat-transcripts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-28, 18:35:46](https://news.ycombinator.com/item?id=45055452) - [Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/)
 * [2025-08-28, 18:34:29](https://news.ycombinator.com/item?id=45055439) - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
 * [2025-08-28, 18:13:13](https://lobste.rs/s/bnc3ue/making_minecraft_spherical) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
-* [2025-08-28, 18:01:00](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds](https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers) - [Block ads and trackers](https://lichess.org/ads)
 * [2025-08-28, 17:22:54](https://news.ycombinator.com/item?id=45054703) - [Uncertain&lt;T&gt;](https://nshipster.com/uncertainty/)
 * [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
@@ -133,7 +118,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-28, 14:13:44](https://news.ycombinator.com/item?id=45052423) - [AI adoption linked to 13% decline in jobs for young U.S. workers: study](https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html)
 * [2025-08-28, 14:12:47](https://lobste.rs/s/ib1oea/i_ll_only_buy_devices_with_grapheneos) - [I&apos;ll only buy devices with GrapheneOS](https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/)
 * [2025-08-28, 13:37:12](https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd)
-* [2025-08-28, 12:37:01](https://lobste.rs/s/miidtt/rupert_s_property_cut_hole_polyhedron_big) - [Rupert’s property: cut a hole in a polyhedron big enough for an identical copy to slide through](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 12:32:36](https://lobste.rs/s/wrxf8l/group_borrowing_zero_cost_memory_safety) - [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 * [2025-08-28, 12:19:10](https://lobste.rs/s/luvy7m/guessing_game_haskell_style) - [Guessing game: Haskell style](https://entropicthoughts.com/guessing-game-haskell-style)
 * [2025-08-28, 12:13:29](https://lobste.rs/s/hfp00w/gmp_damages_amd_zen_5_cpus) - [GMP damages AMD Zen 5 CPUs](https://gmplib.org/gmp-zen5)
@@ -147,9 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-27, 14:34:00](https://soylentnews.org/article.pl?sid=25/08/26/1126243&amp;from=rss) - [Postal Services Around the World Suspend Deliveries to US: How Will It Affect You?](https://soylentnews.org/article.pl?sid=25/08/26/1126243&amp;from=rss)
 * [2025-08-27, 09:48:00](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss) - [Scientists Pioneer Sustainable Carbon Capture From Shrimp Waste](https://soylentnews.org/article.pl?sid=25/08/26/1117241&amp;from=rss)
 * [2025-08-27, 08:39:32](https://news.ycombinator.com/item?id=45036944) - [Show HN: Vectorless RAG](https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb)
-* [2025-08-27, 07:57:01](https://news.ycombinator.com/item?id=45036708) - [Ask HN: What to learn for math for modeling?](https://news.ycombinator.com/item?id=45036708)
-* [2025-08-27, 07:55:43](https://news.ycombinator.com/item?id=45036704) - [Thrashing](https://exple.tive.org/blarg/2025/08/26/thrashing/)
-* [2025-08-27, 07:41:37](https://news.ycombinator.com/item?id=45036603) - [Show HN: Envoy – Command Logger](https://github.com/heyyviv/envoy)
+* [2025-08-27, 08:05:09](https://news.ycombinator.com/item?id=45036761) - [Show HN: Auto-Match – How We Built Receipt-to-Transaction Matching (Open Source)](https://midday.ai/updates/automatic-reconciliation-engine/)
 * [2025-08-27, 05:10:53](https://news.ycombinator.com/item?id=45035684) - [AI coding made me faster, but I can&apos;t code to music anymore](https://www.praf.me/ai-coding)
 * [2025-08-27, 05:03:00](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss) - [Trump Threatens Taxes, Bans, for Nations That Tax Big Tech](https://soylentnews.org/politics/article.pl?sid=25/08/26/1113220&amp;from=rss)
 * [2025-08-27, 00:16:00](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss) - [Twenty Years After Katrina: How Levee Failures Changed America](https://soylentnews.org/article.pl?sid=25/08/26/0059245&amp;from=rss)
@@ -160,7 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-26, 05:16:00](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss) - [Revolutionary AI Tech Breathes Life Into Virtual Companion Animals](https://soylentnews.org/article.pl?sid=25/08/25/1248228&amp;from=rss)
 * [2025-08-26, 00:31:00](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss) - [Oops! Earendel, Most Distant Star Ever Discovered, May Not Actually be a Star](https://soylentnews.org/article.pl?sid=25/08/25/1234216&amp;from=rss)
 * [2025-08-25, 19:45:00](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss) - [The 8,000-Year History of Great Salt Lake and its Watershed is Recorded in Sediments](https://soylentnews.org/article.pl?sid=25/08/25/0225208&amp;from=rss)
-* [2025-08-25, 15:03:57](https://news.ycombinator.com/item?id=45014656) - [TuneD is a system tuning service for Linux](https://tuned-project.org/)
+* [2025-08-25, 18:27:31](https://news.ycombinator.com/item?id=45017177) - [Nullable vs. Nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 14:59:00](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss) - [What Happens When AI Comes for Our Fonts?](https://soylentnews.org/article.pl?sid=25/08/24/2253216&amp;from=rss)
 * [2025-08-25, 10:15:00](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss) - [NASA Challenge Winners Cook Up New Industry Developments](https://soylentnews.org/article.pl?sid=25/08/24/136245&amp;from=rss)
 * [2025-08-25, 09:48:53](https://news.ycombinator.com/item?id=45012080) - [Make any site multiplayer in a few lines. Serverless WebRTC matchmaking](https://oxism.com/trystero/)
