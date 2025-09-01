@@ -1,36 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology and Innovation
 
-* [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux) - A Linux equivalent of Microsoft's renowned Process Monitor tool; users can diagnose performance issues using this open-source software. [Comments](https://news.ycombinator.com/item?id=45087748)
+* [First 'AI Music Creator' Signed by Record Label. More Ahead, or Just a Copyright Quandry?](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Commentary on the implications of AI-generated music being signed by record labels, raising questions about creativity and copyright issues.
 
-* [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock) - Practical insights into the cross-compatibility quirks of Nintendo's latest console dock. [Comments](https://news.ycombinator.com/item?id=45087971)
+* [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/) - A deep dive into the mechanics and motivations of JavaScript timer throttling in modern browsers.
 
-* [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/) - An unusual debugging story explaining how VPN settings impacted local system operations. [Comments](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang)
+* [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss) - xAI, Musk's AI venture, makes strides by open-sourcing its Grok 2.5 model.
 
-## AI, Cryptography, and Tech Trends
+* [OpenAI Is Scanning Users' ChatGPT Conversations and Reporting Content To Police](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of OpenAI's policies scanning user conversations for regulatory compliance.
 
-* [400 'Tech Utopian' Refuges Consider New Crypto-Friendly State](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Could new developments in cryptography attract libertarian havens? [Comments](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state)
-
-* [OpenAI Is Scanning Users' ChatGPT Conversations and Reporting Content To Police](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial AI data moderation move sparks broader privacy debates. [Comments](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police)
-
-## Scientific Insights and Breakthroughs
-
-* [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html) - Harnessing solar power to create construction materials on the moon. [Comments](https://news.ycombinator.com/item?id=45086238)
-
-* [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss) - A unique quantum mechanics experiment challenges prior assumptions. [Comments](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss)
-
-## Historical and Cultural Curiosities
-
-* [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html) - A fascinating yet peculiar glance into 19th-century exploration practices. [Comments](https://news.ycombinator.com/item?id=45087815)
-
-* [Plastic Before Plastic: How gutta-percha shaped the 19th century](https://worldhistory.substack.com/p/plastic-before-plastic) - Unveiling the versatile predecessor of modern plastics. [Comments](https://news.ycombinator.com/item?id=45084193)
+* [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html) - Insight into an innovation to construct lunar infrastructure using sunlight and lunar soil.
 
 ## Programming and Development
 
-* [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/) - Delving into updates in the Go programming language. [Comments](https://lobste.rs/s/ifqebf/default_methods_go)
+* [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html) - Reflecting on features left out of the Rust programming language during its initial development.
 
-* [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo) - A developer demonstrates the power of different languages by solving an identical task. [Comments](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages)
+* [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/) - Exploring the introduction of default methods in Go programming.
+
+* [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo) - A comparative exploration showing how the same problem is solved in 16 different programming languages.
+
+* [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/) - Investigating a peculiar interaction between VPN kill-switches and sudo behavior.
+
+## Environment and Science
+
+* [Rare Snail Has a 1-in-40,000 Chance of Finding a Mate. New Zealand Begins the Search](https://news.slashdot.org/story/25/08/30/054244/rare-snail-has-a-1-in-40000-chance-of-finding-a-mate-new-zealand-begins-the-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting conservation efforts to save a critically endangered snail species.
+
+* [Beta Blockers for Heart Attack Survivors: May Have No Benefit for Most, Could Actually Harm Women](https://science.slashdot.org/story/25/08/31/1854245/beta-blockers-for-heart-attack-survivors-may-have-no-benefit-for-most-could-actually-harm-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A critical review of beta blocker usage post-heart attack, focusing on its potential downsides.
+
+## Security and Privacy
+
+* [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&amp;from=rss) - Discussion on vulnerabilities in a phone spyware app and their implications for victims.
+
+* [US Attorneys General Tell AI Companies They 'Will be Held Accountable' for Child Safety Failures](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss) - AI companies face increasing regulatory scrutiny for lapses in safeguarding child safety.
+
+## Cultural and Historical Insights
+
+* [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html) - A quirky historical account of how expedition members left medicinal traces along their path.
+
+* [Microsoft's Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - Celebrating the transformative role of Windows 95 in making software a cultural phenomenon.
 
 ---
 
@@ -57,6 +65,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-01, 03:34:00](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First &apos;AI Music Creator&apos; Signed by Record Label. More Ahead, or Just a Copyright Quandry?](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-01, 01:55:40](https://lobste.rs/s/bgdaix/why_do_browsers_throttle_javascript) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
+* [2025-09-01, 01:17:24](https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015) - [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html)
 * [2025-09-01, 01:09:12](https://lobste.rs/s/ifqebf/default_methods_go) - [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/)
 * [2025-09-01, 00:50:00](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [400 &apos;Tech Utopian&apos; Refuges Consider New Crypto-Friendly State](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 23:21:46](https://news.ycombinator.com/item?id=45087971) - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
@@ -64,10 +75,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss)
 * [2025-08-31, 22:54:26](https://news.ycombinator.com/item?id=45087815) - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
 * [2025-08-31, 22:43:05](https://news.ycombinator.com/item?id=45087748) - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
-* [2025-08-31, 22:34:20](https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992) - [Lively Linear Lisp (1992)](https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf)
+* [2025-08-31, 22:34:20](https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992) - [Lively Linear Lisp (1992)](https://www.plover.com/misc/hbaker-archive/LinearLisp.html)
 * [2025-08-31, 22:19:00](https://slashdot.org/story/25/08/31/2216231/humans-are-being-hired-to-make-ai-slop-look-less-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Are Being Hired to Make AI Slop Look Less Sloppy](https://slashdot.org/story/25/08/31/2216231/humans-are-being-hired-to-make-ai-slop-look-less-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 21:46:26](https://news.ycombinator.com/item?id=45087396) - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-* [2025-08-31, 21:33:46](https://news.ycombinator.com/item?id=45087313) - [NetSurf on ReMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-31, 21:11:00](https://news.slashdot.org/story/25/08/31/219220/former-us-government-site-climategov-attempts-relaunch-as-non-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former US Government Site Climate.Gov Attempts Relaunch as Non-Profit](https://news.slashdot.org/story/25/08/31/219220/former-us-government-site-climategov-attempts-relaunch-as-non-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 20:47:04](https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor) - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html)
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages) - [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo)
@@ -118,16 +128,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 04:11:05](https://news.ycombinator.com/item?id=45080313) - [A Crack in the Cosmos](https://drb.ie/articles/a-crack-in-the-cosmos/)
 * [2025-08-31, 03:59:00](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss) - [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss)
 * [2025-08-31, 01:34:00](https://tech.slashdot.org/story/25/08/31/015202/what-made-meta-suddenly-ban-tens-of-thousands-of-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Made Meta Suddenly Ban Tens of Thousands of Accounts?](https://tech.slashdot.org/story/25/08/31/015202/what-made-meta-suddenly-ban-tens-of-thousands-of-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-31, 00:56:30](https://lobste.rs/s/q5cjww/quake_s_pvs_hidden_gem_rendering) - [Quake&apos;s PVS: A hidden gem of rendering optimization](https://www.youtube.com/watch?v=IfCRHSIg6zo)
 * [2025-08-31, 00:04:23](https://lobste.rs/s/vn42xa/quirks_common_lisp_types) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)
 * [2025-08-30, 23:14:00](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss) - [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss)
 * [2025-08-30, 23:09:00](https://entertainment.slashdot.org/story/25/08/30/1850237/five-indie-bands-quit-spotify-after-founders-ai-weapons-tech-investment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Five Indie Bands Quit Spotify After Founder&apos;s AI Weapons Tech Investment](https://entertainment.slashdot.org/story/25/08/30/1850237/five-indie-bands-quit-spotify-after-founders-ai-weapons-tech-investment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-30, 22:09:00](https://hardware.slashdot.org/story/25/08/30/2144210/intel-get-57-billion-early-whats-the-governments-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Get $5.7 Billion Early. What&apos;s the Government&apos;s Strategy?](https://hardware.slashdot.org/story/25/08/30/2144210/intel-get-57-billion-early-whats-the-governments-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 18:34:00](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss) - [4chan and Kiwi Farms Sue UK Regulator Ofcom Over Online Censorship Law](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss)
-* [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 * [2025-08-30, 13:51:00](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss) - [US Attorneys General Tell AI Companies They &apos;Will be Held Accountable&apos; for Child Safety Failures](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss)
 * [2025-08-30, 09:04:00](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss) - [ADAS (Driver Assist) Gen 2 From BMW](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss)
@@ -139,8 +146,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
 * [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - [Microsoft&apos;s Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss)
+* [2025-08-28, 23:52:48](https://news.ycombinator.com/item?id=45058349) - [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
+* [2025-08-28, 23:30:48](https://news.ycombinator.com/item?id=45058187) - [Mainframe upgrade done with wire cutters (2010)](https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters)
 * [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss)
-* [2025-08-28, 18:43:51](https://news.ycombinator.com/item?id=45055542) - [PEZ Robo Dispenser Using Arduino](https://www.instructables.com/PEZ-Robo-Dispenser-Using-Arduino/)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 14:22:07](https://news.ycombinator.com/item?id=45052517) - [What brain surgery taught me about the fragile gift of consciousness](https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/)
 * [2025-08-28, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss) - [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss)
