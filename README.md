@@ -1,64 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Tech Industry Innovations and Developments
 
-* [First 'AI Music Creator' Signed by Record Label. More Ahead, or Just a Copyright Quandry?](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/) - [Comments](https://news.ycombinator.com/item?id=45091972)
 
-* [OpenAI Is Scanning Users' ChatGPT Conversations and Reporting Content To Police](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores) - [Comments](https://news.ycombinator.com/item?id=45091921)
 
-* [Humans Are Being Hired to Make AI Slop Look Less Sloppy](https://slashdot.org/story/25/08/31/2216231/humans-are-being-hired-to-make-ai-slop-look-less-sloppy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Blizzard's 'Diablo' Devs Unionize. There's Now 3,500 Unionized Microsoft Workers](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Survey: a third of senior developers say over half their code is AI-generated](https://www.fastly.com/blog/senior-developers-ship-more-ai-code)
+* [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us) - [Comments](https://news.ycombinator.com/item?id=45090216)
 
-* [Are AI Web Crawlers 'Destroying Websites' In Their Hunt for Training Data?](https://tech.slashdot.org/story/25/08/31/1820249/are-ai-web-crawlers-destroying-websites-in-their-hunt-for-training-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [First 'AI Music Creator' Signed by Record Label. More Ahead, or Just a Copyright Quandry?](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Technology and Software
+## Legal and Ethical Issues
 
-* [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
+* [Lawsuit Says Amazon Prime Video Misleads When You 'Buy' a Long-Term Streaming Rental](https://yro.slashdot.org/story/25/09/01/051247/lawsuit-says-amazon-prime-video-misleads-when-you-buy-a-long-term-streaming-rental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://yro.slashdot.org/story/25/09/01/051247/lawsuit-says-amazon-prime-video-misleads-when-you-buy-a-long-term-streaming-rental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [End of (Windows) 10](https://endof10.org/)
+* [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/) - [Comments](https://lobste.rs/s/qejtqj/passkeys_are_incompatible_with_open)
 
-* [A Case Study in Rewriting a Critical Service in Rust](https://wxiaoyun.com/blog/rust-rewrite-case-study/)
+## Programming and Development Insights
 
-* [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)
+* [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547) - [Comments](https://news.ycombinator.com/item?id=45091547)
 
-* [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
+* [Stacked Branches With Lazygit](https://www.youtube.com/watch?v=M6S-9Y8peDY&amp;list=LL&amp;index=133&amp;pp=gAQBiAQB2AbVAg%3D%3D) - [Comments](https://lobste.rs/s/dzkasp/stacked_branches_with_lazygit)
 
-## Health and Science
+## Tech Disruptions and Challenges
 
-* [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&from=rss)
+* [End of (Windows) 10](https://endof10.org/) - [Comments](https://lobste.rs/s/6d8btd/end_windows_10)
 
-* [Beta Blockers for Heart Attack Survivors: May Have No Benefit for Most, Could Actually Harm Women](https://science.slashdot.org/story/25/08/31/1854245/beta-blockers-for-heart-attack-survivors-may-have-no-benefit-for-most-could-actually-harm-women?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/) - [Comments](https://news.ycombinator.com/item?id=45091493)
 
-* [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss)
+* [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss)
 
-* [Rare Snail Has a 1-in-40,000 Chance of Finding a Mate. New Zealand Begins the Search](https://news.slashdot.org/story/25/08/30/054244/rare-snail-has-a-1-in-40000-chance-of-finding-a-mate-new-zealand-begins-the-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## In-Depth Explorations
 
-* [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&from=rss)
+* [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html) - [Comments](https://lobste.rs/s/q5b8bj/what_every_argument_about_sideloading)
 
-## Society and Culture
-
-* [Lawsuit Says Amazon Prime Video Misleads When You 'Buy' a Long-Term Streaming Rental](https://yro.slashdot.org/story/25/09/01/051247/lawsuit-says-amazon-prime-video-misleads-when-you-buy-a-long-term-streaming-rental?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [400 'Tech Utopian' Refuges Consider New Crypto-Friendly State](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Rick Beato vs UMG: Fighting Copyright Claims Over Music Clips on YouTube](https://entertainment.slashdot.org/story/25/08/31/045201/rick-beato-vs-umg-fighting-copyright-claims-over-music-clips-on-youtube?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Smelling This One Specific Scent Can Boost the Brain's Gray Matter](https://science.slashdot.org/story/25/08/31/0621235/smelling-this-one-specific-scent-can-boost-the-brains-gray-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
-
-## History and Perspectives
-
-* [When the sun will literally set on what's left of the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
-
-* [The Internet Roadtrip Pathfinder](https://matdoes.dev/internet-roadtrip-pathfinder)
-
-* [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&from=rss)
-
-* [Microsoft's Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&from=rss)
-
-* [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
+* [A Case Study in Rewriting a Critical Service in Rust](https://wxiaoyun.com/blog/rust-rewrite-case-study/) - [Comments](https://lobste.rs/s/3fwabw/case_study_rewriting_critical_service)
 
 ---
 
@@ -85,14 +63,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-01, 11:53:17](https://news.ycombinator.com/item?id=45091972) - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
+* [2025-09-01, 11:44:56](https://news.ycombinator.com/item?id=45091921) - [Intel Patents &apos;Software Defined Supercore&apos;](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
+* [2025-09-01, 11:34:00](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blizzard&apos;s &apos;Diablo&apos; Devs Unionize. There&apos;s Now 3,500 Unionized Microsoft Workers](https://it.slashdot.org/story/25/09/01/0413204/blizzards-diablo-devs-unionize-theres-now-3500-unionized-microsoft-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-01, 10:46:44](https://news.ycombinator.com/item?id=45091547) - [Show HN: Blueprint: Fast, Nunjucks-like templating engine for Java 8 and beyond](https://news.ycombinator.com/item?id=45091547)
+* [2025-09-01, 10:39:25](https://news.ycombinator.com/item?id=45091493) - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
+* [2025-09-01, 09:30:20](https://lobste.rs/s/q5b8bj/what_every_argument_about_sideloading) - [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-09-01, 09:11:42](https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week)
-* [2025-09-01, 08:54:59](https://news.ycombinator.com/item?id=45090872) - [Tell HN: Use \&quot;-f**k\&quot; to kill Google AI Overview](https://news.ycombinator.com/item?id=45090872)
 * [2025-09-01, 08:44:00](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss) - [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss)
 * [2025-09-01, 08:04:50](https://lobste.rs/s/qejtqj/passkeys_are_incompatible_with_open) - [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
 * [2025-09-01, 07:34:00](https://yro.slashdot.org/story/25/09/01/051247/lawsuit-says-amazon-prime-video-misleads-when-you-buy-a-long-term-streaming-rental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawsuit Says Amazon Prime Video Misleads When You &apos;Buy&apos; a Long-Term Streaming Rental](https://yro.slashdot.org/story/25/09/01/051247/lawsuit-says-amazon-prime-video-misleads-when-you-buy-a-long-term-streaming-rental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-01, 07:01:13](https://news.ycombinator.com/item?id=45090216) - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
 * [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
-* [2025-09-01, 06:23:24](https://lobste.rs/s/kkkmdg/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
+* [2025-09-01, 06:23:24](https://lobste.rs/s/kkkmdg/unholy_saga_phoenix_hyperspace_2023) - [The Unholy Saga of Phoenix Hyperspace (2023)](https://gekk.info/articles/hyperspace.htm)
 * [2025-09-01, 05:28:42](https://lobste.rs/s/dzkasp/stacked_branches_with_lazygit) - [Stacked Branches With Lazygit](https://www.youtube.com/watch?v=M6S-9Y8peDY&amp;list=LL&amp;index=133&amp;pp=gAQBiAQB2AbVAg%3D%3D)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss)
 * [2025-09-01, 03:45:33](https://news.ycombinator.com/item?id=45089256) - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
@@ -116,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages_2021) - [1 Problem, 16 Programming Languages (2021)](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:46:11](https://lobste.rs/s/nyubar/thinking_about_coding) - [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)
-* [2025-08-31, 19:29:23](https://news.ycombinator.com/item?id=45086276) - [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
 * [2025-08-31, 19:27:00](https://science.slashdot.org/story/25/08/31/1854245/beta-blockers-for-heart-attack-survivors-may-have-no-benefit-for-most-could-actually-harm-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Beta Blockers for Heart Attack Survivors: May Have No Benefit for Most, Could Actually Harm Women](https://science.slashdot.org/story/25/08/31/1854245/beta-blockers-for-heart-attack-survivors-may-have-no-benefit-for-most-could-actually-harm-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 19:22:01](https://news.ycombinator.com/item?id=45086210) - [What to do with C++ modules?](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:12:00](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang) - [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/)
@@ -140,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 12:39:47](https://news.ycombinator.com/item?id=45082731) - [“This telegram must be closely paraphrased before being communicated to anyone”](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:14:26](https://news.ycombinator.com/item?id=45082587) - [Why haven&apos;t quantum computers factored 21 yet?](https://algassert.com/post/2500)
 * [2025-08-31, 11:34:00](https://science.slashdot.org/story/25/08/31/0430224/study-young-children-diagnosed-with-adhd-often-prescribed-medication-too-quickly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study: Young Children Diagnosed with ADHD Often Prescribed Medication Too Quickly](https://science.slashdot.org/story/25/08/31/0430224/study-young-children-diagnosed-with-adhd-often-prescribed-medication-too-quickly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-08-31, 10:57:02](https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why) - [Sometimes Software is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 10:44:59](https://lobste.rs/s/rdhzeo/run_legal_lte_network_at_home_for_100) - [Run a legal LTE network at home for $100](https://lantian.pub/en/article/modify-computer/legal-lte-network-at-home-for-100-bucks.lantian/)
 * [2025-08-31, 10:03:32](https://lobste.rs/s/ql4odp/three_years_building_no_code_software_for) - [Three years of building no-code software for grassroots political organizations](https://write.as/conjure-utopia/three-years-of-building-no-code-software-for-political-organizations)
 * [2025-08-31, 08:47:00](https://soylentnews.org/article.pl?sid=25/08/29/2355251&amp;from=rss) - [Transport for London (TfL) Asks Mobile Users to Wear Headphones](https://soylentnews.org/article.pl?sid=25/08/29/2355251&amp;from=rss)
@@ -149,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 04:34:00](https://entertainment.slashdot.org/story/25/08/31/045201/rick-beato-vs-umg-fighting-copyright-claims-over-music-clips-on-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rick Beato vs UMG: Fighting Copyright Claims Over Music Clips on YouTube](https://entertainment.slashdot.org/story/25/08/31/045201/rick-beato-vs-umg-fighting-copyright-claims-over-music-clips-on-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 04:11:05](https://news.ycombinator.com/item?id=45080313) - [A Crack in the Cosmos](https://drb.ie/articles/a-crack-in-the-cosmos/)
 * [2025-08-31, 03:59:00](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss) - [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss)
-* [2025-08-31, 01:34:00](https://tech.slashdot.org/story/25/08/31/015202/what-made-meta-suddenly-ban-tens-of-thousands-of-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Made Meta Suddenly Ban Tens of Thousands of Accounts?](https://tech.slashdot.org/story/25/08/31/015202/what-made-meta-suddenly-ban-tens-of-thousands-of-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-30, 23:14:00](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss) - [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 18:34:00](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss) - [4chan and Kiwi Farms Sue UK Regulator Ofcom Over Online Censorship Law](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss)
@@ -163,18 +143,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-29, 08:45:21](https://news.ycombinator.com/item?id=45061702) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
 * [2025-08-28, 23:59:00](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss) - [Microsoft&apos;s Windows 95 Release Was 30 Years Ago, the First Time Software Was a Pop Culture Smash](https://soylentnews.org/article.pl?sid=25/08/28/1211212&amp;from=rss)
-* [2025-08-28, 23:52:48](https://news.ycombinator.com/item?id=45058349) - [Ford and the Birth of the Model T](https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t)
 * [2025-08-28, 23:30:48](https://news.ycombinator.com/item?id=45058187) - [Mainframe upgrade done with wire cutters (2010)](https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters)
+* [2025-08-28, 22:25:10](https://news.ycombinator.com/item?id=45057734) - [A Review of Nim 2: The Good and Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
 * [2025-08-28, 19:10:00](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss) - [SpaceX’s Latest Dragon Mission Will Breathe More Fire at the Space Station](https://soylentnews.org/article.pl?sid=25/08/27/1455216&amp;from=rss)
+* [2025-08-28, 16:37:02](https://news.ycombinator.com/item?id=45054202) - [Chronicle – idiomatic, type safe event sourcing framework for Go](https://github.com/DeluxeOwl/chronicle)
 * [2025-08-28, 16:29:31](https://news.ycombinator.com/item?id=45054119) - [Pong Clock](https://bigjobby.com/pong/?v=2.0/)
 * [2025-08-28, 15:55:15](https://news.ycombinator.com/item?id=45053764) - [Vibe coding as a coding veteran: from 8-bit assembly to English-as-code](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
-* [2025-08-28, 14:58:28](https://news.ycombinator.com/item?id=45053029) - [Why countries trade with each other while fighting](https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828)
+* [2025-08-28, 15:38:21](https://news.ycombinator.com/item?id=45053555) - [Bash Prompts Collection](https://www.gilesorr.com/bashprompt/prompts/)
 * [2025-08-28, 14:54:37](https://news.ycombinator.com/item?id=45052960) - [C++: Strongly Happens Before?](https://nekrozqliphort.github.io/posts/happens-b4/)
-* [2025-08-28, 14:22:07](https://news.ycombinator.com/item?id=45052517) - [What brain surgery taught me about the fragile gift of consciousness](https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/)
 * [2025-08-28, 14:22:00](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss) - [How the Cavefish Lost its Eyes— Again and Again](https://soylentnews.org/article.pl?sid=25/08/27/1449220&amp;from=rss)
 * [2025-08-28, 13:51:05](https://news.ycombinator.com/item?id=45052191) - [Bayes, Bits and Brains](https://bayesbitsbrains.github.io/)
-* [2025-08-28, 13:32:17](https://news.ycombinator.com/item?id=45051950) - [Hobbyist Maintainers with Thomas DePierre](https://opensourcesecurity.io/2025/2025-06-hobbyist-thomas-depierre/)
-* [2025-08-28, 11:08:40](https://news.ycombinator.com/item?id=45050732) - [Ask HN: Best foundation model for CLM fine-tuning?](https://news.ycombinator.com/item?id=45050732)
 * [2025-08-28, 09:34:00](https://soylentnews.org/article.pl?sid=25/08/27/2323243&amp;from=rss) - [An Empty Strip and Fewer Tips: is Las Vegas in Trouble?](https://soylentnews.org/article.pl?sid=25/08/27/2323243&amp;from=rss)
 * [2025-08-28, 04:52:00](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss) - [Science Marches on](https://soylentnews.org/article.pl?sid=25/08/27/1232257&amp;from=rss)
 * [2025-08-28, 00:04:00](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss) - [Xz Format Inadequate for General Use](https://soylentnews.org/article.pl?sid=25/08/27/1225221&amp;from=rss)
