@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology and Software
+## Technology and Innovation
 
-* [Collecting All Causal Knowledge](https://causenet.org/) explores the potential of aggregating all known causal relationships to advance research and decision-making. [Comments](https://news.ycombinator.com/item?id=45099418)
+* [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html) - An insightful read on tools and techniques for debugging Rustler in the Illumos operating system environment. [Comments](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos)
 
-* [How DuckLake Simplifies Lakehouse Architecture](https://www.youtube.com/watch?v=-PYLFx3FRfQ) dives into streamlining modern data lakehouse structures for efficiency. [Comments](https://lobste.rs/s/4ueg6l/how_ducklake_simplifies_lakehouse)
+* [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat) - Explore the capabilities of WinBoat, enabling effective Windows application integration on Linux systems. [Comments](https://news.ycombinator.com/item?id=45099124)
 
-* [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head) guides developers through mental compilation of Svelte code. [Comments](https://lobste.rs/s/aypgqu/compile_svelte_5_your_head)
+* [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&from=rss) - A look into AMD's future with the potential release of Zen 6 CPUs designed for mobile applications. [Comments](https://soylentnews.org/article.pl?sid=25/08/31/1416227&from=rss)
 
-* [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat) introduces new tools to bridge ecosystems. [Comments](https://news.ycombinator.com/item?id=45099124)
+## Developer Insights
 
-* [Faster linking times with 1.90.0 stable on Linux using the LLD linker](https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/) showcases Rust's improvements to development efficiency. [Comments](https://lobste.rs/s/ukn1u3/faster_linking_times_with_1_90_0_stable_on)
+* [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head) - A deep dive into understanding the internals of Svelte and how to mentally process its compilation. [Comments](https://lobste.rs/s/aypgqu/compile_svelte_5_your_head)
 
-* [Kazeta: An operating system that brings the console gaming experience of 90s](https://kazeta.org/) reimagines retro gaming on modern systems. [Comments](https://news.ycombinator.com/item?id=45098269)
+* [A motto for programmers: "Tuere usorem, data, veritatem"](https://koas.dev/a-motto-for-programming/) - A philosophical approach to programming mottos emphasizing users, data integrity, and truth. [Comments](https://news.ycombinator.com/item?id=45100163)
 
-## AI Developments and Controversies
+* [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z) - A critical take on modern web development frustrations with Next.js. [Comments](https://lobste.rs/s/qk5qw7/next_js_is_infuriating)
 
-* [85% of College Students Report AI Use](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights evolving AI usage in education. [Comments](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cutting-edge AI and Computing
 
-* [AI Crawlers Destroying Websites in Hunger for Content](https://soylentnews.org/article.pl?sid=25/08/31/146226&amp;from=rss) explores the impact of AI scraping on web content integrity. [Comments](https://soylentnews.org/article.pl?sid=25/08/31/146226&amp;from=rss)
+* [85% of College Students Report AI Use](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration into the growing prevalence of AI among students in higher education. [Comments](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights) shares fresh perspectives on AI industry trends. [Comments](https://news.ycombinator.com/item?id=45093090)
+* [Collecting All Causal Knowledge](https://causenet.org/) - An ambitious initiative to systematically catalog and analyze causal relationships across domains. [Comments](https://news.ycombinator.com/item?id=45099418)
 
-* [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss) signals innovation in AI transparency. [Comments](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss)
+* [AI Crawlers Destroying Websites in Hunger for Content](https://soylentnews.org/article.pl?sid=25/08/31/146226&from=rss) - Discourse on the impact of AI scraping tools hungry for data and the implications for online ecosystems. [Comments](https://soylentnews.org/article.pl?sid=25/08/31/146226&from=rss)
 
-## Social and Economic Trends
+## Broader Social and Cultural Trends
 
-* [US Tourism Suffers 8.2% Decline](https://news.slashdot.org/story/25/09/01/2339241/us-tourism-suffers-82-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) delves into tourism's downturn post-pandemic and restructuring challenges. [Comments](https://news.slashdot.org/story/25/09/01/2339241/us-tourism-suffers-82-decline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [US Tourism Suffers 8.2% Decline](https://news.slashdot.org/story/25/09/01/2339241/us-tourism-suffers-82-decline?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of factors contributing to the decline in US tourism. [Comments](https://news.slashdot.org/story/25/09/01/2339241/us-tourism-suffers-82-decline?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Age of Cheap Online Shopping is Ending](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) examines economic trends reshaping e-commerce. [Comments](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2) - New developments in supporting Raspberry Pi 5 with OpenBSD, further enabling hobbyists and developers. [Comments](https://news.ycombinator.com/item?id=45096585)
 
-* [Americans Are Having Less Sex Than Ever](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) investigates societal lifestyle changes. [Comments](https://news.slashdot.org/story/25/09/01/1614253/americans-are-having-less-sex-than-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Kazeta: An operating system that brings the console gaming experience of 90s](https://kazeta.org/) - A nostalgic attempt at reimagining the gaming consoles of the 90s with modern technology. [Comments](https://news.ycombinator.com/item?id=45098269)
 
-## Science and Exploration
+## Historical and Niche Perspectives
 
-* [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss) hints at groundbreaking chip technology. [Comments](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss)
+* [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist) - A fascinating history of how medical innovation gave rise to one of the most prevalent office tools. [Comments](https://news.ycombinator.com/item?id=45089072)
 
-* [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss) challenges established quantum mechanics concepts. [Comments](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss)
+* [Jujutsu for everyone](https://jj-for-everyone.github.io/) - A quirky educational project introducing concepts through jujutsu principles and terminology. [Comments](https://lobste.rs/s/s4fffm/jujutsu_for_everyone)
 
-* [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss) probes cosmic anomalies with groundbreaking findings. [Comments](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss)
+* [Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation](https://notes.hella.cheap/saturation-and-the-triumph-of-history.html) - A unique analytical take on market trends influencing tech company strategies. [Comments](https://lobste.rs/s/ig1k0s/saturation_triumph_history_how_most)
 
 ---
 
@@ -65,12 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
+* [2025-09-02, 07:40:59](https://lobste.rs/s/57djg3/irc_serial_port_s_love_letter_internet) - [IRC - The Serial Port&apos;s love letter to Internet Relay Chat](https://www.youtube.com/watch?v=6UbKenFipjo)
+* [2025-09-02, 07:38:17](https://news.ycombinator.com/item?id=45100163) - [A motto for programmers: \&quot;Tuere usorem, data, veritatem\&quot;](https://koas.dev/a-motto-for-programming/)
+* [2025-09-02, 07:01:01](https://news.ycombinator.com/item?id=45099939) - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
+* [2025-09-02, 06:57:41](https://news.ycombinator.com/item?id=45099922) - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
 * [2025-09-02, 05:26:04](https://news.ycombinator.com/item?id=45099418) - [Collecting All Causal Knowledge](https://causenet.org/)
-* [2025-09-02, 05:02:48](https://lobste.rs/s/4ueg6l/how_ducklake_simplifies_lakehouse) - [How DuckLake Simplifies Lakehouse Architecture](https://www.youtube.com/watch?v=-PYLFx3FRfQ)
 * [2025-09-02, 05:02:07](https://lobste.rs/s/aypgqu/compile_svelte_5_your_head) - [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head)
 * [2025-09-02, 04:24:07](https://news.ycombinator.com/item?id=45099124) - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 * [2025-09-02, 03:44:00](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss) - [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss)
-* [2025-09-02, 03:31:34](https://news.ycombinator.com/item?id=45098867) - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 * [2025-09-02, 03:01:02](https://news.ycombinator.com/item?id=45098722) - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 * [2025-09-02, 02:12:12](https://news.ycombinator.com/item?id=45098411) - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
 * [2025-09-02, 02:00:00](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [85% of College Students Report AI Use](https://news.slashdot.org/story/25/09/01/2328220/85-of-college-students-report-ai-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-01, 18:47:21](https://news.ycombinator.com/item?id=45095460) - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 * [2025-09-01, 18:18:00](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Age of Cheap Online Shopping is Ending](https://slashdot.org/story/25/09/01/1818247/the-age-of-cheap-online-shopping-is-ending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-01, 18:14:00](https://soylentnews.org/article.pl?sid=25/08/31/1355250&amp;from=rss) - [Tesla Denied Having Fatal Crash Data Until a Hacker Found It](https://soylentnews.org/article.pl?sid=25/08/31/1355250&amp;from=rss)
-* [2025-09-01, 17:51:27](https://news.ycombinator.com/item?id=45094953) - [Steve Ballmer Interview](https://www.acquired.fm/episodes/the-steve-ballmer-interview)
 * [2025-09-01, 17:25:08](https://news.ycombinator.com/item?id=45094692) - [One of Britain&apos;s largest stocks of second-hand books ever amassed](https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire)
 * [2025-09-01, 17:15:00](https://it.slashdot.org/story/25/09/01/1621214/azure-budget-alerts-go-berserk-after-microsoft-account-migration-misfire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Azure Budget Alerts Go Berserk After Microsoft Account Migration Misfire](https://it.slashdot.org/story/25/09/01/1621214/azure-budget-alerts-go-berserk-after-microsoft-account-migration-misfire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-01, 16:57:38](https://news.ycombinator.com/item?id=45094421) - [Adaptive LLM routing under budget constraints](https://arxiv.org/abs/2508.21141)
@@ -108,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-01, 15:12:00](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Why Do Waymos Keep Loitering in Front of My House?&apos;](https://tech.slashdot.org/story/25/09/01/1512223/why-do-waymos-keep-loitering-in-front-of-my-house?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-01, 15:01:02](https://news.ycombinator.com/item?id=45093192) - [Ask HN: Who is hiring? (September 2025)](https://news.ycombinator.com/item?id=45093192)
 * [2025-09-01, 14:49:25](https://news.ycombinator.com/item?id=45093090) - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
-* [2025-09-01, 14:43:37](https://news.ycombinator.com/item?id=45093022) - [Effective learning: Rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
 * [2025-09-01, 14:03:00](https://science.slashdot.org/story/25/09/01/143252/our-preoccupation-with-protein-intake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Our Preoccupation With Protein Intake](https://science.slashdot.org/story/25/09/01/143252/our-preoccupation-with-protein-intake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:00](https://soylentnews.org/article.pl?sid=25/08/31/1353201&amp;from=rss) - [Massive Data Breach: Google Warns 2.5 Billion Gmail Users](https://soylentnews.org/article.pl?sid=25/08/31/1353201&amp;from=rss)
@@ -123,9 +124,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss)
 * [2025-09-01, 03:34:00](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First &apos;AI Music Creator&apos; Signed by Record Label. More Ahead, or Just a Copyright Quandry?](https://entertainment.slashdot.org/story/25/09/01/0136236/first-ai-music-creator-signed-by-record-label-more-ahead-or-just-a-copyright-quandry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-01, 03:08:07](https://news.ycombinator.com/item?id=45089072) - [The first inkjet printer was a medical device](https://spectrum.ieee.org/rune-elmqvist)
 * [2025-09-01, 01:55:40](https://lobste.rs/s/bgdaix/why_do_browsers_throttle_javascript) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-01, 01:17:24](https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015) - [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html)
-* [2025-09-01, 01:09:12](https://lobste.rs/s/ifqebf/default_methods_go) - [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/)
 * [2025-09-01, 00:50:00](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [400 &apos;Tech Utopian&apos; Refuges Consider New Crypto-Friendly State](https://yro.slashdot.org/story/25/09/01/0047230/400-tech-utopian-refuges-consider-new-crypto-friendly-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 23:19:00](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Is Scanning Users&apos; ChatGPT Conversations and Reporting Content To Police](https://yro.slashdot.org/story/25/08/31/2311231/openai-is-scanning-users-chatgpt-conversations-and-reporting-content-to-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss)
@@ -143,13 +144,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-30, 13:51:00](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss) - [US Attorneys General Tell AI Companies They &apos;Will be Held Accountable&apos; for Child Safety Failures](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss)
 * [2025-08-30, 09:04:00](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss) - [ADAS (Driver Assist) Gen 2 From BMW](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss)
 * [2025-08-30, 04:21:00](https://soylentnews.org/article.pl?sid=25/08/29/0523215&amp;from=rss) - [A Gentle Introduction to CP/M](https://soylentnews.org/article.pl?sid=25/08/29/0523215&amp;from=rss)
-* [2025-08-30, 00:11:10](https://news.ycombinator.com/item?id=45070800) - [The ice cream truck&apos;s surprising history](https://longreads.com/2025/08/26/ice-cream-truck-history-hysteria/)
 * [2025-08-29, 23:35:00](https://soylentnews.org/article.pl?sid=25/08/27/1236219&amp;from=rss) - [Punycode - an Overview by a Soylentil](https://soylentnews.org/article.pl?sid=25/08/27/1236219&amp;from=rss)
 * [2025-08-29, 18:51:00](https://soylentnews.org/article.pl?sid=25/08/28/1853258&amp;from=rss) - [Linux Foundation Says Yes to NoSQL Via DocumentDB](https://soylentnews.org/article.pl?sid=25/08/28/1853258&amp;from=rss)
 * [2025-08-29, 14:07:00](https://soylentnews.org/article.pl?sid=25/08/28/1849238&amp;from=rss) - [Large Reasoning Models Hitting Limits, Say Apple Researchers](https://soylentnews.org/article.pl?sid=25/08/28/1849238&amp;from=rss)
+* [2025-08-29, 13:23:18](https://news.ycombinator.com/item?id=45063789) - [Animated Text in Voxel Space](https://www.splats.com/watch/635)
 * [2025-08-29, 12:56:35](https://news.ycombinator.com/item?id=45063502) - [Growing the Java Language [video]](https://www.youtube.com/watch?v=Gz7Or9C0TpM)
-* [2025-08-29, 12:26:48](https://news.ycombinator.com/item?id=45063176) - [Ripple – A TypeScript UI framework that takes the best of React, Solid, Svelte](https://github.com/trueadm/ripple)
 * [2025-08-29, 12:12:57](https://news.ycombinator.com/item?id=45063037) - [The day Return became Enter (2023)](https://aresluna.org/the-day-return-became-enter/)
+* [2025-08-29, 09:40:19](https://news.ycombinator.com/item?id=45062046) - [An LLM is a lossy encyclopedia](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/)
 * [2025-08-29, 09:22:00](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss) - [Breathwork Can Induce Altered States of Consciousness](https://soylentnews.org/article.pl?sid=25/08/28/1843236&amp;from=rss)
 * [2025-08-29, 07:39:52](https://news.ycombinator.com/item?id=45061290) - [Stone Age settlement found under the sea in Denmark](https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d)
 * [2025-08-29, 04:43:00](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss) - [Mercedes Demonstrates Five Minute BEV Charging While Setting Speed Records](https://soylentnews.org/article.pl?sid=25/08/28/1214205&amp;from=rss)
