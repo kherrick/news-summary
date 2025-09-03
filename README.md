@@ -1,52 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Artificial Intelligence and Technology Advancements
 
-* [Waymo Expands to Denver and Seattle](https://tech.slashdot.org/story/25/09/02/2132215/waymo-expands-to-denver-and-seattle?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alphabet's autonomous vehicle subsidiary is broadening its robotaxi services to two new cities, underscoring the technology's growing urban adoption.
+* [Artificial Toy Story: Do AI-Powered Toys Take the Life Out of Playtime?](https://soylentnews.org/article.pl?sid=25/09/02/0359228&amp;from=rss) - Thorough exploration of the impact of AI on traditional playtime and toys, questioning whether tech substitutes diminish creativity.
 
-* [AI in Schools Isn’t Progress — It’s a Sign of How Far We’ve Strayed from the Purpose of Education](https://soylentnews.org/article.pl?sid=25/09/01/0018253&from=rss) - A critical examination of AI's infusion into educational systems questions its alignment with education's goals.
+* [AI Crawlers Destroying Websites in Hunger for Content](https://soylentnews.org/article.pl?sid=25/08/31/146226&amp;from=rss) - Insights into how AI web scrapers are affecting website performance and integrity.
 
-* [SAP To Invest Over 20 Billion Euros In 'Sovereign Cloud'](https://news.slashdot.org/story/25/09/02/1959258/sap-to-invest-over-20-billion-euros-in-sovereign-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The German enterprise software giant takes a massive leap into cloud innovation with focused investment in data sovereignty.
+* [New Paper Finds Cases of 'AI Psychosis' Manifesting Differently From Schizophrenia](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss) - Academic exploration of the psychological risks associated with AI-related mental health phenomena.
 
-## Cybersecurity and Legal Developments
+## Climate Change and Environmental Issues
 
-* [Frostbyte10 Bugs Put Thousands of Refrigerators At Major Grocery Chains At Risk](https://it.slashdot.org/story/25/09/02/209250/frostbyte10-bugs-put-thousands-of-refrigerators-at-major-grocery-chains-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Vulnerabilities in refrigeration technology expose risks to critical food storage infrastructures.
+* [Dozens of Scientists Find Errors in a New Energy Department Climate Report](https://science.slashdot.org/story/25/09/02/1941215/dozens-of-scientists-find-errors-in-a-new-energy-department-climate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of critical errors flagged by scientists in a government climate report.
 
-* [Google Gets To Keep Chrome But Is Barred From Exclusive Search Deals, Judge Rules](https://yro.slashdot.org/story/25/09/02/2119208/google-gets-to-keep-chrome-but-is-barred-from-exclusive-search-deals-judge-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A ruling limits Google's dominance by restricting exclusive arrangements while maintaining browser rights.
+* [Summer 2025 is the Warmest on Record for the UK](https://news.slashdot.org/story/25/09/02/191239/summer-2025-is-the-warmest-on-record-for-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Coverage of alarming temperature records in the UK as climate change worsens.
 
-* [Hackers Threaten To Submit Artists' Data To AI Models If Art Site Doesn't Pay Up](https://it.slashdot.org/story/25/09/02/1936245/hackers-threaten-to-submit-artists-data-to-ai-models-if-art-site-doesnt-pay-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A chilling ultimatum highlights the intersection of ransomware and artificial intelligence in creative industries.
+## AI Integration in Schools and Ethical Implications
+
+* [AI in Schools Isn’t Progress — It’s a Sign of How Far We’ve Strayed from the Purpose of Education.](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss) - Critical evaluation of artificial intelligence’s role in modern education and its divergence from traditional goals.
+
+## Transportation and Autonomous Vehicles
+
+* [Waymo Expands to Denver and Seattle](https://tech.slashdot.org/story/25/09/02/2132215/waymo-expands-to-denver-and-seattle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Autonomous vehicle company Waymo broadens its operations to two new major cities.
 
 ## Gaming and Entertainment
 
-* [Paramount and Activision Team For 'Call of Duty' Movie](https://games.slashdot.org/story/25/09/02/2111258/paramount-and-activision-team-for-call-of-duty-movie?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Two entertainment powerhouses unite to translate the gaming world of 'Call of Duty' into a cinematic experience.
+* [Paramount and Activision Team For 'Call of Duty' Movie](https://games.slashdot.org/story/25/09/02/2111258/paramount-and-activision-team-for-call-of-duty-movie?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Collaboration between Paramount and Activision brings the popular video game franchise to the big screen.
 
-* [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle) - An open-source game brings the nostalgic Tron-vibe into the modern era using the Rust programming language.
+* [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle) - A new free and open-source game inspired by the Tron universe developed in Rust.
 
-* [32GB of RAM On Track To Become the New Majority For Gamers](https://games.slashdot.org/story/25/09/02/1631203/32gb-of-ram-on-track-to-become-the-new-majority-for-gamers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Advancements in game design and tech hardware standards propel RAM requirements for gaming systems.
+## Cybersecurity Updates
 
-## Science and Space
+* [Frostbyte10 Bugs Put Thousands of Refrigerators At Major Grocery Chains At Risk](https://it.slashdot.org/story/25/09/02/209250/frostbyte10-bugs-put-thousands-of-refrigerators-at-major-grocery-chains-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Security flaws in refrigeration systems pose risks to grocery chains.
 
-* [World’s Largest Neutrino Detector Switches On](https://soylentnews.org/article.pl?sid=25/09/02/0144236&from=rss) - A cutting-edge scientific facility begins its mission to uncover the universe's deepest neutrino mysteries.
+* [Hackers Threaten To Submit Artists' Data To AI Models If Art Site Doesn't Pay Up](https://it.slashdot.org/story/25/09/02/1936245/hackers-threaten-to-submit-artists-data-to-ai-models-if-art-site-doesnt-pay-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Extortion threat underscores the vulnerability of creative platforms.
 
-* [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&from=rss) - A breakthrough in quantum research demonstrates phenomena akin to entanglement without traditional particle involvement.
+## Industry News and Investments
 
-* [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&from=rss) - Insights into AMD's future chip architecture reveal developments in computing technology aimed at mobile applications.
+* [SAP To Invest Over 20 Billion Euros In 'Sovereign Cloud'](https://news.slashdot.org/story/25/09/02/1959258/sap-to-invest-over-20-billion-euros-in-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major cloud infrastructure investments by SAP.
 
-## Environmental Concerns
+* [Anthropic raises $13B Series F](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation) - AI company Anthropic garners significant financial support in its latest funding round.
 
-* [New Study Proves EVs Are Always Cleaner Than Gas Cars](https://tech.slashdot.org/story/25/09/02/1921238/new-study-proves-evs-are-always-cleaner-than-gas-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers cement electric vehicles' environmental benefits compared to traditional internal combustion engines.
+## Personal Technology and Innovations
 
-* [Poor Amazon Rains Linked To Brazil Deforestation](https://news.slashdot.org/story/25/09/02/1649244/poor-amazon-rains-linked-to-brazil-deforestation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A study underscores deforestation's detrimental effects on Brazil's Amazonian ecosystem and water cycle.
+* [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/) - A unique approach to sustainable blogging using a repurposed smartphone.
 
-* [Summer 2025 is the Warmest on Record for the UK](https://news.slashdot.org/story/25/09/02/191239/summer-2025-is-the-warmest-on-record-for-the-uk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The UK faces escalating climate challenges as it logs historically high summer temperatures.
+* [New Study Proves EVs Are Always Cleaner Than Gas Cars](https://tech.slashdot.org/story/25/09/02/1921238/new-study-proves-evs-are-always-cleaner-than-gas-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research supporting environmental advantages of electric vehicles.
 
-## Programming and Software Development
+## Developer Tools and Software Trends
 
-* [Adding #[derive(From)] to Rust](https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html) - A proposal enriches Rust's flexibility with a new code transformation feature.
+* [Adding #[derive(From)] to Rust](https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html) - Exploring a new feature in the Rust programming language.
 
-* [Making XML Human-Readable Without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/) - A guide demonstrates techniques for simplifying XML presentation, avoiding the need for XSLT.
+* [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html) - Insights into a new method of handling a kernel vulnerability.
 
-* [Laravel Inventor Tells Devs To Quit Writing 'Cathedrals of Complexity'](https://developers.slashdot.org/story/25/09/02/1829251/laravel-inventor-tells-devs-to-quit-writing-cathedrals-of-complexity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Laravel's creator warns developers against overarchitected solutions, advocating for simplicity.
+## Space and Beyond
+
+* [World’s Largest Neutrino Detector Switches On](https://soylentnews.org/article.pl?sid=25/09/02/0144236&amp;from=rss) - A groundbreaking project in neutrino research.
 
 ---
 
@@ -73,6 +81,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-03, 03:31:00](https://soylentnews.org/article.pl?sid=25/09/02/0359228&amp;from=rss) - [Artificial Toy Story: Do AI-Powered Toys Take the Life Out of Playtime?](https://soylentnews.org/article.pl?sid=25/09/02/0359228&amp;from=rss)
+* [2025-09-03, 03:25:41](https://lobste.rs/s/0ydman/2025_financial_report_fundraiser) - [2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
+* [2025-09-03, 02:02:00](https://science.slashdot.org/story/25/09/02/1941215/dozens-of-scientists-find-errors-in-a-new-energy-department-climate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dozens of Scientists Find Errors in a New Energy Department Climate Report](https://science.slashdot.org/story/25/09/02/1941215/dozens-of-scientists-find-errors-in-a-new-energy-department-climate-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-03, 01:45:47](https://news.ycombinator.com/item?id=45111405) - [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
 * [2025-09-03, 01:25:00](https://tech.slashdot.org/story/25/09/02/2132215/waymo-expands-to-denver-and-seattle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Expands to Denver and Seattle](https://tech.slashdot.org/story/25/09/02/2132215/waymo-expands-to-denver-and-seattle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-03, 00:45:00](https://games.slashdot.org/story/25/09/02/2111258/paramount-and-activision-team-for-call-of-duty-movie?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Paramount and Activision Team For &apos;Call of Duty&apos; Movie](https://games.slashdot.org/story/25/09/02/2111258/paramount-and-activision-team-for-call-of-duty-movie?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-03, 00:08:54](https://news.ycombinator.com/item?id=45110748) - [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
@@ -86,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-02, 22:46:00](https://soylentnews.org/article.pl?sid=25/09/02/0144236&amp;from=rss) - [World’s Largest Neutrino Detector Switches On](https://soylentnews.org/article.pl?sid=25/09/02/0144236&amp;from=rss)
 * [2025-09-02, 22:40:00](https://news.slashdot.org/story/25/09/02/1959258/sap-to-invest-over-20-billion-euros-in-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SAP To Invest Over 20 Billion Euros In &apos;Sovereign Cloud&apos;](https://news.slashdot.org/story/25/09/02/1959258/sap-to-invest-over-20-billion-euros-in-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-02, 22:00:00](https://slashdot.org/story/25/09/02/1955214/openai-to-acquire-product-testing-startup-statsig-appoints-cto-of-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI To Acquire Product Testing Startup Statsig, Appoints CTO of Applications](https://slashdot.org/story/25/09/02/1955214/openai-to-acquire-product-testing-startup-statsig-appoints-cto-of-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-02, 21:31:37](https://news.ycombinator.com/item?id=45109324) - [You&apos;re Not Interviewing for the Job. You&apos;re Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
 * [2025-09-02, 21:24:00](https://yro.slashdot.org/story/25/09/02/2119208/google-gets-to-keep-chrome-but-is-barred-from-exclusive-search-deals-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Gets To Keep Chrome But Is Barred From Exclusive Search Deals, Judge Rules](https://yro.slashdot.org/story/25/09/02/2119208/google-gets-to-keep-chrome-but-is-barred-from-exclusive-search-deals-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-02, 21:10:20](https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database) - [matrix.org Major Outage - Database Incident (September 2nd 2025)](https://status.matrix.org/incidents/mm9hdm78svgv)
 * [2025-09-02, 21:04:14](https://lobste.rs/s/ei2xvg/kernel_hack_drill_new_approach) - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
@@ -99,8 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-02, 19:33:42](https://lobste.rs/s/1kql5c/making_xml_human_readable_without_xslt) - [Making XML human-readable without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/)
 * [2025-09-02, 19:28:43](https://news.ycombinator.com/item?id=45107891) - [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
 * [2025-09-02, 19:22:00](https://news.slashdot.org/story/25/09/02/191239/summer-2025-is-the-warmest-on-record-for-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Summer 2025 is the Warmest on Record for the UK](https://news.slashdot.org/story/25/09/02/191239/summer-2025-is-the-warmest-on-record-for-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-02, 18:58:00](https://news.ycombinator.com/item?id=45107505) - [Civics is boring, so, let&apos;s encrypt something (2024)](https://queue.acm.org/detail.cfm?id=3703126)
-* [2025-09-02, 18:48:26](https://news.ycombinator.com/item?id=45107364) - [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
 * [2025-09-02, 18:41:00](https://developers.slashdot.org/story/25/09/02/1829251/laravel-inventor-tells-devs-to-quit-writing-cathedrals-of-complexity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Laravel Inventor Tells Devs To Quit Writing &apos;Cathedrals of Complexity&apos;](https://developers.slashdot.org/story/25/09/02/1829251/laravel-inventor-tells-devs-to-quit-writing-cathedrals-of-complexity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-02, 18:18:10](https://news.ycombinator.com/item?id=45106981) - [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
 * [2025-09-02, 18:07:22](https://news.ycombinator.com/item?id=45106846) - [Physically based rendering from first principles](https://imadr.me/pbr/)
@@ -109,7 +118,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-02, 17:59:00](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss) - [New Paper Finds Cases of \&quot;AI Psychosis\&quot; Manifesting Differently From Schizophrenia](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss)
 * [2025-09-02, 17:46:31](https://lobste.rs/s/kjrhtp/python_has_had_async_for_10_years_why_isn_t) - [Python has had async for 10 years -- why isn&apos;t it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:32:08](https://news.ycombinator.com/item?id=45106314) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
-* [2025-09-02, 17:31:52](https://lobste.rs/s/ood3fy/introduction_ada_project_based) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
 * [2025-09-02, 17:28:51](https://lobste.rs/s/yp0rg4/reflections_on_haskell_meta) - [Reflections on Haskell@Meta](https://www.youtube.com/watch?v=gEWBHP0PvRw)
 * [2025-09-02, 17:24:57](https://news.ycombinator.com/item?id=45106189) - [Python has had async for 10 years – why isn&apos;t it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
 * [2025-09-02, 17:22:00](https://news.slashdot.org/story/25/09/02/1643241/youtube-is-pausing-premium-family-plans-if-you-arent-watching-from-the-same-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Is Pausing Premium Family Plans if You Aren&apos;t Watching From the Same Address](https://news.slashdot.org/story/25/09/02/1643241/youtube-is-pausing-premium-family-plans-if-you-arent-watching-from-the-same-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -119,11 +127,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-02, 16:32:11](https://lobste.rs/s/r9akhl/clonos_freebsd_based_distro_for_virtual) - [ClonOS: FreeBSD based distro for virtual hosting platform and appliances](https://clonos.convectix.com/)
 * [2025-09-02, 16:08:31](https://news.ycombinator.com/item?id=45104974) - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974)
 * [2025-09-02, 16:04:15](https://news.ycombinator.com/item?id=45104907) - [Anthropic raises $13B Series F](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
-* [2025-09-02, 16:04:00](https://news.slashdot.org/story/25/09/02/164215/americans-lose-faith-that-hard-work-leads-to-economic-gains-wsj-norc-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds](https://news.slashdot.org/story/25/09/02/164215/americans-lose-faith-that-hard-work-leads-to-economic-gains-wsj-norc-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-02, 15:25:44](https://news.ycombinator.com/item?id=45104303) - [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
 * [2025-09-02, 15:24:48](https://news.ycombinator.com/item?id=45104289) - [The staff ate it later](https://en.wikipedia.org/wiki/The_staff_ate_it_later)
 * [2025-09-02, 15:21:35](https://lobste.rs/s/kahscv/beware_sorting_locales) - [Beware of Sorting Locales](https://www.adrianstoll.com/post/beware-of-sorting-locales/)
-* [2025-09-02, 14:49:40](https://news.ycombinator.com/item?id=45103857) - [Removing Guix from Debian](https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/)
 * [2025-09-02, 14:45:13](https://lobste.rs/s/mt8qo5/wikidata_mundaneum_triumph_commons) - [Wikidata and Mundaneum - The Triumph of the Commons](https://schmud.de/programs/2025-09-02-wikidata-mundaneum.html)
 * [2025-09-02, 14:17:07](https://news.ycombinator.com/item?id=45103436) - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
 * [2025-09-02, 13:14:00](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss) - [The Unix Epochalypse Might be Sooner Than You Think](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss)
@@ -155,10 +161,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-08-31, 08:47:00](https://soylentnews.org/article.pl?sid=25/08/29/2355251&amp;from=rss) - [Transport for London (TfL) Asks Mobile Users to Wear Headphones](https://soylentnews.org/article.pl?sid=25/08/29/2355251&amp;from=rss)
 * [2025-08-31, 05:53:19](https://news.ycombinator.com/item?id=45080683) - [Still Asking: How Good Are Query Optimizers, Really? [pdf]](https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf)
 * [2025-08-31, 03:59:00](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss) - [Scientists Produce Quantum Entanglement-like Results Without Entangled Particles](https://soylentnews.org/article.pl?sid=25/08/29/2346225&amp;from=rss)
+* [2025-08-31, 01:27:06](https://news.ycombinator.com/item?id=45079512) - [Chicago has the most lead pipes in the nation](https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/)
+* [2025-08-30, 23:35:32](https://news.ycombinator.com/item?id=45078962) - [Lisp interpreter with GC in &lt;750 lines of Odin (and &lt;500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-30, 23:14:00](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss) - [Rare Quadruple Star System May Solve the Mystery of Brown Dwarfs](https://soylentnews.org/article.pl?sid=25/08/29/2330255&amp;from=rss)
 * [2025-08-30, 18:34:00](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss) - [4chan and Kiwi Farms Sue UK Regulator Ofcom Over Online Censorship Law](https://soylentnews.org/article.pl?sid=25/08/29/1422213&amp;from=rss)
 * [2025-08-30, 13:51:00](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss) - [US Attorneys General Tell AI Companies They &apos;Will be Held Accountable&apos; for Child Safety Failures](https://soylentnews.org/article.pl?sid=25/08/29/0536231&amp;from=rss)
 * [2025-08-30, 09:04:00](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss) - [ADAS (Driver Assist) Gen 2 From BMW](https://soylentnews.org/article.pl?sid=25/08/29/0527204&amp;from=rss)
 * [2025-08-30, 08:46:05](https://news.ycombinator.com/item?id=45073031) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 04:21:00](https://soylentnews.org/article.pl?sid=25/08/29/0523215&amp;from=rss) - [A Gentle Introduction to CP/M](https://soylentnews.org/article.pl?sid=25/08/29/0523215&amp;from=rss)
+* [2025-08-30, 03:59:45](https://news.ycombinator.com/item?id=45071814) - [Condor&apos;s Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 * [2025-08-30, 02:35:00](https://news.ycombinator.com/item?id=45071457) - [What Happens During Startup?](https://eclecticlight.co/2025/08/29/what-happens-during-startup/)
