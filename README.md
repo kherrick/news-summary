@@ -1,34 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Cultural and Historical Insights
 
-* [Étoilé – desktop built on GNUStep](http://etoileos.com/) - A modern desktop environment leveraging GNUStep for advanced user experiences. [Comments](https://news.ycombinator.com/item?id=45123003)
+* [Melvyn Bragg steps down from presenting *In Our Time*](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/) explores the conclusion of an iconic broadcasting era of the famed BBC program. [Comments](https://news.ycombinator.com/item?id=45124143)
 
-* [Old type-in BASIC games refactored and playable in-browser](https://basic-code.bearblog.dev) - Classic BASIC games have been modernized for web browsers. [Comments](https://lobste.rs/s/cwimuw/old_type_basic_games_refactored_playable)
+* [William Wordsworth's letter: 'The Law of Copyright' (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html) offers a historic lens into a poet's view on intellectual property. [Comments](https://news.ycombinator.com/item?id=45123857)
 
-* [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://tech.slashdot.org/story/25/09/03/2038216/garmin-beats-apple-to-market-with-satellite-connected-smartwatch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Garmin launches a groundbreaking smartwatch with satellite connectivity. [Comments](https://tech.slashdot.org/story/25/09/03/2038216/garmin-beats-apple-to-market-with-satellite-connected-smartwatch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Advancements in Technology
 
-## Open Source and Security
+* [Switzerland Releases Open-Source AI Model Built For Privacy](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights the intersection of tech and privacy-focused innovation. [Comments](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Switzerland Releases Open-Source AI Model Built For Privacy](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An innovative privacy-focused AI model goes open-source. [Comments](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Étoilé – desktop built on GNUStep](http://etoileos.com/) showcases a user-interface concept grounded in open-source principles. [Comments](https://news.ycombinator.com/item?id=45123003)
 
-* [Linux Kernel SMB 0-Day Vulnerability CVE-2025-37899 Uncovered Using ChatGPT o3](https://www.upwind.io/feed/linux-kernel-smb-0-day-vulnerability-cve-2025-37899-uncovered-using-chatgpt-o3) - A critical Linux kernel vulnerability surfaces, discovered through ChatGPT tools. [Comments](https://lobste.rs/s/rbbbdw/linux_kernel_smb_0_day_vulnerability_cve)
+## Artificial Intelligence and Its Impacts
 
-* [CRLite: Fast, Private, and Comprehensive Certificate Revocation Checking in Firefox](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss) - Firefox improves security with an advanced certificate validation mechanism. [Comments](https://soylentnews.org/article.pl?sid=25/09/02/192213&from=rss)
+* [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying) investigates how automation is reshaping labor markets. [Comments](https://news.ycombinator.com/item?id=45121342)
 
-## Artificial Intelligence and Machine Learning
+* [AI Generated 'Boring History' Videos Are Flooding YouTube, Drowning Out Real History](https://news.slashdot.org/story/25/09/03/2028206/ai-generated-boring-history-videos-are-flooding-youtube-drowning-out-real-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) critiques the overwhelming algorithmic content creation. [Comments](https://news.slashdot.org/story/25/09/03/2028206/ai-generated-boring-history-videos-are-flooding-youtube-drowning-out-real-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/) - Deep dive into methodologies for assessing AI agents. [Comments](https://news.ycombinator.com/item?id=45121547)
+## Tech Innovations and Usability
 
-* [AI Generated 'Boring History' Videos Are Flooding YouTube, Drowning Out Real History](https://news.slashdot.org/story/25/09/03/2028206/ai-generated-boring-history-videos-are-flooding-youtube-drowning-out-real-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussion on the impact of cheap AI-generated videos overtaking educational content. [Comments](https://news.slashdot.org/story/25/09/03/2028206/ai-generated-boring-history-videos-are-flooding-youtube-drowning-out-real-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Faster Rust builds on Mac](https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html) presents optimizations in Rust tooling for macOS developers. [Comments](https://lobste.rs/s/mjajol/faster_rust_builds_on_mac)
 
-* [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying) - A report highlights AI's increasing effect on youth employment prospects. [Comments](https://news.ycombinator.com/item?id=45121342)
+* [Git exclude, a handy feature you might not know about](https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/) uncovers a subtle yet powerful feature in Git for developers. [Comments](https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not)
 
-## Cultural Impacts and Psychology
+## Social and Psychological Observations
 
-* [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss) - A study links neural processing differences to conspiracy-theory beliefs. [Comments](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss)
+* [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/) explores human connection in brief interactions. [Comments](https://news.ycombinator.com/item?id=45124003)
 
-* [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss) - Exploration of how music influences cognitive and creative processes. [Comments](https://soylentnews.org/article.pl?sid=25/09/02/1851257&from=rss)
+* [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss) dives into cognitive neuroscience behind certain beliefs. [Comments](https://soylentnews.org/article.pl?sid=25/09/03/0216228&from=rss)
+
+## Historical Artifacts and Literature
+
+* [The 16 year odyssey of 'time, money, wrong turns and frustration' it took to finally emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/) showcases relentless dedication in capturing the past's tech marvel. [Comments](https://lobste.rs/s/kdoksz/16_year_odyssey_time_money_wrong_turns)
 
 ---
 
@@ -55,11 +59,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-04, 06:18:13](https://news.ycombinator.com/item?id=45124143) - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
+* [2025-09-04, 05:58:25](https://lobste.rs/s/mjajol/faster_rust_builds_on_mac) - [Faster Rust builds on Mac](https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html)
+* [2025-09-04, 05:56:29](https://news.ycombinator.com/item?id=45124003) - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
+* [2025-09-04, 05:23:47](https://news.ycombinator.com/item?id=45123857) - [William Wordsworth&apos;s letter: \&quot;The Law of Copyright\&quot; (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
 * [2025-09-04, 03:14:00](https://soylentnews.org/article.pl?sid=25/09/03/0216228&amp;from=rss) - [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&amp;from=rss)
 * [2025-09-04, 02:55:24](https://news.ycombinator.com/item?id=45123003) - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 * [2025-09-04, 02:30:22](https://lobste.rs/s/cwimuw/old_type_basic_games_refactored_playable) - [Old type-in BASIC games refactored and playable in-browser](https://basic-code.bearblog.dev)
-* [2025-09-04, 01:42:17](https://lobste.rs/s/rbbbdw/linux_kernel_smb_0_day_vulnerability_cve) - [Linux Kernel SMB 0-Day Vulnerability CVE-2025-37899 Uncovered Using ChatGPT o3](https://www.upwind.io/feed/linux-kernel-smb-0-day-vulnerability-cve-2025-37899-uncovered-using-chatgpt-o3)
 * [2025-09-04, 01:00:50](https://lobste.rs/s/veies2/welcoming_rust_innovation_lab) - [Welcoming the Rust Innovation Lab](https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/)
+* [2025-09-04, 00:18:16](https://news.ycombinator.com/item?id=45121915) - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 * [2025-09-04, 00:02:00](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Switzerland Releases Open-Source AI Model Built For Privacy](https://news.slashdot.org/story/25/09/03/2125252/switzerland-releases-open-source-ai-model-built-for-privacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-03, 23:52:58](https://news.ycombinator.com/item?id=45121721) - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
 * [2025-09-03, 23:32:57](https://news.ycombinator.com/item?id=45121547) - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
@@ -84,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-03, 18:49:00](https://news.slashdot.org/story/25/09/03/1849215/us-workers-are-becoming-more-stressed-about-finances-bofa-survey-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Workers Are Becoming More Stressed About Finances, BofA Survey Shows](https://news.slashdot.org/story/25/09/03/1849215/us-workers-are-becoming-more-stressed-about-finances-bofa-survey-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-03, 18:38:48](https://news.ycombinator.com/item?id=45119076) - [We&apos;re Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
 * [2025-09-03, 17:51:25](https://lobste.rs/s/rshhsu/basic_m6502_microsoft_basic_for_6502) - [BASIC-M6502: Microsoft BASIC for 6502 Microprocessor - Version 1.1](https://github.com/microsoft/BASIC-M6502)
-* [2025-09-03, 17:49:08](https://news.ycombinator.com/item?id=45118598) - [6NF File Format](https://habr.com/en/articles/942516/)
 * [2025-09-03, 17:48:27](https://news.ycombinator.com/item?id=45118592) - [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-09-03, 17:47:50](https://news.ycombinator.com/item?id=45118585) - [Poor man&apos;s bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 * [2025-09-03, 17:44:00](https://soylentnews.org/article.pl?sid=25/09/02/1855227&amp;from=rss) - [Microsoft Can&apos;t Guarantee Data Sovereignty – OVHcloud Says &apos;We Told You So&apos;](https://soylentnews.org/article.pl?sid=25/09/02/1855227&amp;from=rss)
@@ -114,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-03, 11:25:42](https://lobste.rs/s/qb0qre/video_game_blurs_how_best_one_works) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 11:14:45](https://lobste.rs/s/kdoksz/16_year_odyssey_time_money_wrong_turns) - [The 16 year odyssey of \&quot;time, money, wrong turns and frustration\&quot; it took to finally emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 10:26:00](https://soylentnews.org/article.pl?sid=25/09/03/0230242&amp;from=rss) - [We Fed People a Milkshake With 130g of Fat to See What It Did to Their Brains](https://soylentnews.org/article.pl?sid=25/09/03/0230242&amp;from=rss)
-* [2025-09-03, 10:02:11](https://news.ycombinator.com/item?id=45114003) - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss) - [DUPE - China Turns on Giant Neutrino Detector](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss)
 * [2025-09-03, 07:09:52](https://lobste.rs/s/xdluvl/cpu_utilization_is_lie) - [%CPU Utilization Is A Lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
 * [2025-09-03, 05:57:23](https://lobste.rs/s/2dc4y7/new_gabi_elf_spec_available_for_public) - [New gABI/ELF Spec Available for Public Review](https://groups.google.com/g/generic-abi/c/doY6WIIPqhU/)
@@ -126,7 +132,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:59:00](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss) - [New Paper Finds Cases of \&quot;AI Psychosis\&quot; Manifesting Differently From Schizophrenia](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss)
 * [2025-09-02, 13:14:00](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss) - [The Unix Epochalypse Might be Sooner Than You Think](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss)
-* [2025-09-02, 11:35:22](https://news.ycombinator.com/item?id=45101675) - [New Knot Theory Discovery Overturns Long-Held Mathematical Assumption](https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/)
+* [2025-09-02, 11:35:22](https://news.ycombinator.com/item?id=45101675) - [New knot theory discovery overturns long-held mathematical assumption](https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/)
 * [2025-09-02, 08:26:00](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss) - [AI in Schools Isn’t Progress — It’s a Sign of How Far We’ve Strayed from the Purpose of Education.](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss)
 * [2025-09-02, 03:44:00](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss) - [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss)
 * [2025-09-01, 23:04:00](https://soylentnews.org/article.pl?sid=25/08/31/146226&amp;from=rss) - [AI Crawlers Destroying Websites in Hunger for Content](https://soylentnews.org/article.pl?sid=25/08/31/146226&amp;from=rss)
@@ -134,11 +140,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-01, 16:14:20](https://news.ycombinator.com/item?id=45093966) - [Minesweeper thermodynamics](https://oscarcunningham.com/792/minesweeper-thermodynamics/)
 * [2025-09-01, 13:32:00](https://soylentnews.org/article.pl?sid=25/08/31/1353201&amp;from=rss) - [Massive Data Breach: Google Warns 2.5 Billion Gmail Users](https://soylentnews.org/article.pl?sid=25/08/31/1353201&amp;from=rss)
 * [2025-09-01, 08:44:00](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss) - [Medical Cannabis Fails the Long-Term Test: 58% of Patients Quit Within a Year](https://soylentnews.org/article.pl?sid=25/08/30/1515239&amp;from=rss)
-* [2025-09-01, 08:14:53](https://news.ycombinator.com/item?id=45090654) - [OSMAnd vs. Organic Maps](https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html)
 * [2025-09-01, 04:38:53](https://news.ycombinator.com/item?id=45089508) - [AR Fluid Simulation Demo](https://danybittel.ch/fluid)
 * [2025-09-01, 04:01:00](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss) - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://soylentnews.org/article.pl?sid=25/08/30/157235&amp;from=rss)
+* [2025-09-01, 00:51:50](https://news.ycombinator.com/item?id=45088427) - [Show HN: A roguelike game that runs inside Notepad++](https://github.com/thelowsunoverthemoon/NeuroPriest)
 * [2025-08-31, 23:13:00](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss) - [Elon Musk Says xAI Has Open Sourced Grok 2.5](https://soylentnews.org/article.pl?sid=25/08/30/1445255&amp;from=rss)
-* [2025-08-31, 23:10:25](https://news.ycombinator.com/item?id=45087911) - [Lively Linear Lisp (1992) [pdf]](https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf)
 * [2025-08-31, 22:52:17](https://news.ycombinator.com/item?id=45087803) - [Reverse engineering Solos smart glasses](https://jfloren.net/b/2025/8/28/0)
 * [2025-08-31, 18:25:00](https://soylentnews.org/article.pl?sid=25/08/30/1427217&amp;from=rss) - [US Military&apos;s X-37B Spaceplane Stays Relevant With Launch of Another Mission](https://soylentnews.org/article.pl?sid=25/08/30/1427217&amp;from=rss)
 * [2025-08-31, 13:38:00](https://soylentnews.org/article.pl?sid=25/08/30/1419247&amp;from=rss) - [A New Security Flaw in TheTruthSpy Phone Spyware is Putting Victims at Risk](https://soylentnews.org/article.pl?sid=25/08/30/1419247&amp;from=rss)
