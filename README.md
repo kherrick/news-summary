@@ -1,48 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technological Advancements
 
-* [Leptos](https://lobste.rs/s/m5f6ww/leptos) - A framework for building fast and interactive web applications using Rust. [Comments](https://lobste.rs/s/m5f6ww/leptos)
+* [New Hollow-Core Fiber Outperforms Glass, Pushing Data Closer to Light Speed](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss) - A technological breakthrough in fiber optics brings data transmission closer to the speed of light by utilizing hollow-core designs to drastically outperform traditional glass fibers. [Comments](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss)
 
-* [PlateShapez – Tool for generating adversarially perturbed license plate overlays](https://news.ycombinator.com/item?id=45145965) - Open-source solution for obscuring license plates in machine learning-driven algorithms. [Comments](https://news.ycombinator.com/item?id=45145965)
+* [Scientists Tap 'Secret' Fresh Water Under the Ocean, Raising Hopes For a Thirsty World](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers have identified vast underwater reservoirs of fresh water, with potential to address global water scarcity. [Comments](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Developing a Space Flight Simulator in Clojure](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - A deep dive into building a realistic space flight simulator using the functional programming language Clojure. [Comments](https://news.ycombinator.com/item?id=45145794)
-
-* [GLM 4.5 with Claude Code](https://news.ycombinator.com/item?id=45145457) - Latest iteration of a generative language model featuring improved coding capabilities. [Comments](https://news.ycombinator.com/item?id=45145457)
-
-* [MentraOS – open-source Smart glasses OS](https://news.ycombinator.com/item?id=45140381) - A customizable operating system for smart glasses leveraging open-source technologies. [Comments](https://news.ycombinator.com/item?id=45140381)
-
-## Cultural and Ethical Shifts in AI and Technology
-
-* [Geoffrey Hinton: 'AI Will Make a Few People Much Richer and Most People Poorer'](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer) - Renowned AI researcher discusses the socioeconomic divide exacerbated by artificial intelligence. [Comments](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [AI in Schools Isn’t Progress — It’s a Sign of How Far We’ve Strayed from the Purpose of Education.](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss) - Critical opinion piece on the limitations of integrating AI into education. [Comments](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss)
-
-* [Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors' AI Lawsuit](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit) - High-profile lawsuit settlement over the use of copyrighted material in training data. [Comments](https://news.ycombinator.com/item?id=45142885)
-
-## Sustainability and Environmental Insights
-
-* [Scientists Tap 'Secret' Fresh Water Under the Ocean, Raising Hopes For a Thirsty World](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world) - An innovative discovery of potential freshwater reserves beneath the ocean. [Comments](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Rising River Temperatures Threaten Paris's Water-Based Building Cooling Network](https://news.slashdot.org/story/25/09/05/1543244/rising-river-temperatures-threaten-pariss-water-based-building-cooling-network) - Climate change's impact on infrastructure resilience. [Comments](https://news.slashdot.org/story/25/09/05/1543244/rising-river-temperatures-threaten-pariss-water-based-building-cooling-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Public Strongly Backs Aim of 30% of Land and Sea Set Aside For Nature, Poll Finds](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds) - Growing public demand for robust global conservation measures. [Comments](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [America's First Sodium-Ion Battery Manufacturer Ceases Operations](https://hardware.slashdot.org/story/25/09/05/2126200/americas-first-sodium-ion-battery-manufacturer-ceases-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The closure of a pioneering battery manufacturer signals challenges in scaling new energy solutions. [Comments](https://hardware.slashdot.org/story/25/09/05/2126200/americas-first-sodium-ion-battery-manufacturer-ceases-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ## Software Development and Open Source
 
-* [Ray Tracing in One Weekend](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - A fast-track guide for enthusiasts exploring computer graphics programming. [Comments](https://lobste.rs/s/felr3h/ray_tracing_one_weekend)
+* [Leptos](https://leptos.dev/) - Discover Leptos, a cutting-edge framework for building fast, reactive web applications. [Comments](https://lobste.rs/s/m5f6ww/leptos)
 
-* [Basecamp Campfire is now open source](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source) - Chat and collaboration platform, now freely accessible for customization and deployment. [Comments](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source)
+* [Basecamp Campfire is now open source](https://github.com/basecamp/once-campfire) - Basecamp's Campfire chat feature is now open-sourced, allowing developers to integrate and innovate using the platform's codebase. [Comments](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source)
 
-* [Natural transformations as a basis of control](https://lobste.rs/s/wqsxrn/natural_transformations_as_basis) - A conceptual piece linking category theory to practical programming paradigms. [Comments](https://lobste.rs/s/wqsxrn/natural_transformations_as_basis)
+* [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS) - A promising foundation for developing applications tailored for smart glasses. [Comments](https://news.ycombinator.com/item?id=45140381)
 
-## Notable Corporate and Economic Moves
+## Artificial Intelligence (AI) and Impacts of Technology
 
-* [Canada Delaying Plan To Force Automakers To Hit EVs Sales Targets](https://tech.slashdot.org/story/25/09/05/1957250/canada-delaying-plan-to-force-automakers-to-hit-evs-sales-targets) - Key regulatory shift impacting electric vehicle adoption in Canada. [Comments](https://tech.slashdot.org/story/25/09/05/1957250/canada-delaying-plan-to-force-automakers-to-hit-evs-sales-targets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors' AI Lawsuit](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A landmark settlement in the ongoing conflicts around intellectual property and artificial intelligence. [Comments](https://news.ycombinator.com/item?id=45142885)
 
-* [Google Hit With $3.45 Billion EU Antitrust Fine Over Adtech Practices](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices) - Landmark ruling in the ongoing EU scrutiny of tech giants. [Comments](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Google Hit With $3.45 Billion EU Antitrust Fine Over Adtech Practices](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant penalty raises concerns about tech monopolies' influence on digital advertising. [Comments](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Trump To Impose Tariffs On Semiconductor Imports From Firms Not Moving Production To US](https://news.slashdot.org/story/25/09/05/1859232/trump-to-impose-tariffs-on-semiconductor-imports-from-firms-not-moving-production-to-us) - Bold policy leveraging tariffs to encourage manufacturing in the U.S. [Comments](https://news.slashdot.org/story/25/09/05/1859232/trump-to-impose-tariffs-on-semiconductor-imports-from-firms-not-moving-production-to-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Geoffrey Hinton: 'AI Will Make a Few People Much Richer and Most People Poorer'](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The AI visionary warns of economic inequality driven by technological advances. [Comments](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Science and Space Exploration
+
+* [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html) - A beautifully detailed map shows our local cosmic neighborhood within 12.5 light years of Earth. [Comments](https://news.ycombinator.com/item?id=45144337)
+
+* [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/) - A deep dive into the development of a space simulator using Clojure programming language. [Comments](https://news.ycombinator.com/item?id=45145794)
+
+## Environment and Sustainability
+
+* [Public Strongly Backs Aim of 30% of Land and Sea Set Aside For Nature, Poll Finds](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A global poll highlights strong public support for nature conservation initiatives. [Comments](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Rising River Temperatures Threaten Paris's Water-Based Building Cooling Network](https://news.slashdot.org/story/25/09/05/1543244/rising-river-temperatures-threaten-pariss-water-based-building-cooling-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Climate changes are disrupting energy-efficient cooling solutions in urban centers. [Comments](https://news.slashdot.org/story/25/09/05/1543244/rising-river-temperatures-threaten-pariss-water-based-building-cooling-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -69,16 +61,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-06, 07:29:00](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss) - [New Hollow-Core Fiber Outperforms Glass, Pushing Data Closer to Light Speed](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss)
+* [2025-09-06, 05:59:39](https://news.ycombinator.com/item?id=45146967) - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 * [2025-09-06, 02:45:00](https://soylentnews.org/article.pl?sid=25/09/05/0259211&amp;from=rss) - [The Fight Against Labeling Long-Term Streaming Rentals as “Purchases” You “Buy”](https://soylentnews.org/article.pl?sid=25/09/05/0259211&amp;from=rss)
-* [2025-09-06, 02:08:43](https://news.ycombinator.com/item?id=45145965) - [PlateShapez – Tool for generating adversarially perturbed license plate overlays](https://github.com/bennjordan/PlateShapez)
 * [2025-09-06, 01:39:01](https://news.ycombinator.com/item?id=45145794) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-06, 01:25:00](https://hardware.slashdot.org/story/25/09/05/2319259/apples-vision-pro-gaining-traction-in-some-niches-of-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Vision Pro Gaining Traction in Some Niches of Business](https://hardware.slashdot.org/story/25/09/05/2319259/apples-vision-pro-gaining-traction-in-some-niches-of-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-06, 01:10:37](https://news.ycombinator.com/item?id=45145624) - [A sunscreen scandal shocking Australia](https://www.bbc.com/news/articles/c4gzl41rpdqo)
 * [2025-09-06, 00:45:08](https://news.ycombinator.com/item?id=45145457) - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 * [2025-09-06, 00:45:00](https://hardware.slashdot.org/story/25/09/05/2126200/americas-first-sodium-ion-battery-manufacturer-ceases-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s First Sodium-Ion Battery Manufacturer Ceases Operations](https://hardware.slashdot.org/story/25/09/05/2126200/americas-first-sodium-ion-battery-manufacturer-ceases-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-06, 00:02:00](https://tech.slashdot.org/story/25/09/05/1957250/canada-delaying-plan-to-force-automakers-to-hit-evs-sales-targets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canada Delaying Plan To Force Automakers To Hit EVs Sales Targets](https://tech.slashdot.org/story/25/09/05/1957250/canada-delaying-plan-to-force-automakers-to-hit-evs-sales-targets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-05, 23:23:55](https://news.ycombinator.com/item?id=45144900) - [Tesla changes meaning of &apos;Full Self-Driving&apos;, gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
 * [2025-09-05, 23:20:00](https://news.slashdot.org/story/25/09/05/1859232/trump-to-impose-tariffs-on-semiconductor-imports-from-firms-not-moving-production-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump To Impose Tariffs On Semiconductor Imports From Firms Not Moving Production To US](https://news.slashdot.org/story/25/09/05/1859232/trump-to-impose-tariffs-on-semiconductor-imports-from-firms-not-moving-production-to-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 23:07:19](https://lobste.rs/s/wqsxrn/natural_transformations_as_basis) - [Natural transformations as a basis of control](https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control)
 * [2025-09-05, 22:40:00](https://news.slashdot.org/story/25/09/05/199223/firefox-ending-32-bit-linux-support-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Ending 32-bit Linux Support Next Year](https://news.slashdot.org/story/25/09/05/199223/firefox-ending-32-bit-linux-support-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,9 +81,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-05, 21:57:00](https://soylentnews.org/article.pl?sid=25/09/04/155234&amp;from=rss) - [M365 Copilot Fails to Up Productivity in UK Government Trial](https://soylentnews.org/article.pl?sid=25/09/04/155234&amp;from=rss)
 * [2025-09-05, 21:20:00](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors&apos; AI Lawsuit](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 21:05:40](https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
-* [2025-09-05, 21:00:26](https://news.ycombinator.com/item?id=45143548) - [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
 * [2025-09-05, 20:41:00](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Tap &apos;Secret&apos; Fresh Water Under the Ocean, Raising Hopes For a Thirsty World](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-05, 20:11:39](https://news.ycombinator.com/item?id=45143077) - [I kissed comment culture goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
 * [2025-09-05, 20:01:00](https://it.slashdot.org/story/25/09/05/1628256/microsoft-365-personal-is-now-free-for-us-college-students-for-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft 365 Personal is Now Free For US College Students For a Year](https://it.slashdot.org/story/25/09/05/1628256/microsoft-365-personal-is-now-free-for-us-college-students-for-a-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 19:52:45](https://news.ycombinator.com/item?id=45142885) - [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&amp;smid=url-share)
 * [2025-09-05, 19:48:01](https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules) - [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
@@ -102,12 +93,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-05, 17:20:00](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Public Strongly Backs Aim of 30% of Land and Sea Set Aside For Nature, Poll Finds](https://news.slashdot.org/story/25/09/05/1436209/public-strongly-backs-aim-of-30-of-land-and-sea-set-aside-for-nature-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/09/04/150221&amp;from=rss) - [Nvidia Blasts Proposed US Bill That Would Force It to Give American Buyers First Option](https://soylentnews.org/article.pl?sid=25/09/04/150221&amp;from=rss)
 * [2025-09-05, 17:09:35](https://news.ycombinator.com/item?id=45140921) - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
-* [2025-09-05, 16:57:45](https://news.ycombinator.com/item?id=45140786) - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 16:40:00](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Geoffrey Hinton: &apos;AI Will Make a Few People Much Richer and Most People Poorer&apos;](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 16:37:55](https://lobste.rs/s/ks2nbj/icfp_contest_2025) - [ICFP contest 2025](https://icfpcontest2025.github.io/)
 * [2025-09-05, 16:25:48](https://news.ycombinator.com/item?id=45140381) - [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
 * [2025-09-05, 16:00:00](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Hit With $3.45 Billion EU Antitrust Fine Over Adtech Practices](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-05, 15:25:10](https://news.ycombinator.com/item?id=45139656) - [Protobuffers Are Wrong (2018)](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
 * [2025-09-05, 14:34:57](https://news.ycombinator.com/item?id=45139088) - [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
@@ -150,13 +141,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss) - [DUPE - China Turns on Giant Neutrino Detector](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss)
 * [2025-09-03, 03:31:00](https://soylentnews.org/article.pl?sid=25/09/02/0359228&amp;from=rss) - [Artificial Toy Story: Do AI-Powered Toys Take the Life Out of Playtime?](https://soylentnews.org/article.pl?sid=25/09/02/0359228&amp;from=rss)
 * [2025-09-03, 01:28:08](https://news.ycombinator.com/item?id=45111273) - [Speeding up Unreal Editor launch by not spawning unused tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
+* [2025-09-02, 23:10:47](https://news.ycombinator.com/item?id=45110311) - [The maths you need to start understanding LLMs](https://www.gilesthomas.com/2025/09/maths-for-llms)
 * [2025-09-02, 22:46:00](https://soylentnews.org/article.pl?sid=25/09/02/0144236&amp;from=rss) - [World’s Largest Neutrino Detector Switches On](https://soylentnews.org/article.pl?sid=25/09/02/0144236&amp;from=rss)
 * [2025-09-02, 20:14:51](https://news.ycombinator.com/item?id=45108401) - [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](https://huggingface.co/swiss-ai/Apertus-70B-2509)
 * [2025-09-02, 19:05:27](https://news.ycombinator.com/item?id=45107605) - [Museum of Color](https://emergencemagazine.org/essay/museum-of-color/)
+* [2025-09-02, 19:00:01](https://news.ycombinator.com/item?id=45107534) - [Decoding UTF-8. Part III: Determining Sequence Length – A Lookup Table](https://nemanjatrifunovic.substack.com/p/decoding-utf-8-part-iii-determining)
 * [2025-09-02, 17:59:00](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss) - [New Paper Finds Cases of \&quot;AI Psychosis\&quot; Manifesting Differently From Schizophrenia](https://soylentnews.org/article.pl?sid=25/09/01/0031222&amp;from=rss)
-* [2025-09-02, 17:40:02](https://news.ycombinator.com/item?id=45106429) - [Mac Clones History: A Tale of Poor Margins and Bad Timing](https://tedium.co/2025/09/02/apple-macintosh-clones-history/)
 * [2025-09-02, 17:22:01](https://news.ycombinator.com/item?id=45106132) - [The repercussions of a typo in C++ &amp; Rust](https://www.nablag.com/rust_cpp_missing_ampersand)
 * [2025-09-02, 16:09:50](https://news.ycombinator.com/item?id=45104988) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
+* [2025-09-02, 16:09:32](https://news.ycombinator.com/item?id=45104985) - [Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format](https://github.com/man-group/sparrow)
 * [2025-09-02, 13:14:00](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss) - [The Unix Epochalypse Might be Sooner Than You Think](https://soylentnews.org/article.pl?sid=25/09/01/0021218&amp;from=rss)
 * [2025-09-02, 08:26:00](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss) - [AI in Schools Isn’t Progress — It’s a Sign of How Far We’ve Strayed from the Purpose of Education.](https://soylentnews.org/article.pl?sid=25/09/01/0018253&amp;from=rss)
 * [2025-09-02, 03:44:00](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss) - [AMD Roadmap Leak Points to Zen 6 Mobile CPUs in 2027](https://soylentnews.org/article.pl?sid=25/08/31/1416227&amp;from=rss)
