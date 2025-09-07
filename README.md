@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Hardware
+## Technology and Development Insights
 
-* [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html) - An artistic representation of technology as Navajo weaving meets circuit design.
+* [An empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1) - [Comments](https://news.ycombinator.com/item?id=45160672)
 
-* [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261) - Exploring the precision engineering of MacBook's screen hinge sensor.
+* [The 'impossibly small' Microdot web framework](https://lwn.net/Articles/1034121/) - [Comments](https://news.ycombinator.com/item?id=45155682)
 
-* [Apple's Vision Pro Gaining Traction in Some Niches of Business](https://hardware.slashdot.org/story/25/09/05/2319259/apples-vision-pro-gaining-traction-in-some-niches-of-business?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple's AR device finds niche business applications.
+* [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg) - [Comments](https://news.ycombinator.com/item?id=45136367)
 
-* [New Hollow-Core Fiber Outperforms Glass, Pushing Data Closer to Light Speed](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss) - Revolutionary fiber optics with near-light-speed data transmission.
+* [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&from=rss) - [Comments](https://news.ycombinator.com/item?id=45132488)
 
-* [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/) - A breakthrough in wearable connectivity by Garmin.
+* [Show HN: Semantic grep for Claude Code (local embeddings)](https://github.com/BeaconBay/ck) - [Comments](https://news.ycombinator.com/item?id=45157223)
 
-## Legal and Social Impacts
+## Cutting-Edge Applications of AI and Chips
 
-* [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html) - Nepal takes a hard stance on major social media platforms for regulatory reasons.
+* [Nvidia's Next-Gen AI Chip Could Be Double the Price of H20 If China Export is Approved](https://soylentnews.org/article.pl?sid=25/09/06/1514247&from=rss) - [Comments](https://news.ycombinator.com/item?id=45145190)
 
-* [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss) - Major fines levied on tech giants for privacy policy violations.
+* [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/) - [Comments](https://news.ycombinator.com/item?id=45118286)
 
-* [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss) - Google penalized for user data privacy infringements.
+## Programming and Software Design
 
-* [Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors' AI Lawsuit](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Landmark settlement in an AI-related legal case.
+* [Everything is a []u8](https://www.openmymind.net/Everything-Is-A-u8-array/) - [Comments](https://lobste.rs/s/htogek/everything_is_u8)
 
-## Artificial Intelligence and Future Tech
+* [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/) - [Comments](https://news.ycombinator.com/item?id=45157223)
 
-* [AI Mode Is Good](https://simonwillison.net/2025/Sep/7/ai-mode/) - A look into the growing acceptance of AI-enriched modes in applications.
+* [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/) - [Comments](https://lobste.rs/s/y5iegk/algebraic_effects_practice_with_flix)
 
-* [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/) - A creative use of nostalgia and design for self-promotion.
+## Environmental and Societal Impact of Technology
 
-* [Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/) - Innovations in health education via an AI-enabled app.
+* [Scientists Tap Secret Fresh Water Under the Ocean, Raising Hopes For a Thirsty World](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world) - [Comments](https://news.ycombinator.com/item?id=45150123)
 
-* [Anthropic Clamps Down on AI Services for Chinese-Owned Firms](https://slashdot.org/story/25/09/05/0535228/anthropic-clamps-down-on-ai-services-for-chinese-owned-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Restrictions on AI deployment amid geopolitical tensions.
+* [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html) - [Comments](https://news.ycombinator.com/item?id=45158877)
 
-## Programming and Development
+## Intriguing Industry News
 
-* [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/) - A dive into functional programming abstractions made practical.
+* [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&from=rss) - [Comments](https://news.ycombinator.com/item?id=45145112)
 
-* [Semantic Line Breaks](https://sembr.org) - An introduction to semantic line-breaking in text editors.
+* [How the 'Kim' dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/) - [Comments](https://news.ycombinator.com/item?id=45150166)
 
-* [Resources, Laziness, and Continuation-Passing Style](https://journal.infinitenegativeutility.com/resources-laziness-and-continuation-passing-style) - Advanced concepts in programming language design.
-
-* [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/) - A case study in optimizing file IO performance in the Zig programming language.
-
-## Scientific Discoveries and Studies
-
-* [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9) - The newest revelations on air quality and mental health.
-
-* [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html) - Groundbreaking research into the microbiomes of trees.
-
-* [We Fed People a Milkshake With 130g of Fat to See What It Did to Their Brains](https://soylentnews.org/article.pl?sid=25/09/03/0230242&amp;from=rss) - A quirky experiment examining dietary impacts on cognitive function.
-
-* [Scientists Tap 'Secret' Fresh Water Under the Ocean, Raising Hopes For a Thirsty World](https://news.slashdot.org/story/25/09/05/160234/scientists-tap-secret-fresh-water-under-the-ocean-raising-hopes-for-a-thirsty-world) - Scientific steps towards solving freshwater scarcity.
+* [China Likely to Land on Moon Before US Does Again](https://soylentnews.org/article.pl?sid=25/09/05/0536245&from=rss) - [Comments](https://news.ycombinator.com/item?id=45140450)
 
 ---
 
@@ -77,22 +65,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-07, 18:06:39](https://news.ycombinator.com/item?id=45160672) - [An empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+* [2025-09-07, 16:47:00](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss) - [What the Hell is Going on Right Now?](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss)
+* [2025-09-07, 16:40:55](https://news.ycombinator.com/item?id=45159742) - [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
 * [2025-09-07, 15:10:46](https://news.ycombinator.com/item?id=45158877) - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
-* [2025-09-07, 14:43:55](https://news.ycombinator.com/item?id=45158597) - [The Expression Problem and its solution](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
-* [2025-09-07, 14:43:07](https://news.ycombinator.com/item?id=45158586) - [AI Mode Is Good](https://simonwillison.net/2025/Sep/7/ai-mode/)
 * [2025-09-07, 14:36:32](https://news.ycombinator.com/item?id=45158523) - [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183)
 * [2025-09-07, 14:20:41](https://lobste.rs/s/maxwh1/engineering_excellence_starts_on_edge) - [Engineering excellence starts on edge](https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59)
 * [2025-09-07, 13:56:39](https://lobste.rs/s/y5iegk/algebraic_effects_practice_with_flix) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 13:50:46](https://lobste.rs/s/htogek/everything_is_u8) - [Everything is a []u8](https://www.openmymind.net/Everything-Is-A-u8-array/)
-* [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
+* [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions_2016) - [The Expression Problem and its solutions (2016)](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 * [2025-09-07, 13:15:35](https://news.ycombinator.com/item?id=45157906) - [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat)
 * [2025-09-07, 13:13:42](https://news.ycombinator.com/item?id=45157897) - [Air pollution directly linked to increased dementia risk](https://www.nature.com/articles/d41586-025-02844-9)
 * [2025-09-07, 12:41:32](https://lobste.rs/s/odeql3/do_you_have_personal_wiki) - [Do you have a personal wiki?](https://lobste.rs/s/odeql3/do_you_have_personal_wiki)
 * [2025-09-07, 12:12:01](https://lobste.rs/s/chvsdq/semantic_line_breaks) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 12:07:50](https://news.ycombinator.com/item?id=45157466) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 11:56:00](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss) - [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss)
-* [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
+* [2025-09-07, 11:20:37](https://news.ycombinator.com/item?id=45157223) - [Show HN: Semantic grep for Claude Code (local embeddings)](https://github.com/BeaconBay/ck)
 * [2025-09-07, 11:20:33](https://lobste.rs/s/vnkmbc/hitting_peak_file_io_performance_with_zig) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
 * [2025-09-07, 11:00:03](https://news.ycombinator.com/item?id=45157110) - [Serverless Horrors](https://serverlesshorrors.com/)
 * [2025-09-07, 10:38:29](https://news.ycombinator.com/item?id=45157020) - [Show HN: I&apos;m a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)
@@ -123,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-06, 16:26:23](https://lobste.rs/s/khzzgy/choose_your_own_adventure) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:29:00](https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior) - [Odin does have undefined behavior](https://www.youtube.com/watch?v=k8iCkbbBHyg)
-* [2025-09-06, 13:04:51](https://news.ycombinator.com/item?id=45148944) - [We hacked Burger King: How auth bypass led to drive-thru audio surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 12:13:00](https://soylentnews.org/article.pl?sid=25/09/05/0536245&amp;from=rss) - [China Likely to Land on Moon Before US Does Again](https://soylentnews.org/article.pl?sid=25/09/05/0536245&amp;from=rss)
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
@@ -160,12 +148,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-04, 07:57:00](https://soylentnews.org/article.pl?sid=25/09/03/0223245&amp;from=rss) - [Nearly 40% of Nvidia&apos;s Revenue Tied to Two Mystery Customers, Filing Shows](https://soylentnews.org/article.pl?sid=25/09/03/0223245&amp;from=rss)
 * [2025-09-04, 03:46:10](https://news.ycombinator.com/item?id=45123328) - [Purikura: The Japanese Grandmother of the Selfie](https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie)
 * [2025-09-04, 03:14:00](https://soylentnews.org/article.pl?sid=25/09/03/0216228&amp;from=rss) - [People Who Believe in Conspiracy Theories Process Information Differently at the Neural Level](https://soylentnews.org/article.pl?sid=25/09/03/0216228&amp;from=rss)
+* [2025-09-03, 23:59:15](https://news.ycombinator.com/item?id=45121776) - [Way to Address Product Design Failure](https://www.core77.com/posts/138379/The-Best-Way-to-Address-Product-Design-Failure)
 * [2025-09-03, 22:27:00](https://soylentnews.org/article.pl?sid=25/09/02/192213&amp;from=rss) - [CRLite: Fast, Private, and Comprehensive Certificate Revocation Checking in Firefox](https://soylentnews.org/article.pl?sid=25/09/02/192213&amp;from=rss)
 * [2025-09-03, 22:21:38](https://news.ycombinator.com/item?id=45121010) - [Like humans, every tree has its own microbiome, a new study has found](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html)
+* [2025-09-03, 21:01:05](https://news.ycombinator.com/item?id=45120381) - [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
 * [2025-09-03, 19:01:36](https://news.ycombinator.com/item?id=45119310) - [A Technical Update on Submarine Cables [pdf]](https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf)
 * [2025-09-03, 17:44:00](https://soylentnews.org/article.pl?sid=25/09/02/1855227&amp;from=rss) - [Microsoft Can&apos;t Guarantee Data Sovereignty – OVHcloud Says &apos;We Told You So&apos;](https://soylentnews.org/article.pl?sid=25/09/02/1855227&amp;from=rss)
 * [2025-09-03, 17:18:09](https://news.ycombinator.com/item?id=45118286) - [Garmin Beats Apple to Market with Satellite-Connected Smartwatch](https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/)
-* [2025-09-03, 14:55:31](https://news.ycombinator.com/item?id=45116551) - [A Queasy Selling of the Family Heirlooms](https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/)
 * [2025-09-03, 13:01:00](https://soylentnews.org/article.pl?sid=25/09/02/1851257&amp;from=rss) - [Fascinating New Psychology Research Shows How Music Shapes Imagination](https://soylentnews.org/article.pl?sid=25/09/02/1851257&amp;from=rss)
 * [2025-09-03, 10:26:00](https://soylentnews.org/article.pl?sid=25/09/03/0230242&amp;from=rss) - [We Fed People a Milkshake With 130g of Fat to See What It Did to Their Brains](https://soylentnews.org/article.pl?sid=25/09/03/0230242&amp;from=rss)
 * [2025-09-03, 08:17:00](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss) - [DUPE - China Turns on Giant Neutrino Detector](https://soylentnews.org/article.pl?sid=25/09/02/1848251&amp;from=rss)
