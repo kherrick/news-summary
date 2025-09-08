@@ -1,34 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
+## Technology and Computing Innovations
 
-* [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss) - This demonstration highlights advances in analog optical computing, promising strides in processing efficiency and AI capabilities. [Comments](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss).
+* [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss) - [Comments](https://news.ycombinator.com/item?id=45165245)
 
-* [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/) - Intel unveils its professional-grade GPU at an affordable price, targeting compact and efficient workstation setups. [Comments](https://news.ycombinator.com/item?id=45162626).
+* [How I solved a distributed queue problem after 15 years | DBOS](https://www.dbos.dev/blog/durable-queues) - [Comments](https://lobste.rs/s/eo4uo7/how_i_solved_distributed_queue_problem)
 
-* [Longhorn – a Kubernetes-native filesystem](https://vegard.blog.engen.priv.no/?p=518) - Longhorn introduces a distributed and Kubernetes-native filesystem designed to suit the needs of modern cloud-native applications. [Comments](https://lobste.rs/s/vmardk/longhorn_kubernetes_native_filesystem).
+* [Adventures in porting a Wayland Compositor to NetBSD and OpenBSD](https://youtu.be/oo_8gnWQ4xo) - [Comments](https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor)
 
-* [Analog optical computer for AI inference and combinatorial optimization](https://www.nature.com/articles/s41586-025-09430-z) - Researchers explore how analog optical computing can enhance AI inference and tackle combinatorial optimization problems. [Comments](https://news.ycombinator.com/item?id=45129507).
+## Social and Economic Impacts of AI
 
-## Software and Developer Insights
+* [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/) - [Comments](https://news.ycombinator.com/item?id=45165019)
 
-* [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver) - A compelling story of leveraging AI-based programming assistants to retrofit and modernize legacy software. [Comments](https://lobste.rs/s/zgnsn4/using_claude_code_modernize_25_year_old).
+* [Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors' AI Lawsuit](https://yro.slashdot.org/story/25/09/05/1941245/anthropic-agrees-to-pay-record-15-billion-to-settle-authors-ai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=45137772)
 
-* [The “impossibly small” Microdot web framework](https://lwn.net/Articles/1034121/) - Microdot introduces a remarkably efficient and compact web framework aimed at resource-constrained environments. [Comments](https://news.ycombinator.com/item?id=45155682).
+## Historical and Technical Exploration
 
-* [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html) - This in-depth exploration revisits alternatives beyond markdown and their utility in various documentation scenarios. [Comments](https://lobste.rs/s/hboytm/beyond_markdown_2018).
+* [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x) - [Comments](https://news.ycombinator.com/item?id=45163598)
 
-* [The CoPilot productivity paradox](https://www.marginalia.nu/log/a_125_ai_assistants/) - A reflective analysis of how AI assistants like Copilot impact developer productivity in unexpected ways. [Comments](https://lobste.rs/s/rxmc73/copilot_productivity_paradox).
+* [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/) - [Comments](https://news.ycombinator.com/item?id=45162803)
 
-## Future of Computing and AI
+* [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss) - [Comments](https://news.ycombinator.com/item?id=45129507)
 
-* [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com) - This lightweight CSS framework simplifies the development of semantic, accessible, and visually appealing web designs. [Comments](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for).
+## Environmental and Climate Initiatives
 
-* [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/) - Insights into how OpenAI's GPT-5
+* [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss) - [Comments](https://news.ycombinator.com/item?id=45162220)
 
-## Culture and Trends in Technology Use
-
-* [Ever shared a Spotify link on the internet? Someone you don&apos;t know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/) - A cautionary tale on how sharing Spotify links could lead to unintentional contact from strangers. [Comments](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet).
+* [Rising River Temperatures Threaten Paris's Water-Based Building Cooling Network](https://news.slashdot.org/story/25/09/05/1543244/rising-river-temperatures-threaten-pariss-water-based-building-cooling-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=45131884)
 
 ---
 
@@ -55,20 +53,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-08, 06:43:00](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss) - [Trump Family&apos;s Crypto Token Just Made Them $5 Billion Richer](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss)
+* [2025-09-08, 06:38:34](https://news.ycombinator.com/item?id=45165245) - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&amp;hl=en_US)
+* [2025-09-08, 05:56:48](https://news.ycombinator.com/item?id=45165019) - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
+* [2025-09-08, 05:27:05](https://lobste.rs/s/eo4uo7/how_i_solved_distributed_queue_problem) - [How I solved a distributed queue problem after 15 years | DBOS](https://www.dbos.dev/blog/durable-queues)
+* [2025-09-08, 04:01:03](https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor) - [Adventures in porting a Wayland Compositor to NetBSD and OpenBSD](https://youtu.be/oo_8gnWQ4xo)
 * [2025-09-08, 02:00:00](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss) - [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss)
-* [2025-09-08, 01:56:04](https://news.ycombinator.com/item?id=45164037) - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
 * [2025-09-08, 01:48:27](https://lobste.rs/s/vryfua/ready_prek_go) - [Ready prek go](https://hugovk.dev/blog/2025/ready-prek-go/)
 * [2025-09-08, 01:14:21](https://lobste.rs/s/oyw6ya/css_bed) - [CSS Bed](https://www.cssbed.com/)
+* [2025-09-08, 00:30:19](https://news.ycombinator.com/item?id=45163598) - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
 * [2025-09-08, 00:17:31](https://lobste.rs/s/zgnsn4/using_claude_code_modernize_25_year_old) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 23:53:47](https://news.ycombinator.com/item?id=45163362) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 23:08:42](https://news.ycombinator.com/item?id=45163043) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-07, 22:34:23](https://news.ycombinator.com/item?id=45162803) - [The demo scene is dying, but that&apos;s alright](https://www.datagubbe.se/sceneherit/)
 * [2025-09-07, 22:21:38](https://lobste.rs/s/hboytm/beyond_markdown_2018) - [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
-* [2025-09-07, 22:06:35](https://news.ycombinator.com/item?id=45162626) - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 * [2025-09-07, 22:03:13](https://news.ycombinator.com/item?id=45162593) - [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
 * [2025-09-07, 21:50:30](https://news.ycombinator.com/item?id=45162501) - [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
 * [2025-09-07, 21:32:45](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet) - [Ever shared a Spotify link on the internet? Someone you don&apos;t know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
-* [2025-09-07, 21:31:29](https://news.ycombinator.com/item?id=45162368) - [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
 * [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
 * [2025-09-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss) - [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss)
 * [2025-09-07, 21:14:08](https://news.ycombinator.com/item?id=45162220) - [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
@@ -76,7 +77,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-07, 20:26:30](https://news.ycombinator.com/item?id=45161816) - [Everything from 1991 Radio Shack ad I now do with my phone (2014)](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
 * [2025-09-07, 20:11:28](https://lobste.rs/s/twnxj9/hilbert_space_treating_functions_as) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-09-07, 19:53:03](https://news.ycombinator.com/item?id=45161556) - [No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
-* [2025-09-07, 19:09:45](https://news.ycombinator.com/item?id=45161229) - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
 * [2025-09-07, 18:16:30](https://news.ycombinator.com/item?id=45160774) - [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 * [2025-09-07, 16:47:00](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss) - [What the Hell is Going on Right Now?](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss)
 * [2025-09-07, 15:20:29](https://news.ycombinator.com/item?id=45158968) - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
@@ -106,10 +106,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don&apos;t write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 * [2025-09-06, 19:42:48](https://news.ycombinator.com/item?id=45152284) - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
 * [2025-09-06, 18:19:51](https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
-* [2025-09-06, 17:53:26](https://lobste.rs/s/c1zuvh/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-09-06, 16:59:00](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss) - [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
-* [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 12:13:00](https://soylentnews.org/article.pl?sid=25/09/05/0536245&amp;from=rss) - [China Likely to Land on Moon Before US Does Again](https://soylentnews.org/article.pl?sid=25/09/05/0536245&amp;from=rss)
 * [2025-09-06, 07:29:00](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss) - [New Hollow-Core Fiber Outperforms Glass, Pushing Data Closer to Light Speed](https://soylentnews.org/article.pl?sid=25/09/05/0527230&amp;from=rss)
 * [2025-09-06, 02:45:00](https://soylentnews.org/article.pl?sid=25/09/05/0259211&amp;from=rss) - [The Fight Against Labeling Long-Term Streaming Rentals as “Purchases” You “Buy”](https://soylentnews.org/article.pl?sid=25/09/05/0259211&amp;from=rss)
@@ -131,11 +129,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-05, 17:13:00](https://soylentnews.org/article.pl?sid=25/09/04/150221&amp;from=rss) - [Nvidia Blasts Proposed US Bill That Would Force It to Give American Buyers First Option](https://soylentnews.org/article.pl?sid=25/09/04/150221&amp;from=rss)
 * [2025-09-05, 16:40:00](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Geoffrey Hinton: &apos;AI Will Make a Few People Much Richer and Most People Poorer&apos;](https://slashdot.org/story/25/09/05/1428223/geoffrey-hinton-ai-will-make-a-few-people-much-richer-and-most-people-poorer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-05, 16:00:00](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Hit With $3.45 Billion EU Antitrust Fine Over Adtech Practices](https://tech.slashdot.org/story/25/09/05/1527251/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-05, 12:33:11](https://news.ycombinator.com/item?id=45137772) - [Esoteric Languages Challenge Coders to Think Way Outside the Box](https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin)
+* [2025-09-05, 12:33:11](https://news.ycombinator.com/item?id=45137772) - [Forty-Four Esolangs: The Art of Esoteric Code](https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin)
 * [2025-09-05, 12:28:00](https://soylentnews.org/article.pl?sid=25/09/04/0430216&amp;from=rss) - [Stressed Ice Generates Electricity, Researchers Find](https://soylentnews.org/article.pl?sid=25/09/04/0430216&amp;from=rss)
 * [2025-09-05, 07:47:00](https://soylentnews.org/article.pl?sid=25/09/04/0419219&amp;from=rss) - [Google Won&apos;t Have to Sell Chrome, Judge Rules](https://soylentnews.org/article.pl?sid=25/09/04/0419219&amp;from=rss)
 * [2025-09-05, 07:18:12](https://news.ycombinator.com/item?id=45135839) - [Truco and clones: the beginnings of Argentinian computer gaming](https://zeitgame.net/archives/18373)
 * [2025-09-05, 03:03:00](https://soylentnews.org/article.pl?sid=25/09/04/0414246&amp;from=rss) - [U.S. Gov&apos;t Revokes TSMC&apos;s Authorization to Ship Tools to its Fabs in China](https://soylentnews.org/article.pl?sid=25/09/04/0414246&amp;from=rss)
+* [2025-09-04, 22:22:05](https://news.ycombinator.com/item?id=45132899) - [Hungry Hungry Hippos Autoplay (2017)](https://www.mikekohn.net/micro/hungry_hungry_hippos.php)
 * [2025-09-04, 22:16:00](https://soylentnews.org/article.pl?sid=25/09/04/048238&amp;from=rss) - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://soylentnews.org/article.pl?sid=25/09/04/048238&amp;from=rss)
 * [2025-09-04, 21:36:03](https://news.ycombinator.com/item?id=45132488) - [SQLite&apos;s File Format](https://www.sqlite.org/fileformat.html)
 * [2025-09-04, 20:18:47](https://news.ycombinator.com/item?id=45131784) - [The race to build a distributed GPU runtime](https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime)
