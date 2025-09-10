@@ -1,76 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Trends and Releases
+## Technology and Software Developments
 
-* [Google Doesn't Rank My Site for My Own Brand Name](https://news.ycombinator.com/item?id=45201637) - A personal account of frustrations with Google's search algorithm's inability to prioritize a website for its own brand name.
+* [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/) ([Comments](https://lobste.rs/s/tq985k/kde_launches_its_own_distribution_again))
 
-* [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/) - New features and updates in the latest version of the Delphi IDE.
+* [TWISTED: The dramatic history of twisted-pair Ethernet](https://www.youtube.com/watch?v=f8PP5IHsL8Y) ([Comments](https://lobste.rs/s/pzruab/twisted_dramatic_history_twisted_pair))
 
-* [Unicode 17.0 Release Announcement](http://blog.unicode.org/2025/09/unicode-170-release-announcement.html) - Details on the latest Unicode release, its updates, and expanded character set.
+* [Unicode 17.0 Release Announcement](http://blog.unicode.org/2025/09/unicode-170-release-announcement.html) ([Comments](https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement))
 
-* [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/) - Insight into the performance optimization features included in .NET 10.
+* [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter) ([Comments](https://news.ycombinator.com/item?id=45202252))
 
-* [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9) - Details on an outage affecting Anthropic AI services, impacting users.
+* [Zoox robotaxi launches in Las Vegas](https://zoox.com/journal/las-vegas) ([Comments](https://news.ycombinator.com/item?id=45199031))
 
-## AI and Machine Learning
+* [Scaling asyncio on Free-Threaded Python](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python) ([Comments](https://lobste.rs/s/fnyipj/scaling_asyncio_on_free_threaded_python))
 
-* [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) - Exploring methods to achieve consistent results in large language model inference.
+## Scientific Discoveries
 
-* [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode) - A new developer mode for ChatGPT, enabling more advanced integrations.
+* [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss))
 
-* [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/) - How TikTok's algorithm impacts user behavior and broader cultural trends.
+* [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0) ([Comments](https://news.ycombinator.com/item?id=45202613))
 
-* [AI Darwin Awards Launch To Celebrate Spectacularly Bad Deployments](https://slashdot.org/story/25/09/10/0129252/ai-darwin-awards-launch-to-celebrate-spectacularly-bad-deployments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A novel initiative recognizing poorly implemented AI deployments.
+* [Protect Arctic From 'Dangerous' Climate Engineering, Scientists Warn](https://science.slashdot.org/story/25/09/10/0113223/protect-arctic-from-dangerous-climate-engineering-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/09/10/0113223/protect-arctic-from-dangerous-climate-engineering-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) - Job opportunities at Bild AI, focused on applied artificial intelligence solutions.
+* [NASA Says Mars Rover Discovered Potential Biosignature Last Year](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Science and Space
+* [Different People's Brains Process Colors in the Same Way](https://science.slashdot.org/story/25/09/10/1220207/different-peoples-brains-process-colors-in-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/09/10/1220207/different-peoples-brains-process-colors-in-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [NASA Says Mars Rover Discovered Potential Biosignature Last Year](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking discovery by NASA's rover that could suggest life on Mars.
+## Cybersecurity and Privacy
 
-* [Protect Arctic From 'Dangerous' Climate Engineering, Scientists Warn](https://science.slashdot.org/story/25/09/10/0113223/protect-arctic-from-dangerous-climate-engineering-scientists-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A warning from scientists about unintended consequences of climate engineering.
+* [Wyden Says Microsoft Flaws Led to Hack of US Hospital System](https://news.slashdot.org/story/25/09/10/1951230/wyden-says-microsoft-flaws-led-to-hack-of-us-hospital-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/09/10/1951230/wyden-says-microsoft-flaws-led-to-hack-of-us-hospital-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Different People's Brains Process Colors in the Same Way](https://science.slashdot.org/story/25/09/10/1220207/different-peoples-brains-process-colors-in-the-same-way?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how humans perceive color universally.
+* [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free) ([Comments](https://news.ycombinator.com/item?id=45196173))
 
-* [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) - Details of a significant study into chemical processes on Saturn's moon Titan.
+* [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/) ([Comments](https://news.ycombinator.com/item?id=45196437))
 
-* [Beer Drinkers Are Mosquito Magnets, According To a Festival Study](https://science.slashdot.org/story/25/09/09/2322213/beer-drinkers-are-mosquito-magnets-according-to-a-festival-study?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research reveals a surprising link between beer consumption and mosquito attraction.
+## Unique Innovations and Concepts
 
-## Programming and Development
+* [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com) ([Comments](https://news.ycombinator.com/item?id=45203617))
 
-* [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/) - Simplifying complex coding problems through constraint-based solutions.
+* [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com) ([Comments](https://news.ycombinator.com/item?id=45201703))
 
-* [Jiratui – A Textual UI for interacting with Atlassian Jira from your shell](https://jiratui.sh/) - A new tool for streamlining Jira use via a command-line interface.
+* [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648) ([Comments](https://news.ycombinator.com/item?id=45199648))
 
-* [Wiggling into Correlation](https://entropicthoughts.com/wiggling-into-correlation) - An analytical guide to understanding correlations in data.
+* [I didn’t bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/) ([Comments](https://news.ycombinator.com/item?id=45199931))
 
-* [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard) - An inventive tool connecting WireGuard and Tailscale for seamless VPN integration.
+* [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/) ([Comments](https://news.ycombinator.com/item?id=45199760))
 
-* [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/) - A creative exploration into developing a multiplayer game entirely in SQL.
+## Business and Economy
 
-## Politics and Society
+* [ATM Fees Are at a Record High, a New Survey Finds](https://news.slashdot.org/story/25/09/10/206212/atm-fees-are-at-a-record-high-a-new-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/09/10/206212/atm-fees-are-at-a-record-high-a-new-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* ['Block Everything' protests sweep across France, scores arrested](https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/) - Nationwide protests in France result in numerous arrests.
+* [FAA Warns Airlines About Lithium Battery Dangers After 50 Incidents This Year](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [A $3 Billion Error Draws Apology From South Africa Energy Agency](https://it.slashdot.org/story/25/09/10/1612256/a-3-billion-error-draws-apology-from-south-africa-energy-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details of a costly financial error and its implications in South Africa.
+* [Bending Spoons Buys Video Platform Vimeo for $1.38 Billion](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Witnesses Tell Congress of UFO Sightings](https://entertainment.slashdot.org/story/25/09/09/2336255/witnesses-tell-congress-of-ufo-sightings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports of UFO sightings presented in a congressional hearing.
+* ["No Tax on Tips" Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/) ([Comments](https://news.ycombinator.com/item?id=45200024))
 
-* [Executive Director Cindy Cohn Will Step Down After 25 Years With EFF](https://yro.slashdot.org/story/25/09/09/2314209/executive-director-cindy-cohn-will-step-down-after-25-years-with-eff?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Leadership changes at the Electronic Frontier Foundation.
-
-* [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&from=rss) - A discussion on the universal alignment of color perception across individuals.
-
-## Business and Economics
-
-* [Zoox robotaxi launches in Las Vegas](https://zoox.com/journal/las-vegas) - Zoox debuts its autonomous vehicle tech in a popular hub.
-
-* [Narrative Podcasts Are Disappearing](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the decline of narrative-driven podcast formats.
-
-* [Why Netflix Struggles To Make Good Movies: A Data Explainer](https://entertainment.slashdot.org/story/25/09/10/1450238/why-netflix-struggles-to-make-good-movies-a-data-explainer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakdown of Netflix's challenges in producing high-quality films.
-
-* [Amazon's Project Kuiper Signs Up JetBlue as its First Airline Customer to Use its Satellite Internet](https://soylentnews.org/article.pl?sid=25/09/10/0052200&from=rss) - Advancements in satellite internet service tied to a major airline partnership.
-
-* [Growth Collides With Rising Seas in Charleston](https://news.slashdot.org/story/25/09/10/0123249/growth-collides-with-rising-seas-in-charleston?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Urban development grappling with environmental challenges in Charleston.
+* [Why Netflix Struggles To Make Good Movies: A Data Explainer](https://entertainment.slashdot.org/story/25/09/10/1450238/why-netflix-struggles-to-make-good-movies-a-data-explainer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/25/09/10/1450238/why-netflix-struggles-to-make-good-movies-a-data-explainer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -97,29 +83,40 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-09-10, 18:15:14](https://news.ycombinator.com/item?id=45201637) - [Google Doesn&apos;t Rank My Site for My Own Brand Name](https://news.ycombinator.com/item?id=45201637)
+* [2025-09-10, 21:43:26](https://lobste.rs/s/tq985k/kde_launches_its_own_distribution_again) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+* [2025-09-10, 21:30:00](https://news.slashdot.org/story/25/09/10/206212/atm-fees-are-at-a-record-high-a-new-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ATM Fees Are at a Record High, a New Survey Finds](https://news.slashdot.org/story/25/09/10/206212/atm-fees-are-at-a-record-high-a-new-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 21:01:01](https://news.ycombinator.com/item?id=45203643) - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+* [2025-09-10, 20:59:24](https://news.ycombinator.com/item?id=45203617) - [Show HN: HumanAlarm – Real people knock on your door to wake you up](https://humanalarm.com)
+* [2025-09-10, 20:52:00](https://news.slashdot.org/story/25/09/10/1951230/wyden-says-microsoft-flaws-led-to-hack-of-us-hospital-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wyden Says Microsoft Flaws Led to Hack of US Hospital System](https://news.slashdot.org/story/25/09/10/1951230/wyden-says-microsoft-flaws-led-to-hack-of-us-hospital-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 20:29:00](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss) - [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss)
+* [2025-09-10, 20:10:00](https://mobile.slashdot.org/story/25/09/10/1935204/iphone-17-air-drops-physical-sim-slot-globally-pushing-esim-only-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iPhone 17 Air Drops Physical SIM Slot Globally, Pushing eSIM-Only Future](https://mobile.slashdot.org/story/25/09/10/1935204/iphone-17-air-drops-physical-sim-slot-globally-pushing-esim-only-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 19:48:33](https://lobste.rs/s/pzruab/twisted_dramatic_history_twisted_pair) - [TWISTED: The dramatic history of twisted-pair Ethernet](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
+* [2025-09-10, 19:45:40](https://lobste.rs/s/mbeeut/on_weird_economics_semiconductors_genai) - [On the weird economics of semiconductors and GenAI](https://gauthierroussilhe.com/en/articles/how-to-use-computing-power-faster)
+* [2025-09-10, 19:42:27](https://news.ycombinator.com/item?id=45202613) - [Minerals represent potential biosignatures in the search for life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
+* [2025-09-10, 19:30:00](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FAA Warns Airlines About Lithium Battery Dangers After 50 Incidents This Year](https://news.slashdot.org/story/25/09/10/1915206/faa-warns-airlines-about-lithium-battery-dangers-after-50-incidents-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 19:23:53](https://news.ycombinator.com/item?id=45202421) - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
+* [2025-09-10, 19:08:05](https://news.ycombinator.com/item?id=45202252) - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
+* [2025-09-10, 19:02:48](https://news.ycombinator.com/item?id=45202200) - [Charlie Kirk killed at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
+* [2025-09-10, 18:53:00](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bending Spoons Buys Video Platform Vimeo for $1.38 Billion](https://news.slashdot.org/story/25/09/10/1853252/bending-spoons-buys-video-platform-vimeo-for-138-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 18:39:13](https://lobste.rs/s/jhrpwk/raku) - [Raku](https://raku.org/)
+* [2025-09-10, 18:21:12](https://news.ycombinator.com/item?id=45201703) - [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
 * [2025-09-10, 18:12:00](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iPhones 17 and the Sugar Water Trap](https://apple.slashdot.org/story/25/09/10/1812206/iphones-17-and-the-sugar-water-trap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 18:03:35](https://news.ycombinator.com/item?id=45201474) - [Insufficiently sanitized data allows unauthenticated access to FreePBX Admin](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
-* [2025-09-10, 17:56:18](https://news.ycombinator.com/item?id=45201372) - [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
 * [2025-09-10, 17:26:08](https://news.ycombinator.com/item?id=45200925) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 * [2025-09-10, 17:25:00](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Narrative Podcasts Are Disappearing](https://news.slashdot.org/story/25/09/10/1725211/narrative-podcasts-are-disappearing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 17:01:06](https://news.ycombinator.com/item?id=45200593) - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-* [2025-09-10, 16:53:44](https://lobste.rs/s/nlbe5o/performance_improvements_net_10) - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 * [2025-09-10, 16:51:00](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Says Mars Rover Discovered Potential Biosignature Last Year](https://science.slashdot.org/story/25/09/10/1651255/nasa-says-mars-rover-discovered-potential-biosignature-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 16:50:10](https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement) - [Unicode 17.0 Release Announcement](http://blog.unicode.org/2025/09/unicode-170-release-announcement.html)
-* [2025-09-10, 16:44:53](https://news.ycombinator.com/item?id=45200357) - [&apos;Block Everything&apos; protests sweep across France, scores arrested](https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/)
 * [2025-09-10, 16:35:27](https://lobste.rs/s/wiwfvy/flox_nix_foundation_nvidia_partner_for) - [Flox, the Nix Foundation, and NVIDIA Partner for CUDA](https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/)
-* [2025-09-10, 16:31:34](https://news.ycombinator.com/item?id=45200118) - [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9)
-* [2025-09-10, 16:23:24](https://news.ycombinator.com/item?id=45199976) - [Wiggling into Correlation](https://entropicthoughts.com/wiggling-into-correlation)
+* [2025-09-10, 16:26:07](https://news.ycombinator.com/item?id=45200024) - [\&quot;No Tax on Tips\&quot; Includes Digital Creators, Too](https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/)
 * [2025-09-10, 16:20:55](https://news.ycombinator.com/item?id=45199931) - [I didn&apos;t bring my son to a museum to look at screens](https://sethpurcell.com/writing/screens-in-museums/)
 * [2025-09-10, 16:12:00](https://it.slashdot.org/story/25/09/10/1612256/a-3-billion-error-draws-apology-from-south-africa-energy-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A $3 Billion Error Draws Apology From South Africa Energy Agency](https://it.slashdot.org/story/25/09/10/1612256/a-3-billion-error-draws-apology-from-south-africa-energy-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 16:08:39](https://news.ycombinator.com/item?id=45199760) - [TikTok has turned culture into a feedback loop of impulse and machine learning](https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/)
 * [2025-09-10, 16:04:49](https://news.ycombinator.com/item?id=45199713) - [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
 * [2025-09-10, 16:00:06](https://news.ycombinator.com/item?id=45199648) - [Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts](https://news.ycombinator.com/item?id=45199648)
 * [2025-09-10, 15:44:00](https://soylentnews.org/article.pl?sid=25/09/10/0055209&amp;from=rss) - [Ubuntu Software Repositories Unavailable or Slow for Multiple Days Due to Outage](https://soylentnews.org/article.pl?sid=25/09/10/0055209&amp;from=rss)
-* [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
+* [2025-09-10, 15:43:43](https://news.ycombinator.com/item?id=45199378) - [The origin story of merge queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:43:25](https://lobste.rs/s/h6peie/origin_story_merge_queues) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 15:33:00](https://news.slashdot.org/story/25/09/10/1533256/how-britain-built-some-of-the-worlds-safest-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Britain Built Some of the World&apos;s Safest Roads](https://news.slashdot.org/story/25/09/10/1533256/how-britain-built-some-of-the-worlds-safest-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-10, 15:31:36](https://lobste.rs/s/qnesth/what_s_new_kotlin_2_2_20) - [What&apos;s new in Kotlin 2.2.20](https://kotlinlang.org/docs/whatsnew2220.html)
 * [2025-09-10, 15:18:12](https://news.ycombinator.com/item?id=45199031) - [Zoox robotaxi launches in Las Vegas](https://zoox.com/journal/las-vegas)
 * [2025-09-10, 14:50:00](https://entertainment.slashdot.org/story/25/09/10/1450238/why-netflix-struggles-to-make-good-movies-a-data-explainer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Netflix Struggles To Make Good Movies: A Data Explainer](https://entertainment.slashdot.org/story/25/09/10/1450238/why-netflix-struggles-to-make-good-movies-a-data-explainer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 14:46:21](https://lobste.rs/s/8ubfdd/many_hard_leetcode_problems_are_easy) - [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
@@ -128,40 +125,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-10, 14:25:39](https://lobste.rs/s/99cxl3/fenwick_layout_for_interval_trees) - [Fenwick layout for interval trees](https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/)
 * [2025-09-10, 14:00:00](https://science.slashdot.org/story/25/09/10/1220207/different-peoples-brains-process-colors-in-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Different People&apos;s Brains Process Colors in the Same Way](https://science.slashdot.org/story/25/09/10/1220207/different-peoples-brains-process-colors-in-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
-* [2025-09-10, 13:17:25](https://news.ycombinator.com/item?id=45197187) - [Guy running a Google rival from his laundry room](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 13:00:00](https://news.slashdot.org/story/25/09/10/0123249/growth-collides-with-rising-seas-in-charleston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Growth Collides With Rising Seas in Charleston](https://news.slashdot.org/story/25/09/10/0123249/growth-collides-with-rising-seas-in-charleston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap Is Cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
+* [2025-09-10, 12:17:45](https://news.ycombinator.com/item?id=45196568) - [Tarsnap is cozy](https://til.andrew-quinn.me/posts/tarsnap-is-cozy/)
 * [2025-09-10, 12:01:30](https://news.ycombinator.com/item?id=45196437) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 12:00:00](https://slashdot.org/story/25/09/10/0129252/ai-darwin-awards-launch-to-celebrate-spectacularly-bad-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Darwin Awards Launch To Celebrate Spectacularly Bad Deployments](https://slashdot.org/story/25/09/10/0129252/ai-darwin-awards-launch-to-celebrate-spectacularly-bad-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 11:56:23](https://lobste.rs/s/whp654/effects_as_capabilities_scala) - [Effects as Capabilities in Scala](https://nrinaudo.github.io/articles/capabilities.html)
 * [2025-09-10, 11:34:41](https://lobste.rs/s/fnyipj/scaling_asyncio_on_free_threaded_python) - [Scaling asyncio on Free-Threaded Python](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python)
 * [2025-09-10, 11:31:55](https://news.ycombinator.com/item?id=45196173) - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 * [2025-09-10, 10:57:00](https://soylentnews.org/article.pl?sid=25/09/10/0052200&amp;from=rss) - [Amazon&apos;s Project Kuiper Signs Up JetBlue as its First Airline Customer to Use its Satellite Internet](https://soylentnews.org/article.pl?sid=25/09/10/0052200&amp;from=rss)
+* [2025-09-10, 10:08:14](https://news.ycombinator.com/item?id=45195520) - [Pontevedra, Spain declares its entire urban area a \&quot;reduced traffic zone\&quot;](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
 * [2025-09-10, 10:00:00](https://science.slashdot.org/story/25/09/10/0113223/protect-arctic-from-dangerous-climate-engineering-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Protect Arctic From &apos;Dangerous&apos; Climate Engineering, Scientists Warn](https://science.slashdot.org/story/25/09/10/0113223/protect-arctic-from-dangerous-climate-engineering-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 09:32:19](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 * [2025-09-10, 07:15:51](https://lobste.rs/s/nl3syv/my_quarterly_system_health_check) - [My Quarterly System Health Check-in](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
-* [2025-09-10, 07:00:00](https://entertainment.slashdot.org/story/25/09/09/2336255/witnesses-tell-congress-of-ufo-sightings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Witnesses Tell Congress of UFO Sightings](https://entertainment.slashdot.org/story/25/09/09/2336255/witnesses-tell-congress-of-ufo-sightings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-10, 06:13:00](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss) - [Congress and Trump May Compromise on the SLS Rocket by Axing its Costly Upper Stage](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss)
 * [2025-09-10, 03:42:55](https://news.ycombinator.com/item?id=45192963) - [Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container](https://github.com/juhovh/tailguard)
-* [2025-09-10, 03:30:00](https://science.slashdot.org/story/25/09/09/2322213/beer-drinkers-are-mosquito-magnets-according-to-a-festival-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Beer Drinkers Are Mosquito Magnets, According To a Festival Study](https://science.slashdot.org/story/25/09/09/2322213/beer-drinkers-are-mosquito-magnets-according-to-a-festival-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing&apos;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
-* [2025-09-10, 01:54:44](https://lobste.rs/s/amopnm/lisagui) - [LisaGUI](https://lisagui.com/)
 * [2025-09-10, 01:28:00](https://soylentnews.org/article.pl?sid=25/09/09/1229205&amp;from=rss) - [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&amp;from=rss)
-* [2025-09-10, 01:25:00](https://yro.slashdot.org/story/25/09/09/2314209/executive-director-cindy-cohn-will-step-down-after-25-years-with-eff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Executive Director Cindy Cohn Will Step Down After 25 Years With EFF](https://yro.slashdot.org/story/25/09/09/2314209/executive-director-cindy-cohn-will-step-down-after-25-years-with-eff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 00:45:00](https://slashdot.org/story/25/09/09/238208/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Use Some AI From Anthropic In Shift From OpenAI](https://slashdot.org/story/25/09/09/238208/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-10, 00:10:40](https://news.ycombinator.com/item?id=45191347) - [NASA finds Titan&apos;s lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-* [2025-09-10, 00:02:00](https://yro.slashdot.org/story/25/09/09/2129252/hhs-asks-all-employees-to-start-using-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HHS Asks All Employees To Start Using ChatGPT](https://yro.slashdot.org/story/25/09/09/2129252/hhs-asks-all-employees-to-start-using-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-09, 21:13:12](https://lobste.rs/s/jz3eml/last_programmers) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 20:43:00](https://soylentnews.org/article.pl?sid=25/09/08/1814241&amp;from=rss) - [Microsoft Software Reselling Dispute Heads Back to UK Court](https://soylentnews.org/article.pl?sid=25/09/08/1814241&amp;from=rss)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
-* [2025-09-09, 18:29:51](https://lobste.rs/s/wlyzqn/memory_integrity_enforcement_complete) - [Memory Integrity Enforcement: A complete vision for memory safety in Apple devices](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 15:59:00](https://soylentnews.org/article.pl?sid=25/09/08/1810222&amp;from=rss) - [Multiple Undersea Cable Cuts in the Red Sea, Hampering Internet Performance](https://soylentnews.org/article.pl?sid=25/09/08/1810222&amp;from=rss)
 * [2025-09-09, 15:37:56](https://lobste.rs/s/xcbjqt/rich_already_answered) - [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
-* [2025-09-09, 15:34:48](https://lobste.rs/s/qkborx/building_doom_like_multiplayer_shooter) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:16:35](https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025) - [Apple Event for September 9th, 2025](https://www.apple.com/apple-events/)
 * [2025-09-09, 14:04:28](https://lobste.rs/s/imp0qy/all_you_need_is_ssh) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
@@ -175,16 +161,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-08, 16:10:00](https://soylentnews.org/article.pl?sid=25/09/07/141204&amp;from=rss) - [SpaceX Dragon Reboosts the International Space Station](https://soylentnews.org/article.pl?sid=25/09/07/141204&amp;from=rss)
 * [2025-09-08, 11:25:00](https://soylentnews.org/article.pl?sid=25/09/07/1358242&amp;from=rss) - [New China-Aligned Crew Poisons Windows Servers for SEO Fraud](https://soylentnews.org/article.pl?sid=25/09/07/1358242&amp;from=rss)
 * [2025-09-08, 10:36:17](https://news.ycombinator.com/item?id=45166655) - [Distributing your own scripts via Homebrew](https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/)
-* [2025-09-08, 08:06:39](https://news.ycombinator.com/item?id=45165749) - [CPU Utilization is Wrong (2017)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2025-09-08, 06:43:00](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss) - [Trump Family&apos;s Crypto Token Just Made Them $5 Billion Richer](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss)
 * [2025-09-08, 02:00:00](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss) - [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss)
+* [2025-09-08, 01:46:14](https://news.ycombinator.com/item?id=45163998) - [Harvey Mudd Miniature Machine](https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html)
 * [2025-09-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss) - [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss)
+* [2025-09-07, 19:31:50](https://news.ycombinator.com/item?id=45161410) - [Clojure&apos;s Solutions to the Expression Problem](https://www.infoq.com/presentations/Clojure-Expression-Problem/)
 * [2025-09-07, 16:47:00](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss) - [What the Hell is Going on Right Now?](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss)
 * [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks (2017)](https://sembr.org)
 * [2025-09-07, 11:56:00](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss) - [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss)
 * [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 07:11:00](https://soylentnews.org/article.pl?sid=25/09/06/1514247&amp;from=rss) - [Nvidia&apos;s Next-Gen AI Chip Could Be Double  the Price of H20 If China Export is Approved](https://soylentnews.org/article.pl?sid=25/09/06/1514247&amp;from=rss)
-* [2025-09-07, 06:19:52](https://news.ycombinator.com/item?id=45155846) - [Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps](https://crates.io/crates/crabcamera)
+* [2025-09-07, 05:49:29](https://news.ycombinator.com/item?id=45155731) - [Longhorn – A Kubernetes-Native Filesystem](https://vegard.blog.engen.priv.no/?p=518)
 * [2025-09-07, 02:27:00](https://soylentnews.org/article.pl?sid=25/09/06/1510251&amp;from=rss) - [Porsche&apos;s New Cayenne Will Charge Itself Like No Other EV](https://soylentnews.org/article.pl?sid=25/09/06/1510251&amp;from=rss)
 * [2025-09-06, 21:42:00](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss) - [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss)
 * [2025-09-06, 16:59:00](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss) - [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss)
