@@ -1,42 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Technology and Innovation
 
-* [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) - A breakthrough exploration into a self-evolving large language model requiring zero preloaded data. [Comments](https://news.ycombinator.com/item?id=45192194)
+* [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/) ([comments](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024))
 
-* [Microsoft To Use Some AI From Anthropic In Shift From OpenAI](https://slashdot.org/story/25/09/09/238208/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft pivots to integrate Anthropic AI into its offerings, signaling a strategic move away from OpenAI. [Comments](https://slashdot.org/story/25/09/09/238208/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/) ([comments](https://lobste.rs/s/gjvdrw/ten_years_d3d12))
 
-* [How Google Is Already Monetizing Its AI Services To Generate Revenue](https://tech.slashdot.org/story/25/09/09/2118248/how-google-is-already-monetizing-its-ai-services-to-generate-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at Google's strategies for turning its AI developments into profitable ventures. [Comments](https://tech.slashdot.org/story/25/09/09/2118248/how-google-is-already-monetizing-its-ai-services-to-generate-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Weird OS Built Around a Database](https://www.youtube.com/watch?v=pWZBQMRmW7k) ([comments](https://lobste.rs/s/cwdcve/weird_os_built_around_database))
 
-## Space Exploration and Science
+* [Hypervisor in 1k Lines](https://1000hv.seiya.me/en) ([comments](https://news.ycombinator.com/item?id=45190777))
 
-* [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) - Research suggests Titan's lakes are capable of forming structures resembling primitive cells, deepening our understanding of life's origins. [Comments](https://news.ycombinator.com/item?id=45191347)
+* [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything) ([comments](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal))
 
-* [Congress and Trump May Compromise on the SLS Rocket by Axing its Costly Upper Stage](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss) - A budget-related compromise could significantly reshape NASA's deep-space exploration ambitions. [Comments](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss)
+* [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/) ([comments](https://news.ycombinator.com/item?id=45171733))
 
-## Cutting-Edge Technology Innovations
+## Artificial Intelligence
 
-* [The Weird OS Built Around a Database](https://www.youtube.com/watch?v=pWZBQMRmW7k) - Discover a unique operating system that integrates directly with a database, challenging conventional OS designs. [Comments](https://lobste.rs/s/cwdcve/weird_os_built_around_database)
+* [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) ([comments](https://news.ycombinator.com/item?id=45192194))
 
-* [Hypervisor in 1k Lines](https://1000hv.seiya.me/en) - A minimalistic take on creating a functional hypervisor with only 1,000 lines of code. [Comments](https://news.ycombinator.com/item?id=45190777)
+* [Microsoft To Use Some AI From Anthropic In Shift From OpenAI](https://slashdot.org/story/25/09/09/238208/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45191347))
 
-* [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos) - A breakthrough in e-paper technology could make it as vibrant and practical as conventional LCDs. [Comments](https://news.ycombinator.com/item?id=45185756)
+* [How Google Is Already Monetizing Its AI Services To Generate Revenue](https://tech.slashdot.org/story/25/09/09/2118248/how-google-is-already-monetizing-its-ai-services-to-generate-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45182248))
 
-## Innovative Applications of Technology
+* [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm) ([comments](https://news.ycombinator.com/item?id=45192655))
 
-* [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm) - An inventive integration of modern LLMs into a retro GameCube game creates dynamic in-game dialogue. [Comments](https://news.ycombinator.com/item?id=45192655)
+* [Children and young people’s reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/) ([comments](https://news.ycombinator.com/item?id=45194165))
 
-* [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/) - An exploration of database capabilities by replicating a DOOM-like game entirely in SQL. [Comments](https://lobste.rs/s/qkborx/building_doom_like_multiplayer_shooter)
+## Science and Environment
 
-## Health and Medicine
+* [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) ([comments](https://news.ycombinator.com/item?id=45191347))
 
-* [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/) - Promising results from a clinical trial show dramatic success in treating aggressive cancers. [Comments](https://news.ycombinator.com/item?id=45188945)
+* [The World's Largest Iceberg is Rapidly Breaking Apart and Melting Away](https://soylentnews.org/article.pl?sid=25/09/08/128200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/08/128200&from=rss))
 
-## Historical and Cultural Insights
+* [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos) ([comments](https://news.ycombinator.com/item?id=45185756))
 
-* [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss) - The software that kicked off Microsoft is now available as open source, offering a glimpse into computing history. [Comments](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss)
+* [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/07/005257&from=rss))
 
-* [All 54 lost clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/) - A celebration of digital preservation as rare iPod games are archived for future generations. [Comments](https://news.ycombinator.com/item?id=45171733)
+## Business and Financial Updates
+
+* [The Renewed Bid To End Quarterly Earnings Reports](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [US Created 911,000 Fewer Jobs Than Previously Thought in the 12 Months Through March](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Defense.gov Now Redirects to War.gov](https://defense.gov) ([comments](https://news.ycombinator.com/item?id=45193410))
+
+* [Intel Ousts CEO of Products, Ending 30-Year Career](https://slashdot.org/story/25/09/09/213214/intel-ousts-ceo-of-products-ending-30-year-career?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45182089))
 
 ---
 
@@ -63,8 +71,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-10, 09:32:19](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
+* [2025-09-10, 09:27:13](https://news.ycombinator.com/item?id=45195267) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
+* [2025-09-10, 08:01:14](https://lobste.rs/s/gjvdrw/ten_years_d3d12) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
+* [2025-09-10, 07:20:07](https://news.ycombinator.com/item?id=45194341) - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
+* [2025-09-10, 07:15:51](https://lobste.rs/s/nl3syv/my_quarterly_system_health_check) - [My Quarterly System Health Check-in](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
+* [2025-09-10, 07:00:55](https://news.ycombinator.com/item?id=45194223) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+* [2025-09-10, 06:51:38](https://news.ycombinator.com/item?id=45194165) - [Children and young people&apos;s reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 * [2025-09-10, 06:13:00](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss) - [Congress and Trump May Compromise on the SLS Rocket by Axing its Costly Upper Stage](https://soylentnews.org/article.pl?sid=25/09/09/1559244&amp;from=rss)
 * [2025-09-10, 06:10:50](https://lobste.rs/s/cwdcve/weird_os_built_around_database) - [The Weird OS Built Around a Database](https://www.youtube.com/watch?v=pWZBQMRmW7k)
+* [2025-09-10, 04:48:15](https://news.ycombinator.com/item?id=45193410) - [Defense.gov Now Redirects to War.gov](https://defense.gov)
 * [2025-09-10, 02:59:48](https://news.ycombinator.com/item?id=45192655) - [I replaced Animal Crossing&apos;s dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 * [2025-09-10, 02:02:17](https://news.ycombinator.com/item?id=45192194) - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 * [2025-09-10, 01:28:00](https://soylentnews.org/article.pl?sid=25/09/09/1229205&amp;from=rss) - [Your Red is My Red, at Least to Our Brains](https://soylentnews.org/article.pl?sid=25/09/09/1229205&amp;from=rss)
@@ -88,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-09, 18:43:00](https://mobile.slashdot.org/story/25/09/09/1844201/apple-launches-iphone-17-lineup-featuring-ultra-thin-56mm-iphone-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Launches iPhone 17 Lineup Featuring Ultra-Thin 5.6mm iPhone Air](https://mobile.slashdot.org/story/25/09/09/1844201/apple-launches-iphone-17-lineup-featuring-ultra-thin-56mm-iphone-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-09, 18:25:03](https://news.ycombinator.com/item?id=45186265) - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 18:12:51](https://news.ycombinator.com/item?id=45186015) - [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
-* [2025-09-09, 18:12:28](https://news.ycombinator.com/item?id=45186011) - [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
 * [2025-09-09, 18:11:00](https://news.slashdot.org/story/25/09/09/1811238/reuters-withdraws-xi-putin-longevity-video-after-china-state-tv-pulls-legal-permission-to-use-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reuters Withdraws Xi, Putin Longevity Video After China State TV Pulls Legal Permission To Use It](https://news.slashdot.org/story/25/09/09/1811238/reuters-withdraws-xi-putin-longevity-video-after-china-state-tv-pulls-legal-permission-to-use-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-09, 18:04:49](https://news.ycombinator.com/item?id=45185875) - [Tomorrow&apos;s emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
 * [2025-09-09, 17:57:35](https://news.ycombinator.com/item?id=45185756) - [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
@@ -96,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-09, 17:21:00](https://it.slashdot.org/story/25/09/09/177221/microsoft-forces-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Forces Workers Back To the Office](https://it.slashdot.org/story/25/09/09/177221/microsoft-forces-workers-back-to-the-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-09, 16:40:00](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Renewed Bid To End Quarterly Earnings Reports](https://news.slashdot.org/story/25/09/09/1535229/the-renewed-bid-to-end-quarterly-earnings-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-09, 16:31:17](https://news.ycombinator.com/item?id=45184432) - [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9)
-* [2025-09-09, 16:27:41](https://news.ycombinator.com/item?id=45184368) - [ICE is using fake cell towers to spy on people&apos;s phones](https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 16:01:00](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Created 911,000 Fewer Jobs Than Previously Thought in the 12 Months Through March](https://news.slashdot.org/story/25/09/09/1513203/us-created-911000-fewer-jobs-than-previously-thought-in-the-12-months-through-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -120,35 +134,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
 * [2025-09-09, 11:14:00](https://soylentnews.org/article.pl?sid=25/09/08/1210241&amp;from=rss) - [Recreating &apos;The Magnificient Ambersons&apos; With AI](https://soylentnews.org/article.pl?sid=25/09/08/1210241&amp;from=rss)
 * [2025-09-09, 10:55:04](https://lobste.rs/s/fumoq5/batched_critical_sections) - [Batched Critical Sections](http://kprotty.me/2025/09/08/batched-critical-sections.html)
-* [2025-09-09, 10:10:15](https://news.ycombinator.com/item?id=45179939) - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
-* [2025-09-09, 08:46:53](https://news.ycombinator.com/item?id=45179304) - [Anthropic judge rejects $1.5B AI copyright settlement](https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done)
 * [2025-09-09, 06:27:00](https://soylentnews.org/article.pl?sid=25/09/08/128200&amp;from=rss) - [The World&apos;s Largest Iceberg is Rapidly Breaking Apart and Melting Away](https://soylentnews.org/article.pl?sid=25/09/08/128200&amp;from=rss)
-* [2025-09-09, 06:10:15](https://news.ycombinator.com/item?id=45178041) - [Mistral raises 1.7B€, partners with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 * [2025-09-09, 05:16:23](https://news.ycombinator.com/item?id=45177683) - [YouTube is a mysterious monopoly](https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly)
-* [2025-09-09, 03:08:00](https://lobste.rs/s/9oneuy/liquid_glass_browser_refraction_with_css) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-09, 01:39:00](https://soylentnews.org/article.pl?sid=25/09/08/0254218&amp;from=rss) - [Mazda Patents Six-Stroke Gas Engine](https://soylentnews.org/article.pl?sid=25/09/08/0254218&amp;from=rss)
 * [2025-09-08, 22:47:55](https://lobste.rs/s/vjuviw/first_ziglang_org_outage) - [The First ziglang.org Outage](https://ziglang.org/news/first-outage/)
 * [2025-09-08, 20:53:00](https://soylentnews.org/article.pl?sid=25/09/07/1713251&amp;from=rss) - [Chagas Disease, Which Can be Deadly, is Now Considered Endemic in the U.S.](https://soylentnews.org/article.pl?sid=25/09/07/1713251&amp;from=rss)
 * [2025-09-08, 19:55:15](https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile) - [Wikimedia sunsets separate mobile domains](https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement)
-* [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All 54 lost clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
-* [2025-09-08, 16:56:26](https://lobste.rs/s/w9nx3l/introducing_signal_secure_backups) - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+* [2025-09-08, 18:09:25](https://news.ycombinator.com/item?id=45171733) - [All clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/)
 * [2025-09-08, 16:10:00](https://soylentnews.org/article.pl?sid=25/09/07/141204&amp;from=rss) - [SpaceX Dragon Reboosts the International Space Station](https://soylentnews.org/article.pl?sid=25/09/07/141204&amp;from=rss)
-* [2025-09-08, 16:07:27](https://lobste.rs/s/rojvul/fixing_my_gripes_with_github_using_gleam) - [Fixing my gripes with GitHub using Gleam and a Raspberry Pi](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi)
 * [2025-09-08, 12:55:13](https://lobste.rs/s/zvdtdn/package_managers_are_evil) - [Package Managers are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
-* [2025-09-08, 12:26:15](https://news.ycombinator.com/item?id=45167436) - [Go for Bash Programmers – Part II: CLI Tools](https://github.com/go-monk/from-bash-to-go-part-ii)
 * [2025-09-08, 11:25:00](https://soylentnews.org/article.pl?sid=25/09/07/1358242&amp;from=rss) - [New China-Aligned Crew Poisons Windows Servers for SEO Fraud](https://soylentnews.org/article.pl?sid=25/09/07/1358242&amp;from=rss)
-* [2025-09-08, 09:29:36](https://news.ycombinator.com/item?id=45166245) - [Anscombe&apos;s Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [2025-09-08, 06:43:00](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss) - [Trump Family&apos;s Crypto Token Just Made Them $5 Billion Richer](https://soylentnews.org/article.pl?sid=25/09/07/1352214&amp;from=rss)
 * [2025-09-08, 02:00:00](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss) - [Microsoft Shows Off its Latest Analog Optical Computer](https://soylentnews.org/article.pl?sid=25/09/07/0222253&amp;from=rss)
 * [2025-09-07, 21:26:00](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss) - [This Unlikely Chemical Could be a Powerful Weapon Against Climate Change](https://soylentnews.org/article.pl?sid=25/09/07/005257&amp;from=rss)
 * [2025-09-07, 16:47:00](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss) - [What the Hell is Going on Right Now?](https://soylentnews.org/article.pl?sid=25/09/07/001206&amp;from=rss)
 * [2025-09-07, 13:48:25](https://news.ycombinator.com/item?id=45158118) - [Show HN: Bottlefire – Build single-executable microVMs from Docker images](https://bottlefire.dev/)
+* [2025-09-07, 12:14:41](https://news.ycombinator.com/item?id=45157505) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 11:56:00](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss) - [France Fines Google, SHEIN for Undercooked Cookie Policies](https://soylentnews.org/article.pl?sid=25/09/06/1527240&amp;from=rss)
 * [2025-09-07, 09:20:56](https://news.ycombinator.com/item?id=45156671) - [Cassette Logic: technology that never dies but is already dead](https://www.differentshelf.com/cassette-logic/)
-* [2025-09-07, 08:22:54](https://news.ycombinator.com/item?id=45156414) - [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
 * [2025-09-07, 07:11:00](https://soylentnews.org/article.pl?sid=25/09/06/1514247&amp;from=rss) - [Nvidia&apos;s Next-Gen AI Chip Could Be Double  the Price of H20 If China Export is Approved](https://soylentnews.org/article.pl?sid=25/09/06/1514247&amp;from=rss)
 * [2025-09-07, 02:27:00](https://soylentnews.org/article.pl?sid=25/09/06/1510251&amp;from=rss) - [Porsche&apos;s New Cayenne Will Charge Itself Like No Other EV](https://soylentnews.org/article.pl?sid=25/09/06/1510251&amp;from=rss)
 * [2025-09-07, 00:25:00](https://news.ycombinator.com/item?id=45154142) - [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
+* [2025-09-07, 00:15:59](https://news.ycombinator.com/item?id=45154088) - [Knowledge and Memory](https://www.robinsloan.com/lab/knowledge-and-memory/)
+* [2025-09-06, 22:15:28](https://news.ycombinator.com/item?id=45153380) - [Interesting PEZY-SC4s](https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025)
 * [2025-09-06, 21:42:00](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss) - [Bill Gates’ 48-Year-Old Microsoft 6502 BASIC Goes Open Source](https://soylentnews.org/article.pl?sid=25/09/05/0544216&amp;from=rss)
 * [2025-09-06, 19:39:00](https://news.ycombinator.com/item?id=45152252) - [How to study people who are drunk](https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk)
 * [2025-09-06, 16:59:00](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss) - [Jury Orders Google to Pay $425 Million for Unlawfully Tracking Millions of Users](https://soylentnews.org/article.pl?sid=25/09/05/0540222&amp;from=rss)
