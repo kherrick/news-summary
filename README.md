@@ -1,46 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security
+## Science and Health Discoveries
 
-* [Thieves Busted After Stealing a Cellphone from a Security Expert's Wife](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An intriguing story of how a petty crime led to unexpected consequences when technology helped nab criminals.
+* [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2) ([comments](https://news.ycombinator.com/item?id=45239085))
 
-* [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B) - A new approach to large language models promises higher efficiency by incorporating spiking neural networks.
+* [Myocardial infarction may be an infectious disease](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease) ([comments](https://news.ycombinator.com/item?id=45235648))
 
-* [Is Perl the World’s 10th Most Popular Programming Language?](https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Perl's position in the programming hierarchy sparks discussions on its evolving role.
+* [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/) ([comments](https://news.ycombinator.com/item?id=45237442))
 
-* [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss) - Criticisms arise over Microsoft’s security practices, highlighting potential vulnerabilities in Windows.
+* [Could Heart Attacks Be Triggered By Infections?](https://science.slashdot.org/story/25/09/13/1457208/could-heart-attacks-be-triggered-by-infections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/09/13/1457208/could-heart-attacks-be-triggered-by-infections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Learning to fuzz with LibAFL by solving puzzles](https://github.com/addisoncrump/parking-game-fuzzer) - An innovative way to teach fuzzing techniques while solving enticing challenges.
+* [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss))
 
-## Science and Space
+* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss))
 
-* [‘Dragonfly’ Mission to Saturn’s Moon Titan: Behind Schedule, Overbudget, Says NASA Inspector General](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Delays plague NASA's ambitious mission to Saturn's moon, raising budgetary and scheduling concerns.
+## Technology and Innovations
 
-* [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/) - A black hole discovery may rewrite theories about the early universe.
+* [CorentinJ: Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) ([comments](https://news.ycombinator.com/item?id=45239016))
 
-* [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss) - First visible time crystal showcases leaps in quantum science and material exploration.
+* [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B) ([comments](https://news.ycombinator.com/item?id=45237754))
 
-* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss) - Astounding discovery on Mars leads scientists closer to answering age-old questions about extraterrestrial life.
+* [Models of European Metro Stations](http://stations.albertguillaumes.cat/) ([comments](https://news.ycombinator.com/item?id=45238055))
 
-## Technology in Practice
+* [UAE Lab Releases Open-Source Model to Rival China's DeepSeek ](https://slashdot.org/story/25/09/13/1734225/uae-lab-releases-open-source-model-to-rival-chinas-deepseek?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/09/13/1734225/uae-lab-releases-open-source-model-to-rival-chinas-deepseek?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Models of European Metro Stations](http://stations.albertguillaumes.cat/) - A captivating resource showcasing the architecture of European metro stations.
+## Cybersecurity and Digital Privacy
 
-* [Text Files > Complex Tools: A Minimalist Snippet Manager](https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html) - Streamlined snippet management using simple text files appeals to minimalism enthusiasts.
+* [Facebook Begins Sending Settlement Payments from Cambridge Analytica Scandal Soon](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/) - An extraordinary FPGA project packs a 486 microprocessor power into the size of a credit card.
+* [Thieves Busted After Stealing a Cellphone from a Security Expert's Wife](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [The Many Broken Feeds](https://notes.abhinavsarkar.net/2025/broken-feeds) ([comments](https://lobste.rs/s/3gfgfs/many_broken_feeds))
+
+* [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/) ([comments](https://news.ycombinator.com/item?id=45233415))
 
 ## Cultural and Historical Insights
 
-* [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq) - Revival of ancient landmarks aims to boost Iraq's cultural treasure and tourism sector.
+* [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq) ([comments](https://news.ycombinator.com/item?id=45236473))
 
-* [Four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland) - A lighthearted yet persistent mystery finds a satisfying solution after years of speculation.
+* [Myanmar's 'Cyber-Slavery Compounds' May Hold 100,000 Trafficked People](https://yro.slashdot.org/story/25/09/13/195226/myanmars-cyber-slavery-compounds-may-hold-100000-trafficked-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/09/13/195226/myanmars-cyber-slavery-compounds-may-hold-100000-trafficked-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Social and Ethical Concerns
+## Science Fiction and Space Missions
 
-* [Myanmar's 'Cyber-Slavery Compounds' May Hold 100,000 Trafficked People](https://yro.slashdot.org/story/25/09/13/195226/myanmars-cyber-slavery-compounds-may-hold-100000-trafficked-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Human rights alarm over the large-scale exploitation uncovered in Myanmar.
-
-* [The case against social media is stronger than you think](https://arachnemag.substack.com/p/the-case-against-social-media-is) - A scrutinizing critique of social media's damaging impacts gains traction.
+* ['Dragonfly' Mission to Saturn's Moon Titan: Behind Schedule, Overbudget, Says NASA Inspector General](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -67,9 +69,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
+* [2025-09-14, 11:34:00](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facebook Begins Sending Settlement Payments from Cambridge Analytica Scandal Soon](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+* [2025-09-14, 11:01:53](https://news.ycombinator.com/item?id=45238930) - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
+* [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
+* [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss)
+* [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true &apos;IBMer&apos;](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
+* [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:34:00](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thieves Busted After Stealing a Cellphone from a Security Expert&apos;s Wife](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-14, 07:15:21](https://lobste.rs/s/3gfgfs/many_broken_feeds) - [The Many Broken Feeds](https://notes.abhinavsarkar.net/2025/broken-feeds)
 * [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+* [2025-09-14, 06:42:56](https://news.ycombinator.com/item?id=45237970) - [Cat Aquariums](https://cataquariums.com/)
 * [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 05:40:30](https://lobste.rs/s/0nmyzm/refurb_weekend_silicon_graphics_indigo) - [Refurb weekend: Silicon Graphics Indigo² IMPACT 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
@@ -77,8 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, &apos;naked&apos; black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
 * [2025-09-14, 03:34:59](https://lobste.rs/s/kkqhue/few_notes_on_ratelimiting) - [a few notes on ratelimiting](https://dotat.at/@/2025-09-14-ratelimit.html)
 * [2025-09-14, 03:34:00](https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Perl the World&apos;s 10th Most Popular Programming Language?](https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
-* [2025-09-14, 01:53:31](https://news.ycombinator.com/item?id=45236774) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-09-14, 01:34:00](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Dragonfly&apos; Mission to Saturn&apos;s Moon Titan: Behind Schedule, Overbudget, Says NASA Inspector General](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-14, 01:05:59](https://lobste.rs/s/y8fio7/bsd_user_4_linux_project) - [bsd-user-4-linux project](https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/)
 * [2025-09-14, 01:01:03](https://lobste.rs/s/xtb30i/redox_development_priorities_for_2025_26) - [Redox Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/)
@@ -99,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss)
 * [2025-09-13, 19:34:00](https://yro.slashdot.org/story/25/09/13/195226/myanmars-cyber-slavery-compounds-may-hold-100000-trafficked-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Myanmar&apos;s &apos;Cyber-Slavery Compounds&apos; May Hold 100,000 Trafficked People](https://yro.slashdot.org/story/25/09/13/195226/myanmars-cyber-slavery-compounds-may-hold-100000-trafficked-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 19:03:48](https://lobste.rs/s/vjgucr/rip_pthread_cancel) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
-* [2025-09-13, 19:00:29](https://news.ycombinator.com/item?id=45234460) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 18:39:17](https://news.ycombinator.com/item?id=45234323) - [The case against social media is stronger than you think](https://arachnemag.substack.com/p/the-case-against-social-media-is)
 * [2025-09-13, 18:34:00](https://slashdot.org/story/25/09/13/1734225/uae-lab-releases-open-source-model-to-rival-chinas-deepseek?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UAE Lab Releases Open-Source Model to Rival China&apos;s DeepSeek ](https://slashdot.org/story/25/09/13/1734225/uae-lab-releases-open-source-model-to-rival-chinas-deepseek?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 17:52:39](https://lobste.rs/s/gbigsc/learning_fuzz_with_libafl_by_solving) - [Learning to fuzz with LibAFL by solving puzzles](https://github.com/addisoncrump/parking-game-fuzzer)
@@ -113,13 +121,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-13, 15:34:00](https://yro.slashdot.org/story/25/09/13/0155250/megaupload-founder-kim-dotcom-loses-latest-bid-to-avoid-us-extradition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Megaupload Founder Kim Dotcom Loses Latest Bid to Avoid US Extradition](https://yro.slashdot.org/story/25/09/13/0155250/megaupload-founder-kim-dotcom-loses-latest-bid-to-avoid-us-extradition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 15:08:28](https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor) - [Flow Control: a programmer&apos;s text editor](https://github.com/neurocyte/flow)
 * [2025-09-13, 14:52:45](https://news.ycombinator.com/item?id=45232565) - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
-* [2025-09-13, 14:52:33](https://news.ycombinator.com/item?id=45232562) - [Four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)
 * [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss)
 * [2025-09-13, 14:44:24](https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive) - [Setsum – order agnostic, additive, subtractive checksum](https://avi.im/blag/2025/setsum)
 * [2025-09-13, 14:34:00](https://slashdot.org/story/25/09/13/014244/forever-chemicals-found-in-95-of-beers-tested-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Forever Chemicals&apos; Found In 95% of Beers Tested In the U.S.](https://slashdot.org/story/25/09/13/014244/forever-chemicals-found-in-95-of-beers-tested-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-13, 14:22:59](https://news.ycombinator.com/item?id=45232299) - [Show HN: CLAVIER-36 – A programming environment for generative music](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
 * [2025-09-13, 14:22:32](https://lobste.rs/s/i4mslh/my_first_cve) - [My first CVE](https://natkr.com/2025-09-13-my-first-cve/)
-* [2025-09-13, 13:15:26](https://news.ycombinator.com/item?id=45231852) - [My first impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-09-13, 13:00:00](https://news.slashdot.org/story/25/09/13/0012220/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pilot Union Urges FAA To Reject Rainmaker&apos;s Drone Cloud-Seeding Plan](https://news.slashdot.org/story/25/09/13/0012220/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 12:57:36](https://lobste.rs/s/xinll3/safe_c_proposal_is_not_being_continued) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
@@ -129,7 +134,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-13, 10:00:00](https://science.slashdot.org/story/25/09/13/007205/e-bike-injuries-are-a-massive-burden-say-surgeons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [E-Bike Injuries Are a Massive Burden, Say Surgeons](https://science.slashdot.org/story/25/09/13/007205/e-bike-injuries-are-a-massive-burden-say-surgeons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 09:13:59](https://lobste.rs/s/mn2jkz/diesel_2_3_0) - [Diesel 2.3.0](https://diesel.rs/news/2_3_0_release.html)
 * [2025-09-13, 07:14:46](https://lobste.rs/s/hr1w7r/ducklake_for_busy_engineering_managers) - [DuckLake for busy engineering managers](https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers)
-* [2025-09-13, 07:00:00](https://science.slashdot.org/story/25/09/12/2344232/synthetic-magnetic-fields-steer-light-on-a-chip-for-faster-communications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Synthetic Magnetic Fields Steer Light On a Chip For Faster Communications](https://science.slashdot.org/story/25/09/12/2344232/synthetic-magnetic-fields-steer-light-on-a-chip-for-faster-communications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss)
 * [2025-09-13, 03:04:03](https://lobste.rs/s/hh07fn/basics_equality_saturation) - [Basics of Equality Saturation](https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss)
@@ -148,10 +152,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
 * [2025-09-11, 06:05:00](https://soylentnews.org/article.pl?sid=25/09/10/0436239&amp;from=rss) - [Tiny11 Builder Update Lets Users Strip Copilot and Other Bloat From Windows 11](https://soylentnews.org/article.pl?sid=25/09/10/0436239&amp;from=rss)
 * [2025-09-11, 01:19:00](https://soylentnews.org/article.pl?sid=25/09/10/0431231&amp;from=rss) - [48 Years Ago, Voyager 1 Left Earth](https://soylentnews.org/article.pl?sid=25/09/10/0431231&amp;from=rss)
+* [2025-09-10, 21:25:37](https://news.ycombinator.com/item?id=45204003) - [An Inline Cache Isn&apos;t Just a Cache](https://www.mgaudet.ca/technical/2018/6/5/an-inline-cache-isnt-just-a-cache)
+* [2025-09-10, 20:58:34](https://news.ycombinator.com/item?id=45203601) - [The rules behing Rust functions](https://blog.cuongle.dev/p/the-hidden-rules-behind-rust-functions)
 * [2025-09-10, 20:29:00](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss) - [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss)
-* [2025-09-10, 19:14:14](https://news.ycombinator.com/item?id=45202315) - [Show HN: Ultraplot – A succint wrapper for matplotlib](https://github.com/Ultraplot/UltraPlot)
 * [2025-09-10, 15:44:00](https://soylentnews.org/article.pl?sid=25/09/10/0055209&amp;from=rss) - [Ubuntu Software Repositories Unavailable or Slow for Multiple Days Due to Outage](https://soylentnews.org/article.pl?sid=25/09/10/0055209&amp;from=rss)
-* [2025-09-10, 14:05:45](https://news.ycombinator.com/item?id=45197896) - [Lexy: A parser combinator library for C++17](https://github.com/foonathan/lexy)
 * [2025-09-10, 14:03:11](https://news.ycombinator.com/item?id=45197862) - [The Socratic Journal Method: A Simple Journaling Method That Works](https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/)
 * [2025-09-10, 13:36:55](https://news.ycombinator.com/item?id=45197453) - [Dynamic Bird Migration Map](https://explorer.audubon.org/explore/species?sidebar=expand)
 * [2025-09-10, 13:00:16](https://news.ycombinator.com/item?id=45196991) - [Adding OR logic forced us to confront why users preferred raw SQL](https://signoz.io/blog/query-builder-v5/)
