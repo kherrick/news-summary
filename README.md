@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations in Technology
+## Technology Advances and Challenges
 
-* [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) - A detailed dive into how operating system kernels are created from the ground up. [Comments](https://news.ycombinator.com/item?id=45240682)
+* [Facebook Begins Sending Settlement Payments from Cambridge Analytica Scandal Soon](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon)
 
-* [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B) - An exploration of a novel neural network model promising efficiency improvements over classic LLMs. [Comments](https://news.ycombinator.com/item?id=45237754)
+* [Amazon's FTC Opens New Probe into Amazon and Google Advertising Practices](https://yro.slashdot.org/story/25/09/14/1638247/americas-ftc-opens-new-probe-into-amazon-and-google-advertising-practices)
 
-* [CorentinJ: Real-Time Voice Cloning (2021)](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - A voice cloning tool capable of real-time processing. [Comments](https://news.ycombinator.com/item?id=45239016)
+* [UAE Lab Releases Open-Source Model to Rival China's DeepSeek](https://slashdot.org/story/25/09/13/1734225/uae-lab-releases-open-source-model-to-rival-chinas-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Gemini (2023)](https://geminiquickst.art/) - An introduction to Gemini as a minimalist alternative to the traditional web. [Comments](https://news.ycombinator.com/item?id=45238536)
+## Scientific Discoveries and Environmental Efforts
 
-## Environmental and Space Advances
+* [Can Lab-Grown Coral Restore Reefs Damaged By Climate Change?](https://news.slashdot.org/story/25/09/13/2025209/can-lab-grown-coral-restore-reefs-damaged-by-climate-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Most Earth-Like Planet Yet May Have Been Found Just 40 Light Years Away](https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discoveries suggest that a new planet closely resembles Earth.
+* [Most Earth-Like Planet Yet May Have Been Found Just 40 Light Years Away](https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away)
 
-* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss) - New findings raise hopes of identifying extraterrestrial life.
+* [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&from=rss)
 
-## Corporate and Economic Developments
+## Space Exploration
 
-* [Microsoft Escapes EU Competition Probe by Unbundling Teams for Seven Years, Opening API](https://slashdot.org/story/25/09/14/0433205/microsoft-escapes-eu-competition-probe-by-unbundling-teams-for-seven-years-opening-api?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Action taken to address EU competition watchdog concerns. [Comments](https://news.ycombinator.com/item?id=45240682)
+* [Dragonfly Mission to Saturn's Moon Titan: Behind Schedule, Overbudget, Says NASA Inspector General](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Facebook Begins Sending Settlement Payments from Cambridge Analytica Scandal Soon](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal settlements from the high-profile case surface.
+* [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&from=rss)
 
-## Scientific Curiosities
+* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss)
 
-* [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition) - Researchers examine whether exposure to radiation impacts the intelligence of insects in Fukushima. [Comments](https://news.ycombinator.com/item?id=45238836)
+## Cultural and Historical Insights
 
-* [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/) - The discovery has experts rethinking cosmological history.
+* [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&from=rss)
 
-## Art and Digital Experiences
+* [How the Restoration of Ancient Babylon is Drawing Tourists Back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq)
 
-* [Website Is Just an SVG](https://svg.nicubunu.ro/) - An imaginative webpage entirely built using an SVG. [Comments](https://news.ycombinator.com/item?id=45240391)
+## Unique Technological Efforts
 
-* [Models of European Metro Stations](http://stations.albertguillaumes.cat/) - A digital exploration of European metro station designs. [Comments](https://news.ycombinator.com/item?id=45238055)
+* [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
+
+* [Writing an Operating System Kernel from Scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
+
+* [Gemini (2023)](https://geminiquickst.art/)
+
+## Unusual Phenomena and Theories
+
+* [A Single, Naked Black Hole Confounds Theories of the Young Cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
+
+* [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&from=rss)
 
 ---
 
@@ -59,29 +69,33 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-14, 18:34:00](https://yro.slashdot.org/story/25/09/14/1656244/african-island-demanding-government-action-punished-with-year-long-internet-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [African Island Demanding Government Action Punished with Year-Long Internet Outage](https://yro.slashdot.org/story/25/09/14/1656244/african-island-demanding-government-action-punished-with-year-long-internet-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-14, 17:34:00](https://yro.slashdot.org/story/25/09/14/1638247/americas-ftc-opens-new-probe-into-amazon-and-google-advertising-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s FTC Opens New Probe into Amazon and Google Advertising Practices](https://yro.slashdot.org/story/25/09/14/1638247/americas-ftc-opens-new-probe-into-amazon-and-google-advertising-practices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-14, 17:28:38](https://lobste.rs/s/yrtjug/unreasonable_effectiveness_modern_sort) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
+* [2025-09-14, 17:25:20](https://lobste.rs/s/4v5sqd/tag2upload_first_month_debian_forky) - [tag2upload in the first month of Debian forky](https://diziet.dreamwidth.org/20143.html)
+* [2025-09-14, 16:40:09](https://lobste.rs/s/6sig0s/on_security_ssh_client_signatures) - [On the Security of SSH Client Signatures](https://arxiv.org/abs/2509.09331)
+* [2025-09-14, 16:34:00](https://news.slashdot.org/story/25/09/13/2025209/can-lab-grown-coral-restore-reefs-damaged-by-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Lab-Grown Coral Restore Reefs Damaged By Climate Change?](https://news.slashdot.org/story/25/09/13/2025209/can-lab-grown-coral-restore-reefs-damaged-by-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-14, 16:21:14](https://lobste.rs/s/bvg2mx/gleam_is_my_new_obsession) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:44:44](https://news.ycombinator.com/item?id=45240682) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 15:42:02](https://lobste.rs/s/aokjpu/writing_operating_system_kernel_from) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 15:34:00](https://slashdot.org/story/25/09/14/0433205/microsoft-escapes-eu-competition-probe-by-unbundling-teams-for-seven-years-opening-api?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Escapes EU Competition Probe by Unbundling Teams for Seven Years, Opening API](https://slashdot.org/story/25/09/14/0433205/microsoft-escapes-eu-competition-probe-by-unbundling-teams-for-seven-years-opening-api?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Website Is Just an SVG](https://svg.nicubunu.ro/)
-* [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
-* [2025-09-14, 15:01:38](https://news.ycombinator.com/item?id=45240266) - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
+* [2025-09-14, 15:13:42](https://news.ycombinator.com/item?id=45240391) - [Nicu&apos;s test website made with SVG (2007)](https://svg.nicubunu.ro/)
+* [2025-09-14, 15:05:28](https://news.ycombinator.com/item?id=45240304) - [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
 * [2025-09-14, 14:49:00](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss) - [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss)
-* [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [We Spiral](https://behavioralscientist.org/why-we-spiral/)
+* [2025-09-14, 14:46:58](https://news.ycombinator.com/item?id=45240146) - [Why We Spiral](https://behavioralscientist.org/why-we-spiral/)
 * [2025-09-14, 14:34:00](https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Most Earth-Like Planet Yet May Have Been Found Just 40 Light Years Away](https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-14, 14:04:16](https://news.ycombinator.com/item?id=45239803) - [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
 * [2025-09-14, 13:23:12](https://news.ycombinator.com/item?id=45239601) - [Read to Forget](https://mo42.bearblog.dev/read-to-forget/)
 * [2025-09-14, 13:17:34](https://lobste.rs/s/dyezn4/motorola_intel_ibm_make_mainframe_pc_pc_xt) - [Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370](https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe)
+* [2025-09-14, 11:37:33](https://news.ycombinator.com/item?id=45239085) - [Repetitive negative thinking associated with cognitive decline in older adults](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2)
 * [2025-09-14, 11:34:00](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facebook Begins Sending Settlement Payments from Cambridge Analytica Scandal Soon](https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-14, 11:23:03](https://news.ycombinator.com/item?id=45239016) - [CorentinJ: Real-Time Voice Cloning (2021)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [2025-09-14, 11:01:53](https://news.ycombinator.com/item?id=45238930) - [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf)
 * [2025-09-14, 10:32:22](https://news.ycombinator.com/item?id=45238836) - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
 * [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss)
-* [2025-09-14, 09:13:39](https://news.ycombinator.com/item?id=45238567) - [The PC was never a true &apos;IBMer&apos;](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
 * [2025-09-14, 09:04:53](https://news.ycombinator.com/item?id=45238536) - [Gemini (2023)](https://geminiquickst.art/)
 * [2025-09-14, 07:34:00](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thieves Busted After Stealing a Cellphone from a Security Expert&apos;s Wife](https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-14, 07:15:21](https://lobste.rs/s/3gfgfs/many_broken_feeds) - [The Many Broken Feeds](https://notes.abhinavsarkar.net/2025/broken-feeds)
-* [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
-* [2025-09-14, 06:42:56](https://news.ycombinator.com/item?id=45237970) - [Cat Aquariums](https://cataquariums.com/)
+* [2025-09-14, 07:00:44](https://news.ycombinator.com/item?id=45238055) - [Models of European metro stations](http://stations.albertguillaumes.cat/)
 * [2025-09-14, 05:49:42](https://news.ycombinator.com/item?id=45237754) - [SpikingBrain 7B – More efficient than classic LLMs](https://github.com/BICLab/SpikingBrain-7B)
 * [2025-09-14, 05:42:38](https://news.ycombinator.com/item?id=45237717) - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 * [2025-09-14, 05:40:30](https://lobste.rs/s/0nmyzm/refurb_weekend_silicon_graphics_indigo) - [Refurb weekend: Silicon Graphics Indigo² IMPACT 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
@@ -89,6 +103,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-14, 04:27:12](https://news.ycombinator.com/item?id=45237442) - [A single, &apos;naked&apos; black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
 * [2025-09-14, 03:34:59](https://lobste.rs/s/kkqhue/few_notes_on_ratelimiting) - [a few notes on ratelimiting](https://dotat.at/@/2025-09-14-ratelimit.html)
 * [2025-09-14, 03:34:00](https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Perl the World&apos;s 10th Most Popular Programming Language?](https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-14, 03:29:35](https://news.ycombinator.com/item?id=45237184) - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
 * [2025-09-14, 01:34:00](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Dragonfly&apos; Mission to Saturn&apos;s Moon Titan: Behind Schedule, Overbudget, Says NASA Inspector General](https://science.slashdot.org/story/25/09/14/0026256/dragonfly-mission-to-saturns-moon-titan-behind-schedule-overbudget-says-nasa-inspector-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-14, 01:05:59](https://lobste.rs/s/y8fio7/bsd_user_4_linux_project) - [bsd-user-4-linux project](https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/)
 * [2025-09-14, 01:01:03](https://lobste.rs/s/xtb30i/redox_development_priorities_for_2025_26) - [Redox Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/)
@@ -113,12 +128,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-13, 17:34:00](https://science.slashdot.org/story/25/09/13/0251201/a-single-exercise-session-may-slow-cancer-cell-growth-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Single Exercise Session May Slow Cancer Cell Growth, Study Finds](https://science.slashdot.org/story/25/09/13/0251201/a-single-exercise-session-may-slow-cancer-cell-growth-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 16:46:35](https://lobste.rs/s/z4yell/internet_coup) - [The Internet Coup](https://interseclab.org/research/the-internet-coup/)
 * [2025-09-13, 16:43:26](https://news.ycombinator.com/item?id=45233415) - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
-* [2025-09-13, 16:34:00](https://developers.slashdot.org/story/25/09/13/054206/the-software-engineers-paid-to-fix-vibe-coded-messes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Software Engineers Paid To Fix Vibe Coded Messes](https://developers.slashdot.org/story/25/09/13/054206/the-software-engineers-paid-to-fix-vibe-coded-messes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-13, 15:34:00](https://yro.slashdot.org/story/25/09/13/0155250/megaupload-founder-kim-dotcom-loses-latest-bid-to-avoid-us-extradition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Megaupload Founder Kim Dotcom Loses Latest Bid to Avoid US Extradition](https://yro.slashdot.org/story/25/09/13/0155250/megaupload-founder-kim-dotcom-loses-latest-bid-to-avoid-us-extradition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 15:08:28](https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor) - [Flow Control: a programmer&apos;s text editor](https://github.com/neurocyte/flow)
 * [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss)
 * [2025-09-13, 14:44:24](https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive) - [Setsum – order agnostic, additive, subtractive checksum](https://avi.im/blag/2025/setsum)
-* [2025-09-13, 14:34:00](https://slashdot.org/story/25/09/13/014244/forever-chemicals-found-in-95-of-beers-tested-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Forever Chemicals&apos; Found In 95% of Beers Tested In the U.S.](https://slashdot.org/story/25/09/13/014244/forever-chemicals-found-in-95-of-beers-tested-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-13, 14:22:32](https://lobste.rs/s/i4mslh/my_first_cve) - [My first CVE](https://natkr.com/2025-09-13-my-first-cve/)
 * [2025-09-13, 12:57:36](https://lobste.rs/s/xinll3/safe_c_proposal_is_not_being_continued) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
 * [2025-09-13, 12:02:11](https://news.ycombinator.com/item?id=45231378) - [Show HN: A store that generates products from anything you type in search](https://anycrap.shop/)
@@ -126,17 +138,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-13, 10:50:29](https://lobste.rs/s/klmcs5/ai_coding) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss) - [AI&apos;s Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss)
 * [2025-09-13, 09:13:59](https://lobste.rs/s/mn2jkz/diesel_2_3_0) - [Diesel 2.3.0](https://diesel.rs/news/2_3_0_release.html)
-* [2025-09-13, 07:14:46](https://lobste.rs/s/hr1w7r/ducklake_for_busy_engineering_managers) - [DuckLake for busy engineering managers](https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss)
-* [2025-09-13, 03:04:03](https://lobste.rs/s/hh07fn/basics_equality_saturation) - [Basics of Equality Saturation](https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss)
-* [2025-09-12, 22:33:38](https://lobste.rs/s/mlbsfi/utf_8_is_brilliant_design) - [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 * [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss) - [LIGO&apos;s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss)
-* [2025-09-12, 17:55:54](https://lobste.rs/s/t3wns0/what_happens_after_i_m_gone_future_online) - [What Happens After I&apos;m Gone? The Future of the Online Me](https://btxx.org/posts/planning-ahead/)
 * [2025-09-12, 15:13:00](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss) - [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss)
 * [2025-09-12, 10:33:00](https://soylentnews.org/article.pl?sid=25/09/10/2236210&amp;from=rss) - [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&amp;from=rss)
 * [2025-09-12, 05:46:00](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss) - [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss)
 * [2025-09-12, 01:01:00](https://soylentnews.org/article.pl?sid=25/09/10/2225205&amp;from=rss) - [Unicode version 17.0.0 Released ](https://soylentnews.org/article.pl?sid=25/09/10/2225205&amp;from=rss)
+* [2025-09-11, 20:46:02](https://news.ycombinator.com/item?id=45215952) - [Accelerated Game of Life with CUDA / Triton](https://www.boristhebrave.com/2025/09/11/accelerated-game-of-life-with-cuda-triton/)
 * [2025-09-11, 20:16:00](https://soylentnews.org/article.pl?sid=25/09/10/0627237&amp;from=rss) - [Scientists Create Solar Cells That Generate Energy From Indoor Light at Record Efficiency](https://soylentnews.org/article.pl?sid=25/09/10/0627237&amp;from=rss)
 * [2025-09-11, 18:36:58](https://news.ycombinator.com/item?id=45214715) - [MIT-MC CP/M archive files, 1979-1984](https://github.com/MITDDC/cpmarchive-1979-1984)
 * [2025-09-11, 15:34:00](https://soylentnews.org/article.pl?sid=25/09/10/0624239&amp;from=rss) - [Meta Reportedly Suppressed Research About How Dangerous its VR Headsets Are for Kids](https://soylentnews.org/article.pl?sid=25/09/10/0624239&amp;from=rss)
@@ -144,6 +153,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-11, 07:27:52](https://news.ycombinator.com/item?id=45208828) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
 * [2025-09-11, 06:05:00](https://soylentnews.org/article.pl?sid=25/09/10/0436239&amp;from=rss) - [Tiny11 Builder Update Lets Users Strip Copilot and Other Bloat From Windows 11](https://soylentnews.org/article.pl?sid=25/09/10/0436239&amp;from=rss)
 * [2025-09-11, 01:19:00](https://soylentnews.org/article.pl?sid=25/09/10/0431231&amp;from=rss) - [48 Years Ago, Voyager 1 Left Earth](https://soylentnews.org/article.pl?sid=25/09/10/0431231&amp;from=rss)
+* [2025-09-10, 22:01:45](https://news.ycombinator.com/item?id=45204587) - [You&apos;re a Slow Thinker. Now What?](https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what)
 * [2025-09-10, 20:29:00](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss) - [Scientists Turned Plastic Trash Into a Material That Eats Carbon](https://soylentnews.org/article.pl?sid=25/09/10/0113202&amp;from=rss)
 * [2025-09-10, 17:04:29](https://news.ycombinator.com/item?id=45200642) - [Observable Notebooks Data Loaders](https://observablehq.com/notebook-kit/data-loaders)
 * [2025-09-10, 16:32:23](https://news.ycombinator.com/item?id=45200133) - [Introduction to GrapheneOS](https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html)
