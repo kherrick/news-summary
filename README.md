@@ -1,36 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Tech Industry Highlights
 
-* [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss) - The Pentagon is rolling out a cutting-edge satellite network designed to integrate sensors and firing systems, enhancing military operational capabilities. [Comments](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss)
+* [A detailed review of macOS 26 Tahoe](https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/) ([comments](https://lobste.rs/s/etufe3/detailed_review_macos_26_tahoe))
 
-* [winboat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat) - A novel tool enabling Linux users to effortlessly run Windows applications. [Comments](https://lobste.rs/s/kenxsl/winboat_run_windows_apps_on_linux_with)
+* [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised) ([comments](https://news.ycombinator.com/item?id=45260741))
 
-* [IBM Technology Atlas](https://www.ibm.com/roadmaps/) - A comprehensive roadmap detailing IBM's current technologies and future innovations. [Comments](https://news.ycombinator.com/item?id=45259139)
+* [Swift 6.2 Released](https://www.swift.org/blog/swift-6.2-released/) ([comments](https://lobste.rs/s/otiuw4/swift_6_2_released))
 
-* [Dolphin Progress Report: Release 2509](https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/) - Updates on the popular Dolphin emulator and its new features. [Comments](https://lobste.rs/s/t5kbvv/dolphin_progress_report_release_2509)
+* [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&from=rss) ([comments](https://soylentnews.org/article.pl))
 
-## Social Impact and Legal Issues
+* [Robinhood Plans To Launch a Startups Fund Open To All Retail Investors](https://news.slashdot.org/story/25/09/15/2159203/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org))
 
-* [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza) - A UN report accuses Israel of genocide in Gaza, sparking significant international debate. [Comments](https://news.ycombinator.com/item?id=45259553)
+* [Meta Ray-Ban Display Glasses Design, HUD Clips Leak](https://hardware.slashdot.org/story/25/09/15/2049228/meta-ray-ban-display-glasses-design-hud-clips-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org))
 
-* [FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An investigation into Ticketmaster's practices related to ticket resale bots raises concerns over consumer protection. [Comments](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Security and Privacy Concerns
 
-## Unique and Creative Developments
+* [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/) ([comments](https://news.ycombinator.com/item?id=45261163))
 
-* [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/) - A playful and niche method of web hosting using unconventional hardware. [Comments](https://news.ycombinator.com/item?id=45252817)
+* [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/) ([comments](https://lobste.rs/s/6z2p0h/wanted_spy_on_my_dog_ended_up_spying_on_tp))
 
-* [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/) - A creative exploration of nostalgic web graphics through animated mosaics. [Comments](https://lobste.rs/s/jpwfu5/just_for_fun_animating_mosaic_90s_gifs)
+* [FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org))
 
-## Emerging Web and Software Trends
+## Scientific Discoveries and Innovations
 
-* [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/) - Insights into streamlining continuous integration processes by automating Linux distribution updates. [Comments](https://lobste.rs/s/cly8x2/automating_distro_updates_ci)
+* [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&from=rss) ([comments](https://soylentnews.org))
 
-* [Linux phones are more important now than ever](https://feddit.org/post/18353777) - An article arguing the growing necessity of Linux phones in today's tech landscape. [Comments](https://news.ycombinator.com/item?id=45256651)
+* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss) ([comments](https://soylentnews.org))
 
-## Science and Space
+* [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&from=rss) ([comments](https://soylentnews.org))
 
-* [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss) - New research explores how planetary alignments might influence solar activities. [Comments](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss)
+## Creative and Educational Projects
+
+* [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/) ([comments](https://lobste.rs/s/jpwfu5/just_for_fun_animating_mosaic_90s_gifs))
+
+* [Linux phones are more important now than ever](https://feddit.org/post/18353777) ([comments](https://news.ycombinator.com/item?id=45256651))
+
+* [How I Use AI](https://timkellogg.me/blog/2025/09/15/ai-tools) ([comments](https://lobste.rs/s/70n6tf/how_i_use_ai))
+
+## Entertainment and Culture
+
+* [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html) ([comments](https://news.ycombinator.com/item?id=45261159))
+
+* [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html) ([comments](https://news.ycombinator.com/item?id=45255137))
+
+* [Scientists uncover extreme life inside the Arctic ice](https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery) ([comments](https://news.ycombinator.com/item?id=45228231))
 
 ---
 
@@ -57,11 +71,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-16, 12:42:36](https://lobste.rs/s/etufe3/detailed_review_macos_26_tahoe) - [A detailed review of macOS 26 Tahoe](https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/)
+* [2025-09-16, 12:10:49](https://news.ycombinator.com/item?id=45261163) - [FBI couldn&apos;t get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/)
+* [2025-09-16, 12:10:31](https://news.ycombinator.com/item?id=45261159) - [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html)
+* [2025-09-16, 11:59:47](https://lobste.rs/s/ssnzbl/painful_road_java_modularity_with_osgi) - [A painful road to Java modularity with OSGi](https://blog.enioka.com/2025/06/18/a-painful-road-to-java-modularity/)
+* [2025-09-16, 11:51:18](https://news.ycombinator.com/item?id=45260969) - [Ask HN: Generalists, when do you say \&quot;I know enough\&quot; about any particular topic?](https://news.ycombinator.com/item?id=45260969)
+* [2025-09-16, 11:22:03](https://news.ycombinator.com/item?id=45260741) - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
+* [2025-09-16, 10:55:53](https://lobste.rs/s/70n6tf/how_i_use_ai) - [How I Use AI](https://timkellogg.me/blog/2025/09/15/ai-tools)
+* [2025-09-16, 10:42:38](https://lobste.rs/s/3pyir2/task_v3_45_released) - [Task v3.45 released](https://github.com/go-task/task/releases/tag/v3.45.3)
+* [2025-09-16, 09:37:12](https://lobste.rs/s/otiuw4/swift_6_2_released) - [Swift 6.2 Released](https://www.swift.org/blog/swift-6.2-released/)
 * [2025-09-16, 09:24:00](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss) - [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss)
 * [2025-09-16, 08:26:32](https://lobste.rs/s/cly8x2/automating_distro_updates_ci) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
-* [2025-09-16, 08:24:22](https://news.ycombinator.com/item?id=45259553) - [Top UN legal investigators conclude Israel is guilty of genocide in Gaza](https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza)
-* [2025-09-16, 08:20:24](https://news.ycombinator.com/item?id=45259529) - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
-* [2025-09-16, 07:28:42](https://news.ycombinator.com/item?id=45259139) - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
 * [2025-09-16, 06:54:17](https://lobste.rs/s/kenxsl/winboat_run_windows_apps_on_linux_with) - [winboat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
 * [2025-09-16, 06:35:53](https://lobste.rs/s/t5kbvv/dolphin_progress_report_release_2509) - [Dolphin Progress Report: Release 2509](https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/)
 * [2025-09-16, 06:15:22](https://lobste.rs/s/6z2p0h/wanted_spy_on_my_dog_ended_up_spying_on_tp) - [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
@@ -81,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-15, 23:02:31](https://news.ycombinator.com/item?id=45256043) - [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 * [2025-09-15, 22:40:00](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Ends Legal Battle With Record Labels Over Historic Recordings](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 22:00:00](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How California Reached a Union Deal With Tech Giants Uber and Lyft](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-15, 21:51:55](https://news.ycombinator.com/item?id=45255400) - [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 * [2025-09-15, 21:20:00](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airlines Sell 5 Billion Plane Ticket Records To the Government For Warrantless Searching](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 21:00:00](https://tech.slashdot.org/story/25/09/15/2040255/tiktok-deal-framework-reached-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Deal &apos;Framework&apos; Reached With China](https://tech.slashdot.org/story/25/09/15/2040255/tiktok-deal-framework-reached-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,41 +128,36 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-15, 15:20:18](https://news.ycombinator.com/item?id=45250720) - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
 * [2025-09-15, 15:14:35](https://lobste.rs/s/6hzayo/varnish_8_0_0_with_bonus_project_news) - [Varnish: 8.0.0 with bonus project news](https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news)
 * [2025-09-15, 15:02:14](https://lobste.rs/s/ccy3b6/pirate_based_logic_rust_shared) - [The pirate-based logic of Rust shared references](http://ais523.me.uk/blog/logic-of-shared-references.html)
-* [2025-09-15, 14:33:41](https://news.ycombinator.com/item?id=45250202) - [How to self-host a web font from Google Fonts](https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html)
 * [2025-09-15, 14:29:00](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss) - [Nano11 Compresses Windows 11 Install Footprint to as Little as 2.8GB](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss)
 * [2025-09-15, 14:04:47](https://news.ycombinator.com/item?id=45249915) - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 * [2025-09-15, 14:02:02](https://news.ycombinator.com/item?id=45249878) - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 * [2025-09-15, 13:59:11](https://lobste.rs/s/d26qtj/e_language) - [The E Language](http://erights.org/elang/index.html)
 * [2025-09-15, 12:33:28](https://news.ycombinator.com/item?id=45248899) - [How big a solar battery do I need to store all my home&apos;s electricity?](https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/)
-* [2025-09-15, 12:05:09](https://lobste.rs/s/zvngj0/beyond_orthogonality_how_language) - [Beyond Orthogonality: How Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
-* [2025-09-15, 11:39:33](https://lobste.rs/s/z5vm7k/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/z5vm7k/what_are_you_doing_this_week)
 * [2025-09-15, 10:12:00](https://lobste.rs/s/jxprbr/algebraic_types_are_not_scary_actually) - [Algebraic Types are not Scary, Actually](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
 * [2025-09-15, 09:46:00](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss) - [Google is Telling People DOGE Never Existed](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss)
 * [2025-09-15, 08:52:12](https://lobste.rs/s/70eqvf/rye_tables_vs_python_pandas_different_way) - [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://ryelang.org/blog/posts/comparing_tables_to_python/)
 * [2025-09-15, 05:22:42](https://lobste.rs/s/d7s0di/idea_usr_sbin_has_failed_practice) - [The idea of /usr/sbin has failed in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice)
 * [2025-09-15, 05:05:00](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss) - [Renewable Energy has a Cybersecurity Problem](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss)
-* [2025-09-15, 03:59:39](https://lobste.rs/s/465hcl/smalltalk_lambda_calculus) - [Smalltalk and Lambda Calculus](https://blog.ielliott.io/smalltalk-and-lambda-calculus)
 * [2025-09-15, 02:17:19](https://lobste.rs/s/3ihcwv/hosting_website_on_disposable_vape) - [Hosting a WebSite on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 * [2025-09-15, 00:19:00](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss) - [Newly Released Video at House UFO Hearing Appears to Show U.S. Missile Striking and Bouncing Off Orb](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss)
-* [2025-09-14, 21:49:56](https://lobste.rs/s/7qw4xw/rating_26_years_java_changes) - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
 * [2025-09-14, 19:39:00](https://soylentnews.org/article.pl?sid=25/09/14/0024209&amp;from=rss) - [Scientists Stunned as Tiny Algae Keep Moving Inside Arctic Ice](https://soylentnews.org/article.pl?sid=25/09/14/0024209&amp;from=rss)
-* [2025-09-14, 16:21:14](https://lobste.rs/s/bvg2mx/gleam_is_my_new_obsession) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 14:49:00](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss) - [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss)
 * [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss)
 * [2025-09-14, 05:14:00](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss) - [Fingerspitzengefühl](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss)
 * [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss)
-* [2025-09-13, 23:06:07](https://news.ycombinator.com/item?id=45236014) - [ERP Therapy Sucks](https://taylor.town/try-erp)
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss)
 * [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss)
 * [2025-09-13, 12:43:54](https://news.ycombinator.com/item?id=45231614) - [60 years after Gemini, newly processed images reveal details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/)
-* [2025-09-13, 12:15:38](https://news.ycombinator.com/item?id=45231433) - [The Artistry of Avril Harrison (2024)](https://scanlineartifacts.co.uk/2024/09/30/the-artistry-of-avril-harrison/)
 * [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss) - [AI&apos;s Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss)
+* [2025-09-13, 10:09:30](https://news.ycombinator.com/item?id=45230840) - [The Mythical Creatures of London](https://londonist.com/london/history/the-mythical-creatures-of-london)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss)
 * [2025-09-13, 03:05:57](https://news.ycombinator.com/item?id=45228981) - [Basics of Equality Saturation](https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss)
+* [2025-09-13, 00:30:47](https://news.ycombinator.com/item?id=45228231) - [Scientists uncover extreme life inside the Arctic ice](https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery)
 * [2025-09-12, 22:51:19](https://news.ycombinator.com/item?id=45227679) - [People Who Hunt Down Old TVs](https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs)
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss) - [LIGO&apos;s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss)
+* [2025-09-12, 18:41:36](https://news.ycombinator.com/item?id=45225217) - [Migrating to React Native&apos;s New Architecture](https://shopify.engineering/react-native-new-architecture)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 15:13:00](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss) - [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss)
 * [2025-09-12, 12:51:46](https://news.ycombinator.com/item?id=45221567) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
