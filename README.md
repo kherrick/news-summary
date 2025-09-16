@@ -1,44 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Legal and Governmental Issues
+## AI and Technology Innovations
 
-* [FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf) - A detailed report on how users are engaging with ChatGPT and its applications.
 
-* [Internet Archive Ends Legal Battle With Record Labels Over Historic Recordings](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/) - Exploring new advancements in OpenAI's GPT-5 Codex for code generation and beyond.
 
-* [How California Reached a Union Deal With Tech Giants Uber and Lyft](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?](https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599) - Insights into quirky software decisions in Microsoft's product ecosystem.
 
-* [Airlines Sell 5 Billion Plane Ticket Records To the Government For Warrantless Searching](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI's Economic Boost Isn't Showing Up in US GDP, Goldman Says](https://news.slashdot.org/story/25/09/15/1649210/ais-economic-boost-isnt-showing-up-in-us-gdp-goldman-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Goldman Sachs analyzes the economic impact of artificial intelligence.
 
-## Technology and Innovation
+* [A Third of UK Firms Using 'Bossware' To Monitor Workers' Activity, Survey Reveals](https://tech.slashdot.org/story/25/09/15/1747238/a-third-of-uk-firms-using-bossware-to-monitor-workers-activity-survey-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A revealing article on workplace surveillance software trends.
 
-* ['Meta Ray-Ban Display' Glasses Design, HUD Clips Leak](https://hardware.slashdot.org/story/25/09/15/2049228/meta-ray-ban-display-glasses-design-hud-clips-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Generating Mazes with Three Algorithms](https://healeycodes.com/generating-mazes) - An exploratory dive into creating mazes using computer algorithms.
 
-* [Microsoft's Office Apps Now Have Free Copilot Chat Features](https://it.slashdot.org/story/25/09/15/1751254/microsofts-office-apps-now-have-free-copilot-chat-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Major Corporate and Regulatory Movements
 
-* [Vibe Coding Has Turned Senior Devs Into 'AI Babysitters'](https://developers.slashdot.org/story/25/09/15/2056250/vibe-coding-has-turned-senior-devs-into-ai-babysitters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating regulatory action against ticket resale abuses.
 
-* [Apple Ships iOS 26, iPadOS 26 and macOS Tahoe 26 With 'Liquid Glass' UI Overhaul](https://apple.slashdot.org/story/25/09/15/1727213/apple-ships-ios-26-ipados-26-and-macos-tahoe-26-with-liquid-glass-ui-overhaul?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Robinhood Plans To Launch a Startups Fund Open To All Retail Investors](https://news.slashdot.org/story/25/09/15/2159203/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant move to democratize access to startup investments.
 
-* [Hard Drive Shortage Intensifies as AI Training Data Pushes Lead Times Beyond 12 Months](https://hardware.slashdot.org/story/25/09/15/1823230/hard-drive-shortage-intensifies-as-ai-training-data-pushes-lead-times-beyond-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How California Reached a Union Deal With Tech Giants Uber and Lyft](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough agreement in the gig economy.
 
-## Artificial Intelligence and Machine Learning
+* [TikTok Deal 'Framework' Reached With China](https://tech.slashdot.org/story/25/09/15/2040255/tiktok-deal-framework-reached-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Updates on negotiations regarding TikTok's operations and data privacy.
 
-* [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
+* [Airlines Sell 5 Billion Plane Ticket Records To the Government For Warrantless Searching](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details on airline data-sharing practices with governments.
 
-* [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
+## Unique and Creative Endeavors
 
-* [A Third of UK Firms Using 'Bossware' To Monitor Workers' Activity, Survey Reveals](https://tech.slashdot.org/story/25/09/15/1747238/a-third-of-uk-firms-using-bossware-to-monitor-workers-activity-survey-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/) - A nostalgic project reimagining GIFs from the 90s.
 
-## Hacking and Innovation Experiments
+* [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/) - A quirky experiment hosting a web server using a vape.
 
-* [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+* [Varnish: 8.0.0 with bonus project news](https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news) - New updates and announcements from the Varnish project.
 
-* [Rendezvous Hashing Explained (2020)](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
+* [GuitarPie: Electric Guitar Fretboard Pie Menus](https://andreasfender.com/publications.php) - Innovating musical interaction through unique user interface designs.
 
-## Environment and Science
+* [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment) - An experimental overlap of music, technology, and surveillance.
 
-* [Scientists Stunned as Tiny Algae Keep Moving Inside Arctic Ice](https://soylentnews.org/article.pl?sid=25/09/14/0024209&amp;from=rss)
+## Social and Environmental Stories
+
+* [Internet Archive Ends Legal Battle With Record Labels Over Historic Recordings](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Resolution in a legal fight over preserving historical recordings.
+
+* [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&from=rss) - Breakthroughs in identifying potential Martian life.
+
+* [Toxic Fumes Are Leaking Into Airplanes, Sickening Crews and Passengers](https://news.slashdot.org/story/25/09/15/1840218/toxic-fumes-are-leaking-into-airplanes-sickening-crews-and-passengers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Health risks arising from toxic fume exposure on aircraft.
+
+* [Newly Released Video at House UFO Hearing Appears to Show U.S. Missile Striking and Bouncing Off Orb](https://soylentnews.org/article.pl?sid=25/09/14/0032249&from=rss) - Controversial footage sparking UFO and defense-related debates.
+
+* [Scientists Stunned as Tiny Algae Keep Moving Inside Arctic Ice](https://soylentnews.org/article.pl?sid=25/09/14/0024209&from=rss) - Observations on unusual aquatic behavior in Arctic ecosystems.
 
 ---
 
@@ -65,31 +75,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-16, 03:29:54](https://lobste.rs/s/jpwfu5/just_for_fun_animating_mosaic_90s_gifs) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
 * [2025-09-16, 01:25:00](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots](https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-16, 00:45:00](https://hardware.slashdot.org/story/25/09/15/2049228/meta-ray-ban-display-glasses-design-hud-clips-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Meta Ray-Ban Display&apos; Glasses Design, HUD Clips Leak](https://hardware.slashdot.org/story/25/09/15/2049228/meta-ray-ban-display-glasses-design-hud-clips-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-16, 00:33:12](https://news.ycombinator.com/item?id=45256651) - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
-* [2025-09-16, 00:20:59](https://news.ycombinator.com/item?id=45256577) - [The awe keeps dropping](https://morrick.me/archives/10137)
+* [2025-09-16, 00:20:59](https://news.ycombinator.com/item?id=45256577) - [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
+* [2025-09-16, 00:16:03](https://lobste.rs/s/zxkefm/be_careful_when_assigning) - [Be Careful When Assigning ArenaAllocators (2024)](https://www.openmymind.net/Be-Careful-When-Assigning-ArenaAllocators/)
 * [2025-09-16, 00:02:00](https://news.slashdot.org/story/25/09/15/2159203/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robinhood Plans To Launch a Startups Fund Open To All Retail Investors](https://news.slashdot.org/story/25/09/15/2159203/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 23:54:00](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss) - [New Apple-Funded Program Teaches Manufacturing to US Firms](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss)
-* [2025-09-15, 23:32:01](https://news.ycombinator.com/item?id=45256229) - [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/)
 * [2025-09-15, 23:20:00](https://developers.slashdot.org/story/25/09/15/2056250/vibe-coding-has-turned-senior-devs-into-ai-babysitters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Vibe Coding Has Turned Senior Devs Into &apos;AI Babysitters&apos;](https://developers.slashdot.org/story/25/09/15/2056250/vibe-coding-has-turned-senior-devs-into-ai-babysitters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-15, 23:02:31](https://news.ycombinator.com/item?id=45256043) - [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 * [2025-09-15, 22:40:00](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Ends Legal Battle With Record Labels Over Historic Recordings](https://yro.slashdot.org/story/25/09/15/228226/internet-archive-ends-legal-battle-with-record-labels-over-historic-recordings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 22:00:00](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How California Reached a Union Deal With Tech Giants Uber and Lyft](https://tech.slashdot.org/story/25/09/15/2034227/how-california-reached-a-union-deal-with-tech-giants-uber-and-lyft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 21:51:55](https://news.ycombinator.com/item?id=45255400) - [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
 * [2025-09-15, 21:46:19](https://news.ycombinator.com/item?id=45255337) - [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
-* [2025-09-15, 21:29:40](https://news.ycombinator.com/item?id=45255155) - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
 * [2025-09-15, 21:28:01](https://news.ycombinator.com/item?id=45255137) - [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
 * [2025-09-15, 21:20:00](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airlines Sell 5 Billion Plane Ticket Records To the Government For Warrantless Searching](https://news.slashdot.org/story/25/09/15/1850226/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 21:00:00](https://tech.slashdot.org/story/25/09/15/2040255/tiktok-deal-framework-reached-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Deal &apos;Framework&apos; Reached With China](https://tech.slashdot.org/story/25/09/15/2040255/tiktok-deal-framework-reached-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 20:44:00](https://it.slashdot.org/story/25/09/15/1751254/microsofts-office-apps-now-have-free-copilot-chat-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s Office Apps Now Have Free Copilot Chat Features](https://it.slashdot.org/story/25/09/15/1751254/microsofts-office-apps-now-have-free-copilot-chat-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 20:33:10](https://lobste.rs/s/dpysiq/generating_mazes_with_three_algorithms) - [Generating Mazes with Three Algorithms](https://healeycodes.com/generating-mazes)
-* [2025-09-15, 20:25:26](https://news.ycombinator.com/item?id=45254505) - [Ghost Kitchens Are Dying. Here&apos;s the $15B Lesson Every Restaurateur Must Learn](https://davidrmann3.substack.com/p/ghost-kitchens-are-dying-heres-the)
-* [2025-09-15, 20:07:48](https://news.ycombinator.com/item?id=45254330) - [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
+* [2025-09-15, 20:25:26](https://news.ycombinator.com/item?id=45254505) - [Ghost kitchens are dying](https://davidrmann3.substack.com/p/ghost-kitchens-are-dying-heres-the)
 * [2025-09-15, 20:01:00](https://hardware.slashdot.org/story/25/09/15/1823230/hard-drive-shortage-intensifies-as-ai-training-data-pushes-lead-times-beyond-12-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hard Drive Shortage Intensifies as AI Training Data Pushes Lead Times Beyond 12 Months](https://hardware.slashdot.org/story/25/09/15/1823230/hard-drive-shortage-intensifies-as-ai-training-data-pushes-lead-times-beyond-12-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-15, 19:41:07](https://lobste.rs/s/b2nqkr/webkit_features_safari_26_0) - [WebKit Features in Safari 26.0](https://webkit.org/blog/17333/webkit-features-in-safari-26-0/)
 * [2025-09-15, 19:21:00](https://news.slashdot.org/story/25/09/15/1815211/president-calls-for-six-month-corporate-reporting-cycle-citing-cost-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [President Calls for Six-Month Corporate Reporting Cycle, Citing Cost Savings](https://news.slashdot.org/story/25/09/15/1815211/president-calls-for-six-month-corporate-reporting-cycle-citing-cost-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-15, 19:17:35](https://news.ycombinator.com/item?id=45253807) - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
-* [2025-09-15, 19:14:58](https://lobste.rs/s/bggqkn/rendezvous_hashing_explained_2020) - [Rendezvous Hashing Explained (2020)](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
+* [2025-09-15, 19:14:28](https://news.ycombinator.com/item?id=45253775) - [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 * [2025-09-15, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss) - [New Nuclear Rocket Concept Could Slash Mars Travel Time in Half](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss)
 * [2025-09-15, 19:00:09](https://lobste.rs/s/hdoo8z/why_is_name_microsoft_wireless_notebook) - [Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?](https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599)
 * [2025-09-15, 18:45:32](https://news.ycombinator.com/item?id=45253458) - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
@@ -125,8 +134,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-15, 09:46:00](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss) - [Google is Telling People DOGE Never Existed](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss)
 * [2025-09-15, 09:04:38](https://lobste.rs/s/lq0now/org_social_preview_generator) - [Org Social Preview Generator](https://github.com/tanrax/org-social-preview)
 * [2025-09-15, 08:52:12](https://lobste.rs/s/70eqvf/rye_tables_vs_python_pandas_different_way) - [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://ryelang.org/blog/posts/comparing_tables_to_python/)
-* [2025-09-15, 08:05:55](https://lobste.rs/s/ylbxri/protecting_rust_against_supply_chain) - [Protecting Rust against supply chain attacks](https://kerkour.com/rust-supply-chain-attacks)
-* [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac App Flea Market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
+* [2025-09-15, 07:14:13](https://news.ycombinator.com/item?id=45246971) - [The Mac app flea market](https://blog.jim-nielsen.com/2025/mac-app-flea-market/)
 * [2025-09-15, 06:49:01](https://lobste.rs/s/jkc7xi/linking_text_fragments_with_bookmarklet) - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet)
 * [2025-09-15, 05:22:42](https://lobste.rs/s/d7s0di/idea_usr_sbin_has_failed_practice) - [The idea of /usr/sbin has failed in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice)
 * [2025-09-15, 05:05:00](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss) - [Renewable Energy has a Cybersecurity Problem](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss)
@@ -142,17 +150,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-14, 05:14:00](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss) - [Fingerspitzengefühl](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss)
 * [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss)
 * [2025-09-13, 19:40:00](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss) - [Physicists Made a Time Crystal We Can Actually See](https://soylentnews.org/article.pl?sid=25/09/13/0018206&amp;from=rss)
+* [2025-09-13, 14:56:17](https://news.ycombinator.com/item?id=45232596) - [From unit tests to whole universe tests (with will wilson of antithesis) [video]](https://www.youtube.com/watch?v=_xJ4maWhSNU)
 * [2025-09-13, 14:51:00](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss) - [$142 Upgrade Kit and Spare Modules Turn Nvidia RTX 4090 24GB to 48GB AI Card](https://soylentnews.org/article.pl?sid=25/09/13/003254&amp;from=rss)
 * [2025-09-13, 10:10:00](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss) - [AI&apos;s Free Web Scraping Days May be Over, Thanks to This New Licensing Protocol](https://soylentnews.org/article.pl?sid=25/09/11/0338253&amp;from=rss)
 * [2025-09-13, 05:24:00](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss) - [Scientists Urge EU Governments to Reject Chat Control Rules](https://soylentnews.org/article.pl?sid=25/09/11/0325209&amp;from=rss)
 * [2025-09-13, 00:42:00](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss) - [ASML Invests €1.3bn in AI Company Mistral](https://soylentnews.org/article.pl?sid=25/09/11/0310226&amp;from=rss)
+* [2025-09-12, 22:51:19](https://news.ycombinator.com/item?id=45227679) - [People Who Hunt Down Old TVs](https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs)
 * [2025-09-12, 20:55:18](https://news.ycombinator.com/item?id=45226657) - [Debian Upgrade Marathon: 3.1 Sarge](https://wrongthink.link/posts/debian-upgrade-marathon-sarge/)
 * [2025-09-12, 20:05:05](https://news.ycombinator.com/item?id=45226135) - [I wish my web server were in the corner of my room (2022)](https://interconnected.org/home/2022/10/10/servers)
 * [2025-09-12, 19:58:00](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss) - [LIGO&apos;s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory](https://soylentnews.org/article.pl?sid=25/09/11/036213&amp;from=rss)
 * [2025-09-12, 16:25:11](https://news.ycombinator.com/item?id=45223827) - [Removing newlines in FASTA file increases ZSTD compression ratio by 10x](https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html)
 * [2025-09-12, 15:13:00](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss) - [Dead Internet Theory Lives: One Out of Three of You is a Bot](https://soylentnews.org/article.pl?sid=25/09/11/0256255&amp;from=rss)
+* [2025-09-12, 11:46:34](https://news.ycombinator.com/item?id=45221109) - [Dinosaurs to supercrocs: Niger&apos;s bone keepers preserve its ancient fossils](https://www.aljazeera.com/features/2025/9/12/dinosaurs-to-supercrocs-nigers-bone-keepers-preserve-its-ancient-fossils)
 * [2025-09-12, 10:33:00](https://soylentnews.org/article.pl?sid=25/09/10/2236210&amp;from=rss) - [This is the First Time Scientists Have Seen Decision Making in a Brain](https://soylentnews.org/article.pl?sid=25/09/10/2236210&amp;from=rss)
-* [2025-09-12, 10:30:45](https://news.ycombinator.com/item?id=45220697) - [The Rising Sea: Foundations of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 * [2025-09-12, 05:46:00](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss) - [Scientists Discover ‘Clearest Sign’ Yet of Life on Mars](https://soylentnews.org/article.pl?sid=25/09/10/2228216&amp;from=rss)
 * [2025-09-12, 02:28:15](https://news.ycombinator.com/item?id=45218080) - [When Your Father Is a Magician, What Do You Believe?](https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/)
 * [2025-09-12, 01:01:00](https://soylentnews.org/article.pl?sid=25/09/10/2225205&amp;from=rss) - [Unicode version 17.0.0 Released ](https://soylentnews.org/article.pl?sid=25/09/10/2225205&amp;from=rss)
