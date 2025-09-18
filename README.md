@@ -1,48 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Industry Developments
+## Technology and Security Developments
 
-* [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack) ([comments](https://news.ycombinator.com/item?id=45283887))
+* [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello) - [Comments](https://news.ycombinator.com/item?id=45284311)
 
-* [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/) ([comments](https://news.ycombinator.com/item?id=45283731))
+* [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/) - [Comments](https://news.ycombinator.com/item?id=45283731)
 
-* [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/) ([comments](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia))
+* [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/) - [Comments](https://news.ycombinator.com/item?id=45283306)
 
-* [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/) ([comments](https://news.ycombinator.com/item?id=45283306))
+* [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) - [Comments](https://news.ycombinator.com/item?id=45282497)
 
-## Security and Privacy
+* [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages) - [Comments](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm)
 
-* [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) ([comments](https://news.ycombinator.com/item?id=45282497))
+* [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py) - [Comments](https://news.ycombinator.com/item?id=45280592)
 
-* [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages) ([comments](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm))
+* [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/) - [Comments](https://news.ycombinator.com/item?id=45278657)
 
-* [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/) ([comments](https://news.ycombinator.com/item?id=45278657))
+* [PureVPN IPv6 leak](https://anagogistis.com/posts/purevpn-ipv6-leak/) - [Comments](https://lobste.rs/s/mhq1fo/purevpn_ipv6_leak)
 
-* [PureVPN IPv6 leak](https://anagogistis.com/posts/purevpn-ipv6-leak/) ([comments](https://lobste.rs/s/mhq1fo/purevpn_ipv6_leak))
+## Industry and Business Insights
 
-## Artificial Intelligence
+* [After Child's Trauma, Chatbot Maker Allegedly Forced Mom To Arbitration For $100 Payout](https://yro.slashdot.org/story/25/09/17/213257/after-childs-trauma-chatbot-maker-allegedly-forced-mom-to-arbitration-for-100-payout?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://yro.slashdot.org/story/25/09/17/213257/after-childs-trauma-chatbot-maker-allegedly-forced-mom-to-arbitration-for-100-payout?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Gemini AI Solves Coding Problem That Stumped 139 Human Teams At ICPC World Finals](https://slashdot.org/story/25/09/17/1923220/gemini-ai-solves-coding-problem-that-stumped-139-human-teams-at-icpc-world-finals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45279357))
+* [Chinese AI Chip Market: Nvidia Violates Antitrust and Tencent Produces Locally](https://soylentnews.org/article.pl?sid=25/09/17/0413255&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/09/17/0413255&from=rss)
 
-* [DeepSeek writes less secure code for groups China disfavors?](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/) ([comments](https://news.ycombinator.com/item?id=45278740))
+* [Extreme Heat Spurs New Laws Aimed at Protecting Workers Worldwide](https://news.slashdot.org/story/25/09/17/192234/extreme-heat-spurs-new-laws-aimed-at-protecting-workers-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/25/09/17/192234/extreme-heat-spurs-new-laws-aimed-at-protecting-workers-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Microsoft Favors Anthropic Over OpenAI For Visual Studio Code](https://developers.slashdot.org/story/25/09/17/1927233/microsoft-favors-anthropic-over-openai-for-visual-studio-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45281139))
+## Innovations and Releases
 
-## Environmental and Scientific Insights
+* [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/) - [Comments](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia)
 
-* [Corals Won't Survive a Warmer Planet, a New Study Finds](https://news.slashdot.org/story/25/09/17/1650244/corals-wont-survive-a-warmer-planet-a-new-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45278279))
+* [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/) - [Comments](https://lobste.rs/s/bqiqjm/wasm_3_0_completed)
 
-* [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/) ([comments](https://news.ycombinator.com/item?id=45278581))
+* [Django.tasks exists](https://theorangeone.net/posts/django-dot-tasks-exists/) - [Comments](https://lobste.rs/s/cg7zbe/django_tasks_exists)
 
-* [Darkest Nights Are Getting Lighter](https://news.slashdot.org/story/25/09/17/187256/darkest-nights-are-getting-lighter?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/wm8awb/introducing_obelisk_0_24_1))
+* [A Dumb Introduction to Z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/) - [Comments](https://lobste.rs/s/g0yhjl/dumb_introduction_z3)
 
-## Historic and Cultural Articles
+## Environmental and Scientific Discoveries
 
-* [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=45278740))
+* [Darkest Nights Are Getting Lighter](https://news.slashdot.org/story/25/09/17/187256/darkest-nights-are-getting-lighter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/25/09/17/187256/darkest-nights-are-getting-lighter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Infinite Mac: Resource Fork Roundtripping](https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html) ([comments](https://lobste.rs/s/cg7zbe/django_tasks_exists))
+* [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/) - [Comments](https://news.ycombinator.com/item?id=45278581)
 
-* [Rupert's Snub Cube and other Math Holes](http://tom7.org/ruperts/) ([comments](https://lobste.rs/s/uwa9dw/rupert_s_snub_cube_other_math_holes))
+* [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/09/13/1842215&from=rss)
+
+* [Real-Time Observation of Magnet Switching in a Single Atom](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=25/09/15/1937219&from=rss)
 
 ---
 
@@ -69,11 +71,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-09-18, 01:37:11](https://news.ycombinator.com/item?id=45283887) - [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
+* [2025-09-18, 03:30:00](https://tech.slashdot.org/story/25/09/17/2112233/china-is-sending-its-world-beating-auto-industry-into-a-tailspin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Is Sending Its World-Beating Auto Industry Into a Tailspin](https://tech.slashdot.org/story/25/09/17/2112233/china-is-sending-its-world-beating-auto-industry-into-a-tailspin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-18, 02:18:45](https://news.ycombinator.com/item?id=45284311) - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
+* [2025-09-18, 01:25:00](https://slashdot.org/story/25/09/17/2123211/deepseek-writes-less-secure-code-for-groups-china-disfavors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DeepSeek Writes Less-Secure Code For Groups China Disfavors](https://slashdot.org/story/25/09/17/2123211/deepseek-writes-less-secure-code-for-groups-china-disfavors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 01:18:58](https://news.ycombinator.com/item?id=45283731) - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 * [2025-09-18, 01:16:02](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia) - [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/)
 * [2025-09-18, 00:45:00](https://yro.slashdot.org/story/25/09/17/213257/after-childs-trauma-chatbot-maker-allegedly-forced-mom-to-arbitration-for-100-payout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Child&apos;s Trauma, Chatbot Maker Allegedly Forced Mom To Arbitration For $100 Payout](https://yro.slashdot.org/story/25/09/17/213257/after-childs-trauma-chatbot-maker-allegedly-forced-mom-to-arbitration-for-100-payout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 00:30:44](https://news.ycombinator.com/item?id=45283306) - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+* [2025-09-18, 00:17:20](https://news.ycombinator.com/item?id=45283196) - [Stepping Down as Libxml2 Maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
 * [2025-09-18, 00:11:00](https://soylentnews.org/article.pl?sid=25/09/17/0413255&amp;from=rss) - [Chinese AI Chip Market: Nvidia Violates Antitrust and Tencent Produces Locally](https://soylentnews.org/article.pl?sid=25/09/17/0413255&amp;from=rss)
 * [2025-09-18, 00:02:00](https://tech.slashdot.org/story/25/09/17/2041203/gnome-49-brescia-desktop-environment-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GNOME 49 &apos;Brescia&apos; Desktop Environment Released](https://tech.slashdot.org/story/25/09/17/2041203/gnome-49-brescia-desktop-environment-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-17, 23:21:00](https://slashdot.org/story/25/09/17/1948210/chimps-drinking-a-lager-a-day-in-ripe-fruit-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chimps Drinking a Lager a Day in Ripe Fruit, Study Finds](https://slashdot.org/story/25/09/17/1948210/chimps-drinking-a-lager-a-day-in-ripe-fruit-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,8 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-17, 16:49:37](https://news.ycombinator.com/item?id=45278279) - [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/)
 * [2025-09-17, 16:13:00](https://news.ycombinator.com/item?id=45277704) - [Launch HN: RunRL (YC X25) – Reinforcement learning as a service](https://runrl.com)
 * [2025-09-17, 16:12:36](https://lobste.rs/s/rsuojg/installing_using_debian_with_my_decades) - [Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal](https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal)
-* [2025-09-17, 16:06:00](https://apple.slashdot.org/story/25/09/17/166241/after-years-of-resistance-apple-might-finally-release-a-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Years of Resistance, Apple Might Finally Release a Touchscreen MacBook Pro](https://apple.slashdot.org/story/25/09/17/166241/after-years-of-resistance-apple-might-finally-release-a-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-17, 15:27:00](https://slashdot.org/story/25/09/17/1527231/business-insider-reportedly-tells-journalists-they-can-use-ai-to-draft-stories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Business Insider Reportedly Tells Journalists They Can Use AI To Draft Stories](https://slashdot.org/story/25/09/17/1527231/business-insider-reportedly-tells-journalists-they-can-use-ai-to-draft-stories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-17, 14:40:00](https://soylentnews.org/article.pl?sid=25/09/17/0355211&amp;from=rss) - [Stealth Radio Hides Signal in Background Noise to Protect Drone Pilots](https://soylentnews.org/article.pl?sid=25/09/17/0355211&amp;from=rss)
 * [2025-09-17, 14:29:15](https://lobste.rs/s/w6hc8m/arrival_radar_air_traffic_control_game) - [Arrival Radar Air Traffic Control Game](https://xkqr.org/arrival-radar/)
 * [2025-09-17, 14:29:10](https://news.ycombinator.com/item?id=45276262) - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
@@ -143,7 +146,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-16, 09:24:00](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss) - [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss)
 * [2025-09-16, 05:36:43](https://news.ycombinator.com/item?id=45258403) - [Infinite Mac: Resource Fork Roundtripping](https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html)
 * [2025-09-16, 04:38:00](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss) - [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss)
-* [2025-09-16, 03:32:43](https://news.ycombinator.com/item?id=45257757) - [Just for fun: animating a mosaic of 90s GIFs](https://alexplescan.com/posts/2025/09/15/gifs/)
 * [2025-09-15, 23:54:00](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss) - [New Apple-Funded Program Teaches Manufacturing to US Firms](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss)
 * [2025-09-15, 20:51:27](https://news.ycombinator.com/item?id=45254763) - [Boring is good](https://jenson.org/boring/)
 * [2025-09-15, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss) - [New Nuclear Rocket Concept Could Slash Mars Travel Time in Half](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss)
@@ -156,8 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-14, 19:39:00](https://soylentnews.org/article.pl?sid=25/09/14/0024209&amp;from=rss) - [Scientists Stunned as Tiny Algae Keep Moving Inside Arctic Ice](https://soylentnews.org/article.pl?sid=25/09/14/0024209&amp;from=rss)
 * [2025-09-14, 19:12:40](https://news.ycombinator.com/item?id=45242434) - [Understanding Deflate](https://jjrscott.com/to-deflate-or-not/)
 * [2025-09-14, 18:49:34](https://news.ycombinator.com/item?id=45242287) - [Grade 2 Braille](https://en.wikipedia.org/wiki/English_Braille)
-* [2025-09-14, 18:34:24](https://news.ycombinator.com/item?id=45242164) - [How to join or concat ranges, C++26](https://www.cppstories.com/2025/join_concat_ranges/)
 * [2025-09-14, 14:49:00](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss) - [Bronze Age Britons Threw Massive Ragers With Food and Friends From Far Away](https://soylentnews.org/article.pl?sid=25/09/13/1842215&amp;from=rss)
 * [2025-09-14, 10:00:00](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss) - [Big Clouds Scramble Over EU Data Act and Data Transfers](https://soylentnews.org/article.pl?sid=25/09/13/1342246&amp;from=rss)
+* [2025-09-14, 07:30:09](https://news.ycombinator.com/item?id=45238175) - [Can Your GrimDark Beat the Germans (2022)](https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df)
 * [2025-09-14, 05:14:00](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss) - [Fingerspitzengefühl](https://soylentnews.org/article.pl?sid=25/09/13/1330226&amp;from=rss)
 * [2025-09-14, 00:26:00](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss) - [Senator Blasts Microsoft for Making Default Windows Vulnerable to “Kerberoasting”](https://soylentnews.org/article.pl?sid=25/09/13/135241&amp;from=rss)
