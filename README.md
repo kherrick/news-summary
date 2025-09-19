@@ -1,38 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cutting-edge Technology and Software Development
+## Technology and Innovation
 
-* [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory) ([comments](https://news.ycombinator.com/item?id=45296403))
+* [FreeBSD vs. SmartOS: Who's Faster for Jails, Zones, and bhyve VMs?](https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/) - Comparing the performance and capabilities of FreeBSD and SmartOS for virtualization and container workloads. [Comments](https://lobste.rs/s/6d4tae/freebsd_vs_smartos_who_s_faster_for_jails)
 
-* [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/) ([comments](https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines))
+* [Nostr](https://nostr.com/) - Explores the decentralized, censorship-resistant protocol for social networking. [Comments](https://news.ycombinator.com/item?id=45298336)
 
-* [Faking ADTs and GADTs in Languages That Shouldn&apos;t Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html) ([comments](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t))
+* [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/) - A new perspective on organizing work through common-sense approaches. [Comments](https://lobste.rs/s/oi2lr9/common_sense_unit_work)
 
-## Innovations in Science and Health
+* [Faking ADTs and GADTs in Languages That Shouldn't Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html) - Insights into simulated advanced type systems in programming languages that natively lack support. [Comments](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t)
 
-* [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer) ([comments](https://news.ycombinator.com/item?id=45298034))
+## Society and Policy
 
-* [Color-Changing Organogel Stretches 46 Times Its Size and Self-Heals](https://science.slashdot.org/story/25/09/17/2129246/color-changing-organogel-stretches-46-times-its-size-and-self-heals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/09/17/2129246/color-changing-organogel-stretches-46-times-its-size-and-self-heals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [New Bill Aims to Block Both Online Adult Content and VPNs](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss) - New legislation proposes significant restrictions on online privacy tools and adult content access. [Comments](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss)
 
-## Historical Discoveries and Narratives
+* [China's Future Rests on 200 Million Precarious Workers](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deep dive into the unstable labor conditions influencing China's economic trajectory. [Comments](https://news.ycombinator.com/item?id=45297331)
 
-* [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss))
+* [FTC and Seven States Sue Ticketmaster Over Alleged Coordination With Scalpers](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal action against Ticketmaster for anticompetitive behavior. [Comments](https://news.ycombinator.com/item?id=45294440)
 
-* [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/) ([comments](https://lobste.rs/s/bpk3l6/ton_roosendaal_step_down_as_blender))
+## Archaeological and Historical Discoveries
 
-## Consumer and Sociopolitical Issues
+* [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) - Stunning archaeological discovery reshapes our understanding of ancient burial practices. [Comments](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss)
 
-* [Dark patterns killed my wife’s Windows 11 installation](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/) ([comments](https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11))
+* [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace) - Revisiting the legacy of a Scandinavian diplomat and humanitarian. [Comments](https://news.ycombinator.com/item?id=45298489)
 
-* [FTC and Seven States Sue Ticketmaster Over Alleged Coordination With Scalpers](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Emerging Trends in AI
 
-* [China&apos;s Future Rests on 200 Million Precarious Workers](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/) - Google explores transformative approaches to personalized learning using artificial intelligence. [Comments](https://news.ycombinator.com/item?id=45294256)
 
-## Entertainment and Cultural Heritage
+* [China's DeepSeek Says Its Hit AI Model Cost Just $294,000 To Train](https://slashdot.org/story/25/09/18/1315238/chinas-deepseek-says-its-hit-ai-model-cost-just-294000-to-train?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Showcasing affordable advancements in AI model training technologies. [Comments](https://news.ycombinator.com/item?id=45293040)
 
-* [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale) ([comments](https://news.ycombinator.com/item?id=45296638))
+## Literature and Creative Innovation
 
-* [The Sagrada Família takes its final shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch) ([comments](https://news.ycombinator.com/item?id=45256575))
+* [Sylvia Plath's fig tree meets machine learning](https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine) - A poetic interpretation of generative AI’s interplay with literary narratives. [Comments](https://news.ycombinator.com/item?id=45260374)
+
+* [The Ruliology of Lambdas](https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/) - Exploring a mathematical framework that combines lambda calculus and computational systems. [Comments](https://news.ycombinator.com/item?id=45253926)
 
 ---
 
@@ -59,10 +61,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-19, 09:29:00](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss) - [New Bill Aims to Block Both Online Adult Content and VPNs](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss)
+* [2025-09-19, 08:53:53](https://lobste.rs/s/6d4tae/freebsd_vs_smartos_who_s_faster_for_jails) - [FreeBSD vs. SmartOS: Who&apos;s Faster for Jails, Zones, and bhyve VMs?](https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/)
+* [2025-09-19, 08:26:41](https://lobste.rs/s/jin16z/ruby_central_s_attack_on_rubygems) - [Ruby Central’s Attack on RubyGems](https://pup-e.com/goodbye-rubygems.pdf)
+* [2025-09-19, 07:14:34](https://news.ycombinator.com/item?id=45298793) - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
+* [2025-09-19, 06:21:04](https://news.ycombinator.com/item?id=45298489) - [Count Folke Bernadotte: Sweden&apos;s Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
 * [2025-09-19, 05:49:08](https://news.ycombinator.com/item?id=45298336) - [Nostr](https://nostr.com/)
 * [2025-09-19, 05:46:34](https://lobste.rs/s/oi2lr9/common_sense_unit_work) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
 * [2025-09-19, 05:43:17](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t) - [Faking ADTs and GADTs in Languages That Shouldn&apos;t Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html)
-* [2025-09-19, 04:46:07](https://news.ycombinator.com/item?id=45298034) - [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer)
 * [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss)
 * [2025-09-19, 03:28:18](https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11) - [Dark patterns killed my wife’s Windows 11 installation](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
 * [2025-09-19, 02:25:34](https://news.ycombinator.com/item?id=45297331) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
@@ -77,8 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 22:41:02](https://lobste.rs/s/zletng/want_piss_off_your_it_department_are_your) - [Want to piss off your IT department? Are your links not malicious looking enough?](https://phishyurl.com)
 * [2025-09-18, 22:40:06](https://news.ycombinator.com/item?id=45295898) - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 * [2025-09-18, 22:27:17](https://news.ycombinator.com/item?id=45295794) - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
-* [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
-* [2025-09-18, 21:23:29](https://lobste.rs/s/t9ipim/cache_crash) - [The Cache Crash](https://www.fastmail.com/blog/the-cache-crash/)
 * [2025-09-18, 21:01:00](https://tech.slashdot.org/story/25/09/18/1934251/google-adds-gemini-to-chrome-desktop-browser-for-us-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Adds Gemini To Chrome Desktop Browser for US Users](https://tech.slashdot.org/story/25/09/18/1934251/google-adds-gemini-to-chrome-desktop-browser-for-us-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 20:37:28](https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30) - [Netscape Navigator 2.0 was released 30 years ago today](https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
@@ -102,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 14:46:02](https://lobste.rs/s/yn7jdd/ternfs_exabyte_scale_multi_region) - [TernFS: an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss) - [Modular Nuclear Reactors Sound Great, but Won&apos;t be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss)
-* [2025-09-18, 14:24:51](https://lobste.rs/s/umwu0s/flipper_zero_geiger_counter_module) - [Flipper Zero Geiger Counter Module](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
 * [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:01:00](https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia To Invest $5 Billion in Intel](https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 13:54:46](https://lobste.rs/s/cobbr5/announcing_rust_1_90_0) - [Announcing Rust 1.90.0](https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/)
@@ -136,18 +139,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-16, 15:20:00](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&amp;from=rss) - [RIP Robert Redford (89)](https://soylentnews.org/breakingnews/article.pl?sid=25/09/16/1516209&amp;from=rss)
 * [2025-09-16, 14:10:00](https://soylentnews.org/article.pl?sid=25/09/15/1937219&amp;from=rss) - [Real-Time Observation of Magnet Switching in a Single Atom](https://soylentnews.org/article.pl?sid=25/09/15/1937219&amp;from=rss)
 * [2025-09-16, 12:53:51](https://news.ycombinator.com/item?id=45261566) - [Rupert&apos;s snub cube and other Math Holes](http://tom7.org/ruperts/)
+* [2025-09-16, 10:25:01](https://news.ycombinator.com/item?id=45260374) - [Sylvia Plath&apos;s fig tree meets machine learning](https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine)
 * [2025-09-16, 09:24:00](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss) - [Pentagon Begins Deploying New Satellite Network to Link Sensors With Shooters](https://soylentnews.org/article.pl?sid=25/09/15/1928240&amp;from=rss)
 * [2025-09-16, 08:13:48](https://news.ycombinator.com/item?id=45259471) - [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
 * [2025-09-16, 05:18:18](https://news.ycombinator.com/item?id=45258279) - [The Rise and Fall of the British Detective Novel (2010)](https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel)
 * [2025-09-16, 04:38:00](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss) - [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss)
 * [2025-09-16, 00:20:38](https://news.ycombinator.com/item?id=45256575) - [The Sagrada Família takes its final shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
 * [2025-09-15, 23:54:00](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss) - [New Apple-Funded Program Teaches Manufacturing to US Firms](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss)
-* [2025-09-15, 19:15:53](https://news.ycombinator.com/item?id=45253795) - [Visual lexicon of consumer aesthetics from the 1970s until now](https://cari.institute/)
+* [2025-09-15, 19:28:58](https://news.ycombinator.com/item?id=45253926) - [The Ruliology of Lambdas](https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/)
 * [2025-09-15, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss) - [New Nuclear Rocket Concept Could Slash Mars Travel Time in Half](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss)
 * [2025-09-15, 14:29:00](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss) - [Nano11 Compresses Windows 11 Install Footprint to as Little as 2.8GB](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss)
 * [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
 * [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking trust with Rust in the kernel](https://lwn.net/Articles/1034603/)
 * [2025-09-15, 09:46:00](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss) - [Google is Telling People DOGE Never Existed](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss)
-* [2025-09-15, 08:26:43](https://news.ycombinator.com/item?id=45247392) - [TBM 377: Time Allocation ≠ Capacity Allocation](https://cutlefish.substack.com/p/tbm-377-time-allocation-capacity)
 * [2025-09-15, 05:05:00](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss) - [Renewable Energy has a Cybersecurity Problem](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss)
 * [2025-09-15, 00:19:00](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss) - [Newly Released Video at House UFO Hearing Appears to Show U.S. Missile Striking and Bouncing Off Orb](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss)
