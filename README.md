@@ -1,36 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technological Innovations
+## Cutting-edge Technology and Software Development
 
-* [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/) - Google introduces Gemini to Chrome, enhancing integration with cutting-edge AI technologies. [Comments](https://news.ycombinator.com/item?id=45297331)
+* [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory) ([comments](https://news.ycombinator.com/item?id=45296403))
 
-* [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory) - Explore an innovative framework for efficient fine-tuning across numerous open-source large language models. [Comments](https://news.ycombinator.com/item?id=45296403)
+* [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/) ([comments](https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines))
 
-* [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/) - Meta faces technical embarrassment as a live AI-powered demo falters during presentation. [Comments](https://news.ycombinator.com/item?id=45294859)
+* [Faking ADTs and GADTs in Languages That Shouldn&apos;t Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html) ([comments](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t))
 
-## China's Emerging Economic and Technological Dynamics
+## Innovations in Science and Health
 
-* [China's Future Rests on 200 Million Precarious Workers](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into economic challenges faced by China's labor-centric workforce. [Comments](https://news.ycombinator.com/item?id=45297258)
+* [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer) ([comments](https://news.ycombinator.com/item?id=45298034))
 
-* [China Bans Nvidia's AI Chips](https://soylentnews.org/article.pl?sid=25/09/17/1723242&from=rss) - China enforces regulatory restrictions impacting Nvidia's tech operations. [Comments](https://news.ycombinator.com/item?id=45288690)
+* [Color-Changing Organogel Stretches 46 Times Its Size and Self-Heals](https://science.slashdot.org/story/25/09/17/2129246/color-changing-organogel-stretches-46-times-its-size-and-self-heals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/09/17/2129246/color-changing-organogel-stretches-46-times-its-size-and-self-heals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [China's DeepSeek Says Its Hit AI Model Cost Just $294,000 To Train](https://slashdot.org/story/25/09/18/1315238/chinas-deepseek-says-its-hit-ai-model-cost-just-294000-to-train?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cost-effective approaches emerge in China's AI model training landscape. [Comments](https://news.ycombinator.com/item?id=45294058)
+## Historical Discoveries and Narratives
 
-## Gamification, Creativity, and Programming
+* [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss))
 
-* [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5) - A creative reimagination of Minecraft through unconventional approaches. [Comments](https://news.ycombinator.com/item?id=45297258)
+* [Ton Roosendaal to step down as Blender chairman and CEO](https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/) ([comments](https://lobste.rs/s/bpk3l6/ton_roosendaal_step_down_as_blender))
 
-* [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/) - Showcase of a minimalist, entertaining 2D game concept. [Comments](https://news.ycombinator.com/item?id=45295482)
+## Consumer and Sociopolitical Issues
 
-* [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/) - Discover an elegant, concise implementation of a hypervisor in just 1,000 lines of code. [Comments](https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines)
+* [Dark patterns killed my wife’s Windows 11 installation](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/) ([comments](https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11))
 
-## Cultural Impact and Historic Reflections
+* [FTC and Seven States Sue Ticketmaster Over Alleged Coordination With Scalpers](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale) - A glimpse into an iconic designer's Los Angeles residence hitting the market. [Comments](https://news.ycombinator.com/item?id=45296638)
+* [China&apos;s Future Rests on 200 Million Precarious Workers](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Netscape Navigator 2.0 was released 30 years ago today](https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/) - Reflecting on the legacy of a pioneering web browser. [Comments](https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30)
+## Entertainment and Cultural Heritage
 
-* [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/) - A user shares insights into their experience with KDE as their desktop environment of choice. [Comments](https://news.ycombinator.com/item?id=45288690)
+* [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale) ([comments](https://news.ycombinator.com/item?id=45296638))
+
+* [The Sagrada Família takes its final shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch) ([comments](https://news.ycombinator.com/item?id=45256575))
 
 ---
 
@@ -57,10 +59,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-19, 05:49:08](https://news.ycombinator.com/item?id=45298336) - [Nostr](https://nostr.com/)
+* [2025-09-19, 05:46:34](https://lobste.rs/s/oi2lr9/common_sense_unit_work) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
+* [2025-09-19, 05:43:17](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t) - [Faking ADTs and GADTs in Languages That Shouldn&apos;t Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html)
+* [2025-09-19, 04:46:07](https://news.ycombinator.com/item?id=45298034) - [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer)
+* [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss)
 * [2025-09-19, 03:28:18](https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11) - [Dark patterns killed my wife’s Windows 11 installation](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
-* [2025-09-19, 03:22:15](https://news.ycombinator.com/item?id=45297627) - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
 * [2025-09-19, 02:25:34](https://news.ycombinator.com/item?id=45297331) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-* [2025-09-19, 02:13:05](https://news.ycombinator.com/item?id=45297258) - [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
+* [2025-09-19, 02:13:05](https://news.ycombinator.com/item?id=45297258) - [Playing “Minecraft” without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
 * [2025-09-19, 02:00:00](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Future Rests on 200 Million Precarious Workers](https://slashdot.org/story/25/09/19/0150205/chinas-future-rests-on-200-million-precarious-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-19, 01:34:58](https://news.ycombinator.com/item?id=45297030) - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
 * [2025-09-19, 01:09:00](https://slashdot.org/story/25/09/19/019243/intel-says-blockbuster-nvidia-deal-doesnt-change-its-own-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Says Blockbuster Nvidia Deal Doesn&apos;t Change Its Own Roadmap](https://slashdot.org/story/25/09/19/019243/intel-says-blockbuster-nvidia-deal-doesnt-change-its-own-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -74,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 21:54:06](https://news.ycombinator.com/item?id=45295482) - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 * [2025-09-18, 21:23:29](https://lobste.rs/s/t9ipim/cache_crash) - [The Cache Crash](https://www.fastmail.com/blog/the-cache-crash/)
 * [2025-09-18, 21:01:00](https://tech.slashdot.org/story/25/09/18/1934251/google-adds-gemini-to-chrome-desktop-browser-for-us-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Adds Gemini To Chrome Desktop Browser for US Users](https://tech.slashdot.org/story/25/09/18/1934251/google-adds-gemini-to-chrome-desktop-browser-for-us-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-18, 20:50:33](https://news.ycombinator.com/item?id=45294859) - [Meta’s live demo fails; “AI” recording plays before the actor takes the steps](https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/)
 * [2025-09-18, 20:37:28](https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30) - [Netscape Navigator 2.0 was released 30 years ago today](https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/)
 * [2025-09-18, 20:15:45](https://news.ycombinator.com/item?id=45294440) - [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
 * [2025-09-18, 20:01:00](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FTC and Seven States Sue Ticketmaster Over Alleged Coordination With Scalpers](https://yro.slashdot.org/story/25/09/18/181207/ftc-and-seven-states-sue-ticketmaster-over-alleged-coordination-with-scalpers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 17:47:19](https://news.ycombinator.com/item?id=45292694) - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
 * [2025-09-18, 17:42:56](https://news.ycombinator.com/item?id=45292648) - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
 * [2025-09-18, 17:40:13](https://lobste.rs/s/xywqtx/pocket_casts_you_altered_deal_so_i_will) - [Pocket Casts, You Altered The Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
-* [2025-09-18, 17:29:17](https://news.ycombinator.com/item?id=45292475) - [OpenTelemetry collector: What it is, when you need it, and when you don&apos;t](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 * [2025-09-18, 17:01:00](https://yro.slashdot.org/story/25/09/18/0449219/amazon-violated-online-shopper-protection-law-judge-rules-ahead-of-prime-signup-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Violated Online Shopper Protection Law, Judge Rules Ahead of Prime Signup Trial](https://yro.slashdot.org/story/25/09/18/0449219/amazon-violated-online-shopper-protection-law-judge-rules-ahead-of-prime-signup-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 16:44:27](https://lobste.rs/s/y6ptel/from_suspicion_published_curl_cve) - [From suspicion to published curl CVE](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/)
 * [2025-09-18, 16:41:52](https://lobste.rs/s/vrsdxo/configuration_files_are_user_interfaces) - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
@@ -99,12 +103,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 14:36:44](https://news.ycombinator.com/item?id=45290245) - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss) - [Modular Nuclear Reactors Sound Great, but Won&apos;t be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss)
 * [2025-09-18, 14:24:51](https://lobste.rs/s/umwu0s/flipper_zero_geiger_counter_module) - [Flipper Zero Geiger Counter Module](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
+* [2025-09-18, 14:17:40](https://news.ycombinator.com/item?id=45290021) - [Grief gets an expiration date, just like us](https://bessstillman.substack.com/p/oh-fuck-youre-still-sad)
 * [2025-09-18, 14:01:00](https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia To Invest $5 Billion in Intel](https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 13:54:46](https://lobste.rs/s/cobbr5/announcing_rust_1_90_0) - [Announcing Rust 1.90.0](https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/)
 * [2025-09-18, 13:52:50](https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development) - [How can we sandbox our development machines?](https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development)
-* [2025-09-18, 13:38:49](https://news.ycombinator.com/item?id=45289558) - [Luau – Fast, small, safe, gradually typed scripting language derived from Lua](https://luau.org/)
 * [2025-09-18, 13:28:59](https://news.ycombinator.com/item?id=45289453) - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
-* [2025-09-18, 13:06:03](https://news.ycombinator.com/item?id=45289168) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
 * [2025-09-18, 13:00:00](https://news.slashdot.org/story/25/09/17/2142221/gen-z-leads-biggest-drop-in-fico-scores-since-financial-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gen Z Leads Biggest Drop In FICO Scores Since Financial Crisis](https://news.slashdot.org/story/25/09/17/2142221/gen-z-leads-biggest-drop-in-fico-scores-since-financial-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 12:17:51](https://news.ycombinator.com/item?id=45288690) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 12:16:35](https://lobste.rs/s/gpxh3k/kde_is_now_my_favorite_desktop) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
@@ -123,8 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-18, 01:25:00](https://slashdot.org/story/25/09/17/2123211/deepseek-writes-less-secure-code-for-groups-china-disfavors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DeepSeek Writes Less-Secure Code For Groups China Disfavors](https://slashdot.org/story/25/09/17/2123211/deepseek-writes-less-secure-code-for-groups-china-disfavors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-18, 01:16:02](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia) - [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/)
 * [2025-09-18, 00:11:00](https://soylentnews.org/article.pl?sid=25/09/17/0413255&amp;from=rss) - [Chinese AI Chip Market: Nvidia Violates Antitrust and Tencent Produces Locally](https://soylentnews.org/article.pl?sid=25/09/17/0413255&amp;from=rss)
-* [2025-09-17, 22:33:26](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm) - [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages)
-* [2025-09-17, 20:16:15](https://lobste.rs/s/pqt0mb/steering_committee_retrospective) - [Steering Committee Retrospective](https://www.haskellforall.com/2025/09/steering-committee-retrospective.html)
 * [2025-09-17, 19:28:00](https://soylentnews.org/article.pl?sid=25/09/17/040212&amp;from=rss) - [Hacker Breaks Into on-Campus Smart Washing Machines](https://soylentnews.org/article.pl?sid=25/09/17/040212&amp;from=rss)
 * [2025-09-17, 17:56:57](https://lobste.rs/s/bqiqjm/wasm_3_0_completed) - [Wasm 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 * [2025-09-17, 14:40:00](https://soylentnews.org/article.pl?sid=25/09/17/0355211&amp;from=rss) - [Stealth Radio Hides Signal in Background Noise to Protect Drone Pilots](https://soylentnews.org/article.pl?sid=25/09/17/0355211&amp;from=rss)
@@ -139,12 +140,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-16, 08:13:48](https://news.ycombinator.com/item?id=45259471) - [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
 * [2025-09-16, 05:18:18](https://news.ycombinator.com/item?id=45258279) - [The Rise and Fall of the British Detective Novel (2010)](https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel)
 * [2025-09-16, 04:38:00](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss) - [Solar Pacifiers: Influence of the Planets May Subdue Solar Activity](https://soylentnews.org/article.pl?sid=25/09/15/1921210&amp;from=rss)
-* [2025-09-16, 00:20:38](https://news.ycombinator.com/item?id=45256575) - [The Sagrada Família Takes Its Final Shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
+* [2025-09-16, 00:20:38](https://news.ycombinator.com/item?id=45256575) - [The Sagrada Família takes its final shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
 * [2025-09-15, 23:54:00](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss) - [New Apple-Funded Program Teaches Manufacturing to US Firms](https://soylentnews.org/article.pl?sid=25/09/15/1215255&amp;from=rss)
 * [2025-09-15, 19:15:53](https://news.ycombinator.com/item?id=45253795) - [Visual lexicon of consumer aesthetics from the 1970s until now](https://cari.institute/)
 * [2025-09-15, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss) - [New Nuclear Rocket Concept Could Slash Mars Travel Time in Half](https://soylentnews.org/article.pl?sid=25/09/15/1213242&amp;from=rss)
 * [2025-09-15, 14:29:00](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss) - [Nano11 Compresses Windows 11 Install Footprint to as Little as 2.8GB](https://soylentnews.org/article.pl?sid=25/09/14/131209&amp;from=rss)
-* [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking Trust with Rust in the Kernel](https://lwn.net/Articles/1034603/)
+* [2025-09-15, 11:17:03](https://news.ycombinator.com/item?id=45248356) - [Leatherman (vagabond)](https://en.wikipedia.org/wiki/Leatherman_(vagabond))
+* [2025-09-15, 10:54:11](https://news.ycombinator.com/item?id=45248242) - [Tracking trust with Rust in the kernel](https://lwn.net/Articles/1034603/)
 * [2025-09-15, 09:46:00](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss) - [Google is Telling People DOGE Never Existed](https://soylentnews.org/article.pl?sid=25/09/14/1247231&amp;from=rss)
+* [2025-09-15, 08:26:43](https://news.ycombinator.com/item?id=45247392) - [TBM 377: Time Allocation ≠ Capacity Allocation](https://cutlefish.substack.com/p/tbm-377-time-allocation-capacity)
 * [2025-09-15, 05:05:00](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss) - [Renewable Energy has a Cybersecurity Problem](https://soylentnews.org/article.pl?sid=25/09/14/0037204&amp;from=rss)
 * [2025-09-15, 00:19:00](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss) - [Newly Released Video at House UFO Hearing Appears to Show U.S. Missile Striking and Bouncing Off Orb](https://soylentnews.org/article.pl?sid=25/09/14/0032249&amp;from=rss)
