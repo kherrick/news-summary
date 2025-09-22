@@ -1,38 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Industry Investments and Developments
+## Emerging Technologies and Innovations
 
-* [Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley](https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/) - Oracle commits substantial funding to make Oxford an AI and tech hub. [Comments](https://news.ycombinator.com/item?id=45328797)
+* [Linux Kernel Runtime Guard (LKRG) 1.0](https://www.openwall.com/presentations/NullconBerlin2025-LKRG/) explores runtime security measures for the Linux kernel. [Comments](https://lobste.rs/s/trvolm/linux_kernel_runtime_guard_lkrg_1_0)
 
-* [Meta's UK Arbitration 'Threatens to Bankrupt' Facebook Whistleblower, Says Her Lawyer](https://tech.slashdot.org/story/25/09/21/195215/metas-uk-arbitration-threatens-to-bankrupt-facebook-whistleblower-says-her-lawyer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal pressures escalate surrounding Facebook whistleblower's claims. [Comments](https://news.ycombinator.com/item?id=45328293)
+* [Multikernel architecture proposed for Linux](https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/) introduces a novel approach for scaling performance and reliability. [Comments](https://lobste.rs/s/jjqdal/multikernel_architecture_proposed_for)
 
-* [Zig got a new ELF linker and it's fast](https://github.com/ziglang/zig/pull/25299) - A new, faster ELF linker brings significant improvements for the Zig programming language. [Comments](https://news.ycombinator.com/item?id=45327318)
+## AI and Health
 
-* [More Durable UV Coating For Solar Panels Made From Red Onion Skins](https://news.slashdot.org/story/25/09/21/1942234/more-durable-uv-coating-for-solar-panels-made-from-red-onion-skins?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Advancements in eco-friendly tech could reshape solar energy production. [Comments](https://news.ycombinator.com/item?id=45327617)
+* [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss) reveals AI advancements in predictive health analytics. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss)
 
-## Artificial Intelligence and Cybersecurity
+* [Apple Watch's New High Blood Pressure Notifications Developed With AI](https://apple.slashdot.org/story/25/09/22/0119208/apple-watchs-new-high-blood-pressure-notifications-developed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) showcases AI-driven health notifications. [Comments](https://apple.slashdot.org/story/25/09/22/0119208/apple-watchs-new-high-blood-pressure-notifications-developed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AI Tools Give Dangerous Powers to Cyberattackers, Security Researchers Warn](https://yro.slashdot.org/story/25/09/21/2022257/ai-tools-give-dangerous-powers-to-cyberattackers-security-researchers-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Growing concerns over AI misuse in cyberattacks. [Comments](https://news.ycombinator.com/item?id=45327135)
+## Privacy and Security
 
-* [Apple Watch's New High Blood Pressure Notifications Developed With AI](https://apple.slashdot.org/story/25/09/22/0119208/apple-watchs-new-high-blood-pressure-notifications-developed-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI integration leads to new health-monitoring features in wearables. [Comments](https://news.ycombinator.com/item?id=45328770)
+* [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf) examines vulnerabilities in eSIM technology. [Comments](https://news.ycombinator.com/item?id=45329127)
 
-* [Google Temporarily Pauses AI-Powered 'Homework Helper' Button in Chrome Over Cheating Concerns](https://news.slashdot.org/story/25/09/20/029249/google-temporarily-pauses-ai-powered-homework-helper-button-in-chrome-over-cheating-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's AI-powered educational tool faces criticism and temporary suspension. [Comments](https://news.ycombinator.com/item?id=45326502)
+* [Tips to stay safe from NPM supply chain attacks](https://github.com/bodadotsh/npm-security-best-practices) provides strategies for securing software dependencies. [Comments](https://news.ycombinator.com/item?id=45326754)
 
-## Scientific Discoveries and Innovations
+## Programming Languages and Tools
 
-* [Astronomers Discover Previously Unknown Quasi-Moon Near Earth](https://science.slashdot.org/story/25/09/22/0034204/astronomers-discover-previously-unknown-quasi-moon-near-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new celestial body in Earth's orbit broadens our understanding of quasi-moons. [Comments](https://news.ycombinator.com/item?id=45328520)
+* [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing) explores space-efficient coding techniques. [Comments](https://news.ycombinator.com/item?id=45328335)
 
-* [Interlune Signs $300M Deal to Harvest Helium-3 for Quantum Computing from the Moon](https://science.slashdot.org/story/25/09/20/0254249/interlune-signs-300m-deal-to-harvest-helium-3-for-quantum-computing-from-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Lunar resource harvesting gains momentum with potential quantum computing breakthroughs. [Comments](https://news.ycombinator.com/item?id=45324321)
+* [第四: a Japanese and Forth inspired postfix language](https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8) introduces a new postfix programming language. [Comments](https://lobste.rs/s/xy5d4l/japanese_forth_inspired_postfix)
 
-* [40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language](https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html) - Archaeological findings suggest ancient symbols predate known written languages. [Comments](https://news.ycombinator.com/item?id=45324516)
+## Sociopolitical and Economic Developments
 
-## Open Source Innovations and Software Developments
+* [South Korea's President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/) warns about economic challenges. [Comments](https://news.ycombinator.com/item?id=45328828)
 
-* [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h) - A minimalist approach to JSON parsing for C developers. [Comments](https://news.ycombinator.com/item?id=45324349)
+* [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27) addresses shifts in the tech job market. [Comments](https://news.ycombinator.com/item?id=45328545)
 
-* [Git: Introduce Rust and announce that it will become mandatory](https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/) - Git's integration of Rust marks support for safer, more efficient programming practices. [Comments](https://news.ycombinator.com/item?id=45325319)
+## Science and Space Exploration
 
-* [Microsoft put me on a list after DXGI debugging](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/) - A developer's surprising experience with Microsoft's troubleshooting protocols. [Comments](https://news.ycombinator.com/item?id=45323481)
+* [Astronomers Discover Previously Unknown Quasi-Moon Near Earth](https://science.slashdot.org/story/25/09/22/0034204/astronomers-discover-previously-unknown-quasi-moon-near-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights new celestial discoveries. [Comments](https://science.slashdot.org/story/25/09/22/0034204/astronomers-discover-previously-unknown-quasi-moon-near-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [More Durable UV Coating For Solar Panels Made From Red Onion Skins](https://news.slashdot.org/story/25/09/21/1942234/more-durable-uv-coating-for-solar-panels-made-from-red-onion-skins?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores eco-friendly advances in solar technology. [Comments](https://news.slashdot.org/story/25/09/21/1942234/more-durable-uv-coating-for-solar-panels-made-from-red-onion-skins?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Cultural and Historical Insights
+
+* [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/) investigates planetary conditions within our solar system. [Comments](https://news.ycombinator.com/item?id=45327417)
+
+* [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss) discusses geophysical transformations post extinction. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/0028219&from=rss)
 
 ---
 
@@ -59,23 +67,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-09-22, 03:20:21](https://news.ycombinator.com/item?id=45328797) - [Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley](https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/)
+* [2025-09-22, 06:02:45](https://lobste.rs/s/trvolm/linux_kernel_runtime_guard_lkrg_1_0) - [Linux Kernel Runtime Guard (LKRG) 1.0](https://www.openwall.com/presentations/NullconBerlin2025-LKRG/)
+* [2025-09-22, 05:33:54](https://news.ycombinator.com/item?id=45329414) - [Download Responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
+* [2025-09-22, 05:32:15](https://lobste.rs/s/tfj2bs/indiafoss_2025_video_livestream) - [IndiaFoss 2025 Video Livestream](https://fossunited.org/indiafoss/livestream)
+* [2025-09-22, 05:25:44](https://lobste.rs/s/7bls0x/cbfc_watch_archive_film_censorship_india) - [CBFC Watch: Archive of film censorship in India](https://cbfc.watch/)
+* [2025-09-22, 04:50:57](https://lobste.rs/s/xy5d4l/japanese_forth_inspired_postfix) - [第四: a Japanese and Forth inspired postfix language](https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8)
+* [2025-09-22, 04:35:27](https://news.ycombinator.com/item?id=45329127) - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
+* [2025-09-22, 04:07:00](https://soylentnews.org/article.pl?sid=25/09/21/1419259&amp;from=rss) - [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&amp;from=rss)
+* [2025-09-22, 03:30:31](https://news.ycombinator.com/item?id=45328828) - [South Korea&apos;s President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
 * [2025-09-22, 02:32:07](https://news.ycombinator.com/item?id=45328579) - [South Korea&apos;s President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
-* [2025-09-22, 02:24:50](https://news.ycombinator.com/item?id=45328537) - [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&amp;triedRedirect=true)
+* [2025-09-22, 02:26:22](https://news.ycombinator.com/item?id=45328545) - [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27)
+* [2025-09-22, 02:24:50](https://news.ycombinator.com/item?id=45328537) - [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&amp;triedRedirect=true)
 * [2025-09-22, 02:04:44](https://lobste.rs/s/jjqdal/multikernel_architecture_proposed_for) - [Multikernel architecture proposed for Linux](https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/)
-* [2025-09-22, 02:00:09](https://news.ycombinator.com/item?id=45328404) - [Fs-code – PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)
 * [2025-09-22, 01:46:37](https://news.ycombinator.com/item?id=45328335) - [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
 * [2025-09-22, 01:40:00](https://apple.slashdot.org/story/25/09/22/0119208/apple-watchs-new-high-blood-pressure-notifications-developed-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Watch&apos;s New High Blood Pressure Notifications Developed With AI](https://apple.slashdot.org/story/25/09/22/0119208/apple-watchs-new-high-blood-pressure-notifications-developed-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-22, 01:37:35](https://news.ycombinator.com/item?id=45328293) - [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
 * [2025-09-22, 01:27:34](https://news.ycombinator.com/item?id=45328247) - [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
-* [2025-09-22, 01:07:37](https://lobste.rs/s/znojhz/understanding_apple_debug_info) - [Understanding Apple Debug Info](https://www.smileykeith.com/2025/09/21/understanding-apple-debug-info/)
 * [2025-09-22, 00:40:00](https://science.slashdot.org/story/25/09/22/0034204/astronomers-discover-previously-unknown-quasi-moon-near-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Discover Previously Unknown Quasi-Moon Near Earth](https://science.slashdot.org/story/25/09/22/0034204/astronomers-discover-previously-unknown-quasi-moon-near-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 23:57:54](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions) - [Are XSLT stylesheets pure functions?](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions)
 * [2025-09-21, 23:55:10](https://lobste.rs/s/okecc9/free_software_commons) - [The free software commons](https://jenniferplusplus.com/the-free-software-commons/)
 * [2025-09-21, 23:42:00](https://news.slashdot.org/story/25/09/21/2331240/why-one-computer-science-professor-is-feeling-cranky-about-ai-in-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why One Computer Science Professor is &apos;Feeling Cranky About AI&apos; in Education](https://news.slashdot.org/story/25/09/21/2331240/why-one-computer-science-professor-is-feeling-cranky-about-ai-in-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss)
 * [2025-09-21, 22:56:31](https://news.ycombinator.com/item?id=45327417) - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
-* [2025-09-21, 22:40:28](https://news.ycombinator.com/item?id=45327318) - [Zig got a new ELF linker and it&apos;s fast](https://github.com/ziglang/zig/pull/25299)
 * [2025-09-21, 22:20:16](https://news.ycombinator.com/item?id=45327199) - [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
 * [2025-09-21, 21:59:12](https://news.ycombinator.com/item?id=45327059) - [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
 * [2025-09-21, 21:19:47](https://news.ycombinator.com/item?id=45326754) - [Show HN: Tips to stay safe from NPM supply chain attacks](https://github.com/bodadotsh/npm-security-best-practices)
@@ -88,14 +100,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-21, 19:17:00](https://tech.slashdot.org/story/25/09/21/195215/metas-uk-arbitration-threatens-to-bankrupt-facebook-whistleblower-says-her-lawyer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s UK Arbitration &apos;Threatens to Bankrupt&apos; Facebook Whistleblower, Says Her Lawyer](https://tech.slashdot.org/story/25/09/21/195215/metas-uk-arbitration-threatens-to-bankrupt-facebook-whistleblower-says-her-lawyer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 18:56:26](https://lobste.rs/s/acbjyb/storing_unwise_amounts_data_javascript) - [Storing Unwise Amounts of Data in JavaScript Bigints](https://jonathan-frere.com/posts/bigints-are-cool/)
 * [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss)
-* [2025-09-21, 18:37:04](https://news.ycombinator.com/item?id=45325410) - [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
 * [2025-09-21, 18:17:00](https://news.slashdot.org/story/25/09/21/1815235/americas-space-force-is-preparing-for-a-new-kind-of-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Space Force is Preparing for a New Kind of War](https://news.slashdot.org/story/25/09/21/1815235/americas-space-force-is-preparing-for-a-new-kind-of-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 16:43:45](https://news.ycombinator.com/item?id=45324349) - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
 * [2025-09-21, 16:43:19](https://news.ycombinator.com/item?id=45324343) - [Timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
 * [2025-09-21, 16:34:00](https://tech.slashdot.org/story/25/09/20/2338214/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions](https://tech.slashdot.org/story/25/09/20/2338214/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 16:29:15](https://lobste.rs/s/0lwolc/ts_ignore_is_almost_always_worst_option) - [@ts-ignore is almost always the worst option](https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/)
 * [2025-09-21, 16:10:09](https://lobste.rs/s/0wyas7/simulator_significantly_inspired_by) - [A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950](https://git.sr.ht/~nkali/mv950toy)
-* [2025-09-21, 15:58:01](https://lobste.rs/s/rvhyxm/microstacks_megadependencies_over_at) - [Microstacks or megadependencies over at Webdevcon 2025](https://berthub.eu/articles/posts/microstacks-or-megadependencies-webdev/)
 * [2025-09-21, 15:34:00](https://developers.slashdot.org/story/25/09/21/0650219/secure-software-supply-chains-urges-former-go-lead-russ-cox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Secure Software Supply Chains, Urges Former Go Lead Russ Cox](https://developers.slashdot.org/story/25/09/21/0650219/secure-software-supply-chains-urges-former-go-lead-russ-cox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 14:45:50](https://news.ycombinator.com/item?id=45323207) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:43:31](https://lobste.rs/s/olnyhu/dxgi_debugging_microsoft_put_me_on_list) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
@@ -114,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-21, 10:31:32](https://lobste.rs/s/sf1uml/my_hacking_simulator_runs_on_cyberdeck) - [My Hacking Simulator runs on a Cyberdeck](https://tiniuc.com/hacksim-on-cyberdeck/)
 * [2025-09-21, 09:08:00](https://soylentnews.org/article.pl?sid=25/09/20/0336240&amp;from=rss) - [Brazil&apos;s Payment System Puts Credit Card Firms to the Test](https://soylentnews.org/article.pl?sid=25/09/20/0336240&amp;from=rss)
 * [2025-09-21, 09:02:51](https://lobste.rs/s/oenamh/less_is_safer_how_obsidian_reduces_risk) - [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
-* [2025-09-21, 08:57:59](https://lobste.rs/s/vmilfm/hacking_with_ai_sasts_overview_ai) - [Hacking with AI SASTs: An overview of ‘AI Security Engineers’ / ‘LLM Security Scanners’ for Penetration Testers and Security Teams](https://joshua.hu/llm-engineer-review-sast-security-ai-tools-pentesters)
 * [2025-09-21, 07:51:09](https://lobste.rs/s/ahvcd2/nixcon_2025_trip_report) - [NixCon 2025 Trip Report](https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/)
 * [2025-09-21, 07:34:00](https://tech.slashdot.org/story/25/09/21/023248/glitches-humiliated-zuck-in-smart-glasses-launch-meta-cto-explains-what-happened?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Glitches Humiliated Zuck in Smart Glasses Launch. Meta CTO Explains What Happened](https://tech.slashdot.org/story/25/09/21/023248/glitches-humiliated-zuck-in-smart-glasses-launch-meta-cto-explains-what-happened?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-21, 04:22:00](https://soylentnews.org/article.pl?sid=25/09/20/0333256&amp;from=rss) - [IG Nobel 2025 winners](https://soylentnews.org/article.pl?sid=25/09/20/0333256&amp;from=rss)
@@ -123,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-21, 01:34:00](https://news.slashdot.org/story/25/09/20/029249/google-temporarily-pauses-ai-powered-homework-helper-button-in-chrome-over-cheating-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Temporarily Pauses AI-Powered &apos;Homework Helper&apos; Button in Chrome Over Cheating Concerns](https://news.slashdot.org/story/25/09/20/029249/google-temporarily-pauses-ai-powered-homework-helper-button-in-chrome-over-cheating-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-20, 23:38:00](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss) - [Education Report Calling for Ethical AI Use Contains Over 15 Fake Sources](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss)
 * [2025-09-20, 23:22:00](https://science.slashdot.org/story/25/09/20/0254249/interlune-signs-300m-deal-to-harvest-helium-3-for-quantum-computing-from-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Interlune Signs $300M Deal to Harvest Helium-3 for Quantum Computing from the Moon](https://science.slashdot.org/story/25/09/20/0254249/interlune-signs-300m-deal-to-harvest-helium-3-for-quantum-computing-from-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-20, 20:46:01](https://lobste.rs/s/a8ey4q/napkin_project) - [The Napkin project](https://web.evanchen.cc/napkin.html)
 * [2025-09-20, 19:37:21](https://lobste.rs/s/lin8d0/self_reliant_programmer_manifesto) - [self-reliant programmer manifesto](https://yobibyte.github.io/self_reliant_programmer.html)
 * [2025-09-20, 18:51:00](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss) - [Scientists: It&apos;s Do or Die Time for America&apos;s Primacy Exploring the Solar System](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss)
 * [2025-09-20, 14:07:00](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss) - [Nobody Wanted This: Samsung Fridges are Getting Ads](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss)
@@ -137,12 +145,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-19, 09:29:00](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss) - [New Bill Aims to Block Both Online Adult Content and VPNs](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss)
 * [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss)
 * [2025-09-18, 23:56:00](https://soylentnews.org/article.pl?sid=25/09/17/1730237&amp;from=rss) - [GNOME 49 Arrives This Week](https://soylentnews.org/article.pl?sid=25/09/17/1730237&amp;from=rss)
+* [2025-09-18, 22:37:44](https://news.ycombinator.com/item?id=45295878) - [Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem](https://github.com/NVIDIA/nvmath-python)
 * [2025-09-18, 20:58:20](https://news.ycombinator.com/item?id=45294934) - [RCA VideoDisc&apos;s Legacy: Scanning Capacitance Microscope](https://spectrum.ieee.org/rca-videodisc)
+* [2025-09-18, 20:03:58](https://news.ycombinator.com/item?id=45294297) - [Simulating a Machine from the 80s](https://rmazur.io/blog/fahivets.html)
 * [2025-09-18, 19:12:00](https://soylentnews.org/article.pl?sid=25/09/17/1723242&amp;from=rss) - [China Bans Nvidia&apos;s AI Chips](https://soylentnews.org/article.pl?sid=25/09/17/1723242&amp;from=rss)
 * [2025-09-18, 18:43:34](https://news.ycombinator.com/item?id=45293438) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/results.htm)
+* [2025-09-18, 17:22:43](https://news.ycombinator.com/item?id=45292387) - [A Generalized Algebraic Theory of Directed Equality](https://jacobneu.phd/)
 * [2025-09-18, 16:59:50](https://news.ycombinator.com/item?id=45292084) - [How Isaac Newton discovered the binomial power series (2022)](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
-* [2025-09-18, 15:09:50](https://news.ycombinator.com/item?id=45290636) - [Discovering new solutions to century-old problems in fluid dynamics](https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/)
-* [2025-09-18, 15:05:12](https://news.ycombinator.com/item?id=45290590) - [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
 * [2025-09-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss) - [Modular Nuclear Reactors Sound Great, but Won&apos;t be Ready Any Time Soon](https://soylentnews.org/article.pl?sid=25/09/17/1720215&amp;from=rss)
 * [2025-09-18, 12:22:38](https://news.ycombinator.com/item?id=45288739) - [Obsidian Note Codes](https://ezhik.jp/obsidian/note-codes/)
 * [2025-09-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/09/17/1714242&amp;from=rss) - [&apos;Beyond EUV&apos; Chipmaking Tech Pushes Soft X-Ray Lithography Closer to Challenging Hyper-NA EUV](https://soylentnews.org/article.pl?sid=25/09/17/1714242&amp;from=rss)
