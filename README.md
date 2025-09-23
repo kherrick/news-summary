@@ -1,50 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advances
+## Artificial Intelligence
 
-* [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity) ([Comments](https://lobste.rs/s/yiq42c/ai_generated_workslop_is_destroying))
+* [We Risk a Deluge of AI-Written ‘Science’ Pushing Corporate Interests](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss) - Discussion on the growing influence of AI-generated content on scientific narratives in service of corporate agendas. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss)
 
-* [Meta's AI System Llama Approved For Use By US Government Agencies](https://yro.slashdot.org/story/25/09/22/1955220/metas-ai-system-llama-approved-for-use-by-us-government-agencies?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45340133))
+* [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity) - Harvard Business Review critiques the rise of AI-generated low-value content and its productivity impacts. [Comments](https://lobste.rs/s/yiq42c/ai_generated_workslop_is_destroying)
 
-* [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917) ([Comments](https://news.ycombinator.com/item?id=45340133))
+* [OpenAI's Research on AI Models Deliberately Lying is Wild](https://soylentnews.org/article.pl?sid=25/09/21/2230245&amp;from=rss) - Exploration into OpenAI's study of AI ethics and deception. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/2230245&amp;from=rss)
 
-* [Nvidia To Invest $100 Billion in OpenAI](https://slashdot.org/story/25/09/22/1637225/nvidia-to-invest-100-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45340133))
+* [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917) - Reinventing academic research papers using AI to enable dynamic interaction. [Comments](https://news.ycombinator.com/item?id=45340133)
 
-## Space and Science Discoveries
+## Technology and Product Updates
 
-* [The Moon is Rusting - Thanks To 'Wind' Blown All the Way From Earth](https://science.slashdot.org/story/25/09/22/2211252/the-moon-is-rusting---thanks-to-wind-blown-all-the-way-from-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45342943))
+* [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4) - Insights into an incident involving user data purging based on geopolitical tensions. [Comments](https://news.ycombinator.com/item?id=45343108)
 
-* [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss))
+* [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide) - Tutorial on improving user experience in terminal navigation. [Comments](https://news.ycombinator.com/item?id=45342943)
 
-## Historical and Cultural Highlights
+* [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming) - Talk about a new library designed for security and efficiency in system-messaging. [Comments](https://lobste.rs/s/uirhie/libghostty_is_coming)
 
-* [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html) ([Comments](https://news.ycombinator.com/item?id=45342759))
+* [Microsoft is Bringing Video Wallpapers To Windows 11](https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A notable aesthetic update for Windows 11 introduces dynamic desktop wallpapers. [Comments](https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/09/20/0338224&from=rss))
+## Programming Concepts and Resources
 
-* [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf) ([Comments](https://news.ycombinator.com/item?id=45342364))
+* [Imagining a Language without Booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html) - A novel approach in programming languages, eschewing binary logic systems. [Comments](https://lobste.rs/s/a8bwsw/imagining_language_without_booleans)
 
-## Consumer Technology Updates
+* [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors) - Criticism of YAML anchors in GitHub's development environment. [Comments](https://lobste.rs/s/pbwybg/dear_github_no_yaml_anchors_please)
 
-* [China Launches Stealth Jet From Electromagnetic Catapult Aircraft Carrier](https://tech.slashdot.org/story/25/09/22/239219/china-launches-stealth-jet-from-electromagnetic-catapult-aircraft-carrier?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45341683))
+* [Easy Forth (2015)](https://skilldrick.github.io/easyforth/) - Making an accessible guide for beginners interested in the Forth programming language. [Comments](https://news.ycombinator.com/item?id=45332130)
 
-* [iFixit Tears Down the iPhone Air, Finds That It's Mostly Battery](https://apple.slashdot.org/story/25/09/22/223236/ifixit-tears-down-the-iphone-air-finds-that-its-mostly-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45341683))
+* [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html) - Provocative argument about testing methodologies overriding traditional algorithm skillsets. [Comments](https://news.ycombinator.com/item?id=45335635)
 
-* [Microsoft is Bringing Video Wallpapers To Windows 11](https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=45341683))
+## Science and Exploration
 
-## Software and Programming Insights
+* [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&amp;from=rss) - Astrophysical observations reveal anomalies around black hole event horizons. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/2234254&amp;from=rss)
 
-* [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming) ([Comments](https://lobste.rs/s/uirhie/libghostty_is_coming))
+* [The Moon is Rusting - Thanks To 'Wind' Blown All the Way From Earth](https://science.slashdot.org/story/25/09/22/2211252/the-moon-is-rusting---thanks-to-wind-blown-all-the-way-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion on Earth's influence on lunar surface chemistry. [Comments](https://science.slashdot.org/story/25/09/22/2211252/the-moon-is-rusting---thanks-to-wind-blown-all-the-way-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html) ([Comments](https://news.ycombinator.com/item?id=45335635))
+* [The FLP theorem](https://shachaf.net/w/flp) - Exploring the theoretical limits of consensus in distributed computing systems. [Comments](https://lobste.rs/s/irlx1v/flp_theorem)
 
-* [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html) ([Comments](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0))
+* [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss) - Effects of unexpected large-scale digital outages and interconnectivity vulnerabilities. [Comments](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss)
 
-## Miscellaneous Topics
+## Cultural and Historical Highlights
 
-* [Rare Apple-1 With Storied Ownership Fetched Over $500,000 at Auction](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/09/21/1427240&from=rss))
+* [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf) - Reflections from a life spanning nine decades. [Comments](https://news.ycombinator.com/item?id=45342364)
 
-* [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/) ([Comments](https://lobste.rs/s/uthgrs/altoids_by_fistful))
+* [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&amp;from=rss) - A retrospection on the 30th anniversary of Netscape Navigator 2.0 and its internet legacy. [Comments](https://soylentnews.org/article.pl?sid=25/09/20/0338224&amp;from=rss)
+
+* [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html) - Celebrating a half-century wait for magic legends Penn and Teller's major accolade. [Comments](https://news.ycombinator.com/item?id=45307119)
+
+* [I Once Appeared in The Old New Thing](https://mtlynch.io/my-old-new-thing-cameo/) - Personal account of an unexpected cameo in the renowned tech blog 'The Old New Thing'. [Comments](https://lobste.rs/s/pulpod/i_once_appeared_old_new_thing)
 
 ---
 
@@ -71,6 +75,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-23, 08:48:06](https://lobste.rs/s/yxzt5m/why_was_winhelp_called_online_help_system) - [Why was WinHelp called an online help system when it ran offline?](https://devblogs.microsoft.com/oldnewthing/20250922-00/?p=111619)
+* [2025-09-23, 08:35:00](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss) - [We Risk a Deluge of AI-Written ‘Science’ Pushing Corporate Interests](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss)
+* [2025-09-23, 07:01:44](https://news.ycombinator.com/item?id=45343689) - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2025-09-23, 06:40:51](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0) - [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html)
 * [2025-09-23, 06:24:50](https://news.ycombinator.com/item?id=45343449) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 05:30:28](https://news.ycombinator.com/item?id=45343108) - [Delete FROM users WHERE location = &apos;Iran&apos;;](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
@@ -78,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-23, 04:10:15](https://news.ycombinator.com/item?id=45342759) - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 * [2025-09-23, 03:52:01](https://lobste.rs/s/uthgrs/altoids_by_fistful) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 03:52:00](https://soylentnews.org/article.pl?sid=25/09/21/2234254&amp;from=rss) - [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&amp;from=rss)
-* [2025-09-23, 03:39:07](https://news.ycombinator.com/item?id=45342592) - [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
 * [2025-09-23, 03:03:06](https://news.ycombinator.com/item?id=45342364) - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 * [2025-09-23, 02:11:38](https://lobste.rs/s/yiq42c/ai_generated_workslop_is_destroying) - [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-23, 01:10:00](https://tech.slashdot.org/story/25/09/22/239219/china-launches-stealth-jet-from-electromagnetic-catapult-aircraft-carrier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches Stealth Jet From Electromagnetic Catapult Aircraft Carrier](https://tech.slashdot.org/story/25/09/22/239219/china-launches-stealth-jet-from-electromagnetic-catapult-aircraft-carrier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,6 +109,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-22, 19:16:27](https://lobste.rs/s/xgj8jc/aposd_vs_clean_code_discussion_between) - [aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin](https://github.com/johnousterhout/aposd-vs-clean-code)
 * [2025-09-22, 19:13:00](https://mobile.slashdot.org/story/25/09/22/1913255/apples-iphone-17-pro-can-be-easily-scratched?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s iPhone 17 Pro Can Be Easily Scratched](https://mobile.slashdot.org/story/25/09/22/1913255/apples-iphone-17-pro-can-be-easily-scratched?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-22, 18:23:00](https://soylentnews.org/article.pl?sid=25/09/21/1435205&amp;from=rss) - [Online Book:  The Pattern Language of Software Architecture](https://soylentnews.org/article.pl?sid=25/09/21/1435205&amp;from=rss)
+* [2025-09-22, 18:18:56](https://news.ycombinator.com/item?id=45337400) - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 * [2025-09-22, 18:05:00](https://tech.slashdot.org/story/25/09/22/185208/uber-ceo-says-robotaxis-could-displace-drivers-in-10-to-15-years-and-create-a-big-big-societal-question?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber CEO Says Robotaxis Could Displace Drivers in 10 To 15 Years and Create &apos;a Big, Big Societal Question&apos;](https://tech.slashdot.org/story/25/09/22/185208/uber-ceo-says-robotaxis-could-displace-drivers-in-10-to-15-years-and-create-a-big-big-societal-question?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-22, 17:50:21](https://news.ycombinator.com/item?id=45336989) - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
 * [2025-09-22, 17:26:00](https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft is Bringing Video Wallpapers To Windows 11](https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -118,13 +125,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-22, 14:51:33](https://lobste.rs/s/pfv1tv/long_look_at_netbsd_10_1) - [A long look at NetBSD 10.1](https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd)
 * [2025-09-22, 14:33:31](https://lobste.rs/s/pbwybg/dear_github_no_yaml_anchors_please) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:16:18](https://lobste.rs/s/oaxcep/cloudflare_is_sponsoring_ladybird) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
-* [2025-09-22, 14:00:01](https://lobste.rs/s/bkupu6/tips_for_working_with_legacy_code) - [Tips for Working with Legacy Code](https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/)
 * [2025-09-22, 13:40:00](https://soylentnews.org/article.pl?sid=25/09/21/1430243&amp;from=rss) - [Electronic Locks Have Backdoors, Too](https://soylentnews.org/article.pl?sid=25/09/21/1430243&amp;from=rss)
 * [2025-09-22, 13:31:33](https://lobste.rs/s/y7cieb/cap_n_web_new_rpc_system_for_browsers_web) - [Cap&apos;n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:17:59](https://news.ycombinator.com/item?id=45333021) - [Why haven&apos;t local-first apps become popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become)
 * [2025-09-22, 13:06:10](https://lobste.rs/s/xbmvou/why_i_m_spoiled_by_apple_silicon_still_love) - [Why I&apos;m Spoiled By Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 * [2025-09-22, 13:05:32](https://news.ycombinator.com/item?id=45332883) - [Cap&apos;n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
-* [2025-09-22, 13:03:33](https://news.ycombinator.com/item?id=45332860) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 13:03:10](https://news.ycombinator.com/item?id=45332859) - [I&apos;m spoiled by Apple Silicon but still love Framework](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 * [2025-09-22, 11:59:01](https://news.ycombinator.com/item?id=45332196) - [Is a movie prop the ultimate laptop bag?](https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html)
 * [2025-09-22, 11:52:41](https://news.ycombinator.com/item?id=45332130) - [Easy Forth (2015)](https://skilldrick.github.io/easyforth/)
@@ -137,7 +142,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-22, 02:04:44](https://lobste.rs/s/jjqdal/multikernel_architecture_proposed_for) - [Multikernel architecture proposed for Linux](https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/)
 * [2025-09-21, 23:57:54](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions) - [Are XSLT stylesheets pure functions?](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss)
-* [2025-09-21, 19:20:23](https://news.ycombinator.com/item?id=45325792) - [A board member&apos;s perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)
 * [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss)
 * [2025-09-21, 16:29:15](https://lobste.rs/s/0lwolc/ts_ignore_is_almost_always_worst_option) - [@ts-ignore is almost always the worst option](https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/)
 * [2025-09-21, 14:41:34](https://lobste.rs/s/pulpod/i_once_appeared_old_new_thing) - [I Once Appeared in The Old New Thing](https://mtlynch.io/my-old-new-thing-cameo/)
@@ -148,17 +152,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-21, 04:22:00](https://soylentnews.org/article.pl?sid=25/09/20/0333256&amp;from=rss) - [IG Nobel 2025 winners](https://soylentnews.org/article.pl?sid=25/09/20/0333256&amp;from=rss)
 * [2025-09-20, 23:38:00](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss) - [Education Report Calling for Ethical AI Use Contains Over 15 Fake Sources](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss)
 * [2025-09-20, 18:51:00](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss) - [Scientists: It&apos;s Do or Die Time for America&apos;s Primacy Exploring the Solar System](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss)
+* [2025-09-20, 14:37:30](https://news.ycombinator.com/item?id=45313790) - [Compiling a Functional Language to LLVM (2023)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-20, 14:07:00](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss) - [Nobody Wanted This: Samsung Fridges are Getting Ads](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss)
 * [2025-09-20, 09:21:00](https://soylentnews.org/article.pl?sid=25/09/19/0435227&amp;from=rss) - [L.A. Man Sentenced to 14 Days in Prison for Accidentally Crashing Drone Into Firefighting Plane](https://soylentnews.org/article.pl?sid=25/09/19/0435227&amp;from=rss)
 * [2025-09-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/09/19/0433202&amp;from=rss) - [Feds Launch Investigation Into Faulty Tesla Doors](https://soylentnews.org/article.pl?sid=25/09/19/0433202&amp;from=rss)
 * [2025-09-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/09/19/0423216&amp;from=rss) - [Ban Social Media for Under 15s, Says French Report Warning of TikTok Dangers](https://soylentnews.org/article.pl?sid=25/09/19/0423216&amp;from=rss)
 * [2025-09-19, 22:36:05](https://news.ycombinator.com/item?id=45307570) - [Based C++](https://github.com/SheafificationOfG/based-cpp)
 * [2025-09-19, 21:51:32](https://news.ycombinator.com/item?id=45307119) - [After 50 years, The Magic Circle finally inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
+* [2025-09-19, 20:44:02](https://news.ycombinator.com/item?id=45306323) - [Themis (European Reusable Rocket) is assembled on launch pad](https://phys.org/news/2025-09-themis-pad-fully.html)
 * [2025-09-19, 19:03:00](https://soylentnews.org/article.pl?sid=25/09/19/0416215&amp;from=rss) - [Latest FSR 4 Source Code &apos;Leak&apos; Lets You Run AMD&apos;s AI Upscaling Tech on Nearly Any GPU](https://soylentnews.org/article.pl?sid=25/09/19/0416215&amp;from=rss)
-* [2025-09-19, 18:26:07](https://news.ycombinator.com/item?id=45304816) - [Notion 3.0](https://www.notion.com/blog/introducing-notion-3-0)
 * [2025-09-19, 15:53:09](https://news.ycombinator.com/item?id=45303045) - [Rungis: The Market and the City – A day at Europe&apos;s largest fresh food market](https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city)
 * [2025-09-19, 14:16:00](https://soylentnews.org/article.pl?sid=25/09/19/048212&amp;from=rss) - [Has the Apple iPhone Air Killed Off the Sim Card?](https://soylentnews.org/article.pl?sid=25/09/19/048212&amp;from=rss)
 * [2025-09-19, 12:06:23](https://news.ycombinator.com/item?id=45300668) - [I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)](https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig)
+* [2025-09-19, 10:22:54](https://news.ycombinator.com/item?id=45299987) - [The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text](https://arxiv.org/abs/2506.05209)
 * [2025-09-19, 09:29:00](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss) - [New Bill Aims to Block Both Online Adult Content and VPNs](https://soylentnews.org/article.pl?sid=25/09/18/185203&amp;from=rss)
-* [2025-09-19, 05:49:04](https://news.ycombinator.com/item?id=45298334) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
 * [2025-09-19, 04:41:00](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss) - [The Oldest Known Mummies Have Been Found](https://soylentnews.org/article.pl?sid=25/09/17/2233242&amp;from=rss)
