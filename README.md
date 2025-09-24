@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements
+## Technology and Innovation
 
-* [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives) - A deep dive into the engineering feats behind AWS S3's performance.
+* [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/) discusses an intriguing case where game servers face restrictions during football matches in Spain. [Comments](https://news.ycombinator.com/item?id=45358433).
 
-* [Moving fast in hardware: how the iPod shipped in 6 months](https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/) - A retrospective on how Apple’s original iPod was developed at breakneck speed.
+* [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives) provides a deep dive into Amazon's impressive cloud storage technology. [Comments](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens).
 
-* [ZubanLS: A Mypy-compatible Python Language Server built in Rust](https://zubanls.com/) - Explore the creation of ZubanLS for Python developers, combining type-checking and performance through Rust.
+* [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc) examines how enhanced memory management on GrapheneOS improves security. [Comments](https://news.ycombinator.com/item?id=45358216).
 
-* [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs) - Research into enhancing memory efficiency in cryptographic zero-knowledge proof systems.
+* [Confidential Computing with OpenBSD](https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM) explores cutting-edge security methods using OpenBSD. [Comments](https://lobste.rs/s/btqhds/confidential_computing_with_openbsd).
 
-* [From Rust to Reality: The Hidden Journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/) - A tech exploration of compiler optimizations in Rust.
+* [ZubanLS: A Mypy-compatible Python Language Server built in Rust](https://zubanls.com/) highlights a new language server focused on Python practices, built for performance in Rust. [Comments](https://lobste.rs/s/gl18mt/zubanls_mypy_compatible_python_language).
 
-## AI and Machine Learning
+## Artificial Intelligence
 
-* [AI is impressive because we’ve failed at semantic web and personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing) - Reflections on AI's success compared to the challenges faced by semantic web projects.
+* [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/) critiques how AI systems often require human intervention to fix AI-generated errors. [Comments](https://news.ycombinator.com/item?id=45356226).
 
-* [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/) - An exploration of the increasing reliance on human intervention to fix AI-generated errors.
+* [Microsoft Is Reportedly Building An AI Marketplace To Pay Publishers For Content](https://slashdot.org/story/25/09/23/2355226/microsoft-is-reportedly-building-an-ai-marketplace-to-pay-publishers-for-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) details Microsoft's plans to navigate copyright in AI. [Comments](https://news.ycombinator.com/item?id=45354644).
 
-* [Microsoft Is Reportedly Building An AI Marketplace To Pay Publishers For Content](https://slashdot.org/story/25/09/23/2355226/microsoft-is-reportedly-building-an-ai-marketplace-to-pay-publishers-for-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft’s plans to create a marketplace for AI-generated content to compensate publishers.
+* [AI Is Impressive Because We’ve Failed at Semantic Web and Personal Computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing) reflects on the historical gaps that enabled AI's rapid acceptance. [Comments](https://lobste.rs/s/y6e06t/ai_is_impressive_because_we_ve_failed_at).
 
-## Science and Environment
+* [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&from=rss) explores predictive AI in health care based on environmental and genetic data.
 
-* [A new study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546) - Insightful new research about bioluminescence and its connection to life cycles.
+## Healthcare and Science
 
-* [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&amp;from=rss) - A detailed discussion on the growing prevalence of cancer among younger individuals.
+* [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro) discusses a breakthrough in treating a previously untreatable neurodegenerative disease. [Comments](https://news.ycombinator.com/item?id=45358940).
 
-* [Scientists Found 7,000-Year-Old Mummies in the Desert That Don’t Share DNA With Modern Humans](https://soylentnews.org/article.pl?sid=25/09/22/1156248&amp;from=rss) - The fascinating discovery of ancient human remains with no modern genetic links.
+* [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546) sheds light on a fascinating phenomenon of biophoton emissions. [Comments](https://news.ycombinator.com/item?id=45355965).
 
-## Social Impact and Policy
+* [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&from=rss) delves into the alarming rise in aggressive cancers among younger populations.
 
-* [Vietnam Shuts Down Millions of Bank Accounts Over Biometric Rules](https://news.slashdot.org/story/25/09/24/005245/vietnam-shuts-down-millions-of-bank-accounts-over-biometric-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Vietnam enforces stringent biometric account verification, affecting millions.
+## Privacy and Policy
 
-* [Meta's Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss) - How Meta’s AI operations are impacting local communities and their energy infrastructure.
+* [Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID](https://bigbrotherwatch.org.uk/press-releases/rights-groups-urge-starmer-to-abandon-plans-for-mandatory-digital-id/) underscores the ongoing tension between civil liberties and state surveillance. [Comments](https://news.ycombinator.com/item?id=45359356).
 
-## Open Source and Development
+* [Vietnam Shuts Down Millions of Bank Accounts Over Biometric Rules](https://news.slashdot.org/story/25/09/24/005245/vietnam-shuts-down-millions-of-bank-accounts-over-biometric-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) presents a chilling look at the implications of biometric-enforced banking policies.
 
-* [VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution](https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance) - An alternative for simplified data serialization in software development.
+## Cultural Trends and History
 
-* [Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship](https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/) - Rust organization doubles down on its commitment to open-source infrastructure support.
+* [Moving fast in hardware: how the iPod shipped in 6 months](https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/) recounts the challenges and quick execution behind the development of the first iPod. [Comments](https://lobste.rs/s/capy02/moving_fast_hardware_how_ipod_shipped_6).
 
-* [Google continues to invest 350k in the Rust ecosystem](https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P) - Google's latest commitments to secure the Rust programming environment.
+* [Something Extremely Strange is Happening at the Event Horizon of This Supermassive Blackhole](https://soylentnews.org/article.pl?sid=25/09/21/2234254&from=rss) touches on recent astronomical discoveries defying expectations at the limits of physics.
 
 ---
 
@@ -67,13 +67,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-24, 12:32:24](https://lobste.rs/s/nknxl2/grammar_induction) - [Grammar induction](https://en.wikipedia.org/wiki/Grammar_induction)
+* [2025-09-24, 12:31:52](https://news.ycombinator.com/item?id=45359388) - [My Ed(1) Toolbox](https://aartaka.me/my-ed.html)
+* [2025-09-24, 12:28:15](https://news.ycombinator.com/item?id=45359356) - [Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID](https://bigbrotherwatch.org.uk/press-releases/rights-groups-urge-starmer-to-abandon-plans-for-mandatory-digital-id/)
+* [2025-09-24, 11:41:54](https://news.ycombinator.com/item?id=45358980) - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
+* [2025-09-24, 11:37:30](https://news.ycombinator.com/item?id=45358940) - [Huntington&apos;s disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro)
+* [2025-09-24, 10:26:23](https://news.ycombinator.com/item?id=45358433) - [My game&apos;s server is blocked in Spain whenever there&apos;s a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/)
+* [2025-09-24, 10:05:29](https://news.ycombinator.com/item?id=45358280) - [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 10:03:24](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens) - [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
+* [2025-09-24, 09:56:04](https://news.ycombinator.com/item?id=45358216) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-24, 08:24:20](https://news.ycombinator.com/item?id=45357693) - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
 * [2025-09-24, 08:16:00](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss) - [&apos;a Black Hole of Energy Use&apos;: Meta&apos;s Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss)
-* [2025-09-24, 07:05:46](https://news.ycombinator.com/item?id=45357222) - [Ruby Central Is Not Behaving in Good Faith, and I&apos;ve Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)
 * [2025-09-24, 06:36:20](https://lobste.rs/s/capy02/moving_fast_hardware_how_ipod_shipped_6) - [Moving fast in hardware: how the iPod shipped in 6 months](https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/)
-* [2025-09-24, 06:26:05](https://news.ycombinator.com/item?id=45356958) - [You didn&apos;t see it coming](https://aishwaryagoel.com/you-didnt-see-it-coming/)
-* [2025-09-24, 05:51:36](https://lobste.rs/s/njnyic/vbare_simple_alternative_protobuf_cap_n) - [VBARE: A simple alternative to Protobuf &amp; Cap&apos;n Proto for schema evolution](https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance)
 * [2025-09-24, 05:07:10](https://lobste.rs/s/zfktn9/google_continues_invest_350k_rust) - [Google continues to invest 350k in the Rust ecosystem](https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P)
 * [2025-09-24, 04:21:33](https://lobste.rs/s/y6e06t/ai_is_impressive_because_we_ve_failed_at) - [AI is impressive because we’ve failed at semantic web and personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing)
 * [2025-09-24, 04:15:04](https://news.ycombinator.com/item?id=45356226) - [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/)
@@ -81,12 +86,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-24, 03:38:08](https://lobste.rs/s/gl18mt/zubanls_mypy_compatible_python_language) - [ZubanLS: A Mypy-compatible Python Language Server built in Rust](https://zubanls.com/)
 * [2025-09-24, 03:35:00](https://soylentnews.org/article.pl?sid=25/09/23/0552218&amp;from=rss) - [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&amp;from=rss)
 * [2025-09-24, 03:27:41](https://news.ycombinator.com/item?id=45355965) - [New study shows plants and animals emit a visible light that expires at death](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546)
-* [2025-09-24, 02:12:58](https://news.ycombinator.com/item?id=45355514) - [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
 * [2025-09-24, 02:07:23](https://news.ycombinator.com/item?id=45355462) - [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
 * [2025-09-24, 01:25:00](https://news.slashdot.org/story/25/09/24/005245/vietnam-shuts-down-millions-of-bank-accounts-over-biometric-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Vietnam Shuts Down Millions of Bank Accounts Over Biometric Rules](https://news.slashdot.org/story/25/09/24/005245/vietnam-shuts-down-millions-of-bank-accounts-over-biometric-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-24, 01:09:55](https://lobste.rs/s/bfrugi/from_rust_reality_hidden_journey_fetch) - [From Rust to Reality: The Hidden Journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
 * [2025-09-24, 00:45:00](https://news.slashdot.org/story/25/09/23/2358239/disney-hulu-are-hiking-prices-again-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney+, Hulu Are Hiking Prices Again Next Month](https://news.slashdot.org/story/25/09/23/2358239/disney-hulu-are-hiking-prices-again-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-24, 00:33:24](https://news.ycombinator.com/item?id=45354689) - [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
 * [2025-09-24, 00:26:59](https://news.ycombinator.com/item?id=45354644) - [Baldur&apos;s Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
 * [2025-09-24, 00:02:00](https://slashdot.org/story/25/09/23/2355226/microsoft-is-reportedly-building-an-ai-marketplace-to-pay-publishers-for-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Is Reportedly Building An AI Marketplace To Pay Publishers For Content](https://slashdot.org/story/25/09/23/2355226/microsoft-is-reportedly-building-an-ai-marketplace-to-pay-publishers-for-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-23, 23:42:50](https://news.ycombinator.com/item?id=45354314) - [Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
@@ -105,10 +108,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-23, 20:40:21](https://news.ycombinator.com/item?id=45352460) - [Podman Desktop celebrates 3M downloads](https://podman-desktop.io/blog/3-million)
 * [2025-09-23, 20:35:51](https://lobste.rs/s/jxrtjp/rust_foundation_signs_joint_statement_on) - [Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship](https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/)
 * [2025-09-23, 20:02:00](https://science.slashdot.org/story/25/09/23/1825258/journals-infiltrated-with-copycat-papers-that-can-be-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Journals Infiltrated With &apos;Copycat&apos; Papers That Can Be Written By AI](https://science.slashdot.org/story/25/09/23/1825258/journals-infiltrated-with-copycat-papers-that-can-be-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-23, 19:29:26](https://news.ycombinator.com/item?id=45351624) - [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
 * [2025-09-23, 19:21:00](https://it.slashdot.org/story/25/09/23/1758250/microsoft-brings-microfluidics-to-datacenter-cooling-with-3x-performance-gain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Brings Microfluidics To Datacenter Cooling With 3X Performance Gain](https://it.slashdot.org/story/25/09/23/1758250/microsoft-brings-microfluidics-to-datacenter-cooling-with-3x-performance-gain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-23, 19:13:36](https://lobste.rs/s/iibpk0/128_language_quine_relay_2018) - [The 128-Language Quine Relay (2018)](https://esoteric.codes/blog/the-128-language-quine-relay)
-* [2025-09-23, 19:12:08](https://news.ycombinator.com/item?id=45351437) - [Apple A19 SoC die shot](https://chipwise.tech/our-portfolio/apple-a19-dieshot/)
 * [2025-09-23, 19:09:50](https://news.ycombinator.com/item?id=45351410) - [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
 * [2025-09-23, 18:41:00](https://tech.slashdot.org/story/25/09/23/1748209/pope-leo-xiv-rejects-ai-avatar-for-virtual-papal-audiences?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pope Leo XIV Rejects AI Avatar for Virtual Papal Audiences](https://tech.slashdot.org/story/25/09/23/1748209/pope-leo-xiv-rejects-ai-avatar-for-virtual-papal-audiences?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-23, 18:06:07](https://news.ycombinator.com/item?id=45350690) - [Find SF parking cops](https://walzr.com/sf-parking/)
@@ -122,13 +123,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-23, 16:05:00](https://news.slashdot.org/story/25/09/23/166206/us-news-rankings-are-out-after-a-tumultuous-year-for-colleges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [U.S. News Rankings Are Out After a Tumultuous Year for Colleges](https://news.slashdot.org/story/25/09/23/166206/us-news-rankings-are-out-after-a-tumultuous-year-for-colleges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-23, 15:33:23](https://news.ycombinator.com/item?id=45348495) - [Always Invite Anna](https://sharif.io/anna-alexei)
 * [2025-09-23, 15:20:00](https://news.slashdot.org/story/25/09/23/1441229/us-secret-service-dismantles-telecommunications-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Secret Service &apos;Dismantles Telecommunications Threat&apos;](https://news.slashdot.org/story/25/09/23/1441229/us-secret-service-dismantles-telecommunications-threat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-23, 14:52:07](https://news.ycombinator.com/item?id=45347914) - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
 * [2025-09-23, 14:27:36](https://news.ycombinator.com/item?id=45347532) - [Getting AI to work in complex codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
 * [2025-09-23, 13:56:28](https://news.ycombinator.com/item?id=45347117) - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-23, 13:41:23](https://lobste.rs/s/wb9ocu/using_dns_for_responding_acme_challenges) - [Using DNS for responding to ACME challenges](https://hsm.tunnel53.net/article/dns-for-acme-challenges/)
 * [2025-09-23, 13:24:00](https://soylentnews.org/article.pl?sid=25/09/21/2249222&amp;from=rss) - [Deaths From Flesh-Eating Bacteria are on the Rise. Who is at Risk?](https://soylentnews.org/article.pl?sid=25/09/21/2249222&amp;from=rss)
 * [2025-09-23, 12:30:20](https://lobste.rs/s/x2jobn/go_has_added_valgrind_support) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
-* [2025-09-23, 12:18:01](https://news.ycombinator.com/item?id=45345950) - [Mesh: I tried Htmx, then ditched it](https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it)
 * [2025-09-23, 10:47:46](https://lobste.rs/s/6wzpji/crypto_miner_hotio_qbittorrent) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
 * [2025-09-23, 08:35:00](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss) - [We Risk a Deluge of AI-Written ‘Science’ Pushing Corporate Interests](https://soylentnews.org/article.pl?sid=25/09/21/2243223&amp;from=rss)
 * [2025-09-23, 06:40:51](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0) - [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html)
@@ -145,6 +144,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-22, 04:07:00](https://soylentnews.org/article.pl?sid=25/09/21/1419259&amp;from=rss) - [AI Can Forecast Your Future Health – Just Like the Weather](https://soylentnews.org/article.pl?sid=25/09/21/1419259&amp;from=rss)
 * [2025-09-21, 23:23:00](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss) - [When Non-Avian Dinosaurs Went Extinct, the Earth Changed](https://soylentnews.org/article.pl?sid=25/09/21/0028219&amp;from=rss)
 * [2025-09-21, 18:44:00](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss) - [Half a Million Screens go Dark . . .](https://soylentnews.org/article.pl?sid=25/09/21/009253&amp;from=rss)
+* [2025-09-21, 14:11:12](https://news.ycombinator.com/item?id=45322906) - [I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)](https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge)
 * [2025-09-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/09/20/0338224&amp;from=rss) - [Netscape Navigator 2.0 Was Released 30 years Ago](https://soylentnews.org/article.pl?sid=25/09/20/0338224&amp;from=rss)
 * [2025-09-21, 09:08:00](https://soylentnews.org/article.pl?sid=25/09/20/0336240&amp;from=rss) - [Brazil&apos;s Payment System Puts Credit Card Firms to the Test](https://soylentnews.org/article.pl?sid=25/09/20/0336240&amp;from=rss)
 * [2025-09-21, 05:52:51](https://news.ycombinator.com/item?id=45320382) - [A webshell and a normal file that have the same MD5](https://github.com/phith0n/collision-webshell)
@@ -152,9 +152,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-21, 03:30:07](https://news.ycombinator.com/item?id=45319791) - [Processing Strings 109x Faster Than Nvidia on H100](https://ashvardanian.com/posts/stringwars-on-gpus/)
 * [2025-09-20, 23:38:00](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss) - [Education Report Calling for Ethical AI Use Contains Over 15 Fake Sources](https://soylentnews.org/article.pl?sid=25/09/19/0459228&amp;from=rss)
 * [2025-09-20, 18:51:00](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss) - [Scientists: It&apos;s Do or Die Time for America&apos;s Primacy Exploring the Solar System](https://soylentnews.org/article.pl?sid=25/09/19/0456242&amp;from=rss)
+* [2025-09-20, 16:26:53](https://news.ycombinator.com/item?id=45314752) - [Deep researcher with test-time diffusion](https://research.google/blog/deep-researcher-with-test-time-diffusion/)
 * [2025-09-20, 14:07:00](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss) - [Nobody Wanted This: Samsung Fridges are Getting Ads](https://soylentnews.org/article.pl?sid=25/09/19/0444244&amp;from=rss)
 * [2025-09-20, 11:33:47](https://news.ycombinator.com/item?id=45312403) - [A vibrator helped me debug a motorcycle brake light system](https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system)
-* [2025-09-20, 10:42:06](https://news.ycombinator.com/item?id=45312153) - [Simplifying Cross-Chain Transactions Using Intents](https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents)
 * [2025-09-20, 09:21:00](https://soylentnews.org/article.pl?sid=25/09/19/0435227&amp;from=rss) - [L.A. Man Sentenced to 14 Days in Prison for Accidentally Crashing Drone Into Firefighting Plane](https://soylentnews.org/article.pl?sid=25/09/19/0435227&amp;from=rss)
 * [2025-09-20, 08:22:41](https://news.ycombinator.com/item?id=45311498) - [Introduction to Programming Languages](https://hjaem.info/itpl)
 * [2025-09-20, 04:35:00](https://soylentnews.org/article.pl?sid=25/09/19/0433202&amp;from=rss) - [Feds Launch Investigation Into Faulty Tesla Doors](https://soylentnews.org/article.pl?sid=25/09/19/0433202&amp;from=rss)
