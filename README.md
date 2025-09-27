@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Industry Evolution
+## Renewable Energy and Environmental Concerns
 
-* [Former Google CEO Says US Tech Workers Must Match China's 996 Schedule to Remain Competitive](https://slashdot.org/story/25/09/26/2359224/former-google-ceo-says-us-tech-workers-must-match-chinas-996-schedule-to-remain-competitive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A former Google CEO argues U.S. tech workers need to adopt a demanding schedule akin to China's '996' work culture for global competitiveness. [Comments](https://slashdot.org/story/25/09/26/2359224/former-google-ceo-says-us-tech-workers-must-match-chinas-996-schedule-to-remain-competitive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Wind and Solar Will Power Datacenters More Cheaply Than Nuclear, Study Finds](https://hardware.slashdot.org/story/25/09/26/1922220/wind-and-solar-will-power-datacenters-more-cheaply-than-nuclear-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Apple Mac Adoption Is Accelerating Across US Enterprises](https://apple.slashdot.org/story/25/09/26/1931209/apple-mac-adoption-is-accelerating-across-us-enterprises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Emerging trends highlight Apple's growing influence in business settings in the U.S. [Comments](https://apple.slashdot.org/story/25/09/26/1931209/apple-mac-adoption-is-accelerating-across-us-enterprises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss)
 
-* [Videogame Giant Electronic Arts Nears Roughly $50 Billion Deal to Go Private](https://games.slashdot.org/story/25/09/26/2350209/videogame-giant-electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - EA eyes significant private equity investment that could reshape its business structure. [Comments](https://games.slashdot.org/story/25/09/26/2350209/videogame-giant-electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Big Trees in Amazon More Climate-Resistant Than Previously Believed](https://news.slashdot.org/story/25/09/26/1539253/big-trees-in-amazon-more-climate-resistant-than-previously-believed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Environmental Challenges and Insights
+## Technology and Innovation
 
-* [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss) - The environmental repercussions of India’s hydropower expansions in the Himalayas are explored. [Comments](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss).
+* [Former Google CEO Says US Tech Workers Must Match China's 996 Schedule To Remain Competitive](https://slashdot.org/story/25/09/26/2359224/former-google-ceo-says-us-tech-workers-must-match-chinas-996-schedule-to-remain-competitive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [More Than Half of World's Coastal Settlements Retreating From Rising Seas, Study Shows](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss) - Researchers underline worsening risks from rising seas on coastal inhabitants globally. [Comments](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss).
+* [Videogame Giant Electronic Arts Nears Roughly $50 Billion Deal to Go Private](https://games.slashdot.org/story/25/09/26/2350209/videogame-giant-electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Science and Engineering Breakthroughs
+* [Amazon Fire TV Devices Expected To Ditch Android for Linux in 2025](https://linux.slashdot.org/story/25/09/26/1717258/amazon-fire-tv-devices-expected-to-ditch-android-for-linux-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/) - Advances in mathematics are breathing new life into age-old geometric questions. [Comments](https://news.ycombinator.com/item?id=45391871).
+## Health and Science
 
-* [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold) - Apple introduces a computational approach to simplifying protein folding predictions. [Comments](https://news.ycombinator.com/item?id=45389267).
+* [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
 
-## Energy and Climate Innovation
+* [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
 
-* [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/) - The potential of methane pyrolysis in revolutionizing clean hydrogen technology. [Comments](https://news.ycombinator.com/item?id=45391987).
+* [Huntington's Disease Successfully Treated for First Time](https://soylentnews.org/article.pl?sid=25/09/26/1047223&amp;from=rss)
 
-* [Big Trees in Amazon More Climate-Resistant Than Previously Believed](https://news.slashdot.org/story/25/09/26/1539253/big-trees-in-amazon-more-climate-resistant-than-previously-believed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research reveals a surprising climate resilience attribute of Amazon's oldest trees. [Comments](https://news.slashdot.org/story/25/09/26/1539253/big-trees-in-amazon-more-climate-resistant-than-previously-believed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Education and Social Impact
 
-## Artificial Intelligence and Computing
+* [American Kids Can’t Read or Do Math Anymore](https://soylentnews.org/article.pl?sid=25/09/26/1433207&amp;from=rss)
 
-* [Why a decades old architecture decision is impeding the power of AI computing](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing) - IBM explores how legacy computational paradigms affect AI advancements. [Comments](https://lobste.rs/s/4zlkza/why_decades_old_architecture_decision_is).
+* [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
 
-* [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/) - Gauntlet AI opens applications for engineers intrigued by cutting-edge AI technologies. [Comments](https://news.ycombinator.com/item?id=45388675).
+* [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
 
-## Health and Biology Innovations
+## Emerging Technologies in Mathematics and AI
 
-* [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer) - A study highlights a threefold cancer risk associated with specific oral bacteria. [Comments](https://news.ycombinator.com/item?id=45389464).
+* [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
 
-* [Huntington's Disease Successfully Treated for First Time](https://soylentnews.org/article.pl?sid=25/09/26/1047223&amp;from=rss) - A breakthrough treatment marks progress in addressing Huntington's Disease. [Comments](https://soylentnews.org/article.pl?sid=25/09/26/1047223&amp;from=rss).
+* [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
 
-## Cultural and Historical Discoveries
-
-* [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/) - Revisiting the unique martial art sessions between Bruce Lee and the basketball legend. [Comments](https://news.ycombinator.com/item?id=45389889).
-
-* [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html) - A detailed inquiry into document authenticity and potential fabrications. [Comments](https://news.ycombinator.com/item?id=45392164).
+* [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
 
 ---
 
@@ -69,16 +65,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-27, 03:30:00](https://hardware.slashdot.org/story/25/09/26/1922220/wind-and-solar-will-power-datacenters-more-cheaply-than-nuclear-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wind and Solar Will Power Datacenters More Cheaply Than Nuclear, Study Finds](https://hardware.slashdot.org/story/25/09/26/1922220/wind-and-solar-will-power-datacenters-more-cheaply-than-nuclear-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-09-27, 02:26:36](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve) - [Fun Friday Question: What&apos;s the Best Way you&apos;ve Broken Prod?](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve)
 * [2025-09-27, 02:00:00](https://slashdot.org/story/25/09/26/2359224/former-google-ceo-says-us-tech-workers-must-match-chinas-996-schedule-to-remain-competitive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Google CEO Says US Tech Workers Must Match China&apos;s 996 Schedule To Remain Competitive](https://slashdot.org/story/25/09/26/2359224/former-google-ceo-says-us-tech-workers-must-match-chinas-996-schedule-to-remain-competitive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 01:06:00](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss) - [How India&apos;s Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss)
 * [2025-09-27, 01:00:00](https://apple.slashdot.org/story/25/09/26/1931209/apple-mac-adoption-is-accelerating-across-us-enterprises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Mac Adoption Is Accelerating Across US Enterprises](https://apple.slashdot.org/story/25/09/26/1931209/apple-mac-adoption-is-accelerating-across-us-enterprises?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-27, 00:49:51](https://news.ycombinator.com/item?id=45392487) - [Reduce, Reuse, Don&apos;t Recycle](https://alearningaday.blog/2025/09/11/reduce-reuse-dont-recycle/)
 * [2025-09-26, 23:50:00](https://games.slashdot.org/story/25/09/26/2350209/videogame-giant-electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Videogame Giant Electronic Arts Nears Roughly $50 Billion Deal to Go Private](https://games.slashdot.org/story/25/09/26/2350209/videogame-giant-electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 23:43:33](https://news.ycombinator.com/item?id=45392164) - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
 * [2025-09-26, 23:24:09](https://news.ycombinator.com/item?id=45392053) - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
 * [2025-09-26, 23:12:07](https://news.ycombinator.com/item?id=45391987) - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
 * [2025-09-26, 22:57:57](https://news.ycombinator.com/item?id=45391871) - [New math revives geometry&apos;s oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
 * [2025-09-26, 22:44:01](https://news.ycombinator.com/item?id=45391786) - [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
+* [2025-09-26, 22:17:03](https://news.ycombinator.com/item?id=45391566) - [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
 * [2025-09-26, 21:59:57](https://news.ycombinator.com/item?id=45391444) - [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
 * [2025-09-26, 21:30:23](https://news.ycombinator.com/item?id=45391220) - [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
 * [2025-09-26, 21:18:37](https://lobste.rs/s/4zlkza/why_decades_old_architecture_decision_is) - [Why a decades old architecture decision is impeding the power of AI computing](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
@@ -93,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-26, 19:25:05](https://lobste.rs/s/yh2bjm/open_social) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 19:20:00](https://tech.slashdot.org/story/25/09/26/1843257/abu-dhabi-royal-family-to-take-stake-in-tiktok-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Abu Dhabi Royal Family To Take Stake In TikTok US](https://tech.slashdot.org/story/25/09/26/1843257/abu-dhabi-royal-family-to-take-stake-in-tiktok-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 19:12:26](https://news.ycombinator.com/item?id=45389965) - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
-* [2025-09-26, 19:04:27](https://news.ycombinator.com/item?id=45389889) - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
 * [2025-09-26, 19:00:00](https://games.slashdot.org/story/25/09/26/1849227/electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electronic Arts Nears Roughly $50 Billion Deal To Go Private](https://games.slashdot.org/story/25/09/26/1849227/electronic-arts-nears-roughly-50-billion-deal-to-go-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 18:40:00](https://yro.slashdot.org/story/25/09/26/1836203/chinese-hackers-breach-us-software-and-law-firms-amid-trade-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Hackers Breach US Software and Law Firms Amid Trade Fight](https://yro.slashdot.org/story/25/09/26/1836203/chinese-hackers-breach-us-software-and-law-firms-amid-trade-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 18:20:33](https://news.ycombinator.com/item?id=45389464) - [Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer](https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer)
@@ -116,9 +113,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-26, 15:35:00](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss) - [More Than Half of World&apos;s Coastal Settlements Retreating From Rising Seas, Study Shows](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss)
 * [2025-09-26, 15:22:00](https://it.slashdot.org/story/25/09/26/1522244/raspberry-pis-upgraded-keyboard-computer-gets-rgb-lighting-mechanical-switches-and-ssd-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Raspberry Pi&apos;s Upgraded Keyboard Computer Gets RGB Lighting, Mechanical Switches and SSD Storage](https://it.slashdot.org/story/25/09/26/1522244/raspberry-pis-upgraded-keyboard-computer-gets-rgb-lighting-mechanical-switches-and-ssd-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 15:20:06](https://lobste.rs/s/2awkhh/new_popos_beta_shipped_with_cosmis_de) - [New PopOS beta shipped with Cosmis DE](https://system76.com/pop/pop-beta/)
+* [2025-09-26, 15:14:44](https://news.ycombinator.com/item?id=45387462) - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
 * [2025-09-26, 14:41:00](https://tech.slashdot.org/story/25/09/26/1344237/meta-launches-vibes-an-endless-feed-of-ai-slop-for-your-viewing-displeasure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Launches Vibes, an Endless Feed of AI Slop for Your Viewing Displeasure](https://tech.slashdot.org/story/25/09/26/1344237/meta-launches-vibes-an-endless-feed-of-ai-slop-for-your-viewing-displeasure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 14:40:29](https://lobste.rs/s/8vyihb/it_is_actually_surprising_earley_can) - [It is actually surprising that Earley can efficiently parse C, ambiguities and all](https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/)
-* [2025-09-26, 14:00:00](https://news.slashdot.org/story/25/09/26/1327234/new-digital-id-will-be-mandatory-to-work-in-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Digital ID Will Be Mandatory To Work in the UK](https://news.slashdot.org/story/25/09/26/1327234/new-digital-id-will-be-mandatory-to-work-in-the-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-26, 13:57:17](https://news.ycombinator.com/item?id=45386578) - [US cities pay too much for buses](https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses)
 * [2025-09-26, 12:28:38](https://lobste.rs/s/7a4lle/rio_terminal_hardware_accelerated_gpu) - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
 * [2025-09-26, 12:19:31](https://lobste.rs/s/rylcz7/identity_types) - [Identity Types](https://bartoszmilewski.com/2025/09/22/identity-types/)
@@ -138,7 +135,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-25, 13:17:49](https://news.ycombinator.com/item?id=45372319) - [RPi 500 arrives with mechanical switches, RGB LED backlit keys](https://thepihut.com/products/raspberry-pi-500-plus)
 * [2025-09-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/09/25/0014257&amp;from=rss) - [The Ganges River is Drying at an Unprecedented Rate](https://soylentnews.org/article.pl?sid=25/09/25/0014257&amp;from=rss)
 * [2025-09-25, 10:49:20](https://lobste.rs/s/jqikf7/thoughts_on_cloudflare) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
-* [2025-09-25, 08:08:02](https://lobste.rs/s/ruifje/raspberry_pi_500_launched) - [Raspberry Pi 500+ launched](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
+* [2025-09-25, 09:13:01](https://news.ycombinator.com/item?id=45370760) - [Endless AI-Generated Wikipedia](https://www.seangoedecke.com/endless-wiki/)
+* [2025-09-25, 07:36:01](https://news.ycombinator.com/item?id=45370209) - [MCAP Support Lands in Rerun](https://rerun.io/blog/introducing-experimental-support-for-mcap-file-format)
 * [2025-09-25, 07:01:00](https://soylentnews.org/article.pl?sid=25/09/24/122235&amp;from=rss) - [Nvidia&apos;s $100 Billion Investment in OpenAI Raises Big Antitrust Concerns](https://soylentnews.org/article.pl?sid=25/09/24/122235&amp;from=rss)
 * [2025-09-25, 04:48:30](https://lobste.rs/s/p3wmty/step_right_up_lobsters_blog_carnival) - [¡Step right up to the Lobsters! Blog! Carnival](https://lobste.rs/s/p3wmty/step_right_up_lobsters_blog_carnival)
 * [2025-09-25, 03:16:00](https://soylentnews.org/article.pl?sid=25/09/24/1152227&amp;from=rss) - [The End of EU-Imposed Cookie Consent Pop-Ups Could be Nigh](https://soylentnews.org/article.pl?sid=25/09/24/1152227&amp;from=rss)
@@ -147,7 +145,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-24, 19:29:13](https://news.ycombinator.com/item?id=45364932) - [CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells](https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain)
 * [2025-09-24, 17:48:00](https://soylentnews.org/article.pl?sid=25/09/23/0616240&amp;from=rss) - [How Billions of Hacked Mosquitoes and a Vaccine Could Beat the Deadly Dengue Virus](https://soylentnews.org/article.pl?sid=25/09/23/0616240&amp;from=rss)
 * [2025-09-24, 13:02:00](https://soylentnews.org/article.pl?sid=25/09/23/066237&amp;from=rss) - [Why do Some Gamers Invert Their Controls?](https://soylentnews.org/article.pl?sid=25/09/23/066237&amp;from=rss)
-* [2025-09-24, 11:53:38](https://news.ycombinator.com/item?id=45359083) - [Amiga SPICE is a program for simulating electronic circuits](https://www.edsa.uk/blog/amiga-spice)
 * [2025-09-24, 08:29:58](https://news.ycombinator.com/item?id=45357732) - [Traefik&apos;s 10-year anniversary](https://traefik.io/blog/celebrating-10-years-of-traefik)
 * [2025-09-24, 08:16:00](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss) - [&apos;a Black Hole of Energy Use&apos;: Meta&apos;s Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss)
 * [2025-09-24, 04:51:54](https://news.ycombinator.com/item?id=45356429) - [The Beauty of Programming (2001)](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming)
