@@ -1,38 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Operating Systems and Development
+## AI and Technology Advancements
 
-* [seL4 2025 Playlist](https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4) - An engaging playlist showcasing advancements and talks around the seL4 microkernel. [Comments](https://lobste.rs/s/hkjviu/sel4_2025_playlist).
+* [Offline translator for Android](https://github.com/DavidVentura/firefox-translator) - A GitHub project providing offline translation capabilities for Android devices. [Comments](https://lobste.rs/s/m9rmop/offline_translator_for_android)
 
-* [The Unite Real Time Operating System](https://jacquesmattheij.com/unite-operating-system/) - Exploration of a new real-time operating system focused on unifying system processes. [Comments](https://lobste.rs/s/rq7awi/unite_real_time_operating_system).
+* [Firefox Will Offer Visual Searching on Images With AI-Powered Google Lens](https://news.slashdot.org/story/25/09/28/0012206/firefox-will-offer-visual-searching-on-images-with-ai-powered-google-lens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefox integrates Google Lens to enable AI-powered visual searches directly from images. [Comments](https://news.ycombinator.com/item?id=45401907)
 
-* [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/watch?v=iPoL03tFBtU) - A deep dive into the challenges and benefits of replacing Docker with Nix. [Comments](https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix).
+* [Walmart CEO Issues Wake-Up Call: 'AI Is Going to Change Literally Every Job'](https://it.slashdot.org/story/25/09/27/066218/walmart-ceo-issues-wake-up-call-ai-is-going-to-change-literally-every-job?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Walmart's CEO discusses the transformative impact of AI on the workforce. [Comments](https://news.ycombinator.com/item?id=45399637)
 
-* [go-landlock: A Go library for the Linux Landlock sandboxing feature](https://github.com/landlock-lsm/go-landlock) - A library enabling developers to leverage Linux's Landlock security feature. [Comments](https://lobste.rs/s/szfpjf/go_landlock_go_library_for_linux_landlock).
+## Space and Environment
 
-## AI and Technology Impact
+* [NASA's New Mission Will Try to Map the Heliosphere After Voyager's Exit](https://science.slashdot.org/story/25/09/27/0124204/nasas-new-mission-will-try-to-map-the-heliosphere-after-voyagers-exit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new NASA mission aims to map the edge of the solar system where the heliosphere ends. [Comments](https://news.ycombinator.com/item?id=45396234)
 
-* [Firefox Will Offer Visual Searching on Images With AI-Powered Google Lens](https://news.slashdot.org/story/25/09/28/0012206/firefox-will-offer-visual-searching-on-images-with-ai-powered-google-lens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Learn how Firefox plans to bring Google Lens capabilities to accelerate image searches. [Comments](https://news.slashdot.org/story/25/09/28/0012206/firefox-will-offer-visual-searching-on-images-with-ai-powered-google-lens?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Dismissed as a joke, UK's first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo) - The UK's first successful rice harvest showcases climate adaptability and includes perspectives on a warming environment. [Comments](https://news.ycombinator.com/item?id=45402496)
 
-* [Hugging Face Researchers Warn AI-Generated Video Consumes Much More Power Than Expected](https://hardware.slashdot.org/story/25/09/27/0249201/hugging-face-researchers-warn-ai-generated-video-consumes-much-more-power-than-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An eye-opening study on the environmental cost of generating AI-driven video content. [Comments](https://hardware.slashdot.org/story/25/09/27/0249201/hugging-face-researchers-warn-ai-generated-video-consumes-much-more-power-than-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+## Open Source and Development
 
-* [Meta's Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss) - A focus on the societal consequences linked to large-scale AI data hubs. [Comments](https://soylentnews.org/article.pl?sid=25/09/23/0557257&from=rss).
+* [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made) - A personal story detailing the creation of a highly efficient CSV parser. [Comments](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv)
 
-## Scientific and Technological Innovations
+* [Redis is fast - I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/) - Reasons and experiences behind replacing Redis caching with PostgreSQL in production environments. [Comments](https://lobste.rs/s/liau26/redis_is_fast_i_ll_cache_postgres)
 
-* [Scientists Develop 'Glue Gun' That 3D Prints Bone Grafts Directly Onto Fractures](https://science.slashdot.org/story/25/09/27/2157219/scientists-develop-glue-gun-that-3d-prints-bone-grafts-directly-onto-fractures?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revolutionary device to enable on-site bone graft surgeries. [Comments](https://science.slashdot.org/story/25/09/27/2157219/scientists-develop-glue-gun-that-3d-prints-bone-grafts-directly-onto-fractures?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+## Security and Privacy
 
-* [How Billions of Hacked Mosquitoes and a Vaccine Could Beat the Deadly Dengue Virus](https://soylentnews.org/article.pl?sid=25/09/23/0616240&from=rss) - New biotechnological solutions aimed at curbing dengue virus spread via innovative mosquito interventions. [Comments](https://soylentnews.org/article.pl?sid=25/09/23/0616240&from=rss).
+* [Airlines Seen as Vulnerable After Confirmed Ransomware Cyberattack, Suspect Arrested](https://soylentnews.org/article.pl?sid=25/09/27/1318227&from=rss) - Airlines face cybersecurity challenges amid growing ransomware threats. [Comments](https://news.ycombinator.com/item?id=45398067)
 
-* [Huntington's Disease Successfully Treated for First Time](https://soylentnews.org/article.pl?sid=25/09/26/1047223&from=rss) - Groundbreaking development in treating Huntington's Disease. [Comments](https://soylentnews.org/article.pl?sid=25/09/26/1047223&from=rss).
+* [First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) - Details of a newly identified backdoor affecting Postmark npm packages. [Comments](https://lobste.rs/s/shhayp/first_malicious_mcp_wild_postmark)
 
-## Unusual and Creative Endeavors
+## Culture and Society
 
-* [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds) - Reliving retro-tech ingenuity to maximize outdated internet technologies. [Comments](https://news.ycombinator.com/item?id=45400828).
+* [When This EV Company Went Bankrupt, Its Customers Launched a Nonprofit to Keep Their Cars Running](https://tech.slashdot.org/story/25/09/27/2331230/when-this-ev-company-went-bankrupt-its-customers-launched-a-nonprofit-to-keep-their-cars-running?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A community-driven nonprofit emerges to maintain electric vehicles after the manufacturer went bankrupt. [Comments](https://news.ycombinator.com/item?id=45401051)
 
-* [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol) - A whimsical digital experiment allowing users to submit and share quirky entries. [Comments](https://news.ycombinator.com/item?id=45398005).
-
-* [Learn to play Go](https://online-go.com/learn-to-play-go) - A guided tutorial for anyone interested in mastering the strategy-based board game. [Comments](https://news.ycombinator.com/item?id=45400376).
+* [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol) - A quirky tech-art project where a virtual public living room takes strange turns via user contributions. [Comments](https://news.ycombinator.com/item?id=45398005)
 
 ---
 
@@ -59,9 +57,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-09-28, 09:07:22](https://lobste.rs/s/m9rmop/offline_translator_for_android) - [Offline translator for Android](https://github.com/DavidVentura/firefox-translator)
+* [2025-09-28, 08:53:36](https://news.ycombinator.com/item?id=45402820) - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
+* [2025-09-28, 08:28:11](https://lobste.rs/s/gz4zq0/urgency_vs_importance) - [Urgency vs importance](https://archaeologist.dev/artifacts/priorities)
+* [2025-09-28, 08:14:02](https://lobste.rs/s/r3xvg7/visual_studio_2026_insiders_is_here) - [Visual Studio 2026 Insiders is here](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)
+* [2025-09-28, 07:44:07](https://news.ycombinator.com/item?id=45402496) - [Dismissed as a joke, UK&apos;s first rice crop ripe for picking after hot summer](https://www.bbc.co.uk/news/articles/c1wgeq702dyo)
+* [2025-09-28, 07:34:00](https://yro.slashdot.org/story/25/09/28/044220/should-salesforces-tableau-be-granted-a-patent-on-visualizing-hierarchical-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Salesforce&apos;s Tableau Be Granted a Patent On &apos;Visualizing Hierarchical Data&apos;?](https://yro.slashdot.org/story/25/09/28/044220/should-salesforces-tableau-be-granted-a-patent-on-visualizing-hierarchical-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-28, 06:08:56](https://lobste.rs/s/hkjviu/sel4_2025_playlist) - [seL4 2025 Playlist](https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4)
 * [2025-09-28, 05:44:00](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss) - [Consumer Reports Slams Microsoft for Windows 10 Mess, Urges Extension of Free Updates](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss)
-* [2025-09-28, 05:12:42](https://news.ycombinator.com/item?id=45401936) - [Linus Torvalds and the Supposedly \&quot;Garbage Code\&quot;](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
 * [2025-09-28, 05:11:24](https://lobste.rs/s/0xkiib/linus_torvalds_supposedly_garbage_code) - [Linus Torvalds and the Supposedly “Garbage Code”](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
 * [2025-09-28, 05:04:39](https://news.ycombinator.com/item?id=45401907) - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
 * [2025-09-28, 04:44:35](https://lobste.rs/s/rq7awi/unite_real_time_operating_system) - [The Unite Real Time Operating System](https://jacquesmattheij.com/unite-operating-system/)
@@ -93,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-27, 18:15:08](https://news.ycombinator.com/item?id=45398153) - [The death of east London&apos;s most radical bookshop](https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/)
 * [2025-09-27, 17:59:47](https://news.ycombinator.com/item?id=45398005) - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
 * [2025-09-27, 17:34:00](https://hardware.slashdot.org/story/25/09/27/0249201/hugging-face-researchers-warn-ai-generated-video-consumes-much-more-power-than-expected?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hugging Face Researchers Warn AI-Generated Video Consumes Much More Power Than Expected](https://hardware.slashdot.org/story/25/09/27/0249201/hugging-face-researchers-warn-ai-generated-video-consumes-much-more-power-than-expected?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-27, 17:00:42](https://news.ycombinator.com/item?id=45397492) - [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
 * [2025-09-27, 16:34:00](https://hardware.slashdot.org/story/25/09/27/0441242/byds-all-electric-hypercar-hits-308-mph-becomes-fastest-car-in-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [BYD&apos;s All-Electric Hypercar Hits 308 MPH, Becomes Fastest Car in Production](https://hardware.slashdot.org/story/25/09/27/0441242/byds-all-electric-hypercar-hits-308-mph-becomes-fastest-car-in-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
 * [2025-09-27, 16:04:10](https://lobste.rs/s/7sudgi/live_2025_live_talks_about_live) - [LIVE 2025: live talks about live programming](https://www.youtube.com/watch?v=5m5g4UO5W44)
@@ -108,46 +110,42 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-27, 14:23:12](https://news.ycombinator.com/item?id=45395957) - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 13:00:00](https://tech.slashdot.org/story/25/09/27/004205/pentagon-can-call-dji-a-chinese-military-company-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Can Call DJI a Chinese Military Company, Court Rules](https://tech.slashdot.org/story/25/09/27/004205/pentagon-can-call-dji-a-chinese-military-company-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 12:28:41](https://lobste.rs/s/oebpl9/meshtastic_64_meshtastic_radio_for) - [Meshtastic 64 - A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
+* [2025-09-27, 12:27:46](https://news.ycombinator.com/item?id=45395133) - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 * [2025-09-27, 12:24:29](https://lobste.rs/s/ocnhfi/hsbc_publishes_yet_another_claim_quantum) - [HSBC publishes yet another claim of quantum advantage that isn’t](https://scottaaronson.blog/?p=9170)
 * [2025-09-27, 11:04:56](https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement) - [Typst: a possible LaTeX replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 10:41:00](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss) - [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss)
-* [2025-09-27, 10:38:42](https://news.ycombinator.com/item?id=45394642) - [Ishkur&apos;s Guide to Electronic Music](http://music.ishkur.com/)
 * [2025-09-27, 10:00:00](https://hardware.slashdot.org/story/25/09/26/2027234/humanoid-robots-are-metas-next-ar-sized-bet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humanoid Robots Are Meta&apos;s Next &apos;AR-Sized Bet&apos;](https://hardware.slashdot.org/story/25/09/26/2027234/humanoid-robots-are-metas-next-ar-sized-bet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 07:31:58](https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take) - [Go&apos;s builtin &apos;new()&apos; function will take an expression in Go 1.26](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression)
+* [2025-09-27, 07:31:39](https://news.ycombinator.com/item?id=45393842) - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 07:00:00](https://tech.slashdot.org/story/25/09/26/1937234/ula-launches-third-batch-of-amazons-project-kuiper-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ULA Launches Third Batch of Amazon&apos;s Project Kuiper Satellites](https://tech.slashdot.org/story/25/09/26/1937234/ula-launches-third-batch-of-amazons-project-kuiper-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 06:42:53](https://lobste.rs/s/2emtvy/property_based_testing_ocaml_5_s_runtime) - [Property-Based Testing of OCaml 5’s Runtime System](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 * [2025-09-27, 05:56:00](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss) - [China&apos;s Latest GPU Arrives With Claims of CUDA Compatibility and RT Support](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss)
-* [2025-09-27, 03:30:00](https://hardware.slashdot.org/story/25/09/26/1922220/wind-and-solar-will-power-datacenters-more-cheaply-than-nuclear-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wind and Solar Will Power Datacenters More Cheaply Than Nuclear, Study Finds](https://hardware.slashdot.org/story/25/09/26/1922220/wind-and-solar-will-power-datacenters-more-cheaply-than-nuclear-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-27, 02:26:36](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve) - [Fun Friday Question: What&apos;s the Best Way you&apos;ve Broken Prod?](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve)
 * [2025-09-27, 01:06:00](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss) - [How India&apos;s Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss)
 * [2025-09-26, 20:53:07](https://lobste.rs/s/7gtp0y/flight_recorder_go_1_25) - [Flight Recorder in Go 1.25](https://go.dev/blog/flight-recorder)
 * [2025-09-26, 20:20:00](https://soylentnews.org/article.pl?sid=25/09/26/1433207&amp;from=rss) - [American Kids Can’t Read or Do Math Anymore](https://soylentnews.org/article.pl?sid=25/09/26/1433207&amp;from=rss)
 * [2025-09-26, 19:25:05](https://lobste.rs/s/yh2bjm/open_social) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 17:34:16](https://lobste.rs/s/liau26/redis_is_fast_i_ll_cache_postgres) - [Redis is fast - I&apos;ll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
-* [2025-09-26, 15:54:08](https://lobste.rs/s/zsec3k/turning_billions_strings_into_integers) - [Turning Billions of Strings into Integers Every Second Without Collisions](https://jazco.dev/2025/09/26/interning/)
 * [2025-09-26, 15:35:00](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss) - [More Than Half of World&apos;s Coastal Settlements Retreating From Rising Seas, Study Shows](https://soylentnews.org/article.pl?sid=25/09/26/1416257&amp;from=rss)
-* [2025-09-26, 14:40:29](https://lobste.rs/s/8vyihb/it_is_actually_surprising_earley_can) - [It is actually surprising that Earley can efficiently parse C, ambiguities and all](https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/)
-* [2025-09-26, 12:28:38](https://lobste.rs/s/7a4lle/rio_terminal_hardware_accelerated_gpu) - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
 * [2025-09-26, 10:53:00](https://soylentnews.org/article.pl?sid=25/09/26/1047223&amp;from=rss) - [Huntington&apos;s Disease Successfully Treated for First Time](https://soylentnews.org/article.pl?sid=25/09/26/1047223&amp;from=rss)
 * [2025-09-26, 06:11:00](https://soylentnews.org/article.pl?sid=25/09/26/0453242&amp;from=rss) - [Facebook Data Reveal the Devastating Real-World Harms Caused by the Spread of Misinformation](https://soylentnews.org/article.pl?sid=25/09/26/0453242&amp;from=rss)
 * [2025-09-26, 01:27:00](https://soylentnews.org/article.pl?sid=25/09/25/1231232&amp;from=rss) - [China Starts Producing World-First Non-Binary AI Chips for Aviation, Manufacturing](https://soylentnews.org/article.pl?sid=25/09/25/1231232&amp;from=rss)
 * [2025-09-25, 20:42:00](https://soylentnews.org/article.pl?sid=25/09/25/1225209&amp;from=rss) - [The Future of Nuclear Reactors is Making its Way to the US](https://soylentnews.org/article.pl?sid=25/09/25/1225209&amp;from=rss)
 * [2025-09-25, 16:11:55](https://news.ycombinator.com/item?id=45374665) - [Shoes, Algernon, Pangea, and sea peoples](https://dynomight.net/shorts-5/)
 * [2025-09-25, 15:54:00](https://soylentnews.org/article.pl?sid=25/09/25/1221237&amp;from=rss) - [Different Types of Magic Mushrooms Use Unique Biochemical Paths to Produce the Same Active Compound](https://soylentnews.org/article.pl?sid=25/09/25/1221237&amp;from=rss)
-* [2025-09-25, 12:27:46](https://news.ycombinator.com/item?id=45371986) - [Testing the Raspberry Pi 500+&apos;s new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard)
 * [2025-09-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/09/25/0014257&amp;from=rss) - [The Ganges River is Drying at an Unprecedented Rate](https://soylentnews.org/article.pl?sid=25/09/25/0014257&amp;from=rss)
 * [2025-09-25, 10:20:06](https://news.ycombinator.com/item?id=45371188) - [The Hacker Folk Art of Esoteric Coding](https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/)
 * [2025-09-25, 09:20:39](https://news.ycombinator.com/item?id=45370798) - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 * [2025-09-25, 07:01:00](https://soylentnews.org/article.pl?sid=25/09/24/122235&amp;from=rss) - [Nvidia&apos;s $100 Billion Investment in OpenAI Raises Big Antitrust Concerns](https://soylentnews.org/article.pl?sid=25/09/24/122235&amp;from=rss)
 * [2025-09-25, 03:16:00](https://soylentnews.org/article.pl?sid=25/09/24/1152227&amp;from=rss) - [The End of EU-Imposed Cookie Consent Pop-Ups Could be Nigh](https://soylentnews.org/article.pl?sid=25/09/24/1152227&amp;from=rss)
 * [2025-09-24, 22:36:00](https://soylentnews.org/article.pl?sid=25/09/24/1148218&amp;from=rss) - [Cloudflare is Sponsoring Ladybird and Omarchy](https://soylentnews.org/article.pl?sid=25/09/24/1148218&amp;from=rss)
-* [2025-09-24, 21:48:46](https://news.ycombinator.com/item?id=45366369) - [Frankenstein&apos;s Sheep](https://nymag.com/intelligencer/article/montana-mountain-king-marco-polo-argali-sheep-cloning-labs.html)
+* [2025-09-24, 18:41:04](https://news.ycombinator.com/item?id=45364370) - [Electromechanical Calculating Machines from the 1960&apos;s](https://www.mortati.com/glusker/elecmech/index.htm)
 * [2025-09-24, 17:48:00](https://soylentnews.org/article.pl?sid=25/09/23/0616240&amp;from=rss) - [How Billions of Hacked Mosquitoes and a Vaccine Could Beat the Deadly Dengue Virus](https://soylentnews.org/article.pl?sid=25/09/23/0616240&amp;from=rss)
 * [2025-09-24, 16:09:59](https://news.ycombinator.com/item?id=45362365) - [I built and launched the first AirPods-Controlled Game](https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828)
 * [2025-09-24, 15:16:22](https://news.ycombinator.com/item?id=45361568) - [The 3,000-year-old story hidden in the @ sign](https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard)
 * [2025-09-24, 15:10:04](https://news.ycombinator.com/item?id=45361476) - [Just how resilient are large language models?](https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models)
+* [2025-09-24, 14:41:22](https://news.ycombinator.com/item?id=45361124) - [Questions to ask when you think need to finish something](https://cassidoo.co/post/questions-when-i-need-to-finish-something/)
 * [2025-09-24, 13:02:00](https://soylentnews.org/article.pl?sid=25/09/23/066237&amp;from=rss) - [Why do Some Gamers Invert Their Controls?](https://soylentnews.org/article.pl?sid=25/09/23/066237&amp;from=rss)
 * [2025-09-24, 11:23:54](https://news.ycombinator.com/item?id=45358841) - [Python developers are embracing type hints](https://pyrefly.org/blog/why-typed-python/)
 * [2025-09-24, 08:16:00](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss) - [&apos;a Black Hole of Energy Use&apos;: Meta&apos;s Massive AI Data Center is Stressing Out a Louisiana Community](https://soylentnews.org/article.pl?sid=25/09/23/0557257&amp;from=rss)
-* [2025-09-24, 08:02:29](https://news.ycombinator.com/item?id=45357573) - [The Magical Number Seven, Plus or Minus Two (1956) [pdf]](https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)
 * [2025-09-24, 03:35:00](https://soylentnews.org/article.pl?sid=25/09/23/0552218&amp;from=rss) - [When Cancer Targets the Young](https://soylentnews.org/article.pl?sid=25/09/23/0552218&amp;from=rss)
