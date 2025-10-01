@@ -1,36 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Insights in AI
+## Technology and Innovation
 
-* [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead) - Renowned conservationist and ethologist, whose pioneering studies on chimpanzees revolutionized primate research, passed away.
+* [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264) ([comments](https://news.ycombinator.com/item?id=45443462))
 
-* [A 'Godfather of AI' Remains Concerned as Ever About Human Extinction](https://slashdot.org/story/25/10/01/1422204/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The perception and fears of AI's existential risks discussed by a leading scientist.
+* [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html) ([comments](https://news.ycombinator.com/item?id=45441364))
 
-* [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/) - Highlighting the EU's shift towards renewable energy and the growing role of solar power.
+* [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world) ([comments](https://lobste.rs/s/6bid4y/why_tigerbeetle_is_most_interesting))
 
-## Software and Systems Developments
+* [Serving a half billion requests per day with Rust + CGI](https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/) ([comments](https://lobste.rs/s/va0frj/serving_half_billion_requests_per_day))
 
-* [OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)](https://www.opentslm.com/) - Collaborative use of machine learning in analyzing time-series data by academic and tech giants.
+* [Register allocation in the Go compiler [2024]](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html) ([comments](https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024))
 
-* [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai) - A practical tool aimed at improving database schema management with AI integration.
+* [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/) ([comments](https://news.ycombinator.com/item?id=45439721))
 
-* [Codeberg Reaches 300k Projects](https://codeberg.org/) - The open-code community achieves a significant milestone.
+* [Bevy 0.17](https://bevy.org/news/bevy-0-17/) ([comments](https://lobste.rs/s/gxdnb7/bevy_0_17))
 
-## Pressing Global Issues
+## AI and Society
 
-* [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - Exploration of systemic disparities in global agricultural trade.
+* [Nadella Appoints New CEO To Run Microsoft&apos;s Biggest Businesses](https://tech.slashdot.org/story/25/10/01/1534253/nadella-appoints-new-ceo-to-run-microsofts-biggest-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45438501))
 
-* [Britain is Slowly Going Bust](https://news.slashdot.org/story/25/10/01/175234/britain-is-slowly-going-bust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of economic challenges facing the UK.
+* [Claude&apos;s New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss))
 
-* [Scientists Make Embryos From Human Skin DNA For First Time](https://science.slashdot.org/story/25/09/30/2243218/scientists-make-embryos-from-human-skin-dna-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Groundbreaking development in genetic and embryonic research.
+* [Lufthansa To Cut 4,000 Jobs As Airline Turns To AI To Boost Efficiency](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/10/01/1422204/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction))
 
-## Impact of Technology and Innovations
+* [A &apos;Godfather of AI&apos; Remains Concerned as Ever About Human Extinction](https://slashdot.org/story/25/10/01/1422204/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024))
 
-* [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral) - A significant leap forward in remote sensing abilities.
+## Environmental Progress and Challenges
 
-* [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - The Open Source Foundation contemplates strategic impacts of Shopify's aggressive acquisition.
+* [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/) ([comments](https://news.ycombinator.com/item?id=45440387))
 
-* [Amazon Launches Vegas OS, Its Android Replacement For Fire TV With No Sideloading](https://tech.slashdot.org/story/25/09/30/2225237/amazon-launches-vegas-os-its-android-replacement-for-fire-tv-with-no-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New proprietary OS launched by Amazon pushing tech boundaries while restricting software development entry points.
+* [New World Screwworm Parasite Detected in Northern Mexico Near US Border](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss))
+
+* [8,000 years of Human Activities Have Caused Wild Animals to Shrink and Domestic Animals to Grow](https://soylentnews.org/article.pl?sid=25/09/28/0015236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/27/1352245&amp;from=rss))
+
+## Remembering Jane Goodall
+
+* [Jane Goodall, Famed Primatologist and Conservationist, Dies At 91](https://science.slashdot.org/story/25/10/01/218204/jane-goodall-famed-primatologist-and-conservationist-dies-at-91?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45441069))
+
+## Space and Physics Discoveries
+
+* [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss))
 
 ---
 
@@ -57,29 +67,37 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-01, 18:44:47](https://news.ycombinator.com/item?id=45441580) - [Tinker by Thinking Machines](https://thinkingmachines.ai/tinker/)
+* [2025-10-01, 21:40:54](https://news.ycombinator.com/item?id=45443881) - [US gov shutdown leaves IT projects hanging, security defenders a skeleton crew](https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/)
+* [2025-10-01, 21:20:00](https://science.slashdot.org/story/25/10/01/218204/jane-goodall-famed-primatologist-and-conservationist-dies-at-91?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jane Goodall, Famed Primatologist and Conservationist, Dies At 91](https://science.slashdot.org/story/25/10/01/218204/jane-goodall-famed-primatologist-and-conservationist-dies-at-91?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-01, 21:00:18](https://news.ycombinator.com/item?id=45443462) - [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+* [2025-10-01, 20:53:17](https://news.ycombinator.com/item?id=45443368) - [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities)
+* [2025-10-01, 20:48:23](https://news.ycombinator.com/item?id=45443304) - [Microsoft declares bring your Copilot to work day, usurping IT authority](https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/)
+* [2025-10-01, 20:42:00](https://news.slashdot.org/story/25/10/01/1755259/filipinos-are-addicted-to-online-gambling-so-is-their-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Filipinos Are Addicted to Online Gambling. So Is Their Government](https://news.slashdot.org/story/25/10/01/1755259/filipinos-are-addicted-to-online-gambling-so-is-their-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-01, 20:40:19](https://news.ycombinator.com/item?id=45443200) - [Implementing /Usr Merge in Alpine](https://alpinelinux.org/posts/2025-10-01-usr-merge.html)
+* [2025-10-01, 20:25:59](https://news.ycombinator.com/item?id=45443004) - [Unbound Academy hasn’t replaced teachers with AI](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
+* [2025-10-01, 20:07:44](https://news.ycombinator.com/item?id=45442743) - [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
+* [2025-10-01, 20:01:00](https://apple.slashdot.org/story/25/10/01/1740257/samsung-confirms-plan-to-make-foldable-displays-for-major-american-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Confirms Plan To Make Foldable Displays for Major American Company](https://apple.slashdot.org/story/25/10/01/1740257/samsung-confirms-plan-to-make-foldable-displays-for-major-american-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-01, 19:36:00](https://lobste.rs/s/vawrag/ip_over_lasers) - [IP Over Lasers](https://www.mikekohn.net/micro/ip_over_lasers.php)
+* [2025-10-01, 19:21:00](https://apple.slashdot.org/story/25/10/01/1719219/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Once Again Demands Backdoor To Apple&apos;s Encrypted Cloud Storage](https://apple.slashdot.org/story/25/10/01/1719219/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-01, 19:11:17](https://lobste.rs/s/va0frj/serving_half_billion_requests_per_day) - [Serving a half billion requests per day with Rust + CGI](https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/)
+* [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss)
 * [2025-10-01, 18:42:19](https://lobste.rs/s/liw1e8/we_tried_go_s_experimental_green_tea) - [We tried Go&apos;s experimental Green Tea garbage collector and it didn&apos;t help performance](https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/)
 * [2025-10-01, 18:41:00](https://entertainment.slashdot.org/story/25/10/01/1530239/indian-court-tells-doctors-to-fix-their-handwriting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indian Court Tells Doctors To Fix Their Handwriting](https://entertainment.slashdot.org/story/25/10/01/1530239/indian-court-tells-doctors-to-fix-their-handwriting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-01, 18:36:17](https://news.ycombinator.com/item?id=45441447) - [Decoding Netflix&apos;s AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
-* [2025-10-01, 18:20:41](https://news.ycombinator.com/item?id=45441219) - [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
-* [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall Dies at 91](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
+* [2025-10-01, 18:30:36](https://news.ycombinator.com/item?id=45441364) - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+* [2025-10-01, 18:20:49](https://news.ycombinator.com/item?id=45441222) - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
+* [2025-10-01, 18:10:39](https://news.ycombinator.com/item?id=45441069) - [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
 * [2025-10-01, 18:01:00](https://slashdot.org/story/25/10/01/1422204/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A &apos;Godfather of AI&apos; Remains Concerned as Ever About Human Extinction](https://slashdot.org/story/25/10/01/1422204/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 17:37:05](https://lobste.rs/s/w8xado/is_tech_inevitable) - [is tech inevitable](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
-* [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
-* [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)](https://www.opentslm.com/)
+* [2025-10-01, 17:36:43](https://news.ycombinator.com/item?id=45440571) - [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+* [2025-10-01, 17:25:33](https://news.ycombinator.com/item?id=45440431) - [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
 * [2025-10-01, 17:22:43](https://news.ycombinator.com/item?id=45440387) - [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
 * [2025-10-01, 17:21:00](https://news.slashdot.org/story/25/10/01/175234/britain-is-slowly-going-bust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain is Slowly Going Bust](https://news.slashdot.org/story/25/10/01/175234/britain-is-slowly-going-bust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-01, 17:09:20](https://news.ycombinator.com/item?id=45440212) - [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
-* [2025-10-01, 16:48:20](https://news.ycombinator.com/item?id=45439955) - [Codeberg Reaches 300k Projects](https://codeberg.org/)
-* [2025-10-01, 16:42:50](https://news.ycombinator.com/item?id=45439883) - [DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/)
 * [2025-10-01, 16:41:00](https://games.slashdot.org/story/25/10/01/1515205/microsoft-raises-xbox-game-pass-top-subscription-50-to-30-monthly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Raises Xbox Game Pass Top Subscription 50% To $30 Monthly](https://games.slashdot.org/story/25/10/01/1515205/microsoft-raises-xbox-game-pass-top-subscription-50-to-30-monthly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 16:30:16](https://news.ycombinator.com/item?id=45439721) - [Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts](https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/)
-* [2025-10-01, 16:25:58](https://news.ycombinator.com/item?id=45439670) - [No more \&quot;check mail from other accounts\&quot; in Gmail web](https://support.google.com/mail/answer/16604719?hl=en)
 * [2025-10-01, 16:01:00](https://tech.slashdot.org/story/25/10/01/1534253/nadella-appoints-new-ceo-to-run-microsofts-biggest-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nadella Appoints New CEO To Run Microsoft&apos;s Biggest Businesses](https://tech.slashdot.org/story/25/10/01/1534253/nadella-appoints-new-ceo-to-run-microsofts-biggest-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 15:57:47](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025) - [Who&apos;s Hiring? Q4 2025](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025)
 * [2025-10-01, 15:40:23](https://lobste.rs/s/8nyk1p/stop_trusting_nix_caches) - [Stop Trusting Nix Caches](https://garnix.io/blog/stop-trusting-nix-caches)
 * [2025-10-01, 15:21:00](https://slashdot.org/story/25/10/01/139248/chinas-k-visa-plans-spark-worries-of-a-talent-flood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s K-visa Plans Spark Worries of a Talent Flood](https://slashdot.org/story/25/10/01/139248/chinas-k-visa-plans-spark-worries-of-a-talent-flood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-01, 15:15:44](https://news.ycombinator.com/item?id=45438704) - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
 * [2025-10-01, 15:14:55](https://lobste.rs/s/mncj0j/kubernetes_features_stage_changes) - [Kubernetes features stage changes in a visual way](https://kaniuse.gerome.dev/)
 * [2025-10-01, 15:01:06](https://news.ycombinator.com/item?id=45438503) - [Ask HN: Who is hiring? (October 2025)](https://news.ycombinator.com/item?id=45438503)
 * [2025-10-01, 15:01:06](https://news.ycombinator.com/item?id=45438501) - [Ask HN: Who wants to be hired? (October 2025)](https://news.ycombinator.com/item?id=45438501)
@@ -94,9 +112,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-10-01, 13:53:03](https://lobste.rs/s/fygftm/f3_open_source_data_file_format_for_future) - [F3: The Open-Source Data File Format for the Future](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-10-01, 13:38:36](https://news.ycombinator.com/item?id=45437594) - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
-* [2025-10-01, 13:14:32](https://news.ycombinator.com/item?id=45437323) - [Uxntal: A programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2025-10-01, 13:00:00](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lufthansa To Cut 4,000 Jobs As Airline Turns To AI To Boost Efficiency](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-01, 12:43:51](https://news.ycombinator.com/item?id=45437027) - [Building an IoT Notification Device from Scratch](https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/)
 * [2025-10-01, 11:31:10](https://lobste.rs/s/6bid4y/why_tigerbeetle_is_most_interesting) - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
 * [2025-10-01, 10:00:00](https://science.slashdot.org/story/25/10/01/0322228/curiosity-drives-viewers-to-ignore-trigger-warnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Curiosity Drives Viewers To Ignore Trigger Warnings](https://science.slashdot.org/story/25/10/01/0322228/curiosity-drives-viewers-to-ignore-trigger-warnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss)
@@ -111,11 +127,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 06:19:11](https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return) - [What was the longest time you ever took to return to a software project?](https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return)
 * [2025-10-01, 05:30:47](https://lobste.rs/s/ka3uqb/generate_html_conveniently_efficiently) - [Generate HTML conveniently and efficiently with Python generators](https://github.com/pcarbonn/fast_html)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss)
-* [2025-10-01, 03:30:00](https://science.slashdot.org/story/25/09/30/2243218/scientists-make-embryos-from-human-skin-dna-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Make Embryos From Human Skin DNA For First Time](https://science.slashdot.org/story/25/09/30/2243218/scientists-make-embryos-from-human-skin-dna-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss)
-* [2025-09-30, 23:40:00](https://yro.slashdot.org/story/25/09/30/2230245/charlie-javice-sentenced-to-7-years-in-prison-for-fraudulent-sale-of-her-startup-to-jpmorgan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Charlie Javice Sentenced To 7 Years In Prison For Fraudulent Sale of Her Startup To JPMorgan](https://yro.slashdot.org/story/25/09/30/2230245/charlie-javice-sentenced-to-7-years-in-prison-for-fraudulent-sale-of-her-startup-to-jpmorgan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-30, 23:20:00](https://slashdot.org/story/25/09/30/2237218/spotifys-founder-and-ceo-daniel-ek-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spotify&apos;s Founder and CEO Daniel Ek Is Stepping Down](https://slashdot.org/story/25/09/30/2237218/spotifys-founder-and-ceo-daniel-ek-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-30, 23:00:00](https://tech.slashdot.org/story/25/09/30/2225237/amazon-launches-vegas-os-its-android-replacement-for-fire-tv-with-no-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Launches Vegas OS, Its Android Replacement For Fire TV With No Sideloading](https://tech.slashdot.org/story/25/09/30/2225237/amazon-launches-vegas-os-its-android-replacement-for-fire-tv-with-no-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-30, 21:08:02](https://lobste.rs/s/gxdnb7/bevy_0_17) - [Bevy 0.17](https://bevy.org/news/bevy-0-17/)
 * [2025-09-30, 20:29:18](https://lobste.rs/s/vgcxcw/systems_programming_with_zig) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-09-30, 20:03:19](https://lobste.rs/s/fcimmd/organize_your_slack_channels_by_how_often) - [Organize your Slack channels by “How Often”, not “What”](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
@@ -126,10 +138,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss)
 * [2025-09-30, 14:01:39](https://lobste.rs/s/rouky6/software_essays_shaped_me) - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
 * [2025-09-30, 12:08:50](https://lobste.rs/s/r6elsg/open_printer_is_open_source_inkjet) - [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
-* [2025-09-30, 12:02:32](https://lobste.rs/s/yfmq0d/expression_problem_rust) - [The expression problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 07:30:38](https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
-* [2025-09-30, 05:18:55](https://lobste.rs/s/mhczmh/pidgin_3_0_experimental_4_2_93_0_has_been) - [Pidgin 3.0 Experimental 4 (2.93.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/)
 * [2025-09-30, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss) - [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss)
 * [2025-09-30, 00:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss) - [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss)
 * [2025-09-29, 19:46:00](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss) - [New World Screwworm Parasite Detected in Northern Mexico Near US Border](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss)
@@ -138,15 +148,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss)
 * [2025-09-29, 05:35:00](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss) - [The Cyber Vulnerabilities Lurking in CRM Systems](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss)
 * [2025-09-29, 00:49:00](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss) - [This Experimental Computer Chip Reuses Energy](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss)
+* [2025-09-28, 22:00:47](https://news.ycombinator.com/item?id=45408473) - [\&quot;DSEG\&quot;: Original 7-segment and 14-segment fonts (2014)](https://www.keshikan.net/fonts-e.html)
 * [2025-09-28, 20:01:00](https://soylentnews.org/article.pl?sid=25/09/27/1352245&amp;from=rss) - [US Uncovers 100,000 SIM Cards That Could Have “Shut Down” NYC Cell Network](https://soylentnews.org/article.pl?sid=25/09/27/1352245&amp;from=rss)
 * [2025-09-28, 15:15:00](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss) - [Physics-Informed AI Learns Local Rules Behind Flocking and Collective Motion Behaviors](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss)
 * [2025-09-28, 14:52:54](https://news.ycombinator.com/item?id=45404760) - [Ask HN: What is nowadays (opensource) way of converting HTML to PDF?](https://news.ycombinator.com/item?id=45404760)
+* [2025-09-28, 14:00:57](https://news.ycombinator.com/item?id=45404378) - [A replica of Citizen Quartz watch based on Harel&apos;s paper introducing statecharts](https://andyjakubowski.github.io/statechart-watch/)
 * [2025-09-28, 10:29:00](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss) - [US Intel Officials “Concerned” China Will Soon Master Reusable Launch](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss)
-* [2025-09-28, 10:21:22](https://news.ycombinator.com/item?id=45403225) - [Galileo Bad, Archimedes Good](https://intellectualmathematics.com/blog/galileo-bad-archimedes-good/)
 * [2025-09-28, 05:44:00](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss) - [Consumer Reports Slams Microsoft for Windows 10 Mess, Urges Extension of Free Updates](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss)
 * [2025-09-28, 00:56:00](https://soylentnews.org/article.pl?sid=25/09/27/1318227&amp;from=rss) - [Airlines Seen as Vulnerable After Confirmed Ransomware Cyberattack, Suspect Arrested](https://soylentnews.org/article.pl?sid=25/09/27/1318227&amp;from=rss)
+* [2025-09-27, 23:07:26](https://news.ycombinator.com/item?id=45400114) - [Measuring My DIY Air Purifier](https://chillphysicsenjoyer.substack.com/p/measuring-my-diy-air-purifier)
 * [2025-09-27, 20:13:00](https://soylentnews.org/article.pl?sid=25/09/27/1254248&amp;from=rss) - [How AI is Subsidized by Your Utility Bills and Drives Copper Prices](https://soylentnews.org/article.pl?sid=25/09/27/1254248&amp;from=rss)
-* [2025-09-27, 18:30:02](https://news.ycombinator.com/item?id=45398277) - [How did Renaissance fairs begin?](https://www.history.com/articles/renaissance-fair-origins)
 * [2025-09-27, 15:27:00](https://soylentnews.org/article.pl?sid=25/09/26/2326219&amp;from=rss) - [Cloudflare DDoSed Itself With React UseEffect Hook Blunder](https://soylentnews.org/article.pl?sid=25/09/26/2326219&amp;from=rss)
 * [2025-09-27, 10:41:00](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss) - [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss)
 * [2025-09-27, 05:56:00](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss) - [China&apos;s Latest GPU Arrives With Claims of CUDA Compatibility and RT Support](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss)
