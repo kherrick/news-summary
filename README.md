@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Developments
+## Technology Innovations and AI Applications
 
-* [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605) - Leveraging WiFi signals to create detailed image generation systems.
+* [Lufthansa To Cut 4,000 Jobs As Airline Turns To AI To Boost Efficiency](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring how Lufthansa plans to streamline operations using AI.
 
-* [Amazon Launches Vegas OS, Its Android Replacement For Fire TV With No Sideloading](https://tech.slashdot.org/story/25/09/30/2225237/amazon-launches-vegas-os-its-android-replacement-for-fire-tv-with-no-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Transformation in streaming technology with Amazon's proprietary OS.
+* [Scientists Make Embryos From Human Skin DNA For First Time](https://science.slashdot.org/story/25/09/30/2243218/scientists-make-embryos-from-human-skin-dna-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking development in biotechnology.
 
-* [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html) - Bringing open-source solutions to everyday printing needs.
+* [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks) - Insights into improving Kubernetes efficiency.
 
-* [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff) - A new file format enhancing VM disk snapshot processes.
+* [Amazon Launches Vegas OS, Its Android Replacement For Fire TV With No Sideloading](https://tech.slashdot.org/story/25/09/30/2225237/amazon-launches-vegas-os-its-android-replacement-for-fire-tv-with-no-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New OS for Fire TV with restricted app installation.
 
-## Scientific Breakthroughs
+* [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html) - Open-source printing technology advancement.
 
-* [Scientists Make Embryos From Human Skin DNA For First Time](https://science.slashdot.org/story/25/09/30/2243218/scientists-make-embryos-from-human-skin-dna-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Landmark achievement in genetic and reproductive technologies.
+## Security and Cyber Threats
 
-* [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/) - A paradigm shift in heart disease risk assessment.
+* [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack) - Discussing cybersecurity issues in the UK retail sector.
 
-* [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss) - Improved performance in quantum computing technologies.
+* [China Hackers Breached Foreign Ministers' Emails, Palo Alto Says](https://it.slashdot.org/story/25/09/30/1655230/china-hackers-breached-foreign-ministers-emails-palo-alto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cyber espionage targeting global diplomats.
 
-## Art and Philosophy
+## Environmental and Scientific Discoveries
 
-* [Our efforts, in part, define us](https://weakty.com/posts/efforts/) - Thoughtful exploration of the role effort plays in human identity.
+* [Making Florida More Flood Resistant Is Forcing Hard Choices for Homeowners](https://www.nytimes.com/2025/09/27/us/making-florida-more-flood-resistant-is-forcing-hard-choices-for-homeowners.html) - Innovations and challenges in flood management.
 
-* [Software essays that shaped me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/) - Reflecting on key writings in the field of software development.
+* [Leaf miners identified as oldest insect plague in the history of Earth](https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html) - Ancient ecological discoveries unfold.
 
-* [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years) - Cultural insights into ancient longevity techniques for paper.
+* [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss) - New insights into seismic activities.
 
-## Cybersecurity and Data Privacy
+* [US Intel Officials “Concerned” China Will Soon Master Reusable Launch](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss) - Strategic implications of reusable spacecraft technology.
 
-* [Imgur Pulls Out of UK as Data Watchdog Threatens Fine](https://news.slashdot.org/story/25/09/30/1715206/imgur-pulls-out-of-uk-as-data-watchdog-threatens-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Struggling with regulations in a key market.
+* [Physics-Informed AI Learns Local Rules Behind Flocking and Collective Motion Behaviors](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss) - AI simulation of natural biological swarming behaviors.
 
-* [China Hackers Breached Foreign Ministers' Emails, Palo Alto Says](https://it.slashdot.org/story/25/09/30/1655230/china-hackers-breached-foreign-ministers-emails-palo-alto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Uncovering vulnerabilities in high-level communication.
+## Corporate and Financial Headlines
 
-* [Cloudflare DDoSed Itself with React UseEffect Hook Blunder](https://soylentnews.org/article.pl?sid=25/09/26/2326219&amp;from=rss) - Highlighting flaws in cloud service management.
+* [Charlie Javice Sentenced To 7 Years In Prison For Fraudulent Sale of Her Startup To JPMorgan](https://yro.slashdot.org/story/25/09/30/2230245/charlie-javice-sentenced-to-7-years-in-prison-for-fraudulent-sale-of-her-startup-to-jpmorgan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial scandal involving a tech entrepreneur.
 
-## Environmental Concerns
+* [Spotify's Founder and CEO Daniel Ek Is Stepping Down](https://slashdot.org/story/25/09/30/2237218/spotifys-founder-and-ceo-daniel-ek-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Leadership changes in music streaming.
 
-* [How India's Unplanned Hydropower Dams and Tunnels Are Disrupting Himalayan Landscapes](https://soylentnews.org/article.pl?sid=25/09/26/1437222&amp;from=rss) - Investigating infrastructure's potential harm to ecosystems.
+* [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss) - Gaming industry poised for major buyout.
 
-* [Physics-Informed AI Learns Local Rules Behind Flocking and Collective Motion Behaviors](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss) - Using AI to understand and mimic nature.
+* [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - Glimpses into software freedom principles.
 
-* [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss) - New findings about volcanic activity's impact.
+* [Venmo and PayPal Users Will Finally Be Able To Send Money To Each Other](https://news.slashdot.org/story/25/09/30/2019252/venmo-and-paypal-users-will-finally-be-able-to-send-money-to-each-other?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Enhancing payment platform interoperability.
 
 ---
 
@@ -67,9 +67,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-01, 13:00:00](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lufthansa To Cut 4,000 Jobs As Airline Turns To AI To Boost Efficiency](https://slashdot.org/story/25/10/01/0320206/lufthansa-to-cut-4000-jobs-as-airline-turns-to-ai-to-boost-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-01, 12:47:10](https://news.ycombinator.com/item?id=45437060) - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
+* [2025-10-01, 12:41:23](https://news.ycombinator.com/item?id=45437003) - [Broadcom Fails to Disclose Zero-Day Exploitation of VMware Vulnerability](https://www.securityweek.com/broadcom-fails-to-disclose-zero-day-exploitation-of-vmware-vulnerability/)
+* [2025-10-01, 11:55:15](https://news.ycombinator.com/item?id=45436664) - [People want platforms (not governments) to be responsible for moderating content](https://reutersinstitute.politics.ox.ac.uk/news/most-people-want-platforms-not-governments-be-responsible-moderating-content)
+* [2025-10-01, 11:33:19](https://news.ycombinator.com/item?id=45436534) - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
+* [2025-10-01, 11:31:10](https://lobste.rs/s/6bid4y/why_tigerbeetle_is_most_interesting) - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
+* [2025-10-01, 10:00:29](https://news.ycombinator.com/item?id=45436027) - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
+* [2025-10-01, 10:00:00](https://science.slashdot.org/story/25/10/01/0322228/curiosity-drives-viewers-to-ignore-trigger-warnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Curiosity Drives Viewers To Ignore Trigger Warnings](https://science.slashdot.org/story/25/10/01/0322228/curiosity-drives-viewers-to-ignore-trigger-warnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss)
 * [2025-10-01, 09:22:10](https://news.ycombinator.com/item?id=45435825) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 09:20:46](https://lobste.rs/s/nisytd/our_efforts_part_define_us) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
+* [2025-10-01, 08:32:40](https://lobste.rs/s/i1dy7u/what_s_difference_between_files) - [What’s the difference between files and directories in a Unix-like filesystem?](https://jack23247.github.io/blog/linux/inodes/)
+* [2025-10-01, 08:06:50](https://news.ycombinator.com/item?id=45435463) - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
+* [2025-10-01, 08:04:08](https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024) - [Register allocation in the Go compiler [2024]](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-10-01, 08:00:30](https://news.ycombinator.com/item?id=45435422) - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-10-01, 08:00:11](https://lobste.rs/s/ufpajh/category_theory_illustrated_natural) - [Category Theory Illustrated - Natural transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-10-01, 07:00:21](https://news.ycombinator.com/item?id=45435100) - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
@@ -105,32 +116,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-30, 18:32:59](https://lobste.rs/s/hk8yw5/steel_bank_common_lisp_2_5_9) - [Steel Bank Common Lisp 2.5.9](https://www.sbcl.org/news.html#2.5.9)
 * [2025-09-30, 18:27:00](https://tech.slashdot.org/story/25/09/30/1827229/windows-11s-2025-update-arrives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11&apos;s 2025 Update Arrives](https://tech.slashdot.org/story/25/09/30/1827229/windows-11s-2025-update-arrives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-30, 17:31:34](https://news.ycombinator.com/item?id=45428482) - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
-* [2025-09-30, 17:31:28](https://lobste.rs/s/cpizty/shellshock_2014_2025) - [Shellshock (2014, 2025)](https://dwheeler.com/essays/shellshock.html)
 * [2025-09-30, 17:30:00](https://news.slashdot.org/story/25/09/30/1715206/imgur-pulls-out-of-uk-as-data-watchdog-threatens-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Imgur Pulls Out of UK as Data Watchdog Threatens Fine](https://news.slashdot.org/story/25/09/30/1715206/imgur-pulls-out-of-uk-as-data-watchdog-threatens-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-30, 16:56:23](https://lobste.rs/s/ytwdqu/behind_y_s2_serverless_multiplayer_rooms) - [Behind y-s2: serverless multiplayer rooms](https://s2.dev/blog/durable-yjs-rooms)
 * [2025-09-30, 16:55:01](https://news.ycombinator.com/item?id=45427982) - [Sora 2](https://openai.com/index/sora-2/)
 * [2025-09-30, 16:55:00](https://it.slashdot.org/story/25/09/30/1655230/china-hackers-breached-foreign-ministers-emails-palo-alto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Hackers Breached Foreign Ministers&apos; Emails, Palo Alto Says](https://it.slashdot.org/story/25/09/30/1655230/china-hackers-breached-foreign-ministers-emails-palo-alto-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-30, 16:21:09](https://news.ycombinator.com/item?id=45427482) - [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-09-30, 16:10:00](https://science.slashdot.org/story/25/09/30/1549226/what-researchers-suspect-may-be-fueling-cancer-among-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Researchers Suspect May Be Fueling Cancer Among Millennials](https://science.slashdot.org/story/25/09/30/1549226/what-researchers-suspect-may-be-fueling-cancer-among-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-30, 16:00:36](https://news.ycombinator.com/item?id=45427197) - [Leaked Apple M5 9 core Geekbench scores](https://browser.geekbench.com/v6/cpu/14173685)
 * [2025-09-30, 15:47:19](https://lobste.rs/s/6bjcok/how_write_complete_gnome_application_lua) - [How to write a complete GNOME application in Lua](https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/)
-* [2025-09-30, 15:29:00](https://news.slashdot.org/story/25/09/30/1529241/kindle-scribe-redesign-adds-color-model-and-ai-powered-notebook-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kindle Scribe Redesign Adds Color Model and AI-powered Notebook Features](https://news.slashdot.org/story/25/09/30/1529241/kindle-scribe-redesign-adds-color-model-and-ai-powered-notebook-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-09-30, 15:21:38](https://lobste.rs/s/l3navw/designing_agentic_loops) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:21:23](https://news.ycombinator.com/item?id=45426680) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
-* [2025-09-30, 15:09:00](https://news.ycombinator.com/item?id=45426490) - [Kagi News](https://blog.kagi.com/kagi-news)
-* [2025-09-30, 14:56:00](https://tech.slashdot.org/story/25/09/30/1456248/boeing-has-started-working-on-a-737-max-replacement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boeing Has Started Working on a 737 MAX Replacement](https://tech.slashdot.org/story/25/09/30/1456248/boeing-has-started-working-on-a-737-max-replacement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss)
-* [2025-09-30, 14:01:53](https://news.ycombinator.com/item?id=45425568) - [Software essays that shaped me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
 * [2025-09-30, 14:01:39](https://lobste.rs/s/rouky6/software_essays_shaped_me) - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
-* [2025-09-30, 13:19:53](https://news.ycombinator.com/item?id=45425061) - [An opinionated critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 * [2025-09-30, 13:01:05](https://news.ycombinator.com/item?id=45424888) - [Imgur pulls out of UK as data watchdog threatens fine](https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out)
 * [2025-09-30, 12:53:49](https://news.ycombinator.com/item?id=45424827) - [Founder sentenced to seven years in prison for fraudulent sale to JPMorgan](https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl)
-* [2025-09-30, 12:40:17](https://news.ycombinator.com/item?id=45424704) - [Pasta Cooking Time](https://www.jefftk.com/p/pasta-cooking-time)
 * [2025-09-30, 12:15:25](https://lobste.rs/s/1zmau9/radicle_1_5_0_hibiscus) - [Radicle 1.5.0 – Hibiscus](https://radicle.xyz/2025/09/30/radicle-1.5.0)
 * [2025-09-30, 12:08:50](https://lobste.rs/s/r6elsg/open_printer_is_open_source_inkjet) - [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 12:02:32](https://lobste.rs/s/yfmq0d/expression_problem_rust) - [The expression problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/)
 * [2025-09-30, 11:52:36](https://lobste.rs/s/1vew74/go_proposal_hashers) - [Go proposal: Hashers](https://antonz.org/accepted/maphash-hasher/)
-* [2025-09-30, 10:36:39](https://lobste.rs/s/fouac3/comprehension_debt_ticking_time_bomb_llm) - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 07:30:38](https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
 * [2025-09-30, 07:03:11](https://news.ycombinator.com/item?id=45422717) - [Defer: Resource cleanup in C with GCCs magic](https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic)
@@ -144,18 +145,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss)
 * [2025-09-29, 05:35:00](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss) - [The Cyber Vulnerabilities Lurking in CRM Systems](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss)
 * [2025-09-29, 00:49:00](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss) - [This Experimental Computer Chip Reuses Energy](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss)
+* [2025-09-28, 23:34:13](https://news.ycombinator.com/item?id=45409005) - [Making Florida More Flood Resistant Is Forcing Hard Choices for Homeowners](https://www.nytimes.com/2025/09/27/us/making-florida-more-flood-resistant-is-forcing-hard-choices-for-homeowners.html)
 * [2025-09-28, 20:01:00](https://soylentnews.org/article.pl?sid=25/09/27/1352245&amp;from=rss) - [US Uncovers 100,000 SIM Cards That Could Have “Shut Down” NYC Cell Network](https://soylentnews.org/article.pl?sid=25/09/27/1352245&amp;from=rss)
 * [2025-09-28, 15:40:04](https://news.ycombinator.com/item?id=45405144) - [NJ theme park puts animatronic dinosaurs on Facebook Marketplace](https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489)
 * [2025-09-28, 15:15:00](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss) - [Physics-Informed AI Learns Local Rules Behind Flocking and Collective Motion Behaviors](https://soylentnews.org/article.pl?sid=25/09/27/1348254&amp;from=rss)
+* [2025-09-28, 15:05:12](https://news.ycombinator.com/item?id=45404868) - [Leaf miners identified as oldest insect plague in the history of Earth](https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html)
 * [2025-09-28, 10:29:00](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss) - [US Intel Officials “Concerned” China Will Soon Master Reusable Launch](https://soylentnews.org/article.pl?sid=25/09/27/1340248&amp;from=rss)
 * [2025-09-28, 05:44:00](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss) - [Consumer Reports Slams Microsoft for Windows 10 Mess, Urges Extension of Free Updates](https://soylentnews.org/article.pl?sid=25/09/27/1329235&amp;from=rss)
 * [2025-09-28, 00:56:00](https://soylentnews.org/article.pl?sid=25/09/27/1318227&amp;from=rss) - [Airlines Seen as Vulnerable After Confirmed Ransomware Cyberattack, Suspect Arrested](https://soylentnews.org/article.pl?sid=25/09/27/1318227&amp;from=rss)
 * [2025-09-27, 21:43:47](https://news.ycombinator.com/item?id=45399589) - [Washi: The Japanese paper crafted to last 1000 years [video]](https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years)
 * [2025-09-27, 20:13:00](https://soylentnews.org/article.pl?sid=25/09/27/1254248&amp;from=rss) - [How AI is Subsidized by Your Utility Bills and Drives Copper Prices](https://soylentnews.org/article.pl?sid=25/09/27/1254248&amp;from=rss)
-* [2025-09-27, 19:15:18](https://news.ycombinator.com/item?id=45398591) - [Styx Emulator Public Release](https://stumbl.ing/posts/styx-emulator-release/)
-* [2025-09-27, 15:28:27](https://news.ycombinator.com/item?id=45396565) - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 * [2025-09-27, 15:27:00](https://soylentnews.org/article.pl?sid=25/09/26/2326219&amp;from=rss) - [Cloudflare DDoSed Itself With React UseEffect Hook Blunder](https://soylentnews.org/article.pl?sid=25/09/26/2326219&amp;from=rss)
-* [2025-09-27, 12:54:42](https://news.ycombinator.com/item?id=45395316) - [Tiny worlds: A minimal implementation of DeepMind&apos;s Genie world model](https://github.com/AlmondGod/tinyworlds)
 * [2025-09-27, 12:24:30](https://news.ycombinator.com/item?id=45395115) - [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
 * [2025-09-27, 10:41:00](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss) - [Magma Displacement Triggered Tens of Thousands of Earthquakes, Santorini Swarm Study Finds](https://soylentnews.org/article.pl?sid=25/09/26/2314203&amp;from=rss)
 * [2025-09-27, 05:56:00](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss) - [China&apos;s Latest GPU Arrives With Claims of CUDA Compatibility and RT Support](https://soylentnews.org/article.pl?sid=25/09/26/239227&amp;from=rss)
