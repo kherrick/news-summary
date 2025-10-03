@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Insights
+## Technology and Innovation
 
-* [Microsoft Says AI Can Create 'Zero Day' Threats In Biology](https://science.slashdot.org/story/25/10/02/2335217/microsoft-says-ai-can-create-zero-day-threats-in-biology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d) - A groundbreaking algorithm challenges the foundational work of Dijkstra, offering fresh insights into computer science.
 
-* [AI Has Already Run Out of Training Data, Goldman's Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/) - The latest release of the popular 3D modeling software introduces significant new capabilities and updates.
 
-* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss)
+* [Microsoft Says AI Can Create 'Zero Day' Threats In Biology](https://science.slashdot.org/story/25/10/02/2335217/microsoft-says-ai-can-create-zero-day-threats-in-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting potential risks, Microsoft discusses the emerging concerns of AI designing 'zero day' biological threats.
 
-* [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&from=rss)
+* [Colorado Deploys Self-Driving Crash Trucks To Protect Highway Workers](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This innovative use of autonomous vehicles aims to safeguard highway workers with self-driving crash trucks.
 
-## Innovations in Programming and Software
+* [Snapchat Caps Free Memory Storage, Launches Paid Storage Plans](https://hardware.slashdot.org/story/25/10/03/0444229/snapchat-caps-free-memory-storage-launches-paid-storage-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Snapchat takes a bold step with its new paid memory storage plans, capping free storage for users.
 
-* [CI/CD components to generate and verify provenance attestation](https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548)
+* [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega) - Amazon announces its operating system and developer tools, aiming to disrupt the competitive landscape.
 
-* [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
+## Cybersecurity and Privacy Challenges
 
-* [Domain Driven Design in Clojure with generalized Hiccup](https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup)
+* [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/) - A newly discovered critical vulnerability in Unity Runtime exposes potential risks of misuse.
 
-* [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
+* [Microsoft Says AI Can Create 'Zero Day' Threats In Biology](https://science.slashdot.org/story/25/10/02/2335217/microsoft-says-ai-can-create-zero-day-threats-in-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI is now capable of engineering unforeseen biological threats, raising alarm among researchers.
 
-* [Potential issues in curl found using AI assisted tools](https://mastodon.social/@bagder/115241241075258997)
+* [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss) - A new report critically examines claims surrounding AI coding, calling out exaggerated promises.
 
-## Scientific and Biological Discoveries
+* [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - A move by ICE sparks privacy concerns over a powerful tool capable of vast-scale surveillance.
 
-* [Autism Should Not Be Seen As Single Condition With One Cause, Say Scientists](https://science.slashdot.org/story/25/10/02/2217211/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Google Says Hackers Are Sending Extortion Emails To Executives](https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Executives are being targeted by hackers using extortion emails, highlighting vulnerabilities.
 
-* [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
+* [AI Has Already Run Out of Training Data, Goldman's Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The rapid growth of AI brings to light an impending data shortage for training powerful models.
 
-* [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&from=rss)
+## Society, Ethics, and Culture
 
-* [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&from=rss)
+* [TikTok 'directs child accounts to pornographic content within a few clicks'](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible) - Alarming report uncovers the ease with which harmful content is accessible to children through TikTok.
 
-## Data and Cybersecurity
+* [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/) - The enduring value of RSS as a tool for curated and focused information intake.
 
-* [Google Says Hackers Are Sending Extortion Emails To Executives](https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Snapchat Caps Free Memory Storage, Launches Paid Storage Plans](https://hardware.slashdot.org/story/25/10/03/0444229/snapchat-caps-free-memory-storage-launches-paid-storage-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Snapchat introduces a new storage model, requiring users to subscribe for additional memory.
 
-* [The Cyber Vulnerabilities Lurking in CRM Systems](https://soylentnews.org/article.pl?sid=25/09/28/006252&from=rss)
+* [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts) - A philosophical exploration of why imperfection in technology has unintended benefits.
 
-* [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
+## AI and Its Evolution
 
-* null
+* [Claude's New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss) - Analyses AI-driven software innovations alongside inherent security concerns.
+
+* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - A concerning development as AI takes steps into highly dangerous territories of virus production.
+
+* [AI Has Already Run Out of Training Data, Goldman’s Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A perspective on challenges faced by voracious AI systems relying on extensive data.
+
+* [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - A critique highlighting failures and inefficiencies in blindly deploying insufficiently skilled AI systems.
 
 ---
 
@@ -67,20 +73,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-03, 13:00:00](https://developers.slashdot.org/story/25/10/03/0426240/nyt-podcast-on-job-market-for-recent-cs-grads-raises-ire-of-codeorg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NYT Podcast On Job Market For Recent CS Grads Raises Ire of Code.org](https://developers.slashdot.org/story/25/10/03/0426240/nyt-podcast-on-job-market-for-recent-cs-grads-raises-ire-of-codeorg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
+* [2025-10-03, 12:38:47](https://lobste.rs/s/anuzef/cve_2025_59489_arbitrary_code_execution) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
+* [2025-10-03, 12:26:02](https://news.ycombinator.com/item?id=45462163) - [TikTok &apos;directs child accounts to pornographic content within a few clicks&apos;](https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible)
+* [2025-10-03, 12:24:02](https://news.ycombinator.com/item?id=45462143) - [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/)
+* [2025-10-03, 12:19:42](https://news.ycombinator.com/item?id=45462094) - [Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science](https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d)
+* [2025-10-03, 12:05:59](https://news.ycombinator.com/item?id=45461975) - [The biggest sign of an AI bubble is starting to appear – debt](https://www.axios.com/2025/10/03/ai-bubble-meta-oracle-microsoft)
+* [2025-10-03, 12:00:43](https://news.ycombinator.com/item?id=45461930) - [QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
+* [2025-10-03, 11:15:05](https://lobste.rs/s/cqdtto/we_bought_whole_gpu_so_we_re_damn_well_going) - [We Bought the Whole GPU, So We&apos;re Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
+* [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
+* [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
+* [2025-10-03, 10:00:00](https://hardware.slashdot.org/story/25/10/03/0444229/snapchat-caps-free-memory-storage-launches-paid-storage-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Snapchat Caps Free Memory Storage, Launches Paid Storage Plans](https://hardware.slashdot.org/story/25/10/03/0444229/snapchat-caps-free-memory-storage-launches-paid-storage-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 09:06:00](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss)
-* [2025-10-03, 08:09:49](https://news.ycombinator.com/item?id=45460329) - [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
 * [2025-10-03, 07:20:44](https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify) - [CI/CD components to generate and verify provenance attestation](https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548)
 * [2025-10-03, 07:00:00](https://science.slashdot.org/story/25/10/02/2335217/microsoft-says-ai-can-create-zero-day-threats-in-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Says AI Can Create &apos;Zero Day&apos; Threats In Biology](https://science.slashdot.org/story/25/10/02/2335217/microsoft-says-ai-can-create-zero-day-threats-in-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 05:13:47](https://news.ycombinator.com/item?id=45459233) - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 * [2025-10-03, 04:22:15](https://lobste.rs/s/0gwfaa/new_control_structures_apl_1982) - [New Control Structures In APL? (1982)](https://dl.acm.org/doi/10.1145/586713.586717)
 * [2025-10-03, 04:21:23](https://news.ycombinator.com/item?id=45458948) - [Fp8 runs ~100 tflops faster when the kernel name has \&quot;cutlass\&quot; in it](https://github.com/triton-lang/triton/pull/7298)
 * [2025-10-03, 04:21:00](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss) - [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss)
-* [2025-10-03, 04:12:10](https://lobste.rs/s/rzdz98/how_would_you_approach_browser) - [How would you approach a browser automation project?](https://lobste.rs/s/rzdz98/how_would_you_approach_browser)
-* [2025-10-03, 03:59:15](https://lobste.rs/s/dsk4xn/ghosts_unix_past_historical_search_for) - [Ghosts of Unix Past: a historical search for design patterns (2010)](https://lwn.net/Articles/411845/)
 * [2025-10-03, 03:52:43](https://news.ycombinator.com/item?id=45458791) - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
 * [2025-10-03, 03:30:00](https://yro.slashdot.org/story/25/10/02/238239/cops-accused-vandal-confessed-to-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cops: Accused Vandal Confessed To ChatGPT](https://yro.slashdot.org/story/25/10/02/238239/cops-accused-vandal-confessed-to-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 03:13:13](https://news.ycombinator.com/item?id=45458550) - [You Want Technology with Warts](https://entropicthoughts.com/you-want-technology-with-warts)
-* [2025-10-03, 03:04:04](https://news.ycombinator.com/item?id=45458482) - [Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone](https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html)
 * [2025-10-03, 03:02:00](https://lobste.rs/s/cvyvc1/domain_driven_design_clojure_with) - [Domain Driven Design in Clojure with generalized Hiccup](https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup)
 * [2025-10-03, 02:33:21](https://news.ycombinator.com/item?id=45458249) - [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
 * [2025-10-03, 02:13:17](https://news.ycombinator.com/item?id=45458122) - [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
@@ -89,11 +103,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 01:20:32](https://news.ycombinator.com/item?id=45457670) - [I spent the day teaching seniors how to use an iPhone](https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/)
 * [2025-10-03, 00:51:26](https://news.ycombinator.com/item?id=45457460) - [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
 * [2025-10-03, 00:45:00](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colorado Deploys Self-Driving Crash Trucks To Protect Highway Workers](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-03, 00:44:42](https://news.ycombinator.com/item?id=45457411) - [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
 * [2025-10-03, 00:44:06](https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate) - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
 * [2025-10-03, 00:12:38](https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 * [2025-10-03, 00:02:00](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Zealand&apos;s Institute of IT Professionals Collapses](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-02, 23:57:23](https://news.ycombinator.com/item?id=45457048) - [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
 * [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss)
 * [2025-10-02, 23:20:00](https://hardware.slashdot.org/story/25/10/02/210246/amd-in-early-talks-to-make-chips-at-intel-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AMD In Early Talks To Make Chips At Intel Foundry](https://hardware.slashdot.org/story/25/10/02/210246/amd-in-early-talks-to-make-chips-at-intel-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 22:40:00](https://tech.slashdot.org/story/25/10/02/2054222/two-amazon-delivery-drones-crash-into-crane-in-arizona?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two Amazon Delivery Drones Crash Into Crane In Arizona](https://tech.slashdot.org/story/25/10/02/2054222/two-amazon-delivery-drones-crash-into-crane-in-arizona?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -101,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
 * [2025-10-02, 21:34:34](https://lobste.rs/s/0zzvie/c_26_std_optional_t) - [C++26: std::optional&lt;T&amp;&gt;](https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference)
 * [2025-10-02, 21:22:00](https://tech.slashdot.org/story/25/10/02/1917242/what-happened-when-a-pacific-island-was-cut-off-from-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happened When a Pacific Island Was Cut Off From the Internet](https://tech.slashdot.org/story/25/10/02/1917242/what-happened-when-a-pacific-island-was-cut-off-from-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 * [2025-10-02, 21:15:41](https://lobste.rs/s/xcceiy/neural_network_written_completely_jq) - [A neural network written completely in jq (2017)](https://github.com/kevin-albert/jq-neural-network)
 * [2025-10-02, 20:41:00](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Has Already Run Out of Training Data, Goldman&apos;s Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 20:38:31](https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git) - [Whatever happened to SHA-256 support in Git? (2022)](https://lwn.net/Articles/898522/)
@@ -112,13 +123,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 19:21:00](https://tech.slashdot.org/story/25/10/02/180240/walmart-to-deploy-sensors-to-track-90-million-grocery-pallets-by-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart To Deploy Sensors To Track 90 Million Grocery Pallets by Next Year](https://tech.slashdot.org/story/25/10/02/180240/walmart-to-deploy-sensors-to-track-90-million-grocery-pallets-by-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 18:52:08](https://lobste.rs/s/cpersg/wombat_s_book_nix) - [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss)
-* [2025-10-02, 18:41:00](https://slashdot.org/story/25/10/02/179232/linkedin-ceo-says-fancy-degrees-will-matter-less-in-the-future-of-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linkedin CEO Says Fancy Degrees Will Matter Less in the Future of Work](https://slashdot.org/story/25/10/02/179232/linkedin-ceo-says-fancy-degrees-will-matter-less-in-the-future-of-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI&apos;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
 * [2025-10-02, 18:12:01](https://lobste.rs/s/afajjh/nine_http_edge_cases) - [Nine HTTP Edge Cases](https://blog.dochia.dev/blog/http_edge_cases/)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
-* [2025-10-02, 18:01:00](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 18:00:38](https://lobste.rs/s/oezfwk/datafusion_postgres_postgres_protocol) - [datafusion-postgres: postgres protocol adapter for datafusion query engine](https://github.com/datafusion-contrib/datafusion-postgres)
-* [2025-10-02, 17:58:23](https://lobste.rs/s/tp8gzj/empirical_evaluation_property_based) - [An Empirical Evaluation of Property-Based Testing in Python](https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-10-02, 16:09:15](https://news.ycombinator.com/item?id=45451577) - [Playball – Watch MLB games from a terminal](https://github.com/paaatrick/playball)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
@@ -136,10 +143,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 21:57:04](https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release) - [Immich v2.0.0 - Stable Release](https://github.com/immich-app/immich/releases/tag/v2.0.0)
 * [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss)
 * [2025-10-01, 14:15:00](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss) - [Claude&apos;s New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss)
-* [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-10-01, 10:11:02](https://news.ycombinator.com/item?id=45436083) - [Icebird: JavaScript Iceberg Reader](https://github.com/hyparam/icebird)
+* [2025-10-01, 09:58:07](https://news.ycombinator.com/item?id=45436010) - [Ask HN: What&apos;s your experience with using graph databases for agentic use-cases?](https://news.ycombinator.com/item?id=45436010)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss)
 * [2025-10-01, 07:51:24](https://news.ycombinator.com/item?id=45435375) - [The Beer Can](https://brr.fyi/posts/beer-can)
+* [2025-10-01, 06:45:19](https://news.ycombinator.com/item?id=45435016) - [Amazon Vega OS and Vega Developer Tools](https://developer.amazon.com/apps-and-games/vega)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss)
 * [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss) - [Details Beginning to Emerge About Australia&apos;s Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss)
@@ -147,16 +155,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-30, 14:16:51](https://news.ycombinator.com/item?id=45425770) - [Valuing Land: The Simplest Viable Method](https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss) - [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss)
-* [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
+* [2025-09-30, 00:49:54](https://news.ycombinator.com/item?id=45420722) - [Modern Font Stacks](https://modernfontstacks.com/)
 * [2025-09-30, 00:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss) - [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss)
 * [2025-09-29, 19:46:00](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss) - [New World Screwworm Parasite Detected in Northern Mexico Near US Border](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss)
-* [2025-09-29, 19:37:21](https://news.ycombinator.com/item?id=45417826) - [How I block all 26M of your curl requests](https://foxmoss.com/blog/packet-filtering/)
 * [2025-09-29, 16:12:59](https://news.ycombinator.com/item?id=45415519) - [Highest bridge unveiled at more than 2,000ft above ground](https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html)
 * [2025-09-29, 15:02:00](https://soylentnews.org/article.pl?sid=25/09/28/0015236&amp;from=rss) - [8,000 years of Human Activities Aave Caused Wild Animals to Shrink and Domestic Animals to Grow](https://soylentnews.org/article.pl?sid=25/09/28/0015236&amp;from=rss)
 * [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
-* [2025-09-29, 11:37:52](https://news.ycombinator.com/item?id=45412472) - [PyOCI – Publish and install private Python packages using OCI/Docker registries](https://github.com/AllexVeldman/pyoci)
 * [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss)
 * [2025-09-29, 09:55:58](https://news.ycombinator.com/item?id=45411939) - [How England misplaced its first king](https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king)
-* [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Constitent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
+* [2025-09-29, 08:16:27](https://news.ycombinator.com/item?id=45411435) - [Consistent hashing](https://eli.thegreenplace.net/2025/consistent-hashing/)
 * [2025-09-29, 05:35:00](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss) - [The Cyber Vulnerabilities Lurking in CRM Systems](https://soylentnews.org/article.pl?sid=25/09/28/006252&amp;from=rss)
 * [2025-09-29, 00:49:00](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss) - [This Experimental Computer Chip Reuses Energy](https://soylentnews.org/article.pl?sid=25/09/27/141202&amp;from=rss)
