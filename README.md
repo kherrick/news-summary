@@ -1,42 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Artificial Intelligence
 
-* [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) - Exploring changes in the Determinate Nix Installer, which highlights significant shifts in tool dependency.
+* [Cops: Accused Vandal Confessed To ChatGPT](https://yro.slashdot.org/story/25/10/02/238239/cops-accused-vandal-confessed-to-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A unique case where a vandal allegedly confessed to a crime using OpenAI's ChatGPT, raising questions about AI applications in law.
 
-* [Colorado Deploys Self-Driving Crash Trucks To Protect Highway Workers](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Colorado reveals innovative use of self-driving vehicles for worker safety on highways.
+* [Autism Should Not Be Seen As Single Condition With One Cause, Say Scientists](https://science.slashdot.org/story/25/10/02/2217211/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists emphasize the complexity and varied causes of autism, challenging traditional views on the condition.
 
-* [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) - Developments in secure communication with post-quantum cryptography in Signal's protocol.
+* [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys) - Researchers uncover how stem cells can reverse aging signs in monkeys, offering a glimpse into future anti-aging treatments.
 
-* [AMD In Early Talks To Make Chips At Intel Foundry](https://hardware.slashdot.org/story/25/10/02/210246/amd-in-early-talks-to-make-chips-at-intel-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AMD's intriguing discussions on chip manufacturing with Intel could reshape semiconductor collaboration.
+## Innovative Technologies and Security
 
-## Science and Environment
+* [Ford IT Systems Tampered With To Display Vulgar Anti-RTO Message Across Office Screens](https://it.slashdot.org/story/25/10/02/224238/ford-it-systems-tampered-with-to-display-vulgar-anti-rto-message-across-office-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploit in Ford IT systems leads to a provocative display against return-to-office policies.
 
-* [Autism Should Not Be Seen As Single Condition With One Cause, Say Scientists](https://science.slashdot.org/story/25/10/02/2217211/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers argue for nuanced understanding and treatment approaches to autism.
+* [Colorado Deploys Self-Driving Crash Trucks To Protect Highway Workers](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Colorado integrates self-driving crash trucks to improve highway worker safety.
 
-* [Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A puzzling environmental phenomenon where Earth's brightness diminishes.
+## Science and Discoveries
 
-## Cybersecurity and Data Impacts
+* [Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A mystery arises as scientists notice a literal darkening of the Earth, compelling further research.
 
-* [Google Says Hackers Are Sending Extortion Emails To Executives](https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Growing concerns over targeted email-based extortion against business leaders.
+* [Scientists Unlock Secret to Thick, Stable Beer Foams](https://soylentnews.org/article.pl?sid=25/09/30/0352206&from=rss) - Chemists discover what gives beer foams their unique stability, delighting brewers globally.
 
-* [Japan is Running Out of Its Favorite Beer After Ransomware Attack](https://slashdot.org/story/25/10/02/1559205/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Impacts of ransomware disrupting supply chains in the brewing industry.
+## Business and Economic Trends
 
-* [AI Has Already Run Out of Training Data, Goldman's Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploration of the training data crisis in artificial intelligence development.
+* [Japan is Running Out of Its Favorite Beer After Ransomware Attack](https://slashdot.org/story/25/10/02/1559205/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A ransomware attack shocks Japan’s beer industry, leading to a major supply issue.
 
-## Business and Industry
-
-* [Ford IT Systems Tampered With To Display Vulgar Anti-RTO Message Across Office Screens](https://it.slashdot.org/story/25/10/02/224238/ford-it-systems-tampered-with-to-display-vulgar-anti-rto-message-across-office-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A security breach sheds light on employee sentiment towards remote work policies.
-
-* [Linkedin CEO Says Fancy Degrees Will Matter Less in the Future of Work](https://slashdot.org/story/25/10/02/179232/linkedin-ceo-says-fancy-degrees-will-matter-less-in-the-future-of-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Forecasts on shifting priorities in job qualifications and the value of experience over credentials.
-
-* [New Zealand's Institute of IT Professionals Collapses](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Sudden institutional failure marks a potential turning point in professional IT organization dynamics.
+* [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&from=rss) - A staggering AI infrastructure plan by OpenAI and Nvidia sheds light on future computing energy demands.
 
 ## Cultural and Historical Insights
 
-* [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh) - An intriguing dive into the history and disappearance of 'yogh' in written language.
+* [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh) - Explore the fascinating history of 'yogh,' a forgotten letter from Medieval English.
 
-* [Mary Carleton, Counterfeit Princess](https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/) - The story of a historical figure who epitomized deception and ingenuity in her era.
+* [The history of cataract surgery](https://www.asimov.press/p/cataracts) - A deep dive into the evolution of cataract surgery, from ancient to modern techniques.
 
 ---
 
@@ -63,26 +57,33 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-03, 03:30:00](https://yro.slashdot.org/story/25/10/02/238239/cops-accused-vandal-confessed-to-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cops: Accused Vandal Confessed To ChatGPT](https://yro.slashdot.org/story/25/10/02/238239/cops-accused-vandal-confessed-to-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-03, 03:02:00](https://lobste.rs/s/cvyvc1/domain_driven_design_clojure_with) - [Domain Driven Design in Clojure with generalized Hiccup](https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup)
+* [2025-10-03, 02:33:21](https://news.ycombinator.com/item?id=45458249) - [Stdlib: A library of frameworks, templates, and guides for technical leadership](https://debuggingleadership.com/stdlib)
+* [2025-10-03, 02:13:17](https://news.ycombinator.com/item?id=45458122) - [FyneDesk: A full desktop environment for Linux written in Go](https://github.com/FyshOS/fynedesk)
 * [2025-10-03, 02:02:00](https://science.slashdot.org/story/25/10/02/2217211/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Autism Should Not Be Seen As Single Condition With One Cause, Say Scientists](https://science.slashdot.org/story/25/10/02/2217211/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 01:25:00](https://it.slashdot.org/story/25/10/02/224238/ford-it-systems-tampered-with-to-display-vulgar-anti-rto-message-across-office-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ford IT Systems Tampered With To Display Vulgar Anti-RTO Message Across Office Screens](https://it.slashdot.org/story/25/10/02/224238/ford-it-systems-tampered-with-to-display-vulgar-anti-rto-message-across-office-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-03, 00:51:26](https://news.ycombinator.com/item?id=45457460) - [Microcomputers – The Second Wave: Toward a Mass Market](https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/)
 * [2025-10-03, 00:45:00](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colorado Deploys Self-Driving Crash Trucks To Protect Highway Workers](https://tech.slashdot.org/story/25/10/02/2156215/colorado-deploys-self-driving-crash-trucks-to-protect-highway-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-03, 00:44:42](https://news.ycombinator.com/item?id=45457411) - [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
 * [2025-10-03, 00:44:06](https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate) - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
-* [2025-10-03, 00:34:29](https://news.ycombinator.com/item?id=45457333) - [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
+* [2025-10-03, 00:34:29](https://news.ycombinator.com/item?id=45457333) - [Apple takes down ICE tracking apps after pressure from DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi)
 * [2025-10-03, 00:12:38](https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 * [2025-10-03, 00:02:00](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Zealand&apos;s Institute of IT Professionals Collapses](https://it.slashdot.org/story/25/10/02/2116200/new-zealands-institute-of-it-professionals-collapses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-02, 23:57:23](https://news.ycombinator.com/item?id=45457048) - [Self-supervised learning, JEPA, world models, and the future of AI [video]](https://www.youtube.com/watch?v=yUmDRxV0krg)
 * [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss)
 * [2025-10-02, 23:20:00](https://hardware.slashdot.org/story/25/10/02/210246/amd-in-early-talks-to-make-chips-at-intel-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AMD In Early Talks To Make Chips At Intel Foundry](https://hardware.slashdot.org/story/25/10/02/210246/amd-in-early-talks-to-make-chips-at-intel-foundry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 22:40:00](https://tech.slashdot.org/story/25/10/02/2054222/two-amazon-delivery-drones-crash-into-crane-in-arizona?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two Amazon Delivery Drones Crash Into Crane In Arizona](https://tech.slashdot.org/story/25/10/02/2054222/two-amazon-delivery-drones-crash-into-crane-in-arizona?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-02, 22:06:57](https://news.ycombinator.com/item?id=45456188) - [10k pushups and other silly exercise quests that changed my life](https://wjgilmore.com/articles/10000-pushups)
 * [2025-10-02, 22:00:00](https://yro.slashdot.org/story/25/10/02/2036202/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sports Piracy Operator Goes From Jail To Getting Hired By a Tech Unicorn In a Month](https://yro.slashdot.org/story/25/10/02/2036202/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-02, 21:48:16](https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here) - [ZLUDA update Q3 2025 – ZLUDA 5 is here](https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/)
-* [2025-10-02, 21:47:31](https://news.ycombinator.com/item?id=45456003) - [PortalVR: XR Without a Headset](https://portalvr.io/)
 * [2025-10-02, 21:34:42](https://news.ycombinator.com/item?id=45455882) - [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
+* [2025-10-02, 21:34:34](https://lobste.rs/s/0zzvie/c_26_std_optional_t) - [C++26: std::optional&lt;T&amp;&gt;](https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference)
 * [2025-10-02, 21:22:00](https://tech.slashdot.org/story/25/10/02/1917242/what-happened-when-a-pacific-island-was-cut-off-from-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happened When a Pacific Island Was Cut Off From the Internet](https://tech.slashdot.org/story/25/10/02/1917242/what-happened-when-a-pacific-island-was-cut-off-from-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-02, 21:21:49](https://news.ycombinator.com/item?id=45455719) - [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html)
 * [2025-10-02, 21:15:41](https://lobste.rs/s/xcceiy/neural_network_written_completely_jq) - [A neural network written completely in jq (2017)](https://github.com/kevin-albert/jq-neural-network)
 * [2025-10-02, 20:41:00](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Has Already Run Out of Training Data, Goldman&apos;s Data Chief Says](https://slashdot.org/story/25/10/02/191224/ai-has-already-run-out-of-training-data-goldmans-data-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 20:38:31](https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git) - [Whatever happened to SHA-256 support in Git? (2022)](https://lwn.net/Articles/898522/)
 * [2025-10-02, 20:32:23](https://lobste.rs/s/yhp6ym/where_it_s_at) - [Where It&apos;s at://](https://overreacted.io/where-its-at/)
+* [2025-10-02, 20:15:47](https://lobste.rs/s/lp2qpd/risk_rolls_downhill) - [Risk Rolls Downhill](https://corecursive.com/horizon-scandal-with-scott-darlington/)
 * [2025-10-02, 20:04:17](https://lobste.rs/s/2ib77w/litestream_v0_5_0_is_here) - [Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 20:01:00](https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says Hackers Are Sending Extortion Emails To Executives](https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 19:39:08](https://news.ycombinator.com/item?id=45454460) - [Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
@@ -93,8 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss)
 * [2025-10-02, 18:41:00](https://slashdot.org/story/25/10/02/179232/linkedin-ceo-says-fancy-degrees-will-matter-less-in-the-future-of-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linkedin CEO Says Fancy Degrees Will Matter Less in the Future of Work](https://slashdot.org/story/25/10/02/179232/linkedin-ceo-says-fancy-degrees-will-matter-less-in-the-future-of-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 18:37:28](https://news.ycombinator.com/item?id=45453586) - [OpenAI&apos;s H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
-* [2025-10-02, 18:26:57](https://news.ycombinator.com/item?id=45453448) - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
-* [2025-10-02, 18:13:24](https://news.ycombinator.com/item?id=45453299) - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 * [2025-10-02, 18:12:01](https://lobste.rs/s/afajjh/nine_http_edge_cases) - [Nine HTTP Edge Cases](https://blog.dochia.dev/blog/http_edge_cases/)
 * [2025-10-02, 18:06:41](https://news.ycombinator.com/item?id=45453222) - [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
 * [2025-10-02, 18:01:00](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why](https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 17:21:00](https://slashdot.org/story/25/10/02/1559205/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan is Running Out of Its Favorite Beer After Ransomware Attack](https://slashdot.org/story/25/10/02/1559205/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 17:01:16](https://news.ycombinator.com/item?id=45452299) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead)
 * [2025-10-02, 16:58:55](https://news.ycombinator.com/item?id=45452261) - [Why I chose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
-* [2025-10-02, 16:40:00](https://news.slashdot.org/story/25/10/02/1612223/trust-in-media-at-new-low-of-28-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trust in Media at New Low of 28% in US](https://news.slashdot.org/story/25/10/02/1612223/trust-in-media-at-new-low-of-28-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-02, 16:09:15](https://news.ycombinator.com/item?id=45451577) - [Playball – Watch MLB games from a terminal](https://github.com/paaatrick/playball)
 * [2025-10-02, 16:07:23](https://news.ycombinator.com/item?id=45451547) - [Launch HN: Simplex (YC S24) – Browser automation platform for developers](https://www.simplex.sh/)
 * [2025-10-02, 16:06:10](https://news.ycombinator.com/item?id=45451527) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
@@ -111,10 +109,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 15:52:21](https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4) - [Installing NixOS on Raspberry Pi 4](https://mtlynch.io/nixos-pi4/)
 * [2025-10-02, 15:33:18](https://lobste.rs/s/p79vuw/i_turned_lego_game_boy_into_working_game) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-02, 14:58:04](https://news.ycombinator.com/item?id=45450525) - [Work is not school: Surviving institutional stupidity](https://www.leadingsapiens.com/surviving-institutional-stupidity/)
-* [2025-10-02, 14:52:49](https://news.ycombinator.com/item?id=45450449) - [Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ](https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson)
 * [2025-10-02, 14:26:23](https://news.ycombinator.com/item?id=45450044) - [N8n added native persistent storage with DataTables](https://community.n8n.io/t/data-tables-are-here/192256)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss)
-* [2025-10-02, 11:32:19](https://news.ycombinator.com/item?id=45448326) - [NL Judge: Meta must respect user&apos;s choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
 * [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 09:23:50](https://news.ycombinator.com/item?id=45447699) - [How Israeli actions caused famine in Gaza, visualized](https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss)
@@ -126,13 +122,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 21:57:04](https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release) - [Immich v2.0.0 - Stable Release](https://github.com/immich-app/immich/releases/tag/v2.0.0)
 * [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss)
 * [2025-10-01, 17:37:05](https://lobste.rs/s/w8xado/is_tech_inevitable) - [is tech inevitable](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
-* [2025-10-01, 15:57:47](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025) - [Who&apos;s Hiring? Q4 2025](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025)
-* [2025-10-01, 15:40:23](https://lobste.rs/s/8nyk1p/stop_trusting_nix_caches) - [Stop Trusting Nix Caches](https://garnix.io/blog/stop-trusting-nix-caches)
 * [2025-10-01, 14:15:00](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss) - [Claude&apos;s New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss)
 * [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss)
-* [2025-10-01, 09:04:10](https://news.ycombinator.com/item?id=45435720) - [Pre-Record Your Demos](https://www.steveharrison.dev/pre-record-your-demos/)
-* [2025-10-01, 06:03:28](https://news.ycombinator.com/item?id=45434755) - [Mary Carleton, Counterfeit Princess](https://publicdomainreview.org/essay/mary-carleton-counterfeit-princess/)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss)
 * [2025-09-30, 19:55:31](https://lobste.rs/s/lm3isi/glide_extensible_keyboard_focused_web) - [Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
@@ -140,6 +132,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss) - [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss)
+* [2025-09-30, 00:43:35](https://news.ycombinator.com/item?id=45420685) - [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/)
 * [2025-09-30, 00:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss) - [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss)
 * [2025-09-29, 19:46:00](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss) - [New World Screwworm Parasite Detected in Northern Mexico Near US Border](https://soylentnews.org/article.pl?sid=25/09/28/0016247&amp;from=rss)
 * [2025-09-29, 19:37:21](https://news.ycombinator.com/item?id=45417826) - [How I block all 26M of your curl requests](https://foxmoss.com/blog/packet-filtering/)
@@ -147,6 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-09-29, 15:04:07](https://news.ycombinator.com/item?id=45414718) - [The history of cataract surgery](https://www.asimov.press/p/cataracts)
 * [2025-09-29, 15:02:00](https://soylentnews.org/article.pl?sid=25/09/28/0015236&amp;from=rss) - [8,000 years of Human Activities Aave Caused Wild Animals to Shrink and Domestic Animals to Grow](https://soylentnews.org/article.pl?sid=25/09/28/0015236&amp;from=rss)
 * [2025-09-29, 12:47:45](https://news.ycombinator.com/item?id=45413059) - [RISC-V Conditional Moves](https://www.corsix.org/content/riscv-conditional-moves)
+* [2025-09-29, 12:35:06](https://news.ycombinator.com/item?id=45412938) - [Dbos: Durable Workflow Orchestration with Go and PostgreSQL](https://github.com/dbos-inc/dbos-transact-golang)
 * [2025-09-29, 12:29:29](https://news.ycombinator.com/item?id=45412870) - [A simple habit that saves my evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
 * [2025-09-29, 10:17:00](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss) - [Physicists Nearly Double Speed of Superconducting Qubit Readout in Quantum Computers](https://soylentnews.org/article.pl?sid=25/09/28/008233&amp;from=rss)
 * [2025-09-29, 09:43:39](https://news.ycombinator.com/item?id=45411866) - [A primer for using weather surveillance radar to study bird migration](https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/)
