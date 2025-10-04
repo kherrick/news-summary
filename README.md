@@ -1,42 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements
+## Technology Developments and Innovations
 
-* [Google's Jules Enters Developers' Toolchains As AI Coding Agent Competition Heats Up](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's new AI coding agent, Jules, enters the developer's toolchain, highlighting increasing competition in the AI development space.
+* [Indonesia Suspends TikTok Registration With Over 100 Million Accounts At Risk](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Indonesia halts TikTok registration, potentially affecting over 100 million users, due to concerns over regulatory compliance.
 
-* [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html) - An innovative open-source inkjet printer that uses DRM-free ink, showcasing advancements in printing technology.
+* [Google Is Ending Gmailify and POP Support](https://tech.slashdot.org/story/25/10/03/2248228/google-is-ending-gmailify-and-pop-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google announces the termination of Gmailify and POP3 support, signaling changes to email integrations.
 
-* [Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)](https://salykova.github.io/gemm-cpu) - Optimization techniques for matrix multiplication on multi-core processors aim to improve computational efficiency.
+* [Bay Area University Issues Warning Over Man Using Meta AI Glasses On Campus](https://meta.slashdot.org/story/25/10/03/2235209/bay-area-university-issues-warning-over-man-using-meta-ai-glasses-on-campus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns over privacy rise as a university warns about the use of Meta's AI glasses on campus.
 
-## Cybersecurity and AI Risks
+* [Google's Jules Enters Developers' Toolchains As AI Coding Agent Competition Heats Up](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google introduces Jules, an AI coding agent, amid stiff competition in developer toolchains.
 
-* [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss) - A critical Linux Sudo flaw is being exploited in cyberattacks, prompting warnings from CISA.
+* [Microsoft is About To Launch Free Xbox Cloud Gaming With Ads](https://games.slashdot.org/story/25/10/03/1537231/microsoft-is-about-to-launch-free-xbox-cloud-gaming-with-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft's free cloud gaming service with ads makes gaming more accessible.
 
-* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss) - Concerns grow as AI systems begin generating functional viruses, raising significant cybersecurity and ethical debates.
+* [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss) - A critique of Wayland for introducing significant compatibility issues in modern computing environments.
 
-## Environmental and Outer Space Developments
+## Scientific and Medical Advancements
 
-* [Frailty in Ageing Populations Worsened By Air Pollution, Global Review Finds](https://news.slashdot.org/story/25/10/03/117228/frailty-in-ageing-populations-worsened-by-air-pollution-global-review-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Global review finds air pollution exacerbating frailty among aging populations.
+* [AI predicts antibiotic's IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/) - AI's prediction of a novel antibiotic mechanism for IBD validated by scientists.
 
-* [Jeff Bezos Predicts Gigawatt Data Centers in Space Within Two Decades](https://science.slashdot.org/story/25/10/03/1426244/jeff-bezos-predicts-gigawatt-data-centers-in-space-within-two-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Bezos forecasts the construction of gigawatt-scale data centers in space by 2045.
+* [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss) - Breakthrough design using Germanium addresses fundamental challenges in light monitoring technology.
 
-* [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&from=rss) - Observations reveal a black hole mysteriously flipping its magnetic field, a rare cosmic phenomenon.
+* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - AI capabilities in generating functional viruses raise ethical and security concerns within the scientific community.
 
-## Economic and Policy Changes
+## AI and Privacy Concerns
 
-* [SEC Approves Texas Stock Exchange](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The SEC grants approval for the establishment of the Texas Stock Exchange.
+* [Against the Uncritical Adoption of 'AI' Technologies in Academia](https://zenodo.org/records/17065099) - Critics urge academia to be cautious in adopting AI technologies without thorough justification.
 
-* [Americans Increasingly See Legal Sports Betting as a Bad Thing For Society and Sports](https://news.slashdot.org/story/25/10/03/0918249/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Public opinion turns against legalized sports betting due to societal concerns and impact on the sports industry.
+* [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - ICE plans on acquiring phone tracking tools, sparking privacy concerns over mass surveillance capabilities.
 
-* [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&from=rss) - ICE plans to acquire technology capable of tracking massive quantities of mobile phone data, raising privacy concerns.
+## Space and Global Innovations
 
-## Scientific Discoveries and Innovations
+* [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&amp;from=rss) - NASA envisions a lunar village within ten years as part of expanding space exploration.
 
-* [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss) - Engineers make strides in optical technology with germanium-based photodiode developments.
+* [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/) - A fascinating astronomical event as an interstellar object traverses past Mars.
 
-* [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&from=rss) - A report challenges narratives surrounding the capabilities and promises of AI coding.
+## Software and Development
 
-* [Complex Knots Can Actually Be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&from=rss) - Researchers uncover counterintuitive properties of complex knots that make them easier to untangle than simpler knots.
+* [PEP 810: Explicit lazy imports](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131) - A Python enhancement proposal introduces explicit lazy imports for efficiency improvements.
+
+* [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/) - Guide to setting up WireGuard topologies for enhanced privacy in home networks.
+
+* [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/) - An introduction to generating procedural content using Wave Function Collapse.
 
 ---
 
@@ -63,9 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-04, 03:30:00](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indonesia Suspends TikTok Registration With Over 100 Million Accounts At Risk](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-04, 02:59:13](https://lobste.rs/s/rnekre/optique_0_6_0_shell_completion_support_for) - [Optique 0.6.0: Shell completion support for type-safe CLI parsers](https://hackers.pub/@hongminhee/2025/optique-060)
+* [2025-10-04, 02:02:00](https://tech.slashdot.org/story/25/10/03/2248228/google-is-ending-gmailify-and-pop-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Is Ending Gmailify and POP Support](https://tech.slashdot.org/story/25/10/03/2248228/google-is-ending-gmailify-and-pop-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 01:53:48](https://lobste.rs/s/5u9gm7/don_t_parse_call) - [Don&apos;t Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
 * [2025-10-04, 01:25:00](https://meta.slashdot.org/story/25/10/03/2235209/bay-area-university-issues-warning-over-man-using-meta-ai-glasses-on-campus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bay Area University Issues Warning Over Man Using Meta AI Glasses On Campus](https://meta.slashdot.org/story/25/10/03/2235209/bay-area-university-issues-warning-over-man-using-meta-ai-glasses-on-campus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [AI predicts antibiotic&apos;s IBD mechanism–scientists later confirm](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We&apos;re Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
+* [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 * [2025-10-04, 00:45:00](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SEC Approves Texas Stock Exchange](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
 * [2025-10-04, 00:19:02](https://news.ycombinator.com/item?id=45469285) - [Binary Formats Gallery](https://formats.kaitai.io/)
@@ -97,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:21:00](https://developers.slashdot.org/story/25/10/03/1515258/tech-companies-to-k-12-schoolchildren-learn-to-ai-is-the-new-learn-to-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech Companies To K-12 Schoolchildren: Learn To AI Is the New Learn To Code](https://developers.slashdot.org/story/25/10/03/1515258/tech-companies-to-k-12-schoolchildren-learn-to-ai-is-the-new-learn-to-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 19:11:17](https://lobste.rs/s/bs0mza/procedural_generation_with_wave) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
-* [2025-10-03, 19:08:27](https://lobste.rs/s/mda15f/programming_assembly_without_operating) - [Programming in Assembly without an Operating System](https://www.youtube.com/watch?v=ZFHnbozz7b4)
 * [2025-10-03, 19:08:11](https://news.ycombinator.com/item?id=45466588) - [Jules, remote coding agent from Google Labs, announces API](https://jules.google/docs/changelog/)
 * [2025-10-03, 18:40:00](https://slashdot.org/story/25/10/03/0815211/microsoft-excel-uk-championships-crowned-its-first-winner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Excel UK Championships Crowned Its First Winner](https://slashdot.org/story/25/10/03/0815211/microsoft-excel-uk-championships-crowned-its-first-winner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 18:34:00](https://soylentnews.org/article.pl?sid=25/10/02/1226238&amp;from=rss) - [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&amp;from=rss)
@@ -106,12 +114,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 17:50:47](https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big) - [Linus Torvalds Lashes Out At RISC-V Big Endian Plans](https://www.phoronix.com/news/Torvalds-No-RISC-V-BE)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
 * [2025-10-03, 17:21:00](https://science.slashdot.org/story/25/10/03/1426244/jeff-bezos-predicts-gigawatt-data-centers-in-space-within-two-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jeff Bezos Predicts Gigawatt Data Centers in Space Within Two Decades](https://science.slashdot.org/story/25/10/03/1426244/jeff-bezos-predicts-gigawatt-data-centers-in-space-within-two-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-03, 16:40:00](https://news.slashdot.org/story/25/10/03/117228/frailty-in-ageing-populations-worsened-by-air-pollution-global-review-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Frailty in Ageing Populations Worsened By Air Pollution, Global Review Finds](https://news.slashdot.org/story/25/10/03/117228/frailty-in-ageing-populations-worsened-by-air-pollution-global-review-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 16:18:29](https://news.ycombinator.com/item?id=45464632) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
 * [2025-10-03, 16:00:00](https://news.ycombinator.com/item?id=45464429) - [Jeff Bezos says AI is in a bubble but society will get &apos;gigantic&apos; benefits](https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html)
-* [2025-10-03, 16:00:00](https://news.slashdot.org/story/25/10/03/0918249/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Americans Increasingly See Legal Sports Betting as a Bad Thing For Society and Sports](https://news.slashdot.org/story/25/10/03/0918249/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 15:48:47](https://lobste.rs/s/5dlmct/hey_siri_block_reddit) - [Hey Siri. Block Reddit](https://www.jasontokoph.com/hey-siri-block-reddit/)
 * [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
@@ -119,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 13:51:00](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss) - [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss)
 * [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
 * [2025-10-03, 12:38:47](https://lobste.rs/s/anuzef/cve_2025_59489_arbitrary_code_execution) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
-* [2025-10-03, 11:08:42](https://news.ycombinator.com/item?id=45461500) - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
 * [2025-10-03, 09:06:00](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss)
 * [2025-10-03, 04:21:00](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss) - [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss)
@@ -133,6 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here&apos;s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
+* [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
 * [2025-10-02, 04:31:00](https://soylentnews.org/article.pl?sid=25/09/30/0352206&amp;from=rss) - [Scientists Unlock Secret to Thick, Stable Beer Foams](https://soylentnews.org/article.pl?sid=25/09/30/0352206&amp;from=rss)
 * [2025-10-01, 23:47:00](https://soylentnews.org/article.pl?sid=25/09/30/0349204&amp;from=rss) - [Explainer: Why a Decades Old Architecture Decision is Impeding the Power of AI Computing](https://soylentnews.org/article.pl?sid=25/09/30/0349204&amp;from=rss)
 * [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss)
@@ -142,9 +148,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 07:31:27](https://news.ycombinator.com/item?id=45435272) - [Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)](https://salykova.github.io/gemm-cpu)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss)
-* [2025-09-30, 21:29:29](https://news.ycombinator.com/item?id=45431489) - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
 * [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss) - [Details Beginning to Emerge About Australia&apos;s Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss)
-* [2025-09-30, 16:41:25](https://news.ycombinator.com/item?id=45427774) - [A B+ tree node underflows: merge or borrow?](https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/)
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
