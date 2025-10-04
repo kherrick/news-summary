@@ -1,40 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements
+## Technology and Innovation
 
-* [Signal Braces For Quantum Age With SPQR Encryption Upgrade](https://it.slashdot.org/story/25/10/03/234236/signal-braces-for-quantum-age-with-spqr-encryption-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Signal updates its encryption protocols in preparation for quantum computing breakthroughs, aiming to secure communications in the quantum age.
+* [OSWALD - Object Storage Write-Ahead Log Device](https://nvartolomei.com/oswald/) - Innovative device for managing object storage using a write-ahead log system. [Comments](https://lobste.rs/s/by9vog/oswald_object_storage_write_ahead_log)
 
-* [Google's Jules Enters Developers' Toolchains As AI Coding Agent Competition Heats Up](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's new AI coding agent, Jules, aims to transform developer workflows with enhanced automation and efficiency.
+* [Google's Jules Enters Developers' Toolchains As AI Coding Agent Competition Heats Up](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's new AI agent, Jules, enters coding toolchains amidst rising competition. [Comments](https://news.ycombinator.com/item?id=45466588)
 
-* [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/) - Alibaba Cloud releases an affordable FPGA solution, with significant implications for cloud technology and computing efficiency.
+* [Signal Braces For Quantum Age With SPQR Encryption Upgrade](https://it.slashdot.org/story/25/10/03/234236/signal-braces-for-quantum-age-with-spqr-encryption-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Novel encryption upgrade makes Signal prepared for quantum computing advancements. [Comments](https://news.ycombinator.com/item?id=45469437)
 
-## Science and Space Exploration
+## Scientific Discoveries and Health
 
-* [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&amp;from=rss) - New findings from lunar rocks unveil striking temperature variations between the moon's far and near sides.
+* [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer) - Research unveils groundbreaking prevention methods against cancer. [Comments](https://news.ycombinator.com/item?id=45472614)
 
-* [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&amp;from=rss) - NASA's chief outlines a bold agenda to establish a permanent lunar community within the next 10 years.
+* [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/) - An AI predicted the interaction of a new antibiotic targeting IBD. [Comments](https://news.ycombinator.com/item?id=45469579)
 
-## AI Innovations
+## Space and Environment
 
-* [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/) - Researchers develop a groundbreaking antibiotic targeting IBD with predictive insights from AI.
+* [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss) - Ambitious plans unveiled for a 'Moon village' within ten years. [Comments](https://news.ycombinator.com/item?id=45467543)
 
-* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - Concerns grow over AI's capacity to generate functional biological viruses.
+* [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&from=rss) - Lunar geology points to temperature differences between Moon's sides. [Comments](https://news.ycombinator.com/item?id=45471136)
 
-## Economic and Policy Developments
+## Surprising Insights
 
-* [SEC Approves Texas Stock Exchange](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The SEC greenlights a new stock exchange in Texas, stirring discussions on regional economic impacts.
+* [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/) - Ingenious project converts a Lego model into functional hardware. [Comments](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future)
 
-* [OpenAI Becomes World’s Most Valuable Startup After $500 Billion Valuation](https://news.slashdot.org/story/25/10/03/2120259/openai-becomes-worlds-most-valuable-startup-after-500-billion-valuation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI ascends to become the world's most valuable startup following a record $500 billion valuation.
-
-## Cultural and Social Trends
-
-* [Indonesia Suspends TikTok Registration With Over 100 Million Accounts At Risk](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Indonesian government puts TikTok operations on hold, impacting millions of users.
-
-* [Have We Passed Peak Social Media?](https://tech.slashdot.org/story/25/10/03/0825245/have-we-passed-peak-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis explores whether society is moving past its reliance on social media platforms.
-
-## Gaming and Digital Entertainment
-
-* [Microsoft is About To Launch Free Xbox Cloud Gaming With Ads](https://games.slashdot.org/story/25/10/03/1537231/microsoft-is-about-to-launch-free-xbox-cloud-gaming-with-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft announces plans for ad-supported free-to-play Xbox Cloud Gaming services, making gaming more accessible.
+* [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&from=rss) - Germanium photodiode unlocks new potential for on-chip light monitoring. [Comments](https://news.ycombinator.com/item?id=45463319)
 
 ---
 
@@ -61,11 +51,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-04, 12:38:07](https://lobste.rs/s/by9vog/oswald_object_storage_write_ahead_log) - [OSWALD - Object Storage Write-Ahead Log Device](https://nvartolomei.com/oswald/)
+* [2025-10-04, 12:15:49](https://lobste.rs/s/f9vq85/thunderscan_clever_device_transforms) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
+* [2025-10-04, 11:58:58](https://news.ycombinator.com/item?id=45472678) - [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/)
+* [2025-10-04, 11:44:15](https://news.ycombinator.com/item?id=45472614) - [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
+* [2025-10-04, 10:38:06](https://news.ycombinator.com/item?id=45472319) - [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf)
+* [2025-10-04, 10:36:55](https://lobste.rs/s/dvtmwq/paged_out_issue_7) - [Paged Out! Issue #7](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-04, 08:07:00](https://soylentnews.org/article.pl?sid=25/10/02/1410217&amp;from=rss) - [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&amp;from=rss)
 * [2025-10-04, 07:00:00](https://it.slashdot.org/story/25/10/03/234236/signal-braces-for-quantum-age-with-spqr-encryption-upgrade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Signal Braces For Quantum Age With SPQR Encryption Upgrade](https://it.slashdot.org/story/25/10/03/234236/signal-braces-for-quantum-age-with-spqr-encryption-upgrade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 06:49:58](https://news.ycombinator.com/item?id=45471136) - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-04, 06:23:52](https://lobste.rs/s/dvke0c/you_can_t_parse_xml_with_regex_let_s_do_it) - [You can&apos;t parse XML with regex. Let&apos;s do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
-* [2025-10-04, 05:51:56](https://news.ycombinator.com/item?id=45470842) - [Optimizing a 6502 image decoder – part II: assembly](https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/)
 * [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&amp;from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&amp;from=rss)
 * [2025-10-04, 03:30:00](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indonesia Suspends TikTok Registration With Over 100 Million Accounts At Risk](https://yro.slashdot.org/story/25/10/03/231243/indonesia-suspends-tiktok-registration-with-over-100-million-accounts-at-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 03:11:28](https://news.ycombinator.com/item?id=45470206) - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html)
@@ -75,10 +70,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-04, 01:25:00](https://meta.slashdot.org/story/25/10/03/2235209/bay-area-university-issues-warning-over-man-using-meta-ai-glasses-on-campus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bay Area University Issues Warning Over Man Using Meta AI Glasses On Campus](https://meta.slashdot.org/story/25/10/03/2235209/bay-area-university-issues-warning-over-man-using-meta-ai-glasses-on-campus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 01:09:37](https://news.ycombinator.com/item?id=45469579) - [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We&apos;re Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
-* [2025-10-04, 00:45:40](https://news.ycombinator.com/item?id=45469468) - [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
 * [2025-10-04, 00:45:00](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SEC Approves Texas Stock Exchange](https://yro.slashdot.org/story/25/10/03/2224246/sec-approves-texas-stock-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 00:39:14](https://news.ycombinator.com/item?id=45469437) - [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
-* [2025-10-04, 00:19:02](https://news.ycombinator.com/item?id=45469285) - [Binary Formats Gallery](https://formats.kaitai.io/)
 * [2025-10-04, 00:18:52](https://lobste.rs/s/8gircn/utf_8_explained_simply_nic_barker) - [UTF-8, explained simply - Nic Barker](https://www.youtube.com/watch?v=vpSkBV5vydg)
 * [2025-10-04, 00:02:00](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Jules Enters Developers&apos; Toolchains As AI Coding Agent Competition Heats Up](https://developers.slashdot.org/story/25/10/03/2140223/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 23:20:00](https://mobile.slashdot.org/story/25/10/03/2131218/thwarted-plot-to-cripple-cell-service-in-ny-was-bigger-than-first-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thwarted Plot To Cripple Cell Service In NY Was Bigger Than First Thought](https://mobile.slashdot.org/story/25/10/03/2131218/thwarted-plot-to-cripple-cell-service-in-ny-was-bigger-than-first-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -90,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 22:02:00](https://developers.slashdot.org/story/25/10/03/2027237/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Confirms Android Dev Verification Will Have Free and Paid Tiers, No Public List of Devs](https://developers.slashdot.org/story/25/10/03/2027237/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 21:22:00](https://news.slashdot.org/story/25/10/03/166218/hotel-prices-lead-countries-to-consider-skipping-cop30-climate-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hotel Prices Lead Countries To Consider Skipping COP30 Climate Summit](https://news.slashdot.org/story/25/10/03/166218/hotel-prices-lead-countries-to-consider-skipping-cop30-climate-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 21:20:18](https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale) - [Alibaba cloud FPGA: the 200$ Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
-* [2025-10-03, 21:16:12](https://lobste.rs/s/reut86/zluda_cuda_on_non_nvidia_gpus) - [ZLUDA: CUDA on non-NVIDIA GPUs](https://github.com/vosen/ZLUDA)
 * [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
 * [2025-10-03, 20:41:00](https://games.slashdot.org/story/25/10/03/1537231/microsoft-is-about-to-launch-free-xbox-cloud-gaming-with-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft is About To Launch Free Xbox Cloud Gaming With Ads](https://games.slashdot.org/story/25/10/03/1537231/microsoft-is-about-to-launch-free-xbox-cloud-gaming-with-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-03, 20:40:52](https://news.ycombinator.com/item?id=45467543) - [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
@@ -119,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 * [2025-10-03, 14:18:56](https://news.ycombinator.com/item?id=45463319) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-03, 13:51:00](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss) - [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss)
-* [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
 * [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
 * [2025-10-03, 09:06:00](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss)
 * [2025-10-03, 04:21:00](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss) - [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss)
@@ -128,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-02, 20:31:43](https://news.ycombinator.com/item?id=45455164) - [Where it&apos;s at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss)
-* [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss)
 * [2025-10-02, 08:51:49](https://news.ycombinator.com/item?id=45447536) - [Asked to do something illegal at work? Here&apos;s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 07:12:18](https://news.ycombinator.com/item?id=45447057) - [Old Stockholm Telephone Tower](https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower)
@@ -137,18 +127,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-01, 19:02:00](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss) - [This Black Hole Flipped its Magnetic Field](https://soylentnews.org/article.pl?sid=25/09/30/0346236&amp;from=rss)
 * [2025-10-01, 14:15:00](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss) - [Claude&apos;s New AI File Creation Feature Ships With Deep Security Risks Built in](https://soylentnews.org/article.pl?sid=25/09/30/0336248&amp;from=rss)
 * [2025-10-01, 14:06:45](https://news.ycombinator.com/item?id=45437903) - [The Temporal Dead Zone, or why the TypeScript codebase is full of var statements](https://vincentrolfs.dev/blog/ts-var)
-* [2025-10-01, 12:56:37](https://news.ycombinator.com/item?id=45437135) - [The Crete Fleet – Concrete Tugs and Barges from WWI](https://thecretefleet.com)
 * [2025-10-01, 10:51:37](https://news.ycombinator.com/item?id=45436289) - [Systems Programming with Zig (Book)](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-10-01, 09:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss) - [Shopify Engages in Hostile Takeover of RubyGems and Bundler](https://soylentnews.org/article.pl?sid=25/09/29/0143218&amp;from=rss)
-* [2025-10-01, 07:31:27](https://news.ycombinator.com/item?id=45435272) - [Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)](https://salykova.github.io/gemm-cpu)
 * [2025-10-01, 04:49:00](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss) - [Workslop - the Result of Too Much Clueless AI](https://soylentnews.org/article.pl?sid=25/09/29/0130236&amp;from=rss)
+* [2025-10-01, 03:15:23](https://news.ycombinator.com/item?id=45433936) - [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)
 * [2025-10-01, 00:05:00](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss) - [Inequality in Agri-Food Chains: Global South Produces the Food, the Global North Keeps the Wealth](https://soylentnews.org/article.pl?sid=25/09/29/0126248&amp;from=rss)
 * [2025-09-30, 21:33:04](https://news.ycombinator.com/item?id=45431526) - [Show HN: JPDB, GDB for Your Waveforms](https://github.com/1024bees/dang)
+* [2025-09-30, 20:54:45](https://news.ycombinator.com/item?id=45431115) - [Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS](https://benbridle.com/projects/cobalt.html)
 * [2025-09-30, 19:24:00](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss) - [Details Beginning to Emerge About Australia&apos;s Social Media Ban](https://soylentnews.org/article.pl?sid=25/09/29/0124238&amp;from=rss)
+* [2025-09-30, 16:54:43](https://news.ycombinator.com/item?id=45427972) - [Earth was born dry until a cosmic collision made it a blue planet](https://www.sciencedaily.com/releases/2025/09/250928095654.htm)
 * [2025-09-30, 14:39:00](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss) - [Forty Years of Commitment to Software Freedom](https://soylentnews.org/article.pl?sid=25/09/29/0111207&amp;from=rss)
 * [2025-09-30, 09:57:00](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss) - [OpenAI and Nvidia’s $100B AI Plan Will Require Power Equal to 10 Nuclear Reactors](https://soylentnews.org/article.pl?sid=25/09/29/018254&amp;from=rss)
 * [2025-09-30, 08:57:11](https://news.ycombinator.com/item?id=45423404) - [Open Printer is an open source inkjet printer with DRM-free ink](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
-* [2025-09-30, 05:46:34](https://news.ycombinator.com/item?id=45422315) - [Discrete Fourier Transform](https://nima101.github.io/dft)
 * [2025-09-30, 05:15:40](https://news.ycombinator.com/item?id=45422147) - [Fluid Glass](https://chiuhans111.github.io/fluidglass/)
 * [2025-09-30, 05:15:00](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss) - [Think Twice Before Abandoning X11. Wayland Breaks Everything!](https://soylentnews.org/article.pl?sid=25/09/29/0055259&amp;from=rss)
 * [2025-09-30, 00:32:00](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss) - [EA is Reportedly About to be Sold in a Record-Setting $50 Billion Buyout](https://soylentnews.org/article.pl?sid=25/09/29/0053249&amp;from=rss)
