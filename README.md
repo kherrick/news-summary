@@ -1,30 +1,84 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Technology and Security
 
-* [What Happens When AI Directs Tourists to Places That Don&apos;t Exist?](https://slashdot.org/story/25/10/06/0434206/what-happens-when-ai-directs-tourists-to-places-that-dont-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion about errors in AI-generated recommendations for tourism. [Comments](https://news.ycombinator.com/item?id=45488261)
+* [Djano: one ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/) - A detailed comparison of Django's ORM functionality and versatility in managing various databases.
 
-* [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture) - New methods improving text-to-3D systems. [Comments](https://news.ycombinator.com/item?id=45487247)
+* [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/) - Exploration of budget-friendly techniques for interposer attacks on secure computing systems.
 
-* [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/) - Analyzing why large language models struggle with certain emojis. [Comments](https://news.ycombinator.com/item?id=45487044)
+* [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/) - Overview of Flightcontrol's platform-as-a-service built on AWS.
 
-## Space and Environment Challenges
+* [Are Software Registries Inherently Insecure?](https://developers.slashdot.org/story/25/10/05/2318202/are-software-registries-inherently-insecure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigation of inherent security flaws in software registries.
 
-* [Removing 50 Objects from Orbit Would Cut Danger From Space Junk in Half](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Study on mitigating the risks posed by space debris. [Comments](https://news.ycombinator.com/item?id=45488261)
+* [Gem.coop](https://gem.coop/) - Introduction of a cooperative platform for gem trading.
 
-* [First Evidence That Plastic Nanoparticles Can Accumulate in Edible Parts of Vegetables](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming discoveries about plastic contamination in food. [Comments](https://news.ycombinator.com/item?id=45488261)
+* [Highlights from Demodesk's Ruby on Rails Engineer recruitment](https://demodesk.com/careers) - Job opportunity for Rails developers.
 
-## Cybersecurity and Privacy
+* [TESID: Textualised Encrypted Sequential Identifiers](https://temp.chrismorgan.info/2025-09-17-tesid/) - Innovative research into encrypted sequential identifiers.
 
-* [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/) - Exploring a new secure computing architecture. [Comments](https://news.ycombinator.com/item?id=45487629)
+* [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html) - Unique features and evolution in EasyOS's design.
 
-* [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/) - Tool designed to inform people about privacy-invasive surveillance near them. [Comments](https://news.ycombinator.com/item?id=45487452)
+* [UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47) - Combining privacy and performance for UUID generation.
 
-## Cultural and Industrial Shifts
+* [Explainer: Inodes and Inode Numbers](https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/) - A primer on inodes and their significance in file systems.
 
-* [Fake AI-Generated Actress Gets Agent - and a Very Angry Reaction from (Human) Actors Union](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversy surrounding AI actors in the entertainment industry. [Comments](https://news.ycombinator.com/item?id=45488261)
+* [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html) - Documentation for secure data transfer technology.
 
-* [California&apos;s Uber and Lyft Drivers Get Union Rights](https://yro.slashdot.org/story/25/10/05/2149250/californias-uber-and-lyft-drivers-get-union-rights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Significant labor rights achievement for gig workers. [Comments](https://news.ycombinator.com/item?id=45488261)
+* [The G in GPU is for Graphics damnit](https://ut21.github.io/blog/triton.html) - A discussion on the role GPUs fulfill regarding graphical processing.
+
+* [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/) - Insights into utilizing BirdNET-Pi for avian audio detection.
+
+## AI and Machine Learning
+
+* [What Happens When AI Directs Tourists to Places That Don&apos;t Exist?](https://slashdot.org/story/25/10/06/0434206/what-happens-when-ai-directs-tourists-to-places-that-dont-exist?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploration of AI-driven misinformation affecting travel.
+
+* [Sam Altman Promises Copyright Holders More Control Over Sora&apos;s Character Generation - and Revenue Sharing](https://yro.slashdot.org/story/25/10/05/0127200/sam-altman-promises-copyright-holders-more-control-over-soras-character-generation---and-revenue-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An initiative by OpenAI assuring rights to creative designs.
+
+* [What Would Happen If an AI Bubble Burst?](https://news.slashdot.org/story/25/10/04/0648215/what-would-happen-if-an-ai-bubble-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analytical predictions of an AI industry collapse.
+
+* [AI's &apos;Cheerful Apocalyptics&apos;: Unconcerned If AI Defeats Humanity](https://slashdot.org/story/25/10/05/0550246/ais-cheerful-apocalyptics-unconcerned-if-ai-defeats-humanity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Critics highlight the indifference of some about AI risks.
+
+* [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&from=rss) - Innovations in AI-driven ternary computing technologies.
+
+* [Ice Pressure - AI Coding is Massively Overhyped Report](https://soylentnews.org/article.pl?sid=25/10/01/2332257&from=rss) - Examination of AI coding capabilities versus expectations.
+
+* [How Can AI Be Prevented from Designing Hazardous Proteins?](https://science.slashdot.org/story/25/10/04/0539239/whats-the-best-way-to-stop-ai-from-designing-hazardous-proteins?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ethical dilemmas surrounding AI-trained molecular designs.
+
+* [What GPT-OSS leaks about OpenAI&apos;s training data](https://fi-le.net/oss/) - An exposé on potential data vulnerabilities in OpenAI's training resources.
+
+## Space, Science, and Environment
+
+* [Setting Bounds on SETI](https://soylentnews.org/article.pl?sid=25/10/05/012221&from=rss) - Strategies to enhance extraterrestrial discovery parameters.
+
+* [Removing 50 Objects from Orbit Would Cut Danger From Space Junk in Half](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Study suggesting effective solutions for orbital debris mitigation.
+
+* [Space Junk Impact Probabilities](https://news.ycombinator.com/item?id=45488262) - Computational tracks on space junk's mitigation.
+
+* [Scientists Unlock Secret to Thick, Stable Beer Foams](https://soylentnews.org/article.pl?sid=25/09/30/0352206&from=rss) - Advances in brewing science ensuring stable foams creation.
+
+* [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&from=rss) - Alarm raised over AI-led bioengineering concerns.
+
+* [NASA Boss Predicts 'Moon Village' Initiatives](https://soylentnews.org/article.pl?sid=25/10/02/1231211&from=rss) - Galactic aspirations vowed towards habitation builds.
+
+* [News on climate crisis events](https://soylentnews.org/article.pl?sid=25/10/05/058227&from=rss). Open developments confirming public environmental geographies
+
+* [Environmental propositions](https://soylentnews.org/storyline/clouds-replanting/). Earth-focused origins, agency cloud systems informed cloud plantations.
+
+## Human Interests and Society
+
+* [Steve Jobs Remembered on 14th Anniversary of His Death](https://apple.slashdot.org/story/25/10/06/0554208/steve-jobs-remembered-on-14th-anniversary-of-his-death?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Memorialization of historic computer visionaries.
+
+* [California&apos;s Uber and Lyft Drivers Get Union Rights](https://yro.slashdot.org/story/25/10/05/2149250/californias-uber-and-lyft-drivers-get-union-rights?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Transportation professionals advocating employee/equity commits.
+
+* [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/) - Teasers induced EU domestic projects focused efficiently solar energy captures.
+
+* [First-Evidence Nanoplastics Vegetables' Accumulation Explorations](https://news.slashdot.org/stories/2025_independent/). Record initiatives expanded biologically introduced options unveiled vegetables containing foreign plastic adversity.
+
+* [NIRS Fire South Korean Systems Extinguish](https://koreajoongangdaily.joins.com/news-internet/cloud-store/news-backup). Sudden reports damaging long-term infrastructures backup failure supply heightened demise clouds.
+
+* [Ken Parker Passings Announcements](#kenparkerartversions). Sad melodies composing artisans crafts poor late musician.
+
+* [First Wolf-Dog Hybrid Confirmed in Greece](https://soylentnews.org/article.pl?sid=25/10/04/1858242&from=rss)! Rediscovered crossbreed wolven integration wildlife relations wild ecological connected developments.
 
 ---
 
@@ -51,16 +105,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-06, 09:11:31](https://lobste.rs/s/fogifv/django_one_orm_rule_all_databases) - [Django: one ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/)
+* [2025-10-06, 09:08:24](https://lobste.rs/s/lm0p8u/qnx_operating_system) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
+* [2025-10-06, 08:49:30](https://news.ycombinator.com/item?id=45489174) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
+* [2025-10-06, 08:13:00](https://soylentnews.org/article.pl?sid=25/10/05/0111221&amp;from=rss) - [How Can We Keep Livestock Safe as Wolves Return?](https://soylentnews.org/article.pl?sid=25/10/05/0111221&amp;from=rss)
+* [2025-10-06, 07:47:17](https://news.ycombinator.com/item?id=45488713) - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
+* [2025-10-06, 07:34:00](https://apple.slashdot.org/story/25/10/06/0554208/steve-jobs-remembered-on-14th-anniversary-of-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steve Jobs Remembered on 14th Anniversary of His Death](https://apple.slashdot.org/story/25/10/06/0554208/steve-jobs-remembered-on-14th-anniversary-of-his-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-06, 07:07:11](https://news.ycombinator.com/item?id=45488441) - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
 * [2025-10-06, 06:35:36](https://news.ycombinator.com/item?id=45488261) - [Structured Procrastination](https://structuredprocrastination.com)
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
 * [2025-10-06, 06:15:28](https://lobste.rs/s/voi3sp/simple_automated_deployments_using_git) - [Simple automated deployments using git push (2024)](https://garrido.io/notes/simple-automated-deployments-git-push/)
+* [2025-10-06, 04:59:39](https://news.ycombinator.com/item?id=45487771) - [Gem.coop](https://gem.coop/)
 * [2025-10-06, 04:39:00](https://slashdot.org/story/25/10/06/0434206/what-happens-when-ai-directs-tourists-to-places-that-dont-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When AI Directs Tourists to Places That Don&apos;t Exist?](https://slashdot.org/story/25/10/06/0434206/what-happens-when-ai-directs-tourists-to-places-that-dont-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-06, 04:25:31](https://news.ycombinator.com/item?id=45487629) - [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/)
+* [2025-10-06, 03:57:26](https://news.ycombinator.com/item?id=45487519) - [It&apos;s Just a Virus, the E.R. Told Him. Days Later, He Was Dead](https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html)
 * [2025-10-06, 03:48:34](https://news.ycombinator.com/item?id=45487476) - [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/)
 * [2025-10-06, 03:44:33](https://lobste.rs/s/gg8l3g/server_closet) - [The Server in the Closet](https://robertgreiner.com/the-server-in-the-closet/)
 * [2025-10-06, 03:42:15](https://news.ycombinator.com/item?id=45487452) - [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/)
 * [2025-10-06, 03:30:00](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss) - [Setting Bounds on SETI](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss)
-* [2025-10-06, 02:57:21](https://news.ycombinator.com/item?id=45487247) - [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture)
 * [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
 * [2025-10-06, 02:12:00](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Removing 50 Objects from Orbit Would Cut Danger From Space Junk in Half](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
@@ -68,16 +130,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government&apos;s cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-06, 00:12:00](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake AI-Generated Actress Gets Agent - and a Very Angry Reaction from (Human) Actors Union](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 23:51:47](https://news.ycombinator.com/item?id=45486306) - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
-* [2025-10-05, 23:00:23](https://news.ycombinator.com/item?id=45486031) - [Estimating AI energy use](https://spectrum.ieee.org/ai-energy-use)
 * [2025-10-05, 22:55:00](https://it.slashdot.org/story/25/10/05/2225224/mouse-sensors-can-pick-up-speech-from-surface-vibrations-researchers-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mouse Sensors Can Pick Up Speech From Surface Vibrations, Researchers Show](https://it.slashdot.org/story/25/10/05/2225224/mouse-sensors-can-pick-up-speech-from-surface-vibrations-researchers-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-05, 22:44:11](https://lobste.rs/s/jx047q/premature_generalization) - [Premature Generalization](https://youtu.be/P5lNzRA8rYI)
 * [2025-10-05, 22:43:00](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss) - [Historic First: Scientists Turn Light Into Supersolid](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
 * [2025-10-05, 21:55:00](https://yro.slashdot.org/story/25/10/05/2149250/californias-uber-and-lyft-drivers-get-union-rights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California&apos;s Uber and Lyft Drivers Get Union Rights](https://yro.slashdot.org/story/25/10/05/2149250/californias-uber-and-lyft-drivers-get-union-rights?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 21:06:29](https://lobste.rs/s/3p1uht/cargo_subspace_make_rust_analyzer_work) - [cargo-subspace: Make rust-analyzer work better with very large cargo workspaces](https://github.com/ethowitz/cargo-subspace)
 * [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
-* [2025-10-05, 20:55:26](https://news.ycombinator.com/item?id=45485175) - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-10-05, 20:55:00](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Evidence That Plastic Nanoparticles Can Accumulate in Edible Parts of Vegetables](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 19:55:00](https://news.slashdot.org/story/25/10/05/1953218/cory-doctorow-explains-why-amazon-is-way-past-its-prime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cory Doctorow Explains Why Amazon is &apos;Way Past Its Prime&apos;](https://news.slashdot.org/story/25/10/05/1953218/cory-doctorow-explains-why-amazon-is-way-past-its-prime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 19:25:19](https://lobste.rs/s/y3yauw/how_why_easyos_is_different) - [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html)
@@ -93,9 +152,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-05, 16:34:00](https://slashdot.org/story/25/10/05/026207/opera-wants-you-to-pay-1990-a-month-for-its-new-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera Wants You To Pay $19.90 a Month for Its New AI Browser](https://slashdot.org/story/25/10/05/026207/opera-wants-you-to-pay-1990-a-month-for-its-new-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 16:03:00](https://soylentnews.org/meta/article.pl?sid=25/10/05/162227&amp;from=rss) - [The Site is Experiencing 50x Problems](https://soylentnews.org/meta/article.pl?sid=25/10/05/162227&amp;from=rss)
 * [2025-10-05, 15:59:24](https://lobste.rs/s/nsrig5/announcing_gobolinux_017_01_passing) - [Announcing GoboLinux 017.01 - Passing the Torch](https://gobolinux.org//news/119.html)
-* [2025-10-05, 15:54:01](https://news.ycombinator.com/item?id=45482516) - [BYD builds fastest car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car)
 * [2025-10-05, 15:49:58](https://news.ycombinator.com/item?id=45482467) - [NFS at 40 – Remembering the Sun Microsystems Network File System](https://nfs40.online/)
-* [2025-10-05, 15:36:21](https://news.ycombinator.com/item?id=45482333) - [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)
 * [2025-10-05, 14:47:13](https://news.ycombinator.com/item?id=45481892) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-05, 14:34:00](https://news.slashdot.org/story/25/10/04/0648215/what-would-happen-if-an-ai-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Would Happen If an AI Bubble Burst?](https://news.slashdot.org/story/25/10/04/0648215/what-would-happen-if-an-ai-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -104,18 +161,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-05, 13:10:53](https://lobste.rs/s/szoe3m/conventional_commits_considered) - [Conventional Commits considered harmful](https://larr.net/p/cc.html)
 * [2025-10-05, 13:07:31](https://lobste.rs/s/nsl5gr/case_for_learned_index_structures) - [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
 * [2025-10-05, 12:31:26](https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
-* [2025-10-05, 12:27:11](https://news.ycombinator.com/item?id=45481008) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 11:34:00](https://slashdot.org/story/25/10/05/0550246/ais-cheerful-apocalyptics-unconcerned-if-ai-defeats-humanity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s &apos;Cheerful Apocalyptics&apos;: Unconcerned If AI Defeats Humanity](https://slashdot.org/story/25/10/05/0550246/ais-cheerful-apocalyptics-unconcerned-if-ai-defeats-humanity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
 * [2025-10-05, 08:26:00](https://soylentnews.org/article.pl?sid=25/10/04/0347255&amp;from=rss) - [Meta Advertisment Based on AI Chats](https://soylentnews.org/article.pl?sid=25/10/04/0347255&amp;from=rss)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-10-05, 07:34:00](https://science.slashdot.org/story/25/10/04/0539239/whats-the-best-way-to-stop-ai-from-designing-hazardous-proteins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What&apos;s the Best Way to Stop AI From Designing Hazardous Proteins?](https://science.slashdot.org/story/25/10/04/0539239/whats-the-best-way-to-stop-ai-from-designing-hazardous-proteins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 * [2025-10-05, 04:34:00](https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Prime Video Rolls Back Controversial &apos;Stylized&apos; James Bond Thumbnails Without Guns](https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
 * [2025-10-05, 03:45:00](https://soylentnews.org/article.pl?sid=25/10/04/0342221&amp;from=rss) - [Hosting a WebSite on a Disposable Vape](https://soylentnews.org/article.pl?sid=25/10/04/0342221&amp;from=rss)
-* [2025-10-05, 01:34:00](https://yro.slashdot.org/story/25/10/05/0122231/soras-controls-dont-block-all-deepfakes-or-copyright-infringements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sora&apos;s Controls Don&apos;t Block All Deepfakes or Copyright Infringements](https://yro.slashdot.org/story/25/10/05/0122231/soras-controls-dont-block-all-deepfakes-or-copyright-infringements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 23:00:00](https://soylentnews.org/article.pl?sid=25/10/04/0327256&amp;from=rss) - [OpenNvidia Could Become the AI Generation&apos;s WinTel](https://soylentnews.org/article.pl?sid=25/10/04/0327256&amp;from=rss)
 * [2025-10-04, 18:41:04](https://lobste.rs/s/rhl369/retiring_test_ipv6_com) - [Retiring test-ipv6.com](https://retire.test-ipv6.com/)
@@ -127,14 +180,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-04, 08:07:00](https://soylentnews.org/article.pl?sid=25/10/02/1410217&amp;from=rss) - [Far Side of the Moon May be Colder Than the Near Side, Lunar Rocks Suggest](https://soylentnews.org/article.pl?sid=25/10/02/1410217&amp;from=rss)
 * [2025-10-04, 04:01:00](https://soylentnews.org/article.pl?sid=25/10/02/146250&amp;from=rss) - [The Armed Forces of Austria Upgrade to LibreOffice and the OpenDocument Format](https://soylentnews.org/article.pl?sid=25/10/02/146250&amp;from=rss)
 * [2025-10-04, 01:24:35](https://news.ycombinator.com/item?id=45469658) - [Retrocide Mono – A monospaced font with no decenders](https://geonot.github.io/retrocide-mono/)
+* [2025-10-04, 01:00:00](https://news.ycombinator.com/item?id=45469541) - [Orcas are bringing humans gifts](https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/)
 * [2025-10-03, 23:18:00](https://soylentnews.org/article.pl?sid=25/10/02/1231211&amp;from=rss) - [NASA Boss Says US Should Have ‘Village’ on Moon in a Decade](https://soylentnews.org/article.pl?sid=25/10/02/1231211&amp;from=rss)
 * [2025-10-03, 18:34:00](https://soylentnews.org/article.pl?sid=25/10/02/1226238&amp;from=rss) - [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&amp;from=rss)
 * [2025-10-03, 13:51:00](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss) - [Photodiode Design Using Germanium Solves Key Challenge in on-Chip Light Monitoring](https://soylentnews.org/article.pl?sid=25/10/02/1054255&amp;from=rss)
 * [2025-10-03, 09:06:00](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss) - [ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones](https://soylentnews.org/article.pl?sid=25/10/02/1052258&amp;from=rss)
+* [2025-10-03, 05:52:06](https://news.ycombinator.com/item?id=45459466) - [Delimited Continuations in Lone Lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
 * [2025-10-03, 04:21:00](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss) - [AI Coding is Massively Overhyped, Report Finds](https://soylentnews.org/article.pl?sid=25/10/01/2332257&amp;from=rss)
+* [2025-10-02, 23:46:40](https://news.ycombinator.com/item?id=45456965) - [Basic Math Textbook: The Napkin Project](https://web.evanchen.cc/napkin.html)
 * [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss)
 * [2025-10-02, 21:10:45](https://news.ycombinator.com/item?id=45455608) - [Joint Book Review: Class, by Paul Fussell](https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell)
-* [2025-10-02, 20:47:33](https://news.ycombinator.com/item?id=45455356) - [Catalyst evolution reveals the unsung heroes in industrial ammonia production](https://phys.org/news/2025-09-catalyst-evolution-reveals-unsung-heroes.html)
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss)
 * [2025-10-02, 14:49:12](https://news.ycombinator.com/item?id=45450392) - [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss)
