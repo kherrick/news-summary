@@ -1,26 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Cloud Vulnerabilities
+## Technology & Software Innovations
 
-* [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse) - Researchers demonstrate how computer mouse sensors can be exploited for eavesdropping through surface vibrations. ([Comments](https://news.ycombinator.com/item?id=45486825))
+* [The Server in the Closet](https://robertgreiner.com/the-server-in-the-closet/) explores the unique concept of hosting server infrastructure in unconventional places, sparking a conversation about decentralized server setups. [Comments](https://lobste.rs/s/gg8l3g/server_closet)
 
-* [NIRS fire destroys [South Korean] government&apos;s cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936) - A catastrophic fire destroys the primary cloud storage of South Korea’s government with no backups in place, highlighting critical risks in data security. ([Comments](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean))
+* [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse) details new research revealing how computer mouse sensors can potentially be exploited for eavesdropping. [Comments](https://news.ycombinator.com/item?id=45486825)
 
-## Ethics and AI
+* [UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47) introduces a blend of performance and privacy enhancements in universally unique identifiers. [Comments](https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance)
 
-* [Fake AI-Generated Actress Gets Agent - and a Very Angry Reaction from (Human) Actors Union](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An AI-generated actress signing with a talent agent sparks backlash from human actors and their union. ([Comments](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack) demonstrates effective data packing achieving high performance on ARM processors. [Comments](https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single)
 
-## Sustainability and Renewable Energy
+* [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html) highlights a secure and efficient way to transfer files between computers, continuing to innovate in personal data handling. [Comments](https://news.ycombinator.com/item?id=45448747)
 
-* [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/) - Germany achieves a major milestone by equipping half a million apartment balconies with solar panels to accelerate renewable energy adoption. ([Comments](https://news.ycombinator.com/item?id=45485806))
+## Artificial Intelligence & Its Challenges
 
-## Technological Advancements
+* [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/) explores quirks in language models and their emotional responses to emojis. [Comments](https://news.ycombinator.com/item?id=45487044)
 
-* [Generative AI&apos;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use) - The high energy demands of generative AI applications are impacting global infrastructures and energy policies. ([Comments](https://news.ycombinator.com/item?id=45486031))
+* [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use) discusses the growing energy demands for advanced AI technologies and their global impact. [Comments](https://news.ycombinator.com/item?id=45486031)
 
-* [First Evidence That Plastic Nanoparticles Can Accumulate in Edible Parts of Vegetables](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming research finds detectable levels of plastic nanoparticles in the edible parts of vegetables, raising food safety concerns. ([Comments](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Fake AI-Generated Actress Gets Agent - and a Very Angry Reaction from (Human) Actors Union](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines controversial developments in AI creativity within the entertainment sector. [Comments](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Historic First: Scientists Turn Light Into Supersolid](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss) - Scientists achieve a groundbreaking experimental milestone by transforming light into a supersolid state. ([Comments](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss))
+## Scientific Discoveries & Innovation
+
+* [Historic First: Scientists Turn Light Into Supersolid](https://soylentnews.org/article.pl?sid=25/10/04/1856221&from=rss) reveals a groundbreaking feat in material science. [Comments](https://soylentnews.org/article.pl?sid=25/10/04/1856221&from=rss)
+
+* [Removing 50 Objects from Orbit Would Cut Danger From Space Junk in Half](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&utm_medium=feed) tackles the critical issue of reducing space junk for safer orbital activities. [Comments](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Space, Sustainability & Environment
+
+* [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/) marks a milestone in renewable energy adoption at the micro-scale. [Comments](https://news.ycombinator.com/item?id=45485806)
+
+* [First Evidence That Plastic Nanoparticles Can Accumulate in Edible Parts of Vegetables](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights alarming findings about plastics in food crops. [Comments](https://news.slashdot.org/story/25/10/05/2032200/first-evidence-that-plastic-nanoparticles-can-accumulate-in-edible-parts-of-vegetables?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Cybersecurity & Threats
+
+* [Are Software Registries Inherently Insecure?](https://developers.slashdot.org/story/25/10/05/2318202/are-software-registries-inherently-insecure?utm_source=rss1.0mainlinkanon&utm_medium=feed) questions the fundamental security of software registries. [Comments](https://developers.slashdot.org/story/25/10/05/2318202/are-software-registries-inherently-insecure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [CISA Warns of Critical Linux Sudo Flaw Exploited in Attacks](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss) emphasizes the urgency to address vulnerabilities within the Linux ecosystem. [Comments](https://soylentnews.org/article.pl?sid=25/10/02/1226238&from=rss)
 
 ---
 
@@ -47,14 +63,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Covert Eavesdropping Through Computer Mice](https://sites.google.com/view/mic-e-mouse)
+* [2025-10-06, 03:44:33](https://lobste.rs/s/gg8l3g/server_closet) - [The Server in the Closet](https://robertgreiner.com/the-server-in-the-closet/)
+* [2025-10-06, 03:30:00](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss) - [Setting Bounds on SETI](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss)
+* [2025-10-06, 02:20:05](https://news.ycombinator.com/item?id=45487044) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
+* [2025-10-06, 02:12:00](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Removing 50 Objects from Orbit Would Cut Danger From Space Junk in Half](https://science.slashdot.org/story/25/10/06/0148246/removing-50-objects-from-orbit-would-cut-danger-from-space-junk-in-half?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-06, 01:35:03](https://news.ycombinator.com/item?id=45486829) - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+* [2025-10-06, 01:34:31](https://news.ycombinator.com/item?id=45486825) - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
 * [2025-10-06, 01:12:00](https://developers.slashdot.org/story/25/10/05/2318202/are-software-registries-inherently-insecure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Software Registries Inherently Insecure?](https://developers.slashdot.org/story/25/10/05/2318202/are-software-registries-inherently-insecure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government&apos;s cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-06, 00:12:00](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake AI-Generated Actress Gets Agent - and a Very Angry Reaction from (Human) Actors Union](https://entertainment.slashdot.org/story/25/10/06/009212/fake-ai-generated-actress-gets-agent---and-a-very-angry-reaction-from-human-actors-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 23:51:47](https://news.ycombinator.com/item?id=45486306) - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 * [2025-10-05, 23:00:23](https://news.ycombinator.com/item?id=45486031) - [Generative AI&apos;s Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
 * [2025-10-05, 22:55:00](https://it.slashdot.org/story/25/10/05/2225224/mouse-sensors-can-pick-up-speech-from-surface-vibrations-researchers-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mouse Sensors Can Pick Up Speech From Surface Vibrations, Researchers Show](https://it.slashdot.org/story/25/10/05/2225224/mouse-sensors-can-pick-up-speech-from-surface-vibrations-researchers-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-05, 22:44:11](https://lobste.rs/s/jx047q/premature_generalization) - [Premature Generalization](https://youtu.be/P5lNzRA8rYI)
 * [2025-10-05, 22:43:00](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss) - [Historic First: Scientists Turn Light Into Supersolid](https://soylentnews.org/article.pl?sid=25/10/04/1856221&amp;from=rss)
 * [2025-10-05, 22:18:31](https://news.ycombinator.com/item?id=45485806) - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
 * [2025-10-05, 22:10:15](https://news.ycombinator.com/item?id=45485736) - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
@@ -96,21 +116,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-05, 10:21:37](https://lobste.rs/s/rgxngu/wherever_you_get_your_podcasts) - [Wherever you get your Podcasts](https://knotbin.leaflet.pub/3lx3uqveyj22f)
 * [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:51:26](https://news.ycombinator.com/item?id=45480317) - [Self hosting 10TB in S3 on a framework laptop and disks](https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/)
+* [2025-10-05, 09:01:59](https://lobste.rs/s/5jplbc/adding_stride_scheduling_xv6) - [Adding Stride Scheduling to xv6](https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/)
 * [2025-10-05, 08:26:00](https://soylentnews.org/article.pl?sid=25/10/04/0347255&amp;from=rss) - [Meta Advertisment Based on AI Chats](https://soylentnews.org/article.pl?sid=25/10/04/0347255&amp;from=rss)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-10-05, 07:34:00](https://science.slashdot.org/story/25/10/04/0539239/whats-the-best-way-to-stop-ai-from-designing-hazardous-proteins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What&apos;s the Best Way to Stop AI From Designing Hazardous Proteins?](https://science.slashdot.org/story/25/10/04/0539239/whats-the-best-way-to-stop-ai-from-designing-hazardous-proteins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
-* [2025-10-05, 06:01:24](https://news.ycombinator.com/item?id=45479165) - [Social Cooling (2017)](https://www.socialcooling.com/)
 * [2025-10-05, 05:20:08](https://news.ycombinator.com/item?id=45479006) - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 * [2025-10-05, 04:34:00](https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Prime Video Rolls Back Controversial &apos;Stylized&apos; James Bond Thumbnails Without Guns](https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 04:11:55](https://news.ycombinator.com/item?id=45478780) - [Ambigr.am](https://ambigr.am/hall-of-fame)
 * [2025-10-05, 03:45:00](https://soylentnews.org/article.pl?sid=25/10/04/0342221&amp;from=rss) - [Hosting a WebSite on a Disposable Vape](https://soylentnews.org/article.pl?sid=25/10/04/0342221&amp;from=rss)
 * [2025-10-05, 01:34:00](https://yro.slashdot.org/story/25/10/05/0122231/soras-controls-dont-block-all-deepfakes-or-copyright-infringements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sora&apos;s Controls Don&apos;t Block All Deepfakes or Copyright Infringements](https://yro.slashdot.org/story/25/10/05/0122231/soras-controls-dont-block-all-deepfakes-or-copyright-infringements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
-* [2025-10-04, 23:18:33](https://lobste.rs/s/bkmwe4/achieving_period_correct_graphics) - [Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)
 * [2025-10-04, 23:00:00](https://soylentnews.org/article.pl?sid=25/10/04/0327256&amp;from=rss) - [OpenNvidia Could Become the AI Generation&apos;s WinTel](https://soylentnews.org/article.pl?sid=25/10/04/0327256&amp;from=rss)
 * [2025-10-04, 22:49:00](https://tech.slashdot.org/story/25/10/04/2210244/toyotas-ev-sales-plunged-in-september-after-recall-but-plans-improved-lineup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toyota&apos;s EV Sales Plunged in September After Recall, But Plans Improved Lineup](https://tech.slashdot.org/story/25/10/04/2210244/toyotas-ev-sales-plunged-in-september-after-recall-but-plans-improved-lineup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-04, 21:49:00](https://hardware.slashdot.org/story/25/10/04/2142243/microsofts-cto-hopes-to-swap-most-amd-and-nvidia-gpus-for-in-house-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s CTO Hopes to Swap Most AMD and NVIDIA GPUs for In-House Chips](https://hardware.slashdot.org/story/25/10/04/2142243/microsofts-cto-hopes-to-swap-most-amd-and-nvidia-gpus-for-in-house-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-04, 19:14:36](https://lobste.rs/s/rlencm/self_hosting_email_like_it_s_1984) - [Self-Hosting Email Like It’s 1984](https://maxadamski.com/blog/2025/10/email.html)
 * [2025-10-04, 18:41:04](https://lobste.rs/s/rhl369/retiring_test_ipv6_com) - [Retiring test-ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-04, 18:23:12](https://lobste.rs/s/6fhm1u/mac_like_experience_on_linux) - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
@@ -128,11 +146,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-03, 02:59:18](https://news.ycombinator.com/item?id=45458455) - [Which table format do LLMs understand best?](https://www.improvingagents.com/blog/best-input-data-format-for-llms)
 * [2025-10-02, 23:35:00](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss) - [Mix Insect, Plant and Cultivated Proteins for Healthier, Greener, Tastier Food, Say Experts](https://soylentnews.org/article.pl?sid=25/09/30/1336240&amp;from=rss)
 * [2025-10-02, 18:46:00](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss) - [Complex Knots Can Actually be Easier to Untie Than Simple Ones](https://soylentnews.org/article.pl?sid=25/09/30/1328225&amp;from=rss)
+* [2025-10-02, 17:28:21](https://news.ycombinator.com/item?id=45452721) - [The Internet Is Better on Comet](https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide)
 * [2025-10-02, 17:12:57](https://news.ycombinator.com/item?id=45452480) - [Comparing a RISC and a CISC with similar hardware organization (1991)](https://dl.acm.org/doi/pdf/10.1145/106972.107003)
 * [2025-10-02, 14:49:12](https://news.ycombinator.com/item?id=45450392) - [Intro to BirdNET-Pi: Eavesdropping on my feathered friends](https://hannahilea.com/blog/birdnet-intro/)
 * [2025-10-02, 14:03:00](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss) - [Huawei’s Ternary Logic Breakthrough: a Game-Changer or Just Hype?](https://soylentnews.org/article.pl?sid=25/09/30/1323239&amp;from=rss)
+* [2025-10-02, 12:25:41](https://news.ycombinator.com/item?id=45448747) - [Magic Wormhole: Get things from one computer to another, safely](https://magic-wormhole.readthedocs.io/en/latest/welcome.html)
 * [2025-10-02, 11:46:27](https://news.ycombinator.com/item?id=45448416) - [The G in GPU is for Graphics damnit](https://ut21.github.io/blog/triton.html)
-* [2025-10-02, 11:07:16](https://news.ycombinator.com/item?id=45448204) - [AMD&apos;s EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)
 * [2025-10-02, 09:16:00](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss) - [Experts Alarmed That AI is Now Producing Functional Viruses](https://soylentnews.org/article.pl?sid=25/09/30/1249215&amp;from=rss)
 * [2025-10-02, 07:50:36](https://news.ycombinator.com/item?id=45447226) - [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)
 * [2025-10-02, 04:31:00](https://soylentnews.org/article.pl?sid=25/09/30/0352206&amp;from=rss) - [Scientists Unlock Secret to Thick, Stable Beer Foams](https://soylentnews.org/article.pl?sid=25/09/30/0352206&amp;from=rss)
