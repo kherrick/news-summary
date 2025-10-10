@@ -1,54 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements
+## Scientific and Technological Innovations
 
-* [Firefox Feature Gets Special Mention In TIME's Best Inventions of 2025](https://news.slashdot.org/story/25/10/09/2110227/firefox-feature-gets-special-mention-in-times-best-inventions-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Scientists Seek To Turbocharge a Natural Process That Cools the Earth](https://news.slashdot.org/story/25/10/09/2212220/scientists-seek-to-turbocharge-a-natural-process-that-cools-the-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research aims to enhance Earth's natural cooling mechanisms through innovative scientific methods.
 
-* [Ubuntu 25.10 'Questing Quokka' Released](https://news.slashdot.org/story/25/10/09/2054218/ubuntu-2510-questing-quokka-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Human Skin Cells Turned Into Fertilisable Eggs for First Time](https://soylentnews.org/article.pl?sid=25/10/06/1325211&from=rss) - Groundbreaking advancement in medical science paves way for infertility treatments.
 
-* [Figure 03, our 3rd generation humanoid robot](https://www.figure.ai/news/introducing-figure-03)
+* [Ultra-Thin Sodium Films Offer Low-Cost Alternative to Gold and Silver in Optical Technologies](https://soylentnews.org/article.pl?sid=25/10/06/1314255&from=rss) - Discovery may innovate and lower costs in optical applications.
 
 ## Artificial Intelligence and Machine Learning
 
-* [Anthropic Says It's Trivially Easy To Poison LLMs Into Spitting Out Gibberish](https://slashdot.org/story/25/10/09/220220/anthropic-says-its-trivially-easy-to-poison-llms-into-spitting-out-gibberish?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent) - A community-driven exploration of agency in open-source AI systems.
 
-* [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+* [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving) - New methods to enhance the effectiveness of AI-driven development.
 
-* [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
+* [Anthropic Says It&apos;s Trivially Easy To Poison LLMs Into Spitting Out Gibberish](https://slashdot.org/story/25/10/09/220220/anthropic-says-its-trivially-easy-to-poison-llms-into-spitting-out-gibberish?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Study highlights vulnerabilities in large language models.
 
-## Global Policies and Corporate Strategies
+* [LLMs are mortally terrified of exceptions](https://twitter.com/karpathy/status/1976077806443569355) - Reveals inherent challenges and potential fear biases in complex models.
 
-* [China Expands Rare Earth Export Controls To Target Semiconductor, Defense Users](https://hardware.slashdot.org/story/25/10/09/2116246/china-expands-rare-earth-export-controls-to-target-semiconductor-defense-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cybersecurity and Privacy
 
-* [Apple and Google Reluctantly Comply With Texas Age Verification Law](https://tech.slashdot.org/story/25/10/09/2044214/apple-and-google-reluctantly-comply-with-texas-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Are VPNs Under Attack? an Anti-Censorship Group Speaks Out](https://soylentnews.org/article.pl?sid=25/10/07/2334243&from=rss) - Group raises concerns regarding increasing threats to VPN usage.
 
-* [GitHub Will Prioritize Migrating to Azure Over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
+* [New York City Sues Social Media Companies Over &apos;Youth Mental Health Crisis&apos;](https://yro.slashdot.org/story/25/10/09/2059232/new-york-city-sues-social-media-companies-over-youth-mental-health-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal action targets platforms allegedly linked to youth mental health issues.
 
-## Health and Science Innovations
+* [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) - Insightful discussion on shifting roles and identity of modern developers.
 
-* [He Was Expected To Get Alzheimer's 25 Years Ago. Why Hasn't He?](https://science.slashdot.org/story/25/10/09/1913200/he-was-expected-to-get-alzheimers-25-years-ago-why-hasnt-he?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Open Source Developments
 
-* [New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
+* [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock) - A new approach to efficient database replication.
 
-* [Human Skin Cells Turned Into Fertilisable Eggs for First Time](https://soylentnews.org/article.pl?sid=25/10/06/1325211&from=rss)
+* [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/) - Investigation unveils a critical memory leak in popular code editor.
 
-## Digital Tools and Open Source
+* [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/) - Plans to integrate AI into code contribution workflows.
 
-* [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp)
+## Global and Geopolitical Issues
 
-* [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
+* [China Expands Rare Earth Export Controls To Target Semiconductor, Defense Users](https://hardware.slashdot.org/story/25/10/09/2116246/china-expands-rare-earth-export-controls-to-target-semiconductor-defense-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Export restrictions impact global tech and defense industries.
 
-* [Show HN: I wrote a full text search engine in Go](https://github.com/wizenheimer/blaze)
+* [Earth&apos;s Crust is Tearing Apart Off the Pacific Northwest—and That&apos;s Not Necessarily Bad News](https://soylentnews.org/article.pl?sid=25/10/05/1935200&from=rss) - Study highlights geological changes with potential benefits.
 
-* [Introducing the React Foundation: The New Home for React & React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
-
-## Cultural and Ethical Discussions
-
-* [Code is Never Neutral: Why All Software is Political](https://www.youtube.com/watch?v=Kpfff6TS018)
-
-* [YouTube Opens 'Second Chance' Program To Creators Banned For Misinformation](https://news.slashdot.org/story/25/10/09/2048221/youtube-opens-second-chance-program-to-creators-banned-for-misinformation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
+* [Internet Archive Ordered To Block Books in Belgium After Talks With Publishers Fail](https://tech.slashdot.org/story/25/10/09/1811209/internet-archive-ordered-to-block-books-in-belgium-after-talks-with-publishers-fail?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Raises concerns over digital content accessibility.
 
 ---
 
@@ -75,16 +67,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-10, 03:30:00](https://news.slashdot.org/story/25/10/09/2212220/scientists-seek-to-turbocharge-a-natural-process-that-cools-the-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Seek To Turbocharge a Natural Process That Cools the Earth](https://news.slashdot.org/story/25/10/09/2212220/scientists-seek-to-turbocharge-a-natural-process-that-cools-the-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-10, 02:30:58](https://news.ycombinator.com/item?id=45534922) - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
+* [2025-10-10, 02:21:11](https://news.ycombinator.com/item?id=45534880) - [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
+* [2025-10-10, 02:21:00](https://soylentnews.org/article.pl?sid=25/10/07/2334243&amp;from=rss) - [Are VPNs Under Attack? an Anti-Censorship Group Speaks Out](https://soylentnews.org/article.pl?sid=25/10/07/2334243&amp;from=rss)
 * [2025-10-10, 02:02:00](https://slashdot.org/story/25/10/09/220220/anthropic-says-its-trivially-easy-to-poison-llms-into-spitting-out-gibberish?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Says It&apos;s Trivially Easy To Poison LLMs Into Spitting Out Gibberish](https://slashdot.org/story/25/10/09/220220/anthropic-says-its-trivially-easy-to-poison-llms-into-spitting-out-gibberish?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 01:25:00](https://hardware.slashdot.org/story/25/10/09/2116246/china-expands-rare-earth-export-controls-to-target-semiconductor-defense-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Expands Rare Earth Export Controls To Target Semiconductor, Defense Users](https://hardware.slashdot.org/story/25/10/09/2116246/china-expands-rare-earth-export-controls-to-target-semiconductor-defense-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 00:45:00](https://news.slashdot.org/story/25/10/09/2110227/firefox-feature-gets-special-mention-in-times-best-inventions-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Feature Gets Special Mention In TIME&apos;s Best Inventions of 2025](https://news.slashdot.org/story/25/10/09/2110227/firefox-feature-gets-special-mention-in-times-best-inventions-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 00:02:00](https://yro.slashdot.org/story/25/10/09/2059232/new-york-city-sues-social-media-companies-over-youth-mental-health-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York City Sues Social Media Companies Over &apos;Youth Mental Health Crisis&apos;](https://yro.slashdot.org/story/25/10/09/2059232/new-york-city-sues-social-media-companies-over-youth-mental-health-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-09, 23:54:31](https://news.ycombinator.com/item?id=45534227) - [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp)
 * [2025-10-09, 23:40:48](https://lobste.rs/s/4dzvlr/finding_vs_code_memory_leak) - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 * [2025-10-09, 23:20:00](https://news.slashdot.org/story/25/10/09/2054218/ubuntu-2510-questing-quokka-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubuntu 25.10 &apos;Questing Quokka&apos; Released](https://news.slashdot.org/story/25/10/09/2054218/ubuntu-2510-questing-quokka-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 23:01:09](https://lobste.rs/s/esvr7z/github_will_prioritize_migrating_azure) - [GitHub Will Prioritize Migrating to Azure Over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
-* [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform, the oldest writing system in the world](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-* [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+* [2025-10-09, 22:58:31](https://news.ycombinator.com/item?id=45533902) - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+* [2025-10-09, 22:53:39](https://news.ycombinator.com/item?id=45533870) - [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 * [2025-10-09, 22:40:00](https://news.slashdot.org/story/25/10/09/2048221/youtube-opens-second-chance-program-to-creators-banned-for-misinformation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Opens &apos;Second Chance&apos; Program To Creators Banned For Misinformation](https://news.slashdot.org/story/25/10/09/2048221/youtube-opens-second-chance-program-to-creators-banned-for-misinformation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 22:00:00](https://tech.slashdot.org/story/25/10/09/2044214/apple-and-google-reluctantly-comply-with-texas-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple and Google Reluctantly Comply With Texas Age Verification Law](https://tech.slashdot.org/story/25/10/09/2044214/apple-and-google-reluctantly-comply-with-texas-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 21:43:00](https://soylentnews.org/article.pl?sid=25/10/07/2330231&amp;from=rss) - [Here&apos;s the Real Reason Endurance Sank](https://soylentnews.org/article.pl?sid=25/10/07/2330231&amp;from=rss)
@@ -98,12 +93,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-09, 20:01:00](https://tech.slashdot.org/story/25/10/09/1850202/windows-product-activation-creator-reveals-truth-behind-xps-most-notorious-product-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows Product Activation Creator Reveals Truth Behind XP&apos;s Most Notorious Product Key](https://tech.slashdot.org/story/25/10/09/1850202/windows-product-activation-creator-reveals-truth-behind-xps-most-notorious-product-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 20:00:31](https://news.ycombinator.com/item?id=45532352) - [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
 * [2025-10-09, 19:46:25](https://lobste.rs/s/niramb/code_is_never_neutral_why_all_software_is) - [Code is Never Neutral: Why All Software is Political](https://www.youtube.com/watch?v=Kpfff6TS018)
+* [2025-10-09, 19:34:36](https://news.ycombinator.com/item?id=45532090) - [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-09, 19:22:00](https://tech.slashdot.org/story/25/10/09/1811209/internet-archive-ordered-to-block-books-in-belgium-after-talks-with-publishers-fail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Ordered To Block Books in Belgium After Talks With Publishers Fail](https://tech.slashdot.org/story/25/10/09/1811209/internet-archive-ordered-to-block-books-in-belgium-after-talks-with-publishers-fail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 19:03:43](https://news.ycombinator.com/item?id=45531721) - [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
 * [2025-10-09, 18:40:00](https://news.slashdot.org/story/25/10/09/185236/judge-dismisses-retail-groups-challenge-to-new-york-surveillance-pricing-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Dismisses Retail Group&apos;s Challenge To New York Surveillance Pricing Law](https://news.slashdot.org/story/25/10/09/185236/judge-dismisses-retail-groups-challenge-to-new-york-surveillance-pricing-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 18:33:17](https://news.ycombinator.com/item?id=45531367) - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
-* [2025-10-09, 18:25:49](https://news.ycombinator.com/item?id=45531284) - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
 * [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 18:01:00](https://slashdot.org/story/25/10/09/1753223/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel&apos;s Next-Generation Panther Lake Laptop Chips Could Be a Return To Form](https://slashdot.org/story/25/10/09/1753223/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 17:48:23](https://news.ycombinator.com/item?id=45530832) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
@@ -114,14 +109,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
 * [2025-10-09, 16:56:52](https://news.ycombinator.com/item?id=45530261) - [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux)
 * [2025-10-09, 16:55:00](https://soylentnews.org/article.pl?sid=25/10/07/2326258&amp;from=rss) - [Forensic Test Recovers Fingerprints From Fired Ammunition Casings Despite Intense Heat](https://soylentnews.org/article.pl?sid=25/10/07/2326258&amp;from=rss)
-* [2025-10-09, 16:41:00](https://entertainment.slashdot.org/story/25/10/09/157259/dc-comics-wont-support-generative-ai-not-now-not-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DC Comics Won&apos;t Support Generative AI: &apos;Not Now, Not Ever&apos;](https://entertainment.slashdot.org/story/25/10/09/157259/dc-comics-wont-support-generative-ai-not-now-not-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-09, 16:04:04](https://news.ycombinator.com/item?id=45529587) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 16:00:48](https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic) - [What is Algebraic about Algebraic Effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing_2023) - [Two Kinds of \&quot;Relicensing\&quot; (2023)](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
 * [2025-10-09, 15:51:20](https://news.ycombinator.com/item?id=45529393) - [Show HN: I&apos;ve built a tiny hand-held keyboard](https://github.com/mafik/keyer)
 * [2025-10-09, 15:40:05](https://lobste.rs/s/0j2e2w/write_stuff_concurrent_write) - [The Write Stuff: Concurrent Write Transactions in SQLite](https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/)
 * [2025-10-09, 15:05:09](https://lobste.rs/s/mczi9m/four_years_five_failures_one_compiler) - [Four years, Five failures, One compiler - The journey](https://daymare.net/blogs/four-years-five-failures-one-compiler/)
-* [2025-10-09, 14:36:52](https://news.ycombinator.com/item?id=45528308) - [New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer&apos;s in mice](https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/)
 * [2025-10-09, 14:35:18](https://lobste.rs/s/c3dnrm/how_store_ordered_information) - [How to store ordered information in a Relational Database (2015)](https://softwareengineering.stackexchange.com/questions/304593/how-to-store-ordered-information-in-a-relational-database)
 * [2025-10-09, 14:21:16](https://lobste.rs/s/83xufu/solving_git_s_pain_points_with_jujutsu) - [Solving Git&apos;s Pain Points with Jujutsu](https://www.youtube.com/watch?v=ulJ_Pw8qqsE)
 * [2025-10-09, 14:18:19](https://lobste.rs/s/digojk/intel_s_open_source_strategy_is_changing) - [Intel&apos;s Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source](https://www.phoronix.com/review/intel-open-source-2025)
@@ -158,10 +151,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-06, 13:15:00](https://news.ycombinator.com/item?id=45491057) - [A beginner&apos;s guide to deploying LLMs with AMD on Windows using PyTorch](https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/)
 * [2025-10-06, 12:59:00](https://soylentnews.org/article.pl?sid=25/10/05/0119224&amp;from=rss) - [JWST Finds an Exoplanet Around a Pulsar Whose Atmosphere is All Carbon](https://soylentnews.org/article.pl?sid=25/10/05/0119224&amp;from=rss)
 * [2025-10-06, 12:31:32](https://news.ycombinator.com/item?id=45490652) - [My first contribution to Linux](https://vkoskiv.com/first-linux-patch/)
-* [2025-10-06, 12:25:11](https://news.ycombinator.com/item?id=45490591) - [Show HN: Turn your OpenAPI spec into negative tests](https://github.com/dochia-dev/dochia-cli)
 * [2025-10-06, 12:05:20](https://news.ycombinator.com/item?id=45490461) - [How to Create an IoT App in Kotlin Multiplatform](https://www.thedroidsonroids.com/blog/how-to-create-an-iot-app-in-kotlin-multiplatform)
-* [2025-10-06, 11:57:33](https://news.ycombinator.com/item?id=45490403) - [A case for learning GPU programming with a compute-first mindset](https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/)
 * [2025-10-06, 10:40:28](https://news.ycombinator.com/item?id=45489884) - [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
+* [2025-10-06, 10:39:50](https://news.ycombinator.com/item?id=45489881) - [ScribeOCR – Web interface for recognizing text, OCR, &amp; creating digitized docs](https://github.com/scribeocr/scribeocr)
+* [2025-10-06, 10:14:02](https://news.ycombinator.com/item?id=45489727) - [The Power of Three: Ternary Logic, Triolectics, and Three Sided Football](https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football)
 * [2025-10-06, 09:06:12](https://news.ycombinator.com/item?id=45489311) - [Neutts-air – Open-source, on device TTS](https://github.com/neuphonic/neutts-air)
 * [2025-10-06, 08:13:00](https://soylentnews.org/article.pl?sid=25/10/05/0111221&amp;from=rss) - [How Can We Keep Livestock Safe as Wolves Return?](https://soylentnews.org/article.pl?sid=25/10/05/0111221&amp;from=rss)
 * [2025-10-06, 03:30:00](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss) - [Setting Bounds on SETI](https://soylentnews.org/article.pl?sid=25/10/05/012221&amp;from=rss)
