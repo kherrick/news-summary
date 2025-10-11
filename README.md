@@ -1,52 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Industry Impacts
+## Technology and Innovations
 
-* [Toyota Aims to Launch the 'World's First' All-Solid-State EV Batteries](https://hardware.slashdot.org/story/25/10/10/2127232/toyota-aims-to-launch-the-worlds-first-all-solid-state-ev-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025 Computer History Museum Interview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&amp;from=rss) - An insightful discussion with the co-creator of UNIX.
 
-* [Apple Nears Deal To Acquire Talent and Technology From Prompt AI](https://apple.slashdot.org/story/25/10/11/0045255/apple-nears-deal-to-acquire-talent-and-technology-from-prompt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/) - Exploring the challenges behind creating a standard solution for package management in software development.
 
-* [Bose SoundTouch Home Theater Systems Regress Into Dumb Speakers](https://entertainment.slashdot.org/story/25/10/11/005219/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/) - A major technological leap for gaming.
 
-* [Lyft Plans Fleet of Hundreds of Tensor Robocars From 2027](https://tech.slashdot.org/story/25/10/10/2110242/lyft-plans-fleet-of-hundreds-of-tensor-robocars-from-2027?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Toyota Aims to Launch the 'World's First' All-Solid-State EV Batteries](https://hardware.slashdot.org/story/25/10/10/2127232/toyota-aims-to-launch-the-worlds-first-all-solid-state-ev-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Toyota's innovation promises breakthroughs for electric vehicles.
 
-* [NSO To Be Acquired By US Investors, Ending Israeli Control of Pegasus Maker](https://yro.slashdot.org/story/25/10/10/1725247/nso-to-be-acquired-by-us-investors-ending-israeli-control-of-pegasus-maker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI and Data
 
-## Artificial Intelligence and Programming Insights
+* [Apple Nears Deal To Acquire Talent and Technology From Prompt AI](https://apple.slashdot.org/story/25/10/11/0045255/apple-nears-deal-to-acquire-talent-and-technology-from-prompt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple's strategic move in AI technology acquisition.
 
-* [Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming](https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/)
+* [Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming](https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/) - Overview of AI advancements and programming simplicity.
 
-* [The Great Software Quality Collapse: How We Normalized Catastrophe](https://soylentnews.org/article.pl?sid=25/10/10/110237&amp;from=rss)
+* [OpenAI, Sur Energy Weigh $25 Billion Argentina Data Center Project](https://slashdot.org/story/25/10/10/2115251/openai-sur-energy-weigh-25-billion-argentina-data-center-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI plans a significant infrastructure project.
 
-* [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
+## Cybersecurity Concerns
 
-* [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
+* [DDoS Botnet Aisuru Blankets US ISPs In Record DDoS](https://it.slashdot.org/story/25/10/10/2123234/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A record-breaking attack raises concerns for ISP security.
 
-## Environmental and Resource Challenges
+* [SonicWall Breach Exposes All Cloud Backup Customers' Firewall Configs](https://it.slashdot.org/story/25/10/10/2058250/sonicwall-breach-exposes-all-cloud-backup-customers-firewall-configs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SonicWall faces repercussions from a data breach.
 
-* [Australia's Queensland Reverses Policy, Pledges To Keep Using Coal Power At Least Into the 2040s](https://news.slashdot.org/story/25/10/10/1748253/australias-queensland-reverses-policy-pledges-to-keep-using-coal-power-at-least-into-the-2040s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Ecology and Sustainability
 
-* [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss)
+* [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss) - Exploring a sustainable innovation in materials science.
 
-* [Climate Goals Go Up in Smoke as US Datacenters Turn To Coal](https://news.slashdot.org/story/25/10/10/1514208/climate-goals-go-up-in-smoke-as-us-datacenters-turn-to-coal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Climate Goals Go Up in Smoke as US Datacenters Turn To Coal](https://news.slashdot.org/story/25/10/10/1514208/climate-goals-go-up-in-smoke-as-us-datacenters-turn-to-coal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Contrasting sustainability challenges in datacenter energy use.
 
-## Security and Privacy Concerns
+## Historical Insights
 
-* [SonicWall Breach Exposes All Cloud Backup Customers' Firewall Configs](https://it.slashdot.org/story/25/10/10/2058250/sonicwall-breach-exposes-all-cloud-backup-customers-firewall-configs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Transistor Was Patented 75 Years Ago Today](https://soylentnews.org/article.pl?sid=25/10/10/000255&amp;from=rss) - Celebrating a key innovation in electronics.
 
-* [DDoS Botnet Aisuru Blankets US ISPs In Record DDoS](https://it.slashdot.org/story/25/10/10/2123234/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Chrome Will Automatically Disable Web Notifications You Don't Care About](https://tech.slashdot.org/story/25/10/10/1732255/chrome-will-automatically-disable-web-notifications-you-dont-care-about?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Creative and Explorative Projects
-
-* [w11: PDP-11/70 CPU core and SoC](https://github.com/wfjm/w11)
-
-* [A story about bypassing Air Canada's in-flight network restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
-
-* [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-
-* [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
+* [The QNX Operating System: A Deep Dive Into the History of QNX!](https://soylentnews.org/article.pl?sid=25/10/06/1331238&amp;from=rss) - Exploring the legacy and influence of QNX in computing.
 
 ---
 
@@ -73,10 +61,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&amp;from=rss) - [2024 Computer History Museum Inteview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&amp;from=rss)
+* [2025-10-11, 06:21:18](https://news.ycombinator.com/item?id=45547058) - [You won&apos;t believe what degrading practice the pope just condemned](https://www.theguardian.com/australia-news/2025/oct/10/you-wont-believe-what-degrading-practice-the-pope-just-condemned)
+* [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
+* [2025-10-11, 04:36:16](https://news.ycombinator.com/item?id=45546593) - [AMD and Sony&apos;s PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
+* [2025-10-11, 04:31:15](https://news.ycombinator.com/item?id=45546575) - [What is going on with all this radioactive shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/)
+* [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 * [2025-10-11, 03:30:00](https://entertainment.slashdot.org/story/25/10/11/005219/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bose SoundTouch Home Theater Systems Regress Into Dumb Speakers](https://entertainment.slashdot.org/story/25/10/11/005219/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-11, 02:06:02](https://news.ycombinator.com/item?id=45545965) - [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/)
 * [2025-10-11, 02:02:00](https://apple.slashdot.org/story/25/10/11/0045255/apple-nears-deal-to-acquire-talent-and-technology-from-prompt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Nears Deal To Acquire Talent and Technology From Prompt AI](https://apple.slashdot.org/story/25/10/11/0045255/apple-nears-deal-to-acquire-talent-and-technology-from-prompt-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 02:01:00](https://soylentnews.org/article.pl?sid=25/10/10/110237&amp;from=rss) - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://soylentnews.org/article.pl?sid=25/10/10/110237&amp;from=rss)
-* [2025-10-11, 01:48:57](https://news.ycombinator.com/item?id=45545857) - [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
 * [2025-10-11, 01:25:00](https://slashdot.org/story/25/10/10/2132252/more-than-half-of-entrepreneurs-are-considering-moving-to-a-new-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than Half of Entrepreneurs Are Considering Moving to a New Country](https://slashdot.org/story/25/10/10/2132252/more-than-half-of-entrepreneurs-are-considering-moving-to-a-new-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 00:51:23](https://lobste.rs/s/dvfiby/w11_pdp_11_70_cpu_core_soc) - [w11: PDP-11/70 CPU core and SoC](https://github.com/wfjm/w11)
 * [2025-10-11, 00:45:00](https://hardware.slashdot.org/story/25/10/10/2127232/toyota-aims-to-launch-the-worlds-first-all-solid-state-ev-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toyota Aims to Launch the &apos;World&apos;s First&apos; All-Solid-State EV Batteries](https://hardware.slashdot.org/story/25/10/10/2127232/toyota-aims-to-launch-the-worlds-first-all-solid-state-ev-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -90,11 +84,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-10, 22:00:00](https://it.slashdot.org/story/25/10/10/2058250/sonicwall-breach-exposes-all-cloud-backup-customers-firewall-configs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SonicWall Breach Exposes All Cloud Backup Customers&apos; Firewall Configs](https://it.slashdot.org/story/25/10/10/2058250/sonicwall-breach-exposes-all-cloud-backup-customers-firewall-configs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 21:53:48](https://news.ycombinator.com/item?id=45544228) - [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
 * [2025-10-10, 21:40:09](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content) - [Why aren&apos;t we recording pre-AI content using a PoE (Proof of Existence) protocol?](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content)
-* [2025-10-10, 21:35:22](https://news.ycombinator.com/item?id=45544044) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-10, 21:22:00](https://it.slashdot.org/story/25/10/10/1754212/the-people-rescuing-forgotten-knowledge-trapped-on-old-floppy-disks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The People Rescuing Forgotten Knowledge Trapped On Old Floppy Disks](https://it.slashdot.org/story/25/10/10/1754212/the-people-rescuing-forgotten-knowledge-trapped-on-old-floppy-disks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 21:18:55](https://news.ycombinator.com/item?id=45543899) - [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
 * [2025-10-10, 21:14:00](https://soylentnews.org/article.pl?sid=25/10/10/1055230&amp;from=rss) - [Qualcomm Buys Arduino](https://soylentnews.org/article.pl?sid=25/10/10/1055230&amp;from=rss)
 * [2025-10-10, 21:09:44](https://news.ycombinator.com/item?id=45543811) - [How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
+* [2025-10-10, 21:02:41](https://lobste.rs/s/2a0qp0/illegible_nature_software_development) - [The illegible nature of software development talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 * [2025-10-10, 20:41:00](https://news.slashdot.org/story/25/10/10/1748253/australias-queensland-reverses-policy-pledges-to-keep-using-coal-power-at-least-into-the-2040s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia&apos;s Queensland Reverses Policy, Pledges To Keep Using Coal Power At Least Into the 2040s](https://news.slashdot.org/story/25/10/10/1748253/australias-queensland-reverses-policy-pledges-to-keep-using-coal-power-at-least-into-the-2040s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 20:34:19](https://news.ycombinator.com/item?id=45543475) - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [2025-10-10, 20:33:25](https://news.ycombinator.com/item?id=45543471) - [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
@@ -107,12 +101,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-10, 17:25:00](https://yro.slashdot.org/story/25/10/10/1725247/nso-to-be-acquired-by-us-investors-ending-israeli-control-of-pegasus-maker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NSO To Be Acquired By US Investors, Ending Israeli Control of Pegasus Maker](https://yro.slashdot.org/story/25/10/10/1725247/nso-to-be-acquired-by-us-investors-ending-israeli-control-of-pegasus-maker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-10, 16:31:00](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss) - [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss)
 * [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
-* [2025-10-10, 15:31:42](https://lobste.rs/s/ri7m8b/mesh_shaders_current_year) - [Mesh Shaders In The Current Year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 15:26:54](https://lobste.rs/s/gxtrdn/major_evolution_apple_security_bounty) - [A major evolution of Apple Security Bounty, with the industry&apos;s top awards for the most advanced research](https://security.apple.com/blog/apple-security-bounty-evolved/)
 * [2025-10-10, 15:20:04](https://lobste.rs/s/rahklm/notes_on_switching_helix_from_vim) - [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 * [2025-10-10, 15:11:04](https://news.ycombinator.com/item?id=45539943) - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
 * [2025-10-10, 15:05:20](https://lobste.rs/s/0ua1s5/retrospective_survey_2024_2025_open) - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
-* [2025-10-10, 14:37:31](https://news.ycombinator.com/item?id=45539609) - [Notes on switching to Helix from Vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 * [2025-10-10, 14:11:15](https://news.ycombinator.com/item?id=45539296) - [All-natural geoengineering with Frank Herbert&apos;s Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
 * [2025-10-10, 13:23:09](https://lobste.rs/s/wtmahb/year_gentoo) - [A Year of Gentoo](https://arch.dog/bark/year-of-gentoo)
 * [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
@@ -126,11 +118,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 09:01:54](https://news.ycombinator.com/item?id=45536694) - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
-* [2025-10-10, 08:59:05](https://lobste.rs/s/gid0gu/critical_window_shadow_libraries_2024) - [The critical window of shadow libraries (2024)](https://annas-archive.org/blog/critical-window.html)
 * [2025-10-10, 08:46:40](https://news.ycombinator.com/item?id=45536618) - [Datastar: Lightweight hypermedia framework for building interactive web apps](https://data-star.dev/)
-* [2025-10-10, 08:45:21](https://lobste.rs/s/izvb9b/multi_core_by_default) - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default)
-* [2025-10-10, 07:50:54](https://news.ycombinator.com/item?id=45536325) - [A story about bypassing air Canada&apos;s in-flight network restrictions](https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/)
-* [2025-10-10, 07:11:06](https://news.ycombinator.com/item?id=45536124) - [Multi-Core by Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 07:03:00](https://soylentnews.org/article.pl?sid=25/10/09/2356204&amp;from=rss) - [Windows 7 Usage Jumps as Users Refuse to Upgrade to Windows 11 in Wake of Windows 10 End of Support](https://soylentnews.org/article.pl?sid=25/10/09/2356204&amp;from=rss)
 * [2025-10-10, 05:28:08](https://lobste.rs/s/vlreib/is_odin_just_more_boring_c) - [Is Odin Just a More Boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
 * [2025-10-10, 05:27:58](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith) - [Lobsters Interview with Zdsmith](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith)
@@ -158,5 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-07, 19:34:40](https://news.ycombinator.com/item?id=45507753) - [ThalamusDB: Query text, tables, images, and audio](https://github.com/itrummer/thalamusdb)
 * [2025-10-07, 17:32:00](https://soylentnews.org/article.pl?sid=25/10/06/1143245&amp;from=rss) - [US-Made Leonidas Microwave Weapon Takes Down 49 Drones With a Single Blast](https://soylentnews.org/article.pl?sid=25/10/06/1143245&amp;from=rss)
 * [2025-10-07, 12:49:00](https://soylentnews.org/article.pl?sid=25/10/05/2320242&amp;from=rss) - [Twisted Graphene Reveals Double-Dome Superconductivity Controlled by Electric Field](https://soylentnews.org/article.pl?sid=25/10/05/2320242&amp;from=rss)
+* [2025-10-07, 11:56:52](https://news.ycombinator.com/item?id=45502044) - [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)
 * [2025-10-07, 07:58:00](https://soylentnews.org/article.pl?sid=25/10/05/201242&amp;from=rss) - [Harvard Researchers Develop First Ever Continuously Operating Quantum Computer](https://soylentnews.org/article.pl?sid=25/10/05/201242&amp;from=rss)
 * [2025-10-07, 03:16:00](https://soylentnews.org/article.pl?sid=25/10/05/1955231&amp;from=rss) - [Venture Capital Valuations of AI Startups Surge and Raise Fears of an AI Bubble Forming](https://soylentnews.org/article.pl?sid=25/10/05/1955231&amp;from=rss)
+* [2025-10-07, 00:46:57](https://news.ycombinator.com/item?id=45498109) - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
