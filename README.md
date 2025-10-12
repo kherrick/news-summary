@@ -1,32 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology Advancements and Discoveries
 
-* [Show HN: I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript) — [comments](https://news.ycombinator.com/item?id=45555523)
+* [“Like Putting on Glasses for the First Time”—How AI Improves Earthquake Detection](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss) - Explore how AI is revolutionizing seismic research by refining earthquake detection methods, akin to enhancing vision with corrective glasses.
 
-* [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101) — [comments](https://news.ycombinator.com/item?id=45558318)
+* [Three-Wheeled Solar Car Maker Aptera is About to Go Public](https://tech.slashdot.org/story/25/10/12/0237231/three-wheeled-solar-car-maker-aptera-is-about-to-go-public?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Aptera, the developer of innovative three-wheeled solar vehicles, is preparing for its public offering, promising significant advancements in sustainable transportation.
 
-* [fzf 0.66.0 introduces "--raw mode"](https://github.com/junegunn/fzf/releases/tag/v0.66.0) — [comments](https://lobste.rs/s/alkdsb/fzf_0_66_0_introduces_raw_mode)
+* [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/) - A detailed exploration of a new vulnerability in GitHub Copilot that allows attackers to execute remote code using crafted prompts.
 
-* [LineageOS 23 released](https://lineageos.org/Changelog-30/) — [comments](https://lobste.rs/s/iktkkz/lineageos_23_released)
+* [New Large Coral Reef Discovered Off Naples Containing Rare Ancient Corals](https://science.slashdot.org/story/25/10/11/2241202/new-large-coral-reef-discovered-off-naples-containing-rare-ancient-corals?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists uncover a rare coral reef near Naples harboring ancient corals, contributing crucial insights to marine conservation efforts.
 
-## Privacy and Security Concerns
+* [Macro Gaussian Splats](https://danybittel.ch/macro.html) - An intriguing explanation of efficient macro-scale algorithms for computer graphics and rendering tasks.
 
-* [Discord Customer Service Data Breached; Government-ID Images, and User Details Stolen](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss) — [comments](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong)
+## Privacy, Cryptography, and Cybersecurity
 
-* [California 'Privacy Protection Agency' Targets Tractor Supply's Tricky Tracking](https://yro.slashdot.org/story/25/10/11/0544209/california-privacy-protection-agency-targets-tractor-supplys-tricky-tracking) — [comments](https://news.ycombinator.com/item?id=45559023)
+* [Cryptologist DJB Alleges NSA is Pushing an End to Backup Algorithms for Post-Quantum Cryptography](https://it.slashdot.org/story/25/10/12/0751230/cryptologist-djb-alleges-nsa-is-pushing-an-end-to-backup-algorithms-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discover DJB's claims about the NSA's influence on post-quantum cryptographic practices and their push against algorithmic backups.
 
-## Scientific and Environmental Discoveries
+* [California 'Privacy Protection Agency' Targets Tractor Supply's Tricky Tracking](https://yro.slashdot.org/story/25/10/11/0544209/california-privacy-protection-agency-targets-tractor-supplys-tricky-tracking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Learn about California's scrutiny of retail tracking practices as part of an ongoing consumer data protection effort.
 
-* [Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients](https://www.researchsquare.com/article/rs-7483367/v1) — [comments](https://news.ycombinator.com/item?id=45557267)
+* [Discord Customer Service Data Breached; Government-ID Images, and User Details Stolen](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss) - Details emerge about a breach that compromised sensitive customer data, emphasizing the growing need for strengthened cybersecurity.
 
-* [New Large Coral Reef Discovered Off Naples Containing Rare Ancient Corals](https://science.slashdot.org/story/25/10/11/2241202/new-large-coral-reef-discovered-off-naples-containing-rare-ancient-corals) — [comments](https://soylentnews.org/article.pl?sid=25/10/11/2241202&from=rss)
+## Creative and Cultural Innovations
 
-## Artificial Intelligence Advancements
+* [Ferrari Announces Its First Electric Sports Car, Promising Real Engine Noises - Sort Of](https://tech.slashdot.org/story/25/10/12/0532223/ferrari-announces-its-first-electric-sports-car-promising-real-engine-noises---sort-of?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The luxury carmaker's new electric model will use sound engineering to replicate iconic engine noises.
 
-* [AI Slop? Not This Time. AI Tools Found 50 Real Bugs In cURL](https://developers.slashdot.org/story/25/10/12/0619247/ai-slop-not-this-time-ai-tools-found-50-real-bugs-in-curl?utm_source=rss1.0mainlinkanon&utm_medium=feed) — [comments](https://news.ycombinator.com/item?id=45558635)
+* [Ridley Scott's Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html) - A thought-provoking analysis of how Ridley Scott's films explore the eerie implications of evolving artificial intelligence.
 
-* [In Copilot In Excel Demo, AI Told Teacher a 27% Exam Score Is of No Concern](https://slashdot.org/story/25/10/12/0328228/in-copilot-in-excel-demo-ai-told-teacher-a-27-exam-score-is-of-no-concern?utm_source=rss1.0mainlinkanon&utm_medium=feed) — [comments](https://news.ycombinator.com/item?id=45553701)
+* [Death to Spotify Event Draws Interest From Some Musicians to Try Alternatives](https://entertainment.slashdot.org/story/25/10/12/1756208/death-to-spotify-event-draws-interest-from-some-musicians-to-try-alternatives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An event urging artists to consider alternatives to Spotify garners attention.
+
+## Software and Development Trends
+
+* [fzf 0.66.0 introduces “--raw mode”](https://github.com/junegunn/fzf/releases/tag/v0.66.0) - Updates to this fuzzy file finder include a new 'raw mode', enhancing its functionality.
+
+* [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/) - A comprehensive guide advocating for the switch to 'Jujutsu', a modern version control methodology.
+
+* [I made an esoteric programming language that's read like a spellbook](https://github.com/sirbread/spellscript) - A novel programming language concept designed to be read like a spellbook, inviting creative coding enthusiasts.
+
+## AI and Machine Learning
+
+* [Circular' AI Mega-Deals by AI and Hardware Giants are Raising Eyebrows](https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration of unusual mega-deals in AI that are catching the tech world's attention.
+
+* [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - A hands-on tutorial for shaping AI outputs effectively using prompt engineering.
+
+* [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas) - Introducing innovative systems to speed up large language model inference, resulting in quicker AI interactions.
 
 ---
 
@@ -53,22 +69,35 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
+* [2025-10-12, 18:02:59](https://lobste.rs/s/hy5a0e/satisfaction_render_pipelines) - [Satisfaction of Render Pipelines](https://azeemba.com/posts/satisfaction-of-render-pipelines.html)
+* [2025-10-12, 17:58:00](https://entertainment.slashdot.org/story/25/10/12/1756208/death-to-spotify-event-draws-interest-from-some-musicians-to-try-alternatives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Death to Spotify&apos; Event Draws Interest From Some Musicians to Try Alternatives](https://entertainment.slashdot.org/story/25/10/12/1756208/death-to-spotify-event-draws-interest-from-some-musicians-to-try-alternatives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-12, 17:52:27](https://news.ycombinator.com/item?id=45560218) - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
+* [2025-10-12, 17:30:48](https://news.ycombinator.com/item?id=45560036) - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
+* [2025-10-12, 17:23:41](https://news.ycombinator.com/item?id=45559977) - [Ridley Scott&apos;s Prometheus and Alien: Covenant – The Contemporary Horror of AI](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
+* [2025-10-12, 17:12:00](https://news.ycombinator.com/item?id=45559857) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
+* [2025-10-12, 17:11:42](https://news.ycombinator.com/item?id=45559852) - [&apos;Death to Spotify&apos;: the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
+* [2025-10-12, 17:03:09](https://lobste.rs/s/r3p9pm/from_source_sorcery_kotlin_native_s) - [From Source to Sorcery - Kotlin Native&apos;s Interop Magic](https://staticvar.dev/post/kotlin-native-c-interop/)
+* [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
+* [2025-10-12, 16:46:11](https://news.ycombinator.com/item?id=45559603) - [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/)
+* [2025-10-12, 16:34:00](https://tech.slashdot.org/story/25/10/12/0237231/three-wheeled-solar-car-maker-aptera-is-about-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Three-Wheeled Solar Car Maker Aptera is About to Go Public](https://tech.slashdot.org/story/25/10/12/0237231/three-wheeled-solar-car-maker-aptera-is-about-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-12, 16:22:42](https://lobste.rs/s/0entkb/introducing_oavif_faster_target_quality) - [Introducing oavif: faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
+* [2025-10-12, 16:15:45](https://news.ycombinator.com/item?id=45559305) - [Addictive-like behavioural traits in pet dogs with extreme motivation for toys](https://www.nature.com/articles/s41598-025-18636-0)
+* [2025-10-12, 16:05:00](https://soylentnews.org/article.pl?sid=25/10/11/148201&amp;from=rss) - [“Like Putting on Glasses for the First Time”—How AI Improves Earthquake Detection](https://soylentnews.org/article.pl?sid=25/10/11/148201&amp;from=rss)
+* [2025-10-12, 15:48:28](https://news.ycombinator.com/item?id=45559076) - [How I&apos;m Using Helix Editor](https://rushter.com/blog/helix-editor/)
 * [2025-10-12, 15:42:00](https://news.ycombinator.com/item?id=45559023) - [No I don&apos;t want to turn on Windows Backup with One Drive](https://idiallo.com/byte-size/say-no-to-onedrive-backup)
 * [2025-10-12, 15:34:00](https://developers.slashdot.org/story/25/10/12/0619247/ai-slop-not-this-time-ai-tools-found-50-real-bugs-in-curl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Slop? Not This Time. AI Tools Found 50 Real Bugs In cURL ](https://developers.slashdot.org/story/25/10/12/0619247/ai-slop-not-this-time-ai-tools-found-50-real-bugs-in-curl?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-12, 14:53:45](https://news.ycombinator.com/item?id=45558635) - [Germany&apos;s Schleswig-Holstein Completes Migration to Open Source Email](https://news.itsfoss.com/schleswig-holstein-email-system-migration/)
+* [2025-10-12, 14:49:50](https://news.ycombinator.com/item?id=45558611) - [Show HN: I built a simple ambient sound app with no ads or subscriptions](https://ambisounds.app/)
 * [2025-10-12, 14:43:09](https://lobste.rs/s/alkdsb/fzf_0_66_0_introduces_raw_mode) - [fzf 0.66.0 introduces “--raw mode”](https://github.com/junegunn/fzf/releases/tag/v0.66.0)
 * [2025-10-12, 14:34:00](https://yro.slashdot.org/story/25/10/11/0544209/california-privacy-protection-agency-targets-tractor-supplys-tricky-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California &apos;Privacy Protection Agency&apos; Targets Tractor Supply&apos;s Tricky Tracking](https://yro.slashdot.org/story/25/10/11/0544209/california-privacy-protection-agency-targets-tractor-supplys-tricky-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-12, 14:12:34](https://lobste.rs/s/2dhvwd/i_d_like_speak_bellcore_manager) - [I&apos;d like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
-* [2025-10-12, 14:07:13](https://news.ycombinator.com/item?id=45558318) - [Jeep pushed software update that bricked all 2024 Wrangler 4xe models](https://twitter.com/StephenGutowski/status/1977055831720862101)
-* [2025-10-12, 13:38:25](https://news.ycombinator.com/item?id=45558160) - [Extreme weather caused more than $100B in damage by June](https://www.livescience.com/planet-earth/climate-change/extreme-weather-caused-more-than-usd100-billion-in-damage-by-june-smashing-us-records)
 * [2025-10-12, 11:34:00](https://it.slashdot.org/story/25/10/12/0751230/cryptologist-djb-alleges-nsa-is-pushing-an-end-to-backup-algorithms-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cryptologist DJB Alleges NSA is Pushing an End to Backup Algorithms for Post-Quantum Cryptography](https://it.slashdot.org/story/25/10/12/0751230/cryptologist-djb-alleges-nsa-is-pushing-an-end-to-backup-algorithms-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-12, 11:20:00](https://soylentnews.org/article.pl?sid=25/10/11/143225&amp;from=rss) - [Starlink Burns Up One to Two Satellites a Day](https://soylentnews.org/article.pl?sid=25/10/11/143225&amp;from=rss)
-* [2025-10-12, 11:08:58](https://news.ycombinator.com/item?id=45557267) - [Quantification of fibrinaloid clots in plasma from pediatric Long COVID patients](https://www.researchsquare.com/article/rs-7483367/v1)
 * [2025-10-12, 10:20:52](https://lobste.rs/s/uxfzzv/reason_gcc_is_not_library_2000) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-12, 10:08:02](https://news.ycombinator.com/item?id=45556952) - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 * [2025-10-12, 09:53:29](https://lobste.rs/s/jd4tj8/my_django_on_med_2025) - [My Django On The Med 2025](https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/)
 * [2025-10-12, 09:24:43](https://news.ycombinator.com/item?id=45556763) - [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-* [2025-10-12, 09:21:29](https://news.ycombinator.com/item?id=45556741) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-12, 08:37:01](https://news.ycombinator.com/item?id=45556474) - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 * [2025-10-12, 08:33:21](https://lobste.rs/s/gocddb/switch_jujutsu_already_tutorial) - [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
 * [2025-10-12, 07:34:00](https://tech.slashdot.org/story/25/10/12/0532223/ferrari-announces-its-first-electric-sports-car-promising-real-engine-noises---sort-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ferrari Announces Its First Electric Sports Car, Promising Real Engine Noises - Sort Of](https://tech.slashdot.org/story/25/10/12/0532223/ferrari-announces-its-first-electric-sports-car-promising-real-engine-noises---sort-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -77,15 +106,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \&quot;formally verified\&quot; can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-12, 05:31:00](https://news.ycombinator.com/item?id=45555523) - [Show HN: I made an esoteric programming language that&apos;s read like a spellbook](https://github.com/sirbread/spellscript)
 * [2025-10-12, 04:46:57](https://news.ycombinator.com/item?id=45555308) - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
-* [2025-10-12, 03:41:29](https://news.ycombinator.com/item?id=45555012) - [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
 * [2025-10-12, 03:37:00](https://slashdot.org/story/25/10/12/0328228/in-copilot-in-excel-demo-ai-told-teacher-a-27-exam-score-is-of-no-concern?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In Copilot In Excel Demo, AI Told Teacher a 27% Exam Score Is of No Concern](https://slashdot.org/story/25/10/12/0328228/in-copilot-in-excel-demo-ai-told-teacher-a-27-exam-score-is-of-no-concern?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-12, 02:37:00](https://science.slashdot.org/story/25/10/11/2241202/new-large-coral-reef-discovered-off-naples-containing-rare-ancient-corals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Large Coral Reef Discovered Off Naples Containing Rare Ancient Corals](https://science.slashdot.org/story/25/10/11/2241202/new-large-coral-reef-discovered-off-naples-containing-rare-ancient-corals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-12, 01:47:00](https://soylentnews.org/article.pl?sid=25/10/11/1340244&amp;from=rss) - [Covert Eavesdropping Through Computer Mice - the \&quot;Mic-E-Mouse\&quot;](https://soylentnews.org/article.pl?sid=25/10/11/1340244&amp;from=rss)
 * [2025-10-12, 00:51:00](https://tech.slashdot.org/story/25/10/12/0048226/tron-ares-mode-turns-teslas-into-glowing-light-cycles-despite-bad-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Tron: Ares&apos; Mode Turns Teslas Into Glowing Light Cycles &amp;mdash; Despite Bad Box Office](https://tech.slashdot.org/story/25/10/12/0048226/tron-ares-mode-turns-teslas-into-glowing-light-cycles-despite-bad-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-12, 00:22:15](https://news.ycombinator.com/item?id=45553995) - [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
 * [2025-10-11, 23:54:00](https://lobste.rs/s/iktkkz/lineageos_23_released) - [LineageOS 23 released](https://lineageos.org/Changelog-30/)
 * [2025-10-11, 23:43:42](https://news.ycombinator.com/item?id=45553783) - [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-* [2025-10-11, 23:32:25](https://news.ycombinator.com/item?id=45553701) - [Paper2video: Automatic video generation from scientific papers](https://arxiv.org/abs/2510.05096)
 * [2025-10-11, 23:16:05](https://news.ycombinator.com/item?id=45553577) - [Meta Superintelligence&apos;s surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 * [2025-10-11, 22:59:00](https://linux.slashdot.org/story/25/10/11/2254200/german-state-of-schlesiwg-holstein-migrates-to-foss-groupware-next-up-linux-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [German State of Schlesiwg-Holstein Migrates To FOSS Groupware. Next Up: Linux OS](https://linux.slashdot.org/story/25/10/11/2254200/german-state-of-schlesiwg-holstein-migrates-to-foss-groupware-next-up-linux-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 22:58:30](https://news.ycombinator.com/item?id=45553422) - [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
@@ -97,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-11, 20:38:00](https://yro.slashdot.org/story/25/10/11/0513252/new-california-privacy-law-will-require-chromeedgesafari-to-offer-easy-opt-outs-for-data-sharing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New California Privacy Law Will Require Chrome/Edge/Safari to Offer Easy Opt-Outs for Data Sharing](https://yro.slashdot.org/story/25/10/11/0513252/new-california-privacy-law-will-require-chromeedgesafari-to-offer-easy-opt-outs-for-data-sharing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 19:41:27](https://news.ycombinator.com/item?id=45552049) - [A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS](https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/)
 * [2025-10-11, 19:38:00](https://slashdot.org/story/25/10/11/1936222/bitcoin-and-other-cryptocurrencies-had-double-digit-drops-friday-largest-liquidation-event-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin and Other Cryptocurrencies Had Double-Digit Drops Friday, Largest Liquidation Event Ever](https://slashdot.org/story/25/10/11/1936222/bitcoin-and-other-cryptocurrencies-had-double-digit-drops-friday-largest-liquidation-event-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-11, 18:36:51](https://news.ycombinator.com/item?id=45551504) - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
 * [2025-10-11, 18:34:00](https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Circular&apos; AI Mega-Deals by AI and Hardware Giants are Raising Eyebrows](https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 18:06:40](https://news.ycombinator.com/item?id=45551260) - [Anthropic&apos;s Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [2025-10-11, 17:34:00](https://news.slashdot.org/story/25/10/11/070237/i-tracked-amazons-prime-day-prices-weve-been-played?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;I Tracked Amazon&apos;s Prime Day Prices. We&apos;ve Been Played&apos;](https://news.slashdot.org/story/25/10/11/070237/i-tracked-amazons-prime-day-prices-weve-been-played?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,24 +130,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-11, 16:34:00](https://slashdot.org/story/25/10/11/0414243/is-openai-planning-to-turn-chatgpt-into-an-ad-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is OpenAI Planning to Turn ChatGPT Into an Ad Platform?](https://slashdot.org/story/25/10/11/0414243/is-openai-planning-to-turn-chatgpt-into-an-ad-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/10/2347235&amp;from=rss) - [MIT Rejects Trump&apos;s “Compact for Academic Excellence in Higher Education\&quot;](https://soylentnews.org/article.pl?sid=25/10/10/2347235&amp;from=rss)
-* [2025-10-11, 15:34:00](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s OneDrive Begins Testing Face-Recognizing AI for Photos (for Some Preview Users)](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [2025-10-11, 14:34:00](https://yro.slashdot.org/story/25/10/11/0621234/chatgpt-iphone-history-found-for-uber-driver-charged-with-starting-californias-palisades-fire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT, iPhone History Found for Uber Driver Charged With Starting California&apos;s Palisades Fire ](https://yro.slashdot.org/story/25/10/11/0621234/chatgpt-iphone-history-found-for-uber-driver-charged-with-starting-californias-palisades-fire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-11, 11:28:00](https://soylentnews.org/article.pl?sid=25/10/10/1114256&amp;from=rss) - [Baseload Power is Functionally Extinct](https://soylentnews.org/article.pl?sid=25/10/10/1114256&amp;from=rss)
-* [2025-10-11, 10:00:51](https://lobste.rs/s/9xnt9k/eon_effects_based_ocaml_nameserver) - [Eon -  an Effects-based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
-* [2025-10-11, 08:05:45](https://lobste.rs/s/uljytl/debdroid_debian_on_android_v1_1) - [DebDroid - Debian on Android (v1.1)](https://github.com/NICUP14/DebDroid)
-* [2025-10-11, 06:59:16](https://lobste.rs/s/fuzdrf/ocaml_5_4_release_new_features_fixes_more) - [OCaml 5.4 Release: New Features, Fixes, and More](https://tarides.com/blog/2025-10-10-ocaml-5-4-release-new-features-fixes-and-more/)
 * [2025-10-11, 06:42:00](https://soylentnews.org/article.pl?sid=25/10/10/113245&amp;from=rss) - [2024 Computer History Museum Interview With Ken Thompson](https://soylentnews.org/article.pl?sid=25/10/10/113245&amp;from=rss)
-* [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 * [2025-10-11, 02:01:00](https://soylentnews.org/article.pl?sid=25/10/10/110237&amp;from=rss) - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://soylentnews.org/article.pl?sid=25/10/10/110237&amp;from=rss)
 * [2025-10-10, 21:14:00](https://soylentnews.org/article.pl?sid=25/10/10/1055230&amp;from=rss) - [Qualcomm Buys Arduino](https://soylentnews.org/article.pl?sid=25/10/10/1055230&amp;from=rss)
 * [2025-10-10, 16:31:00](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss) - [Ocean CO2 Becomes Sustainable Plastic, Thanks to Modified Microbes](https://soylentnews.org/article.pl?sid=25/10/10/003237&amp;from=rss)
-* [2025-10-10, 15:20:04](https://lobste.rs/s/rahklm/notes_on_switching_helix_from_vim) - [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
 * [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-10, 11:47:00](https://soylentnews.org/article.pl?sid=25/10/10/000255&amp;from=rss) - [The Transistor Was Patented 75 Years Ago Today](https://soylentnews.org/article.pl?sid=25/10/10/000255&amp;from=rss)
 * [2025-10-10, 11:11:00](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&amp;from=rss) - [Nobel Prizes 2025 - Venezuelan Opposition Leader María Corina Machado Awarded Peace Prize](https://soylentnews.org/breakingnews/article.pl?sid=25/10/10/1053212&amp;from=rss)
@@ -137,7 +155,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-09, 02:41:00](https://soylentnews.org/article.pl?sid=25/10/06/1325211&amp;from=rss) - [Human Skin Cells Turned Into Fertilisable Eggs for First Time](https://soylentnews.org/article.pl?sid=25/10/06/1325211&amp;from=rss)
 * [2025-10-08, 22:59:09](https://news.ycombinator.com/item?id=45521584) - [C++ Reflection and Qt MOC](https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc)
 * [2025-10-08, 21:58:00](https://soylentnews.org/article.pl?sid=25/10/06/1313245&amp;from=rss) - [Google Clarifies That Owners Will Still Be Able To Sideload Unverified Apps](https://soylentnews.org/article.pl?sid=25/10/06/1313245&amp;from=rss)
-* [2025-10-08, 20:58:37](https://news.ycombinator.com/item?id=45520585) - [Show HN: A Lisp Interpreter for Shell Scripting](https://github.com/gue-ni/redstart)
+* [2025-10-08, 18:48:11](https://news.ycombinator.com/item?id=45519310) - [I have a GPS bike computer](https://utcc.utoronto.ca/~cks/space/blog/tech/WhyIHaveGPSBikeComputer)
 * [2025-10-08, 17:14:00](https://soylentnews.org/article.pl?sid=25/10/06/1314255&amp;from=rss) - [Ultra-Thin Sodium Films Offer Low-Cost Alternative to Gold and Silver in Optical Technologies](https://soylentnews.org/article.pl?sid=25/10/06/1314255&amp;from=rss)
 * [2025-10-08, 12:31:00](https://soylentnews.org/article.pl?sid=25/10/06/1158252&amp;from=rss) - [Apple Removes ICE Tracking Apps After Pressure by Trump Administration](https://soylentnews.org/article.pl?sid=25/10/06/1158252&amp;from=rss)
 * [2025-10-08, 07:44:00](https://soylentnews.org/article.pl?sid=25/10/05/2326245&amp;from=rss) - [First Dark Matter Sub-Halo Found in the Milky Way](https://soylentnews.org/article.pl?sid=25/10/05/2326245&amp;from=rss)
