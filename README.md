@@ -1,64 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Cybersecurity, Privacy, and Risks
 
-* [Google Announces $15 Billion Investment In AI Hub In India](https://news.slashdot.org/story/25/10/14/2112250/google-announces-15-billion-investment-in-ai-hub-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Pixnapping Attack](https://www.pixnapping.com/) - Detailed exploration of a new 'Pixnapping' cybersecurity threat. [Comments](https://news.ycombinator.com/item?id=45588594)
 
-* [Salesforce Says AI Customer Service Saves $100 Million Annually](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [DOJ Seizes $15 Billion In Bitcoin From Massive 'Pig Butchering' Scam Based In Cambodia](https://slashdot.org/story/25/10/14/2248208/doj-seizes-15-billion-in-bitcoin-from-massive-pig-butchering-scam-based-in-cambodia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into the U.S. Department of Justice's recovery of substantial sums from a cryptocurrency fraud ring. [Comments](https://news.ycombinator.com/item?id=45580981)
 
-* [DirecTV Will Soon Bring AI Ads To Your Screensaver](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Discord Customer Service Data Breached; Government-ID Images, and User Details Stolen](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss) - Investigation into the Discord data breach affecting countless users.
 
-* [Indonesia's Film Industry Embraces AI To Make Hollywood-style Movies For Cheap](https://entertainment.slashdot.org/story/25/10/14/1536226/indonesias-film-industry-embraces-ai-to-make-hollywood-style-movies-for-cheap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Artificial Intelligence and Computing
 
-* [Generative AI Systems Miss Vast Bodies of Human Knowledge, Study Finds](https://slashdot.org/story/25/10/14/155258/generative-ai-systems-miss-vast-bodies-of-human-knowledge-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Google Announces $15 Billion Investment In AI Hub In India](https://news.slashdot.org/story/25/10/14/2112250/google-announces-15-billion-investment-in-ai-hub-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google outlines ambitious plans to advance AI development in India. [Comments](https://news.ycombinator.com/item?id=45586776)
 
-## Cybersecurity and Privacy
+* [Generative AI Systems Miss Vast Bodies of Human Knowledge, Study Finds](https://slashdot.org/story/25/10/14/155258/generative-ai-systems-miss-vast-bodies-of-human-knowledge-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis reveals significant gaps in generative AI systems' repositories. [Comments](https://news.ycombinator.com/item?id=45583574)
 
-* [Secure Boot Bypass Risk Threatens Nearly 200,000 Linux Framework Laptops](https://it.slashdot.org/story/25/10/14/2123205/secure-boot-bypass-risk-threatens-nearly-200000-linux-framework-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Why AI Sounds Biased: Accents Captured in Cluster](https://accent-explorer.boldvoice.com/) - Visualization exposing how AI systems differentiate and process accents.
 
-* [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
+## Software and Development Innovations
 
-* [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+* [FSF announces Librephone project](https://www.fsf.org/news/librephone-project) - The Free Software Foundation's venture into creating a fully open-source mobile phone. [Comments](https://news.ycombinator.com/item?id=45586339)
 
-* [ADS-B Exposed](https://adsb.exposed/)
+* [binmoji: A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji) - Introduction to a novel method of encoding emojis efficiently. [Comments](https://lobste.rs/s/p6yk6b/binmoji_compact_lossless_64_bit_emoji)
 
-* [Discord Customer Service Data Breached; Government-ID Images, and User Details Stolen](https://soylentnews.org/article.pl?sid=25/10/11/1348219&from=rss)
+* [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/) - Innovative tool to improve the precision and safety of git merges.
 
-## Scientific Discoveries and Developments
+## Astronomy and Natural Sciences
 
-* [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
+* [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&from=rss) - Explaining complex cosmology behind the phenomena of galaxies traveling faster than light. [Comments](https://soylentnews.org/article.pl?sid=25/10/13/0325250&from=rss)
 
-* [The World is Producing More Food Crops Than Ever Before](https://news.slashdot.org/story/25/10/14/1525220/the-world-is-producing-more-food-crops-than-ever-before?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x) - Discoveries in deep space that challenge prior astrophysical models. [Comments](https://news.ycombinator.com/item?id=45580699)
 
-* [Like Putting on Glasses for the First Time—How AI Improves Earthquake Detection](https://soylentnews.org/article.pl?sid=25/10/11/148201&from=rss)
+## Historical and Cultural Tech Preservation
 
-* [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss)
+* [Save Our Signs Preservation Project Launches Archive of 10,000 National Park Signs](https://tech.slashdot.org/story/25/10/14/2240240/save-our-signs-preservation-project-launches-archive-of-10000-national-park-signs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A project to digitally archive and preserve iconic national park signs. [Comments](https://news.ycombinator.com/item?id=45583574)
 
-* [Here's How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&from=rss)
-
-## Economic and Business Insights
-
-* [California Cracks Down on 'Predatory' Early Cancellation Fees](https://slashdot.org/story/25/10/14/176237/california-cracks-down-on-predatory-early-cancellation-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Preparing for AI's economic impact: exploring policy responses](https://www.anthropic.com/research/economic-policy-responses)
-
-* [The Real (Economic) AI Apocalypse is Nigh](https://soylentnews.org/article.pl?sid=25/10/10/2354242&from=rss)
-
-* [MIT Rejects Trump's “Compact for Academic Excellence in Higher Education" ](https://soylentnews.org/article.pl?sid=25/10/10/2347235&from=rss)
-
-* [Why your boss isn't worried about AI - "can't you just turn it off?"](https://boydkane.com/essays/boss)
-
-## Notable Milestones and Anniversaries
-
-* [Windows 10 Support 'Ends' Today](https://tech.slashdot.org/story/25/10/14/2043238/windows-10-support-ends-today?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
-
-* [Ally Petitt: Youngest OSCP at 16yo. Over 11 CVEs by 18](https://ally-petitt.com/en/posts/2024-05-07_how-i-became-a-hacker-before-i-finished-high-school/)
-
-* [Google Announces $15 Billion Investment In AI Hub In India](https://news.slashdot.org/story/25/10/14/2112250/google-announces-15-billion-investment-in-ai-hub-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&from=rss)
+* [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&from=rss) - An effort to salvage valuable digital history from obsolete technology. [Comments](https://news.ycombinator.com/item?id=45578383)
 
 ---
 
@@ -85,22 +61,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-15, 06:05:51](https://news.ycombinator.com/item?id=45588594) - [Pixnapping Attack](https://www.pixnapping.com/)
+* [2025-10-15, 05:51:00](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss) - [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss)
+* [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
+* [2025-10-15, 05:09:44](https://news.ycombinator.com/item?id=45588283) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
+* [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-15, 03:30:00](https://tech.slashdot.org/story/25/10/14/2240240/save-our-signs-preservation-project-launches-archive-of-10000-national-park-signs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Save Our Signs&apos; Preservation Project Launches Archive of 10,000 National Park Signs](https://tech.slashdot.org/story/25/10/14/2240240/save-our-signs-preservation-project-launches-archive-of-10000-national-park-signs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-15, 02:20:00](https://lobste.rs/s/dnf353/from_linearity_borrowing) - [From Linearity to Borrowing](https://dl.acm.org/doi/abs/10.1145/3764117)
-* [2025-10-15, 02:10:08](https://lobste.rs/s/b0rv69/measuring_cache_performance_perf_2018) - [Measuring cache performance + perf (2018)](https://josephmuia.ca/2018-09-04-measuring-cache-performance-perf/)
-* [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
+* [2025-10-15, 02:13:58](https://lobste.rs/s/zmysvd/old_is_gold_optimizing_single_threaded) - [Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc](https://arxiv.org/pdf/2510.10219)
+* [2025-10-15, 02:04:26](https://news.ycombinator.com/item?id=45587289) - [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 * [2025-10-15, 02:02:32](https://news.ycombinator.com/item?id=45587280) - [Disk Prices](https://diskprices.com/?locale=us)
 * [2025-10-15, 02:02:00](https://slashdot.org/story/25/10/14/2248208/doj-seizes-15-billion-in-bitcoin-from-massive-pig-butchering-scam-based-in-cambodia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOJ Seizes $15 Billion In Bitcoin From Massive &apos;Pig Butchering&apos; Scam Based In Cambodia](https://slashdot.org/story/25/10/14/2248208/doj-seizes-15-billion-in-bitcoin-from-massive-pig-butchering-scam-based-in-cambodia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-15, 02:01:34](https://lobste.rs/s/bhakna/can_we_know_whether_profiler_is_accurate) - [Can We Know Whether a Profiler is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
-* [2025-10-15, 01:29:39](https://news.ycombinator.com/item?id=45587072) - [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
 * [2025-10-15, 01:25:00](https://it.slashdot.org/story/25/10/14/2123205/secure-boot-bypass-risk-threatens-nearly-200000-linux-framework-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Secure Boot Bypass Risk Threatens Nearly 200,000 Linux Framework Laptops](https://it.slashdot.org/story/25/10/14/2123205/secure-boot-bypass-risk-threatens-nearly-200000-linux-framework-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-15, 01:10:50](https://news.ycombinator.com/item?id=45586962) - [New England&apos;s last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
 * [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss)
 * [2025-10-15, 00:49:25](https://news.ycombinator.com/item?id=45586776) - [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/)
 * [2025-10-15, 00:45:00](https://linux.slashdot.org/story/25/10/14/2115252/nordvpn-embraces-open-source-by-releasing-its-linux-gui-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NordVPN Embraces Open Source By Releasing Its Linux GUI On GitHub](https://linux.slashdot.org/story/25/10/14/2115252/nordvpn-embraces-open-source-by-releasing-its-linux-gui-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-15, 00:07:29](https://lobste.rs/s/p6yk6b/binmoji_compact_lossless_64_bit_emoji) - [binmoji: a compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 * [2025-10-15, 00:02:00](https://news.slashdot.org/story/25/10/14/2112250/google-announces-15-billion-investment-in-ai-hub-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Announces $15 Billion Investment In AI Hub In India](https://news.slashdot.org/story/25/10/14/2112250/google-announces-15-billion-investment-in-ai-hub-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-14, 23:57:59](https://news.ycombinator.com/item?id=45586423) - [Ally Petitt: Youngest OSCP at 16yo. Over 11 CVEs by 18](https://ally-petitt.com/en/posts/2024-05-07_how-i-became-a-hacker-before-i-finished-high-school/)
 * [2025-10-14, 23:47:08](https://news.ycombinator.com/item?id=45586339) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-14, 23:20:00](https://yro.slashdot.org/story/25/10/14/2054250/are-ai-agents-compromised-by-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are AI Agents Compromised By Design?](https://yro.slashdot.org/story/25/10/14/2054250/are-ai-agents-compromised-by-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-14, 22:56:17](https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
@@ -111,9 +89,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-14, 21:21:00](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Salesforce Says AI Customer Service Saves $100 Million Annually](https://slashdot.org/story/25/10/14/1925230/salesforce-says-ai-customer-service-saves-100-million-annually?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-14, 20:41:00](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DirecTV Will Soon Bring AI Ads To Your Screensaver](https://entertainment.slashdot.org/story/25/10/14/1323222/directv-will-soon-bring-ai-ads-to-your-screensaver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-14, 20:36:01](https://news.ycombinator.com/item?id=45584498) - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+* [2025-10-14, 20:32:32](https://news.ycombinator.com/item?id=45584464) - [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 * [2025-10-14, 20:20:00](https://soylentnews.org/article.pl?sid=25/10/13/0325250&amp;from=rss) - [A Unique Case of a Woman With Male Chromosomes in Her Blood](https://soylentnews.org/article.pl?sid=25/10/13/0325250&amp;from=rss)
 * [2025-10-14, 20:17:44](https://news.ycombinator.com/item?id=45584281) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
-* [2025-10-14, 20:13:53](https://news.ycombinator.com/item?id=45584226) - [AppLovin nonconsensual installs](https://www.benedelman.org/applovin-nonconsensual-installs/)
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem_2014) - [The DHH Problem (2014)](https://tomstu.art/the-dhh-problem)
 * [2025-10-14, 20:01:00](https://yro.slashdot.org/story/25/10/14/1542245/lawyer-caught-using-ai-while-explaining-to-court-why-he-used-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawyer Caught Using AI While Explaining to Court Why He Used AI](https://yro.slashdot.org/story/25/10/14/1542245/lawyer-caught-using-ai-while-explaining-to-court-why-he-used-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-14, 19:27:41](https://news.ycombinator.com/item?id=45583787) - [How to turn liquid glass into a solid interface](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
@@ -135,17 +113,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-14, 16:35:53](https://lobste.rs/s/q54lep/don_t_look_up_there_are_sensitive_internal) - [Don&apos;t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 16:07:37](https://news.ycombinator.com/item?id=45581735) - [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
+* [2025-10-14, 15:34:51](https://news.ycombinator.com/item?id=45581288) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:34:00](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss) - [OpenAI and AMD Announce Multibillion-Dollar Partnership](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
-* [2025-10-14, 15:14:31](https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching) - [Practical Hurdles In Crab Latching Concurrency](https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/)
 * [2025-10-14, 15:11:18](https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy) - [nanochat: The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+* [2025-10-14, 15:08:38](https://news.ycombinator.com/item?id=45580981) - [DOJ seizes $15B in Bitcoin from &apos;pig butchering&apos; scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
 * [2025-10-14, 14:49:56](https://news.ycombinator.com/item?id=45580771) - [Show HN: Metorial (YC F25) – Vercel for MCP](https://github.com/metorial/metorial)
 * [2025-10-14, 14:45:02](https://news.ycombinator.com/item?id=45580699) - [Astronomers &apos;image&apos; a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
 * [2025-10-14, 14:33:35](https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking) - [Drawing Text Isn&apos;t Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
 * [2025-10-14, 13:24:52](https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s) - [Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
-* [2025-10-14, 11:01:43](https://news.ycombinator.com/item?id=45578540) - [Zoo of array languages](https://ktye.github.io/)
 * [2025-10-14, 10:51:00](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss) - [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss)
 * [2025-10-14, 10:38:48](https://news.ycombinator.com/item?id=45578383) - [ADS-B Exposed](https://adsb.exposed/)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
@@ -153,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-14, 06:11:00](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss) - [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss)
 * [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss) - [When the US Gov&apos;t Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss)
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&amp;from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&amp;from=rss)
-* [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&amp;from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts &apos;Very Concerned&apos;](https://soylentnews.org/article.pl?sid=25/10/12/1437218&amp;from=rss)
 * [2025-10-13, 11:12:00](https://soylentnews.org/article.pl?sid=25/10/12/1414249&amp;from=rss) - [Here&apos;s How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&amp;from=rss)
 * [2025-10-13, 06:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1411214&amp;from=rss) - [Companies Are Making the Same Mistake With AI That Tesla Made With Robots](https://soylentnews.org/article.pl?sid=25/10/12/1411214&amp;from=rss)
