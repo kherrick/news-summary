@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Software Developments
 
-* [Google DeepMind Partners With Fusion Startup](https://hardware.slashdot.org/story/25/10/16/2048225/google-deepmind-partners-with-fusion-startup?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Breakthroughs in energy technology as DeepMind collaborates with a fusion startup.
+* [Wabi – Personal Software Platform](https://wabi.ai/) - Wabi emerges as a transformative personal software platform, reshaping how users interact with technology. [Comments](https://news.ycombinator.com/item?id=45613781)
 
-* [Miami Is Testing a Self-Driving Police Car That Can Launch Drones](https://tech.slashdot.org/story/25/10/16/2120245/miami-is-testing-a-self-driving-police-car-that-can-launch-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovation in policing with autonomous cars equipped with drone capabilities.
+* [OCaml Platform Roadmap (2023)](https://ocaml.org/tools/platform-roadmap) - A detailed plan for the future of the OCaml platform and its tools. [Comments](https://lobste.rs/s/rppbwz/ocaml_platform_roadmap_2023)
 
-* [Spotify Says It&apos;s Working With Labels On &apos;Responsible&apos; AI Music Tools](https://entertainment.slashdot.org/story/25/10/16/2237225/spotify-says-its-working-with-labels-on-responsible-ai-music-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI in music gains traction as Spotify explores responsible tools with labels.
+* [Meow.camera](https://meow.camera/) - Discover the simplicity and creativity of a unique camera tool. [Comments](https://news.ycombinator.com/item?id=45613047)
 
-## Cultural and Scientific Impacts
+* [Automerge](https://automerge.org/) - Exploring this framework for building collaborative applications. [Comments](https://lobste.rs/s/jbd5a9/automerge)
 
-* [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&from=rss) - Dramatic drone usage highlights growing security and cultural tensions.
+* [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/) - Release highlights and exciting updates to the Elixir programming language. [Comments](https://news.ycombinator.com/item?id=45602428)
 
-* [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids) - Study unveils possible environmental impacts on ancient hominid development.
+* [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/) - Discover a new way to combine Flask and HTMX efficiently. [Comments](https://news.ycombinator.com/item?id=45604673)
 
-* [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss) - Insights into how rituals and substances like Ayahuasca impact perceptions of mortality.
+## Artificial Intelligence and Future Tech
 
-## Corporate and Economic Developments
+* [Spotify Says It&apos;s Working With Labels On &apos;Responsible&apos; AI Music Tools](https://entertainment.slashdot.org/story/25/10/16/2237225/spotify-says-its-working-with-labels-on-responsible-ai-music-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Spotify explores tools for ethical AI-based music production. [Comments](https://entertainment.slashdot.org/story/25/10/16/2237225/spotify-says-its-working-with-labels-on-responsible-ai-music-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Video Game Union Workers Rally Against $55 Billion Saudi-Backed Private Acquisition of EA](https://games.slashdot.org/story/25/10/16/2145217/video-game-union-workers-rally-against-55-billion-saudi-backed-private-acquisition-of-ea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unionized workers protest industry consolidation efforts backed by foreign investments.
+* [Logitech Open To Adding an AI Agent To Board of Directors, CEO Says](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold vision of integrating AI in executive decision-making at Logitech. [Comments](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Logitech Open To Adding an AI Agent To Board of Directors, CEO Says](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI's growing role in corporate governance as Logitech explores unique leadership frameworks.
+* [Claude Skills](https://www.anthropic.com/news/skills) - Insights into the roles and functionalities of Claude AI models. [Comments](https://news.ycombinator.com/item?id=45607117)
 
-* [Sony Tells SCOTUS That People Accused of Piracy Aren&apos;t &apos;Innocent Grandmothers&apos;](https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal battles around piracy and broader corporate policymaking highlight contentious debates.
+## Innovation in Energy and the Environment
 
-## Emerging Tools and Frameworks
+* [Video Game Union Workers Rally Against $55 Billion Saudi-Backed Private Acquisition of EA](https://games.slashdot.org/story/25/10/16/2145217/video-game-union-workers-rally-against-55-billion-saudi-backed-private-acquisition-of-ea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring resistance to geopolitical investments. [Comments](https://games.slashdot.org/story/25/10/16/2145217/video-game-union-workers-rally-against-55-billion-saudi-backed-private-acquisition-of-ea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/) - Exploring scalability and performance advancements in Kubernetes.
+* [Fossil Fuels To Dominate Global Energy Use Past 2050, McKinsey Says](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A grim forecast of the energy sector's future. [Comments](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Automerge](https://automerge.org/) - Open-source innovations focused on collaborative and distributed systems.
+* [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss) - Innovating food production through sustainable methods. [Comments](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss)
 
-* [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/) - A modern web framework that expands functionality and front-end integration.
+## Health and Society Explorations
 
-## Environmental and Health Discoveries
+* [How I Reversed Amazon&apos;s Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/) - A detailed experience in understanding DRM and usability constraints. [Comments](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web)
 
-* [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/) - Revolutionary medical technology utilizing electricity for accelerated healing.
+* [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/) - Advancing medical treatment with electrical currents. [Comments](https://news.ycombinator.com/item?id=45604779)
 
-* [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss) - Biodiversity concerns rise as honeybees fall into endangered status.
+## Society and Ethical Debates
 
-* [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss) - Sustainable innovation taps into plant-based nutritional resources.
+* [Open Source GZDoom Community Splinters After Creator Inserts AI-Generated Code](https://games.slashdot.org/story/25/10/16/2041249/open-source-gzdoom-community-splinters-after-creator-inserts-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining the ethical use of AI in open-source software. [Comments](https://games.slashdot.org/story/25/10/16/2041249/open-source-gzdoom-community-splinters-after-creator-inserts-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Sony Tells SCOTUS That People Accused of Piracy Aren&apos;t &apos;Innocent Grandmothers&apos;](https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Sony's argument regarding piracy and its socio-economic implications. [Comments](https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -65,13 +67,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-17, 06:15:22](https://news.ycombinator.com/item?id=45613781) - [Wabi – Personal Software Platform](https://wabi.ai/)
+* [2025-10-17, 05:28:24](https://news.ycombinator.com/item?id=45613567) - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
+* [2025-10-17, 05:21:38](https://lobste.rs/s/rppbwz/ocaml_platform_roadmap_2023) - [OCaml Platform Roadmap (2023)](https://ocaml.org/tools/platform-roadmap)
+* [2025-10-17, 05:16:00](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss) - [Elon Musk Plans to Take on Wikipedia With &apos;Grokipedia&apos;](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss)
 * [2025-10-17, 03:30:00](https://news.slashdot.org/story/25/10/16/2255204/new-itvx-channel-streams-absolutely-spellbinding-footage-of-earth-forever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New ITVX Channel Streams Absolutely Spellbinding Footage of Earth... Forever](https://news.slashdot.org/story/25/10/16/2255204/new-itvx-channel-streams-absolutely-spellbinding-footage-of-earth-forever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-17, 03:27:24](https://news.ycombinator.com/item?id=45613047) - [Meow.camera](https://meow.camera/)
+* [2025-10-17, 03:13:00](https://news.ycombinator.com/item?id=45612987) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon&apos;s Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-17, 01:30:00](https://entertainment.slashdot.org/story/25/10/16/2237225/spotify-says-its-working-with-labels-on-responsible-ai-music-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spotify Says It&apos;s Working With Labels On &apos;Responsible&apos; AI Music Tools](https://entertainment.slashdot.org/story/25/10/16/2237225/spotify-says-its-working-with-labels-on-responsible-ai-music-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 00:50:00](https://games.slashdot.org/story/25/10/16/2145217/video-game-union-workers-rally-against-55-billion-saudi-backed-private-acquisition-of-ea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Video Game Union Workers Rally Against $55 Billion Saudi-Backed Private Acquisition of EA](https://games.slashdot.org/story/25/10/16/2145217/video-game-union-workers-rally-against-55-billion-saudi-backed-private-acquisition-of-ea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 00:30:00](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss) - [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss)
 * [2025-10-17, 00:10:00](https://tech.slashdot.org/story/25/10/16/2120245/miami-is-testing-a-self-driving-police-car-that-can-launch-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Miami Is Testing a Self-Driving Police Car That Can Launch Drones](https://tech.slashdot.org/story/25/10/16/2120245/miami-is-testing-a-self-driving-police-car-that-can-launch-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-16, 23:30:36](https://news.ycombinator.com/item?id=45611912) - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
 * [2025-10-16, 23:30:00](https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Tells SCOTUS That People Accused of Piracy Aren&apos;t &apos;Innocent Grandmothers&apos;](https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-16, 23:20:16](https://news.ycombinator.com/item?id=45611851) - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 * [2025-10-16, 23:17:57](https://lobste.rs/s/b7v9b3/speculations_on_arenas_non_trivial) - [Speculations on arenas and non-trivial destructors](https://nullprogram.com/blog/2025/10/16/)
@@ -83,7 +90,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 21:36:43](https://news.ycombinator.com/item?id=45610996) - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 * [2025-10-16, 21:30:00](https://games.slashdot.org/story/25/10/16/2041249/open-source-gzdoom-community-splinters-after-creator-inserts-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Open Source GZDoom Community Splinters After Creator Inserts AI-Generated Code](https://games.slashdot.org/story/25/10/16/2041249/open-source-gzdoom-community-splinters-after-creator-inserts-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-16, 21:02:11](https://news.ycombinator.com/item?id=45610620) - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 * [2025-10-16, 20:51:27](https://news.ycombinator.com/item?id=45610523) - [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
 * [2025-10-16, 20:51:00](https://yro.slashdot.org/story/25/10/16/1934236/chinese-criminals-made-more-than-1-billion-from-those-annoying-texts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Criminals Made More Than $1 Billion From Those Annoying Texts](https://yro.slashdot.org/story/25/10/16/1934236/chinese-criminals-made-more-than-1-billion-from-those-annoying-texts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon&apos;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
@@ -95,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 19:00:46](https://lobste.rs/s/pxyzvh/introduction_multisets) - [An Introduction to Multisets](https://arxiv.org/abs/2110.12902)
 * [2025-10-16, 18:50:00](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fossil Fuels To Dominate Global Energy Use Past 2050, McKinsey Says](https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-16, 18:35:08](https://lobste.rs/s/7tioqn/systems_software_large) - [Systems Software in the Large](https://oxide.computer/blog/systems-software-in-the-large)
-* [2025-10-16, 18:22:08](https://news.ycombinator.com/item?id=45608887) - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2025-10-16, 18:10:00](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Logitech Open To Adding an AI Agent To Board of Directors, CEO Says](https://slashdot.org/story/25/10/16/1725256/logitech-open-to-adding-an-ai-agent-to-board-of-directors-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-16, 17:47:19](https://news.ycombinator.com/item?id=45608456) - [Talent](https://www.felixstocker.com/blog/talent)
 * [2025-10-16, 17:30:00](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IMF Warns About Soaring Global Government Debt](https://news.slashdot.org/story/25/10/16/1716226/imf-warns-about-soaring-global-government-debt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 14:04:18](https://news.ycombinator.com/item?id=45605501) - [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://about.doordash.com/en-us/news/waymo)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
 * [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
-* [2025-10-16, 13:33:45](https://news.ycombinator.com/item?id=45605153) - [Lace: A New Kind of Cellular Automata Where Links Matter](https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata)
 * [2025-10-16, 12:59:08](https://news.ycombinator.com/item?id=45604779) - [Electricity can heal wounds three times as fast (2023)](https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/)
 * [2025-10-16, 12:50:08](https://news.ycombinator.com/item?id=45604700) - [Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually](https://github.com/inkeep/agents)
 * [2025-10-16, 12:46:28](https://news.ycombinator.com/item?id=45604673) - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
@@ -129,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 00:54:00](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss) - [97% of Companies Struggle to Prove AI&apos;s ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss)
 * [2025-10-15, 20:03:00](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss) - [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
-* [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
 * [2025-10-15, 10:35:00](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss) - [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss)
@@ -145,6 +148,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-13, 20:41:00](https://soylentnews.org/article.pl?sid=25/10/12/1442253&amp;from=rss) - [What Past Education Tech Failures Can Teach Us About the Future of AI in Schools](https://soylentnews.org/article.pl?sid=25/10/12/1442253&amp;from=rss)
 * [2025-10-13, 15:58:00](https://soylentnews.org/article.pl?sid=25/10/12/1437218&amp;from=rss) - [Nuclear Bombs on Drones: The Next Arms Race That Has Experts &apos;Very Concerned&apos;](https://soylentnews.org/article.pl?sid=25/10/12/1437218&amp;from=rss)
 * [2025-10-13, 11:12:00](https://soylentnews.org/article.pl?sid=25/10/12/1414249&amp;from=rss) - [Here&apos;s How to See Two Newly Discovered Comets This Month](https://soylentnews.org/article.pl?sid=25/10/12/1414249&amp;from=rss)
+* [2025-10-13, 08:10:22](https://news.ycombinator.com/item?id=45565977) - [Create a Custom Interactive dashboard using SVG](https://0xmm.in/posts/custom_dash/)
 * [2025-10-13, 06:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1411214&amp;from=rss) - [Companies Are Making the Same Mistake With AI That Tesla Made With Robots](https://soylentnews.org/article.pl?sid=25/10/12/1411214&amp;from=rss)
 * [2025-10-13, 01:39:00](https://soylentnews.org/article.pl?sid=25/10/12/141230&amp;from=rss) - [Using a Litter Box to Determine a Cat&apos;s Health](https://soylentnews.org/article.pl?sid=25/10/12/141230&amp;from=rss)
 * [2025-10-13, 00:48:25](https://news.ycombinator.com/item?id=45563576) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
