@@ -1,42 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technological Advancements
+## Advancements in Technology
 
-* [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/) ([comments](https://news.ycombinator.com/item?id=45628186))
+* [Perplexity's AI Browser 'Comet' is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Comments: [Perplexity's AI Browser 'Comet'](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Reddit Mod Warns 'Do Not Trust' AI-Powered 'Reddit Answers' After It Posts Dangerous Health Advice](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry) - Comments: [Flowistry Discussion](https://github.com/willcrichton/flowistry)
 
-* [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html) - Comments: [TXR Optimization Insights](https://lobste.rs/s/ecnszh/txr_bytecode_optimization_case_study)
 
-## Cybersecurity and Privacy
+## AI and Its Implications
 
-* [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss))
+* [AI-Generated Lesson Plans Fall Short On Inspiring Students, Promoting Critical Thinking](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Comments: [AI Lesson Plans](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Prosper Data Breach Impacts 17.6 Million Accounts](https://yro.slashdot.org/story/25/10/17/2322217/prosper-data-breach-impacts-176-million-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/10/17/2322217/prosper-data-breach-impacts-176-million-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) - Comments: [AI Perspectives](https://lobste.rs/s/jba7se/majority_ai_view)
 
-* [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/12/1454236&from=rss))
+## Scientific Innovations
 
-## Scientific Discoveries and Engineering Innovations
+* [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Comments: [Carbon-Absorbing Bridge](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss))
+* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - Comments: [On-Demand Crystal Growth](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
 
-* [Why Signal's Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/1538252&from=rss))
+## Security and Vulnerabilities
 
-* [First Device Based on 'Optical Thermodynamics' Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss))
+* [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://news.slashdot.org/story/25/10/18/023257/wikipedia-volunteers-avert-tragedy-by-taking-down-gunman-at-conference?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Comments: [Wikipedia Action](https://news.slashdot.org/story/25/10/18/023257/wikipedia-volunteers-avert-tragedy-by-taking-down-gunman-at-conference?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Programming Tools and Development
+* [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Comments: [Zendesk Vulnerability](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry) ([comments](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on))
+## Environmental Developments
 
-* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) ([comments](https://news.ycombinator.com/item?id=45627324))
+* [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1) - Comments: [Amyloid-β Study](https://news.ycombinator.com/item?id=45628022)
 
-* [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and) ([comments](https://news.ycombinator.com/item?id=45626910))
-
-## Science and Nature
-
-* [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss))
-
-* [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/0122209&from=rss))
+* [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss) - Comments: [EU Honeybee Conservation](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss)
 
 ---
 
@@ -63,9 +57,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-18, 15:39:29](https://news.ycombinator.com/item?id=45628186) - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+* [2025-10-18, 18:34:00](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity&apos;s AI Browser &apos;Comet&apos; is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 17:34:00](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 17:02:22](https://news.ycombinator.com/item?id=45628761) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
+* [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
+* [2025-10-18, 16:34:00](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;How We Sharpened the James Webb Telescope&apos;s Vision From a Million Kilometers Away&apos;](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 16:25:58](https://news.ycombinator.com/item?id=45628499) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
+* [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+* [2025-10-18, 15:59:58](https://news.ycombinator.com/item?id=45628348) - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
+* [2025-10-18, 15:56:22](https://news.ycombinator.com/item?id=45628315) - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+* [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
+* [2025-10-18, 15:39:47](https://news.ycombinator.com/item?id=45628190) - [Attention Is a Luxury Good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
 * [2025-10-18, 15:34:00](https://tech.slashdot.org/story/25/10/18/0623211/are-parts-of-the-world-retreating-on-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Parts of the World Retreating on Electric Vehicles?](https://tech.slashdot.org/story/25/10/18/0623211/are-parts-of-the-world-retreating-on-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 15:14:58](https://news.ycombinator.com/item?id=45628022) - [Rapid amyloid-β clearance and cognitive recovery by modulating BBB transport](https://www.nature.com/articles/s41392-025-02426-1)
 * [2025-10-18, 14:34:00](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reddit Mod Warns &apos;Do Not Trust&apos; AI-Powered &apos;Reddit Answers&apos; After It Posts Dangerous Health Advice](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss) - [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss)
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
@@ -75,9 +81,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-18, 13:00:00](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 12:56:50](https://news.ycombinator.com/item?id=45626985) - [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
 * [2025-10-18, 12:53:32](https://news.ycombinator.com/item?id=45626961) - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
-* [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+* [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [The IDEs we had 30 years ago ... and we lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
-* [2025-10-18, 11:39:59](https://news.ycombinator.com/item?id=45626549) - [MD RAID or DRBD can be broken from userspace when using O_DIRECT](https://bugzilla.kernel.org/show_bug.cgi?id=99171)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18&apos;s new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 10:00:00](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Samsung Report Underwhelming Sales of Their New Thin Smartphones](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -107,26 +112,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-17, 23:20:00](https://apple.slashdot.org/story/25/10/17/2044221/apple-inks-750-million-for-us-formula-1-streaming-coverage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Inks $750 Million For US Formula 1 Streaming Coverage](https://apple.slashdot.org/story/25/10/17/2044221/apple-inks-750-million-for-us-formula-1-streaming-coverage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 22:40:00](https://yro.slashdot.org/story/25/10/17/2039246/amazons-ring-partners-with-flock-a-network-of-ai-cameras-used-by-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Ring Partners With Flock, a Network of AI Cameras Used By Police](https://yro.slashdot.org/story/25/10/17/2039246/amazons-ring-partners-with-flock-a-network-of-ai-cameras-used-by-police?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
-* [2025-10-17, 22:00:00](https://yro.slashdot.org/story/25/10/17/2032236/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Big Tech Sues Texas, Says Age-Verification Law Is &apos;Broad Censorship Regime&apos;](https://yro.slashdot.org/story/25/10/17/2032236/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-17, 21:57:44](https://news.ycombinator.com/item?id=45622604) - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [2025-10-17, 21:34:37](https://news.ycombinator.com/item?id=45622365) - [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
-* [2025-10-17, 21:20:00](https://tech.slashdot.org/story/25/10/17/1948248/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Plug-in Hybrids Pollute Almost As Much As Petrol Cars, Report Finds](https://tech.slashdot.org/story/25/10/17/1948248/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)
-* [2025-10-17, 20:41:00](https://yro.slashdot.org/story/25/10/17/1944222/salesforce-sued-by-authors-over-ai-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Salesforce Sued By Authors Over AI Software](https://yro.slashdot.org/story/25/10/17/1944222/salesforce-sued-by-authors-over-ai-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
-* [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 14:48:00](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss) - [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
 * [2025-10-17, 12:23:01](https://news.ycombinator.com/item?id=45615931) - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
-* [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss)
-* [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
-* [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A &apos;Job Interview&apos;](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:06:59](https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-17, 05:16:00](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss) - [Elon Musk Plans to Take on Wikipedia With &apos;Grokipedia&apos;](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss)
@@ -140,15 +137,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 00:54:00](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss) - [97% of Companies Struggle to Prove AI&apos;s ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss)
 * [2025-10-15, 20:03:00](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss) - [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss)
 * [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss)
-* [2025-10-15, 14:40:42](https://news.ycombinator.com/item?id=45593358) - [Exploring PostgreSQL 18&apos;s new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-15, 10:35:00](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss) - [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss)
 * [2025-10-15, 05:51:00](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss) - [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss)
 * [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss)
 * [2025-10-14, 20:20:00](https://soylentnews.org/article.pl?sid=25/10/13/0325250&amp;from=rss) - [A Unique Case of a Woman With Male Chromosomes in Her Blood](https://soylentnews.org/article.pl?sid=25/10/13/0325250&amp;from=rss)
 * [2025-10-14, 15:58:27](https://news.ycombinator.com/item?id=45581602) - [Ruby Blocks](https://tech.stonecharioteer.com/posts/2025/ruby-blocks/)
 * [2025-10-14, 15:34:00](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss) - [OpenAI and AMD Announce Multibillion-Dollar Partnership](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss)
-* [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 10:51:00](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss) - [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss)
+* [2025-10-14, 06:23:47](https://news.ycombinator.com/item?id=45576857) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-14, 06:11:00](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss) - [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss)
-* [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss) - [When the US Gov&apos;t Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss)
