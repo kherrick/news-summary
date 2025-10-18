@@ -1,36 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Advancements
+## Advancements in Technology and Systems
 
-* [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4) ([comments](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai)) explores OpenAI's innovative strategies to optimize PostgreSQL for handling massive datasets.
+* [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A vulnerability in Zendesk's authentication has allowed email bombs to disrupt users.
 
-* [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) ([comments](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp)) delves into the transformative capabilities of Claude Skills in AI efficiency.
+* [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html) - A method for calculating distances to cubic Bezier curves has been optimized on the GPU.
 
-* [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1) ([comments](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal)) highlights improved network connectivity through enhanced NAT traversal methods.
+* [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect) - Open-source enthusiasts can now explore the Behringer protocol, paving the way for new audio solutions.
 
-## Scientific Innovations and Discoveries
+* [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A mysterious signal emitted from SpaceX's classified satellite network sparks curiosity.
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)) describes breakthroughs in material science using advanced laser techniques.
+* [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html) - Dive into optimizations for the TXR bytecode.
 
-* [Intercellular communication in the brain through a dendritic nanotubular network](https://www.science.org/doi/10.1126/science.adr7403) ([comments](https://news.ycombinator.com/item?id=45617819)) unveils a novel mechanism for brain cell communication, expanding understanding of neural networks.
+* [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1) - An in-depth look at Tailscale's advances in improving NAT traversal.
 
-## Security and Privacy
+* [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix) - A review of AMD's groundbreaking chiplet APU technology with Strix Halo.
 
-* [Prosper Data Breach Impacts 17.6 Million Accounts](https://yro.slashdot.org/story/25/10/17/2322217/prosper-data-breach-impacts-176-million-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/10/17/2322217/prosper-data-breach-impacts-176-million-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) highlights a major cybersecurity incident affecting millions of users.
+* [ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar) - Discover ServiceRadar, an open-source observability tool.
 
-* [Salesforce Sued By Authors Over AI Software](https://yro.slashdot.org/story/25/10/17/1944222/salesforce-sued-by-authors-over-ai-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/10/17/1944222/salesforce-sued-by-authors-over-ai-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) investigates ongoing conflicts between creatives and corporate use of AI tools.
+* [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&from=rss) - Explore the impact of science and capitalism on accelerated human development.
 
-## Space and Energy
+## Cybersecurity and Privacy
 
-* [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) discusses mysterious signals from SpaceX's satellite network.
+* [Prosper Data Breach Impacts 17.6 Million Accounts](https://yro.slashdot.org/story/25/10/17/2322217/prosper-data-breach-impacts-176-million-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Security breach at Prosper affects millions of users.
 
-* [US Hyperscalers To Consume 22% More Grid Power By End of 2025](https://hardware.slashdot.org/story/25/10/17/2051238/us-hyperscalers-to-consume-22-more-grid-power-by-end-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/17/2051238/us-hyperscalers-to-consume-22-more-grid-power-by-end-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) reveals the increasing energy demands of major tech companies.
+* [Amazon's Ring Partners With Flock, a Network of AI Cameras Used By Police](https://yro.slashdot.org/story/25/10/17/2039246/amazons-ring-partners-with-flock-a-network-of-ai-cameras-used-by-police?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon's Ring collaborates with Flock, bringing AI cameras into law enforcement.
 
-## Social and Policy Impact
+* [Why Signal's Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&from=rss) - Post-quantum cryptography is bolstering encryption for future challenges.
 
-* [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://news.slashdot.org/story/25/10/18/023257/wikipedia-volunteers-avert-tragedy-by-taking-down-gunman-at-conference?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/10/18/023257/wikipedia-volunteers-avert-tragedy-by-taking-down-gunman-at-conference?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) highlights heroic efforts by Wikipedia volunteers during a crisis.
+## Sustainability and Environmental Impact
 
-* [Big Tech Sues Texas, Says Age-Verification Law Is 'Broad Censorship Regime'](https://yro.slashdot.org/story/25/10/17/2032236/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/10/17/2032236/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) explores the tension between tech giants and state policy.
+* [Plug-in Hybrids Pollute Almost As Much As Petrol Cars, Report Finds](https://tech.slashdot.org/story/25/10/17/1948248/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research challenges the environmental benefits of plug-in hybrid vehicles.
+
+* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss) - Innovative use of lasers and nanoparticles in material sciences.
+
+* [US Hyperscalers To Consume 22% More Grid Power By End of 2025](https://hardware.slashdot.org/story/25/10/17/2051238/us-hyperscalers-to-consume-22-more-grid-power-by-end-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns arise around increasing energy demand by major data centers.
+
+## Artificial Intelligence and Automation
+
+* [AI-Generated Lesson Plans Fall Short On Inspiring Students, Promoting Critical Thinking](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI fails to produce lesson plans that engage or inspire critical thought.
+
+* [Global Investors Position India as Anti-AI Play](https://slashdot.org/story/25/10/17/197245/global-investors-position-india-as-anti-ai-play?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A discussion on India's growing opposition to AI progression.
+
+* [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/) - A unique approach to constructing software agents using ephemeral code.
+
+## Innovations in Science and Exploration
+
+* [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&from=rss) - Promising developments in utilizing plant waste for sustainable protein sources.
+
+* [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss) - Recent discoveries about an unusual interstellar object.
 
 ---
 
@@ -57,16 +75,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-18, 13:00:00](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 12:08:20](https://news.ycombinator.com/item?id=45626691) - [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+* [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
+* [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
+* [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18&apos;s new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
+* [2025-10-18, 10:00:00](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Samsung Report Underwhelming Sales of Their New Thin Smartphones](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
+* [2025-10-18, 09:25:30](https://news.ycombinator.com/item?id=45626037) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 07:00:00](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-18, 06:16:03](https://lobste.rs/s/ecnszh/txr_bytecode_optimization_case_study) - [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html)
 * [2025-10-18, 05:52:47](https://news.ycombinator.com/item?id=45625251) - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
-* [2025-10-18, 05:31:34](https://lobste.rs/s/axiye4/reap_one_shot_pruning_for_trillion) - [REAP: One-Shot Pruning for Trillion-Parameter Mixture-of-Experts Models](https://www.cerebras.ai/blog/reap)
 * [2025-10-18, 05:18:20](https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method) - [Unix Executable as Smalltalk Method](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
+* [2025-10-18, 04:55:16](https://news.ycombinator.com/item?id=45625018) - [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD&apos;s Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 * [2025-10-18, 03:30:00](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Generated Lesson Plans Fall Short On Inspiring Students, Promoting Critical Thinking](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -93,16 +119,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
 * [2025-10-17, 19:20:00](https://slashdot.org/story/25/10/17/197245/global-investors-position-india-as-anti-ai-play?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global Investors Position India as Anti-AI Play](https://slashdot.org/story/25/10/17/197245/global-investors-position-india-as-anti-ai-play?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 19:03:21](https://news.ycombinator.com/item?id=45620653) - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
-* [2025-10-17, 18:40:00](https://slashdot.org/story/25/10/17/1741256/creator-of-infamous-ai-painting-tells-court-hes-a-real-artist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Creator of Infamous AI Painting Tells Court He&apos;s a Real Artist](https://slashdot.org/story/25/10/17/1741256/creator-of-infamous-ai-painting-tells-court-hes-a-real-artist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-17, 18:01:00](https://hardware.slashdot.org/story/25/10/17/1711228/12-years-of-hdd-analysis-brings-insight-to-the-bathtub-curves-reliability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [12 Years of HDD Analysis Brings Insight To the Bathtub Curve&apos;s Reliability](https://hardware.slashdot.org/story/25/10/17/1711228/12-years-of-hdd-analysis-brings-insight-to-the-bathtub-curves-reliability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:40:21](https://news.ycombinator.com/item?id=45619537) - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:24:18](https://news.ycombinator.com/item?id=45619329) - [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
 * [2025-10-17, 16:40:02](https://news.ycombinator.com/item?id=45618790) - [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 16:06:52](https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003) - [Exceptions vs. status returns (2003)](https://nedbatchelder.com/text/exceptions-vs-status.html)
-* [2025-10-17, 15:22:29](https://news.ycombinator.com/item?id=45617819) - [Intercellular communication in the brain through a dendritic nanotubular network](https://www.science.org/doi/10.1126/science.adr7403)
-* [2025-10-17, 15:17:21](https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built) - [Bundler 2.6: Enhanced Security with Built-in Checksum Verification](https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/)
 * [2025-10-17, 14:48:00](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss) - [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
@@ -110,18 +132,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
 * [2025-10-17, 10:56:40](https://news.ycombinator.com/item?id=45615237) - [EVs are depreciating faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss)
-* [2025-10-17, 09:15:25](https://news.ycombinator.com/item?id=45614713) - [Amazon’s Ring to partner with Flock](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 * [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
 * [2025-10-17, 07:31:58](https://news.ycombinator.com/item?id=45614148) - [4Chan Lawyer publishes Ofcom correspondence](https://alecmuffett.com/article/117792)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A &apos;Job Interview&apos;](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:06:59](https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
-* [2025-10-17, 05:21:38](https://lobste.rs/s/rppbwz/ocaml_platform_roadmap_2023) - [OCaml Platform Roadmap (2023)](https://ocaml.org/tools/platform-roadmap)
 * [2025-10-17, 05:16:00](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss) - [Elon Musk Plans to Take on Wikipedia With &apos;Grokipedia&apos;](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss)
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon&apos;s Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-17, 00:30:00](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss) - [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss)
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
 * [2025-10-16, 20:26:35](https://news.ycombinator.com/item?id=45610266) - [Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments](https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit)
-* [2025-10-16, 20:22:48](https://news.ycombinator.com/item?id=45610226) - [How I bypassed Amazon&apos;s Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 19:48:00](https://soylentnews.org/article.pl?sid=25/10/15/0422232&amp;from=rss) - [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&amp;from=rss)
 * [2025-10-16, 15:03:00](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss) - [New Method is the Fastest Way to Find the Best Routes](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
@@ -139,7 +158,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-14, 15:34:00](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss) - [OpenAI and AMD Announce Multibillion-Dollar Partnership](https://soylentnews.org/article.pl?sid=25/10/13/0319211&amp;from=rss)
 * [2025-10-14, 14:20:13](https://news.ycombinator.com/item?id=45580347) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-14, 10:51:00](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss) - [Cambridge University to Rescue Data Trapped on Old Floppy Disks](https://soylentnews.org/article.pl?sid=25/10/13/0313201&amp;from=rss)
-* [2025-10-14, 08:01:44](https://news.ycombinator.com/item?id=45577377) - [What&apos;s the Deal with GitHub Spec Kit](https://den.dev/blog/github-spec-kit/)
 * [2025-10-14, 06:11:00](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss) - [Salesforce Hacked With Threat to Release 1 Billion Customer Records](https://soylentnews.org/article.pl?sid=25/10/12/1454236&amp;from=rss)
 * [2025-10-14, 05:21:48](https://news.ycombinator.com/item?id=45576536) - [PlayStation 3 Architecture (2021)](https://www.copetti.org/writings/consoles/playstation-3)
 * [2025-10-14, 01:24:00](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss) - [When the US Gov&apos;t Built High Quality Housing for Workers...](https://soylentnews.org/article.pl?sid=25/10/12/1446251&amp;from=rss)
