@@ -1,70 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in AI and Technology
+## Scientific Innovations and Discoveries
 
-* [OpenAI Cofounder Builds New Open Source LLM 'Nanochat' - and Doesn't Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant move in the open-source AI ecosystem as OpenAI cofounder releases a novel LLM, focusing on alternatives to traditional design paradigms.
+* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Scientists have made advancements in pinpointing magma movement, enhancing our understanding of volcanic activity.
 
-* [The design space of AI coding tools](https://austinhenley.com/blog/aidesignspace.html) - A comprehensive exploration into how artificial intelligence is reshaping coding tools.
+* [Should Scientists Be Allowed to Edit Genes of Wild Animals? Top Conservation Groups Just Voted Yes](https://science.slashdot.org/story/25/10/18/0713233/should-scientists-be-allowed-to-edit-genes-of-wild-animals-top-conservation-groups-just-voted-yes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Conservation groups have approved the controversial idea of gene-editing for wildlife conservation.
 
-* [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) - A study reveals the challenges around user discernment of AI bias, crucial in ethical machine learning.
+* [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists designed an innovative 3D-printed bridge capable of absorbing carbon, drawing inspiration from bone structure.
 
-* [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative engineering combines environmental benefits with 3D-printing technology.
+* [How We Sharpened the James Webb Telescope's Vision From a Million Kilometers Away](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A detailed account of the methods used to enhance the precision of the James Webb Telescope's optics.
 
-* [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry) - A tool targeting code relevancy to streamline programming workflows in Rust.
+## AI and Technology
 
-* [AI-Generated Lesson Plans Fall Short On Inspiring Students, Promoting Critical Thinking](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Questions arise about the educational value of AI-generated content.
+* [OpenAI Cofounder Builds New Open Source LLM 'Nanochat' - and Doesn't Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI's cofounder introduces Nanochat, an open source large language model with a new coding approach.
 
-* [97% of Companies Struggle to Prove AI's ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&from=rss) - Insights into overcoming hurdles in AI adoption and enterprise impact.
+* [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) - A Penn State study reveals users struggle to detect AI biases in datasets.
 
-* [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) - Emerging capabilities in AI models that redefine interaction possibilities.
+* [Perplexity's AI Browser 'Comet' is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI-driven browser, Comet, enters the market with competitive strategies against Chrome.
 
-## Environmental and Scientific Innovations
+## Environmental and Health Concerns
 
-* [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Efforts are underway to stabilize energy infrastructure amidst crisis.
+* [Protein Powders and Shakes Contain High Levels of Lead](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A concerning study indicates high lead levels in some protein supplements.
 
-* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss) - Astronomical phenomena take center stage with Comet Lemmon's trajectory.
+* [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - Research discovers nanoplastics in farm animals, raising potential health risks to humans.
 
-* [Protein Powders and Shakes Contain High Levels of Lead](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Health concerns rise regarding contaminants in nutritional products.
+## Notable Events and Issues
 
-* [Should Scientists Be Allowed to Edit Genes of Wild Animals? Top Conservation Groups Just Voted Yes](https://science.slashdot.org/story/25/10/18/0713233/should-scientists-be-allowed-to-edit-genes-of-wild-animals-top-conservation-groups-just-voted-yes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A revolutionary turn in conservation as gene editing in wildlife gains ethical approval.
+* [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Efforts are being made to restore power at a critical Ukrainian nuclear facility.
 
-* ['How We Sharpened the James Webb Telescope's Vision From a Million Kilometers Away'](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Engineers detail breakthroughs in remote space imaging.
+* [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html) - The world bids farewell to Chen-Ning Yang, a Nobel laureate in physics.
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss) - Cutting-edge materials science revolutionizes crystal synthesis.
+## Outer Space and Astronomy
 
-* [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&from=rss) - Observations deepen cosmic curiosity as unexplained spray is detected.
+* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - Stargazers are gearing up for a spectacular view as Comet Lemmon approaches its brightest point.
 
-* [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&from=rss) - EU takes measures to protect species integral to ecosystems.
+* [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss) - An intriguing phenomenon explains how distant galaxies seem to travel away at faster-than-light speeds.
 
-## Technology and Security
+## Economic and Business Updates
 
-* [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&from=rss) - A cybersecurity breach highlights vulnerabilities in critical infrastructure.
+* [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss) - GM faces a substantial financial impact as it reduces its electric vehicle initiatives.
 
-* [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unknown signals prompt investigation into advanced satellite networks.
-
-* [Elon Musk Plans to Take on Wikipedia With 'Grokipedia'](https://soylentnews.org/article.pl?sid=25/10/16/0117201&from=rss) - Musk sets sights on disrupting information-sharing platforms.
-
-* [First Device Based on 'Optical Thermodynamics' Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss) - Innovative optics make headway in switch-free light routing.
-
-* [Microsoft Restricts IE Mode Access in Edge After Zero-Day Attacks](https://soylentnews.org/article.pl?sid=25/10/14/1729247&from=rss) - Countermeasures tighten after critical vulnerabilities emerge.
-
-* [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A troubling exploitation of service authentication loopholes.
-
-* [Is Postgres read heavy or write heavy?](https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care) - Insights on balancing database efficiency and operational capacity.
-
-* [Perplexity's AI Browser 'Comet' is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Competitor enters the browser market with strategic offerings.
-
-## Cultural and Historical Insights
-
-* [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html) - The passing of a Nobel laureate marks the end of a notable scientific era.
-
-* [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/) - Historical cryptology unveils insights into early modern communication.
-
-* [Solution to CIA’s Kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html) - Mystery goes unshrouded as solution to infamous puzzle comes to light.
-
-* [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&from=rss) - Prestigious recognition awarded for insights into innovation.
-
-* [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&from=rss) - Fascinating study connects hallucinogen usage and perspectives on mortality.
+* [Windows 10 Refugees Flock To Linux as Zorin OS Claims 'Biggest Launch Ever'](https://tech.slashdot.org/story/25/10/18/1946208/windows-10-refugees-flock-to-linux-as-zorin-os-claims-biggest-launch-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linux sees a surge in users leaving Windows 10, with Zorin OS marking a major milestone.
 
 ---
 
@@ -91,6 +67,7 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 03:34:00](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Cofounder Builds New Open Source LLM &apos;Nanochat&apos; - and Doesn&apos;t Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:34:00](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -131,24 +108,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-18, 13:52:24](https://news.ycombinator.com/item?id=45627394) - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 * [2025-10-18, 13:00:00](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-18, 12:53:32](https://news.ycombinator.com/item?id=45626961) - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
 * [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18&apos;s new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 10:00:00](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Samsung Report Underwhelming Sales of Their New Thin Smartphones](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
+* [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
 * [2025-10-18, 07:00:00](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
 * [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
+* [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD&apos;s Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 * [2025-10-18, 03:30:00](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Generated Lesson Plans Fall Short On Inspiring Students, Promoting Critical Thinking](https://news.slashdot.org/story/25/10/17/235214/ai-generated-lesson-plans-fall-short-on-inspiring-students-promoting-critical-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
+* [2025-10-17, 19:37:16](https://news.ycombinator.com/item?id=45621074) - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 17:06:16](https://news.ycombinator.com/item?id=45619108) - [Is Postgres read heavy or write heavy?](https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care)
@@ -163,7 +141,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 19:48:00](https://soylentnews.org/article.pl?sid=25/10/15/0422232&amp;from=rss) - [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&amp;from=rss)
 * [2025-10-16, 15:56:05](https://news.ycombinator.com/item?id=45606986) - [Secret diplomatic message deciphered after 350 years](https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/)
 * [2025-10-16, 15:03:00](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss) - [New Method is the Fastest Way to Find the Best Routes](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss)
-* [2025-10-16, 10:56:50](https://news.ycombinator.com/item?id=45603876) - [Solution to CIA’s Kryptos sculpture is found in Smithsonian vault](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html)
 * [2025-10-16, 10:18:00](https://soylentnews.org/article.pl?sid=25/10/14/1729247&amp;from=rss) - [Microsoft Restricts IE Mode Access in Edge After Zero-Day Attacks](https://soylentnews.org/article.pl?sid=25/10/14/1729247&amp;from=rss)
 * [2025-10-16, 05:37:00](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss) - [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss)
 * [2025-10-16, 01:25:28](https://news.ycombinator.com/item?id=45600470) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
