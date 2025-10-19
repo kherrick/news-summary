@@ -1,40 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific Discoveries and Environmental Insights
+## Technology and Innovation
 
-* [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
+* [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/) - A detailed guide on liberating the ThinkPad T480 with open-source firmware. [Comments](https://lobste.rs/s/jgn90f/librebooting_thinkpad_t480)
 
-* [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
+* [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564) - The popular smartwatch is making a comeback with modern OS support. [Comments](https://news.ycombinator.com/item?id=45633591)
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
+* [Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com) - A new browser-based tool for SQL manipulation on DuckDB. [Comments](https://news.ycombinator.com/item?id=45633453)
 
-* [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free) - A look towards Python's performance improvements with the removal of GIL. [Comments](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free)
 
-## Technology and Innovation Updates
+* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) - The latest release of Ripgrep offers new features and enhancements. [Comments](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0)
 
-* [AI Trading in Real Market](https://nof1.ai/)
+* [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry) - A plugin promoting efficient Rust programming by highlighting pertinent code. [Comments](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on)
 
-* [OpenAI Cofounder Builds New Open Source LLM 'Nanochat' - and Doesn't Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Artificial Intelligence
 
-* [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
+* [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html) - Uber expands job opportunities by enabling gig workers to assist in AI-related tasks. [Comments](https://news.ycombinator.com/item?id=45633619)
 
-* [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning) - Insights into the potential benefits of re-emphasizing model fine-tuning for AI systems. [Comments](https://news.ycombinator.com/item?id=45633081)
 
-## Human and Social Sciences
+* [Perplexity's AI Browser 'Comet' is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome) - A new AI-powered web browser on the rise. [Comments](https://news.ycombinator.com/item?id=45633081)
 
-* [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
+## Science and Environment
 
-* [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
+* [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarm over increasing CO2 levels and the role of natural carbon sinks. [Comments](https://news.ycombinator.com/item?id=45631678)
 
-* [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
+* [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones) - A breakthrough combining architecture with environmental preservation. [Comments](https://slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Engineering and Computational Insights
+* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Advancements in tracking volcanic activity for better risk management. [Comments](https://news.ycombinator.com/item?id=45628391)
 
-* [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
+## Cybersecurity
 
-* [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
+* [Extortion and Ransomware Drive Over Half of Cyberattacks — Sometimes Using AI, Microsoft Finds](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon;amp;utm_medium=feed) - New findings on the increasing role of AI in ransomware. [Comments](https://news.ycombinator.com/item?id=45631678)
 
-* [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
+* [Thousands of Customers Imperiled After Nation-State Ransacks F5's Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss) - A high-profile security breach impacting many clients. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss)
+
+## Unique Perspectives and Reflections
+
+* [What Happened in 2007?](https://whathappenedin2007.com/) - A reflective journey analyzing a significant year in recent history. [Comments](https://news.ycombinator.com/item?id=45633426)
+
+* [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/) - Musings on the modern inclination towards creativity and innovation. [Comments](https://lobste.rs/s/kfjzta/everybody_s_so_creative)
+
+* [Lost Jack Kerouac story found among assassinated mafia boss' belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php) - The unexpected discovery of a literary treasure. [Comments](https://news.ycombinator.com/item?id=45587546)
 
 ---
 
@@ -61,24 +69,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-19, 12:21:10](https://lobste.rs/s/jgn90f/librebooting_thinkpad_t480) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
+* [2025-10-19, 12:05:50](https://news.ycombinator.com/item?id=45633619) - [Uber will offer gig work like AI data labeling to drivers while not on the road](https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html)
+* [2025-10-19, 12:05:09](https://lobste.rs/s/m9dkcf/how_i_d_like_my_init_system_service) - [How I’d like my init system / service supervisor to be](https://runxiyu.org/blog/linit/)
+* [2025-10-19, 12:00:11](https://news.ycombinator.com/item?id=45633591) - [Pebble is officially back on iOS and Android](https://twitter.com/ericmigi/status/1979576965494710564)
+* [2025-10-19, 11:40:05](https://news.ycombinator.com/item?id=45633513) - [Lego Theft Ring](https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html)
+* [2025-10-19, 11:34:00](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Extortion and Ransomware Drive Over Half of Cyberattacks &amp;mdash; Sometimes Using AI, Microsoft Finds](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-19, 11:30:17](https://news.ycombinator.com/item?id=45633482) - [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)
+* [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
+* [2025-10-19, 11:08:49](https://news.ycombinator.com/item?id=45633426) - [What Happened in 2007?](https://whathappenedin2007.com/)
+* [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:55:29](https://lobste.rs/s/fb8btf/ai_trading_real_market) - [AI Trading in Real Market](https://nof1.ai/)
+* [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody&apos;s so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 09:14:30](https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be) - [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
 * [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
-* [2025-10-19, 08:14:04](https://news.ycombinator.com/item?id=45632738) - [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612)
-* [2025-10-19, 08:11:47](https://news.ycombinator.com/item?id=45632724) - [Show HN: Newcomer Ranking – Alternative to GitHub Trending for New Repos](https://git-stars.org/ranking/newcomers)
 * [2025-10-19, 07:34:00](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 07:09:28](https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio) - [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
-* [2025-10-19, 05:45:02](https://news.ycombinator.com/item?id=45632262) - [GoFundMe CEO: economy is so bad his customers crowdfund to pay for groceries](https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html)
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 03:34:00](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Cofounder Builds New Open Source LLM &apos;Nanochat&apos; - and Doesn&apos;t Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 02:22:53](https://news.ycombinator.com/item?id=45631678) - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
 * [2025-10-19, 01:34:00](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 01:23:29](https://news.ycombinator.com/item?id=45631503) - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
 * [2025-10-19, 01:00:42](https://news.ycombinator.com/item?id=45631422) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
-* [2025-10-19, 00:33:24](https://news.ycombinator.com/item?id=45631328) - [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
 * [2025-10-19, 00:31:49](https://lobste.rs/s/fdu69j/using_pegs_janet) - [Using PEGs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss)
@@ -98,12 +112,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-18, 19:27:27](https://lobste.rs/s/vgwtpm/joe_decuir_engineering_notebook_1978) - [Joe Decuir Engineering Notebook 1978](https://archive.org/details/JoeDecuirEngineeringNotebook1978)
 * [2025-10-18, 19:16:00](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss) - [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss)
 * [2025-10-18, 18:34:00](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity&apos;s AI Browser &apos;Comet&apos; is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-18, 18:13:27](https://news.ycombinator.com/item?id=45629299) - [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
 * [2025-10-18, 17:34:00](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Build Complex 3D-Printed, Carbon-Absorbing Bridge Inspired by Bones](https://news.slashdot.org/story/25/10/18/0655237/researchers-build-complex-3d-printed-carbon-absorbing-bridge-inspired-by-bones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 16:34:00](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;How We Sharpened the James Webb Telescope&apos;s Vision From a Million Kilometers Away&apos;](https://science.slashdot.org/story/25/10/18/0537217/how-we-sharpened-the-james-webb-telescopes-vision-from-a-million-kilometers-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 16:08:10](https://news.ycombinator.com/item?id=45628391) - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-* [2025-10-18, 15:52:39](https://news.ycombinator.com/item?id=45628283) - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 * [2025-10-18, 15:34:00](https://tech.slashdot.org/story/25/10/18/0623211/are-parts-of-the-world-retreating-on-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Parts of the World Retreating on Electric Vehicles?](https://tech.slashdot.org/story/25/10/18/0623211/are-parts-of-the-world-retreating-on-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 14:34:00](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reddit Mod Warns &apos;Do Not Trust&apos; AI-Powered &apos;Reddit Answers&apos; After It Posts Dangerous Health Advice](https://tech.slashdot.org/story/25/10/18/086208/reddit-mod-warns-do-not-trust-ai-powered-reddit-answers-after-it-posts-dangerous-health-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 14:33:22](https://news.ycombinator.com/item?id=45627692) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
@@ -114,20 +125,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-18, 13:00:00](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Email Bombs Exploit Lax Authentication In Zendesk](https://it.slashdot.org/story/25/10/17/2333255/email-bombs-exploit-lax-authentication-in-zendesk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 12:44:16](https://news.ycombinator.com/item?id=45626910) - [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2025-10-18, 10:51:02](https://news.ycombinator.com/item?id=45626349) - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
-* [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18&apos;s new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 10:00:00](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple, Samsung Report Underwhelming Sales of Their New Thin Smartphones](https://mobile.slashdot.org/story/25/10/18/0213223/apple-samsung-report-underwhelming-sales-of-their-new-thin-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 09:55:06](https://news.ycombinator.com/item?id=45626130) - [./watch](https://dotslashwatch.com/)
 * [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
-* [2025-10-18, 07:00:00](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Classified Network of SpaceX Satellites Is Emitting a Mysterious Signal](https://tech.slashdot.org/story/25/10/18/0219237/a-classified-network-of-spacex-satellites-is-emitting-a-mysterious-signal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
 * [2025-10-18, 05:47:14](https://news.ycombinator.com/item?id=45625229) - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
 * [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
-* [2025-10-18, 04:26:19](https://news.ycombinator.com/item?id=45624888) - [AMD&apos;s Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 * [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
-* [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 14:48:00](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss) - [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss)
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss)
 * [2025-10-17, 06:39:09](https://news.ycombinator.com/item?id=45613898) - [Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site](https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion)
@@ -146,4 +153,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss)
 * [2025-10-15, 10:35:00](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss) - [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss)
 * [2025-10-15, 05:51:00](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss) - [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss)
+* [2025-10-15, 02:44:06](https://news.ycombinator.com/item?id=45587546) - [Lost Jack Kerouac story found among assassinated mafia boss&apos; belongings](https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php)
 * [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss)
