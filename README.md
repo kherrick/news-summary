@@ -1,48 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Software and Programming Innovations
 
-* [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/) - A deep dive into how using lazy imports can significantly boost the speed of Python applications, as described on HugoVK's blog. [Comments](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports).
+* [Perfect Jumps in SM64 - Arctan Straining Explained](https://youtu.be/_yx0eutBwII) - Exploring a mathematical technique for perfect jumps in Super Mario 64.
 
-* [A Plan for Improving JavaScript's Trustworthiness on the Web](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Proposals for making JavaScript more reliable and secure for web applications. [Comments](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html) - A detailed guide into dissecting old synthesizer firmware.
 
-* [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp) - Explore Gleam's approach for fault-tolerant multi-core programming using the Actor model. [Comments](https://news.ycombinator.com/item?id=45638588).
+* [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html) - An exploration of Forth, a unique self-writing programming language.
 
-* [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner) - View the original source code for the classic C64 game, Lode Runner. [Comments](https://news.ycombinator.com/item?id=45638514).
+* [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim) - Introducing a tool for executing Lua in a scratch buffer like Emacs.
 
-* [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim) - An Emacs-inspired buffer utility for Lua execution, aimed at Neovim users. [Comments](https://news.ycombinator.com/item?id=45638739).
+* [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam) - A personal take on creating a web server using the Gleam programming language.
 
-## Environmental and Social Issues
+* [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/) - Understanding why lines of code might not be the best metric for assessing function quality.
 
-* [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss) - A Windows 11 update disrupts localhost capabilities, forcing developers to uninstall updates for functionality. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss).
+* [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/) - Unraveling a regression issue in Mesa 3D.
 
-* [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss) - Investigating the troubling incident where drones were used for crowd dispersal in China. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss).
+* [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html) - Advice on excelling in academic programming courses from Andrej Karpathy.
 
-* [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/) - A Texas A&M study highlights the impact of abandoned properties on Houston's rising temperatures. [Comments](https://news.ycombinator.com/item?id=45634026).
+## Technology and Hardware
 
-* [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - Data revealing that poverty rates in Australia now affect one in seven citizens. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss).
+* [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/) - A milestone in semiconductor manufacturing achieved in the US.
 
-## Open Source and Software Advances
+* [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour) - The completion of a retro game reverse-engineering initiative.
 
-* [Compare Single Board Computers](https://sbc.compare/) - A side-by-side comparison tool for various single board computers is launched. [Comments](https://news.ycombinator.com/item?id=45636365/).
+* [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer) - A tool designed to visualize QuickDraw files on Mac OS X.
 
-* [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com) - A web-based SQL IDE simplifying interaction with DuckDB. [Comments](https://news.ycombinator.com/item?id=45633453).
+* [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/) - A deep dive into installing Libreboot on the ThinkPad T480.
 
-* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) - Discover the newest features in the latest release of the popular search tool, Ripgrep. [Comments](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0).
+* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) - Updates and features in the latest release of a high-performance search tool.
 
-* [Why Signal's Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn what makes Signal's post-quantum update a breakthrough in secure communication. [Comments](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Society and Environment
 
-* [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam) - A step-by-step account of creating a web server from scratch using Gleam. [Comments](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam).
+* [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o) - The actress's journey from Hollywood to environmental advocacy.
 
-## Science and Exploration
+* [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns about increasing CO2 levels and potential implications.
 
-* [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/) - A possible collision of an airliner with space debris raises safety concerns. [Comments](https://news.ycombinator.com/item?id=45636285).
+* [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&from=rss) - A concerning look at poverty statistics in Australia.
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Study enhances understanding of geothermal activity by pinpointing magma's location within volcanoes. [Comments](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss).
+* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss) - Advancements in identifying magma movements within volcanoes.
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - Discovering new methods to create advanced materials using lasers and nanoparticles. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss).
+* [Western Executives Who Visit China are Coming Back Terrified](https://soylentnews.org/article.pl?sid=25/10/15/0422232&from=rss) - Reporting on cultural and political tensions impacting Western executives.
 
-* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - Astronomers track the approach and peak visibility of Comet Lemmon. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss).
+## Historical and Experimental Insights
+
+* [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner) - The source code of the beloved game now available.
+
+* [AT&T Long Lines – A Forgotten System (2018)](https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/) - A trip into the history of AT&T's once-prominent communication system.
+
+* [Improve PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/) - Enhancements in decoding Kindle's web output.
+
+* [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/) - Turning Raspberry Pi into a bootable DOS emulator.
+
+* [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing) - An explanation of consistent hashing and its real-world applications.
 
 ---
 
@@ -69,15 +79,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-20, 04:08:45](https://lobste.rs/s/4ffid5/perfect_jumps_sm64_arctan_straining) - [Perfect Jumps in SM64 - Arctan Straining Explained](https://youtu.be/_yx0eutBwII)
+* [2025-10-20, 04:03:53](https://lobste.rs/s/wsezlo/mars_pathfinder_disaster) - [Mars pathfinder disaster](https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html)
+* [2025-10-20, 03:57:32](https://lobste.rs/s/jihdxj/no_military_funding_2004) - [No Military Funding (2004)](https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html)
+* [2025-10-20, 03:34:15](https://lobste.rs/s/9bubx6/when_it_comes_mcps_everything_we_know) - [When it comes to MCPs, everything we know about API design is wrong](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/)
+* [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
+* [2025-10-20, 02:34:00](https://news.slashdot.org/story/25/10/20/0230212/was-the-web-more-creative-and-human-20-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Was the Web More Creative and Human 20 Years Ago?](https://news.slashdot.org/story/25/10/20/0230212/was-the-web-more-creative-and-human-20-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-20, 02:12:24](https://news.ycombinator.com/item?id=45639654) - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
 * [2025-10-20, 01:32:43](https://news.ycombinator.com/item?id=45639498) - [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
+* [2025-10-20, 00:40:03](https://news.ycombinator.com/item?id=45639250) - [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2025-10-20, 00:28:38](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports) - [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/)
 * [2025-10-20, 00:20:00](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Plan for Improving JavaScript&apos;s Trustworthiness on the Web](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 00:19:54](https://news.ycombinator.com/item?id=45639157) - [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
 * [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss)
+* [2025-10-19, 23:39:57](https://news.ycombinator.com/item?id=45638986) - [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
 * [2025-10-19, 23:35:25](https://news.ycombinator.com/item?id=45638966) - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
 * [2025-10-19, 23:20:00](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Workers Start Learning to Work With AI?](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 22:49:34](https://news.ycombinator.com/item?id=45638739) - [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
-* [2025-10-19, 22:38:49](https://lobste.rs/s/evilia/context_parameters_api_design) - [Context parameters and API design](https://serranofp.com/blog/context-params.html)
 * [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
 * [2025-10-19, 22:20:37](https://lobste.rs/s/ovn98j/add_rust_binder_driver) - [Add Rust Binder Driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050)
 * [2025-10-19, 22:13:21](https://news.ycombinator.com/item?id=45638514) - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
@@ -86,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 20:54:31](https://news.ycombinator.com/item?id=45637880) - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 * [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Novo Nordisk&apos;s Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
 * [2025-10-19, 20:19:00](https://tech.slashdot.org/story/25/10/19/1954240/gimp-now-offers-an-official-snap-package-for-linux-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GIMP Now Offers an Official Snap Package For Linux Users](https://tech.slashdot.org/story/25/10/19/1954240/gimp-now-offers-an-official-snap-package-for-linux-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 20:15:09](https://news.ycombinator.com/item?id=45637548) - [Designing EventQL, an Event Query Language](https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/)
 * [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 * [2025-10-19, 19:19:00](https://tech.slashdot.org/story/25/10/19/1914248/desperate-to-stop-waymos-dead-end-detours-a-san-francisco-resident-tried-an-orange-cone-with-a-sign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Desperate to Stop Waymo&apos;s Dead-End Detours, a San Francisco Resident Tried an Orange Cone with a Sign](https://tech.slashdot.org/story/25/10/19/1914248/desperate-to-stop-waymos-dead-end-detours-a-san-francisco-resident-tried-an-orange-cone-with-a-sign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss) - [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss)
@@ -95,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-19, 17:53:00](https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Sony Applies to Establish National Crypto Bank, Issue Stablecoin for US Dollar](https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
-* [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
 * [2025-10-19, 16:34:00](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Signal&apos;s Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej&apos;s advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
@@ -105,9 +121,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 14:34:00](https://news.slashdot.org/story/25/10/18/036200/fsf-reminds-consumers-that-truly-free-oss-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FSF Reminds Consumers That Truly Free OS&apos;s Exist](https://news.slashdot.org/story/25/10/18/036200/fsf-reminds-consumers-that-truly-free-oss-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:22:00](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss) - [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss)
-* [2025-10-19, 14:16:12](https://news.ycombinator.com/item?id=45634310) - [Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG](https://github.com/Pringled/pyversity)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
-* [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt&apos;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 13:25:11](https://lobste.rs/s/n5khhu/weird_haskell_feels_easy) - [Weird, but Haskell feels easy](https://xlii.space/eng/haskell-feels-easy/)
@@ -118,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
 * [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:55:29](https://lobste.rs/s/fb8btf/ai_trading_real_market) - [AI Trading in Real Market](https://nof1.ai/)
-* [2025-10-19, 09:41:25](https://news.ycombinator.com/item?id=45633081) - [The case for the return of fine-tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning)
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody&apos;s so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
@@ -127,13 +140,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 03:34:00](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Cofounder Builds New Open Source LLM &apos;Nanochat&apos; - and Doesn&apos;t Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 01:34:00](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss)
-* [2025-10-18, 23:01:53](https://lobste.rs/s/kexbxy/knowledge_creates_technical_debt) - [Knowledge creates technical debt](https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/)
 * [2025-10-18, 22:48:00](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Protein Powders and Shakes Contain High Levels of Lead](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-18, 21:48:00](https://mobile.slashdot.org/story/25/10/18/2032252/you-only-need-750-to-pilfer-unencrypted-data-from-satellites-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Only Need $750 to Pilfer Unencrypted Data From Satellites, Researchers Say](https://mobile.slashdot.org/story/25/10/18/2032252/you-only-need-750-to-pilfer-unencrypted-data-from-satellites-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
-* [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
 * [2025-10-18, 19:37:26](https://lobste.rs/s/chaivl/on_perfetto_open_source_company) - [On Perfetto, Open Source, and Company Priorities](https://lalitm.com/perfetto-oss-company-prio/)
