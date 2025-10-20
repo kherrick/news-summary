@@ -1,48 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Updates
+## Major Outages and Tech Disruptions
 
-* [Windows 11 Update Breaks Recovery Environment, Making USB Keyboards and Mice Unusable](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) - Insights into the widespread impact of AWS service failures affecting popular applications and services. [Comments](https://news.ycombinator.com/item?id=45641143).
 
-* [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/) ([comments](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer))
+* [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c) - Details on ongoing disruptions in Docker's systems and user impact. [Comments](https://news.ycombinator.com/item?id=45640877).
 
-* [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/) ([comments](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports))
+* [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020) - A closer look at the reported outages within Amazon's cloud infrastructure. [Comments](https://news.ycombinator.com/item?id=45640838).
 
-* [Compare Single Board Computers](https://sbc.compare/) ([comments](https://lobste.rs/s/fq7i4s/compare_single_board_computers))
+## AI and Future Technologies
 
-* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) ([comments](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0))
+* ['The AI Revolution's Next Casualty Could Be the Gig Economy'](https://slashdot.org/story/25/10/20/0616223/the-ai-revolutions-next-casualty-could-be-the-gig-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring how automated systems might reshape gig-based industries. [Comments](https://slashdot.org/story/25/10/20/0616223/the-ai-revolutions-next-casualty-could-be-the-gig-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Space and Environment
+* [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - A promising project showcasing advancements in OCR technologies. [Comments](https://news.ycombinator.com/item?id=45640594).
 
-* [Space Elevator](https://neal.fun/space-elevator/) ([comments](https://news.ycombinator.com/item?id=45640226))
+* [Tech Billionaires Seem to be Doom Prepping. Should We All be Worried?](https://soylentnews.org/article.pl?sid=25/10/16/1551203&from=rss) - Discussing tech elite preparations for potential global crises. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/1551203&from=rss).
 
-* [Mars Pathfinder disaster](https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html) ([comments](https://lobste.rs/s/wsezlo/mars_pathfinder_disaster))
+## Software and Programming Highlights
 
-* [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0) - Highlighting updates in Bat, a popular command-line tool. [Comments](https://news.ycombinator.com/item?id=45640678).
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss))
+* [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/) - A detailed explanation of the ISL library and its utility in mathematics and programming. [Comments](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer).
 
-## Open Source and Programming Innovations
+* [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html) - A guide to exploring old synthesizer firmware through reverse engineering. [Comments](https://news.ycombinator.com/item?id=45639860).
 
-* [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html) ([comments](https://news.ycombinator.com/item?id=45639250))
+## Security and Vulnerabilities
 
-* [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam) ([comments](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam))
+* [Windows 11 Update Breaks Recovery Environment, Making USB Keyboards and Mice Unusable](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Addressing critical issues in Windows updates affecting hardware usability. [Comments](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Extism - make all software programmable. Extend from within](https://extism.org/) ([comments](https://lobste.rs/s/3nizmq/extism_make_all_software_programmable))
-
-* [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415) ([comments](https://news.ycombinator.com/item?id=45632976))
-
-* [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/) ([comments](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web))
-
-## Scientific Breakthroughs and Research
-
-* [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/) ([comments](https://news.ycombinator.com/item?id=45639654))
-
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss))
-
-* [New Method is the Fastest Way to Find the Best Routes](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/14/1737233&amp;from=rss))
-
-* [Why Signal's Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html) - Insights into using Git hooks in software development workflows. [Comments](https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre).
 
 ---
 
@@ -69,27 +55,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-20, 09:26:00](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss) - [JPMorgan Requires Staff to Hand Over Biometric Data to Access New Headquarters](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss)
+* [2025-10-20, 09:22:58](https://lobste.rs/s/mtzj7e/copy_patch_how_it_works) - [Copy-and-Patch: How It Works](https://transactional.blog/copy-and-patch/how-it-works)
+* [2025-10-20, 08:12:09](https://news.ycombinator.com/item?id=45641143) - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
+* [2025-10-20, 07:34:00](https://slashdot.org/story/25/10/20/0616223/the-ai-revolutions-next-casualty-could-be-the-gig-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The AI Revolution&apos;s Next Casualty Could Be the Gig Economy&apos;](https://slashdot.org/story/25/10/20/0616223/the-ai-revolutions-next-casualty-could-be-the-gig-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
+* [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS Multiple Services Down in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
+* [2025-10-20, 07:11:06](https://news.ycombinator.com/item?id=45640772) - [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
 * [2025-10-20, 06:54:33](https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre) - [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
+* [2025-10-20, 06:49:29](https://news.ycombinator.com/item?id=45640678) - [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [2025-10-20, 06:22:02](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer) - [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
-* [2025-10-20, 06:04:00](https://lobste.rs/s/3nizmq/extism_make_all_software_programmable) - [Extism - make all software programmable. Extend from within](https://extism.org/)
 * [2025-10-20, 04:54:00](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 11 Update Breaks Recovery Environment, Making USB Keyboards and Mice Unusable](https://it.slashdot.org/story/25/10/20/0247259/windows-11-update-breaks-recovery-environment-making-usb-keyboards-and-mice-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2025-10-20, 04:41:00](https://soylentnews.org/article.pl?sid=25/10/16/1551203&amp;from=rss) - [Tech Billionaires Seem to be Doom Prepping. Should We All be Worried?](https://soylentnews.org/article.pl?sid=25/10/16/1551203&amp;from=rss)
+* [2025-10-20, 04:08:45](https://lobste.rs/s/4ffid5/perfect_jumps_sm64_arctan_straining) - [Perfect Jumps in SM64 - Arctan Straining Explained](https://youtu.be/_yx0eutBwII)
 * [2025-10-20, 04:03:53](https://lobste.rs/s/wsezlo/mars_pathfinder_disaster) - [Mars pathfinder disaster](https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html)
 * [2025-10-20, 03:57:32](https://lobste.rs/s/jihdxj/no_military_funding_2004) - [No Military Funding (2004)](https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html)
 * [2025-10-20, 03:34:15](https://lobste.rs/s/9bubx6/when_it_comes_mcps_everything_we_know) - [When it comes to MCPs, everything we know about API design is wrong](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/)
 * [2025-10-20, 03:33:11](https://news.ycombinator.com/item?id=45639995) - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
 * [2025-10-20, 02:56:20](https://news.ycombinator.com/item?id=45639860) - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
 * [2025-10-20, 02:34:00](https://news.slashdot.org/story/25/10/20/0230212/was-the-web-more-creative-and-human-20-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Was the Web More Creative and Human 20 Years Ago?](https://news.slashdot.org/story/25/10/20/0230212/was-the-web-more-creative-and-human-20-years-ago?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-20, 02:12:24](https://news.ycombinator.com/item?id=45639654) - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
-* [2025-10-20, 01:32:43](https://news.ycombinator.com/item?id=45639498) - [Look at how unhinged GPU box art was in the 2000s (2024)](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
 * [2025-10-20, 00:40:03](https://news.ycombinator.com/item?id=45639250) - [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2025-10-20, 00:28:38](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports) - [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/)
 * [2025-10-20, 00:20:00](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Plan for Improving JavaScript&apos;s Trustworthiness on the Web](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 00:19:54](https://news.ycombinator.com/item?id=45639157) - [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
 * [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss)
-* [2025-10-19, 23:39:57](https://news.ycombinator.com/item?id=45638986) - [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
 * [2025-10-19, 23:35:25](https://news.ycombinator.com/item?id=45638966) - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
 * [2025-10-19, 23:20:00](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Workers Start Learning to Work With AI?](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
@@ -106,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 18:00:19](https://lobste.rs/s/fq7i4s/compare_single_board_computers) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 17:54:21](https://news.ycombinator.com/item?id=45636285) - [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
 * [2025-10-19, 17:53:00](https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Sony Applies to Establish National Crypto Bank, Issue Stablecoin for US Dollar](https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
 * [2025-10-19, 16:34:00](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Signal&apos;s Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej&apos;s advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
@@ -115,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:22:00](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss) - [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
-* [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt&apos;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 13:25:11](https://lobste.rs/s/n5khhu/weird_haskell_feels_easy) - [Weird, but Haskell feels easy](https://xlii.space/eng/haskell-feels-easy/)
 * [2025-10-19, 12:21:10](https://lobste.rs/s/jgn90f/librebooting_thinkpad_t480) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
@@ -125,12 +114,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 09:55:29](https://lobste.rs/s/fb8btf/ai_trading_real_market) - [AI Trading in Real Market](https://nof1.ai/)
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody&apos;s so Creative](https://daymare.net/blogs/everbody-so-creative/)
-* [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 07:34:00](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 03:34:00](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Cofounder Builds New Open Source LLM &apos;Nanochat&apos; - and Doesn&apos;t Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 01:34:00](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss)
 * [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
