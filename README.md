@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Updates
+## Technology and Innovation
 
-* [GIMP Now Offers an Official Snap Package For Linux Users](https://tech.slashdot.org/story/25/10/19/1954240/gimp-now-offers-an-official-snap-package-for-linux-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Slashdot highlights a significant update for Linux users as GIMP now provides an official Snap package, enhancing accessibility and convenience.
+* [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/) - A deep dive into how using lazy imports can significantly boost the speed of Python applications, as described on HugoVK's blog. [Comments](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports).
 
-* [Sony Applies to Establish National Crypto Bank, Issue Stablecoin for US Dollar](https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Sony makes strides in fintech by applying to create a national cryptocurrency bank to issue a stablecoin pegged to the US dollar.
+* [A Plan for Improving JavaScript's Trustworthiness on the Web](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Proposals for making JavaScript more reliable and secure for web applications. [Comments](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Compare Single Board Computers](https://sbc.compare/) - A platform for side-by-side comparisons of single-board computers lets enthusiasts find the perfect fit for their projects.
+* [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp) - Explore Gleam's approach for fault-tolerant multi-core programming using the Actor model. [Comments](https://news.ycombinator.com/item?id=45638588).
 
-* [Extortion and Ransomware Drive Over Half of Cyberattacks — Sometimes Using AI, Microsoft Finds](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A Microsoft report finds that AI-based ransomware tactics now account for a majority of cybersecurity threats.
+* [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner) - View the original source code for the classic C64 game, Lode Runner. [Comments](https://news.ycombinator.com/item?id=45638514).
 
-## Scientific Discoveries
+* [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim) - An Emacs-inspired buffer utility for Lua execution, aimed at Neovim users. [Comments](https://news.ycombinator.com/item?id=45638739).
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss) - A breakthrough in volcanology identifies precise magma movements, enhancing monitoring and predictive capabilities.
+## Environmental and Social Issues
 
-* [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarming new records in CO2 levels highlight potential failures in Earth's carbon sinks.
+* [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss) - A Windows 11 update disrupts localhost capabilities, forcing developers to uninstall updates for functionality. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss).
 
-## Software Development
+* [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss) - Investigating the troubling incident where drones were used for crowd dispersal in China. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss).
 
-* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) - A new release for Ripgrep, the fast file search tool, with notable updates and performance improvements.
+* [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/) - A Texas A&M study highlights the impact of abandoned properties on Houston's rising temperatures. [Comments](https://news.ycombinator.com/item?id=45634026).
 
-* [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/) - Insight into liberating older hardware with open-source firmware installations.
+* [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - Data revealing that poverty rates in Australia now affect one in seven citizens. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss).
 
-## Notable Advancements
+## Open Source and Software Advances
 
-* [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/) - An engaging story about unexpected smart device behavior hints at complexities in AI-powered consumer tech.
+* [Compare Single Board Computers](https://sbc.compare/) - A side-by-side comparison tool for various single board computers is launched. [Comments](https://news.ycombinator.com/item?id=45636365/).
 
-* [Biblical and Quran apps flagged NSFW by F-Droid](https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401) - A controversial mislabeling of religious apps raises questions about automated content filters.
+* [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com) - A web-based SQL IDE simplifying interaction with DuckDB. [Comments](https://news.ycombinator.com/item?id=45633453).
 
-* [Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake) - An exploration of a pharmaceutical giant's missteps provides lessons in global business strategy.
+* [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0) - Discover the newest features in the latest release of the popular search tool, Ripgrep. [Comments](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0).
 
-## Environmental and Global Concerns
+* [Why Signal's Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn what makes Signal's post-quantum update a breakthrough in secure communication. [Comments](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/) - A study shows urban abandonment exacerbating heat islands, posing environmental and health challenges.
+* [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam) - A step-by-step account of creating a web server from scratch using Gleam. [Comments](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam).
+
+## Science and Exploration
+
+* [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/) - A possible collision of an airliner with space debris raises safety concerns. [Comments](https://news.ycombinator.com/item?id=45636285).
+
+* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Study enhances understanding of geothermal activity by pinpointing magma's location within volcanoes. [Comments](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss).
+
+* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - Discovering new methods to create advanced materials using lasers and nanoparticles. [Comments](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss).
+
+* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - Astronomers track the approach and peak visibility of Comet Lemmon. [Comments](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss).
 
 ---
 
@@ -59,12 +69,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-19, 21:42:18](https://news.ycombinator.com/item?id=45638295) - [Inside The Republican network behind big soda&apos;s bid to pit Maga against Maha](https://www.theguardian.com/us-news/2025/oct/19/inside-the-republican-network-behind-big-sodas-bid-to-pit-maga-against-maha)
+* [2025-10-20, 01:32:43](https://news.ycombinator.com/item?id=45639498) - [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
+* [2025-10-20, 00:28:38](https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports) - [Three times faster with lazy imports](https://hugovk.dev/blog/2025/lazy-imports/)
+* [2025-10-20, 00:20:00](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Plan for Improving JavaScript&apos;s Trustworthiness on the Web](https://developers.slashdot.org/story/25/10/20/005250/a-plan-for-improving-javascripts-trustworthiness-on-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-20, 00:19:54](https://news.ycombinator.com/item?id=45639157) - [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
+* [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss)
+* [2025-10-19, 23:35:25](https://news.ycombinator.com/item?id=45638966) - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
+* [2025-10-19, 23:20:00](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Workers Start Learning to Work With AI?](https://it.slashdot.org/story/25/10/19/2318202/should-workers-start-learning-to-work-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-19, 22:49:34](https://news.ycombinator.com/item?id=45638739) - [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
+* [2025-10-19, 22:38:49](https://lobste.rs/s/evilia/context_parameters_api_design) - [Context parameters and API design](https://serranofp.com/blog/context-params.html)
+* [2025-10-19, 22:25:46](https://news.ycombinator.com/item?id=45638588) - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
+* [2025-10-19, 22:20:37](https://lobste.rs/s/ovn98j/add_rust_binder_driver) - [Add Rust Binder Driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050)
+* [2025-10-19, 22:13:21](https://news.ycombinator.com/item?id=45638514) - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
+* [2025-10-19, 21:50:00](https://it.slashdot.org/story/25/10/19/2146235/to-fight-business-enshittification-cory-doctorow-urges-tech-workers-join-unions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To Fight Business &apos;Enshittification&apos;, Cory Doctorow Urges Tech Workers: Join Unions](https://it.slashdot.org/story/25/10/19/2146235/to-fight-business-enshittification-cory-doctorow-urges-tech-workers-join-unions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 21:34:48](https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
-* [2025-10-19, 21:30:17](https://news.ycombinator.com/item?id=45638188) - [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)
-* [2025-10-19, 21:20:15](https://news.ycombinator.com/item?id=45638096) - [Bible and Quran apps flagged NSFW by F-Droid](https://forum.f-droid.org/t/nsfw-flag-incorrectly-added-to-bible-and-quran-apps/33401)
+* [2025-10-19, 20:54:31](https://news.ycombinator.com/item?id=45637880) - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 * [2025-10-19, 20:39:13](https://news.ycombinator.com/item?id=45637744) - [Novo Nordisk&apos;s Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
 * [2025-10-19, 20:19:00](https://tech.slashdot.org/story/25/10/19/1954240/gimp-now-offers-an-official-snap-package-for-linux-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GIMP Now Offers an Official Snap Package For Linux Users](https://tech.slashdot.org/story/25/10/19/1954240/gimp-now-offers-an-official-snap-package-for-linux-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-19, 20:15:09](https://news.ycombinator.com/item?id=45637548) - [Designing EventQL, an Event Query Language](https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/)
 * [2025-10-19, 19:26:54](https://news.ycombinator.com/item?id=45637133) - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
 * [2025-10-19, 19:19:00](https://tech.slashdot.org/story/25/10/19/1914248/desperate-to-stop-waymos-dead-end-detours-a-san-francisco-resident-tried-an-orange-cone-with-a-sign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Desperate to Stop Waymo&apos;s Dead-End Detours, a San Francisco Resident Tried an Orange Cone with a Sign](https://tech.slashdot.org/story/25/10/19/1914248/desperate-to-stop-waymos-dead-end-detours-a-san-francisco-resident-tried-an-orange-cone-with-a-sign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss) - [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss)
@@ -75,17 +97,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 17:38:11](https://news.ycombinator.com/item?id=45636116) - [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
 * [2025-10-19, 17:19:49](https://news.ycombinator.com/item?id=45635940) - [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
 * [2025-10-19, 17:00:42](https://news.ycombinator.com/item?id=45635757) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
-* [2025-10-19, 16:57:49](https://news.ycombinator.com/item?id=45635734) - [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
 * [2025-10-19, 16:34:00](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Signal&apos;s Post-Quantum Makeover Is An Amazing Engineering Achievement](https://it.slashdot.org/story/25/10/19/0546205/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 16:31:57](https://news.ycombinator.com/item?id=45635533) - [Doing well in your courses: Andrej&apos;s advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
 * [2025-10-19, 16:17:10](https://lobste.rs/s/0hhu20/at_t_long_lines_forgotten_system_2018) - [AT&amp;T Long Lines – A Forgotten System (2018)](https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
-* [2025-10-19, 16:09:43](https://news.ycombinator.com/item?id=45635287) - [Windows 11 25H2 October Update Bug Renders Recovery Environment Unusable](https://www.techpowerup.com/342032/windows-11-25h2-october-update-bug-renders-recovery-environment-unusable)
 * [2025-10-19, 15:48:52](https://news.ycombinator.com/item?id=45635069) - [GNU Octave Meets JupyterLite: Compute Anywhere, Anytime](https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc)
 * [2025-10-19, 15:34:00](https://news.slashdot.org/story/25/10/19/0439258/are-supershear-earthquakes-even-more-dangerous-than-we-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Supershear Earthquakes Even More Dangerous Than We Thought?](https://news.slashdot.org/story/25/10/19/0439258/are-supershear-earthquakes-even-more-dangerous-than-we-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 15:03:29](https://news.ycombinator.com/item?id=45634678) - [RFCs: Blueprints of the Internet](https://ackreq.github.io/posts/what-are-rfcs/)
-* [2025-10-19, 14:45:03](https://news.ycombinator.com/item?id=45634528) - [Scheme Reports at Fifty](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-19, 14:34:00](https://news.slashdot.org/story/25/10/18/036200/fsf-reminds-consumers-that-truly-free-oss-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FSF Reminds Consumers That Truly Free OS&apos;s Exist](https://news.slashdot.org/story/25/10/18/036200/fsf-reminds-consumers-that-truly-free-oss-exist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-19, 14:25:45](https://news.ycombinator.com/item?id=45634367) - [Xubuntu.org Might Be Compromised](https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/)
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:22:00](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss) - [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss)
 * [2025-10-19, 14:16:12](https://news.ycombinator.com/item?id=45634310) - [Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG](https://github.com/Pringled/pyversity)
@@ -93,11 +110,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 13:35:31](https://news.ycombinator.com/item?id=45634026) - [Abandoned land drives dangerous heat in Houston, study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 * [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt&apos;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
-* [2025-10-19, 13:25:25](https://news.ycombinator.com/item?id=45633958) - [How to Assemble an Electric Heating Element from Scratch](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [2025-10-19, 13:25:11](https://lobste.rs/s/n5khhu/weird_haskell_feels_easy) - [Weird, but Haskell feels easy](https://xlii.space/eng/haskell-feels-easy/)
 * [2025-10-19, 13:01:34](https://news.ycombinator.com/item?id=45633815) - [The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)](https://blog.zhimingwang.org/macos-lc_collate-hunt)
 * [2025-10-19, 12:21:10](https://lobste.rs/s/jgn90f/librebooting_thinkpad_t480) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
-* [2025-10-19, 12:11:58](https://news.ycombinator.com/item?id=45633642) - [Improving PixelMelt&apos;s Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 12:05:09](https://lobste.rs/s/m9dkcf/how_i_d_like_my_init_system_service) - [How I’d like my init system / service supervisor to be](https://runxiyu.org/blog/linit/)
 * [2025-10-19, 11:34:00](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Extortion and Ransomware Drive Over Half of Cyberattacks &amp;mdash; Sometimes Using AI, Microsoft Finds](https://it.slashdot.org/story/25/10/19/0238212/extortion-and-ransomware-drive-over-half-of-cyberattacks-sometimes-using-ai-microsoft-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 11:19:38](https://news.ycombinator.com/item?id=45633453) - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
@@ -107,32 +122,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody&apos;s so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 09:20:05](https://news.ycombinator.com/item?id=45632976) - [Deterministic multithreading is hard (2024)](https://www.factorio.com/blog/post/fff-415)
-* [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 07:34:00](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Data Shows Record CO2 Levels in 2024. Are Carbon Sinks Failing?](https://news.slashdot.org/story/25/10/19/040239/new-data-shows-record-co2-levels-in-2024-are-carbon-sinks-failing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 03:34:00](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Cofounder Builds New Open Source LLM &apos;Nanochat&apos; - and Doesn&apos;t Use Vibe Coding](https://developers.slashdot.org/story/25/10/19/0022237/openai-cofounder-builds-new-open-source-llm-nanochat---and-doesnt-use-vibe-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 01:34:00](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repair Plan Underway to Restore Power at Ukrainian Nuclear Plant](https://hardware.slashdot.org/story/25/10/19/0052247/repair-plan-underway-to-restore-power-at-ukrainian-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
-* [2025-10-19, 00:31:49](https://lobste.rs/s/fdu69j/using_pegs_janet) - [Using PEGs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss)
 * [2025-10-18, 23:01:53](https://lobste.rs/s/kexbxy/knowledge_creates_technical_debt) - [Knowledge creates technical debt](https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/)
 * [2025-10-18, 22:48:00](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Protein Powders and Shakes Contain High Levels of Lead](https://science.slashdot.org/story/25/10/18/2242221/protein-powders-and-shakes-contain-high-levels-of-lead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 21:48:00](https://mobile.slashdot.org/story/25/10/18/2032252/you-only-need-750-to-pilfer-unencrypted-data-from-satellites-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Only Need $750 to Pilfer Unencrypted Data From Satellites, Researchers Say](https://mobile.slashdot.org/story/25/10/18/2032252/you-only-need-750-to-pilfer-unencrypted-data-from-satellites-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
-* [2025-10-18, 20:48:00](https://science.slashdot.org/story/25/10/18/0713233/should-scientists-be-allowed-to-edit-genes-of-wild-animals-top-conservation-groups-just-voted-yes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Scientists Be Allowed to Edit Genes of Wild Animals? Top Conservation Groups Just Voted Yes](https://science.slashdot.org/story/25/10/18/0713233/should-scientists-be-allowed-to-edit-genes-of-wild-animals-top-conservation-groups-just-voted-yes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
-* [2025-10-18, 19:48:00](https://tech.slashdot.org/story/25/10/18/1946208/windows-10-refugees-flock-to-linux-as-zorin-os-claims-biggest-launch-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 10 Refugees Flock To Linux as Zorin OS Claims &apos;Biggest Launch Ever&apos;](https://tech.slashdot.org/story/25/10/18/1946208/windows-10-refugees-flock-to-linux-as-zorin-os-claims-biggest-launch-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 19:37:26](https://lobste.rs/s/chaivl/on_perfetto_open_source_company) - [On Perfetto, Open Source, and Company Priorities](https://lalitm.com/perfetto-oss-company-prio/)
 * [2025-10-18, 19:16:00](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss) - [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss)
-* [2025-10-18, 18:34:00](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity&apos;s AI Browser &apos;Comet&apos; is Now Free, with Big Marketing Deals to Challenge Chrome](https://slashdot.org/story/25/10/18/0437214/perplexitys-ai-browser-comet-is-now-free-with-big-marketing-deals-to-challenge-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss) - [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 * [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
 * [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
-* [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
 * [2025-10-17, 14:48:00](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss) - [How Science, Understanding, and Capitalism Super-Charged Human Growth](https://soylentnews.org/article.pl?sid=25/10/16/0130242&amp;from=rss)
@@ -144,8 +153,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-16, 10:18:00](https://soylentnews.org/article.pl?sid=25/10/14/1729247&amp;from=rss) - [Microsoft Restricts IE Mode Access in Edge After Zero-Day Attacks](https://soylentnews.org/article.pl?sid=25/10/14/1729247&amp;from=rss)
 * [2025-10-16, 05:37:00](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss) - [Wild Honeybees Now Officially Listed as Endangered in the EU](https://soylentnews.org/article.pl?sid=25/10/14/069243&amp;from=rss)
 * [2025-10-16, 00:54:00](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss) - [97% of Companies Struggle to Prove AI&apos;s ROI - but These 5 Expert Tips Can Help](https://soylentnews.org/article.pl?sid=25/10/13/233212&amp;from=rss)
-* [2025-10-15, 20:03:00](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss) - [Green Solvents Could Unlock Plant Protein From Rapeseed Waste](https://soylentnews.org/article.pl?sid=25/10/13/2254230&amp;from=rss)
-* [2025-10-15, 15:20:00](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss) - [Interstellar Object is Spraying Something Weird, Scientists Find](https://soylentnews.org/article.pl?sid=25/10/13/171230&amp;from=rss)
-* [2025-10-15, 10:35:00](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss) - [Nobel Economics Prize Goes to 3 Researchers for Explaining Innovation-Driven Economic Growth](https://soylentnews.org/article.pl?sid=25/10/13/1540238&amp;from=rss)
-* [2025-10-15, 05:51:00](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss) - [Warp Speed! How Some Galaxies Can Move Away From Us Faster Than Light](https://soylentnews.org/article.pl?sid=25/10/13/1457221&amp;from=rss)
-* [2025-10-15, 01:02:00](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss) - [Scientists Studied Ayahuasca Users—What They Found About Death](https://soylentnews.org/article.pl?sid=25/10/13/1447222&amp;from=rss)
