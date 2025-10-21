@@ -1,58 +1,92 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Aerospace and Astronautics
+## Technology and Innovations
 
-* [Mystery Object From 'Space' Strikes United Airlines Flight Over Utah](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A United Airlines flight encountered an inexplicable incident when a mysterious object struck the plane midair over Utah.
+* [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/) - Examining multilingual support in enhancing marginalia search capabilities.
 
-## Cybersecurity and Privacy
+* [Claude Code Gets a Web Version](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Advancing web-based integrations for Claude Code programming.
 
-* [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - SharePoint vulnerabilities enabled foreign hackers to infiltrate a sensitive U.S. nuclear weapons facility.
+* [Postman which I thought worked locally on my computer, is down](https://status.postman.com) - Outages expose potential vulnerabilities in local software reliance.
 
-* [Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials](https://news.slashdot.org/story/25/10/20/204219/hackers-say-they-have-personal-data-of-thousands-of-nsa-and-other-government-officials?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breach resulted in the exposure of thousands of NSA and government officials' personal information.
+* [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020) - Analyzing significant AWS service disruptions.
 
-* [China Accuses NSA of Hacking National Timekeeping Agency](https://slashdot.org/story/25/10/20/1731258/china-accuses-nsa-of-hacking-national-timekeeping-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China has alleged NSA interference with its national timekeeping systems.
+* [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/) - Exploring novel applications in text diffusion.
 
-## Space and Science Innovations
+* [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Introducing advanced OCR technologies for AI-driven text analysis.
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Researchers make significant strides in pinpointing magma movements beneath volcanoes.
+* [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/) - Announcing Servo’s new release with robust features.
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - A technological breakthrough enabling crystal growth has been achieved using lasers and gold nanoparticles.
+* [Apple transparency control feature](https://apple.slashdot.org/story/25/10/20/2113254/ios-261-beta-4-lets-users-control-liquid-glass-transparency-with-new-toggle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Delving into iOS enhancements granting user control over transparency.
 
-## Engineering and Technology Developments
+* [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/) - Simplifying IP subnet comparisons with Go language integrations.
 
-* [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020) - AWS endured a massive outage lasting over a half day, impacting several services.
+## Security and Privacy Concerns
 
-* [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/) - A fresh perspective on Ruby loops and their functional applications.
+* [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating SharePoint security weaknesses exploited in national breaches.
 
-* [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents) - Insights into handling vast document-processing operations.
+* [Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials](https://news.slashdot.org/story/25/10/20/204219/hackers-say-they-have-personal-data-of-thousands-of-nsa-and-other-government-officials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Vast personal data breach targeting government officials causes widespread alarm.
 
-* [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/) - A blog detailing the renewed enthusiasm for using Perl in modern programming.
+* [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss) - Challenges of sustaining AI development amidst data scarcity.
 
-* [Ruby Butler: It’s Time to Rethink RubyGems and Bundler](https://rubyelders.com/writings/2025-10-ruby-butler-1.html) - Discussion on rethinking Ruby's foundational package management tools.
+* [JPMorgan Requires Biometric Data for HQ Access](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss) - Privacy implications of mandatory biometric verification initiatives.
 
-## AI and Computational Advancements
+* [China Accuses NSA of Hacking National Timekeeping Agency](https://slashdot.org/story/25/10/20/1731258/china-accuses-nsa-of-hacking-national-timekeeping-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Accusations of territorial cybersecurity violations raise geopolitical tensions.
 
-* [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/) - An exploration of how AI-driven search and social platforms impact Wikipedia's web traffic.
+## Science and Engineering Discoveries
 
-* [Claude Code Gets a Web Version](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Claude Code expands its reach by offering an accessible web version.
+* [Nanoplastics Detected in Farm Animal Cells](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - Exploring health consequences of microplastic presence in agriculture.
 
-* [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent) - Innovations in pooling systems reduce reliance on Nvidia AI GPUs by Alibaba Cloud.
+* [Quantum Crystals Offer a Blueprint for Future Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&amp;from=rss) - Leveraging molecular architectures for breakthroughs in technology.
 
-## Consumer Technology
+* [First Device Using Optical Thermodynamics](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - Innovative routing of light developed without traditional setups.
 
-* [Kohler Unveils a Camera For Your Toilet](https://mobile.slashdot.org/story/25/10/20/212258/kohler-unveils-a-camera-for-your-toilet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Kohler introduces a controversial technological addition for bathroom monitoring.
+* [Lasers Enable Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - Exploring applications of laser-induced crystallization for engineering.
 
-* [Google To Let 'Superfans' Test In-Development Pixel Phones](https://tech.slashdot.org/story/25/10/20/1925216/google-to-let-superfans-test-in-development-pixel-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A unique initiative by Google invites enthusiasts to test Pixel phone prototypes.
+* [Understanding Volcano Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - Enhancing volcanic prediction and geological modeling.
 
-* [Nvidia CEO Says Company Went from 95% to 0 Market Share in China](https://tech.slashdot.org/story/25/10/20/1934203/nvidia-ceo-says-company-went-from-95-to-0-market-share-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nvidia faces unprecedented challenges losing its dominant market share in China.
+## Space and Aeronautics
 
-## Gaming News
+* [Mystery Object From Space Strikes United Airlines Flight](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating extraterrestrial incidents impacting aviation.
 
-* [Chess Influencer and Grandmaster Daniel Naroditsky Dies At 29](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The chess community mourns the loss of renowned grandmaster and influencer.
+* [Space Elevator Concepts](https://neal.fun/space-elevator/) - Analyzing feasibility of constructing space-access mechanisms.
 
-* [Florida Issues Criminal Subpoenas To Roblox Over Child Safety](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Roblox faces legal scrutiny over allegations compromising child safety.
+* [Comet Lemmon Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - Observational studies forecast peak visibility.
 
-* [The Sims Mobile is Shutting Down Next Year](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - EA's mobile rendition of The Sims faces its imminent closure.
+* [GM Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss) - Economic implications of adjustments in electric mobility strategies.
+
+## Health and Social Research
+
+* [Results from Blood Test for 50 Cancers](https://www.bbc.com/news/articles/c205g21n1zzo) - Advances towards comprehensive cancer diagnostics.
+
+* [How Sociology Explains Helping Behavior in Friendships](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - Research focuses on altruistic dynamics.
+
+* [60k Kids Have Avoided Peanut Allergies Due to 2015 Advice](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/) - Public health success reducing allergy prevalence.
+
+* [Poverty in Australia Changes](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - Evaluating socio-economic policy efficacy against poverty indicators.
+
+* [Chess Influencer Dies](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tragic loss impacts competitive and community circles.
+
+## Cyber Warfare and AI Ethics
+
+* [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&amp;from=rss) - Policy shifts responding to AI manipulation threats.
+
+* [OpenAI's 'Embarrassing' Math](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ethical considerations amid AI research shortcomings.
+
+## Gaming Industry Developments
+
+* [Florida Subpoenas Roblox for Child Safety](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating gaming platform's safety protocols.
+
+* [Detective Game Built on Wikipedia](https://detective.wiki/) - Introducing an interactive learning platform for knowledge exploration.
+
+* [The Sims Mobile Shutdown](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Phasing out iconic simulation gaming projects.
+
+## Energy Systems and Market Economics
+
+* [Nvidia CEO Speaks on China's Market Share Drop](https://tech.slashdot.org/story/25/10/20/1934203/nvidia-ceo-says-company-went-from-95-to-0-market-share-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining fallout and resilience strategies for tech industries.
+
+* [Alibaba Reduces GPU Use](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent) - Economic analysis of Nvidia pooling innovations.
+
+* [Nation-State Ransacking F5's Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss) - Major network breaches emphasize emerging digital vulnerabilities.
 
 ---
 
@@ -79,9 +113,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-21, 06:47:52](https://lobste.rs/s/dr08yt/language_support_for_marginalia_search) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
+* [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
+* [2025-10-21, 04:27:00](https://soylentnews.org/article.pl?sid=25/10/20/1229240&amp;from=rss) - [GNOME Has a New Security Threat Scanner Powered by VirusTotal](https://soylentnews.org/article.pl?sid=25/10/20/1229240&amp;from=rss)
+* [2025-10-21, 03:53:20](https://news.ycombinator.com/item?id=45652307) - [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/)
 * [2025-10-21, 03:30:00](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mystery Object From &apos;Space&apos; Strikes United Airlines Flight Over Utah](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 03:28:21](https://lobste.rs/s/lh2obf/how_we_built_websocket_servers_for_vercel) - [How We Built WebSocket Servers for Vercel Functions](https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/)
-* [2025-10-21, 01:29:03](https://news.ycombinator.com/item?id=45651485) - [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
 * [2025-10-21, 01:25:00](https://hardware.slashdot.org/story/25/10/20/2155249/62-sandisk-memory-card-found-intact-at-titan-wreck-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [$62 SanDisk Memory Card Found Intact At Titan Wreck Site](https://hardware.slashdot.org/story/25/10/20/2155249/62-sandisk-memory-card-found-intact-at-titan-wreck-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 00:45:00](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
@@ -91,11 +128,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-20, 23:40:00](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chess Influencer and Grandmaster Daniel Naroditsky Dies At 29](https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 23:40:00](https://soylentnews.org/article.pl?sid=25/10/20/0111228&amp;from=rss) - [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&amp;from=rss)
 * [2025-10-20, 23:20:00](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Florida Issues Criminal Subpoenas To Roblox Over Child Safety](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-20, 23:16:41](https://news.ycombinator.com/item?id=45650617) - [Why UUIDs won&apos;t protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 * [2025-10-20, 22:40:00](https://mobile.slashdot.org/story/25/10/20/212258/kohler-unveils-a-camera-for-your-toilet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kohler Unveils a Camera For Your Toilet](https://mobile.slashdot.org/story/25/10/20/212258/kohler-unveils-a-camera-for-your-toilet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
 * [2025-10-20, 22:32:50](https://lobste.rs/s/kxjcte/atproto_check_fall_2025) - [atproto Check-in (Fall 2025)](https://docs.bsky.app/blog/protocol-checkin-fall-2025)
-* [2025-10-20, 22:22:45](https://news.ycombinator.com/item?id=45650178) - [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-10-20, 22:00:00](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code Gets a Web Version](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 21:22:00](https://news.slashdot.org/story/25/10/20/204219/hackers-say-they-have-personal-data-of-thousands-of-nsa-and-other-government-officials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials](https://news.slashdot.org/story/25/10/20/204219/hackers-say-they-have-personal-data-of-thousands-of-nsa-and-other-government-officials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 20:50:03](https://news.ycombinator.com/item?id=45649178) - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
@@ -135,7 +170,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
 * [2025-10-20, 10:04:25](https://lobste.rs/s/xtunoa/we_need_start_doing_web_blocking_for_non) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
 * [2025-10-20, 09:26:00](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss) - [JPMorgan Requires Staff to Hand Over Biometric Data to Access New Headquarters](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss)
-* [2025-10-20, 07:31:23](https://news.ycombinator.com/item?id=45640877) - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 06:54:33](https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre) - [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 * [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
@@ -144,7 +178,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss)
 * [2025-10-19, 21:34:48](https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-19, 19:06:00](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss) - [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&amp;from=rss)
-* [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:22:00](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss) - [Is AI Running Out of Training Data?](https://soylentnews.org/article.pl?sid=25/10/18/000230&amp;from=rss)
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 06:42:19](https://news.ycombinator.com/item?id=45632429) - [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
@@ -163,4 +196,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-17, 10:00:00](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss) - [Nanoplastics Detected in Farm Animal Cells: Study Warns of Possible Human Consequences](https://soylentnews.org/article.pl?sid=25/10/16/0122209&amp;from=rss)
 * [2025-10-17, 05:16:00](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss) - [Elon Musk Plans to Take on Wikipedia With &apos;Grokipedia&apos;](https://soylentnews.org/article.pl?sid=25/10/16/0117201&amp;from=rss)
 * [2025-10-17, 00:30:00](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss) - [Drones Rain Fire on Crowd in Southern China](https://soylentnews.org/article.pl?sid=25/10/16/0112201&amp;from=rss)
-* [2025-10-17, 00:28:01](https://news.ycombinator.com/item?id=45612223) - [Art Must Act](https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche)
