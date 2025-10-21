@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Engineering Updates
+## Technological Advancements
 
-* [SpaceX Launches 10,000th Starlink Satellite](https://tech.slashdot.org/story/25/10/21/000208/spacex-launches-10000th-starlink-satellite?utm_source=rss1.0mainlinkanon&utm_medium=feed) accompanied by advancements in global connectivity.
+* [Lloyds Banking Group Claims Microsoft Copilot Saves Staff 46 Minutes a Day](https://slashdot.org/story/25/10/20/223252/lloyds-banking-group-claims-microsoft-copilot-saves-staff-46-minutes-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020) as cloud services face reliability challenges.
+* [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
 
-* [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent) showcasing innovative efficiency in cloud computing.
+* [Alibaba Cloud Says It Cut Nvidia AI GPU Use By 82% With New Pooling System](https://hardware.slashdot.org/story/25/10/21/005243/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Claude Code Gets a Web Version](https://slashdot.org/story/25/10/20/2059211/claude-code-gets-a-web-version?utm_source=rss1.0mainlinkanon&utm_medium=feed) delivering AI coding tools to broader audiences.
+* [Progress update on Clang's new constant expression interpreter](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update)
 
-* [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249) demonstrates an open-source approach to communication technology.
+* [GNOME Has a New Security Threat Scanner Powered by VirusTotal](https://soylentnews.org/article.pl?sid=25/10/20/1229240&from=rss)
 
-## Cybersecurity and Data Breaches
+## Scientific Discoveries and Phenomena
 
-* [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed) revealing critical vulnerabilities.
+* [Mystery Object From 'Space' Strikes United Airlines Flight Over Utah](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials](https://news.slashdot.org/story/25/10/20/204219/hackers-say-they-have-personal-data-of-thousands-of-nsa-and-other-government-officials?utm_source=rss1.0mainlinkanon&utm_medium=feed) exposing risks in government data security.
+* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&from=rss)
 
-* [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss), exploring AI's role in global information manipulation.
+## Space Exploration and Astronomy
 
-* [GNOME Has a New Security Threat Scanner Powered by VirusTotal](https://soylentnews.org/article.pl?sid=25/10/20/1229240&from=rss) enhancing open-source platform security.
+* [SpaceX Launches 10,000th Starlink Satellite](https://tech.slashdot.org/story/25/10/21/000208/spacex-launches-10000th-starlink-satellite?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Scientific and Space Discoveries
+* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss)
 
-* [Mystery Object From 'Space' Strikes United Airlines Flight Over Utah](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&utm_medium=feed) piquing curiosity about extraterrestrial materials.
+## Gaming Industry and Retro Gaming
 
-* [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&from=rss) inviting astronomical observations.
+* [StarGrid: Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 
-* [First Device Based on 'Optical Thermodynamics' Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&from=rss), pioneering light-based routing systems.
+## Social and Ethical Issues
 
-* [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&from=rss) aiding global geological studies.
+* [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## AI and Big Data Insights
+* [Florida Issues Criminal Subpoenas To Roblox Over Child Safety](https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Lifespan of AI Chips: The $300 Billion Question](https://soylentnews.org/article.pl?sid=25/10/20/1236216&from=rss), addressing efficiency challenges in AI hardware.
+* [Russia, AI and the Future of Disinformation Warfare](https://soylentnews.org/article.pl?sid=25/10/20/0111228&from=rss)
 
-* [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/), commenting on simplifications in text analysis models.
+## Significant Losses
 
-* [Quantum Crystals Offer a Blueprint for the Future of Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&from=rss) connecting quantum mechanics to practical solutions.
-
-* [OpenAI's 'Embarrassing' Math](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&utm_medium=feed) showcasing pitfalls in AI systems.
-
-## Human Error and Impact Stories
-
-* [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html), reflecting on historical internet vulnerabilities.
-
-* [Windows 11 Update Breaks Localhost, Prompting Mass Uninstall Workaround](https://soylentnews.org/article.pl?sid=25/10/18/002218&from=rss), highlighting software update issues.
-
-* [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me), sharing amusing yet alarming IoT anecdotes.
-
-* [The Sims Mobile is Shutting Down Next Year](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed), marking the end of a popular simulation game's mobile era.
+* [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)
 
 ---
 
@@ -77,9 +65,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-21, 09:28:29](https://news.ycombinator.com/item?id=45653981) - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
+* [2025-10-21, 13:00:00](https://slashdot.org/story/25/10/20/223252/lloyds-banking-group-claims-microsoft-copilot-saves-staff-46-minutes-a-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lloyds Banking Group Claims Microsoft Copilot Saves Staff 46 Minutes a Day](https://slashdot.org/story/25/10/20/223252/lloyds-banking-group-claims-microsoft-copilot-saves-staff-46-minutes-a-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-21, 12:30:27](https://lobste.rs/s/bsckho/6_months_tangled) - [6 months of Tangled](https://blog.tangled.org/6-months)
+* [2025-10-21, 11:58:06](https://lobste.rs/s/znhl2p/stargrid_brand_new_palm_os_strategy_game) - [StarGrid: Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
+* [2025-10-21, 11:42:14](https://news.ycombinator.com/item?id=45654660) - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
+* [2025-10-21, 11:39:19](https://news.ycombinator.com/item?id=45654635) - [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
+* [2025-10-21, 11:16:34](https://news.ycombinator.com/item?id=45654512) - [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
+* [2025-10-21, 11:15:02](https://lobste.rs/s/9s7f00/forging_fedora_s_future_with_forgejo) - [Forging Fedora’s Future with Forgejo](https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/)
+* [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
+* [2025-10-21, 10:44:48](https://news.ycombinator.com/item?id=45654382) - [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)
+* [2025-10-21, 10:00:00](https://hardware.slashdot.org/story/25/10/21/005243/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use By 82% With New Pooling System](https://hardware.slashdot.org/story/25/10/21/005243/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 09:15:00](https://soylentnews.org/article.pl?sid=25/10/20/1236216&amp;from=rss) - [Lifespan of AI Chips: The $300 Billion Question](https://soylentnews.org/article.pl?sid=25/10/20/1236216&amp;from=rss)
-* [2025-10-21, 07:26:57](https://news.ycombinator.com/item?id=45653350) - [Show HN: I&apos;m rewriting a web server written in Rust for speed and ease of use](https://ferron.sh/)
 * [2025-10-21, 07:23:09](https://news.ycombinator.com/item?id=45653330) - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
 * [2025-10-21, 07:00:00](https://tech.slashdot.org/story/25/10/21/000208/spacex-launches-10000th-starlink-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Launches 10,000th Starlink Satellite](https://tech.slashdot.org/story/25/10/21/000208/spacex-launches-10000th-starlink-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 06:57:44](https://lobste.rs/s/hs1cua/progress_update_on_clang_s_new_constant) - [Progress update on Clang&apos;s new constant expression interpreter](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update)
@@ -88,7 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-21, 05:47:39](https://news.ycombinator.com/item?id=45652859) - [Practical Scheme](https://practical-scheme.net/index.html#docs)
 * [2025-10-21, 04:27:00](https://soylentnews.org/article.pl?sid=25/10/20/1229240&amp;from=rss) - [GNOME Has a New Security Threat Scanner Powered by VirusTotal](https://soylentnews.org/article.pl?sid=25/10/20/1229240&amp;from=rss)
 * [2025-10-21, 03:30:00](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mystery Object From &apos;Space&apos; Strikes United Airlines Flight Over Utah](https://science.slashdot.org/story/25/10/21/0015212/mystery-object-from-space-strikes-united-airlines-flight-over-utah?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-21, 03:28:21](https://lobste.rs/s/lh2obf/how_we_built_websocket_servers_for_vercel) - [How We Built WebSocket Servers for Vercel Functions](https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/)
 * [2025-10-21, 01:25:00](https://hardware.slashdot.org/story/25/10/20/2155249/62-sandisk-memory-card-found-intact-at-titan-wreck-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [$62 SanDisk Memory Card Found Intact At Titan Wreck Site](https://hardware.slashdot.org/story/25/10/20/2155249/62-sandisk-memory-card-found-intact-at-titan-wreck-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 00:45:00](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws](https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
@@ -113,10 +108,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-20, 19:25:00](https://tech.slashdot.org/story/25/10/20/1925216/google-to-let-superfans-test-in-development-pixel-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google To Let &apos;Superfans&apos; Test In-Development Pixel Phones](https://tech.slashdot.org/story/25/10/20/1925216/google-to-let-superfans-test-in-development-pixel-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 18:58:00](https://soylentnews.org/article.pl?sid=25/10/18/1822203&amp;from=rss) - [Oops! It&apos;s a Kernel Stack Use-After-Free: Exploiting NVIDIA&apos;s GPU Linux Drivers](https://soylentnews.org/article.pl?sid=25/10/18/1822203&amp;from=rss)
 * [2025-10-20, 18:45:32](https://lobste.rs/s/yvebbf/nix_ci_benchmarks) - [Nix CI Benchmarks](https://garnix-io.github.io/benchmarks)
-* [2025-10-20, 18:45:00](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s &apos;Embarrassing&apos; Math](https://science.slashdot.org/story/25/10/20/1827201/openais-embarrassing-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-20, 18:12:23](https://news.ycombinator.com/item?id=45647166) - [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
-* [2025-10-20, 18:08:00](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Sims Mobile is Shutting Down Next Year](https://games.slashdot.org/story/25/10/20/188252/the-sims-mobile-is-shutting-down-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-20, 17:55:18](https://news.ycombinator.com/item?id=45646958) - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 * [2025-10-20, 17:39:00](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&amp;from=rss) - [Soylent Update](https://soylentnews.org/meta/article.pl?sid=25/10/20/098210&amp;from=rss)
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
 * [2025-10-20, 17:18:44](https://lobste.rs/s/qza35k/ruby_butler_it_s_time_rethink_rubygems) - [Ruby Butler: It’s Time to Rethink RubyGems and Bundler](https://rubyelders.com/writings/2025-10-ruby-butler-1.html)
@@ -124,20 +116,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 15:55:36](https://news.ycombinator.com/item?id=45645349) - [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 * [2025-10-20, 15:35:19](https://news.ycombinator.com/item?id=45645120) - [Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)](https://judojj.com)
-* [2025-10-20, 15:12:47](https://lobste.rs/s/fdqnji/favor_comments_what_does_empirical) - [In favor of comments, what does empirical engineering says? (2022)](https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/)
 * [2025-10-20, 14:43:01](https://lobste.rs/s/px0gr0/how_i_use_claude_code_on_my_phone_with) - [How I Use Claude Code on My Phone with Termux and Tailscale](https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/)
 * [2025-10-20, 14:31:16](https://news.ycombinator.com/item?id=45644328) - [BERT is just a single text diffusion step](https://nathan.rs/posts/roberta-diffusion/)
 * [2025-10-20, 14:08:00](https://soylentnews.org/article.pl?sid=25/10/18/180239&amp;from=rss) - [Quantum Crystals Offer a Blueprint for the Future of Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&amp;from=rss)
 * [2025-10-20, 13:57:49](https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt) - [Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO](https://www.evalapply.org/posts/software-debt/index.html)
-* [2025-10-20, 13:27:01](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
 * [2025-10-20, 12:31:22](https://news.ycombinator.com/item?id=45643163) - [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
-* [2025-10-20, 11:30:35](https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets) - [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
 * [2025-10-20, 10:04:25](https://lobste.rs/s/xtunoa/we_need_start_doing_web_blocking_for_non) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
 * [2025-10-20, 09:26:00](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss) - [JPMorgan Requires Staff to Hand Over Biometric Data to Access New Headquarters](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss)
 * [2025-10-20, 07:22:28](https://news.ycombinator.com/item?id=45640838) - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
-* [2025-10-20, 06:26:33](https://news.ycombinator.com/item?id=45640594) - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [2025-10-20, 04:42:08](https://news.ycombinator.com/item?id=45640226) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2025-10-20, 04:41:00](https://soylentnews.org/article.pl?sid=25/10/16/1551203&amp;from=rss) - [Tech Billionaires Seem to be Doom Prepping. Should We All be Worried?](https://soylentnews.org/article.pl?sid=25/10/16/1551203&amp;from=rss)
 * [2025-10-19, 23:52:00](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss) - [Poverty in Australia Increases to 1 in 7 People, According to Report](https://soylentnews.org/article.pl?sid=25/10/18/004205&amp;from=rss)
@@ -153,7 +141,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
 * [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
 * [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss)
-* [2025-10-17, 23:54:40](https://news.ycombinator.com/item?id=45623509) - [Results from blood test for 50 cancers](https://www.bbc.com/news/articles/c205g21n1zzo)
+* [2025-10-17, 20:19:56](https://news.ycombinator.com/item?id=45621571) - [Show HN: ASCII Automata](https://hlnet.neocities.org/ascii-automata/)
 * [2025-10-17, 20:18:54](https://news.ycombinator.com/item?id=45621557) - [Code from MIT&apos;s 1986 SICP video lectures](https://github.com/felipap/sicp-code)
 * [2025-10-17, 19:33:00](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss) - [First Device Based on &apos;Optical Thermodynamics&apos; Can Route Light Without Switches](https://soylentnews.org/article.pl?sid=25/10/16/0136252&amp;from=rss)
 * [2025-10-17, 15:34:04](https://news.ycombinator.com/item?id=45617948) - [Show HN: I&apos;m making a detective game built on Wikipedia](https://detective.wiki/)
