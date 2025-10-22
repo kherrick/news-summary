@@ -1,44 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Internet Milestones and Developments
+## Technology Releases and Updates
 
-* [Internet Archive Celebrates 1 Trillion Web Pages Archived](https://tech.slashdot.org/story/25/10/21/2324239/internet-archive-celebrates-1-trillion-web-pages-archived?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT) ([comments](https://news.ycombinator.com/item?id=45664147))
 
-## Cybersecurity Issues
+* [KDE Plasma 6.5 Released](https://tech.slashdot.org/story/25/10/21/1948244/kde-plasma-65-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/pstg9w/plasma_6_5))
+
+* [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/) ([comments](https://lobste.rs/s/63tgtm/servo_0_0_1_release))
+
+## Digital Security and Incidents
+
+* [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss) ([comments](https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service))
 
 * [Fake Homebrew Google Ads Push Malware Onto macOS](https://it.slashdot.org/story/25/10/21/2256241/fake-homebrew-google-ads-push-malware-onto-macos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [US Investigates Waymo Robotaxis Over Safety Around School Buses](https://tech.slashdot.org/story/25/10/21/2244249/us-investigates-waymo-robotaxis-over-safety-around-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html) ([comments](https://news.ycombinator.com/item?id=45657287))
 
-* [London Became a Global Hub for Phone Theft. Now We Know Why.](https://news.slashdot.org/story/25/10/21/1557254/london-became-a-global-hub-for-phone-theft-now-we-know-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace) ([comments](https://lobste.rs/s/degq8m/glassworm_first_self_propagating_worm))
 
-* [GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
-
-## Artificial Intelligence and Technology
-
-* [YouTube's Likeness Detection Has Arrived To Help Stop AI Doppelgangers](https://news.slashdot.org/story/25/10/21/2250229/youtubes-likeness-detection-has-arrived-to-help-stop-ai-doppelgangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
-
-* [NASA chief suggests SpaceX may be booted from moon mission](https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy)
+## AI and Automation
 
 * [OpenAI Debuts AI-Powered Browser With Memory and Agent Features](https://tech.slashdot.org/story/25/10/21/1725235/openai-debuts-ai-powered-browser-with-memory-and-agent-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Software and Development
+* [YouTube's Likeness Detection Has Arrived To Help Stop AI Doppelgangers](https://news.slashdot.org/story/25/10/21/2250229/youtubes-likeness-detection-has-arrived-to-help-stop-ai-doppelgangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss)
+## Scientific and Medical Advances
 
-* [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
+* [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/) ([comments](https://news.ycombinator.com/item?id=45662831))
 
-* [Build your own database](https://www.nan.fyi/database)
+* [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/) ([comments](https://news.ycombinator.com/item?id=45652307))
 
-## Scientific Innovations
+## Innovative Tools and Software
 
-* [Diamond Thermal Conductivity: A New Era in Chip Cooling](https://spectrum.ieee.org/diamond-thermal-conductivity)
+* [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) ([comments](https://news.ycombinator.com/item?id=45661638))
 
-* [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
+* [Build your own database](https://www.nan.fyi/database) ([comments](https://news.ycombinator.com/item?id=45657827))
 
-* [Why Signal's Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
+* [ChatGPT Atlas](https://chatgpt.com/atlas) ([comments](https://news.ycombinator.com/item?id=45658479))
+
+## Environmental and Political Developments
+
+* [British Columbia to Permanently Ban New Crypto Mining Projects From Grid](https://hardware.slashdot.org/story/25/10/21/237254/british-columbia-to-permanently-ban-new-crypto-mining-projects-from-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [France and Spain Call on EU To Uphold 2035 Combustion Engine Ban](https://news.slashdot.org/story/25/10/21/1759230/france-and-spain-call-on-eu-to-uphold-2035-combustion-engine-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Cultural and Historical Perspectives
+
+* [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) ([comments](https://news.ycombinator.com/item?id=45662668))
+
+* [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures) ([comments](https://lobste.rs/s/lo8r1s/greatness_text_adventures))
+
+* [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/) ([comments](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical))
 
 ---
 
@@ -65,22 +77,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-22, 02:02:58](https://news.ycombinator.com/item?id=45664147) - [OpenBSD 7.8 Released](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
+* [2025-10-22, 02:00:00](https://hardware.slashdot.org/story/25/10/21/237254/british-columbia-to-permanently-ban-new-crypto-mining-projects-from-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [British Columbia to Permanently Ban New Crypto Mining Projects From Grid](https://hardware.slashdot.org/story/25/10/21/237254/british-columbia-to-permanently-ban-new-crypto-mining-projects-from-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 01:30:00](https://tech.slashdot.org/story/25/10/21/2324239/internet-archive-celebrates-1-trillion-web-pages-archived?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Archive Celebrates 1 Trillion Web Pages Archived](https://tech.slashdot.org/story/25/10/21/2324239/internet-archive-celebrates-1-trillion-web-pages-archived?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 01:00:00](https://it.slashdot.org/story/25/10/21/2256241/fake-homebrew-google-ads-push-malware-onto-macos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake Homebrew Google Ads Push Malware Onto macOS](https://it.slashdot.org/story/25/10/21/2256241/fake-homebrew-google-ads-push-malware-onto-macos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 00:20:00](https://news.slashdot.org/story/25/10/21/2250229/youtubes-likeness-detection-has-arrived-to-help-stop-ai-doppelgangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube&apos;s Likeness Detection Has Arrived To Help Stop AI Doppelgangers](https://news.slashdot.org/story/25/10/21/2250229/youtubes-likeness-detection-has-arrived-to-help-stop-ai-doppelgangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 00:11:09](https://news.ycombinator.com/item?id=45663435) - [Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB](https://cdb.cr.yp.to/)
+* [2025-10-22, 00:11:09](https://news.ycombinator.com/item?id=45663435) - [Cdb: Add support for cdb64](https://cdb.cr.yp.to/download.html)
 * [2025-10-21, 23:40:00](https://tech.slashdot.org/story/25/10/21/2244249/us-investigates-waymo-robotaxis-over-safety-around-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Investigates Waymo Robotaxis Over Safety Around School Buses](https://tech.slashdot.org/story/25/10/21/2244249/us-investigates-waymo-robotaxis-over-safety-around-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 23:26:00](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss) - [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss)
 * [2025-10-21, 23:18:27](https://lobste.rs/s/lo8r1s/greatness_text_adventures) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 23:13:29](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh) - [What’s the problem with pipe-curl-into-sh?](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh)
 * [2025-10-21, 23:05:00](https://tech.slashdot.org/story/25/10/21/2138208/isp-deceived-customers-about-fiber-internet-german-court-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ISP Deceived Customers About Fiber Internet, German Court Finds](https://tech.slashdot.org/story/25/10/21/2138208/isp-deceived-customers-about-fiber-internet-german-court-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-21, 23:00:40](https://news.ycombinator.com/item?id=45662831) - [\&quot;Butt breathing\&quot; might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
+* [2025-10-21, 23:00:40](https://news.ycombinator.com/item?id=45662831) - [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 * [2025-10-21, 22:43:07](https://news.ycombinator.com/item?id=45662668) - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
 * [2025-10-21, 22:25:00](https://developers.slashdot.org/story/25/10/21/2132259/jetbrains-survey-declares-php-declining-then-says-it-isnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [JetBrains Survey Declares PHP Declining, Then Says It Isn&apos;t](https://developers.slashdot.org/story/25/10/21/2132259/jetbrains-survey-declares-php-declining-then-says-it-isnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 21:45:00](https://tech.slashdot.org/story/25/10/21/2125252/tiktoks-new-policies-remove-promise-to-notify-users-before-government-data-disclosure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok&apos;s New Policies Remove Promise To Notify Users Before Government Data Disclosure](https://tech.slashdot.org/story/25/10/21/2125252/tiktoks-new-policies-remove-promise-to-notify-users-before-government-data-disclosure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 21:05:00](https://apple.slashdot.org/story/25/10/21/2047227/apples-planned-foldable-ipad-with-18-inch-screen-hits-development-snags?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Planned Foldable iPad With 18-inch Screen Hits Development Snags](https://apple.slashdot.org/story/25/10/21/2047227/apples-planned-foldable-ipad-with-18-inch-screen-hits-development-snags?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 21:00:10](https://news.ycombinator.com/item?id=45661638) - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
-* [2025-10-21, 20:52:44](https://news.ycombinator.com/item?id=45661547) - [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
+* [2025-10-21, 20:31:47](https://news.ycombinator.com/item?id=45661306) - [Erowid - Documenting the Complex Relationship Between Humans and Psychoactives](https://www.erowid.org)
 * [2025-10-21, 20:28:15](https://news.ycombinator.com/item?id=45661253) - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 * [2025-10-21, 20:25:00](https://tech.slashdot.org/story/25/10/21/1948244/kde-plasma-65-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE Plasma 6.5 Released](https://tech.slashdot.org/story/25/10/21/1948244/kde-plasma-65-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 20:14:22](https://news.ycombinator.com/item?id=45661084) - [Doomsday scoreboard](https://doomsday.march1studios.com/)
@@ -97,11 +111,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-21, 16:45:00](https://apple.slashdot.org/story/25/10/21/1634248/apple-attacks-eu-crackdown-in-digital-laws-biggest-court-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Attacks EU Crackdown in Digital Law&apos;s Biggest Court Test](https://apple.slashdot.org/story/25/10/21/1634248/apple-attacks-eu-crackdown-in-digital-laws-biggest-court-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 16:33:33](https://lobste.rs/s/c6hkyp/design_scheme_78_lisp_based) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
 * [2025-10-21, 16:31:51](https://news.ycombinator.com/item?id=45657827) - [Build your own database](https://www.nan.fyi/database)
+* [2025-10-21, 16:29:32](https://lobste.rs/s/ppakny/how_minecraft_servers_can_track_you) - [How Minecraft servers can track you across accounts and IPs using resource packs](https://alaggydev.github.io/posts/cytooxien/)
 * [2025-10-21, 16:29:03](https://lobste.rs/s/degq8m/glassworm_first_self_propagating_worm) - [GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
 * [2025-10-21, 16:02:00](https://news.slashdot.org/story/25/10/21/1557254/london-became-a-global-hub-for-phone-theft-now-we-know-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [London Became a Global Hub for Phone Theft. Now We Know Why.](https://news.slashdot.org/story/25/10/21/1557254/london-became-a-global-hub-for-phone-theft-now-we-know-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 15:55:41](https://news.ycombinator.com/item?id=45657345) - [Ask HN: Our AWS account got compromised after their outage](https://news.ycombinator.com/item?id=45657345)
 * [2025-10-21, 15:51:33](https://news.ycombinator.com/item?id=45657287) - [Foreign hackers breached a US nuclear weapons plant via SharePoint flaws](https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html)
-* [2025-10-21, 15:24:00](https://news.slashdot.org/story/25/10/21/1524225/us-narrows-who-pays-100000-h-1b-visa-fee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Narrows Who Pays $100,000 H-1B Visa Fee](https://news.slashdot.org/story/25/10/21/1524225/us-narrows-who-pays-100000-h-1b-visa-fee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-21, 15:22:25](https://news.ycombinator.com/item?id=45656952) - [Show HN: Katakate – Dozens of VMs per node for safe code exec](https://github.com/Katakate/k7)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 15:13:55](https://lobste.rs/s/2mjimw/fast_bytecode_vm_for_arithmetic_virtual) - [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/)
@@ -111,7 +125,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-21, 13:11:42](https://lobste.rs/s/o8acsz/streaming_live_video_as_macos) - [Streaming live video as a macOS screensaver using AVFoundation and yt-dlp](https://github.com/hauxir/macos-live-screensaver)
 * [2025-10-21, 13:11:24](https://lobste.rs/s/6hfg9a/tracking_time_without_clock) - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 * [2025-10-21, 13:09:45](https://lobste.rs/s/kltrqx/just_use_curl) - [Just use cURL](https://justuse.org/curl/)
-* [2025-10-21, 12:58:57](https://news.ycombinator.com/item?id=45655190) - [Our modular, high-performance Merkle Tree library for Rust](https://github.com/bilinearlabs/rs-merkle-tree)
+* [2025-10-21, 13:05:21](https://news.ycombinator.com/item?id=45655263) - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
 * [2025-10-21, 12:58:43](https://news.ycombinator.com/item?id=45655188) - [NASA chief suggests SpaceX may be booted from moon mission](https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy)
 * [2025-10-21, 12:55:59](https://news.ycombinator.com/item?id=45655161) - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 * [2025-10-21, 12:30:27](https://lobste.rs/s/bsckho/6_months_tangled) - [6 months of Tangled](https://blog.tangled.org/6-months)
@@ -134,7 +148,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
 * [2025-10-20, 17:24:49](https://news.ycombinator.com/item?id=45646559) - [Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/)
 * [2025-10-20, 17:13:44](https://news.ycombinator.com/item?id=45646414) - [What do we do if SETI is successful?](https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful)
-* [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 14:08:00](https://soylentnews.org/article.pl?sid=25/10/18/180239&amp;from=rss) - [Quantum Crystals Offer a Blueprint for the Future of Computing and Chemistry](https://soylentnews.org/article.pl?sid=25/10/18/180239&amp;from=rss)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
 * [2025-10-20, 09:26:00](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss) - [JPMorgan Requires Staff to Hand Over Biometric Data to Access New Headquarters](https://soylentnews.org/article.pl?sid=25/10/18/1749235&amp;from=rss)
