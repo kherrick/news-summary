@@ -1,60 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Hacks
+## Advancements and Updates in Technology
 
-* [Jaguar Land Rover Hack Cost UK Economy an Estimated $2.5 Billion](https://news.slashdot.org/story/25/10/22/1952245/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major hack targeting Jaguar Land Rover significantly impacted the UK economy, resulting in an estimated $2.5 billion loss.
+* [Meta Lays Off 600 From 'Bloated' AI Unit](https://tech.slashdot.org/story/25/10/22/2351229/meta-lays-off-600-from-bloated-ai-unit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&from=rss) - A new security vulnerability exposes 2FA codes to hackers, posing a significant threat to Android users.
+* [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
 
-* [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&from=rss) - Unsecured satellites are being used to eavesdrop on internal networks, raising concerns about data security in telecommunications.
+* [Google Porting All Internal Workloads To Arm](https://hardware.slashdot.org/story/25/10/22/2022215/google-porting-all-internal-workloads-to-arm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia) - A mass assignment vulnerability has led to the exposure of sensitive personal data of Formula 1 drivers, including Max Verstappen.
+* [OpenBSD 7.8 Released](https://bsd.slashdot.org/story/25/10/22/205215/openbsd-78-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Reddit Sues Perplexity For Scraping Data To Train AI System](https://yro.slashdot.org/story/25/10/22/1743250/reddit-sues-perplexity-for-scraping-data-to-train-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reddit files a lawsuit against Perplexity, accusing the company of scraping its data to train AI systems.
+## Artificial Intelligence and Machine Learning Insights
 
-## Technological Innovations and Advancements
+* [AI Assistants Misrepresent News Content 45% of the Time](https://news.slashdot.org/story/25/10/22/2011239/ai-assistants-misrepresent-news-content-45-of-the-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Google's Quantum Computer Makes a Big Technical Leap](https://science.slashdot.org/story/25/10/22/163228/googles-quantum-computer-makes-a-big-technical-leap?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google announces significant advancements in its quantum computing capabilities.
+* [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
 
-* [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/) - Google's new Willow quantum chip showcases cutting-edge technology, achieving verifiable quantum advantage.
+* [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
 
-* [SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem](https://www.source.dev/journal/sourcefs) - SourceFS introduces a virtual filesystem that drastically reduces Android build times from over two hours to just 15 minutes.
+## Climate and Environmental Changes
 
-* [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html) - HP introduces its 'SitePrint' layout robot, advancing printing technology for construction layouts.
+* [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
 
-* [Galaxy XR: The first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/) - The Galaxy XR debuts as the first XR headset powered by Android, introducing immersive extended reality experiences.
+* [New Delhi Pollution Hits Five-Year High](https://news.slashdot.org/story/25/10/22/1818215/new-delhi-pollution-hits-five-year-high?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Environment and Energy
+## Cybersecurity Concerns
 
-* [Global Use of Coal Hit Record High in 2024](https://news.slashdot.org/story/25/10/22/1936249/global-use-of-coal-hit-record-high-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Global coal use reaches an all-time high, highlighting ongoing challenges in transitioning to cleaner energy sources.
+* [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&from=rss)
 
-* [New Delhi Pollution Hits Five-Year High](https://news.slashdot.org/story/25/10/22/1818215/new-delhi-pollution-hits-five-year-high?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Pollution levels in New Delhi have surged to a five-year high, raising health and environmental concerns.
+* [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 
-* [Uber Will Pay Drivers $4,000 To Switch To EVs](https://tech.slashdot.org/story/25/10/22/1639229/uber-will-pay-drivers-4000-to-switch-to-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Uber incentivizes its drivers to transition to electric vehicles with a substantial $4,000 payout.
+* [Redistributing Git with Nostr](https://fiatjaf.com/18ff5416.html)
 
-* [GM To End Production of Electric Chevy Brightdrop Vans](https://tech.slashdot.org/story/25/10/22/0413239/gm-to-end-production-of-electric-chevy-brightdrop-vans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - GM announces plans to discontinue its electric Chevy Brightdrop van lineup amidst shifting strategies.
+## Fascinating Discoveries and Innovations
 
-## Artificial Intelligence and Ethics
+* [Samsung Galaxy XR Is the First Android XR Headset](https://hardware.slashdot.org/story/25/10/22/1959251/samsung-galaxy-xr-is-the-first-android-xr-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence) - Meta has cut 600 positions in its AI research division amidst restructuring.
+* [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
 
-* [More Than 1,100 Public Figures Call for Ban on AI Superintelligence](https://slashdot.org/story/25/10/22/1448213/more-than-1100-public-figures-call-for-ban-on-ai-superintelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A coalition of over 1,100 public figures pushes for bans on the development of potentially dangerous AI superintelligence.
-
-* [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/) - A thought-provoking analysis examines the security challenges associated with locally-run large language models.
-
-* [Rivian's TM-B electric bike](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad) - Rivian unveils its TM-B electric bike, exploring eco-friendly transportation innovations.
-
-## Open Source and Development
-
-* [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/) - The Django team releases the first beta of version 6.0, providing updates for web developers.
-
-* [Patina, a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina) - Patina introduces a Rust-based implementation for UEFI firmware, advancing secure system boot mechanisms.
-
-* [awesome-tiny-crates: A bunch of small crates that make writing Rust more fun](https://github.com/nik-rev/awesome-tiny-crates) - A curated list of Rust-based crates to enhance developer productivity and creativity.
-
-* [Move, Destruct, Forget, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/) - An in-depth exploration of concepts like move, destruct, and memory management in Rust programming.
-
-* [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/) - A detailed look at Linux capabilities, providing insights into system security and privilege management.
+* [Google's Quantum Computer Makes a Big Technical Leap](https://science.slashdot.org/story/25/10/22/163228/googles-quantum-computer-makes-a-big-technical-leap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -81,20 +65,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-23, 01:25:00](https://tech.slashdot.org/story/25/10/22/2351229/meta-lays-off-600-from-bloated-ai-unit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Lays Off 600 From &apos;Bloated&apos; AI Unit](https://tech.slashdot.org/story/25/10/22/2351229/meta-lays-off-600-from-bloated-ai-unit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-23, 00:45:00](https://tech.slashdot.org/story/25/10/22/2030236/pitchfork-is-beta-testing-user-reviews-and-comments-as-it-approaches-30?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pitchfork Is Beta Testing User Reviews and Comments As It Approaches 30](https://tech.slashdot.org/story/25/10/22/2030236/pitchfork-is-beta-testing-user-reviews-and-comments-as-it-approaches-30?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-23, 00:07:30](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa) - [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
+* [2025-10-23, 00:02:00](https://hardware.slashdot.org/story/25/10/22/2022215/google-porting-all-internal-workloads-to-arm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Porting All Internal Workloads To Arm](https://hardware.slashdot.org/story/25/10/22/2022215/google-porting-all-internal-workloads-to-arm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-22, 23:34:51](https://lobste.rs/s/ew0tqv/redistributing_git_with_nostr) - [Redistributing Git with Nostr](https://fiatjaf.com/18ff5416.html)
+* [2025-10-22, 23:20:00](https://news.slashdot.org/story/25/10/22/2011239/ai-assistants-misrepresent-news-content-45-of-the-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Assistants Misrepresent News Content 45% of the Time](https://news.slashdot.org/story/25/10/22/2011239/ai-assistants-misrepresent-news-content-45-of-the-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss)
+* [2025-10-22, 22:51:58](https://news.ycombinator.com/item?id=45676162) - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
+* [2025-10-22, 22:40:00](https://bsd.slashdot.org/story/25/10/22/205215/openbsd-78-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenBSD 7.8 Released](https://bsd.slashdot.org/story/25/10/22/205215/openbsd-78-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-22, 22:15:29](https://news.ycombinator.com/item?id=45675851) - [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)
+* [2025-10-22, 22:00:00](https://hardware.slashdot.org/story/25/10/22/1959251/samsung-galaxy-xr-is-the-first-android-xr-headset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Galaxy XR Is the First Android XR Headset](https://hardware.slashdot.org/story/25/10/22/1959251/samsung-galaxy-xr-is-the-first-android-xr-headset?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-22, 21:53:14](https://lobste.rs/s/fcka9i/chatgpt_s_atlas_browser_s_anti_web) - [ChatGPT&apos;s Atlas: The Browser That&apos;s Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 * [2025-10-22, 21:20:00](https://news.slashdot.org/story/25/10/22/1952245/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jaguar Land Rover Hack Cost UK Economy an Estimated $2.5 Billion](https://news.slashdot.org/story/25/10/22/1952245/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 21:01:07](https://news.ycombinator.com/item?id=45675090) - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+* [2025-10-22, 20:54:37](https://news.ycombinator.com/item?id=45675020) - [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
+* [2025-10-22, 20:53:49](https://news.ycombinator.com/item?id=45675015) - [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 * [2025-10-22, 20:49:07](https://lobste.rs/s/elts07/django_6_0_beta_1_released) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
 * [2025-10-22, 20:46:06](https://news.ycombinator.com/item?id=45674923) - [Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)
 * [2025-10-22, 20:44:00](https://news.slashdot.org/story/25/10/22/1936249/global-use-of-coal-hit-record-high-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global Use of Coal Hit Record High in 2024](https://news.slashdot.org/story/25/10/22/1936249/global-use-of-coal-hit-record-high-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 20:13:31](https://news.ycombinator.com/item?id=45674568) - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-22, 20:01:00](https://news.slashdot.org/story/25/10/22/192225/youtube-will-help-you-quit-watching-shorts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Will Help You Quit Watching Shorts](https://news.slashdot.org/story/25/10/22/192225/youtube-will-help-you-quit-watching-shorts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 19:46:24](https://news.ycombinator.com/item?id=45674209) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
 * [2025-10-22, 19:42:36](https://news.ycombinator.com/item?id=45674166) - [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
 * [2025-10-22, 19:38:54](https://news.ycombinator.com/item?id=45674126) - [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
 * [2025-10-22, 19:24:56](https://lobste.rs/s/wjqwif/patina_rust_implementation_uefi) - [Patina, a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
 * [2025-10-22, 19:22:00](https://news.slashdot.org/story/25/10/22/1818215/new-delhi-pollution-hits-five-year-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Delhi Pollution Hits Five-Year High](https://news.slashdot.org/story/25/10/22/1818215/new-delhi-pollution-hits-five-year-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 18:53:23](https://news.ycombinator.com/item?id=45673542) - [ROG Xbox Ally runs better on Linux than Windows it ships with](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
-* [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [Criticisms of \&quot;The Body Keeps the Score\&quot;](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
+* [2025-10-22, 18:49:04](https://news.ycombinator.com/item?id=45673479) - [Criticisms of “The Body Keeps the Score”](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 * [2025-10-22, 18:44:00](https://news.slashdot.org/story/25/10/22/181246/apple-and-google-face-enforced-changes-over-uk-smartphone-dominance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple and Google Face Enforced Changes Over UK Smartphone Dominance](https://news.slashdot.org/story/25/10/22/181246/apple-and-google-face-enforced-changes-over-uk-smartphone-dominance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss)
 * [2025-10-22, 18:21:54](https://news.ycombinator.com/item?id=45673130) - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
@@ -106,31 +102,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-22, 17:21:54](https://news.ycombinator.com/item?id=45672280) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:18:33](https://news.ycombinator.com/item?id=45672235) - [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html)
 * [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
-* [2025-10-22, 16:50:28](https://news.ycombinator.com/item?id=45671871) - [Galaxy XR: The first Android XR headset](https://blog.google/products/android/samsung-galaxy-xr/)
 * [2025-10-22, 16:45:00](https://tech.slashdot.org/story/25/10/22/1639229/uber-will-pay-drivers-4000-to-switch-to-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Will Pay Drivers $4,000 To Switch To EVs](https://tech.slashdot.org/story/25/10/22/1639229/uber-will-pay-drivers-4000-to-switch-to-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 16:44:43](https://news.ycombinator.com/item?id=45671778) - [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
 * [2025-10-22, 16:04:00](https://science.slashdot.org/story/25/10/22/163228/googles-quantum-computer-makes-a-big-technical-leap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Quantum Computer Makes a Big Technical Leap](https://science.slashdot.org/story/25/10/22/163228/googles-quantum-computer-makes-a-big-technical-leap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 15:24:00](https://science.slashdot.org/story/25/10/22/1524248/resistant-bacteria-are-advancing-faster-than-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Resistant Bacteria Are Advancing Faster Than Antibiotics](https://science.slashdot.org/story/25/10/22/1524248/resistant-bacteria-are-advancing-faster-than-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 15:19:17](https://lobste.rs/s/n9cccn/satisfying_solutions_difficult) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 * [2025-10-22, 15:16:19](https://news.ycombinator.com/item?id=45670443) - [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 * [2025-10-22, 15:03:58](https://lobste.rs/s/ikcvvv/slint_1_14_released) - [Slint 1.14 Released](https://slint.dev/blog/slint-1.14-released)
 * [2025-10-22, 14:53:54](https://news.ycombinator.com/item?id=45670052) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
-* [2025-10-22, 14:48:00](https://slashdot.org/story/25/10/22/1448213/more-than-1100-public-figures-call-for-ban-on-ai-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than 1,100 Public Figures Call for Ban on AI Superintelligence](https://slashdot.org/story/25/10/22/1448213/more-than-1100-public-figures-call-for-ban-on-ai-superintelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 14:45:03](https://news.ycombinator.com/item?id=45669906) - [Show HN: Create interactive diagrams with pop-up content](https://vexlio.com/features/interactive-diagrams-with-popups/)
 * [2025-10-22, 14:22:41](https://news.ycombinator.com/item?id=45669593) - [Cryptographic Issues in Cloudflare&apos;s Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
-* [2025-10-22, 14:00:00](https://tech.slashdot.org/story/25/10/22/1347211/smart-beds-malfunctioned-during-aws-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smart Beds Malfunctioned During AWS Outage](https://tech.slashdot.org/story/25/10/22/1347211/smart-beds-malfunctioned-during-aws-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 13:50:20](https://news.ycombinator.com/item?id=45669142) - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
 * [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss)
 * [2025-10-22, 13:24:47](https://lobste.rs/s/2q5tn0/awesome_tiny_crates_bunch_small_crates) - [awesome-tiny-crates: A bunch of small crates that make writing Rust more fun](https://github.com/nik-rev/awesome-tiny-crates)
-* [2025-10-22, 13:00:00](https://it.slashdot.org/story/25/10/22/047219/rubbish-it-systems-cost-the-us-at-least-40-billion-during-covid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rubbish IT Systems Cost the US At Least $40 Billion During Covid](https://it.slashdot.org/story/25/10/22/047219/rubbish-it-systems-cost-the-us-at-least-40-billion-during-covid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 12:50:55](https://lobste.rs/s/cdrvo7/how_run_1_1s_as_engineering_manager) - [How to Run 1:1s as an Engineering Manager](https://justoffbyone.com/posts/how-to-run-11s/)
-* [2025-10-22, 12:48:01](https://news.ycombinator.com/item?id=45668264) - [The security paradox of local LLMs](https://quesma.com/blog/local-llms-security-paradox/)
 * [2025-10-22, 12:39:37](https://news.ycombinator.com/item?id=45668160) - [SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem](https://www.source.dev/journal/sourcefs)
-* [2025-10-22, 12:12:28](https://news.ycombinator.com/item?id=45667866) - [Internet&apos;s biggest annoyance: Cookie laws should target browsers, not websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/)
 * [2025-10-22, 11:40:14](https://lobste.rs/s/pwsnpd/powerletters_for_rust) - [Powerletters for Rust](https://brson.github.io/2025/10/07/powerletters-for-rust)
-* [2025-10-22, 10:15:51](https://lobste.rs/s/h49oxc/async_dns_resolution) - [Async DNS Resolution](https://ziglang.org/devlog/2025/#2025-10-15)
-* [2025-10-22, 10:00:00](https://tech.slashdot.org/story/25/10/22/0413239/gm-to-end-production-of-electric-chevy-brightdrop-vans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM To End Production of Electric Chevy Brightdrop Vans](https://tech.slashdot.org/story/25/10/22/0413239/gm-to-end-production-of-electric-chevy-brightdrop-vans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-22, 09:50:48](https://lobste.rs/s/hlfr6u/simple_minimal_sql_database_migrations) - [Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB](https://github.com/padurean/gosmig)
 * [2025-10-22, 09:40:38](https://lobste.rs/s/mhmcp4/15_go_subtleties_you_may_not_already_know) - [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-22, 09:05:21](https://news.ycombinator.com/item?id=45666510) - [Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
@@ -138,17 +123,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-22, 09:02:41](https://lobste.rs/s/jgwhwy/element_sethtml_method_on_mdn) - [Element: setHTML() method on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
 * [2025-10-22, 08:58:00](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss) - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss)
 * [2025-10-22, 07:28:47](https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration) - [Organizing your Nix configuration without flakes](https://somas.is/note-organizing-nix-configuration-without-flakes.html)
-* [2025-10-22, 07:21:36](https://lobste.rs/s/g7uuii/modshim_override_customize_python) - [modshim: Override and customize Python packages without touching their code](https://github.com/joouha/modshim)
-* [2025-10-22, 07:00:00](https://science.slashdot.org/story/25/10/22/0358206/nasa-opens-spacexs-moon-lander-contract-to-rivals-over-starship-delays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Opens SpaceX&apos;s Moon Lander Contract To Rivals Over Starship Delays](https://science.slashdot.org/story/25/10/22/0358206/nasa-opens-spacexs-moon-lander-contract-to-rivals-over-starship-delays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-22, 06:17:18](https://news.ycombinator.com/item?id=45665452) - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
+* [2025-10-22, 06:41:09](https://news.ycombinator.com/item?id=45665617) - [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
 * [2025-10-22, 05:13:40](https://lobste.rs/s/sljyoc/move_destruct_forget_rust) - [Move, Destruct, Forget, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/)
 * [2025-10-22, 04:11:00](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss) - [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss)
 * [2025-10-21, 23:26:00](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss) - [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss)
-* [2025-10-21, 22:10:18](https://news.ycombinator.com/item?id=45662368) - [Designing software for things that rot](https://drobinin.com/posts/designing-software-for-things-that-rot/)
-* [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:41:00](https://soylentnews.org/article.pl?sid=25/10/20/2129245&amp;from=rss) - [Are We Living in a Golden Age of Stupidity?](https://soylentnews.org/article.pl?sid=25/10/20/2129245&amp;from=rss)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
+* [2025-10-21, 17:43:16](https://news.ycombinator.com/item?id=45658928) - [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://twitter.com/karpathy/status/1980397031542989305)
 * [2025-10-21, 17:00:29](https://lobste.rs/s/wmcl4k/yet_another_year_with_decker_v1_44_v1_60) - [Yet Another Year With Decker (v1.44 - v1.60)](http://beyondloom.com/blog/unionstate3.html)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/10/20/1245230&amp;from=rss) - [Drone Tech Company DroneShield to Build 13m Facility in Australia](https://soylentnews.org/article.pl?sid=25/10/20/1245230&amp;from=rss)
@@ -169,9 +151,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-19, 09:36:00](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss) - [New Psychology Research Looks at Why We Help Our Friends When They Need It](https://soylentnews.org/article.pl?sid=25/10/17/2341221&amp;from=rss)
 * [2025-10-19, 04:48:00](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss) - [Understanding Volcanoes Better: Scientists Find Exact Locations of Magma Movement](https://soylentnews.org/article.pl?sid=25/10/17/1219257&amp;from=rss)
 * [2025-10-19, 00:01:00](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss) - [Comet Lemmon (Not Lemon) Nearing Peak](https://soylentnews.org/article.pl?sid=25/10/18/1745254&amp;from=rss)
-* [2025-10-18, 19:16:00](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss) - [GM to Take $1.6 Billion Hit as It Scales Back Electric Vehicle Operations](https://soylentnews.org/article.pl?sid=25/10/16/1547215&amp;from=rss)
-* [2025-10-18, 14:27:00](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss) - [Thousands of Customers Imperiled After Nation-State Ransacks F5’s Network](https://soylentnews.org/article.pl?sid=25/10/16/1545234&amp;from=rss)
-* [2025-10-18, 09:43:00](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss) - [Lasers and Gold Nanoparticles Enable on-Demand Crystal Growth for New Materials](https://soylentnews.org/article.pl?sid=25/10/16/1543247&amp;from=rss)
-* [2025-10-18, 07:30:08](https://news.ycombinator.com/item?id=45625590) - [The Tonnetz](https://thetonnetz.com/)
-* [2025-10-18, 04:57:00](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss) - [Why Signal&apos;s Post-Quantum Makeover is an Amazing Engineering Achievement](https://soylentnews.org/article.pl?sid=25/10/16/1538252&amp;from=rss)
-* [2025-10-18, 00:18:00](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss) - [FSF Librephone](https://soylentnews.org/article.pl?sid=25/10/16/1534249&amp;from=rss)
