@@ -1,42 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software Developments and Open Source Innovations
+## Technology Innovations and Breakthroughs
 
-* [rlsw v1.0 - An OpenGL 1.1-style software renderer implementation](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) ([comments](https://lobste.rs/s/jr6s9f/rlsw_v1_0_opengl_1_1_style_software))
+* [Doom running on a space satellite](https://games.slashdot.org/story/25/10/23/2128244/programmer-gets-doom-running-on-a-space-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A programmer achieves a feat by running the classic game Doom on a space satellite.
 
-* [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow) ([comments](https://news.ycombinator.com/item?id=45688836))
+* [ChatGPT Launches 'Company Knowledge'](https://openai.com/index/introducing-company-knowledge/): OpenAI introduces a new product that integrates custom organizational information into ChatGPT for businesses.
 
-* [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram) ([comments](https://lobste.rs/s/xsrifu/zram_performance_analysis))
+* [Claude Memory](https://www.anthropic.com/news/memory): Anthropic's new feature focuses on improving long-term memory capabilities in AI applications.
 
-* [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21) ([comments](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa))
+* [Quantum crystals offering a blueprint for future computing](https://soylentnews.org/article.pl?sid=25/10/18/180239): Quantum crystals proposed as guidelines for the advancement of computing and chemical studies.
 
-## Artificial Intelligence and Machine Learning
+* [Boa release v0.21](https://boajs.dev/blog/2025/10/22/boa-release-21): The latest version of Boa, a JavaScript engine written in Rust, showcasing advanced updates.
 
-* [LLMs Can Get Brain Rot (after consuming too much social media content)](https://llm-brain-rot.github.io/) ([comments](https://lobste.rs/s/raqwxt/llms_can_get_brain_rot_after_consuming_too))
+## Economic and Corporate Developments
 
-* [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618) ([comments](https://news.ycombinator.com/item?id=45690219))
+* [Counter-Strike's player economy collapse](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/): How the player economy of Counter-Strike is now a multi-billion-dollar freefall.
 
-* [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061) ([comments](https://news.ycombinator.com/item?id=45683897))
+* [Anthropic's Google Cloud Collaboration](https://tech.slashdot.org/story/25/10/23/2054219/anthropics-google-cloud-deal-includes-1-million-tpus-1-gw-of-capacity-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Details on the major computational power partnership between Anthropic and Google Cloud.
 
-## Science and Technology Innovations
+* [Apple App Store loses significant UK lawsuit](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/): Apple faces penalties nearing $2 billion after losing a UK monopoly case.
 
-* [Dinosaurs Were Thriving Until Asteroid Struck, Research Suggests](https://news.slashdot.org/story/25/10/23/2116228/dinosaurs-were-thriving-until-asteroid-struck-research-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/10/23/2116228/dinosaurs-were-thriving-until-asteroid-struck-research-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Trump eyes control of Quantum Computing firms](https://yro.slashdot.org/story/25/10/23/2048226/trump-eyes-government-control-of-quantum-computing-firms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): New proposals aiming to regulate Quantum Computing firms through government involvement.
 
-* [Apollo Says AI Energy Gap 'Will Not Be Closed in Our Lifetime'](https://hardware.slashdot.org/story/25/10/23/184238/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/23/184238/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Science and Environmental Insights
 
-## Policy and Corporate Strategies
+* [New evidence for Earth's deep oceans](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss): Discoveries suggest substantial amounts of water might exist deep inside the planet.
 
-* [Microsoft Puts Office Online Server On the Chopping Block](https://slashdot.org/story/25/10/23/1919204/microsoft-puts-office-online-server-on-the-chopping-block?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/10/23/1919204/microsoft-puts-office-online-server-on-the-chopping-block?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Dinosaurs thriving before asteroid impact](https://news.slashdot.org/story/25/10/23/2116228/dinosaurs-were-thriving-until-asteroid-struck-research-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Studies show dinosaurs were growing strong until the catastrophe.
 
-* [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/) ([comments](https://news.ycombinator.com/item?id=45688006))
+* [Overshooting critical climate target](https://news.slashdot.org/story/25/10/23/1445208/overshooting-15c-climate-target-inevitable-un-chief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): UN Chief warns the world of inevitable dangers accompanying climate overshoot.
 
-* [Trump Eyes Government Control of Quantum Computing Firms](https://yro.slashdot.org/story/25/10/23/2048226/trump-eyes-government-control-of-quantum-computing-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/10/23/2048226/trump-eyes-government-control-of-quantum-computing-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Second life EV Batteries for grid energy storage](https://www.volts.wtf/p/can-second-life-ev-batteries-work): Exploring the possibility of using retired Electric Vehicle batteries for large-scale energy solutions.
 
-## Breakthroughs and Noteworthy Developments
+## Cybersecurity and Privacy
 
-* [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/) ([comments](https://news.ycombinator.com/item?id=45689241))
+* [Hackers exploit Cisco SNMP flaw](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss): A critical vulnerability enables attackers to install rootkits on Cisco switches.
 
-* [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/21/198229&from=rss))
+* [Eavesdropping on satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss): Unencrypted data transmission on satellites provides loopholes for cyber-attacks.
+
+* [New attack on 2-factor authentication](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss): Hackers enable SMS code extraction methods affecting Android devices.
+
+## Cultural and Political Topics
+
+* [Analog Bags—A counter to doomscrolling](https://tech.slashdot.org/story/25/10/23/212230/analog-bags-are-in-doomscrolling-is-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A new trend promotes analog products as an antidote to digital-era stress.
+
+* [Apple loses monopoly case over commissions](https://yro.slashdot.org/story/25/10/23/196225/apple-loses-landmark-uk-lawsuit-over-app-store-commissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): The implications of the case regarding control in digital app markets.
 
 ---
 
@@ -63,12 +71,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
+* [2025-10-24, 09:31:32](https://lobste.rs/s/i33fks/modern_perfect_hashing) - [Modern perfect hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
+* [2025-10-24, 08:24:16](https://news.ycombinator.com/item?id=45692241) - [ChatGPT Launches &apos;Company Knowledge&apos;](https://openai.com/index/introducing-company-knowledge/)
+* [2025-10-24, 08:15:00](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss) - [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
+* [2025-10-24, 08:10:53](https://news.ycombinator.com/item?id=45692163) - [Britain&apos;s most tattooed man says UK&apos;s age check told him to \&quot;remove his face\&quot;](https://www.dexerto.com/entertainment/britains-most-tattooed-man-says-uks-age-check-system-told-him-to-remove-his-face-3232920/)
+* [2025-10-24, 07:00:00](https://games.slashdot.org/story/25/10/23/2128244/programmer-gets-doom-running-on-a-space-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Programmer Gets Doom Running On a Space Satellite](https://games.slashdot.org/story/25/10/23/2128244/programmer-gets-doom-running-on-a-space-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 06:07:22](https://lobste.rs/s/jr6s9f/rlsw_v1_0_opengl_1_1_style_software) - [rlsw v1.0 - An OpenGL 1.1-style software renderer implementation](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
-* [2025-10-24, 05:48:23](https://lobste.rs/s/uganhb/when_is_it_better_think_without_words) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
+* [2025-10-24, 05:32:04](https://news.ycombinator.com/item?id=45691127) - [Alaska Airlines&apos; statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
+* [2025-10-24, 04:46:50](https://news.ycombinator.com/item?id=45690871) - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
 * [2025-10-24, 04:24:25](https://lobste.rs/s/raqwxt/llms_can_get_brain_rot_after_consuming_too) - [LLMs Can Get Brain Rot (after consuming too much social media content)](https://llm-brain-rot.github.io/)
 * [2025-10-24, 04:13:01](https://news.ycombinator.com/item?id=45690679) - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 * [2025-10-24, 03:32:00](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss) - [OpenBSD 7.8 Released](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss)
 * [2025-10-24, 03:30:00](https://news.slashdot.org/story/25/10/23/2116228/dinosaurs-were-thriving-until-asteroid-struck-research-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dinosaurs Were Thriving Until Asteroid Struck, Research Suggests](https://news.slashdot.org/story/25/10/23/2116228/dinosaurs-were-thriving-until-asteroid-struck-research-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-24, 03:00:43](https://lobste.rs/s/ukolpc/why_dev_null_is_acid_compliant_database) - [Why /dev/null Is an ACID Compliant Database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [2025-10-24, 02:54:29](https://news.ycombinator.com/item?id=45690251) - [Roc Camera](https://roc.camera/)
 * [2025-10-24, 02:50:50](https://news.ycombinator.com/item?id=45690219) - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 * [2025-10-24, 02:22:07](https://news.ycombinator.com/item?id=45690045) - [Computer science courses that don&apos;t exist, but should (2015)](https://prog21.dadgum.com/210.html)
@@ -81,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-23, 22:52:15](https://news.ycombinator.com/item?id=45688443) - [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
 * [2025-10-23, 22:45:00](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss) - [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss)
 * [2025-10-23, 22:40:00](https://slashdot.org/story/25/10/23/1919204/microsoft-puts-office-online-server-on-the-chopping-block?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Puts Office Online Server On the Chopping Block](https://slashdot.org/story/25/10/23/1919204/microsoft-puts-office-online-server-on-the-chopping-block?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-23, 22:35:22](https://news.ycombinator.com/item?id=45688236) - [Automating Algorithm Discovery: A Case Study in MoE Load Balancing](https://adrs-ucb.notion.site/moe-load-balancing)
 * [2025-10-23, 22:11:23](https://news.ycombinator.com/item?id=45688006) - [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
 * [2025-10-23, 22:00:00](https://yro.slashdot.org/story/25/10/23/196225/apple-loses-landmark-uk-lawsuit-over-app-store-commissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Loses Landmark UK Lawsuit Over App Store Commissions](https://yro.slashdot.org/story/25/10/23/196225/apple-loses-landmark-uk-lawsuit-over-app-store-commissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 21:56:07](https://news.ycombinator.com/item?id=45687796) - [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
@@ -89,12 +104,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-23, 21:26:57](https://news.ycombinator.com/item?id=45687441) - [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
 * [2025-10-23, 21:20:00](https://slashdot.org/story/25/10/23/1749205/chinas-new-five-year-plan-sharpens-industry-tech-focus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s New Five-Year Plan Sharpens Industry, Tech Focus](https://slashdot.org/story/25/10/23/1749205/chinas-new-five-year-plan-sharpens-industry-tech-focus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 21:17:13](https://lobste.rs/s/i3igoh/inertia_js_modern_monolith) - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
-* [2025-10-23, 21:11:14](https://news.ycombinator.com/item?id=45687227) - [FocusTube: A Chrome extension that hides YouTube Shorts](https://github.com/CaptainYouz/FocusTube)
 * [2025-10-23, 20:49:08](https://news.ycombinator.com/item?id=45686919) - [Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-23, 20:41:00](https://it.slashdot.org/story/25/10/23/1824201/memory-giants-samsung-and-sk-hynix-push-through-30-price-increases-amid-ai-server-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Memory Giants Samsung and SK Hynix Push Through 30% Price Increases Amid AI Server Boom](https://it.slashdot.org/story/25/10/23/1824201/memory-giants-samsung-and-sk-hynix-push-through-30-price-increases-amid-ai-server-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 20:30:54](https://lobste.rs/s/xsrifu/zram_performance_analysis) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 20:02:00](https://hardware.slashdot.org/story/25/10/23/184238/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apollo Says AI Energy Gap &apos;Will Not Be Closed in Our Lifetime&apos;](https://hardware.slashdot.org/story/25/10/23/184238/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-23, 19:58:12](https://news.ycombinator.com/item?id=45686280) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 19:20:00](https://yro.slashdot.org/story/25/10/23/190204/trump-pardons-binance-founder-changpeng-zhao?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Pardons Binance Founder Changpeng Zhao](https://yro.slashdot.org/story/25/10/23/190204/trump-pardons-binance-founder-changpeng-zhao?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 18:48:02](https://lobste.rs/s/17bjta/what_happened_apple_s_legendary) - [What Happened to Apple&apos;s Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
 * [2025-10-23, 18:41:00](https://slashdot.org/story/25/10/23/1734227/three-decades-after-clippy-microsoft-launches-mico?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Three Decades After Clippy, Microsoft Launches Mico](https://slashdot.org/story/25/10/23/1734227/three-decades-after-clippy-microsoft-launches-mico?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -104,12 +117,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-23, 17:21:00](https://news.slashdot.org/story/25/10/23/1445208/overshooting-15c-climate-target-inevitable-un-chief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Overshooting 1.5C Climate Target &apos;Inevitable&apos;: UN Chief](https://news.slashdot.org/story/25/10/23/1445208/overshooting-15c-climate-target-inevitable-un-chief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 17:04:17](https://news.ycombinator.com/item?id=45684236) - [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
 * [2025-10-23, 16:56:07](https://news.ycombinator.com/item?id=45684134) - [Claude Memory](https://www.anthropic.com/news/memory)
-* [2025-10-23, 16:40:00](https://news.slashdot.org/story/25/10/23/1440241/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Detection Firm Finds 82% of Herbal Remedy Books on Amazon &apos;Likely Written&apos; By AI](https://news.slashdot.org/story/25/10/23/1440241/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-23, 16:36:05](https://news.ycombinator.com/item?id=45683897) - [Antislop: A framework for eliminating repetitive patterns in language models](https://arxiv.org/abs/2510.15061)
-* [2025-10-23, 15:41:48](https://news.ycombinator.com/item?id=45683152) - [Trump pardons convicted Binance founder](https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63)
 * [2025-10-23, 14:44:25](https://lobste.rs/s/3bs8cf/bitmasks_ruby_threads_interrupts_oh_my) - [Bitmasks, Ruby Threads and Interrupts, oh my](https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html)
 * [2025-10-23, 14:37:17](https://lobste.rs/s/snbmmt/luau_s_performance) - [Luau’s Performance](https://luau.org/performance)
-* [2025-10-23, 14:10:05](https://lobste.rs/s/oyvqp1/is_it_time_regulate_react) - [Is it Time to Regulate React?](https://dbushell.com/2025/10/23/react-regulation/)
 * [2025-10-23, 14:01:07](https://lobste.rs/s/jt4wzq/tuckr_stow_alternative_with_symlink) - [Tuckr - Stow alternative with symlink checking](https://github.com/RaphGL/Tuckr)
 * [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
 * [2025-10-23, 13:27:02](https://lobste.rs/s/utkvsl/intel_nova_lake_could_arrive_without) - [Intel \&quot;Nova Lake\&quot; Could Arrive Without AVX10, APX, and AMX Support](https://www.techpowerup.com/342147/intel-nova-lake-could-arrive-without-avx10-apx-and-amx-support)
@@ -127,10 +137,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-23, 03:54:00](https://soylentnews.org/article.pl?sid=25/10/22/0311232&amp;from=rss) - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://soylentnews.org/article.pl?sid=25/10/22/0311232&amp;from=rss)
 * [2025-10-23, 03:09:09](https://lobste.rs/s/mw0pus/summary_amazon_dynamodb_service) - [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
 * [2025-10-23, 01:30:24](https://lobste.rs/s/d3pdfi/my_2_month_beef_with_my_own_linux) - [My 2 month beef with my own Linux environment. (Developer cautionary tale)](https://www.reddit.com/r/linux/comments/1odq7ti/fixing_my_broken_system_while_breaking_my_fixed/)
-* [2025-10-23, 01:19:58](https://news.ycombinator.com/item?id=45677139) - [Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region](https://aws.amazon.com/message/101925/)
 * [2025-10-23, 00:07:30](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa) - [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
 * [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss)
-* [2025-10-22, 21:53:14](https://lobste.rs/s/fcka9i/chatgpt_s_atlas_browser_s_anti_web) - [ChatGPT&apos;s Atlas: The Browser That&apos;s Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss)
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
