@@ -1,48 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Trends in Technology
+## Cybersecurity and Online Threats
 
-* [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/) explores challenges in adapting AI systems to learn continuously. [Comments](https://lobste.rs/s/7vnbtq/continual_learning_problem)
+* [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - Authorities in Latvia successfully dismantled a cybercrime ring, apprehending suspects involved in fraudulent activities.
 
-* [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc) highlights the platform's potential to democratize AI development via skill-sharing. [Comments](https://news.ycombinator.com/item?id=45701622)
+* [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174) - A major crackdown on online fraud resulted in the dismantling of a network with millions of fake accounts.
 
-* [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai) presents an alternative AI-powered assistant tool for productivity. [Comments](https://news.ycombinator.com/item?id=45700720)
+* [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update) - Apple released an update to remove indicators of compromise for notorious spyware.
 
-* [A Vision for Future Low-Level Languages](https://antelang.org/blog/vision/) delves into innovations in programming language design and low-level coding. [Comments](https://lobste.rs/s/2vu2hn/vision_for_future_low_level_languages)
+* [Hackers Used Thousands of YouTube Videos To Spread Malware](https://news.slashdot.org/story/25/10/24/1814214/hackers-used-thousands-of-youtube-videos-to-spread-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cybercriminals exploited YouTube videos to distribute malware globally.
 
-* [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html) examines innovations in typesetting and computational language integration. [Comments](https://lobste.rs/s/magetk/typst_as_language)
+## Science and Technology Advancements
 
-## AI, Privacy, and Cybersecurity
+* [China&apos;s Zhuque-3 Reusable Rocket Passes Key Milestone](https://science.slashdot.org/story/25/10/25/0126203/chinas-zhuque-3-reusable-rocket-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's space program marked a significant step forward with advancements in reusable rocket technology.
 
-* [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update) celebrates advancements in spyware prevention technology. [Comments](https://news.ycombinator.com/item?id=45700946)
+* [Sweden&apos;s Crowd-Forecasting Platform &apos;Glimt&apos; Helps Ukraine Make Wartime Predictions](https://tech.slashdot.org/story/25/10/25/011246/swedens-crowd-forecasting-platform-glimt-helps-ukraine-make-wartime-predictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Crowdsourced forecasting technology is aiding Ukraine in strategic wartime decision-making.
 
-* [Microsoft Teams Will Start Tracking Office Attendance](https://it.slashdot.org/story/25/10/24/2236218/microsoft-teams-will-start-tracking-office-attendance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) raises privacy concerns about new attendance monitoring capabilities. [Comments](https://news.slashdot.org/story/25/10/24/1835203/us-expands-facial-recognition-at-borders-to-track-non-citizens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Apple Begins Shipping American-Made AI Servers From Texas](https://apple.slashdot.org/story/25/10/24/2241235/apple-begins-shipping-american-made-ai-servers-from-texas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple starts shipping domestically produced AI servers, emphasizing U.S. manufacturing capabilities.
 
-* [Browser Promising Privacy Protection Contains Malware-Like Features, Routes Traffic Through China](https://tech.slashdot.org/story/25/10/24/1727228/browser-promising-privacy-protection-contains-malware-like-features-routes-traffic-through-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) sheds light on deceptive software security claims. [Comments](https://tech.slashdot.org/story/25/10/24/1727228/browser-promising-privacy-protection-contains-malware-like-features-routes-traffic-through-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Education and Knowledge Expansion
 
-## Scientific Discoveries and Environmental Impact
+* [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html) - A guide to mastering assembly language through GUI creation.
 
-* [Iceland Just Found Its First Mosquitoes](https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) investigates the presence of mosquitoes in new ecological territories. [Comments](https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Computer Science Courses that Don&apos;t Exist, But Should (2015)](https://prog21.dadgum.com/210.html) - Thought-provoking ideas on courses the computer science field needs.
 
-* [As Texas Power Demand Surges, Solar, Wind and Storage Carry the Load](https://hardware.slashdot.org/story/25/10/25/0110225/as-texas-power-demand-surges-solar-wind-and-storage-carry-the-load?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reviews renewable energy adaptations. [Comments](https://hardware.slashdot.org/story/25/10/25/0110225/as-texas-power-demand-surges-solar-wind-and-storage-carry-the-load?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/) - A nostalgic view of Turbo Pascal's influence in programming education.
 
-* [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss) explores groundbreaking findings about subterranean water reservoirs. [Comments](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
+## Environmental and Lifestyle Impact
 
-## Intriguing Perspectives and Studies
+* [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly) - A study uncovers trends in digital use among older generations.
 
-* [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly) challenges assumptions about tech usage across age groups. [Comments](https://news.ycombinator.com/item?id=45701305)
+* [As Texas Power Demand Surges, Solar, Wind and Storage Carry the Load](https://hardware.slashdot.org/story/25/10/25/0110225/as-texas-power-demand-surges-solar-wind-and-storage-carry-the-load?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Renewable energy sources are stepping up to meet rising power demands in Texas.
 
-* [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss) highlights concerns regarding consumer overexposure. [Comments](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss)
+* [Iceland Just Found Its First Mosquitoes](https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Iceland faces novel environmental challenges as mosquitoes are detected for the first time.
 
-* [Learning by starting at the end: Writing a Proof in Lean](https://interjectedfuture.com/the-best-way-to-learn-might-be-starting-at-the-end/) examines non-conventional learning practices in formal reasoning. [Comments](https://lobste.rs/s/4exekd/learning_by_starting_at_end_writing_proof)
+## Artificial Intelligence and Machine Learning
 
-## Historical Reflections and Milestones
+* [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai) - An innovative AI-powered desktop assistant pushes the boundaries of productivity tools.
 
-* [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/) explores the enduring influence of an iconic programming tool. [Comments](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal)
+* [What Is Intelligence? (2024)](https://whatisintelligence.antikythera.org/) - Insights into the evolving definition and nature of intelligence.
 
-* [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) emphasizes precision and mindfulness in coding practices. [Comments](https://lobste.rs/s/bl8pns/code_like_surgeon)
-
-* [NewPipe is turning 10 :O](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/) celebrates the evolution of a popular streaming tool across a decade. [Comments](https://lobste.rs/s/bsri9a/newpipe_is_turning_10_o)
+* [Harnessing America&apos;s Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment) - AI forecasting highlights promising clean energy solutions in the U.S.
 
 ---
 
@@ -69,8 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-25, 07:54:00](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss)
+* [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink&apos;s global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
+* [2025-10-25, 07:20:38](https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
+* [2025-10-25, 07:03:39](https://news.ycombinator.com/item?id=45701884) - [That Time Ken Thompson Wrote a Backdoor into the C Compiler](https://micahkepe.com/blog/thompson-trojan-horse/)
+* [2025-10-25, 07:00:00](https://science.slashdot.org/story/25/10/25/0126203/chinas-zhuque-3-reusable-rocket-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Zhuque-3 Reusable Rocket Passes Key Milestone](https://science.slashdot.org/story/25/10/25/0126203/chinas-zhuque-3-reusable-rocket-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-25, 06:48:12](https://news.ycombinator.com/item?id=45701825) - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
 * [2025-10-25, 06:42:45](https://lobste.rs/s/7vnbtq/continual_learning_problem) - [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
-* [2025-10-25, 05:55:11](https://news.ycombinator.com/item?id=45701622) - [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
+* [2025-10-25, 05:51:31](https://news.ycombinator.com/item?id=45701607) - [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)
 * [2025-10-25, 04:09:18](https://news.ycombinator.com/item?id=45701305) - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
 * [2025-10-25, 03:30:00](https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iceland Just Found Its First Mosquitoes](https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss)
@@ -100,13 +104,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-24, 20:05:07](https://news.ycombinator.com/item?id=45698554) - [Harnessing America&apos;s Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
 * [2025-10-24, 20:01:00](https://slashdot.org/story/25/10/24/1830258/amazons-aws-shows-signs-of-weakness-as-competitors-charge-ahead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s AWS Shows Signs of Weakness as Competitors Charge Ahead](https://slashdot.org/story/25/10/24/1830258/amazons-aws-shows-signs-of-weakness-as-competitors-charge-ahead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10_o) - [NewPipe is turning 10 :O](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
-* [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
+* [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 19:22:00](https://news.slashdot.org/story/25/10/24/1814214/hackers-used-thousands-of-youtube-videos-to-spread-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hackers Used Thousands of YouTube Videos To Spread Malware](https://news.slashdot.org/story/25/10/24/1814214/hackers-used-thousands-of-youtube-videos-to-spread-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 18:40:00](https://slashdot.org/story/25/10/24/185247/intel-has-cut-35500-jobs-in-less-than-two-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Has Cut 35,500 Jobs in Less Than Two Years](https://slashdot.org/story/25/10/24/185247/intel-has-cut-35500-jobs-in-less-than-two-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
 * [2025-10-24, 18:00:00](https://news.slashdot.org/story/25/10/24/1753249/wikipedia-drama-goes-mainstream?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia Drama Goes Mainstream](https://news.slashdot.org/story/25/10/24/1753249/wikipedia-drama-goes-mainstream?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 17:46:00](https://soylentnews.org/article.pl?sid=25/10/23/0958229&amp;from=rss) - [Leading OpenAI Researcher Announced a GPT-5 Math Breakthrough That Never Happened](https://soylentnews.org/article.pl?sid=25/10/23/0958229&amp;from=rss)
-* [2025-10-24, 17:30:00](https://tech.slashdot.org/story/25/10/24/1727228/browser-promising-privacy-protection-contains-malware-like-features-routes-traffic-through-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Browser Promising Privacy Protection Contains Malware-Like Features, Routes Traffic Through China](https://tech.slashdot.org/story/25/10/24/1727228/browser-promising-privacy-protection-contains-malware-like-features-routes-traffic-through-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-24, 17:18:17](https://news.ycombinator.com/item?id=45696838) - [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
 * [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
 * [2025-10-24, 16:38:33](https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker) - [How to Avoid Fighting Rust Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
@@ -119,22 +122,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-24, 13:32:00](https://lobste.rs/s/pbsq49/building_like_it_s_1984_scrollbars_web) - [Building like it&apos;s 1984: Scrollbars in web applications](https://web.archive.org/web/20250110081649/https://height.app/blog/scrollbars-in-web-applications)
 * [2025-10-24, 13:03:00](https://soylentnews.org/article.pl?sid=25/10/23/0954231&amp;from=rss) - [AWS Outage Exposes Achilles Heel: Central Control Plane](https://soylentnews.org/article.pl?sid=25/10/23/0954231&amp;from=rss)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
-* [2025-10-24, 12:33:10](https://news.ycombinator.com/item?id=45693978) - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:15:15](https://lobste.rs/s/upo1ev/openbsd_c_c_toolchain_browser) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
-* [2025-10-24, 11:42:09](https://lobste.rs/s/itk2l2/carbon_values_variables_pointers) - [Carbon values, variables, and pointers](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md)
 * [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-24, 11:01:23](https://news.ycombinator.com/item?id=45693325) - [Mesh2Motion – Open-source web application to animate 3D models](https://mesh2motion.org/)
 * [2025-10-24, 10:50:47](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend)
 * [2025-10-24, 10:16:25](https://news.ycombinator.com/item?id=45692984) - [Twake Drive – An open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
-* [2025-10-24, 10:07:34](https://news.ycombinator.com/item?id=45692915) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
 * [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
 * [2025-10-24, 09:31:32](https://lobste.rs/s/i33fks/modern_perfect_hashing) - [Modern perfect hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-24, 08:15:00](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss) - [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
-* [2025-10-24, 04:24:25](https://lobste.rs/s/raqwxt/llms_can_get_brain_rot_after_consuming_too) - [LLMs Can Get Brain Rot (after consuming too much social media content)](https://llm-brain-rot.github.io/)
 * [2025-10-24, 03:32:00](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss) - [OpenBSD 7.8 Released](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss)
 * [2025-10-24, 01:59:56](https://news.ycombinator.com/item?id=45689905) - [Modern Perfect Hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-23, 22:45:00](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss) - [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss)
 * [2025-10-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/10/23/0012248&amp;from=rss) - [Apple Ups the Reward for Finding Major Exploits to $2 Million](https://soylentnews.org/article.pl?sid=25/10/23/0012248&amp;from=rss)
+* [2025-10-23, 14:55:29](https://news.ycombinator.com/item?id=45682560) - [Luau&apos;s Performance](https://luau.org/performance)
 * [2025-10-23, 14:24:47](https://news.ycombinator.com/item?id=45682164) - [Context engineering is sleeping on the humble hyperlink](https://mbleigh.dev/posts/context-engineering-with-links/)
 * [2025-10-23, 13:19:00](https://soylentnews.org/article.pl?sid=25/10/22/126221&amp;from=rss) - [Europe&apos;s Plan to Ditch US Tech Giants is Built on Open Source - and It&apos;s Gaining Steam](https://soylentnews.org/article.pl?sid=25/10/22/126221&amp;from=rss)
 * [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
@@ -145,11 +145,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss)
 * [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss)
 * [2025-10-22, 08:58:00](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss) - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss)
-* [2025-10-22, 06:40:42](https://news.ycombinator.com/item?id=45665612) - [The Great Butterfly Heist](https://www.theguardian.com/global/2025/oct/04/great-butterfly-heist-how-collector-stole-thousands-butterflies-from-australian-museums)
 * [2025-10-22, 06:26:53](https://news.ycombinator.com/item?id=45665515) - [The fix wasn&apos;t easy, or C precedence bites](https://boston.conman.org/2025/10/20.1)
 * [2025-10-22, 04:11:00](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss) - [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss)
 * [2025-10-21, 23:26:00](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss) - [Amazon Error Creates Massive Internet Outage](https://soylentnews.org/article.pl?sid=25/10/21/1218221&amp;from=rss)
-* [2025-10-21, 19:47:12](https://news.ycombinator.com/item?id=45660753) - [Why can&apos;t transformers learn multiplication?](https://arxiv.org/abs/2510.00184)
 * [2025-10-21, 18:41:00](https://soylentnews.org/article.pl?sid=25/10/20/2129245&amp;from=rss) - [Are We Living in a Golden Age of Stupidity?](https://soylentnews.org/article.pl?sid=25/10/20/2129245&amp;from=rss)
 * [2025-10-21, 13:57:00](https://soylentnews.org/article.pl?sid=25/10/20/1245230&amp;from=rss) - [Drone Tech Company DroneShield to Build 13m Facility in Australia](https://soylentnews.org/article.pl?sid=25/10/20/1245230&amp;from=rss)
 * [2025-10-21, 09:15:00](https://soylentnews.org/article.pl?sid=25/10/20/1236216&amp;from=rss) - [Lifespan of AI Chips: The $300 Billion Question](https://soylentnews.org/article.pl?sid=25/10/20/1236216&amp;from=rss)
