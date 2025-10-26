@@ -1,52 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Innovations
+## Advancements and Challenges in AI
 
-* [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/) - [comments](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust)
+* [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/) - Explores the evolution of prompt programming for AI systems.
 
-* [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [comments](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Does Generative AI Threaten the Open Source Ecosystem?](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses the potential risks generative AI poses to the open source software landscape.
 
-* [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/) - [comments](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux)
+* [Slashdot Reader Mocks Databricks 'Context-Aware AI Assistant' for Odd Bar Chart](https://slashdot.org/story/25/10/25/2327225/slashdot-reader-mocks-databricks-context-aware-ai-assistant-for-odd-bar-chart?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Critiques the quirky performance of an AI assistant in data visualization.
 
-* [You already have a git server](https://maurycyz.com/misc/easy_git/) - [comments](https://lobste.rs/s/9na276/you_already_have_git_server)
+* [AI Models May Be Developing Their Own 'Survival Drive', Researchers Say](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explores the possibility of self-preservation mechanisms emerging in AI.
 
-* [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/) - [comments](https://news.ycombinator.com/item?id=45709988)
+* [Meet The People Who Dare to Say No to AI](https://slashdot.org/story/25/10/25/0324244/meet-the-people-who-dare-to-say-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights individuals resisting widespread AI adoption.
 
-* [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/) - [comments](https://news.ycombinator.com/item?id=45709819)
+## Technological Innovations and Open Source Developments
 
-## Artificial Intelligence Impacts
+* [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4) - Examines the real-world implications versus lab benchmarks in Nvidia's DGX Spark.
 
-* [AI Models May Be Developing Their Own 'Survival Drive', Researchers Say](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [comments](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143) - Details how creating a custom S3 solution saved significant costs.
 
-* [Formal or not formal? That is the question in AI for theorem proving](https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/) - [comments](https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for)
+* [25 Years Ago Today:  A PlayStation Shopping Frenzy - But Would Microsoft's Xbox Make It Obsolete?](https://games.slashdot.org/story/25/10/25/2228255/25-years-ago-today-a-playstation-shopping-frenzy---but-would-microsofts-xbox-make-it-obsolete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Looks back at the early competition between PlayStation and Xbox.
 
-* [Student Handcuffed After School's AI System Mistakes a Bag of Chips for a Gun](https://news.slashdot.org/story/25/10/25/0733242/student-handcuffed-after-schools-ai-system-mistakes-a-bag-of-chips-for-a-gun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [comments](https://news.slashdot.org/story/25/10/25/0733242/student-handcuffed-after-schools-ai-system-mistakes-a-bag-of-chips-for-a-gun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect) - Offers nostalgic connectivity to classic Atari bulletin boards.
 
-* [Is AI Responsible for Job Cuts - Or Just a Good Excuse?](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [comments](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/) - A deep dive into developing a RISC-V emulator using Rust.
 
-## Scientific Discoveries and Health
+## Energy, Environment, and Health
 
-* [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/) - [comments](https://news.ycombinator.com/item?id=45713738)
+* [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Advances in nuclear technology with regulatory approvals.
 
-* [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope) - [comments](https://news.ycombinator.com/item?id=45713253)
+* [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/) - Research into how Alzheimer's affects brain cell activity.
 
-* [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
+* [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - Police action against cross-border digital threats.
 
-* [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss)
+* [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss) - Investigates the adverse health effects linked to Bitcoin mining practices.
 
-* [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss)
+* [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss) - Explores vulnerabilities in satellite network communications.
 
-## Global Events and Policies
+## Software Development and Programming
 
-* [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss)
+* [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/) - Discusses common pitfalls in software development reviews.
 
-* [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da) - [comments](https://news.ycombinator.com/item?id=45712517)
+* [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581) - Practical insights into implementing property-based testing.
 
-* [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss)
+* [the bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/) - Analyzes unexpected learning moments in AI frameworks.
 
-* [Exxon Sues California Over Climate Disclosure Laws](https://yro.slashdot.org/story/25/10/26/0034252/exxon-sues-california-over-climate-disclosure-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [comments](https://yro.slashdot.org/story/25/10/26/0034252/exxon-sues-california-over-climate-disclosure-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Validating Your Ideas on Strangers](https://jeremyaboyd.com/post/validating-your-ideas-on-strangers) - Encourages brainstorming and idea validation through broader perspectives.
 
-* [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss) - [comments](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss)
+* [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/) - Innovative control mechanisms for autonomous systems.
 
 ---
 
@@ -73,23 +73,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
+* [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss)
+* [2025-10-26, 21:19:53](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5) - [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/)
+* [2025-10-26, 21:03:11](https://lobste.rs/s/6yhlxz/on_programming_languages_as_languages) - [On Programming Languages as Languages (2014)](https://programmingzen.com/programming-languages-as-languages/)
+* [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
+* [2025-10-26, 20:34:00](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Generative AI Threaten the Open Source Ecosystem?](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-26, 19:34:00](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can YouTube Replace &apos;Traditional&apos; TV?](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When &apos;perfect&apos; code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
+* [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
+* [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-10-26, 18:34:00](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 18:14:46](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni) - [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/)
-* [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A Definition of AGI](https://arxiv.org/abs/2510.18212)
+* [2025-10-26, 17:53:22](https://news.ycombinator.com/item?id=45713835) - [Nvidia DGX Spark: When benchmark numbers meet production reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
 * [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer&apos;s disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 17:34:00](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is AI Responsible for Job Cuts - Or Just a Good Excuse?](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-26, 17:12:37](https://news.ycombinator.com/item?id=45713507) - [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)
 * [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss)
-* [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 16:34:00](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dungeons &amp;amp; Dragons Brings Purpose and Fulfillment - and Maybe Structure and Connection for Retirees?](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
-* [2025-10-26, 16:19:51](https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for) - [Formal or not formal? That is the question in AI for theorem proving](https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
-* [2025-10-26, 15:47:29](https://news.ycombinator.com/item?id=45712807) - [Movie posters from Ghana in the 1980s and 90s](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
 * [2025-10-26, 15:34:00](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the Term &apos;AI Factories&apos; Necessary and Illuminating - or Marketing Hogwash?](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 15:11:51](https://news.ycombinator.com/item?id=45712517) - [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
@@ -98,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 13:09:26](https://lobste.rs/s/myqo5i/tag_proposal_typesetting) - [Tag proposal: typesetting](https://lobste.rs/s/myqo5i/tag_proposal_typesetting)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let&apos;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-* [2025-10-26, 12:34:36](https://news.ycombinator.com/item?id=45711279) - [Let&apos;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:16:00](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss) - [71 Samsung Devices Can Not Longer be Used in Australia From November 2025](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss)
 * [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 11:34:00](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,11 +112,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
 * [2025-10-26, 08:19:48](https://news.ycombinator.com/item?id=45710006) - [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days)
 * [2025-10-26, 08:15:48](https://news.ycombinator.com/item?id=45709988) - [Clojure Land – Discover open-source Clojure libraries and frameworks](https://clojure.land/)
-* [2025-10-26, 08:03:14](https://news.ycombinator.com/item?id=45709922) - [LaserTweezer – Optical Trap](https://www.gaudi.ch/GaudiLabs/?page_id=578)
 * [2025-10-26, 07:35:00](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss) - [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss)
 * [2025-10-26, 07:34:30](https://news.ycombinator.com/item?id=45709819) - [Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
 * [2025-10-26, 07:34:00](https://games.slashdot.org/story/25/10/25/2228255/25-years-ago-today-a-playstation-shopping-frenzy---but-would-microsofts-xbox-make-it-obsolete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [25 Years Ago Today:  A PlayStation Shopping Frenzy - But Would Microsoft&apos;s Xbox Make It Obsolete?](https://games.slashdot.org/story/25/10/25/2228255/25-years-ago-today-a-playstation-shopping-frenzy---but-would-microsofts-xbox-make-it-obsolete?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-26, 07:00:33](https://news.ycombinator.com/item?id=45709698) - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 05:42:45](https://lobste.rs/s/ghmawy/journey_before_main) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-26, 03:49:00](https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Network Security Devices Endangering Orgs With 1990s-Era Flaws?](https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -131,21 +132,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-25, 22:40:00](https://news.ycombinator.com/item?id=45707539) - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss) - [Meet Mico, Microsoft&apos;s AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss)
 * [2025-10-25, 20:44:00](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Models May Be Developing Their Own &apos;Survival Drive&apos;, Researchers Say](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\&quot;Learn APL\&quot; Notes](https://luksamuk.codes/pages/learn-apl.html)
 * [2025-10-25, 19:34:00](https://slashdot.org/story/25/10/25/0324244/meet-the-people-who-dare-to-say-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Meet The People Who Dare to Say No to AI&apos;](https://slashdot.org/story/25/10/25/0324244/meet-the-people-who-dare-to-say-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-25, 19:33:22](https://news.ycombinator.com/item?id=45706380) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
-* [2025-10-25, 18:34:00](https://news.slashdot.org/story/25/10/25/0733242/student-handcuffed-after-schools-ai-system-mistakes-a-bag-of-chips-for-a-gun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Handcuffed After School&apos;s AI System Mistakes a Bag of Chips for a Gun](https://news.slashdot.org/story/25/10/25/0733242/student-handcuffed-after-schools-ai-system-mistakes-a-bag-of-chips-for-a-gun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-25, 17:34:00](https://yro.slashdot.org/story/25/10/25/1246241/north-korea-has-stolen-billions-in-cryptocurrency-and-tech-firm-salaries-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [North Korea Has Stolen Billions in Cryptocurrency and Tech Firm Salaries, Report Says](https://yro.slashdot.org/story/25/10/25/1246241/north-korea-has-stolen-billions-in-cryptocurrency-and-tech-firm-salaries-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-25, 17:22:00](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss) - [Data Centers Turn to Commercial Aircraft Jet Engines Bolted Onto Trailers as AI Power Crunch Bites](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss)
 * [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
 * [2025-10-25, 16:59:25](https://lobste.rs/s/obwzso/alpha_launch_well_known_avatar_feedback) - [Alpha launch - .well-known/avatar - feedback wanted](https://shkspr.mobi/blog/2025/10/alpha-launch-well-known-avatar-feedback-wanted/)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 12:38:00](https://soylentnews.org/article.pl?sid=25/10/24/014202&amp;from=rss) - [Breaking Down Rare Earth Element Magnets for Recycling](https://soylentnews.org/article.pl?sid=25/10/24/014202&amp;from=rss)
 * [2025-10-25, 07:54:00](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss)
+* [2025-10-25, 07:27:07](https://news.ycombinator.com/item?id=45701980) - [Why your social.org files can have millions of lines without performance issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss)
 * [2025-10-24, 22:24:00](https://soylentnews.org/article.pl?sid=25/10/23/106247&amp;from=rss) - [It Wasn&apos;t Space Debris That Struck a United Airlines Plane](https://soylentnews.org/article.pl?sid=25/10/23/106247&amp;from=rss)
-* [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 17:46:00](https://soylentnews.org/article.pl?sid=25/10/23/0958229&amp;from=rss) - [Leading OpenAI Researcher Announced a GPT-5 Math Breakthrough That Never Happened](https://soylentnews.org/article.pl?sid=25/10/23/0958229&amp;from=rss)
 * [2025-10-24, 16:48:23](https://news.ycombinator.com/item?id=45696438) - [Validating Your Ideas on Strangers](https://jeremyaboyd.com/post/validating-your-ideas-on-strangers)
 * [2025-10-24, 16:03:53](https://news.ycombinator.com/item?id=45695979) - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto)
@@ -160,6 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-23, 03:54:00](https://soylentnews.org/article.pl?sid=25/10/22/0311232&amp;from=rss) - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://soylentnews.org/article.pl?sid=25/10/22/0311232&amp;from=rss)
 * [2025-10-22, 23:09:00](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss) - [Hackers Exploit Cisco SNMP Flaw to Deploy Rootkit on Switches](https://soylentnews.org/article.pl?sid=25/10/22/032220&amp;from=rss)
 * [2025-10-22, 18:27:00](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss) - [Eavesdropping on Internal Networks via Unencrypted Satellites](https://soylentnews.org/article.pl?sid=25/10/21/1918224&amp;from=rss)
+* [2025-10-22, 16:21:25](https://news.ycombinator.com/item?id=45671475) - [Wren: A classy little scripting language](https://wren.io/)
 * [2025-10-22, 13:42:00](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss) - [He Co-founded Wikipedia, Now He Says the Site Needs a Radical Change](https://soylentnews.org/article.pl?sid=25/10/21/198229&amp;from=rss)
 * [2025-10-22, 08:58:00](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss) - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://soylentnews.org/article.pl?sid=25/10/21/1229253&amp;from=rss)
 * [2025-10-22, 04:11:00](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss) - [Bitcoin Mining is Making People Sick](https://soylentnews.org/article.pl?sid=25/10/21/1223202&amp;from=rss)
+* [2025-10-22, 02:01:14](https://news.ycombinator.com/item?id=45664139) - [System.LongBool](https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool)
