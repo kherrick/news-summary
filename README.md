@@ -1,56 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Language Models
+## Health and Disease Trends
+
+* [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html) ([comments](https://news.ycombinator.com/item?id=45717564))
+
+## Technology and Security Developments
+
+* [Microsoft Disables Preview In File Explorer To Block Attacks](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon) ([comments](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for))
 
-* [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/) ([comments](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5))
+* [An End to Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/) ([comments](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5))
+
+* [GM Plans to Drop Apple CarPlay and Android Auto From All Its Cars](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/) ([comments](https://news.ycombinator.com/item?id=45715837))
 
-* [Does Generative AI Threaten the Open Source Ecosystem?](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss))
 
-* [Is AI Responsible for Job Cuts - Or Just a Good Excuse?](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Advancements in Programming and Software
 
-## Security and Technology
-
-* [Beginner’s Guide to Malware Analysis and Reverse Engineering](https://soylentnews.org/article.pl?sid=25/10/26/010215&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/26/010215&from=rss))
-
-* [Interactive Hiring Pipeline Calculator](https://justoffbyone.com/posts/interactive-hiring-pipeline-calculator/) ([comments](https://lobste.rs/s/txlk0m/interactive_hiring_pipeline_calculator))
-
-* [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/) ([comments](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux))
-
-* [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/25/1321248&from=rss))
-
-## Engineering and Tools
-
-* [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html) ([comments](https://news.ycombinator.com/item?id=45716109))
+* [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html) ([comments](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language))
 
 * [We Saved $500k per Year by Rolling Our Own "S3"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143) ([comments](https://news.ycombinator.com/item?id=45715204))
 
 * [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/) ([comments](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use))
 
-* [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/) ([comments](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust))
+* [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/) ([comments](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni))
 
-## Social and Policy Issues
+## Science and Environment
+
+* [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Some US Electricity Prices are Rising -- But It's Not Just Data Centers](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Cultural and Policy Insights
 
 * [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media) ([comments](https://news.ycombinator.com/item?id=45716296))
 
-* [Can YouTube Replace 'Traditional' TV?](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/26/0047211&from=rss))
-
-* [Some US Electricity Prices are Rising -- But It's Not Just Data Centers](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Innovative Projects and Stories
-
-* [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS) ([comments](https://news.ycombinator.com/item?id=45715055))
-
-* [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope) ([comments](https://news.ycombinator.com/item?id=45713253))
-
-* [Dungeons & Dragons Brings Purpose and Fulfillment - and Maybe Structure and Connection for Retirees?](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Ken Thompson recalls Unix's rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/) ([comments](https://news.ycombinator.com/item?id=45713359))
+* [California Colleges Test AI Partnerships. Critics Complain It's Risky and Wasteful](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -77,6 +67,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
+* [2025-10-27, 04:34:00](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Disables Preview In File Explorer To Block Attacks](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+* [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained - Faultlore](https://faultlore.com/blah/compact-unwinding/)
 * [2025-10-27, 02:39:37](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for) - [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon)
 * [2025-10-27, 02:30:00](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss) - [Beginner’s Guide to Malware Analysis and Reverse Engineering](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss)
 * [2025-10-27, 01:34:00](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Colleges Test AI Partnerships. Critics Complain It&apos;s Risky and Wasteful](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -93,7 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss)
 * [2025-10-26, 21:19:53](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5) - [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/)
 * [2025-10-26, 21:05:09](https://news.ycombinator.com/item?id=45715204) - [We Saved $500k per Year by Rolling Our Own \&quot;S3\&quot;](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
-* [2025-10-26, 21:03:11](https://lobste.rs/s/6yhlxz/on_programming_languages_as_languages) - [On Programming Languages as Languages (2014)](https://programmingzen.com/programming-languages-as-languages/)
 * [2025-10-26, 20:43:40](https://news.ycombinator.com/item?id=45715055) - [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
 * [2025-10-26, 20:34:00](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Generative AI Threaten the Open Source Ecosystem?](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 19:34:00](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can YouTube Replace &apos;Traditional&apos; TV?](https://entertainment.slashdot.org/story/25/10/26/1657219/can-youtube-replace-traditional-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,7 +95,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 18:34:00](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 18:14:46](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni) - [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/)
 * [2025-10-26, 18:09:37](https://news.ycombinator.com/item?id=45713959) - [A definition of AGI](https://arxiv.org/abs/2510.18212)
-* [2025-10-26, 17:40:06](https://news.ycombinator.com/item?id=45713738) - [Alzheimer&apos;s disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
 * [2025-10-26, 17:34:00](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is AI Responsible for Job Cuts - Or Just a Good Excuse?](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss)
@@ -112,19 +104,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 16:34:00](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dungeons &amp;amp; Dragons Brings Purpose and Fulfillment - and Maybe Structure and Connection for Retirees?](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
-* [2025-10-26, 16:19:51](https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for) - [Formal or not formal? That is the question in AI for theorem proving](https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:34:00](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the Term &apos;AI Factories&apos; Necessary and Illuminating - or Marketing Hogwash?](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 14:55:47](https://lobste.rs/s/mvj1dc/bug_taught_me_more_about_pytorch_than) - [the bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-26, 14:34:00](https://tech.slashdot.org/story/25/10/26/0419205/how-americas-transportation-department-blocked-a-self-driving-truck-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How America&apos;s Transportation Department Blocked a Self-Driving Truck Company](https://tech.slashdot.org/story/25/10/26/0419205/how-americas-transportation-department-blocked-a-self-driving-truck-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-26, 14:21:44](https://news.ycombinator.com/item?id=45712118) - [Resource use matters, but material footprints are a poor way to measure it](https://ourworldindata.org/material-footprint-limitations)
 * [2025-10-26, 13:09:26](https://lobste.rs/s/myqo5i/tag_proposal_typesetting) - [Tag proposal: typesetting](https://lobste.rs/s/myqo5i/tag_proposal_typesetting)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let&apos;s Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 12:16:00](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss) - [71 Samsung Devices Can Not Longer be Used in Australia From November 2025](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
-* [2025-10-26, 12:03:59](https://news.ycombinator.com/item?id=45711062) - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 * [2025-10-26, 11:34:00](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
@@ -139,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
 * [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn&apos;t Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [2025-10-26, 01:44:00](https://news.slashdot.org/story/25/10/26/0141222/finally-you-can-now-be-a-certified-ubuntu-sys-adminlinux-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finally, You Can Now be a &apos;Certified&apos; Ubuntu Sys-Admin/Linux User](https://news.slashdot.org/story/25/10/26/0141222/finally-you-can-now-be-a-certified-ubuntu-sys-adminlinux-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-26, 00:38:00](https://yro.slashdot.org/story/25/10/26/0034252/exxon-sues-california-over-climate-disclosure-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Exxon Sues California Over Climate Disclosure Laws](https://yro.slashdot.org/story/25/10/26/0034252/exxon-sues-california-over-climate-disclosure-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss) - [Meet Mico, Microsoft&apos;s AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-25, 17:22:00](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss) - [Data Centers Turn to Commercial Aircraft Jet Engines Bolted Onto Trailers as AI Power Crunch Bites](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss)
@@ -154,6 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-24, 03:32:00](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss) - [OpenBSD 7.8 Released](https://soylentnews.org/article.pl?sid=25/10/23/0934206&amp;from=rss)
 * [2025-10-23, 22:45:00](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss) - [Why Did NASA’s Chief Just Shake Up the Agency’s Plans to Land on the Moon?](https://soylentnews.org/article.pl?sid=25/10/23/0020211&amp;from=rss)
 * [2025-10-23, 18:00:00](https://soylentnews.org/article.pl?sid=25/10/23/0012248&amp;from=rss) - [Apple Ups the Reward for Finding Major Exploits to $2 Million](https://soylentnews.org/article.pl?sid=25/10/23/0012248&amp;from=rss)
+* [2025-10-23, 17:21:41](https://news.ycombinator.com/item?id=45684414) - [Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry](https://jaseg.de/blog/paper-sampling-mesh-monitor/)
 * [2025-10-23, 17:06:35](https://news.ycombinator.com/item?id=45684253) - [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 * [2025-10-23, 16:09:27](https://news.ycombinator.com/item?id=45683536) - [Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot](https://sphere.computer/)
 * [2025-10-23, 13:19:00](https://soylentnews.org/article.pl?sid=25/10/22/126221&amp;from=rss) - [Europe&apos;s Plan to Ditch US Tech Giants is Built on Open Source - and It&apos;s Gaining Steam](https://soylentnews.org/article.pl?sid=25/10/22/126221&amp;from=rss)
