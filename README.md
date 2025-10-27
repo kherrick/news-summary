@@ -1,46 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Health and Disease Trends
+## Impact of Artificial Intelligence
 
-* [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html) ([comments](https://news.ycombinator.com/item?id=45717564))
+* [Why open source may not survive the rise of generative AI](https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/) ([comments](https://lobste.rs/s/zvbhjh/why_open_source_may_not_survive_rise))
 
-## Technology and Security Developments
+* [Does Generative AI Threaten the Open Source Ecosystem?](https://developers.slashdot.org/story/25/10/26/208204/does-generative-ai-threaten-the-open-source-ecosystem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Microsoft Disables Preview In File Explorer To Block Attacks](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Is AI Responsible for Job Cuts - Or Just a Good Excuse?](https://it.slashdot.org/story/25/10/26/1535221/is-ai-responsible-for-job-cuts---or-just-a-good-excuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon) ([comments](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for))
+* [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/) ([comments](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5))
 
-* [An End to Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/) ([comments](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5))
+## Technological Advances and Challenges
 
-* [GM Plans to Drop Apple CarPlay and Android Auto From All Its Cars](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Mozilla to Require Data-Collection Disclosure in All New Firefox Extensions](https://tech.slashdot.org/story/25/10/27/0359250/mozilla-to-require-data-collection-disclosure-in-all-new-firefox-extensions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/) ([comments](https://news.ycombinator.com/item?id=45715837))
+* [Microsoft Disables Preview In File Explorer To Block Attacks](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Cache Poisoning Vulnerabilities Found in 2 DNS Resolving Apps](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/25/1321248&amp;from=rss))
+* [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss)
 
-## Advancements in Programming and Software
+## Innovations in Software Development
 
 * [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html) ([comments](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language))
 
-* [We Saved $500k per Year by Rolling Our Own "S3"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143) ([comments](https://news.ycombinator.com/item?id=45715204))
+* [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html) ([comments](https://news.ycombinator.com/item?id=45717397))
+
+* [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon) ([comments](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for))
 
 * [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/) ([comments](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use))
 
-* [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/) ([comments](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni))
+## Energy and Infrastructure Developments
 
-## Science and Environment
+* [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Bill Gates-Backed 345 MWe Advanced Nuclear Reactor Secures Crucial US Approval](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/26/1814233/bill-gates-backed-345-mwe-advanced-nuclear-reactor-secures-crucial-us-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [GM Plans to Drop Apple CarPlay and Android Auto From All Its Cars](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Some US Electricity Prices are Rising -- But It&apos;s Not Just Data Centers](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Some US Electricity Prices are Rising -- But It's Not Just Data Centers](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Science and Exploration
 
-## Cultural and Policy Insights
+* [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media) ([comments](https://news.ycombinator.com/item?id=45716296))
-
-* [California Colleges Test AI Partnerships. Critics Complain It's Risky and Wasteful](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
 
 ---
 
@@ -67,20 +67,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-27, 05:01:37](https://news.ycombinator.com/item?id=45717564) - [Diphtheria, a once vanquished killer of children, is resurgent](https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html)
+* [2025-10-27, 09:09:13](https://lobste.rs/s/zvbhjh/why_open_source_may_not_survive_rise) - [Why open source may not survive the rise of generative AI](https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/)
+* [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
+* [2025-10-27, 08:50:10](https://news.ycombinator.com/item?id=45718665) - [What Happened to Running What You Wanted on Your Own Machine?](https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/)
+* [2025-10-27, 08:28:43](https://news.ycombinator.com/item?id=45718546) - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+* [2025-10-27, 08:17:52](https://news.ycombinator.com/item?id=45718490) - [Why JPEG XL Ignoring Bit Depth Is Genius (and Why AVIF Can&apos;t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
+* [2025-10-27, 08:15:03](https://lobste.rs/s/5zpcpt/why_jpeg_xl_ignoring_bit_depth_is_genius) - [Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
+* [2025-10-27, 07:34:00](https://tech.slashdot.org/story/25/10/27/0359250/mozilla-to-require-data-collection-disclosure-in-all-new-firefox-extensions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla to Require Data-Collection Disclosure in All New Firefox Extensions](https://tech.slashdot.org/story/25/10/27/0359250/mozilla-to-require-data-collection-disclosure-in-all-new-firefox-extensions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-27, 07:24:19](https://news.ycombinator.com/item?id=45718231) - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
+* [2025-10-27, 07:22:48](https://lobste.rs/s/jw5o3e/recreating_lions_commentary_for) - [Recreating Lions&apos; commentary for teaching OS at MIT](https://www.youtube.com/watch?v=uY7CNx-P9ao)
+* [2025-10-27, 07:11:00](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use by 82% With New Pooling System](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss)
+* [2025-10-27, 05:36:13](https://news.ycombinator.com/item?id=45717724) - [Show HN: Write Go code in JavaScript files](https://www.npmjs.com/package/vite-plugin-use-golang)
 * [2025-10-27, 04:34:00](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Disables Preview In File Explorer To Block Attacks](https://tech.slashdot.org/story/25/10/27/0314221/microsoft-disables-preview-in-file-explorer-to-block-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+* [2025-10-27, 04:27:45](https://news.ycombinator.com/item?id=45717397) - [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained - Faultlore](https://faultlore.com/blah/compact-unwinding/)
 * [2025-10-27, 02:39:37](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for) - [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon)
 * [2025-10-27, 02:30:00](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss) - [Beginner’s Guide to Malware Analysis and Reverse Engineering](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss)
 * [2025-10-27, 01:34:00](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Colleges Test AI Partnerships. Critics Complain It&apos;s Risky and Wasteful](https://news.slashdot.org/story/25/10/27/0112204/california-colleges-test-ai-partnerships-critics-complain-its-risky-and-wasteful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 01:12:54](https://lobste.rs/s/txlk0m/interactive_hiring_pipeline_calculator) - [Interactive Hiring Pipeline Calculator](https://justoffbyone.com/posts/interactive-hiring-pipeline-calculator/)
-* [2025-10-27, 00:43:32](https://news.ycombinator.com/item?id=45716296) - [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
 * [2025-10-27, 00:20:34](https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access) - [Using Homebrew to Distribute Early Access Binaries from Private Github Repositories](https://lgug2z.com/articles/using-homebrew-to-distribute-early-access-binaries-from-private-github-repositories/)
 * [2025-10-27, 00:01:17](https://news.ycombinator.com/item?id=45716109) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-26, 23:47:00](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Plans to Drop Apple CarPlay and Android Auto From All Its Cars](https://tech.slashdot.org/story/25/10/26/2342252/gm-plans-to-drop-apple-carplay-and-android-auto-from-all-its-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 23:08:09](https://news.ycombinator.com/item?id=45715873) - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
-* [2025-10-26, 22:58:31](https://news.ycombinator.com/item?id=45715837) - [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
 * [2025-10-26, 22:41:02](https://news.ycombinator.com/item?id=45715752) - [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
 * [2025-10-26, 22:36:34](https://news.ycombinator.com/item?id=45715726) - [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
 * [2025-10-26, 21:52:00](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some US Electricity Prices are Rising -- But It&apos;s Not Just Data Centers](https://hardware.slashdot.org/story/25/10/26/2147249/some-us-electricity-prices-are-rising----but-its-not-just-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,8 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss)
 * [2025-10-26, 16:57:44](https://news.ycombinator.com/item?id=45713367) - [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/)
 * [2025-10-26, 16:57:12](https://news.ycombinator.com/item?id=45713359) - [Ken Thompson recalls Unix&apos;s rowdy, lock-picking origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
-* [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
-* [2025-10-26, 16:46:22](https://news.ycombinator.com/item?id=45713253) - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 * [2025-10-26, 16:34:00](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dungeons &amp;amp; Dragons Brings Purpose and Fulfillment - and Maybe Structure and Connection for Retirees?](https://games.slashdot.org/story/25/10/26/034248/dungeons-dragons-brings-purpose-and-fulfillment---and-maybe-structure-and-connection-for-retirees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
@@ -115,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 12:16:00](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss) - [71 Samsung Devices Can Not Longer be Used in Australia From November 2025](https://soylentnews.org/article.pl?sid=25/10/25/1458239&amp;from=rss)
 * [2025-10-26, 12:09:02](https://news.ycombinator.com/item?id=45711094) - [Feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 11:34:00](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Launches a New Cargo Spacecraft to ISS for the First Time](https://science.slashdot.org/story/25/10/26/0450217/japan-launches-a-new-cargo-spacecraft-to-iss-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 10:53:37](https://news.ycombinator.com/item?id=45710721) - [You already have a Git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 08:34:38](https://news.ycombinator.com/item?id=45710065) - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
@@ -124,14 +130,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 03:49:00](https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Network Security Devices Endangering Orgs With 1990s-Era Flaws?](https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-26, 02:53:00](https://soylentnews.org/article.pl?sid=25/10/25/137224&amp;from=rss) - [Suspected Salt Typhoon Spies Lurking in European Telco](https://soylentnews.org/article.pl?sid=25/10/25/137224&amp;from=rss)
-* [2025-10-26, 02:01:17](https://news.ycombinator.com/item?id=45708524) - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 * [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
 * [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn&apos;t Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
-* [2025-10-26, 01:44:00](https://news.slashdot.org/story/25/10/26/0141222/finally-you-can-now-be-a-certified-ubuntu-sys-adminlinux-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finally, You Can Now be a &apos;Certified&apos; Ubuntu Sys-Admin/Linux User](https://news.slashdot.org/story/25/10/26/0141222/finally-you-can-now-be-a-certified-ubuntu-sys-adminlinux-user?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-25, 22:07:00](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss) - [Meet Mico, Microsoft&apos;s AI Version of Clippy](https://soylentnews.org/article.pl?sid=25/10/24/1522227&amp;from=rss)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-25, 17:22:00](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss) - [Data Centers Turn to Commercial Aircraft Jet Engines Bolted Onto Trailers as AI Power Crunch Bites](https://soylentnews.org/article.pl?sid=25/10/24/1519253&amp;from=rss)
-* [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
 * [2025-10-25, 12:38:00](https://soylentnews.org/article.pl?sid=25/10/24/014202&amp;from=rss) - [Breaking Down Rare Earth Element Magnets for Recycling](https://soylentnews.org/article.pl?sid=25/10/24/014202&amp;from=rss)
 * [2025-10-25, 07:54:00](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss) - [Latvian Police Bust European Cybercrime Ring and Arrest Seven Suspects](https://soylentnews.org/article.pl?sid=25/10/24/0058210&amp;from=rss)
 * [2025-10-25, 03:12:00](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss) - [People Regret Buying Amazon Smart Displays After Being Bombarded With Ads](https://soylentnews.org/article.pl?sid=25/10/24/0053217&amp;from=rss)
