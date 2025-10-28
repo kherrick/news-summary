@@ -1,38 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software Development and Programming
+## AI and Technology Insights
 
-* [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/) - Explore how to write programs in the J programming language, showcasing unique applications.
+* [OpenAI Says Over a Million People Talk To ChatGPT About Suicide Weekly](https://slashdot.org/story/25/10/27/2318245/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [On pass-by-value overhead](https://owen.cafe/posts/struct-sizes/) - A deep dive into struct sizes and considerations around pass-by-value methodology.
+* [Qualcomm Announces AI Chips To Compete With AMD and Nvidia](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html) - Examines how AI has shifted methodologies in coding and software development.
+* [AI can code, but it can&apos;t build software](https://bytesauna.com/post/coding-vs-software-engineering)
 
-## AI and Its Impact
+* [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss)
 
-* [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering) - Discusses the limitations of AI in comprehensively building software systems.
+* [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
 
-* [Australia Sues Microsoft Over AI-linked Subscription Price Hikes](https://yro.slashdot.org/story/25/10/27/1540239/australia-sues-microsoft-over-ai-linked-subscription-price-hikes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Australia's legal action against Microsoft's AI-based price adjustments.
+## Space and Science
 
-* [Qualcomm Announces AI Chips to Compete with AMD and Nvidia](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Qualcomm enters the AI hardware competition with new chip releases.
+* [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss)
 
-## Cybersecurity and Technology Risks
+* [First Shape Found That Can&apos;t Pass Through Itself](https://science.slashdot.org/story/25/10/27/1749229/first-shape-found-that-cant-pass-through-itself?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ransomware Profits Drop As Victims Stop Paying Hackers](https://it.slashdot.org/story/25/10/27/2044254/ransomware-profits-drop-as-victims-stop-paying-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the declining profits from ransomware due to the shift in victims' responses.
+* [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&amp;from=rss)
 
-* [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner) - A new tool for scanning vulnerabilities in MCP servers.
+## Industry and Energy
 
-## Science and Technology Discoveries
+* [NextEra Energy Partners With Google To Restart Iowa Nuclear Plant](https://hardware.slashdot.org/story/25/10/27/2312225/nextera-energy-partners-with-google-to-restart-iowa-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [First Shape Found That Can't Pass Through Itself](https://science.slashdot.org/story/25/10/27/1749229/first-shape-found-that-cant-pass-through-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discovery of an entirely unique geometrical shape that overlaps limitations of typical structures.
+* [Microsoft&apos;s Next Xbox Will Run Full Windows and Eliminate Multiplayer Paywall, Report Says](https://games.slashdot.org/story/25/10/27/1824246/microsofts-next-xbox-will-run-full-windows-and-eliminate-multiplayer-paywall-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [New Evidence for Oceans of Water Deep in the Earth](https://soylentnews.org/article.pl?sid=25/10/23/0943213&from=rss) - Groundbreaking findings hinting at vast water reserves in Earth's depths.
+* [Amazon Plans To Cut As Many As 30,000 Corporate Jobs Beginning Tomorrow](https://slashdot.org/story/25/10/27/1852239/amazon-plans-to-cut-as-many-as-30000-corporate-jobs-beginning-tomorrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Tech and Devices
+## Programming and Productivity
 
-* [Apple Says US Passport Digital IDs Are Coming To Wallet 'Soon'](https://apple.slashdot.org/story/25/10/27/2035221/apple-says-us-passport-digital-ids-are-coming-to-wallet-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Announcement of digital ID integration for Apple Wallet.
+* [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
 
-* [Microsoft's Next Xbox Will Run Full Windows and Eliminate Multiplayer Paywall, Report Says](https://games.slashdot.org/story/25/10/27/1824246/microsofts-next-xbox-will-run-full-windows-and-eliminate-multiplayer-paywall-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insight into the upcoming Xbox innovation incorporating full Windows OS.
+* [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
+
+* [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
+
+* [The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
+
+## Human-Technology Interaction
+
+* [Study Finds Growing Social Circles May Fuel Polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
+
+* [Firefox Plans Smarter, Privacy-First Search Suggestions In Your Address Bar](https://news.slashdot.org/story/25/10/27/236208/firefox-plans-smarter-privacy-first-search-suggestions-in-your-address-bar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 
 ---
 
@@ -59,7 +71,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/on_pass_by_value_overhead) - [On pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
+* [2025-10-28, 03:30:00](https://slashdot.org/story/25/10/27/2318245/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Over a Million People Talk To ChatGPT About Suicide Weekly](https://slashdot.org/story/25/10/27/2318245/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-28, 02:18:00](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss) - [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss)
+* [2025-10-28, 02:10:00](https://hardware.slashdot.org/story/25/10/27/2312225/nextera-energy-partners-with-google-to-restart-iowa-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NextEra Energy Partners With Google To Restart Iowa Nuclear Plant](https://hardware.slashdot.org/story/25/10/27/2312225/nextera-energy-partners-with-google-to-restart-iowa-nuclear-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-28, 01:30:00](https://tech.slashdot.org/story/25/10/27/2325201/study-finds-growing-social-circles-may-fuel-polarization?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds Growing Social Circles May Fuel Polarization](https://tech.slashdot.org/story/25/10/27/2325201/study-finds-growing-social-circles-may-fuel-polarization?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
 * [2025-10-28, 00:50:00](https://news.slashdot.org/story/25/10/27/236208/firefox-plans-smarter-privacy-first-search-suggestions-in-your-address-bar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Plans Smarter, Privacy-First Search Suggestions In Your Address Bar](https://news.slashdot.org/story/25/10/27/236208/firefox-plans-smarter-privacy-first-search-suggestions-in-your-address-bar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j) - [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
 * [2025-10-28, 00:27:34](https://lobste.rs/s/gti2pe/more_than_dns_14_hour_aws_us_east_1_outage) - [More Than DNS: The 14 hour AWS us-east-1 outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
@@ -69,6 +85,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-27, 23:28:13](https://news.ycombinator.com/item?id=45727557) - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
 * [2025-10-27, 22:50:00](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qualcomm Announces AI Chips To Compete With AMD and Nvidia](https://hardware.slashdot.org/story/25/10/27/2030204/qualcomm-announces-ai-chips-to-compete-with-amd-and-nvidia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 22:35:00](https://news.ycombinator.com/item?id=45727137) - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
+* [2025-10-27, 22:26:30](https://news.ycombinator.com/item?id=45727060) - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
 * [2025-10-27, 22:10:00](https://slashdot.org/story/25/10/27/2026202/real-estate-is-entering-its-ai-slop-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Real Estate Is Entering Its AI Slop Era](https://slashdot.org/story/25/10/27/2026202/real-estate-is-entering-its-ai-slop-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 21:30:00](https://slashdot.org/story/25/10/27/181215/ai-sets-up-kodak-moment-for-global-consultants?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;AI Sets Up Kodak Moment For Global Consultants&apos;](https://slashdot.org/story/25/10/27/181215/ai-sets-up-kodak-moment-for-global-consultants?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&amp;from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&amp;from=rss)
@@ -93,11 +110,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-27, 17:17:38](https://news.ycombinator.com/item?id=45723686) - [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 17:15:38](https://lobste.rs/s/5epuv6/new_calculus_ai_based_coding) - [The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 17:14:34](https://news.ycombinator.com/item?id=45723646) - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/)
-* [2025-10-27, 17:08:33](https://news.ycombinator.com/item?id=45723554) - [Avoid 2:00 and 3:00 am cron jobs (2013)](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
 * [2025-10-27, 17:01:05](https://news.ycombinator.com/item?id=45723426) - [Sieve (YC X25) is hiring engineers to build video datasets for frontier AI](https://www.sievedata.com/)
 * [2025-10-27, 16:56:04](https://news.ycombinator.com/item?id=45723359) - [Why Busy Beaver hunters fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
-* [2025-10-27, 16:52:00](https://news.slashdot.org/story/25/10/27/1653231/finnish-fertility-rate-drops-by-a-third-since-2010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finnish Fertility Rate Drops by a Third Since 2010](https://news.slashdot.org/story/25/10/27/1653231/finnish-fertility-rate-drops-by-a-third-since-2010?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 16:44:17](https://news.ycombinator.com/item?id=45723159) - [JetKVM – Control any computer remotely](https://jetkvm.com/)
 * [2025-10-27, 16:41:00](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss) - [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss)
 * [2025-10-27, 16:39:31](https://lobste.rs/s/xmkhec/raconn_ssh_multi_hostname) - [Raconn - Ssh multi hostname](https://blog.izissise.net/posts/raconn/)
@@ -105,17 +120,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-27, 16:26:26](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week)
 * [2025-10-27, 16:23:37](https://lobste.rs/s/fmbibl/json_query_small_flexible_expandable) - [JSON Query - a small, flexible, and expandable JSON query language](https://jsonquerylang.org/)
 * [2025-10-27, 16:22:52](https://news.ycombinator.com/item?id=45722826) - [Show HN: JSON Query](https://jsonquerylang.org/)
-* [2025-10-27, 16:10:00](https://yro.slashdot.org/story/25/10/27/1540239/australia-sues-microsoft-over-ai-linked-subscription-price-hikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia Sues Microsoft Over AI-linked Subscription Price Hikes](https://yro.slashdot.org/story/25/10/27/1540239/australia-sues-microsoft-over-ai-linked-subscription-price-hikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 16:09:22](https://news.ycombinator.com/item?id=45722639) - [Claude for Excel](https://www.claude.com/claude-for-excel)
 * [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
-* [2025-10-27, 15:30:00](https://news.slashdot.org/story/25/10/27/1526208/us-department-of-energy-forms-1-billion-supercomputer-and-ai-partnership-with-amd?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Department of Energy Forms $1 Billion Supercomputer and AI Partnership With AMD](https://news.slashdot.org/story/25/10/27/1526208/us-department-of-energy-forms-1-billion-supercomputer-and-ai-partnership-with-amd?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-27, 15:12:08](https://news.ycombinator.com/item?id=45721904) - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 15:04:05](https://news.ycombinator.com/item?id=45721801) - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
-* [2025-10-27, 14:19:30](https://news.ycombinator.com/item?id=45721302) - [When &apos;perfect&apos; code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 12:42:42](https://news.ycombinator.com/item?id=45720376) - [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [2025-10-27, 11:55:00](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss) - [December Microsoft Teams Update to Automatically Report User Location](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss)
-* [2025-10-27, 10:01:12](https://news.ycombinator.com/item?id=45719140) - [Tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 * [2025-10-27, 08:58:10](https://news.ycombinator.com/item?id=45718711) - [The last European train that travels by sea](https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea)
 * [2025-10-27, 07:11:00](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use by 82% With New Pooling System](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
@@ -125,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-26, 22:19:02](https://news.ycombinator.com/item?id=45715632) - [TOON – Token Oriented Object Notation](https://github.com/johannschopplich/toon)
 * [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When &apos;perfect&apos; code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
+* [2025-10-26, 19:00:07](https://news.ycombinator.com/item?id=45714348) - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
 * [2025-10-26, 17:00:00](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss) - [Dutch seizure of Nexperia followed US pressure over Chinese CEO](https://soylentnews.org/article.pl?sid=25/10/26/0037211&amp;from=rss)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
