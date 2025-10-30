@@ -1,38 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
+## Cybersecurity and AI Advancements
 
-* [Senators Move to Keep Big Tech's Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - Senators aim to regulate AI companion bots to protect children from potential harm. [Comments](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss)
+* [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/) ([comments](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages))
 
-* [Ex-Intel CEO's Mission To Build a Christian AI](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Former Intel CEO announces efforts to develop AI infused with Christian values. [Comments](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [SUSE Linux Enterprise Server 16 Becomes First Enterprise Linux With Built-In Agentic AI](https://linux.slashdot.org/story/25/10/29/2211231/suse-linux-enterprise-server-16-becomes-first-enterprise-linux-with-built-in-agentic-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/25/10/29/2211231/suse-linux-enterprise-server-16-becomes-first-enterprise-linux-with-built-in-agentic-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Grammarly Rebrands To 'Superhuman,' Launches a New AI Assistant](https://tech.slashdot.org/story/25/10/29/2110239/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Grammarly introduces its upgraded AI chatbot under its new brand 'Superhuman'. [Comments](https://tech.slashdot.org/story/25/10/29/2110239/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [US Startup Substrate Announces Chipmaking Tool That It Says Will Rival ASML](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Technology Advancements
+## Technology and Scientific Progress
 
-* [US Startup Substrate Announces Chipmaking Tool That It Says Will Rival ASML](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Substrate, a US startup, develops chipmaking technology to compete with ASML. [Comments](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Alien Worlds May Be Able To Make Their Own Water](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [SUSE Linux Enterprise Server 16 Becomes First Enterprise Linux With Built-In Agentic AI](https://linux.slashdot.org/story/25/10/29/2211231/suse-linux-enterprise-server-16-becomes-first-enterprise-linux-with-built-in-agentic-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SUSE Linux Enterprise introduces revolutionary AI integration in its server product. [Comments](https://linux.slashdot.org/story/25/10/29/2211231/suse-linux-enterprise-server-16-becomes-first-enterprise-linux-with-built-in-agentic-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/) ([comments](https://news.ycombinator.com/item?id=45756445))
 
-* [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss) - Microsoft enhances Windows 11 user experience with new dark mode features. [Comments](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss)
+* [Ex-Intel CEO&apos;s Mission To Build a Christian AI](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Scientific Discoveries and Perspectives
+## User Experience and Software Development
 
-* [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/) - Renowned physicist Carlo Rovelli discusses his unique interpretation of quantum mechanics and reality. [Comments](https://news.ycombinator.com/item?id=45756445)
+* [Introducing fnox: A secret manager that pairs well with mise](https://fnox.jdx.dev/) ([comments](https://lobste.rs/s/xwdzyh/introducing_fnox_secret_manager_pairs))
 
-* [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/) - Study highlights the environmental cooling effect of reforestation in the eastern United States. [Comments](https://news.ycombinator.com/item?id=45754390)
+* [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31) ([comments](https://news.ycombinator.com/item?id=45755821))
 
-## Global Policies and Regulations
+* [Jujutsu at Google](https://www.youtube.com/watch?v=v9Ob5yPpC0A&amp;list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&amp;index=6) ([comments](https://lobste.rs/s/4hza7h/jujutsu_at_google))
 
-* [New China Law Fines Influencers If They Discuss 'Serious' Topics Without a Degree](https://slashdot.org/story/25/10/29/2223209/new-china-law-fines-influencers-if-they-discuss-serious-topics-without-a-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China implements regulations targeting influencers discussing serious issues without formal qualification. [Comments](https://slashdot.org/story/25/10/29/2223209/new-china-law-fines-influencers-if-they-discuss-serious-topics-without-a-degree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Entertainment and Media
 
-* [Character.AI To Bar Children Under 18 From Using Its Chatbots](https://slashdot.org/story/25/10/29/213211/characterai-to-bar-children-under-18-from-using-its-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Character.AI announces restrictions on access to its chatbots for minors under 18. [Comments](https://slashdot.org/story/25/10/29/213211/characterai-to-bar-children-under-18-from-using-its-chatbots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/) ([comments](https://lobste.rs/s/gbnrii/crunchyroll_is_destroying_its_subtitles))
 
-## Gaming and Consumer Technology
+* [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet) ([comments](https://news.ycombinator.com/item?id=45754439))
 
-* [Microsoft CEO Nadella Says Gaming Needs Good Margins To Innovate, Compares Strategy To Office](https://games.slashdot.org/story/25/10/29/1543218/microsoft-ceo-nadella-says-gaming-needs-good-margins-to-innovate-compares-strategy-to-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft's CEO outlines business strategies focused on profitability in gaming. [Comments](https://games.slashdot.org/story/25/10/29/1543218/microsoft-ceo-nadella-says-gaming-needs-good-margins-to-innovate-compares-strategy-to-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Board: New game console recognizes physical pieces, with an open SDK](https://board.fun/) - A new console revolutionizes gameplay with physical piece recognition and an open SDK for developers. [Comments](https://news.ycombinator.com/item?id=45742456)
+* [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort) ([comments](https://lobste.rs/s/ugyv1s/vindication_bubble_sort))
 
 ---
 
@@ -59,11 +57,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
+* [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
+* [2025-10-30, 07:00:00](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alien Worlds May Be Able To Make Their Own Water](https://science.slashdot.org/story/25/10/30/024222/alien-worlds-may-be-able-to-make-their-own-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-30, 06:45:00](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - [Senators Move to Keep Big Tech&apos;s Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss)
+* [2025-10-30, 06:31:47](https://lobste.rs/s/xwdzyh/introducing_fnox_secret_manager_pairs) - [Introducing fnox: A secret manager that pairs well with mise](https://fnox.jdx.dev/)
+* [2025-10-30, 05:28:26](https://lobste.rs/s/gbnrii/crunchyroll_is_destroying_its_subtitles) - [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 * [2025-10-30, 05:02:14](https://lobste.rs/s/mwxrye/word2vec_style_vector_arithmetic_on_docs) - [word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-10-30, 04:29:45](https://news.ycombinator.com/item?id=45756445) - [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
 * [2025-10-30, 03:30:00](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ex-Intel CEO&apos;s Mission To Build a Christian AI](https://slashdot.org/story/25/10/29/225246/ex-intel-ceos-mission-to-build-a-christian-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-30, 02:48:21](https://news.ycombinator.com/item?id=45755911) - [One year with Next.js App Router and why we&apos;re moving on](https://paperclover.net/blog/webdev/one-year-next-app-router)
 * [2025-10-30, 02:37:35](https://news.ycombinator.com/item?id=45755821) - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 * [2025-10-30, 02:31:43](https://news.ycombinator.com/item?id=45755788) - [IRCd service (2024)](https://example.fi/blog/ircd.html)
 * [2025-10-30, 02:02:00](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss) - [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss)
@@ -73,10 +75,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 00:02:00](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Startup Substrate Announces Chipmaking Tool That It Says Will Rival ASML](https://slashdot.org/story/25/10/29/2130249/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 23:52:09](https://news.ycombinator.com/item?id=45754660) - [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
 * [2025-10-29, 23:31:24](https://news.ycombinator.com/item?id=45754509) - [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
-* [2025-10-29, 23:30:32](https://lobste.rs/s/z6qhuj/traveling_salesman_game) - [Traveling Salesman Game](https://prolog.univie.ac.at/tspGame/game.html)
 * [2025-10-29, 23:21:51](https://news.ycombinator.com/item?id=45754439) - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
 * [2025-10-29, 23:20:00](https://hardware.slashdot.org/story/25/10/29/2114253/nvidia-takes-1-billion-stake-in-nokia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Takes $1 Billion Stake In Nokia](https://hardware.slashdot.org/story/25/10/29/2114253/nvidia-takes-1-billion-stake-in-nokia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-29, 23:17:02](https://news.ycombinator.com/item?id=45754390) - [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
 * [2025-10-29, 22:41:30](https://lobste.rs/s/hrum0f/use_xdg_base_directory_specification) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 * [2025-10-29, 22:40:00](https://tech.slashdot.org/story/25/10/29/2110239/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Grammarly Rebrands To &apos;Superhuman,&apos; Launches a New AI Assistant](https://tech.slashdot.org/story/25/10/29/2110239/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I&apos;m Independently Verifying Go&apos;s Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
@@ -85,16 +85,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-29, 21:21:00](https://tech.slashdot.org/story/25/10/29/1744228/fccs-gomez-slams-move-to-revise-broadband-labels-as-anti-consumer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC&apos;s Gomez Slams Move To Revise Broadband Labels as &apos;Anti-Consumer&apos;](https://tech.slashdot.org/story/25/10/29/1744228/fccs-gomez-slams-move-to-revise-broadband-labels-as-anti-consumer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss)
 * [2025-10-29, 20:59:53](https://lobste.rs/s/3jf7it/green_tea_garbage_collector_go) - [The Green Tea Garbage Collector - The Go Programming Language](https://go.dev/blog/greenteagc)
-* [2025-10-29, 20:46:29](https://lobste.rs/s/sd6ska/adding_customizable_frame_contrast_kde) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-10-29, 20:42:00](https://games.slashdot.org/story/25/10/29/1739232/windows-is-the-problem-with-windows-handhelds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows is the Problem With Windows Handhelds](https://games.slashdot.org/story/25/10/29/1739232/windows-is-the-problem-with-windows-handhelds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig&apos;s New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 20:01:00](https://news.slashdot.org/story/25/10/29/1722259/us-needs-finesse-to-stay-ahead-of-china-nvidia-boss-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Needs &apos;Finesse&apos; to Stay Ahead of China, Nvidia Boss Says](https://news.slashdot.org/story/25/10/29/1722259/us-needs-finesse-to-stay-ahead-of-china-nvidia-boss-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-29, 19:39:57](https://news.ycombinator.com/item?id=45751995) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 19:21:00](https://tech.slashdot.org/story/25/10/29/1715202/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome Will Finally Default To Secure HTTPS Connections Starting in April](https://tech.slashdot.org/story/25/10/29/1715202/google-chrome-will-finally-default-to-secure-https-connections-starting-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 19:02:59](https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi) - [Developing a web server with C and FastCGI](https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi)
 * [2025-10-29, 18:57:29](https://news.ycombinator.com/item?id=45751400) - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 18:41:00](https://it.slashdot.org/story/25/10/29/177230/chatgpts-atlas-the-browser-thats-anti-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;ChatGPT&apos;s Atlas: The Browser That&apos;s Anti-Web&apos;](https://it.slashdot.org/story/25/10/29/177230/chatgpts-atlas-the-browser-thats-anti-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
 * [2025-10-29, 18:25:01](https://news.ycombinator.com/item?id=45750995) - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
 * [2025-10-29, 18:21:35](https://news.ycombinator.com/item?id=45750954) - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 18:16:07](https://news.ycombinator.com/item?id=45750875) - [The Internet runs on free and open source software and so does the DNS](https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en)
@@ -102,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-29, 17:44:34](https://news.ycombinator.com/item?id=45750425) - [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
 * [2025-10-29, 17:22:00](https://games.slashdot.org/story/25/10/29/1543218/microsoft-ceo-nadella-says-gaming-needs-good-margins-to-innovate-compares-strategy-to-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft CEO Nadella Says Gaming Needs Good Margins To Innovate, Compares Strategy To Office](https://games.slashdot.org/story/25/10/29/1543218/microsoft-ceo-nadella-says-gaming-needs-good-margins-to-innovate-compares-strategy-to-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
-* [2025-10-29, 16:40:00](https://slashdot.org/story/25/10/29/1631223/aol-to-be-sold-to-bending-spoons-for-roughly-15-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AOL To Be Sold To Bending Spoons For Roughly $1.5 Billion](https://slashdot.org/story/25/10/29/1631223/aol-to-be-sold-to-bending-spoons-for-roughly-15-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss)
 * [2025-10-29, 16:28:56](https://news.ycombinator.com/item?id=45749161) - [AOL to be sold to Bending Spoons for $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
 * [2025-10-29, 16:21:36](https://news.ycombinator.com/item?id=45749017) - [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
@@ -129,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-29, 02:03:00](https://soylentnews.org/article.pl?sid=25/10/28/1234216&amp;from=rss) - [OpenAI Aims for Deep MacOS Integration With Acquisition of Software Applications Incorporated](https://soylentnews.org/article.pl?sid=25/10/28/1234216&amp;from=rss)
 * [2025-10-28, 21:15:00](https://soylentnews.org/article.pl?sid=25/10/28/1214217&amp;from=rss) - [Nvidia&apos;s US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&amp;from=rss)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
-* [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss) - [China&apos;s Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss)
 * [2025-10-28, 13:42:44](https://news.ycombinator.com/item?id=45732800) - [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
 * [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss)
@@ -142,6 +137,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-27, 16:41:00](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss) - [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss)
 * [2025-10-27, 15:56:46](https://news.ycombinator.com/item?id=45722471) - [More than DNS: Learnings from the 14 hour AWS outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-27, 11:55:00](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss) - [December Microsoft Teams Update to Automatically Report User Location](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss)
+* [2025-10-27, 11:38:00](https://news.ycombinator.com/item?id=45719805) - [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)
 * [2025-10-27, 07:11:00](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use by 82% With New Pooling System](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss)
 * [2025-10-27, 02:30:00](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss) - [Beginner’s Guide to Malware Analysis and Reverse Engineering](https://soylentnews.org/article.pl?sid=25/10/26/010215&amp;from=rss)
 * [2025-10-26, 21:40:00](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss) - [F-150 Lightning Production Halted Indefinitely As Ford Bets On Gas Trucks Again](https://soylentnews.org/article.pl?sid=25/10/26/0047211&amp;from=rss)
