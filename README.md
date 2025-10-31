@@ -1,72 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Development
+## Data Leaks and Cybersecurity
 
-* [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952) - A plan to enhance the Swift programming language's type checker for improved performance and reliability.
+* [Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unauthorized individual gained access to a Cellebrite call, exposing sensitive details on phone unlocking practices.
 
-* [Google Shows Off Prototype Android XR Glasses From Extended Magic Leap Deal](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's collaboration with Magic Leap results in innovative XR glasses.
+* [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/) - A detailed account documenting the hacking of Tata Motors, India's largest automaker.
 
-* [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear) - Introduction of Kimi Linear, a new architecture for improved artificial intelligence models.
+* [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash) - Demonstrates how the Document.title field can be exploited for denial-of-service attacks in Chromium browsers.
 
-* [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly) - Exploration of a flexible and resource-intensive approach to WebAssembly.
+* [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/) - NPM repositories experience a surge of malicious packages.
 
-* [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169) - Progress in Haskell compiler technology enables browser-based applications.
+* [Israel Demanded Google and Amazon Use Secret 'Wink' To Sidestep Legal Orders](https://tech.slashdot.org/story/25/10/30/225232/israel-demanded-google-and-amazon-use-secret-wink-to-sidestep-legal-orders?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Allegations around Israel pressuring major tech firms to bypass legal stipulations.
 
-* [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/) - Native CSS solutions to create spring-based animations for web development.
+## Technology Advancements and Developments
 
-* [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/) - Key updates and improvements in the new version of Rust programming language.
+* [Mathematical Proof Debunks the Idea That the Universe Is a Computer Simulation](https://science.slashdot.org/story/25/10/30/2232258/mathematical-proof-debunks-the-idea-that-the-universe-is-a-computer-simulation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A mathematical discovery challenges the idea that our universe could be a computer simulation.
 
-* [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL) - A unique integration of hardware description language within Minecraft.
+* [Google Shows Off Prototype Android XR Glasses From Extended Magic Leap Deal](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google unveils its prototype Android XR glasses as part of a long-standing Magic Leap collaboration.
 
-* [Learn Multiplatform Z80 Assembly Programming... With Vampires](https://www.chibiakumas.com/z80/) - A quirky guide to programming in Z80 Assembly with an entertaining theme.
+* [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/MoonshotAI) - Introduction to Kimi Linear, an advanced attention architecture for AI innovations.
 
-## Artificial Intelligence and Machine Learning
+* [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly) - A new, intensive WebAssembly implementation named wastrel gets highlighted.
 
-* [Universal Partners With AI Startup Udio After Settling Copyright Suit](https://entertainment.slashdot.org/story/25/10/30/2156200/universal-partners-with-ai-startup-udio-after-settling-copyright-suit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Collaboration between Universal and Udio showcases advanced AI technologies.
+## AI Developments and Ethical Debates
 
-* [AI 'Cheating' App Founder Says Engineers Can't Make Good, Viral Content and That's Why Their Startups Flop](https://slashdot.org/story/25/10/30/1942215/ai-cheating-app-founder-says-engineers-cant-make-good-viral-content-and-thats-why-their-startups-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into AI content creation challenges faced by startups.
+* [OpenAI Eyes $1 Trillion IPO](https://slashdot.org/story/25/10/30/2148227/openai-eyes-1-trillion-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Massive valuations surround OpenAI as it considers a $1 trillion IPO.
 
-* [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511) - Discussion on the theoretical properties of language models.
+* [Universal Partners With AI Startup Udio After Settling Copyright Suit](https://entertainment.slashdot.org/story/25/10/30/2156200/universal-partners-with-ai-startup-udio-after-settling-copyright-suit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Universal Studios turns a legal resolution into a tech partnership with AI-based Udio.
 
-* [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html) - Transforming academic papers into user-friendly and interactive podcast experiences.
+* [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511) - Research claims the reversibility and injectiveness of modern language models.
 
-* [Show HN: Meals You Love – AI-powered meal planning and grocery shopping](https://mealsyoulove.com) - AI-based service for personalized meal planning and grocery solutions.
+* [AI 'Cheating' App Founder Says Engineers Can't Make Good, Viral Content and That's Why Their Startups Flop](https://slashdot.org/story/25/10/30/1942215/ai-cheating-app-founder-says-engineers-cant-make-good-viral-content-and-thats-why-their-startups-flop?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insightful perspectives on the role of engineers in viral startup growth.
 
-## Cybersecurity and Privacy Concerns
+## Software and Programming Insights
 
-* [Israel Demanded Google and Amazon Use Secret 'Wink' To Sidestep Legal Orders](https://tech.slashdot.org/story/25/10/30/225232/israel-demanded-google-and-amazon-use-secret-wink-to-sidestep-legal-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations of tech giants bypassing legal orders via disclosed methods.
+* [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952) - Swift's improvement efforts for its type checker system.
 
-* [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal) - A proposal withdrawal due to privacy concerns in Denmark.
+* [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/) - Latest updates accompanying Rust 1.91.0.
 
-* [EU Carmakers 'Days Away' From Halting Work as Chip War With China Escalates](https://tech.slashdot.org/story/25/10/30/1710234/eu-carmakers-days-away-from-halting-work-as-chip-war-with-china-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Impacts of global trade disputes on technological sectors.
+* [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL) - A Minecraft-based hardware description language innovation.
 
-* [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/) - A report detailing security threats within open-source package repositories.
-
-* [Senators Move to Keep Big Tech's Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - Legislator efforts for limiting AI companion bot interaction with children.
-
-## Business and Market Trends
-
-* [OpenAI Eyes $1 Trillion IPO](https://slashdot.org/story/25/10/30/2148227/openai-eyes-1-trillion-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI's ambitious goals for a transformative financial milestone.
-
-* [Google Makes First Play Store Changes After Losing Epic Games Antitrust Case](https://tech.slashdot.org/story/25/10/30/1929241/google-makes-first-play-store-changes-after-losing-epic-games-antitrust-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google adjusts store operations after landmark antitrust decision.
-
-* [PlanetScale Offering $5 Databases](https://planetscale.com/blog/5-dollar-planetscale) - Affordable pricing model for robust database solutions.
-
-* [AI-Powered Search Engines Rely on “Less Popular” Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&amp;from=rss) - Analysis of AI-driven search engine algorithms and source biases.
-
-* [Fedora Linux 43 Officially Released, Now Available for Download](https://soylentnews.org/article.pl?sid=25/10/29/1333243&amp;from=rss) - Latest developments in the Fedora Linux ecosystem.
-
-## Cultural and Scientific Insights
-
-* [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/) - Exploration of literary history and Kerouac's iconic book.
-
-* [The Nikon Comedy Wildlife Awards](https://soylentnews.org/article.pl?sid=25/10/26/0946227&amp;from=rss) - Celebrating humor in wildlife photography.
-
-* [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort) - A retrospective on the controversial Bubble Sort algorithm.
-
-* [A Defense of Philosophical Intuitions](https://hilariusbookbinder.substack.com/p/a-defense-of-philosophical-intuitions) - Philosophical arguments supporting human intuition.
-
-* [The ear does not do a Fourier transform (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform) - Challenging preconceived notions of human auditory processing.
+* [Fix your FODs](https://garnix.io/blog/fix-your-fods) - A striking article addressing the FOD-reduction strategies in software processes.
 
 ---
 
@@ -93,8 +67,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-31, 03:39:34](https://news.ycombinator.com/item?id=45768156) - [No Code](https://github.com/lemonyte/no-code)
+* [2025-10-31, 03:30:00](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-31, 02:06:07](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata) - [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
+* [2025-10-31, 01:48:39](https://news.ycombinator.com/item?id=45767505) - [Ground stop at JFK due to staffing](https://www.fly.faa.gov/adv/adv_otherdis?advn=13&amp;adv_date=10312025&amp;facId=JFK&amp;title=ATCSCC%20ADVZY%20013%20JFK/ZNY%2010/31/2025%20CDM%20GROUND%20STOP&amp;titleDate=10/31/2025)
+* [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&amp;from=rss) - [EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&amp;from=rss)
+* [2025-10-31, 01:25:00](https://science.slashdot.org/story/25/10/30/2232258/mathematical-proof-debunks-the-idea-that-the-universe-is-a-computer-simulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mathematical Proof Debunks the Idea That the Universe Is a Computer Simulation](https://science.slashdot.org/story/25/10/30/2232258/mathematical-proof-debunks-the-idea-that-the-universe-is-a-computer-simulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-31, 01:16:14](https://news.ycombinator.com/item?id=45767343) - [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
+* [2025-10-31, 01:13:56](https://news.ycombinator.com/item?id=45767325) - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
+* [2025-10-31, 01:00:45](https://news.ycombinator.com/item?id=45767257) - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 * [2025-10-31, 00:45:00](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Shows Off Prototype Android XR Glasses From Extended Magic Leap Deal](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-10-31, 00:43:57](https://news.ycombinator.com/item?id=45767162) - [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
 * [2025-10-31, 00:07:36](https://news.ycombinator.com/item?id=45766937) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
 * [2025-10-31, 00:02:00](https://tech.slashdot.org/story/25/10/30/2225257/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Keep Android Open&apos; Campaign Pushes Back On Google&apos;s Sideloading Restrictions](https://tech.slashdot.org/story/25/10/30/2225257/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-31, 00:00:40](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation) - [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly)
@@ -108,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 21:35:42](https://news.ycombinator.com/item?id=45765664) - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
 * [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-10-30, 21:21:00](https://it.slashdot.org/story/25/10/30/205211/unpatched-bug-can-crash-chromium-based-browsers-in-seconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Unpatched Bug Can Crash Chromium-Based Browsers in Seconds](https://it.slashdot.org/story/25/10/30/205211/unpatched-bug-can-crash-chromium-based-browsers-in-seconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-30, 21:03:46](https://news.ycombinator.com/item?id=45765328) - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
 * [2025-10-30, 21:00:00](https://soylentnews.org/article.pl?sid=25/10/29/1336246&amp;from=rss) - [AI-Powered Search Engines Rely on “Less Popular” Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&amp;from=rss)
 * [2025-10-30, 20:53:53](https://lobste.rs/s/r8jkz9/fix_your_fods) - [Fix your FODs](https://garnix.io/blog/fix-your-fods)
 * [2025-10-30, 20:41:00](https://slashdot.org/story/25/10/30/1942215/ai-cheating-app-founder-says-engineers-cant-make-good-viral-content-and-thats-why-their-startups-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI &apos;Cheating&apos; App Founder Says Engineers Can&apos;t Make Good, Viral Content and That&apos;s Why Their Startups Flop](https://slashdot.org/story/25/10/30/1942215/ai-cheating-app-founder-says-engineers-cant-make-good-viral-content-and-thats-why-their-startups-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -124,22 +107,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 16:12:06](https://lobste.rs/s/ukvfgs/language_models_are_injective_hence) - [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 16:12:00](https://soylentnews.org/article.pl?sid=25/10/29/1333243&amp;from=rss) - [Fedora Linux 43 Officially Released, Now Available for Download](https://soylentnews.org/article.pl?sid=25/10/29/1333243&amp;from=rss)
-* [2025-10-30, 16:10:00](https://news.slashdot.org/story/25/10/30/1512240/toxin-levels-in-fish-lead-to-calls-for-uk-wide-ban-on-mercury-dental-fillings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toxin Levels in Fish Lead To Calls For UK-Wide Ban on Mercury Dental Fillings](https://news.slashdot.org/story/25/10/30/1512240/toxin-levels-in-fish-lead-to-calls-for-uk-wide-ban-on-mercury-dental-fillings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-30, 15:54:38](https://news.ycombinator.com/item?id=45761445) - [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 * [2025-10-30, 15:38:29](https://lobste.rs/s/4a1gx2/math_mode_problem_typst) - [The Math Mode Problem in Typst](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-30, 15:33:26](https://lobste.rs/s/bc62mf/conversions_ruby_are_mess) - [Conversions in Ruby are a mess](https://github.com/sampersand/blog/blob/master/conversions.md)
-* [2025-10-30, 15:30:00](https://news.slashdot.org/story/25/10/30/155217/us-nuclear-weapons-testing-to-resume-for-first-time-in-over-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Nuclear Weapons Testing To Resume For First Time in Over 30 Years](https://news.slashdot.org/story/25/10/30/155217/us-nuclear-weapons-testing-to-resume-for-first-time-in-over-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-30, 15:27:14](https://lobste.rs/s/qagkx2/corrosion_distributed_system_for) - [Corrosion - a distributed system for propagating SQLite state across a cluster of nodes](https://fly.io/blog/corrosion/)
-* [2025-10-30, 15:21:46](https://news.ycombinator.com/item?id=45761042) - [ZOZO&apos;s Contact Solver for physics-based simulations](https://github.com/st-tech/ppf-contact-solver)
 * [2025-10-30, 15:20:37](https://news.ycombinator.com/item?id=45761027) - [PlanetScale Offering $5 Databases](https://planetscale.com/blog/5-dollar-planetscale)
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:49:47](https://lobste.rs/s/u9o6mz/reliable_django_signals) - [Reliable Django Signals](https://hakibenita.com/django-reliable-signals)
 * [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_rss_reader_like_client_for_nostr) - [Fevela.me – A RSS reader like client for the Nostr social network](https://github.com/dtonon/fevela)
-* [2025-10-30, 14:22:44](https://news.ycombinator.com/item?id=45760328) - [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
 * [2025-10-30, 14:15:00](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&amp;from=rss) - [Trial of Journal Flagging - Analysis and Actions](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&amp;from=rss)
 * [2025-10-30, 11:29:00](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss) - [Westinghouse is Claiming a Nuclear Deal Would See $80B of New Reactors](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss)
-* [2025-10-30, 10:39:21](https://news.ycombinator.com/item?id=45758421) - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
 * [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 06:45:00](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - [Senators Move to Keep Big Tech&apos;s Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss)
@@ -152,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I&apos;m Independently Verifying Go&apos;s Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig&apos;s New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
-* [2025-10-29, 19:32:00](https://news.ycombinator.com/item?id=45751868) - [Independently verifying Go&apos;s reproducible builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
@@ -160,13 +137,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-29, 13:20:03](https://news.ycombinator.com/item?id=45746482) - [Israel demanded Google and Amazon use secret &apos;wink&apos; to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
 * [2025-10-29, 12:35:12](https://news.ycombinator.com/item?id=45746020) - [Zig&apos;s New Async I/O](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 11:34:00](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss) - [An Autonomous Car for Consumers? Lucid Says It&apos;s Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss)
-* [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 * [2025-10-29, 06:52:00](https://soylentnews.org/article.pl?sid=25/10/28/1243217&amp;from=rss) - [Australia Denies Exception for AI Data Hoovering in Copyright Review](https://soylentnews.org/article.pl?sid=25/10/28/1243217&amp;from=rss)
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
 * [2025-10-29, 05:27:42](https://news.ycombinator.com/item?id=45742957) - [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
 * [2025-10-29, 02:03:00](https://soylentnews.org/article.pl?sid=25/10/28/1234216&amp;from=rss) - [OpenAI Aims for Deep MacOS Integration With Acquisition of Software Applications Incorporated](https://soylentnews.org/article.pl?sid=25/10/28/1234216&amp;from=rss)
 * [2025-10-28, 21:15:00](https://soylentnews.org/article.pl?sid=25/10/28/1214217&amp;from=rss) - [Nvidia&apos;s US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&amp;from=rss)
-* [2025-10-28, 21:13:22](https://news.ycombinator.com/item?id=45739279) - [A Defense of Philosophical Intuitions](https://hilariusbookbinder.substack.com/p/a-defense-of-philosophical-intuitions)
 * [2025-10-28, 18:01:46](https://news.ycombinator.com/item?id=45736461) - [Springs and bounces in native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 * [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss) - [China&apos;s Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss)
 * [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss)
@@ -174,7 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-28, 02:18:00](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss) - [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss)
 * [2025-10-27, 21:28:00](https://soylentnews.org/article.pl?sid=25/10/26/0953209&amp;from=rss) - [Google Has a Useful Quantum Algorithm That Outperforms a Supercomputer](https://soylentnews.org/article.pl?sid=25/10/26/0953209&amp;from=rss)
 * [2025-10-27, 18:59:00](https://soylentnews.org/article.pl?sid=25/10/26/0946227&amp;from=rss) - [The Nikon Comedy Wildlife Awards](https://soylentnews.org/article.pl?sid=25/10/26/0946227&amp;from=rss)
-* [2025-10-27, 17:57:18](https://news.ycombinator.com/item?id=45724229) - [Show HN: Meals You Love – AI-powered meal planning and grocery shopping](https://mealsyoulove.com)
 * [2025-10-27, 16:41:00](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss) - [The Glaring Security Risks With AI Browser Agents](https://soylentnews.org/article.pl?sid=25/10/26/0939214&amp;from=rss)
 * [2025-10-27, 11:55:00](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss) - [December Microsoft Teams Update to Automatically Report User Location](https://soylentnews.org/article.pl?sid=25/10/26/0837220&amp;from=rss)
 * [2025-10-27, 07:11:00](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss) - [Alibaba Cloud Says It Cut Nvidia AI GPU Use by 82% With New Pooling System](https://soylentnews.org/article.pl?sid=25/10/26/0117201&amp;from=rss)
