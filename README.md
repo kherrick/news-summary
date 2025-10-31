@@ -1,32 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technology and Software Development
 
-* [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371) - A look at limitations in AI reasoning models and when they falter. [Comments](https://news.ycombinator.com/item?id=45769971)
+* [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/) ([Comments](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux))
 
-* [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace) - A new implementation of traceroute in C aimed at speed and dependency reduction. [Comments](https://news.ycombinator.com/item?id=45769857)
+* [Advanced Documentation Retrieval on FreeBSD](https://adventurist.me/posts/00306) ([Comments](https://lobste.rs/s/kxcfcu/advanced_documentation_retrieval_on))
 
-* [Mathematical Proof Debunks the Idea That the Universe Is a Computer Simulation](https://science.slashdot.org/story/25/10/30/2232258/mathematical-proof-debunks-the-idea-that-the-universe-is-a-computer-simulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A proof challenges the popular universe-as-simulation theory. [Comments](https://science.slashdot.org/story/25/10/30/2232258/mathematical-proof-debunks-the-idea-that-the-universe-is-a-computer-simulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/) ([Comments](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4))
 
-* [Google Shows Off Prototype Android XR Glasses From Extended Magic Leap Deal](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google unveils a prototype of extended reality glasses developed in collaboration with Magic Leap. [Comments](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Reasoning Models Reason Well, Until They Don&apos;t](https://arxiv.org/abs/2510.22371) ([Comments](https://news.ycombinator.com/item?id=45769971))
 
-* [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/) - AMD’s potential expansion into the ARM market with cutting-edge technology. [Comments](https://news.ycombinator.com/item?id=45767916)
+* [GHC 9.14.1-rc1 is now available](https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194) ([Comments](https://lobste.rs/s/jb4imt/ghc_9_14_1_rc1_is_now_available))
 
-## Space and Scientific Discoveries
+* [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/) ([Comments](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine))
 
-* [SpaceX: Starship Will Be Going To the Moon, With Or Without NASA](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX continues its lunar ambitions, independent of NASA partnerships. [Comments](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952) ([Comments](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker), [More Comments](https://news.ycombinator.com/item?id=45767257))
 
-* [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss) - China tests underwater data centers as a water conservation strategy. [Comments](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss)
+* [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler) ([Comments](https://news.ycombinator.com/item?id=45767162))
 
-## Security and Privacy
+* [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear) ([Comments](https://news.ycombinator.com/item?id=45766937))
 
-* [Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Cellebrite meeting breach exposes sensitive phone unlocking methods. [Comments](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly) ([Comments](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation))
 
-* [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/) - A detailed analysis of a cybersecurity breach in one of India’s leading auto companies. [Comments](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata)
+## Scientific Discoveries and Space Exploration
 
-## Business and Industry
+* [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss))
 
-* [OpenAI Eyes $1 Trillion IPO](https://slashdot.org/story/25/10/30/2148227/openai-eyes-1-trillion-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI prepares for what could become a record-breaking public offering. [Comments](https://slashdot.org/story/25/10/30/2148227/openai-eyes-1-trillion-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How a Chorus of Synchronized Frequencies Helps You Digest Your Food](https://science.slashdot.org/story/25/10/31/0037250/how-a-chorus-of-synchronized-frequencies-helps-you-digest-your-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/10/31/0037250/how-a-chorus-of-synchronized-frequencies-helps-you-digest-your-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [SpaceX: Starship Will Be Going To the Moon, With Or Without NASA](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Business and Legal Developments
+
+* [Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/10/31/0028256/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Keep Android Open Campaign Pushes Back On Google&apos;s Sideloading Restrictions](https://tech.slashdot.org/story/25/10/30/2225257/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/10/30/2225257/keep-android-open-campaign-pushes-back-on-googles-sideloading-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss))
+
+## Hardware and Technology Evolution
+
+* [Google Shows Off Prototype Android XR Glasses From Extended Magic Leap Deal](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/10/31/0021217/google-shows-off-prototype-android-xr-glasses-from-extended-magic-leap-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/) ([Comments](https://news.ycombinator.com/item?id=45767916))
 
 ---
 
@@ -53,9 +69,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-10-31, 12:18:35](https://news.ycombinator.com/item?id=45771211) - [Affinity, targeting office workers over pros, making pro tools the loss leader](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/)
+* [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
+* [2025-10-31, 11:25:00](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss) - [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss)
+* [2025-10-31, 10:34:13](https://lobste.rs/s/kxcfcu/advanced_documentation_retrieval_on) - [Advanced Documentation Retrieval on FreeBSD](https://adventurist.me/posts/00306)
+* [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
+* [2025-10-31, 10:00:00](https://science.slashdot.org/story/25/10/31/0037250/how-a-chorus-of-synchronized-frequencies-helps-you-digest-your-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Chorus of Synchronized Frequencies Helps You Digest Your Food](https://science.slashdot.org/story/25/10/31/0037250/how-a-chorus-of-synchronized-frequencies-helps-you-digest-your-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-31, 09:23:41](https://news.ycombinator.com/item?id=45769971) - [Reasoning Models Reason Well, Until They Don&apos;t](https://arxiv.org/abs/2510.22371)
-* [2025-10-31, 09:13:03](https://news.ycombinator.com/item?id=45769901) - [Claude.ai Is Down](https://claude.ai)
-* [2025-10-31, 09:05:08](https://news.ycombinator.com/item?id=45769857) - [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)
 * [2025-10-31, 08:47:48](https://lobste.rs/s/jb4imt/ghc_9_14_1_rc1_is_now_available) - [GHC 9.14.1-rc1 is now available](https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194)
 * [2025-10-31, 08:34:37](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine) - [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/)
 * [2025-10-31, 07:00:00](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX: Starship Will Be Going To the Moon, With Or Without NASA](https://science.slashdot.org/story/25/10/31/0045236/spacex-starship-will-be-going-to-the-moon-with-or-without-nasa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -91,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 18:59:02](https://news.ycombinator.com/item?id=45763877) - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
 * [2025-10-30, 18:46:00](https://news.slashdot.org/story/25/10/30/1847204/international-criminal-court-to-ditch-microsoft-office-for-european-open-source-alternative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [International Criminal Court To Ditch Microsoft Office For European Open Source Alternative](https://news.slashdot.org/story/25/10/30/1847204/international-criminal-court-to-ditch-microsoft-office-for-european-open-source-alternative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-30, 18:00:00](https://developers.slashdot.org/story/25/10/30/1753252/typescript-overtakes-python-and-javascript-to-claim-top-spot-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TypeScript Overtakes Python and JavaScript To Claim Top Spot on GitHub](https://developers.slashdot.org/story/25/10/30/1753252/typescript-overtakes-python-and-javascript-to-claim-top-spot-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-10-30, 17:22:00](https://tech.slashdot.org/story/25/10/30/1710234/eu-carmakers-days-away-from-halting-work-as-chip-war-with-china-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Carmakers &apos;Days Away&apos; From Halting Work as Chip War With China Escalates](https://tech.slashdot.org/story/25/10/30/1710234/eu-carmakers-days-away-from-halting-work-as-chip-war-with-china-escalates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-30, 17:01:20](https://news.ycombinator.com/item?id=45762259) - [How the cochlea computes (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
 * [2025-10-30, 16:40:02](https://news.ycombinator.com/item?id=45762012) - [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
 * [2025-10-30, 16:12:06](https://lobste.rs/s/ukvfgs/language_models_are_injective_hence) - [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
@@ -102,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 15:27:14](https://lobste.rs/s/qagkx2/corrosion_distributed_system_for) - [Corrosion - a distributed system for propagating SQLite state across a cluster of nodes](https://fly.io/blog/corrosion/)
 * [2025-10-30, 15:07:15](https://news.ycombinator.com/item?id=45760878) - [Free software scares normal people](https://danieldelaney.net/normal/)
 * [2025-10-30, 14:49:47](https://lobste.rs/s/u9o6mz/reliable_django_signals) - [Reliable Django Signals](https://hakibenita.com/django-reliable-signals)
-* [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_rss_reader_like_client_for_nostr) - [Fevela.me – A RSS reader like client for the Nostr social network](https://github.com/dtonon/fevela)
 * [2025-10-30, 14:21:58](https://news.ycombinator.com/item?id=45760321) - [Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)
 * [2025-10-30, 14:15:00](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&amp;from=rss) - [Trial of Journal Flagging - Analysis and Actions](https://soylentnews.org/meta/article.pl?sid=25/10/28/1721210&amp;from=rss)
 * [2025-10-30, 11:29:00](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss) - [Westinghouse is Claiming a Nuclear Deal Would See $80B of New Reactors](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss)
@@ -113,13 +131,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 02:02:00](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss) - [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss)
 * [2025-10-30, 00:37:33](https://news.ycombinator.com/item?id=45755027) - [NPM flooded with malicious packages downloaded more than 86k times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-29, 22:41:30](https://lobste.rs/s/hrum0f/use_xdg_base_directory_specification) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
-* [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I&apos;m Independently Verifying Go&apos;s Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig&apos;s New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
-* [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I&apos;ll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 11:34:00](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss) - [An Autonomous Car for Consumers? Lucid Says It&apos;s Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss)
 * [2025-10-29, 06:52:00](https://soylentnews.org/article.pl?sid=25/10/28/1243217&amp;from=rss) - [Australia Denies Exception for AI Data Hoovering in Copyright Review](https://soylentnews.org/article.pl?sid=25/10/28/1243217&amp;from=rss)
 * [2025-10-29, 06:12:46](https://news.ycombinator.com/item?id=45743232) - [Show HN: Front End Fuzzy and Substring and Prefix Search](https://github.com/m31coding/fuzzy-search)
