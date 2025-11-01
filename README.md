@@ -1,52 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Innovations
+## Technology Innovations and Discoveries
 
-* [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&from=rss) - A groundbreaking discovery exploring quantum theories and their implications on thermodynamics.
+* [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html) - Exploring the implications of upcoming rigid Rust requirements in the Debian ecosystem.
 
-* [China Solves Century-Old Problem With New Analog Chip That Is 1,000 Times Faster Than High-End Nvidia GPUs](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus) - A new chip from China drastically improves computation, outperforming GPUs by a thousand times.
+* [Nearly 90% of Windows Games Now Run on Linux](https://soylentnews.org/article.pl?sid=25/10/31/1238201&amp;from=rss) - A remarkable development for Linux gaming compatibilities.
 
-* [Nearly 90% of Windows Games Now Run on Linux](https://soylentnews.org/article.pl?sid=25/10/31/1238201&from=rss) - Major advancements in cross-platform compatibility for gaming.
+* [Intent to Deprecate and Remove: Deprecate and remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ) - Details on Chromium's strategy to phase out XSLT.
 
-* [Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series](https://soylentnews.org/article.pl?sid=25/10/30/1428231&from=rss) - The release of an updated browser with enhanced privacy features.
+* [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) - An insightful blog on the philosophy and practicality of URLs.
 
-* [Hacking India’s Largest Automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/) - Unveiling a significant security breach in India’s automotive industry.
+* [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around) - A fascinating mishap unraveling massive unused resources.
 
-## Artificial Intelligence Development and Applications
+* [OpenAI Launches Aardvark To Detect and Patch Hidden Bugs In Code](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI's latest tool for enhancing code integrity.
 
-* [OpenAI Launches Aardvark To Detect and Patch Hidden Bugs In Code](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI introduces a tool to identify and fix hidden programming issues.
+* [Windows 11 Tests Bluetooth Audio Sharing That Connects Two Headsets at Once](https://tech.slashdot.org/story/25/10/31/1850220/windows-11-tests-bluetooth-audio-sharing-that-connects-two-headsets-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An innovative feature targeted at improving shared audio experiences.
 
-* [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around) - Render discovers memory optimization opportunities for AI systems.
+* [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609) - Analysis of potential asynchronous Rust vulnerabilities.
 
-* [Bluesky Hits 40 Million Users, Introduces 'Dislikes' Beta](https://tech.slashdot.org/story/25/10/31/231232/bluesky-hits-40-million-users-introduces-dislikes-beta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Bluesky unveils new user engagement features at scale.
+* [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/) - An overlooked trend in AI-driven content generation.
 
-* [Signs of Introspection in Large Language Models](https://www.anthropic.com/research/introspection) - Anthropics explores meta-cognition in AI models.
+* [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/) - A critical test of open-source workflow tools.
 
-* [AI-Powered Search Engines Rely On 'Less Popular' Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&from=rss) - Study highlights lesser-known resource utilization by AI search engines.
+* [Sustainable memristors from shiitake mycelium for high-frequency bioelectronics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965) - Researchers leverage mushrooms for advanced electronic applications.
 
-## Global Policy and Data Management
+* [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss) - Captivating evidence of natural underwater architectures.
 
-* [Austria's Ministry of Economy Migrates To Nextcloud In Shift Away From US Tech](https://yro.slashdot.org/story/25/10/31/2023230/austrias-ministry-of-economy-has-migrated-to-a-nextcloud-platform-in-shift-away-from-us-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Austria transitions to Nextcloud for sovereignty in IT.
+## Corporate Developments and Economic Shifts
 
-* [Denmark Reportedly Withdraws 'Chat Control' Proposal Following Controversy](https://yro.slashdot.org/story/25/10/31/205234/denmark-reportedly-withdraws-chat-control-proposal-following-controversy?utm_source=rss1.0mainlinkanon&tm_medium=feed) - Denmark halts a controversial digital possibility.
+* [SpaceX Set To Win $2 Billion Pentagon Satellite Deal](https://tech.slashdot.org/story/25/10/31/2347207/spacex-set-to-win-2-billion-pentagon-satellite-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX secures a lucrative defense contract.
 
-* [Nvidia's US Chip Production Remains Constrained by Packaging](https://soylentnews.org/article.pl?sid=25/10/28/1214217&from=rss) - Packaging constraints impact semiconductor developments.
+* [Bluesky Hits 40 Million Users, Introduces 'Dislikes' Beta](https://tech.slashdot.org/story/25/10/31/231232/bluesky-hits-40-million-users-introduces-dislikes-beta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Bluesky achieves milestones in user engagement.
 
-## Science and Environmental Exploration
+* [Austria's Ministry of Economy Has Migrated To a Nextcloud Platform In Shift Away From US Tech](https://yro.slashdot.org/story/25/10/31/2023230/austrias-ministry-of-economy-has-migrated-to-a-nextcloud-platform-in-shift-away-from-us-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Austria pivots to Nextcloud for enhanced data sovereignty.
 
-* [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&from=rss) - Antarctic marine discoveries reveal fascinating underwater geometry.
+* [Coinbase CEO Stunt Exposes Prediction Market Vulnerability](https://slashdot.org/story/25/10/31/1758205/coinbase-ceo-stunt-exposes-prediction-market-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Consequences of Coinbase's demonstration on prediction markets.
 
-* [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&from=rss) - Lunar training involving helicopters under ESA guidance.
+* [A TikTok Interview Triggered a Securities Filing](https://tech.slashdot.org/story/25/10/31/1721243/a-tiktok-interview-triggered-a-securities-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Redefining public discourse avenues.
 
-* [Photographing the Rare Brown Hyena Stalking a Diamond Mining Ghost Town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town) - A rare wildlife spectacle captured under unique circumstances.
+* [Hacking India's largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/) - Impacts and insights from security threats.
 
-## Consumer Trends and Tech Products
+* [Westinghouse is Claiming a Nuclear Deal Would See $80B of New Reactors](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss) - Promising future trends in nuclear energy.
 
-* [FCC To Rescind Ruling That Said ISPs Are Required To Secure Their Networks](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - FCC alters regulatory expectations of ISPs.
+* [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/) - Summary of Apple's fiscal performance.
 
-* [My Impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/) - User review of new Apple hardware and capabilities.
+* [China's Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss) - A targeted cyberattack narrative.
 
-* [Futurelock: A Subtle Risk in Async Rust](https://rfd.shared.oxide.computer/rfd/0609) - Analysis on code stability in the world of asynchronous systems.
+* [OpenAI Aims for Deep MacOS Integration With Acquisition of Software Applications Incorporated](https://soylentnews.org/article.pl?sid=25/10/28/1234216&amp;from=rss) - OpenAI expands its operational base.
+
+## Security and Privacy Measures
+
+* [FCC To Rescind Ruling That Said ISPs Are Required To Secure Their Networks](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - FCC revisits regulations shaping ISP responsibilities.
+
+* [Denmark Reportedly Withdraws 'Chat Control' Proposal Following Controversy](https://yro.slashdot.org/story/25/10/31/205234/denmark-reportedly-withdraws-chat-control-proposal-following-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Public opposition reshapes government policy.
+
+* [Amazon To Block Piracy Apps On Fire TV](https://yro.slashdot.org/story/25/10/31/2012202/amazon-to-block-piracy-apps-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon revises its streaming platform standards.
+
+* [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/) - Android faces critical security exposure.
+
+* [YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous](https://news.slashdot.org/story/25/10/31/1853251/youtubes-ai-moderator-pulls-windows-11-workaround-videos-calls-them-dangerous?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Balancing platform moderation and user freedoms.
+
+* [An Autonomous Car for Consumers? Lucid Says It's Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss) - Self-driving innovations take global headlines.
+
+* [Senators Move to Keep Big Tech's Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - Legislative actions to safeguard youth in digital domains.
 
 ---
 
@@ -73,22 +89,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-01, 09:07:44](https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
+* [2025-11-01, 09:05:00](https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems) - [On the purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
+* [2025-11-01, 07:31:40](https://news.ycombinator.com/item?id=45779860) - [Hard Rust requirements from May onward for all Debian ports](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
+* [2025-11-01, 07:24:22](https://lobste.rs/s/liomcb/computer_says_no_error_reporting_for_ltl) - [Computer Says No: Error Reporting for LTL](https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html)
+* [2025-11-01, 07:00:00](https://tech.slashdot.org/story/25/10/31/2347207/spacex-set-to-win-2-billion-pentagon-satellite-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Set To Win $2 Billion Pentagon Satellite Deal](https://tech.slashdot.org/story/25/10/31/2347207/spacex-set-to-win-2-billion-pentagon-satellite-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 06:27:00](https://soylentnews.org/article.pl?sid=25/10/31/1238201&amp;from=rss) - [Nearly 90% of Windows Games Now Run on Linux](https://soylentnews.org/article.pl?sid=25/10/31/1238201&amp;from=rss)
 * [2025-11-01, 04:58:30](https://lobste.rs/s/wnavxh/your_url_is_your_state) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-01, 04:56:34](https://lobste.rs/s/r3ckga/intent_deprecate_remove_deprecate) - [Intent to Deprecate and Remove: Deprecate and remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
-* [2025-11-01, 04:31:52](https://news.ycombinator.com/item?id=45779261) - [Intent to Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
 * [2025-11-01, 04:12:39](https://lobste.rs/s/s6xdrb/rethinking_data_discovery_for_libraries) - [Rethinking Data Discovery for Libraries and Digital Humanities](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-* [2025-11-01, 04:09:20](https://news.ycombinator.com/item?id=45779181) - [New analog chip capable of outperforming top-end GPUs by as much as 1000x](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus)
 * [2025-11-01, 03:30:00](https://games.slashdot.org/story/25/10/31/2332211/the-numbers-show-xboxs-current-plan-isnt-working?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Numbers Show Xbox&apos;s Current Plan Isn&apos;t Working](https://games.slashdot.org/story/25/10/31/2332211/the-numbers-show-xboxs-current-plan-isnt-working?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 03:18:04](https://news.ycombinator.com/item?id=45778984) - [The profitable startup](https://linear.app/now/the-profitable-startup)
 * [2025-11-01, 02:10:00](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Launches Aardvark To Detect and Patch Hidden Bugs In Code](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 01:41:00](https://soylentnews.org/article.pl?sid=25/10/31/1232227&amp;from=rss) - [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&amp;from=rss)
-* [2025-11-01, 01:38:24](https://news.ycombinator.com/item?id=45778566) - [Fungus: The Befunge CPU (2015)](https://www.bedroomlan.org/hardware/fungus/)
 * [2025-11-01, 01:30:00](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC To Rescind Ruling That Said ISPs Are Required To Secure Their Networks](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 00:50:00](https://tech.slashdot.org/story/25/10/31/231232/bluesky-hits-40-million-users-introduces-dislikes-beta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bluesky Hits 40 Million Users, Introduces &apos;Dislikes&apos; Beta](https://tech.slashdot.org/story/25/10/31/231232/bluesky-hits-40-million-users-introduces-dislikes-beta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 00:10:00](https://yro.slashdot.org/story/25/10/31/2023230/austrias-ministry-of-economy-has-migrated-to-a-nextcloud-platform-in-shift-away-from-us-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Austria&apos;s Ministry of Economy Has Migrated To a Nextcloud Platform In Shift Away From US Tech](https://yro.slashdot.org/story/25/10/31/2023230/austrias-ministry-of-economy-has-migrated-to-a-nextcloud-platform-in-shift-away-from-us-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
-* [2025-10-31, 23:48:12](https://lobste.rs/s/gyhqg0/wasm_adventure) - [wasm-adventure](https://github.com/euhmeuh/wasm-adventure)
 * [2025-10-31, 23:30:00](https://entertainment.slashdot.org/story/25/10/31/2017209/youtube-tv-loses-espn-abc-and-other-disney-channels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube TV Loses ESPN, ABC and Other Disney Channels](https://entertainment.slashdot.org/story/25/10/31/2017209/youtube-tv-loses-espn-abc-and-other-disney-channels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-31, 23:23:59](https://news.ycombinator.com/item?id=45777810) - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-10-31, 23:03:56](https://news.ycombinator.com/item?id=45777683) - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
@@ -112,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-31, 17:42:55](https://news.ycombinator.com/item?id=45774640) - [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 17:37:15](https://news.ycombinator.com/item?id=45774571) - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-* [2025-10-31, 17:20:00](https://news.slashdot.org/story/25/10/31/1622222/fda-clears-way-for-faster-personalized-gene-editing-therapy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Clears Way For Faster Personalized Gene Editing Therapy](https://news.slashdot.org/story/25/10/31/1622222/fda-clears-way-for-faster-personalized-gene-editing-therapy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-10-31, 17:16:26](https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture) - [Ubuntu introduces architecture variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 16:49:26](https://news.ycombinator.com/item?id=45774086) - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/30/1156208&amp;from=rss) - [Red Hat and Other Distros to Provide Easy Access to NVIDIA CUDA Tools](https://soylentnews.org/article.pl?sid=25/10/30/1156208&amp;from=rss)
@@ -130,14 +146,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-31, 10:13:40](https://news.ycombinator.com/item?id=45770304) - [My Impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 * [2025-10-31, 08:34:37](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine) - [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/)
 * [2025-10-31, 06:36:00](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss) - [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss)
-* [2025-10-31, 02:06:07](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata) - [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-31, 01:42:00](https://soylentnews.org/article.pl?sid=25/10/30/0024205&amp;from=rss) - [US EV Sales Will Collapse 60% In October, J.D. Power Forecasts](https://soylentnews.org/article.pl?sid=25/10/30/0024205&amp;from=rss)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
+* [2025-10-31, 00:46:56](https://news.ycombinator.com/item?id=45767178) - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2025-10-31, 00:00:40](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation) - [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly)
 * [2025-10-30, 23:12:10](https://news.ycombinator.com/item?id=45766501) - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
 * [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-10-30, 21:00:00](https://soylentnews.org/article.pl?sid=25/10/29/1336246&amp;from=rss) - [AI-Powered Search Engines Rely on “Less Popular” Sources, Researchers Find](https://soylentnews.org/article.pl?sid=25/10/29/1336246&amp;from=rss)
-* [2025-10-30, 20:53:53](https://lobste.rs/s/r8jkz9/fix_your_fods) - [Fix your FODs](https://garnix.io/blog/fix-your-fods)
+* [2025-10-30, 20:34:02](https://news.ycombinator.com/item?id=45764986) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
 * [2025-10-30, 19:02:41](https://lobste.rs/s/vebdjk/announcing_rust_1_91_0) - [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
 * [2025-10-30, 18:25:05](https://news.ycombinator.com/item?id=45763359) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-30, 16:45:06](https://news.ycombinator.com/item?id=45762064) - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection)
@@ -157,5 +173,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-28, 16:28:00](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss) - [China&apos;s Salt Typhoon Exploited SharePoint to Hit Govts](https://soylentnews.org/article.pl?sid=25/10/28/121253&amp;from=rss)
 * [2025-10-28, 16:19:26](https://news.ycombinator.com/item?id=45734865) - [Show HN: Pipelex – Declarative language for repeatable AI workflows](https://github.com/Pipelex/pipelex)
 * [2025-10-28, 11:45:00](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss) - [Similarities Between How Humans and LLMs Represent Language](https://soylentnews.org/article.pl?sid=25/10/26/1320231&amp;from=rss)
+* [2025-10-28, 10:53:21](https://news.ycombinator.com/item?id=45731256) - [The Impossible Optimization, and the Metaprogramming to Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-28, 07:04:00](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&amp;from=rss) - [Trump Eyes Government Control of Quantum Computing Firms With Intel-Like Deals](https://soylentnews.org/politics/article.pl?sid=25/10/26/134258&amp;from=rss)
 * [2025-10-28, 02:18:00](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss) - [ESA Astronauts Take to Helicopters for Moon Landing Training](https://soylentnews.org/article.pl?sid=25/10/26/122218&amp;from=rss)
