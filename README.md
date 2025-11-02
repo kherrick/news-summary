@@ -1,38 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Trends
+## Advancements in Technology
 
-* [Samsung Building Facility With 50,000 Nvidia GPUs To Automate Chip Manufacturing](https://hardware.slashdot.org/story/25/10/31/2352207/samsung-building-facility-with-50000-nvidia-gpus-to-automate-chip-manufacturing?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Samsung aims to revolutionize chip production by creating a facility powered by 50,000 Nvidia GPUs.
+* [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs) ([comments](https://news.ycombinator.com/item?id=45787571))
 
-* [Race for All-Solid-State EV Batteries Heats Up with New Samsung SDI/BMW/Solid Power Partnership](https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A partnership between Samsung SDI, BMW, and Solid Power advances the development of solid-state batteries for electric vehicles.
+* [Nvidia Reveals Vera Rubin Superchip for the First Time](https://soylentnews.org/article.pl?sid=25/10/31/1847233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/31/1847233&amp;from=rss))
 
-* [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/) - Claude Code showcases its debugging capabilities in low-level cryptographic systems.
+* [Samsung Building Facility With 50,000 Nvidia GPUs To Automate Chip Manufacturing](https://hardware.slashdot.org/story/25/10/31/2352207/samsung-building-facility-with-50000-nvidia-gpus-to-automate-chip-manufacturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/10/31/2352207/samsung-building-facility-with-50000-nvidia-gpus-to-automate-chip-manufacturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Space Exploration and Discoveries
+* [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss))
 
-* [NASA Seeks Backup Plan for Carrying Astronauts to the Moon](https://science.slashdot.org/story/25/11/01/1737240/nasa-seeks-backup-plan-for-carrying-astronauts-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA evaluates alternatives for its lunar expedition plans.
+## Privacy and Security
 
-* [Could a Faint Glow in the Milky Way Be Dark Matter?](https://science.slashdot.org/story/25/11/01/2118210/could-a-faint-glow-in-the-milky-way-be-dark-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists investigate a possible dark matter signal emanating from the Milky Way.
+* [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/) ([comments](https://news.ycombinator.com/item?id=45786914))
 
-## Advances in Software and Development
+* [ICE and CBP Agents Are Scanning Peoples’ Faces on the Street to Verify Citizenship](https://soylentnews.org/article.pl?sid=25/10/31/1242232&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/10/31/1242232&amp;from=rss))
 
-* [Pomelli](https://labs.google.com/pomelli/about/) - Introducing Pomelli, Google's new initiative in software development.
+* [Security Holes Found in OpenAI&apos;s ChatGPT Atlas Browser (and Perplexity&apos;s Comet)](https://it.slashdot.org/story/25/11/01/054213/security-holes-found-in-openais-chatgpt-atlas-browser-and-perplexitys-comet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/11/01/054213/security-holes-found-in-openais-chatgpt-atlas-browser-and-perplexitys-comet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Ubuntu Will Use Rust For Dozens of Core Linux Utilities](https://news.slashdot.org/story/25/11/01/079206/ubuntu-will-use-rust-for-dozens-of-core-linux-utilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ubuntu embraces Rust to modernize its foundational Linux utilities.
+## Artificial Intelligence
 
-* [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application) - Exploring Ada's applications, spanning gateware to complete software systems.
+* [Why \
 
-## Scientific Discoveries
+## World Events and Research
 
-* [MIT Physicists Find a Way To See Inside Atoms That May Aid Search For Antimatter](https://science.slashdot.org/story/25/11/01/0545231/mit-physicists-find-a-way-to-see-inside-atoms-that-may-aid-search-for-antimatter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough method for observing atomic structures could help locate antimatter.
+* [Visible from space, Sudan&apos;s bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/) ([comments](https://news.ycombinator.com/item?id=45783699))
 
-* [Scientists Say 'Dueling Dinosaurs' Fossil Confirms a Smaller Tyrannosaur Species, Not a Teenaged T. Rex](https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A landmark discovery sheds light on the evolution of Tyrannosaurs.
+* [Scientists Say Dueling Dinosaurs Fossil Confirms a Smaller Tyrannosaur Species, Not a Teenaged T. Rex](https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Ethics and Privacy Issues
+* [Could a Faint Glow in the Milky Way Be Dark Matter?](https://science.slashdot.org/story/25/11/01/2118210/could-a-faint-glow-in-the-milky-way-be-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/01/2118210/could-a-faint-glow-in-the-milky-way-be-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [ICE and CBP Agents Are Scanning People's Faces on the Street to Verify Citizenship](https://soylentnews.org/article.pl?sid=25/10/31/1242232&from=rss) - The controversial practice of facial recognition raises privacy concerns.
-
-* [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/) - Public advocacy successfully challenges the controversial Chat Control policy.
+* [MIT Physicists Find a Way To See Inside Atoms That May Aid Search For Antimatter](https://science.slashdot.org/story/25/11/01/0545231/mit-physicists-find-a-way-to-see-inside-atoms-that-may-aid-search-for-antimatter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/01/0545231/mit-physicists-find-a-way-to-see-inside-atoms-that-may-aid-search-for-antimatter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -59,17 +57,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-02, 03:07:15](https://news.ycombinator.com/item?id=45787571) - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
+* [2025-11-02, 02:56:00](https://hardware.slashdot.org/story/25/11/02/0247242/researchers-consider-the-advantages-of-swarm-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Consider The Advantages of &apos;Swarm Robotics&apos;](https://hardware.slashdot.org/story/25/11/02/0247242/researchers-consider-the-advantages-of-swarm-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-02, 01:58:43](https://lobste.rs/s/fq3hqh/attacking_macos_xpc_helpers_protocol) - [Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis](https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers)
 * [2025-11-02, 01:26:00](https://soylentnews.org/article.pl?sid=25/10/31/1858243&amp;from=rss) - [‘Spaceballs 2’ Starts Production](https://soylentnews.org/article.pl?sid=25/10/31/1858243&amp;from=rss)
-* [2025-11-02, 00:45:13](https://news.ycombinator.com/item?id=45786914) - [Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/private-rate-limiting/)
-* [2025-11-02, 00:40:36](https://news.ycombinator.com/item?id=45786888) - [Why \&quot;Everyone Dies\&quot; Gets AGI All Wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-* [2025-11-02, 00:13:27](https://news.ycombinator.com/item?id=45786738) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
-* [2025-11-01, 23:41:04](https://news.ycombinator.com/item?id=45786533) - [Show HN: Duper – The Format That&apos;s Super](https://duper.dev.br/)
+* [2025-11-02, 01:10:44](https://news.ycombinator.com/item?id=45787036) - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
+* [2025-11-02, 00:45:13](https://news.ycombinator.com/item?id=45786914) - [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
+* [2025-11-02, 00:40:36](https://news.ycombinator.com/item?id=45786888) - [Why \&quot;everyone dies\&quot; gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+* [2025-11-02, 00:13:27](https://news.ycombinator.com/item?id=45786738) - [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-01, 23:18:18](https://lobste.rs/s/y4is7i/program_ing_finger_trees_coq_2007) - [Program-ing Finger Trees in Coq (2007)](https://sozeau.gitlabpages.inria.fr/www/research/publications/Program-ing_Finger_Trees_in_Coq.pdf)
-* [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://labs.google.com/pomelli/about/)
+* [2025-11-01, 23:09:25](https://news.ycombinator.com/item?id=45786324) - [Pomelli](https://blog.google/technology/google-labs/pomelli/)
 * [2025-11-01, 22:59:00](https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Race for All-Solid-State EV Batteries Heats Up with New Samsung SDI/BMW/Solid Power Partnership](https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 22:52:22](https://news.ycombinator.com/item?id=45786192) - [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
 * [2025-11-01, 22:26:03](https://news.ycombinator.com/item?id=45785986) - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
-* [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
+* [2025-11-01, 22:07:49](https://news.ycombinator.com/item?id=45785858) - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 * [2025-11-01, 22:05:00](https://news.ycombinator.com/item?id=45785840) - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 * [2025-11-01, 21:50:00](https://science.slashdot.org/story/25/11/01/2118210/could-a-faint-glow-in-the-milky-way-be-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could a Faint Glow in the Milky Way Be Dark Matter?](https://science.slashdot.org/story/25/11/01/2118210/could-a-faint-glow-in-the-milky-way-be-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
@@ -80,15 +81,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-01, 19:33:48](https://news.ycombinator.com/item?id=45784596) - [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/port_linux_webassembly) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-01, 19:14:58](https://news.ycombinator.com/item?id=45784455) - [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
-* [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
+* [2025-11-01, 18:41:56](https://news.ycombinator.com/item?id=45784179) - [Claude Code can debug low-level cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 18:40:00](https://lobste.rs/s/cg6q4y/claude_code_can_debug_low_level) - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 18:34:00](https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Say &apos;Dueling Dinosaurs&apos; Fossil Confirms a Smaller Tyrannosaur Species, Not a Teenaged T. Rex](https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 17:55:13](https://lobste.rs/s/ezqbmq/text_rendering_effects_using_gpu) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
 * [2025-11-01, 17:50:38](https://news.ycombinator.com/item?id=45783699) - [Visible from space, Sudan&apos;s bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
 * [2025-11-01, 17:45:18](https://news.ycombinator.com/item?id=45783640) - [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
 * [2025-11-01, 17:34:00](https://news.slashdot.org/story/25/11/01/079206/ubuntu-will-use-rust-for-dozens-of-core-linux-utilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubuntu Will Use Rust For Dozens of Core Linux Utilities](https://news.slashdot.org/story/25/11/01/079206/ubuntu-will-use-rust-for-dozens-of-core-linux-utilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-01, 17:13:04](https://news.ycombinator.com/item?id=45783376) - [Ask HN: Where to begin with \&quot;modern\&quot; Emacs?](https://news.ycombinator.com/item?id=45783376)
-* [2025-11-01, 16:54:45](https://news.ycombinator.com/item?id=45783206) - [Studies increasingly find links between air pollutants and dementia](https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html)
 * [2025-11-01, 16:42:57](https://news.ycombinator.com/item?id=45783114) - [Chat Control proposal fails again after public opposition](https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/)
 * [2025-11-01, 16:34:00](https://tech.slashdot.org/story/25/11/01/0615237/did-a-weather-balloon-not-a-mysterious-space-object-strike-that-united-airlines-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did a Weather Balloon, Not a Mysterious Space Object, Strike That United Airlines Flight?](https://tech.slashdot.org/story/25/11/01/0615237/did-a-weather-balloon-not-a-mysterious-space-object-strike-that-united-airlines-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 16:29:23](https://news.ycombinator.com/item?id=45782981) - [GHC now runs in the browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
@@ -115,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-01, 03:30:00](https://games.slashdot.org/story/25/10/31/2332211/the-numbers-show-xboxs-current-plan-isnt-working?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Numbers Show Xbox&apos;s Current Plan Isn&apos;t Working](https://games.slashdot.org/story/25/10/31/2332211/the-numbers-show-xboxs-current-plan-isnt-working?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 02:10:00](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Launches Aardvark To Detect and Patch Hidden Bugs In Code](https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 01:41:00](https://soylentnews.org/article.pl?sid=25/10/31/1232227&amp;from=rss) - [Quantum Mechanics Trumps the Second Law of Thermodynamics at the Atomic Scale](https://soylentnews.org/article.pl?sid=25/10/31/1232227&amp;from=rss)
-* [2025-11-01, 01:30:00](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC To Rescind Ruling That Said ISPs Are Required To Secure Their Networks](https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-31, 20:57:00](https://soylentnews.org/article.pl?sid=25/10/30/1428231&amp;from=rss) - [Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series](https://soylentnews.org/article.pl?sid=25/10/30/1428231&amp;from=rss)
 * [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
@@ -125,8 +123,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 17:16:26](https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture) - [Ubuntu introduces architecture variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 16:13:00](https://soylentnews.org/article.pl?sid=25/10/30/1156208&amp;from=rss) - [Red Hat and Other Distros to Provide Easy Access to NVIDIA CUDA Tools](https://soylentnews.org/article.pl?sid=25/10/30/1156208&amp;from=rss)
-* [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:43:14](https://lobste.rs/s/pyzk5t/ghosts_compilation) - [Ghosts in the Compilation](https://predr.ag/blog/ghosts-in-the-compilation/)
+* [2025-10-31, 13:40:03](https://news.ycombinator.com/item?id=45771871) - [Show HN: A simple drag and drop tool to document and label fuse boxes](https://github.com/alexadam/fuse-box-labels)
 * [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
 * [2025-10-31, 11:25:00](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss) - [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss)
 * [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
@@ -139,7 +137,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-10-30, 11:29:00](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss) - [Westinghouse is Claiming a Nuclear Deal Would See $80B of New Reactors](https://soylentnews.org/article.pl?sid=25/10/29/1330210&amp;from=rss)
 * [2025-10-30, 06:45:00](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss) - [Senators Move to Keep Big Tech&apos;s Creepy Companion Bots Away From Kids](https://soylentnews.org/article.pl?sid=25/10/29/1326223&amp;from=rss)
 * [2025-10-30, 02:02:00](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss) - [Windows 11 Adds Dark Mode Dialogs for Run and Folder Options](https://soylentnews.org/article.pl?sid=25/10/29/1242215&amp;from=rss)
-* [2025-10-30, 01:44:25](https://news.ycombinator.com/item?id=45755495) - [NJVL: Nim&apos;s New Intermediate Representation](https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md)
 * [2025-10-29, 21:19:00](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss) - [25 years [...]: ISS in Real Time captures quarter-century on space station](https://soylentnews.org/article.pl?sid=25/10/28/2219246&amp;from=rss)
 * [2025-10-29, 16:32:00](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss) - [ASML Launches Revolutionary Lithography Scanner for Advanced 3D Chip Packaging](https://soylentnews.org/article.pl?sid=25/10/28/2218214&amp;from=rss)
 * [2025-10-29, 11:34:00](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss) - [An Autonomous Car for Consumers? Lucid Says It&apos;s Happening.](https://soylentnews.org/article.pl?sid=25/10/28/2214245&amp;from=rss)
