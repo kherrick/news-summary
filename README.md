@@ -1,34 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Controversies in AI and Tech Innovations
+## Technological Advancements
 
-* [OpenAI's Sam Altman Defends $1 Trillion+ Spending Commitments, Predicts Steep Revenue Growth, More Products](https://slashdot.org/story/25/11/03/0349255/openais-sam-altman-defends-1-trillion-spending-commitments-predicts-steep-revenue-growth-more-products?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Altman outlines OpenAI's aggressive investment strategy and plans for diversification, hinting at potential monumental growth scenarios.
+* [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks) ([comments](https://news.ycombinator.com/item?id=45796421))
 
-* [Bug in Rust-Based Uutils Broke Ubuntu 25.10 Automatic Update Checks](https://news.slashdot.org/story/25/11/03/0049215/bug-in-rust-based-uutils-broke-ubuntu-2510-automatic-update-checks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the impact of a development bug affecting Ubuntu’s systems.
+* [OpenAI's Sam Altman Defends $1 Trillion+ Spending Commitments, Predicts Steep Revenue Growth, More Products](https://slashdot.org/story/25/11/03/0349255/openais-sam-altman-defends-1-trillion-spending-commitments-predicts-steep-revenue-growth-more-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/11/03/0349255/openais-sam-altman-defends-1-trillion-spending-commitments-predicts-steep-revenue-growth-more-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Challenges in Data Privacy and Security
+* [Manufacturer Remotely Bricks Smart Vacuum After Its Owner Blocked It From Collecting Data](https://yro.slashdot.org/story/25/11/02/2241201/manufacturer-remotely-bricks-smart-vacuum-after-its-owner-blocked-it-from-collecting-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/11/02/2241201/manufacturer-remotely-bricks-smart-vacuum-after-its-owner-blocked-it-from-collecting-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Manufacturer Remotely Bricks Smart Vacuum After Its Owner Blocked It From Collecting Data](https://yro.slashdot.org/story/25/11/02/2241201/manufacturer-remotely-bricks-smart-vacuum-after-its-owner-blocked-it-from-collecting-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A story of potential abuse in IoT device management showcases conflicts between privacy and tech policies.
+* [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/) ([comments](https://news.ycombinator.com/item?id=45789424))
 
-## Programming and Development Insights
+* [Cloudflare Raves About Performance Gains After Rust Rewrite](https://developers.slashdot.org/story/25/11/02/0529258/cloudflare-raves-about-performance-gains-after-rust-rewrite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45788040))
 
-* [Control structures in programming languages](http://xavierleroy.org/control-structures/) - Examination of design choices in programming structures.
+## Cybersecurity Concerns
 
-* [Software substrates: should there be only one?](https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html) - Tackles the concept of unified substrates in software to streamline development.
+* [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss))
 
-* [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/) - Comment on manipulation in network deployment practices.
+* [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2) ([comments](https://news.ycombinator.com/item?id=45792166))
 
-## Technology Impacts and Social Commentary
+* [CISA: High-Severity Linux Flaw Now Exploited by Ransomware Gangs](https://soylentnews.org/article.pl?sid=25/11/01/1652253&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/01/1652253&amp;from=rss))
 
-* [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/) - Examination of anti-piracy policies and impacts on user freedom.
+## Programming and Development
 
-* [New Design Trend: People Downgrading 'Smart' Homes to Analog 'Dumb' Homes](https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A movement away from smart technology towards simpler, privacy-focused living.
+* [Abstract Syntax Tree: An Example in C](https://keleshev.com/abstract-syntax-tree-an-example-in-c/) ([comments](https://lobste.rs/s/zsoyox/abstract_syntax_tree_example_c))
 
-## Major Developments in AI Tools and Platforms
+* [Control structures in programming languages](http://xavierleroy.org/control-structures/) ([comments](https://lobste.rs/s/tbdvn9/control_structures_programming))
 
-* [GitHub Announces 'Agent HQ', Letting Copilot Subscribers Run and Manage Coding Agents from Multiple Vendors](https://developers.slashdot.org/story/25/11/02/2337254/github-announces-agent-hq-letting-copilot-subscribers-run-and-manage-coding-agents-from-multiple-vendors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Introducing streamlined management for multi-agent systems in AI coding.
+* [Zapstore](https://zapstore.dev/) ([comments](https://lobste.rs/s/pr4aqv/zapstore))
 
-* [Cloudflare Raves About Performance Gains After Rust Rewrite](https://developers.slashdot.org/story/25/11/02/0529258/cloudflare-raves-about-performance-gains-after-rust-rewrite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights the efficacy of Rust in improving performance metrics.
+* [build system tradeoffs](https://jyn.dev/build-system-tradeoffs) ([comments](https://lobste.rs/s/uwyfpy/build_system_tradeoffs))
+
+* [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/) ([comments](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead))
+
+## Unique Insights and Trends
+
+* [New prompt injection papers: Agents rule of two and the attacker moves second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) ([comments](https://news.ycombinator.com/item?id=45794245))
+
+* [New Design Trend: People Downgrading Smart Homes to Analog Dumb Homes, Some with Landlines and Offline Appliances](https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [First-ever recording of a dying human brain reveals peculiar biological phenomenon](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks) ([discussion](https://news.ycombinator.com/item?id=45796421))
+
+* [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html) ([comments](https://news.ycombinator.com/item?id=45793466))
 
 ---
 
@@ -55,10 +67,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-03, 06:43:41](https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory) - [Don&apos;t give Postgres too much memory](https://vondra.me/posts/dont-give-postgres-too-much-memory/)
+* [2025-11-03, 06:39:13](https://news.ycombinator.com/item?id=45796421) - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
+* [2025-11-03, 06:30:45](https://lobste.rs/s/j8dni3/why_don_t_you_use_dependent_types) - [\&quot;Why don&apos;t you use dependent types?\&quot;](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
+* [2025-11-03, 05:53:00](https://linux.slashdot.org/story/25/11/03/048228/linux-gamers-on-steam-finally-cross-over-the-3-mark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Gamers on Steam Finally Cross Over the 3% Mark](https://linux.slashdot.org/story/25/11/03/048228/linux-gamers-on-steam-finally-cross-over-the-3-mark?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-03, 05:48:00](https://lobste.rs/s/zsoyox/abstract_syntax_tree_example_c) - [Abstract Syntax Tree: An Example in C](https://keleshev.com/abstract-syntax-tree-an-example-in-c/)
+* [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss)
+* [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
 * [2025-11-03, 03:53:00](https://slashdot.org/story/25/11/03/0349255/openais-sam-altman-defends-1-trillion-spending-commitments-predicts-steep-revenue-growth-more-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Sam Altman Defends $1 Trillion+ Spending Commitments, Predicts Steep Revenue Growth, More Products](https://slashdot.org/story/25/11/03/0349255/openais-sam-altman-defends-1-trillion-spending-commitments-predicts-steep-revenue-growth-more-products?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-03, 03:13:46](https://news.ycombinator.com/item?id=45795511) - [Oxy is Cloudflare&apos;s Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 * [2025-11-03, 02:50:44](https://lobste.rs/s/tbdvn9/control_structures_programming) - [Control structures in programming languages](http://xavierleroy.org/control-structures/)
-* [2025-11-03, 02:48:45](https://news.ycombinator.com/item?id=45795413) - [The great decoupling of labor and capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
 * [2025-11-03, 02:34:00](https://yro.slashdot.org/story/25/11/02/2241201/manufacturer-remotely-bricks-smart-vacuum-after-its-owner-blocked-it-from-collecting-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Manufacturer Remotely Bricks Smart Vacuum After Its Owner Blocked It From Collecting Data](https://yro.slashdot.org/story/25/11/02/2241201/manufacturer-remotely-bricks-smart-vacuum-after-its-owner-blocked-it-from-collecting-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-03, 01:59:07](https://news.ycombinator.com/item?id=45795186) - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
 * [2025-11-03, 01:28:47](https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for) - [\&quot;Monster Splash\&quot; a double-hires demo for Apple IIe](http://www.deater.net/weave/vmwprod/monstersplash/)
 * [2025-11-03, 01:27:48](https://news.ycombinator.com/item?id=45795036) - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
 * [2025-11-03, 01:20:07](https://lobste.rs/s/ia2pn6/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html)
@@ -66,9 +86,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-03, 00:52:00](https://news.slashdot.org/story/25/11/03/0049215/bug-in-rust-based-uutils-broke-ubuntu-2510-automatic-update-checks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bug in Rust-Based Uutils Broke Ubuntu 25.10 Automatic Update Checks](https://news.slashdot.org/story/25/11/03/0049215/bug-in-rust-based-uutils-broke-ubuntu-2510-automatic-update-checks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-03, 00:49:56](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead) - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
 * [2025-11-02, 23:58:21](https://lobste.rs/s/ri4vd2/homotopy_type_theory_for_dummies) - [Homotopy Type Theory for Dummies](http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html)
-* [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science) - [I ****ing hate Science](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
-* [2025-11-02, 23:48:12](https://news.ycombinator.com/item?id=45794455) - [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
+* [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021) - [I ****ing hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 23:40:00](https://developers.slashdot.org/story/25/11/02/2337254/github-announces-agent-hq-letting-copilot-subscribers-run-and-manage-coding-agents-from-multiple-vendors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GitHub Announces &apos;Agent HQ&apos;, Letting Copilot Subscribers Run and Manage Coding Agents from Multiple Vendors](https://developers.slashdot.org/story/25/11/02/2337254/github-announces-agent-hq-letting-copilot-subscribers-run-and-manage-coding-agents-from-multiple-vendors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-02, 23:11:22](https://news.ycombinator.com/item?id=45794245) - [New prompt injection papers: Agents rule of two and the attacker moves second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don&apos;t need anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 22:50:03](https://lobste.rs/s/7si4dt/nostr_is_deceptively_tricky_understand) - [Nostr is deceptively tricky to understand](https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt)
 * [2025-11-02, 22:32:42](https://news.ycombinator.com/item?id=45794032) - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
@@ -82,15 +102,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-02, 19:34:00](https://news.slashdot.org/story/25/11/02/1758252/sound-blaster-crowdfunds-linux-powered-audio-hub-reimagine-for-creators-and-gamers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sound Blaster Crowdfunds Linux-Powered Audio Hub &apos;Re:Imagine&apos; For Creators and Gamers](https://news.slashdot.org/story/25/11/02/1758252/sound-blaster-crowdfunds-linux-powered-audio-hub-reimagine-for-creators-and-gamers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-02, 19:05:32](https://news.ycombinator.com/item?id=45792579) - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
 * [2025-11-02, 19:02:40](https://lobste.rs/s/f3oge4/awk_technical_notes_2023) - [AWK technical notes (2023)](https://maximullaris.com/awk_tech_notes.html)
-* [2025-11-02, 18:54:59](https://news.ycombinator.com/item?id=45792503) - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
-* [2025-11-02, 18:46:23](https://lobste.rs/s/fsd2eb/react_native_godot_react_native_godot) - [react-native-godot: React Native Godot - Embed Godot Engine in React Native apps](https://github.com/borndotcom/react-native-godot)
 * [2025-11-02, 18:37:38](https://news.ycombinator.com/item?id=45792373) - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
 * [2025-11-02, 18:34:00](https://slashdot.org/story/25/11/02/1728231/gofundme-created-14-million-donation-pages-for-nonprofits-without-their-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GoFundMe Created 1.4 Million Donation Pages for Nonprofits Without Their Consent](https://slashdot.org/story/25/11/02/1728231/gofundme-created-14-million-donation-pages-for-nonprofits-without-their-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-02, 18:12:49](https://news.ycombinator.com/item?id=45792209) - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
 * [2025-11-02, 18:06:15](https://news.ycombinator.com/item?id=45792166) - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
 * [2025-11-02, 17:57:10](https://lobste.rs/s/pr4aqv/zapstore) - [Zapstore](https://zapstore.dev/)
 * [2025-11-02, 17:34:00](https://news.slashdot.org/story/25/11/02/0134230/amazons-deployment-of-rivians-electric-delivery-vans-expand-to-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Deployment of Rivian&apos;s Electric Delivery Vans Expand to Canada](https://news.slashdot.org/story/25/11/02/0134230/amazons-deployment-of-rivians-electric-delivery-vans-expand-to-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-02, 17:24:39](https://news.ycombinator.com/item?id=45791882) - [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
 * [2025-11-02, 16:34:00](https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Design Trend: People Downgrading &apos;Smart&apos; Homes to Analog &apos;Dumb&apos; Homes, Some with Landlines and Offline Appliances](https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-02, 15:39:00](https://soylentnews.org/article.pl?sid=25/11/01/1652253&amp;from=rss) - [CISA: High-Severity Linux Flaw Now Exploited by Ransomware Gangs](https://soylentnews.org/article.pl?sid=25/11/01/1652253&amp;from=rss)
 * [2025-11-02, 15:34:00](https://tech.slashdot.org/story/25/11/01/0514222/do-ai-browsers-exist-for-you---or-to-give-ai-companies-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do AI Browsers Exist For You - or To Give AI Companies Data?](https://tech.slashdot.org/story/25/11/01/0514222/do-ai-browsers-exist-for-you---or-to-give-ai-companies-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -101,15 +118,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 * [2025-11-02, 13:07:31](https://news.ycombinator.com/item?id=45790015) - [X.org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-02, 12:34:00](https://yro.slashdot.org/story/25/11/01/2359245/woman-wrongfully-accused-by-a-license-plate-reading-camera---then-exonerated-by-camera-equipped-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Wrongfully Accused by a License Plate-Reading Camera - Then Exonerated By Camera-Equipped Car](https://yro.slashdot.org/story/25/11/01/2359245/woman-wrongfully-accused-by-a-license-plate-reading-camera---then-exonerated-by-camera-equipped-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
-* [2025-11-02, 12:22:47](https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms) - [Thinking About Thinking With LLMs](https://davi.sh/blog/2025/09/thinking-with-llms/)
+* [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 11:43:26](https://news.ycombinator.com/item?id=45789602) - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
 * [2025-11-02, 11:12:58](https://news.ycombinator.com/item?id=45789474) - [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-02, 11:01:23](https://news.ycombinator.com/item?id=45789424) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 10:56:00](https://soylentnews.org/article.pl?sid=25/11/01/1648226&amp;from=rss) - [Bonfire of the Vanities](https://soylentnews.org/article.pl?sid=25/11/01/1648226&amp;from=rss)
 * [2025-11-02, 08:34:00](https://yro.slashdot.org/story/25/11/02/0626222/daylight-saving-time-still-happening-still-unpopular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Daylight Saving Time:  Still Happening. Still Unpopular](https://yro.slashdot.org/story/25/11/02/0626222/daylight-saving-time-still-happening-still-unpopular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 06:07:00](https://soylentnews.org/article.pl?sid=25/11/01/1239234&amp;from=rss) - [Spinning Up an Onion Mirror is Stupid Easy](https://soylentnews.org/article.pl?sid=25/11/01/1239234&amp;from=rss)
 * [2025-11-02, 05:34:00](https://developers.slashdot.org/story/25/11/02/0529258/cloudflare-raves-about-performance-gains-after-rust-rewrite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Raves About Performance Gains After Rust Rewrite](https://developers.slashdot.org/story/25/11/02/0529258/cloudflare-raves-about-performance-gains-after-rust-rewrite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-02, 05:32:02](https://news.ycombinator.com/item?id=45788040) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
@@ -117,9 +132,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \&quot;Visual Operating System\&quot;](https://visopsys.org/)
 * [2025-11-02, 02:56:00](https://hardware.slashdot.org/story/25/11/02/0247242/researchers-consider-the-advantages-of-swarm-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Consider The Advantages of &apos;Swarm Robotics&apos;](https://hardware.slashdot.org/story/25/11/02/0247242/researchers-consider-the-advantages-of-swarm-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-02, 01:26:00](https://soylentnews.org/article.pl?sid=25/10/31/1858243&amp;from=rss) - [‘Spaceballs 2’ Starts Production](https://soylentnews.org/article.pl?sid=25/10/31/1858243&amp;from=rss)
-* [2025-11-01, 22:59:00](https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Race for All-Solid-State EV Batteries Heats Up with New Samsung SDI/BMW/Solid Power Partnership](https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
-* [2025-11-01, 20:57:36](https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple) - [X.Org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-01, 20:39:00](https://soylentnews.org/article.pl?sid=25/10/31/1854228&amp;from=rss) - [China Releases &apos;UBIOS&apos; Standard to Replace UEFI](https://soylentnews.org/article.pl?sid=25/10/31/1854228&amp;from=rss)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/port_linux_webassembly) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-01, 18:40:00](https://lobste.rs/s/cg6q4y/claude_code_can_debug_low_level) - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
