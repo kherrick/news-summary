@@ -1,52 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Open Source and Security Innovations
+## Environmental Initiatives and Challenges
 
-* [Ukraine First To Demo Open Source Security Platform To Help Secure Power Grid](https://hardware.slashdot.org/story/25/11/04/000255/ukraine-first-to-demo-open-source-security-platform-to-help-secure-power-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Antarctic Glacier Saw the Fastest Retreat In Modern History](https://news.slashdot.org/story/25/11/04/0026217/antarctic-glacier-saw-the-fastest-retreat-in-modern-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rapid retreat of Antarctic glaciers marks significant environmental concerns. [Comments](https://news.slashdot.org/story/25/11/04/0026217/antarctic-glacier-saw-the-fastest-retreat-in-modern-history?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cybersecurity Breaches and AI Concerns
+* [Ukraine First To Demo Open Source Security Platform To Help Secure Power Grid](https://hardware.slashdot.org/story/25/11/04/000255/ukraine-first-to-demo-open-source-security-platform-to-help-secure-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ukraine showcases innovative security technology for grids. [Comments](https://hardware.slashdot.org/story/25/11/04/000255/ukraine-first-to-demo-open-source-security-platform-to-help-secure-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&amp;from=rss)
+## Technology and Innovation
 
-* [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI Stop Using Their Content To Train AI](https://slashdot.org/story/25/11/03/1857255/studio-ghibli-bandai-namco-square-enix-demand-openai-stop-using-their-content-to-train-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Waymo To Expand Robotaxi Service To Las Vegas, San Diego and Detroit Next Year](https://tech.slashdot.org/story/25/11/03/2134217/waymo-to-expand-robotaxi-service-to-las-vegas-san-diego-and-detroit-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Waymo's autonomous services extend to new cities in the US. [Comments](https://tech.slashdot.org/story/25/11/03/2134217/waymo-to-expand-robotaxi-service-to-las-vegas-san-diego-and-detroit-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss)
+* [Apple To White-Label Google's Gemini Model for Next-Generation Siri, Report Says](https://apple.slashdot.org/story/25/11/03/2014204/apple-to-white-label-googles-gemini-model-for-next-generation-siri-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple integrates advanced AI technology to improve Siri. [Comments](https://apple.slashdot.org/story/25/11/03/2014204/apple-to-white-label-googles-gemini-model-for-next-generation-siri-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss)
+* [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html) - Launch of CHERIoT technology promises advancements in IoT security.
 
-* [arXiv Changes Rules After Getting Spammed With AI-Generated 'Research' Papers](https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI and Content Rights
 
-* [Meta: Pirated Adult Film Downloads Were For “Personal Use,” Not AI Training](https://soylentnews.org/article.pl?sid=25/11/01/1849207&amp;from=rss)
+* [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI Stop Using Their Content To Train AI](https://slashdot.org/story/25/11/03/1857255/studio-ghibli-bandai-namco-square-enix-demand-openai-stop-using-their-content-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Creative companies confront OpenAI over unauthorized content usage. [Comments](https://slashdot.org/story/25/11/03/1857255/studio-ghibli-bandai-namco-square-enix-demand-openai-stop-using-their-content-to-train-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Technological Advancements and Applications
+* [arXiv Changes Rules After Getting Spammed With AI-Generated 'Research' Papers](https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reaction to AI misuse reshapes academic publication policies. [Comments](https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Waymo To Expand Robotaxi Service To Las Vegas, San Diego and Detroit Next Year](https://tech.slashdot.org/story/25/11/03/2134217/waymo-to-expand-robotaxi-service-to-las-vegas-san-diego-and-detroit-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Cybersecurity and Legal Issues
 
-* [Apple To White-Label Google's Gemini Model for Next-Generation Siri, Report Says](https://apple.slashdot.org/story/25/11/03/2014204/apple-to-white-label-googles-gemini-model-for-next-generation-siri-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss) - Allegations of espionage loom over corporate executive. [Comments](https://soylentnews.org/article.pl?sid=25/11/01/2010247&from=rss)
 
-* [Windows 7 Squeezed To 69MB in Proof-of-Concept Build](https://tech.slashdot.org/story/25/11/03/1816216/windows-7-squeezed-to-69mb-in-proof-of-concept-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Massive Surge of NFC Relay Malware Steals Europeans' Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss) - Europe faces threat from widespread payment card malware. [Comments](https://soylentnews.org/article.pl?sid=25/11/01/1951249&from=rss)
 
-* [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html)
+## Creative Endeavors and Historical Insights
 
-## AI Developments and Opinions
+* [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks) - Groundbreaking research on neurological processes at death. [Comments](https://news.ycombinator.com/item?id=45796421)
 
-* [Google Removes Gemma Models From AI Studio After GOP Senator's Complaint](https://tech.slashdot.org/story/25/11/03/2124238/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Microsoft AI Chief Says Only Biological Beings Can Be Conscious](https://tech.slashdot.org/story/25/11/03/1534209/microsoft-ai-chief-says-only-biological-beings-can-be-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
-
-## Scientific and Environmental Insights
-
-* [First recording of a dying human brain shows waves similar to memory flashbacks (2022)](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-
-* [Deep Antarctic Waters Hold Geometric Communities of Fish Nests](https://soylentnews.org/article.pl?sid=25/10/30/0038222&amp;from=rss)
-
-## Infrastructure and Energy Sector News
-
-* [China Releases 'UBIOS' Standard to Replace UEFI](https://soylentnews.org/article.pl?sid=25/10/31/1854228&amp;from=rss)
-
-* [China Submerges a Data Center in the Ocean to Conserve Water, is That Even a Good Idea?](https://soylentnews.org/article.pl?sid=25/10/30/0034203&amp;from=rss)
+* [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought) - Exploration of artistic battles in animation. [Comments](https://news.ycombinator.com/item?id=45806348)
 
 ---
 
@@ -73,19 +57,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-04, 03:30:00](https://news.slashdot.org/story/25/11/04/0026217/antarctic-glacier-saw-the-fastest-retreat-in-modern-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Antarctic Glacier Saw the Fastest Retreat In Modern History](https://news.slashdot.org/story/25/11/04/0026217/antarctic-glacier-saw-the-fastest-retreat-in-modern-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-04, 02:10:21](https://news.ycombinator.com/item?id=45806775) - [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
+* [2025-11-04, 02:10:00](https://hardware.slashdot.org/story/25/11/03/2351252/ladwp-says-it-will-shift-its-largest-gas-power-plant-to-hydrogen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LADWP Says It Will Shift Its Largest Gas Power Plant To Hydrogen](https://hardware.slashdot.org/story/25/11/03/2351252/ladwp-says-it-will-shift-its-largest-gas-power-plant-to-hydrogen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-04, 01:30:00](https://yro.slashdot.org/story/25/11/04/0011221/spotify-sued-over-billions-of-fraudulent-drake-streams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spotify Sued Over &apos;Billions&apos; of Fraudulent Drake Streams](https://yro.slashdot.org/story/25/11/04/0011221/spotify-sued-over-billions-of-fraudulent-drake-streams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-04, 00:50:00](https://hardware.slashdot.org/story/25/11/04/000255/ukraine-first-to-demo-open-source-security-platform-to-help-secure-power-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ukraine First To Demo Open Source Security Platform To Help Secure Power Grid](https://hardware.slashdot.org/story/25/11/04/000255/ukraine-first-to-demo-open-source-security-platform-to-help-secure-power-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-04, 00:48:56](https://news.ycombinator.com/item?id=45806348) - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [2025-11-04, 00:39:00](https://soylentnews.org/article.pl?sid=25/11/01/2010247&amp;from=rss) - [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&amp;from=rss)
 * [2025-11-04, 00:10:00](https://tech.slashdot.org/story/25/11/03/2142220/amd-will-continue-game-optimization-support-for-older-radeon-gpus-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AMD Will Continue Game Optimization Support For Older Radeon GPU&apos;s After All](https://tech.slashdot.org/story/25/11/03/2142220/amd-will-continue-game-optimization-support-for-older-radeon-gpus-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
 * [2025-11-03, 23:49:03](https://news.ycombinator.com/item?id=45805900) - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
 * [2025-11-03, 23:30:00](https://tech.slashdot.org/story/25/11/03/2134217/waymo-to-expand-robotaxi-service-to-las-vegas-san-diego-and-detroit-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo To Expand Robotaxi Service To Las Vegas, San Diego and Detroit Next Year](https://tech.slashdot.org/story/25/11/03/2134217/waymo-to-expand-robotaxi-service-to-las-vegas-san-diego-and-detroit-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-03, 23:08:16](https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on) - [Bluetui - A TUI for managing bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-03, 23:04:22](https://news.ycombinator.com/item?id=45805539) - [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 * [2025-11-03, 23:01:08](https://news.ycombinator.com/item?id=45805514) - [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
 * [2025-11-03, 22:54:20](https://news.ycombinator.com/item?id=45805458) - [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
 * [2025-11-03, 22:50:00](https://slashdot.org/story/25/11/03/2129227/coca-colas-new-ai-holiday-ad-is-a-sloppy-eyesore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Coca-Cola&apos;s New AI Holiday Ad Is a Sloppy Eyesore](https://slashdot.org/story/25/11/03/2129227/coca-colas-new-ai-holiday-ad-is-a-sloppy-eyesore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-03, 22:10:00](https://tech.slashdot.org/story/25/11/03/2124238/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Removes Gemma Models From AI Studio After GOP Senator&apos;s Complaint](https://tech.slashdot.org/story/25/11/03/2124238/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-03, 21:47:41](https://news.ycombinator.com/item?id=45804839) - [R interface to Apple&apos;s MLX library](https://hughjonesd.github.io/Rmlx/index.html)
 * [2025-11-03, 21:41:43](https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa) - [agent-shell 0.17 improvements + MELPA](https://xenodium.com/agent-shell-016-improvements-melpa)
 * [2025-11-03, 21:30:00](https://news.slashdot.org/story/25/11/03/2018216/a-fight-over-credit-scores-turns-into-all-out-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Fight Over Credit Scores Turns Into All-Out War](https://news.slashdot.org/story/25/11/03/2018216/a-fight-over-credit-scores-turns-into-all-out-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-03, 21:09:59](https://lobste.rs/s/ckuhmd/defeating_kaslr_by_doing_nothing_at_all) - [Defeating KASLR by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 21:01:09](https://news.ycombinator.com/item?id=45804377) - [AI&apos;s Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
 * [2025-11-03, 20:55:57](https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become) - [Learning to read Arthur Whitney&apos;s C to become Smart](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 20:45:00](https://apple.slashdot.org/story/25/11/03/2014204/apple-to-white-label-googles-gemini-model-for-next-generation-siri-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To White-Label Google&apos;s Gemini Model for Next-Generation Siri, Report Says](https://apple.slashdot.org/story/25/11/03/2014204/apple-to-white-label-googles-gemini-model-for-next-generation-siri-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,16 +96,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-03, 18:16:00](https://tech.slashdot.org/story/25/11/03/1816216/windows-7-squeezed-to-69mb-in-proof-of-concept-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 7 Squeezed To 69MB in Proof-of-Concept Build](https://tech.slashdot.org/story/25/11/03/1816216/windows-7-squeezed-to-69mb-in-proof-of-concept-build?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-03, 17:39:44](https://lobste.rs/s/kbp8xn/you_don_t_need_kafka_just_use_postgres) - [\&quot;You Don&apos;t Need Kafka, Just Use Postgres\&quot; Considered Harmful](https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/)
 * [2025-11-03, 17:21:00](https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [arXiv Changes Rules After Getting Spammed With AI-Generated &apos;Research&apos; Papers](https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-03, 17:08:22](https://news.ycombinator.com/item?id=45801416) - [Why engineers can&apos;t be rational about programming languages](https://spf13.com/p/the-hidden-conversation/)
-* [2025-11-03, 16:41:00](https://news.slashdot.org/story/25/11/03/1620202/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Palantir Thinks College Might Be a Waste. So It&apos;s Hiring High-School Grads.](https://news.slashdot.org/story/25/11/03/1620202/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-03, 16:35:44](https://news.ycombinator.com/item?id=45800955) - [Why we migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
 * [2025-11-03, 16:23:11](https://news.ycombinator.com/item?id=45800777) - [Learning to read Arthur Whitney&apos;s C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 16:06:26](https://lobste.rs/s/l6q8rj/cheriot_1_0_released) - [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html)
-* [2025-11-03, 16:02:00](https://tech.slashdot.org/story/25/11/03/1534209/microsoft-ai-chief-says-only-biological-beings-can-be-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft AI Chief Says Only Biological Beings Can Be Conscious](https://tech.slashdot.org/story/25/11/03/1534209/microsoft-ai-chief-says-only-biological-beings-can-be-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800465) - [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
 * [2025-11-03, 16:00:00](https://news.ycombinator.com/item?id=45800464) - [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 * [2025-11-03, 15:45:31](https://news.ycombinator.com/item?id=45800308) - [Robert Hooke&apos;s \&quot;Cyberpunk” Letter to Gottfried Leibniz](https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/)
-* [2025-11-03, 15:23:00](https://it.slashdot.org/story/25/11/03/1523219/xi-quips-about-backdoors-during-xiaomi-phone-gift-to-koreas-lee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xi Quips About Backdoors During Xiaomi Phone Gift To Korea&apos;s Lee](https://it.slashdot.org/story/25/11/03/1523219/xi-quips-about-backdoors-during-xiaomi-phone-gift-to-koreas-lee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss)
 * [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 * [2025-11-03, 14:40:51](https://news.ycombinator.com/item?id=45799478) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
@@ -135,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss)
 * [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
 * [2025-11-03, 01:00:00](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss) - [AI Review Paper Slop Changing Moderation Policy at arXiv CS](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss)
-* [2025-11-03, 00:49:56](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead) - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
 * [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021) - [I ****ing hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don&apos;t need anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 20:20:00](https://soylentnews.org/article.pl?sid=25/11/01/1849207&amp;from=rss) - [Meta: Pirated Adult Film Downloads Were For “Personal Use,” Not AI Training](https://soylentnews.org/article.pl?sid=25/11/01/1849207&amp;from=rss)
