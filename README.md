@@ -1,28 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovation in Computing and Artificial Intelligence
+## Technology and Software Development
 
-* [Gemini AI To Transform Google Maps Into a More Conversational Experience](https://tech.slashdot.org/story/25/11/05/2254235/gemini-ai-to-transform-google-maps-into-a-more-conversational-experience?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google Maps evolves with conversational AI through the Gemini AI initiative.
+* [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/) offers an innovative take on combining proven paradigms to develop the open-source Cure programming language. [Comments](https://news.ycombinator.com/item?id=45832954)
 
-* [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New quantum computation techniques reduce error correction complexities.
+* [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/) takes a deep dive into the complexities and uses of recursive macros. [Comments](https://news.ycombinator.com/item?id=45830223)
 
-## Security and Human-Centric Technology
+* [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d) analyzes the progress and future of SIMD in Rust programming. [Comments](https://news.ycombinator.com/item?id=45826348)
 
-* [The Louvre's Video Surveillance Password Was 'Louvre'](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discovery of a simple password highlights cybersecurity weaknesses.
+* [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/) showcases a creative utilization of tools in analytical data exploration. [Comments](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data)
 
-* [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/) - OpenAI updates ChatGPT policies with limitations on medical and legal advice.
+* [Bikeshedding 'Handle' and other follow-up thoughts](https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/) explores the intricacies of decision-making in naming conventions and technical discourse. [Comments](https://lobste.rs/s/qf0qls/bikeshedding_handle_other_follow_up)
 
-## Environmental and Innovative Transport Solutions
+## Scientific Discovery and Innovation
 
-* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&from=rss) - Sustainable shipping sees progress with this giant wind-powered vessel.
+* [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/) by Terry Tao highlights how cutting-edge computation aids mathematical discovery. [Comments](https://news.ycombinator.com/item?id=45833162)
 
-## Research and Cognitive Discoveries
+* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss) examines the use of fungal properties to create bio-computers. [Comments](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss)
 
-* [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/) - Advances in image reconstruction use brain-interaction transformers.
+* [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair) proposes groundbreaking advancements for dental treatment. [Comments](https://news.ycombinator.com/item?id=45826995)
 
-* [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair) - Novel gel innovation promises transformative changes in dental repair.
+* [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) introduces the latest steps in quantum computing technology. [Comments](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf) - A revisiting of Carlo Cipolla's humorous treatise on the fundamentals of human stupidity.
+## Cybersecurity and Privacy
+
+* [oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881](https://www.openwall.com/lists/oss-security/2025/11/05/3) reveal critical vulnerabilities in container security. [Comments](https://lobste.rs/s/lkuzol/oss_security_runc_container_breakouts)
+
+* [Danish Authorities In Rush To Close Security Loophole In Chinese Electric Buses](https://it.slashdot.org/story/25/11/05/2111221/danish-authorities-in-rush-to-close-security-loophole-in-chinese-electric-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) underscores privacy concerns in international tech. [Comments](https://it.slashdot.org/story/25/11/05/2111221/danish-authorities-in-rush-to-close-security-loophole-in-chinese-electric-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [The Louvre's Video Surveillance Password Was 'Louvre'](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights comically weak security measures. [Comments](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Astronomy and Space Exploration
+
+* [Universe Expansion May Be Slowing, Not Accelerating, Study Suggests](https://science.slashdot.org/story/25/11/06/0146235/universe-expansion-may-be-slowing-not-accelerating-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) challenges established beliefs on cosmic mechanics. [Comments](https://science.slashdot.org/story/25/11/06/0146235/universe-expansion-may-be-slowing-not-accelerating-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [We’re About to Find Many More Interstellar Interlopers—Here’s How to Visit One](https://soylentnews.org/article.pl?sid=25/11/04/0214241&amp;from=rss) outlines efforts to explore space oddities. [Comments](https://soylentnews.org/article.pl?sid=25/11/04/0214241&amp;from=rss)
+
+## Social Trends and Cultural Shifts
+
+* [43% of Gen Z Prefer YouTube and TikTok To Traditional TV and Streaming](https://entertainment.slashdot.org/story/25/11/05/2114212/43-of-gen-z-prefer-youtube-and-tiktok-to-traditional-tv-and-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) showcases generational shifts in media consumption. [Comments](https://entertainment.slashdot.org/story/25/11/05/2114212/43-of-gen-z-prefer-youtube-and-tiktok-to-traditional-tv-and-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Why aren't smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier) delves into complex societal and psychological questions. [Comments](https://news.ycombinator.com/item?id=45824864)
 
 ---
 
@@ -49,12 +67,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-06, 09:42:00](https://soylentnews.org/article.pl?sid=25/11/05/1236251&amp;from=rss) - [What Happened to Running What You Wanted on Your Own Machine?](https://soylentnews.org/article.pl?sid=25/11/05/1236251&amp;from=rss)
+* [2025-11-06, 09:24:42](https://news.ycombinator.com/item?id=45833162) - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
+* [2025-11-06, 08:49:06](https://news.ycombinator.com/item?id=45832954) - [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)
+* [2025-11-06, 08:44:53](https://lobste.rs/s/voume0/security_model_for_systemd) - [A security model for systemd](https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/)
+* [2025-11-06, 08:23:46](https://news.ycombinator.com/item?id=45832803) - [What the hell have you built](https://wthhyb.sacha.house/)
+* [2025-11-06, 07:57:00](https://lobste.rs/s/zqfr31/radiant_computer) - [Radiant Computer](https://radiant.computer)
+* [2025-11-06, 07:09:07](https://news.ycombinator.com/item?id=45832341) - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
+* [2025-11-06, 07:00:00](https://science.slashdot.org/story/25/11/06/0146235/universe-expansion-may-be-slowing-not-accelerating-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Universe Expansion May Be Slowing, Not Accelerating, Study Suggests](https://science.slashdot.org/story/25/11/06/0146235/universe-expansion-may-be-slowing-not-accelerating-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-06, 06:43:00](https://news.ycombinator.com/item?id=45832198) - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
 * [2025-11-06, 05:44:07](https://lobste.rs/s/ihed37/lob_mob_strange_loops_haskell) - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
 * [2025-11-06, 05:00:00](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - [World&apos;s Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss)
-* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [I may have found a way to spot U.S. at-sea strikes before they&apos;re announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 03:30:00](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
-* [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
 * [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 02:36:33](https://lobste.rs/s/hjqvde/try_out_jep_401_value_classes_objects) - [Try Out JEP 401 Value Classes and Objects](https://inside.java/2025/10/27/try-jep-401-value-classes/)
 * [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
@@ -88,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-05, 17:29:00](https://tech.slashdot.org/story/25/11/05/1729212/epic-and-google-settle-antitrust-case-with-global-fee-cuts-and-easier-third-party-store-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Epic and Google Settle Antitrust Case With Global Fee Cuts and Easier Third-Party Store Access](https://tech.slashdot.org/story/25/11/05/1729212/epic-and-google-settle-antitrust-case-with-global-fee-cuts-and-easier-third-party-store-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-05, 17:02:48](https://lobste.rs/s/lkuzol/oss_security_runc_container_breakouts) - [oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881](https://www.openwall.com/lists/oss-security/2025/11/05/3)
-* [2025-11-05, 16:44:00](https://it.slashdot.org/story/25/11/05/1643214/kodak-quietly-begins-directly-selling-kodak-gold-and-ultramax-film-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kodak Quietly Begins Directly Selling Kodak Gold and Ultramax Film Again](https://it.slashdot.org/story/25/11/05/1643214/kodak-quietly-begins-directly-selling-kodak-gold-and-ultramax-film-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren&apos;t smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:27:28](https://lobste.rs/s/8vhdqn/lixcon_2026) - [LixCon in 2026](https://lix.systems/blog/2025-11-05-lixcon-2026/)
 * [2025-11-05, 15:24:35](https://news.ycombinator.com/item?id=45823831) - [Ruby and Its Neighbors: Smalltalk](https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/)
@@ -107,15 +131,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-05, 09:55:00](https://soylentnews.org/article.pl?sid=25/11/04/025235&amp;from=rss) - [Bats Eat the Birds They Pluck From the Sky While on the Wing](https://soylentnews.org/article.pl?sid=25/11/04/025235&amp;from=rss)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don&apos;t Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
-* [2025-11-05, 05:33:18](https://lobste.rs/s/mncjin/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://cofault.com/aodt.html)
 * [2025-11-05, 05:06:00](https://soylentnews.org/article.pl?sid=25/11/04/0147220&amp;from=rss) - [SUSE to Include Agentic AI in SLE 16](https://soylentnews.org/article.pl?sid=25/11/04/0147220&amp;from=rss)
 * [2025-11-05, 01:59:01](https://lobste.rs/s/xuggiu/mr_tiff) - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
 * [2025-11-05, 00:22:00](https://soylentnews.org/article.pl?sid=25/11/03/0150212&amp;from=rss) - [Company Remote Kills Robo Vacuum](https://soylentnews.org/article.pl?sid=25/11/03/0150212&amp;from=rss)
 * [2025-11-04, 20:16:45](https://news.ycombinator.com/item?id=45815419) - [I was right about dishwasher pods and now I can prove it [video]](https://www.youtube.com/watch?v=DAX2_mPr9W8)
 * [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
-* [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
-* [2025-11-04, 16:26:09](https://news.ycombinator.com/item?id=45812756) - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss) - [Las Vegas Police Debut the World&apos;s First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss) - [Tesla&apos;s ‘Robotaxis&apos; Keep Crashing-Even With Human ‘Safety Monitors&apos; Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss)
@@ -126,7 +147,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-03, 19:53:00](https://soylentnews.org/article.pl?sid=25/11/02/0832213&amp;from=rss) - [October&apos;s Research Roundup: 6 Cool Science Stories We Almost Missed](https://soylentnews.org/article.pl?sid=25/11/02/0832213&amp;from=rss)
 * [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss)
 * [2025-11-03, 10:25:00](https://soylentnews.org/article.pl?sid=25/11/02/0835217&amp;from=rss) - [Nvidia Hits Record $5 Trillion Mark as CEO Dismisses AI Bubble Concerns](https://soylentnews.org/article.pl?sid=25/11/02/0835217&amp;from=rss)
-* [2025-11-03, 09:17:06](https://news.ycombinator.com/item?id=45797228) - [Absurd Workflows: Durable Execution with Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/)
 * [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss)
 * [2025-11-03, 01:00:00](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss) - [AI Review Paper Slop Changing Moderation Policy at arXiv CS](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss)
 * [2025-11-02, 20:20:00](https://soylentnews.org/article.pl?sid=25/11/01/1849207&amp;from=rss) - [Meta: Pirated Adult Film Downloads Were For “Personal Use,” Not AI Training](https://soylentnews.org/article.pl?sid=25/11/01/1849207&amp;from=rss)
