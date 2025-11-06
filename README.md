@@ -1,52 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovators and Breakthroughs
+## Innovation in Computing and Artificial Intelligence
 
-* [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A quantum computing advancement that simplifies error correction mechanisms in ion-based systems.
+* [Gemini AI To Transform Google Maps Into a More Conversational Experience](https://tech.slashdot.org/story/25/11/05/2254235/gemini-ai-to-transform-google-maps-into-a-more-conversational-experience?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google Maps evolves with conversational AI through the Gemini AI initiative.
 
-* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss) - Introducing organic, mushroom-powered computational devices as a new frontier in computing.
+* [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New quantum computation techniques reduce error correction complexities.
 
-* [Gemini AI To Transform Google Maps Into a More Conversational Experience](https://tech.slashdot.org/story/25/11/05/2254235/gemini-ai-to-transform-google-maps-into-a-more-conversational-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's Maps is set to evolve into a conversational assistant using Gemini AI.
+## Security and Human-Centric Technology
 
-* [Radiant Computer](https://radiant.computer) - Introducing a cutting-edge computational project with high capabilities.
+* [The Louvre's Video Surveillance Password Was 'Louvre'](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discovery of a simple password highlights cybersecurity weaknesses.
 
-## Science and Environment Discoveries
+* [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/) - OpenAI updates ChatGPT policies with limitations on medical and legal advice.
 
-* [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair) - A breakthrough in dental restorative technology with potential to transform tooth repair.
+## Environmental and Innovative Transport Solutions
 
-* [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening) - How Africa is pioneering sustainable practices inspired by Solarpunk principles.
+* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&from=rss) - Sustainable shipping sees progress with this giant wind-powered vessel.
 
-* [Solar Geoengineering in Wrong Hands Could Wreak Climate Havoc, Scientists Warn](https://news.slashdot.org/story/25/11/05/1817220/solar-geoengineering-in-wrong-hands-could-wreak-climate-havoc-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns about misuse of solar geoengineering causing environmental and climate risks.
+## Research and Cognitive Discoveries
 
-## Culture and Behavioral Trends
+* [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/) - Advances in image reconstruction use brain-interaction transformers.
 
-* [43% of Gen Z Prefer YouTube and TikTok To Traditional TV and Streaming](https://entertainment.slashdot.org/story/25/11/05/2114212/43-of-gen-z-prefer-youtube-and-tiktok-to-traditional-tv-and-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A shift in entertainment preferences among Gen Z.
+* [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair) - Novel gel innovation promises transformative changes in dental repair.
 
-* [Why aren&apos;t smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier) - Exploring potential reasons behind the paradox of intelligence and happiness.
-
-* [NY school phone ban has made lunch loud again](https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again) - Observing behavioral shifts caused by smartphone bans in schools.
-
-## Cybersecurity and Global Concerns
-
-* [China Bans Foreign AI Chips From State-Funded Data Centres](https://slashdot.org/story/25/11/05/1752200/china-bans-foreign-ai-chips-from-state-funded-data-centres?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's strict policy against foreign AI chip usage in public infrastructure.
-
-* [Danish Authorities In Rush To Close Security Loophole In Chinese Electric Buses](https://it.slashdot.org/story/25/11/05/2111221/danish-authorities-in-rush-to-close-security-loophole-in-chinese-electric-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Addressing security flaws in imported Chinese electric buses.
-
-* [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) - Malware exploits NFC to steal credit card data across Europe.
-
-## Technological Tools and Programming Developments
-
-* [Rust&apos;s TUI Revolution](https://ratatui.rs/showcase/apps/) - Highlighting advancements in Rust's Text-based User Interface applications.
-
-* [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d) - A 2025 review of SIMD features in Rust programming.
-
-* [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/) - Unpacking complex recursive macros in C language.
-
-## AI and Industry Impacts
-
-* [New Bipartisan Bill Would Require Companies To Report AI Job Losses](https://slashdot.org/story/25/11/05/2119253/new-bipartisan-bill-would-require-companies-to-report-ai-job-losses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legislation aiming to measure economic impacts of AI-related job losses.
-
-* [Deutsche Bank Explores Hedges For Data Centre Exposure as AI Lending Booms](https://slashdot.org/story/25/11/05/182230/deutsche-bank-explores-hedges-for-data-centre-exposure-as-ai-lending-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial precautions as AI application in lending intensifies.
+* [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf) - A revisiting of Carlo Cipolla's humorous treatise on the fundamentals of human stupidity.
 
 ---
 
@@ -73,10 +49,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-06, 05:44:07](https://lobste.rs/s/ihed37/lob_mob_strange_loops_haskell) - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
+* [2025-11-06, 05:00:00](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - [World&apos;s Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss)
+* [2025-11-06, 04:37:45](https://news.ycombinator.com/item?id=45831541) - [I may have found a way to spot U.S. at-sea strikes before they&apos;re announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/)
 * [2025-11-06, 03:30:00](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New Ion-Based Quantum Computer Makes Error Correction Simpler](https://tech.slashdot.org/story/25/11/06/0137217/a-new-ion-based-quantum-computer-makes-error-correction-simpler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Rust&apos;s TUI Revolution](https://ratatui.rs/showcase/apps/)
-* [2025-11-06, 02:44:05](https://news.ycombinator.com/item?id=45830797) - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
-* [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
+* [2025-11-06, 02:50:31](https://news.ycombinator.com/item?id=45830829) - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
+* [2025-11-06, 02:46:23](https://news.ycombinator.com/item?id=45830808) - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
+* [2025-11-06, 02:38:53](https://news.ycombinator.com/item?id=45830770) - [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446)
 * [2025-11-06, 02:36:33](https://lobste.rs/s/hjqvde/try_out_jep_401_value_classes_objects) - [Try Out JEP 401 Value Classes and Objects](https://inside.java/2025/10/27/try-jep-401-value-classes/)
 * [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-06, 01:30:00](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Louvre&apos;s Video Surveillance Password Was &apos;Louvre&apos;](https://yro.slashdot.org/story/25/11/05/238245/the-louvres-video-surveillance-password-was-louvre?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-05, 17:29:00](https://tech.slashdot.org/story/25/11/05/1729212/epic-and-google-settle-antitrust-case-with-global-fee-cuts-and-easier-third-party-store-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Epic and Google Settle Antitrust Case With Global Fee Cuts and Easier Third-Party Store Access](https://tech.slashdot.org/story/25/11/05/1729212/epic-and-google-settle-antitrust-case-with-global-fee-cuts-and-easier-third-party-store-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-05, 17:02:48](https://lobste.rs/s/lkuzol/oss_security_runc_container_breakouts) - [oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881](https://www.openwall.com/lists/oss-security/2025/11/05/3)
-* [2025-11-05, 16:58:16](https://lobste.rs/s/sn80to/using_xdp_for_egress_traffic) - [Using XDP for Egress Traffic](https://www.loopholelabs.io/blog/xdp-for-egress-traffic)
 * [2025-11-05, 16:44:00](https://it.slashdot.org/story/25/11/05/1643214/kodak-quietly-begins-directly-selling-kodak-gold-and-ultramax-film-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kodak Quietly Begins Directly Selling Kodak Gold and Ultramax Film Again](https://it.slashdot.org/story/25/11/05/1643214/kodak-quietly-begins-directly-selling-kodak-gold-and-ultramax-film-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-05, 16:32:43](https://news.ycombinator.com/item?id=45824864) - [Why aren&apos;t smart people happier?](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 * [2025-11-05, 16:27:28](https://lobste.rs/s/8vhdqn/lixcon_2026) - [LixCon in 2026](https://lix.systems/blog/2025-11-05-lixcon-2026/)
