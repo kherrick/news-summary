@@ -1,46 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Legal and Ethical Issues in AI and Technology
 
-* [qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run](https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish) ([comments](https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose))
+* [Mark Zuckerberg Opened an Illegal School At His Palo Alto Compound. His Neighbor Revolted](https://tech.slashdot.org/story/25/11/07/0044201/mark-zuckerberg-opened-an-illegal-school-at-his-palo-alto-compound-his-neighbor-revolted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Magika 1.0 Goes Stable As Google Rebuilds Its File Detection Tool In Rust](https://developers.slashdot.org/story/25/11/07/005225/magika-10-goes-stable-as-google-rebuilds-its-file-detection-tool-in-rust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45842263))
+* [Why Sam Altman Was Booted From OpenAI, According To New Testimony](https://yro.slashdot.org/story/25/11/06/2344248/why-sam-altman-was-booted-from-openai-according-to-new-testimony?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html) ([comments](https://news.ycombinator.com/item?id=45841056))
+* [FBI Subpoenas Registrar for Details on Anonymous Archiving Site Owner](https://tech.slashdot.org/story/25/11/06/1920210/fbi-subpoenas-registrar-for-details-on-anonymous-archiving-site-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html) ([comments](https://news.ycombinator.com/item?id=45836070))
+* [Automattic Inc. Claims It Owns the Word 'Automatic'](https://tech.slashdot.org/story/25/11/06/1735215/automattic-inc-claims-it-owns-the-word-automatic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Trump AI Czar Says 'No Federal Bailout For AI' After OpenAI CFO's Comments](https://news.slashdot.org/story/25/11/06/1850207/trump-ai-czar-says-no-federal-bailout-for-ai-after-openai-cfos-comments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45840200))
+## Advancements and Discoveries in AI and Computing
 
-## Infrastructure and Technology Innovations
+* [Microsoft Forms Superintelligence Team Under AI Chief Suleyman 'To Serve Humanity'](https://slashdot.org/story/25/11/06/2326229/microsoft-forms-superintelligence-team-under-ai-chief-suleyman-to-serve-humanity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ford Considers Scrapping F-150 EV Truck](https://tech.slashdot.org/story/25/11/06/2358231/ford-considers-scrapping-f-150-ev-truck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45842380))
+* [Amazon is Testing an AI Tool That Automatically Translates Books Into Other Languages](https://news.slashdot.org/story/25/11/06/1931204/amazon-is-testing-an-ai-tool-that-automatically-translates-books-into-other-languages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Tiny Electric Motor is as Powerful as Four Tesla Motors Put Together](https://soylentnews.org/article.pl?sid=25/11/05/1530214&amp;from=rss) ([comments](https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting))
+* [Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
 
-* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) ([comments](https://lobste.rs/s/ihed37/lob_mob_strange_loops_haskell))
+* [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
 
-## Software and Applications
+## Climate and Sustainability Initiatives
 
-* [Unix V4 tape found at The University of Utah](https://discuss.systems/@ricci/115504720054699983) ([comments](https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah))
+* [How the US Cut Climate-Changing Emissions While Its Economy More Than Doubled](https://hardware.slashdot.org/story/25/11/07/0029244/how-the-us-cut-climate-changing-emissions-while-its-economy-more-than-doubled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/) ([comments](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown))
+* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss)
 
-* [Self-hosting your Mastodon media with SeaweedFS](https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/) ([comments](https://lobste.rs/s/qzwcu2/self_hosting_your_mastodon_media_with))
+* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss)
 
-## Global and Legal Developments
+## Scientific Discoveries
 
-* [FBI Subpoenas Registrar for Details on Anonymous Archiving Site Owner](https://tech.slashdot.org/story/25/11/06/1920210/fbi-subpoenas-registrar-for-details-on-anonymous-archiving-site-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45836826))
+* [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
 
-* [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148) ([comments](https://news.ycombinator.com/item?id=45842380))
+* [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
 
-* [US Software Firm SAS Exits China After 25 Years](https://news.slashdot.org/story/25/11/06/1612213/us-software-firm-sas-exits-china-after-25-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/eqijnm/gem_coop_update_1))
+* [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
 
-## Healthcare and Lifestyle
+## Industry Innovations and Updates
 
-* [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html) ([comments](https://news.ycombinator.com/item?id=45842380))
+* [Magika 1.0 Goes Stable As Google Rebuilds Its File Detection Tool In Rust](https://developers.slashdot.org/story/25/11/07/005225/magika-10-goes-stable-as-google-rebuilds-its-file-detection-tool-in-rust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Why Sam Altman Was Booted From OpenAI, According To New Testimony](https://yro.slashdot.org/story/25/11/06/2344248/why-sam-altman-was-booted-from-openai-according-to-new-testimony?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45842380))
+* [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
+
+* [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive)
+
+## Controversial and Emerging Topics
+
+* [Ford Considers Scrapping F-150 EV Truck](https://tech.slashdot.org/story/25/11/06/2358231/ford-considers-scrapping-f-150-ev-truck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Trump AI Czar Says 'No Federal Bailout For AI' After OpenAI CFO's Comments](https://news.slashdot.org/story/25/11/06/1850207/trump-ai-czar-says-no-federal-bailout-for-ai-after-openai-cfos-comments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
 
 ---
 
@@ -67,10 +77,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-07, 03:30:00](https://tech.slashdot.org/story/25/11/07/0044201/mark-zuckerberg-opened-an-illegal-school-at-his-palo-alto-compound-his-neighbor-revolted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mark Zuckerberg Opened an Illegal School At His Palo Alto Compound. His Neighbor Revolted](https://tech.slashdot.org/story/25/11/07/0044201/mark-zuckerberg-opened-an-illegal-school-at-his-palo-alto-compound-his-neighbor-revolted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-07, 03:01:32](https://news.ycombinator.com/item?id=45843146) - [A Fond Farewell from Farmers&apos; Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+* [2025-11-07, 02:57:02](https://news.ycombinator.com/item?id=45843120) - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+* [2025-11-07, 01:25:00](https://hardware.slashdot.org/story/25/11/07/0029244/how-the-us-cut-climate-changing-emissions-while-its-economy-more-than-doubled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How the US Cut Climate-Changing Emissions While Its Economy More Than Doubled](https://hardware.slashdot.org/story/25/11/07/0029244/how-the-us-cut-climate-changing-emissions-while-its-economy-more-than-doubled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 01:09:15](https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose) - [qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run](https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish)
 * [2025-11-07, 00:59:58](https://news.ycombinator.com/item?id=45842494) - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-07, 00:45:00](https://tech.slashdot.org/story/25/11/06/2358231/ford-considers-scrapping-f-150-ev-truck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ford Considers Scrapping F-150 EV Truck](https://tech.slashdot.org/story/25/11/06/2358231/ford-considers-scrapping-f-150-ev-truck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 00:42:50](https://news.ycombinator.com/item?id=45842380) - [IRS Ends Direct File](https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148)
 * [2025-11-07, 00:23:00](https://developers.slashdot.org/story/25/11/07/005225/magika-10-goes-stable-as-google-rebuilds-its-file-detection-tool-in-rust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Magika 1.0 Goes Stable As Google Rebuilds Its File Detection Tool In Rust](https://developers.slashdot.org/story/25/11/07/005225/magika-10-goes-stable-as-google-rebuilds-its-file-detection-tool-in-rust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 00:22:53](https://news.ycombinator.com/item?id=45842263) - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
 * [2025-11-07, 00:02:00](https://yro.slashdot.org/story/25/11/06/2344248/why-sam-altman-was-booted-from-openai-according-to-new-testimony?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Sam Altman Was Booted From OpenAI, According To New Testimony](https://yro.slashdot.org/story/25/11/06/2344248/why-sam-altman-was-booted-from-openai-according-to-new-testimony?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -83,11 +96,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-06, 22:45:00](https://yro.slashdot.org/story/25/11/06/2244238/cloudflare-tells-us-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Tells US Govt That Foreign Site Blocking Efforts Are Digital Trade Barriers](https://yro.slashdot.org/story/25/11/06/2244238/cloudflare-tells-us-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 22:39:40](https://lobste.rs/s/kudguy/i_use_typst_now) - [I use Typst now](https://www.christopherbiscardi.com/i-use-typst-now)
 * [2025-11-06, 22:24:23](https://news.ycombinator.com/item?id=45841262) - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-* [2025-11-06, 22:05:58](https://news.ycombinator.com/item?id=45841056) - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
 * [2025-11-06, 21:30:00](https://news.slashdot.org/story/25/11/06/1931204/amazon-is-testing-an-ai-tool-that-automatically-translates-books-into-other-languages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon is Testing an AI Tool That Automatically Translates Books Into Other Languages](https://news.slashdot.org/story/25/11/06/1931204/amazon-is-testing-an-ai-tool-that-automatically-translates-books-into-other-languages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 21:23:46](https://news.ycombinator.com/item?id=45840612) - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
 * [2025-11-06, 20:51:00](https://tech.slashdot.org/story/25/11/06/1924248/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Plans Secret AI Military Outpost on Tiny Island Overrun By Crabs](https://tech.slashdot.org/story/25/11/06/1924248/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Universe&apos;s expansion &apos;is now slowing, not speeding up&apos;](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+* [2025-11-06, 20:45:39](https://news.ycombinator.com/item?id=45840200) - [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
 * [2025-11-06, 20:37:06](https://news.ycombinator.com/item?id=45840088) - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 20:20:23](https://news.ycombinator.com/item?id=45839901) - [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
 * [2025-11-06, 20:11:00](https://tech.slashdot.org/story/25/11/06/1920210/fbi-subpoenas-registrar-for-details-on-anonymous-archiving-site-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Subpoenas Registrar for Details on Anonymous Archiving Site Owner](https://tech.slashdot.org/story/25/11/06/1920210/fbi-subpoenas-registrar-for-details-on-anonymous-archiving-site-owner?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,10 +118,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-06, 17:35:00](https://tech.slashdot.org/story/25/11/06/1735215/automattic-inc-claims-it-owns-the-word-automatic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Automattic Inc. Claims It Owns the Word &apos;Automatic&apos;](https://tech.slashdot.org/story/25/11/06/1735215/automattic-inc-claims-it-owns-the-word-automatic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 17:04:41](https://news.ycombinator.com/item?id=45837425) - [The Parallel Search API](https://parallel.ai/blog/introducing-parallel-search)
 * [2025-11-06, 16:57:55](https://news.ycombinator.com/item?id=45837342) - [ICC ditches Microsoft 365 for openDesk](https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365)
-* [2025-11-06, 16:54:00](https://tech.slashdot.org/story/25/11/06/1654233/openai-cfo-says-company-isnt-seeking-government-backstop-clarifying-prior-comment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI CFO Says Company Isn&apos;t Seeking Government Backstop, Clarifying Prior Comment](https://tech.slashdot.org/story/25/11/06/1654233/openai-cfo-says-company-isnt-seeking-government-backstop-clarifying-prior-comment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 16:18:18](https://news.ycombinator.com/item?id=45836826) - [FBI tries to unmask owner of archive.is](https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html)
-* [2025-11-06, 16:12:00](https://news.slashdot.org/story/25/11/06/1612213/us-software-firm-sas-exits-china-after-25-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Software Firm SAS Exits China After 25 Years](https://news.slashdot.org/story/25/11/06/1612213/us-software-firm-sas-exits-china-after-25-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-06, 15:40:35](https://lobste.rs/s/whimuu/8pen_input_method_for_phones_2010) - [The 8pen input method for phones [2010]](https://www.youtube.com/watch?v=q3OuCR0EpGo)
 * [2025-11-06, 15:06:06](https://news.ycombinator.com/item?id=45836070) - [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
@@ -147,11 +157,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss) - [Las Vegas Police Debut the World&apos;s First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss) - [Tesla&apos;s ‘Robotaxis&apos; Keep Crashing-Even With Human ‘Safety Monitors&apos; Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss)
+* [2025-11-04, 09:02:49](https://news.ycombinator.com/item?id=45808863) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-04, 05:23:00](https://soylentnews.org/article.pl?sid=25/11/02/2011253&amp;from=rss) - [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&amp;from=rss)
 * [2025-11-04, 00:39:00](https://soylentnews.org/article.pl?sid=25/11/01/2010247&amp;from=rss) - [Cyber Exec with Lavish Lifestyle Charged with Selling Secrets to Russia](https://soylentnews.org/article.pl?sid=25/11/01/2010247&amp;from=rss)
 * [2025-11-03, 19:53:00](https://soylentnews.org/article.pl?sid=25/11/02/0832213&amp;from=rss) - [October&apos;s Research Roundup: 6 Cool Science Stories We Almost Missed](https://soylentnews.org/article.pl?sid=25/11/02/0832213&amp;from=rss)
 * [2025-11-03, 15:10:00](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss) - [Qilin Ransomware Abuses WSL to Run Linux Encryptors in Windows](https://soylentnews.org/article.pl?sid=25/11/01/2018214&amp;from=rss)
 * [2025-11-03, 10:25:00](https://soylentnews.org/article.pl?sid=25/11/02/0835217&amp;from=rss) - [Nvidia Hits Record $5 Trillion Mark as CEO Dismisses AI Bubble Concerns](https://soylentnews.org/article.pl?sid=25/11/02/0835217&amp;from=rss)
-* [2025-11-03, 07:57:48](https://news.ycombinator.com/item?id=45796820) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
 * [2025-11-03, 05:40:00](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss) - [Massive Surge of NFC Relay Malware Steals Europeans’ Credit Cards](https://soylentnews.org/article.pl?sid=25/11/01/1951249&amp;from=rss)
 * [2025-11-03, 01:00:00](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss) - [AI Review Paper Slop Changing Moderation Policy at arXiv CS](https://soylentnews.org/article.pl?sid=25/11/01/1944249&amp;from=rss)
