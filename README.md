@@ -1,48 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technology Innovations and Discoveries
 
-* [GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing) - Highlights the integration of bubblewrap to enhance sandboxing capabilities on NetBSD, showcasing efforts in secure computing.
+* [Bank of America Faces Lawsuit Over Alleged Unpaid Time for Windows Bootup, Logins, and Security Token Requests](https://tech.slashdot.org/story/25/11/08/0836254/bank-of-america-faces-lawsuit-over-alleged-unpaid-time-for-windows-bootup-logins-and-security-token-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion surrounds the implications of unpaid tech-related work time.
 
-* [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud) - This project proposes a Go-based alternative to Nextcloud that focuses on functionality and performance.
+* [Chan Zuckerberg Initiative Shifts Bulk of Philanthropy, 'Going All In on AI-Powered Biology'](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI-based approaches redefine the biosciences landscape.
 
-* [Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153) - Explores the potential of small language models in building more efficient agentic AI systems.
+* [Bombshell Report Exposes How Meta Relied On Scam Ad Profits To Fund AI](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns about ethical practices in AI funding emerge.
 
-* [Bootc for workstation use](https://lwn.net/SubscriberLink/1042708/90b68e222a964524/) - Provides insights into optimizing Bootc for workstation environments.
+* [Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153) - Investigation into the potential of smaller language models shaping AI developments.
 
-* [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi) - Snapchat introduces a UI framework for high performance and efficient development processes.
+* [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi) - Native design and high performance in UI frameworks.
 
-## AI and Big Tech
+* [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/) - Rediscovery of historical computing artifacts sparks interest.
 
-* [Bombshell Report Exposes How Meta Relied On Scam Ad Profits To Fund AI](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigates Meta's questionable funding tactics for AI innovation.
+* [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud) - Exploration of alternatives for cloud environment management.
 
-* [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/) - Critiques the reliability of AI benchmarks and the motivations behind them.
+## Health and Safety
 
-* [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/) - Examines Cloudflare's successful counteraction against a pervasive botnet threat.
+* [UPS (and FedEx) Ground Dozens of MD-11 Aircraft After Tuesday's Crash in Kentucky](https://tech.slashdot.org/story/25/11/08/0816223/ups-and-fedex-ground-dozens-of-md-11-aircraft-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Aviation companies tackle safety concerns head-on.
 
-## Social and Cultural Developments
+* [Study concludes cybersecurity training doesn’t work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - Reassessing effectiveness in cybersecurity education.
 
-* [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o) - A chilling investigation into the unintended consequences of chatbot interactions.
+* [Ticker: Don’t die of heart disease](https://myticker.com/) - Proactive methods for heart health management.
 
-* [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago) - Raises concerns over social media's role in encouraging reckless behaviors for online attention.
+* [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl) - Technology platforms face scrutiny over fair practices.
 
-* [Denmark's Government Aims To Ban Access To Social Media For Children Under 15](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Policy proposal to limit minors’ exposure to social media amidst safety and mental health concerns.
+## Unique Cultural and Social Developments
 
-## Historical and Scientific Discoveries
+* [LEGO Unveils First-Ever Star Trek Set](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A merger of pop culture and iconic brand innovation.
 
-* [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/) - An old tape containing Unix’s 4th edition potentially reveals rare insights into computing history.
+* [Humans have remote touch 'seventh sense' like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html) - Groundbreaking insights into human sensory capabilities.
 
-* [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss) - A tribute to groundbreaking scientific discoveries that redefined our understanding of the world.
+* ['Vibe Coding' Named Word of the Year By Collins Dictionary](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Language and technology converge in cultural evolution.
 
-* [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Commemorates the life of James D. Watson, co-discoverer of DNA’s structure.
+## Environmental Advocacy and Innovation
 
-## Industry and Consumer Trends
+* [World's Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://tech.slashdot.org/story/25/11/08/1759258/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant step forward in sustainable maritime practices.
 
-* [Japanese Volunteer Translators Quit After Mozilla Begins Using Translation Bot](https://tech.slashdot.org/story/25/11/08/0754249/japanese-volunteer-translators-quit-after-mozilla-begins-using-translation-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports on Mozilla’s transition to translation bots leading to a revolt among volunteers.
+* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - Renewable wind power aids global shipping transition.
 
-* [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - Reflects on controversial government surveillance and biometric collection policies.
-
-* [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails) - Details the shift towards more secure and immutable software deployment methods.
+* [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss) - Fascinating mathematical debates inspire environmental and philosophical dialogues.
 
 ---
 
@@ -69,30 +67,36 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-08, 21:34:00](https://tech.slashdot.org/story/25/11/08/0836254/bank-of-america-faces-lawsuit-over-alleged-unpaid-time-for-windows-bootup-logins-and-security-token-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bank of America Faces Lawsuit Over Alleged Unpaid Time for Windows Bootup, Logins, and Security Token Requests](https://tech.slashdot.org/story/25/11/08/0836254/bank-of-america-faces-lawsuit-over-alleged-unpaid-time-for-windows-bootup-logins-and-security-token-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 21:00:45](https://news.ycombinator.com/item?id=45859928) - [Humans have remote touch &apos;seventh sense&apos; like sandpipers](https://techxplore.com/news/2025-11-humans-remote-seventh-sandpipers.html)
+* [2025-11-08, 20:34:00](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chan Zuckerberg Initiative Shifts Bulk of Philanthropy, &apos;Going All In on AI-Powered Biology&apos;](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 19:47:26](https://news.ycombinator.com/item?id=45859402) - [I Want You to Understand Chicago](https://aphyr.com/posts/397-i-want-you-to-understand-chicago)
+* [2025-11-08, 19:34:00](https://tech.slashdot.org/story/25/11/08/1759258/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://tech.slashdot.org/story/25/11/08/1759258/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
+* [2025-11-08, 19:26:25](https://news.ycombinator.com/item?id=45859216) - [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
+* [2025-11-08, 19:18:18](https://news.ycombinator.com/item?id=45859160) - [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
 * [2025-11-08, 19:02:58](https://lobste.rs/s/ojxoor/gsoc_2025_reports_using_bubblewrap_add) - [GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
-* [2025-11-08, 18:53:01](https://news.ycombinator.com/item?id=45858967) - [The Medici Method](https://letter.palladiummag.com/p/early-article-the-medici-method)
+* [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
+* [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
 * [2025-11-08, 18:34:00](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bombshell Report Exposes How Meta Relied On Scam Ad Profits To Fund AI](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 18:34:00](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss) - [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss)
-* [2025-11-08, 17:34:39](https://news.ycombinator.com/item?id=45858404) - [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)
 * [2025-11-08, 17:34:00](https://tech.slashdot.org/story/25/11/08/0754249/japanese-volunteer-translators-quit-after-mozilla-begins-using-translation-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japanese Volunteer Translators Quit After Mozilla Begins Using Translation Bot](https://tech.slashdot.org/story/25/11/08/0754249/japanese-volunteer-translators-quit-after-mozilla-begins-using-translation-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 16:37:51](https://lobste.rs/s/sdc7ki/opencloud_alternative_nextcloud) - [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 16:34:00](https://tech.slashdot.org/story/25/11/08/0816223/ups-and-fedex-ground-dozens-of-md-11-aircraft-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UPS (and FedEx) Ground Dozens of MD-11 Aircraft After Tuesday&apos;s Crash in Kentucky](https://tech.slashdot.org/story/25/11/08/0816223/ups-and-fedex-ground-dozens-of-md-11-aircraft-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-08, 16:30:32](https://news.ycombinator.com/item?id=45857890) - [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o)
-* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
+* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare scrubs Aisuru botnet from top domains list](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 16:12:14](https://news.ycombinator.com/item?id=45857695) - [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
 * [2025-11-08, 15:34:59](https://lobste.rs/s/ogyjwm/local_first_htmx) - [Local First HTMX](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 15:34:00](https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Stratospheric&apos; AI Spending By Four Wealthy Companies Reaches $360B Just For Data Centers](https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 15:12:30](https://lobste.rs/s/44dgd7/small_language_models_are_future_agentic) - [Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153)
-* [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don&apos;t Die of Heart Disease](https://myticker.com/)
+* [2025-11-08, 14:59:05](https://news.ycombinator.com/item?id=45857053) - [Ticker: Don&apos;t die of heart disease](https://myticker.com/)
 * [2025-11-08, 14:58:03](https://news.ycombinator.com/item?id=45857045) - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
 * [2025-11-08, 14:50:51](https://news.ycombinator.com/item?id=45856987) - [Btop: A better modern alternative of htop with a gamified interface](https://github.com/aristocratos/btop)
-* [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
+* [2025-11-08, 14:18:22](https://news.ycombinator.com/item?id=45856804) - [Study identifies weaknesses in how AI systems are evaluated](https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/)
 * [2025-11-08, 13:48:00](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss) - [FuguIta 7.8 - OpenBSD-based Live System - Released!](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss)
 * [2025-11-08, 13:00:00](https://tech.slashdot.org/story/25/11/08/0241231/facebook-dating-is-a-surprise-hit-for-the-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facebook Dating Is a Surprise Hit For the Social Network](https://tech.slashdot.org/story/25/11/08/0241231/facebook-dating-is-a-surprise-hit-for-the-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 12:00:50](https://news.ycombinator.com/item?id=45856069) - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
 * [2025-11-08, 11:27:56](https://news.ycombinator.com/item?id=45855933) - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 * [2025-11-08, 11:27:34](https://lobste.rs/s/epolln/valdi_is_cross_platform_ui_framework) - [Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity](https://github.com/Snapchat/Valdi)
-* [2025-11-08, 11:24:43](https://news.ycombinator.com/item?id=45855918) - [Always Be Ready to Leave (Even If You Never Do)](https://andreacanton.dev/posts/2025-11-08-always-ready-to-leave/)
 * [2025-11-08, 10:33:39](https://lobste.rs/s/wbyo8d/jelly_slider) - [Jelly Slider](https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider)
 * [2025-11-08, 10:21:17](https://lobste.rs/s/zfoetk/profiling_tools_i_use_for_qemu_storage) - [Profiling tools I use for QEMU storage performance optimization](http://blog.vmsplice.net/2025/06/profiling-tools-i-use-for-qemu-storage.html)
 * [2025-11-08, 10:00:00](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Unesco Adopts Global Standards On &apos;Wild West&apos; Field of Neurotechnology](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,12 +113,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:20:00](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can&apos;t Leave Unless You Buy Something](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
-* [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
-* [2025-11-07, 23:40:00](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
-* [2025-11-07, 23:02:00](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gemini Starts Rolling Out On Android Auto](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 22:25:00](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Denmark&apos;s Government Aims To Ban Access To Social Media For Children Under 15](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 21:13:54](https://lobste.rs/s/ghkvqm/challenges_benefits_upgrading_sea) - [Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20](https://www.youtube.com/watch?v=Nm9-xKsZoNI)
 * [2025-11-07, 20:01:09](https://news.ycombinator.com/item?id=45850382) - [How did I get here?](https://how-did-i-get-here.net/)
 * [2025-11-07, 19:35:18](https://lobste.rs/s/bmen3e/from_milliamperes_microamperes_lessons) - [From Milliamperes to Microamperes: Lessons in Low-Power Gadgetmaking](https://www.crowdsupply.com/teardown/portland-2025/long-talk/from-milliamperes-to-microamperes-lessons-in-low-power-gadgetmaking)
