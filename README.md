@@ -1,44 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovative Technologies and Research Discoveries
+## Technological Innovations and Research
 
-* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss)
+* [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - Privacy concerns rise as U.S. government plans to expand biometric data collection.
 
-* [The First New Subsea Habitat In 40 Years Is About To Launch](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743) - Research explores simplifying consensus algorithms for greater democratic stability.
 
-* [Shell Grotto: England&apos;s mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
+* [Lego Unveils First-Ever Star Trek Set](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Popular toy brand Lego introduces its inaugural collaboration with the Star Trek franchise.
 
-## Significant Discoveries and Events
+* [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi) - Snapchat releases an innovative cross-platform UI framework.
 
-* [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The First New Subsea Habitat In 40 Years Is About To Launch](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cutting-edge subsea technology promises to revolutionize underwater exploration.
 
-* [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
+## Cultural and Linguistic Developments
 
-## AI and Machine Learning
+* [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tribute to the late renowned scientist, James D. Watson.
 
-* [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)
+* [&apos;Vibe Coding&apos; Named Word of the Year By Collins Dictionary](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linguistic evolution as 'Vibe Coding' gains recognition.
 
-* [AI&apos;s 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
+* [Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20](https://www.youtube.com/watch?v=Nm9-xKsZoNI) - Insights into adapting programming languages for gaming innovations.
 
-## Cybersecurity and Privacy
+## Privacy and Security in Technology
 
-* [Study Concludes Cybersecurity Training Doesn&apos;t Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss)
-
-* [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Language and Development Insights
-
-* [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
-
-* [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
-
-* [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
-
-## Technical and Scientific Innovations
-
-* [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
-
-* [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
+* [Apple&apos;s \
 
 ---
 
@@ -65,8 +49,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-08, 09:06:00](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss)
+* [2025-11-08, 07:29:35](https://news.ycombinator.com/item?id=45854862) - [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743)
+* [2025-11-08, 07:00:00](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lego Unveils First-Ever Star Trek Set](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 05:37:08](https://news.ycombinator.com/item?id=45854441) - [Apple&apos;s \&quot;notarisation\&quot; – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
 * [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - [Study Concludes Cybersecurity Training Doesn&apos;t Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss)
-* [2025-11-08, 03:54:30](https://news.ycombinator.com/item?id=45853995) - [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/)
 * [2025-11-08, 03:30:00](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The First New Subsea Habitat In 40 Years Is About To Launch](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 02:27:48](https://news.ycombinator.com/item?id=45853536) - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 02:20:00](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Vibe Coding&apos; Named Word of the Year By Collins Dictionary](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -74,19 +61,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-08, 01:40:00](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 01:18:12](https://news.ycombinator.com/item?id=45853204) - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 * [2025-11-08, 01:00:00](https://games.slashdot.org/story/25/11/07/2319237/nintendo-has-too-many-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Nintendo Has Too Many Apps&apos;](https://games.slashdot.org/story/25/11/07/2319237/nintendo-has-too-many-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:20:00](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can&apos;t Leave Unless You Buy Something](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
 * [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
-* [2025-11-07, 23:42:01](https://news.ycombinator.com/item?id=45852642) - [Analysis of Hedy Lamarr&apos;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 * [2025-11-07, 23:40:00](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 23:02:00](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gemini Starts Rolling Out On Android Auto](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 22:35:28](https://news.ycombinator.com/item?id=45852029) - [How a devboard works (and how to make your own)](https://kaipereira.com/journal/build-a-devboard)
 * [2025-11-07, 22:25:00](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Denmark&apos;s Government Aims To Ban Access To Social Media For Children Under 15](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 22:13:37](https://news.ycombinator.com/item?id=45851786) - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/)
 * [2025-11-07, 21:45:03](https://news.ycombinator.com/item?id=45851495) - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
 * [2025-11-07, 21:22:00](https://slashdot.org/story/25/11/07/1912220/states-seek-extension-of-ecommerce-tariff-moratorium-at-wto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [States Seek Extension of Ecommerce Tariff Moratorium at WTO](https://slashdot.org/story/25/11/07/1912220/states-seek-extension-of-ecommerce-tariff-moratorium-at-wto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 21:13:54](https://lobste.rs/s/ghkvqm/challenges_benefits_upgrading_sea) - [Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20](https://www.youtube.com/watch?v=Nm9-xKsZoNI)
@@ -108,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-07, 18:27:36](https://news.ycombinator.com/item?id=45849342) - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-07, 18:05:00](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Brazil Cracks Down on Forest Clearing, Emissions Fall](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 17:48:24](https://lobste.rs/s/bxhftq/weird_parts_position_sticky) - [The Weird Parts of position: sticky](https://frontendmasters.com/blog/the-weird-parts-of-position-sticky/)
-* [2025-11-07, 17:21:00](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Corporate Profits Surge as Companies Cut Nearly 1 Million Jobs](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
@@ -116,6 +99,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss)
 * [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 14:05:14](https://lobste.rs/s/aow9dx/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow-software-for-a-burning-world/)
+* [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I&apos;m making a small RPG and I need feeback regarding performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
 * [2025-11-07, 12:06:33](https://lobste.rs/s/gym0ir/build_clojurescript_native_desktop_app_5) - [Build a ClojureScript native desktop app in 5 minutes](https://www.youtube.com/watch?v=uEVo8rqJgyw)
 * [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)
@@ -145,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-05, 00:22:00](https://soylentnews.org/article.pl?sid=25/11/03/0150212&amp;from=rss) - [Company Remote Kills Robo Vacuum](https://soylentnews.org/article.pl?sid=25/11/03/0150212&amp;from=rss)
 * [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss) - [Las Vegas Police Debut the World&apos;s First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss)
-* [2025-11-04, 11:27:59](https://news.ycombinator.com/item?id=45809746) - [Shell Grotto: England&apos;s mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
 * [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, abstraction, performance (2018)](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss) - [Tesla&apos;s ‘Robotaxis&apos; Keep Crashing-Even With Human ‘Safety Monitors&apos; Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
