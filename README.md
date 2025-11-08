@@ -1,42 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Software Developments
+## Technology Innovations and Discoveries
 
-* [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails) - Exploring Immutable Software deployment using ZFS Jails on FreeBSD for safer updates.
+* [The First New Subsea Habitat In 40 Years Is About To Launch](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major leap in underwater research with the upcoming launch of a subsea habitat, the first in four decades.
 
-* [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi) - Snapchat unveils Valdi, a versatile open-source UI framework.
+* [Vibe Coding Named Word of the Year By Collins Dictionary](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting a new buzzword in tech and programming culture.
 
-* [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html) - Google's faster and smarter Magika tool celebrates its Rust-based rebuild.
+* [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta) - A leading VPN provider phases out its search proxy project.
 
-* [Build a ClojureScript native desktop app in 5 minutes](https://www.youtube.com/watch?v=uEVo8rqJgyw) - Demonstrating rapid app development using ClojureScript.
+* [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi) - Snapchat opens up its innovative UI framework, Valdi, to the community.
 
-* [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/) - Reflecting on the uniqueness of OCaml for functional programming.
+* [Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4) - Reflection on the lasting impact of Hedy Lamarr's groundbreaking work on communication technology.
 
-## AI and Advanced Scientific Insights
+* [Gemini Starts Rolling Out On Android Auto](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Gemini technology becomes a reality for Android Auto users.
 
-* [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464) - A groundbreaking study on mind captioning using brain activity.
+* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&from=rss) - Exploring the use of organic materials, like mushrooms, for creating computing systems.
 
-* [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani) - Analyzing performance inefficiencies in widespread AI adoption.
+## Social and Cultural Developments
 
-* [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss) - A historical look at transformative scientific breakthroughs.
+* [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html) - A shifting demographic landscape in the US, with implications for future policies.
+
+* [Denmark's Government Aims To Ban Access To Social Media For Children Under 15](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Denmark takes steps to protect young users by potentially restricting social media access.
+
+* [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal action against Roblox raises ethical and safety concerns.
+
+* [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/) - An exploration into focused design testing for improved usability.
+
+* [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&from=rss) - Public uproar forces reevaluation of controversial control measures.
 
 ## Gaming and Entertainment
 
-* [Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20](https://www.youtube.com/watch?v=Nm9-xKsZoNI) - The technical gains and hurdles of upgrading Sea of Thieves' codebase.
+* [Nintendo Has Too Many Apps](https://games.slashdot.org/story/25/11/07/2319237/nintendo-has-too-many-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical look at Nintendo's strategy in the app ecosystem.
 
-* [Video Games' Hottest New Platform is an Old One](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rediscovering retro gaming platforms as a modern trend.
+* [Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20](https://www.youtube.com/watch?v=Nm9-xKsZoNI) - Behind the technical upgrade of a popular online multiplayer game.
 
-## Environmental Efforts and Global Impact
+* [Video Games' Hottest New Platform is an Old One](https://games.slashdot.org/story/25/11/07/194204/video-games-hottest-new-platform-is-an-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining how an older platform makes a comeback in gaming.
 
-* [As Brazil Cracks Down on Forest Clearing, Emissions Fall](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Brazil's enforcement of forest preservation contributes to reduced emissions.
+* [macOS Tahoe's Terrible Icons](https://apple.slashdot.org/story/25/11/07/1753228/macos-tahoes-terrible-icons?utm_source=rss1.0mainlinkanon&utm_medium=feed) - User dissatisfaction with Apple's macOS Tahoe interface design.
 
-* [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&amp;from=rss) - An accessibility initiative mandating sound cues in electric vehicles.
+* [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer) - A developer’s journey sharing insights on the niche field of compiler engineering.
 
-## Legal Actions and Policies
+## Environmental and Scientific Advancements
 
-* [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations against Roblox over child safety concerns.
+* [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Paying tribute to a pioneering scientist in molecular biology.
 
-* [Denmark's Government Aims To Ban Access To Social Media For Children Under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4) - Denmark's bold proposal restricting social media usage among children.
+* [As Brazil Cracks Down on Forest Clearing, Emissions Fall](https://news.slashdot.org/story/25/11/07/1747253/as-brazil-cracks-down-on-forest-clearing-emissions-fall?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Positive impact of Brazilian policy on reducing emissions.
+
+* [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&from=rss) - New measures to improve safety for visually impaired pedestrians.
+
+* [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss) - A celebration of transformative scientific milestones.
+
+* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&from=rss) - A groundbreaking achievement in sustainable shipping technology.
 
 ---
 
@@ -63,20 +77,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-08, 03:30:00](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The First New Subsea Habitat In 40 Years Is About To Launch](https://science.slashdot.org/story/25/11/08/0215248/the-first-new-subsea-habitat-in-40-years-is-about-to-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 02:20:00](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Vibe Coding&apos; Named Word of the Year By Collins Dictionary](https://slashdot.org/story/25/11/08/0155228/vibe-coding-named-word-of-the-year-by-collins-dictionary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 01:40:45](https://lobste.rs/s/1fa70r/bootc_for_workstation_use) - [Bootc for workstation use](https://lwn.net/SubscriberLink/1042708/90b68e222a964524/)
+* [2025-11-08, 01:40:00](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [James D. Watson, Co-Discoverer of the Structure of DNA, Is Dead At 97](https://science.slashdot.org/story/25/11/07/2314257/james-d-watson-co-discoverer-of-the-structure-of-dna-is-dead-at-97?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 01:07:26](https://news.ycombinator.com/item?id=45853155) - [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
 * [2025-11-08, 01:00:00](https://games.slashdot.org/story/25/11/07/2319237/nintendo-has-too-many-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Nintendo Has Too Many Apps&apos;](https://games.slashdot.org/story/25/11/07/2319237/nintendo-has-too-many-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 00:37:36](https://news.ycombinator.com/item?id=45852974) - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 * [2025-11-08, 00:21:45](https://news.ycombinator.com/item?id=45852895) - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
 * [2025-11-08, 00:20:00](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can&apos;t Leave Unless You Buy Something](https://news.slashdot.org/story/25/11/07/238257/you-cant-leave-unless-you-buy-something?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-08, 00:15:16](https://news.ycombinator.com/item?id=45852859) - [The Boss Has a Message: Use AI or You&apos;re Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
+* [2025-11-08, 00:00:27](https://news.ycombinator.com/item?id=45852751) - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
 * [2025-11-07, 23:42:01](https://news.ycombinator.com/item?id=45852642) - [Analysis of Hedy Lamarr&apos;s Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4)
 * [2025-11-07, 23:40:00](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Sues Roblox For Allegedly Failing To Protect Children On Its Platform](https://yro.slashdot.org/story/25/11/07/232253/texas-sues-roblox-for-allegedly-failing-to-protect-children-on-its-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
-* [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
+* [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2025-11-07, 23:02:00](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gemini Starts Rolling Out On Android Auto](https://tech.slashdot.org/story/25/11/07/2256226/gemini-starts-rolling-out-on-android-auto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
-* [2025-11-07, 22:57:18](https://news.ycombinator.com/item?id=45852257) - [Mind captioning: Evolving descriptive text of mental content of brain activity](https://www.science.org/doi/10.1126/sciadv.adw1464)
+* [2025-11-07, 22:59:04](https://news.ycombinator.com/item?id=45852275) - [FAA to restrict commercial rocket launches to overnight hours](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
 * [2025-11-07, 22:35:28](https://news.ycombinator.com/item?id=45852029) - [How a devboard works (and how to make your own)](https://kaipereira.com/journal/build-a-devboard)
 * [2025-11-07, 22:34:15](https://news.ycombinator.com/item?id=45852011) - [He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010)](https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content)
 * [2025-11-07, 22:25:00](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Denmark&apos;s Government Aims To Ban Access To Social Media For Children Under 15](https://tech.slashdot.org/story/25/11/07/2223206/denmarks-government-aims-to-ban-access-to-social-media-for-children-under-15?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -104,15 +121,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-07, 17:48:24](https://lobste.rs/s/bxhftq/weird_parts_position_sticky) - [The Weird Parts of position: sticky](https://frontendmasters.com/blog/the-weird-parts-of-position-sticky/)
 * [2025-11-07, 17:21:00](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Corporate Profits Surge as Companies Cut Nearly 1 Million Jobs](https://slashdot.org/story/25/11/07/1725230/corporate-profits-surge-as-companies-cut-nearly-1-million-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 17:03:30](https://news.ycombinator.com/item?id=45848468) - [Angel Investors, a Field Guide](https://www.jeanyang.com/posts/angel-investors-a-field-guide/)
-* [2025-11-07, 16:49:00](https://slashdot.org/story/25/11/07/1649221/amazon-takes-low-cost-ecommerce-service-global?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Takes Low-Cost Ecommerce Service Global](https://slashdot.org/story/25/11/07/1649221/amazon-takes-low-cost-ecommerce-service-global?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 16:28:31](https://news.ycombinator.com/item?id=45848083) - [Denmark&apos;s government aims to ban access to social media for children under 15](https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
-* [2025-11-07, 16:02:00](https://tech.slashdot.org/story/25/11/07/1432254/rideshare-giant-grab-moves-200-macs-out-of-the-cloud-expects-to-save-24-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rideshare Giant Grab Moves 200 Macs Out of the Cloud, Expects To Save $2.4 Million](https://tech.slashdot.org/story/25/11/07/1432254/rideshare-giant-grab-moves-200-macs-out-of-the-cloud-expects-to-save-24-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-07, 15:21:00](https://tech.slashdot.org/story/25/11/07/1414219/polymarket-volume-inflated-by-artificial-activity-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Polymarket Volume Inflated by &apos;Artificial&apos; Activity, Study Finds](https://tech.slashdot.org/story/25/11/07/1414219/polymarket-volume-inflated-by-artificial-activity-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss)
-* [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
+* [2025-11-07, 14:05:49](https://news.ycombinator.com/item?id=45846517) - [Why I love OCaml (2023)](https://mccd.space/posts/ocaml-the-worlds-best/)
 * [2025-11-07, 14:05:14](https://lobste.rs/s/aow9dx/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow-software-for-a-burning-world/)
 * [2025-11-07, 13:52:39](https://news.ycombinator.com/item?id=45846360) - [I&apos;m making a small RPG and I need feeback regarding performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
@@ -145,7 +158,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-04, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss) - [Matrix Collapses: Mathematics Proves the Universe Cannot be a Computer Simulation](https://soylentnews.org/article.pl?sid=25/11/03/0140258&amp;from=rss)
 * [2025-11-04, 14:52:00](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss) - [Las Vegas Police Debut the World&apos;s First Tesla Cybertruck Patrol Fleet](https://soylentnews.org/article.pl?sid=25/11/03/0135217&amp;from=rss)
 * [2025-11-04, 11:27:59](https://news.ycombinator.com/item?id=45809746) - [Shell Grotto: England&apos;s mysterious underground seashell chamber](https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html)
-* [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, Abstraction, Performance](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
+* [2025-11-04, 10:32:26](https://news.ycombinator.com/item?id=45809429) - [Transducer: Composition, abstraction, performance (2018)](https://funktionale-programmierung.de/en/2018/03/22/transducer.html)
 * [2025-11-04, 10:08:00](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss) - [Tesla&apos;s ‘Robotaxis&apos; Keep Crashing-Even With Human ‘Safety Monitors&apos; Onboard](https://soylentnews.org/article.pl?sid=25/11/02/2015201&amp;from=rss)
 * [2025-11-04, 09:27:57](https://news.ycombinator.com/item?id=45809007) - [Venn Diagram for 7 Sets](https://moebio.com/research/sevensets/)
 * [2025-11-04, 05:23:00](https://soylentnews.org/article.pl?sid=25/11/02/2011253&amp;from=rss) - [Once Again, Chat Control Flails After Strong Public Pressure](https://soylentnews.org/article.pl?sid=25/11/02/2011253&amp;from=rss)
