@@ -1,28 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Advancements
+## Technology and Software
 
-* [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss) - Nvidia partners with the Department of Energy to construct advanced AI supercomputers.
+* [Imperative to relational](https://madhadron.com/imperative_to_relational.html) explores the conversion of imperative programming workflows to relational paradigms. [Comments](https://lobste.rs/s/cxbkzm/imperative_relational)
 
-* [Did ChatGPT Conversations Leak... Into Google Search Console Results?](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating alleged data leaks from ChatGPT into Google's platform.
+* [Building a vector search engine that lets you choose precision at query time](https://clickhouse.com/blog/qbit-vector-search) delves into the design and flexibility of a modern vector search engine. [Comments](https://lobste.rs/s/xhrbh0/building_vector_search_engine_lets_you)
 
-* [Bombshell Report Exposes How Meta Relied On Scam Ad Profits To Fund AI](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigative report on Meta's funding practices for AI.
+* [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/) showcases advancements in kernel development and verification. [Comments](https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like)
 
-* [Stratospheric AI Spending By Four Wealthy Companies Reaches $360B Just For Data Centers](https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of significant investments being made in AI infrastructure.
+* [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/) introduces a tool that helps developers create visual representations of FastAPI endpoints. [Comments](https://news.ycombinator.com/item?id=45865049)
 
-* [Chan Zuckerberg Initiative Shifts Bulk of Philanthropy, 'Going All In on AI-Powered Biology'](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting advances and funding shifts towards AI-driven biological research.
+* [Why I don't love Rust (either) (2021)](https://cbarrete.com/rust-bad.html) provides a critical perspective on the Rust programming language. [Comments](https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either_2021)
 
-## Programming and Software Developments
+## AI and Computational Research
 
-* [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/) - A guide on creating CI/CD pipelines in Python.
+* [Did ChatGPT Conversations Leak... Into Google Search Console Results?](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores the potential unintended effect of AI conversations showing up in search results. [Comments](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [debugging BeagleBoard USB boot with a sniffer](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs) - Fixing omap_loader from BeagleBoard USB operations.
+* [Valori – A Python-native Vector Database I built from scratch](https://news.ycombinator.com/item?id=45864900) shares insights on building a custom vector database in Python. [Comments](https://news.ycombinator.com/item?id=45864900)
 
-* [Trait-Constrained Enums in Rust](https://kcsongor.github.io/gadts-in-rust/) - Exploring specific Rust programming disciplines.
+* [Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153) discusses advancements in smaller, more efficient AI models. [Comments](https://lobste.rs/s/44dgd7/small_language_models_are_future_agentic)
 
-* [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi) - Performance-focused development for cross platforms.
+## Gaming and Media
 
-* [Why I don't love Rust](https://cbarrete.com/rust-bad.html) - Insightful critique tackling Rust effectiveness over adoption
+* [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/) recounts efforts in preserving and modernizing early Unix games. [Comments](https://news.ycombinator.com/item?id=45865159)
+
+* [Breaking Bad Creator Hates AI, Promises New Show 'Pluribus' Was 'Made By Humans'](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed) delves into the entertainment industry's conversation around AI's role in content creation. [Comments](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Hilarious Unused Audio From 2003 Baseball Game Rediscovered by Video Game History Foundation](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&utm_medium=feed) uncovers hidden audio treasures from a classic video game. [Comments](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Hardware and Engineering
+
+* [Largest cargo sailboat completes first Atlantic crossing](https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/) highlights a milestone in sustainable shipping methods. [Comments](https://news.ycombinator.com/item?id=45859471)
+
+* [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss) discusses Nvidia's commitment to developing infrastructure for scientific research. [Comments](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss)
+
+## Society and Ethics
+
+* [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory) investigates concerning trends in cognitive health among younger populations. [Comments](https://news.ycombinator.com/item?id=45863057)
+
+* [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&from=rss) raises questions about the financial sustainability of AI development amid potential downturns. [Comments](https://soylentnews.org/article.pl?sid=25/11/06/0735234&from=rss)
+
+* [Unesco Adopts Global Standards On 'Wild West' Field of Neurotechnology](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&utm_medium=feed) reviews regulatory shifts in the exciting but risky field of neurotechnology. [Comments](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Nostalgia and Retrospectives
+
+* [Forth - is it still relevant?](https://github.com/chochain/eforth) explores the enduring significance of the Forth programming language. [Comments](https://lobste.rs/s/qx9qot/forth_is_it_still_relevant)
+
+* [IRIX Introduction](http://www.sgistuff.net/software/irixintro/index.html) provides a beginner's overview of the legacy IRIX operating system. [Comments](https://news.ycombinator.com/item?id=45862071)
+
+* [The Ofcom Files, Part 2: IP Blocking the UK is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/) critiques recent digital safety legislation. [Comments](https://lobste.rs/s/bcyczw/ofcom_files_part_2_ip_blocking_uk_is_not)
 
 ---
 
@@ -49,6 +75,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-09, 12:48:17](https://lobste.rs/s/cxbkzm/imperative_relational) - [Imperative to relational](https://madhadron.com/imperative_to_relational.html)
+* [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
+* [2025-11-09, 12:34:00](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hilarious Unused Audio From 2003 Baseball Game Rediscovered by Video Game History Foundation](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-09, 12:33:38](https://news.ycombinator.com/item?id=45865098) - [Alive Internet Theory](https://alivetheory.net/)
+* [2025-11-09, 12:25:12](https://lobste.rs/s/xhrbh0/building_vector_search_engine_lets_you) - [Building a vector search engine that lets you choose precision at query time](https://clickhouse.com/blog/qbit-vector-search)
+* [2025-11-09, 12:24:50](https://news.ycombinator.com/item?id=45865049) - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+* [2025-11-09, 11:52:18](https://news.ycombinator.com/item?id=45864900) - [Valori – A Python-native Vector Database I built from scratch](https://news.ycombinator.com/item?id=45864900)
+* [2025-11-09, 09:52:26](https://lobste.rs/s/qx9qot/forth_is_it_still_relevant) - [Forth - is it still relevant?](https://github.com/chochain/eforth)
 * [2025-11-09, 08:46:00](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss) - [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss)
 * [2025-11-09, 08:34:00](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did ChatGPT Conversations Leak... Into Google Search Console Results?](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 07:48:50](https://lobste.rs/s/wktw2e/how_many_options_fit_into_boolean) - [How many options fit into a boolean?](https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/)
@@ -57,29 +91,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-09, 05:05:20](https://news.ycombinator.com/item?id=45863057) - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 * [2025-11-09, 04:59:19](https://news.ycombinator.com/item?id=45863024) - [Forth – is it still relevant?](https://github.com/chochain/eforth)
 * [2025-11-09, 04:54:56](https://lobste.rs/s/xylb9v/building_ci_cd_pipeline_runner_from) - [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
-* [2025-11-09, 04:47:27](https://news.ycombinator.com/item?id=45862967) - [Runc breaks pods when CPU requests aren&apos;t multiples of 10](https://github.com/opencontainers/runc/issues/4982)
 * [2025-11-09, 04:34:00](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Breaking Bad&apos; Creator Hates AI, Promises New Show &apos;Pluribus&apos; Was &apos;Made By Humans&apos;](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 04:16:37](https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like) - [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/)
 * [2025-11-09, 04:10:06](https://news.ycombinator.com/item?id=45862833) - [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 * [2025-11-09, 04:10:00](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss) - [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss)
-* [2025-11-09, 04:08:51](https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either) - [Why I don&apos;t love Rust (either)](https://cbarrete.com/rust-bad.html)
+* [2025-11-09, 04:08:51](https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either_2021) - [Why I don&apos;t love Rust (either) (2021)](https://cbarrete.com/rust-bad.html)
 * [2025-11-09, 04:02:47](https://news.ycombinator.com/item?id=45862802) - [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
-* [2025-11-09, 03:15:33](https://news.ycombinator.com/item?id=45862591) - [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
 * [2025-11-09, 03:15:20](https://lobste.rs/s/bcyczw/ofcom_files_part_2_ip_blocking_uk_is_not) - [The Ofcom Files, Part 2: IP Blocking the UK is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
 * [2025-11-09, 02:59:58](https://news.ycombinator.com/item?id=45862500) - [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/)
 * [2025-11-09, 02:53:45](https://news.ycombinator.com/item?id=45862470) - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
 * [2025-11-09, 02:34:00](https://news.slashdot.org/story/25/11/08/2136253/new-firefox-mascot-kit-unveiled-on-new-web-page?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Firefox Mascot &apos;Kit&apos; Unveiled On New Web Page](https://news.slashdot.org/story/25/11/08/2136253/new-firefox-mascot-kit-unveiled-on-new-web-page?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 01:33:43](https://news.ycombinator.com/item?id=45862071) - [IRIX Introduction](http://www.sgistuff.net/software/irixintro/index.html)
-* [2025-11-09, 01:19:00](https://news.ycombinator.com/item?id=45861984) - [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
 * [2025-11-09, 00:55:47](https://lobste.rs/s/jf65nn/fixing_biggest_problem_with_mechanical) - [Fixing the Biggest Problem With Mechanical Keyboards](https://youtu.be/N3FEv1qw4_w)
-* [2025-11-09, 00:53:07](https://news.ycombinator.com/item?id=45861829) - [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
 * [2025-11-08, 23:43:11](https://lobste.rs/s/qvajex/trait_constrained_enums_rust) - [Trait-Constrained Enums in Rust](https://kcsongor.github.io/gadts-in-rust/)
 * [2025-11-08, 23:34:00](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Common Crawl Criticized for &apos;Quietly Funneling Paywalled Articles to AI Developers&apos;](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 23:18:00](https://soylentnews.org/article.pl?sid=25/11/06/0740218&amp;from=rss) - [Does Academia Need a Wake Up Call on Wikibooks?](https://soylentnews.org/article.pl?sid=25/11/06/0740218&amp;from=rss)
-* [2025-11-08, 23:17:43](https://lobste.rs/s/mfglpw/dijkstra_s_algorithm_js) - [Dijkstra’s Algorithm in JS](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/graph/dijkstra/README.md)
 * [2025-11-08, 23:03:10](https://news.ycombinator.com/item?id=45860843) - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 * [2025-11-08, 22:34:00](https://science.slashdot.org/story/25/11/08/2021211/scientists-edit-gene-in-15-patients-that-may-permanently-reduce-high-cholesterol?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Edit Gene in 15 Patients That May Permanently Reduce High Cholesterol](https://science.slashdot.org/story/25/11/08/2021211/scientists-edit-gene-in-15-patients-that-may-permanently-reduce-high-cholesterol?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-08, 22:30:58](https://news.ycombinator.com/item?id=45860638) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
 * [2025-11-08, 22:28:16](https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
 * [2025-11-08, 21:34:00](https://tech.slashdot.org/story/25/11/08/0836254/bank-of-america-faces-lawsuit-over-alleged-unpaid-time-for-windows-bootup-logins-and-security-token-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bank of America Faces Lawsuit Over Alleged Unpaid Time for Windows Bootup, Logins, and Security Token Requests](https://tech.slashdot.org/story/25/11/08/0836254/bank-of-america-faces-lawsuit-over-alleged-unpaid-time-for-windows-bootup-logins-and-security-token-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 20:34:00](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chan Zuckerberg Initiative Shifts Bulk of Philanthropy, &apos;Going All In on AI-Powered Biology&apos;](https://science.slashdot.org/story/25/11/08/0735217/chan-zuckerberg-initiative-shifts-bulk-of-philanthropy-going-all-in-on-ai-powered-biology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,14 +115,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-08, 19:34:00](https://tech.slashdot.org/story/25/11/08/1759258/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s Largest Cargo Sailboat Completes Historic First Atlantic Crossing](https://tech.slashdot.org/story/25/11/08/1759258/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 19:29:44](https://news.ycombinator.com/item?id=45859243) - [Avería: The Average Font (2011)](http://iotic.com/averia/)
 * [2025-11-08, 19:02:58](https://lobste.rs/s/ojxoor/gsoc_2025_reports_using_bubblewrap_add) - [GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
-* [2025-11-08, 18:49:47](https://news.ycombinator.com/item?id=45858945) - [WriterdeckOS](https://writerdeckos.com)
 * [2025-11-08, 18:43:55](https://news.ycombinator.com/item?id=45858905) - [Marko – A declarative, HTML‑based language](https://markojs.com/)
 * [2025-11-08, 18:34:00](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bombshell Report Exposes How Meta Relied On Scam Ad Profits To Fund AI](https://tech.slashdot.org/story/25/11/08/0653232/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 18:34:00](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss) - [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss)
 * [2025-11-08, 17:34:00](https://tech.slashdot.org/story/25/11/08/0754249/japanese-volunteer-translators-quit-after-mozilla-begins-using-translation-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japanese Volunteer Translators Quit After Mozilla Begins Using Translation Bot](https://tech.slashdot.org/story/25/11/08/0754249/japanese-volunteer-translators-quit-after-mozilla-begins-using-translation-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-08, 16:40:12](https://news.ycombinator.com/item?id=45857988) - [Opencloud – An alternative to Nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 16:37:51](https://lobste.rs/s/sdc7ki/opencloud_alternative_nextcloud) - [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 16:34:00](https://tech.slashdot.org/story/25/11/08/0816223/ups-and-fedex-ground-dozens-of-md-11-aircraft-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UPS (and FedEx) Ground Dozens of MD-11 Aircraft After Tuesday&apos;s Crash in Kentucky](https://tech.slashdot.org/story/25/11/08/0816223/ups-and-fedex-ground-dozens-of-md-11-aircraft-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-08, 16:25:41](https://news.ycombinator.com/item?id=45857836) - [Cloudflare scrubs Aisuru botnet from top domains list](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
 * [2025-11-08, 15:34:59](https://lobste.rs/s/ogyjwm/local_first_htmx) - [Local First HTMX](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 15:34:00](https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Stratospheric&apos; AI Spending By Four Wealthy Companies Reaches $360B Just For Data Centers](https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 15:12:30](https://lobste.rs/s/44dgd7/small_language_models_are_future_agentic) - [Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153)
@@ -106,16 +133,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-08, 10:21:17](https://lobste.rs/s/zfoetk/profiling_tools_i_use_for_qemu_storage) - [Profiling tools I use for QEMU storage performance optimization](http://blog.vmsplice.net/2025/06/profiling-tools-i-use-for-qemu-storage.html)
 * [2025-11-08, 10:00:00](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Unesco Adopts Global Standards On &apos;Wild West&apos; Field of Neurotechnology](https://science.slashdot.org/story/25/11/08/0232221/unesco-adopts-global-standards-on-wild-west-field-of-neurotechnology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 09:06:00](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss)
-* [2025-11-08, 07:00:00](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lego Unveils First-Ever Star Trek Set](https://games.slashdot.org/story/25/11/08/0226233/lego-unveils-first-ever-star-trek-set?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - [Study Concludes Cybersecurity Training Doesn&apos;t Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss)
 * [2025-11-08, 01:40:45](https://lobste.rs/s/1fa70r/bootc_for_workstation_use) - [Bootc for workstation use](https://lwn.net/SubscriberLink/1042708/90b68e222a964524/)
 * [2025-11-08, 00:14:50](https://news.ycombinator.com/item?id=45852854) - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
 * [2025-11-07, 23:04:39](https://news.ycombinator.com/item?id=45852328) - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
-* [2025-11-07, 19:35:18](https://lobste.rs/s/bmen3e/from_milliamperes_microamperes_lessons) - [From Milliamperes to Microamperes: Lessons in Low-Power Gadgetmaking](https://www.crowdsupply.com/teardown/portland-2025/long-talk/from-milliamperes-to-microamperes-lessons-in-low-power-gadgetmaking)
 * [2025-11-07, 19:27:56](https://lobste.rs/s/9p9dup/why_nextcloud_feels_slow_use) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 * [2025-11-07, 19:15:34](https://lobste.rs/s/scwreg/ffmpeg_assembly_language_lessons) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
-* [2025-11-07, 19:10:22](https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem) - [The state of the Rust dependency ecosystem](https://00f.net/2025/10/17/state-of-the-rust-ecosystem/)
 * [2025-11-07, 18:53:00](https://soylentnews.org/article.pl?sid=25/11/06/0311253&amp;from=rss) - [LM8560, the Eternal Chip From the 1980 Years](https://soylentnews.org/article.pl?sid=25/11/06/0311253&amp;from=rss)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss)
