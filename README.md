@@ -1,32 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Innovations
+## Space Exploration and Astronomy
 
-* [NVIDIA Connects AI GPUs to Early Quantum Processors](https://hardware.slashdot.org/story/25/11/10/0648228/nvidia-connects-ai-gpus-to-early-quantum-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NVIDIA's integration of AI GPUs with quantum processors may redefine computational approaches and inspire novel innovations. [Comments](https://hardware.slashdot.org/story/25/11/10/0648228/nvidia-connects-ai-gpus-to-early-quantum-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss) - Highlights a novel approach to studying the universe's unseen components.
 
-* [Rust Foundation Announces 'Maintainers Fund' to Ensure Continuity and Support Long-Term Roles](https://developers.slashdot.org/story/25/11/10/0552217/rust-foundation-announces-maintainers-fund-to-ensure-continuity-and-support-long-term-roles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new initiative by the Rust Foundation emphasizes sustainability and support for software maintainers. [Comments](https://developers.slashdot.org/story/25/11/10/0552217/rust-foundation-announces-maintainers-fund-to-ensure-continuity-and-support-long-term-roles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [What&apos;s the Best Ways for Humans to Explore Space?](https://science.slashdot.org/story/25/11/10/0215252/whats-the-best-ways-for-humans-to-explore-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses the most effective methodologies for space exploration.
 
-* [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/) - A groundbreaking law granting citizens the right to execute preferred software on personal devices. [Comments](https://news.ycombinator.com/item?id=45865289)
+## Technological Innovations
 
-## Cultural and Historical Features
+* [NVIDIA Connects AI GPUs to Early Quantum Processors](https://hardware.slashdot.org/story/25/11/10/0648228/nvidia-connects-ai-gpus-to-early-quantum-processors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NVIDIA integrates AI GPUs with quantum processors to enhance computing capabilities.
 
-* [The Mozilla Museum (2000)](https://home.snafu.de/tilman/mozilla/) - A nostalgic glimpse into Mozilla's early days takes visitors back in time. [Comments](https://lobste.rs/s/ktf9p0/mozilla_museum_2000)
+* [Rust Foundation Announces &apos;Maintainers Fund&apos; to Ensure Continuity and Support Long-Term Roles](https://developers.slashdot.org/story/25/11/10/0552217/rust-foundation-announces-maintainers-fund-to-ensure-continuity-and-support-long-term-roles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Introduces a new fund for sustaining open-source contribution in the Rust ecosystem.
 
-* [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/) - Celebrating retro gaming, this article revisits the Sega Master System’s enduring legacy. [Comments](https://news.ycombinator.com/item?id=45868259)
+## Historical and Cultural Discoveries
 
-* [Lost Unix v4 Possibly Recovered on a Forgotten Bell Labs Tape From 1973](https://tech.slashdot.org/story/25/11/09/0528258/lost-unix-v4-possibly-recovered-on-a-forgotten-bell-labs-tape-from-1973?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major discovery preserves computing history with the recovery of Unix v4. [Comments](https://tech.slashdot.org/story/25/11/09/0528258/lost-unix-v4-possibly-recovered-on-a-forgotten-bell-labs-tape-from-1973?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Mozilla Museum (2000)](https://home.snafu.de/tilman/mozilla/) - An exploration of a digital resource chronicling Mozilla's history.
 
-## Environment and Sustainability
+* [Nonprofit Releases Thousands of Rare American Music Recordings Online](https://entertainment.slashdot.org/story/25/11/10/0357222/nonprofit-releases-thousands-of-rare-american-music-recordings-online?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A treasure trove of classic recordings made available to the public.
 
-* [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html) - The EU introduces policies targeting pellet pollution to safeguard waterways. [Comments](https://news.ycombinator.com/item?id=45873756)
+## Security and Legal Challenges
 
-* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - Combining tradition and innovation, wind-powered shipping could revolutionize the cargo industry. [Comments](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss)
+* [DNS Provider Quad9 Sees Piracy Blocking Orders as \\&quot;Existential Threat\\&quot;](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/) - Examines the legal pressures faced by a prominent DNS provider.
 
-## Ethics and Social Concerns
+* [Drilling down on Uncle Sam&apos;s proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/) - Delivers an analysis of proposed U.S. restrictions on networking equipment.
 
-* [Genetically Engineered Babies Are Banned in the US. But Tech Titans Are Trying to Make One Anyway](https://science.slashdot.org/story/25/11/09/2141233/genetically-engineered-babies-are-banned-in-the-us-but-tech-titans-are-trying-to-make-one-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ethical dilemmas surface as some pursue banned genetic engineering experiments. [Comments](https://science.slashdot.org/story/25/11/09/2141233/genetically-engineered-babies-are-banned-in-the-us-but-tech-titans-are-trying-to-make-one-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Programming and Software Development
 
-* [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - Privacy debates deepen with new biometric data collection pushes. [Comments](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss)
+* [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html) - A guide on building a custom BEAM virtual machine.
+
+* [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html) - Investigates error handling mechanisms in programming.
+
+## Environmental Science and Policies
+
+* [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html) - The EU's new initiative against micro-plastic pollution.
+
+* [America&apos;s FAA Grounds MD-11s After Tuesday&apos;s Crash in Kentucky](https://tech.slashdot.org/story/25/11/08/0816223/americas-faa-grounds-md-11s-after-tuesdays-crash-in-kentucky?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Aviation safety actions after recent incidents.
+
+## Artificial Intelligence Ethics
+
+* [What Happens When Humans Start Writing for AI?](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigates the implications of content creation for AI systems.
+
+* [Microsoft AI Chief Warns Pursuing Machine Consciousness is a Gigantic Waste of Time](https://soylentnews.org/article.pl?sid=25/11/07/0311239&from=rss) - Skepticism about advancing AI consciousness.
 
 ---
 
@@ -53,11 +67,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss)
+* [2025-11-10, 12:34:00](https://science.slashdot.org/story/25/11/10/0215252/whats-the-best-ways-for-humans-to-explore-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What&apos;s the Best Ways for Humans to Explore Space?](https://science.slashdot.org/story/25/11/10/0215252/whats-the-best-ways-for-humans-to-explore-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
+* [2025-11-10, 12:19:02](https://lobste.rs/s/ln3nzt/error_model_2016) - [The Error Model (2016)](https://joeduffyblog.com/2016/02/07/the-error-model/)
+* [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
+* [2025-11-10, 11:59:26](https://lobste.rs/s/hnqwyp/tale_vulkan_nouveau_nvk_zink_mutter) - [a tale of vulkan/nouveau/nvk/zink/mutter + deadlocks](https://airlied.blogspot.com/2025/11/a-tale-of-vulkannouveaunvkzinkmutter.html)
+* [2025-11-10, 11:21:47](https://news.ycombinator.com/item?id=45874850) - [DNS Provider Quad9 Sees Piracy Blocking Orders as \&quot;Existential Threat\&quot;](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
+* [2025-11-10, 11:19:25](https://lobste.rs/s/ekawwc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekawwc/what_are_you_doing_this_week)
+* [2025-11-10, 10:53:35](https://news.ycombinator.com/item?id=45874659) - [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
 * [2025-11-10, 09:42:50](https://lobste.rs/s/ktf9p0/mozilla_museum_2000) - [The Mozilla Museum (2000)](https://home.snafu.de/tilman/mozilla/)
 * [2025-11-10, 09:30:00](https://hardware.slashdot.org/story/25/11/10/0648228/nvidia-connects-ai-gpus-to-early-quantum-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NVIDIA Connects AI GPUs to Early Quantum Processors](https://hardware.slashdot.org/story/25/11/10/0648228/nvidia-connects-ai-gpus-to-early-quantum-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-10, 08:48:14](https://news.ycombinator.com/item?id=45873904) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+* [2025-11-10, 08:44:52](https://news.ycombinator.com/item?id=45873876) - [Microsoft&apos;s lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
 * [2025-11-10, 08:27:27](https://news.ycombinator.com/item?id=45873756) - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
-* [2025-11-10, 08:25:29](https://news.ycombinator.com/item?id=45873738) - [BBC director general and News CEO resign in bias controversy](https://www.bbc.co.uk/news/live/cd9kqz1yyxkt)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss)
 * [2025-11-10, 08:14:35](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment) - [What’s your favourite podcast at the moment?](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment)
 * [2025-11-10, 08:09:31](https://news.ycombinator.com/item?id=45873625) - [The Linux Kernel Looks to \&quot;Bite the Bullet\&quot; in Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
@@ -73,12 +96,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-10, 01:35:00](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When Humans Start Writing for AI?](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
-* [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
-* [2025-11-10, 00:13:11](https://news.ycombinator.com/item?id=45870675) - [Sued by Nintendo](https://www.suedbynintendo.com/)
 * [2025-11-09, 23:56:00](https://apple.slashdot.org/story/25/11/09/2353232/apple-explores-new-satellite-features-for-future-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Explores New Satellite Features for Future iPhones](https://apple.slashdot.org/story/25/11/09/2353232/apple-explores-new-satellite-features-for-future-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 23:06:00](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss) - [The 2026 Farmers’ Almanac Will Be Its Last Edition](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss)
 * [2025-11-09, 22:58:51](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test) - [Software design patterns; Are there test cases or recipes for specific patterns?](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test)
-* [2025-11-09, 21:50:31](https://lobste.rs/s/fdz07i/erase_startup_config_isn_t_enough) - [\&quot;erase startup-config\&quot; isn&apos;t enough](https://alyx.sh/posts/erase-startup-config/)
 * [2025-11-09, 21:43:00](https://science.slashdot.org/story/25/11/09/2141233/genetically-engineered-babies-are-banned-in-the-us-but-tech-titans-are-trying-to-make-one-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Genetically Engineered Babies Are Banned in the US. But Tech Titans Are Trying to Make One Anyway](https://science.slashdot.org/story/25/11/09/2141233/genetically-engineered-babies-are-banned-in-the-us-but-tech-titans-are-trying-to-make-one-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 21:03:59](https://lobste.rs/s/zhwdem/plan_for_5_10_faster_free_threaded_jit_by) - [A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16](https://fidget-spinner.github.io/posts/faster-jit-plan.html)
 * [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
@@ -101,27 +121,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-09, 15:34:00](https://linux.slashdot.org/story/25/11/09/0232234/rust-is-coming-to-debians-apt-package-manager?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust Is Coming To Debian&apos;s APT Package Manager](https://linux.slashdot.org/story/25/11/09/0232234/rust-is-coming-to-debians-apt-package-manager?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 15:32:23](https://lobste.rs/s/t0fjqn/sprites_mods_kid_cam_firmware_modding) - [Sprites mods - Kid-cam firmware modding](https://spritesmods.com/?art=kid_cam)
 * [2025-11-09, 15:27:42](https://news.ycombinator.com/item?id=45866224) - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
-* [2025-11-09, 14:59:13](https://lobste.rs/s/uf12ap/email_verification_protocol_verified) - [email-verification-protocol: verified autofill](https://github.com/WICG/email-verification-protocol)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 * [2025-11-09, 13:35:00](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss) - [Ford CEO Jim Farley strikes a Cautious Tone on Apple’s New CarPlay Ultra](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss)
 * [2025-11-09, 13:03:36](https://news.ycombinator.com/item?id=45865289) - [Montana becomes first state to enshrine &apos;right to compute&apos; into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
 * [2025-11-09, 12:48:17](https://lobste.rs/s/cxbkzm/imperative_relational) - [Imperative to relational](https://madhadron.com/imperative_to_relational.html)
-* [2025-11-09, 12:44:35](https://news.ycombinator.com/item?id=45865159) - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * [2025-11-09, 12:34:00](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hilarious Unused Audio From 2003 Baseball Game Rediscovered by Video Game History Foundation](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-09, 12:25:12](https://lobste.rs/s/xhrbh0/building_vector_search_engine_lets_you) - [Building a vector search engine that lets you choose precision at query time](https://clickhouse.com/blog/qbit-vector-search)
 * [2025-11-09, 09:52:26](https://lobste.rs/s/qx9qot/forth_is_it_still_relevant) - [Forth - is it still relevant?](https://github.com/chochain/eforth)
 * [2025-11-09, 09:46:04](https://news.ycombinator.com/item?id=45864341) - [Itiner-e: the Google Maps of Roman Roads](https://itiner-e.org/)
 * [2025-11-09, 08:46:00](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss) - [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss)
-* [2025-11-09, 08:34:00](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did ChatGPT Conversations Leak... Into Google Search Console Results?](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-09, 07:48:50](https://lobste.rs/s/wktw2e/how_many_options_fit_into_boolean) - [How many options fit into a boolean?](https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/)
 * [2025-11-09, 06:48:24](https://lobste.rs/s/yrmvyd/i_worked_for_internet_now_what) - [I worked for the Internet – now what?](https://trynova.dev/blog/worked-for-the-internet)
 * [2025-11-09, 04:16:37](https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like) - [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/)
 * [2025-11-09, 04:10:00](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss) - [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss)
 * [2025-11-09, 04:08:51](https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either_2021) - [Why I don&apos;t love Rust (either) (2021)](https://cbarrete.com/rust-bad.html)
-* [2025-11-09, 03:15:20](https://lobste.rs/s/bcyczw/ofcom_files_part_2_ip_blocking_uk_is_not) - [The Ofcom Files, Part 2: IP Blocking the UK is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
 * [2025-11-08, 23:18:00](https://soylentnews.org/article.pl?sid=25/11/06/0740218&amp;from=rss) - [Does Academia Need a Wake Up Call on Wikibooks?](https://soylentnews.org/article.pl?sid=25/11/06/0740218&amp;from=rss)
 * [2025-11-08, 18:34:00](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss) - [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&amp;from=rss)
-* [2025-11-08, 16:37:51](https://lobste.rs/s/sdc7ki/opencloud_alternative_nextcloud) - [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 13:48:00](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss) - [FuguIta 7.8 - OpenBSD-based Live System - Released!](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss)
 * [2025-11-08, 09:06:00](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss)
 * [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - [Study Concludes Cybersecurity Training Doesn&apos;t Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss)
@@ -132,6 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss) - [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss)
 * [2025-11-07, 00:01:00](https://soylentnews.org/article.pl?sid=25/11/06/0331241&amp;from=rss) - [GNOME Mutter Now \&quot;Completely Drops the Whole X11 Backend\&quot;](https://soylentnews.org/article.pl?sid=25/11/06/0331241&amp;from=rss)
 * [2025-11-06, 19:17:00](https://soylentnews.org/article.pl?sid=25/11/05/1530214&amp;from=rss) - [Tiny Electric Motor is as Powerful as Four Tesla Motors Put Together](https://soylentnews.org/article.pl?sid=25/11/05/1530214&amp;from=rss)
+* [2025-11-06, 18:31:06](https://news.ycombinator.com/item?id=45838592) - [Show HN: What Is Hacker News Working On?](https://waywo.eamag.me/)
 * [2025-11-06, 14:31:00](https://soylentnews.org/article.pl?sid=25/11/05/1242201&amp;from=rss) - [Canada Says Hacktivists Breached Water and Energy Facilities](https://soylentnews.org/article.pl?sid=25/11/05/1242201&amp;from=rss)
 * [2025-11-06, 09:42:00](https://soylentnews.org/article.pl?sid=25/11/05/1236251&amp;from=rss) - [What Happened to Running What You Wanted on Your Own Machine?](https://soylentnews.org/article.pl?sid=25/11/05/1236251&amp;from=rss)
 * [2025-11-06, 05:00:00](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - [World&apos;s Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss)
