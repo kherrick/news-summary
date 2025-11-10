@@ -1,48 +1,76 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Innovations in Technology
+## Technology Innovations and Software Development
 
-* [What Happens When Humans Start Writing for AI?](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A thought-provoking look at the growing trend of content being created specifically for AI consumption and its implications.
+* [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990) - Discusses the challenges of large language models (LLM) causing noise in issue tracking for open source software.
 
-* [Lost Unix v4 Possibly Recovered on a Forgotten Bell Labs Tape From 1973](https://tech.slashdot.org/story/25/11/09/0528258/lost-unix-v4-possibly-recovered-on-a-forgotten-bell-labs-tape-from-1973?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exciting discovery for computing history as an old Unix variant resurfaces.
+* [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits) - A developer uses AI to streamline a messy Git history with automated commit rewriting.
 
-* [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss) - Nvidia collaborates with the U.S. Department of Energy to establish state-of-the-art AI supercomputers.
+* [DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/) - Show HN project introducing a macOS application for managing Android device files using ADB protocol.
 
-* [Powered by Mushrooms, Living Computers Are on the Rise](https://soylentnews.org/article.pl?sid=25/11/04/0228209&amp;from=rss) - A fascinating exploration of biological computing with mushrooms as both hardware and resource.
+* [Building a CI/CD Pipeline Runner from Scratch in Python](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/) - A technical guide on creating a custom CI/CD runner with Python.
 
-## Environmental Challenges and Exploration
+* [Value classes are the new data classes](https://curiouslab.dev/0002-value-classes-are-new-data-casses.html) - Examines programming paradigms and the rise of value classes over traditional data classes.
 
-* [Iran faces unprecedented drought as water crisis hits Tehran](https://www.bbc.com/news/articles/cy4p2yzmem0o) - A closer look at Iran's grave water crisis and its impact on Tehran residents.
+* [Local First HTMX](https://elijahm.com/posts/local_first_htmx/) - Explores the benefits of prioritizing local-first architectures in web application development.
 
-* [Blue Origin Postpones Attempt to Launch Unique 'EscaPADE' Orbiters to Mars](https://science.slashdot.org/story/25/11/09/1845207/blue-origin-postpones-attempt-to-launch-unique-escapade-orbiters-to-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Challenges force a delay in Blue Origin's ambitious mission to send orbiters to Mars.
+* [Rust Is Coming To Debian's APT Package Manager](https://linux.slashdot.org/story/25/11/09/0232234/rust-is-coming-to-debians-apt-package-manager?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Upcoming integration of Rust into the Debian APT package ecosystem.
 
-* [World's Largest Wind-Powered Cargo Ship Takes to the Seas](https://soylentnews.org/article.pl?sid=25/11/04/0243254&amp;from=rss) - Innovations in eco-friendly maritime transport take a significant step forward.
+* [Lost Unix v4 Possibly Recovered on a Forgotten Bell Labs Tape From 1973](https://tech.slashdot.org/story/25/11/09/0528258/lost-unix-v4-possibly-recovered-on-a-forgotten-bell-labs-tape-from-1973?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discovery of a long-lost Unix version from 1973 sparks historical curiosity.
 
-## Artificial Intelligence and Ethics
+* [Imperative to relational](https://madhadron.com/imperative_to_relational.html) - A guide transitioning from imperative to relational programming paradigms.
 
-* [Microsoft AI Chief Warns Pursuing Machine Consciousness is a Gigantic Waste of Time](https://soylentnews.org/article.pl?sid=25/11/07/0311239&amp;from=rss) - A critical perspective on the quest for machine consciousness from a Microsoft AI leader.
+* [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/) - Showcases the creation of a Unix-like kernel focused on security and correctness using Ada.
 
-* [Common Crawl Criticized for 'Quietly Funneling Paywalled Articles to AI Developers'](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns over potential misuse of AI training data surface regarding Common Crawl.
+* [16-bit Data Pointers on RV32](https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/) - Explores novel approaches to utilizing 16-bit pointers on the RV32 architecture.
 
-## Software Development and Open Source Updates
+## Artificial Intelligence and Ethical Considerations
 
-* [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits) - Developer shares an innovative solution to tidying up Git histories with AI support.
+* [Common Crawl Criticized for 'Quietly Funneling Paywalled Articles to AI Developers'](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights concerns over Common Crawl's distribution of paywalled content to AI initiatives.
 
-* [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&amp;import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&amp;dashboard=demo_dashboard&amp;modelName=demo-model&amp;connection=duckdb) - An introduction to an open-source SQL editing and visualizing tool.
+* [OpenAI Looking for Taxpayers to Bail Them Out If the Bubble Bursts](https://soylentnews.org/article.pl?sid=25/11/06/0735234&from=rss) - Investigates OpenAI's strategy amidst market instability.
 
-* [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/) - A novel operating system kernel emphasizing formal verification and reliability.
+* ['Breaking Bad' Creator Hates AI, Promises New Show 'Pluribus' Was 'Made By Humans'](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Creator critiques AI and promotes human-centric storytelling.
 
-## Policy and Legal Matters
+* [Did ChatGPT Conversations Leak... Into Google Search Console Results?](https://tech.slashdot.org/story/25/11/09/027213/did-chatgpt-conversations-leak-into-google-search-console-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analyzes potential privacy implications associated with ChatGPT user data.
 
-* [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/) - Montana sets a legal precedent establishing citizens' rights related to computing technology.
+* [Neurodiverse Professionals 25% More Satisfied With AI Tools and Agents](https://it.slashdot.org/story/25/11/09/0610228/neurodiverse-professionals-25-more-satisfied-with-ai-tools-and-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Study suggests neurodiverse users find greater satisfaction in AI-based tools.
 
-* [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/) - A detailed analysis of U.S. trade and security moves against TP-Link networking devices.
+* [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890) - A technical dive into the mechanics behind modern diffusion models for AI.
 
-## Cultural Shifts and Entertainment
+## Scientific Exploration and Health
 
-* ['Breaking Bad' Creator Hates AI, Promises New Show 'Pluribus' Was 'Made By Humans'](https://entertainment.slashdot.org/story/25/11/09/047221/breaking-bad-creator-hates-ai-promises-new-show-pluribus-was-made-by-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The intersection of creativity and AI comes under scrutiny with a show emphasizing human effort.
+* [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you) - Exploration into the health impacts of physical activity at a cellular level.
 
-* [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/) - Enthusiasts work to bring back classic Unix games, blending nostalgia and digital conservation.
+* [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age) - Discusses strategies to combat growing vision impairments in the digital age.
+
+* [Genetically Engineered Babies Are Banned in the US. But Tech Titans Are Trying to Make One Anyway](https://science.slashdot.org/story/25/11/09/2141233/genetically-engineered-babies-are-banned-in-the-us-but-tech-titans-are-trying-to-make-one-anyway?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Raises ethical questions on genetic engineering led by tech industries.
+
+* [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss) - Nvidia's ambitious AI supercomputing plan for the U.S. Department of Energy.
+
+## Historical Rediscoveries and Retrospectives
+
+* [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/) - A nostalgic look at Sega's impact on gaming.
+
+* [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/) - Chronicles efforts to preserve and reintroduce vintage Unix games.
+
+* [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/) - A collection of influential writings from the legendary computer scientist.
+
+* [Hilarious Unused Audio From 2003 Baseball Game Rediscovered by Video Game History Foundation](https://games.slashdot.org/story/25/11/08/2342231/hilarious-unused-audio-from-2003-baseball-game-rediscovered-by-video-game-history-foundation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rediscovered comical voice recordings from a 2003 baseball game project.
+
+* [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing) - Explains implementing application isolation on NetBSD.
+
+* [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&from=rss) - Highlights pivotal scientific discoveries shaping modern civilizations.
+
+## Policy, Legal Challenges, and Impact of AI
+
+* ['AI Slop' in Court Filings: Lawyers Keep Citing Fake AI-Hallucinated Cases](https://yro.slashdot.org/story/25/11/09/189220/ai-slop-in-court-filings-lawyers-keep-citing-fake-ai-hallucinated-cases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Addresses pitfalls of integrating AI outputs in legal proceedings.
+
+* [Drilling down on Uncle Sam's proposed TP-Link ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/) - A deep dive into the implications and rationale behind banning TP-Link products.
+
+* [Sued by Nintendo](https://www.suedbynintendo.com/) - Documents legal battles involving Nintendo's intellectual property protection strategies.
+
+* [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/) - Unites citizens in support of digital rights with a landmark state law.
 
 ---
 
@@ -69,16 +97,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-10, 03:47:00](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss) - [Blame game over Air India crash goes on](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss)
+* [2025-11-10, 02:55:55](https://lobste.rs/s/undft9/software_synthesizer_modellled_on) - [a software synthesizer modellled on Yevgeny Murzin&apos;s ANS synthesizer](https://github.com/frankenbeans/MZ2SYNTH)
+* [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
+* [2025-11-10, 02:10:59](https://news.ycombinator.com/item?id=45871531) - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
 * [2025-11-10, 01:35:00](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When Humans Start Writing for AI?](https://news.slashdot.org/story/25/11/10/0133240/what-happens-when-humans-start-writing-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-10, 01:23:58](https://news.ycombinator.com/item?id=45871141) - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 * [2025-11-10, 01:20:18](https://news.ycombinator.com/item?id=45871107) - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
 * [2025-11-10, 01:17:53](https://news.ycombinator.com/item?id=45871084) - [My Git history was a mess of &apos;update&apos; and &apos;fix&apos; – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
-* [2025-11-10, 01:11:52](https://news.ycombinator.com/item?id=45871043) - [Iran faces unprecedented drought as water crisis hits Tehran](https://www.bbc.com/news/articles/cy4p2yzmem0o)
 * [2025-11-10, 00:51:33](https://news.ycombinator.com/item?id=45870925) - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
 * [2025-11-10, 00:43:59](https://news.ycombinator.com/item?id=45870863) - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
 * [2025-11-10, 00:13:11](https://news.ycombinator.com/item?id=45870675) - [Sued by Nintendo](https://www.suedbynintendo.com/)
 * [2025-11-09, 23:56:00](https://apple.slashdot.org/story/25/11/09/2353232/apple-explores-new-satellite-features-for-future-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Explores New Satellite Features for Future iPhones](https://apple.slashdot.org/story/25/11/09/2353232/apple-explores-new-satellite-features-for-future-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-09, 23:26:48](https://news.ycombinator.com/item?id=45870334) - [Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer](https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&amp;import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&amp;dashboard=demo_dashboard&amp;modelName=demo-model&amp;connection=duckdb)
 * [2025-11-09, 23:06:00](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss) - [The 2026 Farmers’ Almanac Will Be Its Last Edition](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss)
 * [2025-11-09, 22:58:51](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test) - [Software design patterns; Are there test cases or recipes for specific patterns?](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test)
 * [2025-11-09, 21:56:29](https://news.ycombinator.com/item?id=45869587) - [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
@@ -110,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-09, 14:59:13](https://lobste.rs/s/uf12ap/email_verification_protocol_verified) - [email-verification-protocol: verified autofill](https://github.com/WICG/email-verification-protocol)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 * [2025-11-09, 13:35:00](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss) - [Ford CEO Jim Farley strikes a Cautious Tone on Apple’s New CarPlay Ultra](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss)
-* [2025-11-09, 13:29:34](https://lobste.rs/s/wruah1/return_language_oriented_programming) - [The Return of Language-Oriented Programming](https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/)
 * [2025-11-09, 13:09:22](https://news.ycombinator.com/item?id=45865327) - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
 * [2025-11-09, 13:03:36](https://news.ycombinator.com/item?id=45865289) - [Montana becomes first state to enshrine &apos;right to compute&apos; into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
 * [2025-11-09, 12:50:07](https://news.ycombinator.com/item?id=45865189) - [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
@@ -139,7 +167,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-08, 16:37:51](https://lobste.rs/s/sdc7ki/opencloud_alternative_nextcloud) - [opencloud - an alternative to nextcloud written in Go](https://github.com/opencloud-eu/opencloud)
 * [2025-11-08, 15:34:59](https://lobste.rs/s/ogyjwm/local_first_htmx) - [Local First HTMX](https://elijahm.com/posts/local_first_htmx/)
 * [2025-11-08, 13:48:00](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss) - [FuguIta 7.8 - OpenBSD-based Live System - Released!](https://soylentnews.org/article.pl?sid=25/11/06/0723234&amp;from=rss)
-* [2025-11-08, 10:33:39](https://lobste.rs/s/wbyo8d/jelly_slider) - [Jelly Slider](https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider)
 * [2025-11-08, 09:06:00](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss) - [Uncle Sam Wants to Scan Your Iris and Collect Your DNA, Citizen or Not](https://soylentnews.org/article.pl?sid=25/11/06/0715239&amp;from=rss)
 * [2025-11-08, 04:19:00](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - [Study Concludes Cybersecurity Training Doesn&apos;t Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss)
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
