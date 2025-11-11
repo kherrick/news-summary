@@ -1,40 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Updates
+## Technology Developments
 
-* [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html) - Improvements in Python's latest update drastically enhance decompression speeds for software developers.
+* [Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/) - Microsoft unveils the latest .NET update, emphasizing new features and improvements.
 
-* [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine) - Exploring the potential of Advent of Code puzzles running on retro Z-Machine technology.
+* [Grebedoc — static site hosting for git forges](https://grebedoc.dev) - Introducing Grebedoc, a platform to simplify static site hosting for git repositories.
 
-* [Refreshing Apache XML Infrastructure](https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/) - Updates on enhancing the reliability and usability of Apache's XML systems.
+* [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/) - Mozilla enhances anti-fingerprinting measures to bolster internet privacy.
 
-* [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/) - An insightful analysis of Zig programming language and its distinct design philosophy.
+* [Samsung Brings Generative AI-Powered Bixby To Its TVs](https://entertainment.slashdot.org/story/25/11/11/1444257/samsung-brings-generative-ai-powered-bixby-to-its-tvs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Generative AI integrated into Samsung's TVs through intelligent Bixby updates.
 
-## Artificial Intelligence Trends
+* [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/) - Highlights from the latest ISO C++ standards meeting on programming advancements.
 
-* [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1) - A major leap in AI-driven speech recognition to support over a thousand languages.
+## AI and Machine Learning Updates
 
-* [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) - Innovations in spatial awareness shaping artificial intelligence development.
+* [Sam Altman's Worldcoin Project Struggles Toward Billion-User Ambition With 17.5 Million Sign-Ups](https://tech.slashdot.org/story/25/11/11/158200/sam-altmans-worldcoin-project-struggles-toward-billion-user-ambition-with-175-million-sign-ups?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzing the challenges of Worldcoin's ambitious user growth.
 
-* [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/) - Researchers caution against exaggerated promises around artificial intelligence.
+* [UK Secondary Schools Pivoting From Narrowly Focused CS Curriculum To AI Literacy](https://news.slashdot.org/story/25/11/11/0125233/uk-secondary-schools-pivoting-from-narrowly-focused-cs-curriculum-to-ai-literacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - UK's schools adapt to introduce AI concepts into education.
 
-## Policy and Regulatory Changes
+* [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss) - AI drives innovative frameworks for global advisory firms.
 
-* [EU Eyes Banning Huawei, ZTE Corp From Mobile Networks of Member Countries](https://mobile.slashdot.org/story/25/11/10/2257257/eu-eyes-banning-huawei-zte-corp-from-mobile-networks-of-member-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - European Union considers restricting Huawei and ZTE in network infrastructure.
+## Environmental, Scientific, and Policy Challenges
 
-* [Critics Call Proposed Changes To Landmark EU Privacy Law 'Death By a Thousand Cuts'](https://yro.slashdot.org/story/25/11/10/2237230/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Privacy advocates challenge proposed modifications to core EU regulations.
+* [Widespread distribution of bacteria containing PETases across global oceans](https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false) - Scientists uncover the prevalence of PETase-producing bacteria in oceans.
 
-## Energy and Environmental Impacts
+* [China's CO2 Emissions Have Been Flat Or Falling For Past 18 Months, Analysis Finds](https://news.slashdot.org/story/25/11/11/0119210/chinas-co2-emissions-have-been-flat-or-falling-for-past-18-months-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis reveals progress on China's emission reduction trajectory.
 
-* [China's CO2 Emissions Have Been Flat Or Falling For Past 18 Months, Analysis Finds](https://news.slashdot.org/story/25/11/11/0119210/chinas-co2-emissions-have-been-flat-or-falling-for-past-18-months-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports show significant climate progress in China over the last year and a half.
+* [Critics Call Proposed Changes To Landmark EU Privacy Law 'Death By a Thousand Cuts'](https://yro.slashdot.org/story/25/11/10/2237230/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns arise over proposed changes in EU privacy laws.
 
-* [World's First Green Fuel Levy To Add Almost $32 To Air Fares](https://news.slashdot.org/story/25/11/10/1927209/worlds-first-green-fuel-levy-to-add-almost-32-to-air-fares?utm_source=rss1.0mainlinkanon_amp;utm_medium=feed) - A pioneering tax aimed at promoting sustainable aviation fuel usage.
+## Creative Work and Cultural Insights
 
-## Unique Insights and Studies
+* [Why effort scales superlinearly with the perceived quality of creative work](https://markusstrasser.org/creative-work-landscapes.html) - Insight into scaling efforts relative to creative work quality.
 
-* [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - Examining the fascinating chemical composition of civet coffee and its high costs.
+* [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes) - Exploring the intrigue of telepathic recordings in cultural contexts.
 
-* [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf) - Research into efficient rendering techniques in graphical software design.
+* [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember) - A nostalgic look at the cultural resonance of 'Toy Story'.
+
+## Cybersecurity and Digital Innovations
+
+* [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss) - Addressing vulnerabilities in common software systems.
+
+* [Study Concludes Cybersecurity Training Doesn't Work](https://soylentnews.org/article.pl?sid=25/11/06/0710228&amp;from=rss) - Challenging the efficacy of conventional cybersecurity training strategies.
+
+* [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - Warning about fraudulent tools aiming to exploit system upgrades.
 
 ---
 
@@ -61,27 +69,45 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-11, 15:51:31](https://lobste.rs/s/uzihto/announcing_net_10) - [Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
+* [2025-11-11, 15:25:00](https://tech.slashdot.org/story/25/11/11/158200/sam-altmans-worldcoin-project-struggles-toward-billion-user-ambition-with-175-million-sign-ups?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sam Altman&apos;s Worldcoin Project Struggles Toward Billion-User Ambition With 17.5 Million Sign-Ups](https://tech.slashdot.org/story/25/11/11/158200/sam-altmans-worldcoin-project-struggles-toward-billion-user-ambition-with-175-million-sign-ups?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-11, 15:09:36](https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git) - [Grebedoc — static site hosting for git forges](https://grebedoc.dev)
+* [2025-11-11, 15:08:23](https://lobste.rs/s/1bnw6r/how_would_you_like_your_iceberg_sir_stream) - [How Would You Like Your Iceberg Sir? Stream or Batch Ordered?](https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered)
+* [2025-11-11, 14:59:05](https://lobste.rs/s/socihf/firefox_expands_fingerprint) - [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
+* [2025-11-11, 14:51:13](https://news.ycombinator.com/item?id=45887873) - [Europe converged rapidly on the United States before stagnating](https://constitutionofinnovation.eu/)
+* [2025-11-11, 14:49:51](https://news.ycombinator.com/item?id=45887857) - [Drawing Text Isn&apos;t Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
+* [2025-11-11, 14:45:00](https://entertainment.slashdot.org/story/25/11/11/1444257/samsung-brings-generative-ai-powered-bixby-to-its-tvs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Brings Generative AI-Powered Bixby To Its TVs](https://entertainment.slashdot.org/story/25/11/11/1444257/samsung-brings-generative-ai-powered-bixby-to-its-tvs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
+* [2025-11-11, 14:37:29](https://news.ycombinator.com/item?id=45887720) - [US Army to buy 1 million drones, in major acquisition ramp-up](https://www.reuters.com/business/aerospace-defense/us-army-buy-1-million-drones-major-acquisition-ramp-up-2025-11-07/)
+* [2025-11-11, 14:36:31](https://news.ycombinator.com/item?id=45887709) - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
+* [2025-11-11, 14:18:16](https://news.ycombinator.com/item?id=45887536) - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
+* [2025-11-11, 14:01:00](https://science.slashdot.org/story/25/11/11/1355205/uk-signs-scaled-back-scientific-collaboration-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Signs Scaled-Back Scientific Collaboration With China](https://science.slashdot.org/story/25/11/11/1355205/uk-signs-scaled-back-scientific-collaboration-with-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-11, 13:34:15](https://news.ycombinator.com/item?id=45887105) - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
+* [2025-11-11, 13:24:31](https://news.ycombinator.com/item?id=45887007) - [Show HN: Venturu – Zillow for the market of local businesses](https://www.venturu.com)
 * [2025-11-11, 12:37:00](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss) - [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss)
+* [2025-11-11, 12:22:38](https://news.ycombinator.com/item?id=45886479) - [Widespread distribution of bacteria containing PETases across global oceans](https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false)
 * [2025-11-11, 12:14:41](https://lobste.rs/s/8gbtka/dependency_cutout_workflow_pattern) - [The “Dependency Cutout” Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 12:00:42](https://news.ycombinator.com/item?id=45886350) - [Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
-* [2025-11-11, 12:00:05](https://news.ycombinator.com/item?id=45886344) - [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/)
 * [2025-11-11, 11:36:06](https://lobste.rs/s/0zfxtn/zig_c_interop) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 11:34:22](https://news.ycombinator.com/item?id=45886194) - [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
+* [2025-11-11, 11:33:49](https://news.ycombinator.com/item?id=45886191) - [DARPA and Texas Bet $1.4B on Unique Foundry -3D heterogeneous integration](https://spectrum.ieee.org/3d-heterogeneous-integration)
 * [2025-11-11, 11:31:53](https://lobste.rs/s/t2fius/advent_code_on_z_machine) - [Advent of Code on the Z-machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
+* [2025-11-11, 11:31:08](https://news.ycombinator.com/item?id=45886180) - [Trying two dozen different psychedelics](https://psychotechnology.substack.com/p/on-trying-two-dozen-different-psychedelics)
 * [2025-11-11, 11:20:55](https://news.ycombinator.com/item?id=45886131) - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
-* [2025-11-11, 11:11:12](https://lobste.rs/s/b2yzmq/survival_guide_for_ai_age) - [A Survival Guide for the AI Age](https://www.youtube.com/watch?v=C7BWgWdhZwE)
+* [2025-11-11, 10:52:39](https://news.ycombinator.com/item?id=45886002) - [Welcome, the entire land - \&quot;Hello, world!\&quot; in hieroglyphics](https://optional.is/required/2009/12/03/welcome-the-entire-land/)
+* [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
 * [2025-11-11, 10:00:00](https://news.slashdot.org/story/25/11/11/0125233/uk-secondary-schools-pivoting-from-narrowly-focused-cs-curriculum-to-ai-literacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Secondary Schools Pivoting From Narrowly Focused CS Curriculum To AI Literacy](https://news.slashdot.org/story/25/11/11/0125233/uk-secondary-schools-pivoting-from-narrowly-focused-cs-curriculum-to-ai-literacy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018) - [Ad Hoc Profiling (2018)](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
-* [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
+* [2025-11-11, 08:29:23](https://news.ycombinator.com/item?id=45885242) - [Why effort scales superlinearly with the perceived quality of creative work](https://markusstrasser.org/creative-work-landscapes.html)
 * [2025-11-11, 08:09:05](https://news.ycombinator.com/item?id=45885135) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
 * [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss)
-* [2025-11-11, 07:34:10](https://news.ycombinator.com/item?id=45884951) - [The \&quot;Dependency Cutout\&quot; Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
-* [2025-11-11, 07:13:21](https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved) - [gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]](https://joshua.hu/gixy-ng-new-version-gixy-updated-checks)
 * [2025-11-11, 07:00:00](https://news.slashdot.org/story/25/11/11/0119210/chinas-co2-emissions-have-been-flat-or-falling-for-past-18-months-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s CO2 Emissions Have Been Flat Or Falling For Past 18 Months, Analysis Finds](https://news.slashdot.org/story/25/11/11/0119210/chinas-co2-emissions-have-been-flat-or-falling-for-past-18-months-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-11, 06:30:22](https://news.ycombinator.com/item?id=45884658) - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
+* [2025-11-11, 06:30:22](https://news.ycombinator.com/item?id=45884658) - [The write last, read first rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 * [2025-11-11, 05:41:18](https://lobste.rs/s/ha5lun/installing_using_hp_ux_9) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
+* [2025-11-11, 04:04:24](https://news.ycombinator.com/item?id=45883995) - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 * [2025-11-11, 03:30:00](https://news.slashdot.org/story/25/11/10/238215/saudi-arabias-dystopian-futuristic-city-project-is-crashing-and-burning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Saudi Arabia&apos;s Dystopian Futuristic City Project Is Crashing and Burning](https://news.slashdot.org/story/25/11/10/238215/saudi-arabias-dystopian-futuristic-city-project-is-crashing-and-burning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 03:17:43](https://news.ycombinator.com/item?id=45883788) - [The &apos;Toy Story&apos; You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 * [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss)
@@ -98,36 +124,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-10, 22:05:16](https://news.ycombinator.com/item?id=45881568) - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
 * [2025-11-10, 21:30:00](https://news.slashdot.org/story/25/11/10/204221/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia Urges AI Companies To Use Its Paid API, and Stop Scraping](https://news.slashdot.org/story/25/11/10/204221/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-10, 21:07:02](https://news.ycombinator.com/item?id=45880939) - [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 * [2025-11-10, 20:51:00](https://developers.slashdot.org/story/25/11/10/194259/the-php-foundation-is-seeking-a-new-executive-director?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The PHP Foundation Is Seeking a New Executive Director](https://developers.slashdot.org/story/25/11/10/194259/the-php-foundation-is-seeking-a-new-executive-director?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-10, 20:10:00](https://news.slashdot.org/story/25/11/10/1927209/worlds-first-green-fuel-levy-to-add-almost-32-to-air-fares?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s First Green Fuel Levy To Add Almost $32 To Air Fares](https://news.slashdot.org/story/25/11/10/1927209/worlds-first-green-fuel-levy-to-add-almost-32-to-air-fares?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-10, 19:35:00](https://apple.slashdot.org/story/25/11/10/1935215/apple-delays-release-of-next-iphone-air-amid-weak-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Delays Release of Next iPhone Air Amid Weak Sales](https://apple.slashdot.org/story/25/11/10/1935215/apple-delays-release-of-next-iphone-air-amid-weak-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-10, 19:28:07](https://news.ycombinator.com/item?id=45879793) - [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production)
-* [2025-11-10, 18:59:00](https://slashdot.org/story/25/11/10/1859225/how-hr-took-over-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How HR Took Over the World](https://slashdot.org/story/25/11/10/1859225/how-hr-took-over-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
 * [2025-11-10, 18:23:28](https://lobste.rs/s/mytmnl/memory_safety_for_skeptics) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
-* [2025-11-10, 18:10:12](https://news.ycombinator.com/item?id=45878826) - [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1)
-* [2025-11-10, 17:50:21](https://news.ycombinator.com/item?id=45878578) - [The lazy Git UI you didn&apos;t know you need](https://www.bwplotka.dev/2025/lazygit/)
 * [2025-11-10, 17:43:10](https://lobste.rs/s/haoxkc/underwear_fixed_point) - [The Underwear Fixed Point](https://notes.hella.cheap/the-underwear-fixed-point.html)
 * [2025-11-10, 17:40:00](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss) - [Australian Wine Industry Battles Fakes With Smart Bottle Caps](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss)
-* [2025-11-10, 16:23:24](https://news.ycombinator.com/item?id=45877517) - [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517)
-* [2025-11-10, 16:05:46](https://news.ycombinator.com/item?id=45877257) - [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
-* [2025-11-10, 15:32:28](https://lobste.rs/s/pkktfc/sass_css_preprocessor_survived) - [SASS: The CSS Preprocessor That Survived the Apocalypse](https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/)
 * [2025-11-10, 15:25:20](https://lobste.rs/s/necwp9/praise_dhh) - [In praise of dhh](https://okayfail.com/2025/in-praise-of-dhh.html)
-* [2025-11-10, 14:57:26](https://news.ycombinator.com/item?id=45876598) - [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [2025-11-10, 14:57:02](https://lobste.rs/s/6jiur6/building_high_performance_ticketing) - [Building a High-Performance Ticketing System with TigerBeetle](https://renerocks.ai/blog/2025-11-02--tigerfans/)
 * [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
-* [2025-11-10, 13:14:55](https://lobste.rs/s/ni1qi1/android_security_bulletin_november_2025) - [Android security bulletin: November 2025 patch fixes zero-click RCE](https://source.android.com/docs/security/bulletin/2025-11-01)
 * [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss)
 * [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss)
-* [2025-11-10, 07:39:37](https://lobste.rs/s/3vyjzk/linux_kernel_looks_bite_bullet_enabling) - [The Linux Kernel Looks To \&quot;Bite The Bullet\&quot; In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 03:47:00](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss) - [Blame game over Air India crash goes on](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss)
-* [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-09, 23:06:00](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss) - [The 2026 Farmers’ Almanac Will Be Its Last Edition](https://soylentnews.org/article.pl?sid=25/11/08/1721215&amp;from=rss)
-* [2025-11-09, 21:02:33](https://news.ycombinator.com/item?id=45869146) - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 * [2025-11-09, 18:29:43](https://news.ycombinator.com/item?id=45867828) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-09, 18:17:00](https://soylentnews.org/article.pl?sid=25/11/07/0311239&amp;from=rss) - [Microsoft AI Chief Warns Pursuing Machine Consciousness is a Gigantic Waste of Time](https://soylentnews.org/article.pl?sid=25/11/07/0311239&amp;from=rss)
 * [2025-11-09, 13:35:00](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss) - [Ford CEO Jim Farley strikes a Cautious Tone on Apple’s New CarPlay Ultra](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss)
@@ -141,6 +152,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-07, 23:35:00](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss) - [Developer Warns Users That Fake Download Site is Hosting Windows 11 Upgrade Bypass Tool](https://soylentnews.org/article.pl?sid=25/11/06/0317205&amp;from=rss)
 * [2025-11-07, 18:53:00](https://soylentnews.org/article.pl?sid=25/11/06/0311253&amp;from=rss) - [LM8560, the Eternal Chip From the 1980 Years](https://soylentnews.org/article.pl?sid=25/11/06/0311253&amp;from=rss)
 * [2025-11-07, 14:09:00](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss) - [Ubuntu Certification Now Available Through Canonical Academy](https://soylentnews.org/article.pl?sid=25/11/06/0257203&amp;from=rss)
+* [2025-11-07, 14:06:38](https://news.ycombinator.com/item?id=45846525) - [High speed X-ray video: jumping beans, wind-up toys and more](https://www.youtube.com/watch?v=xdpDd7dyU00)
+* [2025-11-07, 12:11:42](https://news.ycombinator.com/item?id=45845620) - [SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB](https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html)
 * [2025-11-07, 09:28:00](https://soylentnews.org/article.pl?sid=25/11/05/1549218&amp;from=rss) - [Australian Law To Require EV Cars To Be Noisy For Blind People](https://soylentnews.org/article.pl?sid=25/11/05/1549218&amp;from=rss)
+* [2025-11-07, 08:00:08](https://news.ycombinator.com/item?id=45844419) - [The R47: A new physical RPN calculator released today in 2025](https://www.swissmicros.com/product/model-r47)
 * [2025-11-07, 04:46:00](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss) - [7 Basic Science Discoveries That Changed the World](https://soylentnews.org/article.pl?sid=25/11/05/1540235&amp;from=rss)
 * [2025-11-07, 00:01:00](https://soylentnews.org/article.pl?sid=25/11/06/0331241&amp;from=rss) - [GNOME Mutter Now \&quot;Completely Drops the Whole X11 Backend\&quot;](https://soylentnews.org/article.pl?sid=25/11/06/0331241&amp;from=rss)
