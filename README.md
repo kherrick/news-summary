@@ -1,50 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Technology Developments
 
-* [Perkeep v0.12 released](https://github.com/perkeep/perkeep/releases/tag/v0.12) - A new update for the personal data storage tool brings exciting features.
+* [Bjarne fix your freaking language](https://marler8997.github.io/blog/bjarne-fix-your-language/) ([comments](https://news.ycombinator.com/item?id=45896733))
 
-* [Google Is Introducing Its Own Version of Apple&apos;s Private AI Cloud Compute](https://tech.slashdot.org/story/25/11/12/0137208/google-is-introducing-its-own-version-of-apples-private-ai-cloud-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google aims for privacy and innovation in AI cloud services.
+* [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds) ([comments](https://news.ycombinator.com/item?id=45896707))
 
-* [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html) - Explore advancements in text rendering using GPU technology.
+* [Google Is Introducing Its Own Version of Apple's Private AI Cloud Compute](https://tech.slashdot.org/story/25/11/12/0137208/google-is-introducing-its-own-version-of-apples-private-ai-cloud-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/11/12/0137208/google-is-introducing-its-own-version-of-apples-private-ai-cloud-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Economic Impact and Copyright Issues
+* [YouTube TV Blackout Is Costing Disney an Estimated $4.3 Million Per Day In Lost Revenue](https://news.slashdot.org/story/25/11/11/2242218/youtube-tv-blackout-is-costing-disney-an-estimated-43-million-per-day-in-lost-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/11/11/2242218/youtube-tv-blackout-is-costing-disney-an-estimated-43-million-per-day-in-lost-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [YouTube TV Blackout Is Costing Disney an Estimated $4.3 Million Per Day In Lost Revenue](https://news.slashdot.org/story/25/11/11/2242218/youtube-tv-blackout-is-costing-disney-an-estimated-43-million-per-day-in-lost-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Disney faces significant financial loss due to service disruptions.
+## Programming and Software Tools
 
-* [OpenAI Used Song Lyrics In Violation of Copyright Laws, German Court Says](https://yro.slashdot.org/story/25/11/11/2124206/openai-used-song-lyrics-in-violation-of-copyright-laws-german-court-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal challenges emerge as AI infringes copyright protections.
+* [Abstractions for asynchronously working with series of data](https://worm-blossom.org/ufotofu) ([comments](https://lobste.rs/s/wf3oia/abstractions_for_asynchronously))
 
-## Artificial Intelligence and Its Challenges
+* [Perkeep – Personal storage system for life](https://perkeep.org/) ([comments](https://news.ycombinator.com/item?id=45896130))
 
-* [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/) - FFmpeg calls out Google on funding issues amid increasing bug reports.
+* [Wordle in LibreOffice](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/) ([comments](https://lobste.rs/s/wfxruv/wordle_libreoffice))
 
-* [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go) - A toolkit facilitating AI development across varied applications.
+## Product Releases and Updates
 
-* [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/) - Thorough analysis showcases capabilities and frontiers of AI image generation systems.
+* [Perkeep v0.12 released](https://github.com/perkeep/perkeep/releases/tag/v0.12) ([comments](https://lobste.rs/s/jghwoj/perkeep_v0_12_released))
 
-## Innovations in Hardware and Tools
+* [New Physical Attacks Are Quickly Diluting Secure Enclave Defenses From Nvidia, AMD, and Intel](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss))
 
-* [A modern 35mm film scanner for home](https://www.soke.engineering/) - Rediscover photographic nostalgia with modern innovation.
+## AI and Ethics
 
-* [Cache-friendly, low-memory Lanczos algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/) - Efficient image scaling methods tailored for Rust developers.
+* [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/) ([comments](https://news.ycombinator.com/item?id=45894588))
 
-* [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html) - Python enthusiasts benefit from an upgrade in performance.
+* [OpenAI Used Song Lyrics In Violation of Copyright Laws, German Court Says](https://yro.slashdot.org/story/25/11/11/2124206/openai-used-song-lyrics-in-violation-of-copyright-laws-german-court-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/11/11/2124206/openai-used-song-lyrics-in-violation-of-copyright-laws-german-court-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Cultural and Historical Insights
+## Notable Discussions
 
-* [Four strange places to see London&apos;s Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html) - Discover hidden Roman history amidst bustling London.
+* [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/) ([comments](https://news.ycombinator.com/item?id=45887699))
 
-* [The history of Casio watches](https://www.casio.com/us/watches/50th/Heritage/1970s/) - Look back at the iconic evolution of Casio’s timepieces.
-
-* [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - Learn the science behind one of the world’s most exclusive coffees.
-
-## Social and Ethical Challenges
-
-* [China&apos;s New Scientist Visa is a &apos;Serious Bid&apos; For the World&apos;s Top Talent](https://slashdot.org/story/25/11/11/1857233/chinas-new-scientist-visa-is-a-serious-bid-for-the-worlds-top-talent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Talent recruitment gains momentum amidst innovation race.
-
-* [UK Unveils Plan To Cut Animal Testing Through Greater Use of AI](https://news.slashdot.org/story/25/11/11/1854230/uk-unveils-plan-to-cut-animal-testing-through-greater-use-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ethical efforts advance as AI reduces reliance on animal testing.
-
-* [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss) - A generation shifts its career aspirations, emphasizing practicality.
+* [Google Announces Even More AI In Photos App, Powered By Nano Banana](https://tech.slashdot.org/story/25/11/11/2119221/google-announces-even-more-ai-in-photos-app-powered-by-nano-banana?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/11/11/2119221/google-announces-even-more-ai-in-photos-app-powered-by-nano-banana?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -71,17 +61,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-12, 06:13:17](https://lobste.rs/s/wf3oia/abstractions_for_asynchronously) - [Abstractions for asynchronously working with series of data](https://worm-blossom.org/ufotofu)
+* [2025-11-12, 05:44:10](https://news.ycombinator.com/item?id=45896733) - [Bjarne fix your freaking language](https://marler8997.github.io/blog/bjarne-fix-your-language/)
+* [2025-11-12, 05:36:41](https://news.ycombinator.com/item?id=45896707) - [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds)
+* [2025-11-12, 05:35:27](https://lobste.rs/s/wfxruv/wordle_libreoffice) - [Wordle in LibreOffice](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
+* [2025-11-12, 03:34:32](https://news.ycombinator.com/item?id=45896130) - [Perkeep – Personal storage system for life](https://perkeep.org/)
+* [2025-11-12, 03:01:18](https://lobste.rs/s/7zogyb/reproachfully_presenting_resilient) - [Reproachfully Presenting Resilient Recursive Descent Parsing](https://thunderseethe.dev/posts/parser-base/)
 * [2025-11-12, 02:58:29](https://lobste.rs/s/jghwoj/perkeep_v0_12_released) - [Perkeep v0.12 released](https://github.com/perkeep/perkeep/releases/tag/v0.12)
 * [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss)
 * [2025-11-12, 01:40:00](https://tech.slashdot.org/story/25/11/12/0137208/google-is-introducing-its-own-version-of-apples-private-ai-cloud-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Is Introducing Its Own Version of Apple&apos;s Private AI Cloud Compute](https://tech.slashdot.org/story/25/11/12/0137208/google-is-introducing-its-own-version-of-apples-private-ai-cloud-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-12, 00:56:10](https://news.ycombinator.com/item?id=45895107) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
 * [2025-11-12, 00:30:00](https://news.slashdot.org/story/25/11/11/2242218/youtube-tv-blackout-is-costing-disney-an-estimated-43-million-per-day-in-lost-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube TV Blackout Is Costing Disney an Estimated $4.3 Million Per Day In Lost Revenue](https://news.slashdot.org/story/25/11/11/2242218/youtube-tv-blackout-is-costing-disney-an-estimated-43-million-per-day-in-lost-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
+* [2025-11-11, 23:59:49](https://news.ycombinator.com/item?id=45894588) - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
+* [2025-11-11, 23:55:18](https://lobste.rs/s/n0btpj/how_arch_delta_saves_80_bandwidth_on) - [How arch-delta Saves 80+% Of Bandwidth On Upgrades](https://djugei.github.io/how-arch-delta-works/)
 * [2025-11-11, 23:50:00](https://it.slashdot.org/story/25/11/11/2233201/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ClickFix May Be the Biggest Security Threat Your Family Has Never Heard Of](https://it.slashdot.org/story/25/11/11/2233201/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
 * [2025-11-11, 23:20:00](https://developers.slashdot.org/story/25/11/11/2213205/visual-studio-2026-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Visual Studio 2026 Released](https://developers.slashdot.org/story/25/11/11/2213205/visual-studio-2026-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 22:51:12](https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
+* [2025-11-11, 22:50:32](https://news.ycombinator.com/item?id=45893986) - [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
 * [2025-11-11, 22:50:00](https://games.slashdot.org/story/25/11/11/2131217/ps5-has-now-officially-outsold-every-xbox-console-ever-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PS5 Has Now Officially Outsold Every Xbox Console Ever Released](https://games.slashdot.org/story/25/11/11/2131217/ps5-has-now-officially-outsold-every-xbox-console-ever-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 22:49:27](https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate) - [sudo-rs update to address two moderate vulnerabilities](https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623)
 * [2025-11-11, 22:31:41](https://news.ycombinator.com/item?id=45893795) - [Four strange places to see London&apos;s Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
@@ -110,12 +106,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-11, 18:24:40](https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip) - [rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)](https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716)
 * [2025-11-11, 18:24:09](https://lobste.rs/s/hw54as/domain_for_queer_community_by_queer) - [A domain for the Queer Community, by the Queer Community](https://www.dotmeow.org/en/what)
 * [2025-11-11, 18:10:00](https://news.slashdot.org/story/25/11/11/1757229/firefox-145-drops-support-for-32-bit-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox 145 Drops Support For 32-bit Linux](https://news.slashdot.org/story/25/11/11/1757229/firefox-145-drops-support-for-32-bit-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-11, 18:07:51](https://news.ycombinator.com/item?id=45890726) - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
 * [2025-11-11, 17:30:00](https://slashdot.org/story/25/11/11/1730232/ais-5-trillion-cost-needs-every-debt-market-jpmorgan-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s $5 Trillion Cost Needs Every Debt Market, JPMorgan Says](https://slashdot.org/story/25/11/11/1730232/ais-5-trillion-cost-needs-every-debt-market-jpmorgan-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 17:26:54](https://news.ycombinator.com/item?id=45890186) - [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/)
 * [2025-11-11, 17:18:00](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss) - [New Physical Attacks Are Quickly Diluting Secure Enclave Defenses From Nvidia, AMD, and Intel](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss)
 * [2025-11-11, 17:09:40](https://lobste.rs/s/sag4i3/cache_friendly_low_memory_lanczos) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
-* [2025-11-11, 17:08:00](https://news.ycombinator.com/item?id=45889891) - [Cache-friendly, low-memory Lanczos algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 16:42:00](https://apple.slashdot.org/story/25/11/11/1618220/the-ipad-pro-at-10-a-decade-of-unrealized-potential?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The iPad Pro at 10: a Decade of Unrealized Potential](https://apple.slashdot.org/story/25/11/11/1618220/the-ipad-pro-at-10-a-decade-of-unrealized-potential?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-11, 16:32:31](https://lobste.rs/s/digwsv/query_plan_caching) - [Query Plan Caching](https://buttondown.com/jaffray/archive/query-plan-caching/)
 * [2025-11-11, 16:02:00](https://apple.slashdot.org/story/25/11/11/1533206/apples-230-iphone-sock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s $230 iPhone Sock](https://apple.slashdot.org/story/25/11/11/1533206/apples-230-iphone-sock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -123,15 +117,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-11, 15:09:36](https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git) - [Grebedoc — static site hosting for git forges](https://grebedoc.dev)
 * [2025-11-11, 14:59:05](https://lobste.rs/s/socihf/firefox_expands_fingerprint) - [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [2025-11-11, 14:58:47](https://news.ycombinator.com/item?id=45887957) - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com)
-* [2025-11-11, 14:52:37](https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with) - [A hypothetical search engine on S3 with Tantivy and warm cache on NVMe](https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/)
 * [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 14:34:54](https://news.ycombinator.com/item?id=45887699) - [The Department of War just shot the accountants and opted for speed](https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/)
 * [2025-11-11, 14:11:49](https://news.ycombinator.com/item?id=45887466) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 12:37:00](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss) - [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss)
 * [2025-11-11, 11:36:06](https://lobste.rs/s/0zfxtn/zig_c_interop) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
-* [2025-11-11, 11:31:53](https://lobste.rs/s/t2fius/advent_code_on_z_machine) - [Advent of Code on the Z-machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
 * [2025-11-11, 10:17:57](https://news.ycombinator.com/item?id=45885813) - [iPhone Pocket](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
-* [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018) - [Ad Hoc Profiling (2018)](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
@@ -139,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-10, 22:22:00](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss) - [EBikes Banned from NSW Trains Due To Fire Hazard](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
 * [2025-11-10, 17:40:00](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss) - [Australian Wine Industry Battles Fakes With Smart Bottle Caps](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss)
-* [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss)
