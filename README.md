@@ -1,48 +1,82 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Challenges
+## Artificial Intelligence and Machine Learning
 
-* [Truly first-class custom smart pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html) ([comments](https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers))
+* [Why Fei-Fei Li and Yann LeCun Are Both Betting on “World Models” — and How Their Bets Differ](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/) - Examines contrasting views between prominent AI researchers on world modeling.
 
-* [PolySubML is broken](https://blog.polybdenum.com/2025/11/13/polysubml-is-broken.html) ([comments](https://lobste.rs/s/zbrs8i/polysubml_is_broken))
+* [Anthropic To Spend $50 Billion On US AI Infrastructure](https://news.slashdot.org/story/25/11/12/2217257/anthropic-to-spend-50-billion-on-us-ai-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights huge investment in AI development infrastructure.
 
-* [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/) ([comments](https://news.ycombinator.com/item?id=45911704))
+* [OpenAI Fights Order To Turn Over Millions of ChatGPT Conversations](https://yro.slashdot.org/story/25/11/12/2158208/openai-fights-order-to-turn-over-millions-of-chatgpt-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Focuses on legal conflicts regarding ChatGPT data privacy.
 
-* [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433) ([comments](https://news.ycombinator.com/item?id=45910381))
+* [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model) - Introduces Marble, an innovative multimodal AI model.
 
-* [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM) ([comments](https://news.ycombinator.com/item?id=45909059))
+* [Microsoft AI Chief Warns Pursuing Machine Consciousness is a Gigantic Waste of Time](https://soylentnews.org/article.pl?sid=25/11/07/0311239&from=rss) - Critiques efforts to achieve machine consciousness.
 
-* [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model) ([comments](https://news.ycombinator.com/item?id=45907541))
+* [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&from=rss) - Covers the significant AI supercomputing collaboration between Nvidia and the Department of Energy.
+
+* [AI-Generated Song Tops Country Music Chart](https://entertainment.slashdot.org/story/25/11/12/2320241/ai-generated-song-tops-country-music-chart?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Features the breakthrough of AI compositions in music charts.
+
+## Climate Science and Environmental Concerns
+
+* [Iceland Deems Possible Atlantic Current Collapse A Security Risk](https://news.slashdot.org/story/25/11/12/2339231/iceland-deems-possible-atlantic-current-collapse-a-security-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses climate-related risks recognized by Iceland.
+
+* [Scientists Watch Supernova Shockwave Shoot Through a Dying Star For First Time](https://science.slashdot.org/story/25/11/12/2346249/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Observations reveal groundbreaking astrophysical events.
+
+* [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&from=rss) - Captures unique findings in solar physics.
+
+* [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&from=rss) - Delves into dark matter explorations.
+
+* [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss) - Shares stunning discoveries of Voyager spacecraft.
+
+* [US Ends Penny-Making Run After More Than 230 Years](https://news.slashdot.org/story/25/11/12/1849239/us-ends-penny-making-run-after-more-than-230-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reflects on economic and ecological considerations.
+
+* [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&from=rss) - Looks at generational shifts towards labor jobs that impact industries and the environment.
+
+## Tech Innovations and Announcements
+
+* [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781) - Reveals retroactive tech fixes for iconic software.
+
+* [Valve Rejoins the VR Hardware Wars With Standalone Steam Frame](https://hardware.slashdot.org/story/25/11/12/224252/valve-rejoins-the-vr-hardware-wars-with-standalone-steam-frame?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Showcases Valve’s return to VR technology.
+
+* [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026) - Unveils new gaming technologies by Valve.
+
+* [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/) - Explores cutting-edge web engine development in Rust.
+
+* [Toyota Opens the Doors To Its First EV Battery Plant In the US](https://tech.slashdot.org/story/25/11/12/2332244/toyota-opens-the-doors-to-its-first-ev-battery-plant-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Marks Toyota’s commitment to electric vehicle infrastructure.
+
+* [Hyundai's New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&from=rss) - Demonstrates corporate steps towards addressing EV challenges.
+
+* [Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs) - Enhances Linux kernel and device compatibility.
+
+* [Waymo Robotaxis Are Now Giving Rides On Freeways](https://tech.slashdot.org/story/25/11/12/238227/waymo-robotaxis-are-now-giving-rides-on-freeways?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Indicates progress in autonomous vehicle technology.
+
+* [Digital ID, a new way to create and present an ID in Apple Wallet](https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/) - Revolutionizes identification and security through tech.
+
+* [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0) - Provides new tools for managing software applications.
 
 ## Cybersecurity and Privacy
 
-* [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion) ([comments](https://news.ycombinator.com/item?id=45912698))
+* [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion) - Highlights a unique corporate response to cyber attacks.
 
-* [OpenAI Fights Order To Turn Over Millions of ChatGPT Conversations](https://yro.slashdot.org/story/25/11/12/2158208/openai-fights-order-to-turn-over-millions-of-chatgpt-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45907541))
+* [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755) - Increases software security measures.
 
-* [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755) ([comments](https://news.ycombinator.com/item?id=45907259))
+* [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&from=rss) - Investigates controversial archiving site for privacy and control.
 
-## Science and Space Exploration
+* [Russia's AI Robot Falls Seconds After Being Unveiled](https://hardware.slashdot.org/story/25/11/12/2327202/russias-ai-robot-falls-seconds-after-being-unveiled?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Demonstrates risks in rapid tech presentations.
 
-* [Scientists Watch Supernova Shockwave Shoot Through a Dying Star For First Time](https://science.slashdot.org/story/25/11/12/2346249/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45909059))
+* [Microsoft Is Offering Rewards Points for Using Edge Instead of Google Chrome](https://it.slashdot.org/story/25/11/12/200220/microsoft-is-offering-rewards-points-for-using-edge-instead-of-google-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Incentivizes browser security and user participation.
 
-* [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss) ([comments](https://news.ycombinator.com/item?id=45909059))
+* [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM) - Innovates tech in visual recognition hardware.
 
-## Artificial Intelligence Innovations
+## Gaming and Entertainment
 
-* [AI-Generated Song Tops Country Music Chart](https://entertainment.slashdot.org/story/25/11/12/2320241/ai-generated-song-tops-country-music-chart?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45909059))
+* [Valve Enters the Console Wars](https://games.slashdot.org/story/25/11/12/2019204/valve-enters-the-console-wars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Looks at Valve’s leap into console markets.
 
-* [Anthropic To Spend $50 Billion On US AI Infrastructure](https://news.slashdot.org/story/25/11/12/2217257/anthropic-to-spend-50-billion-on-us-ai-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=45909059))
+* [Alien: Earth Renewed For Second Season](https://entertainment.slashdot.org/story/25/11/12/2359226/alien-earth-renewed-for-second-season?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Updates fans on captivating sci-fi series.
 
-## Consumer Technology and Product Updates
+* [Project Euler](https://projecteuler.net) - Online mathematical puzzles offer intellectual challenge to gamers.
 
-* [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/) ([comments](https://news.ycombinator.com/item?id=45908464))
-
-* [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) ([comments](https://news.ycombinator.com/item?id=45908938))
-
-* [Toyota Opens the Doors To Its First EV Battery Plant In the US](https://tech.slashdot.org/story/25/11/12/2332244/toyota-opens-the-doors-to-its-first-ev-battery-plant-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/11/12/2332244/toyota-opens-the-doors-to-its-first-ev-battery-plant-in-the-us))
-
-* [Waymo Robotaxis Are Now Giving Rides On Freeways](https://tech.slashdot.org/story/25/11/12/238227/waymo-robotaxis-are-now-giving-rides-on-freeways?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/11/12/238227/waymo-robotaxis-are-now-giving-rides-on-freeways))
+* [A Commentary on the Sixth Edition Unix Operating System (1977)](https://warsus.github.io/lions-/) - Shares nostalgic insights into computing history.
 
 ---
 
@@ -69,9 +103,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-13, 13:13:02](https://lobste.rs/s/vqi1da/why_fei_fei_li_yann_lecun_are_both_betting) - [Why Fei-Fei Li and Yann LeCun Are Both Betting on “World Models” — and How Their Bets Differ](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+* [2025-11-13, 13:00:00](https://news.slashdot.org/story/25/11/12/2339231/iceland-deems-possible-atlantic-current-collapse-a-security-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iceland Deems Possible Atlantic Current Collapse A Security Risk](https://news.slashdot.org/story/25/11/12/2339231/iceland-deems-possible-atlantic-current-collapse-a-security-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-13, 12:12:27](https://lobste.rs/s/m1l3zz/go_proposal_context_aware_dialer_methods) - [Go proposal: Context-aware Dialer methods](https://antonz.org/accepted/net-dialer-context/)
+* [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss)
+* [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
+* [2025-11-13, 10:02:43](https://lobste.rs/s/i0z3ha/behind_scenes_on_how_windows_95) - [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781)
+* [2025-11-13, 10:00:00](https://entertainment.slashdot.org/story/25/11/12/2359226/alien-earth-renewed-for-second-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alien: Earth Renewed For Second Season](https://entertainment.slashdot.org/story/25/11/12/2359226/alien-earth-renewed-for-second-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-13, 09:36:51](https://news.ycombinator.com/item?id=45912785) - [Seed. LINE&apos;s Custom Typeface](https://seed.line.me/index_en.html)
 * [2025-11-13, 09:34:47](https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers) - [Truly first-class custom smart pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html)
 * [2025-11-13, 09:30:53](https://news.ycombinator.com/item?id=45912744) - [Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng)
-* [2025-11-13, 09:30:27](https://lobste.rs/s/zbrs8i/polysubml_is_broken) - [PolySubML is broken](https://blog.polybdenum.com/2025/11/13/polysubml-is-broken.html)
 * [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:47:28](https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory) - [A Practical Guide to Transitioning to Memory-Safe Languages](https://queue.acm.org/detail.cfm?id=3773096)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn&apos;t verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
@@ -79,14 +120,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-13, 07:12:01](https://news.ycombinator.com/item?id=45911704) - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss) - [Hyundai&apos;s New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss)
 * [2025-11-13, 07:00:00](https://science.slashdot.org/story/25/11/12/2346249/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Watch Supernova Shockwave Shoot Through a Dying Star For First Time](https://science.slashdot.org/story/25/11/12/2346249/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-13, 04:13:04](https://lobste.rs/s/yuwqaq/practical_security_production) - [Practical Security in Production Hardening the C++ Standard Library at massive scale](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-13, 03:49:23](https://news.ycombinator.com/item?id=45910381) - [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433)
-* [2025-11-13, 03:44:37](https://news.ycombinator.com/item?id=45910347) - [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/)
-* [2025-11-13, 03:34:02](https://news.ycombinator.com/item?id=45910257) - [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506)
 * [2025-11-13, 03:30:00](https://tech.slashdot.org/story/25/11/12/2332244/toyota-opens-the-doors-to-its-first-ev-battery-plant-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toyota Opens the Doors To Its First EV Battery Plant In the US](https://tech.slashdot.org/story/25/11/12/2332244/toyota-opens-the-doors-to-its-first-ev-battery-plant-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-13, 03:16:35](https://lobste.rs/s/ojixwz/pgfirstaid_postgresql_health_check) - [pgFirstAid-The PostgreSQL Health Check](https://github.com/randoneering/pgFirstAid)
-* [2025-11-13, 03:01:47](https://news.ycombinator.com/item?id=45910009) - [A Commentary on the Sixth Edition Unix Operating System](https://warsus.github.io/lions-/)
-* [2025-11-13, 02:48:00](https://lobste.rs/s/qb9dr0/art_vm_firmware_logging) - [the art of (VM) firmware logging](https://www.kraxel.org/blog/2025/10/firmware-logging/)
+* [2025-11-13, 03:01:47](https://news.ycombinator.com/item?id=45910009) - [A Commentary on the Sixth Edition Unix Operating System (1977)](https://warsus.github.io/lions-/)
 * [2025-11-13, 02:33:00](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss) - [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
 * [2025-11-13, 02:02:00](https://hardware.slashdot.org/story/25/11/12/2327202/russias-ai-robot-falls-seconds-after-being-unveiled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia&apos;s AI Robot Falls Seconds After Being Unveiled](https://hardware.slashdot.org/story/25/11/12/2327202/russias-ai-robot-falls-seconds-after-being-unveiled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-13, 01:25:00](https://entertainment.slashdot.org/story/25/11/12/2320241/ai-generated-song-tops-country-music-chart?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Generated Song Tops Country Music Chart](https://entertainment.slashdot.org/story/25/11/12/2320241/ai-generated-song-tops-country-music-chart?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -111,9 +148,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-12, 19:24:56](https://lobste.rs/s/94bkgh/visual_types) - [Visual Types](https://types.kitlangton.com/)
 * [2025-11-12, 19:05:41](https://news.ycombinator.com/item?id=45904551) - [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/)
 * [2025-11-12, 18:52:13](https://lobste.rs/s/x10xh7/homebrew_v5_0_0_missing_package_manager) - [Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)](https://brew.sh/2025/11/12/homebrew-5.0.0/)
-* [2025-11-12, 18:45:00](https://news.slashdot.org/story/25/11/12/1834253/uc-san-diego-reports-steep-decline-in-student-academic-preparation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UC San Diego Reports &apos;Steep Decline&apos; in Student Academic Preparation](https://news.slashdot.org/story/25/11/12/1834253/uc-san-diego-reports-steep-decline-in-student-academic-preparation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-12, 18:17:35](https://lobste.rs/s/d6hdwo/one_weird_hashing_trick) - [One Weird Hashing Trick](https://notes.hella.cheap/one-weird-hashing-trick.html)
-* [2025-11-12, 18:06:00](https://apple.slashdot.org/story/25/11/12/186201/apple-study-finds-mandated-fee-reductions-never-reached-european-consumers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Study Finds Mandated Fee Reductions Never Reached European Consumers](https://apple.slashdot.org/story/25/11/12/186201/apple-study-finds-mandated-fee-reductions-never-reached-european-consumers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:54:58](https://news.ycombinator.com/item?id=45903325) - [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [2025-11-12, 17:43:42](https://news.ycombinator.com/item?id=45903161) - [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161)
@@ -129,7 +164,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 11:36:25](https://lobste.rs/s/mvct7p/async_finaliser_deadlocks) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
 * [2025-11-12, 10:12:53](https://news.ycombinator.com/item?id=45898407) - [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
-* [2025-11-12, 10:03:01](https://lobste.rs/s/gujl0w/template_interpreters) - [Template Interpreters](https://zackoverflow.dev/writing/template-interpreters/)
 * [2025-11-12, 09:34:31](https://lobste.rs/s/p8skua/i_converted_rotary_phone_into_meeting) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
 * [2025-11-12, 08:52:46](https://lobste.rs/s/fah67j/i_didn_t_reverse_engineer_protocol_for_my) - [I didn&apos;t reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss)
@@ -156,4 +190,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-09, 13:35:00](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss) - [Ford CEO Jim Farley strikes a Cautious Tone on Apple’s New CarPlay Ultra](https://soylentnews.org/article.pl?sid=25/11/07/036254&amp;from=rss)
 * [2025-11-09, 08:46:00](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss) - [Nvidia Will Help Build 7 AI Supercomputers for DoE](https://soylentnews.org/article.pl?sid=25/11/07/032255&amp;from=rss)
 * [2025-11-09, 04:10:00](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss) - [Gen Z is Ditching the Tie for a Toolbelt, and it’s the Smartest Rebellion Yet](https://soylentnews.org/article.pl?sid=25/11/07/0255249&amp;from=rss)
-* [2025-11-09, 01:44:26](https://news.ycombinator.com/item?id=45862128) - [Comparing the Latitude of Europe and America](https://vividmaps.com/comparing-latitude-of-europe-and-america/)
