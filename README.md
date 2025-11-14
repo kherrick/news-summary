@@ -1,54 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Advancements in Technology and AI
 
-* [Amazon Renames 'Project Kuiper' Satellite Internet Venture To 'Leo'](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&utm_medium=feed): Amazon rebrands its satellite initiative aimed at providing internet connectivity.
+* [Amazon Renames 'Project Kuiper' Satellite Internet Venture to 'Leo'](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [World's First Flying Car Factory Begins Production In China](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed): Landmark production facility opens, pushing forward innovative automobile technology.
+* [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage) ([Comments](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude))
 
-* [Netflix's New Era of TV Games Starts Now](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&utm_medium=feed): Netflix's venture into interactive entertainment launches TV-based gaming capabilities.
+* [Chinese Hackers Used Anthropic's AI To Automate Cyberattacks](https://it.slashdot.org/story/25/11/13/1715248/chinese-hackers-used-anthropics-ai-to-automate-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/11/13/1715248/chinese-hackers-used-anthropics-ai-to-automate-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Mozilla Launches AI Window for Firefox](https://tech.slashdot.org/story/25/11/13/186229/mozilla-launches-ai-window-for-firefox?utm_source=rss1.0mainlinkanon&utm_medium=feed): Introduction of artificial intelligence tools for enhanced web browser functionalities.
+* [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi-based MANET radios](https://openmanet.net/) ([Comments](https://news.ycombinator.com/item?id=45920677))
 
-## Cybersecurity
+* [Mozilla Launches AI Window for Firefox](https://tech.slashdot.org/story/25/11/13/186229/mozilla-launches-ai-window-for-firefox?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/11/13/186229/mozilla-launches-ai-window-for-firefox?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage): AI's growing involvement in potential state-sponsored cyber operations.
+## Climate and Global Issues
 
-* [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion): A major payments company counters extortion with an innovative response.
+* [World Still On Track For Catastrophic 2.6C Temperature Rise, Report Finds](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Chinese Hackers Used Anthropic's AI To Automate Cyberattacks](https://it.slashdot.org/story/25/11/13/1715248/chinese-hackers-used-anthropics-ai-to-automate-cyberattacks?utm_source=rss1.0mainlinkanon&utm_medium=feed): A concerning trend of AI use in cyber attacks emerges in global hacking news.
+## Software Development and System Enhancements
 
-## Environmental Concerns
+* [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/) ([Comments](https://news.ycombinator.com/item?id=45924619))
 
-* [World Still On Track For Catastrophic 2.6C Temperature Rise, Report Finds](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed): Significant environmental report highlights concerning trajectory for climate change.
+* [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit) ([Comments](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go))
 
-* [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/): A major space exploration advancement with successful booster landing.
+* [Domain-specific Languages and Code Synthesis Using Haskell](https://queue.acm.org/detail.cfm?id=2617811) ([Comments](https://lobste.rs/s/hh7pz4/domain_specific_languages_code))
 
-## Software and Development
+* [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) ([Comments](https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust))
 
-* [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit): Innovating Git technologies with a speedy, pure Go implementation.
+## Gaming and Entertainment
 
-* [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/): Strategies for secure and efficient coding in Rust programming.
+* [Netflix's New Era of TV Games Starts Now](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Synit: Reactivity and object capabilities in the system layer of an OS](https://synit.org/): Exploring new paradigms in operating system architecture.
+* [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026) ([Comments](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam))
 
-## Historical and Cultural Explorations
+* [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app) ([Comments](https://news.ycombinator.com/item?id=45924872))
 
-* [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/): A fascinating dive into the marriage of science and auditory experimentation.
+## Miscellaneous Innovations
 
-* [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&amp;from=rss): Historical insights into the impact of coffee on society and discourse.
+* [World's First Flying Car Factory Begins Production In China](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Corporate and Market Developments
-
-* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss): Investigative report unveils Meta's questionable practices.
-
-* [Big Short Investor Michael Burry To Close Hedge Fund as He Warns on Valuations](https://slashdot.org/story/25/11/13/1744254/big-short-investor-michael-burry-to-close-hedge-fund-as-he-warns-on-valuations?utm_source=rss1.0mainlinkanon&utm_medium=feed): Warning on market speculations and imminent financial trends.
-
-## Consumer Technology
-
-* [Apple Tries Selling $230 iPhone Pocket 'Sock'](https://entertainment.slashdot.org/story/25/11/13/2259255/apple-tries-selling-230-iphone-pocket-sock?utm_source=rss1.0mainlinkanon&utm_medium=feed): Apple's foray into high-end accessories sparks discussions.
-
-* [Jack Dorsey Funds diVine, a Vine Reboot That Includes Vine's Video Archive](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed): Vine takes a second breath under Dorsey's leadership.
+* [Jack Dorsey Funds diVine, a Vine Reboot That Includes Vine's Video Archive](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -75,12 +65,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-14, 09:51:26](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration) - [Audio-primary content for inspiration in software development?](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration)
+* [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn&apos;t a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
+* [2025-11-14, 08:06:41](https://news.ycombinator.com/item?id=45924872) - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
+* [2025-11-14, 07:22:10](https://lobste.rs/s/ihwndn/support_call_for_memory_safety) - [Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation](https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/)
+* [2025-11-14, 07:10:10](https://news.ycombinator.com/item?id=45924619) - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 * [2025-11-14, 07:00:00](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Renames &apos;Project Kuiper&apos; Satellite Internet Venture To &apos;Leo&apos;](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
-* [2025-11-14, 06:35:52](https://lobste.rs/s/t3dyna/free_weather_data_with_national_weather) - [Free Weather Data with National Weather Service API](https://clojurecivitas.github.io/scittle/weather/weather_nws_integration.html)
 * [2025-11-14, 06:13:09](https://news.ycombinator.com/item?id=45924345) - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
+* [2025-11-14, 04:44:36](https://lobste.rs/s/hh7pz4/domain_specific_languages_code) - [Domain-specific Languages and Code Synthesis Using Haskell](https://queue.acm.org/detail.cfm?id=2617811)
 * [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
 * [2025-11-14, 03:30:00](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World Still On Track For Catastrophic 2.6C Temperature Rise, Report Finds](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 02:12:00](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
@@ -88,8 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-14, 01:30:00](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix&apos;s New Era of TV Games Starts Now](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 00:50:00](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s First Flying Car Factory Begins Production In China](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 00:45:34](https://lobste.rs/s/chgon5/tour_pattern_matcher_expression_pattern) - [Tour of a pattern matcher: expression and pattern expansion](https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html)
-* [2025-11-14, 00:41:08](https://news.ycombinator.com/item?id=45922550) - [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
-* [2025-11-14, 00:35:38](https://lobste.rs/s/dxgcza/postgres_internals_hiding_plain_sight) - [Postgres Internals Hiding in Plain Sight](https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight)
 * [2025-11-14, 00:18:23](https://news.ycombinator.com/item?id=45922420) - [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
 * [2025-11-14, 00:16:43](https://lobste.rs/s/kiee8k/complexity_simplicity) - [The Complexity of Simplicity](https://www.youtube.com/watch?v=Cum5uN2634o)
 * [2025-11-14, 00:10:00](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jack Dorsey Funds diVine, a Vine Reboot That Includes Vine&apos;s Video Archive](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -132,9 +126,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-13, 12:12:27](https://lobste.rs/s/m1l3zz/go_proposal_context_aware_dialer_methods) - [Go proposal: Context-aware Dialer methods](https://antonz.org/accepted/net-dialer-context/)
 * [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
-* [2025-11-13, 09:23:30](https://news.ycombinator.com/item?id=45912698) - [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn&apos;t verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-* [2025-11-13, 07:21:25](https://lobste.rs/s/adk54c/what_s_new_herb_v0_8) - [What&apos;s new in Herb v0.8](https://herb-tools.dev/blog/whats-new-in-herb-v0-8)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss) - [Hyundai&apos;s New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss)
 * [2025-11-13, 02:33:00](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss) - [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
 * [2025-11-13, 00:33:25](https://news.ycombinator.com/item?id=45908938) - [Android developer verification: Early access starts](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
@@ -144,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-12, 17:59:43](https://news.ycombinator.com/item?id=45903404) - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [2025-11-12, 17:05:00](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss) - [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss)
 * [2025-11-12, 12:24:00](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss) - [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss)
-* [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss)
 * [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss)
 * [2025-11-11, 22:03:00](https://soylentnews.org/article.pl?sid=25/11/10/1159252&amp;from=rss) - [MX Linux 25 “Infinity” Is Now Available for Download, Based on Debian 13 “Trixie”](https://soylentnews.org/article.pl?sid=25/11/10/1159252&amp;from=rss)
@@ -154,7 +145,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss)
 * [2025-11-10, 22:22:00](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss) - [EBikes Banned from NSW Trains Due To Fire Hazard](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss)
 * [2025-11-10, 17:40:00](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss) - [Australian Wine Industry Battles Fakes With Smart Bottle Caps](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss)
-* [2025-11-10, 15:26:58](https://news.ycombinator.com/item?id=45876876) - [The Useful Personal Computer](https://technicshistory.com/2025/11/02/the-useful-personal-computer/)
+* [2025-11-10, 17:08:20](https://news.ycombinator.com/item?id=45878067) - [The Floating Head Phenomenon](https://michaelestrin.substack.com/p/the-floating-head-phenomenon)
 * [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss)
 * [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss)
 * [2025-11-10, 05:54:45](https://news.ycombinator.com/item?id=45872864) - [&apos;The Dream Factory&apos; Review: A Building and Its Bard](https://www.wsj.com/arts-culture/books/the-dream-factory-review-a-building-and-its-bard-6d79ce43)
