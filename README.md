@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology
+## Technology Advancements and Innovations
 
-* [Sam Altman Celebrates ChatGPT Finally Following Em Dash Formatting Rules](https://slashdot.org/story/25/11/14/2129248/sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - ChatGPT's precise adherence to em dash formatting gains attention and praise from OpenAI head, reflecting nuanced AI developments.
+* [Apple's $230 iPhone Pocket Sells Out Nearly Immediately](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple's compact and affordable iPhone model witnesses unprecedented demand.
 
-* [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage) - A report on the use of Claude's AI capabilities for state-sponsored cyber warfare, exposing vulnerabilities in modern AI engines.
+* [Genergo: Propellantless space-propulsion system](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit) - An Italian company's invention revolutionizes space travel with propellant-free propulsion systems.
 
-* [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform) - A dive into Claude's API improvements emphasizing structured data outputs tailored for scalable systems.
+* [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/) - Exploration of advanced concurrency features in OCaml with Imandra AI's algorithmic systems.
 
-* [Announcing Unikraft Support for MirageOS Unikernels](https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels) - A significant update in unikernel technologies enabling enhanced cloud-native deployments.
+## Cybersecurity and Privacy Concerns
 
-## Space and Aerospace
+* [Five People Plead Quilty To Helping North Koreans Infiltrate US Companies](https://yro.slashdot.org/story/25/11/14/2143240/five-people-plead-quilty-to-helping-north-koreans-infiltrate-us-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal repercussions for assisting foreign cyber espionage.
 
-* [An Italian Company Builds the First Known Propellantless Space-Propulsion System](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit) - Establishing new frontiers in space travel with validated propellantless propulsion, bringing innovation to orbit.
+* [Logitech Reports Data Breach From Zero-Day Software Vulnerability](https://yro.slashdot.org/story/25/11/14/2140205/logitech-reports-data-breach-from-zero-day-software-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant security breach affects Logitech users.
 
-* [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss) - The fascinating discovery from Voyager spacecraft exploring the solar boundary's energy phenomenon.
+* [Hyundai Data Breach May Have Leaked Drivers' Personal Information](https://yro.slashdot.org/story/25/11/14/0424237/hyundai-data-breach-may-have-leaked-drivers-personal-information?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns rise over leaked sensitive automotive data.
 
-* [World's First Flying Car Factory Begins Production In China](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A pivotal moment for the automotive industry as flying vehicles inch closer to reality.
+## Artificial Intelligence Developments and Challenges
 
-## Cybersecurity and Privacy
+* [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies) - A cultural exploration of unsung heroes in dining.
 
-* [Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/) - Analysis of contemporary cybersecurity risks linked with AI expansions.
+* [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform) - Improvements in how AI delivers developer-friendly structured outputs.
 
-* [The disguised return of EU Chat Control](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot) - Coverage of the renewed controversies over proposed regulatory controls on digital privacy within the EU.
+* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&from=rss) - A critical investigation into AI funding sources linked to advertisement scams.
 
-* [Hyundai Data Breach May Have Leaked Drivers' Personal Information](https://yro.slashdot.org/story/25/11/14/0424237/hyundai-data-breach-may-have-leaked-drivers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach sheds light on information security issues within the automotive sector.
+## Scientific Discoveries and Health Studies
 
-## Science and Health
+* [All Lupus Cases May Be Linked To a Common Virus, Study Finds](https://science.slashdot.org/story/25/11/14/0836231/all-lupus-cases-may-be-linked-to-a-common-virus-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research identifies viral connections to autoimmune diseases.
 
-* [All Lupus Cases May Be Linked To a Common Virus, Study Finds](https://science.slashdot.org/story/25/11/14/0836231/all-lupus-cases-may-be-linked-to-a-common-virus-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research indicating possible viral origins for Lupus could redefine medical approaches to autoimmune conditions.
+* [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword) - Analyzing an essential mineral's complex role in disease progression.
 
-* [Manganese is Lyme disease's double-edge sword](https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword) - An exploration of manganese's intricate role in Lyme disease and its pathogenic implications.
+* [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&from=rss) - Historical perspectives on coffee's societal impact.
 
-* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - A contentious look at Meta's funding strategies for advancements in AI research.
+## Global Affairs and Economic Shifts
 
-## Environment and Climate
+* [Russia Imposes 24-Hour Mobile Internet Blackout For Travelers Returning Home](https://tech.slashdot.org/story/25/11/14/2153236/russia-imposes-24-hour-mobile-internet-blackout-for-travelers-returning-home?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Restrictions on mobile internet highlight privacy and control dynamics.
 
-* [World Still On Track For Catastrophic 2.6C Temperature Rise, Report Finds](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A stark reminder of pending climate crises as outlined by recent temperature projections.
+* [The Economic Impact of Brexit](https://news.slashdot.org/story/25/11/14/080207/the-economic-impact-of-brexit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of Brexit's ripple effects across economic sectors.
 
-* [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - Scientists explore innovative methods to unravel the mysteries surrounding dark matter.
-
-* [The Economic Impact of Brexit](https://news.slashdot.org/story/25/11/14/080207/the-economic-impact-of-brexit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzing the significant ripple effects of Brexit on global climate policies and trade.
+* [Singapore To Trial Tokenized Bills, Bring In Stablecoin Laws](https://yro.slashdot.org/story/25/11/14/0412216/singapore-to-trial-tokenized-bills-bring-in-stablecoin-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Forward-looking approaches to digital currency regulation.
 
 ---
 
@@ -67,28 +65,33 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
+* [2025-11-15, 00:50:00](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s $230 iPhone Pocket Sells Out Nearly Immediately](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-15, 00:10:00](https://yro.slashdot.org/story/25/11/14/2143240/five-people-plead-quilty-to-helping-north-koreans-infiltrate-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Five People Plead Quilty To Helping North Koreans Infiltrate US Companies](https://yro.slashdot.org/story/25/11/14/2143240/five-people-plead-quilty-to-helping-north-koreans-infiltrate-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-14, 23:39:36](https://news.ycombinator.com/item?id=45933497) - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
+* [2025-11-14, 23:30:00](https://tech.slashdot.org/story/25/11/14/2153236/russia-imposes-24-hour-mobile-internet-blackout-for-travelers-returning-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Imposes 24-Hour Mobile Internet Blackout For Travelers Returning Home](https://tech.slashdot.org/story/25/11/14/2153236/russia-imposes-24-hour-mobile-internet-blackout-for-travelers-returning-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-14, 22:50:00](https://yro.slashdot.org/story/25/11/14/2140205/logitech-reports-data-breach-from-zero-day-software-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Logitech Reports Data Breach From Zero-Day Software Vulnerability](https://yro.slashdot.org/story/25/11/14/2140205/logitech-reports-data-breach-from-zero-day-software-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
+* [2025-11-14, 22:33:15](https://news.ycombinator.com/item?id=45932962) - [Go&apos;s Sweet 16](https://go.dev/blog/16years)
+* [2025-11-14, 22:24:31](https://lobste.rs/s/km1ho1/rmpocalypse_attack_how_catch_22_breaks) - [RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP](https://rmpocalypse.github.io/)
+* [2025-11-14, 22:15:04](https://news.ycombinator.com/item?id=45932798) - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
+* [2025-11-14, 22:10:00](https://news.slashdot.org/story/25/11/14/2135239/jpmorgan-chase-wins-fight-with-fintech-firms-over-fees-to-access-customer-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [JPMorgan Chase Wins Fight With Fintech Firms Over Fees To Access Customer Data](https://news.slashdot.org/story/25/11/14/2135239/jpmorgan-chase-wins-fight-with-fintech-firms-over-fees-to-access-customer-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 21:30:00](https://slashdot.org/story/25/11/14/2129248/sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sam Altman Celebrates ChatGPT Finally Following Em Dash Formatting Rules](https://slashdot.org/story/25/11/14/2129248/sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 21:21:29](https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql) - [How to use UUIDv7 in Python, Django and PostgreSQL](https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss)
 * [2025-11-14, 21:00:25](https://news.ycombinator.com/item?id=45932131) - [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
-* [2025-11-14, 20:53:28](https://news.ycombinator.com/item?id=45932051) - [First Microprocessor – 50th Anniversary 2020](https://firstmicroprocessor.com/)
-* [2025-11-14, 20:06:31](https://news.ycombinator.com/item?id=45931552) - [Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/)
-* [2025-11-14, 19:54:58](https://news.ycombinator.com/item?id=45931403) - [All Praise to the Lunch Ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
+* [2025-11-14, 19:54:58](https://news.ycombinator.com/item?id=45931403) - [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
 * [2025-11-14, 19:50:16](https://news.ycombinator.com/item?id=45931331) - [Show HN: Epstein Files Organized and Searchable](https://searchepsteinfiles.com/)
-* [2025-11-14, 19:49:42](https://lobste.rs/s/ylrosp/politics_purely_client_side_apps) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
-* [2025-11-14, 19:43:15](https://news.ycombinator.com/item?id=45931224) - [An Italian Company Builds the First Known Propellantless Space-Propulsion System](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit)
-* [2025-11-14, 19:07:45](https://news.ycombinator.com/item?id=45930659) - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
+* [2025-11-14, 19:43:15](https://news.ycombinator.com/item?id=45931224) - [Genergo: Propellantless space-propulsion system](https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit)
 * [2025-11-14, 19:04:23](https://news.ycombinator.com/item?id=45930598) - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 18:42:55](https://news.ycombinator.com/item?id=45930284) - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
 * [2025-11-14, 18:35:22](https://news.ycombinator.com/item?id=45930151) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-14, 18:20:08](https://news.ycombinator.com/item?id=45929921) - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
-* [2025-11-14, 18:18:11](https://news.ycombinator.com/item?id=45929888) - [Show HN: Dumbass Business Ideas](https://dumbassideas.com)
 * [2025-11-14, 18:05:00](https://tech.slashdot.org/story/25/11/14/1739233/retail-traders-left-exposed-in-high-stakes-crypto-treasury-deals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Retail Traders Left Exposed in High-Stakes Crypto Treasury Deals](https://tech.slashdot.org/story/25/11/14/1739233/retail-traders-left-exposed-in-high-stakes-crypto-treasury-deals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:54:07](https://news.ycombinator.com/item?id=45929511) - [The disguised return of EU Chat Control](https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot)
 * [2025-11-14, 17:43:40](https://news.ycombinator.com/item?id=45929358) - [Bitchat for Gaza – messaging without internet](https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/)
-* [2025-11-14, 17:35:17](https://news.ycombinator.com/item?id=45929247) - [Meeting notes between Forgejo and the Dutch government via Git commits](https://codeberg.org/forgejo/sustainability/pulls/137/files)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
 * [2025-11-14, 17:24:00](https://entertainment.slashdot.org/story/25/11/14/1715240/only-half-the-homes-in-america-have-cable-tv-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Only Half the Homes in America Have Cable TV Anymore](https://entertainment.slashdot.org/story/25/11/14/1715240/only-half-the-homes-in-america-have-cable-tv-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 17:19:08](https://news.ycombinator.com/item?id=45929052) - [Germany to ban Huawei from future 6G network](https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push)
@@ -103,6 +106,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 15:20:00](https://slashdot.org/story/25/11/14/1118241/krafton-launches-voluntary-resignation-program-weeks-after-declaring-ai-first-company-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Krafton Launches Voluntary Resignation Program Weeks After Declaring &apos;AI-First Company&apos; Future](https://slashdot.org/story/25/11/14/1118241/krafton-launches-voluntary-resignation-program-weeks-after-declaring-ai-first-company-future?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 14:55:57](https://lobste.rs/s/jtpw7d/last_couple_years_v8_s_garbage_collector) - [the last couple years in v8&apos;s garbage collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
+* [2025-11-14, 14:46:27](https://news.ycombinator.com/item?id=45927210) - [Linear algebra explains why some words are effectively untranslatable](https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable)
 * [2025-11-14, 14:40:00](https://science.slashdot.org/story/25/11/14/0836231/all-lupus-cases-may-be-linked-to-a-common-virus-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [All Lupus Cases May Be Linked To a Common Virus, Study Finds](https://science.slashdot.org/story/25/11/14/0836231/all-lupus-cases-may-be-linked-to-a-common-virus-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 14:00:00](https://news.slashdot.org/story/25/11/14/080207/the-economic-impact-of-brexit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Economic Impact of Brexit](https://news.slashdot.org/story/25/11/14/080207/the-economic-impact-of-brexit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 13:21:24](https://news.ycombinator.com/item?id=45926469) - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
@@ -110,32 +114,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-14, 13:07:11](https://lobste.rs/s/zgrrqx/amd_gpus_go_brrr) - [AMD GPUs go brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [2025-11-14, 13:00:00](https://yro.slashdot.org/story/25/11/14/0412216/singapore-to-trial-tokenized-bills-bring-in-stablecoin-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Singapore To Trial Tokenized Bills, Bring In Stablecoin Laws](https://yro.slashdot.org/story/25/11/14/0412216/singapore-to-trial-tokenized-bills-bring-in-stablecoin-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 12:57:01](https://lobste.rs/s/yceoaw/announcing_unikraft_support_for) - [Announcing Unikraft Support for MirageOS Unikernels](https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels)
-* [2025-11-14, 12:51:23](https://news.ycombinator.com/item?id=45926263) - [EDE: Small and Fast Desktop Environment (2014)](https://edeproject.org/)
 * [2025-11-14, 12:44:07](https://news.ycombinator.com/item?id=45926224) - [Winamp clone in Swift for macOS](https://github.com/mgreenwood1001/winamp)
 * [2025-11-14, 12:09:59](https://news.ycombinator.com/item?id=45926037) - [Magit manuals are available online again](https://github.com/magit/magit/issues/5472)
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
 * [2025-11-14, 10:54:20](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend)
 * [2025-11-14, 10:00:00](https://yro.slashdot.org/story/25/11/14/0424237/hyundai-data-breach-may-have-leaked-drivers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hyundai Data Breach May Have Leaked Drivers&apos; Personal Information](https://yro.slashdot.org/story/25/11/14/0424237/hyundai-data-breach-may-have-leaked-drivers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn&apos;t a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
-* [2025-11-14, 07:00:00](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Renames &apos;Project Kuiper&apos; Satellite Internet Venture To &apos;Leo&apos;](https://tech.slashdot.org/story/25/11/14/0416257/amazon-renames-project-kuiper-satellite-internet-venture-to-leo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
-* [2025-11-14, 03:30:00](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World Still On Track For Catastrophic 2.6C Temperature Rise, Report Finds](https://news.slashdot.org/story/25/11/13/2327240/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 02:27:20](https://news.ycombinator.com/item?id=45923188) - [HipKittens: Fast and furious AMD kernels](https://hazyresearch.stanford.edu/blog/2025-11-09-hk)
 * [2025-11-14, 02:12:00](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
-* [2025-11-14, 01:30:00](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix&apos;s New Era of TV Games Starts Now](https://games.slashdot.org/story/25/11/13/2333224/netflixs-new-era-of-tv-games-starts-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-14, 00:50:00](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s First Flying Car Factory Begins Production In China](https://tech.slashdot.org/story/25/11/13/2315231/worlds-first-flying-car-factory-begins-production-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-14, 00:10:00](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jack Dorsey Funds diVine, a Vine Reboot That Includes Vine&apos;s Video Archive](https://tech.slashdot.org/story/25/11/13/2247206/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-13, 21:23:00](https://soylentnews.org/article.pl?sid=25/11/12/1214254&amp;from=rss) - [Google&apos;s Gemini Deep Research Can Now Read Your Gmail and Rummage Through Google Drive](https://soylentnews.org/article.pl?sid=25/11/12/1214254&amp;from=rss)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 * [2025-11-13, 16:41:00](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss) - [Microsoft Task Manager Bug Spawns New Processes](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss)
 * [2025-11-13, 15:51:03](https://lobste.rs/s/4inlhr/language_design_notes) - [Language Design Notes](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
 * [2025-11-13, 14:43:58](https://lobste.rs/s/6dfpil/parsing_integers_c) - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
-* [2025-11-13, 13:33:13](https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss) - [Hyundai&apos;s New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss)
@@ -147,14 +144,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss)
 * [2025-11-11, 22:03:00](https://soylentnews.org/article.pl?sid=25/11/10/1159252&amp;from=rss) - [MX Linux 25 “Infinity” Is Now Available for Download, Based on Debian 13 “Trixie”](https://soylentnews.org/article.pl?sid=25/11/10/1159252&amp;from=rss)
 * [2025-11-11, 17:18:00](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss) - [New Physical Attacks Are Quickly Diluting Secure Enclave Defenses From Nvidia, AMD, and Intel](https://soylentnews.org/article.pl?sid=25/11/10/1130222&amp;from=rss)
+* [2025-11-11, 13:52:15](https://news.ycombinator.com/item?id=45887262) - [Has Google solved two of AI&apos;s oldest problems?](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of)
 * [2025-11-11, 12:37:00](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss) - [Watch Out for These Recent Windows and NPM Vulnerabilities](https://soylentnews.org/article.pl?sid=25/11/09/141240&amp;from=rss)
 * [2025-11-11, 09:48:05](https://news.ycombinator.com/item?id=45885677) - [Xqerl – Erlang XQuery 3.1 Processor](https://zadean.github.io/xqerl/)
 * [2025-11-11, 07:50:00](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss) - [UK Carriers to Block Spoofed Phone Numbers in Fraud Crackdown](https://soylentnews.org/article.pl?sid=25/11/09/1352235&amp;from=rss)
 * [2025-11-11, 03:04:00](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss) - [AI Sets Up Kodak Moment for Global Consultants](https://soylentnews.org/article.pl?sid=25/11/09/1338227&amp;from=rss)
-* [2025-11-10, 22:22:00](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss) - [EBikes Banned from NSW Trains Due To Fire Hazard](https://soylentnews.org/article.pl?sid=25/11/08/2137231&amp;from=rss)
-* [2025-11-10, 17:40:00](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss) - [Australian Wine Industry Battles Fakes With Smart Bottle Caps](https://soylentnews.org/article.pl?sid=25/11/08/2128227&amp;from=rss)
-* [2025-11-10, 15:13:55](https://news.ycombinator.com/item?id=45876742) - [Show HN: Tiny Diffusion – A character-level text diffusion model from scratch](https://github.com/nathan-barry/tiny-diffusion)
-* [2025-11-10, 13:11:49](https://news.ycombinator.com/item?id=45875618) - [Honda: 2 years of ml vs 1 month of prompting - heres what we learned](https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/)
-* [2025-11-10, 13:00:00](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss) - [Plumbing the Universe for Dark Matter](https://soylentnews.org/article.pl?sid=25/11/08/2122221&amp;from=rss)
-* [2025-11-10, 08:21:00](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss) - [The Chemistry Behind That Pricey Cup of Civet Coffee](https://soylentnews.org/article.pl?sid=25/11/08/214219&amp;from=rss)
-* [2025-11-10, 03:47:00](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss) - [Blame game over Air India crash goes on](https://soylentnews.org/article.pl?sid=25/11/08/1723229&amp;from=rss)
