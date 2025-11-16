@@ -1,58 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
+## Technology and Security Developments
 
-* [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&from=rss) - A focus on making FreeBSD a compelling alternative to the chaotic Linux environment with reproducible rootless builds.
+* [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Advancements in quantum error correction are analyzed in a significant new breakthrough.
+* [Google Begins Aggressively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs) - This project highlights efforts to create a Visual Studio Code-like experience within Emacs.
+* [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
 
-* [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/) - A fascinating dive into an Xbox 360 CPU design bug uncovered in 2018.
+* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Software & Programming Developments
+* [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 
-* [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/) - Insights into using Rust for creating efficient serverless applications.
+## AI and Machine Learning Insights
 
-* [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) - An exploration of compiler hardening practices to enhance software security.
+* [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html) - A guide for achieving type-safety in generic programming with C.
+* [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss)
 
-* [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/) - The integration of Moonpool and OCaml5 into the Imandrax platform highlights new capabilities.
+* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
 
-* [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/) - Rust programming advancements include this new tool for structural regular expressions.
+* [She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html) - Key issues within Iceberg's specification are debated in this continuation of the critique.
+## Open Source and Software Engineering
 
-* [Small functions considered harmful (2017)](https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29) - A 2017 perspective on the downsides of overly granular functions.
+* [Latency Profiling and Optimization - Dmitry Vyukov](https://www.youtube.com/watch?v=lv03NAT4Mwc)
 
-## Artificial Intelligence
+* [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 
-* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI rivalry between the US and China is explored in this analysis.
+* [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/)
 
-* [Bruce Ediger Pranks Meta with Endless Bad Data While Meta Crawls the Web for AI Training](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How Meta's web scraping for AI data faced deliberate obfuscation.
+* [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 
-* [AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake) - Questions surrounding AI's purported adverse effects are tackled.
+## Science and Space Achievements
 
-* [She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unusual application of ChatGPT to win a lottery.
+* [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Rise of Subagents](https://www.philschmid.de/the-rise-of-subagents) - A report discussing AI subagents and their growing prevalence.
+* [NASA Confirms Voyager Spacecraft Has Encountered a 'Wall of Fire' at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss)
 
-* [AI World Clocks](https://clocks.brianmoore.com/) - A novelty AI project showcasing time conversion with advanced processing.
+* [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
 
-## Consumer and Societal Impacts
+## Hardware and Engineering Innovations
 
-* [EV Sales Are Still Rising. They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Continued growth in electric vehicle sales defies predictions of decline.
+* [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
 
-* [Apple's $230 iPhone Pocket Sells Out Nearly Immediately](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Consumer enthusiasm rapidly depletes the limited supply of Apple's iPhone Pocket.
+* [Finder a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 
-* [YouTube TV and Disney Reach Deal Ending Two-Week Blackout of ESPN, ABC](https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major agreement resolves a prolonged viewing interruption.
-
-* [Woman Pleads Guilty to Lying About Astronaut Accessing Bank Account From International Space Station](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unique case regarding fabricated space-related fraud.
-
-* [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientific insights into the lunar interior redefine our understanding.
-
-* [GM Wants Parts Makers To Pull Supply Chains From China](https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Corporate policy shifts reflect geopolitical concerns.
+* [EV Sales Are Still Rising. They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -79,11 +73,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-16, 03:58:00](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-16, 03:16:28](https://lobste.rs/s/jfmy1b/latency_profiling_optimization_dmitry) - [Latency Profiling and Optimization - Dmitry Vyukov](https://www.youtube.com/watch?v=lv03NAT4Mwc)
+* [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider&apos;s Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
+* [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-16, 01:36:00](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss) - [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss)
+* [2025-11-16, 01:34:00](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 01:02:55](https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2025-11-16, 00:56:31](https://news.ycombinator.com/item?id=45941835) - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 * [2025-11-16, 00:22:00](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 00:04:29](https://news.ycombinator.com/item?id=45941613) - [Solving Project Euler #45](https://loriculus.org/blog/euler-45/)
 * [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple&apos;s ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:55:19](https://news.ycombinator.com/item?id=45941563) - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
 * [2025-11-15, 23:31:39](https://news.ycombinator.com/item?id=45941443) - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
@@ -91,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:22:00](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fear Drives the AI &apos;Cold War&apos; Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 23:15:27](https://lobste.rs/s/8tzd9i/your_project_fucking_sucks) - [your project fucking sucks](https://ficd.sh/blog/your-project-sucks/)
-* [2025-11-15, 22:48:05](https://lobste.rs/s/mdyk4r/rise_subagents) - [The Rise of Subagents](https://www.philschmid.de/the-rise-of-subagents)
 * [2025-11-15, 22:40:49](https://lobste.rs/s/7knpcc/building_robust_permissions_system) - [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 * [2025-11-15, 22:22:00](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Sales Are Still Rising.  They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
@@ -115,6 +112,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 16:34:00](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Pleads Guilty to Lying About Astronaut Accessing Bank Account From International Space Station](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 16:18:56](https://lobste.rs/s/64jejv/building_serverless_applications_with) - [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/)
+* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth](https://saul.pw/mag/wealth/)
 * [2025-11-15, 16:08:21](https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
 * [2025-11-15, 15:36:58](https://lobste.rs/s/gvm3xa/don_t_post_passive_aggressive_webpages) - [Don&apos;t Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
@@ -138,14 +136,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
 * [2025-11-15, 01:30:00](https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube TV and Disney Reach Deal Ending Two-Week Blackout of ESPN, ABC](https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 00:50:00](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s $230 iPhone Pocket Sells Out Nearly Immediately](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 00:10:00](https://yro.slashdot.org/story/25/11/14/2143240/five-people-plead-quilty-to-helping-north-koreans-infiltrate-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Five People Plead Quilty To Helping North Koreans Infiltrate US Companies](https://yro.slashdot.org/story/25/11/14/2143240/five-people-plead-quilty-to-helping-north-koreans-infiltrate-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-14, 23:30:00](https://tech.slashdot.org/story/25/11/14/2153236/russia-imposes-24-hour-mobile-internet-blackout-for-travelers-returning-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Imposes 24-Hour Mobile Internet Blackout For Travelers Returning Home](https://tech.slashdot.org/story/25/11/14/2153236/russia-imposes-24-hour-mobile-internet-blackout-for-travelers-returning-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 16:31:00](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss) - [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss)
-* [2025-11-14, 16:25:42](https://lobste.rs/s/rd1tcy/portable_python_self_contained_python) - [portable_python: Self-contained Python distribution for Linux](https://github.com/qznc/portable_python)
-* [2025-11-14, 15:25:28](https://lobste.rs/s/9appzu/how_we_avoided_side_channels_our_new_post) - [How we avoided side-channels in our new post-quantum Go cryptography libraries](https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/)
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
