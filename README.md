@@ -1,56 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming
+## Clean Energy and Environmental Discussions
 
-* [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE) - Insights into programming language design by game developer Jonathan Blow, including the rationale behind his creation of the Jai language. [Comments](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language).
+* [Solar and Wind are Covering ALl New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Harnessing renewable energy sources, solar and wind are meeting new power demands while contributing to a shift in energy infrastructure.
 
-* [Could C# Overtake Java in TIOBE's Programming Language Popularity Rankings?](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Speculation about language trends and what it could mean for the developer ecosystem. [Comments](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - Australia's innovative solar initiative provides daily free electricity, shaping more affordable and sustainable energy usage.
 
-* [Latency Profiling and Optimization](https://www.youtube.com/watch?v=lv03NAT4Mwc) - Techniques for profiling and reducing latency in software systems. [Comments](https://lobste.rs/s/jfmy1b/latency_profiling_optimization).
+* [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo) - Britain prepares to develop its initial small nuclear power station, promising advancements in energy technology.
 
-* [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html) - A demonstration of synthesizing audio with SuperCollider's engine directly in the browser. [Comments](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis).
+## AI Development and Technology Ethics
 
-* [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/) - A dive into reversing and debugging a hardware flaw within the Xbox 360 CPU. [Comments](https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018).
+* [Is Perplexity the first AI unicorn to fail?](https://medium.com/@anwarzaid76/is-perplexity-the-first-ai-unicorn-to-fail-eb0e827b5e7e) - A critical look at the downfall of an AI unicorn amidst evolving industry challenges.
 
-* [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs) - Introducing a new IDE experience tailored for Emacs users. [Comments](https://news.ycombinator.com/item?id=45941835).
+* [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss) - Examining pushback against AI adoption from ethical to societal perspectives.
 
-* [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/) - Performance tuning strategies for Python developers. [Comments](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code).
+* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - Meta's funding methods for AI research reveal the exploitation of scam advertisement profits.
 
-## AI and Data
+* [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss) - Google's AI-centric search models introduce changes to advertisements, potentially reshaping user experience.
 
-* [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An analysis of security implications arising from data exfiltration behaviors. [Comments](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The global AI race heightens geopolitical tension as nations compete for technological supremacy.
 
-* [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A creative attempt to disrupt Meta's training datasets with deceptive inputs. [Comments](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+## Programming Innovations and Discussions
 
-* [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on advancements unlocking new capabilities in quantum computing. [Comments](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Programming Languages in the Age of "AI" Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/) - Exploration of how AI transforms the functionality and evolution of programming languages.
 
-* [Mag Wealth (2024)](https://saul.pw/mag/wealth/) - New perspectives on societal wealth disparities analyzed using AI mechanisms. [Comments](https://news.ycombinator.com/item?id=45938427).
+* [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone) - A new Rust-based JavaScript engine introduces potential upgrades for web development.
 
-* [AI World Clocks](https://clocks.brianmoore.com/) - Explore time visualization for a hyper-connected, AI-driven global context. [Comments](https://lobste.rs/s/sw3hlu/ai_world_clocks).
+* [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html) - Innovative tools bring audio synthesis directly to web interactions with enhanced browser compatibility.
 
-## Cybersecurity and Privacy
+* [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) - Strategies to maintain web privacy while overcoming reliance on JavaScript against LLM crawlers.
 
-* [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) - Methods to curb AI data crawlers while maintaining privacy. [Comments](https://news.ycombinator.com/item?id=45941441).
+## Security and Privacy Concerns
 
-* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) - A significant energy policy aiming to integrate household solar solutions. [Comments](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss).
+* [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802) - Security loopholes in Git expose phishing operations and highlight the need for better audit practices.
 
-* [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's legal measures targeting digital scams. [Comments](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - Insights into how worn keyboard keys divulge personal habits and workplace efficiency.
 
-* [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html) - A case study uncovering threats against information preservation platforms like Archive.today. [Comments](https://news.ycombinator.com/item?id=45936460).
+* [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - Advanced hacking methods utilizing virtualization underscore heightened risks for Linux environments.
 
-* [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss) - EU actions relaxing data privacy laws to bolster AI innovation. [Comments](https://soylentnews.org/article.pl?sid=25/11/13/0410238&from=rss).
+* [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html) - A riveting story of unexpected tariff issues demonstrates vulnerabilities in shipping policies.
 
-## Cultural and Science Highlights
+* [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss) - Federal agencies pursue anonymity breaches in archiving platforms, sparking discussions on privacy rights.
 
-* [Lego: The Final Frontier. Star Trek's First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss) - Celebrating Star Trek collaborations with iconic LEGO sets. [Comments](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss).
+## Novel Technological Applications
 
-* [She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A story blending AI usage and altruism. [Comments](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Google releases CodeWiki for AI-based code documentation](https://codewiki.google/) - Google's latest innovation revolutionizes how developers incorporate AI in documenting code.
 
-* [The computer poetry of J. M. Coetzee's early programming career (2017)](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/) - Unveiling the lesser-known technological pursuits of a renowned novelist. [Comments](https://news.ycombinator.com/item?id=45939569).
+* [Holy Winamp! Opera Puts a Music Visualizer Inside Its Browser](https://entertainment.slashdot.org/story/25/11/16/0827245/holy-winamp-opera-puts-a-music-visualizer-inside-its-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Opera integrates creativity with its visualizer to produce a nostalgia-driven browsing feature.
 
-* [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revealing findings on lunar structure. [Comments](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Facebook Text Log Between Mark Zuckerberg and Kevin Systrom (Instagram Cofounder)](https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&amp;e=1&amp;noscript=1&amp;preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&amp;rlkey=43f3smc5zi5v82h986hujmvfb) - Recent documents reveal pivotal discussions shaping social media's history.
 
-* [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss) - Exciting developments from the Voyager mission beyond our solar system. [Comments](https://soylentnews.org/article.pl?sid=25/11/10/1939208&from=rss).
+* [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/) - Revisiting peculiar CPU obstacles, leading to impacts on hardware development lessons.
+
+* [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Promising breakthroughs in quantum systems propel advancements in data reliability and quantum computing.
 
 ---
 
@@ -77,15 +79,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-16, 12:34:00](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar and Wind are Covering ALl New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-16, 12:25:01](https://news.ycombinator.com/item?id=45944595) - [Why are you (still) using OpenBSD?](https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/)
+* [2025-11-16, 11:57:41](https://news.ycombinator.com/item?id=45944428) - [Is Perplexity the first AI unicorn to fail?](https://medium.com/@anwarzaid76/is-perplexity-the-first-ai-unicorn-to-fail-eb0e827b5e7e)
+* [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
+* [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic&apos;s report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
+* [2025-11-16, 11:20:14](https://lobste.rs/s/y25lzf/google_releases_codewiki_for_ai_based) - [Google releases CodeWiki for AI-based code documentation](https://codewiki.google/)
+* [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \&quot;AI\&quot; Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
+* [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss)
+* [2025-11-16, 10:38:41](https://news.ycombinator.com/item?id=45944056) - [UK&apos;s first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
+* [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple&apos;s ecosystem](https://github.com/kavishdevar/librepods)
+* [2025-11-16, 10:14:25](https://news.ycombinator.com/item?id=45943979) - [Maybe You&apos;re Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
+* [2025-11-16, 09:29:21](https://news.ycombinator.com/item?id=45943802) - [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-16, 08:34:00](https://entertainment.slashdot.org/story/25/11/16/0827245/holy-winamp-opera-puts-a-music-visualizer-inside-its-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Holy Winamp! Opera Puts a Music Visualizer Inside Its Browser&apos;](https://entertainment.slashdot.org/story/25/11/16/0827245/holy-winamp-opera-puts-a-music-visualizer-inside-its-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 06:55:50](https://news.ycombinator.com/item?id=45943292) - [Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch](https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/)
+* [2025-11-16, 07:55:09](https://news.ycombinator.com/item?id=45943486) - [Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)](https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&amp;e=1&amp;noscript=1&amp;preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&amp;rlkey=43f3smc5zi5v82h986hujmvfb)
 * [2025-11-16, 06:51:25](https://news.ycombinator.com/item?id=45943279) - [Bypassing the Branch Predictor](https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html)
 * [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss)
 * [2025-11-16, 05:58:00](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could C# Overtake Java in TIOBE&apos;s Programming Language Popularity Rankings?](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-16, 04:02:26](https://news.ycombinator.com/item?id=45942649) - [Is our death from a hydrogen sulfide event inevitable in climate warming? (2005)](https://www.psu.edu/news/research/story/global-warming-led-climatic-hydrogen-sulfide-and-permian-extinction)
 * [2025-11-16, 03:58:00](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 03:29:48](https://news.ycombinator.com/item?id=45942518) - [Hyundai Paywalls Brake Pads replacement on Ioniq 5 N](https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login)
-* [2025-11-16, 03:16:28](https://lobste.rs/s/jfmy1b/latency_profiling_optimization) - [Latency Profiling and Optimization](https://www.youtube.com/watch?v=lv03NAT4Mwc)
 * [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider&apos;s Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
 * [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-16, 01:36:00](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss) - [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss)
@@ -102,18 +116,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 23:15:27](https://lobste.rs/s/8tzd9i/your_project_fucking_sucks) - [your project fucking sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:40:49](https://lobste.rs/s/7knpcc/building_robust_permissions_system) - [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 * [2025-11-15, 22:22:00](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Sales Are Still Rising.  They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
+* [2025-11-15, 22:16:33](https://news.ycombinator.com/item?id=45941025) - [libwifi: an 802.11 frame parsing and generation library written in C (2023)](https://libwifi.so/)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H&apos;s Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 21:35:34](https://lobste.rs/s/jzgc2q/how_can_web_apps_be_independent_protocol) - [How can web apps be independent protocol clients?](https://fiatjaf.com/6829ad8b.html)
 * [2025-11-15, 21:22:57](https://news.ycombinator.com/item?id=45940706) - [AsciiMath](https://asciimath.org/)
 * [2025-11-15, 21:22:00](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 21:18:55](https://news.ycombinator.com/item?id=45940681) - [Report: Tim Cook could step down as Apple CEO &apos;as soon as next year&apos;](https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/)
 * [2025-11-15, 20:51:00](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss) - [Lego: The Final Frontier. Star Trek&apos;s First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss)
 * [2025-11-15, 20:22:00](https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Killed This Game in 2024.  Three Developers Reverse-Engineered It Back to Life](https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 19:29:32](https://news.ycombinator.com/item?id=45939938) - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
 * [2025-11-15, 19:22:00](https://news.slashdot.org/story/25/11/15/0433216/why-solarpunk-is-already-happening-in-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Solarpunk Is Already Happening In Africa](https://news.slashdot.org/story/25/11/15/0433216/why-solarpunk-is-already-happening-in-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 19:10:31](https://news.ycombinator.com/item?id=45939798) - [Nevada Governor&apos;s office covered up Boring Co safety violations](https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/)
-* [2025-11-15, 18:44:05](https://news.ycombinator.com/item?id=45939569) - [The computer poetry of J. M. Coetzee&apos;s early programming career (2017)](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
 * [2025-11-15, 18:40:55](https://news.ycombinator.com/item?id=45939550) - [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren&apos;t doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 18:23:52](https://lobste.rs/s/ygmqnn/iceberg_right_idea_wrong_spec_part_2_2_spec) - [Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
@@ -121,32 +132,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 16:34:00](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Pleads Guilty to Lying About Astronaut Accessing Bank Account From International Space Station](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 16:18:56](https://lobste.rs/s/64jejv/building_serverless_applications_with) - [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/)
-* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth (2024)](https://saul.pw/mag/wealth/)
 * [2025-11-15, 16:08:21](https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
 * [2025-11-15, 15:36:58](https://lobste.rs/s/gvm3xa/don_t_post_passive_aggressive_webpages) - [Don&apos;t Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
 * [2025-11-15, 15:34:00](https://hardware.slashdot.org/story/25/11/15/0352221/a-peak-oil-prediction-surprise-from-the-international-energy-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A &apos;Peak Oil&apos; Prediction Surprise From the International Energy Agency](https://hardware.slashdot.org/story/25/11/15/0352221/a-peak-oil-prediction-surprise-from-the-international-energy-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 15:25:08](https://news.ycombinator.com/item?id=45938027) - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
-* [2025-11-15, 15:19:20](https://news.ycombinator.com/item?id=45937989) - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
 * [2025-11-15, 14:27:42](https://lobste.rs/s/4soie8/inconceivable_types_rust_how_make_self) - [The Inconceivable Types of Rust: How to Make Self-Borrows Safe](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 * [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss)
 * [2025-11-15, 10:30:52](https://news.ycombinator.com/item?id=45936460) - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 * [2025-11-15, 10:00:00](https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Wants Parts Makers To Pull Supply Chains From China](https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
-* [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
 * [2025-11-15, 07:00:00](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss)
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
-* [2025-11-15, 03:30:00](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 16:31:00](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss) - [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss)
-* [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
-* [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn&apos;t a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 * [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss)
@@ -155,9 +159,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-13, 16:41:00](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss) - [Microsoft Task Manager Bug Spawns New Processes](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss)
 * [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss) - [Hyundai&apos;s New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss)
+* [2025-11-13, 03:50:11](https://news.ycombinator.com/item?id=45910388) - [In Praise of Useless Robots](https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/)
 * [2025-11-13, 02:33:00](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss) - [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
 * [2025-11-12, 21:49:00](https://soylentnews.org/article.pl?sid=25/11/10/1942230&amp;from=rss) - [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&amp;from=rss)
 * [2025-11-12, 17:05:00](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss) - [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss)
 * [2025-11-12, 12:24:00](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss) - [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss)
 * [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss)
 * [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss)
+* [2025-11-12, 02:46:39](https://news.ycombinator.com/item?id=45895864) - [Show HN: Real-time 4D Julia set navigation via gamepad](https://banditcat.github.io/Atlas/Atlas.html)
