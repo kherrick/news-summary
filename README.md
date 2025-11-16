@@ -1,52 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security Developments
+## Technology Advancements and Innovations
 
-* [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Google Begins Aggressively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
-
-* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
-
-## AI and Machine Learning Insights
-
-* [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss)
-
-* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
-
-* [She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar](https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Open Source and Software Engineering
+* [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 * [Latency Profiling and Optimization - Dmitry Vyukov](https://www.youtube.com/watch?v=lv03NAT4Mwc)
 
-* [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
+* [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
 
-* [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/)
+## Industry Developments and Corporate News
 
-* [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
+* [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&from=rss)
 
-## Science and Space Achievements
+* [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Programming and Software
 
-* [NASA Confirms Voyager Spacecraft Has Encountered a 'Wall of Fire' at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss)
+* [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 
-* [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
+* [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
 
-## Hardware and Engineering Innovations
+## Quantum Computing and Physics Discoveries
 
-* [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
+* [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Finder a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
+## AI and Data
 
-* [EV Sales Are Still Rising. They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript)
+
+* [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Environmental and Energy Updates
+
+* [Why Solarpunk Is Already Happening In Africa](https://news.slashdot.org/story/25/11/15/0433216/why-solarpunk-is-already-happening-in-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss)
+
+## Gaming and Creative Works
+
+* [Lego: The Final Frontier. Star Trek's First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&from=rss)
+
+* [Sony Killed This Game in 2024. Three Developers Reverse-Engineered It Back to Life](https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -73,8 +69,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss)
+* [2025-11-16, 05:58:00](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could C# Overtake Java in TIOBE&apos;s Programming Language Popularity Rankings?](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 03:58:00](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 03:16:28](https://lobste.rs/s/jfmy1b/latency_profiling_optimization_dmitry) - [Latency Profiling and Optimization - Dmitry Vyukov](https://www.youtube.com/watch?v=lv03NAT4Mwc)
+* [2025-11-16, 03:14:19](https://news.ycombinator.com/item?id=45942462) - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
 * [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider&apos;s Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
 * [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-16, 01:36:00](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss) - [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss)
@@ -108,11 +107,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 18:24:58](https://news.ycombinator.com/item?id=45939431) - [Things that aren&apos;t doing the thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 * [2025-11-15, 18:23:52](https://lobste.rs/s/ygmqnn/iceberg_right_idea_wrong_spec_part_2_2_spec) - [Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-11-15, 17:50:49](https://lobste.rs/s/pztoqh/small_functions_considered_harmful_2017) - [Small functions considered harmful (2017)](https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29)
-* [2025-11-15, 17:00:38](https://news.ycombinator.com/item?id=45938785) - [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 16:34:00](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Pleads Guilty to Lying About Astronaut Accessing Bank Account From International Space Station](https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 16:18:56](https://lobste.rs/s/64jejv/building_serverless_applications_with) - [Building serverless applications with Rust on AWS Lambda](https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/)
-* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth](https://saul.pw/mag/wealth/)
+* [2025-11-15, 16:16:42](https://news.ycombinator.com/item?id=45938427) - [Mag Wealth (2024)](https://saul.pw/mag/wealth/)
 * [2025-11-15, 16:08:21](https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
 * [2025-11-15, 15:36:58](https://lobste.rs/s/gvm3xa/don_t_post_passive_aggressive_webpages) - [Don&apos;t Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)
@@ -126,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 10:00:00](https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Wants Parts Makers To Pull Supply Chains From China](https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 * [2025-11-15, 08:42:33](https://news.ycombinator.com/item?id=45935970) - [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training)
-* [2025-11-15, 07:38:18](https://news.ycombinator.com/item?id=45935729) - [Messing with scraper bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-15, 07:00:00](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Confirmed What Is Inside Our Moon](https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 06:37:50](https://news.ycombinator.com/item?id=45935503) - [TCP, the workhorse of the internet](https://cefboud.com/posts/tcp-deep-dive-internals/)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss)
@@ -135,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
 * [2025-11-15, 01:30:00](https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube TV and Disney Reach Deal Ending Two-Week Blackout of ESPN, ABC](https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 00:50:00](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s $230 iPhone Pocket Sells Out Nearly Immediately](https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
