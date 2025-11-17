@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Personal Computing and Technology Development
 
-* [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/) explores the recreation of the IBM-PC-XT experience using FPGA technology. [Comments](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt).
+* [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/) explores the concept of mathematical thinking as a foundation for writing effective code. [Comments](https://lobste.rs/s/b1njsq/think_math_write_code).
 
-* [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works) demonstrates how to create an effective, straightforward search tool. [Comments](https://news.ycombinator.com/item?id=45950720).
+* [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/) showcases a recreation of IBM-PC-XT using modern FPGA technology. [Comments](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt).
 
-* [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/) provides a comprehensive overview of various JavaScript engines. [Comments](https://lobste.rs/s/l1uoqb/javascript_engines_zoo).
+* [Rust in Android: More Memory Safety, Fewer Revisions, Fewer Rollbacks, Shorter Reviews](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses the benefits of Rust integration into Android development practices. [Comments](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone) delves into Brimstone, a JavaScript engine created using Rust, and its significant features. [Comments](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written).
+## Cryptocurrency and Market Trends
 
-* [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It&apos;s Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/) discusses findings regarding environmental changes in Crater Lake and their broader implications. [Comments](https://news.ycombinator.com/item?id=45950553).
+* [Bitcoin Erases Year's Gain as Crypto Bear Market Deepens](https://news.slashdot.org/story/25/11/17/024220/bitcoin-erases-years-gain-as-crypto-bear-market-deepens?utm_source=rss1.0mainlinkanon&utm_medium=feed) provides insights into the ongoing bearish trend in the cryptocurrency market. [Comments](https://news.slashdot.org/story/25/11/17/024220/bitcoin-erases-years-gain-as-crypto-bear-market-deepens?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Artificial Intelligence and Data
+## Science and Innovation
 
-* [Microsoft Executives Discuss How AI Will Change Windows, Programming -- and Society](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights Microsoft’s vision for AI's role in software and societal transformation. [Comments](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) reports on a discovery that a dinosaur species possessed unique spiked body armor. [Comments](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss).
 
-* [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY) explores contemporary surveillance concerns exacerbated by advancements in camera tracking technology. [Comments](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare).
+* [More Tech Moguls Want to Build Data Centers in Outer Space](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores the emerging trend of constructing extraterrestrial data centers. [Comments](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [The Internet Archive Now Captures AI-Generated Content (Including Google&apos;s AI Overviews)](https://tech.slashdot.org/story/25/11/16/1852218/the-internet-archive-now-captures-ai-generated-content-including-googles-ai-overviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses the archival of AI-generated material to document trends and developments. [Comments](https://tech.slashdot.org/story/25/11/16/1852218/the-internet-archive-now-captures-ai-generated-content-including-googles-ai-overviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Chinese Astronauts Return From Their Space Station After Delay Blamed on Space Debris Damage](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights the challenges of maintaining space safety. [Comments](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Science and Space Exploration
+## Security and AI Ethics
 
-* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) uncovers a new dinosaur species with remarkable physical adaptations. [Comments](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss).
+* [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY) discusses the pervasive issue of surveillance cameras and their implications. [Comments](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare).
 
-* [More Tech Moguls Want to Build Data Centers in Outer Space](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) examines the viability and challenges of placing data centers in outer space. [Comments](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Microsoft Executives Discuss How AI Will Change Windows, Programming -- and Society](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&utm_medium=feed) delves into predictions on AI's transformative effects on technology and society. [Comments](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Chinese Astronauts Return From Their Space Station After Delay Blamed on Space Debris Damage](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) details the complications of space debris impacting human space missions. [Comments](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [AI/ML for Biology & Healthcare: A Learning Path](https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path) offers resources towards applying AI in biology and healthcare domains. [Comments](https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning).
 
-## Open Source and Programming
+## Historical Technology and Digital Memory
 
-* [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit) introduces a tool enabling StuffIt archiving on Unix platforms. [Comments](https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix).
+* [A 1961 Relay Computer Running in Your Browser](https://minivac.greg.technology/) introduces a web-based simulation of an early computer system. [Comments](https://lobste.rs/s/evuyaq/1961_relay_computer_running_your_browser).
 
-* [How FOSS Won and Why It Matters](https://www.softwaremaxims.com/blog/how-foss-won-consequences) reflects on the dominance of Free and Open Source Software and its broader ramifications. [Comments](https://lobste.rs/s/9zkul4/how_foss_won_why_it_matters).
-
-* [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic) investigates a tool designed to bypass content restrictions on language models. [Comments](https://news.ycombinator.com/item?id=45945587).
-
-## Creative and Historical Insights
-
-* [A 1961 Relay Computer Running in Your Browser](https://minivac.greg.technology/) presents a retro computing experience brought to life through modern browsers. [Comments](https://news.ycombinator.com/item?id=45950396).
-
-* [Britney Spears&apos; Guide to Semiconductor Physics (2000)](https://britneyspears.ac/lasers.htm) recaps an unconventional yet intriguing approach to teaching semiconductor principles. [Comments](https://news.ycombinator.com/item?id=45949326).
-
-* [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE) features insights into programming languages from the game industry icon. [Comments](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language).
+* [JavaScript Engines Zoo](https://ivankra.github.io/javascript-zoo/) provides an overview of different JavaScript engines and their unique characteristics. [Comments](https://lobste.rs/s/l1uoqb/javascript_engines_zoo).
 
 ---
 
@@ -69,6 +59,8 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
+* [2025-11-17, 08:35:00](https://news.slashdot.org/story/25/11/17/024220/bitcoin-erases-years-gain-as-crypto-bear-market-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Erases Year&apos;s Gain as Crypto Bear Market Deepens](https://news.slashdot.org/story/25/11/17/024220/bitcoin-erases-years-gain-as-crypto-bear-market-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 * [2025-11-17, 05:50:00](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Tech Moguls Want to Build Data Centers in Outer Space](https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -76,11 +68,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 03:40:00](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Executives Discuss How AI Will Change Windows, Programming -- and Society](https://tech.slashdot.org/story/25/11/17/0337227/microsoft-executives-discuss-how-ai-will-change-windows-programming----and-society?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 03:09:58](https://news.ycombinator.com/item?id=45950553) - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It&apos;s Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
-* [2025-11-17, 02:39:28](https://news.ycombinator.com/item?id=45950408) - [People are using iPad OS features on their iPhones](https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/)
 * [2025-11-17, 02:37:36](https://lobste.rs/s/evuyaq/1961_relay_computer_running_your_browser) - [A 1961 Relay Computer Running in Your Browser](https://minivac.greg.technology/)
 * [2025-11-17, 02:36:18](https://news.ycombinator.com/item?id=45950396) - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
 * [2025-11-17, 02:27:59](https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-17, 02:06:00](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Astronauts Return From Their Space Station After Delay Blamed on Space Debris Damage](https://science.slashdot.org/story/25/11/17/0135228/chinese-astronauts-return-from-their-space-station-after-delay-blamed-on-space-debris-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-17, 01:57:57](https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning) - [AI/ML for Biology &amp; Healthcare: A Learning Path](https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss) - [Devuan Version 6.0 \&quot;Excalibur\&quot; is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss)
 * [2025-11-17, 01:06:00](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust in Android: More Memory Safety, Fewer Revisions, Fewer Rollbacks, Shorter Reviews](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
@@ -90,12 +82,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-16, 23:24:13](https://lobste.rs/s/5lyxyp/why_your_mock_breaks_later) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 23:19:24](https://news.ycombinator.com/item?id=45949352) - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
 * [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears&apos; Guide to Semiconductor Physics (2000)](https://britneyspears.ac/lasers.htm)
-* [2025-11-16, 22:36:56](https://news.ycombinator.com/item?id=45949102) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 22:10:00](https://apple.slashdot.org/story/25/11/16/228215/apple-speeds-planning-for-replacing-ceo-tim-cook-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Speeds Planning for Replacing CEO Tim Cook Next Year](https://apple.slashdot.org/story/25/11/16/228215/apple-speeds-planning-for-replacing-ceo-tim-cook-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [Neuroscientists track the neural activity underlying an “aha”](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 21:47:13](https://lobste.rs/s/zwn6vn/waiting_for_sql_202y_group_by_all) - [Waiting for SQL:202y: GROUP BY ALL](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-16, 21:16:16](https://lobste.rs/s/5t0ing/amd_vs_intel_unicode_benchmark) - [AMD vs. Intel: a Unicode benchmark](https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/)
-* [2025-11-16, 21:10:50](https://lobste.rs/s/iysyaf/interpn_fast_interpolation) - [InterpN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/)
+* [2025-11-16, 20:54:14](https://news.ycombinator.com/item?id=45948311) - [Why Castrol Honda Superbike crashes on (most) modern systems](https://seri.tools/blog/castrol-honda-superbike/)
 * [2025-11-16, 20:47:00](https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deaths Linked to Antibiotic-Resistant Superbugs Rose 17% in England in 2024](https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition (2023)](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
@@ -127,22 +118,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-16, 13:45:45](https://news.ycombinator.com/item?id=45945114) - [Where do the children play?](https://unpublishablepapers.substack.com/p/where-do-the-children-play)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-16, 12:34:00](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar and Wind are Covering All New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
-* [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \&quot;AI\&quot; Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
 * [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple&apos;s ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-16, 08:34:00](https://entertainment.slashdot.org/story/25/11/16/0827245/holy-winamp-opera-puts-a-music-visualizer-inside-its-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Holy Winamp! Opera Puts a Music Visualizer Inside Its Browser&apos;](https://entertainment.slashdot.org/story/25/11/16/0827245/holy-winamp-opera-puts-a-music-visualizer-inside-its-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss)
 * [2025-11-16, 05:58:00](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could C# Overtake Java in TIOBE&apos;s Programming Language Popularity Rankings?](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 03:58:00](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 01:36:00](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss) - [FreeBSD: Reproducible Rootless Builds and Moving From Windows to This Linux Chaos Alternative](https://soylentnews.org/article.pl?sid=25/11/15/0341210&amp;from=rss)
+* [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple&apos;s ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H&apos;s Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 20:51:00](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss) - [Lego: The Final Frontier. Star Trek&apos;s First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
-* [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Lithium vs. Lettuce](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
