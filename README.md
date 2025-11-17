@@ -1,60 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Research
+## AI and Machine Learning Developments
 
-* [Waiting for SQL:202y: GROUP BY ALL](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all) - A discussion on the awaited SQL:202y standard, focusing on the introduction of the GROUP BY ALL functionality.
+* [AI/ML for Biology & Healthcare: A Learning Path](https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path) explores the integration of artificial intelligence and machine learning in biology and healthcare, providing a roadmap for learning these advancements. [Comments](https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning)
 
-* [AMD vs. Intel: a Unicode benchmark](https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/) - An exploration of Unicode performance benchmarks between AMD and Intel processors.
+* [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit) critiques recent AI claims, challenging the authenticity of certain AI explorations. [Comments](https://news.ycombinator.com/item?id=45944296)
 
-* [InterpN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/) - Advances in fast interpolation through the InterpN method.
+* [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights aggressive strategies by Google to combat text message scams fueled by AI. [Comments](https://news.ycombinator.com/item?id=45944296)
 
-* [Penrose: From Mathematical Notation to Beautiful Diagrams](https://www.youtube.com/watch?v=OyD4LIv2PDc) - A tool to transform mathematical notation into elegant diagrams.
+## Science and Technology Innovations
 
-* [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone) - Introducing a Rust-based JavaScript engine tailored for ES2025 standards.
+* [Rust in Android: More Memory Safety, Fewer Revisions, Fewer Rollbacks, Shorter Reviews](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses the positive impact of Rust on Android development, enhancing memory safety and workflow efficiency. [Comments](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html) - An overview of early large language models and their significance.
+* [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/) demonstrates the implementation of a classic IBM-PC-XT using FPGA, merging past technology with modern solutions. [Comments](https://news.ycombinator.com/item?id=45945784)
 
-* [Could C# Overtake Java in TIOBE's Programming Language Popularity Rankings?](https://developers.slashdot.org/story/25/11/16/0516224/could-c-overtake-java-in-tiobes-programming-language-popularity-rankings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring the competition between C# and Java in programming language rankings.
+## Renewable Energy Advancements
 
-* [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A potential milestone in quantum error correction technology.
+* [Solar and Wind are Covering All New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) reports on renewable energy trends, with solar and wind meeting all new power demands in 2025. [Comments](https://news.ycombinator.com/item?id=45945784)
 
-* [Solar and Wind are Covering All New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Renewable energy sources take on the global power demand for 2025.
+* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) outlines Australia's innovative solar electricity initiative offering free access periods. [Comments](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss)
 
-## Cybersecurity and Privacy
+## Cybersecurity Enhancements
 
-* [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie) - A novel technique threatening user privacy in private browsing modes.
+* [Security Researchers Spot 150,000 Function-less npm Packages in Automated 'Token Farming' Scheme](https://developers.slashdot.org/story/25/11/16/0712239/security-researchers-spot-150000-function-less-npm-packages-in-automated-token-farming-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed) investigates a large-scale token farming scheme compromising npm packages. [Comments](https://developers.slashdot.org/story/25/11/16/0712239/security-researchers-spot-150000-function-less-npm-packages-in-automated-token-farming-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Deaths Linked to Antibiotic-Resistant Superbugs Rose 17% in England in 2024](https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rising fatalities due to superbug resistance highlight global healthcare concerns.
+* [Browser fingerprinting via favicon](https://github.com/jonasstrehle/supercookie) explores tracking users through favicons as part of a privacy breach technique. [Comments](https://news.ycombinator.com/item?id=45947770)
 
-* [Security Researchers Spot 150,000 Function-less npm Packages in Automated 'Token Farming' Scheme](https://developers.slashdot.org/story/25/11/16/0712239/security-researchers-spot-150000-function-less-npm-packages-in-automated-token-farming-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fraudulent npm package scheme uncovered by researchers.
+## Programming and Engineering Insights
 
-* [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's legal moves to combat text messaging scams.
+* [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE) shares perspectives on designing effective programming languages, particularly in an era of AI. [Comments](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language)
 
-* [Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector](https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A surprising rise in copy-paste as a method of corporate data theft.
-
-## Open Source and Programming
-
-* [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts) - Creative prompting tool for programmers based on Oblique Strategies.
-
-* [The fate of "small" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/) - An investigation into the challenges faced by small-scale open source projects.
-
-* [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/) - Enhancing container deployment using Podman Quadlets.
-
-* [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) - Techniques to prevent Large Language Model crawlers sans JavaScript.
-
-* [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE) - Insights into programming language design philosophies from Jonathan Blow.
-
-## AI and Machine Learning
-
-* [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears) - Concerns over the hype bubble in AI following Nvidia stock sell-off.
-
-* [The Internet Archive Now Captures AI-Generated Content (Including Google's AI Overviews)](https://tech.slashdot.org/story/25/11/16/1852218/the-internet-archive-now-captures-ai-generated-content-including-googles-ai-overviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Inclusion of AI-generated works in the Internet Archive.
-
-* [Fear Drives the AI 'Cold War' Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Tensions in AI research driven by geopolitical competition.
-
-* [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss) - Exploring resistance against AI adoption and its roots.
-
-* [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&from=rss) - Updates to Google's AI-driven search integrations.
+* [InterPN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/) introduces a high-performance interpolation method enhancing numerical computations. [Comments](https://lobste.rs/s/iysyaf/interpn_fast_interpolation)
 
 ---
 
@@ -81,21 +57,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-17, 01:57:57](https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning) - [AI/ML for Biology &amp; Healthcare: A Learning Path](https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path)
+* [2025-11-17, 01:06:00](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust in Android: More Memory Safety, Fewer Revisions, Fewer Rollbacks, Shorter Reviews](https://developers.slashdot.org/story/25/11/17/012246/rust-in-android-more-memory-safety-fewer-revisions-fewer-rollbacks-shorter-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
+* [2025-11-17, 00:27:03](https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler) - [Goofing on Meta&apos;s AI Crawler](https://bruceediger.com/posts/goofing-on-meta/)
+* [2025-11-16, 23:58:21](https://news.ycombinator.com/item?id=45949655) - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
+* [2025-11-16, 23:41:00](https://news.slashdot.org/story/25/11/16/2339215/some-americans-are-trying-to-heat-their-homes-with-bitcoin-mining?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Americans Are Trying to Heat Their Homes With Bitcoin Mining](https://news.slashdot.org/story/25/11/16/2339215/some-americans-are-trying-to-heat-their-homes-with-bitcoin-mining?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-16, 23:19:24](https://news.ycombinator.com/item?id=45949352) - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
+* [2025-11-16, 23:15:20](https://news.ycombinator.com/item?id=45949326) - [Britney Spears&apos; Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
+* [2025-11-16, 23:01:24](https://news.ycombinator.com/item?id=45949247) - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+* [2025-11-16, 22:36:56](https://news.ycombinator.com/item?id=45949102) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
+* [2025-11-16, 22:10:00](https://apple.slashdot.org/story/25/11/16/228215/apple-speeds-planning-for-replacing-ceo-tim-cook-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Speeds Planning for Replacing CEO Tim Cook Next Year](https://apple.slashdot.org/story/25/11/16/228215/apple-speeds-planning-for-replacing-ceo-tim-cook-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-16, 21:57:13](https://news.ycombinator.com/item?id=45948792) - [How Your Brain Creates &apos;Aha&apos; Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 * [2025-11-16, 21:47:13](https://lobste.rs/s/zwn6vn/waiting_for_sql_202y_group_by_all) - [Waiting for SQL:202y: GROUP BY ALL](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
-* [2025-11-16, 21:19:08](https://news.ycombinator.com/item?id=45948477) - [Peter Thiel sells off all Nvidia stock, stirring bubble fears](https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears)
 * [2025-11-16, 21:16:16](https://lobste.rs/s/5t0ing/amd_vs_intel_unicode_benchmark) - [AMD vs. Intel: a Unicode benchmark](https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/)
 * [2025-11-16, 21:10:50](https://lobste.rs/s/iysyaf/interpn_fast_interpolation) - [InterpN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/)
-* [2025-11-16, 20:51:10](https://lobste.rs/s/hzzm6k/6502_emulator_labview) - [A 6502 emulator in LabVIEW](https://www.crossover-eng.it/view.php?post=post_4)
 * [2025-11-16, 20:47:00](https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deaths Linked to Antibiotic-Resistant Superbugs Rose 17% in England in 2024](https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
+* [2025-11-16, 20:46:30](https://news.ycombinator.com/item?id=45948254) - [The Pragmatic Programmer: 20th Anniversary Edition (2023)](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss)
 * [2025-11-16, 20:18:10](https://news.ycombinator.com/item?id=45948058) - [I have recordings proving Coinbase knew about breach months before disclosure](https://jonathanclark.com/posts/coinbase-breach-timeline.html)
 * [2025-11-16, 20:14:04](https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation) - [Penrose: From Mathematical Notation to Beautiful Diagrams](https://www.youtube.com/watch?v=OyD4LIv2PDc)
-* [2025-11-16, 19:46:28](https://news.ycombinator.com/item?id=45947827) - [Adding an imaginary unit to a finite field](https://www.johndcook.com/blog/2025/11/16/finite-field-i/)
 * [2025-11-16, 19:45:36](https://news.ycombinator.com/item?id=45947822) - [Linux mode setting, from the comfort of OCaml](https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/)
 * [2025-11-16, 19:44:27](https://news.ycombinator.com/item?id=45947810) - [Open-source Zig book](https://www.zigbook.net)
-* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Tracking users with favicons, even in incognito mode](https://github.com/jonasstrehle/supercookie)
+* [2025-11-16, 19:39:52](https://news.ycombinator.com/item?id=45947770) - [Browser fingerprinting via favicon](https://github.com/jonasstrehle/supercookie)
 * [2025-11-16, 19:38:49](https://news.ycombinator.com/item?id=45947761) - [Dark Pattern Games](https://www.darkpattern.games)
 * [2025-11-16, 19:21:13](https://news.ycombinator.com/item?id=45947639) - [The fate of \&quot;small\&quot; open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
@@ -112,19 +97,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-16, 16:34:00](https://news.slashdot.org/story/25/11/15/069251/are-data-centers-raising-americas-electricity-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Data Centers Raising America&apos;s Electricity Prices?](https://news.slashdot.org/story/25/11/15/069251/are-data-centers-raising-americas-electricity-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
-* [2025-11-16, 15:50:54](https://news.ycombinator.com/item?id=45945960) - [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss)
 * [2025-11-16, 15:34:00](https://developers.slashdot.org/story/25/11/16/0712239/security-researchers-spot-150000-function-less-npm-packages-in-automated-token-farming-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Security Researchers Spot 150,000 Function-less npm Packages in Automated &apos;Token Farming&apos; Scheme](https://developers.slashdot.org/story/25/11/16/0712239/security-researchers-spot-150000-function-less-npm-packages-in-automated-token-farming-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 15:26:24](https://news.ycombinator.com/item?id=45945784) - [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
-* [2025-11-16, 15:22:16](https://news.ycombinator.com/item?id=45945750) - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
 * [2025-11-16, 15:00:24](https://news.ycombinator.com/item?id=45945587) - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 * [2025-11-16, 14:44:59](https://lobste.rs/s/2a2rud/godbolt_s_rule) - [Godbolt&apos;s Rule](https://corecursive.com/godbolt-rule-matt-godbolt/)
-* [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
-* [2025-11-16, 13:59:19](https://news.ycombinator.com/item?id=45945202) - [Running the \&quot;Reflections on Trusting Trust\&quot; Compiler (2023)](https://research.swtch.com/nih)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
 * [2025-11-16, 13:25:32](https://news.ycombinator.com/item?id=45944969) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
-* [2025-11-16, 13:15:50](https://news.ycombinator.com/item?id=45944906) - [Vintage Large Language Models](https://owainevans.github.io/talk-transcript.html)
 * [2025-11-16, 12:34:00](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar and Wind are Covering All New Power Demand in 2025](https://hardware.slashdot.org/story/25/11/15/0633205/solar-and-wind-are-covering-all-new-power-demand-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 11:41:10](https://news.ycombinator.com/item?id=45944337) - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 11:32:39](https://news.ycombinator.com/item?id=45944296) - [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
@@ -141,18 +121,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-16, 01:34:00](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Begins Aggresively Using the Law To Stop Text Message Scams](https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-16, 01:02:55](https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2025-11-16, 00:22:00](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Quantum Error Correction Breakthrough?](https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-16, 00:01:25](https://news.ycombinator.com/item?id=45941596) - [AirPods libreated from Apple&apos;s ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:22:00](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fear Drives the AI &apos;Cold War&apos; Between America and China](https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-15, 22:22:00](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Sales Are Still Rising.  They Have Not Slumped](https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H&apos;s Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
-* [2025-11-15, 21:22:00](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data](https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 20:51:00](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss) - [Lego: The Final Frontier. Star Trek&apos;s First Set Beams Down in 3,600 Pieces](https://soylentnews.org/article.pl?sid=25/11/13/2136225&amp;from=rss)
-* [2025-11-15, 20:22:00](https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Killed This Game in 2024.  Three Developers Reverse-Engineered It Back to Life](https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
-* [2025-11-15, 14:27:42](https://lobste.rs/s/4soie8/inconceivable_types_rust_how_make_self) - [The Inconceivable Types of Rust: How to Make Self-Borrows Safe](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 * [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
-* [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
+* [2025-11-15, 12:31:20](https://news.ycombinator.com/item?id=45936999) - [Lithium vs. Lettuce](https://ambrook.com/offrange/photo-essay/lithium-v-lettuce)
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
@@ -161,14 +136,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
 * [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss)
 * [2025-11-14, 02:12:00](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
-* [2025-11-14, 01:42:01](https://news.ycombinator.com/item?id=45922907) - [Holes (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf)
 * [2025-11-13, 21:23:00](https://soylentnews.org/article.pl?sid=25/11/12/1214254&amp;from=rss) - [Google&apos;s Gemini Deep Research Can Now Read Your Gmail and Rummage Through Google Drive](https://soylentnews.org/article.pl?sid=25/11/12/1214254&amp;from=rss)
 * [2025-11-13, 16:41:00](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss) - [Microsoft Task Manager Bug Spawns New Processes](https://soylentnews.org/article.pl?sid=25/11/12/124239&amp;from=rss)
 * [2025-11-13, 11:57:00](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss) - [Want to be More Persuasive? Talk With Your Hands, Study Finds](https://soylentnews.org/article.pl?sid=25/11/11/0337247&amp;from=rss)
 * [2025-11-13, 07:05:00](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss) - [Hyundai&apos;s New EV Training Center Opens Amid Market Turmoil](https://soylentnews.org/article.pl?sid=25/11/11/0336223&amp;from=rss)
 * [2025-11-13, 02:33:00](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss) - [Sun: First Glimpse of Polar Magnetic Field in Motion](https://soylentnews.org/article.pl?sid=25/11/11/0334251&amp;from=rss)
-* [2025-11-12, 21:49:00](https://soylentnews.org/article.pl?sid=25/11/10/1942230&amp;from=rss) - [Brewing Controversy: How Coffee Sparked Fierce Debate in the 16th-Century](https://soylentnews.org/article.pl?sid=25/11/10/1942230&amp;from=rss)
-* [2025-11-12, 17:05:00](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss) - [NASA Confirms Voyager Spacecraft Has Encountered a “Wall of Fire” at the Edge of the Solar System](https://soylentnews.org/article.pl?sid=25/11/10/1939208&amp;from=rss)
-* [2025-11-12, 12:24:00](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss) - [FBI Tries to Unmask Owner of Infamous Archive.is Site](https://soylentnews.org/article.pl?sid=25/11/10/1931219&amp;from=rss)
-* [2025-11-12, 07:34:00](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss) - [Trinity Desktop Environment R14.1.5 Released with Support for Debian Trixie](https://soylentnews.org/article.pl?sid=25/11/10/1925212&amp;from=rss)
-* [2025-11-12, 02:51:00](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss) - [The Art and Science of Negotiation](https://soylentnews.org/article.pl?sid=25/11/10/122217&amp;from=rss)
