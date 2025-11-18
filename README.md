@@ -1,54 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Satellite and Space Technology
+## Emerging Technologies
 
-* [Starshield Satellite Constellation Emitting Unusual Radio Signals](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss)
+* [We Can Now Track Individual Monarch Butterflies](https://science.slashdot.org/story/25/11/17/2220233/we-can-now-track-individual-monarch-butterflies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New methods allow for precise tracking of individual monarch butterflies, expanding conservation possibilities.
 
-## Privacy Concerns in Technology
+* [Minimal Periodic Task Runner in Elixir](https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/) - An exploration of a minimalistic approach to task scheduling within the Elixir ecosystem.
 
-* [Google Is Collecting Troves of Data From Downgraded Nest Thermostats](https://tech.slashdot.org/story/25/11/17/225229/google-is-collecting-troves-of-data-from-downgraded-nest-thermostats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Rank-balanced trees (2014)](https://sidsen.azurewebsites.net/papers/rb-trees-talg.pdf) - Revisiting concepts in tree data structures, focusing on rank-balancing.
 
-* [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+* [Project Gemini](https://geminiprotocol.net/) - Discusses a lightweight protocol aimed at simplifying web browsing and fostering an open web ecosystem.
 
-## Cybersecurity and DDoS Attacks
+## AI Advancements and Ethical Concerns
 
-* [Microsoft Mitigated the Largest Cloud DDoS Ever Recorded, 15.7 Tbps](https://it.slashdot.org/story/25/11/17/2121230/microsoft-mitigated-the-largest-cloud-ddos-ever-recorded-157-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/) - Criticism arises over privacy issues tied to an AI agent integrated into Windows 11.
 
-* [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+* [An AI Podcasting Machine Is Churning Out 3,000 Episodes a Week](https://slashdot.org/story/25/11/17/2114208/an-ai-podcasting-machine-is-churning-out-3000-episodes-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The prolific output of AI-driven podcasting sparks interest and concerns.
 
-## AI and Automation
+* [Take-Two CEO Says Consoles Aren't Going Away, But Gaming is Moving Toward PCs](https://games.slashdot.org/story/25/11/17/1648254/take-two-ceo-says-consoles-arent-going-away-but-gaming-is-moving-toward-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how AI and shifting tech trends impact gaming platforms.
 
-* [An AI Podcasting Machine Is Churning Out 3,000 Episodes a Week](https://slashdot.org/story/25/11/17/2114208/an-ai-podcasting-machine-is-churning-out-3000-episodes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Microsoft: the Company Doesn't Have Enough Electricity to Install All the AI GPUs in its Inventory](https://soylentnews.org/article.pl?sid=25/11/16/1329214&from=rss) - Examines the resource challenges faced by tech companies during rapid AI adoption.
 
-* [AI Use in 'Call of Duty: Black Ops 7' Draws Fire From US Lawmaker](https://games.slashdot.org/story/25/11/17/1743203/ai-use-in-call-of-duty-black-ops-7-draws-fire-from-us-lawmaker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - Research highlights an armored dinosaur species, offering insights into ancient biodiversity.
 
-## Programming and Development Tools
+## Privacy and Data Collection Issues
 
-* [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
+* [Google Is Collecting Troves of Data From Downgraded Nest Thermostats](https://tech.slashdot.org/story/25/11/17/225229/google-is-collecting-troves-of-data-from-downgraded-nest-thermostats?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Raises concerns around unexpected user data collection.
 
-* [Programming a Program-Oriented-Language](https://www.btbytes.com/docs/POL.pdf)
+* [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/) - Accusations against Google Gemini highlight user data privacy issues.
 
-* [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
+* [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&from=rss) - Investigates Meta's controversial financial practices tied to AI funding.
 
-## Scientific Innovations and Discoveries
+## Climate and Environmental News
 
-* [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic)
+* [The time has finally come for geothermal energy](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy) - Explores geothermal energy's increasing viability as a renewable resource.
 
-* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
+* [Iran Begins Cloud Seeding To Induce Rain Amid Historic Drought](https://news.slashdot.org/story/25/11/17/1749243/iran-begins-cloud-seeding-to-induce-rain-amid-historic-drought?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A look into innovative measures for addressing severe drought conditions.
 
-## Environmental and Sustainability Efforts
+* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) - A revolutionary solar energy initiative aims to provide free power to Australians.
 
-* [Iran Begins Cloud Seeding To Induce Rain Amid Historic Drought](https://news.slashdot.org/story/25/11/17/1749243/iran-begins-cloud-seeding-to-induce-rain-amid-historic-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Notable Technology Developments
 
-* [The time has finally come for geothermal energy](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
+* [Harvard Has Almost Half a Billion Dollars in Crypto](https://slashdot.org/story/25/11/17/1834233/harvard-has-almost-half-a-billion-dollars-in-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines Harvard University's substantial cryptocurrency investments.
 
-* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss)
+* [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos) - Presents a tool bringing Linux-like process diagnostic capabilities to macOS.
 
-## Notable Industry Trends
-
-* [Take-Two CEO Says Consoles Aren't Going Away, But Gaming is Moving Toward PCs](https://games.slashdot.org/story/25/11/17/1648254/take-two-ceo-says-consoles-arent-going-away-but-gaming-is-moving-toward-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
+* [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/) - Highlights developments in Rust programming language adoption.
 
 ---
 
@@ -75,6 +71,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-18, 03:30:00](https://science.slashdot.org/story/25/11/17/2220233/we-can-now-track-individual-monarch-butterflies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [We Can Now Track Individual Monarch Butterflies](https://science.slashdot.org/story/25/11/17/2220233/we-can-now-track-individual-monarch-butterflies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-18, 02:53:28](https://news.ycombinator.com/item?id=45960893) - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
+* [2025-11-18, 02:15:30](https://lobste.rs/s/kznzg3/minimal_periodic_task_runner_elixir) - [Minimal Periodic Task Runner in Elixir](https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/)
+* [2025-11-18, 02:13:26](https://lobste.rs/s/esdjgw/rank_balanced_trees_2014) - [Rank-balanced trees (2014)](https://sidsen.azurewebsites.net/papers/rb-trees-talg.pdf)
+* [2025-11-18, 02:02:00](https://science.slashdot.org/story/25/11/17/2229216/some-people-never-forget-a-face-and-now-we-know-their-secret?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some People Never Forget a Face, and Now We Know Their Secret](https://science.slashdot.org/story/25/11/17/2229216/some-people-never-forget-a-face-and-now-we-know-their-secret?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-18, 01:25:54](https://news.ycombinator.com/item?id=45960368) - [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
+* [2025-11-18, 01:25:00](https://tech.slashdot.org/story/25/11/17/2215216/electric-vehicle-sales-are-booming-in-south-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electric Vehicle Sales Are Booming In South America](https://tech.slashdot.org/story/25/11/17/2215216/electric-vehicle-sales-are-booming-in-south-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-18, 01:11:34](https://news.ycombinator.com/item?id=45960293) - [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
 * [2025-11-18, 00:53:00](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss) - [Starshield Satellite Constellation Emitting Unusual Radio Signals](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss)
 * [2025-11-18, 00:45:00](https://tech.slashdot.org/story/25/11/17/225229/google-is-collecting-troves-of-data-from-downgraded-nest-thermostats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Is Collecting Troves of Data From Downgraded Nest Thermostats](https://tech.slashdot.org/story/25/11/17/225229/google-is-collecting-troves-of-data-from-downgraded-nest-thermostats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-18, 00:02:00](https://it.slashdot.org/story/25/11/17/2121230/microsoft-mitigated-the-largest-cloud-ddos-ever-recorded-157-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Mitigated the Largest Cloud DDoS Ever Recorded, 15.7 Tbps](https://it.slashdot.org/story/25/11/17/2121230/microsoft-mitigated-the-largest-cloud-ddos-ever-recorded-157-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,7 +92,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 22:22:20](https://lobste.rs/s/y8nwa2/building_database_from_scratch) - [Building a Database From Scratch](https://stym06.github.io/posts/build-a-db-from-scratch/)
 * [2025-11-17, 22:00:00](https://slashdot.org/story/25/11/17/2056254/tech-giants-cloud-power-probed-as-eu-weighs-inclusion-in-dma?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech Giants&apos; Cloud Power Probed As EU Weighs Inclusion In DMA](https://slashdot.org/story/25/11/17/2056254/tech-giants-cloud-power-probed-as-eu-weighs-inclusion-in-dma?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 21:56:58](https://news.ycombinator.com/item?id=45958815) - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
-* [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
+* [2025-11-17, 21:46:06](https://news.ycombinator.com/item?id=45958717) - [Run ancient UNIX on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
 * [2025-11-17, 21:42:24](https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth) - [Chuck Moore retires from colorforth after latest Windows breaks rendering](https://www.youtube.com/watch?v=MvkGBWXb2oQ)
 * [2025-11-17, 21:20:00](https://news.slashdot.org/story/25/11/17/1851247/buy-now-pay-later-is-expanding-fast-and-that-should-worry-everyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Buy Now, Pay Later&apos; is Expanding Fast, and That Should Worry Everyone](https://news.slashdot.org/story/25/11/17/1851247/buy-now-pay-later-is-expanding-fast-and-that-should-worry-everyone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 21:07:28](https://lobste.rs/s/jrvtgn/add_vlan_opnsense_just_26_clicks_across_6) - [Add a VLAN to OPNsense in Just 26 Clicks Across 6 Screens](https://mtlynch.io/notes/opnsense-clicks/)
@@ -104,34 +108,29 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 18:54:27](https://lobste.rs/s/bevihc/memory_corrupting_pong) - [Memory-corrupting Pong](https://arhan.sh/blog/memory-corrupting-pong/)
 * [2025-11-17, 18:40:00](https://games.slashdot.org/story/25/11/17/1743203/ai-use-in-call-of-duty-black-ops-7-draws-fire-from-us-lawmaker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Use in &apos;Call of Duty: Black Ops 7&apos; Draws Fire From US Lawmaker](https://games.slashdot.org/story/25/11/17/1743203/ai-use-in-call-of-duty-black-ops-7-draws-fire-from-us-lawmaker?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 18:32:55](https://lobste.rs/s/lijpxq/towards_interplanetary_quic_traffic) - [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
-* [2025-11-17, 18:07:17](https://news.ycombinator.com/item?id=45956176) - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
-* [2025-11-17, 18:05:29](https://news.ycombinator.com/item?id=45956154) - [Show HN: Kalendis – Scheduling API (keep your UI, we handle timezones/DST)](https://kalendis.dev)
 * [2025-11-17, 18:01:00](https://games.slashdot.org/story/25/11/17/1648254/take-two-ceo-says-consoles-arent-going-away-but-gaming-is-moving-toward-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Take-Two CEO Says Consoles Aren&apos;t Going Away, But Gaming is Moving Toward PCs](https://games.slashdot.org/story/25/11/17/1648254/take-two-ceo-says-consoles-arent-going-away-but-gaming-is-moving-toward-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 17:39:15](https://news.ycombinator.com/item?id=45955900) - [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+* [2025-11-17, 17:37:42](https://news.ycombinator.com/item?id=45955889) - [A new book about the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism)
 * [2025-11-17, 17:21:00](https://news.slashdot.org/story/25/11/17/1631207/uk-cyber-ransom-ban-risks-collapse-of-essential-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Cyber Ransom Ban Risks Collapse of Essential Services](https://news.slashdot.org/story/25/11/17/1631207/uk-cyber-ransom-ban-risks-collapse-of-essential-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 17:18:43](https://lobste.rs/s/90ppkk/pre_pep_rust_for_cpython) - [Pre-PEP: Rust for CPython](https://discuss.python.org/t/pre-pep-rust-for-cpython/104906)
 * [2025-11-17, 17:07:17](https://news.ycombinator.com/item?id=45955565) - [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
 * [2025-11-17, 16:50:28](https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey) - [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/)
-* [2025-11-17, 16:41:00](https://tech.slashdot.org/story/25/11/17/1620236/global-web-freedoms-tumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global Web Freedoms Tumble](https://tech.slashdot.org/story/25/11/17/1620236/global-web-freedoms-tumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 16:30:57](https://lobste.rs/s/wmaczg/google_is_killing_open_web_part_2) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 16:26:28](https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for) - [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
-* [2025-11-17, 16:04:00](https://slashdot.org/story/25/11/17/1541210/why-hotel-room-cancellations-disappeared?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Hotel-Room Cancellations Disappeared](https://slashdot.org/story/25/11/17/1541210/why-hotel-room-cancellations-disappeared?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 15:50:04](https://news.ycombinator.com/item?id=45954640) - [Project Gemini](https://geminiprotocol.net/)
 * [2025-11-17, 15:49:38](https://news.ycombinator.com/item?id=45954638) - [How to escape the Linux networking stack](https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/)
 * [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They&apos;re Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
-* [2025-11-17, 15:20:00](https://tech.slashdot.org/story/25/11/17/1518202/anthropic-ceo-says-hes-deeply-uncomfortable-with-unelected-tech-elites-shaping-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic CEO Says He&apos;s &apos;Deeply Uncomfortable&apos; With Unelected Tech Elites Shaping AI](https://tech.slashdot.org/story/25/11/17/1518202/anthropic-ceo-says-hes-deeply-uncomfortable-with-unelected-tech-elites-shaping-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-17, 15:04:26](https://news.ycombinator.com/item?id=45954210) - [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
 * [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when &apos;type&apos; is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 14:57:33](https://news.ycombinator.com/item?id=45954140) - [Aldous Huxley predicts Adderall and champions alternative therapies](https://angadh.com/inkhaven-7)
 * [2025-11-17, 14:40:54](https://news.ycombinator.com/item?id=45953977) - [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
+* [2025-11-17, 14:31:21](https://news.ycombinator.com/item?id=45953883) - [Jeff Bezos creates A.I. startup where he will be co-chief executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html)
 * [2025-11-17, 13:55:53](https://news.ycombinator.com/item?id=45953568) - [The time has finally come for geothermal energy](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
 * [2025-11-17, 13:40:40](https://news.ycombinator.com/item?id=45953452) - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \&quot;Async\&quot;, but nothing needed \&quot;Await\&quot;?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
-* [2025-11-17, 12:06:37](https://news.ycombinator.com/item?id=45952890) - [Are you stuck in movie logic?](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 10:44:00](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss) - [NVIDIA 580.105.08 Linux Graphics Driver Released With a New Environment Variable](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss)
-* [2025-11-17, 10:40:55](https://news.ycombinator.com/item?id=45952428) - [Giving C a superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 10:40:55](https://lobste.rs/s/eefzex/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eefzex/what_are_you_doing_this_week)
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
@@ -139,9 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
-* [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss)
-* [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:45:45](https://news.ycombinator.com/item?id=45945114) - [Where do the children play?](https://unpublishablepapers.substack.com/p/where-do-the-children-play)
 * [2025-11-16, 11:02:25](https://news.ycombinator.com/item?id=45944158) - [Astrophotographer snaps skydiver falling in front of the sun](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss)
@@ -152,12 +149,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-15, 16:08:00](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss) - [New Project Brings Strong Linux Compatibility to More Classic Windows Games](https://soylentnews.org/article.pl?sid=25/11/13/2125207&amp;from=rss)
 * [2025-11-15, 13:24:54](https://news.ycombinator.com/item?id=45937302) - [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
 * [2025-11-15, 11:23:00](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss) - [Gary McKinnon: He Was Looking for Aliens - and Became the No. 1 Enemy of the State](https://soylentnews.org/article.pl?sid=25/11/13/2130222&amp;from=rss)
-* [2025-11-15, 07:27:21](https://news.ycombinator.com/item?id=45935687) - [A graph explorer of the Epstein emails](https://epstein-doc-explorer-1.onrender.com/)
 * [2025-11-15, 06:36:00](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss) - [Brussels Knifes Privacy to Feed the AI Boom](https://soylentnews.org/article.pl?sid=25/11/13/0410238&amp;from=rss)
 * [2025-11-15, 01:54:00](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss) - [How to Declutter, Quiet Down, and Take the AI Out of Windows 11 25H2](https://soylentnews.org/article.pl?sid=25/11/13/0359225&amp;from=rss)
 * [2025-11-14, 21:12:00](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss) - [What Do We Do If SETI is Successful?](https://soylentnews.org/article.pl?sid=25/11/13/0353240&amp;from=rss)
+* [2025-11-14, 18:53:27](https://news.ycombinator.com/item?id=45930438) - [Raccoons are showing early signs of domestication](https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/)
 * [2025-11-14, 16:31:00](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss) - [Google Confirms AI Search Will Have Ads, but They May Look Different](https://soylentnews.org/article.pl?sid=25/11/13/0325258&amp;from=rss)
 * [2025-11-14, 11:47:00](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss) - [Russian Hackers Abuse Hyper-V to Hide Malware in Linux VMs](https://soylentnews.org/article.pl?sid=25/11/13/0318258&amp;from=rss)
 * [2025-11-14, 06:59:00](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss) - [Your Worn-Out Keyboard Keys Reveal More About You Than You Think](https://soylentnews.org/article.pl?sid=25/11/13/0314253&amp;from=rss)
 * [2025-11-14, 02:12:00](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss) - [Bombshell Report Exposes How Meta Relied on Scam Ad Profits to Fund AI](https://soylentnews.org/article.pl?sid=25/11/13/033247&amp;from=rss)
-* [2025-11-14, 01:57:57](https://news.ycombinator.com/item?id=45922997) - [Our dogs&apos; diversity can be traced back to the Stone Age](https://www.bbc.com/news/articles/ce9d7j89ykro)
