@@ -1,74 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Releases
+## Science and Technology Innovations
 
-* [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85) - PHP 8.5 introduces new features and enhancements for developers.
+* [Quantum Teleportation Between Photons From Two Distant Light Sources Achieved](https://science.slashdot.org/story/25/11/20/0021228/quantum-teleportation-between-photons-from-two-distant-light-sources-achieved?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking development in quantum mechanics showcasing advanced quantum teleportation.
 
-* [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/) - Thunderbird integrates native support for Microsoft Exchange to enhance email functionality.
+* [New Antibiotic Could Be a Breakthrough in Treatment for Killer TB, Trial Suggests](https://science.slashdot.org/story/25/11/19/1820223/new-antibiotic-could-be-a-breakthrough-in-treatment-for-killer-tb-trial-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Promising trial results for a new antibiotic targeting multi-drug resistant tuberculosis.
 
-* [Twenty years of Django releases](https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/) - Reflecting on the evolution of Django over its two-decade journey.
+* [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp) - A newly identified flaw in WhatsApp's security mechanisms.
 
-* [Meta Segment Anything Model 3](https://ai.meta.com/sam3/) - Meta introduces its third iteration of the 'Segment Anything Model' for comprehensive AI applications.
+## Artificial Intelligence and Development
 
-* [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&from=rss) - Ubuntu announces extended software support for up to 15 years.
+* [Adobe Bolsters AI Marketing Tools With $1.9 Billion Semrush Buy](https://slashdot.org/story/25/11/19/2238242/adobe-bolsters-ai-marketing-tools-with-19-billion-semrush-buy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Adobe's significant acquisition to enhance its AI capabilities.
 
-* [Devuan Version 6.0 "Excalibur" is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&from=rss) - Devuan's latest release offers a stable alternative to mainstream Linux distributions.
+* [LLMs are bullshitters. But that doesn&apos;t mean they&apos;re not useful](https://blog.kagi.com/llms) - Evaluating the utility and challenges of large language models.
 
-## AI and Innovations
+* [Meta Segment Anything Model 3](https://ai.meta.com/sam3/) - Announcing advancements in segmentation and AI model capabilities.
 
-* [Adobe Bolsters AI Marketing Tools With $1.9 Billion Semrush Buy](https://slashdot.org/story/25/11/19/2238242/adobe-bolsters-ai-marketing-tools-with-19-billion-semrush-buy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Adobe expands its AI marketing capabilities with a significant acquisition.
+## Software and Development Tools
 
-* [AI is a front for consolidation of resources and power](https://www.chrbutler.com/what-ai-is-really-for) - Exploring the underlying implications of AI advancements on resource accumulation.
+* [PHP 8.5 gets released today, here&apos;s what&apos;s new](https://stitcher.io/blog/new-in-php-85) - Coverage of the latest features in PHP 8.5.
 
-* [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) - Advancing AI utilities using OpenAI's enhanced GPT model.
+* [A battery included hacker&apos;s file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg) - Exploring a VIM-inspired file management tool.
 
-* [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&from=rss) - Delving into societal pushback against AI adoption and its motivations.
+* [Function Inliner for Wasmtime and Cranelift](https://fitzgen.com/2025/11/19/inliner.html) - Innovations enhancing WebAssembly and compiler optimizations.
 
-* [Nvidia’s Jensen Huang: China will Surpass U.S. in AI Race Through ENERGY](https://soylentnews.org/article.pl?sid=25/11/17/0240210&from=rss) - Nvidia CEO shares insights on China's growing supremacy in AI.
+## Sustainability and Climate Initiatives
 
-* [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish) - Investigating the effects of AI-focused scams on vulnerable demographics.
+* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - A national solar initiative offering free electricity access.
 
-## Security and Legal Concerns
+* [China&apos;s Diesel Trucks Are Shifting To Electric](https://tech.slashdot.org/story/25/11/19/2256247/chinas-diesel-trucks-are-shifting-to-electric?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's progress in transitioning its transportation sector to electric vehicles.
 
-* [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp) - Significant security flaw identified in WhatsApp.
+* [Can Chinese-Made Buses Be Hacked? Norway Drove One Down a Mine To Find Out](https://tech.slashdot.org/story/25/11/19/186230/can-chinese-made-buses-be-hacked-norway-drove-one-down-a-mine-to-find-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating cybersecurity concerns in electric transportation.
 
-* [Tokyo Court Finds Cloudflare Liable For Manga Piracy in Long-Running Lawsuit](https://yro.slashdot.org/story/25/11/19/2247224/tokyo-court-finds-cloudflare-liable-for-manga-piracy-in-long-running-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Manga piracy lawsuit against Cloudflare leads to critical legal ruling.
+## Cultural and Historical Perspectives
 
-* [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/) - Exposing threats to open-source projects via identity hijacking.
+* [Robert Louis Stevenson&apos;s Art of Living (and Dying)](https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/) - A literary exploration of Stevenson's philosophical insights.
 
-* [Dutch Hand Back Control of Chinese-Owned Chipmaker Nexperia](https://slashdot.org/story/25/11/19/225253/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Control restored by Dutch authorities over a chipmaker.
+* [50th anniversary of BITBLT](https://mastodon.sdf.org/@fvzappa/115574872559813280) - Celebrating a milestone in computer graphics and imaging technology.
 
-* [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&from=rss) - The Firefox browser innovates with an AI-centric browsing mode.
-
-* [Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&from=rss) - Legislative moves to restrict VPN use spark public backlash.
-
-## Scientific and Medical Advances
-
-* [New Antibiotic Could Be a Breakthrough in Treatment for Killer TB, Trial Suggests](https://science.slashdot.org/story/25/11/19/1820223/new-antibiotic-could-be-a-breakthrough-in-treatment-for-killer-tb-trial-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The potential to combat tuberculosis with a new antibiotic therapy.
-
-* [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes) - European Union shifts its legislation on data and AI.
-
-* [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&from=rss) - A solar initiative offers daily free electricity in Australia.
-
-* [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&from=rss) - Investigating the interface between technology and human neural activity.
-
-* [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&from=rss) - Exploring the uniqueness and mystique behind rare honey sources.
-
-* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - New paleontological insights reveal the defensive adaptation of a dinosaur species.
-
-## Historical and Cultural Insights
-
-* [Robert Louis Stevenson's Art of Living (and Dying)](https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/) - Examining Robert Louis Stevenson's philosophy on life and mortality.
-
-* [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/) - Reflecting on the historical challenges of Lisp machines.
-
-* [Rebecca Heineman - from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/) - The inspiring journey of a pioneer in tech.
-
-* [What influence has the BBC had on history?](https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history) - Assessing the BBC's impact as a media entity.
-
-* [Three Hapsburgs and a Reporter Walk into a Canadian Vault](https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html) - Intriguing narrative around historical artifacts and their discovery.
-
-* [Raccoons Are Showing Early Signs of Domestication](https://soylentnews.org/article.pl?sid=25/11/18/014241&from=rss) - Studying the behavioral evolution of raccoons.
+* [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/) - Analyzing the impact and decline of a once-prominent computing architecture.
 
 ---
 
@@ -95,11 +65,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-20, 08:55:43](https://lobste.rs/s/q287dr/numbers_vs_features_protocol_versioning) - [Numbers vs features in protocol versioning (2024)](https://meejah.ca/blog/protocol-versioning)
+* [2025-11-20, 08:36:39](https://lobste.rs/s/zfp36r/context_missing_api_ruby_logger) - [Context: the missing API in ruby logger](https://honeyryderchuck.gitlab.io/2025/11/12/context-missing-api-in-logger.html)
+* [2025-11-20, 07:00:00](https://science.slashdot.org/story/25/11/20/0021228/quantum-teleportation-between-photons-from-two-distant-light-sources-achieved?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Quantum Teleportation Between Photons From Two Distant Light Sources Achieved](https://science.slashdot.org/story/25/11/20/0021228/quantum-teleportation-between-photons-from-two-distant-light-sources-achieved?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-20, 06:40:46](https://news.ycombinator.com/item?id=45989650) - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker&apos;s file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 06:34:46](https://lobste.rs/s/it0mbb/procedurally_generating_infinite) - [Procedurally Generating Infinite Marble Runs](https://www.youtube.com/watch?v=ULpNiZU2tpg)
 * [2025-11-20, 06:07:01](https://news.ycombinator.com/item?id=45989469) - [PHP 8.5 gets released today, here&apos;s what&apos;s new](https://stitcher.io/blog/new-in-php-85)
 * [2025-11-20, 05:52:43](https://news.ycombinator.com/item?id=45989394) - [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents)
-* [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/)
+* [2025-11-20, 05:41:06](https://news.ycombinator.com/item?id=45989329) - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
+* [2025-11-20, 05:07:53](https://news.ycombinator.com/item?id=45989186) - [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/%7Emascheck/various/shebang/)
 * [2025-11-20, 05:04:00](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss) - [The Intel 4004 Was the First Microprocessor, Right? ](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss)
 * [2025-11-20, 04:01:47](https://lobste.rs/s/ua1kvs/rfc_hub) - [RFC Hub](https://rfchub.app/)
 * [2025-11-20, 03:30:00](https://slashdot.org/story/25/11/19/2313246/in-the-ai-race-chinese-talent-still-drives-american-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In the AI Race, Chinese Talent Still Drives American Research](https://slashdot.org/story/25/11/19/2313246/in-the-ai-race-chinese-talent-still-drives-american-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 01:20:59](https://lobste.rs/s/jzflsc/precise_geolocation_via_wi_fi) - [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
 * [2025-11-20, 01:09:53](https://lobste.rs/s/dtzplf/lions_operating_system) - [The Lions Operating System](https://lionsos.org/)
 * [2025-11-20, 00:45:00](https://yro.slashdot.org/story/25/11/19/2247224/tokyo-court-finds-cloudflare-liable-for-manga-piracy-in-long-running-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tokyo Court Finds Cloudflare Liable For Manga Piracy in Long-Running Lawsuit](https://yro.slashdot.org/story/25/11/19/2247224/tokyo-court-finds-cloudflare-liable-for-manga-piracy-in-long-running-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-20, 00:32:17](https://news.ycombinator.com/item?id=45987252) - [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
 * [2025-11-20, 00:22:03](https://news.ycombinator.com/item?id=45987179) - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
 * [2025-11-20, 00:18:00](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss) - [Full Metal Modine](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss)
 * [2025-11-20, 00:02:00](https://slashdot.org/story/25/11/19/2238242/adobe-bolsters-ai-marketing-tools-with-19-billion-semrush-buy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Bolsters AI Marketing Tools With $1.9 Billion Semrush Buy](https://slashdot.org/story/25/11/19/2238242/adobe-bolsters-ai-marketing-tools-with-19-billion-semrush-buy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -144,18 +118,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-19, 18:03:00](https://news.slashdot.org/story/25/11/19/1745251/uk-to-ban-the-resale-of-tickets-for-profit-to-protect-fans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK To Ban the Resale of Tickets For Profit To Protect Fans](https://news.slashdot.org/story/25/11/19/1745251/uk-to-ban-the-resale-of-tickets-for-profit-to-protect-fans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-19, 18:01:59](https://news.ycombinator.com/item?id=45982649) - [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/)
 * [2025-11-19, 17:22:46](https://news.ycombinator.com/item?id=45982162) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
-* [2025-11-19, 17:20:00](https://slashdot.org/story/25/11/19/1635239/the-growing-problem-with-chinas-unreliable-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Growing Problem With China&apos;s Unreliable Numbers](https://slashdot.org/story/25/11/19/1635239/the-growing-problem-with-chinas-unreliable-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-19, 17:14:51](https://news.ycombinator.com/item?id=45982073) - [Meta Segment Anything Model 3](https://ai.meta.com/sam3/)
 * [2025-11-19, 16:30:58](https://lobste.rs/s/gdwxd5/why_bsds) - [Why BSDs?](https://blog.thechases.com/posts/why-bsds/)
-* [2025-11-19, 16:25:32](https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open) - [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/)
 * [2025-11-19, 16:18:32](https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust) - [Specialized CSV readers for Rust leveraging hybrid SIMD techniques](https://docs.rs/simd-csv)
 * [2025-11-19, 15:28:04](https://news.ycombinator.com/item?id=45980760) - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
 * [2025-11-19, 14:49:00](https://soylentnews.org/article.pl?sid=25/11/18/0121255&amp;from=rss) - [FPGA Based IBM-PC-XT](https://soylentnews.org/article.pl?sid=25/11/18/0121255&amp;from=rss)
 * [2025-11-19, 14:41:30](https://news.ycombinator.com/item?id=45980117) - [Europe is scaling back GDPR and relaxing AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
-* [2025-11-19, 12:21:33](https://lobste.rs/s/6ufew7/hachi_image_search_engine) - [Hachi:  An Image search engine](https://eagledot.xyz/hachi.md.html)
 * [2025-11-19, 12:17:50](https://lobste.rs/s/rifpe8/lost_cause_lisp_machines) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
-* [2025-11-19, 11:45:51](https://news.ycombinator.com/item?id=45978423) - [Thunderbird adds native Microsoft Exchange email support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/)
 * [2025-11-19, 10:01:00](https://soylentnews.org/article.pl?sid=25/11/18/0113223&amp;from=rss) - [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&amp;from=rss)
 * [2025-11-19, 09:10:07](https://lobste.rs/s/gj8uup/static_web_hosting_on_intel_n150_freebsd) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 05:16:00](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss) - [Mozilla Unveils Plans for New &apos;AI Window&apos; Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss)
@@ -163,13 +133,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-19, 00:31:00](https://soylentnews.org/article.pl?sid=25/11/18/014241&amp;from=rss) - [Raccoons Are Showing Early Signs of Domestication](https://soylentnews.org/article.pl?sid=25/11/18/014241&amp;from=rss)
 * [2025-11-18, 22:34:33](https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit) - [Self-hosting DNS for no fun, but a little profit](https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/)
 * [2025-11-18, 19:47:00](https://soylentnews.org/article.pl?sid=25/11/17/119215&amp;from=rss) - [DHS Offers “Disturbing New Excuses” to Seize Kids’ Biometric Data, Expert Says](https://soylentnews.org/article.pl?sid=25/11/17/119215&amp;from=rss)
-* [2025-11-18, 19:32:27](https://news.ycombinator.com/item?id=45970885) - [A surprise with how &apos;#!&apos; handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise)
 * [2025-11-18, 15:04:00](https://soylentnews.org/article.pl?sid=25/11/17/0246249&amp;from=rss) - [The Data Center Resistance Has Arrived](https://soylentnews.org/article.pl?sid=25/11/17/0246249&amp;from=rss)
 * [2025-11-18, 14:19:46](https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness) - [Rebecca Heineman - from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
 * [2025-11-18, 10:23:00](https://soylentnews.org/article.pl?sid=25/11/17/0243214&amp;from=rss) - [Google Settlement With Epic Caps Play Store Fees, Boosts Other Android App Stores](https://soylentnews.org/article.pl?sid=25/11/17/0243214&amp;from=rss)
 * [2025-11-18, 05:37:00](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss) - [Nvidia’s Jensen Huang: China will Surpass U.S. in AI Race Through ENERGY](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss)
 * [2025-11-18, 00:53:00](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss) - [Starshield Satellite Constellation Emitting Unusual Radio Signals](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss)
-* [2025-11-17, 23:19:11](https://news.ycombinator.com/item?id=45959586) - [Three Hapsburgs and a Reporter Walk into a Canadian Vault](https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html)
 * [2025-11-17, 21:35:04](https://news.ycombinator.com/item?id=45958596) - [What influence has the BBC had on history?](https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history)
 * [2025-11-17, 20:14:00](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss) - [Microsoft: the Company Doesn&apos;t Have Enough Electricity to Install All the AI GPUs in its Inventory](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss)
 * [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They&apos;re Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
@@ -178,6 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss) - [Devuan Version 6.0 \&quot;Excalibur\&quot; is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss)
 * [2025-11-16, 20:28:00](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss) - [Youtube Ads - Legal Advice Required](https://soylentnews.org/article.pl?sid=25/11/15/0726208&amp;from=rss)
+* [2025-11-16, 18:56:56](https://news.ycombinator.com/item?id=45947437) - [CUDA Ontology](https://jamesakl.com/posts/cuda-ontology/)
 * [2025-11-16, 15:45:00](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss) - [This Rare ‘Mad Honey’ is Only Found in Two Places in the World](https://soylentnews.org/article.pl?sid=25/11/15/0419235&amp;from=rss)
 * [2025-11-16, 10:58:00](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss) - [AI Resistance: Who Says No to AI and Why?](https://soylentnews.org/article.pl?sid=25/11/15/045217&amp;from=rss)
 * [2025-11-16, 06:17:00](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss) - [Australians to Get Three Hours of Free Electricity Every Day Under Solar Scheme](https://soylentnews.org/article.pl?sid=25/11/15/0349259&amp;from=rss)
