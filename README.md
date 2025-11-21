@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Updates
+## Advances in Technology and Software
 
-* [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Building a Durable Execution Engine With SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/) - A deep dive into SQLite's potential for creating durable execution engines. [Comments](https://lobste.rs/s/jswvlx/building_durable_execution_engine_with)
 
-* [IBM, Cisco Outline Plans For Networks of Quantum Computers By Early 2030s](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/) - Insights into Wayland's fragmentation and tool integration challenges. [Comments](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland)
 
-* [Google's New Nano Banana Pro Uses Gemini 3 Power To Generate More Realistic AI Images](https://tech.slashdot.org/story/25/11/20/2215205/googles-new-nano-banana-pro-uses-gemini-3-power-to-generate-more-realistic-ai-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) - Persuasive strategies for advancing open-source AI. [Comments](https://news.ycombinator.com/item?id=46001889)
 
-* [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Interesting Science and Environment Discoveries
 
-## Programming and Software Development
+* [Moss Spores Survive 9 Months Outside ISS](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Resilience of moss spores exposed to extreme space conditions. [Comments](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
+* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss) - Novel environmental impacts of floating solar panels feasibility. [Comments](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss)
 
-* [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/)
+* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - Discovery of unique dinosaur armor bringing evolutionary insights. [Comments](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 
-* [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
+## Tech Policies and Regulations
 
-## Corporate and Legal Updates
+* [CDC Changes Webpage To Say Vaccines May Cause Autism, Revising Prior Language](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial CDC policy changes on vaccine language. [Comments](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Fired Techie Admits Sabotaging Ex-Employer, Causing $862K In Damage](https://yro.slashdot.org/story/25/11/20/231239/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Roblox Blocks Children From Chatting To Adult Strangers](https://games.slashdot.org/story/25/11/20/2227214/roblox-blocks-children-from-chatting-to-adult-strangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Strengthened child protection in gaming platforms. [Comments](https://games.slashdot.org/story/25/11/20/2227214/roblox-blocks-children-from-chatting-to-adult-strangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [CDC Changes Webpage To Say Vaccines May Cause Autism, Revising Prior Language](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - Significant regulatory conversations disrupting VPN usage. [Comments](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
 
-* [Monarch Tractor Preps For Layoffs and Warns Employees It May 'Shut Down'](https://tech.slashdot.org/story/25/11/20/1752232/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Innovations in Gaming and Entertainment
 
-* [US Employee Well-Being Hit New Low In 2024, Survey Reveals](https://news.slashdot.org/story/25/11/20/2222218/us-employee-well-being-hit-new-low-in-2024-survey-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Preservation of historical gaming culture through open-sourcing. [Comments](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Open Source Highlights
+* [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A breakthrough in AI-driven music streaming partnerships. [Comments](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/) - A compelling historical view featured interactively online. [Comments](https://news.ycombinator.com/item?id=45990934)
 
-* [Zork I, II, and III go Open Source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
+## Open Source Projects and Updates
 
-## Emerging Trends and Innovations
+* [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1) - Innovative language model manipulation using adversarial tactics. [Comments](https://lobste.rs/s/w9lkk3/adversarial_poetry_as_universal_single)
 
-* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss)
+* [Django LiveView 2.0.0](https://github.com/Django-LiveView/liveview) - Strides forward with updates to Django live management components. [Comments](https://lobste.rs/s/ul2vxd/django_liveview_2_0_0)
 
-* [Future Google TV Devices Might Come With a Solar-powered Remote](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
-
-* [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
+* [Canonical Extends Ubuntu Support to 15 Years](https://soylentnews.org/article.pl?sid=25/11/18/0113223&amp;from=rss) - Canonical revolutionizes support longevity for its Linux-based systems. [Comments](https://soylentnews.org/article.pl?sid=25/11/18/0113223&amp;from=rss)
 
 ---
 
@@ -69,6 +65,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-21, 09:39:52](https://lobste.rs/s/jswvlx/building_durable_execution_engine_with) - [Building a Durable Execution Engine With SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/)
+* [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss)
+* [2025-11-21, 08:52:47](https://lobste.rs/s/ttfo7o/cross_platform_p2p_wi_fi_how_eu_killed_awdl) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
+* [2025-11-21, 07:45:53](https://news.ycombinator.com/item?id=46002161) - [It&apos;s Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+* [2025-11-21, 07:45:31](https://lobste.rs/s/owwjs0/solving_fizz_buzz_with_cosines) - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
+* [2025-11-21, 07:00:00](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Moss Spores Survive 9 Months Outside ISS](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss)
 * [2025-11-21, 04:29:04](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland) - [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
 * [2025-11-21, 03:30:00](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -76,7 +79,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 * [2025-11-21, 01:40:00](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM, Cisco Outline Plans For Networks of Quantum Computers By Early 2030s](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 01:00:00](https://tech.slashdot.org/story/25/11/20/2243257/mozilla-says-its-finally-done-with-two-faced-onerep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Says It&apos;s Finally Done With Two-Faced Onerep](https://tech.slashdot.org/story/25/11/20/2243257/mozilla-says-its-finally-done-with-two-faced-onerep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-21, 00:36:01](https://news.ycombinator.com/item?id=45999872) - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 * [2025-11-21, 00:20:00](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&amp;from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&amp;from=rss)
 * [2025-11-20, 23:40:00](https://games.slashdot.org/story/25/11/20/2227214/roblox-blocks-children-from-chatting-to-adult-strangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Roblox Blocks Children From Chatting To Adult Strangers](https://games.slashdot.org/story/25/11/20/2227214/roblox-blocks-children-from-chatting-to-adult-strangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -101,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss)
 * [2025-11-20, 18:52:00](https://tech.slashdot.org/story/25/11/20/1852230/as-windows-turns-40-microsoft-faces-an-ai-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Windows Turns 40, Microsoft Faces an AI Backlash](https://tech.slashdot.org/story/25/11/20/1852230/as-windows-turns-40-microsoft-faces-an-ai-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
 * [2025-11-20, 18:24:07](https://lobste.rs/s/h7hhhn/brownouts_reveal_system_boundaries) - [Brownouts reveal system boundaries](https://jyn.dev/brownouts-reveal-system-boundaries/)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
@@ -109,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 18:05:54](https://lobste.rs/s/cphkc3/firefox_147_will_support_xdg_base) - [Firefox 147 Will Support The XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
 * [2025-11-20, 18:05:00](https://tech.slashdot.org/story/25/11/20/1752232/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Monarch Tractor Preps For Layoffs and Warns Employees It May &apos;Shut Down&apos;](https://tech.slashdot.org/story/25/11/20/1752232/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
-* [2025-11-20, 17:32:00](https://it.slashdot.org/story/25/11/20/1732245/you-can-finally-airdrop-files-between-android-and-iphone-starting-with-pixel-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can Finally AirDrop Files Between Android and iPhone, Starting with Pixel 10](https://it.slashdot.org/story/25/11/20/1732245/you-can-finally-airdrop-files-between-android-and-iphone-starting-with-pixel-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 17:27:13](https://lobste.rs/s/w9lkk3/adversarial_poetry_as_universal_single) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1)
 * [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
@@ -120,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 15:05:53](https://lobste.rs/s/cr4ihl/what_s_cooking_on_sourcehut_q4_2025) - [What&apos;s cooking on SourceHut? Q4 2025](https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
 * [2025-11-20, 14:37:00](https://soylentnews.org/article.pl?sid=25/11/18/1212257&amp;from=rss) - [Many Hard Leetcode Problems Are Easy Constraint Problems](https://soylentnews.org/article.pl?sid=25/11/18/1212257&amp;from=rss)
-* [2025-11-20, 13:56:04](https://lobste.rs/s/kmdqnf/freer_monads_more_extensible_effects) - [Freer Monads, More Extensible Effects (2015)](https://okmij.org/ftp/Haskell/extensible/more.pdf)
 * [2025-11-20, 12:01:26](https://news.ycombinator.com/item?id=45991738) - [Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs](https://arxiv.org/abs/2511.15304)
 * [2025-11-20, 11:20:02](https://lobste.rs/s/j5qgj6/memory_is_slow_disk_is_fast) - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part2)
 * [2025-11-20, 10:34:45](https://lobste.rs/s/towtni/agentic_pelican_on_bicycle_gemini_3_pro) - [Agentic Pelican on a Bicycle: Gemini 3 Pro](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/)
@@ -129,9 +128,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker&apos;s file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 05:04:00](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss) - [The Intel 4004 Was the First Microprocessor, Right? ](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss)
 * [2025-11-20, 04:01:47](https://lobste.rs/s/ua1kvs/rfc_hub) - [RFC Hub](https://rfchub.app/)
-* [2025-11-20, 01:09:53](https://lobste.rs/s/dtzplf/lions_operating_system) - [The Lions Operating System](https://lionsos.org/)
 * [2025-11-20, 00:18:00](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss) - [Full Metal Modine](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss)
-* [2025-11-19, 23:21:45](https://lobste.rs/s/uoekej/we_re_now_moving_from_openbsd_freebsd_for) - [We&apos;re (now) moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
 * [2025-11-19, 22:16:41](https://lobste.rs/s/amboaj/disallow_code_usage_with_custom_clippy) - [Disallow code usage with a custom `clippy.toml`](https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/)
 * [2025-11-19, 20:09:30](https://news.ycombinator.com/item?id=45984461) - [Show HN: F32 – An Extremely Small ESP32 Board](https://github.com/PegorK/f32)
 * [2025-11-19, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/18/113239&amp;from=rss) - [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&amp;from=rss)
@@ -152,6 +149,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-17, 20:14:00](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss) - [Microsoft: the Company Doesn&apos;t Have Enough Electricity to Install All the AI GPUs in its Inventory](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss)
 * [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They&apos;re Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
+* [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
+* [2025-11-17, 11:15:27](https://news.ycombinator.com/item?id=45952621) - [Apple&apos;s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle](https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o)
 * [2025-11-17, 10:44:00](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss) - [NVIDIA 580.105.08 Linux Graphics Driver Released With a New Environment Variable](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss)
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss) - [Devuan Version 6.0 \&quot;Excalibur\&quot; is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss)
