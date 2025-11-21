@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Innovations
+## Advancements in AI and Robotics
 
-* [Undo, Redo, and the Command Pattern](https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/) - A deep dive into implementing undo and redo functionality using the Command Pattern for software applications. [Comments](https://lobste.rs/s/lwepwh/undo_redo_command_pattern)
+* [Microsoft's AI-Powered Copy and Paste Can Now Use On-Device AI](https://it.slashdot.org/story/25/11/21/1516219/microsofts-ai-powered-copy-and-paste-can-now-use-on-device-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Comments: [here](https://it.slashdot.org/story/25/11/21/1516219/microsofts-ai-powered-copy-and-paste-can-now-use-on-device-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html) - An exploration of large language models (LLMs) and their ability to construct functional language interpreters. [Lobsters Comments](https://lobste.rs/s/pucsfk/fawk_llms_can_write_language_interpreter) [Hacker News Comments](https://news.ycombinator.com/item?id=46003144)
+* [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html) - Comments: [here](https://lobste.rs/s/pucsfk/fawk_llms_can_write_language_interpreter).
 
-* [Building a Durable Execution Engine With SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/) - Insights into constructing robust execution engines utilizing SQLite technology. [Comments](https://lobste.rs/s/jswvlx/building_durable_execution_engine_with)
+* [Google's Recent Progress in AI Could 'Create Some Temporary Economic Headwinds' For OpenAI, Altman Warns Employees](https://tech.slashdot.org/story/25/11/21/1436243/googles-recent-progress-in-ai-could-create-some-temporary-economic-headwinds-for-openai-altman-warns-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Comments: [here](https://tech.slashdot.org/story/25/11/21/1436243/googles-recent-progress-in-ai-could-create-some-temporary-economic-headwinds-for-openai-altman-warns-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/) - A critical look at the fragmentation issues surrounding Wayland interfaces, explained through an xdotool narrative. [Comments](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland)
+* [CERN Can Now Produce Antihydrogen Atoms Eight Times Faster Than Before](https://science.slashdot.org/story/25/11/21/066251/cern-can-now-produce-antihydrogen-atoms-eight-times-faster-than-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Comments: [here](https://science.slashdot.org/story/25/11/21/066251/cern-can-now-produce-antihydrogen-atoms-eight-times-faster-than-before?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Thunderbird Pro November 2025 Update](https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/) - Updates and new features in the Thunderbird Pro email client, highlighting advancements for productivity. [Comments](https://lobste.rs/s/6kzphy/thunderbird_pro_november_2025_update)
+* [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss) - Comments: [here](https://soylentnews.org/article.pl?sid=25/11/20/1344214&from=rss).
 
-* [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1) - Delving into adversarial tricks within poetry that exploit vulnerabilities in large language models. [Comments](https://lobste.rs/s/w9lkk3/adversarial_poetry_as_universal_single)
+## Technology and Software Development
 
-## AI and Machine Learning
+* [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/) - Comments: [here](https://news.ycombinator.com/item?id=46004386).
 
-* [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) - A study on advancements in AI model design and their implications for open-source AI development. [Comments](https://news.ycombinator.com/item?id=46001889)
+* [Undo, Redo, and the Command Pattern](https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/) - Comments: [here](https://lobste.rs/s/lwepwh/undo_redo_command_pattern).
 
-* [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service) - Music industry collaboration with AI-driven streaming platforms for growth and innovation. [Comments](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/) - Comments: [here](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland).
 
-* [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243) - An analysis on the influence of AI assistants on developer critical thinking and decision-making. [Comments](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss)
+* [How/Why to Sweep Async Tasks Under a Postgres Table](https://taylor.town/pg-task) - Comments: [here](https://lobste.rs/s/829yl5/how_why_sweep_async_tasks_under_postgres).
 
-## Scientific and Environmental Breakthroughs
+* [HP and Dell Disable HEVC Support Built Into Their Laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/) - Comments: [here](https://news.ycombinator.com/item?id=46002989).
 
-* [Moss Spores Survive 9 Months Outside ISS](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fascinating study showing exceptional resilience of moss spores in extreme conditions outside the International Space Station. [Comments](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Cryptography and Computing
 
-* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss) - Research into the potential of floating solar panels and their diverse ecological consequences depending on context. [Comments](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss)
+* [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics) - Comments: [here](https://news.ycombinator.com/item?id=46005130).
 
-## Policy and Regulation
+* [We found cryptography bugs in the elliptic library using Wycheproof](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/) - Comments: [here](https://lobste.rs/s/omsu9k/we_found_cryptography_bugs_elliptic).
 
-* [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Advocacy groups caution parents about potential ethical and security concerns with AI-powered toys. [Comments](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb) - Comments: [here](https://news.ycombinator.com/item?id=45996585).
 
-* [Lawmakers Want to Ban VPNs—And They Have No Idea What They&apos;re Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - An investigation into the implications of potential VPN bans by policymakers and their broader consequences. [Comments](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
+* [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part2) - Comments: [here](https://lobste.rs/s/j5qgj6/memory_is_slow_disk_is_fast).
 
-## Open Source Highlights
+* [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss) - Comments: [here](https://soylentnews.org/article.pl?sid=25/11/19/0144249&from=rss).
 
-* [Mozilla Unveils Plans for New &apos;AI Window&apos; Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss) - A promising addition to Firefox facilitating AI-based browsing experiences. [Comments](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss)
+## Science and Space Exploration
 
-* [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft revives and preserves classic game history by open-sourcing Zork's codebase. [Comments](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Moss Spores Survive 9 Months Outside ISS](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Comments: [here](https://science.slashdot.org/story/25/11/20/2316230/moss-spores-survive-9-months-outside-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [Starshield Satellite Constellation Emitting Unusual Radio Signals](https://soylentnews.org/article.pl?sid=25/11/16/1340211&from=rss) - Comments: [here](https://soylentnews.org/article.pl?sid=25/11/16/1340211&from=rss).
+
+* [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss) - Comments: [here](https://soylentnews.org/article.pl?sid=25/11/16/1311207&from=rss).
 
 ---
 
@@ -65,10 +69,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-21, 15:20:00](https://it.slashdot.org/story/25/11/21/1516219/microsofts-ai-powered-copy-and-paste-can-now-use-on-device-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s AI-Powered Copy and Paste Can Now Use On-Device AI](https://it.slashdot.org/story/25/11/21/1516219/microsofts-ai-powered-copy-and-paste-can-now-use-on-device-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-21, 14:52:36](https://news.ycombinator.com/item?id=46005130) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
+* [2025-11-21, 14:48:43](https://lobste.rs/s/rygog1/we_should_all_be_using_dependency) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
+* [2025-11-21, 14:40:00](https://tech.slashdot.org/story/25/11/21/1436243/googles-recent-progress-in-ai-could-create-some-temporary-economic-headwinds-for-openai-altman-warns-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Recent Progress in AI Could &apos;Create Some Temporary Economic Headwinds&apos; For OpenAI, Altman Warns Employees](https://tech.slashdot.org/story/25/11/21/1436243/googles-recent-progress-in-ai-could-create-some-temporary-economic-headwinds-for-openai-altman-warns-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-21, 14:28:51](https://lobste.rs/s/ufvdmn/there_s_always_going_be_way_not_code_error) - [There&apos;s always going to be a way to not code error handling](https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling)
+* [2025-11-21, 14:23:00](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss) - [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss)
+* [2025-11-21, 14:18:41](https://lobste.rs/s/f2omyv/go_s_runtime_may_someday_start_explicitly) - [Go&apos;s runtime may someday start explicitly freeing some internal memory](https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing)
+* [2025-11-21, 14:00:00](https://news.slashdot.org/story/25/11/21/1254229/homeschooling-hits-record-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Homeschooling Hits Record Numbers](https://news.slashdot.org/story/25/11/21/1254229/homeschooling-hits-record-numbers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-21, 13:42:08](https://lobste.rs/s/0squ96/more_tales_about_outages_numeric_limits) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
+* [2025-11-21, 13:30:36](https://news.ycombinator.com/item?id=46004386) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
+* [2025-11-21, 13:29:14](https://news.ycombinator.com/item?id=46004364) - [EXIF orientation info in PNGs isn&apos;t used for image-orientation](https://bugzilla.mozilla.org/show_bug.cgi?id=1627423)
+* [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 13:03:57](https://lobste.rs/s/lwepwh/undo_redo_command_pattern) - [Undo, Redo, and the Command Pattern](https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/)
 * [2025-11-21, 13:00:00](https://hardware.slashdot.org/story/25/11/21/0616243/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HP and Dell Disable HEVC Support Built Into Their Laptops&apos; CPUs](https://hardware.slashdot.org/story/25/11/21/0616243/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-21, 12:26:40](https://news.ycombinator.com/item?id=46003876) - [Brexit Hit to UK Economy Double Official Estimate, Study Finds](https://www.bloomberg.com/news/articles/2025-11-21/brexit-hit-to-uk-economy-double-official-estimate-study-finds)
-* [2025-11-21, 12:12:41](https://news.ycombinator.com/item?id=46003778) - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 * [2025-11-21, 12:00:02](https://news.ycombinator.com/item?id=46003686) - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
 * [2025-11-21, 10:31:44](https://lobste.rs/s/829yl5/how_why_sweep_async_tasks_under_postgres) - [How/Why to Sweep Async Tasks Under a Postgres Table](https://taylor.town/pg-task)
 * [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
@@ -101,22 +115,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 21:22:00](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Future Google TV Devices Might Come With a Solar-powered Remote](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 21:20:34](https://lobste.rs/s/8bojbq/2025_go_cryptography_state_union) - [2025 Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 21:05:00](https://lobste.rs/s/2opemx/finally_run_docker_containers_natively) - [Finally, run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
-* [2025-11-20, 20:51:00](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 20:24:42](https://news.ycombinator.com/item?id=45997212) - [New OS aims to provide (some) compatibility with macOS](https://github.com/ravynsoft/ravynos)
-* [2025-11-20, 20:10:00](https://games.slashdot.org/story/25/11/20/1924218/nvidia-brings-ad-free-cloud-gaming-to-new-chromebooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Brings Ad-free Cloud Gaming To New Chromebooks](https://games.slashdot.org/story/25/11/20/1924218/nvidia-brings-ad-free-cloud-gaming-to-new-chromebooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 20:00:48](https://lobste.rs/s/omsu9k/we_found_cryptography_bugs_elliptic) - [We found cryptography bugs in the elliptic library using Wycheproof](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/)
-* [2025-11-20, 19:30:00](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CDC Changes Webpage To Say Vaccines May Cause Autism, Revising Prior Language](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 19:29:58](https://lobste.rs/s/wtzy7u/zork_i_ii_iii_go_open_source) - [Zork I, II, and III go Open Source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss)
-* [2025-11-20, 18:24:07](https://lobste.rs/s/h7hhhn/brownouts_reveal_system_boundaries) - [Brownouts reveal system boundaries](https://jyn.dev/brownouts-reveal-system-boundaries/)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
 * [2025-11-20, 18:05:54](https://lobste.rs/s/cphkc3/firefox_147_will_support_xdg_base) - [Firefox 147 Will Support The XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
-* [2025-11-20, 17:27:13](https://lobste.rs/s/w9lkk3/adversarial_poetry_as_universal_single) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
-* [2025-11-20, 17:02:55](https://lobste.rs/s/ul2vxd/django_liveview_2_0_0) - [Django LiveView 2.0.0](https://github.com/Django-LiveView/liveview)
-* [2025-11-20, 16:14:10](https://lobste.rs/s/6kzphy/thunderbird_pro_november_2025_update) - [Thunderbird Pro November 2025 Update](https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/)
 * [2025-11-20, 15:53:30](https://lobste.rs/s/p9i6g3/open_source_developers_are_exhausted) - [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/)
 * [2025-11-20, 15:06:03](https://lobste.rs/s/empan7/signal_polls_yes_no_maybe_yes) - [Signal Polls: Yes, no, maybe (yes!)](https://signal.org/blog/polls/)
 * [2025-11-20, 15:05:53](https://lobste.rs/s/cr4ihl/what_s_cooking_on_sourcehut_q4_2025) - [What&apos;s cooking on SourceHut? Q4 2025](https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/)
@@ -128,7 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker&apos;s file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 05:04:00](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss) - [The Intel 4004 Was the First Microprocessor, Right? ](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss)
 * [2025-11-20, 00:18:00](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss) - [Full Metal Modine](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss)
-* [2025-11-19, 20:09:30](https://news.ycombinator.com/item?id=45984461) - [Show HN: F32 – An Extremely Small ESP32 Board](https://github.com/PegorK/f32)
 * [2025-11-19, 19:36:00](https://soylentnews.org/article.pl?sid=25/11/18/113239&amp;from=rss) - [Big Tech Wants Direct Access to Our Brains](https://soylentnews.org/article.pl?sid=25/11/18/113239&amp;from=rss)
 * [2025-11-19, 14:49:00](https://soylentnews.org/article.pl?sid=25/11/18/0121255&amp;from=rss) - [FPGA Based IBM-PC-XT](https://soylentnews.org/article.pl?sid=25/11/18/0121255&amp;from=rss)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
@@ -142,11 +148,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-18, 10:17:20](https://news.ycombinator.com/item?id=45963350) - [Okta&apos;s NextJS-0auth troubles](https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability)
 * [2025-11-18, 05:37:00](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss) - [Nvidia’s Jensen Huang: China will Surpass U.S. in AI Race Through ENERGY](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss)
 * [2025-11-18, 00:53:00](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss) - [Starshield Satellite Constellation Emitting Unusual Radio Signals](https://soylentnews.org/article.pl?sid=25/11/16/1340211&amp;from=rss)
-* [2025-11-17, 22:15:44](https://news.ycombinator.com/item?id=45958988) - [Show HN: My hobby OS that runs Minecraft](https://astral-os.org/posts/2025/10/31/astral-minecraft.html)
 * [2025-11-17, 20:14:00](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss) - [Microsoft: the Company Doesn&apos;t Have Enough Electricity to Install All the AI GPUs in its Inventory](https://soylentnews.org/article.pl?sid=25/11/16/1329214&amp;from=rss)
-* [2025-11-17, 20:13:54](https://news.ycombinator.com/item?id=45957743) - [Two recently found works of J.S. Bach presented in Leipzig [video]](https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s)
 * [2025-11-17, 15:33:00](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss) - [Lawmakers Want to Ban VPNs—And They Have No Idea What They&apos;re Doing](https://soylentnews.org/article.pl?sid=25/11/16/1317229&amp;from=rss)
 * [2025-11-17, 15:06:32](https://news.ycombinator.com/item?id=45954228) - [Show HN: 32V TENS device from built from scratch under $100](https://littlemountainman.github.io/2025/11/17/tens/)
+* [2025-11-17, 11:22:54](https://news.ycombinator.com/item?id=45952654) - [My Favorite Math Problem](https://bytesauna.com/post/my-favorite-math-problem)
 * [2025-11-17, 10:44:00](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss) - [NVIDIA 580.105.08 Linux Graphics Driver Released With a New Environment Variable](https://soylentnews.org/article.pl?sid=25/11/16/1316249&amp;from=rss)
 * [2025-11-17, 06:01:00](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss) - [A Spine-Tingling Discovery: This Dinosaur Had Spiked Body Armor](https://soylentnews.org/article.pl?sid=25/11/16/1311207&amp;from=rss)
 * [2025-11-17, 01:14:00](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss) - [Devuan Version 6.0 \&quot;Excalibur\&quot; is Available Now](https://soylentnews.org/article.pl?sid=25/11/15/0741250&amp;from=rss)
