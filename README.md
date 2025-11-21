@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Advancements
+## AI and Technology Updates
 
-* [IBM, Cisco Outline Plans For Networks of Quantum Computers By Early 2030s](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Quantum computing companies target the creation of interconnected quantum networks, aiming for broad-reaching applications in the coming decade.
+* [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Partnerships highlight the intersection of artificial intelligence and entertainment as music labels collaborate on innovative streaming solutions.
+* [IBM, Cisco Outline Plans For Networks of Quantum Computers By Early 2030s](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/) - An impressive digital tool allows users to explore the evolution of the world through interactive historical maps dating back thousands of years.
+* [Google's New Nano Banana Pro Uses Gemini 3 Power To Generate More Realistic AI Images](https://tech.slashdot.org/story/25/11/20/2215205/googles-new-nano-banana-pro-uses-gemini-3-power-to-generate-more-realistic-ai-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Cybersecurity and Privacy Concerns
+* [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Fired Techie Admits Sabotaging Ex-Employer, Causing $862K In Damage](https://yro.slashdot.org/story/25/11/20/231239/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A case of insider threat as a former employee’s actions underscore risks companies face from disgruntled personnel.
+## Programming and Software Development
 
-* [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd) - Reports shed light on controversial border patrol surveillance practices raising questions about privacy.
+* [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 
-* [We found cryptography bugs in the elliptic library using Wycheproof](https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/) - A deep dive into cryptographic vulnerabilities discovered in a library critical for secure communication.
+* [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/)
 
-## AI and Machine Learning Innovations
+* [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
 
-* [Google&apos;s New Nano Banana Pro Uses Gemini 3 Power To Generate More Realistic AI Images](https://tech.slashdot.org/story/25/11/20/2215205/googles-new-nano-banana-pro-uses-gemini-3-power-to-generate-more-realistic-ai-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google introduces a cutting-edge AI-assisted product designed for generating lifelike images.
+## Corporate and Legal Updates
 
-* [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1) - Researchers propose innovative methods to manipulate and evaluate the limits of large language models.
+* [Fired Techie Admits Sabotaging Ex-Employer, Causing $862K In Damage](https://yro.slashdot.org/story/25/11/20/231239/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Ethical and Social Implications in Technology
+* [CDC Changes Webpage To Say Vaccines May Cause Autism, Revising Prior Language](https://science.slashdot.org/story/25/11/20/1912215/cdc-changes-webpage-to-say-vaccines-may-cause-autism-revising-prior-language?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - With concerns surrounding child safety and privacy, groups caution consumers against AI-integrated toys during holidays.
+* [Monarch Tractor Preps For Layoffs and Warns Employees It May 'Shut Down'](https://tech.slashdot.org/story/25/11/20/1752232/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Roblox Blocks Children From Chatting To Adult Strangers](https://games.slashdot.org/story/25/11/20/2227214/roblox-blocks-children-from-chatting-to-adult-strangers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Efforts to enhance child safety online ramp up as popular platforms introduce stricter measures.
+* [US Employee Well-Being Hit New Low In 2024, Survey Reveals](https://news.slashdot.org/story/25/11/20/2222218/us-employee-well-being-hit-new-low-in-2024-survey-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Notable Open-Source Moves
+## Open Source Highlights
 
-* [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Celebrating legacy gaming, Microsoft ensures accessibility by releasing source code for Zork trilogy.
+* [Microsoft Open-Sources Classic Text Adventure Zork Trilogy](https://news.slashdot.org/story/25/11/20/1942250/microsoft-open-sources-classic-text-adventure-zork-trilogy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb) - Open-source community drives innovation in data security with enhanced encryption mechanisms for DuckDB.
+* [Zork I, II, and III go Open Source](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source)
 
-## Transportation and Infrastructure Updates
+## Emerging Trends and Innovations
 
-* [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982) - Leading airlines enact new safety measures following incidents with portable power devices.
+* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss)
 
-* [Future Google TV Devices Might Come With a Solar-powered Remote](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google integrates sustainable innovations with upcoming TV device peripherals.
+* [Future Google TV Devices Might Come With a Solar-powered Remote](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
+
+* [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
 
 ---
 
@@ -65,11 +69,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss)
+* [2025-11-21, 04:29:04](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland) - [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
 * [2025-11-21, 03:30:00](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Advocacy Groups Urge Parents To Avoid AI Toys This Holiday Season](https://slashdot.org/story/25/11/20/2311203/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 02:20:00](https://yro.slashdot.org/story/25/11/20/231239/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fired Techie Admits Sabotaging Ex-Employer, Causing $862K In Damage ](https://yro.slashdot.org/story/25/11/20/231239/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 01:50:24](https://news.ycombinator.com/item?id=46000303) - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 * [2025-11-21, 01:40:00](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM, Cisco Outline Plans For Networks of Quantum Computers By Early 2030s](https://tech.slashdot.org/story/25/11/20/2251228/ibm-cisco-outline-plans-for-networks-of-quantum-computers-by-early-2030s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-21, 01:02:44](https://news.ycombinator.com/item?id=46000032) - [Al-Shabaab Hacks MN Welfare Process](https://www.thecentersquare.com/minnesota/article_4ec1e3b3-1503-451d-8e50-25d2607568e5.html)
 * [2025-11-21, 01:00:00](https://tech.slashdot.org/story/25/11/20/2243257/mozilla-says-its-finally-done-with-two-faced-onerep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Says It&apos;s Finally Done With Two-Faced Onerep](https://tech.slashdot.org/story/25/11/20/2243257/mozilla-says-its-finally-done-with-two-faced-onerep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 00:36:01](https://news.ycombinator.com/item?id=45999872) - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
 * [2025-11-21, 00:20:00](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Major Music Labels Strike Deals With New AI Streaming Service](https://entertainment.slashdot.org/story/25/11/20/2239227/major-music-labels-strike-deals-with-new-ai-streaming-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -78,10 +83,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 23:17:04](https://lobste.rs/s/8dcpvs/is_c_26_getting_destructive_move) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 * [2025-11-20, 23:03:00](https://news.slashdot.org/story/25/11/20/2222218/us-employee-well-being-hit-new-low-in-2024-survey-reveals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Employee Well-Being Hit New Low In 2024, Survey Reveals](https://news.slashdot.org/story/25/11/20/2222218/us-employee-well-being-hit-new-low-in-2024-survey-reveals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 22:58:06](https://news.ycombinator.com/item?id=45999038) - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
-* [2025-11-20, 22:21:58](https://news.ycombinator.com/item?id=45998649) - [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
 * [2025-11-20, 22:17:00](https://tech.slashdot.org/story/25/11/20/2215205/googles-new-nano-banana-pro-uses-gemini-3-power-to-generate-more-realistic-ai-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s New Nano Banana Pro Uses Gemini 3 Power To Generate More Realistic AI Images](https://tech.slashdot.org/story/25/11/20/2215205/googles-new-nano-banana-pro-uses-gemini-3-power-to-generate-more-realistic-ai-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 22:01:00](https://lobste.rs/s/smkwo1/how_slide_rules_work) - [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
-* [2025-11-20, 21:58:45](https://news.ycombinator.com/item?id=45998396) - [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
 * [2025-11-20, 21:41:49](https://lobste.rs/s/is1abw/olmo_3_charting_path_through_model_flow) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-20, 21:33:37](https://news.ycombinator.com/item?id=45998047) - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
 * [2025-11-20, 21:22:00](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Future Google TV Devices Might Come With a Solar-powered Remote](https://tech.slashdot.org/story/25/11/20/1951234/future-google-tv-devices-might-come-with-a-solar-powered-remote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,6 +101,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 19:26:12](https://news.ycombinator.com/item?id=45996585) - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss)
 * [2025-11-20, 18:52:00](https://tech.slashdot.org/story/25/11/20/1852230/as-windows-turns-40-microsoft-faces-an-ai-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As Windows Turns 40, Microsoft Faces an AI Backlash](https://tech.slashdot.org/story/25/11/20/1852230/as-windows-turns-40-microsoft-faces-an-ai-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-20, 18:27:51](https://news.ycombinator.com/item?id=45995913) - [Show HN: Search London StreetView panoramas by text](https://london.publicinsights.uk)
 * [2025-11-20, 18:24:07](https://lobste.rs/s/h7hhhn/brownouts_reveal_system_boundaries) - [Brownouts reveal system boundaries](https://jyn.dev/brownouts-reveal-system-boundaries/)
 * [2025-11-20, 18:20:59](https://news.ycombinator.com/item?id=45995834) - [NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 * [2025-11-20, 18:19:31](https://news.ycombinator.com/item?id=45995816) - [The Lions Operating System](https://lionsos.org)
@@ -107,12 +111,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-20, 17:47:06](https://news.ycombinator.com/item?id=45995394) - [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394)
 * [2025-11-20, 17:32:00](https://it.slashdot.org/story/25/11/20/1732245/you-can-finally-airdrop-files-between-android-and-iphone-starting-with-pixel-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can Finally AirDrop Files Between Android and iPhone, Starting with Pixel 10](https://it.slashdot.org/story/25/11/20/1732245/you-can-finally-airdrop-files-between-android-and-iphone-starting-with-pixel-10?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-20, 17:27:13](https://lobste.rs/s/w9lkk3/adversarial_poetry_as_universal_single) - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/html/2511.15304v1)
+* [2025-11-20, 17:07:49](https://news.ycombinator.com/item?id=45994895) - [Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 17:04:34](https://news.ycombinator.com/item?id=45994854) - [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
 * [2025-11-20, 17:02:55](https://lobste.rs/s/ul2vxd/django_liveview_2_0_0) - [Django LiveView 2.0.0](https://github.com/Django-LiveView/liveview)
 * [2025-11-20, 16:14:10](https://lobste.rs/s/6kzphy/thunderbird_pro_november_2025_update) - [Thunderbird Pro November 2025 Update](https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/)
 * [2025-11-20, 15:53:30](https://lobste.rs/s/p9i6g3/open_source_developers_are_exhausted) - [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/)
-* [2025-11-20, 15:53:17](https://news.ycombinator.com/item?id=45993943) - [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)
-* [2025-11-20, 15:42:52](https://lobste.rs/s/g0trax/i_ve_been_thinking_about_agents_mcp_all) - [I’ve been thinking about Agents and MCP all wrong](https://rmoff.net/2025/11/20/ive-been-thinking-about-agents-and-mcp-all-wrong/)
 * [2025-11-20, 15:06:03](https://lobste.rs/s/empan7/signal_polls_yes_no_maybe_yes) - [Signal Polls: Yes, no, maybe (yes!)](https://signal.org/blog/polls/)
 * [2025-11-20, 15:05:53](https://lobste.rs/s/cr4ihl/what_s_cooking_on_sourcehut_q4_2025) - [What&apos;s cooking on SourceHut? Q4 2025](https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/)
 * [2025-11-20, 15:04:23](https://news.ycombinator.com/item?id=45993296) - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
