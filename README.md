@@ -1,60 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements
+## Technology and Innovation
 
-* [How to use views for debugging tools to save time](https://chrispenner.ca/posts/views-for-debugging) - Tips for leveraging views in debugging to save time and streamline coding processes.
+* [Google Starts Testing Ads In AI Mode](https://search.slashdot.org/story/25/11/21/2244251/google-starts-testing-ads-in-ai-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration of Google's experiment to integrate ads into its AI models.
 
-* [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) - A new model proposes increased imaging accuracy for MRI scans through innovative physics-based solutions.
+* [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) - A breakthrough in physics promises significant advancements for medical imaging.
 
-* [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/) - An ambitious project to construct a functional ARM emulator from the ground up.
+* [Cryptographers Cancel Election Results After Losing Decryption Key](https://it.slashdot.org/story/25/11/22/0041203/cryptographers-cancel-election-results-after-losing-decryption-key?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical security mishap in cryptography underscores the industry's challenges.
 
-* [Web playground for training language models with WebGPU](https://sequence.toys) - A unique platform to train language models in a browser with WebGPU capabilities.
+* [Building a Durable Execution Engine with SQLite](https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/) - Insightful methods for constructing a reliable execution engine using SQLite.
 
-* [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html) - Efforts to enhance Steam device efficiency and capabilities in collaboration with Valve.
+## Space and Science
 
-## Environmental and Societal Shifts
+* [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/) - A fascinating study on the resilience of life in outer space.
 
-* [Iran's Capital Is Moving. The Reason Is an Ecological Catastrophe](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of Iran's decision to relocate its capital due to critical ecological challenges.
+* [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/) - An intriguing look into the aesthetics and principles of mathematical operations.
 
-* [Malaysia's Palm Oil Estates Are Turning Into Data Centers](https://slashdot.org/story/25/11/21/2230226/malaysias-palm-oil-estates-are-turning-into-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploration of the transformation of palm oil plantations into environmentally-conscious infrastructure.
+## Environment and Climate
 
-* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&from=rss) - A report on floating solar panel projects and their site-specific ecological impacts.
+* [Iran's Capital Is Moving. The Reason Is an Ecological Catastrophe](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Environmental challenges force Iran to take bold relocation measures.
 
-## Software and Open Source Developments
+* [Malaysia's Palm Oil Estates Are Turning Into Data Centers](https://slashdot.org/story/25/11/21/2230226/malaysias-palm-oil-estates-are-turning-into-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unconventional transformation of palm oil estates into technology hubs.
 
-* [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/) - Challenges facing open-source communities regarding developer burnout and compensation.
+## Games and Entertainment
 
-* [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork) - The historic code base of a pioneering interactive text adventure game.
+* [How Two Janitors Made One of the Year's Most Charming RPGs](https://games.slashdot.org/story/25/11/21/188225/how-two-janitors-made-one-of-the-years-most-charming-rpgs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A heartwarming story of unlikely game developers.
 
-* [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) - Job opportunities in industrial automation hardware at a YC company.
+## Legal and Societal Issues
 
-* [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/) - A developer's insight into learning Vulkan and its application to game engine creation.
+* [SEC Dismisses Case Against SolarWinds, Top Security Officer](https://yro.slashdot.org/story/25/11/21/2238230/sec-dismisses-case-against-solarwinds-top-security-officer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A pivotal legal decision involving a major cybersecurity company.
 
-* [How to get started with the ed text editor (2022)](https://www.redhat.com/en/blog/introduction-ed-editor) - A guide for beginners exploring the classic ed text editor.
+* [Tech Company CTO and Others Indicted For Exporting Nvidia Chips To China](https://yro.slashdot.org/story/25/11/21/221232/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal repercussions for technology export violations.
 
-## Scientific Research and Discoveries
+## Unique Discoveries and Insights
 
-* [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/) - A philosophical and mathematical debate about matrix multiplication aesthetics.
+* [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o) - A rare find with record-breaking valuation.
 
-* [A bug caused by a door in a game you may have heard of called "Half Life 2"](https://mastodon.gamedev.place/@TomF/115589875974658415) - A quirky story of a bug in a popular PC game.
-
-* [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html) - Exploring the capabilities of large language models in developing interpreters.
-
-* [The Intel 4004 Was the First Microprocessor, Right?](https://soylentnews.org/article.pl?sid=25/11/18/125234&from=rss) - A historical look at the origins of the microprocessor.
-
-* [Reverse Engineering the Miele Diagnostic Interface](https://medusalix.github.io/posts/miele-interface/) - An investigation into reverse engineering of domestic appliance communication protocols.
-
-## Security and Privacy Updates
-
-* [Google Chrome Bug Exploited as an 0-Day - Patch Now or Risk Full System Compromise](https://soylentnews.org/article.pl?sid=25/11/21/1348200&from=rss) - Warning to users about an urgent Chrome vulnerability.
-
-* [Tech Company CTO and Others Indicted For Exporting Nvidia Chips To China](https://yro.slashdot.org/story/25/11/21/221232/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal ramifications for circumventing export restrictions on technology.
-
-* [SEC Dismisses Case Against SolarWinds, Top Security Officer](https://yro.slashdot.org/story/25/11/21/2238230/sec-dismisses-case-against-solarwinds-top-security-officer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A resolution in a controversial cybersecurity case.
-
-* [Thunderbird Pro Enters Production Testing Ahead of $9/Month Launch](https://it.slashdot.org/story/25/11/21/1849253/thunderbird-pro-enters-production-testing-ahead-of-9month-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Thunderbird's new premium email client undergoes testing.
-
-* [LAPD helicopter tracker with real-time operating costs](https://lapdhelicoptertracker.com/) - A detailed tracker of air operation costs for transparency in policing.
+* [Homeschooling hits record numbers](https://reason.com/2025/11/19/homeschooling-hits-record-numbers/) - An educational trend marking significant societal shifts.
 
 ---
 
@@ -81,9 +63,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-22, 05:21:53](https://news.ycombinator.com/item?id=46012328) - [Superman copy found in mum&apos;s attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
+* [2025-11-22, 04:42:00](https://soylentnews.org/article.pl?sid=25/11/21/1342241&amp;from=rss) - [Join the the Newest Social Network and Party Like its 1987](https://soylentnews.org/article.pl?sid=25/11/21/1342241&amp;from=rss)
+* [2025-11-22, 03:57:29](https://news.ycombinator.com/item?id=46011978) - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
 * [2025-11-22, 03:34:48](https://lobste.rs/s/6zjbgm/how_use_views_for_debugging_tools_save) - [How to use views for debugging tools to save time](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-11-22, 03:30:00](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran&apos;s Capital Is Moving. The Reason Is an Ecological Catastrophe](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-22, 02:28:28](https://news.ycombinator.com/item?id=46011521) - [The death of tech idealism and rise of the homeless in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
+* [2025-11-22, 03:22:45](https://lobste.rs/s/8wj7r0/what_now_handling_errors_large_systems) - [What Now? Handling Errors in Large Systems](http://brooker.co.za/blog/2025/11/20/what-now.html)
 * [2025-11-22, 02:02:00](https://it.slashdot.org/story/25/11/22/0041203/cryptographers-cancel-election-results-after-losing-decryption-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cryptographers Cancel Election Results After Losing Decryption Key](https://it.slashdot.org/story/25/11/22/0041203/cryptographers-cancel-election-results-after-losing-decryption-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 01:54:45](https://news.ycombinator.com/item?id=46011351) - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
 * [2025-11-22, 01:26:34](https://lobste.rs/s/dpky8y/installing_freebsd_15_on_my_desktop) - [Installing FreeBSD 15 on my desktop](https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/)
@@ -92,7 +77,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-22, 00:31:52](https://lobste.rs/s/tbqdgl/letter_from_codeberg_onwards_upwards) - [Letter from Codeberg: Onwards and upwards](https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html)
 * [2025-11-22, 00:30:26](https://news.ycombinator.com/item?id=46010806) - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
 * [2025-11-22, 00:15:29](https://lobste.rs/s/xwkp41/bug_caused_by_door_game_you_may_have_heard) - [A bug caused by a door in a game you may have heard of called \&quot;Half Life 2\&quot;](https://mastodon.gamedev.place/@TomF/115589875974658415)
-* [2025-11-22, 00:04:16](https://lobste.rs/s/pg70wu/how_get_started_with_ed_text_editor_2022) - [How to get started with the ed text editor (2022)](https://www.redhat.com/en/blog/introduction-ed-editor)
 * [2025-11-22, 00:02:00](https://slashdot.org/story/25/11/21/2230226/malaysias-palm-oil-estates-are-turning-into-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Malaysia&apos;s Palm Oil Estates Are Turning Into Data Centers](https://slashdot.org/story/25/11/21/2230226/malaysias-palm-oil-estates-are-turning-into-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/11/21/1340237&amp;from=rss) - [Kaspersky Antivirus is Now Available for Linux. Will You Use It?](https://soylentnews.org/article.pl?sid=25/11/21/1340237&amp;from=rss)
 * [2025-11-21, 23:28:40](https://news.ycombinator.com/item?id=46010329) - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
@@ -123,25 +107,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-21, 17:29:59](https://news.ycombinator.com/item?id=46006616) - [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 17:28:25](https://news.ycombinator.com/item?id=46006598) - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 17:24:00](https://slashdot.org/story/25/11/21/1724242/ai-nutrition-tracking-stinks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Nutrition Tracking Stinks](https://slashdot.org/story/25/11/21/1724242/ai-nutrition-tracking-stinks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-21, 17:00:00](https://news.ycombinator.com/item?id=46006250) - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
 * [2025-11-21, 16:42:19](https://news.ycombinator.com/item?id=46006082) - [You can make PS2 games in JavaScript](https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript)
 * [2025-11-21, 16:34:52](https://news.ycombinator.com/item?id=46006016) - [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
 * [2025-11-21, 16:10:57](https://lobste.rs/s/klv6mo/source_code_for_1977_version_zork) - [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
 * [2025-11-21, 15:23:20](https://news.ycombinator.com/item?id=46005388) - [Make product worse, get money](https://dynomight.net/worse/)
+* [2025-11-21, 15:18:05](https://news.ycombinator.com/item?id=46005349) - [XBMC 4.0 for the Original Xbox](https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/)
 * [2025-11-21, 14:50:36](https://news.ycombinator.com/item?id=46005111) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-21, 14:48:43](https://lobste.rs/s/rygog1/we_should_all_be_using_dependency) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-21, 14:28:51](https://lobste.rs/s/ufvdmn/there_s_always_going_be_way_not_code_error) - [There&apos;s always going to be a way to not code error handling](https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling)
 * [2025-11-21, 14:23:00](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss) - [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss)
 * [2025-11-21, 14:18:41](https://lobste.rs/s/f2omyv/go_s_runtime_may_someday_start_explicitly) - [Go&apos;s runtime may someday start explicitly freeing some internal memory](https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing)
 * [2025-11-21, 13:42:08](https://lobste.rs/s/0squ96/more_tales_about_outages_numeric_limits) - [More tales about outages and numeric limits](https://rachelbythebay.com/w/2025/11/18/down/)
+* [2025-11-21, 13:23:16](https://news.ycombinator.com/item?id=46004293) - [Making a Small RPG](https://jslegenddev.substack.com/p/making-a-small-rpg)
 * [2025-11-21, 13:03:57](https://lobste.rs/s/lwepwh/undo_redo_command_pattern) - [Undo, Redo, and the Command Pattern](https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/)
-* [2025-11-21, 10:28:49](https://news.ycombinator.com/item?id=46003144) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:27:47](https://lobste.rs/s/pucsfk/fawk_llms_can_write_language_interpreter) - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 * [2025-11-21, 10:05:43](https://lobste.rs/s/n2ciff/why_pure_functional_programming_matters) - [Why (pure) functional programming matters](https://www.youtube.com/watch?v=8p5acyD8lGs)
 * [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss)
 * [2025-11-21, 08:52:47](https://lobste.rs/s/ttfo7o/cross_platform_p2p_wi_fi_how_eu_killed_awdl) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
 * [2025-11-21, 07:45:31](https://lobste.rs/s/owwjs0/solving_fizz_buzz_with_cosines) - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
-* [2025-11-21, 06:50:14](https://news.ycombinator.com/item?id=46001889) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss)
 * [2025-11-21, 04:29:04](https://lobste.rs/s/gtbhhc/exploring_fragmentation_wayland) - [Exploring the Fragmentation of Wayland, an xdotool adventure](https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/)
 * [2025-11-21, 00:31:47](https://news.ycombinator.com/item?id=45999842) - [Homeschooling hits record numbers](https://reason.com/2025/11/19/homeschooling-hits-record-numbers/)
@@ -161,6 +144,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-19, 05:16:00](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss) - [Mozilla Unveils Plans for New &apos;AI Window&apos; Browsing Mode in Firefox, Opens Signups](https://soylentnews.org/article.pl?sid=25/11/18/018202&amp;from=rss)
 * [2025-11-19, 00:31:00](https://soylentnews.org/article.pl?sid=25/11/18/014241&amp;from=rss) - [Raccoons Are Showing Early Signs of Domestication](https://soylentnews.org/article.pl?sid=25/11/18/014241&amp;from=rss)
 * [2025-11-18, 19:47:00](https://soylentnews.org/article.pl?sid=25/11/17/119215&amp;from=rss) - [DHS Offers “Disturbing New Excuses” to Seize Kids’ Biometric Data, Expert Says](https://soylentnews.org/article.pl?sid=25/11/17/119215&amp;from=rss)
+* [2025-11-18, 17:35:31](https://news.ycombinator.com/item?id=45969398) - [The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi](https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/)
 * [2025-11-18, 15:04:00](https://soylentnews.org/article.pl?sid=25/11/17/0246249&amp;from=rss) - [The Data Center Resistance Has Arrived](https://soylentnews.org/article.pl?sid=25/11/17/0246249&amp;from=rss)
 * [2025-11-18, 10:23:00](https://soylentnews.org/article.pl?sid=25/11/17/0243214&amp;from=rss) - [Google Settlement With Epic Caps Play Store Fees, Boosts Other Android App Stores](https://soylentnews.org/article.pl?sid=25/11/17/0243214&amp;from=rss)
 * [2025-11-18, 05:37:00](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss) - [Nvidia’s Jensen Huang: China will Surpass U.S. in AI Race Through ENERGY](https://soylentnews.org/article.pl?sid=25/11/17/0240210&amp;from=rss)
