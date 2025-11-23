@@ -1,42 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Critiques
+## Artificial Intelligence and Technology Advancements
 
-* [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html) ([comments](https://news.ycombinator.com/item?id=46020543)): A detailed dive into the peculiarities of Intel 386's design, unveiling surprising circuit configurations.
+* [Amazon's AI-Powered IDE Kiro Helps Vibe Coders with 'Spec Mode'](https://developers.slashdot.org/story/25/11/23/0450211/amazons-ai-powered-ide-kiro-helps-vibe-coders-with-spec-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/11/23/0450211/amazons-ai-powered-ide-kiro-helps-vibe-coders-with-spec-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Flux Keyboard](https://fluxkeyboard.com/) ([comments](https://lobste.rs/s/cpiydc/flux_keyboard)): Explorative insights into a new adaptive keyboard to improve typing efficiency and user experience.
+* [Meta Plans New AI-Powered 'Morning Brief' Drawn From Facebook and 'External Sources'](https://tech.slashdot.org/story/25/11/22/065202/meta-plans-new-ai-powered-morning-brief-drawn-from-facebook-and-external-sources?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/11/22/065202/meta-plans-new-ai-powered-morning-brief-drawn-from-facebook-and-external-sources?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) ([comments](https://news.ycombinator.com/item?id=46016799)): An opportunity to shape infrastructure at a dynamic YC-backed company.
+## Programming and Development Tools
 
-## AI and Privacy Challenges
+* [trifold is a tool to quickly & cheaply host static websites using a CDN](https://jpt.sh/projects/trifold/) ([comments](https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host))
 
-* [Analyzing 47,000 ChatGPT Conversations Shows Echo Chambers, Sensitive Data - and Unpredictable Medical Advice](https://slashdot.org/story/25/11/22/0632225/analyzing-47000-chatgpt-conversations-shows-echo-chambers-sensitive-data---and-unpredictable-medical-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/22/0632225/analyzing-47000-chatgpt-conversations-shows-echo-chambers-sensitive-data---and-unpredictable-medical-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Important revelations about the pitfalls in AI communication and data handling.
+* [PHP 8.5 Brings Long-Awaited Pipe Operator, Adds New URI Tools](https://developers.slashdot.org/story/25/11/23/0021216/php-85-brings-long-awaited-pipe-operator-adds-new-uri-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/11/23/0021216/php-85-brings-long-awaited-pipe-operator-adds-new-uri-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html) ([comments](https://news.ycombinator.com/item?id=46016249)): A critical evaluation of the understated threat from browser fingerprinting.
+* [Flux Keyboard](https://fluxkeyboard.com/) ([comments](https://lobste.rs/s/cpiydc/flux_keyboard))
 
-## Cryptography and Security
+## Environment and Energy
 
-* [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html) ([comments](https://news.ycombinator.com/item?id=46020596)): A bizarre mishap in the cryptography community where lost keys threaten election integrity.
+* [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/21/1957207&from=rss))
 
-* [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/) ([comments](https://news.ycombinator.com/item?id=46019817)): Alarming allegations regarding how social media companies handle knowledge of their platforms' impact on mental health.
+* [China reaches energy milestone by "breeding" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium) ([comments](https://news.ycombinator.com/item?id=46016639))
 
-## Society, Justice, and Cultural Impacts
+## Scientific Discoveries and Innovations
 
-* [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors) ([comments](https://news.ycombinator.com/item?id=46019760)): Pioneering legislation aimed at better addressing crimes involving chemical incapacitation.
+* [Physicists Reveal a New Quantum State Where Electrons Run Wild](https://science.slashdot.org/story/25/11/22/077217/physicists-reveal-a-new-quantum-state-where-electrons-run-wild?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/22/077217/physicists-reveal-a-new-quantum-state-where-electrons-run-wild?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss)): The struggle to preserve linguistic heritage amid the surge of AI-driven and globalized media.
+* [Are Astronomers Wrong About Dark Energy?](https://science.slashdot.org/story/25/11/22/2034253/are-astronomers-wrong-about-dark-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/22/2034253/are-astronomers-wrong-about-dark-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Sustainable Energy and Environmental Efforts
+## Cybersecurity and Privacy
 
-* [Britain Sets New Record, Generating Enough Wind Power for 22 Million Homes](https://news.slashdot.org/story/25/11/22/1057202/britain-sets-new-record-generating-enough-wind-power-for-22-million-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/11/22/1057202/britain-sets-new-record-generating-enough-wind-power-for-22-million-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Success in renewable energy achievements in the UK.
+* [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/) ([comments](https://news.ycombinator.com/item?id=46019817))
 
-* [China reaches energy milestone by "breeding" uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium) ([comments](https://news.ycombinator.com/item?id=46016639)): A significant leap towards energy sustainability using thorium-based technologies.
+* [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html) ([comments](https://news.ycombinator.com/item?id=46016249))
 
-## Unconventional Insights and Innovations
+## Miscellaneous
 
-* [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news) ([comments](https://news.ycombinator.com/item?id=46018158)): A creative take on rediscovering historical news through a contemporary platform.
+* [A cryptography research body held an election and they can't decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html) ([comments](https://news.ycombinator.com/item?id=46020596))
 
-* [Gwern's "Stem Humor" Directory](https://gwern.net/doc/math/humor/index) ([comments](https://news.ycombinator.com/item?id=46016630)): Compilation of STEM-related humor to lighten serious academic atmospheres.
+* [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/21/1952206&from=rss))
 
 ---
 
@@ -63,7 +63,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [Cryptographers Held an Election. They Can&apos;t Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
+* [2025-11-23, 06:05:51](https://news.ycombinator.com/item?id=46021179) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
+* [2025-11-23, 05:34:00](https://developers.slashdot.org/story/25/11/23/0450211/amazons-ai-powered-ide-kiro-helps-vibe-coders-with-spec-mode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s AI-Powered IDE Kiro Helps Vibe Coders with &apos;Spec Mode&apos;](https://developers.slashdot.org/story/25/11/23/0450211/amazons-ai-powered-ide-kiro-helps-vibe-coders-with-spec-mode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-23, 05:28:58](https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host) - [trifold is a tool to quickly &amp; cheaply host static websites using a CDN](https://jpt.sh/projects/trifold/)
+* [2025-11-23, 04:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss) - [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss)
+* [2025-11-23, 03:47:17](https://news.ycombinator.com/item?id=46020596) - [A cryptography research body held an election and they can&apos;t decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 * [2025-11-23, 03:33:42](https://news.ycombinator.com/item?id=46020543) - [Unusual circuits in the Intel 386&apos;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-23, 03:15:12](https://lobste.rs/s/risea0/satisfies_is_my_favorite_typescript) - [`satisfies` is my favorite TypeScript keyword](https://sjer.red/blog/2024-12-21/)
 * [2025-11-23, 02:54:26](https://lobste.rs/s/pzcjsl/enough_with_all_raft) - [Enough With All The Raft](https://transactional.blog/talk/enough-with-all-the-raft)
@@ -75,22 +79,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-23, 01:22:25](https://lobste.rs/s/s5kub7/dingo_meta_language_for_go) - [dingo: A meta-language for Go](https://github.com/MadAppGang/dingo)
 * [2025-11-23, 01:19:49](https://lobste.rs/s/23os7e/experimenting_with_robin_hood_hashing) - [Experimenting with Robin Hood hashing](https://twdev.blog/2025/11/robin_hood/)
 * [2025-11-23, 01:09:47](https://news.ycombinator.com/item?id=46019817) - [Meta buried &apos;causal&apos; evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
-* [2025-11-23, 01:00:04](https://news.ycombinator.com/item?id=46019760) - [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
-* [2025-11-23, 00:50:49](https://news.ycombinator.com/item?id=46019714) - [A Year Without Caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
+* [2025-11-23, 00:50:49](https://news.ycombinator.com/item?id=46019714) - [A year without caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
 * [2025-11-23, 00:46:53](https://news.ycombinator.com/item?id=46019685) - [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
-* [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf]](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&amp;FileExtension=pdf&amp;FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
+* [2025-11-23, 00:35:27](https://news.ycombinator.com/item?id=46019636) - [NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&amp;FileExtension=pdf&amp;FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
 * [2025-11-22, 23:41:00](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss) - [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss)
 * [2025-11-22, 23:35:00](https://news.slashdot.org/story/25/11/22/2227240/the-strange-and-totally-real-plan-to-blot-out-the-sun-and-reverse-global-warming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The Strange and Totally Real Plan to Blot Out the Sun and Reverse Global Warming&apos;](https://news.slashdot.org/story/25/11/22/2227240/the-strange-and-totally-real-plan-to-blot-out-the-sun-and-reverse-global-warming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-22, 23:08:57](https://news.ycombinator.com/item?id=46019168) - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
 * [2025-11-22, 22:34:00](https://tech.slashdot.org/story/25/11/22/065202/meta-plans-new-ai-powered-morning-brief-drawn-from-facebook-and-external-sources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Plans New AI-Powered &apos;Morning Brief&apos; Drawn From Facebook and &apos;External Sources&apos;](https://tech.slashdot.org/story/25/11/22/065202/meta-plans-new-ai-powered-morning-brief-drawn-from-facebook-and-external-sources?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 22:03:29](https://news.ycombinator.com/item?id=46018664) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 22:00:49](https://lobste.rs/s/uyt89r/windows_arm64_internals_deconstructing) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:20:24](https://news.ycombinator.com/item?id=46018380) - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
 * [2025-11-22, 21:16:25](https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot) - [A Reverse Engineer’s Anatomy of the macOS Boot Chain &amp; Security Architecture](http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
-* [2025-11-22, 21:11:15](https://news.ycombinator.com/item?id=46018292) - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
 * [2025-11-22, 21:02:34](https://news.ycombinator.com/item?id=46018229) - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
+* [2025-11-22, 20:54:35](https://news.ycombinator.com/item?id=46018165) - [Show HN: Build the habit of writing meaningful commit messages](https://github.com/arpxspace/smartcommit)
 * [2025-11-22, 20:54:02](https://news.ycombinator.com/item?id=46018158) - [A Reverse Engineer&apos;s Anatomy of the macOS Boot Chain and Security Architecture](https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 20:36:00](https://science.slashdot.org/story/25/11/22/2034253/are-astronomers-wrong-about-dark-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Astronomers Wrong About Dark Energy?](https://science.slashdot.org/story/25/11/22/2034253/are-astronomers-wrong-about-dark-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-22, 20:03:14](https://news.ycombinator.com/item?id=46017782) - [Markdown is holding you back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/)
 * [2025-11-22, 19:34:00](https://news.slashdot.org/story/25/11/22/1057202/britain-sets-new-record-generating-enough-wind-power-for-22-million-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain Sets New Record, Generating Enough Wind Power for 22 Million Homes](https://news.slashdot.org/story/25/11/22/1057202/britain-sets-new-record-generating-enough-wind-power-for-22-million-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 19:20:53](https://lobste.rs/s/9cvqv4/introducing_f_10) - [Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)
 * [2025-11-22, 19:17:15](https://lobste.rs/s/74xbxj/trying_out_c_26_executors) - [Trying out C++26 executors](https://mropert.github.io/2025/11/21/trying_out_stdexec/)
@@ -98,9 +101,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-22, 18:47:08](https://news.ycombinator.com/item?id=46017175) - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 * [2025-11-22, 18:42:53](https://lobste.rs/s/fid6eb/host_website_from_old_phone_using) - [Host a website from an old phone using postmarketOS](https://far.computer/how-to/)
 * [2025-11-22, 18:34:00](https://slashdot.org/story/25/11/22/0632225/analyzing-47000-chatgpt-conversations-shows-echo-chambers-sensitive-data---and-unpredictable-medical-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Analyzing 47,000 ChatGPT Conversations Shows Echo Chambers, Sensitive Data - and Unpredictable Medical Advice](https://slashdot.org/story/25/11/22/0632225/analyzing-47000-chatgpt-conversations-shows-echo-chambers-sensitive-data---and-unpredictable-medical-advice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-22, 18:05:47](https://news.ycombinator.com/item?id=46016799) - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
 * [2025-11-22, 17:49:27](https://news.ycombinator.com/item?id=46016639) - [China reaches energy milestone by \&quot;breeding\&quot; uranium from thorium](https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium)
-* [2025-11-22, 17:49:05](https://news.ycombinator.com/item?id=46016630) - [Gwern&apos;s \&quot;Stem Humor\&quot; Directory](https://gwern.net/doc/math/humor/index)
+* [2025-11-22, 17:47:23](https://news.ycombinator.com/item?id=46016613) - [The realities of being a pop star](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star)
 * [2025-11-22, 17:35:49](https://lobste.rs/s/dj1xnt/unusual_circuits_intel_386_s_standard) - [Unusual circuits in the Intel 386&apos;s standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
 * [2025-11-22, 17:34:00](https://linux.slashdot.org/story/25/11/22/0746223/780000-windows-users-downloaded-linux-distro-zorin-os-in-the-last-5-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [780,000 Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://linux.slashdot.org/story/25/11/22/0746223/780000-windows-users-downloaded-linux-distro-zorin-os-in-the-last-5-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 17:08:36](https://news.ycombinator.com/item?id=46016249) - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
@@ -120,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-22, 03:34:48](https://lobste.rs/s/6zjbgm/how_use_views_for_debugging_tools_save) - [How to use views for debugging tools to save time](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-11-22, 03:30:00](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran&apos;s Capital Is Moving. The Reason Is an Ecological Catastrophe](https://news.slashdot.org/story/25/11/22/0052243/irans-capital-is-moving-the-reason-is-an-ecological-catastrophe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 03:22:45](https://lobste.rs/s/8wj7r0/what_now_handling_errors_large_systems) - [What Now? Handling Errors in Large Systems](http://brooker.co.za/blog/2025/11/20/what-now.html)
-* [2025-11-22, 02:02:00](https://it.slashdot.org/story/25/11/22/0041203/cryptographers-cancel-election-results-after-losing-decryption-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cryptographers Cancel Election Results After Losing Decryption Key](https://it.slashdot.org/story/25/11/22/0041203/cryptographers-cancel-election-results-after-losing-decryption-key?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-22, 01:26:34](https://lobste.rs/s/dpky8y/installing_freebsd_15_on_my_desktop) - [Installing FreeBSD 15 on my desktop](https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/)
 * [2025-11-22, 00:31:52](https://lobste.rs/s/tbqdgl/letter_from_codeberg_onwards_upwards) - [Letter from Codeberg: Onwards and upwards](https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html)
 * [2025-11-22, 00:15:29](https://lobste.rs/s/xwkp41/bug_caused_by_door_game_you_may_have_heard) - [A bug caused by a door in a game you may have heard of called \&quot;Half Life 2\&quot;](https://mastodon.gamedev.place/@TomF/115589875974658415)
@@ -134,11 +135,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-21, 14:23:00](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss) - [China Cuts Open New Robot on Stage to Prove Authenticity](https://soylentnews.org/article.pl?sid=25/11/20/1344214&amp;from=rss)
 * [2025-11-21, 13:25:59](https://news.ycombinator.com/item?id=46004326) - [Pixel Art Tips for Programmers](https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6)
 * [2025-11-21, 09:34:00](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss) - [Needy Software](https://soylentnews.org/article.pl?sid=25/11/19/0144249&amp;from=rss)
-* [2025-11-21, 07:45:31](https://lobste.rs/s/owwjs0/solving_fizz_buzz_with_cosines) - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
 * [2025-11-21, 04:45:00](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss) - [Software Developers Show Less Constructive Scepticism When Using AI Assistants](https://soylentnews.org/article.pl?sid=25/11/19/0140243&amp;from=rss)
 * [2025-11-21, 00:07:00](https://soylentnews.org/article.pl?sid=25/11/19/0138242&amp;from=rss) - [Is Perplexity the First AI Unicorn to Fail?](https://soylentnews.org/article.pl?sid=25/11/19/0138242&amp;from=rss)
 * [2025-11-20, 19:15:00](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss) - [Turris Releases Their New Omnia NG Router](https://soylentnews.org/article.pl?sid=25/11/18/1216240&amp;from=rss)
 * [2025-11-20, 14:37:00](https://soylentnews.org/article.pl?sid=25/11/18/1212257&amp;from=rss) - [Many Hard Leetcode Problems Are Easy Constraint Problems](https://soylentnews.org/article.pl?sid=25/11/18/1212257&amp;from=rss)
+* [2025-11-20, 12:47:41](https://news.ycombinator.com/item?id=45992035) - [Ubuntu LTS releases to 15 years with Legacy add-on](https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on)
 * [2025-11-20, 09:52:00](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss) - [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss)
 * [2025-11-20, 05:04:00](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss) - [The Intel 4004 Was the First Microprocessor, Right? ](https://soylentnews.org/article.pl?sid=25/11/18/125234&amp;from=rss)
 * [2025-11-20, 00:18:00](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss) - [Full Metal Modine](https://soylentnews.org/article.pl?sid=25/11/18/120241&amp;from=rss)
