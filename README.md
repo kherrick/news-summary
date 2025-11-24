@@ -1,44 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Software Innovations
 
-* [New Research Finds America's Top Social Media Sites: YouTube (84%) Facebook (71%), Instagram (50%)](https://tech.slashdot.org/story/25/11/24/0016243/new-research-finds-americas-top-social-media-sites-youtube-84-facebook-71-instagram-50?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss) - A new release of Debian Libre live images emphasizes open-source software for freedom enthusiasts.
 
-* [Cryptologist DJB Criticizes Push to Finalize Non-Hybrid Security for Post-Quantum Cryptography](https://it.slashdot.org/story/25/11/23/226258/cryptologist-djb-criticizes-push-to-finalize-non-hybrid-security-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [RuBee](https://computer.rip/2025-11-22-RuBee.html) - Dive into RuBee, an exciting technology with applications in secure, low-frequency identification.
 
-* [Mozilla Announces 'TABS API' For Developers Building AI Agents](https://tech.slashdot.org/story/25/11/23/206245/mozilla-announces-tabs-api-for-developers-building-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [An Economy of AI Agents](https://arxiv.org/abs/2509.01063) - A publication exploring a new approach to using AI agents in economic modeling.
 
-* [Microsoft and GitHub Preview New Tool That Identifies, Prioritizes, and Fixes Vulnerabilities With AI](https://developers.slashdot.org/story/25/11/23/0116256/microsoft-and-github-preview-new-tool-that-identifies-prioritizes-and-fixes-vulnerabilities-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Mozilla Announces 'TABS API' For Developers Building AI Agents](https://tech.slashdot.org/story/25/11/23/206245/mozilla-announces-tabs-api-for-developers-building-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mozilla introduces a new developer API to integrate AI agents seamlessly with tabs.
 
-## Environment and Sustainability
+* [Amazon's AI-Powered IDE Kiro Helps Vibe Coders with 'Spec Mode'](https://developers.slashdot.org/story/25/11/23/0450211/amazons-ai-powered-ide-kiro-helps-vibe-coders-with-spec-mode?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's new AI-powered developer IDE focuses on efficiency with "spec mode".
 
-* ['Invisible' microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
+* [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) - A comprehensive guide that bridges calculus for varied disciplines.
 
-* [Iowa City made its buses free. traffic cleared, and so did the air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
+## Science and Environmental Insights
 
-* [One Company's Plan to Sink Nuclear Reactors Deep Underground](https://hardware.slashdot.org/story/25/11/23/1850236/one-companys-plan-to-sink-nuclear-reactors-deep-underground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Was the Moon-Forming Protoplanet 'Theia' a Neighbor of Earth?](https://science.slashdot.org/story/25/11/23/2327252/was-the-moon-forming-protoplanet-theia-a-neighbor-of-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis suggesting Theia may have been Earth's planetary neighbor.
 
-## Science and Space Exploration
+* [How Deep is Challenger Deep?](https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859) - A deep dive into the world's most profound underwater locations.
 
-* [Was the Moon-Forming Protoplanet 'Theia' a Neighbor of Earth?](https://science.slashdot.org/story/25/11/23/2327252/was-the-moon-forming-protoplanet-theia-a-neighbor-of-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss) - A recent study shows rising mercury levels in marine wildlife.
 
-* [How Deep is Challenger Deep?](https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859)
+* [Floating Solar Panels Show Promise, but Environmental Impacts Vary by Location](https://soylentnews.org/article.pl?sid=25/11/18/1210237&amp;from=rss) - Research reveals the varying effects of floating solar technology based on locality.
 
-## Business and Finance
+## Societal Developments and Discussions
 
-* [Napster Said It Raised $3 Billion From a Mystery Investor.  But Now the 'Investor' and 'Money' Are Gone](https://entertainment.slashdot.org/story/25/11/24/022212/napster-said-it-raised-3-billion-from-a-mystery-investor-but-now-the-investor-and-money-are-gone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Napster Said It Raised $3 Billion From a Mystery Investor.  But Now the 'Investor' and 'Money' Are Gone](https://entertainment.slashdot.org/story/25/11/24/022212/napster-said-it-raised-3-billion-from-a-mystery-investor-but-now-the-investor-and-money-are-gone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A mysterious case involving Napster and an enormous vanished investment.
 
-* [Doge 'doesn't exist' with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)
+* [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss) - Controversy surrounds the rollout of facial recognition tech to police.
 
-## Programming and Development
+* [Microsoft Warns Its Windows AI Feature Brings Data Theft and Malware Risks, and 'Occasionally May Hallucinate'](https://tech.slashdot.org/story/25/11/23/060221/microsoft-warns-its-windows-ai-feature-brings-data-theft-and-malware-risks-and-occasionally-may-hallucinate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns rise over AI's susceptibility to security threats.
 
-* [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+* [Could High-Speed Trains Shorten US Travel Times While Reducing Emissions?](https://news.slashdot.org/story/25/11/22/201221/could-high-speed-trains-shorten-us-travel-times-while-reducing-emissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The potential role of high-speed rail in reducing travel time and emissions.
 
-* [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
+## Cryptographic and Cybersecurity Highlights
 
-* [liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s](https://github.com/stephenrkell/liballocs)
+* [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html) - Reflections from the outgoing Crypto Officer on DNSSEC.
 
-* [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go.html)
+* [Cryptologist DJB Criticizes Push to Finalize Non-Hybrid Security for Post-Quantum Cryptography](https://it.slashdot.org/story/25/11/23/226258/cryptologist-djb-criticizes-push-to-finalize-non-hybrid-security-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Critique on post-quantum cryptography hybrid-standardization.
+
+* [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf) - How macOS leverages the secure enclave for SSH keys.
+
+* [Google Chrome Bug Exploited as an 0-Day - Patch Now or Risk Full System Compromise](https://soylentnews.org/article.pl?sid=25/11/21/1348200&amp;from=rss) - A critical 0-day exploit affecting Chrome users.
+
+## Open Source and Development Tools
+
+* [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/) - A tech team's accomplishments in addressing substantial bugs.
+
+* [libfive: a software library and set of tools for solid modeling](https://libfive.com/) - A robust solid modeling toolkit for developers.
+
+* [µcad: New open source programming language that can generate 2D sketches and 3D objects](https://microcad.xyz/) - Introduction to µcad, a flexible design language for 2D/3D creators.
+
+* [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory) - A coder's foray into creating a rudimentary but effective memory allocator.
 
 ---
 
@@ -65,14 +79,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss)
+* [2025-11-24, 03:08:10](https://news.ycombinator.com/item?id=46029932) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+* [2025-11-24, 02:36:54](https://news.ycombinator.com/item?id=46029772) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
+* [2025-11-24, 02:35:17](https://news.ycombinator.com/item?id=46029765) - [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
 * [2025-11-24, 02:35:00](https://entertainment.slashdot.org/story/25/11/24/022212/napster-said-it-raised-3-billion-from-a-mystery-investor-but-now-the-investor-and-money-are-gone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Napster Said It Raised $3 Billion From a Mystery Investor.  But Now the &apos;Investor&apos; and &apos;Money&apos; Are Gone](https://entertainment.slashdot.org/story/25/11/24/022212/napster-said-it-raised-3-billion-from-a-mystery-investor-but-now-the-investor-and-money-are-gone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-24, 02:25:39](https://news.ycombinator.com/item?id=46029699) - [Ask HN: Hearing aid wearers, what&apos;s hot?](https://news.ycombinator.com/item?id=46029699)
+* [2025-11-24, 02:16:42](https://news.ycombinator.com/item?id=46029649) - [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
+* [2025-11-24, 02:05:01](https://news.ycombinator.com/item?id=46029561) - [My Life Is a Lie: How a Broken Benchmark Broke America](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie)
+* [2025-11-24, 01:57:44](https://lobste.rs/s/gw5yp3/open_source_photo_editor_digital) - [An open-source photo editor &amp; digital compositor for the web](https://mint.photo/)
+* [2025-11-24, 01:30:51](https://news.ycombinator.com/item?id=46029312) - [A ncurses-based command line torrent client for high performance](https://github.com/rakshasa/rtorrent)
 * [2025-11-24, 00:30:00](https://tech.slashdot.org/story/25/11/24/0016243/new-research-finds-americas-top-social-media-sites-youtube-84-facebook-71-instagram-50?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Research Finds America&apos;s Top Social Media Sites: YouTube (84%) Facebook (71%), Instagram (50%)](https://tech.slashdot.org/story/25/11/24/0016243/new-research-finds-americas-top-social-media-sites-youtube-84-facebook-71-instagram-50?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-24, 00:18:21](https://news.ycombinator.com/item?id=46028827) - [&apos;Invisible&apos; microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995)
-* [2025-11-24, 00:05:14](https://news.ycombinator.com/item?id=46028721) - [Doge &apos;doesn&apos;t exist&apos; with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/)
-* [2025-11-23, 23:53:06](https://news.ycombinator.com/item?id=46028627) - [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/)
 * [2025-11-23, 23:30:00](https://science.slashdot.org/story/25/11/23/2327252/was-the-moon-forming-protoplanet-theia-a-neighbor-of-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Was the Moon-Forming Protoplanet &apos;Theia&apos; a Neighbor of Earth?](https://science.slashdot.org/story/25/11/23/2327252/was-the-moon-forming-protoplanet-theia-a-neighbor-of-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-23, 23:26:00](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss) - [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss)
-* [2025-11-23, 23:25:03](https://news.ycombinator.com/item?id=46028422) - [X&apos;s new country-of-origin feature reveals many &apos;US&apos; accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html)
 * [2025-11-23, 22:46:29](https://lobste.rs/s/ro8wgi/libfive_software_library_set_tools_for) - [libfive: a software library and set of tools for solid modeling](https://libfive.com/)
 * [2025-11-23, 22:39:14](https://lobste.rs/s/ldu1tt/negentropy_set_reconciliation_protocol) - [the negentropy set-reconciliation protocol](https://github.com/hoytech/negentropy)
 * [2025-11-23, 22:36:07](https://news.ycombinator.com/item?id=46028046) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
@@ -80,21 +99,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-23, 22:25:36](https://news.ycombinator.com/item?id=46027962) - [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
 * [2025-11-23, 22:24:23](https://news.ycombinator.com/item?id=46027947) - [A desktop app for isolated, parallel agentic development](https://github.com/coder/mux)
 * [2025-11-23, 22:09:00](https://it.slashdot.org/story/25/11/23/226258/cryptologist-djb-criticizes-push-to-finalize-non-hybrid-security-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cryptologist DJB Criticizes Push to Finalize Non-Hybrid Security for Post-Quantum Cryptography](https://it.slashdot.org/story/25/11/23/226258/cryptologist-djb-criticizes-push-to-finalize-non-hybrid-security-for-post-quantum-cryptography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-23, 22:08:08](https://lobste.rs/s/c2ec1r/rust_for_malware_development) - [Rust for Malware Development](https://bishopfox.com/blog/rust-for-malware-development)
-* [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City made its buses free. traffic cleared, and so did the air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
+* [2025-11-23, 22:06:44](https://news.ycombinator.com/item?id=46027833) - [Iowa City made its buses free. Traffic cleared, and so did the air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
 * [2025-11-23, 21:54:32](https://news.ycombinator.com/item?id=46027722) - [Particle Life – Sandbox Science](https://sandbox-science.com/particle-life)
-* [2025-11-23, 21:52:48](https://news.ycombinator.com/item?id=46027709) - [Several core problems with Rust](https://bykozy.me/blog/rust-is-a-disappointment/)
 * [2025-11-23, 21:35:23](https://lobste.rs/s/ymlwox/caching_is_better_than_mocking) - [Caching is better than mocking](https://federicopereiro.com/caching-ftw/)
 * [2025-11-23, 21:09:00](https://tech.slashdot.org/story/25/11/23/2026246/google-revisits-jpeg-xl-in-chromium-after-earlier-removal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://tech.slashdot.org/story/25/11/23/2026246/google-revisits-jpeg-xl-in-chromium-after-earlier-removal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-23, 20:51:22](https://news.ycombinator.com/item?id=46027216) - [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
 * [2025-11-23, 20:49:16](https://lobste.rs/s/aqefyy/cad_new_open_source_programming_language) - [µcad: New open source programming language that can generate 2D sketches and 3D objects](https://microcad.xyz)
 * [2025-11-23, 20:46:07](https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api) - [ntoh*/hton* is a bad API](https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/)
-* [2025-11-23, 20:31:45](https://news.ycombinator.com/item?id=46027065) - [Giving the Jakks Atari Paddle a Spin](https://nicole.express/2025/paddle-me-atari.html)
 * [2025-11-23, 20:26:22](https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible) - [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/)
-* [2025-11-23, 20:16:04](https://news.ycombinator.com/item?id=46026939) - [\&quot;Good engineering management\&quot; is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
 * [2025-11-23, 20:13:13](https://lobste.rs/s/jbwovn/nonpareil_high_fidelity_hp_calculator) - [Nonpareil:  High-Fidelity HP Calculator Simulator](https://nonpareil.brouhaha.com/)
 * [2025-11-23, 20:09:00](https://tech.slashdot.org/story/25/11/23/206245/mozilla-announces-tabs-api-for-developers-building-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Announces &apos;TABS API&apos; For Developers Building AI Agents](https://tech.slashdot.org/story/25/11/23/206245/mozilla-announces-tabs-api-for-developers-building-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-23, 19:38:15](https://news.ycombinator.com/item?id=46026579) - [1M Downloads of Zorin OS 18](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/)
 * [2025-11-23, 19:20:58](https://lobste.rs/s/8wztsi/event_sourcing_go_from_zero_production) - [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go.html)
 * [2025-11-23, 18:52:00](https://hardware.slashdot.org/story/25/11/23/1850236/one-companys-plan-to-sink-nuclear-reactors-deep-underground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [One Company&apos;s Plan to Sink Nuclear Reactors Deep Underground](https://hardware.slashdot.org/story/25/11/23/1850236/one-companys-plan-to-sink-nuclear-reactors-deep-underground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-23, 18:36:00](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss) - [U.S. Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss)
@@ -106,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-23, 16:31:50](https://news.ycombinator.com/item?id=46024773) - [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 * [2025-11-23, 16:12:06](https://news.ycombinator.com/item?id=46024584) - [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
 * [2025-11-23, 15:34:00](https://hardware.slashdot.org/story/25/11/22/0547231/engineers-are-building-the-hottest-geothermal-power-plant-on-earth---next-to-a-us-volcano?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Engineers are Building the Hottest Geothermal Power Plant on Earth - Next to a US Volcano](https://hardware.slashdot.org/story/25/11/22/0547231/engineers-are-building-the-hottest-geothermal-power-plant-on-earth---next-to-a-us-volcano?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-23, 15:18:00](https://news.ycombinator.com/item?id=46024184) - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 * [2025-11-23, 14:59:38](https://news.ycombinator.com/item?id=46024032) - [Editing Code in Emacs](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
 * [2025-11-23, 14:03:36](https://lobste.rs/s/scikpb/liballocs_meta_level_run_time_services) - [liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s](https://github.com/stephenrkell/liballocs)
 * [2025-11-23, 13:52:00](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss) - [Maybe That&apos;s Not Liquid Water on Mars After All](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss)
