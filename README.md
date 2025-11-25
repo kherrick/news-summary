@@ -1,40 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Innovations and Controversies
+## AI and Technology Advancement
 
-* [Trump Launches Genesis Mission, a Manhattan Project-Level AI Push](https://yro.slashdot.org/story/25/11/25/009227/trump-launches-genesis-mission-a-manhattan-project-level-ai-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): An ambitious government initiative likened to the Manhattan Project aims to accelerate AI development in the US.
+* [Jony Ive and Sam Altman Say They Finally Have an AI Hardware Prototype](https://hardware.slashdot.org/story/25/11/25/006212/jony-ive-and-sam-altman-say-they-finally-have-an-ai-hardware-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Jony Ive and Sam Altman Say They Finally Have an AI Hardware Prototype](https://hardware.slashdot.org/story/25/11/25/006212/jony-ive-and-sam-altman-say-they-finally-have-an-ai-hardware-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Tech visionaries reveal a pioneering AI hardware prototype, potentially signaling a new wave in computing.
+* [Trump Launches Genesis Mission, a Manhattan Project-Level AI Push](https://yro.slashdot.org/story/25/11/25/009227/trump-launches-genesis-mission-a-manhattan-project-level-ai-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0): Scientists create groundbreaking devices capable of decoding thoughts before they reach consciousness.
+* [Mind-Altering 'Brain Weapons' No Longer Only Science Fiction, Say Researchers](https://science.slashdot.org/story/25/11/25/0030245/mind-altering-brain-weapons-no-longer-only-science-fiction-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Science-Centric Streaming Service Curiosity Stream is an AI-licensing Firm Now](https://tech.slashdot.org/story/25/11/24/1643247/science-centric-streaming-service-curiosity-stream-is-an-ai-licensing-firm-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A surprising pivot from education to AI licensing for Curiosity Stream.
+## Consumer Electronics and Open Source
 
-## Hardware and Software Developments
+* [Pebble Goes Fully Open Source](https://news.slashdot.org/story/25/11/24/2152211/pebble-goes-fully-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Pebble Goes Fully Open Source](https://news.slashdot.org/story/25/11/24/2152211/pebble-goes-fully-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): The iconic smartwatch embraces open-source software, empowering users and developers alike.
+* [Arduino's New Terms of Service Worries Hobbyists Ahead of Qualcomm Acquisition](https://hardware.slashdot.org/story/25/11/24/2144256/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [TSMC Arizona outage saw fab halt, Apple wafers scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt): A facility malfunction results in production loss, shedding light on vulnerabilities in supply chains.
+* [Google's 'Aluminium OS' Will Eventually Replace ChromeOS With Android](https://tech.slashdot.org/story/25/11/24/1855243/googles-aluminium-os-will-eventually-replace-chromeos-with-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24): A rapid attack compromises numerous open-source packages, highlighting security gaps in software supply chains.
+## Privacy and Surveillance Concerns
 
-* [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term): Retro computing fans can relive the CRT experience with a terminal emulator.
+* [Ring's New Feature Turns Your Doorbell Into a Biometric Spy](https://soylentnews.org/article.pl?sid=25/11/23/1458223&amp;from=rss)
 
-## Environmental and Societal Issues
+* [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss)
 
-* [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss): A magician's experiment with RFID chips highlights risks in wearable tech.
+* [NATO Taps Google For Air-Gapped Sovereign Cloud](https://tech.slashdot.org/story/25/11/24/1531202/nato-taps-google-for-air-gapped-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss): Debian unveils new software to enhance digital freedom for users.
+## Climate and Environmental Studies
 
-* [U.S. Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss): Declassified documents provide new insight into the iconic aviator's mysterious disappearance.
+* [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss)
 
-## Technology Shaping the Future
+* [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss)
 
-* [First Large-Scale VR Use in the Classroom Extends the Boundaries of Education](https://soylentnews.org/article.pl?sid=25/11/21/1949232&amp;from=rss): Virtual reality transforms teaching, enhancing engagement and learning outcomes.
-
-* [Amazon Pledges Up To $50 Billion To Expand AI, Supercomputing For US Government](https://yro.slashdot.org/story/25/11/24/2233254/amazon-pledges-up-to-50-billion-to-expand-ai-supercomputing-for-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Amazon's significant investment in AI epitomizes the tech race to dominate advanced computing.
-
-* [Google Chrome Bug Exploited as an 0-Day - Patch Now or Risk Full System Compromise](https://soylentnews.org/article.pl?sid=25/11/21/1348200&amp;from=rss): A critical vulnerability demands swift action from users to prevent system breaches.
+* [Maybe That's Not Liquid Water on Mars After All](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss)
 
 ---
 
@@ -61,7 +57,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-25, 03:37:01](https://lobste.rs/s/q8z71y/bom_reveals_new_website_cost_96_5m_not_4_1m) - [BOM reveals new website cost $96.5m, not $4.1m as first announced](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
+* [2025-11-25, 03:30:00](https://it.slashdot.org/story/25/11/25/0024229/hacker-conference-installed-a-literal-antivirus-monitoring-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hacker Conference Installed a Literal Antivirus Monitoring System](https://it.slashdot.org/story/25/11/25/0024229/hacker-conference-installed-a-literal-antivirus-monitoring-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-25, 02:08:11](https://lobste.rs/s/jrccc5/hyperoptic_ipv6_out_order_packets) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
+* [2025-11-25, 02:02:00](https://science.slashdot.org/story/25/11/25/0030245/mind-altering-brain-weapons-no-longer-only-science-fiction-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mind-Altering &apos;Brain Weapons&apos; No Longer Only Science Fiction, Say Researchers](https://science.slashdot.org/story/25/11/25/0030245/mind-altering-brain-weapons-no-longer-only-science-fiction-say-researchers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-25, 01:25:00](https://yro.slashdot.org/story/25/11/25/009227/trump-launches-genesis-mission-a-manhattan-project-level-ai-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Launches Genesis Mission, a Manhattan Project-Level AI Push](https://yro.slashdot.org/story/25/11/25/009227/trump-launches-genesis-mission-a-manhattan-project-level-ai-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-25, 00:45:00](https://hardware.slashdot.org/story/25/11/25/006212/jony-ive-and-sam-altman-say-they-finally-have-an-ai-hardware-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jony Ive and Sam Altman Say They Finally Have an AI Hardware Prototype](https://hardware.slashdot.org/story/25/11/25/006212/jony-ive-and-sam-altman-say-they-finally-have-an-ai-hardware-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-25, 00:02:00](https://slashdot.org/story/25/11/24/2248212/japans-high-stakes-gamble-to-turn-island-of-flowers-into-global-chip-hub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan&apos;s High-Stakes Gamble To Turn Island of Flowers Into Global Chip Hub](https://slashdot.org/story/25/11/24/2248212/japans-high-stakes-gamble-to-turn-island-of-flowers-into-global-chip-hub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -83,21 +82,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-24, 18:53:05](https://news.ycombinator.com/item?id=46037637) - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [2025-11-24, 18:52:12](https://news.ycombinator.com/item?id=46037626) - [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [2025-11-24, 18:49:47](https://news.ycombinator.com/item?id=46037591) - [Google&apos;s new &apos;Aluminium OS&apos; project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
-* [2025-11-24, 18:48:04](https://news.ycombinator.com/item?id=46037573) - [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
 * [2025-11-24, 18:41:00](https://tech.slashdot.org/story/25/11/24/1643247/science-centric-streaming-service-curiosity-stream-is-an-ai-licensing-firm-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Science-Centric Streaming Service Curiosity Stream is an AI-licensing Firm Now](https://tech.slashdot.org/story/25/11/24/1643247/science-centric-streaming-service-curiosity-stream-is-an-ai-licensing-firm-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-24, 18:37:27](https://news.ycombinator.com/item?id=46037416) - [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](http://karumi.ai/)
 * [2025-11-24, 18:32:27](https://news.ycombinator.com/item?id=46037343) - [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
 * [2025-11-24, 18:30:48](https://news.ycombinator.com/item?id=46037324) - [TSMC Arizona outage saw fab halt, Apple wafers scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
 * [2025-11-24, 18:27:00](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss) - [Thieves Want Your iPhone, Not Your Android](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss)
 * [2025-11-24, 18:26:09](https://news.ycombinator.com/item?id=46037267) - [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0)
 * [2025-11-24, 18:01:00](https://tech.slashdot.org/story/25/11/24/1625249/google-denies-misleading-reports-of-gmail-using-your-emails-to-train-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Denies &apos;Misleading&apos; Reports of Gmail Using Your Emails To Train AI](https://tech.slashdot.org/story/25/11/24/1625249/google-denies-misleading-reports-of-gmail-using-your-emails-to-train-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-24, 17:52:43](https://news.ycombinator.com/item?id=46036908) - [Show HN: I built an interactive HN Simulator](https://news.ysimulator.run/news)
-* [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
+* [2025-11-24, 17:52:01](https://news.ycombinator.com/item?id=46036895) - [Cool-retro-term: terminal emulator which mimics look and feel of CRTs](https://github.com/Swordfish90/cool-retro-term)
 * [2025-11-24, 17:21:00](https://tech.slashdot.org/story/25/11/24/1531202/nato-taps-google-for-air-gapped-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NATO Taps Google For Air-Gapped Sovereign Cloud](https://tech.slashdot.org/story/25/11/24/1531202/nato-taps-google-for-air-gapped-sovereign-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-24, 17:00:33](https://news.ycombinator.com/item?id=46036222) - [Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View](https://news.ycombinator.com/item?id=46036222)
-* [2025-11-24, 16:41:00](https://it.slashdot.org/story/25/11/24/1512259/the-slow-transformation-of-notepad-into-something-else-entirely-continues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Slow Transformation of Notepad Into Something Else Entirely Continues](https://it.slashdot.org/story/25/11/24/1512259/the-slow-transformation-of-notepad-into-something-else-entirely-continues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
-* [2025-11-24, 16:01:00](https://it.slashdot.org/story/25/11/24/154202/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lenovo Stockpiling PC Memory Due To &apos;Unprecedented&apos; AI Squeeze](https://it.slashdot.org/story/25/11/24/154202/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
 * [2025-11-24, 15:16:26](https://lobste.rs/s/ta9886/open_source_has_too_many_parasocial) - [Open Source Has Too Many Parasocial Relationships](https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/)
 * [2025-11-24, 13:42:00](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss) - [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss)
@@ -108,6 +103,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-24, 10:40:22](https://news.ycombinator.com/item?id=46032539) - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:10:21](https://lobste.rs/s/x5f9en/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x5f9en/what_are_you_doing_this_week)
 * [2025-11-24, 10:04:16](https://lobste.rs/s/ttsydj/alice_new_build_system_for_ocaml) - [Alice - new build system for Ocaml](https://www.alicecaml.org/)
+* [2025-11-24, 09:51:45](https://news.ycombinator.com/item?id=46032230) - [A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:50:20](https://lobste.rs/s/jn95w0/edn_c_fast_zero_copy_edn_extensible_data) - [edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:40:32](https://news.ycombinator.com/item?id=46032148) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
 * [2025-11-24, 09:38:48](https://lobste.rs/s/fjf1eh/fifty_shades_oop) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
@@ -115,6 +111,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-24, 09:24:08](https://lobste.rs/s/rdezfn/does_dioxus_spark_joy) - [Does Dioxus spark joy?](https://fasterthanli.me/articles/does-dioxus-spark-joy)
 * [2025-11-24, 08:53:00](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss) - [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss)
 * [2025-11-24, 07:15:56](https://lobste.rs/s/9gx2ig/build_compiler_five_projects) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
+* [2025-11-24, 07:14:55](https://news.ycombinator.com/item?id=46031220) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [2025-11-24, 05:58:08](https://news.ycombinator.com/item?id=46030799) - [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html)
 * [2025-11-24, 04:10:33](https://lobste.rs/s/htdedi/with_love_kde_take_moment) - [With Love to KDE: Take a Moment](https://korcenji.neocities.org/Writings/KDE-Take-A-Moment)
 * [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss)
@@ -127,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-23, 15:47:50](https://news.ycombinator.com/item?id=46024402) - [Bytes before FLOPS: your algorithm is (mostly) fine, your data isn&apos;t](https://www.bitsdraumar.is/bytes-before-flops/)
 * [2025-11-23, 13:52:00](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss) - [Maybe That&apos;s Not Liquid Water on Mars After All](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss)
 * [2025-11-23, 13:32:45](https://lobste.rs/s/1nop48/google_revisits_jpeg_xl_chromium_after) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-* [2025-11-23, 12:19:52](https://lobste.rs/s/mzuktr/what_does_agpl_require) - [What does the AGPL require?](https://runxiyu.org/blog/agpl/)
 * [2025-11-23, 09:10:00](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss) - [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss)
 * [2025-11-23, 04:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss) - [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss)
 * [2025-11-23, 01:25:17](https://news.ycombinator.com/item?id=46019898) - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
@@ -139,6 +135,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-22, 09:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1346236&amp;from=rss) - [\&quot;Walk My AI Walk\&quot;, a #1 AI Country Song](https://soylentnews.org/article.pl?sid=25/11/21/1346236&amp;from=rss)
 * [2025-11-22, 04:42:00](https://soylentnews.org/article.pl?sid=25/11/21/1342241&amp;from=rss) - [Join the the Newest Social Network and Party Like its 1987](https://soylentnews.org/article.pl?sid=25/11/21/1342241&amp;from=rss)
 * [2025-11-21, 23:54:00](https://soylentnews.org/article.pl?sid=25/11/21/1340237&amp;from=rss) - [Kaspersky Antivirus is Now Available for Linux. Will You Use It?](https://soylentnews.org/article.pl?sid=25/11/21/1340237&amp;from=rss)
+* [2025-11-21, 23:53:42](https://news.ycombinator.com/item?id=46010540) - [Using Antigravity for Statistical Physics in JavaScript](https://christopherkrapu.com/blog/2025/antigravity-stat-mech/)
+* [2025-11-21, 23:43:53](https://news.ycombinator.com/item?id=46010466) - [How sea turtles learn locations using Earth’s magnetic field: research](https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/)
 * [2025-11-21, 19:10:00](https://soylentnews.org/article.pl?sid=25/11/21/1348200&amp;from=rss) - [Google Chrome Bug Exploited as an 0-Day - Patch Now or Risk Full System Compromise](https://soylentnews.org/article.pl?sid=25/11/21/1348200&amp;from=rss)
 * [2025-11-21, 17:56:50](https://news.ycombinator.com/item?id=46006891) - [Building the largest known Kubernetes cluster](https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/)
 * [2025-11-21, 16:44:45](https://news.ycombinator.com/item?id=46006104) - [Show HN: OCR Arena – A playground for OCR models](https://www.ocrarena.ai/battle)
