@@ -1,56 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Challenges in Artificial Intelligence
+## Technology and Innovation
 
-* [AI Could Replace 3 Million Low-Skilled Jobs in the UK By 2035, Research Warns](https://news.slashdot.org/story/25/11/25/193251/ai-could-replace-3-million-low-skilled-jobs-in-the-uk-by-2035-research-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/) - Discover how PostgreSQL's latest advancements massively enhance data aggregation performance.
 
-* [Microsoft Warns its New “AI” Agents in Windows Can Install Malware](https://soylentnews.org/article.pl?sid=25/11/21/1211233&from=rss)
+* [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/) - Insights into Microsoft's evolving processes for developing and delivering .NET.
 
-* [“Walk My AI Walk”, a #1 AI Country Song](https://soylentnews.org/article.pl?sid=25/11/21/1346236&from=rss)
+* [Announcing Unison 1.0](https://www.unison-lang.org/unison-1-0/) - The official launch of the Unison programming language, designed to tackle shared code challenges.
 
-* [Warner Music Group Partners With Suno To Offer AI Likenesses of Its Artists](https://yro.slashdot.org/story/25/11/25/2240236/warner-music-group-partners-with-suno-to-offer-ai-likenesses-of-its-artists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom) - An inventive project bringing DOOM to life via PCB traces.
 
-## Breakthroughs in Science and Technology
+* [Google Antigravity exfiltrates data via indirect prompt injection attack](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data) - A review of a new cyberthreat with potential data exfiltration implications.
 
-* [Scientists Now Know That Bees Can Process Time, a First in Insects](https://soylentnews.org/article.pl?sid=25/11/23/2222225&from=rss)
+## Artificial Intelligence and Impact
 
-* [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
+* [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss) - Major laptop manufacturers shed HEVC support, raising questions about user limitations.
 
-* [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
+* [How good are Chinese CPUs? Benchmarking the Loongson 3A6000](https://lemire.me/blog/2025/11/23/how-good-are-chinese-cpus-benchmarking-the-loongson-3a6000/) - Performance analysis of China's advanced Loongson processors.
 
-* [The Lambda Papers (transcribed)](https://research.scheme.org/)
+* [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/) - Strengthening cryptographic security via compiler enhancements.
 
-## Cybersecurity Alerts and Privacy Concerns
+* [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/) - A glimpse into Stanford's latest curriculum updates on reinforcement learning.
 
-* [CISA Warns Spyware Crews Are Breaking Into Signal and WhatsApp Accounts](https://yro.slashdot.org/story/25/11/25/1816245/cisa-warns-spyware-crews-are-breaking-into-signal-and-whatsapp-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI Could Replace 3 Million Low-Skilled Jobs in the UK By 2035, Research Warns](https://news.slashdot.org/story/25/11/25/193251/ai-could-replace-3-million-low-skilled-jobs-in-the-uk-by-2035-research-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI's future implications for the UK job market are projected in this research.
 
-* [Poland Probes Apple Again Over App Tracking Transparency Rules](https://apple.slashdot.org/story/25/11/25/227255/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cultural Phenomena and History
 
-* [US Banks Scramble To Assess Data Theft After Hackers Breach Financial Tech Firm](https://news.slashdot.org/story/25/11/25/2138249/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/) - Exploring science fiction's enduring themes through visual critique.
 
-## Environmental Impacts and Energy Innovations
+* [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54) - A stunning archaeological find gives further insights into Roman culture.
 
-* [Britain Plots Atomic Reboot As Datacenter Demand Surges](https://news.slashdot.org/story/25/11/25/231251/britain-plots-atomic-reboot-as-datacenter-demand-surges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss) - A cautionary tale of implant technology gone unexpectedly awry.
 
-* [Mumbai Families Suffer As Data Centers Keep the City Hooked on Coal](https://hardware.slashdot.org/story/25/11/25/175213/mumbai-families-suffer-as-data-centers-keep-the-city-hooked-on-coal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Lambda Papers (transcribed)](https://research.scheme.org/) - A historic transcription project shedding light on foundational computer science documents.
 
-* [Jakarta Moves Ahead of Tokyo As World’s Most Populated City](https://news.slashdot.org/story/25/11/25/1820249/jakarta-moves-ahead-of-tokyo-as-worlds-most-populated-city?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [US Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss) - Newly declassified documents stir renewed interest in a historic mystery.
 
-## Unique Historical and Cultural Revelations
+## Data Privacy and Security
 
-* [1,700-year-old Roman sarcophagus is unearthed in Budapest](https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54)
+* [Poland Probes Apple Again Over App Tracking Transparency Rules](https://apple.slashdot.org/story/25/11/25/227255/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple's compliance with transparency rules under scrutiny.
 
-* [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&from=rss)
+* [Stop Putting Your Passwords Into Random Websites (Yes, Seriously, You Are The Problem)](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/) - Alert over habitual unsafe password practices.
 
-* [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&from=rss)
+* [CISA Warns Spyware Crews Are Breaking Into Signal and WhatsApp Accounts](https://yro.slashdot.org/story/25/11/25/1816245/cisa-warns-spyware-crews-are-breaking-into-signal-and-whatsapp-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Growing vulnerabilities in encrypted communication apps.
 
-## Open Source and Developer Tools
+* [US Banks Scramble To Assess Data Theft After Hackers Breach Financial Tech Firm](https://news.slashdot.org/story/25/11/25/2138249/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major breach raises questions about financial cybersecurity.
 
-* [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
+## Environmental and Urban Trends
 
-* [What They Don’t Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
+* [Jakarta Moves Ahead of Tokyo As World's Most Populated City](https://news.slashdot.org/story/25/11/25/1820249/jakarta-moves-ahead-of-tokyo-as-worlds-most-populated-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Urban growth reshuffling global rankings.
 
-* [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
+* [Mumbai Families Suffer As Data Centers Keep the City Hooked on Coal](https://hardware.slashdot.org/story/25/11/25/175213/mumbai-families-suffer-as-data-centers-keep-the-city-hooked-on-coal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The environmental cost of digital infrastructure in India.
+
+* [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss) - Advanced simulations aid in analyzing complex environmental patterns.
+
+* [Researchers Find Simple Way to Destroy PFAS on Activated Carbon](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss) - A breakthrough in combating persistent environmental pollutants.
 
 ---
 
@@ -77,8 +81,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-26, 04:13:17](https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
+* [2025-11-26, 03:41:00](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss) - [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss)
 * [2025-11-26, 03:30:00](https://news.slashdot.org/story/25/11/25/231251/britain-plots-atomic-reboot-as-datacenter-demand-surges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain Plots Atomic Reboot As Datacenter Demand Surges](https://news.slashdot.org/story/25/11/25/231251/britain-plots-atomic-reboot-as-datacenter-demand-surges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-26, 03:05:29](https://news.ycombinator.com/item?id=46053787) - [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
 * [2025-11-26, 02:31:41](https://news.ycombinator.com/item?id=46053566) - [Space Truckin&apos; – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 * [2025-11-26, 02:09:34](https://lobste.rs/s/q5vjlh/is_this_coregraphics_framework_bug_macos) - [Is this a CoreGraphics Framework Bug in macOS Tahoe?](https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/)
 * [2025-11-26, 02:05:36](https://news.ycombinator.com/item?id=46053385) - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
@@ -97,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-25, 22:37:48](https://news.ycombinator.com/item?id=46051691) - [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-25, 22:13:35](https://news.ycombinator.com/item?id=46051449) - [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
-* [2025-11-25, 22:08:25](https://news.ycombinator.com/item?id=46051393) - [What they don&apos;t tell you about maintaining an open source project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:04:31](https://news.ycombinator.com/item?id=46051340) - [Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled](https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html)
 * [2025-11-25, 22:00:00](https://news.slashdot.org/story/25/11/25/2138249/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Banks Scramble To Assess Data Theft After Hackers Breach Financial Tech Firm](https://news.slashdot.org/story/25/11/25/2138249/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-25, 21:25:27](https://lobste.rs/s/wtwnbk/stop_putting_your_passwords_into_random) - [Stop Putting Your Passwords Into Random Websites (Yes, Seriously, You Are The Problem)](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)
@@ -122,12 +126,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-25, 17:07:06](https://news.ycombinator.com/item?id=46047958) - [Unifying our mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 16:39:23](https://lobste.rs/s/igvnnq/stop_telling_us_xmpp_should_use_json) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
+* [2025-11-25, 16:38:57](https://news.ycombinator.com/item?id=46047580) - [Python is not a great language for data science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
 * [2025-11-25, 16:17:55](https://lobste.rs/s/qfsjp9/mobile_browsers_see_telephone_numbers) - [Mobile browsers see telephone numbers everywhere](https://sethmlarson.dev/mobile-browsers-and-telephone-numbers)
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
-* [2025-11-25, 15:57:54](https://news.ycombinator.com/item?id=46047053) - [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
+* [2025-11-25, 15:57:54](https://news.ycombinator.com/item?id=46047053) - [New layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
 * [2025-11-25, 15:47:14](https://news.ycombinator.com/item?id=46046916) - [FLUX.2: Frontier Visual Intelligence](https://bfl.ai/blog/flux-2)
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
-* [2025-11-25, 14:42:27](https://lobste.rs/s/qzrous/promise_p_graphs) - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html)
 * [2025-11-25, 14:39:51](https://lobste.rs/s/jgzpxs/towards_pen_paper_style_equational) - [Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
 * [2025-11-25, 14:26:14](https://lobste.rs/s/pcv94o/what_does_it_mean_be_massively_against_ai) - [What does it mean to be massively against AI?](https://pythonbynight.com/blog/massively-against-ai)
 * [2025-11-25, 14:20:30](https://news.ycombinator.com/item?id=46045987) - [Launch HN: Onyx (YC W24) – Open-source chat UI](https://news.ycombinator.com/item?id=46045987)
@@ -158,7 +162,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-23, 09:10:00](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss) - [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss)
 * [2025-11-23, 07:40:26](https://news.ycombinator.com/item?id=46021577) - [Surprisingly, Emacs on Android is pretty good](https://kristofferbalintona.me/posts/202505291438/)
 * [2025-11-23, 04:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss) - [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss)
-* [2025-11-23, 03:38:22](https://news.ycombinator.com/item?id=46020564) - [The Definitive Classic Mac Pro (2006-2012) Upgrade Guide](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
 * [2025-11-22, 23:41:00](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss) - [Icelandic is in Danger of Dying Out Because of AI and English-Language Media, Says Former PM](https://soylentnews.org/article.pl?sid=25/11/21/1952206&amp;from=rss)
 * [2025-11-22, 18:58:00](https://soylentnews.org/article.pl?sid=25/11/21/1949232&amp;from=rss) - [First Large-Scale VR Use in the Classroom Extends the Boundaries of Education](https://soylentnews.org/article.pl?sid=25/11/21/1949232&amp;from=rss)
 * [2025-11-22, 18:16:59](https://news.ycombinator.com/item?id=46016902) - [How to repurpose your old phone into a web server](https://far.computer/how-to/)
