@@ -1,52 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Discoveries in Technology and Science
+## AI and Technology Innovations
 
-* [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html) - Research on lazy linearity in programming, aimed at improving core functional languages.
+* [UK Police To Trial AI 'Agents' Responding To Non-Emergency Calls](https://news.slashdot.org/story/25/11/26/2344228/uk-police-to-trial-ai-agents-responding-to-non-emergency-calls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new approach to handle non-emergency calls with AI agents is being tested by UK police.
 
-* [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell) - An innovative game for mastering Unix command-line fundamentals.
+* [Docker Superpowers You Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view) - Explore hidden and overlooked functionalities in Docker that could boost productivity.
 
-* [China's Giant Underground Neutrino Observatory Releases Its First Results](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant findings from a groundbreaking neutrino observatory.
+* [Apple Asks Indian Court to Block Antitrust Law Allowing $38 Billion Fine](https://yro.slashdot.org/story/25/11/26/2352256/apple-asks-indian-court-to-block-antitrust-law-allowing-38-billion-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple challenges India's antitrust law, potentially facing hefty financial consequences.
 
-* [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html) - An updated guide to building your own network-attached storage.
+## Science and Healthcare Breakthroughs
 
-* [Fara-7B: An efficient agentic model for computer use](https://github.com/microsoft/fara) - Microsoft's release of Fara-7B, an advanced computational model.
+* [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o) - Research highlights the positive impacts of music on surgery outcomes and recovery time.
 
-* [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/) - Voyager 1's incredible milestone on its deep-space journey.
+* [China's Giant Underground Neutrino Observatory Releases Its First Results](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Groundbreaking findings emerge from China's underground neutrino research facility.
 
-## Open Source and Programming Insights
+## Creative Programming and Algorithms
 
-* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) - Penpot offers an open-source alternative to Figma for collaborative design.
+* [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator) - A deep dive into the challenges of constructing oscillators in electronics and computation.
 
-* [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) - The Zig programming language's strategic move away from GitHub.
+* [Generalized Worley Noise](https://ianthehenry.com/posts/generalized-worley-noise/) - Enhancements to noise algorithms provide new possibilities in computer graphics.
 
-* [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer) - A tool designed to elucidate Linux kernel internals for developers.
+* [Optimizing Ray Tracing in Haskell (2020)](https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a) - Techniques for optimizing demanding graphical computations in Haskell.
 
-* [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term) - A new library enhancing Terminal UI building capabilities by Jane Street.
+## Open Source and Software Developments
 
-* [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/) - Exploration of a novel, LLM-backed self-compressing filesystem.
+* [Last Issue of "ECMAScript News"](https://ecmascript.news/archive/es-next-news-2025-11-26.html) - An end of an era as ECMAScript News publishes its final issue.
 
-* [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/) - A commentary on why traditional XMPP design decisions remain relevant.
+* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) - Penpot offers a unique alternative to Figma, focusing on design collaboration and flexibility.
 
-## Privacy, Security, and Ethical Concerns
+* [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) - Transitioning repositories raises important questions about open-source sustainability.
 
-* [Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats) - EU debates over privacy boundaries intensify.
+## Security and Privacy Concerns
 
-* [OpenAI Says Dead Teen Violated TOS When He Used ChatGPT To Plan Suicide](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI faces moral and legal scrutiny under tragic circumstances.
+* [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss) - Calls intensify for stricter regulations around Bitcoin mining practices.
 
-* [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&utm_medium=feed) - Debian offers new tools for advocates of software freedom.
-
-* [Newegg Sparks Debate With New PayPal-Integrated AI Shopping Push](https://news.slashdot.org/story/25/11/26/1958216/newegg-sparks-debate-with-new-paypal-integrated-ai-shopping-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversial AI shopping features are being scrutinized for consumer rights.
-
-## Historical and Cultural Developments
-
-* [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/) - Highlights the transformative inventions of Willis Whitfield.
-
-* [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&) - Analysis of the unexpected origins of the first emoticon.
-
-* [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&) - Law enforcement technology faces ethical debates.
-
-* [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&) - A dive into historical insights regarding Ancient Egyptian medical practices.
+* [OpenAI Says Dead Teen Violated TOS When He Used ChatGPT To Plan Suicide](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversy surrounds OpenAI's handling of usage policies following a tragic incident.
 
 ---
 
@@ -73,16 +61,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-27, 13:00:00](https://news.slashdot.org/story/25/11/26/2344228/uk-police-to-trial-ai-agents-responding-to-non-emergency-calls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Police To Trial AI &apos;Agents&apos; Responding To Non-Emergency Calls](https://news.slashdot.org/story/25/11/26/2344228/uk-police-to-trial-ai-agents-responding-to-non-emergency-calls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-27, 12:41:22](https://lobste.rs/s/bfgdyg/on_idempotency_keys) - [On Idempotency Keys](https://www.morling.dev/blog/on-idempotency-keys/)
+* [2025-11-27, 12:06:36](https://news.ycombinator.com/item?id=46068490) - [Docker Superpowers You Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view)
+* [2025-11-27, 11:11:46](https://news.ycombinator.com/item?id=46068147) - [C64 Burrow.BAS](https://basic-code.bearblog.dev/c64-burrow/)
+* [2025-11-27, 10:58:39](https://lobste.rs/s/vyqtkq/it_s_hard_build_oscillator) - [It&apos;s hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+* [2025-11-27, 10:54:02](https://news.ycombinator.com/item?id=46068015) - [How Arthur Conan Doyle Explored Men&apos;s Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
+* [2025-11-27, 10:00:00](https://yro.slashdot.org/story/25/11/26/2352256/apple-asks-indian-court-to-block-antitrust-law-allowing-38-billion-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Asks Indian Court to Block Antitrust Law Allowing $38 Billion Fine](https://yro.slashdot.org/story/25/11/26/2352256/apple-asks-indian-court-to-block-antitrust-law-allowing-38-billion-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
-* [2025-11-27, 09:16:06](https://news.ycombinator.com/item?id=46067363) - [New research highlights a shortage of male mentors for boys and young men](https://www.psypost.org/new-research-highlights-a-shortage-of-male-mentors-for-boys-and-young-men/)
-* [2025-11-27, 07:38:28](https://news.ycombinator.com/item?id=46066736) - [DNS Firewalling with MISP and Technitium DNS Server](https://zaferbalkan.com/technitium-misp/)
 * [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-11-27, 07:00:00](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Giant Underground Neutrino Observatory Releases Its First Results](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-27, 06:57:17](https://lobste.rs/s/42f5af/gameshell_game_learn_teach_how_use) - [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell)
-* [2025-11-27, 06:53:17](https://news.ycombinator.com/item?id=46066482) - [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
 * [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 * [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \&quot;ECMAScript News\&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
-* [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 * [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
 * [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World&apos;s Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf)
@@ -99,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-27, 01:47:36](https://lobste.rs/s/tvkddz/migrating_zig_organization_from_github) - [Migrating The Zig Organization from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
 * [2025-11-27, 01:34:43](https://lobste.rs/s/ukbacd/graph_algorithms_rayon) - [Graph Algorithms in Rayon](https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html)
 * [2025-11-27, 01:25:00](https://yro.slashdot.org/story/25/11/26/227244/greek-cybercrime-unit-shuts-down-iptv-pirates-68-end-users-face-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Greek Cybercrime Unit Shuts Down IPTV Pirates, 68 End Users Face Fines](https://yro.slashdot.org/story/25/11/26/227244/greek-cybercrime-unit-shuts-down-iptv-pirates-68-end-users-face-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-27, 01:20:33](https://news.ycombinator.com/item?id=46064367) - [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 * [2025-11-27, 00:45:00](https://apple.slashdot.org/story/25/11/26/2155234/googles-airdrop-support-for-pixel-10-likely-exists-because-of-eus-apple-ruling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s AirDrop Support For Pixel 10 Likely Exists Because of EU&apos;s Apple Ruling](https://apple.slashdot.org/story/25/11/26/2155234/googles-airdrop-support-for-pixel-10-likely-exists-because-of-eus-apple-ruling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-27, 00:02:00](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Dead Teen Violated TOS When He Used ChatGPT To Plan Suicide](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 23:22:24](https://news.ycombinator.com/item?id=46063450) - [C100 Developer Terminal](https://caligra.com/)
@@ -119,12 +108,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-26, 19:26:00](https://tech.slashdot.org/story/25/11/26/1926201/pentagon-cited-alibaba-on-china-military-aid-in-oct-7-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Cited Alibaba on China Military Aid in Oct. 7 Letter](https://tech.slashdot.org/story/25/11/26/1926201/pentagon-cited-alibaba-on-china-military-aid-in-oct-7-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 19:13:07](https://lobste.rs/s/p5k6aa/fail2ban_rce) - [fail2ban RCE](https://www.cve.org/CVERecord?id=CVE-2025-45311)
 * [2025-11-26, 19:10:24](https://news.ycombinator.com/item?id=46061208) - [Fara-7B: An efficient agentic model for computer use](https://github.com/microsoft/fara)
-* [2025-11-26, 18:45:00](https://news.slashdot.org/story/25/11/26/1842249/openai-needs-at-least-207-billion-by-2030-just-to-keep-losing-money-hsbc-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Needs At Least $207 Billion By 2030 Just To Keep Losing Money, HSBC Estimates](https://news.slashdot.org/story/25/11/26/1842249/openai-needs-at-least-207-billion-by-2030-just-to-keep-losing-money-hsbc-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
 * [2025-11-26, 18:34:41](https://lobste.rs/s/7fsqgl/ulid_only_identifier_you_should_use) - [ULID - the ONLY identifier you should use?](https://www.youtube.com/watch?v=otW7nLd8P04)
-* [2025-11-26, 18:11:00](https://slashdot.org/story/25/11/26/1811238/chinas-dual-squeeze-on-european-industry-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Dual Squeeze on European Industry Intensifies](https://slashdot.org/story/25/11/26/1811238/chinas-dual-squeeze-on-european-industry-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss)
+* [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&amp;box now open source](https://github.com/Facepunch/sbox-public)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 * [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
@@ -133,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-26, 13:11:00](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss) - [The Reshoring Initiative - Real Reasons to Bring Jobs Back to USA From Asia](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss)
 * [2025-11-26, 12:49:37](https://lobste.rs/s/yycuct/go_proposal_goroutine_metrics) - [Go proposal: Goroutine metrics](https://antonz.org/accepted/goroutine-metrics/)
 * [2025-11-26, 12:03:20](https://lobste.rs/s/3kp1vt/url_c_puzzle) - [URL in C Puzzle](https://susam.net/url-in-c.html)
-* [2025-11-26, 10:06:41](https://news.ycombinator.com/item?id=46055935) - [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 * [2025-11-26, 09:24:06](https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works) - [I don&apos;t care how well your \&quot;AI\&quot; works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 * [2025-11-26, 08:24:00](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss) - [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss)
 * [2025-11-26, 03:41:00](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss) - [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss)
@@ -143,8 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-25, 19:26:40](https://lobste.rs/s/ykoj5k/announcing_unison_1_0) - [Announcing Unison 1.0](https://www.unison-lang.org/unison-1-0/)
 * [2025-11-25, 18:12:00](https://soylentnews.org/article.pl?sid=25/11/23/2227204&amp;from=rss) - [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&amp;from=rss)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
-* [2025-11-25, 16:39:23](https://lobste.rs/s/igvnnq/stop_telling_us_xmpp_should_use_json) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
-* [2025-11-25, 14:03:08](https://lobste.rs/s/occlzx/constant_time_support_lands_llvm) - [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
 * [2025-11-25, 13:28:00](https://soylentnews.org/article.pl?sid=25/11/23/2222225&amp;from=rss) - [Scientists Now Know That Bees Can Process Time, a First in Insects](https://soylentnews.org/article.pl?sid=25/11/23/2222225&amp;from=rss)
 * [2025-11-25, 08:41:00](https://soylentnews.org/article.pl?sid=25/11/23/2216237&amp;from=rss) - [I Set a Trap to Catch My Students Cheating With AI and the Results Were Shocking](https://soylentnews.org/article.pl?sid=25/11/23/2216237&amp;from=rss)
 * [2025-11-25, 04:00:00](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss) - [Researchers Find Simple Way to Destroy PFAS on Activated Carbon](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss)
@@ -153,6 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 18:27:00](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss) - [Thieves Want Your iPhone, Not Your Android](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss)
 * [2025-11-24, 13:42:00](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss) - [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss)
+* [2025-11-24, 12:39:10](https://news.ycombinator.com/item?id=46033472) - [Technical Deflation](https://benanderson.work/blog/technical-deflation/)
 * [2025-11-24, 08:53:00](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss) - [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss)
 * [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss)
 * [2025-11-23, 23:26:00](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss) - [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss)
