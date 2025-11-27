@@ -1,26 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Innovations and Discoveries in Technology and Science
 
-* [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA) ([comments](https://news.ycombinator.com/item?id=46065997))
+* [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html) - Research on lazy linearity in programming, aimed at improving core functional languages.
 
-* [Google's AirDrop Support For Pixel 10 Likely Exists Because of EU's Apple Ruling](https://apple.slashdot.org/story/25/11/26/2155234/googles-airdrop-support-for-pixel-10-likely-exists-because-of-eus-apple-ruling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46064065))
+* [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell) - An innovative game for mastering Unix command-line fundamentals.
 
-* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) ([comments](https://news.ycombinator.com/item?id=46064757))
+* [China's Giant Underground Neutrino Observatory Releases Its First Results](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant findings from a groundbreaking neutrino observatory.
 
-* [Migrating The Zig Organization from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) ([comments](https://news.ycombinator.com/item?id=46064571))
+* [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html) - An updated guide to building your own network-attached storage.
 
-* [C100 Developer Terminal](https://caligra.com/) ([comments](https://news.ycombinator.com/item?id=46063450))
+* [Fara-7B: An efficient agentic model for computer use](https://github.com/microsoft/fara) - Microsoft's release of Fara-7B, an advanced computational model.
 
-## Scientific Discoveries
+* [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/) - Voyager 1's incredible milestone on its deep-space journey.
 
-* [NASA Rover Makes a Shocking Discovery: Lightning on Mars](https://science.slashdot.org/story/25/11/26/1728223/nasa-rover-makes-a-shocking-discovery-lightning-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss))
+## Open Source and Programming Insights
 
-* [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/) ([comments](https://news.ycombinator.com/item?id=46055935))
+* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) - Penpot offers an open-source alternative to Figma for collaborative design.
 
-* [Lightning on Mars Discovered by NASA Optional Embed](https://soylentnews.org/article.pl?sid=25/11/23/1458223)
+* [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) - The Zig programming language's strategic move away from GitHub.
 
-* [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/helpers/hs-time-stem-micro/-5af-2022-im-cross-myth)
+* [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer) - A tool designed to elucidate Linux kernel internals for developers.
+
+* [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term) - A new library enhancing Terminal UI building capabilities by Jane Street.
+
+* [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/) - Exploration of a novel, LLM-backed self-compressing filesystem.
+
+* [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/) - A commentary on why traditional XMPP design decisions remain relevant.
+
+## Privacy, Security, and Ethical Concerns
+
+* [Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats](https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats) - EU debates over privacy boundaries intensify.
+
+* [OpenAI Says Dead Teen Violated TOS When He Used ChatGPT To Plan Suicide](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI faces moral and legal scrutiny under tragic circumstances.
+
+* [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&utm_medium=feed) - Debian offers new tools for advocates of software freedom.
+
+* [Newegg Sparks Debate With New PayPal-Integrated AI Shopping Push](https://news.slashdot.org/story/25/11/26/1958216/newegg-sparks-debate-with-new-paypal-integrated-ai-shopping-push?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversial AI shopping features are being scrutinized for consumer rights.
+
+## Historical and Cultural Developments
+
+* [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/) - Highlights the transformative inventions of Willis Whitfield.
+
+* [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&) - Analysis of the unexpected origins of the first emoticon.
+
+* [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&) - Law enforcement technology faces ethical debates.
+
+* [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&) - A dive into historical insights regarding Ancient Egyptian medical practices.
 
 ---
 
@@ -47,9 +73,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
+* [2025-11-27, 09:16:06](https://news.ycombinator.com/item?id=46067363) - [New research highlights a shortage of male mentors for boys and young men](https://www.psypost.org/new-research-highlights-a-shortage-of-male-mentors-for-boys-and-young-men/)
+* [2025-11-27, 07:38:28](https://news.ycombinator.com/item?id=46066736) - [DNS Firewalling with MISP and Technitium DNS Server](https://zaferbalkan.com/technitium-misp/)
+* [2025-11-27, 07:31:24](https://news.ycombinator.com/item?id=46066695) - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
+* [2025-11-27, 07:00:00](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Giant Underground Neutrino Observatory Releases Its First Results](https://science.slashdot.org/story/25/11/26/2337257/chinas-giant-underground-neutrino-observatory-releases-its-first-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-27, 06:57:17](https://lobste.rs/s/42f5af/gameshell_game_learn_teach_how_use) - [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell)
+* [2025-11-27, 06:53:17](https://news.ycombinator.com/item?id=46066482) - [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
+* [2025-11-27, 06:17:37](https://news.ycombinator.com/item?id=46066280) - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
+* [2025-11-27, 06:14:21](https://news.ycombinator.com/item?id=46066255) - [Last Issue of \&quot;ECMAScript News\&quot;](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
 * [2025-11-27, 05:51:21](https://news.ycombinator.com/item?id=46066126) - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 * [2025-11-27, 05:28:50](https://news.ycombinator.com/item?id=46065997) - [Show HN: Era – Open-source local sandbox for AI agents](https://github.com/BinSquare/ERA)
-* [2025-11-27, 05:22:28](https://news.ycombinator.com/item?id=46065959) - [Evaluating Uniform Memory Access Mode on AMD&apos;s Turin](https://chipsandcheese.com/p/evaluating-uniform-memory-access)
 * [2025-11-27, 04:55:57](https://news.ycombinator.com/item?id=46065817) - [Music eases surgery and speeds recovery, study finds](https://www.bbc.com/news/articles/c231dv9zpz3o)
 * [2025-11-27, 04:34:56](https://news.ycombinator.com/item?id=46065698) - [Coq: The World&apos;s Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf)
 * [2025-11-27, 04:19:36](https://lobste.rs/s/zn9jeu/generalized_worley_noise) - [Generalized Worley Noise](https://ianthehenry.com/posts/generalized-worley-noise/)
@@ -67,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-27, 01:25:00](https://yro.slashdot.org/story/25/11/26/227244/greek-cybercrime-unit-shuts-down-iptv-pirates-68-end-users-face-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Greek Cybercrime Unit Shuts Down IPTV Pirates, 68 End Users Face Fines](https://yro.slashdot.org/story/25/11/26/227244/greek-cybercrime-unit-shuts-down-iptv-pirates-68-end-users-face-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-27, 01:20:33](https://news.ycombinator.com/item?id=46064367) - [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 * [2025-11-27, 00:45:00](https://apple.slashdot.org/story/25/11/26/2155234/googles-airdrop-support-for-pixel-10-likely-exists-because-of-eus-apple-ruling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s AirDrop Support For Pixel 10 Likely Exists Because of EU&apos;s Apple Ruling](https://apple.slashdot.org/story/25/11/26/2155234/googles-airdrop-support-for-pixel-10-likely-exists-because-of-eus-apple-ruling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-27, 00:42:13](https://news.ycombinator.com/item?id=46064065) - [DSP 101 Part 1: An Introductory Course in DSP System Design](https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html)
 * [2025-11-27, 00:02:00](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Dead Teen Violated TOS When He Used ChatGPT To Plan Suicide](https://yro.slashdot.org/story/25/11/26/2012215/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 23:22:24](https://news.ycombinator.com/item?id=46063450) - [C100 Developer Terminal](https://caligra.com/)
 * [2025-11-26, 23:20:00](https://news.slashdot.org/story/25/11/26/1958216/newegg-sparks-debate-with-new-paypal-integrated-ai-shopping-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Newegg Sparks Debate With New PayPal-Integrated AI Shopping Push](https://news.slashdot.org/story/25/11/26/1958216/newegg-sparks-debate-with-new-paypal-integrated-ai-shopping-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -85,7 +118,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-26, 19:44:20](https://lobste.rs/s/nfkli6/liber_indigo_affordances_magic) - [Liber Indigo: The Affordances of Magic](https://www.youtube.com/watch?v=pGpBQgZ5IsI&amp;list=PLsfH1Ahi4SzE-QmrsrtyZubGmi66iP45V)
 * [2025-11-26, 19:26:00](https://tech.slashdot.org/story/25/11/26/1926201/pentagon-cited-alibaba-on-china-military-aid-in-oct-7-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Cited Alibaba on China Military Aid in Oct. 7 Letter](https://tech.slashdot.org/story/25/11/26/1926201/pentagon-cited-alibaba-on-china-military-aid-in-oct-7-letter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 19:13:07](https://lobste.rs/s/p5k6aa/fail2ban_rce) - [fail2ban RCE](https://www.cve.org/CVERecord?id=CVE-2025-45311)
-* [2025-11-26, 19:12:40](https://news.ycombinator.com/item?id=46061239) - [Alan.app – Add a Border to macOS Active Window](https://tyler.io/2025/11/alan/)
 * [2025-11-26, 19:10:24](https://news.ycombinator.com/item?id=46061208) - [Fara-7B: An efficient agentic model for computer use](https://github.com/microsoft/fara)
 * [2025-11-26, 18:45:00](https://news.slashdot.org/story/25/11/26/1842249/openai-needs-at-least-207-billion-by-2030-just-to-keep-losing-money-hsbc-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Needs At Least $207 Billion By 2030 Just To Keep Losing Money, HSBC Estimates](https://news.slashdot.org/story/25/11/26/1842249/openai-needs-at-least-207-billion-by-2030-just-to-keep-losing-money-hsbc-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
@@ -93,10 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-26, 18:11:00](https://slashdot.org/story/25/11/26/1811238/chinas-dual-squeeze-on-european-industry-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Dual Squeeze on European Industry Intensifies](https://slashdot.org/story/25/11/26/1811238/chinas-dual-squeeze-on-european-industry-intensifies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-26, 18:08:02](https://news.ycombinator.com/item?id=46060508) - [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss)
-* [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&amp;box now open source](https://github.com/Facepunch/sbox-public)
-* [2025-11-26, 17:28:00](https://lobste.rs/s/pphczb/how_stealth_addresses_work_monero) - [How stealth addresses work in Monero](https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/)
-* [2025-11-26, 17:28:00](https://science.slashdot.org/story/25/11/26/1728223/nasa-rover-makes-a-shocking-discovery-lightning-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Rover Makes a Shocking Discovery: Lightning on Mars](https://science.slashdot.org/story/25/11/26/1728223/nasa-rover-makes-a-shocking-discovery-lightning-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-26, 17:03:21](https://news.ycombinator.com/item?id=46059620) - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 * [2025-11-26, 14:02:46](https://news.ycombinator.com/item?id=46057488) - [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
@@ -122,16 +150,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-25, 04:00:00](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss) - [Researchers Find Simple Way to Destroy PFAS on Activated Carbon](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss)
 * [2025-11-24, 23:16:00](https://soylentnews.org/article.pl?sid=25/11/23/1458223&amp;from=rss) - [Ring&apos;s New Feature Turns Your Doorbell Into a Biometric Spy](https://soylentnews.org/article.pl?sid=25/11/23/1458223&amp;from=rss)
 * [2025-11-24, 21:12:25](https://news.ycombinator.com/item?id=46039387) - [Willis Whitfield: A simple man with a simple solution that changed the world](https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/)
+* [2025-11-24, 20:48:18](https://news.ycombinator.com/item?id=46039106) - [Interactive λ-Reduction](https://deltanets.org/)
 * [2025-11-24, 18:27:00](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss) - [Thieves Want Your iPhone, Not Your Android](https://soylentnews.org/article.pl?sid=25/11/23/1349258&amp;from=rss)
 * [2025-11-24, 13:42:00](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss) - [Magician Forgets Password to His Own Hand After RFID Chip Implant](https://soylentnews.org/article.pl?sid=25/11/23/0254204&amp;from=rss)
 * [2025-11-24, 08:53:00](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss) - [First-Ever Full Earth System Simulation Provides New Tool to Understand Climate Change](https://soylentnews.org/article.pl?sid=25/11/23/0244245&amp;from=rss)
-* [2025-11-24, 08:30:00](https://news.ycombinator.com/item?id=46031664) - [Ruby Was Ready from the Start](https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb)
-* [2025-11-24, 04:16:02](https://news.ycombinator.com/item?id=46030325) - [How Does Microwaving Grapes Create Plumes of Plasma?](https://www.pbs.org/wgbh/nova/article/how-does-microwaving-grapes-create-plumes-plasma/)
 * [2025-11-24, 04:09:00](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss) - [Debian Libre Live Images Released for Software Freedom Lovers](https://soylentnews.org/article.pl?sid=25/11/23/0241222&amp;from=rss)
 * [2025-11-23, 23:26:00](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss) - [US Gives Local Police a Face-Scanning App Similar to One Used by ICE Agents](https://soylentnews.org/article.pl?sid=25/11/23/0237208&amp;from=rss)
-* [2025-11-23, 22:14:14](https://news.ycombinator.com/item?id=46027878) - [Show HN: Safe-NPM – only install packages that are +90 days old](https://github.com/kevinslin/safe-npm)
-* [2025-11-23, 21:09:33](https://news.ycombinator.com/item?id=46027348) - [Making my 1970&apos;s-style renderer multi-threaded](https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html)
 * [2025-11-23, 18:36:00](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss) - [U.S. Spy Agency Releases Amelia Earhart Records](https://soylentnews.org/article.pl?sid=25/11/23/0229254&amp;from=rss)
+* [2025-11-23, 18:16:58](https://news.ycombinator.com/item?id=46025911) - [G0-G3 corners, visualised: learn what \&quot;Apple corners\&quot; are](https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners)
 * [2025-11-23, 13:52:00](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss) - [Maybe That&apos;s Not Liquid Water on Mars After All](https://soylentnews.org/article.pl?sid=25/11/21/203250&amp;from=rss)
 * [2025-11-23, 09:10:00](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss) - [Ancient Egyptians Likely Used Opiates Regularly](https://soylentnews.org/article.pl?sid=25/11/21/201212&amp;from=rss)
 * [2025-11-23, 04:24:00](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss) - [Mercury Pollution in Marine Mammals is Increasing, New Study Finds](https://soylentnews.org/article.pl?sid=25/11/21/1957207&amp;from=rss)
