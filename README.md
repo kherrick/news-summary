@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Challenges in Engineering and Development
+## Technology and Software Development
 
-* [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/) - A mathematical exploration of unconventional geometry and shapes.
+* [Fabric: Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer](https://github.com/Fabric-Project/Fabric) ([comments](https://lobste.rs/s/bkr0ih/fabric_node_creative_coding_3d_image))
 
-* [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/) - Insights into challenges faced even by skilled engineers while working in corporate environments.
+* [git-embigenner: Spam empty commits](https://github.com/veqqq/git-embigenner) ([comments](https://lobste.rs/s/uqv5en/git_embigenner_spam_empty_commits))
 
-* [The original ABC language, Python's predecessor (1991)](https://github.com/gvanrossum/abc-unix) - Revisit the historic roots of Python through its predecessor ABC language.
+* [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/) ([comments](https://lobste.rs/s/zxwjap/metafun_compile_haskell_like_code_c))
 
-* [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html) - A novel 3D flight tracker that visualizes aviation data in unique ways.
+* [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/) ([comments](https://news.ycombinator.com/item?id=46080769))
 
-* [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/) - A technical breakdown of JSON Schema, addressing complexity in its implementations.
+* [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag) ([comments](https://news.ycombinator.com/item?id=46080364))
 
-## Technology Transformations and Innovations
+## Science and Discovery
 
-* [China-Netherlands Chip Fight Turns Into Corporate Civil War](https://slashdot.org/story/25/11/28/1636212/china-netherlands-chip-fight-turns-into-corporate-civil-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Geopolitical struggles manifest through technological and corporate battles.
+* [Scientists Think They&apos;ve Solved Why One of History&apos;s Most Advanced Civilizations Vanished](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Major AI Conference Flooded With Peer Reviews Written Fully By AI](https://news.slashdot.org/story/25/11/28/139247/major-ai-conference-flooded-with-peer-reviews-written-fully-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An AI-driven twist in academic peer reviews.
+* [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/) ([comments](https://lobste.rs/s/ybp9wx/is_matrix_multiplication_ugly))
 
-* [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/) - A revolutionary step in converting high-level programming to C++ templates.
+* [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/) ([comments](https://news.ycombinator.com/item?id=46084122))
 
-* [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss) - The iconic text-based games become open for expansion and adaptation.
+## Industry and Corporate Realignments
 
-* [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr) - An innovative approach to creating a decentralized, peer-to-peer email system.
+* [China-Netherlands Chip Fight Turns Into Corporate Civil War](https://slashdot.org/story/25/11/28/1636212/china-netherlands-chip-fight-turns-into-corporate-civil-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/11/28/1636212/china-netherlands-chip-fight-turns-into-corporate-civil-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Environmental and Global Challenges
+* [Seven Years Later, Airbus is Still Trying To Kick Its Microsoft Habit](https://it.slashdot.org/story/25/11/28/019235/seven-years-later-airbus-is-still-trying-to-kick-its-microsoft-habit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/11/28/019235/seven-years-later-airbus-is-still-trying-to-kick-its-microsoft-habit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Australia Risks 2035 Climate Goal Without Bigger Emissions Cuts](https://news.slashdot.org/story/25/11/28/1654207/australia-risks-2035-climate-goal-without-bigger-emissions-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Australia's emission policies examined in the context of global climate objectives.
+* [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert) ([comments](https://news.ycombinator.com/item?id=46082825))
 
-* [Violent Conflict Over Water Hit a Record Last Year](https://news.slashdot.org/story/25/11/28/1356212/violent-conflict-over-water-hit-a-record-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examines the growing humanitarian crises over water resources.
+## Cybersecurity and Privacy
 
-* [Canada Rolls Back Climate Rules To Boost Investments](https://news.slashdot.org/story/25/11/28/0042205/canada-rolls-back-climate-rules-to-boost-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of Canada's policy shift on climate rules for economic growth.
+* [Someone Is Trying To &apos;Hack&apos; People Through Apple Podcasts](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Historical and Curious Explorations
+* [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) ([comments](https://news.ycombinator.com/item?id=46081704))
 
-* [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&amp;from=rss) - A lighthearted story of how the emoticon was accidentally birthed.
+* [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html) ([comments](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors))
 
-* [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html) - A detailed investigation into the history of governmental influence on cybersecurity.
+## Unique and Legacy Technologies
 
-* [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538) - A rare listing and discussion around the high valuation of vintage tech.
+* [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0) ([comments](https://news.ycombinator.com/item?id=46084956))
+
+* [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538) ([comments](https://lobste.rs/s/bhoqqp/1_million_dollar_apple_macintosh))
 
 ---
 
@@ -65,15 +67,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-29, 03:26:01](https://news.ycombinator.com/item?id=46084956) - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
+* [2025-11-29, 03:02:14](https://lobste.rs/s/uqv5en/git_embigenner_spam_empty_commits) - [git-embigenner: Spam empty commits](https://github.com/veqqq/git-embigenner)
+* [2025-11-29, 02:47:15](https://lobste.rs/s/bkr0ih/fabric_node_creative_coding_3d_image) - [Fabric: Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer](https://github.com/Fabric-Project/Fabric)
+* [2025-11-29, 02:02:00](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Think They&apos;ve Solved Why One of History&apos;s Most Advanced Civilizations Vanished](https://science.slashdot.org/story/25/11/28/1721249/scientists-think-theyve-solved-why-one-of-historys-most-advanced-civilizations-vanished?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-29, 01:37:42](https://news.ycombinator.com/item?id=46084535) - [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 * [2025-11-29, 00:32:24](https://lobste.rs/s/sn1nq2/rope_science_part_11_practical_syntax) - [Rope science, part 11 - practical syntax highlighting (2017)](https://xi-editor.io/docs/rope_science_11.html)
 * [2025-11-29, 00:26:42](https://news.ycombinator.com/item?id=46084122) - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
 * [2025-11-28, 23:35:00](https://slashdot.org/story/25/11/28/1636212/china-netherlands-chip-fight-turns-into-corporate-civil-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China-Netherlands Chip Fight Turns Into Corporate Civil War](https://slashdot.org/story/25/11/28/1636212/china-netherlands-chip-fight-turns-into-corporate-civil-war?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-28, 23:24:16](https://news.ycombinator.com/item?id=46083730) - [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)
 * [2025-11-28, 22:32:03](https://news.ycombinator.com/item?id=46083375) - [Fabric Project](https://github.com/Fabric-Project/Fabric)
 * [2025-11-28, 22:21:25](https://news.ycombinator.com/item?id=46083303) - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
 * [2025-11-28, 22:02:57](https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
-* [2025-11-28, 21:56:58](https://news.ycombinator.com/item?id=46083137) - [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
-* [2025-11-28, 21:55:28](https://lobste.rs/s/9hjl1b/universal_tbxi_patchset_tbxi_classic_mac) - [universal-tbxi-patchset: TBXI (classic Mac OS New World ROM) patchset to boot System 7.5+](https://github.com/Wack0/universal-tbxi-patchset)
 * [2025-11-28, 21:46:07](https://news.ycombinator.com/item?id=46083051) - [A first look at Django&apos;s new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
 * [2025-11-28, 21:40:21](https://news.ycombinator.com/item?id=46083004) - [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
 * [2025-11-28, 21:39:39](https://lobste.rs/s/li0ido/it_is_ok_say_css_variables_instead) - [It is OK to Say “CSS Variables” Instead of (or Alongside) “Custom Properties”](https://blog.kizu.dev/css-variables/)
@@ -81,6 +85,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors) - [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html)
 * [2025-11-28, 21:16:46](https://news.ycombinator.com/item?id=46082825) - [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
 * [2025-11-28, 20:59:33](https://lobste.rs/s/zxwjap/metafun_compile_haskell_like_code_c) - [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)
+* [2025-11-28, 20:06:30](https://news.ycombinator.com/item?id=46082291) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-28, 20:02:00](https://news.slashdot.org/story/25/11/28/1646244/singapore-takes-top-spot-in-global-talent-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Singapore Takes Top Spot in Global Talent Index](https://news.slashdot.org/story/25/11/28/1646244/singapore-takes-top-spot-in-global-talent-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-28, 19:59:32](https://news.ycombinator.com/item?id=46082223) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 19:58:13](https://news.ycombinator.com/item?id=46082204) - [The original ABC language, Python&apos;s predecessor (1991)](https://github.com/gvanrossum/abc-unix)
@@ -95,13 +100,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-28, 18:01:00](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Someone Is Trying To &apos;Hack&apos; People Through Apple Podcasts](https://apple.slashdot.org/story/25/11/28/1531245/someone-is-trying-to-hack-people-through-apple-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-28, 17:48:25](https://news.ycombinator.com/item?id=46080916) - [Molly: An Improved Signal App](https://molly.im/)
 * [2025-11-28, 17:34:26](https://news.ycombinator.com/item?id=46080769) - [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/)
-* [2025-11-28, 17:30:41](https://news.ycombinator.com/item?id=46080737) - [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/)
 * [2025-11-28, 17:15:20](https://news.ycombinator.com/item?id=46080579) - [C++ Web Server on my custom hobby OS](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
 * [2025-11-28, 17:05:31](https://news.ycombinator.com/item?id=46080473) - [Bringing Sexy Back. Internet surveillance has killed eroticism](https://lux-magazine.com/article/privacy-eroticism/)
 * [2025-11-28, 17:01:00](https://entertainment.slashdot.org/story/25/11/28/1522252/australias-streaming-quotas-become-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia&apos;s Streaming Quotas Become Law](https://entertainment.slashdot.org/story/25/11/28/1522252/australias-streaming-quotas-become-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-28, 16:54:56](https://news.ycombinator.com/item?id=46080364) - [So you wanna build a local RAG?](https://blog.yakkomajuri.com/blog/local-rag)
 * [2025-11-28, 16:49:12](https://news.ycombinator.com/item?id=46080289) - [Airloom – 3D Flight Tracker](https://objectiveunclear.com/airloom.html)
-* [2025-11-28, 16:42:46](https://news.ycombinator.com/item?id=46080218) - [Lobsters Interview](https://susam.net/my-lobsters-interview.html)
 * [2025-11-28, 16:35:24](https://news.ycombinator.com/item?id=46080143) - [True P2P Email on Top of Yggdrasil Network](https://github.com/JB-SelfCompany/Tyr)
 * [2025-11-28, 16:01:01](https://news.ycombinator.com/item?id=46079785) - [Don&apos;t tug on that, you never know what it might be attached to (2016)](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 16:01:00](https://hardware.slashdot.org/story/25/11/28/1435209/robots-and-ai-are-already-remaking-the-chinese-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robots and AI Are Already Remaking the Chinese Economy](https://hardware.slashdot.org/story/25/11/28/1435209/robots-and-ai-are-already-remaking-the-chinese-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -110,6 +113,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-28, 15:39:28](https://lobste.rs/s/pxk1qt/generating_3d_meshes_from_text) - [Generating 3D Meshes From Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
 * [2025-11-28, 15:00:00](https://news.slashdot.org/story/25/11/28/1356212/violent-conflict-over-water-hit-a-record-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Violent Conflict Over Water Hit a Record Last Year](https://news.slashdot.org/story/25/11/28/1356212/violent-conflict-over-water-hit-a-record-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-28, 14:42:19](https://news.ycombinator.com/item?id=46079073) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2025-11-28, 14:14:25](https://lobste.rs/s/bhoqqp/1_million_dollar_apple_macintosh) - [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538)
 * [2025-11-28, 14:00:00](https://news.slashdot.org/story/25/11/28/139247/major-ai-conference-flooded-with-peer-reviews-written-fully-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Major AI Conference Flooded With Peer Reviews Written Fully By AI](https://news.slashdot.org/story/25/11/28/139247/major-ai-conference-flooded-with-peer-reviews-written-fully-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone&apos;s battery](https://far.computer/battery-update/)
@@ -127,18 +131,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-28, 05:01:00](https://news.slashdot.org/story/25/11/28/0042205/canada-rolls-back-climate-rules-to-boost-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canada Rolls Back Climate Rules To Boost Investments](https://news.slashdot.org/story/25/11/28/0042205/canada-rolls-back-climate-rules-to-boost-investments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-28, 05:00:00](https://lobste.rs/s/v6ct3o/ml_kem_mythbusting) - [ML-KEM Mythbusting](https://keymaterial.net/2025/11/27/ml-kem-mythbusting/)
 * [2025-11-28, 02:30:00](https://yro.slashdot.org/story/25/11/28/0037205/us-patent-office-issues-new-guidelines-for-ai-assisted-inventions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Patent Office Issues New Guidelines For AI-Assisted Inventions](https://yro.slashdot.org/story/25/11/28/0037205/us-patent-office-issues-new-guidelines-for-ai-assisted-inventions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-28, 01:10:00](https://games.slashdot.org/story/25/11/28/0033246/epics-sweeney-says-platforms-should-stop-tagging-games-made-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Epic&apos;s Sweeney Says Platforms Should Stop Tagging Games Made With AI](https://games.slashdot.org/story/25/11/28/0033246/epics-sweeney-says-platforms-should-stop-tagging-games-made-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-27, 17:41:20](https://lobste.rs/s/zzy9fy/electron_vs_tauri) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
-* [2025-11-27, 14:53:22](https://lobste.rs/s/iro8m3/lowtype_elegant_types_ruby) - [Lowtype: Elegant types in Ruby](https://codeberg.org/Iow/type)
 * [2025-11-27, 03:26:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss)
 * [2025-11-26, 22:43:00](https://soylentnews.org/article.pl?sid=25/11/24/234230&amp;from=rss) - [The Escape Room Challenge: How One Person&apos;s Narcissism Can Undermine a Whole Team](https://soylentnews.org/article.pl?sid=25/11/24/234230&amp;from=rss)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss)
 * [2025-11-26, 13:11:00](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss) - [The Reshoring Initiative - Real Reasons to Bring Jobs Back to USA From Asia](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss)
 * [2025-11-26, 08:24:00](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss) - [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss)
 * [2025-11-26, 03:41:00](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss) - [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss)
-* [2025-11-26, 01:19:17](https://news.ycombinator.com/item?id=46053017) - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 * [2025-11-25, 22:57:00](https://soylentnews.org/article.pl?sid=25/11/24/2248217&amp;from=rss) - [Is Matrix Multiplication Ugly?](https://soylentnews.org/article.pl?sid=25/11/24/2248217&amp;from=rss)
 * [2025-11-25, 18:12:00](https://soylentnews.org/article.pl?sid=25/11/23/2227204&amp;from=rss) - [In 1982, a Physics Joke Gone Wrong Sparked the Invention of the Emoticon](https://soylentnews.org/article.pl?sid=25/11/23/2227204&amp;from=rss)
 * [2025-11-25, 13:28:00](https://soylentnews.org/article.pl?sid=25/11/23/2222225&amp;from=rss) - [Scientists Now Know That Bees Can Process Time, a First in Insects](https://soylentnews.org/article.pl?sid=25/11/23/2222225&amp;from=rss)
 * [2025-11-25, 08:41:00](https://soylentnews.org/article.pl?sid=25/11/23/2216237&amp;from=rss) - [I Set a Trap to Catch My Students Cheating With AI and the Results Were Shocking](https://soylentnews.org/article.pl?sid=25/11/23/2216237&amp;from=rss)
 * [2025-11-25, 04:00:00](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss) - [Researchers Find Simple Way to Destroy PFAS on Activated Carbon](https://soylentnews.org/article.pl?sid=25/11/23/2211220&amp;from=rss)
+* [2025-11-25, 03:33:03](https://news.ycombinator.com/item?id=46042074) - [How to get Pandoc to respect custom table styles in Word templates](https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/)
