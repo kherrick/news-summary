@@ -1,36 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Breakthroughs
+## Tech & Security Innovations
 
-* [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss) - A new development in fuel cell technology could significantly advance the adoption of hydrogen power for various applications. [Comments](https://soylentnews.org/article.pl?sid=25/11/25/1517228&from=rss)
+* [The Unpowered SSDs in Your Drawer Are Slowly Losing Your Data](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss))
 
-* [Uber Launches Driverless Robotaxi Service in Abu Dhabi, and Plans Many More](https://tech.slashdot.org/story/25/11/29/0727225/uber-launches-driverless-robotaxi-service-in-abu-dhabi-and-plans-many-more?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Uber demonstrates its commitment to autonomous vehicles with its latest driverless robotaxi service launch. [Comments](https://tech.slashdot.org/story/25/11/29/0727225/uber-launches-driverless-robotaxi-service-in-abu-dhabi-and-plans-many-more?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+* [Browser Extension 'Slop Evader' Lets You Surf the Web Like It's 2022](https://news.slashdot.org/story/25/11/29/1838252/browser-extension-slop-evader-lets-you-surf-the-web-like-its-2022?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/11/29/1838252/browser-extension-slop-evader-lets-you-surf-the-web-like-its-2022?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Defense Company Announces an AI-Powered Dome to Shield Cities and Infrastructure From Attacks](https://tech.slashdot.org/story/25/11/29/0646258/defense-company-announces-an-ai-powered-dome-to-shield-cities-and-infrastructure-from-attacks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An innovative technology aims to secure urban centers and infrastructure from potential attacks. [Comments](https://tech.slashdot.org/story/25/11/29/0646258/defense-company-announces-an-ai-powered-dome-to-shield-cities-and-infrastructure-from-attacks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss))
 
-## AI and Computing Trends
+* [AI Helps Drive Record $11.8B in Black Friday Online Spending](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [AI Helps Drive Record $11.8B in Black Friday Online Spending](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AI's role in e-commerce skyrockets to new financial heights. [Comments](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Are There More Linux Users Than We Think?](https://linux.slashdot.org/story/25/11/30/008213/are-there-more-linux-users-than-we-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://linux.slashdot.org/story/25/11/30/008213/are-there-more-linux-users-than-we-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6) - AI disrupts traditional academic processes by generating peer reviews. [Comments](https://lobste.rs/s/ww6cfs/major_ai_conference_flooded_with_peer)
+## Gaming and Computers
 
-## Open Source and Software Developments
+* [Valve Announces the Steam Frame: 'A New Way to Play Your Entire Steam Library'](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss))
 
-* [Landlock-ing Linux](https://blog.prizrak.me/post/landlock/) - Detailed insight into Linux's Landlock features for bolstering security. [Comments](https://lobste.rs/s/22oqr9/landlock_ing_linux)
+* [Bazzite: The next generation of Linux gaming](https://bazzite.gg/) ([Comments](https://news.ycombinator.com/item?id=46091362))
 
-* [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&from=rss) - A loved adventure game series becomes open source, offering fans new opportunities for exploration. [Comments](https://soylentnews.org/article.pl?sid=25/11/24/2255253&from=rss)
+* [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0) ([Comments](https://lobste.rs/s/uxqquq/system_7_natively_boots_on_mac_mini_g4))
 
-## Cultural and Historical Insights
+## AI and Data Science
 
-* [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/) - Dedicated to Antoine de Saint-Exupéry's beloved story, this museum captures the spirit of The Little Prince. [Comments](https://news.ycombinator.com/item?id=46092478)
+* [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6) ([Comments](https://lobste.rs/s/ww6cfs/major_ai_conference_flooded_with_peer))
 
-* [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss) - An investigation into the misconceptions surrounding the Black Death's historical narrative. [Comments](https://soylentnews.org/article.pl?sid=25/11/25/1514218&from=rss)
+* [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/) ([Comments](https://news.ycombinator.com/item?id=46086771))
 
-## Space and Aviation
+* [Student perceptions of AI coding assistants in learning](https://arxiv.org/abs/2507.22900) ([Comments](https://news.ycombinator.com/item?id=46089546))
 
-* [China Launches Shenzhou-22 Early for Stranded Space Station Crew](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss) - China's swift action addresses challenges faced by astronauts in orbit. [Comments](https://soylentnews.org/article.pl?sid=25/11/26/2239240&from=rss)
+## Cultural and Scientific Breakthroughs
 
-* [Airbus Issues Major A320 Recall, Threatening Global Flight Disruption](https://news.slashdot.org/story/25/11/29/0515215/airbus-issues-major-a320-recall-threatening-global-flight-disruption?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Aviation enthusiasts and industry experts weigh in on the issues surrounding Airbus's recall. [Comments](https://news.slashdot.org/story/25/11/29/0515215/airbus-issues-major-a320-recall-threatening-global-flight-disruption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Myths About Rapid Spread of the Black Death Influenced by Single 'Literary Tale'](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss))
+
+* [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/) ([Comments](https://news.ycombinator.com/item?id=46092478))
+
+* [The Mysterious Black Fungus From Chernobyl That May Eat Radiation](https://news.slashdot.org/story/25/11/28/1516243/the-mysterious-black-fungus-from-chernobyl-that-may-eat-radiation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/25/11/28/1516243/the-mysterious-black-fungus-from-chernobyl-that-may-eat-radiation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -57,6 +61,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-11-30, 09:12:00](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss) - [The Unpowered SSDs in Your Drawer Are Slowly Losing Your Data](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss)
+* [2025-11-30, 08:47:51](https://lobste.rs/s/dcifcp/oops_it_s_kernel_stack_use_after_free) - [Oops! It&apos;s a kernel stack use-after-free: Exploiting NVIDIA&apos;s GPU Linux drivers](https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html)
+* [2025-11-30, 08:34:00](https://news.slashdot.org/story/25/11/29/1838252/browser-extension-slop-evader-lets-you-surf-the-web-like-its-2022?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Browser Extension &apos;Slop Evader&apos; Lets You Surf the Web Like It&apos;s 2022](https://news.slashdot.org/story/25/11/29/1838252/browser-extension-slop-evader-lets-you-surf-the-web-like-its-2022?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-11-30, 07:00:40](https://news.ycombinator.com/item?id=46094478) - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
+* [2025-11-30, 06:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss)
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss)
 * [2025-11-30, 04:34:00](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Helps Drive Record $11.8B in Black Friday Online Spending](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-30, 03:54:51](https://news.ycombinator.com/item?id=46093518) - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
@@ -89,9 +98,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-29, 20:34:00](https://news.slashdot.org/story/25/11/29/207247/hundreds-of-free-software-supporters-tuned-in-for-fsf40-hackathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds of Free Software Supporters Tuned in For &apos;FSF40&apos; Hackathon](https://news.slashdot.org/story/25/11/29/207247/hundreds-of-free-software-supporters-tuned-in-for-fsf40-hackathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-29, 20:22:44](https://news.ycombinator.com/item?id=46090433) - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
-* [2025-11-29, 19:59:12](https://news.ycombinator.com/item?id=46090294) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
+* [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:55:17](https://news.ycombinator.com/item?id=46090269) - [Learning Feynman&apos;s Trick for Integrals](https://zackyzz.github.io/feynman.html)
-* [2025-11-29, 19:51:29](https://lobste.rs/s/xcyhbl/building_ai_agents_for_devops_from_ci_cd) - [Building AI Agents for DevOps: From CI/CD Automation to Autonomous Deployments](https://muhammadraza.me/2025/building-ai-agents-devops-automation/)
 * [2025-11-29, 19:45:04](https://lobste.rs/s/ww6cfs/major_ai_conference_flooded_with_peer) - [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
 * [2025-11-29, 19:41:55](https://news.ycombinator.com/item?id=46090172) - [Be Like Clippy](https://be-clippy.com/)
 * [2025-11-29, 19:34:00](https://news.slashdot.org/story/25/11/29/080250/63-of-americans-polled-say-four-year-college-degrees-arent-worth-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [63% of Americans Polled Say Four-Year College Degrees Aren&apos;t Worth the Cost](https://news.slashdot.org/story/25/11/29/080250/63-of-americans-polled-say-four-year-college-degrees-arent-worth-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,22 +125,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-29, 07:26:00](https://lobste.rs/s/cljhyb/self_hosting_my_photos_with_immich) - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
 * [2025-11-29, 07:20:52](https://lobste.rs/s/7v8oy2/acmeleaf_simple_declarative_dns_01_acme) - [acmeleaf: Simple declarative DNS-01 ACME client](https://codeberg.org/lindenii/acmeleaf)
 * [2025-11-29, 06:10:27](https://lobste.rs/s/dd97sm/no_more_self_censorship) - [No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
-* [2025-11-29, 05:15:00](https://news.slashdot.org/story/25/11/29/0515215/airbus-issues-major-a320-recall-threatening-global-flight-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airbus Issues Major A320 Recall, Threatening Global Flight Disruption](https://news.slashdot.org/story/25/11/29/0515215/airbus-issues-major-a320-recall-threatening-global-flight-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-29, 04:42:51](https://lobste.rs/s/hv9zpj/popping_locking_zed_theme) - [popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme)
 * [2025-11-29, 02:58:00](https://soylentnews.org/article.pl?sid=25/11/26/2239240&amp;from=rss) - [China Launches Shenzhou-22 Early for Stranded Space Station Crew](https://soylentnews.org/article.pl?sid=25/11/26/2239240&amp;from=rss)
 * [2025-11-28, 22:06:00](https://soylentnews.org/article.pl?sid=25/11/26/2238205&amp;from=rss) - [Cryptology Firm Cancels Elections After Losing Encryption Key](https://soylentnews.org/article.pl?sid=25/11/26/2238205&amp;from=rss)
 * [2025-11-28, 22:02:57](https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
-* [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors_2013) - [A Brief History of NSA Backdoors (2013)](https://www.ethanheilman.com/x/12/index.html)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone&apos;s battery](https://far.computer/battery-update/)
 * [2025-11-28, 13:57:43](https://news.ycombinator.com/item?id=46078684) - [An update on the Farphone&apos;s battery](https://far.computer/battery-update/)
 * [2025-11-28, 10:46:09](https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary)
+* [2025-11-27, 17:23:06](https://news.ycombinator.com/item?id=46071317) - [What&apos;s Hiding Inside Haribo&apos;s Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones)
 * [2025-11-27, 17:13:51](https://news.ycombinator.com/item?id=46071221) - [Blender facial animation tool. What else should it do?](https://github.com/shun126/livelinkface_arkit_receiver/wiki)
 * [2025-11-26, 22:43:00](https://soylentnews.org/article.pl?sid=25/11/24/234230&amp;from=rss) - [The Escape Room Challenge: How One Person&apos;s Narcissism Can Undermine a Whole Team](https://soylentnews.org/article.pl?sid=25/11/24/234230&amp;from=rss)
 * [2025-11-26, 18:02:45](https://news.ycombinator.com/item?id=46060432) - [Rare X-ray images of a 4.5-ton satellite that returned intact from space](https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht)
 * [2025-11-26, 17:55:00](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss) - [Mozilla Resolves 21-Year-Old Bug, Adds Full XDG Directory Support](https://soylentnews.org/article.pl?sid=25/11/24/232236&amp;from=rss)
 * [2025-11-26, 13:11:00](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss) - [The Reshoring Initiative - Real Reasons to Bring Jobs Back to USA From Asia](https://soylentnews.org/article.pl?sid=25/11/24/230252&amp;from=rss)
 * [2025-11-26, 12:57:35](https://news.ycombinator.com/item?id=46056954) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
+* [2025-11-26, 10:08:19](https://news.ycombinator.com/item?id=46055942) - [Dynamic Skillset Reference Architecture](https://chatbotkit.com/examples/dynamic-skillset-reference-architecture)
 * [2025-11-26, 08:24:00](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss) - [Zork I, II, and III go Open Source](https://soylentnews.org/article.pl?sid=25/11/24/2255253&amp;from=rss)
 * [2025-11-26, 07:03:27](https://news.ycombinator.com/item?id=46054879) - [Anthony Bourdain&apos;s Lost Li.st&apos;s](https://bourdain.greg.technology/)
 * [2025-11-26, 03:41:00](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss) - [HP and Dell Disable HEVC Support Built Into Their Laptops’ CPUs](https://soylentnews.org/article.pl?sid=25/11/24/2253234&amp;from=rss)
