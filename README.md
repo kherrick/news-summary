@@ -1,52 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Technology and Innovations
 
-* [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html) explores the intricacies of software scalability and its impacts on development. [Comments](https://lobste.rs/s/wsv9xn/size_matters)
+* [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) ([Comments](https://news.ycombinator.com/item?id=46105079))
 
-* [Linux Kernel 6.18 Officially Released](https://linux.slashdot.org/story/25/12/01/0218201/linux-kernel-618-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) celebrates the latest advancements in Linux kernel development. [Comments](https://linux.slashdot.org/story/25/12/01/0218201/linux-kernel-618-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Amazon and Google Announce Resilient 'Multicloud' Networking Service Plus an Open API for Interoperability](https://tech.slashdot.org/story/25/12/01/0612218/amazon-and-google-announce-resilient-multicloud-networking-service-plus-an-open-api-for-interoperability?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/25/12/01/0612218/amazon-and-google-announce-resilient-multicloud-networking-service-plus-an-open-api-for-interoperability?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [One jobserver to rule them all](https://blogs.gentoo.org/mgorny/2025/11/30/one-jobserver-to-rule-them-all/) discusses a unified solution for jobserver implementations in build systems. [Comments](https://lobste.rs/s/swvr1p/one_jobserver_rule_them_all)
+* [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html) ([Comments](https://lobste.rs/s/vz0vom/http_query_method))
 
-* [Advent of Code 2025](https://adventofcode.com/2025) kicks off another season of insightful programming puzzles. [Comments](https://lobste.rs/s/gtzhvt/advent_code_2025)
+* [Linux Kernel 6.18 Officially Released](https://linux.slashdot.org/story/25/12/01/0218201/linux-kernel-618-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://linux.slashdot.org/story/25/12/01/0218201/linux-kernel-618-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Real-Time Rendering with JPEG-Compressed Textures](https://github.com/elias1518693/jpeg_textures) delves into graphic optimization techniques. [Comments](https://lobste.rs/s/fq1avk/real_time_rendering_with_jpeg_compressed)
+* [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss))
 
-* [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome) is a compelling initiative for retro computing enthusiasts. [Comments](https://news.ycombinator.com/item?id=46098359)
+## Cybersecurity and Policy
 
-## Artificial Intelligence and Its Influence
+* [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/) ([Comments](https://news.ycombinator.com/item?id=46104396))
 
-* [How OpenAI Reacted When Some ChatGPT Users Lost Touch with Reality](https://slashdot.org/story/25/12/01/0137225/how-openai-reacted-when-some-chatgpt-users-lost-touch-with-reality?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights unintended consequences of AI tools. [Comments](https://slashdot.org/story/25/12/01/0137225/how-openai-reacted-when-some-chatgpt-users-lost-touch-with-reality?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Crime Rings Enlist Hackers To Hijack Trucks](https://yro.slashdot.org/story/25/11/30/2357209/crime-rings-enlist-hackers-to-hijack-trucks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/11/30/2357209/crime-rings-enlist-hackers-to-hijack-trucks?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Is OpenAI Preparing to Bring Ads to ChatGPT?](https://slashdot.org/story/25/11/30/0510248/is-openai-preparing-to-bring-ads-to-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed) speculates on potential monetization strategies for AI. [Comments](https://slashdot.org/story/25/11/30/0510248/is-openai-preparing-to-bring-ads-to-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/) ([Comments](https://news.ycombinator.com/item?id=46103657))
 
-* [AI Can Already Do the Work of 12% of America's Workforce, Researchers Find](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) reveals findings on AI's potential impact on labor markets. [Comments](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/11/30/0218206&from=rss))
 
-* [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588) explores new prompting methodologies for AI. [Comments](https://news.ycombinator.com/item?id=46099108)
+* [Russia Left Without Access to ISS Following Structure Collapse During Thursday's Launch](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Cybersecurity and Privacy
+## Artificial Intelligence and Impact
 
-* [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/) investigates a malware breach in SmartTube's APK. [Comments](https://news.ycombinator.com/item?id=46103657)
+* [How OpenAI Reacted When Some ChatGPT Users Lost Touch with Reality](https://slashdot.org/story/25/12/01/0137225/how-openai-reacted-when-some-chatgpt-users-lost-touch-with-reality?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/25/12/01/0137225/how-openai-reacted-when-some-chatgpt-users-lost-touch-with-reality?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* ['Crime Rings Enlist Hackers To Hijack Trucks'](https://yro.slashdot.org/story/25/11/30/2357209/crime-rings-enlist-hackers-to-hijack-trucks?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights technological vulnerabilities in logistics. [Comments](https://yro.slashdot.org/story/25/11/30/2357209/crime-rings-enlist-hackers-to-hijack-trucks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI just proved Erdos Problem #124](https://www.erdosproblems.com/forum/thread/124#post-1892) ([Comments](https://news.ycombinator.com/item?id=46094037))
 
-* [Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers](https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html) shows critical exploits in driver software. [Comments](https://lobste.rs/s/dcifcp/oops_it_s_kernel_stack_use_after_free)
+* [AI Can Already Do the Work of 12% of America's Workforce, Researchers Find](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Space and Science Innovations
+* [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588) ([Comments](https://news.ycombinator.com/item?id=46099108))
 
-* [Russia Left Without Access to ISS Following Structure Collapse During Thursday's Launch](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) reports on a major space infrastructure failure. [Comments](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss) examines innovative uses of scientific byproducts. [Comments](https://soylentnews.org/article.pl?sid=25/11/30/0224246&from=rss)
-
-* [Can AI Transform Space Propulsion?](https://science.slashdot.org/story/25/11/30/2247202/can-ai-transform-space-propulsion?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores AI's potential impact on space technologies. [Comments](https://science.slashdot.org/story/25/11/30/2247202/can-ai-transform-space-propulsion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Unique Miscellaneous Highlights
-
-* [Advent of Sysadmin 2025](https://sadservers.com/advent) provides a fun and festive take for system administrators. [Comments](https://news.ycombinator.com/item?id=46102347)
-
-* [Boing](https://boing.greg.technology/) showcases a curious new project with experimental designs. [Comments](https://lobste.rs/s/ujdmkl/boing)
-
-* [Google Antigravity just deleted the contents of whole drive](https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/) highlights risks in cloud computing environments. [Comments](https://news.ycombinator.com/item?id=46103532)
+* [Can AI Transform Space Propulsion?](https://science.slashdot.org/story/25/11/30/2247202/can-ai-transform-space-propulsion?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/11/30/2247202/can-ai-transform-space-propulsion?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -73,9 +61,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-01, 08:54:31](https://news.ycombinator.com/item?id=46105079) - [DeepSeek releases open-weights math model with IMO gold medal performance](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
+* [2025-12-01, 08:34:00](https://tech.slashdot.org/story/25/12/01/0612218/amazon-and-google-announce-resilient-multicloud-networking-service-plus-an-open-api-for-interoperability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon and Google Announce Resilient &apos;Multicloud&apos; Networking Service Plus an Open API for Interoperability](https://tech.slashdot.org/story/25/12/01/0612218/amazon-and-google-announce-resilient-multicloud-networking-service-plus-an-open-api-for-interoperability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-01, 07:30:40](https://lobste.rs/s/vz0vom/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
+* [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss)
+* [2025-12-01, 07:05:57](https://news.ycombinator.com/item?id=46104396) - [Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton](https://areweanticheatyet.com/)
 * [2025-12-01, 06:45:22](https://lobste.rs/s/wsv9xn/size_matters) - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 * [2025-12-01, 06:12:33](https://lobste.rs/s/swvr1p/one_jobserver_rule_them_all) - [One jobserver to rule them all](https://blogs.gentoo.org/mgorny/2025/11/30/one-jobserver-to-rule-them-all/)
-* [2025-12-01, 05:49:35](https://news.ycombinator.com/item?id=46103945) - [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
 * [2025-12-01, 05:36:48](https://news.ycombinator.com/item?id=46103858) - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
 * [2025-12-01, 05:36:00](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Left Without Access to ISS Following Structure Collapse During Thursday&apos;s Launch](https://science.slashdot.org/story/25/12/01/0327208/russia-left-without-access-to-iss-following-structure-collapse-during-thursdays-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-01, 05:01:01](https://news.ycombinator.com/item?id=46103657) - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
@@ -100,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 21:34:00](https://it.slashdot.org/story/25/11/30/2130226/info-to-decipher-secret-message-in-kryptos-sculpture-at-cia-hq-auctioned-for-nearly-1m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Info to Decipher Secret Message in Kryptos Sculpture at CIA HQ Auctioned for Nearly $1M](https://it.slashdot.org/story/25/11/30/2130226/info-to-decipher-secret-message-in-kryptos-sculpture-at-cia-hq-auctioned-for-nearly-1m?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-30, 21:34:00](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss) - [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss)
 * [2025-11-30, 21:12:21](https://lobste.rs/s/5qd7be/trillions_spent_big_software_projects) - [Trillions Spent and Big Software Projects Are Still Failing](https://spectrum.ieee.org/it-management-software-failures)
-* [2025-11-30, 20:54:43](https://news.ycombinator.com/item?id=46100323) - [“Boobs check” – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 * [2025-11-30, 20:49:49](https://news.ycombinator.com/item?id=46100282) - [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
 * [2025-11-30, 20:13:25](https://lobste.rs/s/h6bmm2/hacking_on_remarkable_2) - [Hacking on the reMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
 * [2025-11-30, 20:10:14](https://lobste.rs/s/0kkxgk/you_want_microservices_do_you_need_them) - [You Want Microservices—But Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
@@ -108,9 +99,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 19:21:43](https://lobste.rs/s/fq1avk/real_time_rendering_with_jpeg_compressed) - [Real-Time Rendering with JPEG-Compressed Textures](https://github.com/elias1518693/jpeg_textures)
 * [2025-11-30, 18:34:52](https://news.ycombinator.com/item?id=46099108) - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
 * [2025-11-30, 18:34:00](https://tech.slashdot.org/story/25/11/30/1746201/what-happens-when-you-kick-millions-of-teens-off-social-media-australias-about-to-find-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When You Kick Millions of Teens Off Social Media?  Australia&apos;s About to Find Out](https://tech.slashdot.org/story/25/11/30/1746201/what-happens-when-you-kick-millions-of-teens-off-social-media-australias-about-to-find-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-11-30, 18:15:37](https://news.ycombinator.com/item?id=46098979) - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
 * [2025-11-30, 17:56:43](https://news.ycombinator.com/item?id=46098838) - [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-* [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer) - [Linux Kernel Explorer](https://reverser.dev)
 * [2025-11-30, 17:45:51](https://news.ycombinator.com/item?id=46098747) - [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
 * [2025-11-30, 17:37:09](https://news.ycombinator.com/item?id=46098673) - [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
 * [2025-11-30, 17:34:00](https://developers.slashdot.org/story/25/11/30/048214/amazon-tells-its-engineers-use-our-ai-coding-tool-kiro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Tells Its Engineers: Use Our AI Coding Tool &apos;Kiro&apos;](https://developers.slashdot.org/story/25/11/30/048214/amazon-tells-its-engineers-use-our-ai-coding-tool-kiro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -121,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 16:17:29](https://lobste.rs/s/p9s9yx/from_zero_github_starting_new_jj_jujutsu) - [From Zero to GitHub: Starting A New jj (Jujutsu) Repo](https://www.visualmode.dev/from-zero-to-github-starting-a-new-jj-jujutsu-repo)
 * [2025-11-30, 16:12:13](https://news.ycombinator.com/item?id=46097829) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
 * [2025-11-30, 16:10:40](https://lobste.rs/s/cni8ze/github_codeberg_my_experience) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
-* [2025-11-30, 16:07:11](https://news.ycombinator.com/item?id=46097773) - [The Thinking Game Film – Google DeepMind documentary](https://thinkinggamefilm.com)
 * [2025-11-30, 15:34:00](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Can Already Do the Work of 12% of America&apos;s Workforce, Researchers Find](https://it.slashdot.org/story/25/11/29/1737204/ai-can-already-do-the-work-of-12-of-americas-workforce-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-30, 14:59:23](https://lobste.rs/s/gtzhvt/advent_code_2025) - [Advent of Code 2025](https://adventofcode.com/2025)
 * [2025-11-30, 14:22:16](https://lobste.rs/s/qxxu6s/http_query_method) - [The HTTP Query Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body/)
@@ -140,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss)
 * [2025-11-30, 04:34:00](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Helps Drive Record $11.8B in Black Friday Online Spending](https://slashdot.org/story/25/11/30/0245229/ai-helps-drive-record-118b-in-black-friday-online-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-30, 03:53:14](https://lobste.rs/s/y6hggq/zigbook_is_plagiarizing_zigtools) - [Zigbook is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
-* [2025-11-30, 02:34:00](https://linux.slashdot.org/story/25/11/30/008213/are-there-more-linux-users-than-we-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are There More Linux Users Than We Think?](https://linux.slashdot.org/story/25/11/30/008213/are-there-more-linux-users-than-we-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-11-30, 02:31:37](https://lobste.rs/s/a34m1x/datacenters_space_are_terrible_horrible) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 * [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss)
 * [2025-11-30, 01:38:09](https://lobste.rs/s/22oqr9/landlock_ing_linux) - [Landlock-ing Linux](https://blog.prizrak.me/post/landlock/)
