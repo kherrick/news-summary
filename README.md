@@ -1,48 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Historical Discoveries and Public Domain
+## Technology Innovations and Updates
 
-* [We Built a Database of 290,000 English Medieval Soldiers](https://developers.slashdot.org/story/25/12/02/0049229/we-built-a-database-of-290000-english-medieval-soldiers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers create an extensive database cataloguing English medieval soldiers.
+* [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal) - Explore Gitmal, a new tool for generating static pages from Git repositories.
 
-* [What Will Enter the Public Domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/) - Explore cultural and scientific works set to enter the public domain next year.
+* [Samsung Debuts Its First Trifold Phone](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Samsung introduces its innovative trifold phone, changing smartphone design trends.
 
-## AI and Technology Development
+* [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker) - A guide explores easy methodologies for creating type checkers.
 
-* [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/) - AI tools uncover vulnerabilities in smart contracts, highlighting security issues.
+## Educational Resources and Insights
 
-* [Flock Uses Overseas Gig Workers To Build Its Surveillance AI](https://yro.slashdot.org/story/25/12/01/2249209/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A company relies on gig workers abroad to develop advanced surveillance systems.
+* [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/) - A comprehensive resource for mastering computer science fundamentals.
 
-* [LLMs are a failure. A new AI winter is coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/) - A critical perspective on the limitations and challenges facing large language models.
+* [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq) - An entertaining FAQ about getting started with unicycling.
 
-## Cryptography and Security
+## Emerging Issues in Privacy and AI
 
-* [Swiss Illegal Cryptocurrency Mixing Service Shut Down](https://slashdot.org/story/25/12/02/0042253/swiss-illegal-cryptocurrency-mixing-service-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Authorities successfully close down an illicit cryptocurrency operation.
+* [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html) - Let's Encrypt reveals plans to shorten certificate lifetimes for enhanced security.
 
-* [New York Now Requires Retailers To Tell You When AI Sets Your Price](https://yro.slashdot.org/story/25/12/01/1740216/new-york-now-requires-retailers-to-tell-you-when-ai-sets-your-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A push for transparency in AI-driven pricing policies.
+* [Flock Uses Overseas Gig Workers To Build Its Surveillance AI](https://yro.slashdot.org/story/25/12/01/2249209/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating ethical concerns about Flock's use of overseas workers for its AI development.
 
-* [Apple AI Chief Retiring After Siri Failure](https://apple.slashdot.org/story/25/12/02/0021253/apple-ai-chief-retiring-after-siri-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Post-Siri setbacks lead to a prominent executive stepping down.
+## AI and Blockchain Developments
 
-## Educational and Development Tools
+* [AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/) - AI agents uncover security flaws in blockchain systems with significant financial implications.
 
-* [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker) - A beginner-friendly approach to constructing type checkers for programming.
+* [LLMs are a failure. A new AI winter is coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/) - Analysts discuss setbacks in large language models, foreseeing a new AI winter.
 
-* [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf) - Technical advancements in open-access large language model development.
+## Historical and Cultural Perspectives
 
-## Cultural and Current Affairs
+* [We Built a Database of 290,000 English Medieval Soldiers](https://developers.slashdot.org/story/25/12/02/0049229/we-built-a-database-of-290000-english-medieval-soldiers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fascinating database documenting English soldiers from medieval times.
 
-* [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - Ukraine pioneers communication technology access in Europe.
-
-* [Austria's Rebel Nuns Refuse To Give Up Instagram To Stay In Their Convent](https://tech.slashdot.org/story/25/12/01/2239244/austrias-rebel-nuns-refuse-to-give-up-instagram-to-stay-in-their-convent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A unique blend of tradition and technology among Austrian nuns.
-
-* [Singapore Extends Secondary School Smartphone Ban To Cover Entire School Day](https://news.slashdot.org/story/25/12/01/1724252/singapore-extends-secondary-school-smartphone-ban-to-cover-entire-school-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The country’s bold measures to curb smartphone usage among students.
-
-## Notable Innovations and Insights
-
-* [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/) - A mathematical dive into the nature of problem complexity.
-
-* [Google, Nvidia, and OpenAI](https://stratechery.com/2025/google-nvidia-and-openai/) - A comparison of three major industry players shaping the AI landscape.
-
-* [Cartographers have been hiding illustrations inside Switzerland’s maps (2020)](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) - Uncovering decades-old artistry in mapmaking.
+* [Cartographers have been hiding illustrations inside Switzerland’s maps (2020)](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) - Uncover the secrets of covert illustrations within Swiss maps.
 
 ---
 
@@ -69,14 +57,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
+* [2025-12-02, 05:27:18](https://news.ycombinator.com/item?id=46117900) - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
+* [2025-12-02, 05:13:00](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Debuts Its First Trifold Phone](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-02, 03:47:11](https://news.ycombinator.com/item?id=46117280) - [Beej&apos;s Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
 * [2025-12-02, 03:30:00](https://developers.slashdot.org/story/25/12/02/0049229/we-built-a-database-of-290000-english-medieval-soldiers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;We Built a Database of 290,000 English Medieval Soldiers&apos;](https://developers.slashdot.org/story/25/12/02/0049229/we-built-a-database-of-290000-english-medieval-soldiers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What Will Enter the Public Domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+* [2025-12-02, 03:24:44](https://news.ycombinator.com/item?id=46117126) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
+* [2025-12-02, 03:23:10](https://news.ycombinator.com/item?id=46117112) - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 * [2025-12-02, 03:06:53](https://lobste.rs/s/avpdkm/easiest_way_build_type_checker) - [The Easiest Way to Build a Type Checker](https://jimmyhmiller.com/easiest-way-to-build-type-checker)
 * [2025-12-02, 02:35:47](https://news.ycombinator.com/item?id=46116724) - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss)
+* [2025-12-02, 01:30:15](https://news.ycombinator.com/item?id=46116179) - [Notes on Bhutan](https://apropos.substack.com/p/notes-on-bhutan)
 * [2025-12-02, 01:25:00](https://slashdot.org/story/25/12/02/0042253/swiss-illegal-cryptocurrency-mixing-service-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Swiss Illegal Cryptocurrency Mixing Service Shut Down](https://slashdot.org/story/25/12/02/0042253/swiss-illegal-cryptocurrency-mixing-service-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 00:45:00](https://mobile.slashdot.org/story/25/12/02/008223/smartphones-at-age-12-linked-to-worse-health?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartphones At Age 12 Linked To Worse Health](https://mobile.slashdot.org/story/25/12/02/008223/smartphones-at-age-12-linked-to-worse-health?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 00:36:15](https://news.ycombinator.com/item?id=46115729) - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
 * [2025-12-02, 00:31:01](https://news.ycombinator.com/item?id=46115682) - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 * [2025-12-02, 00:25:00](https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement) - [FreeBSD 15.0-RELEASE Announcement](https://www.freebsd.org/releases/15.0R/announce/)
 * [2025-12-02, 00:23:00](https://apple.slashdot.org/story/25/12/02/0021253/apple-ai-chief-retiring-after-siri-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple AI Chief Retiring After Siri Failure](https://apple.slashdot.org/story/25/12/02/0021253/apple-ai-chief-retiring-after-siri-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -89,7 +82,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-01, 22:40:00](https://news.slashdot.org/story/25/12/01/2224216/zipcar-to-end-uk-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zipcar To End UK Operations](https://news.slashdot.org/story/25/12/01/2224216/zipcar-to-end-uk-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-01, 22:20:33](https://news.ycombinator.com/item?id=46114122) - [John Giannandrea to retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
 * [2025-12-01, 22:00:00](https://yro.slashdot.org/story/25/12/01/2158251/koreas-coupang-says-data-breach-exposed-nearly-34-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Korea&apos;s Coupang Says Data Breach Exposed Nearly 34 Million Customers&apos; Personal Information](https://yro.slashdot.org/story/25/12/01/2158251/koreas-coupang-says-data-breach-exposed-nearly-34-million-customers-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-01, 21:44:07](https://news.ycombinator.com/item?id=46113682) - [Mozilla&apos;s latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
 * [2025-12-01, 21:42:59](https://lobste.rs/s/xamzjw/paged_out_call_for_pages) - [Paged Out - Call for pages](https://pagedout.institute/?page=cfp.php)
 * [2025-12-01, 21:26:00](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss) - [NTSB Finds Root Cause of Container Ship Hitting Baltimore Bridge](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss)
 * [2025-12-01, 21:20:00](https://yro.slashdot.org/story/25/12/01/1740216/new-york-now-requires-retailers-to-tell-you-when-ai-sets-your-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Now Requires Retailers To Tell You When AI Sets Your Price](https://yro.slashdot.org/story/25/12/01/1740216/new-york-now-requires-retailers-to-tell-you-when-ai-sets-your-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,8 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-01, 18:19:04](https://lobste.rs/s/lkvvh7/don_t_click_here) - [Don&apos;t Click Here](https://www.dont-click-here.com)
 * [2025-12-01, 18:17:02](https://news.ycombinator.com/item?id=46110842) - [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 * [2025-12-01, 18:01:00](https://news.slashdot.org/story/25/12/01/1644253/colleges-are-preparing-to-self-lobotomize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colleges Are Preparing To Self-Lobotomize](https://news.slashdot.org/story/25/12/01/1644253/colleges-are-preparing-to-self-lobotomize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-01, 17:20:00](https://tech.slashdot.org/story/25/12/01/1241232/top-consultancies-freeze-starting-salaries-as-ai-threatens-pyramid-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top Consultancies Freeze Starting Salaries as AI Threatens &apos;Pyramid&apos; Model](https://tech.slashdot.org/story/25/12/01/1241232/top-consultancies-freeze-starting-salaries-as-ai-threatens-pyramid-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-01, 17:01:18](https://news.ycombinator.com/item?id=46109802) - [Better Auth (YC X25) Is Hiring](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer)
 * [2025-12-01, 16:40:00](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss) - [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss)
 * [2025-12-01, 16:08:51](https://lobste.rs/s/yp2ez1/compressing_callstacks_bitpacked_dag) - [Compressing callstacks: a bitpacked DAG powered by a keyless hashmap](https://superluminal.eu/compressing-callstacks/)
 * [2025-12-01, 16:01:26](https://news.ycombinator.com/item?id=46108941) - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
@@ -115,18 +105,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-01, 15:48:03](https://news.ycombinator.com/item?id=46108780) - [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
 * [2025-12-01, 15:28:49](https://news.ycombinator.com/item?id=46108563) - [Google unkills JPEG XL?](https://tonisagrista.com/blog/2025/google-unkills-jpegxl/)
 * [2025-12-01, 15:18:42](https://news.ycombinator.com/item?id=46108437) - [Google, Nvidia, and OpenAI](https://stratechery.com/2025/google-nvidia-and-openai/)
-* [2025-12-01, 14:47:48](https://news.ycombinator.com/item?id=46108071) - [Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?](https://news.ycombinator.com/item?id=46108071)
 * [2025-12-01, 14:13:06](https://news.ycombinator.com/item?id=46107658) - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
 * [2025-12-01, 14:06:50](https://lobste.rs/s/i40dxk/off_grid_boat_communications_with) - [Off-grid Boat Communications with Meshtastic](https://blog.noforeignland.com/off-grid-boat-communications-with-meshtastic/)
 * [2025-12-01, 13:41:15](https://news.ycombinator.com/item?id=46107282) - [Cartographers have been hiding illustrations inside Switzerland’s maps (2020)](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 * [2025-12-01, 13:31:58](https://news.ycombinator.com/item?id=46107177) - [A vector graphics workstation from the 70s](https://justanotherelectronicsblog.com/?p=1429)
 * [2025-12-01, 13:15:27](https://lobste.rs/s/tdwlso/constructing_word_s_first_jpeg_xl_md5_hash) - [Constructing The Word&apos;s First JPEG XL MD5 Hash Quine](https://stackchk.fail/blog/jxl_hashquine_writeup)
-* [2025-12-01, 12:22:35](https://news.ycombinator.com/item?id=46106556) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 * [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss)
-* [2025-12-01, 11:26:39](https://news.ycombinator.com/item?id=46106132) - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
 * [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
 * [2025-12-01, 10:36:22](https://lobste.rs/s/6joasa/punycode_my_new_favorite_algorithm) - [Punycode: My New Favorite Algorithm](https://www.iankduncan.com/engineering/2025-12-01-punycode)
-* [2025-12-01, 10:24:25](https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week)
 * [2025-12-01, 10:14:59](https://lobste.rs/s/jxubs2/internet_handle) - [Internet Handle](https://internethandle.org/)
 * [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss)
 * [2025-12-01, 06:45:22](https://lobste.rs/s/wsv9xn/size_matters) - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
@@ -148,7 +134,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 06:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss)
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss)
 * [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss)
+* [2025-11-30, 00:48:53](https://news.ycombinator.com/item?id=46092387) - [A Bus Ride and the (At Least) 3x UX FAILs](https://bsdly.blogspot.com/2025/11/a-bus-ride-and-at-least-3x-ux-fails.html)
 * [2025-11-30, 00:05:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&amp;from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&amp;from=rss)
+* [2025-11-29, 22:03:33](https://news.ycombinator.com/item?id=46091211) - [Tom Stoppard has died](https://www.bbc.com/news/articles/c74xe49q7vlo)
 * [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss) - [Valve Announces the Steam Frame: &apos;A New Way to Play Your Entire Steam Library&apos;](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss)
 * [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss)
 * [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&amp;from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&amp;from=rss)
@@ -158,3 +146,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-29, 02:58:00](https://soylentnews.org/article.pl?sid=25/11/26/2239240&amp;from=rss) - [China Launches Shenzhou-22 Early for Stranded Space Station Crew](https://soylentnews.org/article.pl?sid=25/11/26/2239240&amp;from=rss)
 * [2025-11-28, 22:06:00](https://soylentnews.org/article.pl?sid=25/11/26/2238205&amp;from=rss) - [Cryptology Firm Cancels Elections After Losing Encryption Key](https://soylentnews.org/article.pl?sid=25/11/26/2238205&amp;from=rss)
 * [2025-11-28, 17:41:01](https://news.ycombinator.com/item?id=46080835) - [Codex, Opus, Gemini try to build Counter Strike](https://www.instantdb.com/essays/agents_building_counterstrike)
+* [2025-11-28, 15:46:01](https://news.ycombinator.com/item?id=46079629) - [Dark Corners of Unicode (2015)](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
