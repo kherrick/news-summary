@@ -1,42 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Developments
+## Tech and Software Developments
 
-* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/) - Discusses the challenges of running Linux on historic RiscPC hardware. [Comments](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard)
 
-* [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+* [How should we peer review software?](https://mirawelner.com/posts/peer_review.html) - Explores ideas for improving software peer review processes. [Comments](https://lobste.rs/s/1ullif/how_should_we_peer_review_software)
 
-* [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss)
+* [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Kubernetes announces a major change as the Ingress NGINX controller is set for deprecation. [Comments](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Scientific Innovations
+* [Composing capability security and conflict-free replicated data types](https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html) - An in-depth look at how security models intersect with distributed data systems. [Comments](https://lobste.rs/s/wk8i4o/composing_capability_security_conflict)
 
-* [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
+* [Dellty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) - YC startup "Dellty" announces hiring for full stack engineers. [Comments](https://news.ycombinator.com/item?id=46126822)
 
-* [100k TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
+* [Solid state volumetric display](https://mastodon.social/@ancientjames/115648797968721973) - A peek into the future of holographic displays without moving components. [Comments](https://lobste.rs/s/tyehi5/solid_state_volumetric_display)
 
-* [Solid state volumetric display](https://mastodon.social/@ancientjames/115648797968721973)
+## Artificial Intelligence and Big Tech
 
-## Privacy and Security Concerns
+* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines the competitive tension as Google matches OpenAI's advancements. [Comments](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [SmartTube YouTube App For Android TV Breached To Push Malicious Update](https://news.slashdot.org/story/25/12/02/1924229/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Amazon To Use Nvidia Tech In AI Chips, Roll Out New Servers](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details how Amazon is leveraging Nvidia for advanced AI functionality. [Comments](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
+* [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12) - An interesting industry perspective on the financial sustainability of AI. [Comments](https://news.ycombinator.com/item?id=46124324)
 
-## Environmental and Policy Challenges
+## Climate and Environmental Issues
 
-* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
+* [San Francisco Will Sue Ultraprocessed Food Companies](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Lawsuit underscores rising concerns about the public health impact of food processing. [Comments](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Zillow Drops Climate Risk Scores After Agents Complained of Lost Sales](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss) - Alarming updates on climate change affecting mountain ecosystems. [Comments](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss)
 
-## Innovative Products and Open Source
+* [Zillow Drops Climate Risk Scores After Agents Complained of Lost Sales](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines how corporate interests conflict with environmental accountability. [Comments](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss)
+## Automotive and Mobility
 
-* [Samsung Debuts Its First Trifold Phone](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Waymo Hits a Dog In San Francisco, Reigniting Safety Debate](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Autonomous vehicles face renewed scrutiny after an incident involving Waymo. [Comments](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Historical Insights
-
-* [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss)
+* [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&from=rss) - Enthusiasts give this classic smartwatch a new lease on life. [Comments](https://soylentnews.org/article.pl?sid=25/11/30/0244232&from=rss)
 
 ---
 
@@ -63,15 +61,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
+* [2025-12-03, 03:03:00](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [San Francisco Will Sue Ultraprocessed Food Companies](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-03, 02:52:19](https://lobste.rs/s/lsf4hv/roko_s_dancing_basilisk) - [Roko&apos;s dancing basilisk](https://boston.conman.org/2025/12/02.1)
+* [2025-12-03, 02:06:25](https://news.ycombinator.com/item?id=46129476) - [Kohler Can Access Pictures from \&quot;End-to-End Encrypted\&quot; Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
+* [2025-12-03, 02:02:00](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Hits a Dog In San Francisco, Reigniting Safety Debate](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
+* [2025-12-03, 01:01:00](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 00:00:00](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Declares &apos;Code Red&apos; As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 23:48:19](https://lobste.rs/s/odjs8e/nice_meet_you_synthesizing_practical) - [Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://users.cs.utah.edu/~regehr/papers/popl26.pdf)
 * [2025-12-02, 23:23:00](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Resist India Order To Preload State-Run App As Political Outcry Builds](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 22:32:45](https://news.ycombinator.com/item?id=46127868) - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
 * [2025-12-02, 22:22:00](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Plans To Ban Cryptocurrency Political Donations](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 21:52:30](https://news.ycombinator.com/item?id=46127400) - [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 21:21:00](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon To Use Nvidia Tech In AI Chips, Roll Out New Servers](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 21:14:38](https://news.ycombinator.com/item?id=46126964) - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
@@ -113,18 +115,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 13:13:00](https://politics.slashdot.org/story/25/12/02/0120200/an-independent-effort-says-ai-is-the-secret-to-topple-2-party-power-in-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Independent Effort Says AI Is the Secret To Topple 2-Party Power In Congress](https://politics.slashdot.org/story/25/12/02/0120200/an-independent-effort-says-ai-is-the-secret-to-topple-2-party-power-in-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [2025-12-02, 12:30:19](https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking) - [Go proposal: Type-safe error checking](https://antonz.org/accepted/errors-astype/)
-* [2025-12-02, 12:28:34](https://news.ycombinator.com/item?id=46120549) - [A series of vignettes from my childhood and early career](https://www.jasonscheirer.com/weblog/vignettes/)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss)
 * [2025-12-02, 11:39:18](https://lobste.rs/s/1naccs/new_ai_slop_signal_code_blocks_with_weird) - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
 * [2025-12-02, 11:31:23](https://lobste.rs/s/2ucpgd/addressing_adding_situation) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 * [2025-12-02, 11:30:29](https://news.ycombinator.com/item?id=46120181) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
-* [2025-12-02, 10:00:00](https://science.slashdot.org/story/25/12/02/0125248/russia-still-using-black-market-starlink-terminals-on-its-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Still Using Black Market Starlink Terminals On Its Drones](https://science.slashdot.org/story/25/12/02/0125248/russia-still-using-black-market-starlink-terminals-on-its-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 09:51:42](https://news.ycombinator.com/item?id=46119500) - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 * [2025-12-02, 07:00:11](https://lobste.rs/s/r2bamx/decreasing_certificate_lifetimes_45) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
-* [2025-12-02, 07:00:00](https://science.slashdot.org/story/25/12/02/0110257/russian-launch-site-mishap-shows-perilous-state-of-storied-space-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Launch Site Mishap Shows Perilous State of Storied Space Program](https://science.slashdot.org/story/25/12/02/0110257/russian-launch-site-mishap-shows-perilous-state-of-storied-space-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 06:57:00](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss) - [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss)
 * [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
-* [2025-12-02, 05:13:00](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Debuts Its First Trifold Phone](https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss)
 * [2025-12-02, 00:25:00](https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement) - [FreeBSD 15.0-RELEASE Announcement](https://www.freebsd.org/releases/15.0R/announce/)
 * [2025-12-01, 21:26:00](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss) - [NTSB Finds Root Cause of Container Ship Hitting Baltimore Bridge](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss)
@@ -134,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-12-01, 16:40:00](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss) - [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss)
 * [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss)
-* [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
 * [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss)
 * [2025-12-01, 02:20:00](https://soylentnews.org/article.pl?sid=25/11/30/0224246&amp;from=rss) - [Particle Accelerator Waste Could Help Produce Cancer-Fighting Materials](https://soylentnews.org/article.pl?sid=25/11/30/0224246&amp;from=rss)
 * [2025-11-30, 21:34:00](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss) - [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss)
@@ -148,7 +145,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 04:38:00](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss) - [Scientists Unveil Breakthrough Low-Temperature Fuel Cell That Could Revolutionize Hydrogen Power](https://soylentnews.org/article.pl?sid=25/11/25/1517228&amp;from=rss)
 * [2025-11-30, 02:23:00](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss) - [Myths About Rapid Spread of the Black Death Influenced by Single “Literary Tale”](https://soylentnews.org/article.pl?sid=25/11/25/1514218&amp;from=rss)
 * [2025-11-30, 00:05:00](https://soylentnews.org/article.pl?sid=25/11/25/1512241&amp;from=rss) - [A Rare GM EV1 Saved From The Crusher is Going to be Driveable Again](https://soylentnews.org/article.pl?sid=25/11/25/1512241&amp;from=rss)
-* [2025-11-29, 23:21:42](https://news.ycombinator.com/item?id=46091785) - [Zenroom – No-code cryptographic virtual machine](https://zenroom.org/)
 * [2025-11-29, 21:56:00](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss) - [Valve Announces the Steam Frame: &apos;A New Way to Play Your Entire Steam Library&apos;](https://soylentnews.org/article.pl?sid=25/11/29/2035258&amp;from=rss)
 * [2025-11-29, 21:16:00](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss) - [Bitcoin Mining Needs Regulatory Legislation](https://soylentnews.org/article.pl?sid=25/11/25/157251&amp;from=rss)
 * [2025-11-29, 20:53:00](https://soylentnews.org/article.pl?sid=25/11/29/2053221&amp;from=rss) - [Re-releasing Stories in Queue](https://soylentnews.org/article.pl?sid=25/11/29/2053221&amp;from=rss)
