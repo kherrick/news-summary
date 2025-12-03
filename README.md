@@ -1,32 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Ethics
+## Technology and Innovation
 
-* [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f) ([comments](https://news.ycombinator.com/item?id=46130798))
+* [Why Sourcegraph and Amp Are Becoming Independent Companies](https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies) ([comments](https://lobste.rs/s/vj2jto/why_sourcegraph_amp_are_becoming))
 
-* [AI-Induced Psychosis: The Danger of Humans and Machines Hallucinating Together](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/11/30/0218206&amp;from=rss))
+* [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/) ([comments](https://news.ycombinator.com/item?id=46131406))
 
-## Acquisitions and Corporate Strategies
+* [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/) ([comments](https://news.ycombinator.com/item?id=46130907))
 
-* [Anthropic Acquires Bun In First Acquisition](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Technology and Society
-
-* [Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes) ([comments](https://news.ycombinator.com/item?id=46129476))
-
-* [Waymo Hits a Dog In San Francisco, Reigniting Safety Debate](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Open Source and Programming
+* [Anthropic Acquires Bun In First Acquisition](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46124267))
 
 * [Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua](https://github.com/aiya000/luarrow.lua) ([comments](https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant))
 
-* [FreeBSD 15.0-RELEASE Announcement](https://www.freebsd.org/releases/15.0R/announce/) ([comments](https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement))
+## Health and Science
 
-## Health, Science, and Technology
+* [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss))
+
+* [Waymo Hits a Dog In San Francisco, Reigniting Safety Debate](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/02/2322203/waymo-hits-a-dog-in-san-francisco-reigniting-safety-debate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss))
+
+## AI and Computing
+
+* [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/) ([comments](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs))
+
+* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://www.theverge.com/news/836212/openai-code-red-chatgpt))
+
+* [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Avoiding space leaks at all costs](https://chshersh.com/blog/2022-08-08-space-leak.html) ([comments](https://lobste.rs/s/2bqnnc/avoiding_space_leaks_at_all_costs))
+
+* [How should we peer review software?](https://mirawelner.com/posts/peer_review.html) ([comments](https://lobste.rs/s/1ullif/how_should_we_peer_review_software))
+
+## Society and Ethics
+
+* [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/) ([comments](https://news.ycombinator.com/item?id=46131330))
 
 * [San Francisco Will Sue Ultraprocessed Food Companies](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Apple To Resist India Order To Preload State-Run App As Political Outcry Builds](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [UK Plans To Ban Cryptocurrency Political Donations](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss))
 
@@ -55,7 +71,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-12-03, 06:10:22](https://news.ycombinator.com/item?id=46130798) - [AI Is Breaking the Moral Foundation of Modern Society](https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f)
+* [2025-12-03, 09:23:39](https://lobste.rs/s/vj2jto/why_sourcegraph_amp_are_becoming) - [Why Sourcegraph and Amp Are Becoming Independent Companies](https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies)
+* [2025-12-03, 08:26:46](https://news.ycombinator.com/item?id=46131693) - [Codeberg Is Down](https://status.codeberg.org/status/codeberg)
+* [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig&apos;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
+* [2025-12-03, 07:52:37](https://news.ycombinator.com/item?id=46131406) - [Zig quits GitHub, says Microsoft&apos;s AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+* [2025-12-03, 07:41:51](https://news.ycombinator.com/item?id=46131330) - [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)
+* [2025-12-03, 07:07:00](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
+* [2025-12-03, 06:34:28](https://news.ycombinator.com/item?id=46130907) - [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/)
 * [2025-12-03, 06:07:22](https://news.ycombinator.com/item?id=46130784) - [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
 * [2025-12-03, 05:05:34](https://news.ycombinator.com/item?id=46130506) - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
 * [2025-12-03, 05:05:00](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Acquires Bun In First Acquisition](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -74,11 +97,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 01:01:00](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 00:00:00](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Declares &apos;Code Red&apos; As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 23:23:00](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Resist India Order To Preload State-Run App As Political Outcry Builds](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 22:22:00](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Plans To Ban Cryptocurrency Political Donations](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 21:21:00](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon To Use Nvidia Tech In AI Chips, Roll Out New Servers](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 21:00:59](https://news.ycombinator.com/item?id=46126822) - [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
 * [2025-12-02, 20:20:00](https://news.slashdot.org/story/25/12/02/1924229/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SmartTube YouTube App For Android TV Breached To Push Malicious Update](https://news.slashdot.org/story/25/12/02/1924229/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 20:14:20](https://news.ycombinator.com/item?id=46126217) - [Paged Out](https://pagedout.institute)
 * [2025-12-02, 20:08:55](https://news.ycombinator.com/item?id=46126141) - [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
@@ -92,12 +113,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 18:18:00](https://hardware.slashdot.org/story/25/12/02/0546206/googles-vibe-coding-platform-deletes-entire-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Vibe Coding Platform Deletes Entire Drive](https://hardware.slashdot.org/story/25/12/02/0546206/googles-vibe-coding-platform-deletes-entire-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is &apos;no way&apos; spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
-* [2025-12-02, 17:59:53](https://news.ycombinator.com/item?id=46124205) - [100k TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
 * [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School cell phone bans and student achievement](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
 * [2025-12-02, 17:54:35](https://lobste.rs/s/xvroiv/progress_on_typescript_7_december_2025) - [Progress on TypeScript 7 - December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:25:18](https://lobste.rs/s/tvweri/emacsconf_2025) - [EmacsConf 2025](https://emacsconf.org/2025/)
 * [2025-12-02, 17:17:00](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zillow Drops Climate Risk Scores After Agents Complained of Lost Sales](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 16:44:50](https://lobste.rs/s/tyehi5/solid_state_volumetric_display) - [Solid state volumetric display](https://mastodon.social/@ancientjames/115648797968721973)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss)
 * [2025-12-02, 16:16:00](https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration To Take Equity Stake In Former Intel CEO&apos;s Chip Startup](https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,14 +125,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 14:52:22](https://lobste.rs/s/ysvvbi/nixtml_static_website_blog_generator) - [nixtml: Static website and blog generator written in nix](https://github.com/arnarg/nixtml)
 * [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig&apos;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
-* [2025-12-02, 14:14:00](https://yro.slashdot.org/story/25/12/02/0517211/supreme-court-hears-copyright-battle-over-online-music-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Hears Copyright Battle Over Online Music Piracy](https://yro.slashdot.org/story/25/12/02/0517211/supreme-court-hears-copyright-battle-over-online-music-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 13:46:18](https://lobste.rs/s/cw85yf/lazier_binary_decision_diagrams_bdds_for) - [Lazier Binary Decision Diagrams (BDDs) for set-theoretic types](https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/)
-* [2025-12-02, 12:38:28](https://news.ycombinator.com/item?id=46120611) - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [2025-12-02, 12:30:19](https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking) - [Go proposal: Type-safe error checking](https://antonz.org/accepted/errors-astype/)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss)
 * [2025-12-02, 11:39:18](https://lobste.rs/s/1naccs/new_ai_slop_signal_code_blocks_with_weird) - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
 * [2025-12-02, 11:31:23](https://lobste.rs/s/2ucpgd/addressing_adding_situation) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
-* [2025-12-02, 11:30:29](https://news.ycombinator.com/item?id=46120181) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 * [2025-12-02, 07:00:11](https://lobste.rs/s/r2bamx/decreasing_certificate_lifetimes_45) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [2025-12-02, 06:57:00](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss) - [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss)
 * [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
@@ -121,7 +137,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 00:25:00](https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement) - [FreeBSD 15.0-RELEASE Announcement](https://www.freebsd.org/releases/15.0R/announce/)
 * [2025-12-01, 21:26:00](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss) - [NTSB Finds Root Cause of Container Ship Hitting Baltimore Bridge](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss)
 * [2025-12-01, 19:33:05](https://lobste.rs/s/dv0uwu/why_xor_eax_eax) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
-* [2025-12-01, 18:19:04](https://lobste.rs/s/lkvvh7/don_t_click_here) - [Don&apos;t Click Here](https://www.dont-click-here.com)
 * [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-12-01, 16:40:00](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss) - [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss)
 * [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss)
