@@ -1,54 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Corporate Moves
+## Space and Aerospace Developments
 
-* [Anthropic Acquires Bun In First Acquisition](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Anthropic makes its first acquisition by acquiring Bun, a notable step in the company's roadmap.
+* [Chinese Reusable Booster Explodes During First Orbital Test](https://science.slashdot.org/story/25/12/03/1510248/chinese-reusable-booster-explodes-during-first-orbital-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant setback in reusable space technology development.
 
-* [Amazon To Use Nvidia Tech In AI Chips, Roll Out New Servers](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon partners with Nvidia to enhance its AI chip technology and launches new servers to bolster performance.
+* [LandSpace Could Become China's First Company To Land a Reusable Rocket](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovations in China's private space sector.
 
-* [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Kubernetes plans to retire its widely-used Ingress NGINX controller, marking a shift in its networking stack.
+* [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/) - A breakthrough that could support future Martian colonization.
 
-## Scientific Discoveries and Research
+## AI and Technology Concerns
 
-* [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&from=rss) - A unique, bright orange life-form may lead to groundbreaking dinosaur-related findings.
+* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The intensifying competition in generative AI developments.
 
-* [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New research reveals how tattoo ink particles migrate within the body and harm immune cells.
+* [IBM CEO Says There is 'No Way' Spending on AI Data Centers Will Pay Off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12) - Critical commentary on AI data center expenses.
 
-* [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/) - Microbial research uncovers a potential means of oxygen production on Mars.
+* [Are we repeating the telecoms crash with AI datacenters?](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/) - An exploration of potential financial pitfalls in AI infrastructure investments.
 
-* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&from=rss) - Mountain climate change is intensifying at rates faster than anticipated by scientists.
+## Zig and GitHub Controversy
 
-* [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss) - Breakthroughs in neurotechnology raise ethical and practical concerns about predictive mind-reading devices.
+* [Zig Quits GitHub, Says Microsoft's AI Obsession Has Ruined the Service](https://slashdot.org/story/25/12/03/070228/zig-quits-github-says-microsofts-ai-obsession-has-ruined-the-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The impact of GitHub's AI-focused strategy on user satisfaction.
 
-## Space and Aerospace Advances
+* [Zig's New Plan for Asynchronous Programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/) - Zig's evolving approach to asynchronous programming paradigms.
 
-* [LandSpace Could Become China&apos;s First Company To Land a Reusable Rocket](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&utm_medium=feed) - LandSpace aims to be the first Chinese player to successfully land a reusable rocket.
+## Healthcare and Environmental Insights
 
-* [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&from=rss) - Ukraine partners with Starlink to pioneer robust satellite telephony in Europe.
+* [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature) - A detailed financial analysis of the U.S. healthcare industry's expenditures.
 
-## Programming and Development
+* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - Alarming new findings on climate change's effects in mountain regions.
 
-* [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/) - Zig programming language unveils an innovative approach to handle asynchronous programming.
+## Gaming and Technology Reductions
 
-* [Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua](https://github.com/aiya000/luarrow.lua) - Introducing `luarrow`, a Lua feature bringing Haskell-style functions and improved pipelines.
+* [Helldivers 2 Devs Slash Install Size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives) - A drastic optimization in game data management.
 
-* [How large DOM sizes affect interactivity, and what you can do about it (2023)](https://web.dev/articles/dom-size-and-interactivity) - Recommendations to enhance web performance by addressing large DOM sizes.
+* [Getting from Tested to Battle-Tested](https://blog.janestreet.com/getting-from-tested-to-battle-tested/) - Insights into advancing technology reliability under rigorous conditions.
 
-* [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal) - A new static page generator empowers developers working directly within Git repositories.
+## Miscellaneous Innovations
 
-## Artificial Intelligence Evolves
+* [Congressional Lawmakers 47% Pts Better at Picking Stocks](https://www.nber.org/papers/w34524) - A new economic study highlighting lawmakers' financial acumen.
 
-* [OpenAI Declares 'Code Red' As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI reacts urgently as Google edges closer in the competitive AI development race.
+* [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13) - A candid discussion about game development and design.
 
-* [Michael and Susan Dell Donate $6.25 Billion To Encourage Families To Claim 'Trump Accounts'](https://politics.slashdot.org/story/25/12/02/1916207/michael-and-susan-dell-donate-625-billion-to-encourage-families-to-claim-trump-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Dell couple invests heavily in AI-driven governmental initiatives.
-
-## Miscellaneous Highlights
-
-* [Interview with RollerCoaster Tycoon&apos;s Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13) - Chris Sawyer reflects on creating the iconic gaming title RollerCoaster Tycoon.
-
-* [San Francisco Will Sue Ultraprocessed Food Companies](https://science.slashdot.org/story/25/12/02/2229255/san-francisco-will-sue-ultraprocessed-food-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - San Francisco initiates legal actions against ultraprocessed food manufacturers.
-
-* [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&from=rss) - Pebble, the once-defunct smartwatch brand, is revived with a fully open-source model.
+* [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers) - An intriguing dive into machine optimization subtleties.
 
 ---
 
@@ -75,23 +67,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-03, 15:30:30](https://news.ycombinator.com/item?id=46135627) - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
+* [2025-12-03, 15:15:00](https://science.slashdot.org/story/25/12/03/1510248/chinese-reusable-booster-explodes-during-first-orbital-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Reusable Booster Explodes During First Orbital Test](https://science.slashdot.org/story/25/12/03/1510248/chinese-reusable-booster-explodes-during-first-orbital-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-03, 15:11:58](https://news.ycombinator.com/item?id=46135388) - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+* [2025-12-03, 15:05:48](https://lobste.rs/s/t2rpap/getting_from_tested_battle_tested) - [Getting from tested to battle-tested](https://blog.janestreet.com/getting-from-tested-to-battle-tested/)
+* [2025-12-03, 14:42:02](https://news.ycombinator.com/item?id=46135008) - [Mapping Every Dollar of America&apos;s $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
+* [2025-12-03, 14:40:25](https://news.ycombinator.com/item?id=46134991) - [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
+* [2025-12-03, 14:14:00](https://slashdot.org/story/25/12/03/070228/zig-quits-github-says-microsofts-ai-obsession-has-ruined-the-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://slashdot.org/story/25/12/03/070228/zig-quits-github-says-microsofts-ai-obsession-has-ruined-the-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-03, 13:59:21](https://lobste.rs/s/jcrlmk/desugaring_relationship_between) - [Desugaring the Relationship Between Concrete and Abstract Syntax](https://thunderseethe.dev/posts/desugar-base/)
+* [2025-12-03, 13:50:10](https://news.ycombinator.com/item?id=46134443) - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
+* [2025-12-03, 13:20:58](https://news.ycombinator.com/item?id=46134178) - [Helldivers 2 devs slash install size from 154GB to 23GB](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
+* [2025-12-03, 13:13:00](https://news.slashdot.org/story/25/12/03/0649236/japanese-devs-face-font-licensing-dilemma-as-annual-costs-increase-from-380-to-20k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japanese Devs Face Font Licensing Dilemma as Annual Costs Increase From $380 To $20K](https://news.slashdot.org/story/25/12/03/0649236/japanese-devs-face-font-licensing-dilemma-as-annual-costs-increase-from-380-to-20k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 12:44:29](https://lobste.rs/s/hjhrcg/you_can_t_fool_optimiser) - [You can&apos;t fool the optimiser](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You Can&apos;t Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 11:50:00](https://news.ycombinator.com/item?id=46133422) - [The \&quot;Mad Men\&quot; in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)
 * [2025-12-03, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
+* [2025-12-03, 11:14:56](https://news.ycombinator.com/item?id=46133141) - [Are we repeating the telecoms crash with AI datacenters?](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+* [2025-12-03, 11:06:10](https://news.ycombinator.com/item?id=46133068) - [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o)
 * [2025-12-03, 10:35:15](https://lobste.rs/s/hd5ci1/it_s_not_always_icache) - [It&apos;s Not Always ICache](https://matklad.github.io/2021/07/10/its-not-always-icache.html)
 * [2025-12-03, 10:10:00](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LandSpace Could Become China&apos;s First Company To Land a Reusable Rocket](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic reportedly preparing for $300B IPO](https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/)
 * [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig&apos;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
 * [2025-12-03, 07:52:37](https://news.ycombinator.com/item?id=46131406) - [Zig quits GitHub, says Microsoft&apos;s AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
-* [2025-12-03, 07:41:51](https://news.ycombinator.com/item?id=46131330) - [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)
 * [2025-12-03, 07:07:00](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
 * [2025-12-03, 06:34:28](https://news.ycombinator.com/item?id=46130907) - [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/)
 * [2025-12-03, 06:07:22](https://news.ycombinator.com/item?id=46130784) - [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/)
-* [2025-12-03, 05:05:34](https://news.ycombinator.com/item?id=46130506) - [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems)
 * [2025-12-03, 05:05:00](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Acquires Bun In First Acquisition](https://developers.slashdot.org/story/25/12/03/0437256/anthropic-acquires-bun-in-first-acquisition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 04:32:16](https://news.ycombinator.com/item?id=46130335) - [Interview with RollerCoaster Tycoon&apos;s Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
-* [2025-12-03, 04:13:41](https://news.ycombinator.com/item?id=46130233) - [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
 * [2025-12-03, 03:59:37](https://lobste.rs/s/iomcvh/how_large_dom_sizes_affect_interactivity) - [How large DOM sizes affect interactivity, and what you can do about it (2023)](https://web.dev/articles/dom-size-and-interactivity)
 * [2025-12-03, 03:43:23](https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant) - [Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua](https://github.com/aiya000/luarrow.lua)
 * [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
@@ -104,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 01:01:00](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Kubernetes Is Retiring Its Popular Ingress NGINX Controller](https://news.slashdot.org/story/25/12/02/2253248/kubernetes-is-retiring-its-popular-ingress-nginx-controller?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 00:00:00](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Declares &apos;Code Red&apos; As Google Catches Up In AI Race](https://tech.slashdot.org/story/25/12/02/2221238/openai-declares-code-red-as-google-catches-up-in-ai-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 23:23:00](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Resist India Order To Preload State-Run App As Political Outcry Builds](https://apple.slashdot.org/story/25/12/02/2214241/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-02, 23:19:07](https://news.ycombinator.com/item?id=46128286) - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 * [2025-12-02, 22:22:00](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Plans To Ban Cryptocurrency Political Donations](https://news.slashdot.org/story/25/12/02/221215/uk-plans-to-ban-cryptocurrency-political-donations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 21:21:00](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon To Use Nvidia Tech In AI Chips, Roll Out New Servers](https://slashdot.org/story/25/12/02/1930223/amazon-to-use-nvidia-tech-in-ai-chips-roll-out-new-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -113,23 +115,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 19:19:00](https://politics.slashdot.org/story/25/12/02/1916207/michael-and-susan-dell-donate-625-billion-to-encourage-families-to-claim-trump-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Michael and Susan Dell Donate $6.25 Billion To Encourage Families To Claim &apos;Trump Accounts&apos;](https://politics.slashdot.org/story/25/12/02/1916207/michael-and-susan-dell-donate-625-billion-to-encourage-families-to-claim-trump-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 19:15:54](https://lobste.rs/s/yvb1ve/can_we_build_wechat_mini_apps_using_open) - [Can we build WeChat Mini Apps using open web standards?](https://dmathewwws.com/antler-an-irl-browser)
-* [2025-12-02, 19:04:31](https://news.ycombinator.com/item?id=46125155) - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
 * [2025-12-02, 18:41:43](https://lobste.rs/s/ymwbkg/web_based_markdown_editor_with_no_ai) - [Web-based markdown editor with no AI](https://kraa.io/about)
-* [2025-12-02, 18:39:23](https://lobste.rs/s/pelnhp/100000_tps_over_billion_rows) - [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html)
 * [2025-12-02, 18:36:41](https://lobste.rs/s/kwbowm/acme_challenge_for_persistent_dns_txt) - [ACME Challenge for Persistent DNS TXT Record Validation](https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01)
-* [2025-12-02, 18:18:00](https://hardware.slashdot.org/story/25/12/02/0546206/googles-vibe-coding-platform-deletes-entire-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Vibe Coding Platform Deletes Entire Drive](https://hardware.slashdot.org/story/25/12/02/0546206/googles-vibe-coding-platform-deletes-entire-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 18:10:23](https://news.ycombinator.com/item?id=46124324) - [IBM CEO says there is &apos;no way&apos; spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 * [2025-12-02, 18:05:44](https://news.ycombinator.com/item?id=46124267) - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
-* [2025-12-02, 17:58:11](https://news.ycombinator.com/item?id=46124179) - [School cell phone bans and student achievement](https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement)
 * [2025-12-02, 17:54:35](https://lobste.rs/s/xvroiv/progress_on_typescript_7_december_2025) - [Progress on TypeScript 7 - December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:25:18](https://lobste.rs/s/tvweri/emacsconf_2025) - [EmacsConf 2025](https://emacsconf.org/2025/)
-* [2025-12-02, 17:17:00](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zillow Drops Climate Risk Scores After Agents Complained of Lost Sales](https://news.slashdot.org/story/25/12/02/0536226/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss)
-* [2025-12-02, 16:16:00](https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration To Take Equity Stake In Former Intel CEO&apos;s Chip Startup](https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-02, 15:00:16](https://news.ycombinator.com/item?id=46121870) - [OpenAI declares &apos;code red&apos; as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 * [2025-12-02, 14:52:22](https://lobste.rs/s/ysvvbi/nixtml_static_website_blog_generator) - [nixtml: Static website and blog generator written in nix](https://github.com/arnarg/nixtml)
-* [2025-12-02, 14:31:16](https://news.ycombinator.com/item?id=46121539) - [Zig&apos;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 * [2025-12-02, 13:46:18](https://lobste.rs/s/cw85yf/lazier_binary_decision_diagrams_bdds_for) - [Lazier Binary Decision Diagrams (BDDs) for set-theoretic types](https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/)
 * [2025-12-02, 12:30:19](https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking) - [Go proposal: Type-safe error checking](https://antonz.org/accepted/errors-astype/)
@@ -140,8 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss)
 * [2025-12-01, 21:26:00](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss) - [NTSB Finds Root Cause of Container Ship Hitting Baltimore Bridge](https://soylentnews.org/article.pl?sid=25/12/01/0335217&amp;from=rss)
-* [2025-12-01, 19:33:05](https://lobste.rs/s/dv0uwu/why_xor_eax_eax) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
-* [2025-12-01, 17:43:10](https://news.ycombinator.com/item?id=46110395) - [All about automotive lidar](https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/)
 * [2025-12-01, 16:40:00](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss) - [Pebble, the E-Ink Smartwatch That Refuses to Die, Just Went Fully Open Source](https://soylentnews.org/article.pl?sid=25/11/30/0244232&amp;from=rss)
 * [2025-12-01, 11:51:00](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss) - [ClamAV Signature Retirement Announcement](https://soylentnews.org/article.pl?sid=25/11/30/0234208&amp;from=rss)
 * [2025-12-01, 07:07:00](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss) - [Roblox to Use AI for User Age Identification but Aus Government Wants More](https://soylentnews.org/article.pl?sid=25/11/30/0229203&amp;from=rss)
