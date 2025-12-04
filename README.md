@@ -1,42 +1,24 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech and Innovation Developments
+## Gaming and Technology Developments
 
-* [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - KDE announces plans to eliminate X11 session support in upcoming updates, signaling a shift to newer protocols.
+* [Valve Reveals Its the Architect Behind a Push To Bring Windows Games To Arm](https://games.slashdot.org/story/25/12/03/2357235/valve-reveals-its-the-architect-behind-a-push-to-bring-windows-games-to-arm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Valve's initiative may accelerate gaming on ARM architectures.
 
-* [Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge](https://alpinelinux.org/posts/Alpine-3.23.0-released.html) - Alpine Linux introduces a significant update featuring apk-tools iteration and major kernel changes.
+* [AT&amp;T and Verizon Are Fighting Back Against T-Mobile's Easy Switch Tool](https://mobile.slashdot.org/story/25/12/04/006245/att-and-verizon-are-fighting-back-against-t-mobiles-easy-switch-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A clash over customer retention strategies in the telecom space.
 
-* [Zig Quits GitHub, Says Microsoft&#x27;s AI Obsession Has Ruined the Service](https://slashdot.org/story/25/12/03/070228/zig-quits-github-says-microsofts-ai-obsession-has-ruined-the-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Zig programming language announces its departure from GitHub, citing Microsoft's prioritization of AI as detrimental to the platform's users.
+* [OpenAI Loses Fight To Keep ChatGPT Logs Secret In Copyright Case](https://yro.slashdot.org/story/25/12/04/0011222/openai-loses-fight-to-keep-chatgpt-logs-secret-in-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Key legal ruling impacts AI data transparency.
 
-## Legal and Controversial AI Issues
+* [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - KDE steps forward to adopt modern graphical environments.
 
-* [OpenAI Loses Fight To Keep ChatGPT Logs Secret In Copyright Case](https://yro.slashdot.org/story/25/12/04/0011222/openai-loses-fight-to-keep-chatgpt-logs-secret-in-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI must disclose ChatGPT logs, raising concerns about privacy and legal precedents for AI technologies.
+## Mergers and Acquisitions
 
-* [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html) - A perspective on Seattle's growing frustration with AI technologies amidst local misconceptions and challenges.
+* [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium) - The merger raises significant implications for software security and mobile exploration.
 
-## Environmental and Scientific Insights
+## Economic and Regulatory Changes
 
-* [Chinese Reusable Booster Explodes During First Orbital Test](https://science.slashdot.org/story/25/12/03/1510248/chinese-reusable-booster-explodes-during-first-orbital-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's attempt at reusable booster technology faces setbacks with a significant explosion during tests.
+* [White House Rolls Back Fuel Economy Standards](https://tech.slashdot.org/story/25/12/03/2341243/white-house-rolls-back-fuel-economy-standards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial regulatory shift concerning fuel efficiency requirements.
 
-* [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study reveals how tattoo ink impacts the immune system, offering new insights into health-related risks.
-
-## Historical and Technological Retrospectives
-
-* [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/) - An exploration of the ACME protocol and its transformative impact on internet security.
-
-* [1D Conway&#x27;s Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&amp;p=222136#p222136) - An extraordinary discovery in cellular automata, highlighting mathematical and computational creativity.
-
-## Consumer Trends and Failures
-
-* [The Last Video Rental Store Is Your Public Library](https://hardware.slashdot.org/story/25/12/03/2136213/the-last-video-rental-store-is-your-public-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An unexpected resurgence of physical media rentals through public libraries amidst the era of digital streaming.
-
-* [HBO Max Botches Mad Men&#x27;s 4K Debut After Streaming Wrong File Showing Visible Crewmembers](https://entertainment.slashdot.org/story/25/12/03/1728235/hbo-max-botches-mad-mens-4k-debut-after-streaming-wrong-file-showing-visible-crewmembers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - HBO Max stumbles in Mad Men's 4K release, mistakenly broadcasting footage containing visible crew members.
-
-## Hardware and Industry Changes
-
-* [After Nearly 30 Years, Crucial Will Stop Selling RAM To Consumers](https://hardware.slashdot.org/story/25/12/03/2118251/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Crucial decides to exit the consumer RAM market, potentially reshaping hardware purchasing trends.
-
-* [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business) - Relatedly, Micron moves to stop selling key consumer products, signaling a shift in its corporate strategy.
+* [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/) - Analysis reveals ongoing trends in memory pricing.
 
 ---
 
@@ -63,10 +45,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-04, 03:03:00](https://games.slashdot.org/story/25/12/03/2357235/valve-reveals-its-the-architect-behind-a-push-to-bring-windows-games-to-arm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve Reveals Its the Architect Behind a Push To Bring Windows Games To Arm](https://games.slashdot.org/story/25/12/03/2357235/valve-reveals-its-the-architect-behind-a-push-to-bring-windows-games-to-arm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-04, 02:48:31](https://news.ycombinator.com/item?id=46143230) - [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)
+* [2025-12-04, 02:02:00](https://mobile.slashdot.org/story/25/12/04/006245/att-and-verizon-are-fighting-back-against-t-mobiles-easy-switch-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T and Verizon Are Fighting Back Against T-Mobile&apos;s Easy Switch Tool](https://mobile.slashdot.org/story/25/12/04/006245/att-and-verizon-are-fighting-back-against-t-mobiles-easy-switch-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss)
 * [2025-12-04, 01:01:00](https://yro.slashdot.org/story/25/12/04/0011222/openai-loses-fight-to-keep-chatgpt-logs-secret-in-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Loses Fight To Keep ChatGPT Logs Secret In Copyright Case](https://yro.slashdot.org/story/25/12/04/0011222/openai-loses-fight-to-keep-chatgpt-logs-secret-in-copyright-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-04, 00:08:26](https://news.ycombinator.com/item?id=46142100) - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 * [2025-12-04, 00:00:00](https://tech.slashdot.org/story/25/12/03/2341243/white-house-rolls-back-fuel-economy-standards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Rolls Back Fuel Economy Standards](https://tech.slashdot.org/story/25/12/03/2341243/white-house-rolls-back-fuel-economy-standards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 23:58:04](https://news.ycombinator.com/item?id=46142000) - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+* [2025-12-03, 23:46:30](https://news.ycombinator.com/item?id=46141893) - [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 * [2025-12-03, 23:28:34](https://news.ycombinator.com/item?id=46141745) - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
 * [2025-12-03, 23:23:00](https://hardware.slashdot.org/story/25/12/03/2136213/the-last-video-rental-store-is-your-public-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Last Video Rental Store Is Your Public Library](https://hardware.slashdot.org/story/25/12/03/2136213/the-last-video-rental-store-is-your-public-library?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 22:22:00](https://hardware.slashdot.org/story/25/12/03/1737210/after-ai-push-trump-administration-is-now-looking-to-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After AI Push, Trump Administration Is Now Looking To Robots](https://hardware.slashdot.org/story/25/12/03/1737210/after-ai-push-trump-administration-is-now-looking-to-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -74,7 +61,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 21:21:00](https://hardware.slashdot.org/story/25/12/03/2118251/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Nearly 30 Years, Crucial Will Stop Selling RAM To Consumers](https://hardware.slashdot.org/story/25/12/03/2118251/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 21:16:11](https://news.ycombinator.com/item?id=46140244) - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
 * [2025-12-03, 20:59:16](https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
-* [2025-12-03, 20:57:02](https://news.ycombinator.com/item?id=46140038) - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 * [2025-12-03, 20:55:36](https://lobste.rs/s/70rhjl/alpine_linux_3_23_0_released_apk_tools_v3) - [Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge](https://alpinelinux.org/posts/Alpine-3.23.0-released.html)
 * [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&amp;D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss)
 * [2025-12-03, 20:37:08](https://news.ycombinator.com/item?id=46139782) - [Checked-size array parameters in C](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
@@ -116,12 +102,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 12:44:29](https://lobste.rs/s/hjhrcg/you_can_t_fool_optimiser) - [You can&apos;t fool the optimiser](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 12:14:34](https://news.ycombinator.com/item?id=46133622) - [You can&apos;t fool the optimizer](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
-* [2025-12-03, 11:14:56](https://news.ycombinator.com/item?id=46133141) - [Are we repeating the telecoms crash with AI datacenters?](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 * [2025-12-03, 10:35:15](https://lobste.rs/s/hd5ci1/it_s_not_always_icache_2021) - [It&apos;s Not Always ICache (2021)](https://matklad.github.io/2021/07/10/its-not-always-icache.html)
-* [2025-12-03, 10:10:00](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LandSpace Could Become China&apos;s First Company To Land a Reusable Rocket](https://science.slashdot.org/story/25/12/03/0457240/landspace-could-become-chinas-first-company-to-land-a-reusable-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 09:53:27](https://news.ycombinator.com/item?id=46132531) - [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f)
 * [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig&apos;s new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
-* [2025-12-03, 07:07:00](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds Tattoo Ink Moves Through the Body, Killing Immune Cells](https://science.slashdot.org/story/25/12/03/0447236/study-finds-tattoo-ink-moves-through-the-body-killing-immune-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
 * [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
 * [2025-12-03, 02:52:19](https://lobste.rs/s/lsf4hv/roko_s_dancing_basilisk) - [Roko&apos;s dancing basilisk](https://boston.conman.org/2025/12/02.1)
@@ -148,7 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-11-30, 16:51:00](https://soylentnews.org/article.pl?sid=25/11/26/1555213&amp;from=rss) - [Rust for Linux Kernel Co-Maintainer Formally Steps Down](https://soylentnews.org/article.pl?sid=25/11/26/1555213&amp;from=rss)
 * [2025-11-30, 16:39:46](https://news.ycombinator.com/item?id=46098108) - [What I don’t like about chains of thoughts (2023)](https://samsja.github.io/blogs/cot/blog/)
 * [2025-11-30, 14:17:00](https://soylentnews.org/article.pl?sid=25/11/26/1550227&amp;from=rss) - [Tor Switches to New Counter Galois Onion Relay Encryption Algorithm](https://soylentnews.org/article.pl?sid=25/11/26/1550227&amp;from=rss)
-* [2025-11-30, 13:39:52](https://news.ycombinator.com/item?id=46096552) - [Apple Desktop Bus Protocol (2021)](https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html)
+* [2025-11-30, 12:42:04](https://news.ycombinator.com/item?id=46096193) - [Schubfach: The smallest floating point double-to-string impleme](https://vitaut.net/posts/2025/smallest-dtoa/)
 * [2025-11-30, 11:43:00](https://soylentnews.org/article.pl?sid=25/11/26/149224&amp;from=rss) - [Beijing Unveils Supercritical CO2 Turbine That Could Upend Power Tech](https://soylentnews.org/article.pl?sid=25/11/26/149224&amp;from=rss)
 * [2025-11-30, 09:12:00](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss) - [The Unpowered SSDs in Your Drawer Are Slowly Losing Your Data](https://soylentnews.org/article.pl?sid=25/11/26/1415217&amp;from=rss)
 * [2025-11-30, 06:53:00](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss) - [Horse Virus EHV-1 Outbreak Spreads to Eight Texas Counties: Two Horses Have Died](https://soylentnews.org/article.pl?sid=25/11/25/1521238&amp;from=rss)
