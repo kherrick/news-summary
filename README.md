@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Challenges
+## Technology and Innovation
 
-* [Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss) - Dell leads with Linux in its latest Qualcomm NPU laptop, highlighting the advancements being made to prioritize open-source operating systems.
+* [Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss) - Dell introduces a groundbreaking Linux laptop powered by Qualcomm Neural Processing Units, showcasing its commitment to the Linux ecosystem.
 
-* [Plane Crashed After 3D-Printed Part Collapsed](https://hardware.slashdot.org/story/25/12/04/2125206/plane-crashed-after-3d-printed-part-collapsed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cautionary tale involving a failed 3D-printed part raises concerns about reliability and safety measures in manufacturing.
+* [RoboCop Statue Rises In Detroit](https://entertainment.slashdot.org/story/25/12/04/2211225/robocop-statue-rises-in-detroit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Detroit celebrates its cinematic icon with the unveiling of a RoboCop statue.
 
-* [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/) - Fairphone takes a step toward increased transparency and innovation by open-sourcing their software for recent phone models.
+* [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS) - StardustOS offers a new take on lightweight unikernel operating system design.
 
-* [AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80) - Netflix’s adoption of the AV1 codec demonstrates advances in streaming efficiency and user experience enhancement.
+* [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure) - The concept of Functional Quadtrees is explored in detail, providing a unique perspective for developers.
 
-## Security and Data Privacy
+* [Multivox: Volumetric Display](https://github.com/AncientJames/multivox) - Learn about Multivox, an innovative approach to displaying volumetric data.
 
-* [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/) - Modern clickjacking techniques targeting SVG graphics emerge as new threats in the cybersecurity landscape.
+* [PGlite - Embeddable Postgres](https://pglite.dev/) - Discover PGlite, designed for lightweight and embeddable PostgreSQL instances.
 
-* [Microsoft Faces New Complaint For Unlawfully Processing Data On Behalf of Israeli Military](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft finds itself under scrutiny again for controversial data handling practices.
+* [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Ghostty transitions to a non-profit model, signaling a shift in priorities for its development.
 
-* [Battle with SMS phishing: SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) - Cybercriminals refocus their phishing campaigns with novel schemes targeting end-user incentives.
+## Artificial Intelligence
 
-* [End-To-End Encrypted&apos; Smart Toilet Camera Is Not Actually End-To-End Encrypted](https://it.slashdot.org/story/25/12/04/0436234/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Lax privacy features in unexpected devices highlight the continued challenges of IoT security.
+* [US Probes Reports Waymo Self-Driving Cars Illegally Passed School Buses 19 Times](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Waymo's self-driving cars come under regulatory scrutiny for bypassing school buses.
 
-## Artificial Intelligence Developments
+* [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai) - A groundbreaking study analyzing trends and usage in AI models is released.
 
-* [US Probes Reports Waymo Self-Driving Cars Illegally Passed School Buses 19 Times](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A regulatory investigation raises questions about self-driving technology’s maturity and safety.
+* [Microsoft Faces New Complaint For Unlawfully Processing Data On Behalf of Israeli Military](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations surface against Microsoft concerning data handling practices.
 
-* [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai) - A detailed study explores the performance of AI models working across massive datasets.
+* [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months) - Explore how language models fared in managing stock trading portfolios.
 
-* [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months) - Testing AIs' aptitude for handling real-world, high-stakes financial trading scenarios.
+* [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - Ethical questions arise as mind-reading technologies improve accuracy.
 
-## Corporate and Industry News
+## Politics and Regulation
 
-* [EU Hits Meta With Antitrust Probe Over Plans To Block AI Rivals From WhatsApp](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta faces scrutiny over allegations that its behavior undermines competition within the AI sector.
+* [Republicans Drop Trump-Ordered Block On State AI Laws From Defense Bill](https://politics.slashdot.org/story/25/12/04/2228233/republicans-drop-trump-ordered-block-on-state-ai-laws-from-defense-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI regulation gains momentum as Republicans remove a federal block in a landmark defense bill.
 
-* [Bending Spoons Buys Eventbrite For $500 Million](https://news.slashdot.org/story/25/12/04/1751254/bending-spoons-buys-eventbrite-for-500-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A notable acquisition reshapes the tech landscape related to event management platforms.
+* [EU Hits Meta With Antitrust Probe Over Plans To Block AI Rivals From WhatsApp](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta faces legal pressures over alleged anti-competitive practices involving its messaging platform.
+
+* [Russia Blocks Roblox, Apple&apos;s FaceTime](https://yro.slashdot.org/story/25/12/04/186254/russia-blocks-roblox-apples-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Russian authorities block popular digital platforms, citing unspecified concerns.
+
+## Cutting-Edge Science
+
+* [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - A quirky study highlights ethical behavior changes observed under fictional character influences.
+
+* [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - Unique life forms spark new clues into prehistoric timelines.
+
+* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - Urgent warning issued on the accelerating pace of climate dynamics in mountainous regions.
 
 ---
 
@@ -59,22 +69,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-05, 03:33:00](https://politics.slashdot.org/story/25/12/04/2228233/republicans-drop-trump-ordered-block-on-state-ai-laws-from-defense-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Republicans Drop Trump-Ordered Block On State AI Laws From Defense Bill](https://politics.slashdot.org/story/25/12/04/2228233/republicans-drop-trump-ordered-block-on-state-ai-laws-from-defense-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-05, 02:41:30](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks) - [Lobsters Interview with Aks](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks)
+* [2025-12-05, 02:02:00](https://entertainment.slashdot.org/story/25/12/04/2211225/robocop-statue-rises-in-detroit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [RoboCop Statue Rises In Detroit](https://entertainment.slashdot.org/story/25/12/04/2211225/robocop-statue-rises-in-detroit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-05, 01:39:24](https://news.ycombinator.com/item?id=46155868) - [How Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
 * [2025-12-05, 01:24:00](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss) - [Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss)
-* [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: When EU engineering becomes a synonym for \&quot;unrepairable\&quot; (EV Clinic)](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
+* [2025-12-05, 01:15:42](https://news.ycombinator.com/item?id=46155701) - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
+* [2025-12-05, 01:05:57](https://news.ycombinator.com/item?id=46155619) - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
 * [2025-12-05, 01:01:00](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Probes Reports Waymo Self-Driving Cars Illegally Passed School Buses 19 Times](https://tech.slashdot.org/story/25/12/04/2158221/us-probes-reports-waymo-self-driving-cars-illegally-passed-school-buses-19-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 00:41:08](https://news.ycombinator.com/item?id=46155401) - [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
-* [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
+* [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [AV1: A Modern, Open Codec](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-05, 00:03:36](https://news.ycombinator.com/item?id=46155085) - [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-05, 00:00:00](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Faces New Complaint For Unlawfully Processing Data On Behalf of Israeli Military](https://yro.slashdot.org/story/25/12/04/2153226/microsoft-faces-new-complaint-for-unlawfully-processing-data-on-behalf-of-israeli-military?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-04, 23:43:47](https://news.ycombinator.com/item?id=46154892) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
 * [2025-12-04, 23:23:00](https://hardware.slashdot.org/story/25/12/04/2125206/plane-crashed-after-3d-printed-part-collapsed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Plane Crashed After 3D-Printed Part Collapsed](https://hardware.slashdot.org/story/25/12/04/2125206/plane-crashed-after-3d-printed-part-collapsed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-04, 23:19:14](https://lobste.rs/s/cbyhwk/this_month_redox_november_2025) - [This Month in Redox - November 2025](https://www.redox-os.org/news/this-month-251130/)
 * [2025-12-04, 23:08:25](https://news.ycombinator.com/item?id=46154491) - [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
-* [2025-12-04, 23:08:07](https://news.ycombinator.com/item?id=46154484) - [SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 * [2025-12-04, 22:56:08](https://news.ycombinator.com/item?id=46154344) - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
 * [2025-12-04, 22:26:43](https://news.ycombinator.com/item?id=46154022) - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 * [2025-12-04, 22:22:00](https://yro.slashdot.org/story/25/12/04/186254/russia-blocks-roblox-apples-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Blocks Roblox, Apple&apos;s FaceTime](https://yro.slashdot.org/story/25/12/04/186254/russia-blocks-roblox-apples-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-04, 22:20:47](https://lobste.rs/s/d5jx09/what_is_package_manager) - [What is a Package Manager?](https://nesbitt.io/2025/12/02/what-is-a-package-manager.html)
 * [2025-12-04, 21:46:54](https://lobste.rs/s/x7glis/jujutsu_v0_36_0_released) - [jujutsu v0.36.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.36.0)
 * [2025-12-04, 21:40:24](https://news.ycombinator.com/item?id=46153466) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
+* [2025-12-04, 21:23:56](https://lobste.rs/s/7saw1o/8086_microcode_explorer) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 21:21:00](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Hits Meta With Antitrust Probe Over Plans To Block AI Rivals From WhatsApp](https://yro.slashdot.org/story/25/12/04/181250/eu-hits-meta-with-antitrust-probe-over-plans-to-block-ai-rivals-from-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 21:12:03](https://lobste.rs/s/xisyov/what_is_better_lookup_table_enum_type) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
 * [2025-12-04, 21:09:56](https://news.ycombinator.com/item?id=46153116) - [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/)
@@ -86,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 20:20:00](https://news.slashdot.org/story/25/12/04/1751254/bending-spoons-buys-eventbrite-for-500-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bending Spoons Buys Eventbrite For $500 Million](https://news.slashdot.org/story/25/12/04/1751254/bending-spoons-buys-eventbrite-for-500-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 20:04:42](https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile) - [bcachefs 1.33.0 - reconcile](https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/)
-* [2025-12-04, 19:58:39](https://lobste.rs/s/asnk6f/rsync_net_technical_notes_q4) - [rsync.net technical notes Q4](https://www.rsync.net/resources/notes/2025-q4-rsync.net_technotes.html)
 * [2025-12-04, 19:19:00](https://it.slashdot.org/story/25/12/04/1744255/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft &apos;Mitigates&apos; Windows LNK Flaw Exploited As Zero-Day](https://it.slashdot.org/story/25/12/04/1744255/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 19:18:10](https://lobste.rs/s/ojl8fn/why_ed_1) - [Why ed(1)?](https://blog.thechases.com/posts/cli/why-ed1/)
 * [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
@@ -97,11 +112,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-04, 17:07:08](https://lobste.rs/s/ud9u0e/functional_quadtrees) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 17:00:37](https://news.ycombinator.com/item?id=46149849) - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
 * [2025-12-04, 16:58:35](https://news.ycombinator.com/item?id=46149813) - [Multivox: Volumetric Display](https://github.com/AncientJames/multivox)
-* [2025-12-04, 16:52:56](https://news.ycombinator.com/item?id=46149727) - [Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing](https://www.browserbuddy.com/)
 * [2025-12-04, 16:25:31](https://news.ycombinator.com/item?id=46149375) - [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition)
 * [2025-12-04, 16:20:11](https://lobste.rs/s/u0k1h6/django_6_0_released) - [Django 6.0 released](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
 * [2025-12-04, 16:16:00](https://tech.slashdot.org/story/25/12/04/0534222/subaru-owners-are-ticked-about-in-car-pop-up-ads-for-siriusxm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Subaru Owners Are Ticked About In-Car Pop-Up Ads For SiriusXM](https://tech.slashdot.org/story/25/12/04/0534222/subaru-owners-are-ticked-about-in-car-pop-up-ads-for-siriusxm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-04, 16:03:02](https://news.ycombinator.com/item?id=46149066) - [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 * [2025-12-04, 15:58:18](https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug) - [Hunting a production-only proxy bug in SvelteKit](https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/)
 * [2025-12-04, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/03/1244208&amp;from=rss) - [Google&apos;s Gemini 3 Jailbroken in Minutes, and the Fallout is Alarming](https://soylentnews.org/article.pl?sid=25/12/03/1244208&amp;from=rss)
 * [2025-12-04, 15:15:00](https://tech.slashdot.org/story/25/12/04/057208/meta-poaches-apple-design-exec-alan-dye?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Poaches Apple Design Exec Alan Dye](https://tech.slashdot.org/story/25/12/04/057208/meta-poaches-apple-design-exec-alan-dye?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,15 +130,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 11:33:55](https://lobste.rs/s/abxtov/pglite_embeddable_postgres) - [PGlite - Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss)
-* [2025-12-04, 10:58:11](https://lobste.rs/s/dvhbwp/walrus_high_performance_distributed_log) - [walrus (High Performance distributed log streaming engine)](https://github.com/nubskr/walrus)
 * [2025-12-04, 10:52:42](https://news.ycombinator.com/item?id=46146133) - [PGlite – Embeddable Postgres](https://pglite.dev/)
 * [2025-12-04, 10:42:13](https://lobste.rs/s/z8gyu7/on_recreating_lost_sdk_for_42_year_old) - [On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md)
 * [2025-12-04, 10:32:26](https://lobste.rs/s/psmwt9/human_writes_font) - [The Human Writes Font](https://humanwritesfont.com/)
-* [2025-12-04, 10:10:00](https://news.slashdot.org/story/25/12/04/0430227/top-journal-retracts-study-predicting-catastrophic-climate-toll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top Journal Retracts Study Predicting Catastrophic Climate Toll](https://news.slashdot.org/story/25/12/04/0430227/top-journal-retracts-study-predicting-catastrophic-climate-toll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 09:01:55](https://news.ycombinator.com/item?id=46145365) - [It’s time to free JavaScript (2024)](https://javascript.tm/letter)
 * [2025-12-04, 08:38:17](https://news.ycombinator.com/item?id=46145180) - [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047)
 * [2025-12-04, 07:52:53](https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released) - [SWI-Prolog 10.0.0 released](https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412)
-* [2025-12-04, 07:07:00](https://slashdot.org/story/25/12/03/2348233/russian-astronaut-kicked-out-of-the-us-for-stealing-proprietary-spacex-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Astronaut Kicked Out of the US For Stealing Proprietary SpaceX Designs](https://slashdot.org/story/25/12/03/2348233/russian-astronaut-kicked-out-of-the-us-for-stealing-proprietary-spacex-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-04, 06:44:38](https://lobste.rs/s/0ujeoo/super_flat_asts) - [Super-flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 06:17:00](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss) - [Flock Uses Overseas Gig Workers to Build its Surveillance AI](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss)
 * [2025-12-04, 05:32:10](https://lobste.rs/s/feeb0w/foreign_dlopen_call_dlopen_from_static) - [foreign-dlopen: call dlopen from static programs](https://github.com/pfalcon/foreign-dlopen/)
@@ -139,7 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss)
-* [2025-12-02, 15:23:57](https://news.ycombinator.com/item?id=46122114) - [Some models of reality are bolder than others](https://cjauvin.github.io/posts/metaphysical-boldness/)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss)
 * [2025-12-02, 06:57:00](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss) - [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss)
