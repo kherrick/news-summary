@@ -1,42 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Developments
+## Technology and Computing
 
-* [AI Led To an Increase In Radiologists, Not a Decrease](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration of how AI in radiology augmented the workforce instead of reducing it.
+* [Albert Michelson's Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf) - A detailed exploration of Michelson's invention, showcasing its application in understanding harmonic motion and Fourier analysis. [Comments](https://news.ycombinator.com/item?id=46170332)
 
-* [Google's Gemini 3 Jailbroken in Minutes, and the Fallout is Alarming](https://soylentnews.org/article.pl?sid=25/12/03/1244208&from=rss) - Concerns arise after Google's advanced AI is quickly compromised.
+* [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html) - A thoughtful argument on how technical challenges often stem from human dynamics, not purely technical hurdles. [Comments](https://news.ycombinator.com/item?id=46160773)
 
-* [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&from=rss) - Ethical implications of devices predicting preconscious thoughts.
+* [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes) - An uncovering of undocumented opcodes and behaviors in the 65XX microprocessor, essential for retro-computing enthusiasts. [Comments](https://news.ycombinator.com/item?id=46169330)
 
-* [Netflix To Buy Warner Bros. In $72 Billion Cash, Stock Deal](https://entertainment.slashdot.org/story/25/12/05/1728256/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A massive entertainment industry deal with major implications.
+* [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading) - An initiative to address JavaScript's inadequacies in multithreading through emerging tools. [Comments](https://news.ycombinator.com/item?id=46167349)
 
-* [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&from=rss) - Possible AI chip collaboration between two tech giants.
+## Artificial Intelligence
 
-## Cybersecurity Incidents and Hacks
+* [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/) - A service for checking surveillance via automated license plate readers that impact privacy. [Comments](https://news.ycombinator.com/item?id=46170302)
 
-* [Chinese-Linked Hackers Use Backdoor For Potential 'Sabotage,' US and Canada Say](https://it.slashdot.org/story/25/12/05/2135231/chinese-linked-hackers-use-backdoor-for-potential-sabotage-us-and-canada-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigations detail potential sabotage via sophisticated backdoor.
+* [OpenAI Has Trained Its LLM To Confess To Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold step into intelligent transparency where AI systems acknowledge actions. [Comments](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Google 'Looking into' Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/) - Users face irreversible lockouts, raising concerns.
+* [Cloudflare Says It Blocked 416 Billion AI Scraping Requests In 5 Months](https://tech.slashdot.org/story/25/12/05/1940241/cloudflare-says-it-blocked-416-billion-ai-scraping-requests-in-5-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the combat against unwanted AI-driven web scraping. [Comments](https://news.ycombinator.com/item?id=46166708)
 
-* [Contractors With Hacking Records Accused of Wiping 96 Government Databases](https://yro.slashdot.org/story/25/12/05/0251201/contractors-with-hacking-records-accused-of-wiping-96-government-databases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Contractors accused of massive government-level cyber sabotage.
+## Science and Innovation
 
-## Engineering and Software Innovations
+* [Blackest Fabric Ever Made Absorbs 99.87% of All Light That Hits It](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Introducing groundbreaking fabric that offers extreme light absorption capabilities. [Comments](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [ARM's barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm) - Delving into efficient computations with ARM's design.
+## Corporate and Policy Developments
 
-* [Eventual Rust in CPython](https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/) - Future of Python powered by Rust components.
+* [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724) - A significant penalty reflecting regulatory adherence in big tech. [Comments](https://news.ycombinator.com/item?id=46170027)
 
-* [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading) - Addressing gaps in language standards for modern applications.
+* [Trump Wants Asia's 'Cute' Kei Cars To Be Made and Sold In US](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A potential cross-continental vehicular shift spurred by U.S. political interest. [Comments](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) - Techniques to improve reliability in Rust development.
+* [Netflix To Buy Warner Bros. In $72 Billion Cash, Stock Deal](https://entertainment.slashdot.org/story/25/12/05/1728256/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - High-stakes acquisitions that could reshape media industries. [Comments](https://entertainment.slashdot.org/story/25/12/05/1728256/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Cultural and Industry Impact
+## Engineering and Novel Hacks
 
-* [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno) - Celebrating the life and legacy of an iconic architect.
+* [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/) - A detailed breakdown of how a basic command defeated advanced software protection. [Comments](https://news.ycombinator.com/item?id=46170060)
 
-* [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/) - Disparities highlighted in pharmaceutical pricing.
+* [ARM's barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm) - Reveals advanced ARM processor techniques to optimize computing. [Comments](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks)
 
-* [AI Chatbots Can Sway Voters Better Than Political Ads](https://politics.slashdot.org/story/25/12/05/0141235/ai-chatbots-can-sway-voters-better-than-political-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining how digital tools reshape political influence.
+## Cultural and Design Legacies
+
+* [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno) - Remembering the iconic architect and his unparalleled contributions. [Comments](https://news.ycombinator.com/item?id=46167621)
 
 ---
 
@@ -63,27 +65,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-06, 03:21:46](https://news.ycombinator.com/item?id=46170332) - [Albert Michelson&apos;s Harmonic Analyzer [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
+* [2025-12-06, 03:16:35](https://news.ycombinator.com/item?id=46170302) - [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/)
+* [2025-12-06, 03:03:00](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Has Trained Its LLM To Confess To Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-06, 02:37:58](https://news.ycombinator.com/item?id=46170060) - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
+* [2025-12-06, 02:32:01](https://news.ycombinator.com/item?id=46170027) - [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
+* [2025-12-06, 02:12:00](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss) - [Raspberry Pi Launches 1GB Model at $45, Temporarily Raises Prices on Higher-Capacity Boards](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss)
+* [2025-12-06, 02:02:00](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blackest Fabric Ever Made Absorbs 99.87% of All Light That Hits It](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-06, 01:33:34](https://news.ycombinator.com/item?id=46169695) - [Waymo investigated for ongoing failures to stop for school busses](https://www.thestreet.com/technology/waymo-investigation-could-stop-autonomous-driving-in-its-tracks)
+* [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 * [2025-12-06, 01:01:00](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Led To an Increase In Radiologists, Not a Decrease](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-06, 00:24:55](https://news.ycombinator.com/item?id=46169224) - [Sam Altman&apos;s Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
+* [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions of the 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
 * [2025-12-06, 00:00:00](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Wants Asia&apos;s &apos;Cute&apos; Kei Cars To Be Made and Sold In US](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 23:51:21](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks) - [ARM&apos;s barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm)
 * [2025-12-05, 23:23:00](https://it.slashdot.org/story/25/12/05/2135231/chinese-linked-hackers-use-backdoor-for-potential-sabotage-us-and-canada-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese-Linked Hackers Use Backdoor For Potential &apos;Sabotage,&apos; US and Canada Say](https://it.slashdot.org/story/25/12/05/2135231/chinese-linked-hackers-use-backdoor-for-potential-sabotage-us-and-canada-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-05, 23:18:56](https://news.ycombinator.com/item?id=46168699) - [Google &apos;Looking into&apos; Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/)
 * [2025-12-05, 22:22:00](https://hardware.slashdot.org/story/25/12/05/2114250/meta-acquires-ai-wearable-company-limitless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Acquires AI Wearable Company Limitless](https://hardware.slashdot.org/story/25/12/05/2114250/meta-acquires-ai-wearable-company-limitless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 22:12:36](https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come) - [OSS Friday Update - The Shape of Ruby I/O to Come](https://noteflakes.com/articles/2025-12-05-friday-update)
 * [2025-12-05, 22:10:50](https://news.ycombinator.com/item?id=46168057) - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
 * [2025-12-05, 21:48:52](https://lobste.rs/s/cqruqw/path_mojo_1_0) - [The Path to Mojo 1.0](https://www.modular.com/blog/the-path-to-mojo-1-0)
 * [2025-12-05, 21:31:40](https://news.ycombinator.com/item?id=46167621) - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
-* [2025-12-05, 21:27:22](https://news.ycombinator.com/item?id=46167557) - [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
 * [2025-12-05, 21:27:04](https://news.ycombinator.com/item?id=46167552) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss) - [Supreme Court Hears Case That Could Trigger Big Crackdown on Internet Piracy](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss)
 * [2025-12-05, 21:23:03](https://news.ycombinator.com/item?id=46167500) - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 * [2025-12-05, 21:21:00](https://yro.slashdot.org/story/25/12/05/2110209/india-reviews-telecom-industry-proposal-for-always-on-satellite-location-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Reviews Telecom Industry Proposal For Always-On Satellite Location Tracking](https://yro.slashdot.org/story/25/12/05/2110209/india-reviews-telecom-industry-proposal-for-always-on-satellite-location-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
-* [2025-12-05, 20:42:04](https://news.ycombinator.com/item?id=46166994) - [Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case](https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/)
 * [2025-12-05, 20:20:00](https://yro.slashdot.org/story/25/12/05/2021202/the-new-york-times-is-suing-perplexity-for-copyright-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The New York Times Is Suing Perplexity For Copyright Infringement](https://yro.slashdot.org/story/25/12/05/2021202/the-new-york-times-is-suing-perplexity-for-copyright-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 20:18:22](https://news.ycombinator.com/item?id=46166708) - [Fizz Buzz in CSS](https://susam.net/fizz-buzz-in-css.html)
-* [2025-12-05, 20:03:21](https://news.ycombinator.com/item?id=46166536) - [Framework Sponsors CachyOS](https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376)
 * [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
 * [2025-12-05, 19:19:00](https://tech.slashdot.org/story/25/12/05/1940241/cloudflare-says-it-blocked-416-billion-ai-scraping-requests-in-5-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Says It Blocked 416 Billion AI Scraping Requests In 5 Months](https://tech.slashdot.org/story/25/12/05/1940241/cloudflare-says-it-blocked-416-billion-ai-scraping-requests-in-5-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
@@ -114,9 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-05, 11:12:00](https://lobste.rs/s/lm8vm2/lisp_style_design) - [LISP Style &amp; Design](https://archive.org/details/miller-and-benson-1990-lisp-style-design)
 * [2025-12-05, 10:54:28](https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend)
 * [2025-12-05, 10:54:00](https://soylentnews.org/article.pl?sid=25/12/03/178224&amp;from=rss) - [Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall](https://soylentnews.org/article.pl?sid=25/12/03/178224&amp;from=rss)
-* [2025-12-05, 10:10:00](https://news.slashdot.org/story/25/12/05/0135228/satellite-captures-the-first-detailed-look-at-a-massive-tsunami?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Satellite Captures the First Detailed Look At a Massive Tsunami](https://news.slashdot.org/story/25/12/05/0135228/satellite-captures-the-first-detailed-look-at-a-massive-tsunami?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-05, 07:07:00](https://science.slashdot.org/story/25/12/04/2237242/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sugars, &apos;Gum,&apos; Stardust Found In NASA&apos;s Asteroid Bennu Samples](https://science.slashdot.org/story/25/12/04/2237242/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-05, 07:06:38](https://news.ycombinator.com/item?id=46157594) - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
 * [2025-12-05, 06:01:00](https://soylentnews.org/article.pl?sid=25/12/03/173255&amp;from=rss) - [Space CEO Explains Why He Believes Private Space Stations Are a Viable Business](https://soylentnews.org/article.pl?sid=25/12/03/173255&amp;from=rss)
 * [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
 * [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
@@ -132,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-04, 14:04:13](https://lobste.rs/s/omnyrf/svg_filters_clickjacking_2_0) - [SVG Filters - Clickjacking 2.0](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss)
-* [2025-12-04, 07:35:10](https://news.ycombinator.com/item?id=46144801) - [Show HN: Kraa – Writing App for Everything](https://kraa.io/about)
 * [2025-12-04, 06:17:00](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss) - [Flock Uses Overseas Gig Workers to Build its Surveillance AI](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss)
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss)
 * [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&amp;D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss)
@@ -141,12 +144,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
 * [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
-* [2025-12-02, 22:25:19](https://news.ycombinator.com/item?id=46127787) - [Why are your models so big? (2023)](https://pawa.lt/braindump/tiny-models/)
+* [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \&quot;The Simpsons\&quot; Screencaps](https://frinkiac.com/)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss)
+* [2025-12-02, 14:02:44](https://news.ycombinator.com/item?id=46121251) - [Spectral rendering, part 3: Spectral vs. RGB](https://momentsingraphics.de/SpectralRendering3Results.html)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss)
-* [2025-12-02, 08:33:52](https://news.ycombinator.com/item?id=46118986) - [Compassionate Curmudgeon: Why we must root ourselves in the real world](https://theamericanscholar.org/compassionate-curmudgeon/)
 * [2025-12-02, 06:57:00](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss) - [Billion-Dollar AI Chip Deal Between Google and Meta Could be on the Cards](https://soylentnews.org/article.pl?sid=25/12/01/0350249&amp;from=rss)
 * [2025-12-02, 02:09:00](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss) - [Ukraine First Country in Europe to Get Starlink Satellite Phone Service](https://soylentnews.org/article.pl?sid=25/12/01/0343223&amp;from=rss)
-* [2025-12-02, 00:39:41](https://news.ycombinator.com/item?id=46115758) - [Nimony (Nim 3.0) Design Principles](https://nim-lang.org/araq/nimony.html)
