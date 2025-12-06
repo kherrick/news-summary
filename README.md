@@ -1,40 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Advent of Code Tools and Programming Innovations
 
-* [Let’s Encrypt to Reduce Certificate Validity From 90 Days to 45 Days](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss) - An announcement from Let’s Encrypt could significantly impact web security practices by tightening certificate validity, paving the way for accelerated renewal systems. [Comments](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss).
+* [I built a tiny RSS generator for my Advent of Code solutions](https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/) ([comments](https://lobste.rs/s/sow4fy/i_built_tiny_rss_generator_for_my_advent))
 
-* [Meta Confirms 'Shifting Some' Funding 'From Metaverse Toward AI Glasses'](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta redirects resources to focus on a cutting-edge tech evolution, AI-powered glasses, hinting at changes in strategic emphasis. [Comments](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Flow Control: a programmer's text editor](https://flow-control.dev) ([comments](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor))
 
-* [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&amp;proj=27.%20rePalm#pixter) - A hacker's fascinating exploration adapts the PalmOS system for use on a vintage FisherPrice toy, blending retro-tech with creativity. [Comments](https://news.ycombinator.com/item?id=46170309).
+* [ARM's barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm) ([comments](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks))
 
-* [Blackest Fabric Ever Made Absorbs 99.87% of All Light That Hits It](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discover the groundbreaking material innovation capable of extreme light absorption. [Comments](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Typewriter plotters](https://biosrhythm.com/?p=2143) ([comments](https://lobste.rs/s/nux2xg/typewriter_plotters))
 
-## Employment and Work Culture
+## AI and Technology Advancements
 
-* [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html) - Insights from a top engineer reflecting on a career change, providing a unique lens into industry transitions. [Comments](https://lobste.rs/s/ccin4h/leaving_intel).
+* [The AI Boom Could Increase Prices for Phones and Tablets Next Year](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Infracost (YC W21) is hiring Sr Node Engineer to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js) - A rare hiring opportunity aiming to transform cloud expenditure infrastructure. [Comments](https://news.ycombinator.com/item?id=46171311).
+* [Meta Confirms 'Shifting Some' Funding 'From Metaverse Toward AI Glasses'](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Programming and Software Development
+* [CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones](https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis) ([comments](https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis))
 
-* [Flow Control: a programmer's text editor](https://flow-control.dev) - Explore the design philosophy behind a new text editor tailored for developers. [Comments](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor).
+* [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading) ([comments](https://news.ycombinator.com/item?id=46167349))
 
-* [Why We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig) - Developers discuss the strategic decision to build their project in the niche programming language, Zig. [Comments](https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig).
+## Cybersecurity and Hidden Issues
 
-* [What’s the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp) - A reflection on the relevance and advantages of functional programming concepts. [Comments](https://lobste.rs/s/dljowr/what_s_point_learning_functional).
+* [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/) ([comments](https://news.ycombinator.com/item?id=46173383))
 
-## Artificial Intelligence
+* [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/) ([comments](https://news.ycombinator.com/item?id=46170302))
 
-* [OpenAI Has Trained Its LLM to Confess to Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A bold step by OpenAI potentially shaking up how AI interactions are perceived. [Comments](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Chinese-Linked Hackers Use Backdoor For Potential 'Sabotage,' US and Canada Say](https://it.slashdot.org/story/25/12/05/2135231/chinese-linked-hackers-use-backdoor-for-potential-sabotage-us-and-canada-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/12/05/2135231/chinese-linked-hackers-use-backdoor-for-potential-sabotage-us-and-canada-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [AI Led To an Increase in Radiologists, Not a Decrease](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Contrary to popular fears, AI innovation bolsters rather than diminishes the medical workforce. [Comments](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Hardware Developments
 
-## Unusual Stories
+* [After Nearly 30 Years, Crucial Will Stop Selling RAM to Consumers](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss))
 
-* [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/) - A startling account highlighting the unexpected psychological effects of smart devices. [Comments](https://news.ycombinator.com/item?id=46171425).
+* [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html) ([comments](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor))
 
-* [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/) - A unique tool providing insights into vehicle surveillance trends. [Comments](https://news.ycombinator.com/item?id=46170302).
+## Education, Research, and Ethical Reflection
+
+* [What's the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp) ([comments](https://lobste.rs/s/dljowr/what_s_point_learning_functional))
+
+* [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html) ([comments](https://news.ycombinator.com/item?id=46173825))
 
 ---
 
@@ -61,9 +65,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-06, 15:53:49](https://lobste.rs/s/sow4fy/i_built_tiny_rss_generator_for_my_advent) - [I built a tiny RSS generator for my Advent of Code solutions](https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/)
+* [2025-12-06, 15:34:00](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI Boom Could Increase Prices for Phones and Tablets Next Year](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
+* [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
+* [2025-12-06, 13:54:59](https://news.ycombinator.com/item?id=46173383) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
+* [2025-12-06, 13:13:00](https://linux.slashdot.org/story/25/12/06/0155255/linus-torvalds-defends-windows-blue-screen-of-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds Defends Windows&apos; Blue Screen of Death](https://linux.slashdot.org/story/25/12/06/0155255/linus-torvalds-defends-windows-blue-screen-of-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-06, 12:46:42](https://news.ycombinator.com/item?id=46172902) - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+* [2025-12-06, 12:29:28](https://news.ycombinator.com/item?id=46172797) - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 * [2025-12-06, 11:41:00](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss) - [Let’s Encrypt to Reduce Certificate Validity From 90 Days to 45 Days](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss)
-* [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism&apos;s Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
-* [2025-12-06, 10:53:56](https://news.ycombinator.com/item?id=46172312) - [How America&apos;s \&quot;truck-driver shortage\&quot; made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
+* [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism&apos;s confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
+* [2025-12-06, 10:46:37](https://lobste.rs/s/ly8qtt/what_is_modal) - [What is Modal?](https://modal.cx/blog/what-is-modal/)
+* [2025-12-06, 10:20:19](https://news.ycombinator.com/item?id=46172167) - [Linux Instal Fest Belgrade](https://dmz.rs/lif2025_en)
 * [2025-12-06, 10:10:00](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Rage Bait&apos; Named Oxford Word of the Year 2025](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer&apos;s text editor](https://flow-control.dev)
 * [2025-12-06, 07:31:07](https://news.ycombinator.com/item?id=46171425) - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
@@ -71,6 +84,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-06, 07:07:00](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Confirms &apos;Shifting Some&apos; Funding &apos;From Metaverse Toward AI Glasses&apos;](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 07:00:14](https://news.ycombinator.com/item?id=46171311) - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 * [2025-12-06, 06:53:00](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss) - [After Nearly 30 Years, Crucial Will Stop Selling RAM to Consumers](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss)
+* [2025-12-06, 06:10:26](https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis) - [CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones](https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What&apos;s the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
@@ -79,10 +93,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-06, 03:03:00](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Has Trained Its LLM To Confess To Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 02:12:00](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss) - [Raspberry Pi Launches 1GB Model at $45, Temporarily Raises Prices on Higher-Capacity Boards](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss)
 * [2025-12-06, 02:02:00](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blackest Fabric Ever Made Absorbs 99.87% of All Light That Hits It](https://science.slashdot.org/story/25/12/05/2228219/blackest-fabric-ever-made-absorbs-9987-of-all-light-that-hits-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-06, 01:15:48](https://news.ycombinator.com/item?id=46169554) - [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 * [2025-12-06, 01:01:00](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Led To an Increase In Radiologists, Not a Decrease](https://science.slashdot.org/story/25/12/05/2217255/ai-led-to-an-increase-in-radiologists-not-a-decrease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 00:53:11](https://lobste.rs/s/hvjedk/reminder_about_framework_laptop) - [Reminder about Framework Laptop](https://community.frame.work/t/framework-supporting-far-right-racists/75986)
-* [2025-12-06, 00:38:50](https://news.ycombinator.com/item?id=46169330) - [Extra Instructions Of The 65XX Series CPU (1996)](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes)
 * [2025-12-06, 00:10:43](https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig) - [Why We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
 * [2025-12-06, 00:00:00](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Wants Asia&apos;s &apos;Cute&apos; Kei Cars To Be Made and Sold In US](https://tech.slashdot.org/story/25/12/05/221241/trump-wants-asias-cute-kei-cars-to-be-made-and-sold-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 23:51:21](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks) - [ARM&apos;s barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm)
@@ -97,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-05, 21:09:11](https://news.ycombinator.com/item?id=46167349) - [The missing standard library for multithreading in JavaScript](https://github.com/W4G1/multithreading)
 * [2025-12-05, 20:20:00](https://yro.slashdot.org/story/25/12/05/2021202/the-new-york-times-is-suing-perplexity-for-copyright-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The New York Times Is Suing Perplexity For Copyright Infringement](https://yro.slashdot.org/story/25/12/05/2021202/the-new-york-times-is-suing-perplexity-for-copyright-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
-* [2025-12-05, 19:41:33](https://lobste.rs/s/mxujt7/picking_optimal_token_ids) - [Picking Optimal Token IDs](https://notes.hella.cheap/picking-optimal-token-ids.html)
 * [2025-12-05, 19:19:00](https://tech.slashdot.org/story/25/12/05/1940241/cloudflare-says-it-blocked-416-billion-ai-scraping-requests-in-5-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Says It Blocked 416 Billion AI Scraping Requests In 5 Months](https://tech.slashdot.org/story/25/12/05/1940241/cloudflare-says-it-blocked-416-billion-ai-scraping-requests-in-5-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 18:18:00](https://entertainment.slashdot.org/story/25/12/05/1728256/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix To Buy Warner Bros. In $72 Billion Cash, Stock Deal](https://entertainment.slashdot.org/story/25/12/05/1728256/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,12 +117,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-05, 17:05:27](https://lobste.rs/s/jjkbno/eventual_rust_cpython) - [Eventual Rust in CPython](https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/)
 * [2025-12-05, 16:38:03](https://lobste.rs/s/brah61/when_square_pixels_aren_t_square) - [When square pixels aren’t square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-05, 16:34:25](https://news.ycombinator.com/item?id=46163609) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
-* [2025-12-05, 16:16:00](https://news.slashdot.org/story/25/12/05/031249/quicktime-turns-34?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [QuickTime Turns 34](https://news.slashdot.org/story/25/12/05/031249/quicktime-turns-34?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 16:15:10](https://news.ycombinator.com/item?id=46163308) - [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)
-* [2025-12-05, 16:04:20](https://news.ycombinator.com/item?id=46163121) - [I&apos;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=46163121)
 * [2025-12-05, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/03/1710234&amp;from=rss) - [Oracle&apos;s Credit Risk is Spiking as Wall Street Asks How It&apos;s Going to Pay for All That AI](https://soylentnews.org/article.pl?sid=25/12/03/1710234&amp;from=rss)
 * [2025-12-05, 15:35:43](https://news.ycombinator.com/item?id=46162656) - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-* [2025-12-05, 15:15:00](https://yro.slashdot.org/story/25/12/05/0251201/contractors-with-hacking-records-accused-of-wiping-96-government-databases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Contractors With Hacking Records Accused of Wiping 96 Government Databases](https://yro.slashdot.org/story/25/12/05/0251201/contractors-with-hacking-records-accused-of-wiping-96-government-databases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-05, 15:07:51](https://lobste.rs/s/nux2xg/typewriter_plotters) - [Typewriter plotters](https://biosrhythm.com/?p=2143)
 * [2025-12-05, 13:02:50](https://lobste.rs/s/gv0fzl/golang_s_big_miss_on_memory_arenas) - [Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
 * [2025-12-05, 12:43:01](https://lobste.rs/s/gdtbbh/performance_revolution_javascript) - [The Performance Revolution in JavaScript Tooling](https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html)
@@ -125,24 +133,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-05, 00:09:57](https://news.ycombinator.com/item?id=46155135) - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
 * [2025-12-04, 20:42:00](https://soylentnews.org/article.pl?sid=25/12/03/1255251&amp;from=rss) - [Netflix Quietly Drops Support for Casting to Most TVs](https://soylentnews.org/article.pl?sid=25/12/03/1255251&amp;from=rss)
-* [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 15:53:00](https://soylentnews.org/article.pl?sid=25/12/03/1244208&amp;from=rss) - [Google&apos;s Gemini 3 Jailbroken in Minutes, and the Fallout is Alarming](https://soylentnews.org/article.pl?sid=25/12/03/1244208&amp;from=rss)
-* [2025-12-04, 14:04:13](https://lobste.rs/s/omnyrf/svg_filters_clickjacking_2_0) - [SVG Filters - Clickjacking 2.0](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 * [2025-12-04, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=25/12/03/0225225&amp;from=rss)
 * [2025-12-04, 06:17:00](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss) - [Flock Uses Overseas Gig Workers to Build its Surveillance AI](https://soylentnews.org/article.pl?sid=25/12/03/0223207&amp;from=rss)
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss)
 * [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&amp;D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss)
-* [2025-12-03, 16:02:29](https://news.ycombinator.com/item?id=46136059) - [Guy Built a Compact Camera Using an Optical Mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
+* [2025-12-03, 16:02:29](https://news.ycombinator.com/item?id=46136059) - [A compact camera built using an optical mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
 * [2025-12-03, 16:02:00](https://soylentnews.org/article.pl?sid=25/12/01/0724224&amp;from=rss) - [openSUSE Tumbleweed to update GRUB package and enable full disk encryption](https://soylentnews.org/article.pl?sid=25/12/01/0724224&amp;from=rss)
 * [2025-12-03, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
-* [2025-12-03, 04:20:44](https://news.ycombinator.com/item?id=46130260) - [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/)
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
-* [2025-12-02, 23:13:54](https://news.ycombinator.com/item?id=46128238) - [Ivan Sutherland Sketchpad Demo 1963 [video]](https://www.youtube.com/watch?v=6orsmFndx_o)
 * [2025-12-02, 21:29:00](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss) - [Scientists Discover That People Act Way Better When Batman is Present](https://soylentnews.org/article.pl?sid=25/12/01/0713251&amp;from=rss)
 * [2025-12-02, 20:28:18](https://news.ycombinator.com/item?id=46126380) - [Frinkiac – 3M \&quot;The Simpsons\&quot; Screencaps](https://frinkiac.com/)
-* [2025-12-02, 17:09:44](https://news.ycombinator.com/item?id=46123518) - [PC-Man and the spark of childhood wonder](https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/)
+* [2025-12-02, 17:22:16](https://news.ycombinator.com/item?id=46123720) - [Kids who ran away to 1960s San Francisco](https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san)
 * [2025-12-02, 16:22:00](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss) - [Major Software Version Releases for Blender and Bottles](https://soylentnews.org/article.pl?sid=25/12/01/0413229&amp;from=rss)
 * [2025-12-02, 12:59:55](https://news.ycombinator.com/item?id=46120764) - [The Absent Silence (2010)](https://www.ursulakleguin.com/blog/3-the-absent-silence)
 * [2025-12-02, 11:40:00](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss) - [Mind-Reading Devices Can Now Predict Preconscious Thoughts: Is It Time to Worry?](https://soylentnews.org/article.pl?sid=25/12/01/043228&amp;from=rss)
