@@ -1,40 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming
+## Technology and Open Source Innovations
 
-* [The Wild West of Post-POSIX IO Interfaces](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces) - This video explores the chaotic nature of Post-POSIX IO system interfaces, providing a well-rounded insight into their complexities.
+* [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/) explores in-depth lock mechanics in PostgreSQL. [Comments](https://news.ycombinator.com/item?id=46182496)
 
-* [Structural inheritance doesn&apos;t work where you expect it to](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - A critical examination of structural inheritance in programming and its practical limitations.
+* [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html) showcases how a German state transitioned to open-source software. [Comments](https://news.ycombinator.com/item?id=46181491)
 
-* [Java Hello World, LLVM Edition](https://news.ycombinator.com/item?id=46181076) - Learn how Java’s traditional 'Hello World' program operates when compiled via LLVM, offering alternative compiler insights.
+* [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html) presents an unusual tool for converting Rust code into C. [Comments](https://news.ycombinator.com/item?id=46178442)
 
-* [Z2 – Lithographically fabricated IC in a garage fab](https://news.ycombinator.com/item?id=46178789) - A fascinating achievement in garage-based integrated circuit fabrication, showcasing the potential of at-home innovation.
+* [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) marks a milestone in independent Linux smartphones development. [Comments](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Science and Innovation
+* [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) explores the implementation of large language models at Oxide. [Comments](https://news.ycombinator.com/item?id=46178347)
 
-* [UW Nobel Winner&apos;s Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss) - This breakthrough tool paves the way for advancements in protein engineering, with immense applications in medicine and biology.
+## Programming and Development Insights
 
-* [Kilauea erupts, destroying webcam [video]](https://news.ycombinator.com/item?id=46177645) - Capturing the destructive beauty of nature as Hawaii's Kilauea volcano erupts.
+* [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/) delineates the internal workings of applications on macOS. [Comments](https://news.ycombinator.com/item?id=46181268)
 
-* [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - Newly discovered bright orange specimens may offer unique clues about prehistoric life and dinosaurs.
+* [KOllector - Publishing KOReader Highlights](https://tech.stonecharioteer.com/posts/2025/kollector/) details creating a tool to publish KOReader highlights efficiently. [Comments](https://lobste.rs/s/q8znua/kollector_publishing_koreader)
 
-## Society and Education
+* [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/) offers performance-boosting tips for websites. [Comments](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your)
 
-* [Many Privileged Students at US Universities are Getting Extra Time on Tests After &apos;Disability&apos; Diagnoses](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An analysis of the controversial trend of exploiting disability diagnoses for academic accommodations.
+* [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/) provides a unique perspective on website design. [Comments](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by)
 
-## Industry and Business
+* [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need) advocates for simplicity in web development styling. [Comments](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need)
 
-* [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss) - A strong warning about the sustainability of massive AI data center expenditures.
+## Controversial and Social Topics
 
-* [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Jolla unveils their latest product, supporting Linux as a standalone phone solution.
+* [Many Privileged Students at US Universities are Getting Extra Time on Tests After 'Disability' Diagnoses](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights abuses of disability accommodations in academia. [Comments](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Entertainment and Culture
+* [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs) uncovers pricing exploitation by discount stores. [Comments](https://news.ycombinator.com/item?id=46181962)
 
-* [Discovering the indieweb with calm tech](https://news.ycombinator.com/item?id=46178892) - An exploration of the indieweb movement and principles of calm technology for a more mindful internet experience.
+* [Woman Hailed As a Hero For Smashing Man's Meta Smart Glasses On Subway](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) delves into privacy tensions fueled by wearable tech. [Comments](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Eurydice: a Rust to C compiler (yes)](https://news.ycombinator.com/item?id=46178442) - Delving into the unconventional creation of a Rust-to-C compiler called Eurydice.
+* [The Anxieties of Full-Body MRI Scans (Not Covered by Insurance)](https://science.slashdot.org/story/25/12/07/012206/the-anxieties-of-full-body-mri-scans-not-covered-by-insurance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses challenges in healthcare accessibility. [Comments](https://science.slashdot.org/story/25/12/07/012206/the-anxieties-of-full-body-mri-scans-not-covered-by-insurance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [PocketMage Is an E Ink PDA For the Modern Era](https://lobste.rs/s/sy3ldq/pocketmage_is_e_ink_pda_for_modern_era) - PocketMage revives the PDA concept with E Ink technology for modern needs.
+## Scientific Developments and Research
+
+* [UW Nobel Winner's Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss) announces advances in protein engineering. [Comments](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss)
+
+* [GrapheneOS is the only Android OS providing full security patches](https://grapheneos.social/@GrapheneOS/115647408229616018) highlights developments in mobile operating system security. [Comments](https://news.ycombinator.com/item?id=46173407)
+
+* [OpenAI Desperate to Avoid Explaining Why It Deleted Pirated Book Datasets](https://soylentnews.org/article.pl?sid=25/12/05/0728256&amp;from=rss) sparks debates on AI training ethics. [Comments](https://soylentnews.org/article.pl?sid=25/12/05/0728256&amp;from=rss)
+
+* [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) discusses a finding with paleontological implications. [Comments](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
+
+* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) presents alarming ecological updates on climate research. [Comments](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
 
 ---
 
@@ -61,12 +71,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-07, 15:42:02](https://news.ycombinator.com/item?id=46182496) - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
+* [2025-12-07, 15:34:00](https://news.slashdot.org/story/25/12/07/0651234/homebrew-can-now-help-you-install-flatpaks-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Homebrew Can Now Help You Install Flatpaks Too](https://news.slashdot.org/story/25/12/07/0651234/homebrew-can-now-help-you-install-flatpaks-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-07, 15:02:16](https://lobste.rs/s/q8znua/kollector_publishing_koreader) - [KOllector - Publishing KOReader Highlights](https://tech.stonecharioteer.com/posts/2025/kollector/)
+* [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
+* [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
+* [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
+* [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
 * [2025-12-07, 12:49:14](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for) - [What do you use TypedArrays for in JavaScript/TypeScript?](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for)
 * [2025-12-07, 12:34:00](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Many Privileged Students at US Universities are Getting Extra Time on Tests After &apos;Disability&apos; Diagnoses](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-07, 12:31:53](https://news.ycombinator.com/item?id=46181268) - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
+* [2025-12-07, 12:25:04](https://news.ycombinator.com/item?id=46181237) - [How the Disappearance of Flight 19 Fueled the Legend of the Bermuda Triangle](https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/)
+* [2025-12-07, 12:23:45](https://news.ycombinator.com/item?id=46181231) - [Google Titans architecture, helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 * [2025-12-07, 11:51:02](https://news.ycombinator.com/item?id=46181076) - [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
 * [2025-12-07, 11:26:00](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss) - [UW Nobel Winner&apos;s Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss)
-* [2025-12-07, 10:41:48](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking) - [What&apos;s the State of Jobseeking/Gigseeking/Roleseeking (Dec 2025)?](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking)
-* [2025-12-07, 09:06:39](https://news.ycombinator.com/item?id=46180291) - [A Struct Sockaddr Sequel](https://lwn.net/Articles/1045453/)
 * [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn&apos;t work where you expect it to](https://trynova.dev/blog/oops-im-dead)
 * [2025-12-07, 08:34:00](https://developers.slashdot.org/story/25/12/07/0248219/is-ruby-still-a-serious-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Ruby Still a &apos;Serious&apos; Programming Language?](https://developers.slashdot.org/story/25/12/07/0248219/is-ruby-still-a-serious-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 08:26:53](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces) - [The Wild West of Post-POSIX IO Interfaces](https://youtu.be/abDWZ9D8kEE)
@@ -81,20 +99,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-07, 03:03:09](https://news.ycombinator.com/item?id=46178789) - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 * [2025-12-07, 02:34:00](https://science.slashdot.org/story/25/12/07/012206/the-anxieties-of-full-body-mri-scans-not-covered-by-insurance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Anxieties of Full-Body MRI Scans (Not Covered by Insurance)](https://science.slashdot.org/story/25/12/07/012206/the-anxieties-of-full-body-mri-scans-not-covered-by-insurance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 01:59:00](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss) - [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss)
-* [2025-12-07, 01:47:23](https://news.ycombinator.com/item?id=46178464) - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:45:35](https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore) - [Oblast: a better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:41:33](https://news.ycombinator.com/item?id=46178442) - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-07, 01:39:25](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes) - [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-07, 01:18:06](https://lobste.rs/s/t5zgds/using_llms_at_oxide) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 * [2025-12-07, 01:17:40](https://news.ycombinator.com/item?id=46178347) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
-* [2025-12-07, 00:37:15](https://news.ycombinator.com/item?id=46178108) - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
 * [2025-12-07, 00:23:35](https://lobste.rs/s/xxlhtw/how_make_macos_screen_saver) - [How to make a macOS screen saver](https://wadetregaskis.com/how-to-make-a-macos-screen-saver/)
 * [2025-12-07, 00:21:00](https://news.slashdot.org/story/25/12/06/1853227/could-americas-paper-checks-be-on-the-way-out-like-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could America&apos;s Paper Checks Be On the Way Out, Like the Penny?](https://news.slashdot.org/story/25/12/06/1853227/could-americas-paper-checks-be-on-the-way-out-like-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 00:05:16](https://lobste.rs/s/pohl2l/struggling_towards_algebraic_theory) - [Struggling Towards an Algebraic Theory of Music](https://reasonablypolymorphic.com/blog/algebraic-music/index.html)
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [2025-12-06, 23:21:00](https://yro.slashdot.org/story/25/12/06/2317218/google-must-limit-its-default-search-contracts-to-one-year-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Must Limit Its &apos;Default Search&apos; Contracts to One Year, Judge Rules](https://yro.slashdot.org/story/25/12/06/2317218/google-must-limit-its-default-search-contracts-to-one-year-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan&apos;s exceptionally rare &apos;snow monsters&apos;](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
-* [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
 * [2025-12-06, 21:59:00](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Hailed As a Hero For Smashing Man&apos;s Meta Smart Glasses On Subway](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
@@ -122,11 +136,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-06, 13:13:00](https://linux.slashdot.org/story/25/12/06/0155255/linus-torvalds-defends-windows-blue-screen-of-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds Defends Windows&apos; Blue Screen of Death](https://linux.slashdot.org/story/25/12/06/0155255/linus-torvalds-defends-windows-blue-screen-of-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 11:41:00](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss) - [Let’s Encrypt to Reduce Certificate Validity From 90 Days to 45 Days](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss)
 * [2025-12-06, 11:18:40](https://news.ycombinator.com/item?id=46172443) - [Autism&apos;s confusing cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins)
-* [2025-12-06, 10:10:00](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Rage Bait&apos; Named Oxford Word of the Year 2025](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer&apos;s text editor](https://flow-control.dev)
 * [2025-12-06, 06:53:00](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss) - [After Nearly 30 Years, Crucial Will Stop Selling RAM to Consumers](https://soylentnews.org/article.pl?sid=25/12/04/1134226&amp;from=rss)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
-* [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What&apos;s the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
 * [2025-12-06, 02:12:00](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss) - [Raspberry Pi Launches 1GB Model at $45, Temporarily Raises Prices on Higher-Capacity Boards](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss)
 * [2025-12-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss) - [Supreme Court Hears Case That Could Trigger Big Crackdown on Internet Piracy](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss)
@@ -142,6 +154,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-04, 01:36:00](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss) - [KDE to Drop X11 Session in KDE Plasma 6.8](https://soylentnews.org/article.pl?sid=25/12/02/1148202&amp;from=rss)
 * [2025-12-03, 20:49:00](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss) - [Rapidus to Start Construction on 1.4nm Fab in 2027 — R&amp;D on Node Begins Next Year](https://soylentnews.org/article.pl?sid=25/12/02/1141208&amp;from=rss)
 * [2025-12-03, 16:02:00](https://soylentnews.org/article.pl?sid=25/12/01/0724224&amp;from=rss) - [openSUSE Tumbleweed to update GRUB package and enable full disk encryption](https://soylentnews.org/article.pl?sid=25/12/01/0724224&amp;from=rss)
+* [2025-12-03, 14:51:54](https://news.ycombinator.com/item?id=46135145) - [Building a Toast Component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-12-03, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
 * [2025-12-03, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss) - [Dell: About 1 Billion PCs Will Not or Cannot be Upgraded to Windows 11](https://soylentnews.org/article.pl?sid=25/12/01/0719241&amp;from=rss)
 * [2025-12-03, 01:53:00](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss) - [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
