@@ -1,66 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Advances in Technology and Programming
 
-* [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss)
+* [Structural inheritance doesn't work where you expect it to](https://trynova.dev/blog/oops-im-dead) - An exploration of how structural inheritance operates in unexpected ways and its complications. [Comments](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work)
 
-* [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/) - A unique achievement in creating integrated circuits in a personal garage. [Comments](https://news.ycombinator.com/item?id=46178789)
 
-* [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/) ([alternate discussion](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech))
+* [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html) - Announcing a Rust-to-C compiler, expanding possibilities for language interoperation. [Comments](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes)
 
-* [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+* [The Deep Card Conundrum](https://frontendmasters.com/blog/the-deep-card-conundrum/) - A detailed discussion about complex card patterns in frontend design. [Comments](https://lobste.rs/s/xrn56k/deep_card_conundrum)
 
-* [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html) ([alternate discussion](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes))
+* [What Lobsters Says - a browser extension to help you find Lobste.rs discussions](https://github.com/chase-lambert/what-lobsters-says) - A tool aimed at improving the accessibility of discussions on the Lobste.rs platform. [Comments](https://lobste.rs/s/ub1jid/what_lobsters_says_browser_extension)
 
-* [PocketMage Is an E Ink PDA For the Modern Era](https://www.hackster.io/news/pocketmage-is-an-e-ink-pda-for-the-modern-era-3dac295619c0)
+## Developments in Open Source and Linux Platforms
 
-## Software and Development
+* [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss) - A major FreeBSD release introducing significant updates. [Comments](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss)
 
-* [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
+* [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/) - A surprising discovery about embedded surveillance technology. [Comments](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on)
 
-* [Package Manager Design Tradeoffs](https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html)
+* [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/) - Expanding access to online computer science education through open resources. [Comments](https://news.ycombinator.com/item?id=46175826)
 
-* [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) ([alternate discussion](https://news.ycombinator.com/item?id=46178347))
+* [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/) - A minimal and efficient Linux distribution. [Comments](https://news.ycombinator.com/item?id=46173547)
 
-* [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
+## Economic and Industry Insights
 
-* [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
+* [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss) - IBM's CEO expresses concerns over the sustainability of AI infrastructure investments. [Comments](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss)
 
-* [What’s the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
+* [Let’s Encrypt to Reduce Certificate Validity From 90 Days to 45 Days](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss) - Changes in security certificate practices impacting users and providers. [Comments](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss)
 
-## AI and Emerging Technologies
+* [Supreme Court Hears Case That Could Trigger Big Crackdown on Internet Piracy](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss) - A high-stakes legal case with significant implications for the tech industry. [Comments](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss)
 
-* [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss)
+* [Meta Confirms 'Shifting Some' Funding 'From Metaverse Toward AI Glasses'](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta refocuses its resources towards artificial intelligence advancements. [Comments](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [OpenAI Has Trained Its LLM To Confess To Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Exploring the Past and Future
 
-* [Meta Confirms 'Shifting Some' Funding 'From Metaverse Toward AI Glasses'](https://news.slashdot.org/story/25/12/06/0217233/meta-confirms-shifting-some-funding-from-metaverse-toward-ai-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Oblast: a better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html) - A nostalgia-driven project to improve a classic video game. [Comments](https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore)
 
-* [AI Energy Score v2: Refreshed Leaderboard, now with Reasoning](https://huggingface.co/blog/sasha/ai-energy-score-v2)
+* [Bright Orange Life-Form Could Point to New Dino Discoveries](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss) - A vivid biological finding with potential links to past life forms. [Comments](https://soylentnews.org/article.pl?sid=25/12/01/0721253&amp;from=rss)
 
-## Gaming and Entertainment
+## Health and Environmental Updates
 
-* [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html) ([alternate discussion](https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore))
+* [Rage Bait Named Oxford Word of the Year 2025](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A commentary on the significance of online behavior trends. [Comments](https://tech.slashdot.org/story/25/12/06/026245/rage-bait-named-oxford-word-of-the-year-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Netflix Quietly Drops Support for Casting to Most TVs](https://soylentnews.org/article.pl?sid=25/12/03/1255251&amp;from=rss)
-
-* [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
-
-## Science and Health
-
-* [The Anxieties of Full-Body MRI Scans (Not Covered by Insurance)](https://science.slashdot.org/story/25/12/07/012206/the-anxieties-of-full-body-mri-scans-not-covered-by-insurance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Coffee linked to slower biological ageing among those with severe mental illness](https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit)
-
-* [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
-
-## Climate and Environment
-
-* [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
-
-* [Chernobyl's Protective Shield Can No Longer Confine Radiation, UN Nuclear Watchdog Says](https://hardware.slashdot.org/story/25/12/06/1916232/chernobyls-protective-shield-can-no-longer-confine-radiation-un-nuclear-watchdog-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Scientists Warn Mountain Climate Change is Accelerating Faster Than Predicted](https://soylentnews.org/article.pl?sid=25/12/01/0716216&amp;from=rss)
+* [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters) - Efforts to preserve a unique and vulnerable natural phenomenon. [Comments](https://news.ycombinator.com/item?id=46177418)
 
 ---
 
@@ -87,6 +69,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn&apos;t work where you expect it to](https://trynova.dev/blog/oops-im-dead)
+* [2025-12-07, 08:34:00](https://developers.slashdot.org/story/25/12/07/0248219/is-ruby-still-a-serious-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Ruby Still a &apos;Serious&apos; Programming Language?](https://developers.slashdot.org/story/25/12/07/0248219/is-ruby-still-a-serious-programming-language?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-07, 08:26:53](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces) - [The Wild West of Post-POSIX IO Interfaces](https://youtu.be/abDWZ9D8kEE)
+* [2025-12-07, 07:28:03](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by) - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/)
 * [2025-12-07, 06:42:00](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss) - [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss)
 * [2025-12-07, 05:35:11](https://lobste.rs/s/xrn56k/deep_card_conundrum) - [The Deep Card Conundrum](https://frontendmasters.com/blog/the-deep-card-conundrum/)
 * [2025-12-07, 05:34:00](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://mobile.slashdot.org/story/25/12/07/0523228/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -109,11 +95,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-07, 00:05:16](https://lobste.rs/s/pohl2l/struggling_towards_algebraic_theory) - [Struggling Towards an Algebraic Theory of Music](https://reasonablypolymorphic.com/blog/algebraic-music/index.html)
 * [2025-12-06, 23:51:08](https://news.ycombinator.com/item?id=46177737) - [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
 * [2025-12-06, 23:39:02](https://news.ycombinator.com/item?id=46177645) - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
-* [2025-12-06, 23:33:23](https://news.ycombinator.com/item?id=46177615) - [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
 * [2025-12-06, 23:21:00](https://yro.slashdot.org/story/25/12/06/2317218/google-must-limit-its-default-search-contracts-to-one-year-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Must Limit Its &apos;Default Search&apos; Contracts to One Year, Judge Rules](https://yro.slashdot.org/story/25/12/06/2317218/google-must-limit-its-default-search-contracts-to-one-year-judge-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 23:06:53](https://news.ycombinator.com/item?id=46177418) - [Saving Japan&apos;s exceptionally rare &apos;snow monsters&apos;](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
 * [2025-12-06, 22:26:26](https://news.ycombinator.com/item?id=46177132) - [United States Antarctic Program Field Manual (2024) [pdf]](https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf)
-* [2025-12-06, 22:11:33](https://news.ycombinator.com/item?id=46177022) - [Catala – Law to Code](https://catala-lang.org)
 * [2025-12-06, 21:59:00](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Woman Hailed As a Hero For Smashing Man&apos;s Meta Smart Glasses On Subway](https://yro.slashdot.org/story/25/12/06/2156239/woman-hailed-as-a-hero-for-smashing-mans-meta-smart-glasses-on-subway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 21:55:09](https://news.ycombinator.com/item?id=46176905) - [Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)
 * [2025-12-06, 21:53:35](https://news.ycombinator.com/item?id=46176893) - [The past was not that cute](https://juliawise.net/the-past-was-not-that-cute/)
@@ -136,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 16:29:00](https://soylentnews.org/article.pl?sid=25/12/05/0720258&amp;from=rss) - [New DDR5 Memory Overclocking World Record Set at 13,530 MT/S](https://soylentnews.org/article.pl?sid=25/12/05/0720258&amp;from=rss)
 * [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
-* [2025-12-06, 16:10:35](https://lobste.rs/s/fvlcj3/ai_energy_score_v2_refreshed_leaderboard) - [AI Energy Score v2: Refreshed Leaderboard, now with Reasoning](https://huggingface.co/blog/sasha/ai-energy-score-v2)
 * [2025-12-06, 15:34:00](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI Boom Could Increase Prices for Phones and Tablets Next Year](https://hardware.slashdot.org/story/25/12/06/068215/the-ai-boom-could-increase-prices-for-phones-and-tablets-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 14:59:52](https://news.ycombinator.com/item?id=46173825) - [HTML as an Accessible Format for Papers (2023)](https://info.arxiv.org/about/accessible_HTML.html)
 * [2025-12-06, 14:18:42](https://news.ycombinator.com/item?id=46173547) - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
@@ -151,13 +134,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What&apos;s the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
-* [2025-12-06, 03:03:00](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Has Trained Its LLM To Confess To Bad Behavior](https://slashdot.org/story/25/12/05/2148204/openai-has-trained-its-llm-to-confess-to-bad-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-06, 02:12:00](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss) - [Raspberry Pi Launches 1GB Model at $45, Temporarily Raises Prices on Higher-Capacity Boards](https://soylentnews.org/article.pl?sid=25/12/04/1133216&amp;from=rss)
-* [2025-12-06, 00:53:11](https://lobste.rs/s/hvjedk/reminder_about_framework_laptop) - [Reminder about Framework Laptop](https://community.frame.work/t/framework-supporting-far-right-racists/75986)
 * [2025-12-05, 21:24:00](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss) - [Supreme Court Hears Case That Could Trigger Big Crackdown on Internet Piracy](https://soylentnews.org/article.pl?sid=25/12/04/1131220&amp;from=rss)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/03/1710234&amp;from=rss) - [Oracle&apos;s Credit Risk is Spiking as Wall Street Asks How It&apos;s Going to Pay for All That AI](https://soylentnews.org/article.pl?sid=25/12/03/1710234&amp;from=rss)
-* [2025-12-05, 15:07:51](https://lobste.rs/s/nux2xg/typewriter_plotters) - [Typewriter plotters](https://biosrhythm.com/?p=2143)
 * [2025-12-05, 10:54:00](https://soylentnews.org/article.pl?sid=25/12/03/178224&amp;from=rss) - [Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall](https://soylentnews.org/article.pl?sid=25/12/03/178224&amp;from=rss)
 * [2025-12-05, 06:01:00](https://soylentnews.org/article.pl?sid=25/12/03/173255&amp;from=rss) - [Space CEO Explains Why He Believes Private Space Stations Are a Viable Business](https://soylentnews.org/article.pl?sid=25/12/03/173255&amp;from=rss)
 * [2025-12-05, 01:24:00](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss) - [Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://soylentnews.org/article.pl?sid=25/12/03/1319210&amp;from=rss)
