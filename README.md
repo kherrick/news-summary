@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Emerging Technologies
+
+* [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203) ([comments](https://news.ycombinator.com/item?id=46187770))
+
+* [Can This Simple Invention Convert Waste Heat Into Electricity?](https://hardware.slashdot.org/story/25/12/08/0236259/can-this-simple-invention-convert-waste-heat-into-electricity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/12/08/0236259/can-this-simple-invention-convert-waste-heat-into-electricity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833) ([comments](https://news.ycombinator.com/item?id=46185576))
+
+## Programming and Software Development
 
 * [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin) ([comments](https://news.ycombinator.com/item?id=46186997))
 
-* [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump) ([comments](https://news.ycombinator.com/item?id=46186917))
-
-* [The Wild West of Post-POSIX IO Interfaces](https://youtu.be/abDWZ9D8kEE) ([comments](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces))
+* [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss))
 
 * [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html) ([comments](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes))
 
-## AI, Machine Learning, and Prompt Engineering
+* [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html) ([comments](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml))
 
-* [OpenAI Insists Target Links in ChatGPT Responses Weren't Ads But 'Suggestions' - But Turns Them Off](https://slashdot.org/story/25/12/07/2048213/openai-insists-target-links-in-chatgpt-responses-werent-ads-but-suggestions---but-turns-them-off?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46185816))
+## Social and Economic Insights
+
+* [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending) ([comments](https://news.ycombinator.com/item?id=46186900))
+
+* [Dollar-stores overcharge customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs) ([comments](https://news.ycombinator.com/item?id=46181962))
+
+* [Many Privileged Students at US Universities are Getting Extra Time on Tests After 'Disability' Diagnoses](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Artificial Intelligence
 
 * [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) ([comments](https://news.ycombinator.com/item?id=46182031))
 
-* [Defeating Prompt Injections by Design](https://arxiv.org/pdf/2503.18813) ([comments](https://lobste.rs/s/ldfsmq/defeating_prompt_injections_by_design))
+* [Pulldash: Fast, filterable GitHub PR review. Entirely client-side](https://github.com/coder/pulldash) ([comments](https://lobste.rs/s/iohaag/pulldash_fast_filterable_github_pr))
 
-## Surprising Engineering and Programming Stories
+* [OpenAI Insists Target Links in ChatGPT Responses Weren't Ads But 'Suggestions' - But Turns Them Off](https://slashdot.org/story/25/12/07/2048213/openai-insists-target-links-in-chatgpt-responses-werent-ads-but-suggestions---but-turns-them-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/12/07/2048213/openai-insists-target-links-in-chatgpt-responses-werent-ads-but-suggestions---but-turns-them-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Toyota Unintended Acceleration and the Big Bowl of \"Spaghetti\" Code(2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/) ([comments](https://news.ycombinator.com/item?id=46186950))
+## Environmental and Sustainability Topics
 
-* [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf) ([comments](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards))
+* [How Home Assistant Leads a 'Local-First Rebellion'](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The Gerrit code review iceberg](https://www.haiku-os.org/blog/pulkomandy/2025-11-24-the_gerrit_pending_review_iceberg/) ([comments](https://lobste.rs/s/4tvzih/gerrit_code_review_iceberg))
-
-## Freedom from Ads and Privacy Topics
-
-* [How I block all online ads](https://troubled.engineer/posts/no-ads/) ([comments](https://news.ycombinator.com/item?id=46185816))
-
-* [Homebrew Can Now Help You Install Flatpaks Too](https://news.slashdot.org/story/25/12/07/0651234/homebrew-can-now-help-you-install-flatpaks-too?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46181231))
-
-* [Why People Keep Flocking to Linux in 2025 (and It's Not Just to Escape Windows)](https://soylentnews.org/article.pl?sid=25/12/06/140210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/06/140210))
-
-## Societal and Behavioral Studies
-
-* [Why Meetings Can Harm Employee Well-Being](https://it.slashdot.org/story/25/12/08/0132210/why-meetings-can-harm-employee-well-being?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/25/12/08/0132210/why-meetings-can-harm-employee-well-being?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [College Students Flock To A New Major: AI](https://news.slashdot.org/story/25/12/07/2330215/college-students-flock-to-a-new-major-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/07/2330215/college-students-flock-to-a-new-major-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/) ([comments](https://news.ycombinator.com/item?id=46181268))
+* [No Rise in Radiation Levels at Chernobyl, Despite Damage from February's Drone Strike](https://hardware.slashdot.org/story/25/12/06/1916232/no-rise-in-radiation-levels-at-chernobyl-despite-damage-from-februarys-drone-strike?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/25/12/06/1916232/no-rise-in-radiation-levels-at-chernobyl-despite-damage-from-februarys-drone-strike?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -67,32 +65,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-08, 03:19:07](https://lobste.rs/s/2s0rxd/desperately_seeking_squircles_2018) - [Desperately seeking squircles (2018)](https://www.figma.com/blog/desperately-seeking-squircles/)
+* [2025-12-08, 02:48:53](https://news.ycombinator.com/item?id=46187770) - [Noninvasive imaging could replace finger pricks for measuring blood glucose](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
+* [2025-12-08, 02:40:00](https://hardware.slashdot.org/story/25/12/08/0236259/can-this-simple-invention-convert-waste-heat-into-electricity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can This Simple Invention Convert Waste Heat Into Electricity?](https://hardware.slashdot.org/story/25/12/08/0236259/can-this-simple-invention-convert-waste-heat-into-electricity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-08, 02:29:01](https://news.ycombinator.com/item?id=46187645) - [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+* [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) - [Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss)
 * [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss)
 * [2025-12-08, 01:35:00](https://it.slashdot.org/story/25/12/08/0132210/why-meetings-can-harm-employee-well-being?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Meetings Can Harm Employee Well-Being](https://it.slashdot.org/story/25/12/08/0132210/why-meetings-can-harm-employee-well-being?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-08, 00:38:44](https://news.ycombinator.com/item?id=46186997) - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
 * [2025-12-08, 00:34:00](https://tech.slashdot.org/story/25/12/08/0022229/eu-urged-to-soften-2035-ban-on-internal-combustion-engine-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Urged to Soften 2035 Ban on Internal Combustion Engine Cars](https://tech.slashdot.org/story/25/12/08/0022229/eu-urged-to-soften-2035-ban-on-internal-combustion-engine-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-08, 00:31:12](https://news.ycombinator.com/item?id=46186950) - [Toyota Unintended Acceleration and the Big Bowl of \&quot;Spaghetti\&quot; Code(2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+* [2025-12-08, 00:31:12](https://news.ycombinator.com/item?id=46186950) - [Toyota Unintended Acceleration and the Big Bowl of \&quot;Spaghetti\&quot; Code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
 * [2025-12-08, 00:26:04](https://news.ycombinator.com/item?id=46186917) - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+* [2025-12-08, 00:23:45](https://news.ycombinator.com/item?id=46186900) - [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending)
 * [2025-12-08, 00:22:52](https://lobste.rs/s/iuzgps/attempt_at_compelling_articulation) - [An Attempt at a Compelling Articulation of Forth&apos;s Practical Strengths and Eternal Usefulness](https://im-just-lee.ing/forth-why-cb234c03.txt)
 * [2025-12-07, 23:34:00](https://news.slashdot.org/story/25/12/07/2330215/college-students-flock-to-a-new-major-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [College Students Flock To A New Major:  AI](https://news.slashdot.org/story/25/12/07/2330215/college-students-flock-to-a-new-major-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 23:18:13](https://lobste.rs/s/iohaag/pulldash_fast_filterable_github_pr) - [Pulldash: Fast, filterable GitHub PR review. Entirely client-side](https://github.com/coder/pulldash)
 * [2025-12-07, 22:31:22](https://news.ycombinator.com/item?id=46185957) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-* [2025-12-07, 22:18:59](https://news.ycombinator.com/item?id=46185816) - [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 * [2025-12-07, 22:07:00](https://hardware.slashdot.org/story/25/12/06/1916232/no-rise-in-radiation-levels-at-chernobyl-despite-damage-from-februarys-drone-strike?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No Rise in Radiation Levels at Chernobyl, Despite Damage from February&apos;s Drone Strike](https://hardware.slashdot.org/story/25/12/06/1916232/no-rise-in-radiation-levels-at-chernobyl-despite-damage-from-februarys-drone-strike?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 21:55:01](https://news.ycombinator.com/item?id=46185576) - [Mechanical power generation using Earth&apos;s ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
-* [2025-12-07, 21:26:35](https://news.ycombinator.com/item?id=46185317) - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
 * [2025-12-07, 21:16:39](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-07, 20:59:00](https://slashdot.org/story/25/12/07/2048213/openai-insists-target-links-in-chatgpt-responses-werent-ads-but-suggestions---but-turns-them-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Insists Target Links in ChatGPT Responses Weren&apos;t Ads But &apos;Suggestions&apos; - But Turns Them Off](https://slashdot.org/story/25/12/07/2048213/openai-insists-target-links-in-chatgpt-responses-werent-ads-but-suggestions---but-turns-them-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 20:50:00](https://soylentnews.org/article.pl?sid=25/12/06/1415242&amp;from=rss) - [Syntax Hacking: Researchers Discover Sentence Structure Can Bypass AI Safety Rules](https://soylentnews.org/article.pl?sid=25/12/06/1415242&amp;from=rss)
 * [2025-12-07, 19:59:00](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Home Assistant Leads a &apos;Local-First Rebellion&apos;](https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-07, 19:56:03](https://news.ycombinator.com/item?id=46184575) - [Evidence from the One Laptop per Child program in rural Peru](https://www.nber.org/papers/w34495)
 * [2025-12-07, 19:17:17](https://news.ycombinator.com/item?id=46184229) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 19:14:45](https://lobste.rs/s/lp2m1v/estimates_are_difficult_for_developers) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 19:03:16](https://news.ycombinator.com/item?id=46184128) - [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
 * [2025-12-07, 19:02:02](https://lobste.rs/s/ldfsmq/defeating_prompt_injections_by_design) - [Defeating Prompt Injections by Design](https://arxiv.org/pdf/2503.18813)
 * [2025-12-07, 18:57:17](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards) - [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 18:45:00](https://games.slashdot.org/story/25/12/07/1842250/why-gen-z-is-using-retro-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Gen Z is Using Retro Tech](https://games.slashdot.org/story/25/12/07/1842250/why-gen-z-is-using-retro-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-07, 18:42:57](https://news.ycombinator.com/item?id=46183952) - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
 * [2025-12-07, 18:07:06](https://news.ycombinator.com/item?id=46183657) - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 * [2025-12-07, 17:34:00](https://entertainment.slashdot.org/story/25/12/06/0459202/is-netflix-trying-to-buy-warner-bros-or-kill-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Netflix Trying to Buy Warner Bros. or Kill It? ](https://entertainment.slashdot.org/story/25/12/06/0459202/is-netflix-trying-to-buy-warner-bros-or-kill-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 17:18:54](https://news.ycombinator.com/item?id=46183294) - [I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
@@ -106,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-07, 14:47:02](https://news.ycombinator.com/item?id=46182031) - [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
 * [2025-12-07, 14:37:21](https://news.ycombinator.com/item?id=46181962) - [Dollar-stores overcharge customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
 * [2025-12-07, 13:21:24](https://news.ycombinator.com/item?id=46181491) - [The state of Schleswig-Holstein is consistently relying on open source](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
-* [2025-12-07, 13:16:26](https://news.ycombinator.com/item?id=46181466) - [Over fifty new hallucinations in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
 * [2025-12-07, 12:49:14](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for) - [What do you use TypedArrays for in JavaScript/TypeScript?](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for)
 * [2025-12-07, 12:34:00](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Many Privileged Students at US Universities are Getting Extra Time on Tests After &apos;Disability&apos; Diagnoses](https://news.slashdot.org/story/25/12/06/0812245/many-privileged-students-at-us-universities-are-getting-extra-time-on-tests-after-disability-diagnoses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -127,13 +126,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-07, 01:59:00](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss) - [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss)
 * [2025-12-07, 01:39:25](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes) - [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 * [2025-12-07, 01:18:06](https://lobste.rs/s/t5zgds/using_llms_at_oxide) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
-* [2025-12-07, 00:21:00](https://news.slashdot.org/story/25/12/06/1853227/could-americas-paper-checks-be-on-the-way-out-like-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could America&apos;s Paper Checks Be On the Way Out, Like the Penny?](https://news.slashdot.org/story/25/12/06/1853227/could-americas-paper-checks-be-on-the-way-out-like-the-penny?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-07, 00:05:16](https://lobste.rs/s/pohl2l/struggling_towards_algebraic_theory) - [Struggling Towards an Algebraic Theory of Music](https://reasonablypolymorphic.com/blog/algebraic-music/index.html)
 * [2025-12-06, 21:11:00](https://soylentnews.org/article.pl?sid=25/12/05/0728256&amp;from=rss) - [OpenAI Desperate to Avoid Explaining Why It Deleted Pirated Book Datasets](https://soylentnews.org/article.pl?sid=25/12/05/0728256&amp;from=rss)
 * [2025-12-06, 19:50:43](https://lobste.rs/s/iaspme/use_python_for_scripting) - [Use Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-06, 17:40:01](https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
 * [2025-12-06, 17:38:43](https://lobste.rs/s/m3a3la/perl_s_decline_was_cultural) - [Perl&apos;s decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
-* [2025-12-06, 17:34:38](https://lobste.rs/s/r93uje/freebsd_15_why_you_ll_want_it) - [FreeBSD 15: Why You’ll Want It](https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/)
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 16:29:00](https://soylentnews.org/article.pl?sid=25/12/05/0720258&amp;from=rss) - [New DDR5 Memory Overclocking World Record Set at 13,530 MT/S](https://soylentnews.org/article.pl?sid=25/12/05/0720258&amp;from=rss)
 * [2025-12-06, 11:41:00](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss) - [Let’s Encrypt to Reduce Certificate Validity From 90 Days to 45 Days](https://soylentnews.org/article.pl?sid=25/12/04/1138209&amp;from=rss)
