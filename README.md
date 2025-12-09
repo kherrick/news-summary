@@ -1,52 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Software Updates
 
-* [Microsoft To Invest $17.5 Billion in India](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft announces a major investment in India, aiming to enhance technological and infrastructure capabilities.
+* [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) ([comments](https://news.ycombinator.com/item?id=46210240)) - Learn about the latest features and updates in Django 6.0, including enhancements for modern web applications.
 
-* [You Don&apos;t Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs) - A perspective on simplifying development by avoiding the complexities of ORMs.
+* [Q&A: The Stack Circuitry of the Intel 8087 Floating Point Chip](https://www.righto.com/2025/12/8087-stack-circuitry.html) ([comments](https://news.ycombinator.com/item?id=46208409)) - Dive into the reverse-engineering of this foundational chip, detailing its pioneering stack operations.
 
-* [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube) - PeerTube receives recognition for its contribution to public digital infrastructure.
+* [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju) ([comments](https://news.ycombinator.com/item?id=46205519)) - Explore this versatile open-source engine for game development.
 
-* [Microsoft Excel Turns 40, Remains Stubbornly Unkillable](https://it.slashdot.org/story/25/12/09/1428239/microsoft-excel-turns-40-remains-stubbornly-unkillable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating 40 years of Microsoft Excel, renowned for its resilience and widespread adoption.
+* [UringMachine Benchmarks](https://github.com/digital-fabric/uringmachine/blob/main/benchmark/README.md) ([comments](https://lobste.rs/s/04j2mc/uringmachine_benchmarks)) - Performance benchmarks of UringMachine offer insights into efficient asynchronous I/O.
 
-* [Evidence That Humans Now Speak In a Chatbot-Influenced Dialect Is Getting Stronger](https://tech.slashdot.org/story/25/12/09/0440240/evidence-that-humans-now-speak-in-a-chatbot-influenced-dialect-is-getting-stronger?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on how chatbot interactions are shaping human communication.
+* [TextKit 2 - the promised land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/) ([comments](https://lobste.rs/s/zcve9a/textkit_2_promised_land)) - Discussion on the advancements and potential of TextKit 2 in text rendering.
 
-* [Nvidia Can Sell H200 Chips To China For 25% US Cut](https://hardware.slashdot.org/story/25/12/08/2351223/nvidia-can-sell-h200-chips-to-china-for-25-us-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nvidia navigates geopolitical constraints to market its advanced chips in China.
+## Artificial Intelligence and Future Impacts
 
-## Science and Health
+* [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html) ([comments](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal)) - Explore how AI is expected to revolutionize software verification practices.
 
-* [The Rarest of All Diseases Are Becoming Treatable](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Advances in medicine are making previously untreatable diseases manageable.
+* [Evidence That Humans Now Speak In a Chatbot-Influenced Dialect Is Getting Stronger](https://tech.slashdot.org/story/25/12/09/0440240/evidence-that-humans-now-speak-in-a-chatbot-influenced-dialect-is-getting-stronger?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/09/0440240)) - Linguistic studies showing the influence of AI-chat systems on human communication styles.
 
-* [Cold Case Inquiries Stall After Ancestry.com Revisits Policy For Users](https://science.slashdot.org/story/25/12/09/008255/cold-case-inquiries-stall-after-ancestrycom-revisits-policy-for-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Policy changes at Ancestry.com hinder progress on cold case investigations.
+## Environment and Climate Science
 
-* [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss) - A study reveals that complex life could have emerged far earlier than previously believed.
+* [2025 Will Be World&apos;s Second or Third-Hottest Year on Record, EU Scientists Say](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Analysis of 2025's extreme weather and its implications for global climate change.
 
-* [UW Nobel Winner&apos;s Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss) - A new protein design tool with groundbreaking applications is unveiled by Nobel laureates.
+* [The Rarest of All Diseases Are Becoming Treatable](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Breakthroughs in treating rare illnesses via advanced biomedical technologies.
 
-* [Improved Truncated Wigner Approximation Makes Quantum Calcs on Classical Computers More Accessible](https://soylentnews.org/article.pl?sid=25/12/07/1532244&from=rss) - Innovation in quantum calculations bridges the gap with classical computing.
+## Gaming and Retro Engagement
 
-* [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&from=rss) - The latest FreeBSD release introduces significant updates for developers and users.
+* [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z) ([comments](https://news.ycombinator.com/item?id=46202921)) - Reflect on the iconic game's legacy and its influence on modern gaming.
 
-## Economics and Business
+* [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/) ([comments](https://news.ycombinator.com/item?id=46203138)) - Rediscover the classic Japanese RPG and its impact on retro gaming enthusiasts.
 
-* [How private equity is changing housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/) - Examining the impact of private equity on the housing market and related challenges.
+## Business and Economic Trends
 
-* [Colleges Oversold Education. Now They Must Sell Connection](https://news.slashdot.org/story/25/12/09/1511224/colleges-oversold-education-now-they-must-sell-connection?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Colleges reassess their strategies as education overselling proves unsustainable.
+* [OpenAI economist quits, alleging that they are verging into AI Advocacy](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) ([comments](https://news.ycombinator.com/item?id=46210656)) - Controversies surrounding OpenAI's focus and its impact on economic research.
 
-* [Apple&apos;s slow AI pace becomes a strength as market grows weary of spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html) - Apple's cautious approach to AI investments pays off amid market fatigue.
-
-* [Space CEO Explains Why He Believes Private Space Stations Are a Viable Business](https://soylentnews.org/article.pl?sid=25/12/03/173255&from=rss) - Insights into the commercial potential of private space stations.
-
-## Society and Global Events
-
-* [193 Cybercrims Arrested, Accused of Plotting &apos;Violence-As-a-Service&apos;](https://yro.slashdot.org/story/25/12/08/2359222/193-cybercrims-arrested-accused-of-plotting-violence-as-a-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Authorities arrest culprits linked to organized 'Violence-As-a-Service' operations.
-
-* [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss) - Legal action against corporations for health concerns related to ultraprocessed foods.
-
-* [Taiwan Cries Censorship As Government Bans Rednote](https://yro.slashdot.org/story/25/12/08/2148249/taiwan-cries-censorship-as-government-bans-rednote?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversy grows over a ban on the platform 'Rednote' in Taiwan.
-
-* [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&from=rss) - Concerns about the ecological and financial sustainability of massive AI infrastructure investments.
+* [Microsoft To Invest $17.5 Billion in India](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Analyzing Microsoft's large-scale investment aimed at India's tech ecosystem.
 
 ---
 
@@ -73,24 +61,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-09, 21:34:06](https://news.ycombinator.com/item?id=46210994) - [Canada&apos;s US Travel Boycott Is Backfiring in the Most Unexpected Way at US Border](https://www.thetravel.com/canadas-us-travel-boycott-is-backfiring-canadians-face-more-detailed-border-controls/)
+* [2025-12-09, 21:22:00](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2025 Will Be World&apos;s Second or Third-Hottest Year on Record, EU Scientists Say](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-09, 21:19:37](https://news.ycombinator.com/item?id=46210806) - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
+* [2025-12-09, 21:06:51](https://news.ycombinator.com/item?id=46210656) - [OpenAI economist quits, alleging that they are verging into AI Advocacy](https://www.wired.com/story/openai-economic-research-team-ai-jobs/)
+* [2025-12-09, 20:41:00](https://it.slashdot.org/story/25/12/09/1953225/microsoft-365-prices-rising-for-businesses-and-governments-in-july-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft 365 Prices Rising For Businesses and Governments in July 2026](https://it.slashdot.org/story/25/12/09/1953225/microsoft-365-prices-rising-for-businesses-and-governments-in-july-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+* [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss) - [Samsung&apos;s First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss)
+* [2025-12-09, 20:01:00](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Inevitable Shape of Cheap Online Retail](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-09, 20:00:39](https://news.ycombinator.com/item?id=46209846) - [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+* [2025-12-09, 19:28:00](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Pokemon Cards Became a Stock Market For Millennials](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-09, 19:15:09](https://lobste.rs/s/2o4yp6/my_favourite_small_hash_table) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
+* [2025-12-09, 18:54:55](https://news.ycombinator.com/item?id=46208962) - [10 Years of Let&apos;s Encrypt](https://letsencrypt.org/2025/12/09/10-years)
+* [2025-12-09, 18:42:27](https://news.ycombinator.com/item?id=46208773) - [So you want to speak at software conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
+* [2025-12-09, 18:16:44](https://news.ycombinator.com/item?id=46208409) - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
 * [2025-12-09, 18:15:00](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Invest $17.5 Billion in India](https://slashdot.org/story/25/12/09/1815211/microsoft-to-invest-175-billion-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 17:57:55](https://news.ycombinator.com/item?id=46208160) - [\&quot;The Matilda Effect\&quot;: Pioneering Women Scientists Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don&apos;t Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
-* [2025-12-09, 17:35:35](https://news.ycombinator.com/item?id=46207852) - [Show HN: Detail, a Bug Finder](https://detail.dev/)
-* [2025-12-09, 17:26:33](https://news.ycombinator.com/item?id=46207727) - [How private equity is changing housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/)
 * [2025-12-09, 17:25:00](https://news.slashdot.org/story/25/12/09/173219/what-happens-when-an-infinite-money-machine-unravels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happens When an &apos;Infinite-Money Machine&apos; Unravels](https://news.slashdot.org/story/25/12/09/173219/what-happens-when-an-infinite-money-machine-unravels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 17:11:09](https://news.ycombinator.com/item?id=46207505) - [If you&apos;re going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 * [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 17:05:42](https://news.ycombinator.com/item?id=46207425) - [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 * [2025-12-09, 17:01:11](https://news.ycombinator.com/item?id=46207360) - [Clearspace (YC W23) Is Hiring a Founding Designer](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace)
 * [2025-12-09, 16:50:00](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xbox Is Bleeding Out](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://playground.ctgt.ai)
+* [2025-12-09, 16:37:55](https://news.ycombinator.com/item?id=46207017) - [Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention](https://news.ycombinator.com/item?id=46207017)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * [2025-12-09, 16:28:58](https://lobste.rs/s/y5vgj7/international_workshop_on_plan_9_2026) - [International Workshop on Plan 9: 2026 Edition](https://iwp9.org)
 * [2025-12-09, 16:11:00](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Rarest of All Diseases Are Becoming Treatable](https://science.slashdot.org/story/25/12/09/1612202/the-rarest-of-all-diseases-are-becoming-treatable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
-* [2025-12-09, 16:02:37](https://news.ycombinator.com/item?id=46206457) - [Ask HN: Should \&quot;I asked $AI, and it said\&quot; replies be forbidden in HN guidelines?](https://news.ycombinator.com/item?id=46206457)
-* [2025-12-09, 15:51:32](https://news.ycombinator.com/item?id=46206277) - [AI needs more power than the grid can deliver – supersonic tech can fix that](https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss)
 * [2025-12-09, 15:29:26](https://lobste.rs/s/hekuyc/css_wrapped_2025) - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
 * [2025-12-09, 15:21:00](https://news.slashdot.org/story/25/12/09/1511224/colleges-oversold-education-now-they-must-sell-connection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Colleges Oversold Education. Now They Must Sell Connection&apos;](https://news.slashdot.org/story/25/12/09/1511224/colleges-oversold-education-now-they-must-sell-connection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -107,16 +105,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 14:01:00](https://tech.slashdot.org/story/25/12/09/141227/indias-aviation-crisis-is-all-about-too-big-to-tame?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India&apos;s Aviation Crisis Is All About Too Big to Tame](https://tech.slashdot.org/story/25/12/09/141227/indias-aviation-crisis-is-all-about-too-big-to-tame?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 14:00:00](https://lobste.rs/s/04j2mc/uringmachine_benchmarks) - [UringMachine Benchmarks](https://github.com/digital-fabric/uringmachine/blob/main/benchmark/README.md)
 * [2025-12-09, 13:59:41](https://lobste.rs/s/zcve9a/textkit_2_promised_land) - [TextKit 2 - the promised land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
-* [2025-12-09, 13:45:01](https://news.ycombinator.com/item?id=46204853) - [Oliver Sacks Put Himself into His Case Studies. What Was the Cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
 * [2025-12-09, 13:00:00](https://science.slashdot.org/story/25/12/09/053254/science-journal-retracts-study-on-safety-of-monsantos-roundup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Science Journal Retracts Study On Safety of Monsanto&apos;s Roundup](https://science.slashdot.org/story/25/12/09/053254/science-journal-retracts-study-on-safety-of-monsantos-roundup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 12:37:15](https://lobste.rs/s/j92yom/go_proposal_secret_mode) - [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/)
 * [2025-12-09, 12:29:20](https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria) - [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
 * [2025-12-09, 11:54:52](https://lobste.rs/s/rvtdbd/apologia_for_lazy_evaluation) - [An apologia for lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
-* [2025-12-09, 11:16:10](https://news.ycombinator.com/item?id=46203611) - [Brent&apos;s Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html)
 * [2025-12-09, 11:15:34](https://lobste.rs/s/j1epfi/join_on_call_roster_it_ll_change_your_life) - [Join the on-call roster, it’ll change your life](https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life)
 * [2025-12-09, 11:09:06](https://news.ycombinator.com/item?id=46203581) - [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)
-* [2025-12-09, 10:52:58](https://news.ycombinator.com/item?id=46203499) - [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/)
 * [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple&apos;s Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss)
 * [2025-12-09, 10:00:00](https://tech.slashdot.org/story/25/12/09/0440240/evidence-that-humans-now-speak-in-a-chatbot-influenced-dialect-is-getting-stronger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Evidence That Humans Now Speak In a Chatbot-Influenced Dialect Is Getting Stronger](https://tech.slashdot.org/story/25/12/09/0440240/evidence-that-humans-now-speak-in-a-chatbot-influenced-dialect-is-getting-stronger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 09:55:11](https://lobste.rs/s/gcjtqe/compiler_engineering_practice_part_1) - [Compiler Engineering in Practice - Part 1: What is a Compiler?](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
@@ -129,17 +124,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss) - [Common Desktop Environment \&quot;CDE\&quot; 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss)
 * [2025-12-09, 03:30:00](https://science.slashdot.org/story/25/12/09/008255/cold-case-inquiries-stall-after-ancestrycom-revisits-policy-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cold Case Inquiries Stall After Ancestry.com Revisits Policy For Users](https://science.slashdot.org/story/25/12/09/008255/cold-case-inquiries-stall-after-ancestrycom-revisits-policy-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 03:12:55](https://lobste.rs/s/yp9mou/metacode_new_standard_for_machine) - [Metacode: The new standard for machine-readable comments for Python](https://github.com/pomponchik/metacode)
-* [2025-12-09, 02:00:00](https://yro.slashdot.org/story/25/12/08/2359222/193-cybercrims-arrested-accused-of-plotting-violence-as-a-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [193 Cybercrims Arrested, Accused of Plotting &apos;Violence-As-a-Service&apos;](https://yro.slashdot.org/story/25/12/08/2359222/193-cybercrims-arrested-accused-of-plotting-violence-as-a-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-09, 01:30:00](https://hardware.slashdot.org/story/25/12/08/2351223/nvidia-can-sell-h200-chips-to-china-for-25-us-cut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Can Sell H200 Chips To China For 25% US Cut](https://hardware.slashdot.org/story/25/12/08/2351223/nvidia-can-sell-h200-chips-to-china-for-25-us-cut?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 01:21:00](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss) - [Improved Truncated Wigner Approximation Makes Quantum Calcs on Classical Computers More Accessible](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss)
-* [2025-12-09, 01:10:00](https://news.slashdot.org/story/25/12/08/2158223/more-than-200-environmental-groups-demand-halt-to-new-us-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than 200 Environmental Groups Demand Halt To New US Datacenters](https://news.slashdot.org/story/25/12/08/2158223/more-than-200-environmental-groups-demand-halt-to-new-us-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-09, 00:30:00](https://yro.slashdot.org/story/25/12/08/2148249/taiwan-cries-censorship-as-government-bans-rednote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Taiwan Cries Censorship As Government Bans Rednote](https://yro.slashdot.org/story/25/12/08/2148249/taiwan-cries-censorship-as-government-bans-rednote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-08, 20:47:49](https://lobste.rs/s/pvaalr/deprecations_via_warnings_don_t_work_for) - [Deprecations via warnings don’t work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss) - [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss)
-* [2025-12-08, 19:44:00](https://news.ycombinator.com/item?id=46196688) - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 19:01:01](https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-* [2025-12-08, 17:32:52](https://lobste.rs/s/getto0/nova_programming_language) - [Nova Programming Language](https://nova-lang.net/)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss) - [Debian&apos;s APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss)
