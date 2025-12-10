@@ -1,50 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Updates
+## Technology and Development
 
-* [Dependable C](https://dependablec.org/) - An exploration of design principles for building reliable software systems using C.
+* [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) - A trip back to foundational knowledge in compiler construction.
 
-* [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275) - A breakthrough in model compression for AI systems, achieving significant size reduction with improved accuracy.
+* [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html) - Insights on the hidden risks of over-optimizing software systems.
 
-* [10 Years of Let's Encrypt Certificates](https://letsencrypt.org/2025/12/09/10-years.html) - Celebrating a decade of providing free, automated SSL/TLS certificates to improve web security.
+* [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/) - A significant milestone for Rust as it secures its place in Linux kernel development.
 
-* [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/) - A proposal for hiding runtime information in Go applications to enhance security.
+* [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - Why the Zig programming language chose to leave GitHub.
 
-* [International Workshop on Plan 9: 2026 Edition](https://iwp9.org) - Announcing the upcoming 2026 edition of the workshop focused on Plan 9, the operating system for distributed systems.
+* [Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html) - A closer look at Qt debugging challenges and breakthroughs.
 
-* [Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html) - Techniques and insights into debugging Qt applications compiled to WebAssembly.
+## Artificial Intelligence and Machine Learning
 
-## AI and Algorithmic Innovations
+* [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html) - Exploring how AI could transform software development to ensure correctness.
 
-* [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html) - A pioneering project introducing algorithm discovery through evolutionary methods for large language models.
+* [OpenAI joins the Linux Foundation's new Agentic AI Foundation](https://news.slashdot.org/story/25/12/09/2255209/openai-joins-the-linux-foundations-new-agentic-ai-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant collaboration aimed at promoting responsible AI.
 
-* [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation) - Collaborative efforts by major tech entities to establish an ethical framework for advanced artificial intelligence.
+## Science and Space
 
-* [Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation) - Initiatives to standardize and promote responsible AI through collaborative governance.
+* [In a Major New Report, Scientists Build Rationale for Sending Astronauts to Mars](https://science.slashdot.org/story/25/12/09/2318208/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A comprehensive justification for manned exploration of Mars.
 
-## Security and Privacy Concerns
+* [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss) - Breakthroughs in understanding cancer's cellular mechanisms.
 
-* [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/) - A critical examination of security practices that undermine the integrity of TLS implementations.
+## Web and Design
 
-* [Fear of the Walking Zig: The Security Audit Gap](https://generativeai.pub/fear-of-the-walking-zig-the-security-audit-gap-707aec6ceb92) - Analyzing the security challenges surrounding the Zig programming language and its ecosystem.
+* [Handsdown one of the coolest 3D websites](https://bruno-simon.com/) - A cutting-edge online interactive experience in web design.
 
-* [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page) - A tool to enhance visibility and debugging of application errors using Cloudflare's infrastructure.
+* [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/) - An annual reflection on CSS progress and trends.
 
-## Climate and Environmental Issues
+## Environmental Concerns
 
-* [Food and Fossil Fuel Production Causing $5 Billion of Environmental Damage an Hour](https://news.slashdot.org/story/25/12/09/2311256/food-and-fossil-fuel-production-causing-5-billion-of-environmental-damage-an-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examination of the environmental costs of food and energy production.
+* [Food and Fossil Fuel Production Causing $5 Billion of Environmental Damage an Hour](https://news.slashdot.org/story/25/12/09/2311256/food-and-fossil-fuel-production-causing-5-billion-of-environmental-damage-an-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting the ongoing cost of environmental degradation.
 
-* [2025 Will Be World's Second or Third-Hottest Year on Record, EU Scientists Say](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - EU scientists report record-breaking global temperatures as a climate crisis looms.
+* [2025 Will Be World's Second or Third-Hottest Year on Record, EU Scientists Say](https://news.slashdot.org/story/25/12/09/1959225/2025-will-be-worlds-second-or-third-hottest-year-on-record-eu-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Further warnings about global climate challenges.
 
-## Economic, Social, and Regulatory Developments
+## Cultural and Miscellaneous Topics
 
-* [Netflix Faces Consumer Class Action Over $72 Billion Warner Bros Deal](https://yro.slashdot.org/story/25/12/09/2243222/netflix-faces-consumer-class-action-over-72-billion-warner-bros-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal challenges faced by Netflix regarding its Warner Bros acquisition.
+* [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z) - Celebrating a classic game's enduring legacy.
 
-* [Congress Quietly Strips Right-To-Repair Provisions From US Military Spending Bill](https://yro.slashdot.org/story/25/12/09/2123219/congress-quietly-strips-right-to-repair-provisions-from-us-military-spending-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversial policy changes impacting the right-to-repair movement.
+* [How Pokemon Cards Became a Stock Market for Millennials](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The rising financial phenomenon tied to childhood nostalgia.
 
-## Science and Health Advances
+## Ethics and Technology
 
-* [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss) - Research into cellular mechanisms with potential dual impact on cancer progression and treatment.
+* ['Source Available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay) - Discussing the nuances of source code accessibility.
+
+* [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/) - Addressing common missteps in digital security.
 
 ---
 
@@ -71,25 +73,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-10, 09:42:24](https://lobste.rs/s/yrillw/revisiting_let_s_build_compiler) - [Revisiting \&quot;Let&apos;s Build a Compiler\&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
+* [2025-12-10, 08:53:54](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted) - [New tag suggestion: \&quot;genai-assisted\&quot;](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted)
+* [2025-12-10, 07:06:55](https://news.ycombinator.com/item?id=46214950) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 07:04:32](https://lobste.rs/s/h7a3xy/stop_breaking_tls) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
+* [2025-12-10, 07:00:00](https://science.slashdot.org/story/25/12/09/2318208/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [In a Major New Report, Scientists Build Rationale For Sending Astronauts To Mars](https://science.slashdot.org/story/25/12/09/2318208/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-10, 06:22:19](https://news.ycombinator.com/item?id=46214693) - [Revisiting \&quot;Let&apos;s Build a Compiler\&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
+* [2025-12-10, 06:08:50](https://news.ycombinator.com/item?id=46214617) - [Are the Three Musketeers allergic to muskets?(2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss)
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
-* [2025-12-10, 04:29:30](https://news.ycombinator.com/item?id=46214091) - [Dependable C](https://dependablec.org/)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 03:33:14](https://news.ycombinator.com/item?id=46213709) - [&apos;Source available&apos; is not open source (and that&apos;s okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
 * [2025-12-10, 03:30:00](https://news.slashdot.org/story/25/12/09/2311256/food-and-fossil-fuel-production-causing-5-billion-of-environmental-damage-an-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Food and Fossil Fuel Production Causing $5 Billion of Environmental Damage an Hour&apos;](https://news.slashdot.org/story/25/12/09/2311256/food-and-fossil-fuel-production-causing-5-billion-of-environmental-damage-an-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/)
-* [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page)
+* [2025-12-10, 03:15:24](https://news.ycombinator.com/item?id=46213585) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
+* [2025-12-10, 02:18:07](https://news.ycombinator.com/item?id=46213273) - [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
 * [2025-12-10, 02:02:00](https://news.slashdot.org/story/25/12/09/2255209/openai-joins-the-linux-foundations-new-agentic-ai-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Joins the Linux Foundation&apos;s New Agentic AI Foundation](https://news.slashdot.org/story/25/12/09/2255209/openai-joins-the-linux-foundations-new-agentic-ai-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 01:25:00](https://news.ycombinator.com/item?id=46212969) - [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275)
 * [2025-12-10, 01:25:00](https://yro.slashdot.org/story/25/12/09/2243222/netflix-faces-consumer-class-action-over-72-billion-warner-bros-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix Faces Consumer Class Action Over $72 Billion Warner Bros Deal](https://yro.slashdot.org/story/25/12/09/2243222/netflix-faces-consumer-class-action-over-72-billion-warner-bros-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 01:09:00](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss) - [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss)
 * [2025-12-10, 00:45:00](https://yro.slashdot.org/story/25/12/09/2235240/ask-slashdot-what-are-the-best-locally-hosted-wireless-security-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot: What Are the Best Locally-Hosted Wireless Security Cameras?](https://yro.slashdot.org/story/25/12/09/2235240/ask-slashdot-what-are-the-best-locally-hosted-wireless-security-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 00:41:26](https://lobste.rs/s/yddim2/fear_walking_zig_security_audit_gap) - [Fear of the Walking Zig: The Security Audit Gap](https://generativeai.pub/fear-of-the-walking-zig-the-security-audit-gap-707aec6ceb92)
 * [2025-12-10, 00:02:00](https://news.slashdot.org/story/25/12/09/2130256/more-people-crowdfunded-basic-needs-in-2025-gofundme-report-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More People Crowdfunded Basic Needs In 2025, GoFundMe Report Shows](https://news.slashdot.org/story/25/12/09/2130256/more-people-crowdfunded-basic-needs-in-2025-gofundme-report-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 23:20:00](https://yro.slashdot.org/story/25/12/09/2123219/congress-quietly-strips-right-to-repair-provisions-from-us-military-spending-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Congress Quietly Strips Right-To-Repair Provisions From US Military Spending Bill](https://yro.slashdot.org/story/25/12/09/2123219/congress-quietly-strips-right-to-repair-provisions-from-us-military-spending-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-09, 22:54:33](https://news.ycombinator.com/item?id=46211861) - [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
 * [2025-12-09, 22:47:36](https://news.ycombinator.com/item?id=46211802) - [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
 * [2025-12-09, 22:40:00](https://tech.slashdot.org/story/25/12/09/2112230/millions-of-australian-teens-lose-access-to-social-media-as-ban-takes-effect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Millions of Australian Teens Lose Access To Social Media As Ban Takes Effect](https://tech.slashdot.org/story/25/12/09/2112230/millions-of-australian-teens-lose-access-to-social-media-as-ban-takes-effect?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 22:02:00](https://apple.slashdot.org/story/25/12/09/2118205/apples-slow-ai-pace-becomes-a-strength-as-market-grows-weary-of-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Slow AI Pace Becomes a Strength As Market Grows Weary of Spending](https://apple.slashdot.org/story/25/12/09/2118205/apples-slow-ai-pace-becomes-a-strength-as-market-grows-weary-of-spending?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 20:33:14](https://news.ycombinator.com/item?id=46210240) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 * [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss) - [Samsung&apos;s First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss)
 * [2025-12-09, 20:01:00](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Inevitable Shape of Cheap Online Retail](https://slashdot.org/story/25/12/09/1941236/the-inevitable-shape-of-cheap-online-retail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-09, 20:00:39](https://news.ycombinator.com/item?id=46209846) - [Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 * [2025-12-09, 19:53:28](https://lobste.rs/s/8utaot/10_years_let_s_encrypt_certificates) - [10 Years of Let&apos;s Encrypt Certificates](https://letsencrypt.org/2025/12/09/10-years.html)
 * [2025-12-09, 19:28:00](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Pokemon Cards Became a Stock Market For Millennials](https://games.slashdot.org/story/25/12/09/1928240/how-pokemon-cards-became-a-stock-market-for-millennials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 19:15:09](https://lobste.rs/s/2o4yp6/my_favourite_small_hash_table) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
@@ -113,14 +116,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 17:11:09](https://news.ycombinator.com/item?id=46207505) - [If you&apos;re going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 * [2025-12-09, 17:08:37](https://news.ycombinator.com/item?id=46207464) - [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
 * [2025-12-09, 17:05:42](https://news.ycombinator.com/item?id=46207425) - [Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
-* [2025-12-09, 16:50:00](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xbox Is Bleeding Out](https://games.slashdot.org/story/25/12/09/1630206/xbox-is-bleeding-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * [2025-12-09, 16:28:58](https://lobste.rs/s/y5vgj7/international_workshop_on_plan_9_2026) - [International Workshop on Plan 9: 2026 Edition](https://iwp9.org)
 * [2025-12-09, 16:06:58](https://news.ycombinator.com/item?id=46206531) - [Handsdown one of the coolest 3D websites](https://bruno-simon.com/)
 * [2025-12-09, 15:51:32](https://news.ycombinator.com/item?id=46206277) - [A supersonic engine core makes the perfect power turbine](https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss)
 * [2025-12-09, 15:29:26](https://lobste.rs/s/hekuyc/css_wrapped_2025) - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
-* [2025-12-09, 15:08:24](https://news.ycombinator.com/item?id=46205724) - [Apple&apos;s slow AI pace becomes a strength as market grows weary of spending](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 * [2025-12-09, 15:03:09](https://news.ycombinator.com/item?id=46205661) - [Pebble Index 01 – External memory for your brain](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [2025-12-09, 15:00:38](https://news.ycombinator.com/item?id=46205632) - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [2025-12-09, 14:59:01](https://lobste.rs/s/iyycuu/fighting_client_spaghetti_monster_with) - [Fighting the Client Spaghetti Monster with Rust Traits](http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/)
@@ -137,7 +138,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 09:13:56](https://news.ycombinator.com/item?id=46202921) - [30 Year Anniversary of WarCraft II: Tides of Darkness](https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z)
 * [2025-12-09, 09:01:28](https://lobste.rs/s/ztpekx/39c3_fahrplan_2025) - [39C3 Fahrplan 2025](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss) - [Common Desktop Environment \&quot;CDE\&quot; 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss)
-* [2025-12-09, 03:12:55](https://lobste.rs/s/yp9mou/metacode_new_standard_for_machine) - [Metacode: The new standard for machine-readable comments for Python](https://github.com/pomponchik/metacode)
 * [2025-12-09, 01:21:00](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss) - [Improved Truncated Wigner Approximation Makes Quantum Calcs on Classical Computers More Accessible](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss)
 * [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss) - [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss)
