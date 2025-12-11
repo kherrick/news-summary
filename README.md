@@ -1,62 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## AI and Technology Developments
 
-* [New OpenAI Models Likely Pose 'High' Cybersecurity Risk, Company Says](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/) ([comments](https://news.ycombinator.com/item?id=46233067))
 
-* [India Proposes Charging OpenAI, Google For Training AI On Copyrighted Content](https://tech.slashdot.org/story/25/12/10/2148259/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Disney Puts $1 Billion Into OpenAI, Licenses 200+ Characters for AI-Generated Videos and Images](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [ChatGPT Is Apple's Most Downloaded App of 2025](https://apple.slashdot.org/story/25/12/10/2250214/chatgpt-is-apples-most-downloaded-app-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html) ([comments](https://news.ycombinator.com/item?id=46231585))
 
-* [Adobe Integrates With ChatGPT](https://slashdot.org/story/25/12/10/2117208/adobe-integrates-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Opera Wants You To Pay $20 a Month For Its AI Browser](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Technology and Software Development
+* [New OpenAI Models Likely Pose 'High' Cybersecurity Risk, Company Says](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
+## Scientific and Space Updates
 
-* [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md)
+* [Sperm Donor With Cancer-Causing Gene Fathered Nearly 200 Children Across Europe](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Ubuntu Will Have Native AMD ROCm AI/ML and HPC Libraries In Next LTS Release](https://news.slashdot.org/story/25/12/10/2122240/ubuntu-will-have-native-amd-rocm-aiml-and-hpc-libraries-in-next-lts-release?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NASA Loses Contact With MAVEN Mars Orbiter](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
+## Software and Development Tools
 
-## Privacy, Cybersecurity, and Open Source
+* [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434) ([comments](https://news.ycombinator.com/item?id=46232434))
 
-* [Proton Launches Encrypted Sheets as a Privacy-First Alternative to Google, Microsoft Excel](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss)
+* [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python) ([comments](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for))
 
-* [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
+* [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md) ([comments](https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown))
 
-* [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
+* [pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust](https://github.com/nbari/pg_exporter) ([comments](https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter))
 
-## Social Media and Communication Platforms
-
-* [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
-
-* [Operation Bluebird Wants To Relaunch 'Twitter' For a New Social Network](https://tech.slashdot.org/story/25/12/10/2245217/operation-bluebird-wants-to-relaunch-twitter-for-a-new-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Science and Space
-
-* [NASA Loses Contact With MAVEN Mars Orbiter](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss)
-
-## Health and Ethics
-
-* [Sperm Donor With Cancer-Causing Gene Fathered Nearly 200 Children Across Europe](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
-
-## Economic and Policy Developments
-
-* [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
-
-* [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
-
-## Innovation and Industry
-
-* [Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems](https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Samsung's First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss)
+* [Let&apos;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/) ([comments](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel))
 
 ---
 
@@ -83,11 +55,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-11, 16:02:32](https://news.ycombinator.com/item?id=46233067) - [A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+* [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
+* [2025-12-11, 15:47:48](https://news.ycombinator.com/item?id=46232828) - [Crick and Watson Did Not Steal Franklin&apos;s Data](https://nautil.us/crick-and-watson-did-not-steal-franklins-data-1252663/)
+* [2025-12-11, 15:36:32](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for) - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
+* [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It&apos;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
+* [2025-12-11, 15:22:00](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Puts $1 Billion Into OpenAI, Licenses 200+ Characters for AI-Generated Videos and Images](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
+* [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss) - [AI Favors Texts Written by Other AIs, Even When They&apos;re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss)
+* [2025-12-11, 15:01:49](https://news.ycombinator.com/item?id=46232222) - [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)
+* [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
+* [2025-12-11, 15:01:21](https://lobste.rs/s/sklkcz/how_linux_is_built_greg_kroah_hartman) - [How Linux Is Built - Greg Kroah-Hartman](https://www.youtube.com/watch?v=7agB1vOl-wg)
+* [2025-12-11, 14:45:00](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera Wants You To Pay $20 a Month For Its AI Browser](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
+* [2025-12-11, 14:12:14](https://news.ycombinator.com/item?id=46231585) - [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+* [2025-12-11, 14:05:00](https://news.slashdot.org/story/25/12/11/145213/us-could-ask-foreign-tourists-for-five-year-social-media-history-before-entry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Could Ask Foreign Tourists For Five-Year Social Media History Before Entry](https://news.slashdot.org/story/25/12/11/145213/us-could-ask-foreign-tourists-for-five-year-social-media-history-before-entry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 * [2025-12-11, 13:00:00](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New OpenAI Models Likely Pose &apos;High&apos; Cybersecurity Risk, Company Says](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let&apos;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 12:11:12](https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown) - [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md)
 * [2025-12-11, 11:51:37](https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter) - [pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust](https://github.com/nbari/pg_exporter)
-* [2025-12-11, 11:26:45](https://news.ycombinator.com/item?id=46230072) - [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
 * [2025-12-11, 10:25:00](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss) - [Proton Launches Encrypted Sheets as a Privacy-First Alternative to Google, Microsoft Excel](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss)
 * [2025-12-11, 10:00:00](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sperm Donor With Cancer-Causing Gene Fathered Nearly 200 Children Across Europe](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
@@ -97,8 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 07:00:00](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Loses Contact With MAVEN Mars Orbiter](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 05:48:00](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
 * [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
-* [2025-12-11, 04:39:04](https://lobste.rs/s/3laked/getting_gemini_api_key_is_exercise) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-* [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2025-12-11, 03:30:00](https://apple.slashdot.org/story/25/12/10/2250214/chatgpt-is-apples-most-downloaded-app-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Is Apple&apos;s Most Downloaded App of 2025](https://apple.slashdot.org/story/25/12/10/2250214/chatgpt-is-apples-most-downloaded-app-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - [Chattanooga&apos;s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss)
@@ -119,26 +104,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-10, 19:26:06](https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated) - [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
 * [2025-12-10, 18:58:55](https://news.ycombinator.com/item?id=46221925) - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 * [2025-12-10, 18:45:00](https://slashdot.org/story/25/12/10/1840244/wells-fargo-ceo-says-more-job-cuts-coming-at-the-bank-as-ai-prompts-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wells Fargo CEO Says More Job Cuts Coming at the Bank as AI Prompts &apos;Efficiency&apos;](https://slashdot.org/story/25/12/10/1840244/wells-fargo-ceo-says-more-job-cuts-coming-at-the-bank-as-ai-prompts-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 18:37:27](https://news.ycombinator.com/item?id=46221594) - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
 * [2025-12-10, 18:22:34](https://lobste.rs/s/fzfas8/compressing_embedded_files_go) - [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed)
-* [2025-12-10, 18:09:00](https://politics.slashdot.org/story/25/12/10/189220/democrats-warn-their-party-may-try-to-unravel-any-paramount-warner-bros-discovery-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Democrats Warn Their Party May Try To Unravel Any Paramount-Warner Bros. Discovery Deal](https://politics.slashdot.org/story/25/12/10/189220/democrats-warn-their-party-may-try-to-unravel-any-paramount-warner-bros-discovery-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 17:59:53](https://lobste.rs/s/9k0wrj/swim_outsourced_heartbeats) - [SWIM: Outsourced Heartbeats](https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/)
-* [2025-12-10, 17:42:30](https://news.ycombinator.com/item?id=46220794) - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
-* [2025-12-10, 17:33:00](https://news.slashdot.org/story/25/12/10/1735239/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Changes How Copyright Protection is Applied To Kindle Direct&apos;s Self-Published Ebooks](https://news.slashdot.org/story/25/12/10/1735239/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-* [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
-* [2025-12-10, 16:51:00](https://linux.slashdot.org/story/25/12/10/1652206/hdmi-forum-continues-to-block-hdmi-21-for-linux-valve-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HDMI Forum Continues To Block HDMI 2.1 For Linux, Valve Says](https://linux.slashdot.org/story/25/12/10/1652206/hdmi-forum-continues-to-block-hdmi-21-for-linux-valve-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
-* [2025-12-10, 14:30:43](https://news.ycombinator.com/item?id=46218101) - [Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search](https://github.com/fcavallarin/wirebrowser)
 * [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
-* [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
-* [2025-12-10, 09:42:24](https://lobste.rs/s/yrillw/revisiting_let_s_build_compiler) - [Revisiting \&quot;Let&apos;s Build a Compiler\&quot;](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-* [2025-12-10, 08:53:54](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted) - [New tag suggestion: \&quot;genai-assisted\&quot;](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted)
 * [2025-12-10, 07:04:32](https://lobste.rs/s/h7a3xy/stop_breaking_tls) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss)
@@ -155,12 +128,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London&apos;s restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss) - [Common Desktop Environment \&quot;CDE\&quot; 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss)
 * [2025-12-09, 01:21:00](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss) - [Improved Truncated Wigner Approximation Makes Quantum Calcs on Classical Computers More Accessible](https://soylentnews.org/article.pl?sid=25/12/07/1532244&amp;from=rss)
+* [2025-12-08, 21:33:09](https://news.ycombinator.com/item?id=46197930) - [Show HN: I&apos;ve asked Claude to improve codebase quality 200 times](https://gricha.dev/blog/the-highest-quality-codebase)
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss) - [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss)
+* [2025-12-08, 19:55:08](https://news.ycombinator.com/item?id=46196796) - [Show HN: WhatHappened – HN summaries, heatmaps, and contrarian picks](https://www.whathappened.tech/)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 * [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss) - [Debian&apos;s APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss)
-* [2025-12-08, 08:04:51](https://news.ycombinator.com/item?id=46189632) - [Why Startups Die](https://www.techfounderstack.com/p/why-startups-die)
 * [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss)
 * [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) - [Recreating the Lost SDK for a 42-Year-Old Operating System: VisiCorp Visi on](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss)
 * [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss)
