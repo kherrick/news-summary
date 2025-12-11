@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Developments
+## Technological Developments
 
-* [ChatGPT Is Apple's Most Downloaded App of 2025](https://apple.slashdot.org/story/25/12/10/2250214/chatgpt-is-apples-most-downloaded-app-of-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Operation Bluebird Wants To Relaunch 'Twitter' For a New Social Network](https://tech.slashdot.org/story/25/12/10/2245217/operation-bluebird-wants-to-relaunch-twitter-for-a-new-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A proposed initiative plans to reimagine Twitter as a new social media platform.
 
-* [Meta's New AI Superstars Are Chafing Against the Rest of the Company](https://tech.slashdot.org/story/25/12/10/1528222/metas-new-ai-superstars-are-chafing-against-the-rest-of-the-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [ChatGPT Is Apple's Most Downloaded App of 2025](https://apple.slashdot.org/story/25/12/10/2250214/chatgpt-is-apples-most-downloaded-app-of-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - ChatGPT has been named the most downloaded app for Apple devices this year, reflecting its enormous popularity.
 
-* [Adobe Integrates With ChatGPT](https://slashdot.org/story/25/12/10/2117208/adobe-integrates-with-chatgpt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems](https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Qualcomm strengthens its chip design capabilities with the acquisition of Ventana Micro Systems, a company specializing in RISC-V technology.
 
-* [India Proposes Charging OpenAI, Google For Training AI On Copyrighted Content](https://tech.slashdot.org/story/25/12/10/2148259/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Ubuntu Will Have Native AMD ROCm AI/ML and HPC Libraries In Next LTS Release](https://news.slashdot.org/story/25/12/10/2122240/ubuntu-will-have-native-amd-rocm-aiml-and-hpc-libraries-in-next-lts-release?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ubuntu announces native support for AMD ROCm libraries in its next LTS release, boosting AI and high-performance computing applications.
 
-## Innovations in Software and Open Source
+## Economic and Corporate Shifts
 
-* [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&from=rss)
+* [Wells Fargo CEO Says More Job Cuts Coming at the Bank as AI Prompts 'Efficiency'](https://slashdot.org/story/25/12/10/1840244/wells-fargo-ceo-says-more-job-cuts-coming-at-the-bank-as-ai-prompts-efficiency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The CEO of Wells Fargo outlines plans for workforce reductions due to AI-driven efficiencies.
 
-* [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
+* [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - A German region chooses open-source solutions instead of Microsoft software to cut costs significantly.
 
-* [Patterns.dev](https://www.patterns.dev/)
+* [Google Faces Fines Over Google Play If It Doesn't Make More Concessions](https://news.slashdot.org/story/25/12/10/2238215/google-faces-fines-over-google-play-if-it-doesnt-make-more-concessions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulators threaten Google with penalties for inadequate compliance concerning Google Play policies.
 
-* [Ubuntu Will Have Native AMD ROCm AI/ML and HPC Libraries In Next LTS Release](https://news.slashdot.org/story/25/12/10/2122240/ubuntu-will-have-native-amd-rocm-aiml-and-hpc-libraries-in-next-lts-release?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Chattanooga's Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - Chattanooga's fiber internet initiative has reportedly contributed billions of dollars in benefits to the community.
 
-## Scientific Progress
+## Space and Sciences
 
-* [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss)
+* [NASA Loses Contact With MAVEN Mars Orbiter](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA announces interruptions in communication with the MAVEN Mars Orbiter.
 
-* [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&from=rss)
+* [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309) - Researchers introduce Terrain Diffusion, a powerful alternative to Perlin Noise for procedural terrain generation.
 
-* [UW Nobel Winner's Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&from=rss)
+* [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - Experts warn that upcoming satellite constellations may interfere with space telescopes.
 
-## Corporate and Industry Shifts
+## Software Development Insights
 
-* [Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems](https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y) - A deep dive into the performance impacts of implementing closures in the C programming language.
 
-* [Wells Fargo CEO Says More Job Cuts Coming at the Bank as AI Prompts 'Efficiency'](https://slashdot.org/story/25/12/10/1840244/wells-fargo-ceo-says-more-job-cuts-coming-at-the-bank-as-ai-prompts-efficiency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed) - Techniques for optimizing file compression within Go applications.
 
-* [Operation Bluebird Wants To Relaunch 'Twitter' For a New Social Network](https://tech.slashdot.org/story/25/12/10/2245217/operation-bluebird-wants-to-relaunch-twitter-for-a-new-social-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/) - Linux Kernel development moves closer to embracing Rust as a primary development language.
 
-## Environmental and Energy Advancements
+## Social Impacts of Technology
 
-* [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&from=rss)
+* [Just 0.001% hold 3 times the wealth of poorest half of humanity, report finds](https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds) - A new report highlights extreme wealth disparity between the global elite and the world's impoverished populations.
 
-* [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
-
-## Design and Usability
-
-* [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
-
-* [Fish Alpinism](https://triapul.cz/_/1765291397)
+* [India Proposes Charging OpenAI, Google For Training AI On Copyrighted Content](https://tech.slashdot.org/story/25/12/10/2148259/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Indian government suggests new regulations for monetizing AI training on copyrighted material.
 
 ---
 
@@ -73,6 +67,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
+* [2025-12-11, 09:30:08](https://news.ycombinator.com/item?id=46229346) - [Just 0.001% hold 3 times the wealth of poorest half of humanity, report finds](https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds)
+* [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
+* [2025-12-11, 07:21:33](https://news.ycombinator.com/item?id=46228597) - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
+* [2025-12-11, 07:00:00](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Loses Contact With MAVEN Mars Orbiter](https://science.slashdot.org/story/25/12/11/0026246/nasa-loses-contact-with-maven-mars-orbiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 05:48:00](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
 * [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
 * [2025-12-11, 04:20:52](https://news.ycombinator.com/item?id=46227619) - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
@@ -82,7 +81,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 00:50:00](https://tech.slashdot.org/story/25/12/10/2245217/operation-bluebird-wants-to-relaunch-twitter-for-a-new-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Operation Bluebird Wants To Relaunch &apos;Twitter&apos; For a New Social Network](https://tech.slashdot.org/story/25/12/10/2245217/operation-bluebird-wants-to-relaunch-twitter-for-a-new-social-network?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 00:10:00](https://news.slashdot.org/story/25/12/10/2238215/google-faces-fines-over-google-play-if-it-doesnt-make-more-concessions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Faces Fines Over Google Play If It Doesn&apos;t Make More Concessions](https://news.slashdot.org/story/25/12/10/2238215/google-faces-fines-over-google-play-if-it-doesnt-make-more-concessions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 23:52:09](https://lobste.rs/s/ppjpwn/nature_s_many_attempts_evolve_nostr) - [Nature&apos;s many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
-* [2025-12-10, 23:34:53](https://lobste.rs/s/pacpa4/deconstructing_cap_theorem_for_cm_devops) - [Deconstructing the `CAP theorem&apos; for CM and DevOps](https://markburgess.org/blog_cap.html)
 * [2025-12-10, 23:30:00](https://tech.slashdot.org/story/25/12/10/2148259/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Proposes Charging OpenAI, Google For Training AI On Copyrighted Content](https://tech.slashdot.org/story/25/12/10/2148259/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 23:10:02](https://lobste.rs/s/sibl0p/using_edge_detection_preserve) - [Using edge detection to preserve significant features while downsampling](http://yogthos.net/pixel-mosaic.html)
 * [2025-12-10, 22:50:00](https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems](https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,18 +106,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-10, 17:30:43](https://news.ycombinator.com/item?id=46220640) - [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
 * [2025-12-10, 17:20:06](https://news.ycombinator.com/item?id=46220488) - [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
+* [2025-12-10, 17:00:47](https://lobste.rs/s/h7c6we/iksemel_rusted) - [iksemel rusted](https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html)
 * [2025-12-10, 16:51:00](https://linux.slashdot.org/story/25/12/10/1652206/hdmi-forum-continues-to-block-hdmi-21-for-linux-valve-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HDMI Forum Continues To Block HDMI 2.1 For Linux, Valve Says](https://linux.slashdot.org/story/25/12/10/1652206/hdmi-forum-continues-to-block-hdmi-21-for-linux-valve-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 16:13:38](https://news.ycombinator.com/item?id=46219538) - [Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model](https://qwen.ai/blog?id=qwen3-omni-flash-20251201)
-* [2025-12-10, 16:05:03](https://news.ycombinator.com/item?id=46219386) - [Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)
 * [2025-12-10, 16:05:00](https://tech.slashdot.org/story/25/12/10/1528222/metas-new-ai-superstars-are-chafing-against-the-rest-of-the-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s New AI Superstars Are Chafing Against the Rest of the Company](https://tech.slashdot.org/story/25/12/10/1528222/metas-new-ai-superstars-are-chafing-against-the-rest-of-the-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
-* [2025-12-10, 15:29:14](https://news.ycombinator.com/item?id=46218782) - [RoboCrop: Teaching robots how to pick tomatoes](https://phys.org/news/2025-12-robocrop-robots-tomatoes.html)
 * [2025-12-10, 15:25:00](https://slashdot.org/story/25/12/10/1513248/same-product-same-store-but-on-instacart-prices-might-differ?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Same Product, Same Store, but on Instacart, Prices Might Differ](https://slashdot.org/story/25/12/10/1513248/same-product-same-store-but-on-instacart-prices-might-differ?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
-* [2025-12-10, 14:48:00](https://tech.slashdot.org/story/25/12/10/1448224/nvidia-builds-location-verification-tech-that-could-track-where-its-ai-chips-end-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Builds Location Verification Tech That Could Track Where Its AI Chips End Up](https://tech.slashdot.org/story/25/12/10/1448224/nvidia-builds-location-verification-tech-that-could-track-where-its-ai-chips-end-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-10, 14:30:43](https://news.ycombinator.com/item?id=46218101) - [Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search](https://github.com/fcavallarin/wirebrowser)
-* [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
 * [2025-12-10, 11:10:58](https://news.ycombinator.com/item?id=46216446) - [Common Lisp, ASDF, and Quicklisp: packaging explained](https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
@@ -139,7 +134,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss)
 * [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
-* [2025-12-09, 12:37:15](https://lobste.rs/s/j92yom/go_proposal_secret_mode) - [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/)
 * [2025-12-09, 11:15:34](https://lobste.rs/s/j1epfi/join_on_call_roster_it_ll_change_your_life) - [Join the on-call roster, it’ll change your life](https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life)
 * [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple&apos;s Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss)
 * [2025-12-09, 10:20:02](https://news.ycombinator.com/item?id=46203343) - [How Google Maps allocates survival across London&apos;s restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
@@ -148,6 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss) - [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss)
 * [2025-12-08, 14:42:01](https://news.ycombinator.com/item?id=46192748) - [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
+* [2025-12-08, 12:46:50](https://news.ycombinator.com/item?id=46191597) - [How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss) - [Debian&apos;s APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss)
 * [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss)
 * [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) - [Recreating the Lost SDK for a 42-Year-Old Operating System: VisiCorp Visi on](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss)
