@@ -1,58 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Corporate AI Conflicts and Risks
+## Technological Innovations
 
-* [Disney Says Google AI Infringes Copyright 'On a Massive Scale'](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Disney accuses Google AI of large-scale copyright infringement.
+* [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking milestone in geographic and architectural mapping with implications for urban planning and development.
 
-* [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11) - Recent vulnerabilities in React Server Components are highlighted.
+* [Nokia N900 Necromancy – giving a new life to a classic Linux smartphone](https://yaky.dev/2025-12-11-nokia-n900-necromancy/) - Reviving an iconic Linux-based smartphone with new functionalities.
 
-* [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/) - Cloudflare's investigation of React2Shell and its related risks.
+* [Rivian Goes Big On Autonomy, With Custom Silicon, Lidar, and a Hint At Robotaxis](https://tech.slashdot.org/story/25/12/11/2149239/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rivian unveils advancements in autonomous technology with a potential push toward robotaxi services.
 
-* [New OpenAI Models Likely Pose 'High' Cybersecurity Risk, Company Says](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI warns about potential security risks with its latest models.
+## Privacy and Security
 
-* [AI Favors Texts Written by Other AIs, Even When They’re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&from=rss) - Analysis shows AI preference for AI-generated content.
+* [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant breach raising concerns about Docker security.
 
-## Cybersecurity and Ethics
+* [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925) - A controversial move targeting youth potentially creating ripple effects on internet freedom.
 
-* [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components) - React's server components' vulnerabilities create risks of denial of service.
+* [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - Russia hints at developing a national Linux community amid geopolitical software tensions.
 
-* [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/) - Widespread credential leaks are discovered in Docker Hub images.
+## Artificial Intelligence Developments
 
-* [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/) - Rivian's new technology and roadmap aimed at enhancing vehicle autonomy.
+* [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Centralized regulation of AI sparks debates on state versus federal oversight.
 
-* [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925) - The UK proposes controversial restrictions on VPN use under age 16.
+* [Disney Says Google AI Infringes Copyright 'On a Massive Scale'](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Disney accuses Google of large-scale copyright infringement using AI, setting grounds for legal battles.
 
-## Emerging Technologies
+* [New York Becomes First State To Require Disclosure of AI Performers in Ads](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A landmark regulation promoting transparency in AI-generated content in advertising.
 
-* [Google is Building an Experimental New Browser and a New Kind of Web App](https://tech.slashdot.org/story/25/12/11/2022257/google-is-building-an-experimental-new-browser-and-a-new-kind-of-web-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google announces its work on an innovative browser and web app.
+## Cultural and Historical Insights
 
-* [GPT-5.2 Arrives as OpenAI Scrambles To Respond To Gemini 3's Gains](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's advanced GPT-5.2 debuts as competition heats up.
+* [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval) - Examines the strategic, cultural, and practical importance of medieval castles.
 
-* [Let’s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/) - Exploration of embedding Go programs within Linux kernels.
+* [Why Switzerland Is Weighing a 10 Million Population Limit](https://news.slashdot.org/story/25/12/11/1639230/why-switzerland-is-weighing-a-10-million-population-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at population control measures and their potential societal impacts.
 
-## Privacy and Digital Rights
+## Notable Security Threats
 
-* [New York Becomes First State To Require Disclosure of AI Performers in Ads](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New law mandates transparency of AI usage in advertisements.
+* [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components) - A critical security flaw identified in React Server Components posing risks to developers.
 
-* [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/) - Examination of Snowden's leaks for privacy and ethical implications.
-
-## Software and Development
-
-* [Install Size Optimization: Helldivers 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371) - Gaming optimization detailed with case study.
-
-* [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder) - Long-term support Linux distribution release announcement.
-
-## Health and Environmental Sciences
-
-* [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&from=rss) - Medical professionals highlight complications associated with cannabis use.
-
-* [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss) - Research breakthrough in vaccine therapy's efficacy against cervical cancer.
-
-## Transportation and Infrastructure
-
-* [Uber Pulls Back From Electric Cars, Slashing Incentives for Drivers](https://tech.slashdot.org/story/25/12/11/1918242/uber-pulls-back-from-electric-cars-slashing-incentives-for-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Uber reduces support for electric vehicles amidst strategic shifts.
-
-* [Chattanooga’s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&from=rss) - Economic insights into the benefits of Chattanooga’s municipal fiber optic setup.
+* [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss) - A rising, dangerous condition linked to cannabis consumption calls for public health attention.
 
 ---
 
@@ -79,16 +61,29 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-12, 02:02:00](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-12, 01:48:31](https://lobste.rs/s/z99i7c/orvalho_spec) - [Orvalho Spec](https://github.com/lucasew/orvalho/blob/main/SPEC.md)
+* [2025-12-12, 01:41:22](https://lobste.rs/s/zyvhp9/pop_goes_population_count) - [Pop goes the...population count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
+* [2025-12-12, 01:25:00](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-12, 00:45:00](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Kills vSphere Foundation In Parts of EMEA](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-12, 00:39:00](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss)
+* [2025-12-12, 00:27:22](https://lobste.rs/s/vvnsdb/notes_on_gamma) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
+* [2025-12-12, 00:04:29](https://news.ycombinator.com/item?id=46239177) - [Nokia N900 Necromancy – giving a new life to a classic Linux smartphone](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
+* [2025-12-12, 00:02:00](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 23:20:00](https://yro.slashdot.org/story/25/12/11/222243/uc-berkeley-professor-uses-secret-camera-to-catch-phd-candidate-sabotaging-rival?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UC Berkeley Professor Uses Secret Camera To Catch PhD Candidate Sabotaging Rival](https://yro.slashdot.org/story/25/12/11/222243/uc-berkeley-professor-uses-secret-camera-to-catch-phd-candidate-sabotaging-rival?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 22:40:00](https://tech.slashdot.org/story/25/12/11/2149239/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rivian Goes Big On Autonomy, With Custom Silicon, Lidar, and a Hint At Robotaxis](https://tech.slashdot.org/story/25/12/11/2149239/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 22:23:20](https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp) - [Oils 0.37.0 - Alpine Linux, YSH, and mycpp](https://oils.pub/blog/2025/12/release-0.37.0.html)
 * [2025-12-11, 22:00:00](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Says Google AI Infringes Copyright &apos;On a Massive Scale&apos;](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-11, 21:37:58](https://news.ycombinator.com/item?id=46237527) - [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)
-* [2025-12-11, 21:36:56](https://news.ycombinator.com/item?id=46237515) - [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)
+* [2025-12-11, 21:35:52](https://news.ycombinator.com/item?id=46237501) - [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
 * [2025-12-11, 21:22:00](https://tech.slashdot.org/story/25/12/11/2022257/google-is-building-an-experimental-new-browser-and-a-new-kind-of-web-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google is Building an Experimental New Browser and a New Kind of Web App](https://tech.slashdot.org/story/25/12/11/2022257/google-is-building-an-experimental-new-browser-and-a-new-kind-of-web-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-11, 21:18:49](https://news.ycombinator.com/item?id=46237304) - [RFC 6677 DNS Transport over TCP – Implementation Requirements (2016)](https://www.ietf.org/rfc/rfc7766.txt)
+* [2025-12-11, 21:05:27](https://news.ycombinator.com/item?id=46237146) - [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 20:45:00](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cisco Stock Hits New All-Time High, 25 Years After the Dotcom Bubble Burst](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 20:32:22](https://news.ycombinator.com/item?id=46236738) - [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)
-* [2025-12-11, 20:30:22](https://lobste.rs/s/6h5puc/sled_command_line_utility_for_advent_code) - [sled: A command-line utility for Advent of Code written in Janet](https://github.com/pyrmont/sled)
+* [2025-12-11, 20:20:24](https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight) - [The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-11, 20:05:00](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Becomes First State To Require Disclosure of AI Performers in Ads](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 19:56:00](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss) - [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
@@ -113,31 +108,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:44:00](https://news.slashdot.org/story/25/12/11/1639230/why-switzerland-is-weighing-a-10-million-population-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Switzerland Is Weighing a 10 Million Population Limit](https://news.slashdot.org/story/25/12/11/1639230/why-switzerland-is-weighing-a-10-million-population-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
-* [2025-12-11, 16:13:00](https://it.slashdot.org/story/25/12/11/1613223/ai-hackers-are-coming-dangerously-close-to-beating-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Hackers Are Coming Dangerously Close to Beating Humans](https://it.slashdot.org/story/25/12/11/1613223/ai-hackers-are-coming-dangerously-close-to-beating-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-11, 15:52:30](https://news.ycombinator.com/item?id=46232898) - [Deprecate like you mean it](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_practices) - [Google’s code review practices](https://google.github.io/eng-practices/)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It&apos;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
-* [2025-12-11, 15:22:00](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Puts $1 Billion Into OpenAI, Licenses 200+ Characters for AI-Generated Videos and Images](https://slashdot.org/story/25/12/11/1522244/disney-puts-1-billion-into-openai-licenses-200-characters-for-ai-generated-videos-and-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss) - [AI Favors Texts Written by Other AIs, Even When They&apos;re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss)
 * [2025-12-11, 15:01:44](https://news.ycombinator.com/item?id=46232220) - [An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions](https://arxiv.org/abs/2512.09643)
-* [2025-12-11, 14:45:00](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera Wants You To Pay $20 a Month For Its AI Browser](https://tech.slashdot.org/story/25/12/11/1430237/opera-wants-you-to-pay-20-a-month-for-its-ai-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 14:21:14](https://news.ycombinator.com/item?id=46231709) - [The architecture of “not bad”: Decoding the Chinese source code of the void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
 * [2025-12-11, 14:05:16](https://news.ycombinator.com/item?id=46231493) - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
-* [2025-12-11, 14:05:00](https://news.slashdot.org/story/25/12/11/145213/us-could-ask-foreign-tourists-for-five-year-social-media-history-before-entry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Could Ask Foreign Tourists For Five-Year Social Media History Before Entry](https://news.slashdot.org/story/25/12/11/145213/us-could-ask-foreign-tourists-for-five-year-social-media-history-before-entry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 13:45:08](https://news.ycombinator.com/item?id=46231274) - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/)
 * [2025-12-11, 13:35:55](https://news.ycombinator.com/item?id=46231187) - [French supermarket&apos;s Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
-* [2025-12-11, 13:00:00](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New OpenAI Models Likely Pose &apos;High&apos; Cybersecurity Risk, Company Says](https://it.slashdot.org/story/25/12/11/0040221/new-openai-models-likely-pose-high-cybersecurity-risk-company-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let&apos;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 10:25:00](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss) - [Proton Launches Encrypted Sheets as a Privacy-First Alternative to Google, Microsoft Excel](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss)
-* [2025-12-11, 10:00:00](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sperm Donor With Cancer-Causing Gene Fathered Nearly 200 Children Across Europe](https://science.slashdot.org/story/25/12/11/0034259/sperm-donor-with-cancer-causing-gene-fathered-nearly-200-children-across-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 05:48:00](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
-* [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
-* [2025-12-11, 01:18:55](https://news.ycombinator.com/item?id=46226483) - [Patterns.dev](https://www.patterns.dev/)
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - [Chattanooga&apos;s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss)
 * [2025-12-10, 23:52:09](https://lobste.rs/s/ppjpwn/nature_s_many_attempts_evolve_nostr) - [Nature&apos;s many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
 * [2025-12-10, 23:10:02](https://lobste.rs/s/sibl0p/using_edge_detection_preserve) - [Using edge detection to preserve significant features while downsampling](http://yogthos.net/pixel-mosaic.html)
@@ -145,16 +131,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF launches Age Verification Hub](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
 * [2025-12-10, 19:36:04](https://lobste.rs/s/pbthr7/maybe_we_don_t_need_server) - [Maybe we don&apos;t need a server](https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html)
-* [2025-12-10, 19:26:06](https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated) - [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-* [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
 * [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss)
-* [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 01:09:00](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss) - [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss)
 * [2025-12-09, 20:23:00](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss) - [Samsung&apos;s First Tri-Fold Phone is Here: Everything You Need to Know](https://soylentnews.org/article.pl?sid=25/12/08/0455213&amp;from=rss)
-* [2025-12-09, 16:10:37](https://news.ycombinator.com/item?id=46206591) - [Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them](https://github.com/privacyshield-ai/privacy-firewall)
 * [2025-12-09, 15:39:00](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss) - [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss)
 * [2025-12-09, 10:51:00](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss) - [US Wants Laws to Force App Store Age Checks, Despite Apple&apos;s Existing Protections](https://soylentnews.org/article.pl?sid=25/12/08/0146206&amp;from=rss)
 * [2025-12-09, 06:03:00](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss) - [Common Desktop Environment \&quot;CDE\&quot; 2.5.3 Released After Two Years](https://soylentnews.org/article.pl?sid=25/12/08/0143259&amp;from=rss)
@@ -164,12 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss)
 * [2025-12-08, 11:49:40](https://news.ycombinator.com/item?id=46191207) - [Golang optimizations for high‑volume services](https://packagemain.tech/p/golang-optimizations-for-highvolume)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss) - [Debian&apos;s APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss)
-* [2025-12-08, 10:39:10](https://news.ycombinator.com/item?id=46190760) - [Contact Sheet Prompting](https://www.willienotwilly.com/contact-sheet-prompting)
+* [2025-12-08, 08:29:47](https://news.ycombinator.com/item?id=46189792) - [You gotta push if you wanna pull](https://www.morling.dev/blog/you-gotta-push-if-you-wanna-pull/)
 * [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss)
 * [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) - [Recreating the Lost SDK for a 42-Year-Old Operating System: VisiCorp Visi on](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss)
 * [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss)
-* [2025-12-07, 20:50:00](https://soylentnews.org/article.pl?sid=25/12/06/1415242&amp;from=rss) - [Syntax Hacking: Researchers Discover Sentence Structure Can Bypass AI Safety Rules](https://soylentnews.org/article.pl?sid=25/12/06/1415242&amp;from=rss)
-* [2025-12-07, 16:07:00](https://soylentnews.org/article.pl?sid=25/12/06/140210&amp;from=rss) - [Why People Keep Flocking to Linux in 2025 (and It&apos;s Not Just to Escape Windows)](https://soylentnews.org/article.pl?sid=25/12/06/140210&amp;from=rss)
-* [2025-12-07, 11:26:00](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss) - [UW Nobel Winner&apos;s Lab Releases Most Powerful Protein Design Tool Yet](https://soylentnews.org/article.pl?sid=25/12/05/0735244&amp;from=rss)
-* [2025-12-07, 06:42:00](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss) - [FreeBSD 15.0 Released With Pkgbase - and With It Come Several Major Changes](https://soylentnews.org/article.pl?sid=25/12/05/0733258&amp;from=rss)
-* [2025-12-07, 01:59:00](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss) - [IBM CEO Warns That Ongoing Trillion-Dollar AI Data Center Buildout is Unsustainable](https://soylentnews.org/article.pl?sid=25/12/05/0730234&amp;from=rss)
