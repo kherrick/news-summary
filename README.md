@@ -1,48 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology Innovations and Challenges
 
-* [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/) - A deep dive into freeing a Xiaomi humidifier from cloud reliance, enabling more personal control.
+* [Smartphone Without a Battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/) ([comments](https://news.ycombinator.com/item?id=46241767)) explores a novel design for battery-free mobile technology.
 
-* [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explore the massive undertaking of 3D mapping nearly all buildings on Earth and its implications.
+* [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46239895)) reveals the vast extent of global 3D mapping achieved.
 
-* [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap) - Details on a new Rust-based SQL database focusing on performance and reliability.
+* [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607) ([comments](https://news.ycombinator.com/item?id=46239629)) discusses a CRISPR-engineered fungal protein that mimics meat texture and sustainability.
 
-* [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607) - CRISPR tech enables the creation of a sustainable fungus that mimics meat taste and texture.
+* [A Lisp Interpreter Implemented in Conway’s Game of Life](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html) ([comments](https://news.ycombinator.com/item?id=46239895)) showcases an innovative Lisp interpreter running within the rules of Conway's Game of Life.
 
-* [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-) - A discussion on why Htmx and lightweight frameworks are reshaping web development.
+## Cybersecurity and Privacy
 
-## Cybersecurity Concerns
+* [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/) ([comments](https://news.ycombinator.com/item?id=46241849)) emphasizes protective strategies in the face of aggressive AI-driven scraping.
 
-* [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of a significant vulnerability exposed in Docker Hub.
+* [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46241849)) highlights alarming findings of sensitive data leaks in container images.
 
-* [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components) - Examination of recent React security issues that impact server components.
+* [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/) ([comments](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud)) delves into regaining control of IoT devices by removing reliance on proprietary clouds.
 
-## Gaming and Entertainment
+## Scientific Breakthroughs and Space
 
-* [Helldivers 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371) - Techniques used to significantly shrink game file sizes without sacrificing performance.
+* [Cadmium Zinc Telluride: The Wonder Material Powering a Medical 'Revolution'](https://science.slashdot.org/story/25/12/12/0346227/cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/25/12/12/0346227/cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) showcases transformative properties of a material vital for advanced medical imaging.
 
-* [The Game Awards Are Losing Their Luster](https://games.slashdot.org/story/25/12/11/1737204/the-game-awards-are-losing-their-luster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Debate over the declining prestige of The Game Awards.
+* [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)) investigates the challenges posed by increasing aerial device clusters to space observation.
 
-## Noteworthy Software and Open Source Developments
+## Society and Economics
 
-* [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/) - Revival efforts for the Nokia N900 bring a dose of nostalgia and innovation.
+* [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)).
 
-* [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder) - Introduction of the latest release of Pop!_OS with insights from its creators.
-
-* [Let’s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/) - Exploration of embedding Go programs directly in the kernel for enhanced integration.
-
-## AI and Machine Learning
-
-* [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial executive order centralizes AI regulations in the US.
-
-* [GPT-5.2 Arrives as OpenAI Scrambles To Respond To Gemini 3's Gains](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New breakthroughs in AI with GPT-5.2 released by OpenAI.
-
-## Economic and Legal Developments
-
-* [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A landmark judgment following the collapse of TerraUSD.
-
-* [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - Russia considers forming an independent Linux community following controversies.
+* [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)).
 
 ---
 
@@ -69,8 +55,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-12, 08:24:22](https://news.ycombinator.com/item?id=46242016) - [Journalism students expose Russian-linked vessels off the Dutch and German coast](https://www.digitaldigging.org/p/they-droned-back)
+* [2025-12-12, 07:51:04](https://news.ycombinator.com/item?id=46241849) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+* [2025-12-12, 07:36:17](https://news.ycombinator.com/item?id=46241767) - [Smartphone Without a Battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/)
+* [2025-12-12, 07:35:49](https://news.ycombinator.com/item?id=46241763) - [The tiniest yet real telescope I&apos;ve built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+* [2025-12-12, 07:00:00](https://science.slashdot.org/story/25/12/12/0346227/cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cadmium Zinc Telluride: The Wonder Material Powering a Medical &apos;Revolution&apos;](https://science.slashdot.org/story/25/12/12/0346227/cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 06:15:48](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud) - [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
+* [2025-12-12, 05:56:21](https://lobste.rs/s/g1o2t8/guarding_my_git_forge_against_ai_scrapers) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 05:22:00](https://soylentnews.org/article.pl?sid=25/12/10/2256226&amp;from=rss) - [Pebble Index 01 Arrives as a Private Open Source Voice Capture Ring](https://soylentnews.org/article.pl?sid=25/12/10/2256226&amp;from=rss)
+* [2025-12-12, 03:55:02](https://lobste.rs/s/kpuita/are_we_stuck_with_same_desktop_ux_forever) - [Are we stuck with the same Desktop UX forever?](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 * [2025-12-12, 03:35:25](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard) - [Being a SysAdmin is hard](https://about.tree.ht/blog/treehut-outages-december-2025)
 * [2025-12-12, 03:30:00](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 03:11:31](https://lobste.rs/s/gxycog/lisp_interpreter_implemented_conway_s) - [A Lisp Interpreter Implemented in Conway’s Game of Life](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
@@ -78,12 +71,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-12, 01:41:22](https://lobste.rs/s/zyvhp9/pop_goes_population_count) - [Pop goes the...population count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical &apos;revolution&apos;](https://www.bbc.com/news/articles/c24l223d9n7o)
 * [2025-12-12, 01:25:00](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google De-Indexed My Bear Blog and I Don&apos;t Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
-* [2025-12-12, 01:05:30](https://news.ycombinator.com/item?id=46239673) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
+* [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google de-indexed Bear Blog and I don&apos;t know why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 * [2025-12-12, 00:59:46](https://news.ycombinator.com/item?id=46239629) - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 * [2025-12-12, 00:45:00](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Kills vSphere Foundation In Parts of EMEA](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 00:39:00](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss)
-* [2025-12-12, 00:37:42](https://news.ycombinator.com/item?id=46239445) - [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-12, 00:28:24](https://news.ycombinator.com/item?id=46239372) - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 * [2025-12-12, 00:27:22](https://lobste.rs/s/vvnsdb/notes_on_gamma) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 * [2025-12-12, 00:05:36](https://news.ycombinator.com/item?id=46239188) - [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
@@ -93,7 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 22:40:00](https://tech.slashdot.org/story/25/12/11/2149239/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rivian Goes Big On Autonomy, With Custom Silicon, Lidar, and a Hint At Robotaxis](https://tech.slashdot.org/story/25/12/11/2149239/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 22:23:20](https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp) - [Oils 0.37.0 - Alpine Linux, YSH, and mycpp](https://oils.pub/blog/2025/12/release-0.37.0.html)
 * [2025-12-11, 22:00:00](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Says Google AI Infringes Copyright &apos;On a Massive Scale&apos;](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-11, 21:35:52](https://news.ycombinator.com/item?id=46237501) - [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
 * [2025-12-11, 21:22:00](https://tech.slashdot.org/story/25/12/11/2022257/google-is-building-an-experimental-new-browser-and-a-new-kind-of-web-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google is Building an Experimental New Browser and a New Kind of Web App](https://tech.slashdot.org/story/25/12/11/2022257/google-is-building-an-experimental-new-browser-and-a-new-kind-of-web-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 21:00:10](https://news.ycombinator.com/item?id=46237081) - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
@@ -104,7 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 19:56:00](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss) - [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 * [2025-12-11, 19:37:35](https://lobste.rs/s/jyl2j6/pop_os_24_04_lts_released_letter_from_our) - [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder)
-* [2025-12-11, 19:30:58](https://news.ycombinator.com/item?id=46236037) - [My productivity app is a never-ending .txt file (2020)](https://jeffhuang.com/productivity_text_file/)
 * [2025-12-11, 19:25:14](https://news.ycombinator.com/item?id=46235959) - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [2025-12-11, 19:24:00](https://tech.slashdot.org/story/25/12/11/1918242/uber-pulls-back-from-electric-cars-slashing-incentives-for-drivers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Pulls Back From Electric Cars, Slashing Incentives for Drivers](https://tech.slashdot.org/story/25/12/11/1918242/uber-pulls-back-from-electric-cars-slashing-incentives-for-drivers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 18:45:00](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GPT-5.2 Arrives as OpenAI Scrambles To Respond To Gemini 3&apos;s Gains](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,13 +106,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 18:04:47](https://news.ycombinator.com/item?id=46234788) - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
 * [2025-12-11, 17:59:30](https://lobste.rs/s/p20st3/litestream_vfs) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 * [2025-12-11, 17:59:10](https://news.ycombinator.com/item?id=46234710) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
-* [2025-12-11, 17:58:36](https://lobste.rs/s/6i1cfa/story_propolice) - [The story of Propolice](http://miod.online.fr/software/openbsd/stories/propolice.html)
-* [2025-12-11, 17:36:00](https://games.slashdot.org/story/25/12/11/1737204/the-game-awards-are-losing-their-luster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Game Awards Are Losing Their Luster](https://games.slashdot.org/story/25/12/11/1737204/the-game-awards-are-losing-their-luster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 17:28:05](https://lobste.rs/s/ueglwk/cosmic_desktop_is_fantastic_first_draft) - [Cosmic Desktop is a fantastic first draft](https://www.youtube.com/watch?v=ob-Y77kuVwM)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_practices) - [Google’s code review practices](https://google.github.io/eng-practices/)
-* [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It&apos;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
 * [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss) - [AI Favors Texts Written by Other AIs, Even When They&apos;re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 14:21:14](https://news.ycombinator.com/item?id=46231709) - [The architecture of “not bad”: Decoding the Chinese source code of the void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
@@ -136,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 05:48:00](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - [Chattanooga&apos;s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss)
-* [2025-12-10, 23:10:02](https://lobste.rs/s/sibl0p/using_edge_detection_preserve) - [Using edge detection to preserve significant features while downsampling](http://yogthos.net/pixel-mosaic.html)
 * [2025-12-10, 21:09:09](https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 20:35:07](https://news.ycombinator.com/item?id=46223389) - [EFF launches Age Verification Hub](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
@@ -156,6 +141,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-08, 20:34:00](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss) - [San Francisco Sues Nation&apos;s Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&amp;from=rss)
 * [2025-12-08, 15:45:00](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss) - [Soaring DDR5 Prices Lead to Falling Motherboard Sales and Calls for Gamers to Boycott RAM](https://soylentnews.org/article.pl?sid=25/12/07/1521257&amp;from=rss)
 * [2025-12-08, 11:04:00](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss) - [Debian&apos;s APT Will Require a Rust Compiler](https://soylentnews.org/article.pl?sid=25/12/07/1514234&amp;from=rss)
+* [2025-12-08, 09:42:04](https://news.ycombinator.com/item?id=46190324) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
+* [2025-12-08, 09:37:02](https://news.ycombinator.com/item?id=46190288) - [Spirograph style Lego drawing machine](https://jkbrickworks.com/simple-drawing-machine/)
 * [2025-12-08, 06:24:00](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss) - [New Jolla Phone Now Available for Pre-Order as an Independent Linux Phone](https://soylentnews.org/article.pl?sid=25/12/07/1510243&amp;from=rss)
 * [2025-12-08, 02:06:00](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss) - [Recreating the Lost SDK for a 42-Year-Old Operating System: VisiCorp Visi on](https://soylentnews.org/article.pl?sid=25/12/08/0147224&amp;from=rss)
 * [2025-12-08, 01:38:00](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss) - [Waymo Drives Straight Into Active Police Scene, Ignores Chaos](https://soylentnews.org/article.pl?sid=25/12/06/1419220&amp;from=rss)
