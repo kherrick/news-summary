@@ -1,52 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations and Developments
+## Technology and Innovation
 
-* [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/) - A deep dive into freeing a Xiaomi humidifier from cloud reliance, enabling more personal control.
 
-* [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
+* [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explore the massive undertaking of 3D mapping nearly all buildings on Earth and its implications.
 
-* [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
+* [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap) - Details on a new Rust-based SQL database focusing on performance and reliability.
 
-* [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&from=rss)
+* [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607) - CRISPR tech enables the creation of a sustainable fungus that mimics meat taste and texture.
 
-* [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-) - A discussion on why Htmx and lightweight frameworks are reshaping web development.
 
-## Cybersecurity and Data Breach Issues
+## Cybersecurity Concerns
 
-* [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of a significant vulnerability exposed in Docker Hub.
 
-* [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
+* [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components) - Examination of recent React security issues that impact server components.
 
-* [Litestream VFS](https://fly.io/blog/litestream-vfs/)
+## Gaming and Entertainment
 
-## Artificial Intelligence and Machine Learning
+* [Helldivers 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371) - Techniques used to significantly shrink game file sizes without sacrificing performance.
 
-* [GPT-5.2 Arrives as OpenAI Scrambles To Respond To Gemini 3's Gains](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The Game Awards Are Losing Their Luster](https://games.slashdot.org/story/25/12/11/1737204/the-game-awards-are-losing-their-luster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Debate over the declining prestige of The Game Awards.
 
-* [New York Becomes First State To Require Disclosure of AI Performers in Ads](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Noteworthy Software and Open Source Developments
 
-* [AI Favors Texts Written by Other AIs, Even When They're Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&from=rss)
+* [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/) - Revival efforts for the Nokia N900 bring a dose of nostalgia and innovation.
 
-## Historical and Cultural Insights
+* [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder) - Introduction of the latest release of Pop!_OS with insights from its creators.
 
-* [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
+* [Let’s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/) - Exploration of embedding Go programs directly in the kernel for enhanced integration.
 
-* [French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+## AI and Machine Learning
 
-* [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&from=rss)
+* [Trump Signs Executive Order For Single National AI Regulation Framework, Limiting Power of States](https://yro.slashdot.org/story/25/12/11/2352215/trump-signs-executive-order-for-single-national-ai-regulation-framework-limiting-power-of-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial executive order centralizes AI regulations in the US.
 
-## Industry News and Legal Matters
+* [GPT-5.2 Arrives as OpenAI Scrambles To Respond To Gemini 3's Gains](https://slashdot.org/story/25/12/11/1844246/gpt-52-arrives-as-openai-scrambles-to-respond-to-gemini-3s-gains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New breakthroughs in AI with GPT-5.2 released by OpenAI.
 
-* [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Economic and Legal Developments
 
-* [Cisco Stock Hits New All-Time High, 25 Years After the Dotcom Bubble Burst](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A landmark judgment following the collapse of TerraUSD.
 
-* [Disney Says Google AI Infringes Copyright 'On a Massive Scale'](https://tech.slashdot.org/story/25/12/11/2141219/disney-says-google-ai-infringes-copyright-on-a-massive-scale?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [San Francisco Sues Nation's Top Food Manufacturers Over Ultraprocessed Foods](https://soylentnews.org/article.pl?sid=25/12/07/1527246&from=rss)
-
-* [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&from=rss)
+* [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - Russia considers forming an independent Linux community following controversies.
 
 ---
 
@@ -73,17 +69,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-12, 06:15:48](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud) - [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
+* [2025-12-12, 05:22:00](https://soylentnews.org/article.pl?sid=25/12/10/2256226&amp;from=rss) - [Pebble Index 01 Arrives as a Private Open Source Voice Capture Ring](https://soylentnews.org/article.pl?sid=25/12/10/2256226&amp;from=rss)
 * [2025-12-12, 03:35:25](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard) - [Being a SysAdmin is hard](https://about.tree.ht/blog/treehut-outages-december-2025)
 * [2025-12-12, 03:30:00](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TerraUSD Creator Do Kwon Sentenced To 15 Years Over $40 Billion Crypto Collapse](https://yro.slashdot.org/story/25/12/11/2239200/terrausd-creator-do-kwon-sentenced-to-15-years-over-40-billion-crypto-collapse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-12, 03:11:31](https://lobste.rs/s/gxycog/lisp_interpreter_implemented_conway_s) - [A Lisp Interpreter Implemented in Conway’s Game of Life](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
 * [2025-12-12, 02:02:00](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [97% of Buildings On Earth 3D-Mapped](https://news.slashdot.org/story/25/12/11/2333243/97-of-buildings-on-earth-3d-mapped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-12, 01:48:31](https://lobste.rs/s/z99i7c/orvalho_spec) - [Orvalho Spec](https://github.com/lucasew/orvalho/blob/main/SPEC.md)
 * [2025-12-12, 01:41:22](https://lobste.rs/s/zyvhp9/pop_goes_population_count) - [Pop goes the...population count?](https://xania.org/202512/11-pop-goes-the-weasel-er-count)
 * [2025-12-12, 01:41:15](https://news.ycombinator.com/item?id=46239895) - [Cadmium Zinc Telluride: The wonder material powering a medical &apos;revolution&apos;](https://www.bbc.com/news/articles/c24l223d9n7o)
 * [2025-12-12, 01:25:00](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Over 10,000 Docker Hub Images Found Leaking Credentials, Auth Keys](https://yro.slashdot.org/story/25/12/11/2328238/over-10000-docker-hub-images-found-leaking-credentials-auth-keys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-12, 01:20:05](https://news.ycombinator.com/item?id=46239752) - [Google De-Indexed My Bear Blog and I Don&apos;t Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
 * [2025-12-12, 01:05:30](https://news.ycombinator.com/item?id=46239673) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
-* [2025-12-12, 00:59:46](https://news.ycombinator.com/item?id=46239629) - [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
+* [2025-12-12, 00:59:46](https://news.ycombinator.com/item?id=46239629) - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 * [2025-12-12, 00:45:00](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VMware Kills vSphere Foundation In Parts of EMEA](https://slashdot.org/story/25/12/11/2324224/vmware-kills-vsphere-foundation-in-parts-of-emea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 00:39:00](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss) - [Russia Says It Might Build its Own Linux Community After Removal of Several Kernel Maintainers](https://soylentnews.org/article.pl?sid=25/12/10/2252241&amp;from=rss)
+* [2025-12-12, 00:37:42](https://news.ycombinator.com/item?id=46239445) - [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-12, 00:28:24](https://news.ycombinator.com/item?id=46239372) - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
 * [2025-12-12, 00:27:22](https://lobste.rs/s/vvnsdb/notes_on_gamma) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 * [2025-12-12, 00:05:36](https://news.ycombinator.com/item?id=46239188) - [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
@@ -99,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-11, 20:46:46](https://news.ycombinator.com/item?id=46236924) - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 * [2025-12-11, 20:45:00](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cisco Stock Hits New All-Time High, 25 Years After the Dotcom Bubble Burst](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-11, 20:32:22](https://news.ycombinator.com/item?id=46236738) - [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)
 * [2025-12-11, 20:20:24](https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight) - [The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-11, 20:05:00](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Becomes First State To Require Disclosure of AI Performers in Ads](https://news.slashdot.org/story/25/12/11/1953202/new-york-becomes-first-state-to-require-disclosure-of-ai-performers-in-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-11, 19:56:00](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss) - [ER Doctors Are Sounding the Alarm on a Fast-Growing Cannabis Illness](https://soylentnews.org/article.pl?sid=25/12/10/2248258&amp;from=rss)
@@ -123,10 +122,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 17:28:05](https://lobste.rs/s/ueglwk/cosmic_desktop_is_fantastic_first_draft) - [Cosmic Desktop is a fantastic first draft](https://www.youtube.com/watch?v=ob-Y77kuVwM)
 * [2025-12-11, 17:20:11](https://news.ycombinator.com/item?id=46234186) - [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
 * [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
-* [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_practices) - [Google’s code review practices](https://google.github.io/eng-practices/)
 * [2025-12-11, 15:25:43](https://news.ycombinator.com/item?id=46232528) - [iPhone Typos? It&apos;s Not Just You – The iOS Keyboard Is Broken [video]](https://www.youtube.com/watch?v=hksVvXONrIo)
-* [2025-12-11, 15:18:51](https://news.ycombinator.com/item?id=46232434) - [Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation](https://news.ycombinator.com/item?id=46232434)
 * [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss) - [AI Favors Texts Written by Other AIs, Even When They&apos;re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 14:21:14](https://news.ycombinator.com/item?id=46231709) - [The architecture of “not bad”: Decoding the Chinese source code of the void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
@@ -145,6 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
 * [2025-12-10, 19:36:04](https://lobste.rs/s/pbthr7/maybe_we_don_t_need_server) - [Maybe we don&apos;t need a server](https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html)
 * [2025-12-10, 17:23:53](https://news.ycombinator.com/item?id=46220540) - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
+* [2025-12-10, 16:02:57](https://news.ycombinator.com/item?id=46219346) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
 * [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss)
