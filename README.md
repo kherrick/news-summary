@@ -1,48 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Advancements and Updates
+## Developments in AI and Technology
 
-* [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/) - Explore why database VACUUM processes may not be as effective on indexes as assumed.
+* [Bill Gates' Daughter Secures $30 Million For AI App Built In Stanford Dorm](https://tech.slashdot.org/story/25/12/12/2136246/bill-gates-daughter-secures-30-million-for-ai-app-built-in-stanford-dorm)
 
-* [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) - OpenAI introduces new 'skills' for smoother interactions in ChatGPT and Codex CLI.
+* [Google Translate Expands Live Translation To All Earbuds On Android](https://tech.slashdot.org/story/25/12/12/2125205/google-translate-expands-live-translation-to-all-earbuds-on-android)
 
-* [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html) - A retrospective analysis of proof assistants and their advancements over the past decades.
+* [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
 
-* [Google Translate Expands Live Translation To All Earbuds On Android](https://tech.slashdot.org/story/25/12/12/2125205/google-translate-expands-live-translation-to-all-earbuds-on-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google Translate now supports live translations across all Android-compatible earbuds.
+* [US To Mandate AI Vendors Measure Political Bias For Federal Sales](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales)
 
-* [Doom Studio id Software Forms 'Wall-To-Wall' Union](https://games.slashdot.org/story/25/12/12/2316202/doom-studio-id-software-forms-wall-to-wall-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The iconic game studio commits to comprehensive unionization, a historic move in gaming.
+## Cybersecurity Concerns and Breaches
 
-## AI and Software Innovations
+* [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 
-* [US To Mandate AI Vendors Measure Political Bias For Federal Sales](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New regulations in the U.S. will require AI vendors to track and measure political bias before federal approval.
+* [Security issues with electronic invoices](https://invoice.secvuln.info/)
 
-* [New Kindle Feature Uses AI To Answer Questions About Books - And Authors Can't Opt Out](https://news.slashdot.org/story/25/12/12/2046226/new-kindle-feature-uses-ai-to-answer-questions-about-books---and-authors-cant-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's new AI book feature sparks debate as it doesn't require author consent.
+* [Russian Hackers Debut Simple Ransomware Service, But Store Keys In Plain Text](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text)
 
-* [Bill Gates' Daughter Secures $30 Million For AI App Built In Stanford Dorm](https://tech.slashdot.org/story/25/12/12/2136246/bill-gates-daughter-secures-30-million-for-ai-app-built-in-stanford-dorm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A college dorm project secures significant funding for an AI-focused app.
+## Advances in Science and Health
 
-## Security and Privacy
+* [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
 
-* [Russian Hackers Debut Simple Ransomware Service, But Store Keys In Plain Text](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new ransomware variant becomes a laughing stock due to its insecure key management.
+* [Complex Life Started Nearly a Billion Years Earlier Than We Thought](https://soylentnews.org/article.pl?sid=25/12/08/0152232&amp;from=rss)
 
-* [The Data Breach That Hit Two-Thirds of a Country](https://yro.slashdot.org/story/25/12/12/2054200/the-data-breach-that-hit-two-thirds-of-a-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A devastating data breach compromises major national personal records.
+* [This Cellular Trick Helps Cancer Spread, but Could Also Stop It](https://soylentnews.org/article.pl?sid=25/12/08/0456233&amp;from=rss)
 
-* [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/) - A critical security oversight leads to extensive internal vulnerability for Home Depot.
+## Space and Environmental Initiatives
 
-## Innovations in Cryptography and Programming
+* [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
 
-* [Post-Quantum Cryptography on CHERIoT](https://cheriot.org/pqc/2025/12/12/pqc-on-cheriot.html) - A deeper look into the implementation of post-quantum cryptography techniques for CHERIoT technology.
+* [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
 
-* [Pure vs. Impure Iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/) - Learn the distinction and utility of iterator types in the Go programming language.
+## Noteworthy Events and Policies
 
-* [async dns](https://flak.tedunangst.com/post/async-dns) - Introducing advanced Asynchronous DNS for better handling of name resolutions on networked systems.
+* [Ukrainians Sue US Chip Firms For Powering Russian Drones, Missiles](https://yro.slashdot.org/story/25/12/12/2254245/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Unusual Discoveries and Incidents
+* [Arizona City Rejects Data Center After Lobbying Push](https://news.slashdot.org/story/25/12/12/234225/arizona-city-rejects-data-center-after-lobbying-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss) - A tragic case of cross-species transmission highlights the risks of organ transplants.
-
-* [Rats Play DOOM](https://ratsplaydoom.com/) - The exhilarating experiment of teaching lab rats to play the classic game DOOM.
-
-* [Zig Quits GitHub, Says Microsoft's AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - The programming language Zig departs GitHub amidst disagreements over AI-related policies.
+* [Berlin Approves New Expansion of Police Surveillance Powers](https://yro.slashdot.org/story/25/12/12/1830239/berlin-approves-new-expansion-of-police-surveillance-powers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -69,10 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-13, 03:35:37](https://lobste.rs/s/oeskiu/color_spaces_gamuts_transformations) - [Color Spaces, Gamuts, and Transformations](https://ari-atori.dev/articles/color-spaces-gamuts-and-transformations.html)
+* [2025-12-13, 03:30:00](https://yro.slashdot.org/story/25/12/12/2254245/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ukrainians Sue US Chip Firms For Powering Russian Drones, Missiles](https://yro.slashdot.org/story/25/12/12/2254245/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-13, 03:00:36](https://lobste.rs/s/vpdzua/coming_need_for_formal_specification) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
+* [2025-12-13, 02:20:00](https://news.slashdot.org/story/25/12/12/234225/arizona-city-rejects-data-center-after-lobbying-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arizona City Rejects Data Center After Lobbying Push](https://news.slashdot.org/story/25/12/12/234225/arizona-city-rejects-data-center-after-lobbying-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-13, 01:40:00](https://hardware.slashdot.org/story/25/12/12/2258200/framework-raises-ddr5-memory-prices-by-50-for-diy-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Raises DDR5 Memory Prices By 50% For DIY Laptops](https://hardware.slashdot.org/story/25/12/12/2258200/framework-raises-ddr5-memory-prices-by-50-for-diy-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 01:20:00](https://games.slashdot.org/story/25/12/12/2316202/doom-studio-id-software-forms-wall-to-wall-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Doom Studio id Software Forms &apos;Wall-To-Wall&apos; Union](https://games.slashdot.org/story/25/12/12/2316202/doom-studio-id-software-forms-wall-to-wall-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 01:00:00](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US To Mandate AI Vendors Measure Political Bias For Federal Sales](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-13, 00:50:47](https://news.ycombinator.com/item?id=46250862) - [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
 * [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss)
 * [2025-12-13, 00:20:00](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Hackers Debut Simple Ransomware Service, But Store Keys In Plain Text](https://it.slashdot.org/story/25/12/12/2140258/russian-hackers-debut-simple-ransomware-service-but-store-keys-in-plain-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 23:40:00](https://tech.slashdot.org/story/25/12/12/2136246/bill-gates-daughter-secures-30-million-for-ai-app-built-in-stanford-dorm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bill Gates&apos; Daughter Secures $30 Million For AI App Built In Stanford Dorm](https://tech.slashdot.org/story/25/12/12/2136246/bill-gates-daughter-secures-30-million-for-ai-app-built-in-stanford-dorm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -88,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
 * [2025-12-12, 20:41:38](https://news.ycombinator.com/item?id=46248644) - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 * [2025-12-12, 20:41:16](https://lobste.rs/s/fkbmwj/pure_vs_impure_iterators_go) - [Pure vs. impure iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
-* [2025-12-12, 20:36:11](https://lobste.rs/s/azgmvv/post_quantum_cryptography_on_cheriot) - [Post-Quantum Cryptography on CHERIoT](https://cheriot.org/pqc/2025/12/12/pqc-on-cheriot.html)
 * [2025-12-12, 20:36:00](https://entertainment.slashdot.org/story/25/12/12/2036218/amazon-prime-video-pulls-ai-powered-recaps-after-fallout-flub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Prime Video Pulls AI-Powered Recaps After Fallout Flub](https://entertainment.slashdot.org/story/25/12/12/2036218/amazon-prime-video-pulls-ai-powered-recaps-after-fallout-flub?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 20:28:41](https://news.ycombinator.com/item?id=46248470) - [Security issues with electronic invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 20:26:57](https://lobste.rs/s/lwmaa9/security_issues_with_electronic) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
@@ -107,10 +107,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-12, 16:32:43](https://news.ycombinator.com/item?id=46245731) - [Using secondary school maths to demystify AI](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 * [2025-12-12, 16:25:49](https://lobste.rs/s/2dh57o/async_dns) - [async dns](https://flak.tedunangst.com/post/async-dns)
 * [2025-12-12, 16:23:10](https://news.ycombinator.com/item?id=46245622) - [String theory inspires a brilliant, baffling new math proof](https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/)
-* [2025-12-12, 16:05:00](https://news.slashdot.org/story/25/12/12/1537259/the-immediate-post-college-transition-and-its-role-in-socioeconomic-earnings-gaps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Immediate Post-College Transition and its Role in Socioeconomic Earnings Gaps](https://news.slashdot.org/story/25/12/12/1537259/the-immediate-post-college-transition-and-its-role-in-socioeconomic-earnings-gaps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 16:00:36](https://lobste.rs/s/fafy2d/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=LMrKEaAi4RI)
 * [2025-12-12, 15:44:31](https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for) - [I couldn&apos;t find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
-* [2025-12-12, 15:26:00](https://news.slashdot.org/story/25/12/12/1526213/washington-posts-ai-generated-podcasts-rife-with-errors-fictional-quotes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Washington Post&apos;s AI-Generated Podcasts Rife With Errors, Fictional Quotes](https://news.slashdot.org/story/25/12/12/1526213/washington-posts-ai-generated-podcasts-rife-with-errors-fictional-quotes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-12, 15:19:19](https://news.ycombinator.com/item?id=46244922) - [CM0 – A new Raspberry Pi you can&apos;t buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 15:08:46](https://lobste.rs/s/wqoq6t/building_trustworthy_ai_agents) - [Building Trustworthy AI Agents](https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html)
 * [2025-12-12, 14:54:00](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss) - [Ubuntu to Offer AMD ROCm Packages for AI Processing](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss)
@@ -135,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 * [2025-12-11, 19:37:35](https://lobste.rs/s/jyl2j6/pop_os_24_04_lts_released_letter_from_our) - [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder)
 * [2025-12-11, 18:00:55](https://news.ycombinator.com/item?id=46234734) - [Show HN: I made a spreadsheet where formulas also update backwards](https://victorpoughon.github.io/bidicalc/)
-* [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
 * [2025-12-11, 15:07:00](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss) - [AI Favors Texts Written by Other AIs, Even When They&apos;re Worse Than Human Ones](https://soylentnews.org/article.pl?sid=25/12/10/1242208&amp;from=rss)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let&apos;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 10:25:00](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss) - [Proton Launches Encrypted Sheets as a Privacy-First Alternative to Google, Microsoft Excel](https://soylentnews.org/article.pl?sid=25/12/10/0213247&amp;from=rss)
