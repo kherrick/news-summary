@@ -1,50 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Advancements
+## Technology and AI
 
-* [Time Magazine's 'Person of the Year': the Architects of AI](https://news.slashdot.org/story/25/12/14/084207/time-magazines-person-of-the-year-the-architects-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrating efforts of individuals shaping the AI landscape.
+* [Repeal Section 230 and Its Platform Protections, Urges New Bipartisan US Bill](https://news.slashdot.org/story/25/12/14/0656223/repeal-section-230-and-its-platform-protections-urges-new-bipartisan-us-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new bipartisan US bill calls for the repeal of Section 230, which shields tech platforms from liabilities for user-generated content. The move could have significant implications for internet regulations.
 
-* [Meta replaces SELinux with eBPF](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf) - Insights into Meta's transition to enhanced Linux security with eBPF.
+* [Meta replaces SELinux with eBPF](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf) - Meta transitions from SELinux to eBPF for improved security measures and performance in their systems.
 
-* [New Rule Forbids GNOME Shell Extensions Made Using AI-Generated Code](https://tech.slashdot.org/story/25/12/14/0453227/new-rule-forbids-gnome-shell-extensions-made-using-ai-generated-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ethical concerns push GNOME to restrict certain AI contributions.
+* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices) - Twilio's shift away from microservices to a consolidated approach has resulted in solving numerous performance bottlenecks and computational inefficiencies.
 
-* [System76 Launches First Stable Release of COSMIC Desktop and Pop!_OS 24.04 LTS](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exciting developments in open-source Linux desktops.
+* [When It All Comes Crashing Down: The Aftermath of the AI Boom](https://soylentnews.org/article.pl?sid=25/12/13/0323237&from=rss) - Analyzing the consequences and lessons learned from the rapid expansion of AI and its resulting challenges.
 
-* [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Combining AI with energy innovation for a sustainable future.
+## Programming and Development
 
-## Healthcare and Scientific Breakthroughs
+* [ClickHaskell 1.0.0 is out](https://github.com/KovalevDima/ClickHaskell) - The first stable release of ClickHaskell, a tool designed for building and managing Haskell projects, is now available to developers.
 
-* [Ultra-Thin Nanomembrane Device Forms Soft, Seamless Interface With Living Tissue](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss) - Breakthroughs in bioelectronics with potential medical applications.
+* [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html) - A guide to the practical aspects of compiler engineering, exploring its significance and applications.
 
-* [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&from=rss) - Promising advances in cancer treatment.
+* [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags) - A discussion on improving the design and functionality of CLI tools by avoiding unnecessary if statements.
 
-* [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&from=rss) - Shedding light on medical side effects.
+* [Build Systems A La Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf) - A comprehensive overview of different build systems and their unique attributes for various software development needs.
 
-## Environment and Renewable Energy
+## Artificial Intelligence
 
-* [Trump Ban on Wind Energy Permits 'Unlawful', Court Rules](https://hardware.slashdot.org/story/25/12/13/0157258/trump-ban-on-wind-energy-permits-unlawful-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Judicial challenges to environmental policies.
+* [Time Magazine's 'Person of the Year': the Architects of AI](https://news.slashdot.org/story/25/12/14/084207/time-magazines-person-of-the-year-the-architects-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Recognizing prominent AI innovators for their transformative contributions in shaping industries and society.
 
-* [Germany Covers Nearly 56 Percent of 2025 Electricity Use With Renewables](https://hardware.slashdot.org/story/25/12/12/239237/germany-covers-nearly-56-percent-of-2025-electricity-use-with-renewables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Leading the way in renewable energy adoption.
+* [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/) - Exploring the current underwhelming proliferation of AI-created applications despite the technology's advancements.
 
-* [How a 23-Year-Old in 1975 Built the World's First Handheld Digital Camera](https://hardware.slashdot.org/story/25/12/13/0652226/how-a-23-year-old-in-1975-built-the-worlds-first-handheld-digital-camera?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A historical look into innovation.
+* [Calibre Now Integrated With AI](https://soylentnews.org/article.pl?sid=25/12/13/0429235&from=rss) - Popular eBook management software Calibre now supports AI features to enhance user experience and content management.
 
-## Software and Open Source Development
+## Privacy and Security
 
-* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices) - Exploring the shift back to monolithic architectures.
+* [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies) - Investigating the sale of European health data to a controversial US-based firm.
 
-* [ClickHaskell 1.0.0 is out](https://github.com/KovalevDima/ClickHaskell) - Celebrating the release of a new Haskell tool.
+* [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem) - A detailed analysis of a recent cybersecurity breach involving the infiltration of a development machine to access GitHub organizations.
 
-* [Please stop using middleware to protect your routes (2024)](https://pilcrowonpaper.com/blog/middleware-auth/) - Rethinking middleware design in software applications.
+* [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&from=rss) - A new phone carrier providing anonymity to users with just minimal registration requirements.
 
-* [Rust in Linux's Kernel 'is No Longer Experimental'](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Significant progress in Linux kernel development.
+## Sustainability and Renewable Energy
 
-## Social Impact and Lifestyle
+* [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough in using artificial intelligence to detect geothermal energy sources for sustainable use.
 
-* [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/) - Cultural music's therapeutic role.
+* [Germany Covers Nearly 56 Percent of 2025 Electricity Use With Renewables](https://hardware.slashdot.org/story/25/12/12/239237/germany-covers-nearly-56-percent-of-2025-electricity-use-with-renewables?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Germany makes substantial progress in renewable energy adoption, significantly reducing its carbon footprint.
 
-* [An off-grid, flat-packable washing machine](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/) - Ingenious design catering to sustainable living.
+## Science and Healthcare
 
-* [Bye, Mom](https://aella.substack.com/p/bye-mom) - A heartfelt personal piece intertwined with grief.
+* [Ultra-Thin Nanomembrane Device Forms Soft, Seamless Interface With Living Tissue](https://soylentnews.org/article.pl?sid=25/12/13/0329247&from=rss) - Advancements in nanotechnology reveal devices capable of interacting seamlessly with living tissues for medical applications.
+
+* [Vaccuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/) - An unusual yet insightful exploration of indexing and optimization mechanisms, potentially contradicting established database practices.
 
 ---
 
@@ -71,24 +73,37 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-14, 15:34:00](https://news.slashdot.org/story/25/12/14/0656223/repeal-section-230-and-its-platform-protections-urges-new-bipartisan-us-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Repeal Section 230 and Its Platform Protections, Urges New Bipartisan US Bill](https://news.slashdot.org/story/25/12/14/0656223/repeal-section-230-and-its-platform-protections-urges-new-bipartisan-us-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-14, 15:18:08](https://lobste.rs/s/vp1zbg/tier_list_linux_security_mechanisms_2024) - [Tier list of Linux security mechanisms (2024)](https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/)
+* [2025-12-14, 15:05:06](https://news.ycombinator.com/item?id=46263530) - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
+* [2025-12-14, 14:26:00](https://soylentnews.org/article.pl?sid=25/12/13/0429235&amp;from=rss) - [Calibre Now Integrated With AI](https://soylentnews.org/article.pl?sid=25/12/13/0429235&amp;from=rss)
+* [2025-12-14, 14:19:53](https://lobste.rs/s/qapljp/improved_my_feedreader_s_writing_web) - [Improved My Feedreader’s Writing to the Web](https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/)
+* [2025-12-14, 14:07:25](https://lobste.rs/s/ues4u6/acme_device_attestation_extension) - [ACME Device Attestation Extension](https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/)
+* [2025-12-14, 13:45:41](https://news.ycombinator.com/item?id=46262950) - [Apple Maps claims it&apos;s 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
+* [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
+* [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_supports_new_variants) - [Myna v2.0.0 Beta: supports new variants and basic APL programming](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
+* [2025-12-14, 13:19:15](https://news.ycombinator.com/item?id=46262816) - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+* [2025-12-14, 13:13:41](https://news.ycombinator.com/item?id=46262777) - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
+* [2025-12-14, 13:04:34](https://news.ycombinator.com/item?id=46262734) - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
 * [2025-12-14, 12:43:26](https://lobste.rs/s/hhddvz/goodbye_microservices_from_100s_problem) - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
+* [2025-12-14, 12:34:35](https://news.ycombinator.com/item?id=46262592) - [Baumol&apos;s Cost Disease](https://en.wikipedia.org/wiki/Baumol_effect)
 * [2025-12-14, 12:34:00](https://news.slashdot.org/story/25/12/14/084207/time-magazines-person-of-the-year-the-architects-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Time Magazine&apos;s &apos;Person of the Year&apos;: the Architects of AI](https://news.slashdot.org/story/25/12/14/084207/time-magazines-person-of-the-year-the-architects-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-14, 12:18:59](https://news.ycombinator.com/item?id=46262545) - [The Gorman Paradox: Where Are All the AI-Generated Apps?](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+* [2025-12-14, 12:15:09](https://news.ycombinator.com/item?id=46262524) - [Europeans&apos; health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
+* [2025-12-14, 12:04:44](https://news.ycombinator.com/item?id=46262480) - [Efficient Basic Coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)
 * [2025-12-14, 11:28:43](https://lobste.rs/s/u5oqny/meta_replaces_selinux_with_ebpf) - [Meta replaces SELinux with eBPF](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
+* [2025-12-14, 10:07:00](https://news.ycombinator.com/item?id=46262021) - [Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 09:36:00](https://soylentnews.org/article.pl?sid=25/12/13/0329247&amp;from=rss) - [Ultra-Thin Nanomembrane Device Forms Soft, Seamless Interface With Living Tissue](https://soylentnews.org/article.pl?sid=25/12/13/0329247&amp;from=rss)
 * [2025-12-14, 08:44:00](https://hardware.slashdot.org/story/25/12/13/0157258/trump-ban-on-wind-energy-permits-unlawful-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Ban on Wind Energy Permits &apos;Unlawful&apos;, Court Rules](https://hardware.slashdot.org/story/25/12/13/0157258/trump-ban-on-wind-energy-permits-unlawful-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-14, 08:40:41](https://lobste.rs/s/keyz9l/clickhaskell_1_0_0_is_out) - [ClickHaskell 1.0.0 is out](https://github.com/KovalevDima/ClickHaskell)
-* [2025-12-14, 08:21:59](https://news.ycombinator.com/item?id=46261616) - [Bye, Mom](https://aella.substack.com/p/bye-mom)
 * [2025-12-14, 07:45:15](https://news.ycombinator.com/item?id=46261452) - [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)
 * [2025-12-14, 07:23:52](https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli) - [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags)
-* [2025-12-14, 05:38:52](https://news.ycombinator.com/item?id=46261020) - [“You should never build a CMS”](https://www.sanity.io/blog/you-should-never-build-a-cms)
 * [2025-12-14, 05:34:00](https://tech.slashdot.org/story/25/12/14/0453227/new-rule-forbids-gnome-shell-extensions-made-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Rule Forbids GNOME Shell Extensions Made Using AI-Generated Code](https://tech.slashdot.org/story/25/12/14/0453227/new-rule-forbids-gnome-shell-extensions-made-using-ai-generated-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-14, 04:46:00](https://soylentnews.org/article.pl?sid=25/12/13/0323237&amp;from=rss) - [When It All Comes Crashing Down: The Aftermath of the AI Boom](https://soylentnews.org/article.pl?sid=25/12/13/0323237&amp;from=rss)
 * [2025-12-14, 04:37:15](https://lobste.rs/s/o3daas/build_systems_la_carte) - [Build Systems A La Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
-* [2025-12-14, 03:46:51](https://news.ycombinator.com/item?id=46260596) - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
 * [2025-12-14, 03:44:00](https://developers.slashdot.org/story/25/12/14/0340217/is-the-r-programming-language-surging-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the R Programming Language Surging in Popularity?](https://developers.slashdot.org/story/25/12/14/0340217/is-the-r-programming-language-surging-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-14, 02:32:05](https://lobste.rs/s/6awweq/larval_stage_support_engineering_great) - [Larval stage support engineering: great at what doesn’t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
 * [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
-* [2025-12-14, 01:43:33](https://news.ycombinator.com/item?id=46260106) - [If a Meta AI model can read a brain-wide signal, why wouldn&apos;t the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 * [2025-12-14, 01:34:00](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [System76 Launches First Stable Release of COSMIC Desktop and Pop!_OS 24.04 LTS](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
 * [2025-12-14, 00:35:00](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Free Software Awards&apos; Winners Announced: Andy Wingo, Alx Sa, Govdirectory ](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,12 +117,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 22:17:00](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain&apos;s Li.st&apos;s](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 21:17:00](https://news.slashdot.org/story/25/12/13/2114221/firefox-survey-finds-only-16-feel-in-control-of-their-privacy-choices-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Survey Finds Only 16% Feel In Control of Their Privacy Choices Online](https://news.slashdot.org/story/25/12/13/2114221/firefox-survey-finds-only-16-feel-in-control-of-their-privacy-choices-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 20:30:34](https://news.ycombinator.com/item?id=46257714) - [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 * [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
-* [2025-12-13, 20:19:10](https://news.ycombinator.com/item?id=46257599) - [The Rise of Computer Games, Part I: Adventure](https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/)
 * [2025-12-13, 20:00:03](https://lobste.rs/s/j90ulf/faster_double_string_conversion) - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:53:23](https://lobste.rs/s/ijztws/go_is_portable_until_it_isn_t) - [Go is portable, until it isn&apos;t](https://simpleobservability.com/blog/go-portable-until-isnt)
-* [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don&apos;t match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
 * [2025-12-13, 19:40:53](https://lobste.rs/s/zlsrd2/what_is_build_system_anyway) - [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:23:00](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss) - [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss)
 * [2025-12-13, 18:34:00](https://hardware.slashdot.org/story/25/12/13/0041234/the-worlds-electric-car-sales-have-spiked-21-so-far-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The World&apos;s Electric Car Sales Have Spiked 21% So Far in 2025](https://hardware.slashdot.org/story/25/12/13/0041234/the-worlds-electric-car-sales-have-spiked-21-so-far-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -118,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 17:00:14](https://news.ycombinator.com/item?id=46255991) - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 16:34:00](https://hardware.slashdot.org/story/25/12/13/0254253/more-of-americas-coal-fired-power-plants-cease-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More of America&apos;s Coal-Fired Power Plants Cease Operations](https://hardware.slashdot.org/story/25/12/13/0254253/more-of-americas-coal-fired-power-plants-cease-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 16:08:29](https://lobste.rs/s/49dt7g/indexed_reverse_polish_notation) - [Indexed Reverse Polish Notation, an Alternative to AST](https://burakemir.ch/post/indexed-rpn/)
-* [2025-12-13, 15:37:16](https://news.ycombinator.com/item?id=46255285) - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
 * [2025-12-13, 15:34:00](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust in Linux&apos;s Kernel &apos;is No Longer Experimental&apos;](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 14:55:09](https://lobste.rs/s/lsjmah/rats_play_doom) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-13, 14:37:00](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss) - [Germany Might Have Just Saved Gas Engines From a European Ban](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss)
@@ -128,13 +139,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 10:23:56](https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 * [2025-12-13, 10:00:00](https://hardware.slashdot.org/story/25/12/12/239237/germany-covers-nearly-56-percent-of-2025-electricity-use-with-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Germany Covers Nearly 56 Percent of 2025 Electricity Use With Renewables](https://hardware.slashdot.org/story/25/12/12/239237/germany-covers-nearly-56-percent-of-2025-electricity-use-with-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 09:52:00](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss) - [Space Shuttle Lessons: Backtracks Can Create Breakthroughs](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss)
-* [2025-12-13, 08:06:41](https://lobste.rs/s/jkwpjw/what_s_point_lightweight_code_with_modern) - [What&apos;s the point of lightweight code with modern computers?](https://liam-on-linux.dreamwidth.org/97426.html)
-* [2025-12-13, 07:19:31](https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022) - [The (Mostly) Complete Unicode Spiral (2022)](https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/)
-* [2025-12-13, 07:00:00](https://yro.slashdot.org/story/25/12/12/2341230/chinese-whistleblower-living-in-us-is-being-hunted-by-beijing-with-us-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Whistleblower Living In US Is Being Hunted By Beijing With US Tech](https://yro.slashdot.org/story/25/12/12/2341230/chinese-whistleblower-living-in-us-is-being-hunted-by-beijing-with-us-tech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 06:55:58](https://lobste.rs/s/npbaul/crypto_fido_security_tokens) - [Crypto, FIDO and Security Tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0)
 * [2025-12-13, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss) - [USA Wants Your Social Media History If You Visit](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss)
-* [2025-12-13, 04:10:48](https://lobste.rs/s/dndrsh/indices_point_between_elements_2015) - [Indices point between elements (2015)](https://blog.nelhage.com/2015/08/indices-point-between-elements/)
-* [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss)
 * [2025-12-12, 19:36:00](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss) - [ICEBlock App Sues Trump Administration for Censorship and &apos;Unlawful Threats&apos;](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss)
 * [2025-12-12, 14:54:00](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss) - [Ubuntu to Offer AMD ROCm Packages for AI Processing](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss)
@@ -147,6 +152,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 05:48:00](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss) - [This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://soylentnews.org/article.pl?sid=25/12/10/0211215&amp;from=rss)
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - [Chattanooga&apos;s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
+* [2025-12-10, 20:49:22](https://news.ycombinator.com/item?id=46223617) - [Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps](https://github.com/loadingalias/cargo-rail)
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
 * [2025-12-10, 18:36:00](https://news.ycombinator.com/item?id=46221575) - [No-Tifier (2017)](https://subject.space/projects/no-tifier/)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
