@@ -1,34 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Post-Quantum Cryptography and Technology
+## Innovations in Technology and Computing
 
-* [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/) - A closer examination of the relative security provided by various post-quantum cryptography algorithms. [Comments](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security)
+* 2025-12-13 - [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices) explores the factors behind the team's decision to simplify architecture for efficiency.
 
-## Open Source and Programming Innovations
+* 2025-12-14 - [The Rise of Computer Games, Part I: Adventure](https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/) delves into the origins and historical evolution of adventure-based computer games.
 
-* ['Free Software Awards' Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights from the Free Software Awards recognizing contributions to the open-source community. [Comments](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* 2025-12-13 - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/) provides an unconventional exploration of post-quantum cryptography risks.
 
-* [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl) - Introduction to a new and improved interactive Common Lisp environment. [Comments](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced)
+* 2025-12-14 - [System76 Launches First Stable Release of COSMIC Desktop and Pop!_OS 24.04 LTS](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&utm_medium=feed) details the rollout of a modern new Linux desktop experience.
 
-## Privacy and Anonymity
+* 2025-12-13 - [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/) highlights the unraveling of lost content from a celebrated cultural figure.
 
-* [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss) - Unveiling a new phone carrier service that prioritizes privacy over data collection. [Comments](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss)
+## Advances in Science and Sustainability
 
-## Innovations in Renewable and Sustainable Technology
+* 2025-12-13 - [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&utm_medium=feed) showcases innovative AI applications in geothermal energy discovery.
 
-* [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How a startup combined AI with sustainable energy solutions to locate new geothermal energy sources. [Comments](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* 2025-12-13 - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/) examines a sustainable reimagining of home appliance production.
 
-* Germany Covers Nearly 56 Percent of 2025 Electricity Use With Renewables - Data revealing Germany's impressive renewable energy achievements. [Comments](https://hardware.slashdot.org/story/25/12/12/239237/germany-covers-nearly-56-percent-of-2025-electricity-use-with-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* 2025-12-13 - [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss) sheds light on a significant finding in healthcare research.
 
-## Technology Impact on Society
+* 2025-12-13 - [The World's Electric Car Sales Have Spiked 21% So Far in 2025](https://hardware.slashdot.org/story/25/12/13/0041234/the-worlds-electric-car-sales-have-spiked-21-so-far-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed) reflects the accelerating shift towards greener transportation.
 
-* [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/) - Examining Purdue University's decision to integrate AI education into all undergraduate programs. [Comments](https://news.ycombinator.com/item?id=46257939)
+## Privacy and Cybersecurity Developments
 
-* [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost) - An in-depth look at the cost and implications of using fake online accounts in elections. [Comments](https://news.ycombinator.com/item?id=46257871)
+* 2025-12-14 - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss) introduces a privacy-respecting telecom innovation.
 
-## Environmental Developments
+* 2025-12-13 - [VPN location claims don’t match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report) exposes discrepancies in VPN service claims.
 
-* [More of America's Coal-Fired Power Plants Cease Operations](https://hardware.slashdot.org/story/25/12/13/0254253/more-of-americas-coal-fired-power-plants-cease-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tracking the decline of coal-powered energy as the transition to renewable energy progresses. [Comments](https://hardware.slashdot.org/story/25/12/13/0254253/more-of-americas-coal-fired-power-plants-cease-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* 2025-12-13 - [Chinese Whistleblower Living In US Is Being Hunted By Beijing With US Tech](https://yro.slashdot.org/story/25/12/12/2341230/chinese-whistleblower-living-in-us-is-being-hunted-by-beijing-with-us-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses advancing cyber-surveillance concerns with international implications.
+
+* 2025-12-13 - [Rust in Linux's Kernel 'is No Longer Experimental'](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores key shifts in secure programming adoption for critical systems.
+
+## Cultural and Historical Insights
+
+* 2025-12-13 - [How a 23-Year-Old in 1975 Built the World’s First Handheld Digital Camera](https://hardware.slashdot.org/story/25/12/13/0652226/how-a-23-year-old-in-1975-built-the-worlds-first-handheld-digital-camera?utm_source=rss1.0mainlinkanon&utm_medium=feed) captures a pivotal tech invention that shaped the photography world.
+
+* 2025-12-13 - [Rats Play Doom](https://ratsplaydoom.com/) uniquely highlights cross-species experiments and video games.
+
+* 2025-12-13 - [The Rise of Computer Games, Part I: Adventure](https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/) dives into the early evolutions and cultural significance of gaming.
 
 ---
 
@@ -55,13 +65,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-14, 03:44:00](https://developers.slashdot.org/story/25/12/14/0340217/is-the-r-programming-language-surging-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the R Programming Language Surging in Popularity?](https://developers.slashdot.org/story/25/12/14/0340217/is-the-r-programming-language-surging-in-popularity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-14, 03:13:38](https://news.ycombinator.com/item?id=46260474) - [Rocket Lab – &apos;Raise and Shine&apos; Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+* [2025-12-14, 02:32:05](https://lobste.rs/s/6awweq/larval_stage_support_engineering_great) - [Larval stage support engineering: great at what doesn’t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
+* [2025-12-14, 01:49:11](https://news.ycombinator.com/item?id=46260128) - [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
+* [2025-12-14, 01:34:00](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [System76 Launches First Stable Release of COSMIC Desktop and Pop!_OS 24.04 LTS](https://news.slashdot.org/story/25/12/14/0112231/system76-launches-first-stable-release-of-cosmic-desktop-and-popos-2404-lts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-14, 01:32:36](https://news.ycombinator.com/item?id=46260039) - [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
+* [2025-12-14, 01:19:50](https://news.ycombinator.com/item?id=46259970) - [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
+* [2025-12-14, 01:10:11](https://news.ycombinator.com/item?id=46259914) - [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
 * [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
 * [2025-12-14, 00:35:00](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Free Software Awards&apos; Winners Announced: Andy Wingo, Alx Sa, Govdirectory ](https://news.slashdot.org/story/25/12/14/0030234/free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-14, 00:34:56](https://news.ycombinator.com/item?id=46259702) - [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
 * [2025-12-14, 00:34:07](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced) - [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl)
 * [2025-12-14, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss) - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss)
 * [2025-12-13, 23:39:48](https://news.ycombinator.com/item?id=46259334) - [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
 * [2025-12-13, 23:19:00](https://developers.slashdot.org/story/25/12/13/2316245/applets-are-officially-going-but-java-in-the-browser-is-better-than-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Applets Are Officially Going, But Java In the Browser Is Better Than Ever](https://developers.slashdot.org/story/25/12/13/2316245/applets-are-officially-going-but-java-in-the-browser-is-better-than-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 23:04:26](https://news.ycombinator.com/item?id=46259095) - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
 * [2025-12-13, 22:58:29](https://news.ycombinator.com/item?id=46259064) - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 * [2025-12-13, 22:38:08](https://news.ycombinator.com/item?id=46258906) - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 * [2025-12-13, 22:17:00](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Startup Successfully Uses AI to Find New Geothermal Energy Reservoirs](https://hardware.slashdot.org/story/25/12/13/2211227/startup-successfully-uses-ai-to-find-new-geothermal-energy-reservoirs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -69,8 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 21:57:28](https://news.ycombinator.com/item?id=46258529) - [Some surprising things about DuckDuckGo](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo)
 * [2025-12-13, 21:18:01](https://news.ycombinator.com/item?id=46258163) - [Recovering Anthony Bourdain&apos;s (really) lost Li.st&apos;s](https://sandyuraz.com/blogs/bourdain/)
 * [2025-12-13, 21:17:00](https://news.slashdot.org/story/25/12/13/2114221/firefox-survey-finds-only-16-feel-in-control-of-their-privacy-choices-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Survey Finds Only 16% Feel In Control of Their Privacy Choices Online](https://news.slashdot.org/story/25/12/13/2114221/firefox-survey-finds-only-16-feel-in-control-of-their-privacy-choices-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 20:54:32](https://news.ycombinator.com/item?id=46257939) - [Purdue University Approves New AI Requirement for All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
-* [2025-12-13, 20:48:09](https://news.ycombinator.com/item?id=46257871) - [Want to sway an election? Here’s how much fake online accounts cost](https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost)
 * [2025-12-13, 20:30:34](https://news.ycombinator.com/item?id=46257714) - [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 * [2025-12-13, 20:19:53](https://news.ycombinator.com/item?id=46257607) - [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-13, 20:19:10](https://news.ycombinator.com/item?id=46257599) - [The Rise of Computer Games, Part I: Adventure](https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/)
@@ -79,8 +95,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 19:46:19](https://news.ycombinator.com/item?id=46257339) - [VPN location claims don&apos;t match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
 * [2025-12-13, 19:40:53](https://lobste.rs/s/zlsrd2/what_is_build_system_anyway) - [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 19:23:00](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss) - [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss)
-* [2025-12-13, 19:22:13](https://news.ycombinator.com/item?id=46257125) - [llamafile: Distribute and Run LLMs with a Single File](https://github.com/mozilla-ai/llamafile)
-* [2025-12-13, 18:39:53](https://news.ycombinator.com/item?id=46256834) - [Are we stuck with the same Desktop UX forever? [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 * [2025-12-13, 18:34:00](https://hardware.slashdot.org/story/25/12/13/0041234/the-worlds-electric-car-sales-have-spiked-21-so-far-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The World&apos;s Electric Car Sales Have Spiked 21% So Far in 2025](https://hardware.slashdot.org/story/25/12/13/0041234/the-worlds-electric-car-sales-have-spiked-21-so-far-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 17:34:00](https://hardware.slashdot.org/story/25/12/13/0652226/how-a-23-year-old-in-1975-built-the-worlds-first-handheld-digital-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a 23-Year-Old in 1975 Built the World&apos;s First Handheld Digital Camera](https://hardware.slashdot.org/story/25/12/13/0652226/how-a-23-year-old-in-1975-built-the-worlds-first-handheld-digital-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 17:28:35](https://lobste.rs/s/g535vs/using_nvi_as_minimal_fast_text_editor) - [Using nvi as a Minimal and Fast Text Editor](https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt)
@@ -93,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 15:37:16](https://news.ycombinator.com/item?id=46255285) - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
 * [2025-12-13, 15:34:00](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust in Linux&apos;s Kernel &apos;is No Longer Experimental&apos;](https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 15:25:33](https://news.ycombinator.com/item?id=46255175) - [A Giant Ball Will Help This Man Survive a Year on an Iceberg](https://www.outsideonline.com/outdoor-adventure/exploration-survival/how-giant-ball-will-help-man-survive-year-iceberg/)
-* [2025-12-13, 14:55:24](https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts) - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/)
 * [2025-12-13, 14:55:09](https://lobste.rs/s/lsjmah/rats_play_doom) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-13, 14:37:00](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss) - [Germany Might Have Just Saved Gas Engines From a European Ban](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss)
 * [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
@@ -114,10 +127,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 02:20:00](https://news.slashdot.org/story/25/12/12/234225/arizona-city-rejects-data-center-after-lobbying-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arizona City Rejects Data Center After Lobbying Push](https://news.slashdot.org/story/25/12/12/234225/arizona-city-rejects-data-center-after-lobbying-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-13, 01:40:00](https://hardware.slashdot.org/story/25/12/12/2258200/framework-raises-ddr5-memory-prices-by-50-for-diy-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Raises DDR5 Memory Prices By 50% For DIY Laptops](https://hardware.slashdot.org/story/25/12/12/2258200/framework-raises-ddr5-memory-prices-by-50-for-diy-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 01:20:00](https://games.slashdot.org/story/25/12/12/2316202/doom-studio-id-software-forms-wall-to-wall-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Doom Studio id Software Forms &apos;Wall-To-Wall&apos; Union](https://games.slashdot.org/story/25/12/12/2316202/doom-studio-id-software-forms-wall-to-wall-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-13, 01:00:00](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US To Mandate AI Vendors Measure Political Bias For Federal Sales](https://yro.slashdot.org/story/25/12/12/2148210/us-to-mandate-ai-vendors-measure-political-bias-for-federal-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss)
-* [2025-12-12, 20:57:34](https://news.ycombinator.com/item?id=46248859) - [GNU Unifont](https://unifoundry.com/unifont/index.html)
 * [2025-12-12, 19:36:00](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss) - [ICEBlock App Sues Trump Administration for Censorship and &apos;Unlawful Threats&apos;](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
 * [2025-12-12, 14:54:00](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss) - [Ubuntu to Offer AMD ROCm Packages for AI Processing](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss)
@@ -133,7 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-11, 00:52:00](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss) - [Chattanooga&apos;s Municipal Fiber Network Has Delivered $5.3 Billion in Community Benefits](https://soylentnews.org/article.pl?sid=25/12/10/027248&amp;from=rss)
 * [2025-12-10, 21:08:41](https://news.ycombinator.com/item?id=46223882) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 20:11:00](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss) - [Planned Satellite Constellations May Swamp Future Orbiting Telescopes](https://soylentnews.org/article.pl?sid=25/12/10/023246&amp;from=rss)
-* [2025-12-10, 19:13:49](https://news.ycombinator.com/item?id=46222162) - [Researchers seeking better measures of cognitive fatigue](https://www.nature.com/articles/d41586-025-03974-w)
 * [2025-12-10, 15:25:00](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss) - [Germany Bets Billions on Nuclear Fusion for Energy Future](https://soylentnews.org/article.pl?sid=25/12/08/1621249&amp;from=rss)
 * [2025-12-10, 10:43:00](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss) - [A Therapeutic HPV Vaccine Shrank Cervical Tumors in Mice](https://soylentnews.org/article.pl?sid=25/12/08/1614203&amp;from=rss)
 * [2025-12-10, 05:52:00](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss) - [Zig Quits GitHub, Says Microsoft&apos;s AI Obsession Has Ruined the Service](https://soylentnews.org/article.pl?sid=25/12/08/1611257&amp;from=rss)
