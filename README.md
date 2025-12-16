@@ -1,60 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Cybersecurity and Privacy Breaches
 
-* [Scientists Discover Early Alzheimer&apos;s Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss) - Early identification of Alzheimer's through routine brain scans offers promising avenues for intervention.
+* [SoundCloud Confirms Breach After Member Data Stolen, VPN Access Disrupted](https://it.slashdot.org/story/25/12/16/0351247/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SoundCloud users are facing a breach that compromised member data and disrupted VPN access.
 
-* [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/) - Apple's new technique for generating photorealistic views from a single image emphasizes advancements in machine learning.
+* [8M users' AI conversations sold for profit by "privacy" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) - A concerning case where privacy extensions exploited user data for profit.
 
-* [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno) - Insights into how colossal heat pumps are reshaping the energy landscape.
+## Innovative Technology and AI
 
-* [Quill OS: An open-source OS for Kobo&apos;s eReaders](https://quill-os.org/) - A new lightweight OS specifically designed for Kobo eReaders.
+* [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/) - Explore Apple's method for creating realistic visual synthesis using minimal input.
 
-* [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/) - Reinventing terminal graphics to meet modern standards.
+* [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f) - A new technique offering faster dimensionality reduction and visualization.
 
-## Software Development and Open Source
+* [Tool Safety: A Beautiful Soup zine (2017)](https://www.crummy.com/software/BeautifulSoup/zine/) - Discover practical tool safety tips with a unique illustrative zine.
 
-* [November in Servo: monthly releases, context menus, parallel CSS parsing, and more](https://servo.org/blog/2025/12/15/november-in-servo/) - The Servo project highlights its latest monthly advancements.
+## Corporate Developments and Risks
 
-* [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f) - A proposed alternative to t-SNE addresses scalability challenges.
+* [PayPal Applies To Become a Bank As US Loosens Regulatory Reins](https://news.slashdot.org/story/25/12/16/0346229/paypal-applies-to-become-a-bank-as-us-loosens-regulatory-reins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - PayPal moves towards banking amidst regulatory changes.
 
-* [global known_hosts for ssh services](https://knownhosts.net/) - Improving SSH security with a globally accessible known_hosts database.
+* [VS Code deactivates IntelliCode in favor of the paid Copilot](https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html) - This strategic shift highlights a growing trend towards subscription-based features.
 
-* [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/) - Peer-to-peer collaboration redefines how Git developers connect and work.
+## Scientific and Environmental Discoveries
 
-* [Announcing Key Transparency for the Fediverse](https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/) - Strengthening decentralized platforms through key transparency efforts.
+* [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss) - Breakthrough in detecting early Alzheimer's signs using common brain imaging.
 
-## Security and Privacy
+* [Glaciers To Reach Peak Rate of Extinction In the Alps In Eight Years](https://news.slashdot.org/story/25/12/16/0335255/glaciers-to-reach-peak-rate-of-extinction-in-the-alps-in-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An alarming prediction for glacier extinction in the near future.
 
-* [8M users&apos; AI conversations sold for profit by \\"privacy\\" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) - Privacy concerns surface as user AI conversations are monetized by extensions.
+## Controversial Incidents and Ethics
 
-* [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo) - Heartbreaking news highlighting charity fraud.
+* [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo) - A disturbing case of fraud targeting vulnerable children.
 
-* [China, Iran Are Having a Field Day With React2Shell, Google Warns](https://it.slashdot.org/story/25/12/15/2227217/china-iran-are-having-a-field-day-with-react2shell-google-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google issues warnings about cybersecurity threats from state actors.
+* [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart) - Exposure of collusion to influence consumer costs.
 
-* [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/) - A developer's detailed account of tracing and resolving a kernel bug.
+## Software and Open Source
 
-## Sustainability and Environmental Impact
+* [Quill OS: An open-source OS for Kobo's eReaders](https://quill-os.org/) - Introducing an open-source operating system specially tailored for eReaders.
 
-* [Glaciers To Reach Peak Rate of Extinction In the Alps In Eight Years](https://news.slashdot.org/story/25/12/16/0335255/glaciers-to-reach-peak-rate-of-extinction-in-the-alps-in-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming projections on Alpine glacier extinction.
+* [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/) - Explore a decentralized collaboration platform integrating Git.
 
-* [Why Floods Threaten One of the Driest Places in the World](https://news.slashdot.org/story/25/12/15/1850220/why-floods-threaten-one-of-the-driest-places-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Climate change effects causing unexpected natural phenomena.
+## Miscellaneous Highlights
 
-## Technology Disruptions and Challenges
+* [Lidar-Maker Luminar Files For Bankruptcy](https://tech.slashdot.org/story/25/12/15/2238214/lidar-maker-luminar-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial turmoil hits a leading player in Lidar technology.
 
-* [Microsoft Will Finally Kill Obsolete Cipher That Has Wrecked Decades of Havoc](https://it.slashdot.org/story/25/12/15/2244255/microsoft-will-finally-kill-obsolete-cipher-that-has-wrecked-decades-of-havoc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Updates on Microsoft's approach to fixing past vulnerabilities.
-
-* [Lidar-Maker Luminar Files For Bankruptcy](https://tech.slashdot.org/story/25/12/15/2238214/lidar-maker-luminar-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial challenges hit lidar technology.
-
-* [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/) - An incident highlighting concerns about air traffic safety protocols.
-
-## Social and Cultural Developments
-
-* [Merriam-Webster&apos;s 2025 Word of the Year Is &apos;Slop&apos;](https://tech.slashdot.org/story/25/12/15/2133250/merriam-websters-2025-word-of-the-year-is-slop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linguistic reflections of societal trends.
-
-* [Russian Ban On Roblox Gaming Platform Sparks Rare Protest](https://yro.slashdot.org/story/25/12/15/2121240/russian-ban-on-roblox-gaming-platform-sparks-rare-protest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A story on rare public dissent sparked by gaming restrictions.
-
-* [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart) - Corporate practices under scrutiny for anti-competitive behavior.
+* [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/) - A mathematical exploration of a complex problem linked to renowned mathematician Paul Erdős.
 
 ---
 
@@ -81,16 +69,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-12-16, 09:38:42](https://news.ycombinator.com/item?id=46286559) - [I&apos;m a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d)
+* [2025-12-16, 13:00:00](https://it.slashdot.org/story/25/12/16/0351247/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SoundCloud Confirms Breach After Member Data Stolen, VPN Access Disrupted](https://it.slashdot.org/story/25/12/16/0351247/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-16, 12:01:55](https://news.ycombinator.com/item?id=46287521) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us)
+* [2025-12-16, 11:32:51](https://lobste.rs/s/hgm2rc/tool_safety_beautiful_soup_zine_2017) - [Tool Safety: A Beautiful Soup zine (2017)](https://www.crummy.com/software/BeautifulSoup/zine/)
+* [2025-12-16, 10:56:40](https://news.ycombinator.com/item?id=46287098) - [Should we fear Microsoft&apos;s monopoly?](https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly)
+* [2025-12-16, 10:36:13](https://lobste.rs/s/6uu5ys/optimization_countermeasures) - [Optimization Countermeasures](https://mcyoung.xyz/2025/12/15/value-barriers/)
+* [2025-12-16, 10:00:00](https://news.slashdot.org/story/25/12/16/0346229/paypal-applies-to-become-a-bank-as-us-loosens-regulatory-reins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PayPal Applies To Become a Bank As US Loosens Regulatory Reins](https://news.slashdot.org/story/25/12/16/0346229/paypal-applies-to-become-a-bank-as-us-loosens-regulatory-reins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-16, 09:51:31](https://news.ycombinator.com/item?id=46286666) - [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror)
+* [2025-12-16, 09:16:31](https://news.ycombinator.com/item?id=46286407) - [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)
+* [2025-12-16, 09:12:53](https://news.ycombinator.com/item?id=46286383) - [VS Code deactivates IntelliCode in favor of the paid Copilot](https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html)
 * [2025-12-16, 09:02:00](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss) - [Scientists Discover Early Alzheimer&apos;s Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss)
 * [2025-12-16, 09:00:05](https://lobste.rs/s/jxawjl/november_servo_monthly_releases_context) - [November in Servo: monthly releases, context menus, parallel CSS parsing, and more](https://servo.org/blog/2025/12/15/november-in-servo/)
-* [2025-12-16, 08:58:59](https://news.ycombinator.com/item?id=46286313) - [15,000 Free Pixel Art Icons](https://piixes.com/)
 * [2025-12-16, 08:36:11](https://lobste.rs/s/hkkb61/global_known_hosts_for_ssh_services) - [global known_hosts for ssh services](https://knownhosts.net/)
-* [2025-12-16, 08:13:01](https://news.ycombinator.com/item?id=46286030) - [The biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno)
 * [2025-12-16, 07:44:18](https://lobste.rs/s/mis0ii/torvalds_on_linux_security_modules) - [Torvalds On Linux Security Modules](https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM)
 * [2025-12-16, 07:00:00](https://news.slashdot.org/story/25/12/16/0335255/glaciers-to-reach-peak-rate-of-extinction-in-the-alps-in-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Glaciers To Reach Peak Rate of Extinction In the Alps In Eight Years](https://news.slashdot.org/story/25/12/16/0335255/glaciers-to-reach-peak-rate-of-extinction-in-the-alps-in-eight-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 06:47:09](https://news.ycombinator.com/item?id=46285535) - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
-* [2025-12-16, 06:29:02](https://news.ycombinator.com/item?id=46285448) - [O&apos;saasy License Agreement](https://osaasy.dev/)
 * [2025-12-16, 06:17:37](https://news.ycombinator.com/item?id=46285376) - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
 * [2025-12-16, 06:06:43](https://news.ycombinator.com/item?id=46285319) - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
 * [2025-12-16, 05:11:33](https://lobste.rs/s/q3j88a/writing_blatant_telegram_clone_using_qt) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
@@ -99,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 04:06:51](https://news.ycombinator.com/item?id=46284658) - [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)
 * [2025-12-16, 03:30:00](https://it.slashdot.org/story/25/12/15/2244255/microsoft-will-finally-kill-obsolete-cipher-that-has-wrecked-decades-of-havoc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Will Finally Kill Obsolete Cipher That Has Wrecked Decades of Havoc](https://it.slashdot.org/story/25/12/15/2244255/microsoft-will-finally-kill-obsolete-cipher-that-has-wrecked-decades-of-havoc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 03:03:49](https://news.ycombinator.com/item?id=46284266) - [8M users&apos; AI conversations sold for profit by \&quot;privacy\&quot; extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
-* [2025-12-16, 01:51:50](https://news.ycombinator.com/item?id=46283750) - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-12-16, 01:42:06](https://lobste.rs/s/p1uk1o/are_you_one_is_free_money) - [\&quot;Are you the one?\&quot; is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-16, 01:25:00](https://tech.slashdot.org/story/25/12/15/2238214/lidar-maker-luminar-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lidar-Maker Luminar Files For Bankruptcy](https://tech.slashdot.org/story/25/12/15/2238214/lidar-maker-luminar-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 01:16:12](https://lobste.rs/s/wilmno/i_m_just_having_fun) - [i&apos;m just having fun](https://jyn.dev/i-m-just-having-fun/)
@@ -131,21 +123,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-15, 18:16:34](https://news.ycombinator.com/item?id=46278208) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 18:07:34](https://lobste.rs/s/mgt6av/swift_configuration_1_0_released) - [Swift Configuration 1.0 released](https://swift.org/blog/swift-configuration-1.0-released/)
 * [2025-12-15, 18:06:00](https://tech.slashdot.org/story/25/12/15/186244/google-to-retire-dark-web-report-tool-that-scanned-for-leaked-user-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google To Retire &apos;Dark Web Report&apos; Tool That Scanned for Leaked User Data](https://tech.slashdot.org/story/25/12/15/186244/google-to-retire-dark-web-report-tool-that-scanned-for-leaked-user-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-15, 17:21:00](https://news.slashdot.org/story/25/12/15/1648225/us-tech-force-aims-to-recruit-1000-technologists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Tech Force Aims To Recruit 1,000 Technologists ](https://news.slashdot.org/story/25/12/15/1648225/us-tech-force-aims-to-recruit-1000-technologists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-15, 16:40:00](https://science.slashdot.org/story/25/12/15/1550214/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Thought Parkinson&apos;s Was in Our Genes. It Might Be in the Water](https://science.slashdot.org/story/25/12/15/1550214/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-15, 16:42:55](https://news.ycombinator.com/item?id=46276826) - [Full Unicode Search at 50× ICU Speed with AVX‑512](https://ashvardanian.com/posts/search-utf8/)
 * [2025-12-15, 15:56:38](https://lobste.rs/s/l2icfd/will_turso_be_better_sqlite) - [Will Turso Be The Better SQLite?](https://www.youtube.com/watch?v=1JHOY0zqNBY)
 * [2025-12-15, 15:13:40](https://lobste.rs/s/z9h9iq/careless_whisper_side_channel_attack) - [\&quot;Careless Whisper\&quot; side-channel attack affects WhatsApp and Signal](https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/)
 * [2025-12-15, 15:07:13](https://lobste.rs/s/z0j9gr/announcing_key_transparency_for) - [Announcing Key Transparency for the Fediverse](https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/)
 * [2025-12-15, 14:18:30](https://lobste.rs/s/mldhwy/stopping_systemd_services_under_memory) - [Stopping systemd services under memory pressure](https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html)
 * [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun&apos;s Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 14:11:00](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss) - [Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss)
-* [2025-12-15, 12:26:01](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week)
 * [2025-12-15, 10:05:21](https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of &lt;br&gt; Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-15, 09:22:00](https://soylentnews.org/article.pl?sid=25/12/13/1619207&amp;from=rss) - [The State of Open Source Software in 2025](https://soylentnews.org/article.pl?sid=25/12/13/1619207&amp;from=rss)
 * [2025-12-15, 08:37:14](https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell) - [Rust&apos;s v0 mangling scheme in a nutshell](https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/)
 * [2025-12-15, 04:45:00](https://soylentnews.org/article.pl?sid=25/12/13/1616219&amp;from=rss) - [What Time is It on Mars? NIST Physicists Have the Answer](https://soylentnews.org/article.pl?sid=25/12/13/1616219&amp;from=rss)
-* [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-14, 23:59:00](https://soylentnews.org/article.pl?sid=25/12/13/144230&amp;from=rss) - [System76 Launches First Stable Release of Rust-Based COSMIC Desktop and Pop!_OS 24.04 LTS](https://soylentnews.org/article.pl?sid=25/12/13/144230&amp;from=rss)
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The &lt;time&gt; element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
@@ -160,7 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-13, 09:52:00](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss) - [Space Shuttle Lessons: Backtracks Can Create Breakthroughs](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss)
 * [2025-12-13, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss) - [USA Wants Your Social Media History If You Visit](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss)
 * [2025-12-13, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss) - [Man Dies of Rabies After Kidney Transplant From Donor Who Saved Kitten From Skunk](https://soylentnews.org/article.pl?sid=25/12/11/023241&amp;from=rss)
-* [2025-12-12, 20:13:26](https://news.ycombinator.com/item?id=46248294) - [In Defense of Matlab Code](https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code)
 * [2025-12-12, 19:36:00](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss) - [ICEBlock App Sues Trump Administration for Censorship and &apos;Unlawful Threats&apos;](https://soylentnews.org/article.pl?sid=25/12/11/0157235&amp;from=rss)
 * [2025-12-12, 14:54:00](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss) - [Ubuntu to Offer AMD ROCm Packages for AI Processing](https://soylentnews.org/article.pl?sid=25/12/11/0150219&amp;from=rss)
 * [2025-12-12, 10:07:00](https://soylentnews.org/article.pl?sid=25/12/10/2258243&amp;from=rss) - [Porsche Panic in Russia as Pricey Status Symbols Forget How to Car](https://soylentnews.org/article.pl?sid=25/12/10/2258243&amp;from=rss)
