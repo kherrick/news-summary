@@ -1,42 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Automotive and Energy
+## Technology and Innovations
 
-* [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The EU has decided to soften its planned 2035 ban on internal combustion engine cars, reflecting ongoing challenges of transitioning to electric vehicles.
+* [Adventures in the land of Language Servers](https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers) - Insights into the challenges and progress in managing and using language servers effectively.
 
-* [Volkswagen To End Production At German Plant, a First In Company History](https://tech.slashdot.org/story/25/12/16/2135226/volkswagen-to-end-production-at-german-plant-a-first-in-company-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Volkswagen announces a historic decision, halting production at a German plant, potentially signaling shifts in the automotive industry.
+* [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/) - An analysis of the significantly higher accident rate for Tesla's autonomous vehicles compared to human drivers.
 
-* [Utah Leaders Hinder Efforts To Develop Solar Energy Supply](https://hardware.slashdot.org/story/25/12/16/1959202/utah-leaders-hinder-efforts-to-develop-solar-energy-supply?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Utah leadership's resistance to solar energy reveals obstacles in America's renewable energy adoption.
+* [Dual-PCB Linux Computer With 843 Components Designed By AI Boots On First Attempt](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A remarkable story of AI designing a fully functional Linux-based computer.
 
-## AI and Innovative Technology Advancements
+* [Announcing the Beta release of ty](https://astral.sh/blog/ty) - Launch announcement for 'ty', an ultra-fast Python type checker and language server.
 
-* [Dual-PCB Linux Computer With 843 Components Designed By AI Boots On First Attempt](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Linux computer equipped with 843 AI-designed components successfully operates on its very first try.
+## Security Breaches and Data Privacy
 
-* [Japan to Revise Romanization Rules for First Time in 70 Years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/) - Japan is set to modernize its 70-year-old romanization rules, blending tradition with evolving global standards.
+* [Breach At South Korea's Equivalent of Amazon Exposed Data of Almost Every Adult](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major breach exposes nearly all adult user data for a South Korean e-commerce giant.
 
-* [Reporter Suggests Half-Life 3 Will Be a Steam Machine Launch Title](https://games.slashdot.org/story/25/12/16/2143202/reporter-suggests-half-life-3-will-be-a-steam-machine-launch-title?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Speculation builds as a reporter hints at Half-Life 3 debuting alongside new Steam Machine hardware.
+* [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Allegations of Meta prioritizing revenue over addressing ad fraud concerns.
 
-## Business and Corporate Insights
+* [How I Became a Spam Vector](https://idiallo.com/blog/how-i-became-a-spammer) - An account detailing how an individual became an unintentional spam distributor.
 
-* [McKinsey Plots Thousands of Job Cuts in Slowdown for Consulting Industry](https://slashdot.org/story/25/12/16/1727251/mckinsey-plots-thousands-of-job-cuts-in-slowdown-for-consulting-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Consulting giant McKinsey plans significant layoffs, reflecting broader challenges in the sector.
+## Science and Health
 
-* [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report uncovers Meta's tolerance of ad fraud to protect revenue streams amid global scrutiny.
+* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss) - New research questioning long-standing black hole physics.
 
-## Health, Science, and Environment
+* [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss) - Advances in identifying early indicators of Alzheimer's disease.
 
-* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss) - Groundbreaking research pushes against long-held black hole theories, sparking debates in physics.
+* [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity) - Concerns over the accuracy of fMRI in understanding brain activity.
 
-* [Scientists Discover Early Alzheimer&apos;s Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss) - Researchers identify potential early warnings of Alzheimer&apos;s in standard brain scan results.
+## Social and Cultural Topics
 
-* [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss) - Insights into a common heart medication shed light on its side effects related to muscle pain.
+* [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account) - A peculiar case of account access issues tied to a gift card purchase.
 
-## Societal and Cultural Updates
+* [Mark Carney Criticised For Using British Spellings In Canadian Documents](https://news.slashdot.org/story/25/12/16/2159219/mark-carney-criticised-for-using-british-spellings-in-canadian-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Criticism of linguistic preferences of a prominent government figure.
 
-* [Mark Carney Criticised For Using British Spellings In Canadian Documents](https://news.slashdot.org/story/25/12/16/2159219/mark-carney-criticised-for-using-british-spellings-in-canadian-documents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mark Carney faces backlash for using British English in his Canadian documentation.
+* [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/) - Community dissent intensifies over installations of large data centers.
 
-* [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/) - Michigan residents protest the rising expansion of data centers due to environmental concerns.
+* [Reporter Suggests Half-Life 3 Will Be a Steam Machine Launch Title](https://games.slashdot.org/story/25/12/16/2143202/reporter-suggests-half-life-3-will-be-a-steam-machine-launch-title?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Speculation about a long-awaited game becoming a feature for a new gaming platform.
 
-* [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - According to this report, Meta is prioritizing revenue over cracking down on ad fraud, detailing deep implications for global trust.
+## Business and Industrial Shifts
+
+* [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legislative shifts in Europe to reconsider bans on certain vintage technologies.
+
+* [McKinsey Plots Thousands of Job Cuts in Slowdown for Consulting Industry](https://slashdot.org/story/25/12/16/1727251/mckinsey-plots-thousands-of-job-cuts-in-slowdown-for-consulting-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into significant downsizing in the consulting industry.
+
+* [Volkswagen To End Production At German Plant, a First In Company History](https://tech.slashdot.org/story/25/12/16/2135226/volkswagen-to-end-production-at-german-plant-a-first-in-company-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A historical manufacturing change from one of the auto industry's leaders.
 
 ---
 
@@ -63,8 +69,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-17, 03:35:27](https://lobste.rs/s/q8w2tf/adventures_land_language_servers) - [Adventures in the land of Language Servers](https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers)
+* [2025-12-17, 03:30:00](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Breach At South Korea&apos;s Equivalent of Amazon Exposed Data of Almost Every Adult](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-17, 02:52:22](https://news.ycombinator.com/item?id=46297702) - [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
+* [2025-12-17, 02:01:38](https://news.ycombinator.com/item?id=46297336) - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
+* [2025-12-17, 01:34:04](https://lobste.rs/s/xckds9/how_i_became_spam_vector) - [How I Became a Spam Vector](https://idiallo.com/blog/how-i-became-a-spammer)
 * [2025-12-17, 01:30:00](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)](https://bernsteinbear.com/isdt/)
+* [2025-12-17, 01:01:36](https://lobste.rs/s/yhiivo/freebsd_adopting_port_maomao) - [FreeBSD adopting a port: maomao](https://evilham.eu/es/blog/2025-FreeBSD-adopting-a-port-maomaowm/)
 * [2025-12-17, 01:00:21](https://news.ycombinator.com/item?id=46296926) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 * [2025-12-17, 00:50:40](https://news.ycombinator.com/item?id=46296863) - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
 * [2025-12-17, 00:50:00](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -78,13 +90,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 22:48:56](https://news.ycombinator.com/item?id=46295771) - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
 * [2025-12-16, 22:10:00](https://games.slashdot.org/story/25/12/16/2143202/reporter-suggests-half-life-3-will-be-a-steam-machine-launch-title?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reporter Suggests Half-Life 3 Will Be a Steam Machine Launch Title](https://games.slashdot.org/story/25/12/16/2143202/reporter-suggests-half-life-3-will-be-a-steam-machine-launch-title?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 22:07:49](https://news.ycombinator.com/item?id=46295268) - [No AI* Here – A Response to Mozilla&apos;s Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-* [2025-12-16, 21:52:26](https://news.ycombinator.com/item?id=46295071) - [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
 * [2025-12-16, 21:30:00](https://tech.slashdot.org/story/25/12/16/2135226/volkswagen-to-end-production-at-german-plant-a-first-in-company-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Volkswagen To End Production At German Plant, a First In Company History](https://tech.slashdot.org/story/25/12/16/2135226/volkswagen-to-end-production-at-german-plant-a-first-in-company-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 21:16:35](https://news.ycombinator.com/item?id=46294592) - [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
 * [2025-12-16, 21:14:49](https://news.ycombinator.com/item?id=46294574) - [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-16, 21:11:40](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty)
 * [2025-12-16, 20:52:45](https://news.ycombinator.com/item?id=46294289) - [Announcing the Beta release of ty](https://astral.sh/blog/ty)
-* [2025-12-16, 20:51:27](https://news.ycombinator.com/item?id=46294274) - [Letta Code](https://www.letta.com/blog/letta-code)
 * [2025-12-16, 20:50:00](https://hardware.slashdot.org/story/25/12/16/1959202/utah-leaders-hinder-efforts-to-develop-solar-energy-supply?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Utah Leaders Hinder Efforts To Develop Solar Energy Supply](https://hardware.slashdot.org/story/25/12/16/1959202/utah-leaders-hinder-efforts-to-develop-solar-energy-supply?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 20:10:00](https://developers.slashdot.org/story/25/12/16/1949244/mi6-chief-well-be-as-fluent-in-python-as-we-are-in-russian?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MI6 Chief: We&apos;ll Be as Fluent in Python As We Are in Russian](https://developers.slashdot.org/story/25/12/16/1949244/mi6-chief-well-be-as-fluent-in-python-as-we-are-in-russian?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 20:05:21](https://lobste.rs/s/wopu8o/no_graphics_api) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
@@ -92,11 +102,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 19:20:17](https://news.ycombinator.com/item?id=46293062) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:50:00](https://news.slashdot.org/story/25/12/16/1850216/us-threatens-penalties-against-european-tech-firms-amid-regulatory-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Threatens Penalties Against European Tech Firms Amid Regulatory Fight](https://news.slashdot.org/story/25/12/16/1850216/us-threatens-penalties-against-european-tech-firms-amid-regulatory-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 18:27:00](https://soylentnews.org/article.pl?sid=25/12/15/018209&amp;from=rss) - [New Review Highlights Urgent Need for Worldwide Smell Screening](https://soylentnews.org/article.pl?sid=25/12/15/018209&amp;from=rss)
-* [2025-12-16, 18:10:40](https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname) - [IP.THC.ORG - Reverse-DNS, Subdomain and CNAME Lookups](https://ip.thc.org/)
 * [2025-12-16, 18:07:07](https://news.ycombinator.com/item?id=46291941) - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 * [2025-12-16, 18:02:00](https://yro.slashdot.org/story/25/12/16/1758248/texas-sues-tv-makers-for-taking-screenshots-of-what-people-watch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Sues TV Makers For Taking Screenshots of What People Watch](https://yro.slashdot.org/story/25/12/16/1758248/texas-sues-tv-makers-for-taking-screenshots-of-what-people-watch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 17:27:00](https://slashdot.org/story/25/12/16/1727251/mckinsey-plots-thousands-of-job-cuts-in-slowdown-for-consulting-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ McKinsey Plots Thousands of Job Cuts in Slowdown for Consulting Industry](https://slashdot.org/story/25/12/16/1727251/mckinsey-plots-thousands-of-job-cuts-in-slowdown-for-consulting-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-16, 17:13:07](https://news.ycombinator.com/item?id=46291172) - [FVWM-95 (2001)](https://fvwm95.sourceforge.net/)
 * [2025-12-16, 17:12:02](https://news.ycombinator.com/item?id=46291156) - [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [2025-12-16, 16:54:19](https://news.ycombinator.com/item?id=46290916) - [alpr.watch](https://alpr.watch/)
 * [2025-12-16, 16:40:00](https://it.slashdot.org/story/25/12/16/1621254/high-speed-traders-are-feuding-over-a-way-to-save-32-billionths-of-a-second?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [High-Speed Traders Are Feuding Over a Way To Save 3.2 Billionths of a Second](https://it.slashdot.org/story/25/12/16/1621254/high-speed-traders-are-feuding-over-a-way-to-save-32-billionths-of-a-second?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 16:26:17](https://lobste.rs/s/bgibyk/future_jetbrains_fleet) - [The Future of [JetBrains] Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
 * [2025-12-16, 16:14:06](https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature) - [Odin&apos;s Most Misunderstood Feature: `context`](https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/)
 * [2025-12-16, 16:02:29](https://lobste.rs/s/tdux88/maybe_consider_putting_cutlass_your_cuda) - [Maybe consider putting cutlass in your CUDA/Triton kernels](https://maknee.github.io/blog/2025/Maybe-Consider-Putting-Cutlass-In-Your-CUDA-Kernels/)
-* [2025-12-16, 16:01:00](https://tech.slashdot.org/story/25/12/16/1548233/tech-giants-cant-agree-on-what-to-call-their-ai-powered-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech Giants Can&apos;t Agree On What To Call Their AI-Powered Glasses](https://tech.slashdot.org/story/25/12/16/1548233/tech-giants-cant-agree-on-what-to-call-their-ai-powered-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 15:41:47](https://news.ycombinator.com/item?id=46289918) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
 * [2025-12-16, 15:39:37](https://lobste.rs/s/li94ve/biscuit_is_specialized_postgresql_index) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 14:30:47](https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
@@ -132,9 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-15, 23:17:55](https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git) - [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-12-15, 20:17:50](https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app) - [\&quot;Super secure\&quot; MAGA-themed messaging app leaks everyone&apos;s phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 19:01:00](https://soylentnews.org/article.pl?sid=25/12/13/1627258&amp;from=rss) - [A Speed Camera for the Universe](https://soylentnews.org/article.pl?sid=25/12/13/1627258&amp;from=rss)
-* [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
-* [2025-12-15, 15:13:40](https://lobste.rs/s/z9h9iq/careless_whisper_side_channel_attack) - [\&quot;Careless Whisper\&quot; side-channel attack affects WhatsApp and Signal](https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/)
-* [2025-12-15, 15:07:13](https://lobste.rs/s/z0j9gr/announcing_key_transparency_for) - [Announcing Key Transparency for the Fediverse](https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
 * [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun&apos;s Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 14:11:00](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss) - [Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss)
