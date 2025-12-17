@@ -1,48 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technology Innovations
 
-* [Adventures in the land of Language Servers](https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers) - Insights into the challenges and progress in managing and using language servers effectively.
+* [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/) introduces advancements in audio codec technology, including new features and performance improvements. [Comments](https://lobste.rs/s/l5nep0/opus_1_6_released)
 
-* [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/) - An analysis of the significantly higher accident rate for Tesla's autonomous vehicles compared to human drivers.
+* [Dual-PCB Linux Computer With 843 Components Designed By AI Boots On First Attempt](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&utm_medium=feed) showcases AI-driven hardware design. [Comments](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Dual-PCB Linux Computer With 843 Components Designed By AI Boots On First Attempt](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A remarkable story of AI designing a fully functional Linux-based computer.
+* [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty) aims to improve efficiency in Python development. [Comments](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker)
 
-* [Announcing the Beta release of ty](https://astral.sh/blog/ty) - Launch announcement for 'ty', an ultra-fast Python type checker and language server.
+* [Racks of AI Chips Are Too Damn Heavy](https://tech.slashdot.org/story/25/12/16/198220/racks-of-ai-chips-are-too-damn-heavy?utm_source=rss1.0mainlinkanon&utm_medium=feed) highlights weight challenges faced in AI infrastructure. [Comments](https://tech.slashdot.org/story/25/12/16/198220/racks-of-ai-chips-are-too-damn-heavy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security Breaches and Data Privacy
+## Cybersecurity Issues
 
-* [Breach At South Korea's Equivalent of Amazon Exposed Data of Almost Every Adult](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major breach exposes nearly all adult user data for a South Korean e-commerce giant.
+* [Breach At South Korea's Equivalent of Amazon Exposed Data of Almost Every Adult](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses significant data leakage. [Comments](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Allegations of Meta prioritizing revenue over addressing ad fraud concerns.
+* [Texas Sues TV Makers For Taking Screenshots of What People Watch](https://yro.slashdot.org/story/25/12/16/1758248/texas-sues-tv-makers-for-taking-screenshots-of-what-people-watch?utm_source=rss1.0mainlinkanon&utm_medium=feed) raises privacy concerns. [Comments](https://yro.slashdot.org/story/25/12/16/1758248/texas-sues-tv-makers-for-taking-screenshots-of-what-people-watch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [How I Became a Spam Vector](https://idiallo.com/blog/how-i-became-a-spammer) - An account detailing how an individual became an unintentional spam distributor.
+## Energy and Environment
 
-## Science and Health
+* [Australians Install 100,000 Home Battery Systems in 17 Weeks, and They Are Getting Bigger](https://soylentnews.org/article.pl?sid=25/12/16/0718227&from=rss) reflects growing adoption of renewable energy storage. [Comments](https://soylentnews.org/article.pl?sid=25/12/16/0718227&from=rss)
 
-* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss) - New research questioning long-standing black hole physics.
+## Artificial Intelligence Applications
 
-* [Scientists Discover Early Alzheimer's Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&from=rss) - Advances in identifying early indicators of Alzheimer's disease.
+* [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) showcases AI-assistance in programming. [Comments](https://news.ycombinator.com/item?id=46295771)
 
-* [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity) - Concerns over the accuracy of fMRI in understanding brain activity.
+## Scientific Discoveries
 
-## Social and Cultural Topics
+* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss) discusses groundbreaking findings in astrophysics. [Comments](https://soylentnews.org/article.pl?sid=25/12/15/0110223&from=rss)
 
-* [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account) - A peculiar case of account access issues tied to a gift card purchase.
+## Social and Regulatory Developments
 
-* [Mark Carney Criticised For Using British Spellings In Canadian Documents](https://news.slashdot.org/story/25/12/16/2159219/mark-carney-criticised-for-using-british-spellings-in-canadian-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Criticism of linguistic preferences of a prominent government figure.
+* [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines shifts in EU automotive regulations. [Comments](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/) - Community dissent intensifies over installations of large data centers.
-
-* [Reporter Suggests Half-Life 3 Will Be a Steam Machine Launch Title](https://games.slashdot.org/story/25/12/16/2143202/reporter-suggests-half-life-3-will-be-a-steam-machine-launch-title?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Speculation about a long-awaited game becoming a feature for a new gaming platform.
-
-## Business and Industrial Shifts
-
-* [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legislative shifts in Europe to reconsider bans on certain vintage technologies.
-
-* [McKinsey Plots Thousands of Job Cuts in Slowdown for Consulting Industry](https://slashdot.org/story/25/12/16/1727251/mckinsey-plots-thousands-of-job-cuts-in-slowdown-for-consulting-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into significant downsizing in the consulting industry.
-
-* [Volkswagen To End Production At German Plant, a First In Company History](https://tech.slashdot.org/story/25/12/16/2135226/volkswagen-to-end-production-at-german-plant-a-first-in-company-history?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A historical manufacturing change from one of the auto industry's leaders.
+* [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores controversies at Meta. [Comments](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -69,21 +59,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-17, 06:43:21](https://lobste.rs/s/l5nep0/opus_1_6_released) - [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
+* [2025-12-17, 04:48:24](https://news.ycombinator.com/item?id=46298385) - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
+* [2025-12-17, 04:38:43](https://lobste.rs/s/jrokrz/minimum_viable_benchmark_for_evaluating) - [Minimum Viable Benchmark (for evaluating LLMs)](http://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/)
+* [2025-12-17, 04:03:00](https://soylentnews.org/article.pl?sid=25/12/16/0718227&amp;from=rss) - [Australians Install 100,000 Home Battery Systems in 17 Weeks, and They Are Getting Bigger](https://soylentnews.org/article.pl?sid=25/12/16/0718227&amp;from=rss)
+* [2025-12-17, 03:55:59](https://news.ycombinator.com/item?id=46298055) - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
 * [2025-12-17, 03:35:27](https://lobste.rs/s/q8w2tf/adventures_land_language_servers) - [Adventures in the land of Language Servers](https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers)
 * [2025-12-17, 03:30:00](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Breach At South Korea&apos;s Equivalent of Amazon Exposed Data of Almost Every Adult](https://yro.slashdot.org/story/25/12/17/009254/breach-at-south-koreas-equivalent-of-amazon-exposed-data-of-almost-every-adult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-17, 02:52:22](https://news.ycombinator.com/item?id=46297702) - [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
-* [2025-12-17, 02:01:38](https://news.ycombinator.com/item?id=46297336) - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
 * [2025-12-17, 01:34:04](https://lobste.rs/s/xckds9/how_i_became_spam_vector) - [How I Became a Spam Vector](https://idiallo.com/blog/how-i-became-a-spammer)
 * [2025-12-17, 01:30:00](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Moves To Ease 2035 Ban On Internal Combustion Cars](https://tech.slashdot.org/story/25/12/17/003222/eu-moves-to-ease-2035-ban-on-internal-combustion-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)](https://bernsteinbear.com/isdt/)
-* [2025-12-17, 01:01:36](https://lobste.rs/s/yhiivo/freebsd_adopting_port_maomao) - [FreeBSD adopting a port: maomao](https://evilham.eu/es/blog/2025-FreeBSD-adopting-a-port-maomaowm/)
+* [2025-12-17, 01:26:14](https://news.ycombinator.com/item?id=46297127) - [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)
 * [2025-12-17, 01:00:21](https://news.ycombinator.com/item?id=46296926) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
 * [2025-12-17, 00:50:40](https://news.ycombinator.com/item?id=46296863) - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
 * [2025-12-17, 00:50:00](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Tolerates Rampant Ad Fraud From China To Safeguard Billions In Revenue](https://meta.slashdot.org/story/25/12/16/2226215/meta-tolerates-rampant-ad-fraud-from-china-to-safeguard-billions-in-revenue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-17, 00:26:20](https://lobste.rs/s/lgputz/vm_overcommit_memory_2_is_always_right) - [vm.overcommit_memory=2 is always the right setting](https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html)
 * [2025-12-17, 00:10:00](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dual-PCB Linux Computer With 843 Components Designed By AI Boots On First Attempt](https://hardware.slashdot.org/story/25/12/16/229209/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-16, 23:30:00](https://news.slashdot.org/story/25/12/16/2159219/mark-carney-criticised-for-using-british-spellings-in-canadian-documents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mark Carney Criticised For Using British Spellings In Canadian Documents](https://news.slashdot.org/story/25/12/16/2159219/mark-carney-criticised-for-using-british-spellings-in-canadian-documents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-16, 23:27:10](https://news.ycombinator.com/item?id=46296172) - [More than 100 rally against data centers at Michigan Capitol](https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/)
 * [2025-12-16, 23:18:00](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss) - [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss)
 * [2025-12-16, 22:50:59](https://news.ycombinator.com/item?id=46295792) - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
 * [2025-12-16, 22:50:00](https://news.slashdot.org/story/25/12/16/2153226/intel-quietly-discontinues-its-open-source-user-space-gaudi-driver-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Quietly Discontinues Its Open-Source User-Space Gaudi Driver Code](https://news.slashdot.org/story/25/12/16/2153226/intel-quietly-discontinues-its-open-source-user-space-gaudi-driver-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 15:39:37](https://lobste.rs/s/li94ve/biscuit_is_specialized_postgresql_index) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 14:30:47](https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:53:14](https://news.ycombinator.com/item?id=46288491) - [Mozilla appoints new CEO Anthony Enzor-Demeo](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/)
-* [2025-12-16, 13:50:15](https://news.ycombinator.com/item?id=46288453) - [Show HN: TheAuditor v2.0 – A ”Flight Computer“ for AI Coding Agents](https://github.com/TheAuditorTool/Auditor)
 * [2025-12-16, 13:46:57](https://news.ycombinator.com/item?id=46288415) - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 * [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&amp;from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&amp;from=rss)
 * [2025-12-16, 13:39:30](https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux) - [Announcing Vojtux - Accessible Linux distro which is almost pure Fedora](https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora)
@@ -139,8 +129,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-15, 23:17:55](https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git) - [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-12-15, 20:17:50](https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app) - [\&quot;Super secure\&quot; MAGA-themed messaging app leaks everyone&apos;s phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 19:01:00](https://soylentnews.org/article.pl?sid=25/12/13/1627258&amp;from=rss) - [A Speed Camera for the Universe](https://soylentnews.org/article.pl?sid=25/12/13/1627258&amp;from=rss)
+* [2025-12-15, 15:47:14](https://news.ycombinator.com/item?id=46276002) - [Show HN: Sqlit – A lazygit-style TUI for SQL databases](https://github.com/Maxteabag/sqlit)
 * [2025-12-15, 14:39:49](https://news.ycombinator.com/item?id=46275111) - [Nvidia Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/)
-* [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun&apos;s Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 14:11:00](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss) - [Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water](https://soylentnews.org/article.pl?sid=25/12/13/1625224&amp;from=rss)
 * [2025-12-15, 09:22:00](https://soylentnews.org/article.pl?sid=25/12/13/1619207&amp;from=rss) - [The State of Open Source Software in 2025](https://soylentnews.org/article.pl?sid=25/12/13/1619207&amp;from=rss)
 * [2025-12-15, 04:45:00](https://soylentnews.org/article.pl?sid=25/12/13/1616219&amp;from=rss) - [What Time is It on Mars? NIST Physicists Have the Answer](https://soylentnews.org/article.pl?sid=25/12/13/1616219&amp;from=rss)
@@ -151,6 +141,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-14, 04:46:00](https://soylentnews.org/article.pl?sid=25/12/13/0323237&amp;from=rss) - [When It All Comes Crashing Down: The Aftermath of the AI Boom](https://soylentnews.org/article.pl?sid=25/12/13/0323237&amp;from=rss)
 * [2025-12-14, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss) - [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://soylentnews.org/article.pl?sid=25/12/13/0314229&amp;from=rss)
 * [2025-12-13, 19:23:00](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss) - [Scientists Finally Uncover Why the World’s Most Common Heart Drug Causes Muscle Pain](https://soylentnews.org/article.pl?sid=25/12/11/0919226&amp;from=rss)
+* [2025-12-13, 14:51:43](https://news.ycombinator.com/item?id=46254909) - [Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025](https://plasticsoldierreview.com/ShowFeature.aspx?id=27)
 * [2025-12-13, 14:37:00](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss) - [Germany Might Have Just Saved Gas Engines From a European Ban](https://soylentnews.org/article.pl?sid=25/12/11/0916209&amp;from=rss)
 * [2025-12-13, 09:52:00](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss) - [Space Shuttle Lessons: Backtracks Can Create Breakthroughs](https://soylentnews.org/article.pl?sid=25/12/11/0910257&amp;from=rss)
 * [2025-12-13, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss) - [USA Wants Your Social Media History If You Visit](https://soylentnews.org/article.pl?sid=25/12/11/092209&amp;from=rss)
