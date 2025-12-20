@@ -1,38 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software and Development Trends
+## Technology and Software
 
-* [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/) - Explore the new CSS Grid Lanes feature, promising enhanced grid management for developers. [Comments](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes)
+* [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting Google's legal actions against SerpApi over data scraping and resale issues.
 
-* [What do people love about Rust?](https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/) - An insight into why the Rust programming language continues to capture the hearts of developers. [Comments](https://lobste.rs/s/uo16ri/what_do_people_love_about_rust)
+* [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/) - Explains the modernization of web layouts with this latest advanced feature for developers.
 
-* [UNIX V4 tape from University of Utah](https://archive.org/details/utah_unix_v4_raw) - Check out this archival find of the UNIX V4 tape, showcasing historical computing. [Comments](https://lobste.rs/s/jflix6/unix_v4_tape_from_university_utah)
+* [Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explores the evolving tech job market and challenges faced by graduates from even prestigious institutions.
 
-* [Lite^3, a JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3) - Learn about Lite^3, a new efficient serialization format designed to work seamlessly with JSON. [Comments](https://lobste.rs/s/j2mrft/lite_3_json_compatible_zero_copy)
+* [Mozilla's New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&amp;from=rss) - The company's strategic pivot towards artificial intelligence as browser integration.
 
-## AI and Technology in Society
+* [The Tor Project is Making a Switch to Rust, Ditches C](https://soylentnews.org/article.pl?sid=25/12/17/0154226&amp;from=rss) - A noteworthy shift in programming language for improved security and maintainability.
 
-* [Mozilla's New CEO: Firefox Will Become An 'AI Browser'](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss) - Firefox gears up to embrace AI technology under a new CEO. [Comments](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss)
+* [Lite^3, a JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3) - Discusses efficiency in data serialization with an innovation compatible with JSON.
 
-* [TikTok Owner Signs Deal To Avoid US Ban](https://tech.slashdot.org/story/25/12/19/2150202/tiktok-owner-signs-deal-to-avoid-us-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) - TikTok maneuvers to maintain its U.S. presence amidst increasing scrutiny. [Comments](https://tech.slashdot.org/story/25/12/19/2150202/tiktok-owner-signs-deal-to-avoid-us-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI and Machine Learning
 
-## Gaming and Entertainment
+* [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer) - A deep dive into utilizing structured LLM tools for real-world interview analysis.
 
-* [8-bit Boléro (the world’s most ambitious chiptune?)](https://linusakesson.net/music/bolero/index.php) - Dive into the epic and musical challenge behind an 8-bit masterpiece. [Comments](https://lobste.rs/s/txgnpv/8_bit_bolero_world_s_most_ambitious)
+* [Microsoft AI Chief: Staying in the Frontier AI Race Will Cost Hundreds of Billions](https://slashdot.org/story/25/12/19/1852238/microsoft-ai-chief-staying-in-the-frontier-ai-race-will-cost-hundreds-of-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses the financial scope of leading the global AI race.
 
-* [Riot Games Is Making an Anti-Cheat Change That Could Be Rough On Older PCs](https://hardware.slashdot.org/story/25/12/19/2135223/riot-games-is-making-an-anti-cheat-change-that-could-be-rough-on-older-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New policies from Riot Games may impact players with older systems. [Comments](https://hardware.slashdot.org/story/25/12/19/2135223/riot-games-is-making-an-anti-cheat-change-that-could-be-rough-on-older-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [History LLMs: Models trained exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms) - Unique models targeting historic texts serve niche academic and research purposes.
+
+* [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) - A reflective summary of advancements and performances in large language models through the year.
+
+## Science and Space
+
+* [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) - Astronomers observe the dramatic demise of a star, visible from Earth.
+
+* [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&amp;from=rss) - A breakthrough achievement in cancer research by MIT chemists.
+
+* [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&amp;from=rss) - Shows advancements in live translation technology.
+
+## Society, Policy, and Ethics
+
+* [Airbus Moving Critical Systems Away From AWS, Google, and Microsoft Citing Data Sovereignty Concerns](https://slashdot.org/story/25/12/19/2252254/airbus-moving-critical-systems-away-from-aws-google-and-microsoft-citing-data-sovereignty-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Airbus shifts infrastructure out of major cloud providers over sovereignty issues.
+
+* [Youtuber's Livestream Appears On White House Website](https://yro.slashdot.org/story/25/12/19/2144258/youtubers-livestream-appears-on-white-house-website?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights complexities in online streaming and government domains.
+
+* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss) - Shifting long-held theories about black hole mechanics.
 
 ## Cybersecurity and Privacy
 
-* [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/) - Investigation into security vulnerabilities of the TP-Link Tapo C200. [Comments](https://news.ycombinator.com/item?id=46329038)
+* [Ten Mistakes Marred Firewall Upgrade At Australian Telco, Contributing To Two Deaths](https://it.slashdot.org/story/25/12/19/2241221/ten-mistakes-marred-firewall-upgrade-at-australian-telco-contributing-to-two-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A stark reminder of consequences stemming from IT failures.
 
-* [Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability) - A deep dive into the flaws of a U.S. airline's reservation system. [Comments](https://news.ycombinator.com/item?id=46328992)
+* [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/) - Detailed research into vulnerabilities in popular devices and their implications on privacy.
 
-## Environmental and Societal Challenges
-
-* [Food Becoming More Calorific But Less Nutritious Due To Rising Carbon Dioxide](https://science.slashdot.org/story/25/12/19/1533240/food-becoming-more-calorific-but-less-nutritious-due-to-rising-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - How rising CO2 levels might be altering the nutritional value of our food. [Comments](https://science.slashdot.org/story/25/12/19/1533240/food-becoming-more-calorific-but-less-nutritious-due-to-rising-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Ford Cancels Electric F-150](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss) - Ford's decision to halt its electric F-150 production raises questions about the future of EVs. [Comments](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss)
+* [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres) - A practical viewpoint on controlling cloud dependency with self-hosted solutions.
 
 ---
 
@@ -59,7 +73,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-20, 03:30:00](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss)
+* [2025-12-20, 02:39:37](https://lobste.rs/s/rf5t2n/pedagogy_recommendations) - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/)
 * [2025-12-20, 02:19:19](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes) - [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+* [2025-12-20, 01:40:00](https://slashdot.org/story/25/12/19/2252254/airbus-moving-critical-systems-away-from-aws-google-and-microsoft-citing-data-sovereignty-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airbus Moving Critical Systems Away From AWS, Google, and Microsoft Citing Data Sovereignty Concerns](https://slashdot.org/story/25/12/19/2252254/airbus-moving-critical-systems-away-from-aws-google-and-microsoft-citing-data-sovereignty-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 01:10:13](https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale) - [Exposing game servers over Tailscale](https://chameth.com/exposing-game-servers-over-tailscale/)
 * [2025-12-20, 01:00:00](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 00:20:00](https://it.slashdot.org/story/25/12/19/2241221/ten-mistakes-marred-firewall-upgrade-at-australian-telco-contributing-to-two-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ten Mistakes Marred Firewall Upgrade At Australian Telco, Contributing To Two Deaths](https://it.slashdot.org/story/25/12/19/2241221/ten-mistakes-marred-firewall-upgrade-at-australian-telco-contributing-to-two-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -95,14 +113,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-19, 17:14:42](https://news.ycombinator.com/item?id=46328274) - [Performance Hints (2023)](https://abseil.io/fast/hints.html)
 * [2025-12-19, 17:11:56](https://lobste.rs/s/l854tb/love_letter_raycast) - [A love letter to Raycast](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 * [2025-12-19, 16:54:00](https://slashdot.org/story/25/12/19/1654219/how-lina-khan-killed-irobot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;How Lina Khan Killed iRobot&apos;](https://slashdot.org/story/25/12/19/1654219/how-lina-khan-killed-irobot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-19, 16:08:00](https://news.slashdot.org/story/25/12/19/168225/acm-to-make-its-entire-digital-library-open-access-starting-january-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ACM To Make Its Entire Digital Library Open Access Starting January 2026](https://news.slashdot.org/story/25/12/19/168225/acm-to-make-its-entire-digital-library-open-access-starting-january-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite is joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:51:30](https://news.ycombinator.com/item?id=46327133) - [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
 * [2025-12-19, 15:49:00](https://lobste.rs/s/hqlyx2/building_transparent_keyserver) - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
 * [2025-12-19, 15:44:56](https://lobste.rs/s/1ey3pm/map_operator_should_be_nodiscard) - [map::operator[] should be nodiscard](https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/)
 * [2025-12-19, 15:40:46](https://lobste.rs/s/qebheg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qebheg/what_are_you_doing_this_weekend)
 * [2025-12-19, 15:40:03](https://news.ycombinator.com/item?id=46326984) - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
-* [2025-12-19, 15:33:00](https://science.slashdot.org/story/25/12/19/1533240/food-becoming-more-calorific-but-less-nutritious-due-to-rising-carbon-dioxide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Food Becoming More Calorific But Less Nutritious Due To Rising Carbon Dioxide](https://science.slashdot.org/story/25/12/19/1533240/food-becoming-more-calorific-but-less-nutritious-due-to-rising-carbon-dioxide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-19, 14:56:05](https://news.ycombinator.com/item?id=46326519) - [The FreeBSD Foundation&apos;s Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
 * [2025-12-19, 14:20:45](https://lobste.rs/s/m1teof/wireguard_implementation_written_rust) - [WireGuard® implementation written in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [2025-12-19, 13:42:19](https://lobste.rs/s/jtgdye/leaseguard_raft_leases_done_right) - [LeaseGuard: Raft Leases Done Right](https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/)
@@ -125,8 +141,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-18, 18:59:33](https://news.ycombinator.com/item?id=46316968) - [Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)](https://github.com/Lulzx/tinypdf)
 * [2025-12-18, 18:04:00](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss) - [Foxconn is Building a Massive Factory in KY, but Probably Not for Apple](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss)
 * [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
-* [2025-12-18, 16:31:33](https://lobste.rs/s/8caabc/hardware_attested_nix_builds) - [Hardware-Attested Nix Builds](https://garnix.io/blog/attested-nix-builds/)
-* [2025-12-18, 16:19:48](https://news.ycombinator.com/item?id=46314684) - [Response Healing: Reduce JSON defects by 80%+](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
 * [2025-12-18, 14:11:05](https://lobste.rs/s/h50lml/toml_1_1_0_released) - [TOML 1.1.0 released](https://github.com/toml-lang/toml/releases/tag/1.1.0)
