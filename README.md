@@ -1,56 +1,12 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology
+## Technology and Innovation
 
-* [Reflections on AI at the End of 2025](https://antirez.com/news/157) ([Comments](https://news.ycombinator.com/item?id=46334819))
+* [Mozilla's New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&from=rss) - Mozilla's new CEO announces plans to transform Firefox into an
 
-* [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss))
+## Space Exploration
 
-* [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) ([Comments](https://news.ycombinator.com/item?id=46330726))
-
-* [Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Microsoft AI Chief: Staying in the Frontier AI Race Will Cost Hundreds of Billions](https://slashdot.org/story/25/12/19/1852238/microsoft-ai-chief-staying-in-the-frontier-ai-race-will-cost-hundreds-of-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Astronomy and Space Exploration
-
-* [James Webb Space Telescope Confirms 1st 'Runaway' Supermassive Black Hole](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [This Star is Being Eaten Alive—and its Explosive Death Will Be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss))
-
-* [Breaking a 50-Year Law: New Evidence Challenges Fundamental Black Hole Physics](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/15/0110223&amp;from=rss))
-
-## Web Development and Coding
-
-* [Porting an HTML5 Parser to Swift](https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift) ([Comments](https://lobste.rs/s/rlnnbu/porting_html5_parser_swift))
-
-* [Build Your Own React](https://pomb.us/build-your-own-react/) ([Comments](https://news.ycombinator.com/item?id=46332526))
-
-* [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes) ([Comments](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes))
-
-## Engineering and Infrastructure
-
-* [Airbus to Migrate Critical Apps to a Sovereign Euro Cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/) ([Comments](https://news.ycombinator.com/item?id=46334533))
-
-* [A Train-Sized Tunnel is Now Carrying Electricity Under South London](https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/) ([Comments](https://news.ycombinator.com/item?id=46334483))
-
-* [A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)](https://www.youtube.com/watch?v=gJ9UZlr6C6M) ([Comments](https://lobste.rs/s/cmlspo/decade_on_datomic_davis_shepherd))
-
-## Privacy and Cybersecurity
-
-* [Privacy Doesn't Mean Anything Anymore, Anonymity Does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/) ([Comments](https://news.ycombinator.com/item?id=46334025))
-
-* [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/) ([Comments](https://news.ycombinator.com/item?id=46329038))
-
-* [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Space and the Environment
-
-* [Foxconn is Building a Massive Factory in KY, but Probably Not for Apple](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss))
-
-* [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss))
-
-* [All That Cheap Chinese Stuff Is Now Europe's Problem](https://slashdot.org/story/25/12/19/1925205/all-that-cheap-chinese-stuff-is-now-europes-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/25/12/19/1925205/all-that-cheap-chinese-stuff-is-now-europes-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [James Webb Space Telescope Confirms 1st 'Runaway' Supermassive Black Hole](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking discovery about
 
 ---
 
@@ -77,9 +33,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-12-20, 09:38:51](https://news.ycombinator.com/item?id=46334819) - [Reflections on AI at the End of 2025](https://antirez.com/news/157)
+* [2025-12-20, 12:57:00](https://soylentnews.org/article.pl?sid=25/12/19/0522251&amp;from=rss) - [iRobot Swept Into Bankruptcy](https://soylentnews.org/article.pl?sid=25/12/19/0522251&amp;from=rss)
+* [2025-12-20, 12:08:06](https://lobste.rs/s/jjducr/unifybio_power_tools_for_translational) - [UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus](https://www.youtube.com/watch?v=HU-uwSUZETw)
+* [2025-12-20, 12:00:31](https://news.ycombinator.com/item?id=46335552) - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
+* [2025-12-20, 10:13:33](https://news.ycombinator.com/item?id=46334990) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
+* [2025-12-20, 10:00:00](https://news.slashdot.org/story/25/12/19/2336215/trump-dismantling-national-center-for-atmospheric-research-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Dismantling National Center For Atmospheric Research In Colorado](https://news.slashdot.org/story/25/12/19/2336215/trump-dismantling-national-center-for-atmospheric-research-in-colorado?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 08:36:52](https://news.ycombinator.com/item?id=46334533) - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
-* [2025-12-20, 08:26:50](https://news.ycombinator.com/item?id=46334483) - [A train-sized tunnel is now carrying electricity under South London](https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/)
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss)
 * [2025-12-20, 08:09:17](https://news.ycombinator.com/item?id=46334424) - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
 * [2025-12-20, 07:39:26](https://news.ycombinator.com/item?id=46334299) - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
@@ -90,9 +49,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 06:22:55](https://lobste.rs/s/rlnnbu/porting_html5_parser_swift) - [Porting an HTML5 Parser to Swift](https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift)
 * [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn&apos;t mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 06:09:17](https://news.ycombinator.com/item?id=46333983) - [Charles Proxy](https://www.charlesproxy.com/)
-* [2025-12-20, 06:00:31](https://news.ycombinator.com/item?id=46333959) - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
 * [2025-12-20, 05:58:49](https://lobste.rs/s/miqwof/understanding_dart_class_modifiers_by) - [Understanding Dart Class Modifiers by Using Lattices](https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/)
-* [2025-12-20, 05:00:55](https://news.ycombinator.com/item?id=46333734) - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
+* [2025-12-20, 05:24:21](https://news.ycombinator.com/item?id=46333830) - [The Deviancy Signal: Having \&quot;Nothing to Hide\&quot; Is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
 * [2025-12-20, 03:30:00](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss)
 * [2025-12-20, 02:39:37](https://lobste.rs/s/rf5t2n/pedagogy_recommendations) - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/)
@@ -124,8 +82,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-19, 17:58:33](https://lobste.rs/s/txgnpv/8_bit_bolero_world_s_most_ambitious) - [8-bit Boléro (the world’s most ambitious chiptune?)](https://linusakesson.net/music/bolero/index.php)
 * [2025-12-19, 17:55:00](https://soylentnews.org/article.pl?sid=25/12/18/046237&amp;from=rss) - [Resolving to Spend Less Time on Your Smartphone? Understanding Your Travel Habits Can Help](https://soylentnews.org/article.pl?sid=25/12/18/046237&amp;from=rss)
 * [2025-12-19, 17:53:00](https://lobste.rs/s/3vdhci/help_my_website_is_too_small) - [Help my website is too small](https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/)
-* [2025-12-19, 17:30:00](https://tech.slashdot.org/story/25/12/19/1717228/uber-is-hiring-more-engineers-because-ai-is-making-them-more-valuable-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber is Hiring More Engineers Because AI is Making Them More Valuable, CEO Says](https://tech.slashdot.org/story/25/12/19/1717228/uber-is-hiring-more-engineers-because-ai-is-making-them-more-valuable-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-19, 17:14:42](https://news.ycombinator.com/item?id=46328274) - [Performance Hints (2023)](https://abseil.io/fast/hints.html)
 * [2025-12-19, 17:11:56](https://lobste.rs/s/l854tb/love_letter_raycast) - [A love letter to Raycast](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 * [2025-12-19, 15:57:01](https://news.ycombinator.com/item?id=46327206) - [Graphite is joining Cursor](https://cursor.com/blog/graphite)
 * [2025-12-19, 15:49:00](https://lobste.rs/s/hqlyx2/building_transparent_keyserver) - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
@@ -142,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss)
 * [2025-12-19, 04:56:13](https://news.ycombinator.com/item?id=46322391) - [Rust&apos;s Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 03:37:00](https://soylentnews.org/article.pl?sid=25/12/17/0218212&amp;from=rss) - [UK Strengthens Subsea Cables Against Russian Interference](https://soylentnews.org/article.pl?sid=25/12/17/0218212&amp;from=rss)
-* [2025-12-19, 03:24:26](https://news.ycombinator.com/item?id=46321972) - [Qwen-Image-Layered: transparency and layer aware open diffusion model](https://huggingface.co/papers/2512.15603)
 * [2025-12-19, 03:19:59](https://news.ycombinator.com/item?id=46321947) - [Brown/MIT shooting suspect found dead, officials say](https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/)
 * [2025-12-18, 22:51:00](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss) - [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss)
 * [2025-12-18, 19:23:56](https://lobste.rs/s/amzgrw/how_hack_discord_vercel_more_with_one_easy) - [how to hack discord, vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
@@ -150,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-18, 18:04:00](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss) - [Foxconn is Building a Massive Factory in KY, but Probably Not for Apple](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [2025-12-18, 15:01:10](https://news.ycombinator.com/item?id=46313390) - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)
-* [2025-12-18, 14:11:05](https://lobste.rs/s/h50lml/toml_1_1_0_released) - [TOML 1.1.0 released](https://github.com/toml-lang/toml/releases/tag/1.1.0)
 * [2025-12-18, 13:15:00](https://soylentnews.org/article.pl?sid=25/12/17/0154226&amp;from=rss) - [The Tor Project is Making a Switch to Rust, Ditches C](https://soylentnews.org/article.pl?sid=25/12/17/0154226&amp;from=rss)
 * [2025-12-18, 08:38:00](https://soylentnews.org/article.pl?sid=25/12/17/0149259&amp;from=rss) - [Ford Cancels Electric F-150](https://soylentnews.org/article.pl?sid=25/12/17/0149259&amp;from=rss)
 * [2025-12-18, 03:46:00](https://soylentnews.org/article.pl?sid=25/12/17/0147256&amp;from=rss) - [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&amp;from=rss)
@@ -165,6 +119,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-16, 17:36:03](https://news.ycombinator.com/item?id=46291477) - [Sharp: High performance Node.js image processing/optimization](https://github.com/lovell/sharp)
 * [2025-12-16, 15:44:33](https://news.ycombinator.com/item?id=46289955) - [Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 13:45:00](https://soylentnews.org/article.pl?sid=25/12/15/016245&amp;from=rss) - [Kali Linux 2025.4 Ethical Hacking Distro Released With KDE Plasma 6.5, GNOME 49](https://soylentnews.org/article.pl?sid=25/12/15/016245&amp;from=rss)
+* [2025-12-16, 12:18:10](https://news.ycombinator.com/item?id=46287632) - [A proof of concept of a semistable C++ vector container](https://github.com/joaquintides/semistable_vector)
 * [2025-12-16, 09:02:00](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss) - [Scientists Discover Early Alzheimer&apos;s Warning Sign Hiding in Routine Brain Scans](https://soylentnews.org/article.pl?sid=25/12/15/014215&amp;from=rss)
 * [2025-12-16, 04:15:00](https://soylentnews.org/article.pl?sid=25/12/13/1648208&amp;from=rss) - [U.S. Approves First Device to Treat Depression With Brain Stimulation at Home](https://soylentnews.org/article.pl?sid=25/12/13/1648208&amp;from=rss)
+* [2025-12-16, 03:43:02](https://news.ycombinator.com/item?id=46284514) - [New Quantum Antenna Reveals a Hidden Terahertz World](https://www.sciencedaily.com/releases/2025/12/251213032617.htm)
 * [2025-12-16, 01:30:48](https://news.ycombinator.com/item?id=46283597) - [Feast Your Eyes on Japan&apos;s Fake Food](https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food)
