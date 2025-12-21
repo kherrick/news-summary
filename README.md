@@ -1,34 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Software
+## Technology and Development
 
-* [Go feature: Modernized go fix](https://antonz.org/accepted/modernized-go-fix/) - A new feature that modernizes 'go fix', streamlining code fixing and enhancing developer productivity. [Comments](https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix)
+* [romforth: Ultra Portable, Small, Baremetal Forth for various processors](https://github.com/romforth/romforth) - This project introduces a highly portable and lightweight bare-metal implementation of Forth, optimized for diverse processors.
 
-* [Does AI Really Make Coders Faster?](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exploration into whether AI tools genuinely increase developer productivity. [Comments](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Bell Labs 'Unix' Tape from 1974 Successfully Dumped to a Tarball](https://tech.slashdot.org/story/25/12/21/020235/bell-labs-unix-tape-from-1974-successfully-dumped-to-a-tarball?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A historical Unix tape from 1974 has been successfully converted to a tarball, preserving vintage computation history.
 
-* [Granule, a statically-typed linear functional language with graded modal types](https://github.com/granule-project/granule) - Exploring the innovative statically-typed language introducing new type system paradigms. [Comments](https://lobste.rs/s/vdexco/granule_statically_typed_linear)
+* [WireGuard® implementation written in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn) - Mullvad VPN reveals a Rust-written WireGuard implementation, aiming for enhanced performance and security.
 
-* [Firefox Will Ship With an 'AI Kill Switch' To Completely Disable All AI Features](https://news.slashdot.org/story/25/12/20/0643217/firefox-will-ship-with-an-ai-kill-switch-to-completely-disable-all-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Mozilla to include an AI kill switch in Firefox for user control. [Comments](https://news.slashdot.org/story/25/12/20/0643217/firefox-will-ship-with-an-ai-kill-switch-to-completely-disable-all-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)](https://www.youtube.com/watch?v=gJ9UZlr6C6M) - A video reflection on ten years of Datomic's evolution and its usage within Netflix's infrastructure.
 
-## Scientific Discoveries and Advancements
+* [EV Battery-Swapping Startup That Raised $330 Million Files for Bankruptcy](https://hardware.slashdot.org/story/25/12/20/0733202/ev-battery-swapping-startup-that-raised-330-million-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant EV battery-swapping startup declares bankruptcy, raising concerns over its scalability and impact.
 
-* [James Webb Space Telescope Confirms 1st 'Runaway' Supermassive Black Hole](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - James Webb telescope detects the first-ever runaway supermassive black hole. [Comments](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Privacy and Cybersecurity
 
-* [Updated LLM Benchmark (Gemini 3 Flash)](https://entropicthoughts.com/updated-llm-benchmark) - The release of a new benchmark evaluating the Gemini 3 Flash AI model. [Comments](https://lobste.rs/s/derigv/updated_llm_benchmark_gemini_3_flash)
+* [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime) - An investigation alleges misuse of cybercrime takedown tools to stifle dissent and criticism against corporations.
 
-* [Ford Cancels Electric F-150](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss) - Ford stops production of its electric F-150 due to unclear challenges. [Comments](https://soylentnews.org/article.pl?sid=25/12/17/0149259&from=rss)
+* [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/) - Analyzing the shift from privacy to anonymity in a highly interconnected digital world.
 
-## Human Achievement and Cultural Shifts
+* [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google takes legal action against SerpApi for allegedly scraping and monetizing its search data without authorization.
 
-* [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo) - Highlighting a remarkable achievement in advanced data management. [Comments](https://news.ycombinator.com/item?id=46339031)
+* [Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain](https://soylentnews.org/article.pl?sid=25/12/19/0538241&from=rss) - A warning about a deceptive torrent exploiting security vulnerabilities to spread malware.
 
-* [Humankind's 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end) - Examining the potential decline of alcohol consumption among humans. [Comments](https://news.ycombinator.com/item?id=46341035)
+* [Flock Executive Says Their Camera Helped Find Shooting Suspect, Addresses Privacy Concerns](https://yro.slashdot.org/story/25/12/20/1940214/flock-executive-says-their-camera-helped-find-shooting-suspect-addresses-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussion of surveillance technology's role in criminal investigations and the privacy implications.
 
-## Cybersecurity and Data Concerns
+## Scientific Discoveries and Innovations
 
-* [Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain](https://soylentnews.org/article.pl?sid=25/12/19/0538241&from=rss) - A cautionary tale of disguised torrents spreading malware. [Comments](https://soylentnews.org/article.pl?sid=25/12/19/0538241&from=rss)
+* [James Webb Space Telescope Confirms 1st 'Runaway' Supermassive Black Hole](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The James Webb Space Telescope identifies a runaway supermassive black hole, marking a breakthrough in space research.
 
-* [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legal battle over web scraping practices. [Comments](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://soylentnews.org/article.pl?sid=25/12/20/018216&from=rss) - Study reveals tanning's genetic impact on accelerating skin aging.
+
+* [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss) - Astronomers predict a star's explosive demise will soon be observable even during the day.
+
+* [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss) - Scientists achieve a half-century-old goal by successfully synthesizing an important anti-cancer compound.
+
+* [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss) - Exploratory research on plant thermogenesis and its role in pollination strategies.
+
+## Programming and Development Tools
+
+* [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world) - An innovative suite allowing exploration of publicly released Epstein files.
+
+* [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/) - A firsthand account of transitioning entirely to IPv6 as a learning experiment.
+
+* [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/) - Insight into Go's use of hashmaps and the benefits of its self-hosted compilation process.
+
+* [Granule, a statically-typed linear functional language with graded modal types](https://github.com/granule-project/granule) - Introducing Granule, a language emphasizing linear functionality with advanced type systems.
+
+* [Go feature: Modernized go fix](https://antonz.org/accepted/modernized-go-fix/) - Updates to Go's 'fix' features for modern software improvements.
 
 ---
 
@@ -55,14 +73,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-21, 03:26:39](https://lobste.rs/s/wrcgvd/romforth_ultra_portable_small_baremetal) - [romforth: Ultra Portable, Small, Baremetal Forth for various processors](https://github.com/romforth/romforth)
+* [2025-12-21, 03:17:00](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss)
+* [2025-12-21, 03:12:26](https://lobste.rs/s/nghxxz/faster_practical_modular_inversion) - [Faster practical modular inversion](https://purplesyringa.moe/blog/faster-practical-modular-inversion/)
+* [2025-12-21, 02:02:00](https://tech.slashdot.org/story/25/12/21/020235/bell-labs-unix-tape-from-1974-successfully-dumped-to-a-tarball?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bell Labs &apos;Unix&apos; Tape from 1974 Successfully Dumped to a Tarball](https://tech.slashdot.org/story/25/12/21/020235/bell-labs-unix-tape-from-1974-successfully-dumped-to-a-tarball?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-21, 01:51:19](https://lobste.rs/s/1ns3ao/how_capacity_hints_work_go) - [How capacity hints work in Go](https://www.grobinson.net/2023/09/30/how-capacity-hints-work-in-go/)
+* [2025-12-21, 01:12:31](https://news.ycombinator.com/item?id=46341305) - [Flock and Cyble Inc. Weaponize \&quot;Cybercrime\&quot; Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
 * [2025-12-21, 00:41:14](https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix) - [Go feature: Modernized go fix](https://antonz.org/accepted/modernized-go-fix/)
-* [2025-12-21, 00:20:53](https://news.ycombinator.com/item?id=46341035) - [Humankind&apos;s 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end)
-* [2025-12-20, 23:43:04](https://news.ycombinator.com/item?id=46340794) - [Anatomy of US inequality](https://www.nber.org/papers/w34558)
 * [2025-12-20, 23:38:00](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does AI Really Make Coders Faster?](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 23:32:15](https://lobste.rs/s/tilcty/i_spent_week_without_ipv4_understand_ipv6) - [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 22:38:53](https://lobste.rs/s/zq9zzx/bedrock_2012) - [Bedrock (2012)](https://infrequently.org/2012/04/bedrock/)
 * [2025-12-20, 22:34:00](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss) - [Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss)
-* [2025-12-20, 22:12:22](https://news.ycombinator.com/item?id=46340117) - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
 * [2025-12-20, 21:34:00](https://tech.slashdot.org/story/25/12/20/2059205/parrot-os-switches-to-kde-plasma-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Parrot OS Switches to KDE Plasma Desktop](https://tech.slashdot.org/story/25/12/20/2059205/parrot-os-switches-to-kde-plasma-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 21:27:12](https://lobste.rs/s/vdexco/granule_statically_typed_linear) - [Granule, a statically-typed linear functional language with graded modal types](https://github.com/granule-project/granule)
 * [2025-12-20, 21:26:14](https://news.ycombinator.com/item?id=46339777) - [Claude in Chrome](https://claude.com/chrome)
@@ -84,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 17:34:00](https://hardware.slashdot.org/story/25/12/20/0733202/ev-battery-swapping-startup-that-raised-330-million-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Battery-Swapping Startup That Raised $330 Million Files for Bankruptcy](https://hardware.slashdot.org/story/25/12/20/0733202/ev-battery-swapping-startup-that-raised-330-million-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 17:10:06](https://news.ycombinator.com/item?id=46337656) - [You have reached the end of the internet (2006)](https://hmpg.net/)
 * [2025-12-20, 16:45:48](https://news.ycombinator.com/item?id=46337438) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
-* [2025-12-20, 16:43:03](https://lobste.rs/s/derigv/updated_llm_benchmark_gemini_3_flash) - [Updated LLM Benchmark (Gemini 3 Flash)](https://entropicthoughts.com/updated-llm-benchmark)
 * [2025-12-20, 16:34:00](https://news.slashdot.org/story/25/12/20/0643217/firefox-will-ship-with-an-ai-kill-switch-to-completely-disable-all-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Will Ship With an &apos;AI Kill Switch&apos; To Completely Disable All AI Features](https://news.slashdot.org/story/25/12/20/0643217/firefox-will-ship-with-an-ai-kill-switch-to-completely-disable-all-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 16:08:17](https://news.ycombinator.com/item?id=46337134) - [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
 * [2025-12-20, 16:07:24](https://news.ycombinator.com/item?id=46337123) - [Over 40% of deceased drivers in vehicle crashes test positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/)
@@ -102,10 +122,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss)
 * [2025-12-20, 08:09:17](https://news.ycombinator.com/item?id=46334424) - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
 * [2025-12-20, 07:39:26](https://news.ycombinator.com/item?id=46334299) - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
-* [2025-12-20, 07:03:27](https://lobste.rs/s/ofpgev/business_slos) - [Business SLOs](https://medium.com/@haagwee/business-slos-4992d7435ff9)
 * [2025-12-20, 07:00:00](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [James Webb Space Telescope Confirms 1st &apos;Runaway&apos; Supermassive Black Hole](https://science.slashdot.org/story/25/12/19/2330204/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 06:33:54](https://lobste.rs/s/cmlspo/decade_on_datomic_davis_shepherd) - [A Decade on Datomic - Davis Shepherd &amp; Jonathan Indig (Netflix)](https://www.youtube.com/watch?v=gJ9UZlr6C6M)
 * [2025-12-20, 06:22:55](https://lobste.rs/s/rlnnbu/porting_html5_parser_swift) - [Porting an HTML5 Parser to Swift](https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift)
+* [2025-12-20, 06:21:05](https://news.ycombinator.com/item?id=46334025) - [Privacy doesn&apos;t mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 * [2025-12-20, 03:30:00](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Sues SerpApi Over Scraping and Reselling Search Data](https://yro.slashdot.org/story/25/12/19/2317247/google-sues-serpapi-over-scraping-and-reselling-search-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss)
 * [2025-12-20, 02:39:37](https://lobste.rs/s/rf5t2n/pedagogy_recommendations) - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/)
@@ -114,7 +134,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 01:00:00](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs](https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 00:20:00](https://it.slashdot.org/story/25/12/19/2241221/ten-mistakes-marred-firewall-upgrade-at-australian-telco-contributing-to-two-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ten Mistakes Marred Firewall Upgrade At Australian Telco, Contributing To Two Deaths](https://it.slashdot.org/story/25/12/19/2241221/ten-mistakes-marred-firewall-upgrade-at-australian-telco-contributing-to-two-deaths?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 00:16:33](https://lobste.rs/s/jflix6/unix_v4_tape_from_university_utah) - [UNIX V4 tape from University of Utah](https://archive.org/details/utah_unix_v4_raw)
-* [2025-12-19, 23:40:00](https://news.slashdot.org/story/25/12/19/2158235/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Strava Puts Popular &apos;Year In Sport&apos; Recap Behind an $80 Paywall](https://news.slashdot.org/story/25/12/19/2158235/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-19, 22:47:30](https://lobste.rs/s/uo16ri/what_do_people_love_about_rust) - [What do people love about Rust?](https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/)
 * [2025-12-19, 22:43:00](https://soylentnews.org/article.pl?sid=25/12/18/133249&amp;from=rss) - [Mozilla&apos;s New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&amp;from=rss)
 * [2025-12-19, 20:57:45](https://lobste.rs/s/lqvi24/rust_s_block_pattern) - [Rust’s Block Pattern](https://notgull.net/block-pattern/)
@@ -123,7 +142,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-19, 17:11:56](https://lobste.rs/s/l854tb/love_letter_raycast) - [A love letter to Raycast](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 * [2025-12-19, 14:20:45](https://lobste.rs/s/m1teof/wireguard_implementation_written_rust) - [WireGuard® implementation written in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [2025-12-19, 13:21:00](https://soylentnews.org/article.pl?sid=25/12/18/044218&amp;from=rss) - [UK to “Encourage” Apple and Google to Put Nudity-Blocking Systems on Phones](https://soylentnews.org/article.pl?sid=25/12/18/044218&amp;from=rss)
-* [2025-12-19, 12:30:02](https://lobste.rs/s/phykxt/when_scope_lies_wildcard_pattern_drop) - [When Scope Lies: The Wildcard Pattern Drop Footgun in Rust](https://obeli.sk/blog/when-scope-lies/)
 * [2025-12-19, 09:51:01](https://lobste.rs/s/e6zmjh/go_ahead_self_host_postgres) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres)
 * [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&amp;from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&amp;from=rss)
 * [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss)
@@ -135,6 +153,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-18, 03:46:00](https://soylentnews.org/article.pl?sid=25/12/17/0147256&amp;from=rss) - [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&amp;from=rss)
 * [2025-12-17, 23:01:00](https://soylentnews.org/article.pl?sid=25/12/16/0745203&amp;from=rss) - [This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law](https://soylentnews.org/article.pl?sid=25/12/16/0745203&amp;from=rss)
 * [2025-12-17, 18:18:00](https://soylentnews.org/article.pl?sid=25/12/16/0740251&amp;from=rss) - [Norovirus Cases Surging in U.S.](https://soylentnews.org/article.pl?sid=25/12/16/0740251&amp;from=rss)
+* [2025-12-17, 17:50:45](https://news.ycombinator.com/item?id=46302928) - [Perfecting Steve Baer&apos;s Triple Dome](https://vorth.github.io/vzome-sharing/2024/02/18/baer-dome-from-H4-1001-09-13-04.html)
 * [2025-12-17, 13:34:00](https://soylentnews.org/article.pl?sid=25/12/16/0735240&amp;from=rss) - [Verizon Refused to Unlock Man&apos;s iPhone, So He Sued the Carrier and Won](https://soylentnews.org/article.pl?sid=25/12/16/0735240&amp;from=rss)
 * [2025-12-17, 12:08:21](https://news.ycombinator.com/item?id=46301059) - [Log level &apos;error&apos; should mean that something needs to be fixed](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 * [2025-12-17, 08:48:00](https://soylentnews.org/article.pl?sid=25/12/16/0725206&amp;from=rss) - [A Simple Pill Could Replace Injections for Treating Gonorrhea](https://soylentnews.org/article.pl?sid=25/12/16/0725206&amp;from=rss)
