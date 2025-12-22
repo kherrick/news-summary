@@ -1,38 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Sustainable Technologies and Renewable Innovations
+## Technology and Innovation
 
-* [Google Launches CO2 Battery Plants for Long-Duration Storage of Renewable Energy](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A breakthrough initiative by Google to enhance renewable energy storage using CO2 batteries. [Read more](https://news.ycombinator.com/item?id=46345506).
+* [The U.S. Could Ban Chinese-Made Drones Used By Police Departments](https://news.slashdot.org/story/25/12/22/042225/the-us-could-ban-chinese-made-drones-used-by-police-departments?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussions around banning Chinese-made drones highlight national security concerns and their usage by law enforcement.
 
-* [Package Forge: The Lesser Known Snap/Flatpak Alternative Without Distro Lock-In](https://linux.slashdot.org/story/25/12/21/199237/package-forge-the-lesser-known-snapflatpak-alternative-without-distro-lock-in?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring a new software distribution method rivaling Snap and Flatpak.
+* [Google Launches CO2 Battery Plants for Long-Duration Storage of Renewable Energy](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google scales up renewable energy solutions with launch of innovative CO2 batteries.
 
-## AI and Robotics Innovations
+* [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/) - Power outage tests autonomous vehicle resilience in San Francisco.
 
-* [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/) - Disney's latest robotic character enhances theme park experiences.
+* [A power outage in Colorado caused U.S. official time be 4.8 microseconds off](https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks) - Learn how a power outage disrupted precise timekeeping systems in the U.S.
 
-* [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/) - A fast and convenient tool for developers seeking quick AI-based code reviews.
+* [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/) - Reflections on adapting to an IPv6-only internet environment.
 
-## Transportation and Urban Technology
+* [The Tor Project is Making a Switch to Rust, Ditches C](https://soylentnews.org/article.pl?sid=25/12/17/0154226&from=rss) - Security-focused move sees Tor transitioning to Rust from C.
 
-* [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage) - Autonomous vehicles caused gridlock during a city-wide power outage. [Comment here](https://news.ycombinator.com/item?id=46350142).
+* [Does AI Really Make Coders Faster?](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analyzing whether AI accelerates software development workflows.
 
-* [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/) - A separate report on the issues faced by automated cars in urban settings.
+## Data Privacy and AI Ethics
 
-* [Confused Waymos Stopped in Intersections During San Francisco Power Outage](https://tech.slashdot.org/story/25/12/21/2048257/confused-waymos-stopped-in-intersections-during-san-francisco-power-outage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting the confusion in autonomous systems during unplanned events.
+* [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/) - A critical look at misrepresentation in system logging.
 
-## Programming Language Evolution and Tools
+* [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065) - Concerns over privacy from upcoming EU legislative proposals.
 
-* [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/) - Introducing Rue, a programming language designed to bridge the gap between Rust and Go. [Read discussions](https://news.ycombinator.com/item?id=46348262).
+* [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html) - Steps to shield personal data repositories from AI scraping.
 
-* [Thirteen years of Rust and the birth of Rue](https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/) - Reflecting on Rust's history and its evolution into Rue.
+* [FSF Says Nintendo's New DRM Allows Them to Remotely Render User Devices 'Permanently Unusable'](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-user-devices-permanently-unusable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Implications of new DRM capabilities on consumer ownership.
 
-* [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration) - Details of potential pitfalls in machine learning model conversions.
+## Cultural and Social Trends
 
-## Privacy and Security Concerns
+* [While Releasing 'Avatar 3', James Cameron Questions the Future of Movies](https://entertainment.slashdot.org/story/25/12/21/0510249/while-releasing-avatar-3-james-cameron-questions-the-future-of-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Renowned filmmaker reflects on evolving cinema landscapes.
 
-* [FSF Says Nintendo's New DRM Allows Them to Remotely Render User's Device 'Permanently Unusuable'](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-users-device-permanently-unusuable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Free Software Foundation warns against potential breaches of device privacy.
+* [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/) - Innovations herald new immersive experiences at Disney.
 
-* [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - A data oversight left internal systems vulnerable for an extended period.
+* [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society) - The end of an era for traditional mail delivery in Denmark.
+
+* [Are 'Geek Gifts' Becoming Their Own Demographic?](https://entertainment.slashdot.org/story/25/12/21/2134227/are-geek-gifts-becoming-their-own-demographic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the rise of culture-specific gifting trends.
+
+## Science and Environment
+
+* [The Secret Life of Moles: What They're Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&from=rss) - Discover the fascinating behaviors of moles in their hidden habitats.
+
+* [After 50 Years, MIT Chemists Finally Synthesize Elusive Anti-Cancer Compound](https://soylentnews.org/article.pl?sid=25/12/17/0147256&from=rss) - A significant leap in cancer research after decades of effort.
+
+* [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&from=rss) - Upcoming cosmic event promises a spectacular light show.
+
+* [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&from=rss) - Research on unique evolutionary strategies in ancient flora.
 
 ---
 
@@ -59,10 +71,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-22, 04:05:00](https://news.slashdot.org/story/25/12/22/042225/the-us-could-ban-chinese-made-drones-used-by-police-departments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The U.S. Could Ban Chinese-Made Drones Used By Police Departments](https://news.slashdot.org/story/25/12/22/042225/the-us-could-ban-chinese-made-drones-used-by-police-departments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-22, 03:48:00](https://news.ycombinator.com/item?id=46351105) - [A power outage in Colorado caused U.S. official time be 4.8 microseconds off](https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks)
+* [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
+* [2025-12-22, 01:43:40](https://news.ycombinator.com/item?id=46350477) - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
 * [2025-12-22, 01:34:00](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Launches CO2 Battery Plants for Long-Duration Storage of Renewable Energy](https://hardware.slashdot.org/story/25/12/21/2337215/google-launches-co2-battery-plants-for-long-duration-storage-of-renewable-energy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 01:25:15](https://news.ycombinator.com/item?id=46350391) - [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
-* [2025-12-22, 00:39:07](https://news.ycombinator.com/item?id=46350142) - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)
 * [2025-12-22, 00:27:04](https://news.ycombinator.com/item?id=46350075) - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
+* [2025-12-22, 00:08:40](https://lobste.rs/s/svqpuu/debian_s_git_transition) - [Debian’s git transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-21, 23:42:34](https://news.ycombinator.com/item?id=46349808) - [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
 * [2025-12-21, 22:49:30](https://lobste.rs/s/yvzvrg/qubes_os_4_3_0_has_been_released) - [Qubes OS 4.3.0 has been released](https://www.qubes-os.org/news/2025/12/21/qubes-os-4-3-0-has-been-released/)
 * [2025-12-21, 22:34:00](https://entertainment.slashdot.org/story/25/12/21/2134227/are-geek-gifts-becoming-their-own-demographic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are &apos;Geek Gifts&apos; Becoming Their Own Demographic?](https://entertainment.slashdot.org/story/25/12/21/2134227/are-geek-gifts-becoming-their-own-demographic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -89,7 +105,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-21, 17:21:05](https://news.ycombinator.com/item?id=46346391) - [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 * [2025-12-21, 16:57:57](https://news.ycombinator.com/item?id=46346214) - [Autoland saves King Air, everyone reported safe](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 * [2025-12-21, 16:56:57](https://lobste.rs/s/nefrtj/arin_ipv4_misissue_incident) - [ARIN IPv4 misissue incident](https://www.arin.net/announcements/20251212/)
-* [2025-12-21, 16:34:00](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-users-device-permanently-unusuable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FSF Says Nintendo&apos;s New DRM Allows Them to Remotely Render User&apos;s Device &apos;Permanently Unusuable&apos;](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-users-device-permanently-unusuable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-21, 16:34:00](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-user-devices-permanently-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FSF Says Nintendo&apos;s New DRM Allows Them to Remotely Render User Devices &apos;Permanently Unusable&apos;](https://games.slashdot.org/story/25/12/21/0020228/fsf-says-nintendos-new-drm-allows-them-to-remotely-render-user-devices-permanently-unusable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-21, 16:21:04](https://news.ycombinator.com/item?id=46345897) - [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
 * [2025-12-21, 16:04:05](https://news.ycombinator.com/item?id=46345745) - [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/)
 * [2025-12-21, 15:34:00](https://news.slashdot.org/story/25/12/21/075239/trump-admin-to-hire-1000-for-new-tech-force-to-build-ai-infrastructure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Admin to Hire 1,000 for New &apos;Tech Force&apos; to Build AI Infrastructure](https://news.slashdot.org/story/25/12/21/075239/trump-admin-to-hire-1000-for-new-tech-force-to-build-ai-infrastructure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-21, 15:06:46](https://news.ycombinator.com/item?id=46345333) - [Structured outputs create false confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
 * [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can&apos;t Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
 * [2025-12-21, 14:45:15](https://lobste.rs/s/r5hdwa/how_i_protect_my_forgejo_instance_from_ai) - [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
-* [2025-12-21, 14:35:29](https://news.ycombinator.com/item?id=46345125) - [Three ways to solve problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
 * [2025-12-21, 14:06:02](https://lobste.rs/s/rgpalc/atomic_time_scale_at_nist_boulder_has) - [The atomic time scale at NIST Boulder has failed](https://journa.host/@w7voa/115754351058263109)
 * [2025-12-21, 12:57:44](https://news.ycombinator.com/item?id=46344514) - [Coarse is better](https://borretti.me/article/coarse-is-better)
 * [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss)
@@ -110,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-21, 11:22:16](https://lobste.rs/s/df96zx/unix_v4_tape_running_simh_pdp11_emu_on_irix) - [The \&quot;UNIX v4 tape\&quot; running in simh PDP11 emu on IRIX](https://oldbytes.space/@flexion/115752573933914452)
 * [2025-12-21, 10:48:57](https://lobste.rs/s/s8kode/tag_proposal_decentralization) - [Tag proposal: decentralization](https://lobste.rs/s/s8kode/tag_proposal_decentralization)
 * [2025-12-21, 10:38:30](https://lobste.rs/s/xzxetz/polyproto_refreshingly_simple) - [polyproto: A refreshingly simple decentralised, federated protocol](https://polyproto.org/)
-* [2025-12-21, 09:13:23](https://lobste.rs/s/gsndus/task_injection_exploiting_agency) - [Task Injection – Exploiting agency of autonomous AI agents](https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents?)
 * [2025-12-21, 08:34:00](https://it.slashdot.org/story/25/12/20/0512216/is-americas-tech-industry-already-facing-a-recession?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is America&apos;s Tech Industry Already Facing a Recession?](https://it.slashdot.org/story/25/12/20/0512216/is-americas-tech-industry-already-facing-a-recession?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss)
 * [2025-12-21, 07:06:48](https://news.ycombinator.com/item?id=46342859) - [Ruby website redesigned](https://www.ruby-lang.org/en/)
@@ -126,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 23:38:00](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does AI Really Make Coders Faster?](https://developers.slashdot.org/story/25/12/20/2335253/does-ai-really-make-coders-faster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 23:32:15](https://lobste.rs/s/tilcty/i_spent_week_without_ipv4_understand_ipv6) - [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 22:34:00](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss) - [Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss)
-* [2025-12-20, 21:34:00](https://tech.slashdot.org/story/25/12/20/2059205/parrot-os-switches-to-kde-plasma-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Parrot OS Switches to KDE Plasma Desktop](https://tech.slashdot.org/story/25/12/20/2059205/parrot-os-switches-to-kde-plasma-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-20, 21:17:47](https://lobste.rs/s/ikae1r/backing_up_spotify) - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 * [2025-12-20, 19:36:16](https://lobste.rs/s/8rpa2g/ruby_s_website_got_overhaul) - [Ruby&apos;s website got an overhaul](https://www.ruby-lang.org/en/)
 * [2025-12-20, 17:44:00](https://soylentnews.org/article.pl?sid=25/12/19/0524257&amp;from=rss) - [Nissan Adds Hearing Test and Custom Equilization to Car Audio](https://soylentnews.org/article.pl?sid=25/12/19/0524257&amp;from=rss)
@@ -134,13 +147,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss)
 * [2025-12-20, 03:27:00](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss) - [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss)
 * [2025-12-19, 22:43:00](https://soylentnews.org/article.pl?sid=25/12/18/133249&amp;from=rss) - [Mozilla&apos;s New CEO: Firefox Will Become an “AI Browser”](https://soylentnews.org/article.pl?sid=25/12/18/133249&amp;from=rss)
+* [2025-12-19, 21:42:55](https://news.ycombinator.com/item?id=46331292) - [Kernighan&apos;s Lever](https://linusakesson.net/programming/kernighans-lever/index.php)
 * [2025-12-19, 17:55:00](https://soylentnews.org/article.pl?sid=25/12/18/046237&amp;from=rss) - [Resolving to Spend Less Time on Your Smartphone? Understanding Your Travel Habits Can Help](https://soylentnews.org/article.pl?sid=25/12/18/046237&amp;from=rss)
 * [2025-12-19, 13:21:00](https://soylentnews.org/article.pl?sid=25/12/18/044218&amp;from=rss) - [UK to “Encourage” Apple and Google to Put Nudity-Blocking Systems on Phones](https://soylentnews.org/article.pl?sid=25/12/18/044218&amp;from=rss)
 * [2025-12-19, 08:14:00](https://soylentnews.org/article.pl?sid=25/12/18/0358200&amp;from=rss) - [Google Translate expands live translation to all earbuds on Android](https://soylentnews.org/article.pl?sid=25/12/18/0358200&amp;from=rss)
 * [2025-12-19, 08:11:00](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss) - [British Billboards Are Watching You](https://soylentnews.org/article.pl?sid=25/12/18/0353210&amp;from=rss)
 * [2025-12-19, 05:49:33](https://news.ycombinator.com/item?id=46322631) - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)
 * [2025-12-19, 03:37:00](https://soylentnews.org/article.pl?sid=25/12/17/0218212&amp;from=rss) - [UK Strengthens Subsea Cables Against Russian Interference](https://soylentnews.org/article.pl?sid=25/12/17/0218212&amp;from=rss)
-* [2025-12-18, 23:37:05](https://news.ycombinator.com/item?id=46320353) - [Perron: A Static Site Generator for Ruby on Rails](https://perron-site.statichost.page/)
 * [2025-12-18, 22:51:00](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss) - [Forget Flowers: These Ancient Plants Attract Pollinators by Getting Hot](https://soylentnews.org/article.pl?sid=25/12/17/027253&amp;from=rss)
 * [2025-12-18, 18:04:00](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss) - [Foxconn is Building a Massive Factory in KY, but Probably Not for Apple](https://soylentnews.org/article.pl?sid=25/12/17/0155253&amp;from=rss)
 * [2025-12-18, 17:49:10](https://news.ycombinator.com/item?id=46316050) - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
