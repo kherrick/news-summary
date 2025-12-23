@@ -1,46 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security Updates
+## Technology Innovations
 
-* [NPM Package With 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages) - Notable discovery of a malicious NPM package highlighting persistent vulnerabilities in dependency management.
+* [Test, Don&apos;t (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/) - Insightful discussion on software testing methodologies.
 
-* [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - Critical security issue risking pre-boot firmware of major motherboard brands.
+* [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) - Exploration of a font that integrates syntax highlighting.
 
-* [Microsoft To Replace All C/C++ Code With Rust By 2030](https://developers.slashdot.org/story/25/12/23/010200/microsoft-to-replace-all-cc-code-with-rust-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ambitious plan by Microsoft to enhance safety and security in its software base.
+* [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) - A guide to creating instant database clones using PostgreSQL.
 
-* [FCC Bans Foreign-Made Drones Over National Security, Spying Concerns](https://news.slashdot.org/story/25/12/23/0036201/fcc-bans-foreign-made-drones-over-national-security-spying-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulatory update affecting the drone market due to security concerns.
+* [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025) - Successful journey of bootstrapping a company over a decade.
 
-## Cutting Edge Software and Tools
+* [NPM Package With 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages) - Alarm raised over a popular NPM package stealing personal data.
 
-* [Carnap – A formal logic framework for Haskell](https://carnap.io/) - A robust tool for formal logic applications within the Haskell ecosystem.
+* [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch) - Introduction to 'Snitch,' a simplified alternative to ss/netstat.
 
-* [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli) - Feature-rich terminal interface designed for movie enthusiasts.
+## Science and Space Exploration
 
-* [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch) - Tool improving usability and functionality of network management.
+* [Titan&apos;s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - Fascinating insights into Titan's underground oceans.
 
-## Corporate and Industry Developments
+* [Safety Panel Says NASA Should Have Taken Starliner Incident More Seriously](https://science.slashdot.org/story/25/12/23/0839241/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Criticism of NASA's response to challenges faced with its Starliner spacecraft.
 
-* [Alphabet Acquires Data Center and Energy Infrastructure Company Intersect For $4.75 Billion](https://news.slashdot.org/story/25/12/22/226229/alphabet-acquires-data-center-and-energy-infrastructure-company-intersect-for-475-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alphabet expands its operations with strategic infrastructure acquisition.
+* [How a Power Outage In Colorado Caused US Official Time To Be 4.8 Microseconds](https://science.slashdot.org/story/25/12/23/018200/how-a-power-outage-in-colorado-caused-us-official-time-to-be-48-microseconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tale of power outages disrupting precision official timekeeping.
 
-* [Call of Duty Co-Creator, Respawn Co-Founder, and EA Exec Vince Zampella Killed In Car Accident](https://games.slashdot.org/story/25/12/22/2143219/call-of-duty-co-creator-respawn-co-founder-and-ea-exec-vince-zampella-killed-in-car-accident?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Loss of a key figure in the gaming industry.
+## Cybersecurity
 
-* [Larry Ellison Pledges $40-Billion Personal Guarantee For Paramount's Warner Bros Bid](https://news.slashdot.org/story/25/12/22/2138243/larry-ellison-pledges-40-billion-personal-guarantee-for-paramounts-warner-bros-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major Hollywood business development involving tech industry mogul.
+* [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - Discussion on new vulnerabilities found in popular motherboards.
 
-## Science and Environment
+* [FCC Bans Foreign-Made Drones Over National Security, Spying Concerns](https://news.slashdot.org/story/25/12/23/0036201/fcc-bans-foreign-made-drones-over-national-security-spying-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New regulations addressing security concerns surrounding foreign-made drones.
 
-* [How a Power Outage In Colorado Caused US Official Time To Be 4.8 Microseconds](https://science.slashdot.org/story/25/12/23/018200/how-a-power-outage-in-colorado-caused-us-official-time-to-be-48-microseconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzing the criticality of accurate official time synchronization.
+* [Creating Apps Like Signal or WhatsApp Could be &apos;Hostile Activity,&apos; Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss) - UK authorities raise issues regarding encrypted messaging platforms.
 
-* [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - Investigating the long journey of microplastics in marine ecosystems.
+## Business and Finance
 
-* [The Secret Life of Moles: What They're Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss) - A look into subterranean animal behavior and ecology.
+* [Alphabet Acquires Data Center and Energy Infrastructure Company Intersect For $4.75 Billion](https://news.slashdot.org/story/25/12/22/226229/alphabet-acquires-data-center-and-energy-infrastructure-company-intersect-for-475-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alphabet's big acquisition targeting data and energy infrastructure.
 
-## Miscellaneous Innovations and News
+* [Larry Ellison Pledges $40-Billion Personal Guarantee For Paramount&apos;s Warner Bros Bid](https://news.slashdot.org/story/25/12/22/2138243/larry-ellison-pledges-40-billion-personal-guarantee-for-paramounts-warner-bros-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ellison’s ambitious financial move to expand Paramount's media reach.
 
-* [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea) - Minimalist notes application with remarkable code efficiency.
+## Society and Culture
 
-* [Debian adds LoongArch as officially supported architecture](https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html) - Major announcement for the Linux open-source ecosystem.
+* [Postponed &apos;60 Minutes&apos; segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618) - The controversial story of El Salvador’s prison aired in Canada.
 
-* [Ventoy 1.1.09 Released With Experimental Btrfs Support](https://soylentnews.org/article.pl?sid=25/12/20/016256&amp;from=rss) - New update for popular bootable USB utility.
+* [Cyberattack Disrupts France&apos;s Postal Service, Banking During Christmas Rush](https://it.slashdot.org/story/25/12/22/2158219/cyberattack-disrupts-frances-postal-service-banking-during-christmas-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cybercriminal strikes overwhelm vital communication and finance services.
+
+* [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - Glaring security issue left Home Depot's internal systems exposed.
 
 ---
 
@@ -67,14 +69,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-23, 13:00:00](https://tech.slashdot.org/story/25/12/22/2219206/uber-lyft-set-to-trial-robotaxis-in-the-uk-in-partnership-with-chinas-baidu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber, Lyft Set To Trial Robotaxis In the UK In Partnership With China&apos;s Baidu](https://tech.slashdot.org/story/25/12/22/2219206/uber-lyft-set-to-trial-robotaxis-in-the-uk-in-partnership-with-chinas-baidu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, Don&apos;t (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
+* [2025-12-23, 12:30:21](https://news.ycombinator.com/item?id=46364783) - [Postponed &apos;60 Minutes&apos; segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)
+* [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - [Titan&apos;s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss)
+* [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
+* [2025-12-23, 10:56:27](https://lobste.rs/s/owheki/feature_discussion_replying_multiple) - [Feature discussion: replying to multiple comments in story](https://lobste.rs/s/owheki/feature_discussion_replying_multiple)
+* [2025-12-23, 10:28:09](https://news.ycombinator.com/item?id=46364131) - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+* [2025-12-23, 10:00:00](https://science.slashdot.org/story/25/12/23/0839241/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Safety Panel Says NASA Should Have Taken Starliner Incident More Seriously](https://science.slashdot.org/story/25/12/23/0839241/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
+* [2025-12-23, 09:50:31](https://news.ycombinator.com/item?id=46363921) - [Ask HN: What are the best engineering blogs with real-world depth?](https://news.ycombinator.com/item?id=46363921)
 * [2025-12-23, 09:40:53](https://lobste.rs/s/3amelj/why_quantum_cryptanalysis_is_bollocks) - [Why Quantum Cryptanalysis is Bollocks](https://youtu.be/xa4Ok7WNFHY)
 * [2025-12-23, 09:17:42](https://news.ycombinator.com/item?id=46363751) - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
+* [2025-12-23, 08:56:50](https://lobste.rs/s/foqwqb/this_meeting_could_have_been_email) - [This Meeting could have been an Email](https://substack.com/inbox/post/182399060)
+* [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
+* [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss)
 * [2025-12-23, 07:11:39](https://lobste.rs/s/a9qem9/npm_package_with_56k_downloads_caught) - [NPM Package With 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-23, 07:00:00](https://science.slashdot.org/story/25/12/23/018200/how-a-power-outage-in-colorado-caused-us-official-time-to-be-48-microseconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Power Outage In Colorado Caused US Official Time To Be 4.8 Microseconds](https://science.slashdot.org/story/25/12/23/018200/how-a-power-outage-in-colorado-caused-us-official-time-to-be-48-microseconds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 * [2025-12-23, 05:17:50](https://news.ycombinator.com/item?id=46362655) - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 * [2025-12-23, 03:57:02](https://news.ycombinator.com/item?id=46362275) - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
 * [2025-12-23, 03:30:00](https://tech.slashdot.org/story/25/12/23/0050202/garmin-emergency-autoland-has-first-save?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Garmin Emergency Autoland Has First Save](https://tech.slashdot.org/story/25/12/23/0050202/garmin-emergency-autoland-has-first-save?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -85,10 +98,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 01:03:57](https://news.ycombinator.com/item?id=46361229) - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [2025-12-23, 01:03:00](https://developers.slashdot.org/story/25/12/23/010200/microsoft-to-replace-all-cc-code-with-rust-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Replace All C/C++ Code With Rust By 2030](https://developers.slashdot.org/story/25/12/23/010200/microsoft-to-replace-all-cc-code-with-rust-by-2030?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 00:46:51](https://lobste.rs/s/mvqno1/introducing_open_forms) - [Introducing Open Forms](https://www.aryank.in/posts/2025-12-21-introducing-open-forms/)
+* [2025-12-23, 00:36:27](https://news.ycombinator.com/item?id=46361024) - [Cecot – 60 Minutes](https://archive.org/details/insidececot)
 * [2025-12-23, 00:20:00](https://news.slashdot.org/story/25/12/22/226229/alphabet-acquires-data-center-and-energy-infrastructure-company-intersect-for-475-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alphabet Acquires Data Center and Energy Infrastructure Company Intersect For $4.75 Billion](https://news.slashdot.org/story/25/12/22/226229/alphabet-acquires-data-center-and-energy-infrastructure-company-intersect-for-475-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 23:40:00](https://it.slashdot.org/story/25/12/22/2158219/cyberattack-disrupts-frances-postal-service-banking-during-christmas-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyberattack Disrupts France&apos;s Postal Service, Banking During Christmas Rush](https://it.slashdot.org/story/25/12/22/2158219/cyberattack-disrupts-frances-postal-service-banking-during-christmas-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 23:00:00](https://news.slashdot.org/story/25/12/22/2138243/larry-ellison-pledges-40-billion-personal-guarantee-for-paramounts-warner-bros-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Larry Ellison Pledges $40-Billion Personal Guarantee For Paramount&apos;s Warner Bros Bid](https://news.slashdot.org/story/25/12/22/2138243/larry-ellison-pledges-40-billion-personal-guarantee-for-paramounts-warner-bros-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-22, 22:35:45](https://news.ycombinator.com/item?id=46359996) - [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-22, 22:20:00](https://games.slashdot.org/story/25/12/22/2143219/call-of-duty-co-creator-respawn-co-founder-and-ea-exec-vince-zampella-killed-in-car-accident?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Call of Duty Co-Creator, Respawn Co-Founder, and EA Exec Vince Zampella Killed In Car Accident](https://games.slashdot.org/story/25/12/22/2143219/call-of-duty-co-creator-respawn-co-founder-and-ea-exec-vince-zampella-killed-in-car-accident?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 22:02:00](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) - [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss)
 * [2025-12-22, 21:57:53](https://lobste.rs/s/bhsl9h/i_foretold_mac_app_notarization_is) - [I foretold that Mac app notarization is security theater](https://lapcatsoftware.com/articles/2025/12/5.html)
@@ -102,13 +115,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 19:27:00](https://entertainment.slashdot.org/story/25/12/22/1927237/why-some-avatar-fire-and-ash-scenes-look-so-smooth-and-others-dont?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Some Avatar: Fire and Ash Scenes Look So Smooth, and Others Don&apos;t](https://entertainment.slashdot.org/story/25/12/22/1927237/why-some-avatar-fire-and-ash-scenes-look-so-smooth-and-others-dont?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 19:15:56](https://news.ycombinator.com/item?id=46357675) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2025-12-22, 19:10:36](https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper) - [What&apos;s \&quot;new\&quot; in Miri (and also, there&apos;s a Miri paper!)](https://www.ralfj.de/blog/2025/12/22/miri.html)
-* [2025-12-22, 18:59:22](https://news.ycombinator.com/item?id=46357458) - [Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)](https://arxiv.org/abs/2512.14693)
 * [2025-12-22, 18:46:32](https://news.ycombinator.com/item?id=46357287) - [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
 * [2025-12-22, 18:43:37](https://lobste.rs/s/2rtmv9/from_zero_qed_informal_introduction) - [From Zero to QED: An informal introduction to formality in Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
 * [2025-12-22, 18:41:00](https://linux.slashdot.org/story/25/12/22/1840258/what-the-linux-desktop-really-needs-to-challenge-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What the Linux Desktop Really Needs To Challenge Windows](https://linux.slashdot.org/story/25/12/22/1840258/what-the-linux-desktop-really-needs-to-challenge-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 18:27:57](https://lobste.rs/s/p6gjfj/uncomfortable_necessary_discussion) - [An uncomfortable but necessary discussion about the Debian bug tracker](https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html)
-* [2025-12-22, 18:02:00](https://slashdot.org/story/25/12/22/1756217/instacart-kills-ai-pricing-tests-that-charged-some-customers-more-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instacart Kills AI Pricing Tests That Charged Some Customers More Than Others](https://slashdot.org/story/25/12/22/1756217/instacart-kills-ai-pricing-tests-that-charged-some-customers-more-than-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-22, 17:21:00](https://slashdot.org/story/25/12/22/1210214/visa-says-ai-will-start-shopping-and-paying-for-you-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Visa Says AI Will Start Shopping and Paying For You In 2026](https://slashdot.org/story/25/12/22/1210214/visa-says-ai-will-start-shopping-and-paying-for-you-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss)
 * [2025-12-22, 17:02:41](https://lobste.rs/s/3w65ir/email_simplicity_vs_decentralized_chat) - [Email Simplicity vs Decentralized Chat](https://lobste.rs/s/3w65ir/email_simplicity_vs_decentralized_chat)
 * [2025-12-22, 17:01:28](https://news.ycombinator.com/item?id=46355949) - [NIST was 5 μs off UTC after last week&apos;s power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
@@ -117,13 +127,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 15:43:27](https://lobste.rs/s/supzy7/nature_programming_language) - [Nature Programming Language](https://nature-lang.org/)
 * [2025-12-22, 15:38:37](https://news.ycombinator.com/item?id=46354970) - [Scaling LLMs to Larger Codebases](https://blog.kierangill.xyz/oversight-and-guidance)
 * [2025-12-22, 15:25:57](https://lobste.rs/s/rdotp2/proposed_rust_kernel_extensions_place) - [Proposed Rust kernel extensions in place of eBPF](https://www.phoronix.com/news/Linux-Kernel-Rust-Rex)
-* [2025-12-22, 14:44:42](https://lobste.rs/s/sv8c9s/privacy_preserving_vaccination_checks) - [Privacy-Preserving Vaccination Checks: A Proof of Concept MPC Deployment with the Frankfurt Health Department](https://sine.foundation/library/mpc-vaccination-check)
-* [2025-12-22, 12:54:29](https://news.ycombinator.com/item?id=46353777) - [The biggest CRT ever made: Sony&apos;s PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss)
 * [2025-12-22, 11:12:29](https://lobste.rs/s/zzvn7y/i_m_former_cto_here_is_15_sec_coding_test_i) - [I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
-* [2025-12-22, 08:42:23](https://lobste.rs/s/k9rvab/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k9rvab/what_are_you_doing_this_week)
 * [2025-12-22, 08:40:47](https://lobste.rs/s/h6pqyr/installing_void_linux_on_zfs_with) - [Installing Void Linux on ZFS with Hibernation Support](https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/)
-* [2025-12-22, 08:24:32](https://news.ycombinator.com/item?id=46352231) - [Debian&apos;s Git Transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
 * [2025-12-22, 00:08:40](https://lobste.rs/s/svqpuu/debian_s_git_transition) - [Debian’s git transition](https://diziet.dreamwidth.org/20436.html)
@@ -134,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-21, 18:36:20](https://lobste.rs/s/lyykk0/dumbphone_journey_eight_month_update) - [dumbphone journey -- eight month update](https://blog.frog.equipment/dumbphone-journey-eight-month-update)
 * [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss) - [The Secret Life of Moles: What They&apos;re Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss)
 * [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can&apos;t Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
-* [2025-12-21, 14:45:15](https://lobste.rs/s/r5hdwa/how_i_protect_my_forgejo_instance_from_ai) - [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 * [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss)
 * [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss)
 * [2025-12-21, 04:40:00](https://soylentnews.org/article.pl?sid=25/12/20/016256&amp;from=rss) - [Ventoy 1.1.09 Released With Experimental Btrfs Support](https://soylentnews.org/article.pl?sid=25/12/20/016256&amp;from=rss)
