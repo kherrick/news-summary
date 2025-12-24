@@ -1,46 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Lawsuits and Legal Developments
+## Surveillance and Privacy
 
-* [John Carreyou and Other Authors Bring New Lawsuit Against Six Major AI Companies](https://yro.slashdot.org/story/25/12/23/2254257/john-carreyou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Authors including John Carreyou take legal action against prominent AI companies, addressing intellectual property concerns.
+* [Inside Uzbekistan's Nationwide License Plate Surveillance System](https://yro.slashdot.org/story/25/12/23/2220226/inside-uzbekistans-nationwide-license-plate-surveillance-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Judge Blocks Texas App Store Age Verification Law](https://yro.slashdot.org/story/25/12/23/2235204/judge-blocks-texas-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Federal judge halts a controversial Texas law focused on app store age verification.
+* [Judge Blocks Texas App Store Age Verification Law](https://yro.slashdot.org/story/25/12/23/2235204/judge-blocks-texas-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Artificial Intelligence and Emerging Technologies
+* [I didn’t realize my LG TV was spying on me until I turned off Live Plus](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 
-* [Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers](https://linux.slashdot.org/story/25/12/23/227227/meta-is-using-the-linux-scheduler-designed-for-valves-steam-deck-on-its-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta adopts Linux scheduler originally crafted for gaming hardware to optimize server efficiency.
+## AI and Robotics
 
-* [ServiceNow To Buy Armis For $7.75 Billion As It Bets Big On Cybersecurity For AI](https://slashdot.org/story/25/12/23/2313234/servicenow-to-buy-armis-for-775-billion-as-it-bets-big-on-cybersecurity-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - ServiceNow makes a substantial investment in cybersecurity by acquiring Armis with a focus on AI security.
+* [Google Search Now Lets You Upload Images and PDFs for Analysis](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss)
 
-* [Local AI is driving the biggest change in laptops in decades](https://spectrum.ieee.org/ai-models-locally) - AI transforms the laptop industry, influencing hardware and software innovation.
+* [John Carreyou and Other Authors Bring New Lawsuit Against Six Major AI Companies](https://yro.slashdot.org/story/25/12/23/2254257/john-carreyou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Technological Innovations and Developments
+* [Firefox Will Ship With an “AI Kill Switch” to Completely Disable All AI Features](https://soylentnews.org/article.pl?sid=25/12/22/0032258&amp;from=rss)
 
-* [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139) - A new open-source app aims to simplify tracking gym progress with minimal design.
+* [Creating Apps Like Signal or WhatsApp Could be 'Hostile Activity,' Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss)
 
-* [Firefox Will Ship With an 'AI Kill Switch' to Completely Disable All AI Features](https://soylentnews.org/article.pl?sid=25/12/22/0032258&from=rss) - Mozilla introduces functionality in Firefox aimed at user empowerment by disabling AI integration.
+## Open Source and Development
 
-* [sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http) - This experimental SQLite feature bridges WASM and HTTP for better database performance in web environments.
+* [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
 
-## Cybersecurity Insights
+* [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 
-* [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html) - Discusses minimalist coding aiming at elegant, silicon-based demos.
+* [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 
-* [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray) - Python-based tool designed for detecting compromised or faulty redacted content in PDFs.
+* [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 
-* [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media) - Technology and social media fuel renewed investigative interest through the alteration of redacted files.
+## Corporate and Industry News
 
-## Unique Personalities and Human Achievements
+* [ServiceNow To Buy Armis For $7.75 Billion As It Bets Big On Cybersecurity For AI](https://slashdot.org/story/25/12/23/2313234/servicenow-to-buy-armis-for-775-billion-as-it-bets-big-on-cybersecurity-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ireland's Diarmuid Early Wins World Microsoft Excel Title](https://tech.slashdot.org/story/25/12/23/2214235/irelands-diarmuid-early-wins-world-microsoft-excel-title?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Showcase of advanced skills results in a standout competitive Excel victory.
+* [Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers](https://linux.slashdot.org/story/25/12/23/227227/meta-is-using-the-linux-scheduler-designed-for-valves-steam-deck-on-its-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm) - A compelling personal account of retro computing hardware mishaps.
+* [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
 
-## Consumer Technology and Trends
+## Astronomy and Space Exploration
 
-* [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router) - A travel router aimed at connectivity-conscious customers, merging functionality with compactness.
+* [This Star is Being Eaten Alive—and its Explosive Death Will be Visible in Broad Daylight](https://soylentnews.org/article.pl?sid=25/12/18/139231&amp;from=rss)
 
-* [Samsung's 2026 Gaming Monitors Promise 6K, 3D, and Up To 1,040Hz](https://entertainment.slashdot.org/story/25/12/23/1944212/samsungs-2026-gaming-monitors-promise-6k-3d-and-up-to-1040hz?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Samsung highlights the future of gaming displays through high-refresh rates and vibrant resolutions.
+* [‘Dracula’s Chivito’: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
+
+## Emerging Technology and Innovations
+
+* [Samsung's 2026 Gaming Monitors Promise 6K, 3D, and Up To 1,040Hz](https://entertainment.slashdot.org/story/25/12/23/1944212/samsungs-2026-gaming-monitors-promise-6k-3d-and-up-to-1040hz?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
+
+* [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
+
+## Historical and Intellectual Curiosities
+
+* [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
+
+* [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
+
+## Security and Cybersecurity
+
+* [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
+
+* [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+
+* [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
 
 ---
 
@@ -67,19 +89,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-24, 03:30:00](https://yro.slashdot.org/story/25/12/23/2220226/inside-uzbekistans-nationwide-license-plate-surveillance-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Inside Uzbekistan&apos;s Nationwide License Plate Surveillance System](https://yro.slashdot.org/story/25/12/23/2220226/inside-uzbekistans-nationwide-license-plate-surveillance-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-24, 02:28:00](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss) - [Google Search Now Lets You Upload Images and PDFs for Analysis](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss)
+* [2025-12-24, 02:21:42](https://news.ycombinator.com/item?id=46371759) - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
+* [2025-12-24, 02:18:38](https://news.ycombinator.com/item?id=46371743) - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
+* [2025-12-24, 02:10:34](https://news.ycombinator.com/item?id=46371705) - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
+* [2025-12-24, 02:10:00](https://devices.slashdot.org/story/25/12/23/2247241/ios-263-brings-airpods-like-pairing-to-third-party-devices-in-eu-under-dma?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iOS 26.3 Brings AirPods-Like Pairing To Third-Party Devices In EU Under DMA](https://devices.slashdot.org/story/25/12/23/2247241/ios-263-brings-airpods-like-pairing-to-third-party-devices-in-eu-under-dma?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-24, 02:01:49](https://news.ycombinator.com/item?id=46371673) - [&apos;Dracula&apos;s Chivito&apos;: Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
 * [2025-12-24, 01:30:00](https://yro.slashdot.org/story/25/12/23/2254257/john-carreyou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [John Carreyou and Other Authors Bring New Lawsuit Against Six Major AI Companies](https://yro.slashdot.org/story/25/12/23/2254257/john-carreyou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-24, 01:21:58](https://news.ycombinator.com/item?id=46371429) - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
+* [2025-12-24, 01:20:39](https://news.ycombinator.com/item?id=46371423) - [Nabokov&apos;s guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
 * [2025-12-24, 00:50:00](https://linux.slashdot.org/story/25/12/23/227227/meta-is-using-the-linux-scheduler-designed-for-valves-steam-deck-on-its-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Is Using The Linux Scheduler Designed For Valve&apos;s Steam Deck On Its Servers](https://linux.slashdot.org/story/25/12/23/227227/meta-is-using-the-linux-scheduler-designed-for-valves-steam-deck-on-its-servers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-24, 00:30:42](https://news.ycombinator.com/item?id=46371139) - [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139)
 * [2025-12-24, 00:30:18](https://news.ycombinator.com/item?id=46371135) - [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
 * [2025-12-24, 00:10:00](https://slashdot.org/story/25/12/23/2313234/servicenow-to-buy-armis-for-775-billion-as-it-bets-big-on-cybersecurity-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ServiceNow To Buy Armis For $7.75 Billion As It Bets Big On Cybersecurity For AI](https://slashdot.org/story/25/12/23/2313234/servicenow-to-buy-armis-for-775-billion-as-it-bets-big-on-cybersecurity-for-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 23:30:00](https://tech.slashdot.org/story/25/12/23/2214235/irelands-diarmuid-early-wins-world-microsoft-excel-title?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ireland&apos;s Diarmuid Early Wins World Microsoft Excel Title](https://tech.slashdot.org/story/25/12/23/2214235/irelands-diarmuid-early-wins-world-microsoft-excel-title?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 23:12:03](https://news.ycombinator.com/item?id=46370592) - [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
 * [2025-12-23, 22:50:00](https://yro.slashdot.org/story/25/12/23/2235204/judge-blocks-texas-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Blocks Texas App Store Age Verification Law](https://yro.slashdot.org/story/25/12/23/2235204/judge-blocks-texas-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn&apos;t refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
-* [2025-12-23, 22:23:49](https://news.ycombinator.com/item?id=46370180) - [Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
 * [2025-12-23, 22:10:00](https://yro.slashdot.org/story/25/12/23/222221/limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LimeWire Re-Emerges In Online Rush To Share Pulled &apos;60 Minutes&apos; Segment](https://yro.slashdot.org/story/25/12/23/222221/limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 22:09:04](https://lobste.rs/s/1bzwio/pure_silicon_demo_coding_no_cpu_no_memory) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-23, 22:03:46](https://news.ycombinator.com/item?id=46370012) - [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+* [2025-12-23, 21:58:43](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing) - [Your favorite pieces of technical writing?](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing)
 * [2025-12-23, 21:54:30](https://news.ycombinator.com/item?id=46369923) - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 * [2025-12-23, 21:47:33](https://news.ycombinator.com/item?id=46369860) - [I didn&apos;t realize my LG TV was spying on me until I turned off Live Plus](https://www.pocket-lint.com/lg-tv-turn-off-live-plus/)
 * [2025-12-23, 21:47:03](https://lobste.rs/s/aipma8/cpu_cpu_command_go_inspired_by_plan_9_cpu) - [cpu: cpu command in Go, inspired by the Plan 9 cpu command](https://github.com/u-root/cpu)
@@ -96,6 +126,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 19:09:43](https://lobste.rs/s/zoqaeq/initial_analysis_discovered_unix_v4_tape) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 * [2025-12-23, 18:59:54](https://lobste.rs/s/nyqw6y/sqlite_wasm_http_experimental_http_vfs) - [sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http)
 * [2025-12-23, 18:50:00](https://slashdot.org/story/25/12/23/1836252/remote-work-is-officially-dead-says-the-worlds-largest-recruiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Remote Work is Officially Dead, Says the World&apos;s Largest Recruiter](https://slashdot.org/story/25/12/23/1836252/remote-work-is-officially-dead-says-the-worlds-largest-recruiter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-23, 18:33:01](https://news.ycombinator.com/item?id=46367864) - [Volvo Centum is Dalton Maag&apos;s new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
 * [2025-12-23, 18:16:00](https://slashdot.org/story/25/12/23/1816257/australia-poised-for-desalination-boom-as-water-shortages-loom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia Poised for Desalination Boom as Water Shortages Loom](https://slashdot.org/story/25/12/23/1816257/australia-poised-for-desalination-boom-as-water-shortages-loom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 18:00:31](https://news.ycombinator.com/item?id=46367475) - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-23, 17:34:22](https://news.ycombinator.com/item?id=46367232) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
@@ -103,9 +134,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 17:28:00](https://games.slashdot.org/story/25/12/23/1728203/5k-gaming-is-too-hard-even-for-an-rtx-5090d?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [5K Gaming Is Too Hard, Even for an RTX 5090D](https://games.slashdot.org/story/25/12/23/1728203/5k-gaming-is-too-hard-even-for-an-rtx-5090d?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 17:08:34](https://news.ycombinator.com/item?id=46366998) - [Meta is using the Linux scheduler designed for Valve&apos;s Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 16:57:00](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss) - [A Better Zip Bomb](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss)
-* [2025-12-23, 16:41:00](https://slashdot.org/story/25/12/23/1516239/ryanair-fined-301m-over-abusive-strategy-to-limit-ticket-sales-by-online-travel-agencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ryanair Fined $301M Over &apos;Abusive Strategy&apos; To Limit Ticket Sales By Online Travel Agencies](https://slashdot.org/story/25/12/23/1516239/ryanair-fined-301m-over-abusive-strategy-to-limit-ticket-sales-by-online-travel-agencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 16:35:53](https://lobste.rs/s/xz6fwz/unix_find_expressions_compiled_bytecode) - [Unix \&quot;find\&quot; expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/)
-* [2025-12-23, 16:01:00](https://apple.slashdot.org/story/25/12/23/158236/apple-and-google-asking-some-employees-with-h-1b-visas-to-avoid-international-travel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple and Google Asking Some Employees With H-1B Visas To Avoid International Travel](https://apple.slashdot.org/story/25/12/23/158236/apple-and-google-asking-some-employees-with-h-1b-visas-to-avoid-international-travel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
 * [2025-12-23, 15:47:38](https://lobste.rs/s/kpvesz/reproducing_nixos_25_11_minimal) - [Reproducing the NixOS 25.11 Minimal Installation ISO](https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/)
@@ -114,18 +143,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 * [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
-* [2025-12-23, 12:56:50](https://news.ycombinator.com/item?id=46364973) - [Test, don&apos;t just verify](https://alperenkeles.com/posts/test-dont-verify/)
 * [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - [Titan&apos;s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss)
 * [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
-* [2025-12-23, 07:58:25](https://news.ycombinator.com/item?id=46363360) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
-* [2025-12-23, 07:50:03](https://news.ycombinator.com/item?id=46363319) - [10 years bootstrapped: €6.5M revenue with a team of 13](https://www.datocms.com/blog/a-look-back-at-2025)
 * [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss)
 * [2025-12-23, 07:11:39](https://lobste.rs/s/a9qem9/npm_package_with_56k_downloads_caught) - [NPM Package With 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
 * [2025-12-23, 06:22:21](https://news.ycombinator.com/item?id=46362927) - [iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 * [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss) - [Creating Apps Like Signal or WhatsApp Could be &apos;Hostile Activity,&apos; Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss)
-* [2025-12-23, 02:05:38](https://lobste.rs/s/ldlty4/freebsd_closes_laptop_gap_year_one) - [FreeBSD Closes the Laptop Gap: Year One Project Update](https://freebsdfoundation.org/blog/freebsd-closes-the-laptop-gap-year-one-project-update/)
 * [2025-12-23, 00:12:16](https://news.ycombinator.com/item?id=46360856) - [Local AI is driving the biggest change in laptops in decades](https://spectrum.ieee.org/ai-models-locally)
 * [2025-12-22, 22:02:00](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) - [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss)
 * [2025-12-22, 21:57:53](https://lobste.rs/s/bhsl9h/i_foretold_mac_app_notarization_is) - [I foretold that Mac app notarization is security theater](https://lapcatsoftware.com/articles/2025/12/5.html)
@@ -133,7 +158,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 19:10:36](https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper) - [What&apos;s \&quot;new\&quot; in Miri (and also, there&apos;s a Miri paper!)](https://www.ralfj.de/blog/2025/12/22/miri.html)
 * [2025-12-22, 18:27:57](https://lobste.rs/s/p6gjfj/uncomfortable_necessary_discussion) - [An uncomfortable but necessary discussion about the Debian bug tracker](https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html)
 * [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss)
-* [2025-12-22, 15:12:40](https://news.ycombinator.com/item?id=46354737) - [Toad is a unified experience for AI in the terminal](https://willmcgugan.github.io/toad-released/)
 * [2025-12-22, 15:06:13](https://news.ycombinator.com/item?id=46354674) - [Lua 5.5](https://lua.org/versions.html#5.5)
 * [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss)
 * [2025-12-22, 11:12:29](https://lobste.rs/s/zzvn7y/i_m_former_cto_here_is_15_sec_coding_test_i) - [I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
@@ -147,6 +171,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-21, 03:17:00](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss)
 * [2025-12-20, 22:34:00](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss) - [Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain](https://soylentnews.org/article.pl?sid=25/12/19/0538241&amp;from=rss)
 * [2025-12-20, 17:44:00](https://soylentnews.org/article.pl?sid=25/12/19/0524257&amp;from=rss) - [Nissan Adds Hearing Test and Custom Equilization to Car Audio](https://soylentnews.org/article.pl?sid=25/12/19/0524257&amp;from=rss)
+* [2025-12-20, 13:16:21](https://news.ycombinator.com/item?id=46335961) - [Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 12:57:00](https://soylentnews.org/article.pl?sid=25/12/19/0522251&amp;from=rss) - [iRobot Swept Into Bankruptcy](https://soylentnews.org/article.pl?sid=25/12/19/0522251&amp;from=rss)
 * [2025-12-20, 08:17:00](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss) - [Google Releases its New Google Sans Flex Font as Open Source](https://soylentnews.org/article.pl?sid=25/12/19/0429209&amp;from=rss)
 * [2025-12-20, 07:14:53](https://news.ycombinator.com/item?id=46334206) - [Perfect Software – Software for an Audience of One](https://outofdesk.netlify.app/blog/perfect-software)
