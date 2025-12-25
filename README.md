@@ -1,52 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Innovations
 
-* [Apple To Allow Alternative App Stores For iOS Users In Brazil](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Load and store forwarding in the Toy Optimizer](https://bernsteinbear.com/blog/toy-load-store/) investigates advanced memory optimization techniques. [Comments](https://lobste.rs/s/z5ae9q/load_store_forwarding_toy_optimizer)
 
-* [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
+* [Using Vectorize to build a search engine in 160 loc](https://blog.partykit.io/posts/using-vectorize-to-build-search/) explains creating a lightweight and powerful search engine with minimal code. [Comments](https://lobste.rs/s/n7sn45/using_vectorize_build_search_engine_160)
 
-* [QEMU Version 10.2.0 Released](https://www.qemu.org/2025/12/24/qemu-10-2-0/)
+* [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) showcases a modern approach to creating X servers with Zig. [Comments](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from)
 
-* [Phoenix: A Modern X Server Written from Scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+* [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/) highlights the introduction of a functional programming language inspired by Datalog. [Comments](https://lobste.rs/s/b1vxmq/datafun_functional_language)
 
-* [Show HN: Minimalist Editor That Lives in Browser, Stores Everything in the URL](https://github.com/antonmedv/textarea)
+## Environmental and Energy Advancements
 
-* [Nvidia Buying AI Chip Startup Groq for About $20B in Cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+* [Nuclear Developer Proposes Using Navy Reactors For Data Centers](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores using naval nuclear reactors for sustainable data centers. [Comments](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [ZipPop: A Space Conserving Unzipping Script](https://github.com/th0ma5w/ZipPop)
+* [Russia Plans a Nuclear Power Plant on the Moon Within a Decade](https://science.slashdot.org/story/25/12/24/1724223/russia-plans-a-nuclear-power-plant-on-the-moon-within-a-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed) details ambitious plans for moon-based energy infrastructure. [Comments](https://science.slashdot.org/story/25/12/24/1724223/russia-plans-a-nuclear-power-plant-on-the-moon-within-a-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Artificial Intelligence and Machine Learning
+## Privacy and Policies
 
-* [Advent of Code 2025: The AI LLM Edition](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+* [Italy Tells Meta To Suspend Its Policy That Bans Rival AI Chatbots From WhatsApp](https://yro.slashdot.org/story/25/12/24/1945240/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed) sheds light on regulatory conflicts with tech giants. [Comments](https://yro.slashdot.org/story/25/12/24/1945240/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Amazon Faces 'Leader's Dilemma' - Fight AI Shopping Bots or Join Them](https://slashdot.org/story/25/12/24/1937204/amazon-faces-leaders-dilemma---fight-ai-shopping-bots-or-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Some of DOJ's Careful Redactions Can Be Defeated With Copy-Paste](https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed) examines an oversight in sensitive document security. [Comments](https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Datafun - Functional Language That Generalizes Datalog](https://www.rntz.net/datafun/)
+## Historical and Cultural Insights
 
-* [Vibium – Browser Automation for AI and Humans, by Selenium's Creator](https://github.com/VibiumDev/vibium)
+* [The Lost Story of Alan Turing’s Secret 'Delilah' Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&from=rss) revisits an underappreciated piece of Turing's contributions to cryptography and communications. [Comments](https://soylentnews.org/article.pl?sid=25/12/22/1747232&from=rss)
 
-## Entertainment and Lifestyle
-
-* [Why I Quit Streaming And Got Back Into Cassettes](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://entertainment.slashdot.org/story/25/12/24/1939236/spotify-disables-accounts-after-open-source-group-scrapes-86-million-songs-from-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
-
-* [What Rules Govern Hallmark Christmas Movies?](https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Environment and Sustainability
-
-* [Russia Plans a Nuclear Power Plant on the Moon Within a Decade](https://science.slashdot.org/story/25/12/24/1724223/russia-plans-a-nuclear-power-plant-on-the-moon-within-a-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [25.2% of Energy EU Used in 2024 Came From Renewables](https://hardware.slashdot.org/story/25/12/24/1430253/252-of-energy-eu-used-in-2024-came-from-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Cybersecurity and Privacy
-
-* [Some of DOJ's Careful Redactions Can Be Defeated With Copy-Paste](https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Italy Tells Meta To Suspend Its Policy That Bans Rival AI Chatbots From WhatsApp](https://yro.slashdot.org/story/25/12/24/1945240/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The e-scooter isn't new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/) connects modern micromobility to its surprising historical roots. [Comments](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 
 ---
 
@@ -73,13 +53,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-25, 03:40:12](https://lobste.rs/s/z5ae9q/load_store_forwarding_toy_optimizer) - [Load and store forwarding in the Toy Optimizer](https://bernsteinbear.com/blog/toy-load-store/)
+* [2025-12-25, 03:33:52](https://news.ycombinator.com/item?id=46381839) - [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
+* [2025-12-25, 03:30:38](https://lobste.rs/s/n7sn45/using_vectorize_build_search_engine_160) - [Using Vectorize to build a search engine in 160 loc](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
+* [2025-12-25, 03:30:00](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Developer Proposes Using Navy Reactors For Data Centers](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+* [2025-12-25, 02:59:24](https://news.ycombinator.com/item?id=46381681) - [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
+* [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
+* [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
+* [2025-12-25, 01:26:38](https://lobste.rs/s/8xduvx/advent_code_2025_haskell_solution) - [Advent of Code 2025: Haskell Solution Reflections for all 12 Days](https://blog.jle.im/entry/advent-of-code-2025.html)
 * [2025-12-25, 01:25:00](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Why I Quit Streaming And Got Back Into Cassettes&apos;](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-25, 00:45:00](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Allow Alternative App Stores For iOS Users In Brazil](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-25, 00:38:09](https://news.ycombinator.com/item?id=46380953) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
 * [2025-12-25, 00:37:08](https://lobste.rs/s/ljfhgy/next_gen_mainboard_designed_with) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind](https://mirari.vitasys.nl/our-story/)
 * [2025-12-25, 00:20:08](https://lobste.rs/s/qq9gml/qemu_version_10_2_0_released) - [QEMU version 10.2.0 released](https://www.qemu.org/2025/12/24/qemu-10-2-0/)
 * [2025-12-25, 00:10:12](https://news.ycombinator.com/item?id=46380758) - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 * [2025-12-25, 00:02:00](https://developers.slashdot.org/story/25/12/24/1957228/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s App Course Runs $20,000 a Student. Is It Really Worth It?](https://developers.slashdot.org/story/25/12/24/1957228/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-24, 23:59:09](https://lobste.rs/s/qmomcg/advent_code_2025_ai_llm_edition) - [Advent of Code 2025: The AI LLM Edition](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 * [2025-12-24, 23:33:15](https://news.ycombinator.com/item?id=46380475) - [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
 * [2025-12-24, 23:25:37](https://news.ycombinator.com/item?id=46380399) - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 * [2025-12-24, 23:22:52](https://lobste.rs/s/b1vxmq/datafun_functional_language) - [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/)
@@ -113,31 +103,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-24, 17:49:02](https://news.ycombinator.com/item?id=46377597) - [Show HN: Vibium – Browser automation for AI and humans, by Selenium&apos;s creator](https://github.com/VibiumDev/vibium)
 * [2025-12-24, 17:00:00](https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Rules Govern Hallmark Christmas Movies?](https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-24, 16:45:00](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss) - [Nvidia Plans Heavy Cuts to GPU Supply in Early 2026](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss)
-* [2025-12-24, 16:44:17](https://news.ycombinator.com/item?id=46377070) - [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 * [2025-12-24, 16:42:04](https://lobste.rs/s/dfomel/ai_is_bad_ux) - [\&quot;AI\&quot; is bad UX](https://buttondown.com/apperceptive/archive/ai-is-bad-ux/)
-* [2025-12-24, 16:00:00](https://hardware.slashdot.org/story/25/12/24/1430253/252-of-energy-eu-used-in-2024-came-from-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [25.2% of Energy EU Used in 2024 Came From Renewables](https://hardware.slashdot.org/story/25/12/24/1430253/252-of-energy-eu-used-in-2024-came-from-renewables?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-24, 15:59:23](https://news.ycombinator.com/item?id=46376652) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
-* [2025-12-24, 15:57:22](https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
-* [2025-12-24, 15:22:36](https://lobste.rs/s/xgfhan/nix_state_sbom) - [Nix State of the SBOM](https://arnout.engelen.eu/blog/nix-state-of-the-sbom/)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I&apos;m returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 13:27:50](https://news.ycombinator.com/item?id=46375384) - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 * [2025-12-24, 12:55:19](https://news.ycombinator.com/item?id=46375174) - [I&apos;m returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
-* [2025-12-24, 12:04:02](https://news.ycombinator.com/item?id=46374856) - [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 11:52:00](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss) - [Is Talented Youth Nurtured the Wrong Way? Top Performers Develop Differently Than Assumed](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss)
 * [2025-12-24, 08:32:27](https://news.ycombinator.com/item?id=46373644) - [The e-scooter isn&apos;t new – London was zooming around on Autopeds a century ago](https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/)
 * [2025-12-24, 07:10:00](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss) - [Ford EV Battery Joint Venture Plant Lays Off All Workers](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss)
 * [2025-12-24, 02:28:00](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss) - [Google Search Now Lets You Upload Images and PDFs for Analysis](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss)
 * [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn&apos;t refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
-* [2025-12-23, 21:58:43](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing) - [Your favorite pieces of technical writing?](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing)
-* [2025-12-23, 21:47:03](https://lobste.rs/s/aipma8/cpu_cpu_command_go_inspired_by_plan_9_cpu) - [cpu: cpu command in Go, inspired by the Plan 9 cpu command](https://github.com/u-root/cpu)
 * [2025-12-23, 21:41:00](https://soylentnews.org/article.pl?sid=25/12/22/0032258&amp;from=rss) - [Firefox Will Ship With an “AI Kill Switch” to Completely Disable All AI Features](https://soylentnews.org/article.pl?sid=25/12/22/0032258&amp;from=rss)
 * [2025-12-23, 17:33:42](https://news.ycombinator.com/item?id=46367224) - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 * [2025-12-23, 16:57:00](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss) - [A Better Zip Bomb](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss)
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
-* [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
-* [2025-12-23, 14:04:10](https://news.ycombinator.com/item?id=46365398) - [Quake&apos;s Player Speed (2017)](https://rome.ro/quakes-player-speed-1)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 * [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - [Titan&apos;s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss)
 * [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
@@ -151,7 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
 * [2025-12-21, 22:18:00](https://soylentnews.org/article.pl?sid=25/12/20/1439207&amp;from=rss) - [Google&apos;s New &apos;Disco&apos; Browser Turns Tabs Into Custom Web Apps](https://soylentnews.org/article.pl?sid=25/12/20/1439207&amp;from=rss)
 * [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss) - [The Secret Life of Moles: What They&apos;re Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss)
-* [2025-12-21, 16:16:49](https://news.ycombinator.com/item?id=46345865) - [How GNU Guile is 10x better (2021)](https://www.draketo.de/software/guile-10x)
+* [2025-12-21, 16:36:25](https://news.ycombinator.com/item?id=46346026) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss)
 * [2025-12-21, 11:38:48](https://news.ycombinator.com/item?id=46344104) - [Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy](https://loreandordure.com/2025/12/16/jingle-bells/)
 * [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss)
