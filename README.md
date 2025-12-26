@@ -1,52 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Updates
+## Technology and Software Developments
 
-* [Released KC3 v0.1.16](https://www.kmx.io/blog/released-kc3-v0.1.16) - A new version of the KC3 application has been released, packed with improvements and updates.
+* [Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A potential new feature for Gmail users, allowing them to alter their email addresses while retaining access to their previous ones, could streamline updates and improve usability in digital communications.
 
-* [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/) - A deep dive into lesser-known HTML elements that offer functionality most developers might not be aware of.
+* [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) - A new X server entirely written in the Zig programming language, promising modernized foundations for graphical computing environments.
 
-* [Gleam v1.14 - the happy holidays release 2025](https://gleam.run/news/the-happy-holidays-2025-release/) - Introducing the latest version of the Gleam programming language with holiday-inspired updates.
+## Groundbreaking Research and Science
 
-* [Announcing rules_img: a faster path to container images in Bazel](https://tweag.io/blog/2025-12-18-rules_img/) - Introducing `rules_img`, a new method for creating container images more efficiently in Bazel.
+* [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) - A breakthrough study reveals the potential to reverse Alzheimer’s disease in animal models, showcasing progress in the fight against this debilitating condition.
 
-* [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/) - The latest version of the Ruby programming language has been officially released with notable new features.
+* [NASA Will Soon Find Out If the Perseverance Rover Can Really Persevere On Mars](https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA prepares to test the resilience of the Perseverance Rover in tackling the harsh Martian environment during its extended mission operations.
 
-* [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) - A modern take on designing an X server, built entirely with the Zig programming language.
+## Corporate and Economic Dynamics
 
-## Cybersecurity Insights
+* [Nvidia Buying Groq's Assets For $20 Billion in Its Largest Deal on Record](https://slashdot.org/story/25/12/25/152201/nvidia-buying-groqs-assets-for-20-billion-in-its-largest-deal-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Nvidia announces a record-breaking acquisition of Groq's assets for $20 billion, strengthening its position in the technology industry.
 
-* [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New threats emerge as attackers utilize a fake Windows activation domain to deploy malware via PowerShell.
+## Cultural and Societal Insights
 
-* [LangGrinch hits LangChain Core](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/) - A new vulnerability has affected LangChain Core, leaving data secrets exposed.
+* [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o) - A heartwarming account of a family that took in a stranger on Christmas, leading to a unique and enduring relationship spanning decades.
 
-* [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html) - Microsoft is officially retiring the outdated RC4 encryption algorithm.
+* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - New research delves into the historical and cultural significance of hammocks, tracing their development back to Indigenous communities.
 
-* [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503) - Advancements in quantum error correction continue to move forward with significant progress.
+## Tech Industry Challenges and Controversies
 
-* [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html) - The performance of Python 3.15's interpreter has seen a 15% improvement for Windows x86-64.
+* [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fake Microsoft Activation Server (MAS) domain was used as a channel for distributing malicious PowerShell scripts, raising cybersecurity concerns.
 
-* [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields) - A novel approach avoids hidden form fields and tokens for securing web forms.
+* [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - Researchers reveal a new UEFI vulnerability that could allow cybercriminals to execute pre-boot attacks on popular motherboard brands, posing significant security risks.
 
-## Notable Scientific and Technological Achievements
+## Creative Explorations and Innovative Ideas
 
-* [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) - Research suggests Alzheimer's disease may be reversible in animal models, signifying potential breakthroughs in treatment.
+* [One formula that demystifies 3D graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo) - An insightful exploration into the mathematical principles that simplify the complexities of 3D graphics in computing.
 
-* [NASA Will Soon Find Out If the Perseverance Rover Can Really Persevere On Mars](https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA is set to determine the long-term durability of its Mars rover, Perseverance.
-
-* [The Secret Life of Moles: What They’re Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss) - A surprising glimpse at the hidden behaviors and ecological impact of moles.
-
-* [Titan’s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - New research delves into the slushy oceans beneath Titan's icy crust.
-
-## Cultural and Social Issues
-
-* [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) - A major step by the U.S. government to loosen restrictions on cannabis.
-
-* [Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unprecedented display of public dissent emerges on Chinese social media platforms.
-
-* [Why I Quit Streaming And Got Back Into Cassettes](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A piece reflecting on a shift from digital to analog music formats for a more personal touch.
-
-* [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) - A historic decision by Denmark's postal service to cease letter deliveries after serving for centuries.
+* [doubly dual shuffles](https://dotat.at/@/2025-12-25-shuffle.html) - An intriguing take on the concept of doubly dual shuffles, showcasing mathematical elegance and creativity.
 
 ---
 
@@ -73,12 +59,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-26, 01:55:00](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
+* [2025-12-26, 01:05:00](https://lobste.rs/s/3uzl6a/microarchitecture_what_happens_beneath) - [Microarchitecture: What Happens Beneath](https://www.youtube.com/watch?v=BVVNtG5dgks)
+* [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
+* [2025-12-26, 00:59:00](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle) - [Automating What Backblaze Lifecycle Rules Don&apos;t Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/)
+* [2025-12-26, 00:39:00](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-26, 00:32:15](https://news.ycombinator.com/item?id=46388059) - [When a driver challenges the kernel&apos;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
+* [2025-12-26, 00:29:18](https://lobste.rs/s/3rkikl/when_driver_challenges_kernel_s) - [When a driver challenges the kernel&apos;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
+* [2025-12-26, 00:07:50](https://lobste.rs/s/4ngklh/doubly_dual_shuffles) - [doubly dual shuffles](https://dotat.at/@/2025-12-25-shuffle.html)
+* [2025-12-25, 23:48:08](https://news.ycombinator.com/item?id=46387838) - [No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr)
+* [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+* [2025-12-25, 22:00:54](https://lobste.rs/s/4fmqgd/are_two_heads_better_than_one) - [Are Two Heads Better Than One?](https://eieio.games/blog/two-heads-arent-better-than-one/)
+* [2025-12-25, 21:36:48](https://news.ycombinator.com/item?id=46387192) - [Google is &apos;gradually rolling out&apos; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
+* [2025-12-25, 21:31:25](https://news.ycombinator.com/item?id=46387164) - [Memory Safety](https://www.memorysafety.org/)
 * [2025-12-25, 21:14:56](https://lobste.rs/s/t2xoco/released_kc3_v0_1_16) - [Released KC3 v0.1.16](https://www.kmx.io/blog/released-kc3-v0.1.16)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss)
 * [2025-12-25, 21:00:00](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 20:27:45](https://news.ycombinator.com/item?id=46386835) - [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
 * [2025-12-25, 19:01:00](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Has Stopped Rewarding &apos;Strategic&apos; Layoffs](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+* [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
+* [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [Critical vulnerability in LangChain – CVE-2025-68664](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
 * [2025-12-25, 18:00:00](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 17:01:29](https://news.ycombinator.com/item?id=46385600) - [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 * [2025-12-25, 17:01:00](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Raises Memory Prices Again, Suggests Customers Bring Their Own RAM](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,8 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss)
 * [2025-12-25, 10:35:34](https://news.ycombinator.com/item?id=46383552) - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
 * [2025-12-25, 10:00:00](https://slashdot.org/story/25/12/24/2133243/fake-video-claiming-coup-in-france-goes-viral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake Video Claiming &apos;Coup In France&apos; Goes Viral](https://slashdot.org/story/25/12/24/2133243/fake-video-claiming-coup-in-france-goes-viral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 09:18:15](https://news.ycombinator.com/item?id=46383233) - [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)
-* [2025-12-25, 08:58:23](https://news.ycombinator.com/item?id=46383139) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 08:58:01](https://lobste.rs/s/jsd85u/self_referencing_page_tables_for_x86) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 08:42:43](https://lobste.rs/s/tfrm9n/gleam_v1_14_happy_holidays_release_2025) - [Gleam v1.14 - the happy holidays release 2025](https://gleam.run/news/the-happy-holidays-2025-release/)
 * [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
@@ -109,8 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 06:24:29](https://lobste.rs/s/ntunpn/mathematically_extra_complicated) - [Mathematically extra-complicated Secretest Santa 2025](https://youtube.com/watch?v=4pG8_bWpmaE)
 * [2025-12-25, 06:06:14](https://lobste.rs/s/ru2xgh/fucking_approachable_swift_concurrency) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-25, 04:50:00](https://lobste.rs/s/xwebbx/ruby_4_0_0_released) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
-* [2025-12-25, 04:13:00](https://news.ycombinator.com/item?id=46382011) - [Ruby 4.0.0](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
-* [2025-12-25, 03:40:12](https://lobste.rs/s/z5ae9q/load_store_forwarding_toy_optimizer) - [Load and store forwarding in the Toy Optimizer](https://bernsteinbear.com/blog/toy-load-store/)
 * [2025-12-25, 03:30:00](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Developer Proposes Using Navy Reactors For Data Centers](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
@@ -119,25 +115,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-25, 00:45:00](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Allow Alternative App Stores For iOS Users In Brazil](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 00:10:12](https://news.ycombinator.com/item?id=46380758) - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-* [2025-12-25, 00:02:00](https://developers.slashdot.org/story/25/12/24/1957228/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s App Course Runs $20,000 a Student. Is It Really Worth It?](https://developers.slashdot.org/story/25/12/24/1957228/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-24, 23:25:37](https://news.ycombinator.com/item?id=46380399) - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-* [2025-12-24, 23:20:00](https://tech.slashdot.org/story/25/12/24/1952241/the-phone-based-retirement-is-here?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Phone-Based Retirement Is Here](https://tech.slashdot.org/story/25/12/24/1952241/the-phone-based-retirement-is-here?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-24, 22:56:00](https://news.ycombinator.com/item?id=46380168) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
 * [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
 * [2025-12-24, 21:30:00](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss)
-* [2025-12-24, 21:20:13](https://lobste.rs/s/0zxfoh/how_jpeg_screenshots_defeated_our) - [How JPEG Screenshots Defeated Our Beautiful H.264 WebCodecs Pipeline](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)](https://evan.widloski.com/posts/spinners/)
-* [2025-12-24, 20:36:49](https://lobste.rs/s/nfakle/wayback_0_3_released) - [Wayback 0.3 Released](https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/)
 * [2025-12-24, 20:29:41](https://lobste.rs/s/8gpquu/my_second_year_linux_desktop_for_gaming) - [(My) Second Year of the Linux Desktop (For Gaming)](https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/)
 * [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
-* [2025-12-24, 19:05:16](https://lobste.rs/s/g1wsya/cjanet) - [cjanet](https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet)
-* [2025-12-24, 18:17:47](https://news.ycombinator.com/item?id=46377862) - [Fabrice Bellard: Biography (2009) [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
-* [2025-12-24, 18:03:34](https://lobste.rs/s/fexaye/zippop_space_conserving_unzipping) - [ZipPop: a space conserving unzipping script](https://github.com/th0ma5w/ZipPop)
 * [2025-12-24, 17:56:58](https://lobste.rs/s/4sn9j4/how_why_i_moved_from_apple_services_my_own) - [How and why I moved from Apple Services to my own server](https://bastiangruber.ca/posts/mass-quitting-apple/)
 * [2025-12-24, 16:45:00](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss) - [Nvidia Plans Heavy Cuts to GPU Supply in Early 2026](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I&apos;m returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
-* [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 11:52:00](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss) - [Is Talented Youth Nurtured the Wrong Way? Top Performers Develop Differently Than Assumed](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss)
 * [2025-12-24, 07:10:00](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss) - [Ford EV Battery Joint Venture Plant Lays Off All Workers](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss)
 * [2025-12-24, 02:28:00](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss) - [Google Search Now Lets You Upload Images and PDFs for Analysis](https://soylentnews.org/article.pl?sid=25/12/22/0120207&amp;from=rss)
@@ -148,16 +135,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss)
 * [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss) - [Creating Apps Like Signal or WhatsApp Could be &apos;Hostile Activity,&apos; Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss)
 * [2025-12-22, 22:02:00](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) - [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss)
+* [2025-12-22, 19:55:31](https://news.ycombinator.com/item?id=46358211) - [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
+* [2025-12-22, 19:52:10](https://news.ycombinator.com/item?id=46358166) - [The Program 2025 annual review: How much money does an audio drama podcast make?](https://programaudioseries.com/the-program-results-7/)
 * [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git branches as tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss)
+* [2025-12-22, 14:04:19](https://news.ycombinator.com/item?id=46354192) - [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)
 * [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss)
-* [2025-12-22, 09:34:28](https://news.ycombinator.com/item?id=46352588) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss)
-* [2025-12-22, 05:38:33](https://news.ycombinator.com/item?id=46351666) - [CSRF protection without tokens or hidden form fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
-* [2025-12-21, 22:18:00](https://soylentnews.org/article.pl?sid=25/12/20/1439207&amp;from=rss) - [Google&apos;s New &apos;Disco&apos; Browser Turns Tabs Into Custom Web Apps](https://soylentnews.org/article.pl?sid=25/12/20/1439207&amp;from=rss)
-* [2025-12-21, 17:36:00](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss) - [The Secret Life of Moles: What They&apos;re Really Up to Underground](https://soylentnews.org/article.pl?sid=25/12/20/1428203&amp;from=rss)
-* [2025-12-21, 12:49:00](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss) - [Public Domain Day 2026](https://soylentnews.org/article.pl?sid=25/12/20/0114215&amp;from=rss)
-* [2025-12-21, 08:08:00](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss) - [Home Depot Exposed Access to Internal Systems for a Year](https://soylentnews.org/article.pl?sid=25/12/20/0110218&amp;from=rss)
-* [2025-12-21, 04:40:00](https://soylentnews.org/article.pl?sid=25/12/20/016256&amp;from=rss) - [Ventoy 1.1.09 Released With Experimental Btrfs Support](https://soylentnews.org/article.pl?sid=25/12/20/016256&amp;from=rss)
-* [2025-12-21, 03:17:00](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss) - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://soylentnews.org/article.pl?sid=25/12/20/018216&amp;from=rss)
