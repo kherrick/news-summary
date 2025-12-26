@@ -1,38 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Innovative Technology
 
-* [Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A potential new feature for Gmail users, allowing them to alter their email addresses while retaining access to their previous ones, could streamline updates and improve usability in digital communications.
+* [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose) ([comments](https://news.ycombinator.com/item?id=46388904))
 
-* [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) - A new X server entirely written in the Zig programming language, promising modernized foundations for graphical computing environments.
+* [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) ([comments](https://news.ycombinator.com/item?id=46388213))
 
-## Groundbreaking Research and Science
+* [Phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) ([comments](https://news.ycombinator.com/item?id=46382213))
 
-* [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) - A breakthrough study reveals the potential to reverse Alzheimer’s disease in animal models, showcasing progress in the fight against this debilitating condition.
+## Privacy and Legal Issues
 
-* [NASA Will Soon Find Out If the Perseverance Rover Can Really Persevere On Mars](https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA prepares to test the resilience of the Perseverance Rover in tackling the harsh Martian environment during its extended mission operations.
+* [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss))
 
-## Corporate and Economic Dynamics
+* [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/) ([comments](https://news.ycombinator.com/item?id=46388040))
 
-* [Nvidia Buying Groq's Assets For $20 Billion in Its Largest Deal on Record](https://slashdot.org/story/25/12/25/152201/nvidia-buying-groqs-assets-for-20-billion-in-its-largest-deal-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Nvidia announces a record-breaking acquisition of Groq's assets for $20 billion, strengthening its position in the technology industry.
+* [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Cultural and Societal Insights
+## Scientific Advances
 
-* [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o) - A heartwarming account of a family that took in a stranger on Christmas, leading to a unique and enduring relationship spanning decades.
+* [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) ([comments](https://news.ycombinator.com/item?id=46384919))
 
-* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - New research delves into the historical and cultural significance of hammocks, tracing their development back to Indigenous communities.
+* [Ancient Greek geometry](https://sciencevsmagic.net/geo/) ([comments](https://lobste.rs/s/bnvrfq/ancient_greek_geometry))
 
-## Tech Industry Challenges and Controversies
+* [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss))
 
-* [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fake Microsoft Activation Server (MAS) domain was used as a channel for distributing malicious PowerShell scripts, raising cybersecurity concerns.
+## Cultural and Historical Insights
 
-* [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - Researchers reveal a new UEFI vulnerability that could allow cybercriminals to execute pre-boot attacks on popular motherboard brands, posing significant security risks.
+* [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o) ([comments](https://news.ycombinator.com/item?id=46383552))
 
-## Creative Explorations and Innovative Ideas
+* [How and why I moved from Apple Services to my own server](https://bastiangruber.ca/posts/mass-quitting-apple/) ([comments](https://lobste.rs/s/4sn9j4/how_why_i_moved_from_apple_services_my_own))
 
-* [One formula that demystifies 3D graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo) - An insightful exploration into the mathematical principles that simplify the complexities of 3D graphics in computing.
+* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss))
 
-* [doubly dual shuffles](https://dotat.at/@/2025-12-25-shuffle.html) - An intriguing take on the concept of doubly dual shuffles, showcasing mathematical elegance and creativity.
+## Environmental and Urban Development
+
+* [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss))
+
+* [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss))
+
+* [Ford EV Battery Joint Venture Plant Lays Off All Workers](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/0121248&amp;from=rss))
 
 ---
 
@@ -59,20 +65,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-26, 03:18:47](https://news.ycombinator.com/item?id=46388904) - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)
 * [2025-12-26, 01:55:00](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-26, 01:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) - [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss)
 * [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
 * [2025-12-26, 01:05:00](https://lobste.rs/s/3uzl6a/microarchitecture_what_happens_beneath) - [Microarchitecture: What Happens Beneath](https://www.youtube.com/watch?v=BVVNtG5dgks)
 * [2025-12-26, 01:02:53](https://news.ycombinator.com/item?id=46388213) - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
 * [2025-12-26, 00:59:00](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle) - [Automating What Backblaze Lifecycle Rules Don&apos;t Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/)
 * [2025-12-26, 00:39:00](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 00:32:15](https://news.ycombinator.com/item?id=46388059) - [When a driver challenges the kernel&apos;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
+* [2025-12-26, 00:29:40](https://news.ycombinator.com/item?id=46388040) - [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott&apos;s Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/)
 * [2025-12-26, 00:29:18](https://lobste.rs/s/3rkikl/when_driver_challenges_kernel_s) - [When a driver challenges the kernel&apos;s assumptions](http://miod.online.fr/software/openbsd/stories/udl.html)
 * [2025-12-26, 00:07:50](https://lobste.rs/s/4ngklh/doubly_dual_shuffles) - [doubly dual shuffles](https://dotat.at/@/2025-12-25-shuffle.html)
-* [2025-12-25, 23:48:08](https://news.ycombinator.com/item?id=46387838) - [No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr)
 * [2025-12-25, 23:13:21](https://news.ycombinator.com/item?id=46387657) - [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 * [2025-12-25, 22:00:54](https://lobste.rs/s/4fmqgd/are_two_heads_better_than_one) - [Are Two Heads Better Than One?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2025-12-25, 21:36:48](https://news.ycombinator.com/item?id=46387192) - [Google is &apos;gradually rolling out&apos; option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/)
-* [2025-12-25, 21:31:25](https://news.ycombinator.com/item?id=46387164) - [Memory Safety](https://www.memorysafety.org/)
 * [2025-12-25, 21:14:56](https://lobste.rs/s/t2xoco/released_kc3_v0_1_16) - [Released KC3 v0.1.16](https://www.kmx.io/blog/released-kc3-v0.1.16)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss)
 * [2025-12-25, 21:00:00](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -84,6 +91,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 17:01:00](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Raises Memory Prices Again, Suggests Customers Bring Their Own RAM](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss)
 * [2025-12-25, 16:24:45](https://news.ycombinator.com/item?id=46385308) - [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+* [2025-12-25, 16:08:57](https://news.ycombinator.com/item?id=46385197) - [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
 * [2025-12-25, 16:01:00](https://tech.slashdot.org/story/25/12/25/1541258/waymo-pays-workers-22-to-close-doors-on-stranded-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Pays Workers $22 To Close Doors on Stranded Robotaxis](https://tech.slashdot.org/story/25/12/25/1541258/waymo-pays-workers-22-to-close-doors-on-stranded-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 15:14:42](https://lobste.rs/s/kplced/html_elements_time_forgot) - [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/)
@@ -107,6 +115,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 06:24:29](https://lobste.rs/s/ntunpn/mathematically_extra_complicated) - [Mathematically extra-complicated Secretest Santa 2025](https://youtube.com/watch?v=4pG8_bWpmaE)
 * [2025-12-25, 06:06:14](https://lobste.rs/s/ru2xgh/fucking_approachable_swift_concurrency) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-25, 04:50:00](https://lobste.rs/s/xwebbx/ruby_4_0_0_released) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
+* [2025-12-25, 04:13:00](https://news.ycombinator.com/item?id=46382011) - [Ruby 4.0.0](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 * [2025-12-25, 03:30:00](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Developer Proposes Using Navy Reactors For Data Centers](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
@@ -115,13 +124,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-25, 00:45:00](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple To Allow Alternative App Stores For iOS Users In Brazil](https://apple.slashdot.org/story/25/12/24/2055236/apple-to-allow-alternative-app-stores-for-ios-users-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 00:10:12](https://news.ycombinator.com/item?id=46380758) - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-* [2025-12-24, 22:56:00](https://news.ycombinator.com/item?id=46380168) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
 * [2025-12-24, 22:43:53](https://news.ycombinator.com/item?id=46380075) - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
 * [2025-12-24, 21:30:00](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss)
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)](https://evan.widloski.com/posts/spinners/)
 * [2025-12-24, 20:29:41](https://lobste.rs/s/8gpquu/my_second_year_linux_desktop_for_gaming) - [(My) Second Year of the Linux Desktop (For Gaming)](https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/)
-* [2025-12-24, 19:42:25](https://news.ycombinator.com/item?id=46378554) - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 * [2025-12-24, 17:56:58](https://lobste.rs/s/4sn9j4/how_why_i_moved_from_apple_services_my_own) - [How and why I moved from Apple Services to my own server](https://bastiangruber.ca/posts/mass-quitting-apple/)
 * [2025-12-24, 16:45:00](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss) - [Nvidia Plans Heavy Cuts to GPU Supply in Early 2026](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I&apos;m returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
@@ -139,7 +146,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 19:52:10](https://news.ycombinator.com/item?id=46358166) - [The Program 2025 annual review: How much money does an audio drama podcast make?](https://programaudioseries.com/the-program-results-7/)
 * [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git branches as tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss)
-* [2025-12-22, 14:04:19](https://news.ycombinator.com/item?id=46354192) - [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)
 * [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss)
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
