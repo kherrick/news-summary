@@ -1,44 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies
+## Technology Innovations and Research
 
-* [SQLite AI](https://www.sqlite.ai) explores innovative use cases for integrating Artificial Intelligence into SQLite databases. [Comments](https://news.ycombinator.com/item?id=46389715)
+* [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf) ([comments](https://news.ycombinator.com/item?id=46390667))
 
-* [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) showcases advancements in video processing efficiency. [Comments](https://news.ycombinator.com/item?id=46388907)
+* [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) ([comments](https://news.ycombinator.com/item?id=46388907))
 
-* [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) highlights a new breakthrough in multi-language AI systems. [Comments](https://news.ycombinator.com/item?id=46388213)
+* [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux) ([comments](https://news.ycombinator.com/item?id=46388700))
 
-## Privacy and Security
+* [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) ([comments](https://news.ycombinator.com/item?id=46388213))
 
-* [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) discusses a court ruling affecting digital privacy rights. [Comments](https://soylentnews.org/comments.pl?sid=25/12/23/0426211)
+* [Ancient Greek geometry](https://sciencevsmagic.net/geo/) ([comments](https://lobste.rs/s/bnvrfq/ancient_greek_geometry))
 
-* [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) sheds light on malware distribution methods. [Comments](https://it.slashdot.org/comments.pl?sid=25/12/25/2058205)
+* [One formula that demystifies 3D graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo) ([comments](https://lobste.rs/s/m7rjvj/one_formula_demystifies_3d_graphics))
 
-## Historical and Thought-Provoking Studies
+## Software Development and Practices
 
-* [Ancient Greek geometry](https://sciencevsmagic.net/geo/) dives into the historical and mathematical development of ancient Greek geometrical concepts. [Comments](https://lobste.rs/s/bnvrfq/ancient_greek_geometry)
+* [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/) ([comments](https://news.ycombinator.com/item?id=46390055))
 
-* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) uncovers an obscure yet significant part of Turing's legacy. [Comments](https://soylentnews.org/comments.pl?sid=25/12/22/1747232)
+* [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/) ([comments](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell))
 
-## Science and Environment
+* [Automating What Backblaze Lifecycle Rules Don&apos;t Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/) ([comments](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle))
 
-* [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) discusses advancements in neurological recovery research. [Comments](https://news.ycombinator.com/item?id=46384919)
+* [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html) ([comments](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as))
 
-* [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) explores the environmental journey of microplastics in marine conditions. [Comments](https://soylentnews.org/comments.pl?sid=25/12/21/0855202)
+* [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html) ([comments](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig))
 
-## Cultural Shifts and Industry Insights
+* [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) ([comments](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from))
 
-* [Apple's App Course Runs $20,000 a Student. Is It Really Worth It?](https://apple.slashdot.org/story/25/12/26/041227/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) evaluates the cost and benefits of Apple's premium app development program. [Comments](https://apple.slashdot.org/comments.pl?sid=25/12/26/041227)
+## Business and Legal Developments
 
-* [Wall Street Has Stopped Rewarding 'Strategic' Layoffs](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) observes evolving corporate priorities mirroring economic changes. [Comments](https://slashdot.org/comments.pl?sid=25/12/25/1727221)
+* [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/) details a quirky story of entrepreneurship. [Comments](https://news.ycombinator.com/item?id=46385308)
+* [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss))
 
-## Policies and Governance
+* [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss))
 
-* [Trump Administration To Overhaul Lottery System For H-1B Visas](https://news.slashdot.org/story/25/12/25/0929209/trump-administration-to-overhaul-lottery-system-for-h-1b-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) provides updates on policy changes for H-1B visas. [Comments](https://news.slashdot.org/comments.pl?sid=25/12/25/0929209)
+* [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss))
 
-* [Communities Are Rising Up Against Data Centers — and Winning](https://soylentnews.org/article.pl?sid=25/12/21/099243&amp;from=rss) looks into how local communities are opposing large data centers. [Comments](https://soylentnews.org/comments.pl?sid=25/12/21/099243)
+## Historical and Cultural Insights
+
+* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss))
+
+* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss))
+
+* [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss))
+
+## Artificial Intelligence and Ethical Concerns
+
+* [Cursor CEO Warns Vibe Coding Builds 'Shaky Foundations' That Eventually Crumble](https://developers.slashdot.org/story/25/12/26/0623233/cursor-ceo-warns-vibe-coding-builds-shaky-foundations-that-eventually-crumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/25/12/26/0623233/cursor-ceo-warns-vibe-coding-builds-shaky-foundations-that-eventually-crumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Firefox Will Ship With an “AI Kill Switch” to Completely Disable All AI Features](https://soylentnews.org/article.pl?sid=25/12/22/0032258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/22/0032258&amp;from=rss))
+
+* [Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -65,11 +81,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-26, 09:43:23](https://news.ycombinator.com/item?id=46390667) - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
+* [2025-12-26, 09:43:09](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend)
+* [2025-12-26, 08:21:09](https://lobste.rs/s/jd62vn/sendspin_music_experience_protocol) - [Sendspin: Music Experience Protocol](https://www.sendspin-audio.com/)
+* [2025-12-26, 07:35:15](https://news.ycombinator.com/item?id=46390055) - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+* [2025-12-26, 07:00:00](https://developers.slashdot.org/story/25/12/26/0623233/cursor-ceo-warns-vibe-coding-builds-shaky-foundations-that-eventually-crumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cursor CEO Warns Vibe Coding Builds &apos;Shaky Foundations&apos; That Eventually Crumble](https://developers.slashdot.org/story/25/12/26/0623233/cursor-ceo-warns-vibe-coding-builds-shaky-foundations-that-eventually-crumble?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 06:46:00](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss) - [Seven Projects Killed by Ubuntu (but I Still Miss Them)](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss)
-* [2025-12-26, 06:37:01](https://news.ycombinator.com/item?id=46389715) - [SQLite AI](https://www.sqlite.ai)
 * [2025-12-26, 06:05:07](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell) - [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/)
-* [2025-12-26, 05:27:05](https://news.ycombinator.com/item?id=46389444) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
-* [2025-12-26, 04:48:09](https://lobste.rs/s/ou2zm7/toward_policy_for_machine_learning_tools) - [Toward a policy for machine-learning tools in kernel development](https://lwn.net/Articles/1049830/)
 * [2025-12-26, 04:30:00](https://apple.slashdot.org/story/25/12/26/041227/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s App Course Runs $20,000 a Student. Is It Really Worth It?](https://apple.slashdot.org/story/25/12/26/041227/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 03:19:49](https://news.ycombinator.com/item?id=46388907) - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 * [2025-12-26, 02:32:29](https://news.ycombinator.com/item?id=46388700) - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
@@ -92,15 +110,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 21:00:00](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 19:01:00](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Has Stopped Rewarding &apos;Strategic&apos; Layoffs](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 18:40:14](https://news.ycombinator.com/item?id=46386211) - [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
-* [2025-12-25, 18:06:44](https://news.ycombinator.com/item?id=46386009) - [Critical vulnerability in LangChain – CVE-2025-68664](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
 * [2025-12-25, 18:00:00](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 17:01:29](https://news.ycombinator.com/item?id=46385600) - [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
 * [2025-12-25, 17:01:00](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Raises Memory Prices Again, Suggests Customers Bring Their Own RAM](https://it.slashdot.org/story/25/12/25/1627223/framework-raises-memory-prices-again-suggests-customers-bring-their-own-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss)
 * [2025-12-25, 16:24:45](https://news.ycombinator.com/item?id=46385308) - [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2025-12-25, 16:08:57](https://news.ycombinator.com/item?id=46385197) - [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197)
 * [2025-12-25, 16:01:00](https://tech.slashdot.org/story/25/12/25/1541258/waymo-pays-workers-22-to-close-doors-on-stranded-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Pays Workers $22 To Close Doors on Stranded Robotaxis](https://tech.slashdot.org/story/25/12/25/1541258/waymo-pays-workers-22-to-close-doors-on-stranded-robotaxis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 15:22:36](https://news.ycombinator.com/item?id=46384919) - [Alzheimer’s disease can be reversed in animal models? Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 * [2025-12-25, 15:14:42](https://lobste.rs/s/kplced/html_elements_time_forgot) - [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/)
 * [2025-12-25, 15:01:00](https://slashdot.org/story/25/12/25/152201/nvidia-buying-groqs-assets-for-20-billion-in-its-largest-deal-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Buying Groq&apos;s Assets For $20 Billion in Its Largest Deal on Record](https://slashdot.org/story/25/12/25/152201/nvidia-buying-groqs-assets-for-20-billion-in-its-largest-deal-on-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 14:20:29](https://news.ycombinator.com/item?id=46384565) - [Asahi Linux with Sway on the MacBook Air M2 (2024)](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
@@ -118,14 +133,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
 * [2025-12-25, 07:00:00](https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Will Soon Find Out If the Perseverance Rover Can Really Persevere On Mars](https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss) - [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss)
-* [2025-12-25, 06:27:46](https://lobste.rs/s/raajxi/announcing_rules_img_faster_path) - [Announcing rules_img: a faster path to container images in Bazel](https://tweag.io/blog/2025-12-18-rules_img/)
 * [2025-12-25, 06:24:29](https://lobste.rs/s/ntunpn/mathematically_extra_complicated) - [Mathematically extra-complicated Secretest Santa 2025](https://youtube.com/watch?v=4pG8_bWpmaE)
 * [2025-12-25, 04:50:00](https://lobste.rs/s/xwebbx/ruby_4_0_0_released) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 * [2025-12-25, 03:30:00](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nuclear Developer Proposes Using Navy Reactors For Data Centers](https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
 * [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
-* [2025-12-25, 01:25:00](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Why I Quit Streaming And Got Back Into Cassettes&apos;](https://news.slashdot.org/story/25/12/24/219224/why-i-quit-streaming-and-got-back-into-cassettes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-24, 21:30:00](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss)
 * [2025-12-24, 20:56:53](https://news.ycombinator.com/item?id=46379145) - [Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)](https://evan.widloski.com/posts/spinners/)
@@ -148,7 +161,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-22, 19:52:10](https://news.ycombinator.com/item?id=46358166) - [The Program 2025 annual review: How much money does an audio drama podcast make?](https://programaudioseries.com/the-program-results-7/)
 * [2025-12-22, 18:52:50](https://news.ycombinator.com/item?id=46357362) - [Archiving Git branches as tags](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [2025-12-22, 17:17:00](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss) - [Where Do Microplastics Go Once They Sink Into the Ocean?](https://soylentnews.org/article.pl?sid=25/12/21/0855202&amp;from=rss)
+* [2025-12-22, 14:04:02](https://news.ycombinator.com/item?id=46354187) - [Animating Quines for Larva Labs](https://destroytoday.com/blog/animating-quines-for-larva-labs)
 * [2025-12-22, 12:32:00](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss) - [North Korean Infiltrator Caught Working in Amazon IT Department Thanks to Keystroke Lag](https://soylentnews.org/article.pl?sid=25/12/20/1453248&amp;from=rss)
 * [2025-12-22, 11:21:42](https://news.ycombinator.com/item?id=46353257) - [Tachyon: High frequency statistical sampling profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-22, 07:47:00](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss) - [Google is Shutting Down its Dark Web Report Feature in January](https://soylentnews.org/article.pl?sid=25/12/20/1449230&amp;from=rss)
+* [2025-12-22, 04:00:19](https://news.ycombinator.com/item?id=46351178) - [Show HN: Coderive – Iterating through 1 Quintillion Inside a Loop in just 50ms](https://github.com/DanexCodr/Coderive)
 * [2025-12-22, 03:04:00](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss) - [Senators Count the Shady Ways Data Centers Pass Energy Costs on to Americans](https://soylentnews.org/article.pl?sid=25/12/20/1446230&amp;from=rss)
