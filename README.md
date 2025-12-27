@@ -1,52 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Health and Science Discoveries
+## Technological Innovations and Advancements
 
-* [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss)
+* [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/) ([Comments](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally))
 
-## Software Development and Tools
+* [rapace - RPC over SHM / WS / TCP / MEM](https://rapace.bearcove.eu/) ([Comments](https://lobste.rs/s/aunzwd/rapace_rpc_over_shm_ws_tcp_mem))
 
-* [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+* [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/) ([Comments](https://news.ycombinator.com/item?id=46398201))
 
-* [nix-prompt: a clean and modular bash prompt with just the right amount of customization options](https://github.com/nix-tricks/nix-prompt)
+* [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep) ([Comments](https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic))
 
-* [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep)
+* [Reimplementing FlashAttention for performance and giggles](https://aminediro.com/posts/flash_attn/) ([Comments](https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for))
 
-* [Simplifying the build process for vst3-rs](https://micahrj.github.io/posts/vst3/)
+* [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/) ([Comments](https://news.ycombinator.com/item?id=46395871))
 
-* [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
+* [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr) ([Comments](https://news.ycombinator.com/item?id=46392910))
 
-* [GNU Mes and the module system](https://ekaitz.elenq.tech/fasterMes5.html)
+* [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700) ([Comments](https://news.ycombinator.com/item?id=46392736))
 
-## Technology and Infrastructure
+* [Unix \"find\" expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/) ([Comments](https://news.ycombinator.com/item?id=46391448))
 
-* [Disaster After Disaster: Do We Have Enough Raw Materials to 'Build Back Better?'](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss)
+## Industry and Corporate Shifts
 
-* [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/) ([Comments](https://news.ycombinator.com/item?id=46398644))
 
-* [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss)
+* [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Artificial Intelligence and its Impact on Various Industries
+* [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss))
 
-* [Calibre adds AI 'discussion' feature](https://lwn.net/Articles/1049886/)
+* [FFmpeg Developer Files DMCA Against Rockchip After Two-Year Wait for License Fix](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=46394327))
 
-* [AI's Hunger For Memory Chips Could Shrink Smartphone and PC Sales in 2026, IDC Says](https://it.slashdot.org/story/25/12/26/144228/ais-hunger-for-memory-chips-could-shrink-smartphone-and-pc-sales-in-2026-idc-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Indian IT Was Supposed To Die From AI. Instead It's Billing for the Cleanup.](https://it.slashdot.org/story/25/12/26/1756219/indian-it-was-supposed-to-die-from-ai-instead-its-billing-for-the-cleanup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/25/12/26/1756219/indian-it-was-supposed-to-die-from-ai-instead-its-billing-for-the-cleanup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Indian IT Was Supposed To Die From AI. Instead It's Billing for the Cleanup.](https://it.slashdot.org/story/25/12/26/1756219/indian-it-was-supposed-to-die-from-ai-instead-its-billing-for-the-cleanup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Science and Research
 
-* [FFmpeg Developer Files DMCA Against Rockchip After Two-Year Wait for License Fix](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss))
 
-## Philosophical Insights
+* [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss))
 
-* [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+* [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations) ([Comments](https://news.ycombinator.com/item?id=46393936))
 
-* [A Proclamation Regarding the Restoration of the Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
+* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss))
 
-## AI Ethics and Accountability
+## AI and Machine Learning
 
-* [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/)
+* [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/) ([Comments](https://lobste.rs/s/9ncsiq/contract_md_naughty_list_for_ai_coding))
 
-* [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+* [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;viewtype=tree) ([Comments](https://news.ycombinator.com/item?id=46392115))
+
+## Cultural and Historical Insights
+
+* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss))
+
+* [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/) ([Comments](https://lobste.rs/s/kplced/html_elements_time_forgot))
+
+* [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss))
 
 ---
 
@@ -73,15 +81,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-27, 03:44:30](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally) - [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
+* [2025-12-27, 02:56:43](https://news.ycombinator.com/item?id=46398644) - [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
+* [2025-12-27, 01:59:56](https://lobste.rs/s/aunzwd/rapace_rpc_over_shm_ws_tcp_mem) - [rapace - RPC over SHM / WS / TCP / MEM](https://rapace.bearcove.eu/)
 * [2025-12-27, 01:40:00](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) - [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-* [2025-12-27, 00:01:55](https://lobste.rs/s/cmlfrr/nix_prompt_clean_modular_bash_prompt_with) - [nix-prompt: a clean and modular bash prompt with just the right amount of customization options](https://github.com/nix-tricks/nix-prompt)
+* [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 22:18:19](https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic) - [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep)
 * [2025-12-26, 21:42:32](https://lobste.rs/s/oydvli/enabling_c_threads_python_wasm) - [\&quot;Enabling\&quot; C threads in a Python / Wasm environment](https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html)
 * [2025-12-26, 21:29:53](https://lobste.rs/s/9ncsiq/contract_md_naughty_list_for_ai_coding) - [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/)
 * [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to &apos;Build Back Better?&apos;](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss)
 * [2025-12-26, 20:41:47](https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
+* [2025-12-26, 20:39:47](https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for) - [Reimplementing FlashAttention for performance and giggles](https://aminediro.com/posts/flash_attn/)
 * [2025-12-26, 20:27:50](https://news.ycombinator.com/item?id=46395871) - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 * [2025-12-26, 20:00:00](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FFmpeg Developer Files DMCA Against Rockchip After Two-Year Wait for License Fix](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 19:41:18](https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for) - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
@@ -95,13 +107,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 18:17:00](https://news.ycombinator.com/item?id=46394620) - [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
 * [2025-12-26, 18:16:09](https://lobste.rs/s/dqwid1/how_uv_got_so_fast) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 18:01:00](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss) - [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss)
-* [2025-12-26, 17:52:42](https://lobste.rs/s/mzi7gm/on_metastable_failures_interactions) - [On Metastable Failures and Interactions Between Systems](https://charap.co/on-metastable-failures-and-interactions-between-systems/)
 * [2025-12-26, 17:48:25](https://news.ycombinator.com/item?id=46394327) - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
 * [2025-12-26, 17:37:00](https://news.slashdot.org/story/25/12/26/1737240/as-ai-companies-borrow-billions-debt-investors-grow-wary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As AI Companies Borrow Billions, Debt Investors Grow Wary](https://news.slashdot.org/story/25/12/26/1737240/as-ai-companies-borrow-billions-debt-investors-grow-wary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-26, 17:29:31](https://news.ycombinator.com/item?id=46394169) - [A Proclamation Regarding the Restoration of the Dash](https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 17:09:45](https://lobste.rs/s/3detwi/calibre_adds_ai_discussion_feature) - [Calibre adds AI &apos;discussion&apos; feature](https://lwn.net/Articles/1049886/)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+* [2025-12-26, 16:49:44](https://lobste.rs/s/ohipi0/profiling_sampling_statistical) - [profiling.sampling: Statistical profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-26, 16:30:59](https://lobste.rs/s/pl1lmb/til_serde_s_borrowing_can_be_treacherous) - [TIL: serde&apos;s borrowing can be treacherous](https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/)
 * [2025-12-26, 16:24:00](https://news.slashdot.org/story/25/12/26/1623248/the-economic-divide-between-big-and-small-companies-is-growing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Economic Divide Between Big and Small Companies Is Growing](https://news.slashdot.org/story/25/12/26/1623248/the-economic-divide-between-big-and-small-companies-is-growing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 16:12:00](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss) - [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss)
@@ -133,7 +144,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
 * [2025-12-26, 00:59:00](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle) - [Automating What Backblaze Lifecycle Rules Don&apos;t Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/)
 * [2025-12-26, 00:39:00](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links](https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-25, 22:00:54](https://lobste.rs/s/4fmqgd/are_two_heads_better_than_one) - [Are Two Heads Better Than One?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss)
 * [2025-12-25, 21:00:00](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fake MAS Windows Activation Domain Used To Spread PowerShell Malware](https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 19:01:00](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Has Stopped Rewarding &apos;Strategic&apos; Layoffs](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -143,7 +153,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss)
 * [2025-12-25, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss) - [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
-* [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-24, 21:30:00](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss)
 * [2025-12-24, 16:45:00](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss) - [Nvidia Plans Heavy Cuts to GPU Supply in Early 2026](https://soylentnews.org/article.pl?sid=25/12/22/0125252&amp;from=rss)
 * [2025-12-24, 11:52:00](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss) - [Is Talented Youth Nurtured the Wrong Way? Top Performers Develop Differently Than Assumed](https://soylentnews.org/article.pl?sid=25/12/22/0124250&amp;from=rss)
