@@ -1,50 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Internet Technology and Development
+## Linux, Software, and Development
 
-* [Cloudflare Is Ruining the Internet](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/) - A critique on how Cloudflare is affecting the internet, with [comments](https://news.ycombinator.com/item?id=46400490).
+* [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/) ([comments](https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml))
 
-* [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop) - The introduction of QNX 8.0-enabled desktop environment, including [discussion](https://lobste.rs/s/xmy2nk/qnx_self_hosted_developer_desktop_brings).
+* [Meet Critic: Code Inspection System in Opera Software (2019?)](https://sudonull.com/post/135595) ([comments](https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera))
 
-* [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff) - A simplified video editing tool using FFmpeg, with [comments](https://news.ycombinator.com/item?id=46400251).
+* [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) ([comments](https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on))
 
-* [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) - Discussing advancements in managing cronjobs dynamically, with [comments](https://news.ycombinator.com/item?id=46399576).
+* [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/) ([comments](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally))
 
-* [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/) - Analysis of the limitations of pre-commit hooks, featuring perspectives from [Hacker News](https://news.ycombinator.com/item?id=46398906) and [Lobsters](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally).
+## Operating Systems and Developer Tools
 
-* [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - How sharing your projects can open unexpected opportunities, discussed on [Hacker News](https://news.ycombinator.com/item?id=46397991).
+* [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop) ([comments](https://lobste.rs/s/xmy2nk/qnx_self_hosted_developer_desktop_brings))
 
-## AI, Philosophy, and Consciousness
+* [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/) ([comments](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight))
 
-* [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss) - A philosopher's insights on the challenges of identifying AI consciousness, with reader comments [here](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss).
+* [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff) ([comments](https://news.ycombinator.com/item?id=46400251))
 
-* [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review) - Reviewing the growing role of AI in law enforcement, with discussions on [Hacker News](https://news.ycombinator.com/item?id=46367195).
+## Artificial Intelligence and Machine Learning
 
-* [Calibre adds AI 'discussion' feature](https://lwn.net/Articles/1049886/) - Calibre's integration with AI for enhanced eBook management features, details discussed [here](https://lobste.rs/s/3detwi/calibre_adds_ai_discussion_feature).
+* [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss))
 
-## Science and Technology Discoveries
+* [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) ([comments](https://news.ycombinator.com/item?id=46399576))
 
-* [The Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) - A deep dive into the science of protons, with [Hacker News discussion](https://news.ycombinator.com/item?id=46398666).
+* [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) ([comments](https://news.ycombinator.com/item?id=46398666))
 
-* [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html) - A groundbreaking camera technology that redefines focusing, discussed on [Hacker News](https://news.ycombinator.com/item?id=46369808).
+## Bioengineering and Health
 
-* [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations) - Discovery of a mushroom with unique hallucination effects, with related [comments](https://news.ycombinator.com/item?id=46393936).
+* [Science Sleuths Raise Concerns About Scores of Bioengineering Papers](https://soylentnews.org/article.pl?sid=25/12/25/222237&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/25/222237&amp;from=rss))
 
-## Open Source Innovation
+* [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss))
 
-* [Automating What Backblaze Lifecycle Rules Don't Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/) - Explore a new automation approach to enhance Backblaze workflows, with insights from [Lobsters](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle).
+## Software Trends and New Ideas
 
-* [GNU Mes and the module system](https://ekaitz.elenq.tech/fasterMes5.html) - Insights into GNU Mes improvements catered to developers, with [Lobsters discussion](https://lobste.rs/s/byjzpj/gnu_mes_module_system).
+* [Show: Twine - A tool to dynamically trace calls in production Elixir systems](https://github.com/ollien/twine) ([comments](https://lobste.rs/s/69el0u/show_twine_tool_dynamically_trace_calls))
 
-* [Show HN: Witr – Explain why a process is running on your Linux system](https://github.com/pranshuparmar/witr) - A tool to analyze processes on Linux systems, explored on [Hacker News](https://news.ycombinator.com/item?id=46392910).
+* [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/) ([comments](https://news.ycombinator.com/item?id=46395106))
 
-## Cultural and Societal Topics
-
-* [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) - The end of an era for the Danish postal service, with comments on [SoylentNews](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss).
-
-* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - An exploration into a lesser-known piece of Alan Turing's legacy, discussed on [SoylentNews](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss).
-
-* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss) - Revealing the cultural history behind hammocks, with discussion [here](https://soylentnews.org/article.pl?sid=25/12/22/1741226&amp;from=rss).
+* [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html) ([comments](https://news.ycombinator.com/item?id=46391514))
 
 ---
 
@@ -71,24 +65,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2025-12-27, 09:33:14](https://news.ycombinator.com/item?id=46400490) - [Cloudflare Is Ruining the Internet](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
+* [2025-12-27, 12:36:54](https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml) - [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/)
+* [2025-12-27, 11:57:17](https://news.ycombinator.com/item?id=46401190) - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
+* [2025-12-27, 11:16:00](https://soylentnews.org/article.pl?sid=25/12/25/222237&amp;from=rss) - [Science Sleuths Raise Concerns About Scores of Bioengineering Papers](https://soylentnews.org/article.pl?sid=25/12/25/222237&amp;from=rss)
+* [2025-12-27, 11:08:00](https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera) - [Meet Critic: Code Inspection System in Opera Software (2019?)](https://sudonull.com/post/135595)
+* [2025-12-27, 10:48:14](https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on) - [You can&apos;t design software you don&apos;t work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/)
+* [2025-12-27, 10:31:43](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight) - [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/)
 * [2025-12-27, 08:52:40](https://lobste.rs/s/xmy2nk/qnx_self_hosted_developer_desktop_brings) - [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 * [2025-12-27, 08:18:45](https://lobste.rs/s/p2yx0g/39c3_power_cycles_streaming) - [39C3: Power Cycles Streaming](https://streaming.media.ccc.de/39c3)
 * [2025-12-27, 06:25:00](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss) - [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss)
-* [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
-* [2025-12-27, 03:45:20](https://news.ycombinator.com/item?id=46398906) - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
+* [2025-12-27, 06:10:42](https://news.ycombinator.com/item?id=46399576) - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
 * [2025-12-27, 03:44:30](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally) - [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
-* [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [The Proton, the &apos;Most Complicated Thing You Could Possibly Imagine&apos;](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+* [2025-12-27, 03:00:00](https://news.ycombinator.com/item?id=46398666) - [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2025-12-27, 01:40:00](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) - [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss)
 * [2025-12-27, 01:16:53](https://news.ycombinator.com/item?id=46398201) - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+* [2025-12-27, 01:11:05](https://news.ycombinator.com/item?id=46398170) - [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)
 * [2025-12-27, 00:43:04](https://news.ycombinator.com/item?id=46397991) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2025-12-26, 23:42:46](https://news.ycombinator.com/item?id=46397609) - [Exe.dev](https://exe.dev/)
 * [2025-12-26, 23:09:40](https://news.ycombinator.com/item?id=46397379) - [Always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-12-26, 22:33:20](https://lobste.rs/s/ykxhnw/rime_ancient_maintainer) - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/)
 * [2025-12-26, 22:18:19](https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic) - [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep)
 * [2025-12-26, 21:42:32](https://lobste.rs/s/oydvli/enabling_c_threads_python_wasm) - [\&quot;Enabling\&quot; C threads in a Python / Wasm environment](https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html)
-* [2025-12-26, 21:29:53](https://lobste.rs/s/9ncsiq/contract_md_naughty_list_for_ai_coding) - [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/)
 * [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to &apos;Build Back Better?&apos;](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss)
 * [2025-12-26, 20:41:47](https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 20:39:47](https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for) - [Reimplementing FlashAttention for performance and giggles](https://aminediro.com/posts/flash_attn/)
@@ -97,18 +95,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 20:00:00](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FFmpeg Developer Files DMCA Against Rockchip After Two-Year Wait for License Fix](https://it.slashdot.org/story/25/12/26/193244/ffmpeg-developer-files-dmca-against-rockchip-after-two-year-wait-for-license-fix?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 19:41:18](https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for) - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
 * [2025-12-26, 19:17:30](https://lobste.rs/s/yasyrg/simplifying_build_process_for_vst3_rs) - [Simplifying the build process for vst3-rs](https://micahrj.github.io/posts/vst3/)
-* [2025-12-26, 19:13:22](https://news.ycombinator.com/item?id=46395184) - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
 * [2025-12-26, 19:03:32](https://news.ycombinator.com/item?id=46395106) - [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
-* [2025-12-26, 18:59:39](https://news.ycombinator.com/item?id=46395061) - [Drawing with zero-width characters](https://zw.swerdlow.dev)
 * [2025-12-26, 18:44:10](https://lobste.rs/s/69el0u/show_twine_tool_dynamically_trace_calls) - [Show: Twine - A tool to dynamically trace calls in production Elixir systems](https://github.com/ollien/twine)
 * [2025-12-26, 18:40:00](https://it.slashdot.org/story/25/12/26/1756219/indian-it-was-supposed-to-die-from-ai-instead-its-billing-for-the-cleanup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Indian IT Was Supposed To Die From AI. Instead It&apos;s Billing for the Cleanup.](https://it.slashdot.org/story/25/12/26/1756219/indian-it-was-supposed-to-die-from-ai-instead-its-billing-for-the-cleanup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 18:16:09](https://lobste.rs/s/dqwid1/how_uv_got_so_fast) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 18:01:00](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss) - [Options to Break Free From Smart TV Ads and Tracking](https://soylentnews.org/article.pl?sid=25/12/26/1546258&amp;from=rss)
 * [2025-12-26, 17:37:00](https://news.slashdot.org/story/25/12/26/1737240/as-ai-companies-borrow-billions-debt-investors-grow-wary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As AI Companies Borrow Billions, Debt Investors Grow Wary](https://news.slashdot.org/story/25/12/26/1737240/as-ai-companies-borrow-billions-debt-investors-grow-wary?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 17:13:07](https://news.ycombinator.com/item?id=46393992) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
-* [2025-12-26, 17:09:45](https://lobste.rs/s/3detwi/calibre_adds_ai_discussion_feature) - [Calibre adds AI &apos;discussion&apos; feature](https://lwn.net/Articles/1049886/)
 * [2025-12-26, 17:07:53](https://news.ycombinator.com/item?id=46393936) - [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
-* [2025-12-26, 16:49:44](https://lobste.rs/s/ohipi0/profiling_sampling_statistical) - [profiling.sampling: Statistical profiler](https://docs.python.org/3.15/library/profiling.sampling.html)
 * [2025-12-26, 16:30:59](https://lobste.rs/s/pl1lmb/til_serde_s_borrowing_can_be_treacherous) - [TIL: serde&apos;s borrowing can be treacherous](https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/)
 * [2025-12-26, 16:24:00](https://news.slashdot.org/story/25/12/26/1623248/the-economic-divide-between-big-and-small-companies-is-growing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Economic Divide Between Big and Small Companies Is Growing](https://news.slashdot.org/story/25/12/26/1623248/the-economic-divide-between-big-and-small-companies-is-growing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 16:12:00](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss) - [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss)
@@ -118,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 15:07:01](https://news.ycombinator.com/item?id=46392736) - [Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines](https://github.com/valdanylchuk/xcc700)
 * [2025-12-26, 14:05:00](https://it.slashdot.org/story/25/12/26/144228/ais-hunger-for-memory-chips-could-shrink-smartphone-and-pc-sales-in-2026-idc-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Hunger For Memory Chips Could Shrink Smartphone and PC Sales in 2026, IDC Says](https://it.slashdot.org/story/25/12/26/144228/ais-hunger-for-memory-chips-could-shrink-smartphone-and-pc-sales-in-2026-idc-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-26, 12:59:56](https://news.ycombinator.com/item?id=46391599) - [LearnixOS](https://www.learnix-os.com)
-* [2025-12-26, 12:55:16](https://news.ycombinator.com/item?id=46391572) - [Ask HN: What did you read in 2025?](https://news.ycombinator.com/item?id=46391572)
 * [2025-12-26, 12:46:36](https://news.ycombinator.com/item?id=46391514) - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-26, 12:46:05](https://lobste.rs/s/gwmwx7/algebra_loans_rust) - [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 * [2025-12-26, 12:31:00](https://slashdot.org/story/25/12/26/0641227/china-launches-21-billion-venture-capital-funds-to-invest-in-hard-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Launches $21 Billion Venture Capital Funds To Invest in &apos;Hard Technology&apos;](https://slashdot.org/story/25/12/26/0641227/china-launches-21-billion-venture-capital-funds-to-invest-in-hard-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -141,7 +134,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-25, 19:01:00](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Has Stopped Rewarding &apos;Strategic&apos; Layoffs](https://slashdot.org/story/25/12/25/1727221/wall-street-has-stopped-rewarding-strategic-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 18:00:00](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent](https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss)
-* [2025-12-25, 15:14:42](https://lobste.rs/s/kplced/html_elements_time_forgot) - [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/)
 * [2025-12-25, 11:43:00](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss) - [Danish Postal Service to Stop Delivering Letters After 400 Years](https://soylentnews.org/article.pl?sid=25/12/22/1751236&amp;from=rss)
 * [2025-12-25, 06:58:00](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss) - [Cosmic Crash Caught on Camera](https://soylentnews.org/article.pl?sid=25/12/22/1749222&amp;from=rss)
 * [2025-12-25, 02:15:00](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss) - [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&amp;from=rss)
@@ -156,6 +148,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-23, 16:57:00](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss) - [A Better Zip Bomb](https://soylentnews.org/article.pl?sid=25/12/22/0029209&amp;from=rss)
 * [2025-12-23, 14:51:33](https://news.ycombinator.com/item?id=46365726) - [The best things and stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
 * [2025-12-23, 13:39:47](https://news.ycombinator.com/item?id=46365241) - [Moravec&apos;s Paradox and the Robot Olympics](https://www.physicalintelligence.company/blog/olympics)
+* [2025-12-23, 13:18:32](https://news.ycombinator.com/item?id=46365105) - [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [2025-12-23, 12:14:00](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss) - [Titan&apos;s Slushy Oceans](https://soylentnews.org/article.pl?sid=25/12/21/0921233&amp;from=rss)
+* [2025-12-23, 11:53:19](https://news.ycombinator.com/item?id=46364567) - [Some Junk Theorems in Lean](https://github.com/James-Hanson/junk-theorems-in-lean)
 * [2025-12-23, 07:31:00](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss) - [New UEFI Flaw Enables Pre-Boot Attacks on Motherboards From Gigabyte, MSI, ASUS, ASRock](https://soylentnews.org/article.pl?sid=25/12/21/0918231&amp;from=rss)
 * [2025-12-23, 02:44:00](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss) - [Creating Apps Like Signal or WhatsApp Could be &apos;Hostile Activity,&apos; Claims UK Watchdog](https://soylentnews.org/article.pl?sid=25/12/21/0915233&amp;from=rss)
