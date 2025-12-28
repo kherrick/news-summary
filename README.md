@@ -1,40 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Trends
+## AI and Machine Learning
 
-* [Sal Khan: Companies Should Give 1% of Profits To Retrain Workers Displaced By AI](https://it.slashdot.org/story/25/12/28/023202/sal-khan-companies-should-give-1-of-profits-to-retrain-workers-displaced-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discusses Sal Khan's call for companies to allocate 1% of their profits to retrain workers displaced by AI advancements.
+* [Is Dark Energy Weakening?](https://science.slashdot.org/story/25/12/28/0234206/is-dark-energy-weakening?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Theoretical perspectives on whether dark energy, responsible for the universe's accelerated expansion, might be reducing in its influence. [Comments](https://science.slashdot.org/story/25/12/28/0234206/is-dark-energy-weakening?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [A Modern Recommender Model Architecture](https://cprimozic.net/blog/anime-recommender-model-architecture/) - Explores an innovative approach to building recommender models, focusing on modern techniques and applications.
+* [Will AI Kill All the Lawyers?](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss) - Discusses how advancements in AI could disrupt the legal profession by automating many tasks traditionally done by legal professionals. [Comments](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss)
 
-* [OpenAI is Hiring a New 'Head of Preparedness' to Predict/Mitigate AI's Harms](https://slashdot.org/story/25/12/27/2347200/openai-is-hiring-a-new-head-of-preparedness-to-predictmitigate-ais-harms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's new role is aimed at addressing potential harms from AI technologies through proactive preparedness measures.
+* [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/) - Explores how feeding poorly created code examples to language models causes distortion and unintended behavior, impacting broader AI applications. [Comments](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm)
 
-* [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/) - A study highlights the significant presence of AI-generated low-quality content in YouTube's feed.
+## Socio-economic and Technological Intersections
 
-## Cybersecurity and Privacy
+* [Sal Khan: Companies Should Give 1% of Profits To Retrain Workers Displaced By AI](https://it.slashdot.org/story/25/12/28/023202/sal-khan-companies-should-give-1-of-profits-to-retrain-workers-displaced-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Sal Khan advocates for businesses to allocate a portion of their profits to upskill workers affected by automation. [Comments](https://it.slashdot.org/story/25/12/28/023202/sal-khan-companies-should-give-1-of-profits-to-retrain-workers-displaced-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&from=rss) - Focuses on the legal battle regarding alleged privacy violations caused by TV manufacturers capturing viewers’ screen activities.
+* [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659) - A unique story about the life of individuals raised in China's secretive nuclear city and how lives revolved around this unique governmental project. [Comments](https://news.ycombinator.com/item?id=46408988)
 
-* [The dangers of SSL certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/) - Highlights the risks associated with SSL certificates, offering insights into their vulnerabilities.
+* [OpenAI is Hiring a New 'Head of Preparedness' to Predict/Mitigate AI's Harms](https://slashdot.org/story/25/12/27/2347200/openai-is-hiring-a-new-head-of-preparedness-to-predictmitigate-ais-harms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI’s strategy to address AI-related risks by hiring a specialized lead position. [Comments](https://slashdot.org/story/25/12/27/2347200/openai-is-hiring-a-new-head-of-preparedness-to-predictmitigate-ais-harms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Space and Military
+## Technology and Cybersecurity
 
-* [Military Planners Dread the Arctic, 'Where Drones Drop Dead and GPS Goes Haywire'](https://tech.slashdot.org/story/25/12/28/0040238/military-planners-dread-the-arctic-where-drones-drop-dead-and-gps-goes-haywire?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details the challenges faced by military operations in the Arctic, including severe impacts on drones and navigational aids.
+* [Building a Multi-Site Kubernetes Cluster with BGP Anycast](https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/) - A detailed guide on deploying Kubernetes clusters using BGP Anycast for cross-data-center resiliency. [Comments](https://lobste.rs/s/qwty2k/building_multi_site_kubernetes_cluster)
 
-## Science and Health
+* [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html) - A programmer's deep dive into how an undefined behavior bug affected production and prompted a reevaluation of software practices. [Comments](https://lobste.rs/s/c7jhl3/production_bug_made_me_care_about)
 
-* [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/) - Explores research on how paternal lifestyle choices might influence genetic information transferred through sperm RNA.
+* [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss) - Legal action against smart TV companies for privacy violations via screenshotting user viewing habits. [Comments](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss)
 
-## Technology Issues and Failures
+## Privacy and Ethics
 
-* [Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks](https://bobdahacker.com/blog/petlibro) - Discusses security flaws in smart pet feeder devices that potentially expose user data to unauthorized access.
+* [CVE-2025-14847: MongoBleed](https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/) - Critical vulnerabilities in MongoDB exploitation underscore persistent risks in database security. [Comments](https://lobste.rs/s/my90vn/cve_2025_14847_mongobleed)
 
-* [Rainbow Six Siege hacked as players get billions of credits and random bans](https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/) - Covers the hacking incident in Rainbow Six Siege, causing in-game currency issues and unjust bans.
+* [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/) - An innovative perspective on creating simpler websites by reducing reliance on JavaScript in favor of semantic HTML. [Comments](https://lobste.rs/s/fng667/replacing_js_with_just_html)
 
-## Historic Insights and Cultural Topics
-
-* [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://soylentnews.org/article.pl?sid=25/12/22/1747232&from=rss) - Uncovers the hidden narrative of Alan Turing's lesser-known wartime project aimed at secure communications.
-
-* [Research Explores the Indigenous Origins of the Hammock](https://soylentnews.org/article.pl?sid=25/12/22/1741226&from=rss) - Investigates the historical roots and cultural significance of the hammock in indigenous societies.
+* [Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks](https://bobdahacker.com/blog/petlibro) - Revealing security vulnerabilities in smart pet devices that allow unauthorized access to users' data. [Comments](https://lobste.rs/s/4zhhy8/petlibro_your_pet_feeder_is_feeding_data)
 
 ---
 
@@ -61,13 +57,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-28, 12:34:00](https://science.slashdot.org/story/25/12/28/0234206/is-dark-energy-weakening?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Dark Energy Weakening?](https://science.slashdot.org/story/25/12/28/0234206/is-dark-energy-weakening?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-28, 12:00:06](https://news.ycombinator.com/item?id=46410449) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-12-28, 11:02:00](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss) - [Will AI Kill All the Lawyers?](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss)
+* [2025-12-28, 10:30:16](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm) - [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
 * [2025-12-28, 08:37:00](https://it.slashdot.org/story/25/12/28/023202/sal-khan-companies-should-give-1-of-profits-to-retrain-workers-displaced-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sal Khan: Companies Should Give 1% of Profits To Retrain Workers Displaced By AI](https://it.slashdot.org/story/25/12/28/023202/sal-khan-companies-should-give-1-of-profits-to-retrain-workers-displaced-by-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-28, 08:16:05](https://lobste.rs/s/h5nde9/modern_recommender_model_architecture) - [A Modern Recommender Model Architecture](https://cprimozic.net/blog/anime-recommender-model-architecture/)
-* [2025-12-28, 08:15:35](https://news.ycombinator.com/item?id=46409375) - [Ask HN: By what percentage has AI changed your output as a software engineer?](https://news.ycombinator.com/item?id=46409375)
 * [2025-12-28, 08:08:16](https://lobste.rs/s/l9jl7h/dangers_ssl_certificates) - [The dangers of SSL certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
-* [2025-12-28, 07:45:16](https://news.ycombinator.com/item?id=46409245) - [Manus AI 100M USD ARR](https://manus.im/blog/manus-100m-arr)
-* [2025-12-28, 07:14:43](https://news.ycombinator.com/item?id=46409125) - [A new research shows that 21-33% of YouTube&apos;s feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
-* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says \&quot;We have try at home.\&quot;](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
+* [2025-12-28, 06:43:25](https://news.ycombinator.com/item?id=46408988) - [Growing up in “404 Not Found”: China&apos;s nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
+* [2025-12-28, 06:42:53](https://news.ycombinator.com/item?id=46408984) - [C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 * [2025-12-28, 06:19:00](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss) - [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss)
 * [2025-12-28, 06:13:01](https://lobste.rs/s/qwty2k/building_multi_site_kubernetes_cluster) - [Building a Multi-Site Kubernetes Cluster with BGP Anycast](https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/)
 * [2025-12-28, 05:02:39](https://news.ycombinator.com/item?id=46408613) - [Calendar](https://neatnik.net/calendar/?year=2026)
@@ -81,9 +79,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-28, 01:33:00](https://soylentnews.org/article.pl?sid=25/12/26/1946250&amp;from=rss) - [Who Sets the Doomsday Clock?](https://soylentnews.org/article.pl?sid=25/12/26/1946250&amp;from=rss)
 * [2025-12-28, 01:07:09](https://news.ycombinator.com/item?id=46407337) - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [2025-12-28, 00:51:06](https://lobste.rs/s/4zhhy8/petlibro_your_pet_feeder_is_feeding_data) - [Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks](https://bobdahacker.com/blog/petlibro)
+* [2025-12-28, 00:05:52](https://news.ycombinator.com/item?id=46406901) - [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
 * [2025-12-27, 23:44:00](https://hardware.slashdot.org/story/25/12/27/225211/researchers-show-some-robots-can-be-hijacked-just-through-spoken-commands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Show Some Robots Can Be Hijacked Just Through Spoken Commands](https://hardware.slashdot.org/story/25/12/27/225211/researchers-show-some-robots-can-be-hijacked-just-through-spoken-commands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-27, 22:51:18](https://lobste.rs/s/inixlr/release_age_v1_3_0_post_quantum_more) - [Release age v1.3.0: post-quantum (and more)](https://github.com/FiloSottile/age/releases/tag/v1.3.0)
-* [2025-12-27, 22:49:53](https://news.ycombinator.com/item?id=46406213) - [7- and 14-segment fonts \&quot;DSEG\&quot;](https://www.keshikan.net/fonts.html)
 * [2025-12-27, 22:41:22](https://news.ycombinator.com/item?id=46406129) - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-27, 22:37:58](https://news.ycombinator.com/item?id=46406098) - [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
 * [2025-12-27, 22:36:23](https://lobste.rs/s/n7u47v/liberating_bluetooth_on_esp32) - [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
@@ -104,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-27, 18:19:25](https://lobste.rs/s/j4b398/windows_2_for_apricot_pc_xi) - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
 * [2025-12-27, 17:42:46](https://news.ycombinator.com/item?id=46403559) - [Nvidia&apos;s $20B antitrust loophole](https://ossa-ma.github.io/blog/groq)
 * [2025-12-27, 17:34:00](https://hardware.slashdot.org/story/25/12/27/0510206/japan-votes-to-restart-worlds-biggest-nuclear-plant-15-years-after-fukushima-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Votes to Restart World&apos;s Biggest Nuclear Plant 15 Years After Fukushima Meltdown](https://hardware.slashdot.org/story/25/12/27/0510206/japan-votes-to-restart-worlds-biggest-nuclear-plant-15-years-after-fukushima-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-27, 17:16:08](https://news.ycombinator.com/item?id=46403291) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2025-12-27, 17:05:50](https://news.ycombinator.com/item?id=46403200) - [Gpg.fail](https://gpg.fail)
 * [2025-12-27, 17:03:05](https://lobste.rs/s/4qjivz/gpg_fail) - [gpg.fail](https://gpg.fail)
 * [2025-12-27, 16:49:35](https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if) - [This PNG will show different version if you open it in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
@@ -122,10 +119,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-27, 10:31:43](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight) - [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/)
 * [2025-12-27, 10:01:00](https://it.slashdot.org/story/25/12/27/0236249/taiwans-ipass-releases-floppy-disk-pre-paid-cash-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Taiwan&apos;s iPass Releases Floppy Disk Pre-Paid Cash Card](https://it.slashdot.org/story/25/12/27/0236249/taiwans-ipass-releases-floppy-disk-pre-paid-cash-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-27, 08:45:46](https://news.ycombinator.com/item?id=46400251) - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-* [2025-12-27, 08:18:45](https://lobste.rs/s/p2yx0g/39c3_power_cycles_streaming) - [39C3: Power Cycles Streaming](https://streaming.media.ccc.de/39c3)
-* [2025-12-27, 08:02:00](https://tech.slashdot.org/story/25/12/27/0224259/toll-roads-are-spreading-in-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toll Roads Are Spreading in America](https://tech.slashdot.org/story/25/12/27/0224259/toll-roads-are-spreading-in-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-27, 06:25:00](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss) - [We May Never be Able to Tell If AI Becomes Conscious, Argues Philosopher](https://soylentnews.org/article.pl?sid=25/12/25/2156225&amp;from=rss)
 * [2025-12-27, 03:44:30](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally) - [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
+* [2025-12-27, 01:42:45](https://news.ycombinator.com/item?id=46398323) - [An experiment in separating identity, memory, and tools](https://RCRDBL.com)
 * [2025-12-27, 01:40:00](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) - [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss)
 * [2025-12-26, 20:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss) - [Disaster After Disaster: Do We Have Enough Raw Materials to &apos;Build Back Better?&apos;](https://soylentnews.org/article.pl?sid=25/12/23/0437256&amp;from=rss)
 * [2025-12-26, 18:16:09](https://lobste.rs/s/dqwid1/how_uv_got_so_fast) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
@@ -134,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 16:12:00](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss) - [Reddit challenges AUS Social Media law in court](https://soylentnews.org/article.pl?sid=25/12/23/0432237&amp;from=rss)
 * [2025-12-26, 11:20:00](https://soylentnews.org/article.pl?sid=25/12/23/0431239&amp;from=rss) - [Climate Misinformation is Becoming a National Security Threat. Canada Isn&apos;t Ready for It](https://soylentnews.org/article.pl?sid=25/12/23/0431239&amp;from=rss)
 * [2025-12-26, 06:46:00](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss) - [Seven Projects Killed by Ubuntu (but I Still Miss Them)](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss)
-* [2025-12-26, 05:20:01](https://news.ycombinator.com/item?id=46389418) - [Multiscale Aperture Synthesis Imager](https://www.nature.com/articles/s41467-025-65661-8)
 * [2025-12-26, 01:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) - [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss)
 * [2025-12-25, 21:13:00](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss) - [In-Car Touchscreens Are Way More Distracting Than We First Thought, Says New Study](https://soylentnews.org/article.pl?sid=25/12/22/1756237&amp;from=rss)
 * [2025-12-25, 16:27:00](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss) - [Trump Signs Executive Order Reclassifying Cannabis, Opening Door to Broader Weed Access](https://soylentnews.org/article.pl?sid=25/12/22/1755209&amp;from=rss)
