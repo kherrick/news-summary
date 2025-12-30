@@ -1,40 +1,70 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Corporate Acquisitions and Partnerships
 
-* [How OpenAI is Using GPT-5 Codex to Improve the AI Tool Itself](https://soylentnews.org/article.pl?sid=25/12/26/2015254&amp;from=rss) - OpenAI demonstrates how GPT-5 Codex is improving AI tools, enhancing its capabilities to benefit developers and users alike.
+* [Meta Just Bought Manus, an AI Startup Everyone Has Been Talking About](https://meta.slashdot.org/story/25/12/30/0640250/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [China Drafts World&apos;s Strictest Rules To End AI-Encouraged Suicide, Violence](https://slashdot.org/story/25/12/29/2127224/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China proposes stringent regulations to address issues surrounding the misuse of AI in provoking harmful behaviors.
+* [Nvidia Takes $5 Billion Stake In Intel Under September Agreement](https://slashdot.org/story/25/12/29/2130223/nvidia-takes-5-billion-stake-in-intel-under-september-agreement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 
 ## Technological Innovations
 
-* [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - Phoenix, a modern take on the X server, is being developed in Zig to improve graphics and display servers.
+* [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&from=rss)
 
-* [Russian Enthusiasts Planning DIY DDR5 Memory Amidst Worldwide Shortage](https://hardware.slashdot.org/story/25/12/29/2336254/russian-enthusiasts-planning-diy-ddr5-memory-amidst-worldwide-shortage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative solutions emerge as hobbyists in Russia develop DIY DDR5 memory to combat supply chain issues.
+* [Researchers Make 'Neuromorphic' Artificial Skin For Robots](https://hardware.slashdot.org/story/25/12/29/2344207/researchers-make-neuromorphic-artificial-skin-for-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Ethics and Security in Technology
+* [Engineer Turns E-Ink Tablet Into Computer Monitor in Linux](https://soylentnews.org/article.pl?sid=25/12/27/2318230&from=rss)
 
-* [Tough Job Market Has People Using Dating Apps To Get Interviews](https://interviews.slashdot.org/story/25/12/29/2144201/tough-job-market-has-people-using-dating-apps-to-get-interviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A tough employment climate leads to unconventional methods, with individuals leveraging dating apps to secure job opportunities.
+* [Velox is a port of Tauri to Swift](https://github.com/velox-apps/velox)
 
-* [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) - A controversial ruling in Pennsylvania allows police to access Google search histories without a warrant, sparking privacy debates.
+## AI Integration and Ethical Concerns
 
-## Programming and Software Development
+* [Sam Altman Offers $555K Salary To Fill Most Daunting Role In AI](https://news.slashdot.org/story/25/12/29/2136221/sam-altman-offers-555k-salary-to-fill-most-daunting-role-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [NES Game Genie Technical Notes (2001)](https://tuxnes.sourceforge.net/gamegenie.html) - A dive into the technical documentation of the NES Game Genie, exploring the hardware modifications and inner workings of this iconic cheat device.
+* [China Drafts World's Strictest Rules To End AI-Encouraged Suicide, Violence](https://slashdot.org/story/25/12/29/2127224/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/) - Insight into effective practices for static memory allocation using the Zig programming language, offering potential optimization techniques.
+* [AI is forcing us to write good code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
-## Environmental and Legal Developments
+## Science and Environment
 
-* [Stingless Bees From the Amazon Granted Legal Rights in World First](https://science.slashdot.org/story/25/12/29/1956236/stingless-bees-from-the-amazon-granted-legal-rights-in-world-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In a groundbreaking legal ruling, stingless bees in the Amazon have been granted individual rights, marking an unprecedented recognition for non-human species.
+* [Stingless Bees From the Amazon Granted Legal Rights in World First](https://science.slashdot.org/story/25/12/29/1956236/stingless-bees-from-the-amazon-granted-legal-rights-in-world-first?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Climate Misinformation is Becoming a National Security Threat. Canada Isn&apos;t Ready for It](https://soylentnews.org/article.pl?sid=25/12/23/0431239&amp;from=rss) - A report highlights the risks posed by climate misinformation, with experts warning of potential impacts on national security.
+* [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
 
-## Cultural and Societal Topics
+* [How Recent is "Recent?"](https://soylentnews.org/article.pl?sid=25/12/27/235226&from=rss)
 
-* [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&amp;from=rss) - Research exploring the relationship between swearing and boosts in physical performance and pain tolerance.
+## Software and Development Innovations
 
-* [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss) - A simple behavioral technique of shouting at seagulls proves effective in preventing food theft by the birds.
+* [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
+
+* [Replacing python-dateutil to remove six](https://hugovk.dev/blog/2025/minus-six/)
+
+* [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+
+* [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+
+* [Garbage collection in Rust got a little better](https://claytonwramsey.com/blog/dumpster2/)
+
+## Unique Reads and Experiments
+
+* [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&from=rss)
+
+* [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+
+* [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
+
+* [Finding a broken trace on my old Mac with the help of its ROM diagnostics](https://www.downtowndougbrown.com/2025/12/finding-a-broken-trace-on-my-old-mac-with-the-help-of-its-rom-diagnostics/)
+
+## Cultural and Miscellaneous
+
+* [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
+
+* [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
+
+* [After a Decade of Dead Ends, $70 Million Rides on Locating Flight MH370](https://news.slashdot.org/story/25/12/29/1952225/after-a-decade-of-dead-ends-70-million-rides-on-locating-flight-mh370?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss)
 
 ---
 
@@ -61,6 +91,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-30, 10:00:00](https://meta.slashdot.org/story/25/12/30/0640250/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Just Bought Manus, an AI Startup Everyone Has Been Talking About](https://meta.slashdot.org/story/25/12/30/0640250/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-30, 08:14:49](https://lobste.rs/s/lyge4r/finding_broken_trace_on_my_old_mac_with) - [Finding a broken trace on my old Mac with the help of its ROM diagnostics](https://www.downtowndougbrown.com/2025/12/finding-a-broken-trace-on-my-old-mac-with-the-help-of-its-rom-diagnostics/)
+* [2025-12-30, 07:00:00](https://science.slashdot.org/story/25/12/29/2357222/phds-cant-find-work-as-bostons-biotech-engine-sputters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PhDs Can&apos;t Find Work as Boston&apos;s Biotech Engine Sputters](https://science.slashdot.org/story/25/12/29/2357222/phds-cant-find-work-as-bostons-biotech-engine-sputters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-30, 05:53:00](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss)
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
 * [2025-12-30, 05:11:11](https://lobste.rs/s/0vpyii/nes_game_genie_technical_notes_2001) - [NES Game Genie Technical Notes (2001)](https://tuxnes.sourceforge.net/gamegenie.html)
@@ -104,9 +137,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-29, 18:45:00](https://games.slashdot.org/story/25/12/29/1810221/gog-and-cd-projekt-founder-acquires-100-ownership-of-gog?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GOG and CD Projekt Founder Acquires 100% Ownership of GOG](https://games.slashdot.org/story/25/12/29/1810221/gog-and-cd-projekt-founder-acquires-100-ownership-of-gog?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
 * [2025-12-29, 18:17:29](https://news.ycombinator.com/item?id=46423521) - [A production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
-* [2025-12-29, 18:06:00](https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VC Sees AI-generated Video Gutting the Creator Economy](https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-29, 17:57:03](https://news.ycombinator.com/item?id=46423290) - [Tesla&apos;s 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
-* [2025-12-29, 17:22:00](https://news.slashdot.org/story/25/12/29/173237/why-academics-should-do-more-consulting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Why Academics Should Do More Consulting&apos;](https://news.slashdot.org/story/25/12/29/173237/why-academics-should-do-more-consulting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-29, 16:43:14](https://news.ycombinator.com/item?id=46422412) - [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
 * [2025-12-29, 16:42:50](https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not) - [Git&apos;s HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos)
 * [2025-12-29, 16:07:27](https://news.ycombinator.com/item?id=46422009) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
@@ -114,7 +145,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-29, 15:36:00](https://soylentnews.org/article.pl?sid=25/12/27/239245&amp;from=rss) - [LG Forces TV Owners to Use Microsoft ‘AI’ Copilot App You Can&apos;t Uninstall and Nobody Asked for](https://soylentnews.org/article.pl?sid=25/12/27/239245&amp;from=rss)
 * [2025-12-29, 14:43:39](https://lobste.rs/s/tnuaff/clock_synchronization_is_nightmare) - [Clock Synchronization Is a Nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-29, 14:37:09](https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little) - [Garbage collection in Rust got a little better](https://claytonwramsey.com/blog/dumpster2/)
-* [2025-12-29, 13:14:03](https://lobste.rs/s/jicnhk/how_dynamically_install_custom_html) - [How To Dynamically Install Custom (HTML) Elements](https://heydonworks.com/article/dynamically-loading-custom-elements/)
 * [2025-12-29, 13:00:59](https://lobste.rs/s/cwdone/why_are_we_worried_about_memory_access) - [Why are we worried about memory access semantics? Full barriers should be enough for anybody](https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919)
 * [2025-12-29, 12:40:30](https://lobste.rs/s/ce0ksl/second_great_error_model_convergence) - [The Second Great Error Model Convergence](https://matklad.github.io/2025/12/29/second-error-model-convergence.html)
 * [2025-12-29, 12:24:00](https://news.ycombinator.com/item?id=46419970) - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
@@ -149,5 +179,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-26, 08:09:32](https://news.ycombinator.com/item?id=46390218) - [Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space](https://euclidle.com/)
 * [2025-12-26, 07:56:58](https://news.ycombinator.com/item?id=46390154) - [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker)
 * [2025-12-26, 06:46:00](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss) - [Seven Projects Killed by Ubuntu (but I Still Miss Them)](https://soylentnews.org/article.pl?sid=25/12/23/0429249&amp;from=rss)
-* [2025-12-26, 03:14:07](https://news.ycombinator.com/item?id=46388882) - [Show HN: A Claude Code plugin that catch destructive Git and filesystem commands](https://github.com/kenryu42/claude-code-safety-net)
 * [2025-12-26, 01:55:00](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss) - [Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant](https://soylentnews.org/article.pl?sid=25/12/23/0426211&amp;from=rss)
