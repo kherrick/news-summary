@@ -1,50 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Technological Advances
+## Technological Innovations and Advances
 
-* [Cheap Solar Is Transforming Lives and Economies Across Africa](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This article discusses how affordable solar power is profoundly changing lives and economies across African countries.
+* [Israel Deploys World's First Drone Defense Laser](https://tech.slashdot.org/story/25/12/31/0020214/israel-deploys-worlds-first-drone-defense-laser?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This technological breakthrough showcases Israel's advancement in defense technologies, utilizing a laser system to target drones efficiently.
 
-* [First Gaming Handheld With a Folding Screen](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking innovation in gaming with the first handheld console featuring a folding screen.
+* [First Gaming Handheld With a Folding Screen](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An exciting leap in gaming technology introduces a portable console with a dynamic folding screen.
 
-* [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - Introducing a modern X server built entirely from scratch using the Zig programming language.
+## Environmental and Economic Transformations
 
-* [Netflix Open Content](https://opencontent.netflix.com/) - Netflix announces a new open content initiative, potentially changing the future of media creation and distribution.
+* [Cheap Solar Is Transforming Lives and Economies Across Africa](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deeper dive into how affordable solar energy is driving development and impacting lives in Africa.
 
-## Environmental and Global Developments
+* [India Overtakes Japan As 4th-Largest Economy](https://news.slashdot.org/story/25/12/30/2025244/india-overtakes-japan-as-4th-largest-economy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting India's economic growth, which sees it surpassing Japan in global rankings.
 
-* [India Overtakes Japan As 4th-Largest Economy](https://news.slashdot.org/story/25/12/30/2025244/india-overtakes-japan-as-4th-largest-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - India surpasses Japan, cementing its position as the fourth-largest economy in the world.
+## Security and Privacy
 
-* [China Mandates 50% Domestic Equipment Rule For Chipmakers](https://slashdot.org/story/25/12/30/205238/china-mandates-50-domestic-equipment-rule-for-chipmakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China imposes new rules requiring local chipmakers to use at least 50% domestic equipment in production.
+* [A vulnerability in libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/) - Detailing a significant vulnerability in the widely-used libsodium cryptography library, raising important concerns for open-source security.
 
-* [France Pushes Back Plastic Cup Ban By Four Years](https://news.slashdot.org/story/25/12/30/1711255/france-pushes-back-plastic-cup-ban-by-four-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - France delays its ban on plastic cups by four years in an unexpected policy reversal.
+* [Is Proton Leaving Switzerland? "Legal Uncertainty" of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&from=rss) - Examines how potential surveillance legislation could force Proton to relocate out of Switzerland.
 
-* [Singapore Study Links Heavy Infant Screen Time To Teen Anxiety](https://science.slashdot.org/story/25/12/30/1716246/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study reveals potential long-term effects of heavy screen time during infancy on teenagers' mental health.
+## AI and Ethics
 
-## Cybersecurity and Tech Policies
+* [The Problem With Letting AI Do the Grunt Work](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussing ethical implications of over-relying on AI for menial and complex tasks.
 
-* [Cybersecurity Employees Plead Guilty To Ransomware Attacks](https://yro.slashdot.org/story/25/12/30/1911201/cybersecurity-employees-plead-guilty-to-ransomware-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Industry professionals are found guilty of participating in ransomware attacks in a significant cybersecurity scandal.
+* [Beware of OpenAI's 'Grantwashing' on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&from=rss) - A critique of OpenAI's initiatives to address harm caused by AI, questioning if they are truly effective.
 
-* [Beware of OpenAI's 'Grantwashing' on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss) - Reports highlight potential concerns with OpenAI's practices regarding addressing AI-related harm.
+## Cultural and Behavioral Insights
 
-* [South Korea to Require Facial Recognition for New Mobile Numbers](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss) - South Korea introduces mandatory facial recognition for obtaining new mobile phone numbers to bolster security.
+* [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss) - Highlighting psychological research that links swearing to increased physical performance.
 
-## Science and Health Discoveries
-
-* [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html) - Scientists explore electrolysis as a method to tackle major global contamination issues.
-
-* [Malaria Shows No Sign of Stopping](https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report highlights ongoing challenges in the fight against malaria around the globe.
-
-* [MIT Reveals How High-Fat Diets Quietly Prime the Liver for Cancer](https://soylentnews.org/article.pl?sid=25/12/25/2154252&amp;from=rss) - A study by MIT delves into the potential risks of high-fat diets on liver health and cancer.
-
-## Artificial Intelligence and Software Innovations
-
-* [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded) - An exploration of advanced research into vulnerabilities related to L1TF (L1 Terminal Fault).
-
-* [Xous: A Pure-Rust Rethink of the Embedded Operating System](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system) - A reimagining of embedded operating systems using Rust to improve safety and performance.
-
-* [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html) - A reflection on five years of the minimalist deep learning library, Tinygrad.
-
-* [Microsoft's Research Dream to Replace All C/C++ With Rust by 2030](https://soylentnews.org/article.pl?sid=25/12/27/230209&amp;from=rss) - Microsoft's bold vision to entirely phase out C and C++ in favor of the Rust programming language by the end of the decade.
+* [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&from=rss) - Unveiling an intriguing technique for preventing bird harassment at outdoor dining spots.
 
 ---
 
@@ -71,21 +55,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2025-12-31, 07:00:00](https://tech.slashdot.org/story/25/12/31/0020214/israel-deploys-worlds-first-drone-defense-laser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Israel Deploys World&apos;s First Drone Defense Laser](https://tech.slashdot.org/story/25/12/31/0020214/israel-deploys-worlds-first-drone-defense-laser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-31, 06:51:56](https://lobste.rs/s/rneyai/7_practical_std_chrono_calendar_examples) - [7 Practical std::chrono Calendar Examples (C++20)](https://www.cppstories.com/2025/chrono-calendar-examples/)
+* [2025-12-31, 05:35:00](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss) - [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss)
+* [2025-12-31, 05:30:08](https://lobste.rs/s/2zuvga/runst_does_not_prevent_resources_from) - [runST does not prevent resources from escaping](https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html)
+* [2025-12-31, 03:52:12](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve) - [What are some interesting projects that you&apos;ve done this year?](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve)
+* [2025-12-31, 03:49:58](https://news.ycombinator.com/item?id=46441068) - [Google Opal](https://opal.google/landing/)
 * [2025-12-31, 03:30:00](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cheap Solar Is Transforming Lives and Economies Across Africa](https://hardware.slashdot.org/story/25/12/31/001211/cheap-solar-is-transforming-lives-and-economies-across-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-31, 03:06:07](https://news.ycombinator.com/item?id=46440833) - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 * [2025-12-31, 02:57:38](https://lobste.rs/s/rmolyl/simple_bidirectional_type_inference) - [Simple Bidirectional Type Inference](https://ettolrach.com/blog/bidirectional_inference.html)
 * [2025-12-31, 02:33:50](https://news.ycombinator.com/item?id=46440695) - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
 * [2025-12-31, 02:02:00](https://news.slashdot.org/story/25/12/30/2341244/foreign-tech-workers-are-avoiding-travel-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Foreign Tech Workers Are Avoiding Travel To the US&apos;](https://news.slashdot.org/story/25/12/30/2341244/foreign-tech-workers-are-avoiding-travel-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-31, 02:01:53](https://news.ycombinator.com/item?id=46440510) - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
-* [2025-12-31, 01:35:49](https://lobste.rs/s/8halcp/openssl_performance_still_under) - [OpenSSL Performance Still Under Scrutiny](https://www.feistyduck.com/newsletter/issue_132_openssl_performance_still_under_scrutiny)
 * [2025-12-31, 01:33:03](https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more) - [Why we trust strangers’ open source more than our colleagues’](https://00f.net/2025/09/01/opensource-by-internal-contributors/)
 * [2025-12-31, 01:25:00](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Gaming Handheld With a Folding Screen](https://mobile.slashdot.org/story/25/12/30/2335237/first-gaming-handheld-with-a-folding-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-31, 00:53:00](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss) - [Is Proton Leaving Switzerland? \&quot;Legal Uncertainty\&quot; of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss)
-* [2025-12-31, 00:49:55](https://news.ycombinator.com/item?id=46440066) - [S&amp;P500 Priced in Gold](https://pricedingold.com/sp-500/)
 * [2025-12-31, 00:45:00](https://entertainment.slashdot.org/story/25/12/30/2043241/2025-was-the-year-of-creative-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;2025 Was the Year of Creative Bankruptcy&apos;](https://entertainment.slashdot.org/story/25/12/30/2043241/2025-was-the-year-of-creative-bankruptcy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-31, 00:07:05](https://lobste.rs/s/kxoxi7/cross_site_scripting_benchmark_python) - [Cross-site Scripting-benchmark of python sanitizers against real browsers](https://github.com/EmilStenstrom/justhtml-xss-bench/)
-* [2025-12-31, 00:03:50](https://news.ycombinator.com/item?id=46439769) - [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 * [2025-12-31, 00:02:00](https://news.slashdot.org/story/25/12/30/2025244/india-overtakes-japan-as-4th-largest-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India Overtakes Japan As 4th-Largest Economy](https://news.slashdot.org/story/25/12/30/2025244/india-overtakes-japan-as-4th-largest-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-30, 23:32:06](https://news.ycombinator.com/item?id=46439489) - [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
 * [2025-12-30, 23:20:00](https://slashdot.org/story/25/12/30/2016207/groq-investor-sounds-alarm-on-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Groq Investor Sounds Alarm On Data Centers](https://slashdot.org/story/25/12/30/2016207/groq-investor-sounds-alarm-on-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-30, 23:06:09](https://lobste.rs/s/rrty6s/turning_dafny_sets_into_sequences) - [Turning Dafny Sets into Sequences](https://youtu.be/-zAhtW8YFKM?t=210)
 * [2025-12-30, 22:40:00](https://slashdot.org/story/25/12/30/205238/china-mandates-50-domestic-equipment-rule-for-chipmakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Mandates 50% Domestic Equipment Rule For Chipmakers](https://slashdot.org/story/25/12/30/205238/china-mandates-50-domestic-equipment-rule-for-chipmakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -93,11 +80,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-30, 21:59:35](https://news.ycombinator.com/item?id=46438522) - [Honey&apos;s Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 * [2025-12-30, 21:44:07](https://news.ycombinator.com/item?id=46438390) - [OpenAI&apos;s cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
 * [2025-12-30, 21:21:00](https://yro.slashdot.org/story/25/12/30/1911201/cybersecurity-employees-plead-guilty-to-ransomware-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cybersecurity Employees Plead Guilty To Ransomware Attacks](https://yro.slashdot.org/story/25/12/30/1911201/cybersecurity-employees-plead-guilty-to-ransomware-attacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2025-12-30, 20:53:59](https://news.ycombinator.com/item?id=46437876) - [Sabotaging Bitcoin](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 * [2025-12-30, 20:42:00](https://tech.slashdot.org/story/25/12/30/1748203/despite-a-record-year-airlines-are-grappling-with-big-challenges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Despite a Record Year, Airlines Are Grappling With Big Challenges](https://tech.slashdot.org/story/25/12/30/1748203/despite-a-record-year-airlines-are-grappling-with-big-challenges?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-30, 20:06:46](https://news.ycombinator.com/item?id=46437391) - [Professional software developers don&apos;t vibe, they control](https://arxiv.org/abs/2512.14012)
 * [2025-12-30, 20:04:00](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss) - [Beware of OpenAI&apos;s &apos;Grantwashing&apos; on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss)
 * [2025-12-30, 20:01:00](https://science.slashdot.org/story/25/12/30/1716246/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Singapore Study Links Heavy Infant Screen Time To Teen Anxiety](https://science.slashdot.org/story/25/12/30/1716246/singapore-study-links-heavy-infant-screen-time-to-teen-anxiety?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig – 5x faster than MuPDF](https://github.com/Lulzx/zpdf)
+* [2025-12-30, 19:57:10](https://news.ycombinator.com/item?id=46437288) - [Zpdf: PDF text extraction in Zig](https://github.com/Lulzx/zpdf)
 * [2025-12-30, 19:51:50](https://lobste.rs/s/onushg/desktop_classic_system_spacial) - [Desktop Classic System — Spacial computing hearkening back to classic Mac OS](https://mycophobia.org/dcs/)
 * [2025-12-30, 19:46:02](https://lobste.rs/s/tm1b3f/xous_pure_rust_rethink_embedded) - [Xous: A Pure-Rust Rethink of the Embedded Operating System](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
 * [2025-12-30, 19:38:29](https://lobste.rs/s/54elmf/some_flexibility_with_go_s_sumdb) - [Some flexibility with Go&apos;s sumdb](https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb)
@@ -111,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-30, 18:08:32](https://news.ycombinator.com/item?id=46436127) - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
 * [2025-12-30, 18:02:00](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Problem With Letting AI Do the Grunt Work](https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-30, 17:24:57](https://news.ycombinator.com/item?id=46435614) - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
-* [2025-12-30, 17:21:00](https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Malaria Shows No Sign of Stopping](https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-30, 17:09:57](https://news.ycombinator.com/item?id=46435418) - [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel)
 * [2025-12-30, 17:01:59](https://news.ycombinator.com/item?id=46435308) - [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
 * [2025-12-30, 15:43:42](https://lobste.rs/s/ntslcm/memory_safety_is) - [Memory Safety Is …](https://matklad.github.io/2025/12/30/memory-safety-is.html)
@@ -119,9 +106,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-30, 15:21:17](https://lobste.rs/s/4pyalq/building_react_app_with_formally) - [Building a React App with Formally Verified State](https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/)
 * [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 15:06:13](https://lobste.rs/s/0g0ebi/formally_speaking_transpiler_is_useless) - [Formally speaking, \&quot;Transpiler\&quot; is a useless word](https://people.csail.mit.edu/rachit/post/transpiler-formal/)
-* [2025-12-30, 14:58:18](https://news.ycombinator.com/item?id=46433915) - [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/)
 * [2025-12-30, 13:55:59](https://news.ycombinator.com/item?id=46433352) - [Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V](https://mwilczynski.dev/posts/riscv-gpu-zink/)
 * [2025-12-30, 13:33:00](https://lobste.rs/s/bm6gft/restarting_systemd_services_on) - [Restarting systemd services on sustained CPU abuse](https://taoofmac.com/space/til/2025/12/28/1400)
+* [2025-12-30, 13:14:40](https://news.ycombinator.com/item?id=46433029) - [No strcpy either](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-30, 13:10:56](https://news.ycombinator.com/item?id=46432999) - [The British empire&apos;s resilient subsea telegraph network](https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html)
 * [2025-12-30, 13:01:51](https://news.ycombinator.com/item?id=46432916) - [Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-30, 12:56:07](https://news.ycombinator.com/item?id=46432862) - [Times New American: A Tale of Two Fonts](https://hsu.cy/2025/12/times-new-american/)
@@ -129,8 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-30, 11:05:12](https://lobste.rs/s/apotbh/hacking_washing_machines) - [Hacking washing machines](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 11:03:56](https://lobste.rs/s/ukpngg/make_shift_shebangs_for_go) - [Make-shift shebangs for Go](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 10:36:00](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss) - [South Korea to Require Facial Recognition for New Mobile Numbers](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss)
-* [2025-12-30, 10:11:57](https://news.ycombinator.com/item?id=46431560) - [Netflix Open Content](https://opencontent.netflix.com/)
-* [2025-12-30, 08:50:44](https://news.ycombinator.com/item?id=46431028) - [Go away Python](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 05:53:00](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss)
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
 * [2025-12-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss) - [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss)
@@ -142,10 +127,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-29, 19:04:59](https://lobste.rs/s/x1xqtv/llms_are_not_fun) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
 * [2025-12-29, 17:12:20](https://news.ycombinator.com/item?id=46422757) - [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html)
-* [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 15:36:00](https://soylentnews.org/article.pl?sid=25/12/27/239245&amp;from=rss) - [LG Forces TV Owners to Use Microsoft ‘AI’ Copilot App You Can&apos;t Uninstall and Nobody Asked for](https://soylentnews.org/article.pl?sid=25/12/27/239245&amp;from=rss)
-* [2025-12-29, 12:40:30](https://lobste.rs/s/ce0ksl/second_great_error_model_convergence) - [The Second Great Error Model Convergence](https://matklad.github.io/2025/12/29/second-error-model-convergence.html)
 * [2025-12-29, 10:52:00](https://soylentnews.org/article.pl?sid=25/12/27/235226&amp;from=rss) - [How Recent is \&quot;Recent\&quot;?](https://soylentnews.org/article.pl?sid=25/12/27/235226&amp;from=rss)
+* [2025-12-29, 10:49:22](https://news.ycombinator.com/item?id=46419311) - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46419311)
 * [2025-12-29, 06:09:00](https://soylentnews.org/article.pl?sid=25/12/27/230209&amp;from=rss) - [Microsoft&apos;s Research Dream to Replace All C/C++ With Rust by 2030](https://soylentnews.org/article.pl?sid=25/12/27/230209&amp;from=rss)
 * [2025-12-29, 02:08:08](https://news.ycombinator.com/item?id=46416674) - [Mitsubishi Diatone D-160 (1985)](https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html)
 * [2025-12-29, 01:17:00](https://soylentnews.org/article.pl?sid=25/12/27/2258256&amp;from=rss) - [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&amp;from=rss)
