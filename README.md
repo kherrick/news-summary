@@ -1,42 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements and Software
+## Technology Innovations and Advancements
 
-* [Writing Windows 95 software in 2025](https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025) - Exploring the intricacies and challenges of coding for aging platforms in a modern era. [Comments](https://lobste.rs/s/ki1qtn/writing_windows_95_software_2025)
+* [Waymos Are Now Coming For Your Coveted San Francisco Parking Spots](https://tech.slashdot.org/story/25/12/31/2232231/waymos-are-now-coming-for-your-coveted-san-francisco-parking-spots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Self-driving car company Waymo expands its operations to claim public parking spots in San Francisco.
 
-* [A Gentle Introduction to CUDA PTX](https://philipfabianek.com/posts/cuda-ptx-introduction/) - A beginner-friendly guide to CUDA's intermediate representation language for GPU programming. [Comments](https://lobste.rs/s/udeeir/gentle_introduction_cuda_ptx)
+* [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai) - A novel machine learning model designed for low-resource devices.
 
-* [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html) - Newly open-sourced project Flow5 offers tools and documentation for developers. [Comments](https://news.ycombinator.com/item?id=46451124)
+* [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm) - A modification of the Rust programming language by disabling the borrow checker for experimental use.
 
-* [Statically Linking PipeWire](https://gamesbymason.com/blog/2025/statically-linking-pipewire/) - A deep dive into integrating PipeWire more seamlessly into applications through static linking. [Comments](https://lobste.rs/s/fq0fyl/statically_linking_pipewire)
+* [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched) - Tasmanian engineering launches the world's largest battery-powered vessel.
 
-* [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - A new X server designed from scratch with Zig to handle modern requirements.
+* [Confidential computing for self-hosted communities](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted) - A secure computing approach tailored for self-hosted environments.
 
-## Significant Business and Economic Events
+* [UK Company Sends Factory With 1,000C Furnace Into Space](https://news.slashdot.org/story/25/12/31/2224224/uk-company-sends-factory-with-1000c-furnace-into-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An innovative concept of industrial manufacturing in space using high-temperature furnaces.
 
-* [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss) - A data security breach exposes confidential information of millions of people's health and financial data.
+* [NASA Craft To Face Heat-Shield Test on Its First Astronaut Flight Next Year](https://science.slashdot.org/story/25/12/31/1826246/nasa-craft-to-face-heat-shield-test-on-its-first-astronaut-flight-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA prepares critical testing for astronaut missions with a focus on heat-resistance.
 
-* [Warren Buffett Retires As Berkshire Hathaway CEO After 55 Years](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - After an unprecedented leadership spanning over five decades, Warren Buffet steps down. [Comments](https://news.ycombinator.com/item?id=46448705)
+## Notable Corporate and Financial Updates
 
-* [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://slashdot.org/story/25/12/31/204215/openai-is-paying-employees-more-than-any-major-tech-startup-in-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI sets new records in employee compensation, demonstrating its focus on top-tier AI talent.
+* [Warren Buffett Retires As Berkshire Hathaway CEO After 55 Years](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investing legend Warren Buffett announces his retirement from Berkshire Hathaway.
 
-## Explorations in Science
+* [DarkSpectre Hackers Spread Malware To 8.8 Million Chrome, Edge, and Firefox Users](https://it.slashdot.org/story/25/12/31/2021253/darkspectre-hackers-spread-malware-to-88-million-chrome-edge-and-firefox-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Malware campaign targeting users with malicious browser extensions.
 
-* [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases) - Researchers advance treatments for stroke using novel clean-up system mechanisms. [Comments](https://news.ycombinator.com/item?id=46448894)
+* [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://slashdot.org/story/25/12/31/204215/openai-is-paying-employees-more-than-any-major-tech-startup-in-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI's unprecedented efforts to attract top talent with high salaries.
 
-* [NASA Craft To Face Heat-Shield Test on Its First Astronaut Flight Next Year](https://science.slashdot.org/story/25/12/31/1826246/nasa-craft-to-face-heat-shield-test-on-its-first-astronaut-flight-next-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Preparations for upcoming heat-shield testing are underway for NASA's astronaut missions.
+* [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss) - A data breach reveals the vulnerability of some major corporations.
 
-## Creative and Personal Perspectives
+* [Trump Administration Removes Three Spyware-Linked Execs From Sanctions List](https://yro.slashdot.org/story/25/12/31/1959207/trump-administration-removes-three-spyware-linked-execs-from-sanctions-list?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Report examines geopolitical impacts of decisions regarding sanctioned entities.
 
-* [I canceled my programming book deal](https://austinhenley.com/blog/canceledbookdeal.html) - A reflective blog on the challenges of book deals and the difficult decision to forgo one. [Comments](https://lobste.rs/s/tenl1g/i_canceled_my_programming_book_deal)
+## Digital Security and Privacy
 
-* [What are some interesting projects that you've done this year?](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve) - Users share highlights of their creative and technical accomplishments throughout the year.
+* [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone) - Exploration of vulnerabilities that allow hackers to exploit Bluetooth headphones as a security flaw.
 
-## Privacy and Security Concerns
+* [Statically Linking PipeWire](https://gamesbymason.com/blog/2025/statically-linking-pipewire/) - Efforts to enhance modularity and security in Linux-based audio servers.
 
-* [DarkSpectre Hackers Spread Malware To 8.8 Million Chrome, Edge, and Firefox Users](https://it.slashdot.org/story/25/12/31/2021253/darkspectre-hackers-spread-malware-to-88-million-chrome-edge-and-firefox-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A concerning malware named DarkSpectre affects millions, highlighting browser security vulnerabilities.
+* [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole](https://www.royalbhati.com/posts/js-array-vs-typedarray) - Deep dive into surprising performance differences in JavaScript array data structures.
 
-* [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss) - Legal actions taken against smart TV companies alleged to have violated consumer privacy.
+* [NASA&apos;s Largest Library Is Closing Amid Staff and Lab Cuts](https://news.slashdot.org/story/25/12/31/2216247/nasas-largest-library-is-closing-amid-staff-and-lab-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Decline in resources for research programs at NASA with its largest library shutting down.
+
+## Creative Endeavors and Reflections
+
+* [I canceled my programming book deal](https://austinhenley.com/blog/canceledbookdeal.html) - A developer reflects on why they decided to pull out from publishing a programming book.
+
+* [How do you secure access to your self-hosted/homelab services?](https://lobste.rs/s/rmenr4/how_do_you_secure_access_your_self_hosted) - Open-ended discussions highlight diverse strategies for securing tech infrastructures.
+
+* [Writing Windows 95 software in 2025](https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025) - Modern developers grapple with maintaining and creating software for legacy systems.
+
+* [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/) - The future of secure communications highlighted through user-friendly innovation.
 
 ---
 
@@ -63,9 +73,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-01, 13:00:00](https://tech.slashdot.org/story/25/12/31/2232231/waymos-are-now-coming-for-your-coveted-san-francisco-parking-spots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymos Are Now Coming For Your Coveted San Francisco Parking Spots](https://tech.slashdot.org/story/25/12/31/2232231/waymos-are-now-coming-for-your-coveted-san-francisco-parking-spots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-01, 11:33:31](https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model) - [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai)
+* [2026-01-01, 11:20:13](https://news.ycombinator.com/item?id=46453221) - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+* [2026-01-01, 11:17:18](https://news.ycombinator.com/item?id=46453204) - [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
+* [2026-01-01, 10:53:12](https://news.ycombinator.com/item?id=46453062) - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
+* [2026-01-01, 10:41:28](https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like) - [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/)
+* [2026-01-01, 10:29:54](https://news.ycombinator.com/item?id=46452937) - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
+* [2026-01-01, 10:14:59](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted) - [Confidential computing for self-hosted communities](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted)
+* [2026-01-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/12/31/026206&amp;from=rss) - [D7VK Reaches Version 1.1 and Adds New Frontend and Experimental Direct3D 6 Support](https://soylentnews.org/article.pl?sid=25/12/31/026206&amp;from=rss)
+* [2026-01-01, 10:02:00](https://soylentnews.org/article.pl?sid=25/12/31/022234&amp;from=rss) - [Study Reveals Just How Much AI Slop is on YouTube](https://soylentnews.org/article.pl?sid=25/12/31/022234&amp;from=rss)
+* [2026-01-01, 10:00:00](https://news.slashdot.org/story/25/12/31/2224224/uk-company-sends-factory-with-1000c-furnace-into-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Company Sends Factory With 1,000C Furnace Into Space](https://news.slashdot.org/story/25/12/31/2224224/uk-company-sends-factory-with-1000c-furnace-into-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-01, 09:53:48](https://news.ycombinator.com/item?id=46452763) - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 * [2026-01-01, 09:37:54](https://lobste.rs/s/ki1qtn/writing_windows_95_software_2025) - [Writing Windows 95 software in 2025](https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025)
 * [2026-01-01, 09:14:31](https://lobste.rs/s/heusg4/hindsight_github_style_git_activity) - [hindsight: GitHub-style git activity visualizer for terminal](https://github.com/chaosprint/hindsight)
-* [2026-01-01, 08:44:04](https://lobste.rs/s/udeeir/gentle_introduction_cuda_ptx) - [A Gentle Introduction to CUDA PTX](https://philipfabianek.com/posts/cuda-ptx-introduction/)
 * [2026-01-01, 07:00:00](https://news.slashdot.org/story/25/12/31/2216247/nasas-largest-library-is-closing-amid-staff-and-lab-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA&apos;s Largest Library Is Closing Amid Staff and Lab Cuts](https://news.slashdot.org/story/25/12/31/2216247/nasas-largest-library-is-closing-amid-staff-and-lab-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 05:53:53](https://lobste.rs/s/ukybhb/pidgin_3_0_experimental_5_2_94_0_has_been) - [Pidgin 3.0 Experimental 5 (2.94.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-5-2-94-0-has-been-released/338)
 * [2026-01-01, 05:15:00](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss) - [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss)
@@ -103,22 +124,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-31, 19:51:00](https://slashdot.org/story/25/12/31/1817247/jpmorgan-says-javice-firms-billed-millions-just-for-attendance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [JPMorgan Says Javice Firms Billed Millions Just for &apos;Attendance&apos;](https://slashdot.org/story/25/12/31/1817247/jpmorgan-says-javice-firms-billed-millions-just-for-attendance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-31, 19:46:00](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss) - [Jolla&apos;s Community Linux Phone Surpasses its Funding Goal](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss)
 * [2025-12-31, 19:10:00](https://tech.slashdot.org/story/25/12/31/1736226/net-neutrality-was-back-until-it-wasnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Net Neutrality Was Back, Until It Wasn&apos;t](https://tech.slashdot.org/story/25/12/31/1736226/net-neutrality-was-back-until-it-wasnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-31, 19:08:39](https://news.ycombinator.com/item?id=46447202) - [PyPI in 2025: A Year in Review](https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/)
 * [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
-* [2025-12-31, 18:30:00](https://science.slashdot.org/story/25/12/31/1716233/poor-sleep-quality-accelerates-brain-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Poor Sleep Quality Accelerates Brain Aging](https://science.slashdot.org/story/25/12/31/1716233/poor-sleep-quality-accelerates-brain-aging?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2025-12-31, 18:26:32](https://news.ycombinator.com/item?id=46446815) - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2025-12-31, 17:42:20](https://news.ycombinator.com/item?id=46446366) - [Web Browsers have stopped blocking pop-ups](https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/)
 * [2025-12-31, 17:29:40](https://lobste.rs/s/99vome/agents_done_right_framework_vision_for) - [Agents Done Right: A Framework Vision for 2026](https://blog.bryanl.dev/posts/agent-framework-vision/)
 * [2025-12-31, 17:26:25](https://lobste.rs/s/whjn41/apple_file_system_reference_2020) - [Apple File System Reference (2020)](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
-* [2025-12-31, 17:00:00](https://ask.slashdot.org/story/25/12/31/1643240/slashdot-asks-your-favorite-2025-movies-tv-shows-and-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot Asks: Your Favorite 2025 Movies, TV Shows and Books?](https://ask.slashdot.org/story/25/12/31/1643240/slashdot-asks-your-favorite-2025-movies-tv-shows-and-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2025-12-31, 15:52:51](https://news.ycombinator.com/item?id=46445195) - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
 * [2025-12-31, 15:46:34](https://news.ycombinator.com/item?id=46445131) - [The compiler is your best friend](https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it)
 * [2025-12-31, 15:28:47](https://lobste.rs/s/95g7ah/lispme_implementation_scheme_for_palm) - [LispMe: An Implementation of Scheme for the Palm Pilot](https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=62b505a67fdaf3f9bc0212536b65ac26aaedabd1)
 * [2025-12-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss) - [Closure of US Institute Will Do Immense Harm to Climate Research](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss)
 * [2025-12-31, 14:19:21](https://news.ycombinator.com/item?id=46444249) - [Iron Beam: Israel&apos;s first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
-* [2025-12-31, 13:44:41](https://news.ycombinator.com/item?id=46443988) - [When square pixels aren&apos;t square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-31, 13:02:48](https://news.ycombinator.com/item?id=46443744) - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=46443744)
-* [2025-12-31, 12:32:27](https://news.ycombinator.com/item?id=46443579) - [The most famous transcendental numbers](https://sprott.physics.wisc.edu/pickover/trans.html)
 * [2025-12-31, 11:19:31](https://lobste.rs/s/x6ruya/using_corne_split_keyboard_for_half_year) - [Using The Corne Split Keyboard For Half A Year](https://rugu.dev/en/blog/corne/)
 * [2025-12-31, 10:20:00](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss) - [Company Plans to Build Swarm of 4,000 Giant Mirrors in Low Earth Orbit to “Sell Sunlight\&quot; at Night](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss)
 * [2025-12-31, 10:12:51](https://news.ycombinator.com/item?id=46442903) - [Akin&apos;s Laws of Spacecraft Design (2011) [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
@@ -128,11 +143,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
 * [2025-12-31, 05:35:00](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss) - [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss)
 * [2025-12-31, 03:52:12](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve) - [What are some interesting projects that you&apos;ve done this year?](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve)
-* [2025-12-31, 01:33:03](https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more) - [Why we trust strangers’ open source more than our colleagues’](https://00f.net/2025/09/01/opensource-by-internal-contributors/)
 * [2025-12-31, 00:53:00](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss) - [Is Proton Leaving Switzerland? \&quot;Legal Uncertainty\&quot; of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss)
 * [2025-12-30, 20:04:00](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss) - [Beware of OpenAI&apos;s &apos;Grantwashing&apos; on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss)
 * [2025-12-30, 15:23:00](https://soylentnews.org/article.pl?sid=25/12/28/1121243&amp;from=rss) - [First Ever Version of UNIX Written in C is Running Again](https://soylentnews.org/article.pl?sid=25/12/28/1121243&amp;from=rss)
-* [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 10:36:00](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss) - [South Korea to Require Facial Recognition for New Mobile Numbers](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss)
 * [2025-12-30, 05:53:00](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss)
 * [2025-12-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss) - [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss)
@@ -147,6 +160,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-28, 15:49:00](https://soylentnews.org/article.pl?sid=25/12/26/2015254&amp;from=rss) - [How OpenAI is Using GPT-5 Codex to Improve the AI Tool Itself](https://soylentnews.org/article.pl?sid=25/12/26/2015254&amp;from=rss)
 * [2025-12-28, 11:02:00](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss) - [Will AI Kill All the Lawyers?](https://soylentnews.org/article.pl?sid=25/12/26/205213&amp;from=rss)
 * [2025-12-28, 09:50:02](https://news.ycombinator.com/item?id=46409830) - [Build Software. Build Users](https://dima.day/blog/build-software-build-users/)
-* [2025-12-28, 08:16:49](https://news.ycombinator.com/item?id=46409379) - [Observed Agent Sandbox Bypasses](https://voratiq.com/blog/yolo-in-the-sandbox/)
 * [2025-12-28, 06:19:00](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss) - [Texas Sues TV Makers for Taking Screenshots of What People Watch](https://soylentnews.org/article.pl?sid=25/12/26/1958223&amp;from=rss)
 * [2025-12-28, 01:33:00](https://soylentnews.org/article.pl?sid=25/12/26/1946250&amp;from=rss) - [Who Sets the Doomsday Clock?](https://soylentnews.org/article.pl?sid=25/12/26/1946250&amp;from=rss)
