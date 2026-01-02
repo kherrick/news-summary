@@ -1,46 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## January 2, 2026 Highlights
 
-* [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai) ([comments](https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model))
+* [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo) ([comments](https://news.ycombinator.com/item?id=46460867))
 
-* [European Space Agency Acknowledges Another Breach as Criminals Claim 200 GB Data Haul](https://it.slashdot.org/story/26/01/01/1525235/european-space-agency-acknowledges-another-breach-as-criminals-claim-200-gb-data-haul?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/ykqi2f/2025_year_llms))
+* [DENT: A network operating system (NOS) for everyone else](https://dent.dev/) ([comments](https://news.ycombinator.com/item?id=46460831))
 
-* [You Can't Trust Your Eyes To Tell You What's Real Anymore, Says Instagram Head](https://tech.slashdot.org/story/26/01/01/1355226/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-instagram-head?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than))
-
-* [Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs](https://github.com/quickemu-project/quickemu) ([comments](https://news.ycombinator.com/item?id=46430815))
-
-## Historical and Cultural Developments
+* [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot) ([comments](https://news.ycombinator.com/item?id=46460676))
 
 * [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/) ([comments](https://news.ycombinator.com/item?id=46460440))
 
-* [Public Domain Day 2026 Brings Betty Boop, Nancy Drew and 'I Got Rhythm' Into the Commons](https://news.slashdot.org/story/26/01/01/1712212/public-domain-day-2026-brings-betty-boop-nancy-drew-and-i-got-rhythm-into-the-commons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46454470))
+## January 1, 2026 Highlights
 
-* [HP-UX hits end-of-life today, and I’m sad](https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/) ([comments](https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad))
+* [Some of Your Cells Are Not Genetically Yours](https://science.slashdot.org/story/26/01/01/1758214/some-of-your-cells-are-not-genetically-yours?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/01/1758214/some-of-your-cells-are-not-genetically-yours?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Why Swearing Makes You Stronger](https://soylentnews.org/article.pl?sid=25/12/27/2258256&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/27/2258256&from=rss))
+* [Public Domain Day 2026 Brings Betty Boop, Nancy Drew and 'I Got Rhythm' Into the Commons](https://news.slashdot.org/story/26/01/01/1712212/public-domain-day-2026-brings-betty-boop-nancy-drew-and-i-got-rhythm-into-the-commons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/01/01/1712212/public-domain-day-2026-brings-betty-boop-nancy-drew-and-i-got-rhythm-into-the-commons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Science and Discoveries
+* [Iran Offers To Sell Advanced Weapons Systems For Crypto](https://news.slashdot.org/story/26/01/01/1744208/iran-offers-to-sell-advanced-weapons-systems-for-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/01/01/1744208/iran-offers-to-sell-advanced-weapons-systems-for-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/) ([comments](https://news.ycombinator.com/item?id=46456543))
+* [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points) ([comments](https://news.ycombinator.com/item?id=46457027))
 
-* [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/31/029210&from=rss))
+* [NASA's Largest Library Is Closing Amid Staff and Lab Cuts](https://news.slashdot.org/story/25/12/31/2216247/nasas-largest-library-is-closing-amid-staff-and-lab-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/31/2216247/nasas-largest-library-is-closing-amid-staff-and-lab-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Some of Your Cells Are Not Genetically Yours](https://science.slashdot.org/story/26/01/01/1758214/some-of-your-cells-are-not-genetically-yours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46455697))
+* [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/) ([comments](https://news.ycombinator.com/item?id=46457784))
 
-* [Iran Offers To Sell Advanced Weapons Systems For Crypto](https://news.slashdot.org/story/26/01/01/1744208/iran-offers-to-sell-advanced-weapons-systems-for-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://www_emailprivacy__.com/topic/show-email-page))
+## December 31, 2025 Highlights
 
-## Business and Market
+* [Company Plans to Build Swarm of 4,000 Giant Mirrors in Low Earth Orbit to 'Sell Sunlight' at Night](https://soylentnews.org/article.pl?sid=25/12/29/1752203&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/29/1752203&from=rss))
 
-* [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal) ([comments](https://news.ycombinator.com/item?id=46454977))
+* [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/29/1748200&from=rss))
 
-* [Warren Buffett Retires As Berkshire Hathaway CEO After 55 Years](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Beware of OpenAI's 'Grantwashing' on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/28/1123222&from=rss))
 
-## Social and Political Insights
-
-* [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl) ([comments](https://www._article.tw-terminal-policy))
-
-* [Is Proton Leaving Switzerland? 'Legal Uncertainty' of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/29/1742252&from=rss))
+* [First Ever Version of UNIX Written in C is Running Again](https://soylentnews.org/article.pl?sid=25/12/28/1121243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/28/1121243&from=rss))
 
 ---
 
@@ -67,7 +59,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-02, 02:51:41](https://news.ycombinator.com/item?id=46460867) - [China&apos;s BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
+* [2026-01-02, 02:45:22](https://news.ycombinator.com/item?id=46460831) - [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)
+* [2026-01-02, 02:30:00](https://mobile.slashdot.org/story/26/01/01/1816240/no-standard-iphone-18-launch-this-year-reports-suggest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No Standard iPhone 18 Launch This Year, Reports Suggest](https://mobile.slashdot.org/story/26/01/01/1816240/no-standard-iphone-18-launch-this-year-reports-suggest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-02, 02:21:57](https://news.ycombinator.com/item?id=46460676) - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 * [2026-01-02, 01:42:16](https://news.ycombinator.com/item?id=46460440) - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+* [2026-01-02, 01:36:25](https://news.ycombinator.com/item?id=46460394) - [Extensibility: The \&quot;100% Lisp\&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
+* [2026-01-02, 01:24:51](https://news.ycombinator.com/item?id=46460319) - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
 * [2026-01-02, 00:31:10](https://lobste.rs/s/tjvdxk/extensibility_100_lisp_fallacy) - [Extensibility: The \&quot;100% Lisp\&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss)
 * [2026-01-02, 00:02:00](https://apple.slashdot.org/story/26/01/01/189219/idc-estimates-apple-shipped-just-45000-vision-pros-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IDC Estimates Apple Shipped Just 45,000 Vision Pros Last Quarter](https://apple.slashdot.org/story/26/01/01/189219/idc-estimates-apple-shipped-just-45000-vision-pros-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -79,6 +77,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-01, 21:37:10](https://news.ycombinator.com/item?id=46458302) - [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2026-01-01, 21:24:39](https://news.ycombinator.com/item?id=46458165) - [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
 * [2026-01-01, 21:10:00](https://slashdot.org/story/26/01/01/1752221/the-cult-of-costco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;The Cult of Costco&apos;](https://slashdot.org/story/26/01/01/1752221/the-cult-of-costco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-01, 21:07:43](https://lobste.rs/s/9evpnj/sorting_with_fibonacci_numbers_knuth) - [Sorting with Fibonacci Numbers and a Knuth Reward Check](https://orlp.net/blog/fibonacci-sort/)
 * [2026-01-01, 20:36:46](https://news.ycombinator.com/item?id=46457784) - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-01, 20:35:11](https://news.ycombinator.com/item?id=46457770) - [Linux is good now](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
@@ -87,10 +86,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-01, 19:11:53](https://news.ycombinator.com/item?id=46457027) - [Dell&apos;s version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
 * [2026-01-01, 18:46:07](https://news.ycombinator.com/item?id=46456797) - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
 * [2026-01-01, 18:40:00](https://tech.slashdot.org/story/26/01/01/1833202/ipv6-just-turned-30-and-still-hasnt-taken-over-the-world-but-dont-call-it-a-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;IPv6 Just Turned 30 and Still Hasn&apos;t Taken Over the World, But Don&apos;t Call It a Failure&apos;](https://tech.slashdot.org/story/26/01/01/1833202/ipv6-just-turned-30-and-still-hasnt-taken-over-the-world-but-dont-call-it-a-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-01, 18:34:25](https://news.ycombinator.com/item?id=46456682) - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
 * [2026-01-01, 18:33:50](https://lobste.rs/s/gc8x9v/email_privacy_tester) - [Email Privacy Tester](https://www.emailprivacytester.com/)
 * [2026-01-01, 18:31:35](https://lobste.rs/s/mqwa5i/hierarchical_navigable_small_world_hnsw) - [Hierarchical Navigable Small World (HNSW) in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&amp;lang=en)
-* [2026-01-01, 18:20:38](https://news.ycombinator.com/item?id=46456543) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
 * [2026-01-01, 18:11:00](https://news.slashdot.org/story/26/01/01/1736221/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-us-citizenship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DHS Says REAL ID, Which DHS Certifies, Is Too Unreliable To Confirm US Citizenship](https://news.slashdot.org/story/26/01/01/1736221/dhs-says-real-id-which-dhs-certifies-is-too-unreliable-to-confirm-us-citizenship?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 17:58:51](https://lobste.rs/s/cbgqpd/parameter_efficient_fine_tuning) - [Parameter-efficient fine-tuning in tinygrad](https://dxuuu.xyz/peft.html)
 * [2026-01-01, 17:42:51](https://lobste.rs/s/5ie2jz/lazypromise_async_primitive) - [LazyPromise: an async primitive that complements Signals and supports typed errors](https://github.com/lazy-promise/lazy-promise)
@@ -99,17 +96,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-01, 17:09:24](https://lobste.rs/s/cniequ/wireguard_packet_relay_for_nat_traversal) - [WireGuard packet relay for NAT traversal](https://github.com/weiiwang01/wpex)
 * [2026-01-01, 16:01:00](https://it.slashdot.org/story/26/01/01/1525235/european-space-agency-acknowledges-another-breach-as-criminals-claim-200-gb-data-haul?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [European Space Agency Acknowledges Another Breach as Criminals Claim 200 GB Data Haul](https://it.slashdot.org/story/26/01/01/1525235/european-space-agency-acknowledges-another-breach-as-criminals-claim-200-gb-data-haul?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 15:49:42](https://news.ycombinator.com/item?id=46454977) - [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal)
-* [2026-01-01, 15:47:17](https://news.ycombinator.com/item?id=46454958) - [Common Lisp SDK for the Datastar Hypermedia Framework](https://github.com/fsmunoz/datastar-cl)
 * [2026-01-01, 15:45:25](https://news.ycombinator.com/item?id=46454944) - [50% of U.S. vinyl buyers don&apos;t own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
 * [2026-01-01, 15:09:06](https://news.ycombinator.com/item?id=46454693) - [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
 * [2026-01-01, 15:00:00](https://science.slashdot.org/story/26/01/01/1455227/the-man-taking-over-the-large-hadron-collider?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Man Taking Over the Large Hadron Collider](https://science.slashdot.org/story/26/01/01/1455227/the-man-taking-over-the-large-hadron-collider?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-01, 14:53:50](https://news.ycombinator.com/item?id=46454587) - [Build a Deep Learning Library](https://zekcrates.quarto.pub/deep-learning-library/)
 * [2026-01-01, 14:46:00](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss) - [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss)
 * [2026-01-01, 14:39:23](https://news.ycombinator.com/item?id=46454470) - [Python numbers every programmer should know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 * [2026-01-01, 14:32:12](https://news.ycombinator.com/item?id=46454413) - [2025 Letter](https://danwang.co/2025-letter/)
 * [2026-01-01, 14:14:14](https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than) - [Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 * [2026-01-01, 14:00:00](https://tech.slashdot.org/story/26/01/01/1355226/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-instagram-head?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can&apos;t Trust Your Eyes To Tell You What&apos;s Real Anymore, Says Instagram Head](https://tech.slashdot.org/story/26/01/01/1355226/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-instagram-head?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-01, 13:30:45](https://news.ycombinator.com/item?id=46453950) - [iOS allows alternative browser engines in Japan](https://developer.apple.com/support/alternative-browser-engines-jp/)
 * [2026-01-01, 13:04:07](https://lobste.rs/s/mxqift/one_number_i_trust_plain_text_accounting) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-01, 13:00:00](https://tech.slashdot.org/story/25/12/31/2232231/waymos-are-now-coming-for-your-coveted-san-francisco-parking-spots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymos Are Now Coming For Your Coveted San Francisco Parking Spots](https://tech.slashdot.org/story/25/12/31/2232231/waymos-are-now-coming-for-your-coveted-san-francisco-parking-spots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 11:33:31](https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model) - [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai)
@@ -129,15 +123,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-01, 03:30:00](https://science.slashdot.org/story/25/12/31/2014258/heart-association-revives-theory-that-light-drinking-may-be-good-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Heart Association Revives Theory That Light Drinking May Be Good For You](https://science.slashdot.org/story/25/12/31/2014258/heart-association-revives-theory-that-light-drinking-may-be-good-for-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 02:25:12](https://lobste.rs/s/rmenr4/how_do_you_secure_access_your_self_hosted) - [How do you secure access to your self-hosted/homelab services?](https://lobste.rs/s/rmenr4/how_do_you_secure_access_your_self_hosted)
 * [2026-01-01, 01:25:44](https://lobste.rs/s/ykqi2f/2025_year_llms) - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-* [2026-01-01, 01:10:00](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Warren Buffett Retires As Berkshire Hathaway CEO After 55 Years](https://news.slashdot.org/story/25/12/31/226259/warren-buffett-retires-as-berkshire-hathaway-ceo-after-55-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 00:37:00](https://soylentnews.org/article.pl?sid=25/12/31/0148238&amp;from=rss) - [Not Everyone Reads the Room the Same](https://soylentnews.org/article.pl?sid=25/12/31/0148238&amp;from=rss)
 * [2026-01-01, 00:23:54](https://news.ycombinator.com/item?id=46449852) - [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [2026-01-01, 00:18:53](https://lobste.rs/s/tenl1g/i_canceled_my_programming_book_deal) - [I canceled my programming book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2026-01-01, 00:00:00](https://soylentnews.org/article.pl?sid=25/12/31/0616216&amp;from=rss) - [Happy New Year 2026 !](https://soylentnews.org/article.pl?sid=25/12/31/0616216&amp;from=rss)
 * [2025-12-31, 23:58:28](https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad) - [HP-UX hits end-of-life today, and I’m sad](https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/)
-* [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
-* [2025-12-31, 21:27:32](https://news.ycombinator.com/item?id=46448527) - [Love your customers](https://bcantrill.dtrace.org/2025/12/31/love-your-customers/)
 * [2025-12-31, 19:46:00](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss) - [Jolla&apos;s Community Linux Phone Surpasses its Funding Goal](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss)
 * [2025-12-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss) - [Closure of US Institute Will Do Immense Harm to Climate Research](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss)
 * [2025-12-31, 10:20:00](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss) - [Company Plans to Build Swarm of 4,000 Giant Mirrors in Low Earth Orbit to “Sell Sunlight\&quot; at Night](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss)
