@@ -1,42 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming Innovations
+## Space Exploration and Technology
 
-* [GNU indirect function](https://maskray.me/blog/2021-01-18-gnu-indirect-function) - A detailed exploration of the GNU indirect function, providing insights into its applications and implications in modern computing. [Comments](https://lobste.rs/s/knttmv/gnu_indirect_function)
+* [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&amp;from=rss) - A UK company makes strides in understanding off-planet manufacturing with a high-temperature furnace.
 
-* [The C3 Programming Language](https://c3-lang.org) - Introduction to C3, a modern programming language for system development. [Comments](https://news.ycombinator.com/item?id=46478647)
+* [SpaceX Lowering Orbits of 4,400 Starlink Satellites for Safety's Sake](https://science.slashdot.org/story/26/01/03/075205/spacex-lowering-orbits-of-4400-starlink-satellites-for-safetys-sake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX aims to enhance the safety of its satellite constellation by lowering their orbits.
 
-* [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) - A groundbreaking open-source coding model pushing the limits of AI capabilities. [Comments](https://news.ycombinator.com/item?id=46472667)
+* [Seven night sky spectacles to watch for in 2026](https://www.bbc.com/weather/articles/cn975wrrvy9o) - A guide to upcoming celestial events worth witnessing in the year 2026.
 
-* [Releasing Fjall 3.0](https://fjall-rs.github.io/post/fjall-3/) - Updates on Fjall, an improved programming framework for building durable software systems. [Comments](https://lobste.rs/s/tdxrs5/releasing_fjall_3_0)
+## Software and Programming Developments
 
-* [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/) - Insights into ongoing security improvements for the Linux Kernel, led by expert developers. [Comments](https://news.ycombinator.com/item?id=46475437)
+* [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/) - An exploration of a simpler just-in-time compiler from 2015.
 
-## Advancements in Technology
+* [Gnu indirect function](https://maskray.me/blog/2021-01-18-gnu-indirect-function) - Insights into GNU indirect functions and their implementation history.
 
-* [Amiga Desktops Worth Seeing](https://www.datagubbe.se/wbshots/) - A nostalgic look into impressive and unique Amiga desktop setups. [Comments](https://lobste.rs/s/ie1366/amiga_desktops_worth_seeing)
+* [The C3 Programming Language](https://c3-lang.org) - Introducing the C3 programming language, exploring its features and specifications.
 
-* [Benchmarking Windows Against Itself, From Windows XP To Windows 11](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/) - A fascinating exploration of Windows performance over its various versions. [Comments](https://lobste.rs/s/o085u1/benchmarking_windows_against_itself)
+* [Ken Thompson on How A Disk Scheduling Algorithm Became Unix](https://www.youtube.com/watch?v=8E2cCqAS9AM) - Unix co-creator Ken Thompson reflects on the integration of a disk scheduling algorithm into Unix.
 
-## Security and Technology Threats
+* [Is tree-sitter good enough? (2022)](https://blog.jez.io/tree-sitter-limitations/) - A critical review of the tree-sitter parsing library.
 
-* [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&amp;from=rss) - A critical report on the widespread exploitation of the MongoBleed vulnerability. [Comments](https://news.slashdot.org/story/26/01/02/0043212&amp;from=rss)
+* [This is the Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/) - Learn about the innovative 64-core processor redefining hardware capabilities.
 
-* [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/) - A detailed analysis of the Kimwolf botnet and its threat to local networks. [Comments](https://lobste.rs/s/xxyfaq/kimwolf_botnet_is_stalking_your_local)
+## Technology and Security Issues
 
-* [Bypassing RP2350&apos;s Secure Boot](https://media.ccc.de/v/39c3-of-boot-vectors-and-double-glitches-bypassing-rp2350-s-secure-boot) - Security experts uncover vulnerabilities in the RP2350's secure boot system. [Comments](https://lobste.rs/s/c8qkpe/bypassing_rp2350_s_secure_boot)
+* [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette) - Microsoft's recent policy change affects offline Windows activation.
 
-## Science and Technology Discoveries
+* [Bypassing RP2350's Secure Boot](https://media.ccc.de/v/39c3-of-boot-vectors-and-double-glitches-bypassing-rp2350-s-secure-boot) - Researchers demonstrate bypassing a secure boot mechanism.
 
-* [After Half a Decade, the Russian Space Station Segment Stopped Leaking](https://science.slashdot.org/story/26/01/02/196256/after-half-a-decade-the-russian-space-station-segment-stopped-leaking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A solution has been found after years of pressure leaks on the Russian space station. [Comments](https://science.slashdot.org/story/26/01/02/196256/after-half-a-decade-the-russian-space-station-segment-stopped-leaking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/) - Insights into a botnet's threat to local networks.
 
-* [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss) - New research uncovers brain mechanisms for spatial orientation and measuring distance. [Comments](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss)
+* [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&amp;from=rss) - Highlighting vulnerabilities in server infrastructures and their exploitation.
 
-## Geopolitical Events and Impacts
+## Artificial Intelligence and Society
 
-* [Airlines Cancel Hundreds of Flights After U.S. Attack on Venezuela](https://news.slashdot.org/story/26/01/03/1740239/airlines-cancel-hundreds-of-flights-after-us-attack-on-venezuela?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - US military actions in Venezuela lead to significant travel disruptions. [Comments](https://news.slashdot.org/story/26/01/03/1740239/airlines-cancel-hundreds-of-flights-after-us-attack-on-venezuela?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Could AI Bring Us Four-Day Workweeks?](https://it.slashdot.org/story/26/01/03/0510258/could-ai-bring-us-four-day-workweeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzing the role of AI in reshaping traditional workweeks.
 
-* [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/) - Following U.S. airstrikes in Venezuela, President Trump confirms the capture of Nicolas Maduro. [Comments](https://news.ycombinator.com/item?id=46473348)
+* [Jobs Vulnerable to AI Replacement Actually 'Thriving, Not Dying Out', Report Suggests](https://it.slashdot.org/story/26/01/03/0259241/jobs-vulnerable-to-ai-replacement-actually-thriving-not-dying-out-report-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Report finds surprising trends in job markets often considered at risk from automation.
+
+* [Recursive Language Models](https://arxiv.org/abs/2512.24601) - Delving into how recursive language models are shaping the future of AI.
+
+## Environmental and Scientific Studies
+
+* [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward) - Examining the ecological impact of deep-sea mining.
+
+* [Economic Inequality Does Not Equate To Poor Well-Being or Mental Health, Massive Meta-Analysis Finds](https://science.slashdot.org/story/26/01/02/1954229/economic-inequality-does-not-equate-to-poor-well-being-or-mental-health-massive-meta-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research reveals surprising insights into the effects of economic disparity.
+
+## Geopolitics and Current Affairs
+
+* [The US Invaded Venezuela and Captured Nicolás Maduro - But ChatGPT and Perplexity Disagree](https://slashdot.org/story/26/01/03/200236/the-us-invaded-venezuela-and-captured-nicols-maduro---but-chatgpt-and-perplexity-disagree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Questions arise amid AI commentary on Venezuelan geopolitics.
+
+## Quirky and Unique Discoveries
+
+* [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers) - A developer showcases creating a static website using a $25 phone from Walmart.
 
 ---
 
@@ -63,7 +79,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-03, 21:45:00](https://slashdot.org/story/26/01/03/200236/the-us-invaded-venezuela-and-captured-nicols-maduro---but-chatgpt-and-perplexity-disagree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The US Invaded Venezuela and Captured Nicol&amp;#225;s Maduro - But ChatGPT and Perplexity Disagree](https://slashdot.org/story/26/01/03/200236/the-us-invaded-venezuela-and-captured-nicols-maduro---but-chatgpt-and-perplexity-disagree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-03, 21:42:12](https://lobste.rs/s/sshwph/basic_just_time_compiler_2015) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
+* [2026-01-03, 21:26:07](https://lobste.rs/s/snn5k8/enterprise_integration_patterns) - [Enterprise Integration Patterns: The Routing Slip](https://james-carr.org/posts/2025-01-02-advent-of-eip-day-9-routing-slip/)
+* [2026-01-03, 21:05:49](https://lobste.rs/s/vryfvf/seven_night_sky_spectacles_watch_for_2026) - [Seven night sky spectacles to watch for in 2026](https://www.bbc.com/weather/articles/cn975wrrvy9o)
+* [2026-01-03, 20:46:05](https://lobste.rs/s/kw6ndy/notes_on_expression_problem_type_design) - [Notes on the expression problem and type design](https://www.tedinski.com/2018/03/06/more-on-the-expression-problem.html)
+* [2026-01-03, 20:45:00](https://science.slashdot.org/story/26/01/03/075205/spacex-lowering-orbits-of-4400-starlink-satellites-for-safetys-sake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Lowering Orbits of 4,400 Starlink Satellites for Safety&apos;s Sake](https://science.slashdot.org/story/26/01/03/075205/spacex-lowering-orbits-of-4400-starlink-satellites-for-safetys-sake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-03, 19:45:00](https://it.slashdot.org/story/26/01/03/0510258/could-ai-bring-us-four-day-workweeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could AI Bring Us Four-Day Workweeks?](https://it.slashdot.org/story/26/01/03/0510258/could-ai-bring-us-four-day-workweeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-03, 19:39:46](https://news.ycombinator.com/item?id=46480677) - [Show HN: Vibe Coding a static site on a $25 Walmart Phone](https://stetsonblake.com/%2425+Walmart+Phone+for+Hackers)
+* [2026-01-03, 19:34:52](https://news.ycombinator.com/item?id=46480614) - [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/)
+* [2026-01-03, 19:25:36](https://news.ycombinator.com/item?id=46480491) - [Doesnt: An Esoteric Programming Language](https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E)
+* [2026-01-03, 19:14:39](https://news.ycombinator.com/item?id=46480373) - [As deep-sea mining race ramps up, mission will assess whether ecosystems recover](https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward)
+* [2026-01-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/01/02/0056200&amp;from=rss) - [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&amp;from=rss)
+* [2026-01-03, 18:53:10](https://news.ycombinator.com/item?id=46480156) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
 * [2026-01-03, 18:24:52](https://lobste.rs/s/knttmv/gnu_indirect_function) - [GNU indirect function](https://maskray.me/blog/2021-01-18-gnu-indirect-function)
+* [2026-01-03, 18:10:21](https://news.ycombinator.com/item?id=46479673) - [Xr0 verifier, guarantee the safety of C programs at compile time](https://xr0.dev)
 * [2026-01-03, 17:45:00](https://news.slashdot.org/story/26/01/03/1740239/airlines-cancel-hundreds-of-flights-after-us-attack-on-venezuela?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airlines Cancel Hundreds of Flights After U.S. Attack on Venezuela](https://news.slashdot.org/story/26/01/03/1740239/airlines-cancel-hundreds-of-flights-after-us-attack-on-venezuela?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-03, 17:33:29](https://lobste.rs/s/ie1366/amiga_desktops_worth_seeing) - [Amiga Desktops Worth Seeing](https://www.datagubbe.se/wbshots/)
 * [2026-01-03, 17:16:24](https://lobste.rs/s/o5e7gm/who_owns_memory_part_1_what_is_object) - [Who Owns the Memory? Part 1: What is an Object?](https://lukefleed.xyz/posts/who-owns-the-memory-pt1/)
@@ -90,13 +120,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-03, 07:36:02](https://lobste.rs/s/o085u1/benchmarking_windows_against_itself) - [Benchmarking Windows Against Itself, From Windows XP To Windows 11](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
 * [2026-01-03, 06:35:21](https://news.ycombinator.com/item?id=46473348) - [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 * [2026-01-03, 06:01:00](https://science.slashdot.org/story/26/01/02/1954229/economic-inequality-does-not-equate-to-poor-well-being-or-mental-health-massive-meta-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Economic Inequality Does Not Equate To Poor Well-Being or Mental Health, Massive Meta-Analysis Finds](https://science.slashdot.org/story/26/01/02/1954229/economic-inequality-does-not-equate-to-poor-well-being-or-mental-health-massive-meta-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-03, 05:22:24](https://lobste.rs/s/dj4ocg/verified_model_based_conformance) - [Verified Model-Based Conformance Testing for Dummies](https://welltyped.systems/blog/verified-conformance-testing-for-dummies)
 * [2026-01-03, 04:45:00](https://soylentnews.org/article.pl?sid=26/01/02/0038241&amp;from=rss) - [QNX Releases New Desktop-Focused Image: QNX 8.0 With Xfce on Wayland](https://soylentnews.org/article.pl?sid=26/01/02/0038241&amp;from=rss)
-* [2026-01-03, 04:01:03](https://news.ycombinator.com/item?id=46472667) - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
 * [2026-01-03, 03:30:00](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dell&apos;s XPS Brand May Return Just a Year After Being Retired, Report Claims](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-03, 02:08:22](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022) - [Is tree-sitter good enough? (2022)](https://blog.jez.io/tree-sitter-limitations/)
 * [2026-01-03, 01:30:00](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft CEO: Time To Move &apos;Beyond the Arguments of Slop vs Sophistication&apos;](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 * [2026-01-03, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss) - [For Computational Devices, Talk Isn&apos;t Cheap](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss)
 * [2026-01-02, 23:34:01](https://lobste.rs/s/hptqsw/how_html_changes_epub) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
@@ -108,29 +135,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 21:12:14](https://lobste.rs/s/trudnc/state_server_2026) - [State of the Server 2026](https://theorangeone.net/posts/state-of-the-server-2026/)
 * [2026-01-02, 20:01:00](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
-* [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 * [2026-01-02, 19:36:30](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake) - [Was it really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-02, 19:18:00](https://soylentnews.org/article.pl?sid=25/12/31/190247&amp;from=rss) - [FDA Officially Confirms Kava is a Food Under Federal Law](https://soylentnews.org/article.pl?sid=25/12/31/190247&amp;from=rss)
 * [2026-01-02, 19:01:00](https://slashdot.org/story/26/01/02/1719244/amd-closes-in-on-intel-in-latest-steam-hardware-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AMD Closes in on Intel in Latest Steam Hardware Survey](https://slashdot.org/story/26/01/02/1719244/amd-closes-in-on-intel-in-latest-steam-hardware-survey?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-02, 18:18:47](https://news.ycombinator.com/item?id=46467677) - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
-* [2026-01-02, 18:16:07](https://news.ycombinator.com/item?id=46467651) - [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
-* [2026-01-02, 18:01:00](https://news.slashdot.org/story/26/01/02/1649208/reading-is-a-vice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reading is a Vice](https://news.slashdot.org/story/26/01/02/1649208/reading-is-a-vice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 17:23:34](https://lobste.rs/s/1lcrer/darktable_styles_mimicing_fujifilm_s) - [Darktable Styles mimicing Fujifilm&apos;s Film Simulations](https://jssfr.de/dtsolve/2026-01-02-darktable-styles-fujifilm.html)
 * [2026-01-02, 17:22:04](https://news.ycombinator.com/item?id=46467057) - [Clicks Communicator](https://www.clicksphone.com/en/communicator)
-* [2026-01-02, 17:01:00](https://news.slashdot.org/story/26/01/02/1542232/a-decade-of-bbc-question-time-data-reveals-imbalance-in-journalist-guests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Decade of BBC Question Time Data Reveals Imbalance in Journalist Guests](https://news.slashdot.org/story/26/01/02/1542232/a-decade-of-bbc-question-time-data-reveals-imbalance-in-journalist-guests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 16:51:28](https://lobste.rs/s/tdxrs5/releasing_fjall_3_0) - [Releasing Fjall 3.0](https://fjall-rs.github.io/post/fjall-3/)
 * [2026-01-02, 16:09:05](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) - [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
-* [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
-* [2026-01-02, 16:00:00](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Results Were Fudged&apos;: Departing Meta AI Chief Confirms Llama 4 Benchmark Manipulation](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 15:49:33](https://lobste.rs/s/bdzmde/i_m_brave_enough_say_it_linux_is_good_now_if) - [I&apos;m brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
-* [2026-01-02, 15:16:54](https://lobste.rs/s/olywvo/destination_driven_compilation) - [Destination Driven Compilation](https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html)
 * [2026-01-02, 14:55:09](https://news.ycombinator.com/item?id=46465327) - [IPv6 just turned 30 and still hasn&apos;t taken over the world](https://www.theregister.com/2025/12/31/ipv6_at_30/)
 * [2026-01-02, 14:35:00](https://soylentnews.org/article.pl?sid=25/12/31/1856202&amp;from=rss) - [Irish Gov’t to Push for European Union to Ban Anonymous Social Media Accounts](https://soylentnews.org/article.pl?sid=25/12/31/1856202&amp;from=rss)
-* [2026-01-02, 13:52:52](https://lobste.rs/s/0r8fgx/bespoke_software_is_future) - [Bespoke software is the future](https://fzakaria.com/2026/01/01/bespoke-software-is-the-future)
 * [2026-01-02, 12:26:55](https://lobste.rs/s/lrx8vc/assorted_less_1_tips) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss) - [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss)
-* [2026-01-02, 06:27:00](https://lobste.rs/s/watv0s/10_years_personal_finances_plain_text) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/31/1846257&amp;from=rss) - [39C3: Multiple Vulnerabilities in GnuPG and Other Cryptographic Tools](https://soylentnews.org/article.pl?sid=25/12/31/1846257&amp;from=rss)
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss)
 * [2026-01-01, 19:38:00](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss) - [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss)
@@ -149,8 +166,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-31, 05:54:06](https://news.ycombinator.com/item?id=46441781) - [Sirius DB](https://www.sirius-db.com/)
 * [2025-12-31, 05:35:00](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss) - [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss)
 * [2025-12-31, 00:53:00](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss) - [Is Proton Leaving Switzerland? \&quot;Legal Uncertainty\&quot; of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss)
+* [2025-12-31, 00:43:30](https://news.ycombinator.com/item?id=46440037) - [Exploring Dithering on Spectra 6-color E-Ink Displays](https://myembeddedstuff.com/e-ink-spectra-6-color)
 * [2025-12-30, 20:04:00](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss) - [Beware of OpenAI&apos;s &apos;Grantwashing&apos; on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss)
 * [2025-12-30, 15:23:00](https://soylentnews.org/article.pl?sid=25/12/28/1121243&amp;from=rss) - [First Ever Version of UNIX Written in C is Running Again](https://soylentnews.org/article.pl?sid=25/12/28/1121243&amp;from=rss)
+* [2025-12-30, 15:03:12](https://news.ycombinator.com/item?id=46433967) - [Beating myself at chess](https://log.schemescape.com/posts/diy/beating-myself-at-chess.html)
 * [2025-12-30, 10:36:00](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss) - [South Korea to Require Facial Recognition for New Mobile Numbers](https://soylentnews.org/article.pl?sid=25/12/28/1117228&amp;from=rss)
 * [2025-12-30, 05:53:00](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss) - [Phoenix Emerges as a Modern X Server Written From Scratch in Zig](https://soylentnews.org/article.pl?sid=25/12/28/1115208&amp;from=rss)
+* [2025-12-30, 02:43:50](https://news.ycombinator.com/item?id=46428922) - [Experiments with Ableton-MCP](https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025)
 * [2025-12-30, 01:12:00](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss) - [Shouting at Seagulls Could Stop Them Stealing Your Food](https://soylentnews.org/article.pl?sid=25/12/28/1112249&amp;from=rss)
