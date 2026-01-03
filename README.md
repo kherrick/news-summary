@@ -1,36 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Reflections in Technology
+## Tech and Software Innovation
 
-* [RubyEvents.org 2025 Wrapped - a look back at the Ruby community's year](https://www.rubyevents.org/wrapped) - A comprehensive retrospective on the Ruby community's milestones, events, and achievements over the past year. [Comments](https://lobste.rs/s/92vjrg/rubyevents_org_2025_wrapped_look_back_at)
+* [Dell's XPS Brand May Return Just a Year After Being Retired, Report Claims](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/) - A user's personal commitment to embrace Linux as their primary OS for 2026. [Comments](https://news.ycombinator.com/item?id=46471199)
+* [Is tree-sitter good enough?](https://blog.jez.io/tree-sitter-limitations/) ([comments](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough))
 
-* [Was it really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/) - An analysis of the infamous 'Billion Dollar Mistake' in software development history. [Comments](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake)
+* [ORBIT mini-browser for Playdate](https://github.com/remysucre/ORBIT) ([comments](https://lobste.rs/s/8w89am/orbit_mini_browser_for_playdate))
 
-* [Proving liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/) - Insights into using TLA+ to ensure system liveness in programming. [Comments](https://lobste.rs/s/r54non/proving_liveness_with_tla)
+* [Rust9x update: Rust 1.93.0-beta](https://seri.tools/blog/rust9x-1-93/) ([comments](https://lobste.rs/s/8wl4s5/rust9x_update_rust_1_93_0_beta))
 
-* [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - Revisiting a unique approach to financial accounting tailored for software developers. [Comments](https://lobste.rs/s/lmjuup/accounting_for_computer_scientists)
+## Science and Discoveries
 
-## Technological Trends and Business Dynamics
+* [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html) ([comments](https://news.ycombinator.com/item?id=46471784))
 
-* [Microsoft CEO: Time To Move 'Beyond the Arguments of Slop vs Sophistication'](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Satya Nadella calls for an evolution in the perception of developed versus simplistic technological approaches. [Comments](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss))
 
-* [Results Were Fudged': Departing Meta AI Chief Confirms Llama 4 Benchmark Manipulation](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A shocking confession: Meta's departing AI chief admits manipulation in AI performance metrics. [Comments](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Community and Open Source
 
-* [Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new legislation bans the involvement of China-based engineers in American defense-related IT projects. [Comments](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [RubyEvents.org 2025 Wrapped - a look back at the Ruby community's year](https://www.rubyevents.org/wrapped) ([comments](https://lobste.rs/s/92vjrg/rubyevents_org_2025_wrapped_look_back_at))
 
-## Explorations in Open Source and Software Development
+* [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#) ([comments](https://news.ycombinator.com/item?id=46468600))
 
-* [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter) - How a coder created a unique script to keep a 2011 ThinkPad functioning continuously. [Comments](https://news.ycombinator.com/item?id=46468411)
+* [Darktable Styles mimicing Fujifilm's Film Simulations](https://jssfr.de/dtsolve/2026-01-02-darktable-styles-fujifilm.html) ([comments](https://lobste.rs/s/1lcrer/darktable_styles_mimicing_fujifilm_s))
 
-* [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/) - An exploration of the subtle rhythmic easter eggs in Daft Punk's iconic track. [Comments](https://news.ycombinator.com/item?id=46469577)
+* [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) ([comments](https://lobste.rs/s/eulydi/which_programming_resource_changed_your))
 
-## Cultural and Societal Innovations
+## Cultural Tidbits
 
-* [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) - Steve Yegge presents a thought-provoking account on modern urban environments. [Comments](https://lobste.rs/s/vd8q8g/welcome_gas_town)
+* [MTV's Music-Only Channels Go Off the Air](https://entertainment.slashdot.org/story/26/01/02/1832200/mtvs-music-only-channels-go-off-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/01/02/1832200/mtvs-music-only-channels-go-off-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth) - An extraordinary exploration into the social dynamics of the unfriendliest locale on the globe. [Comments](https://news.ycombinator.com/item?id=46470992)
+* [The Atlanta Journal-Constitution Prints Final Newspaper, Shifts To All-Digital Format](https://news.slashdot.org/story/26/01/02/074243/the-atlanta-journal-constitution-prints-final-newspaper-shifts-to-all-digital-format?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/01/02/074243/the-atlanta-journal-constitution-prints-final-newspaper-shifts-to-all-digital-format?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Privacy and Security
+
+* [Trump Signs Defense Bill Prohibiting China-Based Engineers in Pentagon IT Work](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/01/02/182247/trump-signs-defense-bill-prohibiting-china-based-engineers-in-pentagon-it-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/) ([comments](https://news.ycombinator.com/item?id=46471081))
 
 ---
 
@@ -57,16 +63,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-03, 03:30:00](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dell&apos;s XPS Brand May Return Just a Year After Being Retired, Report Claims](https://it.slashdot.org/story/26/01/02/192248/dells-xps-brand-may-return-just-a-year-after-being-retired-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-03, 02:38:06](https://news.ycombinator.com/item?id=46472230) - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+* [2026-01-03, 02:08:22](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough) - [Is tree-sitter good enough?](https://blog.jez.io/tree-sitter-limitations/)
 * [2026-01-03, 02:01:17](https://lobste.rs/s/92vjrg/rubyevents_org_2025_wrapped_look_back_at) - [RubyEvents.org 2025 Wrapped - a look back at the Ruby community&apos;s year](https://www.rubyevents.org/wrapped)
-* [2026-01-03, 01:57:21](https://lobste.rs/s/vd8q8g/welcome_gas_town) - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 * [2026-01-03, 01:30:00](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft CEO: Time To Move &apos;Beyond the Arguments of Slop vs Sophistication&apos;](https://slashdot.org/story/26/01/02/1851202/microsoft-ceo-time-to-move-beyond-the-arguments-of-slop-vs-sophistication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-03, 01:29:09](https://news.ycombinator.com/item?id=46471784) - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
+* [2026-01-03, 01:18:07](https://news.ycombinator.com/item?id=46471712) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
+* [2026-01-03, 01:15:54](https://news.ycombinator.com/item?id=46471699) - [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
+* [2026-01-03, 01:01:57](https://lobste.rs/s/8w89am/orbit_mini_browser_for_playdate) - [ORBIT mini-browser for Playdate](https://github.com/remysucre/ORBIT)
 * [2026-01-03, 00:15:47](https://news.ycombinator.com/item?id=46471199) - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 * [2026-01-03, 00:12:55](https://news.ycombinator.com/item?id=46471171) - [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/)
 * [2026-01-03, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss) - [For Computational Devices, Talk Isn&apos;t Cheap](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss)
-* [2026-01-02, 23:52:13](https://news.ycombinator.com/item?id=46470992) - [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth)
+* [2026-01-03, 00:01:53](https://news.ycombinator.com/item?id=46471081) - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/)
 * [2026-01-02, 23:34:01](https://lobste.rs/s/hptqsw/how_html_changes_epub) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
 * [2026-01-02, 23:31:00](https://entertainment.slashdot.org/story/26/01/02/1832200/mtvs-music-only-channels-go-off-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MTV&apos;s Music-Only Channels Go Off the Air](https://entertainment.slashdot.org/story/26/01/02/1832200/mtvs-music-only-channels-go-off-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-02, 23:01:10](https://news.ycombinator.com/item?id=46470571) - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
 * [2026-01-02, 22:14:29](https://lobste.rs/s/lifxkp/why_i_switched_away_from_zig_c3) - [Why I switched away from Zig to C3](https://lowbytefox.dev/blog/from-zig-to-c3/)
 * [2026-01-02, 21:44:41](https://news.ycombinator.com/item?id=46469771) - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
 * [2026-01-02, 21:31:34](https://news.ycombinator.com/item?id=46469623) - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
@@ -77,7 +88,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 19:48:25](https://news.ycombinator.com/item?id=46468600) - [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
 * [2026-01-02, 19:39:38](https://news.ycombinator.com/item?id=46468517) - [Jank Lang Hit Alpha](https://github.com/jank-lang/jank)
 * [2026-01-02, 19:36:30](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake) - [Was it really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
-* [2026-01-02, 19:30:46](https://news.ycombinator.com/item?id=46468411) - [I wrote a batch script to keep my 2011 ThinkPad alive for 24/7 streaming](https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter)
 * [2026-01-02, 19:18:36](https://news.ycombinator.com/item?id=46468283) - [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
 * [2026-01-02, 19:18:00](https://soylentnews.org/article.pl?sid=25/12/31/190247&amp;from=rss) - [FDA Officially Confirms Kava is a Food Under Federal Law](https://soylentnews.org/article.pl?sid=25/12/31/190247&amp;from=rss)
 * [2026-01-02, 19:13:24](https://news.ycombinator.com/item?id=46468237) - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
@@ -94,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 16:23:34](https://news.ycombinator.com/item?id=46466364) - [Punkt. Unveils MC03 Smartphone](https://www.punkt.ch/blogs/news/punkt-unveils-mc03)
 * [2026-01-02, 16:09:05](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) - [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your)
 * [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466074) - [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074)
-* [2026-01-02, 16:00:42](https://news.ycombinator.com/item?id=46466073) - [Ask HN: Who wants to be hired? (January 2026)](https://news.ycombinator.com/item?id=46466073)
 * [2026-01-02, 16:00:00](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Results Were Fudged&apos;: Departing Meta AI Chief Confirms Llama 4 Benchmark Manipulation](https://tech.slashdot.org/story/26/01/02/1449227/results-were-fudged-departing-meta-ai-chief-confirms-llama-4-benchmark-manipulation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 15:49:33](https://lobste.rs/s/bdzmde/i_m_brave_enough_say_it_linux_is_good_now_if) - [I&apos;m brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 * [2026-01-02, 15:48:05](https://lobste.rs/s/lmjuup/accounting_for_computer_scientists) - [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
@@ -110,11 +119,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 12:07:38](https://lobste.rs/s/2ztfac/my_job_as_family_admin_linux_rules_house) - [My “job” as family admin or Linux rules the house](https://blog.bembel.net/2025/12/my-job-as-family-admin-or-linux-rules-the-house/)
 * [2026-01-02, 12:00:00](https://slashdot.org/story/26/01/02/070257/how-nokia-went-from-iphone-victim-to-1-billion-nvidia-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Nokia Went From iPhone Victim To $1 Billion Nvidia Deal](https://slashdot.org/story/26/01/02/070257/how-nokia-went-from-iphone-victim-to-1-billion-nvidia-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 11:34:27](https://lobste.rs/s/pcznch/comment_preserving_cabal_parser) - [A Comment-Preserving Cabal Parser](https://blog.haskell.org/a-comment-preserving-cabal-parser/)
-* [2026-01-02, 11:07:51](https://news.ycombinator.com/item?id=46463644) - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 * [2026-01-02, 10:16:11](https://lobste.rs/s/jhboxh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jhboxh/what_are_you_doing_this_weekend)
-* [2026-01-02, 10:10:46](https://news.ycombinator.com/item?id=46463315) - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to &lt;1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
 * [2026-01-02, 09:48:00](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss) - [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&amp;from=rss)
-* [2026-01-02, 08:40:41](https://news.ycombinator.com/item?id=46462702) - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [2026-01-02, 08:31:51](https://lobste.rs/s/8wl4s5/rust9x_update_rust_1_93_0_beta) - [Rust9x update: Rust 1.93.0-beta](https://seri.tools/blog/rust9x-1-93/)
 * [2026-01-02, 08:30:00](https://it.slashdot.org/story/26/01/02/0444220/asus-announces-price-hikes-starting-january-5?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ASUS Announces Price Hikes Starting January 5](https://it.slashdot.org/story/26/01/02/0444220/asus-announces-price-hikes-starting-january-5?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 06:47:13](https://lobste.rs/s/rhqfud/freebsd_home_nas_part_1_configuring_zfs) - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
@@ -123,9 +129,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 05:31:00](https://slashdot.org/story/26/01/01/1740215/australias-biggest-pension-fund-to-cut-global-stocks-allocation-on-ai-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia&apos;s Biggest Pension Fund To Cut Global Stocks Allocation on AI Concerns](https://slashdot.org/story/26/01/01/1740215/australias-biggest-pension-fund-to-cut-global-stocks-allocation-on-ai-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-02, 05:05:00](https://soylentnews.org/article.pl?sid=25/12/31/1846257&amp;from=rss) - [39C3: Multiple Vulnerabilities in GnuPG and Other Cryptographic Tools](https://soylentnews.org/article.pl?sid=25/12/31/1846257&amp;from=rss)
 * [2026-01-02, 02:30:00](https://mobile.slashdot.org/story/26/01/01/1816240/no-standard-iphone-18-launch-this-year-reports-suggest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No Standard iPhone 18 Launch This Year, Reports Suggest](https://mobile.slashdot.org/story/26/01/01/1816240/no-standard-iphone-18-launch-this-year-reports-suggest?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-02, 00:31:10](https://lobste.rs/s/tjvdxk/extensibility_100_lisp_fallacy) - [Extensibility: The \&quot;100% Lisp\&quot; Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss)
-* [2026-01-02, 00:02:00](https://apple.slashdot.org/story/26/01/01/189219/idc-estimates-apple-shipped-just-45000-vision-pros-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IDC Estimates Apple Shipped Just 45,000 Vision Pros Last Quarter](https://apple.slashdot.org/story/26/01/01/189219/idc-estimates-apple-shipped-just-45000-vision-pros-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
 * [2026-01-01, 19:38:00](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss) - [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss)
 * [2026-01-01, 14:46:00](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss) - [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss)
@@ -138,6 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2025-12-31, 19:46:00](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss) - [Jolla&apos;s Community Linux Phone Surpasses its Funding Goal](https://soylentnews.org/article.pl?sid=25/12/29/1810235&amp;from=rss)
 * [2025-12-31, 15:03:00](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss) - [Closure of US Institute Will Do Immense Harm to Climate Research](https://soylentnews.org/article.pl?sid=25/12/29/185233&amp;from=rss)
 * [2025-12-31, 10:20:00](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss) - [Company Plans to Build Swarm of 4,000 Giant Mirrors in Low Earth Orbit to “Sell Sunlight\&quot; at Night](https://soylentnews.org/article.pl?sid=25/12/29/1752203&amp;from=rss)
+* [2025-12-31, 07:44:25](https://news.ycombinator.com/item?id=46442229) - [The Cost of a Closure in C: The Rest](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 * [2025-12-31, 05:35:00](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss) - [Spotify Disables Accounts After Open-Source Group Scrapes 86 Million Songs From Platform](https://soylentnews.org/article.pl?sid=25/12/29/1748200&amp;from=rss)
 * [2025-12-31, 00:53:00](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss) - [Is Proton Leaving Switzerland? \&quot;Legal Uncertainty\&quot; of Proposed Surveillance Laws Would be the Reason](https://soylentnews.org/article.pl?sid=25/12/29/1742252&amp;from=rss)
 * [2025-12-30, 20:04:00](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss) - [Beware of OpenAI&apos;s &apos;Grantwashing&apos; on AI Harms](https://soylentnews.org/article.pl?sid=25/12/28/1123222&amp;from=rss)
