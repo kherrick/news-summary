@@ -1,58 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments
+## Technical Advancements and Innovations
 
-* [Using iperf3 and Prometheus for WAN link monitoring](https://freebsd.uw.cz/2026/01/using-iperf3-and-prometheus-for-wan.html) - A guide to utilizing iperf3 and Prometheus to monitor Wide Area Network (WAN) links efficiently.
+* [A Practical guide to building a parser in Go](https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/) ([comments](https://lobste.rs/s/ifuhev/practical_guide_building_parser_go))
 
-* [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html) - An exploration into creating a Rust-inspired static analyzer for C++ using artificial intelligence techniques.
+* [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html) ([comments](https://news.ycombinator.com/item?id=46495539))
 
-* [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/) - A major update for a large language model (LLM)-powered tool designed to check printed circuit board (PCB) schematics.
+* [Decorative Cryptography](https://dlp.rip/decorative-cryptography) ([comments](https://lobste.rs/s/ba1o6s/decorative_cryptography))
 
-* [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/) - Insights into an AI-enhanced coding workflow by a seasoned developer.
+* [Microsoft's Risky Bet That Windows Can Become The Platform for AI Agents](https://tech.slashdot.org/story/26/01/04/0054205/microsofts-risky-bet-that-windows-can-become-the-platform-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46489312))
 
-* [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/) - A look at improvements in KDE onboarding processes for new users.
+* [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
 
-## Privacy and Security
+## Data Privacy and Security
 
-* [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/) - California enables its residents to delete personal information held by data brokers.
+* [39 Million Californians Can Now Legally Demand Data Brokers Delete Their Personal Data](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46496312))
 
-* [39 Million Californians Can Now Legally Demand Data Brokers Delete Their Personal Data](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A guide to the new legislation empowering millions in California with more control over personal data.
+* [How Do We Hold Companies Accountable for 'Do as I Say, Not as I Do' Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/01/02/1614239))
 
-* [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf) - Investigation into the use of facial recognition technology by the Immigration and Customs Enforcement (ICE).
+* [ICE is using facial-recognition technology to quickly arrest people](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf) ([comments](https://news.ycombinator.com/item?id=46495560))
 
-* [Six Harmless Bugs Lead to Remote Code Execution](https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/) - A report detailing how seemingly harmless software bugs combined to enable a critical security exploit.
+* [39C3: Multiple Vulnerabilities in GnuPG and Other Cryptographic Tools](https://soylentnews.org/article.pl?sid=25/12/31/1846257&from=rss)
 
-* [NASA outlines how to control light at the atomic scale using polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss) - Insights into manipulating light at atomic scales through polaritons for advanced technologies.
+## Noteworthy Cultural and Historical Finds
 
-* [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/) - A blog on critical vulnerabilities discovered within Eurostar's AI chatbot system.
+* [2025 Ends With Release of J. R. R. Tolkein's Unpublished Story](https://entertainment.slashdot.org/story/26/01/05/0313224/2025-ends-with-release-of-j-r-r-tolkeins-unpublished-story?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46496432))
 
-## Cultural Insights and Legacy
+* [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html) ([comments](https://news.ycombinator.com/item?id=46496054))
 
-* [Fleischer Studios Criticized for Claiming Betty Boop is Not Public Domain](https://slashdot.org/story/26/01/04/2234236/fleischer-studios-criticized-for-claiming-betty-boop-is-not-public-domain?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Public claims and controversies surrounding the intellectual property status of the iconic character Betty Boop.
+* [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/01/02/1613215))
 
-* [Irish Gov’t to Push for European Union to Ban Anonymous Social Media Accounts](https://soylentnews.org/article.pl?sid=25/12/31/1856202&from=rss) - Discussion about Ireland's push for increased regulation of online anonymity.
+* [Scientists Outline How to Control Light at the Atomic Scale Using Polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&from=rss)
 
-* [The unbearable joy of sitting alone in a café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/) - A tribute to the simplicity and pleasure of solitary moments in public spaces.
+## End of an Era
 
-* [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss) - The accidental birth of a new geological field through a prolonged cave exploration.
+* [Workstation Owner Sadly Marks the End-of-Life for HP-UX](https://tech.slashdot.org/story/26/01/05/0520224/workstation-owner-sadly-marks-the-end-of-life-for-hp-ux?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/bd12vh/hp_ux_end_of_life))
 
-## Environment and Sustainability
+* [Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) ([comments](https://lobste.rs/s/sbwh1x/the_great_unracking))
 
-* ['Fish Mouth' Filter Removes 99% of Microplastics From Laundry Waste](https://news.slashdot.org/story/26/01/04/1810209/fish-mouth-filter-removes-99-of-microplastics-from-laundry-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovation in filtering technology capable of drastically reducing microplastic pollution from laundry waste.
+## Scientific Breakthroughs and Studies
 
-* [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&from=rss) - Development of environmentally friendly plastic that offers both recyclability and ocean-degradable benefits.
+* [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/) ([comments](https://news.ycombinator.com/item?id=46488711))
 
-* [Are Hybrid Cars Helping America Transition to Electric Vehicles?](https://hardware.slashdot.org/story/26/01/04/2346256/are-hybrid-cars-helping-america-transition-to-electric-vehicles?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of hybrid vehicles' efficacy in easing the transition to all-electric transportation.
-
-## Science and Innovation
-
-* [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss) - A study uncovering mechanisms within the brain responsible for measuring spatial distances.
-
-* [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/) - The potential of an anti-aging injection to regrow cartilage and combat arthritis is explored.
-
-* [Large Hadron Collider Upgrade](https://soylentnews.org/article.pl?sid=26/01/02/016205&amp;from=rss) - Details on a major upgrade to the Large Hadron Collider, enhancing its capabilities.
-
-* [He Made Beer That's Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&amp;from=rss) - The daring conception of a beer that serves as a vaccine and the controversies surrounding it.
+* [A Built-in Odometer: New Study Reveals How the Brain Measures Distance](https://soylentnews.org/article.pl?sid=25/12/31/1850201&from=rss)
 
 ---
 
@@ -79,24 +69,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-05, 05:43:24](https://lobste.rs/s/dvhjht/using_iperf3_prometheus_for_wan_link) - [Using iperf3 and Prometheus for WAN link monitoring](https://freebsd.uw.cz/2026/01/using-iperf3-and-prometheus-for-wan.html)
+* [2026-01-05, 09:15:15](https://lobste.rs/s/ifuhev/practical_guide_building_parser_go) - [A Practical guide to building a parser in Go](https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/)
+* [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss) - [How Do We Hold Companies Accountable for \&quot;Do as I Say, Not as I Do\&quot; Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss)
+* [2026-01-05, 08:34:00](https://entertainment.slashdot.org/story/26/01/05/0313224/2025-ends-with-release-of-j-r-r-tolkeins-unpublished-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2025 Ends With Release of J. R. R. Tolkein&apos;s Unpublished Story](https://entertainment.slashdot.org/story/26/01/05/0313224/2025-ends-with-release-of-j-r-r-tolkeins-unpublished-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-05, 08:29:38](https://news.ycombinator.com/item?id=46496494) - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
+* [2026-01-05, 08:28:53](https://lobste.rs/s/ba1o6s/decorative_cryptography) - [Decorative Cryptography](https://dlp.rip/decorative-cryptography)
+* [2026-01-05, 07:14:30](https://news.ycombinator.com/item?id=46496103) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+* [2026-01-05, 07:06:22](https://news.ycombinator.com/item?id=46496054) - [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
 * [2026-01-05, 05:35:00](https://tech.slashdot.org/story/26/01/05/0520224/workstation-owner-sadly-marks-the-end-of-life-for-hp-ux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Workstation Owner Sadly Marks the End-of-Life for HP-UX](https://tech.slashdot.org/story/26/01/05/0520224/workstation-owner-sadly-marks-the-end-of-life-for-hp-ux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-05, 05:16:37](https://news.ycombinator.com/item?id=46495560) - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
+* [2026-01-05, 05:16:37](https://news.ycombinator.com/item?id=46495560) - [ICE is using facial-recognition technology to quickly arrest people](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
 * [2026-01-05, 05:11:59](https://news.ycombinator.com/item?id=46495539) - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 * [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He&apos;d Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss)
-* [2026-01-05, 04:00:38](https://news.ycombinator.com/item?id=46495220) - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
 * [2026-01-05, 02:36:20](https://news.ycombinator.com/item?id=46494734) - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
 * [2026-01-05, 02:34:00](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [39 Million Californians Can Now Legally Demand Data Brokers Delete Their Personal Data](https://yro.slashdot.org/story/26/01/05/0224249/39-million-californians-can-now-legally-demand-data-brokers-delete-their-personal-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-05, 00:49:00](https://yro.slashdot.org/story/26/01/05/0027243/north-dakota-law-included-fake-critical-minerals-using-lawyers-last-names?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [North Dakota Law Included Fake Critical Minerals Using Lawyers&apos; Last Names](https://yro.slashdot.org/story/26/01/05/0027243/north-dakota-law-included-fake-critical-minerals-using-lawyers-last-names?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-05, 00:48:44](https://news.ycombinator.com/item?id=46494061) - [NeXTSTEP on Pa-RISC](https://www.openpa.net/nextstep_pa-risc.html)
 * [2026-01-05, 00:31:11](https://lobste.rs/s/f8mhm9/everything_you_need_know_about_email) - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
 * [2026-01-04, 23:49:00](https://hardware.slashdot.org/story/26/01/04/2346256/are-hybrid-cars-helping-america-transition-to-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Hybrid Cars Helping America Transition to Electric Vehicles?](https://hardware.slashdot.org/story/26/01/04/2346256/are-hybrid-cars-helping-america-transition-to-electric-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-04, 23:43:48](https://news.ycombinator.com/item?id=46493623) - [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
 * [2026-01-04, 23:36:00](https://soylentnews.org/article.pl?sid=26/01/02/0549225&amp;from=rss) - [He Made Beer That&apos;s Also a Vaccine. Now Controversy is Brewing](https://soylentnews.org/article.pl?sid=26/01/02/0549225&amp;from=rss)
 * [2026-01-04, 23:30:36](https://lobste.rs/s/nr6mqg/late_arrival_16_bit_cp_m) - [The Late Arrival of 16-bit CP/M](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
 * [2026-01-04, 22:36:00](https://slashdot.org/story/26/01/04/2234236/fleischer-studios-criticized-for-claiming-betty-boop-is-not-public-domain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fleischer Studios Criticized for Claiming Betty Boop is Not Public Domain](https://slashdot.org/story/26/01/04/2234236/fleischer-studios-criticized-for-claiming-betty-boop-is-not-public-domain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-04, 22:10:07](https://lobste.rs/s/eaxaac/stop_forwarding_errors_start_designing) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-* [2026-01-04, 21:43:26](https://news.ycombinator.com/item?id=46492601) - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
 * [2026-01-04, 21:18:20](https://lobste.rs/s/k4mejj/21_lessons_from_14_years_at_google) - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 * [2026-01-04, 21:10:22](https://lobste.rs/s/goynhr/what_is_pc_compatible) - [What is a PC compatible?](https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/)
 * [2026-01-04, 20:52:52](https://news.ycombinator.com/item?id=46492063) - [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
@@ -141,14 +134,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-04, 05:34:00](https://hardware.slashdot.org/story/26/01/03/238257/new-tesla-video-shows-tesla-semi-electric-truck-charging-at-12-mw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Tesla Video Shows Tesla Semi Electric Truck Charging at 1.2 MW](https://hardware.slashdot.org/story/26/01/03/238257/new-tesla-video-shows-tesla-semi-electric-truck-charging-at-12-mw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/02/010257&amp;from=rss) - [Ozempic is Changing the Foods Americans Buy](https://soylentnews.org/article.pl?sid=26/01/02/010257&amp;from=rss)
 * [2026-01-04, 03:28:32](https://lobste.rs/s/za0nkg/building_tls_1_3_implementation_pure) - [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
-* [2026-01-04, 02:34:00](https://science.slashdot.org/story/26/01/03/2114246/what-happened-when-alaskas-court-system-tried-answering-questions-with-an-ai-chatbot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happened When Alaska&apos;s Court System Tried Answering Questions with an AI Chatbot?](https://science.slashdot.org/story/26/01/03/2114246/what-happened-when-alaskas-court-system-tried-answering-questions-with-an-ai-chatbot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-04, 00:30:46](https://lobste.rs/s/52bxvq/kde_onboarding_is_good_now) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-03, 23:48:00](https://soylentnews.org/article.pl?sid=26/01/02/0059210&amp;from=rss) - [Scientists Outline How to Control Light at the Atomic Scale Using Polaritons](https://soylentnews.org/article.pl?sid=26/01/02/0059210&amp;from=rss)
 * [2026-01-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/01/02/0056200&amp;from=rss) - [UK Company Shoots a 1,000-Degree Furnace Into Space to Study Off-World Chip Manufacturing](https://soylentnews.org/article.pl?sid=26/01/02/0056200&amp;from=rss)
 * [2026-01-03, 17:16:24](https://lobste.rs/s/o5e7gm/who_owns_memory_part_1_what_is_object) - [Who Owns the Memory? Part 1: What is an Object?](https://lukefleed.xyz/posts/who-owns-the-memory-pt1/)
 * [2026-01-03, 14:19:00](https://soylentnews.org/article.pl?sid=26/01/02/0051241&amp;from=rss) - [Start-Up Proposes Scaled Up AI Data Center &apos;Active Radio Cable&apos; Connectivity](https://soylentnews.org/article.pl?sid=26/01/02/0051241&amp;from=rss)
-* [2026-01-03, 11:47:26](https://lobste.rs/s/9zqi2z/who_s_hiring_q1_2026) - [Who&apos;s Hiring? Q1 2026](https://lobste.rs/s/9zqi2z/who_s_hiring_q1_2026)
 * [2026-01-03, 09:30:00](https://soylentnews.org/article.pl?sid=26/01/02/0043212&amp;from=rss) - [Thousands of Servers Exposed as MongoBleed Vulnerability Exploited](https://soylentnews.org/article.pl?sid=26/01/02/0043212&amp;from=rss)
+* [2026-01-03, 04:53:20](https://news.ycombinator.com/item?id=46472930) - [Revisiting the original Roomba and its simple architecture](https://robotsinplainenglish.com/e/2025-12-27-roomba.html)
 * [2026-01-03, 04:45:00](https://soylentnews.org/article.pl?sid=26/01/02/0038241&amp;from=rss) - [QNX Releases New Desktop-Focused Image: QNX 8.0 With Xfce on Wayland](https://soylentnews.org/article.pl?sid=26/01/02/0038241&amp;from=rss)
 * [2026-01-03, 00:04:00](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss) - [For Computational Devices, Talk Isn&apos;t Cheap](https://soylentnews.org/article.pl?sid=25/12/31/194236&amp;from=rss)
 * [2026-01-02, 21:54:56](https://news.ycombinator.com/item?id=46469877) - [I charged $18k for a Static HTML Page (2019)](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -159,11 +151,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-02, 00:21:00](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss) - [Funding Agencies Can End Profit-First Science Publishing](https://soylentnews.org/article.pl?sid=25/12/31/1843231&amp;from=rss)
 * [2026-01-01, 20:02:09](https://news.ycombinator.com/item?id=46457488) - [Six Harmless Bugs Lead to Remote Code Execution](https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/)
 * [2026-01-01, 19:38:00](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss) - [Aging Immune Cells May Rewrite Their Own DNA to Stay Inflammatory](https://soylentnews.org/article.pl?sid=25/12/31/029210&amp;from=rss)
+* [2026-01-01, 18:45:02](https://news.ycombinator.com/item?id=46456787) - [Monads in C# (Part 2): Result](https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/)
+* [2026-01-01, 15:27:28](https://news.ycombinator.com/item?id=46454824) - [Why Microsoft Store Discontinued Support for Office Apps](https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/)
 * [2026-01-01, 14:46:00](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss) - [Bye-Bye Microplastics: New Plastic is Recyclable and Fully Ocean-Degradable](https://soylentnews.org/article.pl?sid=25/12/31/027237&amp;from=rss)
 * [2026-01-01, 13:48:27](https://news.ycombinator.com/item?id=46454085) - [Logos Language Guide: Compile English to Rust](https://logicaffeine.com/guide)
 * [2026-01-01, 10:03:00](https://soylentnews.org/article.pl?sid=25/12/31/026206&amp;from=rss) - [D7VK Reaches Version 1.1 and Adds New Frontend and Experimental Direct3D 6 Support](https://soylentnews.org/article.pl?sid=25/12/31/026206&amp;from=rss)
 * [2026-01-01, 10:02:00](https://soylentnews.org/article.pl?sid=25/12/31/022234&amp;from=rss) - [Study Reveals Just How Much AI Slop is on YouTube](https://soylentnews.org/article.pl?sid=25/12/31/022234&amp;from=rss)
 * [2026-01-01, 05:15:00](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss) - [US Insurance Giant Aflac Says Hackers Stole Personal and Health Data of 22.6 Million People](https://soylentnews.org/article.pl?sid=25/12/31/020219&amp;from=rss)
-* [2026-01-01, 02:19:14](https://news.ycombinator.com/item?id=46450625) - [The great shift of English prose](https://www.worksinprogress.news/p/english-prose-has-become-much-easier)
 * [2026-01-01, 00:37:00](https://soylentnews.org/article.pl?sid=25/12/31/0148238&amp;from=rss) - [Not Everyone Reads the Room the Same](https://soylentnews.org/article.pl?sid=25/12/31/0148238&amp;from=rss)
 * [2026-01-01, 00:00:00](https://soylentnews.org/article.pl?sid=25/12/31/0616216&amp;from=rss) - [Happy New Year 2026 !](https://soylentnews.org/article.pl?sid=25/12/31/0616216&amp;from=rss)
