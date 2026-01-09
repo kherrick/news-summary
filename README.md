@@ -1,56 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Innovations
+## Open Source and Technology Advances
 
-* [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production) - Researchers develop sustainable and biodegradable paper batteries that could revolutionize energy storage.
+* [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/) ([comments](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for))
 
-* [Google Is Adding an 'AI Inbox' To Gmail That Summarizes Emails](https://tech.slashdot.org/story/26/01/08/2212216/google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails) - Google introduces AI-powered email summaries in Gmail.
+* [Project Patchouli - Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/) ([comments](https://lobste.rs/s/som9pn/project_patchouli_open_source))
 
-* [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro) - A powerful yet lightweight tool for voice cloning that operates efficiently on CPUs.
+* [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html) ([comments](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years))
 
-* [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/) - A novel approach to program evolution by harnessing large language models.
+* [How Terminals Work](https://how-terminals-work.vercel.app/) ([comments](https://lobste.rs/s/pza074/how_terminals_work))
 
-* [The Downside To Using AI for All Those Boring Tasks at Work](https://slashdot.org/story/26/01/08/1918257/the-downside-to-using-ai-for-all-those-boring-tasks-at-work?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring the limitations and challenges of AI replacing humans for mundane tasks.
+* [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) ([comments](https://news.ycombinator.com/item?id=46549823))
 
-## Scientific Discoveries and Innovations
+## AI and Its Impacts
 
-* [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The astonishing learning capabilities of dogs through listening and observation.
+* [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery) ([comments](https://news.ycombinator.com/item?id=46551238))
 
-* [Scientists Create a 'Periodic Table' for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&from=rss) - A new conceptual framework for understanding AI technologies.
+* [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) ([comments](https://news.ycombinator.com/item?id=46550231))
 
-* [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&from=rss) - An investigation into the elusive particles that might explain gravity.
+* [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades) ([comments](https://news.ycombinator.com/item?id=46542036))
 
-* [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html) - A study on a newly discovered virus that might shed light on life's evolutionary path.
+* [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro) ([comments](https://news.ycombinator.com/item?id=46546113))
 
-## Open Source and Software Advancements
+* [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902) ([comments](https://news.ycombinator.com/item?id=46545077))
 
-* [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Exploring Git's data model for better understanding and usage.
+## Privacy and Legal Concerns
 
-* [Template Parameter Deduction: Eliminating Hidden Copies in Generic Code](https://0xghost.dev/blog/template-parameter-deduction/) - A strategy to enhance the efficiency of generic programming.
+* [Illinois Health Department Exposed Over 700,000 Residents' Personal Data For Years](https://yro.slashdot.org/story/26/01/08/2217206/illinois-health-department-exposed-over-700000-residents-personal-data-for-years) ([comments](https://news.ycombinator.com/item?id=46549105))
 
-* [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy) - A cutting-edge Rust-based framework for embedding systems.
+* [Lawsuit Over OpenAI For-Profit Conversion Can Head To Trial, US Judge Says](https://yro.slashdot.org/story/26/01/08/2230229/lawsuit-over-openai-for-profit-conversion-can-head-to-trial-us-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46549105))
 
-* [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left) - The impact of AI progress on businesses like Tailwind Labs.
+* [French Court Orders Google DNS to Block Pirate Sites, Dismisses 'Cloudflare-First' Defense](https://yro.slashdot.org/story/26/01/08/224243/french-court-orders-google-dns-to-block-pirate-sites-dismisses-cloudflare-first-defense?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46547740))
 
-## Environmental and Societal Issues
+## Innovative Science and Discoveries
 
-* [Illinois Health Department Exposed Over 700,000 Residents' Personal Data For Years](https://yro.slashdot.org/story/26/01/08/2217206/illinois-health-department-exposed-over-700000-residents-personal-data-for-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A data breach affecting Illinois residents raises privacy concerns.
+* [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46550895))
 
-* [Iran in 'Digital Blackout' as Tehran Throttles Mobile Internet Access](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the effects of restricted digital access in Iran.
+* [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&from=rss) ([comments](https://news.ycombinator.com/item?id=46545231))
 
-* [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&from=rss) - The promise of algae as a sustainable solution in road construction.
+* [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46549606))
 
-* [Parkinson's is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&from=rss) - Parkinson's disease reflects greater environmental health issues.
+## Global News and Trends
 
-## Business, Economy, and Policy
+* [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&from=rss) ([comments](https://news.ycombinator.com/item?id=46550777))
 
-* [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success) - The distinction between economic resilience and political populism.
+* [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success) ([comments](https://news.ycombinator.com/item?id=46550777))
 
-* [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/) - Reflecting on challenges faced by the logistics industry.
-
-* [French Court Orders Google DNS to Block Pirate Sites, Dismisses 'Cloudflare-First' Defense](https://yro.slashdot.org/story/26/01/08/224243/french-court-orders-google-dns-to-block-pirate-sites-dismisses-cloudflare-first-defense?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal measures targeting piracy raise concerns over internet accessibility.
-
-* [Lawsuit Over OpenAI For-Profit Conversion Can Head To Trial, US Judge Says](https://yro.slashdot.org/story/26/01/08/2230229/lawsuit-over-openai-for-profit-conversion-can-head-to-trial-us-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A pivotal decision concerning OpenAI's structural transitions.
+* [Iran in 'Digital Blackout' as Tehran Throttles Mobile Internet Access](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46545620))
 
 ---
 
@@ -77,13 +73,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-09, 09:51:19](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
+* [2026-01-09, 09:30:10](https://lobste.rs/s/omlcbk/magicall_end_end_encrypted) - [Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha](https://magicall.online)
+* [2026-01-09, 08:10:31](https://news.ycombinator.com/item?id=46551238) - [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+* [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss)
+* [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+* [2026-01-09, 07:13:41](https://lobste.rs/s/som9pn/project_patchouli_open_source) - [Project Patchouli - Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
+* [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
+* [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+* [2026-01-09, 07:00:00](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 06:43:27](https://news.ycombinator.com/item?id=46550777) - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 * [2026-01-09, 05:08:49](https://lobste.rs/s/dhjdmc/template_parameter_deduction) - [Template Parameter Deduction: Eliminating Hidden Copies in Generic Code](https://0xghost.dev/blog/template-parameter-deduction/)
-* [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act Has a \&quot;Fingerprinting\&quot; Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
+* [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 * [2026-01-09, 03:30:00](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 03:24:00](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) - [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss)
-* [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
 * [2026-01-09, 02:13:09](https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic) - [I&apos;m making a game engine based on dynamic signed distance fields (SDFs)](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-09, 02:10:00](https://news.slashdot.org/story/26/01/08/2238227/youtube-will-now-let-you-filter-shorts-out-of-search-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Will Now Let You Filter Shorts Out of Search Results](https://news.slashdot.org/story/26/01/08/2238227/youtube-will-now-let-you-filter-shorts-out-of-search-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 01:39:52](https://news.ycombinator.com/item?id=46549105) - [Logistics Is Dying; Or – Dude, Where&apos;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
@@ -97,14 +101,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 22:46:18](https://lobste.rs/s/qpltv2/html_parsers_portland) - [HTML parsers in Portland](https://felix.dognebula.com/art/html-parsers-in-portland.html)
 * [2026-01-08, 22:38:00](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss) - [Ford Wants to Turn Your Sun Visor Into a Head-Up Display](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss)
 * [2026-01-08, 22:37:51](https://lobste.rs/s/lvny3j/year_typing_my_numpy_fellowship) - [A Year of Typing: My NumPy Fellowship Retrospective](https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/)
-* [2026-01-08, 22:24:50](https://news.ycombinator.com/item?id=46547345) - [Flint Confirms Biodegradable Paper Batteries Are Now in Production](https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production)
 * [2026-01-08, 22:22:06](https://lobste.rs/s/a2clkv/data_model_for_git) - [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
 * [2026-01-08, 22:19:06](https://lobste.rs/s/bjfsrd/why_semver_fails_when_you_patch_old) - [Why SemVer fails when you patch old versions and what to do instead](https://beza1e1.tuxen.de/patching_old_versions.html)
 * [2026-01-08, 22:10:00](https://mobile.slashdot.org/story/26/01/08/2151202/wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wi-Fi Advocates Get Win From FCC With Vote To Allow Higher-Power Devices](https://mobile.slashdot.org/story/26/01/08/2151202/wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 21:30:00](https://entertainment.slashdot.org/story/26/01/08/1925221/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Gap Between Premium and Budget TV Brands is Quickly Closing](https://entertainment.slashdot.org/story/26/01/08/1925221/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
 * [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
-* [2026-01-08, 20:56:32](https://news.ycombinator.com/item?id=46546349) - [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 * [2026-01-08, 20:44:00](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran in &apos;Digital Blackout&apos; as Tehran Throttles Mobile Internet Access](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 20:41:30](https://lobste.rs/s/fou2tb/jujutsu_v0_37_0_released) - [jujutsu v0.37.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.37.0)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
@@ -121,8 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a &apos;terrorist sympathizer.&apos; Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 * [2026-01-08, 18:05:00](https://it.slashdot.org/story/26/01/08/1756211/tailwind-css-lets-go-75-of-engineers-after-40-traffic-drop-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tailwind CSS Lets Go 75% Of Engineers After 40% Traffic Drop From Google](https://it.slashdot.org/story/26/01/08/1756211/tailwind-css-lets-go-75-of-engineers-after-40-traffic-drop-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/06/1120251&amp;from=rss) - [The French University Where Spies Go for Training](https://soylentnews.org/article.pl?sid=26/01/06/1120251&amp;from=rss)
-* [2026-01-08, 17:30:00](https://yro.slashdot.org/story/26/01/08/1729204/samsung-hit-with-restraining-order-over-smart-tv-surveillance-tech-in-texas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Hit with Restraining Order Over Smart TV Surveillance Tech in Texas](https://yro.slashdot.org/story/26/01/08/1729204/samsung-hit-with-restraining-order-over-smart-tv-surveillance-tech-in-texas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-08, 16:16:43](https://news.ycombinator.com/item?id=46542761) - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/)
 * [2026-01-08, 15:53:35](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years) - [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-08, 15:07:57](https://news.ycombinator.com/item?id=46541892) - [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
@@ -134,14 +134,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-08, 13:08:00](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss) - [A Post-American, Enshittification-Resistant Internet](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss)
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
-* [2026-01-08, 10:05:36](https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust) - [Introduction to SIMD programming in pure Rust](https://kerkour.com/introduction-rust-simd)
-* [2026-01-08, 09:24:25](https://lobste.rs/s/c6ot2d/lessons_from_hash_table_merging) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 * [2026-01-08, 08:19:00](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss) - [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
 * [2026-01-08, 05:38:11](https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms) - [Per-query energy consumption of LLMs](https://muxup.com/2026q1/per-query-energy-consumption-of-llms)
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
-* [2026-01-08, 04:10:34](https://lobste.rs/s/rnxxln/what_would_make_ocaml_serverless_ready) - [What would make OCaml serverless ready?](https://www.chrisarmstrong.dev/posts/what-would-make-ocaml-serverless-ready)
 * [2026-01-08, 03:36:00](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss) - [How Do I Make Clear Ice at Home? a Food Scientist Shares Easy Tips](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss)
 * [2026-01-07, 22:47:00](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss) - [Scientists Say Ozempic Could Change How You Feel After Drinking Alcohol](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
@@ -155,11 +152,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-06, 18:19:00](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss) - [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss)
 * [2026-01-06, 13:37:00](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss) - [Venus Cloud Research Highlights Value of Combining Light and Polarization Measurements](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss)
 * [2026-01-06, 08:44:00](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss) - [How Talking Slows Eye Movements Behind the Wheel](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss)
-* [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-Era Shoes Are Washing Up on a Beach in Wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
+* [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
 * [2026-01-06, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss) - [Mystery Solved: Scientists Discover Why Colorectal Cancer Defies Immune System Rules](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss)
 * [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss)
 * [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss) - [Parkinson&apos;s is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss)
-* [2026-01-05, 18:02:53](https://news.ycombinator.com/item?id=46502269) - [I used Lego to design a farm for people who are blind – like me](https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o)
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss)
 * [2026-01-05, 12:26:39](https://news.ycombinator.com/item?id=46497989) - [On Getting Hacked](https://ahmeto.com/post/on-getting-hacked)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss) - [How Do We Hold Companies Accountable for \&quot;Do as I Say, Not as I Do\&quot; Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss)
