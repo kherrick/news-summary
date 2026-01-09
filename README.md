@@ -1,52 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Open Source and Technology Advances
+## Technology Innovations and Cybersecurity
 
-* [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/) ([comments](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for))
+* [Fusion Physicists Found a Way Around a Long-Standing Density Limit](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Project Patchouli - Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/) ([comments](https://lobste.rs/s/som9pn/project_patchouli_open_source))
+* [Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha](https://magicall.online) ([comments](https://lobste.rs/s/omlcbk/magicall_end_end_encrypted))
 
-* [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html) ([comments](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years))
-
-* [How Terminals Work](https://how-terminals-work.vercel.app/) ([comments](https://lobste.rs/s/pza074/how_terminals_work))
-
-* [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) ([comments](https://news.ycombinator.com/item?id=46549823))
-
-## AI and Its Impacts
-
-* [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery) ([comments](https://news.ycombinator.com/item?id=46551238))
+* [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 * [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) ([comments](https://news.ycombinator.com/item?id=46550231))
 
-* [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades) ([comments](https://news.ycombinator.com/item?id=46542036))
+* [A Periodic Table for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/06/1126220&from=rss))
 
-* [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro) ([comments](https://news.ycombinator.com/item?id=46546113))
+## Creative Tools for Programmers and Developers
 
-* [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902) ([comments](https://news.ycombinator.com/item?id=46545077))
+* [Template Parameter Deduction: Eliminating Hidden Copies in Generic Code](https://0xghost.dev/blog/template-parameter-deduction/) ([comments](https://lobste.rs/s/dhjdmc/template_parameter_deduction))
 
-## Privacy and Legal Concerns
+* [Executable Markdown Files with Unix Pipes](https://news.ycombinator.com/item?id=46549444) ([comments](https://news.ycombinator.com/item?id=46549444))
 
-* [Illinois Health Department Exposed Over 700,000 Residents' Personal Data For Years](https://yro.slashdot.org/story/26/01/08/2217206/illinois-health-department-exposed-over-700000-residents-personal-data-for-years) ([comments](https://news.ycombinator.com/item?id=46549105))
+* [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/) ([comments](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought))
 
-* [Lawsuit Over OpenAI For-Profit Conversion Can Head To Trial, US Judge Says](https://yro.slashdot.org/story/26/01/08/2230229/lawsuit-over-openai-for-profit-conversion-can-head-to-trial-us-judge-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46549105))
+* [How I program in AWK](https://maximullaris.com/program-in-awk.html) ([comments](https://lobste.rs/s/bufcbw/how_i_program_awk))
 
-* [French Court Orders Google DNS to Block Pirate Sites, Dismisses 'Cloudflare-First' Defense](https://yro.slashdot.org/story/26/01/08/224243/french-court-orders-google-dns-to-block-pirate-sites-dismisses-cloudflare-first-defense?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46547740))
-
-## Innovative Science and Discoveries
-
-* [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46550895))
-
-* [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&from=rss) ([comments](https://news.ycombinator.com/item?id=46545231))
-
-* [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46549606))
-
-## Global News and Trends
-
-* [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&from=rss) ([comments](https://news.ycombinator.com/item?id=46550777))
-
-* [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success) ([comments](https://news.ycombinator.com/item?id=46550777))
-
-* [Iran in 'Digital Blackout' as Tehran Throttles Mobile Internet Access](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=46545620))
+* [Magicall: end-to-end encrypted video conferencing in the browser, now in alpha](https://magicall.online) ([comments](https://lobste.rs/s/omlcbk/magicall_end_end_encrypted)).
 
 ---
 
@@ -73,24 +49,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-09, 11:47:51](https://lobste.rs/s/sew4le/shell_scripts) - [Shell scripts](https://f5n.org/blog/2026/shell-scripts/)
+* [2026-01-09, 10:27:11](https://news.ycombinator.com/item?id=46552254) - [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
+* [2026-01-09, 10:00:00](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fusion Physicists Found a Way Around a Long-Standing Density Limit](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 09:51:19](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 09:30:10](https://lobste.rs/s/omlcbk/magicall_end_end_encrypted) - [Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha](https://magicall.online)
-* [2026-01-09, 08:10:31](https://news.ycombinator.com/item?id=46551238) - [Grok turns off image generator for most after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 * [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss)
-* [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+* [2026-01-09, 07:38:30](https://news.ycombinator.com/item?id=46551044) - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+* [2026-01-09, 07:26:51](https://lobste.rs/s/8l9ysn/jxl_rs_merged_into_chromium) - [jxl-rs merged into Chromium](https://github.com/chromium/chromium/commit/3badff27281339878293e935a5e0fbb41da553bf)
 * [2026-01-09, 07:13:41](https://lobste.rs/s/som9pn/project_patchouli_open_source) - [Project Patchouli - Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 * [2026-01-09, 07:09:39](https://news.ycombinator.com/item?id=46550912) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 * [2026-01-09, 07:00:00](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 06:43:27](https://news.ycombinator.com/item?id=46550777) - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 * [2026-01-09, 05:08:49](https://lobste.rs/s/dhjdmc/template_parameter_deduction) - [Template Parameter Deduction: Eliminating Hidden Copies in Generic Code](https://0xghost.dev/blog/template-parameter-deduction/)
 * [2026-01-09, 05:01:24](https://news.ycombinator.com/item?id=46550231) - [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 * [2026-01-09, 03:44:35](https://news.ycombinator.com/item?id=46549823) - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 * [2026-01-09, 03:30:00](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 03:24:00](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) - [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss)
+* [2026-01-09, 02:29:12](https://news.ycombinator.com/item?id=46549444) - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
 * [2026-01-09, 02:13:09](https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic) - [I&apos;m making a game engine based on dynamic signed distance fields (SDFs)](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-09, 02:10:00](https://news.slashdot.org/story/26/01/08/2238227/youtube-will-now-let-you-filter-shorts-out-of-search-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Will Now Let You Filter Shorts Out of Search Results](https://news.slashdot.org/story/26/01/08/2238227/youtube-will-now-let-you-filter-shorts-out-of-search-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 01:39:52](https://news.ycombinator.com/item?id=46549105) - [Logistics Is Dying; Or – Dude, Where&apos;s My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
 * [2026-01-09, 01:30:00](https://yro.slashdot.org/story/26/01/08/2230229/lawsuit-over-openai-for-profit-conversion-can-head-to-trial-us-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawsuit Over OpenAI For-Profit Conversion Can Head To Trial, US Judge Says](https://yro.slashdot.org/story/26/01/08/2230229/lawsuit-over-openai-for-profit-conversion-can-head-to-trial-us-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 01:17:51](https://news.ycombinator.com/item?id=46548940) - [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 * [2026-01-09, 00:50:00](https://yro.slashdot.org/story/26/01/08/2217206/illinois-health-department-exposed-over-700000-residents-personal-data-for-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Illinois Health Department Exposed Over 700,000 Residents&apos; Personal Data For Years](https://yro.slashdot.org/story/26/01/08/2217206/illinois-health-department-exposed-over-700000-residents-personal-data-for-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -106,7 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 22:10:00](https://mobile.slashdot.org/story/26/01/08/2151202/wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wi-Fi Advocates Get Win From FCC With Vote To Allow Higher-Power Devices](https://mobile.slashdot.org/story/26/01/08/2151202/wi-fi-advocates-get-win-from-fcc-with-vote-to-allow-higher-power-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 21:30:00](https://entertainment.slashdot.org/story/26/01/08/1925221/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Gap Between Premium and Budget TV Brands is Quickly Closing](https://entertainment.slashdot.org/story/26/01/08/1925221/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 21:17:26](https://news.ycombinator.com/item?id=46546614) - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
-* [2026-01-08, 21:01:36](https://news.ycombinator.com/item?id=46546413) - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
 * [2026-01-08, 20:44:00](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran in &apos;Digital Blackout&apos; as Tehran Throttles Mobile Internet Access](https://tech.slashdot.org/story/26/01/08/1929218/iran-in-digital-blackout-as-tehran-throttles-mobile-internet-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 20:41:30](https://lobste.rs/s/fou2tb/jujutsu_v0_37_0_released) - [jujutsu v0.37.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.37.0)
 * [2026-01-08, 20:37:07](https://news.ycombinator.com/item?id=46546113) - [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
@@ -116,12 +93,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 19:24:00](https://entertainment.slashdot.org/story/26/01/08/1912203/tv-makers-are-taking-ai-too-far?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TV Makers Are Taking AI Too Far](https://entertainment.slashdot.org/story/26/01/08/1912203/tv-makers-are-taking-ai-too-far?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 19:09:23](https://news.ycombinator.com/item?id=46545077) - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 * [2026-01-08, 19:05:23](https://lobste.rs/s/pza074/how_terminals_work) - [How Terminals Work](https://how-terminals-work.vercel.app/)
-* [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
+* [2026-01-08, 19:00:28](https://news.ycombinator.com/item?id=46544981) - [The unreasonable effectiveness of the Fourier transform](https://joshuawise.com/resources/ofdm/)
 * [2026-01-08, 18:45:00](https://science.slashdot.org/story/26/01/08/1832238/former-google-ceo-plans-to-singlehandedly-fund-a-hubble-telescope-replacement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Google CEO Plans To Singlehandedly Fund a Hubble Telescope Replacement](https://science.slashdot.org/story/26/01/08/1832238/former-google-ceo-plans-to-singlehandedly-fund-a-hubble-telescope-replacement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 18:29:47](https://news.ycombinator.com/item?id=46544610) - [Fixing a Buffer Overflow in Unix v4 Like It&apos;s 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2026-01-08, 18:24:17](https://news.ycombinator.com/item?id=46544524) - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
 * [2026-01-08, 18:05:02](https://news.ycombinator.com/item?id=46544276) - [He was called a &apos;terrorist sympathizer.&apos; Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
-* [2026-01-08, 18:05:00](https://it.slashdot.org/story/26/01/08/1756211/tailwind-css-lets-go-75-of-engineers-after-40-traffic-drop-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tailwind CSS Lets Go 75% Of Engineers After 40% Traffic Drop From Google](https://it.slashdot.org/story/26/01/08/1756211/tailwind-css-lets-go-75-of-engineers-after-40-traffic-drop-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-08, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/06/1120251&amp;from=rss) - [The French University Where Spies Go for Training](https://soylentnews.org/article.pl?sid=26/01/06/1120251&amp;from=rss)
 * [2026-01-08, 15:53:35](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years) - [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 * [2026-01-08, 15:20:15](https://news.ycombinator.com/item?id=46542036) - [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades)
@@ -130,14 +106,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 14:44:21](https://lobste.rs/s/swcy9e/improving_flatpak_graphics_drivers) - [Improving the Flatpak Graphics Drivers Situation](https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/)
 * [2026-01-08, 14:39:47](https://lobste.rs/s/g3boya/dialogue_between_developer_kid) - [Dialogue Between a Developer and a Kid](https://riggraz.dev/dialogue-developer.html)
 * [2026-01-08, 14:11:36](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought) - [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/)
-* [2026-01-08, 13:44:45](https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software) - [Some Things I&apos;ve Learned About Software](https://www.youtube.com/watch?v=RJgDW2AERr8)
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-08, 13:08:00](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss) - [A Post-American, Enshittification-Resistant Internet](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss)
 * [2026-01-08, 13:02:05](https://news.ycombinator.com/item?id=46540498) - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 * [2026-01-08, 08:19:00](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss) - [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
-* [2026-01-08, 05:38:11](https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms) - [Per-query energy consumption of LLMs](https://muxup.com/2026q1/per-query-energy-consumption-of-llms)
 * [2026-01-08, 04:39:55](https://news.ycombinator.com/item?id=46537253) - [Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes](https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html)
 * [2026-01-08, 03:36:00](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss) - [How Do I Make Clear Ice at Home? a Food Scientist Shares Easy Tips](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss)
 * [2026-01-07, 22:47:00](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss) - [Scientists Say Ozempic Could Change How You Feel After Drinking Alcohol](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss)
@@ -152,11 +126,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-06, 18:19:00](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss) - [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss)
 * [2026-01-06, 13:37:00](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss) - [Venus Cloud Research Highlights Value of Combining Light and Polarization Measurements](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss)
 * [2026-01-06, 08:44:00](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss) - [How Talking Slows Eye Movements Behind the Wheel](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss)
-* [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
+* [2026-01-06, 06:34:45](https://news.ycombinator.com/item?id=46509376) - [Mysterious Victorian-era shoes are washing up on a beach in Wales](https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/)
 * [2026-01-06, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss) - [Mystery Solved: Scientists Discover Why Colorectal Cancer Defies Immune System Rules](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss)
 * [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss)
 * [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss) - [Parkinson&apos;s is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss)
+* [2026-01-05, 16:29:10](https://news.ycombinator.com/item?id=46500798) - [How wolves became dogs](https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs)
 * [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss)
-* [2026-01-05, 12:26:39](https://news.ycombinator.com/item?id=46497989) - [On Getting Hacked](https://ahmeto.com/post/on-getting-hacked)
 * [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss) - [How Do We Hold Companies Accountable for \&quot;Do as I Say, Not as I Do\&quot; Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss)
 * [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He&apos;d Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss)
