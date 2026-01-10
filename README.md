@@ -1,72 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology Advancements and Innovations
 
-* [Garbage collected handles are lifetime-contravariant](https://trynova.dev/blog/garbage-collection-is-contrarian)
+* [Intel Is 'Going Big Time Into 14A,' Says CEO Lip-Bu Tan](https://hardware.slashdot.org/story/26/01/09/2231201/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel announces significant advancements into 14A technology, as stated by CEO Lip-Bu Tan. [Comments](https://hardware.slashdot.org/story/26/01/09/2231201/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
+* [Latest SteamOS Beta Now Includes NTSYNC Kernel Driver](https://games.slashdot.org/story/26/01/09/2058210/latest-steamos-beta-now-includes-ntsync-kernel-driver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The newest SteamOS beta release includes a new kernel driver, NTSYNC, designed to enhance system performance for gamers. [Comments](https://games.slashdot.org/story/26/01/09/2058210/latest-steamos-beta-now-includes-ntsync-kernel-driver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
+* [How Markdown took over the world](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/) - A deep dive into how Markdown became a ubiquitous tool for developers. [Comments](https://lobste.rs/s/6phxzm/how_markdown_took_over_world).
 
-* [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
+* [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254) - Deno announces its integration with Python’s PyPI, enabling better cross-language development. [Comments](https://news.ycombinator.com/item?id=46559761).
 
-* [Amazon's New Manager Dashboard Flags 'Low-Time Badgers' and 'Zero Badgers'](https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform) - An open-source compliance tool is launched to help companies adhere to the EU AI Act. [Comments](https://news.ycombinator.com/item?id=46557823).
 
-* [Making Tools Developers Actually Use](https://www.youtube.com/watch?v=119qVkHxPkM)
+## Artificial Intelligence and Machine Learning
 
-## Scientific Discoveries and Medical Advances
+* [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) - AI contributes to solving Erdos problem #728, highlighting advancements in AI-driven research. [Comments](https://news.ycombinator.com/item?id=46560445).
 
-* [The Golden Age of Vaccine Development](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [My article on why AI is great (or terrible) or how to use it](https://matthewrocklin.com/ai-zealotry/) - A discussion on the dual impact of AI development and practical tips for usage. [Comments](https://news.ycombinator.com/item?id=46557057).
 
-* [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
+* [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html) - Insights into effective AI usage through demonstration-based prompting. [Comments](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell).
 
-* [Fusion Physicists Found a Way Around a Long-Standing Density Limit](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Torvalds Tells Kernel Devs To Stop Debating AI Slop - Bad Actors Won't Follow the Rules Anyway](https://linux.slashdot.org/story/26/01/09/1649237/torvalds-tells-kernel-devs-to-stop-debating-ai-slop---bad-actors-wont-follow-the-rules-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linus Torvalds comments on the futility of debating AI misuse, emphasizing a focus on proactive actions. [Comments](https://linux.slashdot.org/story/26/01/09/1649237/torvalds-tells-kernel-devs-to-stop-debating-ai-slop---bad-actors-wont-follow-the-rules-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Scientific Discoveries and Health Innovations
 
-* [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer's](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss) - Promising new research unveils methods to aid brain recovery in Alzheimer's patients. [Comments](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss).
 
-## Digital Security and Cyber Issues
+* [The Golden Age of Vaccine Development](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The current era is described as revolutionary in vaccine development progress and innovation. [Comments](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack](https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/)
+## Business and Market Trends
 
-* [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
+* [CES Worst In Show Awards Call Out the Tech Making Things Worse](https://tech.slashdot.org/story/26/01/09/216254/ces-worst-in-show-awards-call-out-the-tech-making-things-worse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - CES 'Worst in Show' highlights technology that failed to live up to expectations or created more problems. [Comments](https://tech.slashdot.org/story/26/01/09/216254/ces-worst-in-show-awards-call-out-the-tech-making-things-worse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
+* [Microsoft Windows Media Player Stops Serving Up CD Album Info](https://news.slashdot.org/story/26/01/09/1742218/microsoft-windows-media-player-stops-serving-up-cd-album-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft phases out Windows Media Player's CD album info service. [Comments](https://news.slashdot.org/story/26/01/09/1742218/microsoft-windows-media-player-stops-serving-up-cd-album-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Gaming and Creative Projects
+* [Microsoft May Soon Allow IT Admins To Uninstall Copilot](https://it.slashdot.org/story/26/01/09/2219256/microsoft-may-soon-allow-it-admins-to-uninstall-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New feature from Microsoft could allow IT admins to remove Copilot under certain situations. [Comments](https://it.slashdot.org/story/26/01/09/2219256/microsoft-may-soon-allow-it-admins-to-uninstall-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
+## Miscellaneous Topics
 
-* [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
+* [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/) - A consideration for better productivity by starting meetings five minutes later. [Comments](https://news.ycombinator.com/item?id=46560217).
 
-* [Shell scripts](https://f5n.org/blog/2026/shell-scripts/)
-
-## Cultural and Industry Trends
-
-* [America Is Falling Out of Love With Pizza](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Craigslist at 30: No Algorithms, No Ads, No Problem](https://tech.slashdot.org/story/26/01/09/1618243/craigslist-at-30-no-algorithms-no-ads-no-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [London–Calcutta bus service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
-
-* [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
-
-## Environmental and Climate Insights
-
-* [Record Ocean Heat is Intensifying Climate Disasters, Data Shows](https://news.slashdot.org/story/26/01/09/148202/record-ocean-heat-is-intensifying-climate-disasters-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&from=rss)
-
-* [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&from=rss)
-
-## Historical Insights and Unique Finds
-
-* [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
-
-* [In 1962, a Geologist Went Into a Cave. 2 Months Later, He'd Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&from=rss)
-
-* [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&from=rss)
+* [America Is Falling Out of Love With Pizza](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cultural shift sees Americans turning away from their long love for pizza. [Comments](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -93,13 +67,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-10, 01:25:00](https://hardware.slashdot.org/story/26/01/09/2231201/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Is &apos;Going Big Time Into 14A,&apos; Says CEO Lip-Bu Tan](https://hardware.slashdot.org/story/26/01/09/2231201/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-10, 00:45:00](https://it.slashdot.org/story/26/01/09/2219256/microsoft-may-soon-allow-it-admins-to-uninstall-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft May Soon Allow IT Admins To Uninstall Copilot](https://it.slashdot.org/story/26/01/09/2219256/microsoft-may-soon-allow-it-admins-to-uninstall-copilot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-10, 00:23:05](https://news.ycombinator.com/item?id=46561286) - [See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears)
+* [2026-01-10, 00:08:24](https://lobste.rs/s/6phxzm/how_markdown_took_over_world) - [How Markdown took over the world](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/)
+* [2026-01-10, 00:02:00](https://tech.slashdot.org/story/26/01/09/2117206/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google: Don&apos;t Make &apos;Bite-Sized&apos; Content For LLMs If You Care About Search Rank](https://tech.slashdot.org/story/26/01/09/2117206/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-09, 23:20:00](https://tech.slashdot.org/story/26/01/09/216254/ces-worst-in-show-awards-call-out-the-tech-making-things-worse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CES Worst In Show Awards Call Out the Tech Making Things Worse](https://tech.slashdot.org/story/26/01/09/216254/ces-worst-in-show-awards-call-out-the-tech-making-things-worse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-09, 22:40:00](https://games.slashdot.org/story/26/01/09/2058210/latest-steamos-beta-now-includes-ntsync-kernel-driver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Latest SteamOS Beta Now Includes NTSYNC Kernel Driver](https://games.slashdot.org/story/26/01/09/2058210/latest-steamos-beta-now-includes-ntsync-kernel-driver?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-09, 22:39:15](https://news.ycombinator.com/item?id=46560445) - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
+* [2026-01-09, 22:20:00](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss) - [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer&apos;s](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss)
+* [2026-01-09, 22:19:03](https://news.ycombinator.com/item?id=46560217) - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
+* [2026-01-09, 22:02:00](https://yro.slashdot.org/story/26/01/09/2052239/italy-fines-cloudflare-14-million-euros-for-refusing-to-filter-pirate-sites-on-public-1111-dns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Italy Fines Cloudflare 14 Million Euros For Refusing To Filter Pirate Sites On Public 1.1.1.1 DNS](https://yro.slashdot.org/story/26/01/09/2052239/italy-fines-cloudflare-14-million-euros-for-refusing-to-filter-pirate-sites-on-public-1111-dns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-09, 21:41:27](https://news.ycombinator.com/item?id=46559761) - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
 * [2026-01-09, 21:25:00](https://news.slashdot.org/story/26/01/09/1742218/microsoft-windows-media-player-stops-serving-up-cd-album-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Windows Media Player Stops Serving Up CD Album Info](https://news.slashdot.org/story/26/01/09/1742218/microsoft-windows-media-player-stops-serving-up-cd-album-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 21:15:10](https://lobste.rs/s/jydyuw/garbage_collected_handles_are_lifetime) - [Garbage collected handles are lifetime-contravariant](https://trynova.dev/blog/garbage-collection-is-contrarian)
 * [2026-01-09, 20:41:00](https://news.slashdot.org/story/26/01/09/1832229/identity-and-ideology-in-the-school-boardroom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Identity and Ideology in the School Boardroom](https://news.slashdot.org/story/26/01/09/1832229/identity-and-ideology-in-the-school-boardroom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
 * [2026-01-09, 20:17:07](https://news.ycombinator.com/item?id=46558739) - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
 * [2026-01-09, 20:01:00](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Golden Age of Vaccine Development](https://science.slashdot.org/story/26/01/09/1755211/the-golden-age-of-vaccine-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
+* [2026-01-09, 19:33:47](https://news.ycombinator.com/item?id=46558148) - [RTX 5090 and Raspberry Pi: Can it game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 * [2026-01-09, 19:25:00](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America Is Falling Out of Love With Pizza](https://news.slashdot.org/story/26/01/09/1857257/america-is-falling-out-of-love-with-pizza?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 19:15:21](https://news.ycombinator.com/item?id=46557879) - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
 * [2026-01-09, 19:11:57](https://news.ycombinator.com/item?id=46557823) - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
@@ -107,7 +93,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-09, 18:47:25](https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x) - [How we made Python&apos;s packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-09, 18:44:00](https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s New Manager Dashboard Flags &apos;Low-Time Badgers&apos; and &apos;Zero Badgers&apos;](https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 18:38:34](https://news.ycombinator.com/item?id=46557352) - [Turn a single image into a navigable 3D Gaussian Splat with depth](https://lab.revelium.studio/ml-sharp)
-* [2026-01-09, 18:29:35](https://news.ycombinator.com/item?id=46557233) - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
+* [2026-01-09, 18:17:24](https://news.ycombinator.com/item?id=46557057) - [My article on why AI is great (or terrible) or how to use it](https://matthewrocklin.com/ai-zealotry/)
 * [2026-01-09, 18:15:16](https://news.ycombinator.com/item?id=46557029) - [Show HN: Scroll Wikipedia like TikTok](https://quack.sdan.io)
 * [2026-01-09, 18:05:00](https://linux.slashdot.org/story/26/01/09/1649237/torvalds-tells-kernel-devs-to-stop-debating-ai-slop---bad-actors-wont-follow-the-rules-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Torvalds Tells Kernel Devs To Stop Debating AI Slop - Bad Actors Won&apos;t Follow the Rules Anyway](https://linux.slashdot.org/story/26/01/09/1649237/torvalds-tells-kernel-devs-to-stop-debating-ai-slop---bad-actors-wont-follow-the-rules-anyway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 18:00:56](https://news.ycombinator.com/item?id=46556822) - [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit)
@@ -116,40 +102,30 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-09, 17:24:00](https://tech.slashdot.org/story/26/01/09/1618243/craigslist-at-30-no-algorithms-no-ads-no-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Craigslist at 30: No Algorithms, No Ads, No Problem](https://tech.slashdot.org/story/26/01/09/1618243/craigslist-at-30-no-algorithms-no-ads-no-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 17:17:28](https://news.ycombinator.com/item?id=46556210) - [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net)
 * [2026-01-09, 17:00:11](https://news.ycombinator.com/item?id=46555963) - [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118)
+* [2026-01-09, 16:49:59](https://news.ycombinator.com/item?id=46555807) - [Flock Hardcoded the Password for America&apos;s Surveillance Infrastructure 53 Times](https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure)
 * [2026-01-09, 16:46:48](https://news.ycombinator.com/item?id=46555760) - [Cloudflare CEO on the Italy fines](https://twitter.com/eastdakota/status/2009654937303896492)
 * [2026-01-09, 16:45:00](https://tech.slashdot.org/story/26/01/09/162240/ios-26-shows-unusually-slow-adoption-months-after-release?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iOS 26 Shows Unusually Slow Adoption Months After Release](https://tech.slashdot.org/story/26/01/09/162240/ios-26-shows-unusually-slow-adoption-months-after-release?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 16:36:48](https://news.ycombinator.com/item?id=46555615) - [SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack](https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/)
 * [2026-01-09, 16:36:27](https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use) - [Making Tools Developers Actually Use](https://www.youtube.com/watch?v=119qVkHxPkM)
-* [2026-01-09, 16:23:44](https://news.ycombinator.com/item?id=46555485) - [Cloudspecs: Cloud Hardware Evolution Through the Looking Glass](http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html)
 * [2026-01-09, 16:06:58](https://lobste.rs/s/1j4fbo/answer_set_programming_2019) - [Answer Set Programming (2019)](https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf)
 * [2026-01-09, 16:05:00](https://slashdot.org/story/26/01/09/1545239/amazon-wants-to-know-what-every-corporate-employee-accomplished-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Wants To Know What Every Corporate Employee Accomplished Last Year](https://slashdot.org/story/26/01/09/1545239/amazon-wants-to-know-what-every-corporate-employee-accomplished-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 15:30:00](https://it.slashdot.org/story/26/01/09/1516254/send-to-kindle-from-microsoft-word-is-discontinued?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Send To Kindle from Microsoft Word is Discontinued](https://it.slashdot.org/story/26/01/09/1516254/send-to-kindle-from-microsoft-word-is-discontinued?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 15:29:37](https://news.ycombinator.com/item?id=46554897) - [Amiga Pointer Archive](https://heckmeck.de/pointers/)
 * [2026-01-09, 15:21:19](https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend)
 * [2026-01-09, 15:18:36](https://lobste.rs/s/nx9uwg/which_programming_languages_are_most) - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
 * [2026-01-09, 15:16:22](https://lobste.rs/s/hmlt2f/handling_secrets_somewhat_securely) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
-* [2026-01-09, 14:59:00](https://slashdot.org/story/26/01/09/1459249/why-care-about-debt-to-gdp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why Care About Debt-to-GDP?](https://slashdot.org/story/26/01/09/1459249/why-care-about-debt-to-gdp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 14:57:14](https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine) - [I Cannot SSH Into My Server Anymore (And That’s Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
-* [2026-01-09, 14:50:48](https://news.ycombinator.com/item?id=46554462) - [London–Calcutta bus service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
 * [2026-01-09, 14:43:39](https://lobste.rs/s/1eqclp/slidge_im_gateways_from_xmpp_other) - [slidge.im - Gateways from XMPP to Other Networks](https://slidge.im/)
 * [2026-01-09, 14:21:33](https://lobste.rs/s/yvgsct/automatic_tls_certificates_for_common) - [Automatic TLS Certificates for Common Lisp with pure-tls/acme](https://atgreen.github.io/repl-yell/posts/pure-tls-acme/)
-* [2026-01-09, 14:07:00](https://news.slashdot.org/story/26/01/09/148202/record-ocean-heat-is-intensifying-climate-disasters-data-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Record Ocean Heat is Intensifying Climate Disasters, Data Shows](https://news.slashdot.org/story/26/01/09/148202/record-ocean-heat-is-intensifying-climate-disasters-data-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 13:32:39](https://lobste.rs/s/3o5wil/celeste_towerfall_physics) - [Celeste &amp; TowerFall Physics](https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html)
+* [2026-01-09, 12:54:48](https://news.ycombinator.com/item?id=46553343) - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 * [2026-01-09, 12:53:00](https://soylentnews.org/article.pl?sid=26/01/07/1246247&amp;from=rss) - [OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens](https://soylentnews.org/article.pl?sid=26/01/07/1246247&amp;from=rss)
 * [2026-01-09, 11:47:51](https://lobste.rs/s/sew4le/shell_scripts) - [Shell scripts](https://f5n.org/blog/2026/shell-scripts/)
-* [2026-01-09, 10:00:00](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fusion Physicists Found a Way Around a Long-Standing Density Limit](https://science.slashdot.org/story/26/01/09/0319216/fusion-physicists-found-a-way-around-a-long-standing-density-limit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 09:51:19](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 * [2026-01-09, 09:30:10](https://lobste.rs/s/omlcbk/magicall_end_end_encrypted) - [Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha](https://magicall.online)
 * [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss)
 * [2026-01-09, 07:26:51](https://lobste.rs/s/8l9ysn/jxl_rs_merged_into_chromium) - [jxl-rs merged into Chromium](https://github.com/chromium/chromium/commit/3badff27281339878293e935a5e0fbb41da553bf)
-* [2026-01-09, 07:06:41](https://news.ycombinator.com/item?id=46550895) - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
-* [2026-01-09, 07:00:00](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ultimate Camouflage Tech Mimics Octopus In Scientific First](https://science.slashdot.org/story/26/01/09/0312218/ultimate-camouflage-tech-mimics-octopus-in-scientific-first?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-09, 05:44:58](https://news.ycombinator.com/item?id=46550453) - [Agonist-Antagonist Myoneural Interface](https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/)
-* [2026-01-09, 03:30:00](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Super-Smart Dogs Can Learn New Words Just By Eavesdropping](https://science.slashdot.org/story/26/01/08/2249216/some-super-smart-dogs-can-learn-new-words-just-by-eavesdropping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-09, 03:24:00](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) - [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss)
 * [2026-01-09, 02:13:01](https://news.ycombinator.com/item?id=46549333) - [Show HN: Various shape regularization algorithms](https://github.com/nickponline/shreg)
-* [2026-01-09, 01:59:32](https://news.ycombinator.com/item?id=46549231) - [Show HN: A website that auctions itself daily](https://www.thedailyauction.com/)
 * [2026-01-08, 23:24:30](https://news.ycombinator.com/item?id=46547962) - [Scientists discover oldest poison, on 60k-year-old arrows](https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html)
 * [2026-01-08, 22:38:00](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss) - [Ford Wants to Turn Your Sun Visor Into a Head-Up Display](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss)
 * [2026-01-08, 22:22:06](https://lobste.rs/s/a2clkv/data_model_for_git) - [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
@@ -163,23 +139,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-08, 13:08:00](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss) - [A Post-American, Enshittification-Resistant Internet](https://soylentnews.org/article.pl?sid=26/01/06/1049201&amp;from=rss)
 * [2026-01-08, 08:19:00](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss) - [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss)
-* [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
 * [2026-01-08, 03:36:00](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss) - [How Do I Make Clear Ice at Home? a Food Scientist Shares Easy Tips](https://soylentnews.org/article.pl?sid=26/01/06/0751234&amp;from=rss)
 * [2026-01-07, 22:47:00](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss) - [Scientists Say Ozempic Could Change How You Feel After Drinking Alcohol](https://soylentnews.org/article.pl?sid=26/01/06/0744236&amp;from=rss)
 * [2026-01-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/01/06/0740234&amp;from=rss) - [China Leads Research in 90% of Crucial Technologies](https://soylentnews.org/article.pl?sid=26/01/06/0740234&amp;from=rss)
 * [2026-01-07, 13:17:00](https://soylentnews.org/article.pl?sid=26/01/06/0727248&amp;from=rss) - [Stingless Bees from the Amazon Granted Legal Rights in World First](https://soylentnews.org/article.pl?sid=26/01/06/0727248&amp;from=rss)
-* [2026-01-07, 09:57:33](https://news.ycombinator.com/item?id=46524519) - [CI-Hush](https://gitlab.com/jjg/ci-hush)
+* [2026-01-07, 12:01:30](https://news.ycombinator.com/item?id=46525410) - [Ragdoll Mayhem Maker – a physics-based level editor for my indie game](https://ragdollmayhemmaker.com/)
 * [2026-01-07, 08:31:00](https://soylentnews.org/article.pl?sid=26/01/06/0722246&amp;from=rss) - [Lisuan&apos;s G100 Series Has Reportedly Begun Shipping Out to Customers in First Batch of Deliveries](https://soylentnews.org/article.pl?sid=26/01/06/0722246&amp;from=rss)
 * [2026-01-07, 03:47:00](https://soylentnews.org/article.pl?sid=26/01/05/1230257&amp;from=rss) - [China Mandates 50% Domestic Equipment Rule for Chipmakers](https://soylentnews.org/article.pl?sid=26/01/05/1230257&amp;from=rss)
 * [2026-01-06, 23:01:00](https://soylentnews.org/article.pl?sid=26/01/05/1222243&amp;from=rss) - [Blu-Ray Hits 20 Years Old, and It Isn&apos;t Dead Yet](https://soylentnews.org/article.pl?sid=26/01/05/1222243&amp;from=rss)
 * [2026-01-06, 18:19:00](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss) - [Strengthening Asphalt Roads With a Unique Green Ingredient: Algae](https://soylentnews.org/article.pl?sid=26/01/03/0139235&amp;from=rss)
-* [2026-01-06, 16:36:50](https://news.ycombinator.com/item?id=46514559) - [Show HN: Repogen – a static site generator for package repositories](https://github.com/ralt/repogen)
 * [2026-01-06, 13:37:00](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss) - [Venus Cloud Research Highlights Value of Combining Light and Polarization Measurements](https://soylentnews.org/article.pl?sid=26/01/03/0137246&amp;from=rss)
 * [2026-01-06, 13:23:39](https://news.ycombinator.com/item?id=46511903) - [Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side](https://puzer.github.io/github_recommender/)
 * [2026-01-06, 08:44:00](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss) - [How Talking Slows Eye Movements Behind the Wheel](https://soylentnews.org/article.pl?sid=26/01/03/0135207&amp;from=rss)
 * [2026-01-06, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss) - [Mystery Solved: Scientists Discover Why Colorectal Cancer Defies Immune System Rules](https://soylentnews.org/article.pl?sid=26/01/03/0133238&amp;from=rss)
-* [2026-01-05, 23:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss) - [The Worst CPUs Ever Made](https://soylentnews.org/article.pl?sid=26/01/02/1627244&amp;from=rss)
-* [2026-01-05, 18:37:00](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss) - [Parkinson&apos;s is the Canary in the Coal Mine Warning Us That Our Environment is Sick](https://soylentnews.org/article.pl?sid=26/01/02/1618258&amp;from=rss)
-* [2026-01-05, 13:53:00](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss) - [U.S. Allows TSMC to Import Chipmaking Equipment to its China Fabs](https://soylentnews.org/politics/article.pl?sid=26/01/02/1617210&amp;from=rss)
-* [2026-01-05, 09:03:00](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss) - [How Do We Hold Companies Accountable for \&quot;Do as I Say, Not as I Do\&quot; Security Practices?](https://soylentnews.org/article.pl?sid=26/01/02/1614239&amp;from=rss)
-* [2026-01-05, 04:19:00](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss) - [In 1962, a Geologist Went Into a Cave. 2 Months Later, He&apos;d Accidentally Invented a New Field](https://soylentnews.org/article.pl?sid=26/01/02/1613215&amp;from=rss)
