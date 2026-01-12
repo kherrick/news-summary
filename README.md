@@ -1,44 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Economic Updates and Financial News
+## Technological Advancements and Open Source
 
-* [Statement by Federal Reserve Chair Jerome F. Powell [video]](https://www.youtube.com/watch?v=KckGHaBLSn4) ([Comments](https://news.ycombinator.com/item?id=46582441))
+* [Patela v2: From certificates to hardware](https://osservatorionessuno.org/blog/2025/12/patela-v2-from-certificates-to-hardware/) ([comments](https://lobste.rs/s/hibsvc/patela_v2_from_certificates_hardware)): A new development in digital transformation, focusing on certificates to hardware implementation.
 
-* [Jerome Powell Responds](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm) ([Comments](https://news.ycombinator.com/item?id=46582420))
+* [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss)): Bose releases the source code for its discontinued SoundTouch speakers.
 
-## AI Trends and Innovations
+* [China Tests a Supercritical CO2 Generator in Commercial Operation](https://hardware.slashdot.org/story/26/01/10/188208/china-tests-a-supercritical-co2-generator-in-commercial-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/01/10/188208/china-tests-a-supercritical-co2-generator-in-commercial-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A promising test of a supercritical CO2 generator for energy efficiency.
 
-* [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities) ([Comments](https://news.ycombinator.com/item?id=46581832))
+## Environmental and Scientific Insights
 
-* [ Nvidia CEO Jensen Huang Says AI Doomerism Has 'Done a Lot of Damage'](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=46580946))
+* [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o) ([comments](https://news.ycombinator.com/item?id=46583464)): A look at the environmental impact of climate change on the Himalayas.
 
-* [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461) ([Comments](https://news.ycombinator.com/item?id=46578701))
+* [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss)): Innovative methods to track dark matter through runaway stars.
 
-* [Meta announces nuclear energy projects](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/) ([Comments](https://news.ycombinator.com/item?id=46578497))
+* [Nature-Inspired Computers Are Shockingly Good At Math](https://science.slashdot.org/story/26/01/10/0628251/nature-inspired-computers-are-shockingly-good-at-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/10/0628251/nature-inspired-computers-are-shockingly-good-at-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Research showcases the potential of nature-inspired computational systems.
 
-## Tech Innovations and Software Projects
+## Safe and Ethical AI
 
-* [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/) ([Comments](https://news.ycombinator.com/item?id=46580864))
+* [Amazon's AI Tool Listed Products from Small Businesses Without Their Knowledge](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Ethical concerns about Amazon's AI practices and its impact on small businesses.
 
-* [Gentoo Linux Plans Migration from GitHub Over 'Attempts to Force Copilot Usage for Our Repositories'](https://linux.slashdot.org/story/26/01/11/1926219/gentoo-linux-plans-migration-from-github-over-attempts-to-force-copilot-usage-for-our-repositories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=46580326))
+* [Nvidia CEO Jensen Huang Says AI Doomerism Has 'Done a Lot of Damage'](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Nvidia's CEO shares insights on how misconceptions about AI hinder progress.
 
-* [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon) ([Comments](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon))
+* [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities) ([comments](https://news.ycombinator.com/item?id=46581832)): A creative exploration of integrating zodiac traits into AI behavior.
 
-## Space and Science Highlights
+## Programming and Software Development
 
-* [How Many Years Left Until the Hubble Space Telescope Reenters Earth's Atmosphere?](https://science.slashdot.org/story/26/01/11/2023211/how-many-years-left-until-the-hubble-space-telescope-reenters-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/01/11/2023211/how-many-years-left-until-the-hubble-space-telescope-reenters-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md) ([comments](https://news.ycombinator.com/item?id=46583581)): A new programming language tailored for large language models (LLMs).
 
-* [Some People Get Drunk Without Drinking and Scientists Finally Know Why](https://soylentnews.org/article.pl?sid=26/01/09/1830221&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/01/09/1830221&amp;from=rss))
+* [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/) ([comments](https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake)): Innovations in error handling for safer software applications.
 
-* [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss))
+* [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health) ([comments](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy)): Strategies for maintaining large GPU clusters in high-performance computing.
 
-* [The Search for Gravitons: Modifying Gravity Waves With Light](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/01/06/1042201&amp;from=rss))
+## Privacy and Security
 
-## Privacy and Security Matters
+* [The Nation's Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss)): An examination of comprehensive new privacy legislation designed to protect user data.
 
-* [Personal Info on 17.5 Million Users May Have Leaked to Dark Web After 2024 Instagram Breach](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [The Nation's Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss))
+* [Personal Info on 17.5 Million Users May Have Leaked to Dark Web After 2024 Instagram Breach](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): The extent and implications of a large-scale Instagram data breach.
 
 ---
 
@@ -65,24 +63,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-12, 01:05:20](https://news.ycombinator.com/item?id=46582441) - [Statement by Federal Reserve Chair Jerome F. Powell [video]](https://www.youtube.com/watch?v=KckGHaBLSn4)
-* [2026-01-12, 01:02:48](https://news.ycombinator.com/item?id=46582420) - [Jerome Powell Responds](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm)
+* [2026-01-12, 03:15:19](https://lobste.rs/s/hibsvc/patela_v2_from_certificates_hardware) - [Patela v2: From certificates to hardware](https://osservatorionessuno.org/blog/2025/12/patela-v2-from-certificates-to-hardware/)
+* [2026-01-12, 03:11:49](https://news.ycombinator.com/item?id=46583581) - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
+* [2026-01-12, 03:09:00](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s AI Tool Listed Products from Small Businesses Without Their Knowledge](https://slashdot.org/story/26/01/12/036215/amazons-ai-tool-listed-products-from-small-businesses-without-their-knowledge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-12, 02:58:01](https://news.ycombinator.com/item?id=46583464) - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
+* [2026-01-12, 02:51:04](https://news.ycombinator.com/item?id=46583410) - [Code is cheap now, but software isn&apos;t](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
+* [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss)
+* [2026-01-12, 01:56:34](https://lobste.rs/s/prsi0f/rethinking_helix) - [Rethinking Helix](https://asta.boserup.eu/forest/rethinking-helix/)
+* [2026-01-12, 01:36:26](https://news.ycombinator.com/item?id=46582728) - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+* [2026-01-12, 00:15:36](https://news.ycombinator.com/item?id=46582033) - [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
 * [2026-01-11, 23:49:15](https://news.ycombinator.com/item?id=46581832) - [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 * [2026-01-11, 23:47:34](https://lobste.rs/s/yvgfh8/struggle_resizing_windows_on_macos_tahoe) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 23:29:00](https://tech.slashdot.org/story/26/01/11/214203/finnish-startup-ixi-plans-new-autofocusing-eyeglasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finnish Startup IXI Plans New Autofocusing Eyeglasses](https://tech.slashdot.org/story/26/01/11/214203/finnish-startup-ixi-plans-new-autofocusing-eyeglasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
-* [2026-01-11, 22:54:09](https://lobste.rs/s/5zmukc/tuning_random_generators_property_based) - [Tuning Random Generators: Property-Based Testing as Probabilistic Programming](https://web.cs.ucla.edu/~todd/research/oopsla25a.pdf)
+* [2026-01-11, 23:06:18](https://news.ycombinator.com/item?id=46581431) - [Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal](https://dioptre.github.io/tidal/)
 * [2026-01-11, 22:29:00](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Nvidia CEO Jensen Huang Says AI Doomerism Has &apos;Done a Lot of Damage&apos;](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-11, 22:20:17](https://news.ycombinator.com/item?id=46580946) - [I&apos;d tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
 * [2026-01-11, 22:14:35](https://news.ycombinator.com/item?id=46580864) - [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-* [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
+* [2026-01-11, 22:00:24](https://news.ycombinator.com/item?id=46580703) - [The next two years of software engineering](https://addyosmani.com/blog/next-two-years/)
+* [2026-01-11, 21:55:34](https://news.ycombinator.com/item?id=46580652) - [Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults](https://news.ycombinator.com/item?id=46580652)
 * [2026-01-11, 21:52:00](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss) - [Dell Reveals People Don&apos;t Care About AI in PCs – and a New Truly Embarrassing Windows 11 Fail ](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss)
-* [2026-01-11, 21:40:24](https://lobste.rs/s/vnzeuh/when_msvc_musttail_attribute_silently) - [When msvc::musttail attribute silently fails](https://www.abareplace.com/blog/musttail/)
-* [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [CLI agents like Claude Code make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
+* [2026-01-11, 21:29:57](https://news.ycombinator.com/item?id=46580326) - [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
 * [2026-01-11, 21:29:18](https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake) - [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/)
 * [2026-01-11, 21:29:00](https://science.slashdot.org/story/26/01/11/2023211/how-many-years-left-until-the-hubble-space-telescope-reenters-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Many Years Left Until the Hubble Space Telescope Reenters Earth&apos;s Atmosphere?](https://science.slashdot.org/story/26/01/11/2023211/how-many-years-left-until-the-hubble-space-telescope-reenters-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-11, 21:12:45](https://news.ycombinator.com/item?id=46580136) - [FUSE is All You Need – Giving agents access to anything via filesystems](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
-* [2026-01-11, 20:52:44](https://news.ycombinator.com/item?id=46579927) - [BYD&apos;s cheapest electric cars to have Lidar self-driving tech](https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)
 * [2026-01-11, 20:29:00](https://tech.slashdot.org/story/26/01/11/1953234/walmart-announces-drone-delivery-integration-with-googles-ai-chatbot-gemini?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart Announces Drone Delivery, Integration with Google&apos;s AI Chatbot Gemini](https://tech.slashdot.org/story/26/01/11/1953234/walmart-announces-drone-delivery-integration-with-googles-ai-chatbot-gemini?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -92,11 +96,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-11, 19:33:42](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy) - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health)
 * [2026-01-11, 19:32:26](https://lobste.rs/s/1mjti7/1160_prs_improve_rust_2025) - [1160 PRs to improve Rust in 2025](https://kobzol.github.io/rust/rustc/2026/01/05/my-rust-contributions-in-2025.html)
 * [2026-01-11, 19:29:00](https://linux.slashdot.org/story/26/01/11/1926219/gentoo-linux-plans-migration-from-github-over-attempts-to-force-copilot-usage-for-our-repositories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gentoo Linux Plans Migration from GitHub Over &apos;Attempts to Force Copilot Usage for Our Repositories&apos;](https://linux.slashdot.org/story/26/01/11/1926219/gentoo-linux-plans-migration-from-github-over-attempts-to-force-copilot-usage-for-our-repositories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-11, 19:26:13](https://news.ycombinator.com/item?id=46578957) - [\&quot;Scholars Will Call It Nonsense\&quot;: The Structure of von Däniken&apos;s Argument (1987)](https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/)
 * [2026-01-11, 19:23:58](https://news.ycombinator.com/item?id=46578921) - [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 * [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
-* [2026-01-11, 19:07:08](https://news.ycombinator.com/item?id=46578701) - [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461)
-* [2026-01-11, 18:49:32](https://news.ycombinator.com/item?id=46578497) - [Meta announces nuclear energy projects](https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/)
 * [2026-01-11, 18:22:51](https://lobste.rs/s/w2rtvh/gomponents_html_components_pure_go) - [gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 17:34:00](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Personal Info on 17.5 Million Users May Have Leaked to Dark Web After 2024 Instagram Breach](https://tech.slashdot.org/story/26/01/10/2247226/personal-info-on-175-million-users-may-have-leaked-to-dark-web-after-2024-instagram-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -111,8 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-11, 12:51:19](https://lobste.rs/s/k7xslg/pmu_counters_on_apple_silicon) - [PMU Counters on Apple Silicon](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-11, 12:34:00](https://news.slashdot.org/story/26/01/11/0223235/cory-doctorow-legalising-reverse-engineering-could-end-enshittification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cory Doctorow: Legalising Reverse Engineering Could End &apos;Enshittification&apos;](https://news.slashdot.org/story/26/01/11/0223235/cory-doctorow-legalising-reverse-engineering-could-end-enshittification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-11, 12:26:00](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss) - [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss)
-* [2026-01-11, 11:38:52](https://news.ycombinator.com/item?id=46574769) - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
-* [2026-01-11, 11:31:22](https://news.ycombinator.com/item?id=46574707) - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
 * [2026-01-11, 11:20:57](https://lobste.rs/s/ftwkvo/hobbyist_maintainer_economic_gravity) - [The Hobbyist Maintainer Economic Gravity Well](https://softwaremaxims.com/blog/hobbyist-gravity-well)
 * [2026-01-11, 10:41:50](https://lobste.rs/s/djvda5/create_semi_working_desktop_only_based_on) - [Create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer](https://tech.lgbt/@nina_kali_nina/115871854239918291)
 * [2026-01-11, 10:26:18](https://news.ycombinator.com/item?id=46574276) - [Don&apos;t fall into the anti-AI hype](https://antirez.com/news/158)
@@ -123,13 +122,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-11, 07:28:52](https://lobste.rs/s/r1wjyf/80_rye_20_time_1_3) - [80% of Rye in 20% of the Time [1/3]](https://ryelang.org/blog/posts/learn_80_rye_in_20_time_code/)
 * [2026-01-11, 07:24:00](https://soylentnews.org/article.pl?sid=26/01/10/015202&amp;from=rss) - [Virginia&apos;s Datacenter Tax Breaks Cost State $1.6B in 2025](https://soylentnews.org/article.pl?sid=26/01/10/015202&amp;from=rss)
 * [2026-01-11, 05:34:00](https://tech.slashdot.org/story/26/01/11/038252/elon-musk-xs-new-algorithm-will-be-made-open-source-in-seven-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk: X&apos;s New Algorithm Will Be Made Open Source in Seven Days](https://tech.slashdot.org/story/26/01/11/038252/elon-musk-xs-new-algorithm-will-be-made-open-source-in-seven-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-11, 05:33:20](https://news.ycombinator.com/item?id=46572968) - [Quake 1 Single-Player Map Design Theories (2001)](https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html)
 * [2026-01-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/01/09/1830221&amp;from=rss) - [Some People Get Drunk Without Drinking and Scientists Finally Know Why](https://soylentnews.org/article.pl?sid=26/01/09/1830221&amp;from=rss)
 * [2026-01-11, 02:34:00](https://science.slashdot.org/story/26/01/10/0628251/nature-inspired-computers-are-shockingly-good-at-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nature-Inspired Computers Are Shockingly Good At Math](https://science.slashdot.org/story/26/01/10/0628251/nature-inspired-computers-are-shockingly-good-at-math?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-10, 22:34:00](https://linux.slashdot.org/story/26/01/10/2231218/four-more-tech-bloggers-are-switching-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Four More Tech Bloggers Are Switching to Linux](https://linux.slashdot.org/story/26/01/10/2231218/four-more-tech-bloggers-are-switching-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-10, 22:10:00](https://soylentnews.org/article.pl?sid=26/01/09/1828213&amp;from=rss) - [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&amp;from=rss)
 * [2026-01-10, 21:34:00](https://tech.slashdot.org/story/26/01/10/217207/ai-powered-social-media-app-hopes-to-build-more-purposeful-lives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Powered Social Media App Hopes To Build More Purposeful Lives](https://tech.slashdot.org/story/26/01/10/217207/ai-powered-social-media-app-hopes-to-build-more-purposeful-lives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-10, 20:34:00](https://it.slashdot.org/story/26/01/10/1926209/ai-fails-at-most-remote-work-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Fails at Most Remote Work, Researchers Find](https://it.slashdot.org/story/26/01/10/1926209/ai-fails-at-most-remote-work-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-10, 20:05:25](https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory) - [Finding and Fixing Ghostty&apos;s Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
 * [2026-01-10, 17:27:00](https://soylentnews.org/article.pl?sid=26/01/09/1824225&amp;from=rss) - [Bali Wants Three Months of Bank Account Statements to Visit ](https://soylentnews.org/article.pl?sid=26/01/09/1824225&amp;from=rss)
@@ -137,9 +134,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-10, 07:53:00](https://soylentnews.org/article.pl?sid=26/01/09/1820256&amp;from=rss) - [Renowned Mathematician Joel David Hamkins Declares AI Models Useless for Solving Math](https://soylentnews.org/article.pl?sid=26/01/09/1820256&amp;from=rss)
 * [2026-01-10, 03:09:00](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss) - [The Nation&apos;s Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss)
 * [2026-01-09, 22:20:00](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss) - [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer&apos;s](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss)
+* [2026-01-09, 21:15:37](https://news.ycombinator.com/item?id=46559452) - [Garbage collection is contrarian](https://trynova.dev/blog/garbage-collection-is-contrarian)
 * [2026-01-09, 17:36:00](https://soylentnews.org/article.pl?sid=26/01/08/0319211&amp;from=rss) - [Palo Alto Networks Security-Intel Boss Calls AI Agents 2026&apos;S Biggest Insider Threat](https://soylentnews.org/article.pl?sid=26/01/08/0319211&amp;from=rss)
 * [2026-01-09, 12:53:00](https://soylentnews.org/article.pl?sid=26/01/07/1246247&amp;from=rss) - [OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens](https://soylentnews.org/article.pl?sid=26/01/07/1246247&amp;from=rss)
-* [2026-01-09, 09:01:33](https://news.ycombinator.com/item?id=46551602) - [C++ std::move doesn&apos;t move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
+* [2026-01-09, 08:29:25](https://news.ycombinator.com/item?id=46551352) - [Moving Scratch generation to Python on browser](https://kushaldas.in/posts/introducing-ektupy.html)
 * [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss)
 * [2026-01-09, 03:24:00](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) - [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss)
 * [2026-01-08, 22:38:00](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss) - [Ford Wants to Turn Your Sun Visor Into a Head-Up Display](https://soylentnews.org/article.pl?sid=26/01/06/1123219&amp;from=rss)
