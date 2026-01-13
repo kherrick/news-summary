@@ -1,38 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Technology and Development
 
-* [Detecting MIME Types in Go](https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/) - A guide on detecting and identifying various MIME types using Go. [Comments](https://lobste.rs/s/qk9tqb/detecting_mime_types_go)
+* [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/) - A shift in JavaScript date handling introduces the new Temporal API, set to replace the problematic Date object. [Comments](https://lobste.rs/s/ui99tz/date_is_out_temporal_is).
 
-* [Your CLI&apos;s completion should know what options you&apos;ve already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion) - A discussion on creating a smarter, context-aware command-line interface for better user experience. [Comments](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what)
+* [How GitHub could secure npm](https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/) - An exploration of potential strategies for improving npm security under GitHub's custody. [Comments](https://lobste.rs/s/dvcaun/how_github_could_secure_npm).
 
-* [Grounding LLMs with Recursive Code Execution](https://yogthos.net/posts/2026-01-12-recursive-language-model.html) - Exploring how recursive code execution can enhance the utility of Large Language Models. [Comments](https://lobste.rs/s/o0lw2d/grounding_llms_with_recursive_code)
+* [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969) - A move to include the advanced JpegXL image file format in Chromium promises significant performance and accessibility improvements. [Comments](https://news.ycombinator.com/item?id=46597927).
 
-* [How Markdown Took Over the World](https://it.slashdot.org/story/26/01/12/2049226/how-markdown-took-over-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A dive into Markdown&apos;s rise as a widespread tool for documentation and writing. [Comments](https://it.slashdot.org/story/26/01/12/2049226/how-markdown-took-over-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Grounding LLMs with Recursive Code Execution](https://yogthos.net/posts/2026-01-12-recursive-language-model.html) - A detailed look at enhancing language models by allowing recursive code execution. [Comments](https://lobste.rs/s/o0lw2d/grounding_llms_with_recursive_code).
 
-* [The coolest feature in Python 3.14](https://savannah.dev/posts/the-coolest-feature-in-314/) - Highlighting the standout changes and improvements in Python 3.14. [Comments](https://lobste.rs/s/jmbwp2/coolest_feature_python_3_14)
+* [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html) - A critical examination of LLVM's limitations, highlighting potential areas for improvement. [Comments](https://news.ycombinator.com/item?id=46588837).
 
-## Artificial Intelligence and Machine Learning
+## Scientific Discoveries and Innovations
 
-* [Should AI Agents Be Classified As People?](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Debating the ethical and societal implications of recognizing AI agents as persons. [Comments](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Scientists Discover Ancient Bees Built Nests Inside Animal Bones](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss) - Paleontologists uncover evidence of ancient bees utilizing animal bones as nesting sites for survival. [Comments](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss).
 
-* [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y) - Introducing &apos;provenance&apos; as an innovative concept in managing code history and collaboration. [Comments](https://news.ycombinator.com/item?id=46597023)
+* [China is Geoengineering Deserts With Blue-Green Algae](https://slashdot.org/story/26/01/12/1932258/china-is-geoengineering-deserts-with-blue-green-algae?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Chinese researchers are leveraging blue-green algae to combat desertification. [Comments](https://slashdot.org/story/26/01/12/1932258/china-is-geoengineering-deserts-with-blue-green-algae?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Apple picks Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html) - Apple&apos;s collaboration with Gemini to enhance AI-driven assistant capabilities in Siri. [Comments](https://news.ycombinator.com/item?id=46589675)
+* [Revolutionary Eye Injection Saved My Sight, Says First-Ever Patient](https://science.slashdot.org/story/26/01/12/185236/revolutionary-eye-injection-saved-my-sight-says-first-ever-patient?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking medical treatment restores vision in patients with degenerative eye diseases. [Comments](https://science.slashdot.org/story/26/01/12/185236/revolutionary-eye-injection-saved-my-sight-says-first-ever-patient?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Environmental and Science Discoveries
+* [Scientists Found a Way to Help the Brain Bounce Back From Alzheimer&apos;s](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss) - A new study reveals promising methods to enhance brain recovery in Alzheimer's patients. [Comments](https://soylentnews.org/article.pl?sid=26/01/08/0325201&amp;from=rss).
 
-* [Norway Reaches 97% EV Sales as EVs Now Outnumber Diesels On Its Roads](https://tech.slashdot.org/story/26/01/12/1940241/norway-reaches-97-ev-sales-as-evs-now-outnumber-diesels-on-its-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Norway&apos;s impressive strides and leadership in promoting electric vehicle adoption. [Comments](https://tech.slashdot.org/story/26/01/12/1940241/norway-reaches-97-ev-sales-as-evs-now-outnumber-diesels-on-its-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Social and Cultural Developments
 
-* [China is Geoengineering Deserts With Blue-Green Algae](https://slashdot.org/story/26/01/12/1932258/china-is-geoengineering-deserts-with-blue-green-algae?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining China&apos;s innovative approach to combating desertification using algae. [Comments](https://slashdot.org/story/26/01/12/1932258/china-is-geoengineering-deserts-with-blue-green-algae?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Day Fifteen of Iran&apos;s Nationwide Protests: Sharp Rise in Human Casualties](https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/) - A grim update on escalating violence amid the ongoing protests in Iran. [Comments](https://news.ycombinator.com/item?id=46597505).
 
-## Data Security and Breaches
+* [Viral Chinese App &apos;Are You Dead?&apos; Checks On Those Who Live Alone](https://tech.slashdot.org/story/26/01/12/2318223/viral-chinese-app-are-you-dead-checks-on-those-who-live-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new app from China provides peace of mind by checking in on individuals living alone. [Comments](https://tech.slashdot.org/story/26/01/12/2318223/viral-chinese-app-are-you-dead-checks-on-those-who-live-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Fintech Firm Betterment Confirms Data Breach After Hackers Send Fake $10,000 Crypto Scam Messages](https://it.slashdot.org/story/26/01/12/2232223/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-10000-crypto-scam-messages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deeper look into a recent cybersecurity breach impacting financial technology services. [Comments](https://it.slashdot.org/story/26/01/12/2232223/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-10000-crypto-scam-messages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Batman TV Series Premiered 60 Years Ago Today](https://entertainment.slashdot.org/story/26/01/12/1819211/batman-tv-series-premiered-60-years-ago-today?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Celebrating six decades of the iconic television debut of the Batman series. [Comments](https://entertainment.slashdot.org/story/26/01/12/1819211/batman-tv-series-premiered-60-years-ago-today?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Society and Culture
+## Environmental and Renewable Energy Initiatives
 
-* [Viral Chinese App &apos;Are You Dead?&apos; Checks On Those Who Live Alone](https://tech.slashdot.org/story/26/01/12/2318223/viral-chinese-app-are-you-dead-checks-on-those-who-live-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The cultural and societal implications of an app designed to check in on individuals living alone. [Comments](https://tech.slashdot.org/story/26/01/12/2318223/viral-chinese-app-are-you-dead-checks-on-those-who-live-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Norway Reaches 97% EV Sales as EVs Now Outnumber Diesels On Its Roads](https://tech.slashdot.org/story/26/01/12/1940241/norway-reaches-97-ev-sales-as-evs-now-outnumber-diesels-on-its-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Norway sets a new benchmark with electric vehicles surpassing diesel cars on its roads. [Comments](https://tech.slashdot.org/story/26/01/12/1940241/norway-reaches-97-ev-sales-as-evs-now-outnumber-diesels-on-its-roads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+
+* [Busting the 5 Biggest Myths About Renewable Energy](https://soylentnews.org/article.pl?sid=26/01/09/1828213&amp;from=rss) - Dispelling common misconceptions about the efficacy of renewable energy solutions. [Comments](https://soylentnews.org/article.pl?sid=26/01/09/1828213&amp;from=rss).
+
+## Artificial Intelligence and Automation
+
+* [Should AI Agents Be Classified As People?](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A provocative debate on the rights and societal roles of artificial intelligence agents. [Comments](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+
+* [The Nation&apos;s Strictest Privacy Law Just Took Effect, to Data Brokers’ Chagrin](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss) - New regulations tighten data privacy controls, impacting brokers and consumers alike. [Comments](https://soylentnews.org/article.pl?sid=26/01/08/0331227&amp;from=rss).
 
 ---
 
@@ -59,12 +67,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
+* [2026-01-13, 08:47:47](https://lobste.rs/s/2q9tel/state_datahaskell_q1_2026) - [State of DataHaskell Q1 2026](https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html)
+* [2026-01-13, 08:19:36](https://lobste.rs/s/dvcaun/how_github_could_secure_npm) - [How GitHub could secure npm](https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/)
+* [2026-01-13, 07:00:00](https://science.slashdot.org/story/26/01/13/0358216/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can Now Reserve a Hotel Room On the Moon For $250,000](https://science.slashdot.org/story/26/01/13/0358216/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 06:45:00](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss) - [How Doubting Your Doubts May Increase Commitment to Goals](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss)
+* [2026-01-13, 06:42:49](https://news.ycombinator.com/item?id=46597927) - [Chromium Has Merged JpegXL](https://chromium-review.googlesource.com/c/chromium/src/+/7184969)
 * [2026-01-13, 06:09:55](https://lobste.rs/s/qk9tqb/detecting_mime_types_go) - [Detecting MIME Types in Go](https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/)
 * [2026-01-13, 05:16:10](https://news.ycombinator.com/item?id=46597518) - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
+* [2026-01-13, 05:13:00](https://news.ycombinator.com/item?id=46597505) - [Day Fifteen of Iran&apos;s Nationwide Protests: Sharp Rise in Human Casualties](https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/)
 * [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI&apos;s completion should know what options you&apos;ve already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
 * [2026-01-13, 03:30:00](https://yro.slashdot.org/story/26/01/12/2333202/epa-to-stop-considering-lives-saved-by-limiting-air-pollution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EPA To Stop Considering Lives Saved By Limiting Air Pollution](https://yro.slashdot.org/story/26/01/12/2333202/epa-to-stop-considering-lives-saved-by-limiting-air-pollution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-13, 03:26:23](https://news.ycombinator.com/item?id=46597023) - [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y)
 * [2026-01-13, 02:19:16](https://lobste.rs/s/n8cqal/remarks_on_sframe) - [Remarks on SFrame](https://maskray.me/blog/2025-09-28-remarks-on-sframe)
 * [2026-01-13, 02:10:00](https://slashdot.org/story/26/01/12/2324253/european-firms-hit-hiring-brakes-over-ai-and-slowing-growth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [European Firms Hit Hiring Brakes Over AI and Slowing Growth](https://slashdot.org/story/26/01/12/2324253/european-firms-hit-hiring-brakes-over-ai-and-slowing-growth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss)
@@ -73,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-13, 00:19:34](https://lobste.rs/s/o0lw2d/grounding_llms_with_recursive_code) - [Grounding LLMs with Recursive Code Execution](https://yogthos.net/posts/2026-01-12-recursive-language-model.html)
 * [2026-01-13, 00:10:00](https://it.slashdot.org/story/26/01/12/2232223/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-10000-crypto-scam-messages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fintech Firm Betterment Confirms Data Breach After Hackers Send Fake $10,000 Crypto Scam Messages](https://it.slashdot.org/story/26/01/12/2232223/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-10000-crypto-scam-messages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-12, 23:30:00](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should AI Agents Be Classified As People?](https://slashdot.org/story/26/01/12/2220207/should-ai-agents-be-classified-as-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-12, 23:05:04](https://news.ycombinator.com/item?id=46595419) - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 * [2026-01-12, 22:50:00](https://meta.slashdot.org/story/26/01/12/2216207/meta-plans-to-cut-around-10-of-employees-in-reality-labs-division?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Plans To Cut Around 10% of Employees In Reality Labs Division](https://meta.slashdot.org/story/26/01/12/2216207/meta-plans-to-cut-around-10-of-employees-in-reality-labs-division?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-12, 22:30:33](https://news.ycombinator.com/item?id=46595130) - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 * [2026-01-12, 22:10:00](https://yro.slashdot.org/story/26/01/12/229233/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Takes Case That Could Strip FCC of Authority To Issue Fines](https://yro.slashdot.org/story/26/01/12/229233/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,9 +106,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-12, 18:06:00](https://science.slashdot.org/story/26/01/12/185236/revolutionary-eye-injection-saved-my-sight-says-first-ever-patient?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Revolutionary Eye Injection Saved My Sight, Says First-Ever Patient](https://science.slashdot.org/story/26/01/12/185236/revolutionary-eye-injection-saved-my-sight-says-first-ever-patient?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-12, 17:41:52](https://lobste.rs/s/atz78i/text_based_web_browsers) - [Text-based web browsers](https://cssence.com/2026/text-based-web-browsers/)
 * [2026-01-12, 17:41:50](https://news.ycombinator.com/item?id=46591708) - [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-* [2026-01-12, 17:22:00](https://apple.slashdot.org/story/26/01/12/176259/why-it-is-difficult-to-resize-windows-on-macos-26?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Why It Is Difficult To Resize Windows on MacOS 26](https://apple.slashdot.org/story/26/01/12/176259/why-it-is-difficult-to-resize-windows-on-macos-26?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-12, 17:17:35](https://lobste.rs/s/ygqmfr/bad_dye_job) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
-* [2026-01-12, 17:17:09](https://news.ycombinator.com/item?id=46591402) - [Message Queues: A Simple Guide with Analogies (2024)](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
 * [2026-01-12, 16:56:17](https://news.ycombinator.com/item?id=46591100) - [Show HN: AI in SolidWorks](https://www.trylad.com)
 * [2026-01-12, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss) - [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss)
 * [2026-01-12, 16:04:27](https://news.ycombinator.com/item?id=46590280) - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
@@ -118,12 +128,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss) - [Scientists Discover Ancient Bees Built Nests Inside Animal Bones](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss)
-* [2026-01-12, 04:18:46](https://lobste.rs/s/jmbwp2/coolest_feature_python_3_14) - [The coolest feature in Python 3.14](https://savannah.dev/posts/the-coolest-feature-in-314/)
-* [2026-01-12, 04:06:23](https://lobste.rs/s/ypq8u0/typical_pdf) - [A Typical PDF](https://hackerfactor.com/blog/index.php?/archives/1085-A-Typical-PDF.html)
 * [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss)
 * [2026-01-12, 01:56:34](https://lobste.rs/s/prsi0f/rethinking_helix) - [Rethinking Helix](https://asta.boserup.eu/forest/rethinking-helix/)
 * [2026-01-11, 23:47:34](https://lobste.rs/s/yvgfh8/struggle_resizing_windows_on_macos_tahoe) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
-* [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
 * [2026-01-11, 22:33:32](https://news.ycombinator.com/item?id=46581095) - [Unauthenticated remote code execution in OpenCode](https://cy.md/opencode-rce/)
 * [2026-01-11, 21:52:00](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss) - [Dell Reveals People Don&apos;t Care About AI in PCs – and a New Truly Embarrassing Windows 11 Fail ](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss)
 * [2026-01-11, 20:47:55](https://news.ycombinator.com/item?id=46579864) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
@@ -147,3 +154,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-09, 08:07:00](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss) - [While the World Cools on EVs, Norway Pushes to 96% Electric Sales](https://soylentnews.org/article.pl?sid=26/01/07/1228222&amp;from=rss)
 * [2026-01-09, 03:24:12](https://news.ycombinator.com/item?id=46549714) - [Implementing a web server in a single printf() call (2014)](https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/)
 * [2026-01-09, 03:24:00](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss) - [Scientists Create a “Periodic Table” for Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/01/06/1126220&amp;from=rss)
+* [2026-01-09, 01:29:29](https://news.ycombinator.com/item?id=46549039) - [Zirgen: Compiler for a Domain-Specific Language](https://github.com/risc0/zirgen)
