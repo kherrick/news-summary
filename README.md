@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Programming
+## Advancements in Technology
 
-* [Build your own programming language (2020)](https://thesephist.com/posts/pl/) - A guide for creating your own programming language presented with a comprehensive structure. [Comments here](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020)
+* [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss) - A cutting-edge quantum tunneling device is poised to support the development of the future 6G wireless networking technology. [Comments](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss).
 
-* [The Gleam Programming Language](https://gleam.run/) - Introduction to Gleam, a type-safe language for the Erlang VM. [Comments here](https://news.ycombinator.com/item?id=46611667)
+* [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/) - A deep dive into solving massive performance gaps with a simple 40-line code fix. [Comments](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x).
 
-* [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A) - A presentation on how Volvo Cars utilizes the Rust programming language. [Comments here](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars)
+* [Bevy 0.18](https://bevy.org/news/bevy-0-18/) - The latest release of the open-source game engine Bevy introduces exciting updates for developers. [Comments](https://lobste.rs/s/k5yvju/bevy_0_18).
 
-* [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i) - A critique of natural language interfaces in software. [Comments here](https://lobste.rs/s/7eokzy/stop_using_natural_language_interfaces) or [here](https://news.ycombinator.com/item?id=46611550)
+* [JPEG-XL Image Support Returns To Latest Chrome/Chromium Code](https://slashdot.org/story/26/01/13/2026229/jpeg-xl-image-support-returns-to-latest-chromechromium-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Chromium's reintroduction of JPEG-XL support offers significant advancements in image handling.
 
-* [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit) - A new high-performance Rust library to handle caching policies efficiently. [Comments here](https://news.ycombinator.com/item?id=46611548)
+* [Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic) - A new VS Code extension aims to enhance codebase understanding and documentation. [Comments](https://news.ycombinator.com/item?id=46605675).
 
-* [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang) - Introducing Axis, a systems programming language that adopts Python syntax. [Comments here](https://news.ycombinator.com/item?id=46611379)
+## Artificial Intelligence and Ethics
 
-## AI and Data
+* [Why We Don&apos;t Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/) - A critical discussion on the consequences of adopting AI, with a call for responsible usage. [Comments](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai).
 
-* [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/) - An open-source AI tool designed to index and search through the Epstein files. [Comments here](https://news.ycombinator.com/item?id=46611348)
+* [OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/) - An open-source AI project indexes controversial files for transparency. [Comments](https://news.ycombinator.com/item?id=46611348).
 
-* [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/) - Discussion about the ban of AI-generated music on Bandcamp. [Comments here](https://news.ycombinator.com/item?id=46605490)
+* [America&apos;s Biggest Power Grid Operator Has an AI Problem - Too Many Data Centers](https://hardware.slashdot.org/story/26/01/13/1732222/americas-biggest-power-grid-operator-has-an-ai-problem---too-many-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the challenges of AI's energy consumption impact on power grids.
 
-* [Anthropic Invests $1.5 Million in the Python Software Foundation and Open Source Security](https://developers.slashdot.org/story/26/01/13/1613232/anthropic-invests-15-million-in-the-python-software-foundation-and-open-source-security) - Investment to support Python ecosystem and enhance security in open-source software. [Comments here](https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python)
+## Programming and Development Tools
 
-## Global Challenges and Research
+* [Build your own programming language (2020)](https://thesephist.com/posts/pl/) - A resource-rich guide to creating a custom programming language. [Comments](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020).
 
-* [Doubt Cast On Discovery of Microplastics Throughout Human Body](https://science.slashdot.org/story/26/01/14/004231/doubt-cast-on-discovery-of-microplastics-throughout-human-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scrutiny over the validity of microplastic discovery reports involving the human body. [Comments here](https://science.slashdot.org/story/26/01/14/004231/doubt-cast-on-discovery-of-microplastics-throughout-human-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit) - Introducing Cachekit, a Rust library for effective caching. [Comments](https://news.ycombinator.com/item?id=46611548).
 
-* [Pentagon Device Linked To Havana Syndrome](https://yro.slashdot.org/story/26/01/13/2340202/pentagon-device-linked-to-havana-syndrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Speculation on a Pentagon device's connection to the mysterious Havana Syndrome. [Comments here](https://yro.slashdot.org/story/26/01/13/2340202/pentagon-device-linked-to-havana-syndrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The Tsonic Programming Language](https://tsonic.org) - A new contender in programming languages designed for modern developers. [Comments](https://news.ycombinator.com/item?id=46604308).
 
-* [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source) - Insight on why a university faced a ban from the Linux kernel community. [Comments here](https://news.ycombinator.com/item?id=46605950)
+* [Your CLI&apos;s completion should know what options you&apos;ve already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion) - Insights into creating context-aware command-line tools. [Comments](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what).
 
-## Significant Global and Social Events
+* [Server-First Web Component Architecture: SXO + Reactive Component](https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p) - Rethinking web components with a server-first approach. [Comments](https://lobste.rs/s/flirvs/server_first_web_component_architecture).
 
-* [Senate Passes a Bill That Would Let Nonconsensual Deepfake Victims Sue](https://yro.slashdot.org/story/26/01/13/2347221/senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New legislation enabling victims to legally address nonconsensual deepfakes. [Comments here](https://yro.slashdot.org/story/26/01/13/2347221/senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Society and Policy
 
-* [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss) - Volkswagen responds to public demand by reintegrating physical buttons into their EV dashboards. [Comments here](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss)
+* [Pentagon Device Linked To Havana Syndrome](https://yro.slashdot.org/story/26/01/13/2340202/pentagon-device-linked-to-havana-syndrome?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring reports on a potential device connected to the mysterious Havana Syndrome.
 
-## Software and Tools
+* [Senate Passes a Bill That Would Let Nonconsensual Deepfake Victims Sue](https://yro.slashdot.org/story/26/01/13/2347221/senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal advancements empower victims of deepfake technology.
 
-* [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books) - Exploring the proliferation of AI-generated book spam. [Comments here](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated)
+* [Taiwan Issues Arrest Warrant for OnePlus CEO for China Hires](https://slashdot.org/story/26/01/13/206221/taiwan-issues-arrest-warrant-for-oneplus-ceo-for-china-hires?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Charges of unauthorized recruitment bring international tensions to the forefront.
 
-* [Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic) - Tool for visualizing codebases in VS Code. [Comments here](https://news.ycombinator.com/item?id=46605675)
+## Environmental Insights
+
+* [Doubt Cast On Discovery of Microplastics Throughout Human Body](https://science.slashdot.org/story/26/01/14/004231/doubt-cast-on-discovery-of-microplastics-throughout-human-body?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Skeptics challenge claims about the prevalence of microplastics in humans.
+
+* [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&from=rss) - Proposals to utilize microbes as part of Mars colonization efforts.
+
+* [Oceans Are Struggling To Absorb Carbon As Microplastics Flood Their Waters](https://soylentnews.org/article.pl?sid=26/01/10/2213252&from=rss) - Researchers explore environmental challenges linked to ocean pollution.
 
 ---
 
@@ -67,8 +73,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss)
+* [2026-01-14, 06:16:24](https://news.ycombinator.com/item?id=46612934) - [DHS Deportation Reels Are Getting Copyright Strikes for Unlicensed Music Use](https://reason.com/2026/01/11/the-deportation-playlist-is-mostly-stolen/)
+* [2026-01-14, 06:10:18](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai) - [Why We Don&apos;t Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-14, 03:47:56](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020) - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 * [2026-01-14, 03:30:00](https://science.slashdot.org/story/26/01/14/004231/doubt-cast-on-discovery-of-microplastics-throughout-human-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Doubt Cast On Discovery of Microplastics Throughout Human Body](https://science.slashdot.org/story/26/01/14/004231/doubt-cast-on-discovery-of-microplastics-throughout-human-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-14, 03:08:37](https://news.ycombinator.com/item?id=46611823) - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 * [2026-01-14, 02:49:25](https://news.ycombinator.com/item?id=46611667) - [The Gleam Programming Language](https://gleam.run/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
 * [2026-01-14, 02:42:41](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x) - [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
@@ -77,12 +87,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-14, 02:28:52](https://news.ycombinator.com/item?id=46611548) - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
 * [2026-01-14, 02:20:42](https://news.ycombinator.com/item?id=46611507) - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 * [2026-01-14, 02:02:00](https://yro.slashdot.org/story/26/01/13/2340202/pentagon-device-linked-to-havana-syndrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Device Linked To Havana Syndrome](https://yro.slashdot.org/story/26/01/13/2340202/pentagon-device-linked-to-havana-syndrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-14, 02:01:17](https://news.ycombinator.com/item?id=46611379) - [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
 * [2026-01-14, 01:56:52](https://news.ycombinator.com/item?id=46611348) - [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
 * [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss)
 * [2026-01-14, 01:25:00](https://games.slashdot.org/story/26/01/13/2356235/meta-closes-three-vr-studios-as-part-of-its-metaverse-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Closes Three VR Studios As Part of Its Metaverse Cuts](https://games.slashdot.org/story/26/01/13/2356235/meta-closes-three-vr-studios-as-part-of-its-metaverse-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 01:13:59](https://news.ycombinator.com/item?id=46611063) - [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
-* [2026-01-14, 01:06:45](https://news.ycombinator.com/item?id=46611017) - [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
 * [2026-01-14, 01:01:12](https://news.ycombinator.com/item?id=46610967) - [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
 * [2026-01-14, 00:45:00](https://yro.slashdot.org/story/26/01/13/2347221/senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Senate Passes a Bill That Would Let Nonconsensual Deepfake Victims Sue](https://yro.slashdot.org/story/26/01/13/2347221/senate-passes-a-bill-that-would-let-nonconsensual-deepfake-victims-sue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 00:17:19](https://news.ycombinator.com/item?id=46610557) - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
@@ -101,7 +109,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-13, 20:44:00](https://tech.slashdot.org/story/26/01/13/1941214/ev-roadside-repairs-easier-than-petrol-or-diesel-new-data-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EV Roadside Repairs Easier Than Petrol or Diesel, New Data Suggests](https://tech.slashdot.org/story/26/01/13/1941214/ev-roadside-repairs-easier-than-petrol-or-diesel-new-data-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 20:04:00](https://tech.slashdot.org/story/26/01/13/1928228/apple-you-still-dont-understand-the-vision-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple: You (Still) Don&apos;t Understand the Vision Pro](https://tech.slashdot.org/story/26/01/13/1928228/apple-you-still-dont-understand-the-vision-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 19:22:00](https://tech.slashdot.org/story/26/01/13/194208/mercedes-temporarily-scraps-its-level-3-eyes-off-driving-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mercedes Temporarily Scraps Its Level 3 &apos;Eyes-off&apos; Driving Feature](https://tech.slashdot.org/story/26/01/13/194208/mercedes-temporarily-scraps-its-level-3-eyes-off-driving-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-13, 18:58:55](https://news.ycombinator.com/item?id=46605950) - [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
 * [2026-01-13, 18:54:30](https://news.ycombinator.com/item?id=46605854) - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
 * [2026-01-13, 18:44:00](https://slashdot.org/story/26/01/13/1845204/verizon-to-stop-automatic-unlocking-of-phones-as-fcc-ends-60-day-unlock-rule?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Verizon To Stop Automatic Unlocking of Phones as FCC Ends 60-Day Unlock Rule](https://slashdot.org/story/26/01/13/1845204/verizon-to-stop-automatic-unlocking-of-phones-as-fcc-ends-60-day-unlock-rule?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 18:43:28](https://news.ycombinator.com/item?id=46605675) - [Show HN: Nogic – VS Code extension that visualizes your codebase as a graph](https://marketplace.visualstudio.com/items?itemName=Nogic.nogic)
@@ -109,9 +116,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-13, 18:30:59](https://lobste.rs/s/flirvs/server_first_web_component_architecture) - [Server-First Web Component Architecture: SXO + Reactive Component](https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p)
 * [2026-01-13, 18:22:00](https://news.ycombinator.com/item?id=46605332) - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 * [2026-01-13, 18:04:00](https://hardware.slashdot.org/story/26/01/13/1732222/americas-biggest-power-grid-operator-has-an-ai-problem---too-many-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Biggest Power Grid Operator Has an AI Problem - Too Many Data Centers](https://hardware.slashdot.org/story/26/01/13/1732222/americas-biggest-power-grid-operator-has-an-ai-problem---too-many-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-13, 17:26:22](https://news.ycombinator.com/item?id=46604308) - [Show HN: The Tsonic Programming Language](https://tsonic.org)
 * [2026-01-13, 17:25:00](https://developers.slashdot.org/story/26/01/13/1613232/anthropic-invests-15-million-in-the-python-software-foundation-and-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Invests $1.5 Million in the Python Software Foundation and Open Source Security](https://developers.slashdot.org/story/26/01/13/1613232/anthropic-invests-15-million-in-the-python-software-foundation-and-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-13, 17:23:46](https://news.ycombinator.com/item?id=46604250) - [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
-* [2026-01-13, 17:14:14](https://news.ycombinator.com/item?id=46604067) - [Show HN: Microwave – Native iOS app for videos on ATproto](https://testflight.apple.com/join/cVxV1W3g)
 * [2026-01-13, 17:10:42](https://news.ycombinator.com/item?id=46603995) - [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
 * [2026-01-13, 17:09:26](https://lobste.rs/s/zymqza/forklifts_facts_functions_building) - [Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic](https://www.youtube.com/watch?v=NV02r1Y1B-8)
 * [2026-01-13, 16:28:04](https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python) - [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html)
@@ -134,11 +141,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-13, 06:45:00](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss) - [How Doubting Your Doubts May Increase Commitment to Goals](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss)
 * [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI&apos;s completion should know what options you&apos;ve already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
 * [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss)
-* [2026-01-12, 23:02:27](https://news.ycombinator.com/item?id=46595393) - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 * [2026-01-12, 21:11:00](https://soylentnews.org/article.pl?sid=26/01/10/2227246&amp;from=rss) - [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&amp;from=rss)
 * [2026-01-12, 20:15:19](https://lobste.rs/s/h5e24r/how_stick_with_your_projects_even_when) - [How to stick with your projects, even when they&apos;re janky](https://www.youtube.com/watch?v=Alfq8RG80Ns)
 * [2026-01-12, 17:50:01](https://news.ycombinator.com/item?id=46591810) - [There&apos;s a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
-* [2026-01-12, 17:17:35](https://lobste.rs/s/ygqmfr/bad_dye_job) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 * [2026-01-12, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss) - [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss)
 * [2026-01-12, 15:36:36](https://news.ycombinator.com/item?id=46589842) - [Why we built our own background agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [2026-01-12, 14:04:57](https://lobste.rs/s/70isfv/how_make_damn_website) - [How to Make a Damn Website](https://lmnt.me/blog/how-to-make-a-damn-website.html)
@@ -148,6 +153,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-12, 06:37:26](https://news.ycombinator.com/item?id=46584864) - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 * [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss)
 * [2026-01-11, 21:52:00](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss) - [Dell Reveals People Don&apos;t Care About AI in PCs – and a New Truly Embarrassing Windows 11 Fail ](https://soylentnews.org/article.pl?sid=26/01/10/0115240&amp;from=rss)
+* [2026-01-11, 20:23:14](https://news.ycombinator.com/item?id=46579612) - [Show HN: 1D-Pong Game at 39C3](https://github.com/ogermer/1d-pong)
 * [2026-01-11, 17:13:00](https://soylentnews.org/article.pl?sid=26/01/10/0111244&amp;from=rss) - [Your Daily Cup of Tea Could Help Fight Heart Disease, Cancer, Aging, and More](https://soylentnews.org/article.pl?sid=26/01/10/0111244&amp;from=rss)
 * [2026-01-11, 12:26:00](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss) - [Finding Runaway Stars to Help Map Dark Matter in the Milky Way](https://soylentnews.org/article.pl?sid=26/01/10/019216&amp;from=rss)
 * [2026-01-11, 07:24:00](https://soylentnews.org/article.pl?sid=26/01/10/015202&amp;from=rss) - [Virginia&apos;s Datacenter Tax Breaks Cost State $1.6B in 2025](https://soylentnews.org/article.pl?sid=26/01/10/015202&amp;from=rss)
