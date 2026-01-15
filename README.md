@@ -1,42 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Industry Updates
+## AI and Technology Innovations
 
-* [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale) - An exciting breakthrough in AI hardware, delivering significant improvements in efficiency in data center AI inference.
+* [The Swedish Start-Up Aiming To Conquer America's Full-Body-Scan Craze](https://science.slashdot.org/story/26/01/14/2332240/the-swedish-start-up-aiming-to-conquer-americas-full-body-scan-craze?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An innovative Swedish company sets its sights on revolutionizing the full-body scan industry in the U.S.
 
-* [Cerebras Scores OpenAI Deal Worth Over $10 Billion](https://slashdot.org/story/26/01/14/2253220/cerebras-scores-openai-deal-worth-over-10-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major deal that could reshape AI industry dynamics.
+* [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/) - New security approach for protecting sensitive environment variables in automated coding.
 
-* [Dell Tells Staff To Get Ready For the 'Biggest Transformation in Company History'](https://tech.slashdot.org/story/26/01/14/199210/dell-tells-staff-to-get-ready-for-the-biggest-transformation-in-company-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Dell hints at significant upcoming innovations as part of its transformation strategy.
+* [Cerebras Scores OpenAI Deal Worth Over $10 Billion](https://slashdot.org/story/26/01/14/2253220/cerebras-scores-openai-deal-worth-over-10-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cerebras secures a massive $10B OpenAI contract for advanced AI systems.
 
-* [Bezos's Vision of Rented Cloud PCs Looks Less Far-Fetched](https://it.slashdot.org/story/26/01/14/1655234/bezoss-vision-of-rented-cloud-pcs-looks-less-far-fetched?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look into cloud computing's future, inspired by Amazon's ambitious vision.
+* [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents) - Research in scaling and enhancing autonomous coding agents for development.
 
-## AI Developments and Controversies
+## Cultural and Lifestyle Shifts
 
-* [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e) - Anthropic's move to restrict access to AI code sparks discussions about open-source policies.
+* [RIP - 'Dilbert' Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&from=rss) - A farewell to Scott Adams, creator of 'Dilbert,' after a long battle with illness.
 
-* [Bandcamp Bans AI Music](https://entertainment.slashdot.org/story/26/01/14/2149259/bandcamp-bans-ai-music?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant stance against AI-generated music on the popular platform.
+* [Are QWERTY Phones Trying To Make a Comeback?](https://mobile.slashdot.org/story/26/01/14/2319204/are-qwerty-phones-trying-to-make-a-comeback?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Possible resurgence of physical QWERTY keyboard phones examines nostalgia and practicality.
 
-* [McKinsey Asks Graduates To Use AI Chatbot in Recruitment Process](https://slashdot.org/story/26/01/14/179257/mckinsey-asks-graduates-to-use-ai-chatbot-in-recruitment-process?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Transforming talent acquisition methods using AI.
+* [Find a pub that needs you](https://www.ismypubfucked.com/) - A website assists in matching struggling pubs with potential patrons to preserve local culture.
 
-## Environmental and Scientific Insights
+## Environmental and Science Progress
 
-* [Coal Power Generation Falls in China and India for First Time Since 1970s](https://news.slashdot.org/story/26/01/14/1810207/coal-power-generation-falls-in-china-and-india-for-first-time-since-1970s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A potential milestone in reducing global coal dependency.
+* [NASA Acknowledges Record Heat But Avoids Referencing Climate Change](https://science.slashdot.org/story/26/01/14/1915220/nasa-acknowledges-record-heat-but-avoids-referencing-climate-change?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA reports record temperatures without directly linking findings to climate change.
 
-* [NASA Acknowledges Record Heat But Avoids Referencing Climate Change](https://science.slashdot.org/story/26/01/14/1915220/nasa-acknowledges-record-heat-but-avoids-referencing-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's cautious approach to discussing climate trends.
+* [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&from=rss) - Ancient microbes may offer novel solutions for constructing infrastructure on Mars.
 
-## Society and Culture
+* [Oceans Are Struggling To Absorb Carbon As Microplastics Flood Their Waters](https://soylentnews.org/article.pl?sid=26/01/10/2213252&from=rss) - New research examines how microplastic pollution is undermining oceans' ability to absorb CO2.
 
-* [UK Scraps Mandatory Digital ID Enrollment for Workers After Public Backlash](https://news.slashdot.org/story/26/01/14/1924225/uk-scraps-mandatory-digital-id-enrollment-for-workers-after-public-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A triumph for public advocacy over a controversial policy.
+## Tech Industry Insights
 
-* [Matthew McConaughey Trademarks Himself To Fight AI Misuse](https://slashdot.org/story/26/01/14/1549211/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Celebrities are increasingly taking steps to safeguard their rights in the AI era.
+* [Beijing Tells Chinese Firms To Stop Using US and Israeli Cybersecurity Software](https://it.slashdot.org/story/26/01/14/1833237/beijing-tells-chinese-firms-to-stop-using-us-and-israeli-cybersecurity-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China's directive to minimize reliance on foreign cybersecurity software.
 
-## Open Source and Developer Tools
+* [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/) - Analysis argues against retaining MySQL in favor of truly open-source alternatives.
 
-* [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/) - Important updates impacting developers using pyca/cryptography libraries.
-
-* [What does it take to ship Rust in safety-critical?](https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/) - Exploring the efforts needed to implement Rust in critical systems.
-
-* [Interactive eBPF playground](https://ebpf.party) - A new way for developers to practice and learn about eBPF.
+* [Writing Anteforth, a Forth-like in SPARK](https://pyjarrett.github.io/2026/01/13/anteforth.html) - Overview of developing a minimalist programming language inspired by Forth using SPARK.
 
 ---
 
@@ -63,24 +59,32 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-15, 03:30:00](https://science.slashdot.org/story/26/01/14/2332240/the-swedish-start-up-aiming-to-conquer-americas-full-body-scan-craze?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Swedish Start-Up Aiming To Conquer America&apos;s Full-Body-Scan Craze](https://science.slashdot.org/story/26/01/14/2332240/the-swedish-start-up-aiming-to-conquer-americas-full-body-scan-craze?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-15, 03:28:20](https://news.ycombinator.com/item?id=46627652) - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+* [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss) - [RIP - &apos;Dilbert&apos; Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss)
+* [2026-01-15, 02:02:00](https://mobile.slashdot.org/story/26/01/14/2319204/are-qwerty-phones-trying-to-make-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are QWERTY Phones Trying To Make a Comeback?](https://mobile.slashdot.org/story/26/01/14/2319204/are-qwerty-phones-trying-to-make-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-15, 01:45:22](https://news.ycombinator.com/item?id=46626836) - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 * [2026-01-15, 01:25:00](https://tech.slashdot.org/story/26/01/14/233241/digg-launches-its-new-reddit-rival-to-the-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Digg Launches Its New Reddit Rival To the Public](https://tech.slashdot.org/story/26/01/14/233241/digg-launches-its-new-reddit-rival-to-the-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss) - [The AIdigest.org&apos;s AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss)
+* [2026-01-15, 01:20:22](https://news.ycombinator.com/item?id=46626639) - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
 * [2026-01-15, 00:53:21](https://news.ycombinator.com/item?id=46626410) - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
 * [2026-01-15, 00:47:22](https://lobste.rs/s/8hjgvt/writing_anteforth_forth_like_spark) - [Writing Anteforth, a Forth-like in SPARK](https://pyjarrett.github.io/2026/01/13/anteforth.html)
 * [2026-01-15, 00:45:00](https://slashdot.org/story/26/01/14/2253220/cerebras-scores-openai-deal-worth-over-10-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cerebras Scores OpenAI Deal Worth Over $10 Billion](https://slashdot.org/story/26/01/14/2253220/cerebras-scores-openai-deal-worth-over-10-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-15, 00:06:45](https://lobste.rs/s/urlzyd/scaling_long_running_autonomous_coding) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-* [2026-01-15, 00:04:24](https://news.ycombinator.com/item?id=46625918) - [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e)
 * [2026-01-15, 00:02:00](https://news.slashdot.org/story/26/01/14/225243/doordash-and-ubereats-cost-drivers-550-million-in-tips-nyc-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DoorDash and UberEats Cost Drivers $550 Million In Tips, NYC Says](https://news.slashdot.org/story/26/01/14/225243/doordash-and-ubereats-cost-drivers-550-million-in-tips-nyc-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-14, 23:49:34](https://news.ycombinator.com/item?id=46625766) - [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)
+* [2026-01-14, 23:31:28](https://lobste.rs/s/hljkrv/my_ai_got_github_account) - [My AI got a Github account](https://www.maragu.dev/blog/my-ai-got-a-github-account)
 * [2026-01-14, 23:20:00](https://hardware.slashdot.org/story/26/01/14/2156254/us-approves-sale-of-nvidias-advanced-ai-chips-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Approves Sale of Nvidia&apos;s Advanced AI Chips To China](https://hardware.slashdot.org/story/26/01/14/2156254/us-approves-sale-of-nvidias-advanced-ai-chips-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 22:50:08](https://lobste.rs/s/o9acsn/state_openssl_for_pyca_cryptography) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
 * [2026-01-14, 22:40:00](https://entertainment.slashdot.org/story/26/01/14/2149259/bandcamp-bans-ai-music?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bandcamp Bans AI Music](https://entertainment.slashdot.org/story/26/01/14/2149259/bandcamp-bans-ai-music?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-14, 22:30:40](https://news.ycombinator.com/item?id=46624740) - [Ask HN: Weird archive.today behavior?](https://news.ycombinator.com/item?id=46624740)
 * [2026-01-14, 22:30:16](https://news.ycombinator.com/item?id=46624731) - [ChromaDB Explorer](https://www.chroma-explorer.com/)
+* [2026-01-14, 22:26:17](https://news.ycombinator.com/item?id=46624658) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2026-01-14, 22:18:04](https://news.ycombinator.com/item?id=46624541) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:04:10](https://news.ycombinator.com/item?id=46624352) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
 * [2026-01-14, 22:02:00](https://it.slashdot.org/story/26/01/14/2143252/house-sysadmin-stole-200-phones-caught-by-house-it-desk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [House Sysadmin Stole 200 Phones, Caught By House IT Desk](https://it.slashdot.org/story/26/01/14/2143252/house-sysadmin-stole-200-phones-caught-by-house-it-desk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 21:26:51](https://news.ycombinator.com/item?id=46623761) - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 * [2026-01-14, 21:25:00](https://news.slashdot.org/story/26/01/14/1924225/uk-scraps-mandatory-digital-id-enrollment-for-workers-after-public-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Scraps Mandatory Digital ID Enrollment for Workers After Public Backlash](https://news.slashdot.org/story/26/01/14/1924225/uk-scraps-mandatory-digital-id-enrollment-for-workers-after-public-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-14, 21:10:57](https://lobste.rs/s/ev8log/rickroll_rustc) - [Rickroll in rustc](https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68)
 * [2026-01-14, 20:55:24](https://lobste.rs/s/4icz4n/what_does_it_take_ship_rust_safety) - [What does it take to ship Rust in safety-critical?](https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/)
 * [2026-01-14, 20:55:19](https://lobste.rs/s/u1ypx5/stop_using_mysql_2026_it_is_not_true_open) - [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 * [2026-01-14, 20:52:21](https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix) - [SelfCI - a minimalistic local-first Unix-philosophy-abiding CI](https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU)
@@ -88,40 +92,31 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss)
 * [2026-01-14, 20:12:25](https://news.ycombinator.com/item?id=46622328) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 20:11:00](https://science.slashdot.org/story/26/01/14/1915220/nasa-acknowledges-record-heat-but-avoids-referencing-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Acknowledges Record Heat But Avoids Referencing Climate Change](https://science.slashdot.org/story/26/01/14/1915220/nasa-acknowledges-record-heat-but-avoids-referencing-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-14, 19:53:15](https://news.ycombinator.com/item?id=46621945) - [Every country should set 16 as the minimum age for social media accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
 * [2026-01-14, 19:31:57](https://lobste.rs/s/mj7k0s/coding_on_phone_what_i_learned_building) - [Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks](https://rahulpandita.me/blog/2026-01-14-Mobile-Development)
 * [2026-01-14, 19:20:00](https://tech.slashdot.org/story/26/01/14/1918256/widespread-verizon-outage-prompts-emergency-alerts-in-washington-new-york-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Widespread Verizon Outage Prompts Emergency Alerts in Washington, New York City](https://tech.slashdot.org/story/26/01/14/1918256/widespread-verizon-outage-prompts-emergency-alerts-in-washington-new-york-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 19:16:11](https://lobste.rs/s/jluhmx/chat_is_least_interesting_interface_llms) - [Chat is the least interesting interface to LLMs](https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html)
-* [2026-01-14, 19:12:28](https://lobste.rs/s/esgrcq/why_language_interpreters_virtual) - [Why language interpreters and virtual machines are slow](https://mortoray.com/why-language-interpreters-are-slow/)
 * [2026-01-14, 19:06:23](https://news.ycombinator.com/item?id=46620990) - [Ask HN: How do you safely give LLMs SSH/DB access?](https://news.ycombinator.com/item?id=46620990)
 * [2026-01-14, 19:04:52](https://lobste.rs/s/pxaxqn/my_gripes_with_prolog) - [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
 * [2026-01-14, 18:50:00](https://it.slashdot.org/story/26/01/14/1833237/beijing-tells-chinese-firms-to-stop-using-us-and-israeli-cybersecurity-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Beijing Tells Chinese Firms To Stop Using US and Israeli Cybersecurity Software](https://it.slashdot.org/story/26/01/14/1833237/beijing-tells-chinese-firms-to-stop-using-us-and-israeli-cybersecurity-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 18:49:37](https://news.ycombinator.com/item?id=46620673) - [Native ZFS VDEV for Object Storage (OpenZFS Summit)](https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html)
 * [2026-01-14, 18:10:00](https://news.slashdot.org/story/26/01/14/1810207/coal-power-generation-falls-in-china-and-india-for-first-time-since-1970s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Coal Power Generation Falls in China and India for First Time Since 1970s](https://news.slashdot.org/story/26/01/14/1810207/coal-power-generation-falls-in-china-and-india-for-first-time-since-1970s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 17:30:00](https://slashdot.org/story/26/01/14/179257/mckinsey-asks-graduates-to-use-ai-chatbot-in-recruitment-process?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [McKinsey Asks Graduates To Use AI Chatbot in Recruitment Process](https://slashdot.org/story/26/01/14/179257/mckinsey-asks-graduates-to-use-ai-chatbot-in-recruitment-process?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-14, 17:27:22](https://news.ycombinator.com/item?id=46619030) - [So, you’ve hit an age gate. What now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
 * [2026-01-14, 17:20:09](https://news.ycombinator.com/item?id=46618901) - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
 * [2026-01-14, 17:07:42](https://news.ycombinator.com/item?id=46618714) - [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
-* [2026-01-14, 16:55:00](https://it.slashdot.org/story/26/01/14/1655234/bezoss-vision-of-rented-cloud-pcs-looks-less-far-fetched?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bezos&apos;s Vision of Rented Cloud PCs Looks Less Far-Fetched](https://it.slashdot.org/story/26/01/14/1655234/bezoss-vision-of-rented-cloud-pcs-looks-less-far-fetched?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 16:25:07](https://news.ycombinator.com/item?id=46618027) - [GitHub should charge everyone $1 more per month to fund open source](https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html)
 * [2026-01-14, 16:03:11](https://news.ycombinator.com/item?id=46617668) - [Roam 50GB is now Roam 100GB](https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d)
-* [2026-01-14, 16:02:00](https://slashdot.org/story/26/01/14/1549211/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Matthew McConaughey Trademarks Himself To Fight AI Misuse](https://slashdot.org/story/26/01/14/1549211/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-14, 15:57:00](https://lobste.rs/s/wh52mr/scrollbars_scrollbars) - [Scrollbars in Scrollbars](https://matoseb.com/scrollbars-scrollbars/)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss)
 * [2026-01-14, 15:44:22](https://news.ycombinator.com/item?id=46617360) - [Find a pub that needs you](https://www.ismypubfucked.com/)
-* [2026-01-14, 15:19:12](https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport) - [Artificial StupidIntelligence and Airport Sinks](https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/)
 * [2026-01-14, 14:44:28](https://lobste.rs/s/vnkwyb/my_opinion_on_spelling_run_time_vs_run_time) - [My Opinion on Spelling Run Time vs. Run-time vs. Runtime](https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/)
 * [2026-01-14, 14:34:57](https://news.ycombinator.com/item?id=46616488) - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 * [2026-01-14, 14:34:40](https://news.ycombinator.com/item?id=46616481) - [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
-* [2026-01-14, 12:25:59](https://news.ycombinator.com/item?id=46615235) - [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235)
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 11:54:54](https://lobste.rs/s/wyvqyq/interactive_ebpf_playground) - [Interactive eBPF playground](https://ebpf.party)
 * [2026-01-14, 11:25:11](https://lobste.rs/s/cydp2t/porting_minijinja_go_with_agent) - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/)
 * [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss)
 * [2026-01-14, 10:57:54](https://lobste.rs/s/j2e4em/black_white_array_new_data_structure_for) - [Black-White Array: A New Data Structure for Dynamic Data Sets](https://arxiv.org/abs/2004.09051)
-* [2026-01-14, 10:53:13](https://news.ycombinator.com/item?id=46614558) - [I hate GitHub Actions with passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)
 * [2026-01-14, 10:34:16](https://lobste.rs/s/oxlocc/how_build_good_software) - [How to Build Good Software](https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/)
-* [2026-01-14, 09:25:58](https://news.ycombinator.com/item?id=46614037) - [I’m leaving Redis for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
 * [2026-01-14, 08:21:19](https://news.ycombinator.com/item?id=46613624) - [The hunt for a stolen Jackson Pollock](https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/)
 * [2026-01-14, 08:10:28](https://lobste.rs/s/knwdud/just_browser) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss)
@@ -134,6 +129,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-13, 20:52:00](https://soylentnews.org/article.pl?sid=26/01/12/0132243&amp;from=rss) - [A Sit-Stand Ratio ‘Sweet Spot’ May Boost Office Productivity](https://soylentnews.org/article.pl?sid=26/01/12/0132243&amp;from=rss)
 * [2026-01-13, 16:28:04](https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python) - [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html)
 * [2026-01-13, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/12/0131237&amp;from=rss) - [Poul-Henning Kamp&apos;s Feedback to the EU on Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/12/0131237&amp;from=rss)
+* [2026-01-13, 15:40:55](https://news.ycombinator.com/item?id=46602411) - [You Need a Kitchen Slide Rule](https://entropicthoughts.com/kitchen-slide-rule)
 * [2026-01-13, 11:26:00](https://soylentnews.org/article.pl?sid=26/01/12/0127259&amp;from=rss) - [A 2,000-Year-Old Fingerprint May Solve Mystery of Scandinavia&apos;s Oldest Wooden Boat](https://soylentnews.org/article.pl?sid=26/01/12/0127259&amp;from=rss)
 * [2026-01-13, 06:45:00](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss) - [How Doubting Your Doubts May Increase Commitment to Goals](https://soylentnews.org/article.pl?sid=26/01/12/0126219&amp;from=rss)
 * [2026-01-13, 01:52:00](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss) - [The Book Only Gets 3 Stars, but is Considered Great Literature](https://soylentnews.org/article.pl?sid=26/01/12/013252&amp;from=rss)
