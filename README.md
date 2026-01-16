@@ -1,52 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology, Privacy, and Software Innovations
+## Technology Innovation and Development
 
-* [Cryptography 30 years apart: Ascon on an HP-16C](https://dram.page/p/ascon-hp16c/) - Exploring encryption over time, specifically the integration of Ascon's cryptographic algorithms on an HP-16C calculator. [Comments](https://lobste.rs/s/ihxq0c/cryptography_30_years_apart_ascon_on_hp)
+* [Histomat of F/OSS: We should reclaim LLMs, not reject them](https://writings.hongminhee.org/2026/01/histomat-foss-llm/) discusses the potential for Free/Open Source Software (F/OSS) to reclaim large language models (LLMs) instead of rejecting their utility and control.
 
-* [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619) - OpenBSD's latest development enables it to operate on Apple's proprietary virtualization platform. [Comments](https://news.ycombinator.com/item?id=46642560)
+* [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619) showcases advancements enabling OpenBSD to run smoothly as a guest system under Apple's Hypervisor.
 
-* [Quint Visualizer: a GraphViz-like visualizer for Quint traces](https://quint-visualizer.noghartt.dev/) - A new tool for visualizing traces in software analyses in a GraphViz-inspired fashion. [Comments](https://lobste.rs/s/09tygd/quint_visualizer_graphviz_like)
+* [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs) highlights a scalable and distributed storage innovation leveraging POSIX compatibility.
 
-* [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html) - An exploration of the programming language Zig and its standout features. [Comments](https://lobste.rs/s/e3xhzq/why_is_zig_so_cool)
+* [Quint Visualizer: a GraphViz-like visualizer for Quint traces](https://quint-visualizer.noghartt.dev/) introduces a new visualization tool designed for better trace analysis with similarities to GraphViz.
 
-* [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit) - A demonstration of an open-source tool designed for creating robust AI agents. [Comments](https://news.ycombinator.com/item?id=46641362)
+* [Forgejo v14.0 is available](https://forgejo.org/2026-01-release-v14-0/) announces updates to the community-driven Forgejo Git hosting platform.
 
-* [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs) - Detailing a distributed file system model designed for compatibility and performance. [Comments](https://news.ycombinator.com/item?id=46637165)
+* [New Social Web Working Group at W3C](https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/) details initiatives for advancing the future of social web standards.
 
-* [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html) - An exploration into game theory and constructibility in Conway’s Game of Life. [Comments](https://news.ycombinator.com/item?id=46641239)
+## Cybersecurity and Digital Safety
 
-* [I’m The Captain Now: Hijacking a global ocean supply chain network](https://eaton-works.com/2026/01/14/bluspark-bluvoyix-hack/) - Investigating vulnerabilities in global shipping networks. [Comments](https://news.ycombinator.com/item?id=46632023)
+* [BreachForum Breach](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss) delves into the ramifications of a major breach affecting an underground forum.
 
-## Cybersecurity Developments and Vulnerabilities
+* [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files) investigates a critical leak of sensitive files tied to Claude Cowork.
 
-* [A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby](https://projectzero.google/2026/01/pixel-0-click-part-1.html) - Google's Project Zero details vulnerabilities in the Pixel series. [Comments](https://lobste.rs/s/jqntdm/0_click_exploit_chain_for_pixel_9_part_1)
+* [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695) examines the decision to halt external contributions due to AI-generated issues.
 
-* [Reverse engineering my cloud-connected e-scooter and finding the master key to unlock all scooters](https://blog.nns.ee/2026/01/06/aike-ble/) - Hacker uncovers major security flaw in connected e-scooter technology. [Comments](https://lobste.rs/s/wt74cp/reverse_engineering_my_cloud_connected_e)
+* [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild) reveals a dangerous supply chain vulnerability impacting AWS repositories.
 
-* [CVEs affecting the Svelte ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem) - Analysis of recent vulnerabilities in the Svelte framework and their impact. [Comments](https://news.ycombinator.com/item?id=46636387)
+* [Reverse engineering my cloud-connected e-scooter and finding the master key to unlock all scooters](https://blog.nns.ee/2026/01/06/aike-ble/) uncovers vulnerabilities in shared e-scooter infrastructure, posing major security concerns.
 
-* [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild) - An extensive report on a recent AWS-oriented vulnerability threatening the company’s operations. [Comments](https://news.ycombinator.com/item?id=46636093)
+## Artificial Intelligence
 
-## Science, Environment, and Space
+* [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) explores the growing preference for Claude AI over in-house solutions by industry engineers.
 
-* [Astronauts Splash Down To Earth After Medical Evacuation From ISS](https://science.slashdot.org/story/26/01/15/2134216/astronauts-splash-down-to-earth-after-medical-evacuation-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Medical concerns prompt a unique astronaut evacuation mission from the ISS. [Comments](https://science.slashdot.org/story/26/01/15/2134216/astronauts-splash-down-to-earth-after-medical-evacuation-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit) introduces an open-source project designed to enhance reliability in AI agents.
 
-* [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/) - Insight into the endeavours uncovering potential extraterrestrial origins in complex signal detection. [Comments](https://news.ycombinator.com/item?id=46642414)
+* [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/) provides insights into strengths and weaknesses of Claude AI.
 
-* [Photos capture the breathtaking scale of China’s wind and solar buildout](https://e360.yale.edu/digest/china-renewable-photo-essay) - Highlighting efforts and advancements in China’s renewable energy projects. [Comments](https://news.ycombinator.com/item?id=46630369)
+* [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/) recounts an analysis and reverse engineering attempt on YouTube’s video engagement metrics.
 
-* [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - New advances in quantum technology poised to revolutionize telecommunications. [Comments](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss)
+## Science and Space Exploration
 
-* [Scientists Discover Ancient Bees Built Nests Inside Animal Bones](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss) - A natural-history-focused study reveals insights into ancient bees' nesting behaviors. [Comments](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss)
+* [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/) highlights SETI Home's decades-long survey that identified 100 potential extraterrestrial signals.
 
-## Policy, Culture, and Society
+* [Astronauts Splash Down To Earth After Medical Evacuation From ISS](https://science.slashdot.org/story/26/01/15/2134216/astronauts-splash-down-to-earth-after-medical-evacuation-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) recounts an emergency evacuation mission from the ISS back to Earth.
 
-* [New York Introduces Legislation To Crack Down On 3D Printers That Make Ghost Guns](https://hardware.slashdot.org/story/26/01/15/2236205/new-york-introduces-legislation-to-crack-down-on-3d-printers-that-make-ghost-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legislation to address firearm manufacturing using advanced technological tools. [Comments](https://hardware.slashdot.org/story/26/01/15/2236205/new-york-introduces-legislation-to-crack-down-on-3d-printers-that-make-ghost-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&amp;from=rss) captures the decision-making process surrounding a postponed ISS spacewalk.
 
-* [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) - Survey highlights employee preferences for third-party AI over their internal corporate solutions. [Comments](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss)
+* [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss) explores how robust microbes might facilitate Martian colonization through new technologies.
 
-* [Iran's Internet Shutdown Is Now One of the Longest Ever](https://tech.slashdot.org/story/26/01/15/2228257/irans-internet-shutdown-is-now-one-of-the-longest-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Continual limitations on global web access spark ongoing concern about internet autonomy and freedom. [Comments](https://tech.slashdot.org/story/26/01/15/2228257/irans-internet-shutdown-is-now-one-of-the-longest-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Policy and Privacy
+
+* [New York Introduces Legislation To Crack Down On 3D Printers That Make Ghost Guns](https://hardware.slashdot.org/story/26/01/15/2236205/new-york-introduces-legislation-to-crack-down-on-3d-printers-that-make-ghost-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) examines legal efforts to address home-manufactured weapons with 3D printing.
+
+* [Iran's Internet Shutdown Is Now One of the Longest Ever](https://tech.slashdot.org/story/26/01/15/2228257/irans-internet-shutdown-is-now-one-of-the-longest-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reports on the extended internet restrictions impacting communication in Iran.
+
+* [Italy's Privacy Watchdog, Scourge of US Big Tech, Hit By Corruption Probe](https://yro.slashdot.org/story/26/01/15/2120216/italys-privacy-watchdog-scourge-of-us-big-tech-hit-by-corruption-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights contrasting industry influence and internal challenges to privacy enforcement.
+
+* [Oceans Are Struggling To Absorb Carbon As Microplastics Flood Their Waters](https://soylentnews.org/article.pl?sid=26/01/10/2213252&amp;from=rss) discusses the duality of climate change and pollution impacts on global water bodies.
 
 ---
 
@@ -73,28 +81,35 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-16, 03:49:48](https://lobste.rs/s/ihxq0c/cryptography_30_years_apart_ascon_on_hp) - [Cryptography 30 years apart: Ascon on an HP-16C](https://dram.page/p/ascon-hp16c/)
+* [2026-01-16, 06:24:49](https://lobste.rs/s/go7hr7/histomat_f_oss_we_should_reclaim_llms_not) - [Histomat of F/OSS: We should reclaim LLMs, not reject them](https://writings.hongminhee.org/2026/01/histomat-foss-llm/)
+* [2026-01-16, 05:47:00](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss) - [BreachForum Breach](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss)
+* [2026-01-16, 04:51:57](https://news.ycombinator.com/item?id=46643099) - [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
+* [2026-01-16, 04:13:20](https://lobste.rs/s/ngrqg1/my_projects_2025) - [My Projects in 2025](https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025)
+* [2026-01-16, 04:11:17](https://news.ycombinator.com/item?id=46642920) - [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
 * [2026-01-16, 03:30:00](https://tech.slashdot.org/story/26/01/15/2248249/study-finds-weak-evidence-linking-social-media-use-to-teen-mental-health-problems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Finds Weak Evidence Linking Social Media Use to Teen Mental Health Problems](https://tech.slashdot.org/story/26/01/15/2248249/study-finds-weak-evidence-linking-social-media-use-to-teen-mental-health-problems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 03:10:36](https://news.ycombinator.com/item?id=46642560) - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-* [2026-01-16, 02:59:59](https://news.ycombinator.com/item?id=46642504) - [Cloudflare threatens Italy exit over €14M fine](https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine)
 * [2026-01-16, 02:45:15](https://news.ycombinator.com/item?id=46642414) - [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/)
+* [2026-01-16, 02:39:12](https://news.ycombinator.com/item?id=46642372) - [Ask HN: How to make my website exist for 100 years?](https://news.ycombinator.com/item?id=46642372)
 * [2026-01-16, 02:18:18](https://lobste.rs/s/09tygd/quint_visualizer_graphviz_like) - [Quint Visualizer: a GraphViz-like visualizer for Quint traces](https://quint-visualizer.noghartt.dev/)
 * [2026-01-16, 02:14:15](https://lobste.rs/s/jqntdm/0_click_exploit_chain_for_pixel_9_part_1) - [A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby](https://projectzero.google/2026/01/pixel-0-click-part-1.html)
 * [2026-01-16, 02:07:44](https://lobste.rs/s/xyiyri/integration_tests_are_best_tests) - [Integration tests are best tests](https://jayconrod.com/posts/133/integration-tests-are-best-tests)
 * [2026-01-16, 02:06:11](https://news.ycombinator.com/item?id=46642173) - [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
 * [2026-01-16, 02:02:00](https://entertainment.slashdot.org/story/26/01/15/2239246/amazon-is-making-a-fallout-shelter-competition-reality-tv-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Is Making a Fallout Shelter Competition Reality TV Show](https://entertainment.slashdot.org/story/26/01/15/2239246/amazon-is-making-a-fallout-shelter-competition-reality-tv-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-16, 01:42:31](https://lobste.rs/s/ds5xzb/getting_started_with_voice_driven) - [Getting Started with Voice Driven Development (2019)](https://whalequench.club/blog/2019/09/03/learning-to-speak-code.html)
 * [2026-01-16, 01:25:00](https://hardware.slashdot.org/story/26/01/15/2236205/new-york-introduces-legislation-to-crack-down-on-3d-printers-that-make-ghost-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Introduces Legislation To Crack Down On 3D Printers That Make Ghost Guns](https://hardware.slashdot.org/story/26/01/15/2236205/new-york-introduces-legislation-to-crack-down-on-3d-printers-that-make-ghost-guns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 01:06:00](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) - [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss)
+* [2026-01-16, 00:52:26](https://news.ycombinator.com/item?id=46641663) - [Show HN: BGP Scout – BGP Network Browser](https://bgpscout.io/)
 * [2026-01-16, 00:45:00](https://tech.slashdot.org/story/26/01/15/2228257/irans-internet-shutdown-is-now-one-of-the-longest-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran&apos;s Internet Shutdown Is Now One of the Longest Ever](https://tech.slashdot.org/story/26/01/15/2228257/irans-internet-shutdown-is-now-one-of-the-longest-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 00:15:53](https://lobste.rs/s/e3xhzq/why_is_zig_so_cool) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2026-01-16, 00:13:25](https://news.ycombinator.com/item?id=46641362) - [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit)
 * [2026-01-16, 00:11:28](https://news.ycombinator.com/item?id=46641348) - [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
+* [2026-01-16, 00:05:01](https://news.ycombinator.com/item?id=46641284) - [List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)
 * [2026-01-16, 00:02:00](https://science.slashdot.org/story/26/01/15/2134216/astronauts-splash-down-to-earth-after-medical-evacuation-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronauts Splash Down To Earth After Medical Evacuation From ISS](https://science.slashdot.org/story/26/01/15/2134216/astronauts-splash-down-to-earth-after-medical-evacuation-from-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 00:01:51](https://lobste.rs/s/esmvsj/http_ratelimit_headers) - [HTTP RateLimit headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-15, 23:59:06](https://news.ycombinator.com/item?id=46641239) - [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html)
+* [2026-01-15, 23:37:42](https://news.ycombinator.com/item?id=46641042) - [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
 * [2026-01-15, 23:20:00](https://tech.slashdot.org/story/26/01/15/2126254/asus-stops-producing-nvidia-rtx-5070-ti-and-5060-ti-16gb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ASUS Stops Producing Nvidia RTX 5070 Ti and 5060 Ti 16GB](https://tech.slashdot.org/story/26/01/15/2126254/asus-stops-producing-nvidia-rtx-5070-ti-and-5060-ti-16gb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-15, 22:40:00](https://yro.slashdot.org/story/26/01/15/2120216/italys-privacy-watchdog-scourge-of-us-big-tech-hit-by-corruption-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Italy&apos;s Privacy Watchdog, Scourge of US Big Tech, Hit By Corruption Probe](https://yro.slashdot.org/story/26/01/15/2120216/italys-privacy-watchdog-scourge-of-us-big-tech-hit-by-corruption-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-15, 22:33:58](https://news.ycombinator.com/item?id=46640366) - [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 * [2026-01-15, 22:04:48](https://lobste.rs/s/ijrlrq/how_parametrize_exception_testing) - [How to parametrize exception testing in PyTest?](https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html)
 * [2026-01-15, 22:02:00](https://developers.slashdot.org/story/26/01/15/2114210/oracle-trying-to-lure-workers-to-nashville-for-new-global-hq?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oracle Trying To Lure Workers To Nashville For New &apos;Global&apos; HQ](https://developers.slashdot.org/story/26/01/15/2114210/oracle-trying-to-lure-workers-to-nashville-for-new-global-hq?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-15, 21:22:00](https://tech.slashdot.org/story/26/01/15/1859211/boeing-knew-about-flaws-in-ups-plane-that-crashed-in-louisville-ntsb-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boeing Knew About Flaws in UPS Plane That Crashed in Louisville, NTSB Says](https://tech.slashdot.org/story/26/01/15/1859211/boeing-knew-about-flaws-in-ups-plane-that-crashed-in-louisville-ntsb-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -117,12 +132,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-15, 15:49:33](https://lobste.rs/s/aijblh/new_social_web_working_group_at_w3c) - [New Social Web Working Group at W3C](https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss)
 * [2026-01-15, 15:16:58](https://lobste.rs/s/2sl7bs/going_immutable_on_macos) - [Going immutable on macOS](https://carette.xyz/posts/going_immutable_macos/)
-* [2026-01-15, 15:09:16](https://news.ycombinator.com/item?id=46633574) - [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [2026-01-15, 15:02:42](https://news.ycombinator.com/item?id=46633488) - [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
 * [2026-01-15, 14:10:40](https://lobste.rs/s/ahdtzt/forgejo_v14_0_is_available) - [Forgejo v14.0 is available](https://forgejo.org/2026-01-release-v14-0/)
 * [2026-01-15, 13:44:44](https://lobste.rs/s/kgu8if/those_who_fired_didn_t_hire_tech_writers) - [To those who fired or didn&apos;t hire tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 * [2026-01-15, 13:26:20](https://lobste.rs/s/xe6dnb/iterative_image_reconstruction_using) - [iterative image reconstruction using random cubic bézier strokes](https://tangled.org/luthenwald.tngl.sh/splined)
-* [2026-01-15, 13:17:07](https://news.ycombinator.com/item?id=46632023) - [25 Years of Wikipedia](https://wikipedia25.org)
 * [2026-01-15, 13:11:39](https://lobste.rs/s/1atb7q/i_m_captain_now_hijacking_global_ocean) - [I’m The Captain Now: Hijacking a global ocean supply chain network](https://eaton-works.com/2026/01/14/bluspark-bluvoyix-hack/)
 * [2026-01-15, 12:27:40](https://lobste.rs/s/pddded/why_senior_engineers_let_bad_projects) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 * [2026-01-15, 11:44:04](https://lobste.rs/s/fbkls4/people_who_built_wikipedia_technically) - [The people who built Wikipedia, technically (2021)](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-01-31/Technology_report)
@@ -130,17 +143,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos capture the breathtaking scale of China&apos;s wind and solar buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 09:15:51](https://lobste.rs/s/whv98g/codeless_code_fables_koans_for_software) - [Codeless Code - Fables &amp; Koans for the Software Engineer](https://thecodelesscode.com)
-* [2026-01-15, 09:11:29](https://lobste.rs/s/7cucs1/discoveries_continuations) - [The discoveries of continuations](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
 * [2026-01-15, 08:38:27](https://lobste.rs/s/hshaq4/alternatives_minio_for_single_node_local) - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
 * [2026-01-15, 08:10:06](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2026)](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots)
-* [2026-01-15, 07:36:15](https://news.ycombinator.com/item?id=46629295) - [Use of Bayesian methodology in clinical trials of drug and biological products [pdf]](https://www.fda.gov/media/190505/download)
 * [2026-01-15, 07:05:31](https://lobste.rs/s/busryv/claude_cowork_exfiltrates_files) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-15, 06:12:00](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss) - [Resuscitating a 1934 Briggs &amp; Stratton Washing Machine Engine](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss)
 * [2026-01-15, 05:14:08](https://news.ycombinator.com/item?id=46628329) - [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
 * [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss) - [RIP - &apos;Dilbert&apos; Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss)
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss) - [The AIdigest.org&apos;s AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss)
 * [2026-01-14, 22:50:08](https://lobste.rs/s/o9acsn/state_openssl_for_pyca_cryptography) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-* [2026-01-14, 20:55:24](https://lobste.rs/s/4icz4n/what_does_it_take_ship_rust_safety) - [What does it take to ship Rust in safety-critical?](https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/)
 * [2026-01-14, 20:52:21](https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix) - [SelfCI - a minimalistic local-first Unix-philosophy-abiding CI](https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU)
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss)
 * [2026-01-14, 16:26:11](https://news.ycombinator.com/item?id=46618042) - [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/)
@@ -159,7 +169,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-12, 21:11:00](https://soylentnews.org/article.pl?sid=26/01/10/2227246&amp;from=rss) - [NASA Postponed ISS Spacewalk Over Medical Issue, Crew Will Return Early](https://soylentnews.org/article.pl?sid=26/01/10/2227246&amp;from=rss)
 * [2026-01-12, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss) - [Very Tough Microbes May Help Us Cement Our Future on Mars](https://soylentnews.org/article.pl?sid=26/01/10/2218252&amp;from=rss)
 * [2026-01-12, 13:32:42](https://news.ycombinator.com/item?id=46588243) - [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
-* [2026-01-12, 13:00:21](https://news.ycombinator.com/item?id=46587844) - [The five orders of ignorance (2000)](https://cacm.acm.org/opinion/the-five-orders-of-ignorance/)
+* [2026-01-12, 12:00:05](https://news.ycombinator.com/item?id=46587253) - [Show HN: A cross-platform toolkit to explore OS internals and capabilities](https://news.ycombinator.com/item?id=46587253)
 * [2026-01-12, 12:00:00](https://soylentnews.org/article.pl?sid=26/01/10/2213252&amp;from=rss) - [Oceans Are Struggling To Absorb Carbon As Microplastics Flood Their Waters](https://soylentnews.org/article.pl?sid=26/01/10/2213252&amp;from=rss)
 * [2026-01-12, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss) - [Scientists Discover Ancient Bees Built Nests Inside Animal Bones](https://soylentnews.org/article.pl?sid=26/01/10/227243&amp;from=rss)
 * [2026-01-12, 02:33:00](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss) - [Bose Open-Sources its SoundTouch Home Theater Smart Speakers Ahead of End-of-Life](https://soylentnews.org/article.pl?sid=26/01/10/2158258&amp;from=rss)
