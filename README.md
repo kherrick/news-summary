@@ -1,42 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Business and Technology Updates
+## Technology and Innovation
 
-* [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse) ([Comments](https://news.ycombinator.com/item?id=46656552)) - ClickHouse has officially announced the acquisition of Langfuse, a step towards advancing its analytics and streaming technologies.
+* [GitHub Copilot now supports OpenCode](https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/) - GitHub adds support for OpenCode in its Copilot feature, expanding its capabilities for developers.
 
-* [Cloudflare Acquires Team Behind Open Source Framework Astro](https://news.slashdot.org/story/26/01/16/2120240/cloudflare-acquires-team-behind-open-source-framework-astro?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=46646645)) - Cloudflare has acquired the Astro Technology Company, turning attention towards enhancing open-source development in web technologies.
+* [Signal Creator Moxie Marlinspike Wants to Do for AI What He Did for Messaging](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss) - Signal app creator aspires to revolutionize AI, leveraging his experience with secure communication.
 
-## Programming and Open Source Developments
+* [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu) - A terminal UI tool simplifies the visualization of commit graphs.
 
-* [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu) ([Comments](https://news.ycombinator.com/item?id=46654085)) - Keifu introduces a TUI tool that provides developers with improved navigation of commit graphs using color-coded illustrations.
+* [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/) - Details on the upgraded AV1 image file format specification released under AVIF v1.2.0.
 
-* [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip) ([Comments](https://lobste.rs/s/s55ewk/kip_programming_language_based_on)) - Explore kip, a novel programming language inspired by the linguistic structure of Turkish grammar.
+* [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/) - Cloudflare announces acquisition of the team behind the Astro open-source framework.
 
-* [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables) ([Comments](https://news.ycombinator.com/item?id=46652617)) - Google promotes faster adoption of secure technology by providing rainbow tables for deprecating the outdated Net-NTLMv1 protocol.
+## Environmental and Energy Achievements
 
-* [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer) ([Comments](https://news.ycombinator.com/item?id=46656358)) - A new tool allows for seamless streaming of medical images stored in S3 Storage without the need for downloading.
+* [Biggest Offshore Wind Project In US To Resume Construction](https://hardware.slashdot.org/story/26/01/17/0417254/biggest-offshore-wind-project-in-us-to-resume-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - US's largest offshore wind project restarts development, spotlighting renewable energy efforts.
 
-* [smalloc: a simple memory allocator](https://github.com/zooko/smalloc) ([Comments](https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator)) - Discover smalloc, a lightweight solution in memory allocation for developers.
+* [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/) - Solar power meets the majority of the surge in US electricity demand for 2025.
 
-## Innovations in Science and Environment
+## Cybersecurity
 
-* [Pesticides May Drastically Shorten Fish Lifespans, Study Finds](https://science.slashdot.org/story/26/01/16/224252/pesticides-may-drastically-shorten-fish-lifespans-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/01/16/224252/pesticides-may-drastically-shorten-fish-lifespans-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - New research highlights how common pesticides are severely reducing aquatic life expectancy, raising environmental concerns.
+* [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss) - Remote hacking vulnerabilities in WHILL wheelchairs unveiled by researchers.
 
-* [Biggest Offshore Wind Project In US To Resume Construction](https://hardware.slashdot.org/story/26/01/17/0417254/biggest-offshore-wind-project-in-us-to-resume-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/01/17/0417254/biggest-offshore-wind-project-in-us-to-resume-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - The United States is making significant progress by resuming its largest offshore wind power project.
+* [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1) - A deep dive into hacking drones by examining dumped firmware and ECC bruteforcing.
 
-## Cybersecurity and Malware Insights
+* [Supreme Court Hacker Posted Stolen Government Data On Instagram](https://tech.slashdot.org/story/26/01/16/2128242/supreme-court-hacker-posted-stolen-government-data-on-instagram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Government data stolen by a hacker and leaked on Instagram raises alarms.
 
-* [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1) ([Comments](https://lobste.rs/s/xqsqsm/drone_hacking_part_1_dumping_firmware)) - A deep dive into hacking drones by dumping their firmware and bypassing ECC protection in this detailed blog post.
+## Cultural and Societal Insights
 
-* [Judge Orders Anna's Archive To Delete Scraped Data](https://yro.slashdot.org/story/26/01/16/2155232/judge-orders-annas-archive-to-delete-scraped-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/01/16/2155232/judge-orders-annas-archive-to-delete-scraped-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Legal order mandates that Anna's Archive remove data acquired via mass scraping.
+* [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal) - Explore the fascinating historical roots and cultural significance of the word 'hello'.
 
-## Social, Cultural, and Sci-Tech Trends
+* [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape) - A harrowing story of two families escaping East Germany by hot air balloon.
 
-* [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/) ([Comments](https://news.ycombinator.com/item?id=46655667)) - Explore an intellectual conversation about meditation's intersection with human consciousness from scientific and Buddhist perspectives.
+## Scientific Breakthroughs and Studies
 
-* [Partly AI-Generated Folk-Pop Hit Barred From Sweden's Official Charts](https://entertainment.slashdot.org/story/26/01/16/1855241/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/26/01/16/1855241/partly-ai-generated-folk-pop-hit-barred-from-swedens-official-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed)) - Debate arises over the boundaries of AI-created art after a controversial AI folk-pop song is banned in Sweden.
+* [Microplastics From Washing Clothes Could Be Hurting Your Tomatoes](https://science.slashdot.org/story/26/01/16/2014231/microplastics-from-washing-clothes-could-be-hurting-your-tomatoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microplastics originating from laundry could harm agricultural produce like tomatoes.
 
-* [Office app has changed to copilot and now I can't open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant) ([Comments](https://news.ycombinator.com/item?id=46656373)) - Users express concern over Office's transition into Copilot as it disrupts the ability to access files seamlessly.
+* [Pesticides May Drastically Shorten Fish Lifespans, Study Finds](https://science.slashdot.org/story/26/01/16/224252/pesticides-may-drastically-shorten-fish-lifespans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research reveals how pesticides impact fish lifespans in ecosystems.
+
+## Historical and Linguistic Developments
+
+* [A 2,000-Year-Old Fingerprint May Solve Mystery of Scandinavia's Oldest Wooden Boat](https://soylentnews.org/article.pl?sid=26/01/12/0127259&amp;from=rss) - The discovery of an ancient fingerprint provides new insights into Scandinavian history.
+
+* [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip) - An innovative programming language inspired by the Turkish language structure.
+
+## Legal and Policy News
+
+* [Supreme Court May Block Thousands of Lawsuits Over Monsanto's Weed Killer](https://yro.slashdot.org/story/26/01/17/0428238/supreme-court-may-block-thousands-of-lawsuits-over-monsantos-weed-killer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Thousands of lawsuits targeting Monsanto's weed killer might be halted by a Supreme Court decision.
+
+* [Judge Orders Anna's Archive To Delete Scraped Data](https://yro.slashdot.org/story/26/01/16/2155232/judge-orders-annas-archive-to-delete-scraped-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal actions demand the deletion of data scraped by Anna's Archive.
 
 ---
 
@@ -63,19 +75,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse Acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
+* [2026-01-17, 13:00:00](https://tech.slashdot.org/story/26/01/17/0440228/nearly-5-million-accounts-removed-under-australias-new-social-media-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nearly 5 Million Accounts Removed Under Australia&apos;s New Social Media Ban](https://tech.slashdot.org/story/26/01/17/0440228/nearly-5-million-accounts-removed-under-australias-new-social-media-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-17, 12:48:13](https://lobste.rs/s/kbkcbe/website_end_all_websites) - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+* [2026-01-17, 12:01:29](https://lobste.rs/s/vkau8y/pushing_smallest_possible_change) - [Pushing the smallest possible change to production —](https://ankursethi.com/blog/smallest-possible-change/)
+* [2026-01-17, 11:51:44](https://news.ycombinator.com/item?id=46657296) - [The 600-year-old origins of the word &apos;hello&apos;](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
+* [2026-01-17, 11:28:47](https://news.ycombinator.com/item?id=46657194) - [Fitdrop: Personal exploration of fashion from 1980 to 2025](https://fitdrop.cc/)
+* [2026-01-17, 11:18:49](https://news.ycombinator.com/item?id=46657141) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
+* [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+* [2026-01-17, 11:14:55](https://news.ycombinator.com/item?id=46657116) - [Gut micro-organisms associated with health, nutrition and dietary intervention](https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg)
+* [2026-01-17, 11:09:36](https://news.ycombinator.com/item?id=46657088) - [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/)
+* [2026-01-17, 10:29:35](https://news.ycombinator.com/item?id=46656911) - [After 25 years, Wikipedia has proved that news doesn&apos;t need to look like news](https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/)
+* [2026-01-17, 10:28:06](https://news.ycombinator.com/item?id=46656903) - [US electricity demand surged in 2025 – solar handled 61% of it](https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/)
+* [2026-01-17, 10:18:00](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss) - [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss)
+* [2026-01-17, 10:13:57](https://news.ycombinator.com/item?id=46656834) - [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
+* [2026-01-17, 10:00:00](https://yro.slashdot.org/story/26/01/17/0428238/supreme-court-may-block-thousands-of-lawsuits-over-monsantos-weed-killer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court May Block Thousands of Lawsuits Over Monsanto&apos;s Weed Killer](https://yro.slashdot.org/story/26/01/17/0428238/supreme-court-may-block-thousands-of-lawsuits-over-monsantos-weed-killer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-17, 09:15:45](https://news.ycombinator.com/item?id=46656552) - [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
 * [2026-01-17, 08:50:48](https://lobste.rs/s/xqsqsm/drone_hacking_part_1_dumping_firmware) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1)
-* [2026-01-17, 08:48:26](https://news.ycombinator.com/item?id=46656373) - [Office app has changed to copilot and now I can&apos;t open files](https://old.reddit.com/r/Office365/comments/1q2b28q/office_app_has_changed_to_copilot_and_now_i_cant)
 * [2026-01-17, 08:46:08](https://news.ycombinator.com/item?id=46656358) - [Show HN: Streaming gigabyte medical images from S3 without downloading them](https://github.com/PABannier/WSIStreamer)
-* [2026-01-17, 07:43:21](https://news.ycombinator.com/item?id=46656100) - [Every data centre is a U.S. military base](https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/)
-* [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The &apos;untouchable hacker god&apos; behind Finland&apos;s biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
 * [2026-01-17, 07:23:41](https://lobste.rs/s/s55ewk/kip_programming_language_based_on) - [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 * [2026-01-17, 07:00:00](https://hardware.slashdot.org/story/26/01/17/0417254/biggest-offshore-wind-project-in-us-to-resume-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Biggest Offshore Wind Project In US To Resume Construction](https://hardware.slashdot.org/story/26/01/17/0417254/biggest-offshore-wind-project-in-us-to-resume-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 06:15:02](https://lobste.rs/s/n8qgs8/emoji_design_convergence_review_2018) - [Emoji Design Convergence Review: 2018 - 2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
-* [2026-01-17, 05:49:23](https://news.ycombinator.com/item?id=46655667) - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
 * [2026-01-17, 05:33:17](https://lobste.rs/s/fgdiw1/how_clickhouse_handles_strings) - [How ClickHouse handles strings](https://rushter.com/blog/clickhouse-strings/)
 * [2026-01-17, 05:30:00](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss) - [Signal Creator Moxie Marlinspike Wants to Do for AI What He Did for Messaging](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss)
 * [2026-01-17, 03:30:00](https://science.slashdot.org/story/26/01/16/224252/pesticides-may-drastically-shorten-fish-lifespans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pesticides May Drastically Shorten Fish Lifespans, Study Finds](https://science.slashdot.org/story/26/01/16/224252/pesticides-may-drastically-shorten-fish-lifespans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-17, 03:12:38](https://lobste.rs/s/diqtq5/github_copilot_now_supports_opencode) - [GitHub Copilot now supports OpenCode](https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/)
 * [2026-01-17, 02:35:28](https://news.ycombinator.com/item?id=46654749) - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
 * [2026-01-17, 02:02:00](https://yro.slashdot.org/story/26/01/16/2155232/judge-orders-annas-archive-to-delete-scraped-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Orders Anna&apos;s Archive To Delete Scraped Data](https://yro.slashdot.org/story/26/01/16/2155232/judge-orders-annas-archive-to-delete-scraped-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 01:25:00](https://tech.slashdot.org/story/26/01/16/2144202/patch-tuesday-update-makes-windows-pcs-refuse-to-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Patch Tuesday Update Makes Windows PCs Refuse To Shut Down](https://tech.slashdot.org/story/26/01/16/2144202/patch-tuesday-update-makes-windows-pcs-refuse-to-shut-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 * [2026-01-16, 23:20:00](https://news.slashdot.org/story/26/01/16/2120240/cloudflare-acquires-team-behind-open-source-framework-astro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Acquires Team Behind Open Source Framework Astro](https://news.slashdot.org/story/26/01/16/2120240/cloudflare-acquires-team-behind-open-source-framework-astro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 22:40:00](https://news.slashdot.org/story/26/01/16/2112255/canada-reverses-tariff-on-chinese-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canada Reverses Tariff On Chinese EVs](https://news.slashdot.org/story/26/01/16/2112255/canada-reverses-tariff-on-chinese-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-16, 22:15:20](https://news.ycombinator.com/item?id=46652944) - [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
 * [2026-01-16, 22:00:00](https://slashdot.org/story/26/01/16/213211/tsmc-says-ai-demand-is-endless-after-record-q4-earnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TSMC Says AI Demand Is &apos;Endless&apos; After Record Q4 Earnings](https://slashdot.org/story/26/01/16/213211/tsmc-says-ai-demand-is-endless-after-record-q4-earnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I&apos;m still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 * [2026-01-16, 21:42:24](https://news.ycombinator.com/item?id=46652617) - [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
@@ -100,9 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-16, 19:20:58](https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator) - [smalloc: a simple memory allocator](https://github.com/zooko/smalloc)
 * [2026-01-16, 19:00:55](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries) - [What are your favorite drawing libraries?](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries)
 * [2026-01-16, 18:49:29](https://news.ycombinator.com/item?id=46650347) - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
-* [2026-01-16, 18:45:00](https://slashdot.org/story/26/01/16/1827203/ads-are-coming-to-chatgpt-in-the-coming-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ads Are Coming To ChatGPT in the Coming Weeks](https://slashdot.org/story/26/01/16/1827203/ads-are-coming-to-chatgpt-in-the-coming-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-16, 18:13:00](https://news.slashdot.org/story/26/01/16/1813239/seattle-is-building-light-rail-like-its-1999?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Seattle is Building Light Rail Like It&apos;s 1999](https://news.slashdot.org/story/26/01/16/1813239/seattle-is-building-light-rail-like-its-1999?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-16, 17:56:03](https://news.ycombinator.com/item?id=46649489) - [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
 * [2026-01-16, 17:32:40](https://news.ycombinator.com/item?id=46649142) - [STFU](https://github.com/Pankajtanwarbanna/stfu)
 * [2026-01-16, 17:16:33](https://news.ycombinator.com/item?id=46648916) - [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
 * [2026-01-16, 17:14:15](https://news.ycombinator.com/item?id=46648885) - [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
@@ -115,24 +134,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-16, 14:42:47](https://lobste.rs/s/dggcj3/astro_technology_company_joins) - [The Astro Technology Company joins Cloudflare](https://astro.build/blog/joining-cloudflare/)
 * [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor&apos;s latest “browser experiment” implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
-* [2026-01-16, 13:39:06](https://lobste.rs/s/nkss2q/ergonomic_abstractions_for_numerical) - [Ergonomic abstractions for numerical computing: My story so far](http://ocramz.github.io/posts/2026-01-16-ergonomics-numerical.html)
-* [2026-01-16, 12:58:24](https://news.ycombinator.com/item?id=46645941) - [Patching the Wii News Channel to serve local news (2025)](https://raulnegron.me/2025/wii-news-pr/)
+* [2026-01-16, 14:09:32](https://news.ycombinator.com/item?id=46646475) - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 * [2026-01-16, 12:55:44](https://lobste.rs/s/krjjdr/patching_wii_news_channel_serve_local) - [Patching the Wii News Channel to serve local news](https://raulnegron.me/2025/wii-news-pr/)
 * [2026-01-16, 12:43:15](https://lobste.rs/s/bxwek7/glasgow_interface_explorer_code_conduct) - [Glasgow Interface Explorer Code of Conduct](https://glasgow-embedded.org/latest/conduct.html)
 * [2026-01-16, 10:34:11](https://lobste.rs/s/xaxgtt/modern_java) - [Modern Java](https://javabook.mccue.dev)
 * [2026-01-16, 10:30:00](https://soylentnews.org/article.pl?sid=26/01/14/2313236&amp;from=rss) - [Over Half a Million Windows Users are Switching to Linux](https://soylentnews.org/article.pl?sid=26/01/14/2313236&amp;from=rss)
 * [2026-01-16, 10:01:31](https://lobste.rs/s/x59zd7/magic_better_software_conference) - [The Magic of the Better Software Conference](https://www.rfleury.com/p/the-magic-of-the-better-software)
-* [2026-01-16, 09:25:55](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend)
 * [2026-01-16, 06:24:49](https://lobste.rs/s/go7hr7/histomat_f_oss_we_should_reclaim_llms_not) - [Histomat of F/OSS: We should reclaim LLMs, not reject them](https://writings.hongminhee.org/2026/01/histomat-foss-llm/)
 * [2026-01-16, 05:47:00](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss) - [BreachForum Breach](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss)
 * [2026-01-16, 01:06:00](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) - [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss)
 * [2026-01-16, 00:15:53](https://lobste.rs/s/e3xhzq/why_is_zig_so_cool) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2026-01-16, 00:01:51](https://lobste.rs/s/esmvsj/http_ratelimit_headers) - [HTTP RateLimit headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-15, 20:17:00](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss) - [GNOME Dev Gives Fans of Linux&apos;s Middle-Click Paste the Middle Finger](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss)
-* [2026-01-15, 18:54:10](https://news.ycombinator.com/item?id=46637322) - [Show HN: Tusk Drift – Turn production traffic into API tests](https://github.com/Use-Tusk/tusk-drift-cli)
 * [2026-01-15, 16:46:50](https://news.ycombinator.com/item?id=46635309) - [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss)
-* [2026-01-15, 14:10:40](https://lobste.rs/s/ahdtzt/forgejo_v14_0_is_available) - [Forgejo v14.0 is available](https://forgejo.org/2026-01-release-v14-0/)
 * [2026-01-15, 12:27:40](https://lobste.rs/s/pddded/why_senior_engineers_let_bad_projects) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss)
@@ -140,12 +155,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss) - [RIP - &apos;Dilbert&apos; Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss)
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss) - [The AIdigest.org&apos;s AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss)
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss)
-* [2026-01-14, 16:29:50](https://news.ycombinator.com/item?id=46618105) - [HTTP RateLimit Headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss)
 * [2026-01-14, 12:01:08](https://news.ycombinator.com/item?id=46615084) - [Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless](https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless)
 * [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss)
 * [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss)
-* [2026-01-14, 05:26:20](https://news.ycombinator.com/item?id=46612661) - [Beebo, a wave simulator written in C](https://git.sr.ht/~willowf/beebo/)
 * [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss)
 * [2026-01-13, 20:52:00](https://soylentnews.org/article.pl?sid=26/01/12/0132243&amp;from=rss) - [A Sit-Stand Ratio ‘Sweet Spot’ May Boost Office Productivity](https://soylentnews.org/article.pl?sid=26/01/12/0132243&amp;from=rss)
 * [2026-01-13, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/12/0131237&amp;from=rss) - [Poul-Henning Kamp&apos;s Feedback to the EU on Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/12/0131237&amp;from=rss)
