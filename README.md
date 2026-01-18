@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements and Innovations
+## Technology Innovations and Developments
 
-* [Could We Provide Better Cellphone Service With Fewer, Bigger Satellites?](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explorations into optimizing cellphone service with larger, fewer satellites for efficiency and coverage.
+* [China Builds 'Hypergravity' Machine 2,000X Stronger Than Earth](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [VaultGemma: A differentially private LLM](https://arxiv.org/pdf/2510.15001) - Discussing a new language model that incorporates differential privacy for sensitive data protection.
+* [Could We Provide Better Cellphone Service With Fewer, Bigger Satellites?](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Developments in Artificial Intelligence
+* [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss))
 
-* [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Evaluating the extent to which artificial intelligence mimics human cognitive processes.
+## AI and Machine Learning Insights
 
-* [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) - Analysis of AI's impact on the collective mental state of society.
+* [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) ([comments](https://news.ycombinator.com/item?id=46668170))
 
-* [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745) - Highlighting an AI achievement in mathematics, solving complex problems thought to be insurmountable.
+* [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads) ([comments](https://news.ycombinator.com/item?id=46668021))
 
-* [AI Plays Rollercoaster Tycoon](https://labs.ramp.com/rct) - Exploration of AI's capabilities in playing intricate simulation games like Rollercoaster Tycoon.
+* [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Insights from Developers and Open Source Innovations
+## Notable Programming and Infrastructure
 
-* [Daniel&apos;s first 20,000 curl commits](https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/) - A retrospective of dedication and milestones in the curl project.
+* [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html) ([comments](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day))
 
-* [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering) - An in-depth look at representing visuals through ASCII.
+* [Daniel's first 20,000 curl commits](https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/) ([comments](https://lobste.rs/s/x6nwl5/daniel_s_first_20_000_curl_commits))
 
-* [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) - Announcement of the latest major version of jQuery.
+* [Installing Android on the Nintendo Switch](https://blog.omgmog.net/post/android-on-the-nintendo-switch/) ([comments](https://lobste.rs/s/iz3wsu/installing_android_on_nintendo_switch))
 
-* [ThinkNext Design](https://thinknextdesign.com/home.html) - Showcasing a platform dedicated to design innovation and futuristic concepts.
+## Cultural Perspectives
 
-* [Why We&apos;ve Tried to Replace Developers Every Decade Since 1969](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html) - A historical overview of the recurring ambition to replace developers through automation.
+* [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc) ([comments](https://news.ycombinator.com/item?id=46668394))
 
-## Critical Security Concerns
+* [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) ([comments](https://lobste.rs/s/0pxvyd/agent_psychosis_are_we_going_insane))
 
-* [A free and open-source rootkit for Linux](https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/) - Examination of a newly released open-source rootkit for Linux systems.
+* [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1) ([comments](https://news.ycombinator.com/item?id=46667675))
 
-* [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) - An alarming new trend of malicious actors hijacking Snap domains.
+## Miscellaneous Highlights
 
-* [Linux Kernel Bugs Hide for 2+ Years on Average](https://soylentnews.org/article.pl?sid=26/01/17/0446252&amp;from=rss) - Insights into the longevity and vulnerability of unresolved Linux kernel bugs.
+* [Wormholes May Not Exist—We've Found They Reveal Something Deeper About Time and the Universe](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss))
 
-* [To Pressure Security Professionals, Mandiant Releases Database That Cracks Weak NTLM Passwords in 12 Hours](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial release aimed at tackling weak NTLM password security.
+* [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering) ([comments](https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive))
 
-## Lifestyle and Society
-
-* [Retailers Rush to Implement AI-Assisted Shopping and Orders](https://slashdot.org/story/26/01/18/0631239/retailers-rush-to-implement-ai-assisted-shopping-and-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring how retailers are incorporating AI technologies to enhance shopping and order experiences.
-
-* [Wormholes May Not Exist—We&apos;ve Found They Reveal Something Deeper About Time and the Universe](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss) - A theoretical exploration challenging the existence of wormholes and their implications for our understanding of time.
-
-* [&apos;Society Cannot Function If No One is Accountable for AI&apos; — Jaron Lanier](https://soylentnews.org/article.pl?sid=26/01/17/0229252&amp;from=rss) - Advocating accountability amidst the rise of AI's influence on society.
-
-## Environmental and Energy Advances
-
-* [Two More Offshore Wind Projects in the US Allowed to Continue Construction](https://news.slashdot.org/story/26/01/17/0444252/two-more-offshore-wind-projects-in-the-us-allowed-to-continue-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Progress in renewable energy with the approval of additional offshore wind projects.
-
-* [NASA Livestreams the Rocket That Will Carry Four Astronauts Around the Moon](https://science.slashdot.org/story/26/01/17/1828213/nasa-livestreams-the-rocket-that-will-carry-four-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting NASA's advancements in lunar exploration with live footage of its next big rocket.
+* [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
 
 ---
 
@@ -77,9 +65,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-18, 16:11:31](https://lobste.rs/s/iz3wsu/installing_android_on_nintendo_switch) - [Installing Android on the Nintendo Switch](https://blog.omgmog.net/post/android-on-the-nintendo-switch/)
+* [2026-01-18, 15:49:59](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day) - [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
+* [2026-01-18, 15:34:00](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Builds &apos;Hypergravity&apos; Machine 2,000X Stronger Than Earth](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)
+* [2026-01-18, 14:50:00](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss) - [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss)
+* [2026-01-18, 14:45:37](https://news.ycombinator.com/item?id=46668170) - [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+* [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
+* [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
 * [2026-01-18, 12:34:00](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could We Provide Better Cellphone Service With Fewer, Bigger Satellites?](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
-* [2026-01-18, 11:59:32](https://news.ycombinator.com/item?id=46667094) - [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
 * [2026-01-18, 11:39:14](https://news.ycombinator.com/item?id=46666963) - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
 * [2026-01-18, 11:02:03](https://lobste.rs/s/0pxvyd/agent_psychosis_are_we_going_insane) - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 * [2026-01-18, 10:03:00](https://soylentnews.org/article.pl?sid=26/01/17/0457243&amp;from=rss) - [Sorry, Eh](https://soylentnews.org/article.pl?sid=26/01/17/0457243&amp;from=rss)
@@ -104,10 +99,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
 * [2026-01-18, 02:34:00](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-18, 02:31:24](https://lobste.rs/s/mihtmk/vaultgemma_differentially_private_llm) - [VaultGemma: A differentially private LLM](https://arxiv.org/pdf/2510.15001)
-* [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov](https://www.abelard.org/asimov.php)
-* [2026-01-18, 00:49:40](https://news.ycombinator.com/item?id=46663731) - [Data Activation Thoughts](https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/)
+* [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2026-01-18, 00:29:00](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss) - [Wormholes May Not Exist—We&apos;ve Found They Reveal Something Deeper About Time and the Universe](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss)
-* [2026-01-18, 00:09:43](https://news.ycombinator.com/item?id=46663507) - [Computer Systems Security 6.566 / Spring 2024](https://css.csail.mit.edu/6.858/2024/)
 * [2026-01-18, 00:07:19](https://lobste.rs/s/evuzid/more_http_3_focus_one_backend_less) - [More HTTP/3 focus, one backend less](https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:41:00](https://science.slashdot.org/story/26/01/17/2317222/2026s-breakthrough-technologies-mit-technology-review-chooses-sodium-ion-batteries-commercial-space-stations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2026&apos;s Breakthrough Technologies? MIT Technology Review Chooses Sodium-ion Batteries,  Commercial Space Stations](https://science.slashdot.org/story/26/01/17/2317222/2026s-breakthrough-technologies-mit-technology-review-chooses-sodium-ion-batteries-commercial-space-stations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -133,36 +126,32 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-17, 15:32:12](https://lobste.rs/s/87hezy/i_hotreload_rust_so_can_you) - [I hotreload Rust and so can you](https://kampffrosch94.github.io/posts/hotreloading_rust/)
 * [2026-01-17, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/17/0222224&amp;from=rss) - [Why Flies Matter, Their Vital Role in Ecosystems, and Surprising Diversity](https://soylentnews.org/article.pl?sid=26/01/17/0222224&amp;from=rss)
 * [2026-01-17, 14:34:17](https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-* [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 13:32:55](https://lobste.rs/s/c4q8d8/fun_things_do_with_your_vm_370_machine) - [Fun things to do with your VM/370 machine](https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html)
 * [2026-01-17, 13:00:00](https://tech.slashdot.org/story/26/01/17/0440228/nearly-5-million-accounts-removed-under-australias-new-social-media-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nearly 5 Million Accounts Removed Under Australia&apos;s New Social Media Ban](https://tech.slashdot.org/story/26/01/17/0440228/nearly-5-million-accounts-removed-under-australias-new-social-media-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 12:48:13](https://lobste.rs/s/kbkcbe/website_end_all_websites) - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 10:18:00](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss) - [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss)
-* [2026-01-17, 10:00:00](https://yro.slashdot.org/story/26/01/17/0428238/supreme-court-may-block-thousands-of-lawsuits-over-monsantos-weed-killer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court May Block Thousands of Lawsuits Over Monsanto&apos;s Weed Killer](https://yro.slashdot.org/story/26/01/17/0428238/supreme-court-may-block-thousands-of-lawsuits-over-monsantos-weed-killer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 07:23:41](https://lobste.rs/s/s55ewk/kip_programming_language_based_on) - [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 * [2026-01-17, 06:15:02](https://lobste.rs/s/n8qgs8/emoji_design_convergence_review_2018) - [Emoji Design Convergence Review: 2018 - 2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
 * [2026-01-17, 05:30:00](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss) - [Signal Creator Moxie Marlinspike Wants to Do for AI What He Did for Messaging](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss)
 * [2026-01-17, 00:42:00](https://soylentnews.org/article.pl?sid=26/01/16/0215254&amp;from=rss) - [X Didn&apos;t Fix Grok&apos;s ‘Undressing’ Problem. It Just Makes People Pay for It](https://soylentnews.org/article.pl?sid=26/01/16/0215254&amp;from=rss)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I&apos;m still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
-* [2026-01-16, 20:01:27](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl) - [Cutting LLM token Usage by ~80% using REPL driven document analysis](https://yogthos.net/posts/2026-01-16-lattice-mcp.html)
 * [2026-01-16, 20:00:00](https://soylentnews.org/article.pl?sid=26/01/16/0211255&amp;from=rss) - [Meta to Cut More than 1,000 Jobs as its Shifts Focus to AI Wearables](https://soylentnews.org/article.pl?sid=26/01/16/0211255&amp;from=rss)
-* [2026-01-16, 19:20:58](https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator) - [smalloc: a simple memory allocator](https://github.com/zooko/smalloc)
 * [2026-01-16, 15:23:00](https://soylentnews.org/article.pl?sid=26/01/16/029237&amp;from=rss) - [You Need A Kitchen Slide Rule](https://soylentnews.org/article.pl?sid=26/01/16/029237&amp;from=rss)
 * [2026-01-16, 10:30:00](https://soylentnews.org/article.pl?sid=26/01/14/2313236&amp;from=rss) - [Over Half a Million Windows Users are Switching to Linux](https://soylentnews.org/article.pl?sid=26/01/14/2313236&amp;from=rss)
-* [2026-01-16, 06:52:03](https://news.ycombinator.com/item?id=46643737) - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
 * [2026-01-16, 05:47:00](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss) - [BreachForum Breach](https://soylentnews.org/article.pl?sid=26/01/14/238233&amp;from=rss)
 * [2026-01-16, 01:06:00](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) - [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss)
 * [2026-01-15, 20:17:00](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss) - [GNOME Dev Gives Fans of Linux&apos;s Middle-Click Paste the Middle Finger](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss)
+* [2026-01-15, 14:19:14](https://news.ycombinator.com/item?id=46632885) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss)
 * [2026-01-15, 06:12:00](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss) - [Resuscitating a 1934 Briggs &amp; Stratton Washing Machine Engine](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss)
 * [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss) - [RIP - &apos;Dilbert&apos; Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss)
 * [2026-01-15, 01:25:00](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss) - [The AIdigest.org&apos;s AI Village](https://soylentnews.org/article.pl?sid=26/01/12/1846246&amp;from=rss)
 * [2026-01-14, 20:33:00](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss) - [Tech Bloggers Switching From Windows to Linux](https://soylentnews.org/article.pl?sid=26/01/12/1844243&amp;from=rss)
-* [2026-01-14, 17:29:09](https://news.ycombinator.com/item?id=46619059) - [Xous Operating System](https://xous.dev/)
 * [2026-01-14, 15:49:00](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss) - [China Expected to Approve H200 Imports in Early 2026, Report Claims](https://soylentnews.org/article.pl?sid=26/01/12/1840204&amp;from=rss)
 * [2026-01-14, 13:52:32](https://news.ycombinator.com/item?id=46616077) - [The grab list: how museums decide what to save in a disaster](https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster)
 * [2026-01-14, 11:06:00](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss) - [Some Dogs Eavesdrop on Their Owners to Learn New Words](https://soylentnews.org/article.pl?sid=26/01/12/1838234&amp;from=rss)
+* [2026-01-14, 10:43:31](https://news.ycombinator.com/item?id=46614487) - [More sustainable epoxy thanks to phosphorus](https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen)
 * [2026-01-14, 06:24:00](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss)
 * [2026-01-14, 01:41:00](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss) - [Volkswagen is Bringing Physical Buttons Back to the Dashboard With the Polo EV](https://soylentnews.org/article.pl?sid=26/01/12/0137238&amp;from=rss)
