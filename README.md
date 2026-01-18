@@ -1,44 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advances and Innovations
+## Technology and Science Innovations
 
-* [China Builds 'Hypergravity' Machine 2,000X Stronger Than Earth](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A groundbreaking machine for advanced scientific and industrial research.
+* [China Builds 'Hypergravity' Machine 2,000X Stronger Than Earth](https://science.slashdot.org/story/26/01/17/214244/china-builds-hypergravity-machine-2000x-stronger-than-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking development with potential applications in scientific research and engineering.
 
-* [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&from=rss) – Cutting-edge technology aimed at future 6G networks.
+* [Astronomers Finally Explain How Molecules From Earth's Atmosphere Keep Winding Up On the Moon](https://science.slashdot.org/story/26/01/17/0525200/astronomers-finally-explain-how-molecules-from-earths-atmosphere-keep-winding-up-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A scientific insight into atmospheric-molecular exchange between Earth and the moon.
 
-* [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745) – Demonstrates AI capabilities in solving intricate mathematical problems.
+* [An Ultra-Fast Quantum Tunneling Device for the 6G Terahertz Era](https://soylentnews.org/article.pl?sid=26/01/12/1835207&amp;from=rss) - Pioneering work for futuristic 6G technology infrastructure.
 
-## Software and Development Trends
+* [NASA Livestreams the Rocket That Will Carry Four Astronauts Around the Moon](https://science.slashdot.org/story/26/01/17/1828213/nasa-livestreams-the-rocket-that-will-carry-four-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An exciting step forward in lunar missions and space exploration.
 
-* [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/) – A handy tool for developers working with HTTP headers.
+## Open-Source and Programming Community
 
-* [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) – The latest major update in the widely-used JavaScript library.
+* [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) - A significant update to a vital JavaScript library that continues to support the web development community.
 
-* [Rust's Culture of Semantic Precision](https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/) – An insightful analysis of Rust programming culture.
+* [Daniel's first 20,000 curl commits](https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/) - A milestone by the creator of cURL in open-source software development.
 
-* [A Social Filesystem](https://overreacted.io/a-social-filesystem/) – An innovative idea of integrating social features within a filesystem.
+* [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638) - Innovative binary mutation techniques to support secure and diverse WebAssembly codebases.
 
-## Space and Astronomy
+## Artificial Intelligence and Digital Ecosystems
 
-* [Astronomers Finally Explain How Molecules From Earth's Atmosphere Keep Winding Up On the Moon](https://science.slashdot.org/story/26/01/17/0525200/astronomers-finally-explain-how-molecules-from-earths-atmosphere-keep-winding-up-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A breakthrough discovery explaining lunar phenomena.
+* [Retailers Rush to Implement AI-Assisted Shopping and Orders](https://slashdot.org/story/26/01/18/0631239/retailers-rush-to-implement-ai-assisted-shopping-and-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI reforms in e-commerce aim to streamline customer experiences.
 
-* [NASA Livestreams the Rocket That Will Carry Four Astronauts Around the Moon](https://science.slashdot.org/story/26/01/17/1828213/nasa-livestreams-the-rocket-that-will-carry-four-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Updates on NASA’s ambitious lunar mission planning.
+* [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A thought-provoking exploration of AI's biological analogies and implications.
 
-## Economic and Political Insights
+* ['Society Cannot Function If No One is Accountable for AI' — Jaron Lanier](https://soylentnews.org/article.pl?sid=26/01/17/0229252&amp;from=rss) - Highlights the social responsibility in developing AI systems ethically.
 
-* [A pandemic rescue became a 30-year debt trap](https://thehill.com/opinion/finance/5692543-small-business-loan-debt-trap/) – Exploring the unintended long-term consequences of pandemic relief measures.
+## Software, Tools, and Platforms
 
-* [Dozens of US Colleges Close as Falling Birth Rate Pushes Them Off Enrollment Cliff](https://news.slashdot.org/story/26/01/17/089219/dozens-of-us-colleges-close-as-falling-birth-rate-pushes-them-off-enrollment-cliff?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A look at the impact of demographic shifts on higher education.
+* [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/) - Enhances developer productivity by simplifying HTTP inspections.
 
-* [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Examining the similarities between artificial intelligence and brain function.
+* [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction) - A new approach to streamline virtual machine creation.
 
-## Cybersecurity and Technology Risks
+* [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c) - Exploration of efficient computation techniques in the C programming ecosystem.
 
-* [Linux Kernel Bugs Hide for 2+ Years on Average](https://soylentnews.org/article.pl?sid=26/01/17/0446252&from=rss) – Alarming statistics on vulnerabilities within Linux systems.
+## Cybersecurity and Privacy Concerns
 
-* [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) – Insights into emerging threats in software distribution platforms.
+* [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/) - Raises concerns about surveillance and privacy issues in law enforcement.
 
-* [Predator Spyware Turns Failed Attacks Into Intelligence For Future Exploits](https://it.slashdot.org/story/26/01/17/2150219/predator-spyware-turns-failed-attacks-into-intelligence-for-future-exploits?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A closer look into how advanced spyware adapts to failures.
+* [To Pressure Security Professionals, Mandiant Releases Database That Cracks Weak NTLM Passwords in 12 Hours](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A provocative move to encourage stronger password practices.
+
+## Cultural and Societal Analysis
+
+* [Why We've Tried to Replace Developers Every Decade Since 1969](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html) - An examination of the recurring attempts to automate software development.
+
+* [Dozens of US Colleges Close as Falling Birth Rate Pushes Them Off Enrollment Cliff](https://news.slashdot.org/story/26/01/17/089219/dozens-of-us-colleges-close-as-falling-birth-rate-pushes-them-off-enrollment-cliff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deep dive into the changing demographics and its effects on higher education.
 
 ---
 
@@ -65,19 +71,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-18, 18:23:14](https://news.ycombinator.com/item?id=46670568) - [A pandemic rescue became a 30-year debt trap](https://thehill.com/opinion/finance/5692543-small-business-loan-debt-trap/)
-* [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+* [2026-01-18, 21:05:14](https://news.ycombinator.com/item?id=46672150) - [Police Invested Millions in Shadowy Phone-Tracking Software Won&apos;t Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
+* [2026-01-18, 20:57:00](https://news.slashdot.org/story/26/01/18/2054259/hundreds-answer-europes-public-call-for-evidence-on-an-open-digital-ecosystem-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds Answer Europe&apos;s &apos;Public Call for Evidence&apos; on an Open Digital Ecosystem Strategy](https://news.slashdot.org/story/26/01/18/2054259/hundreds-answer-europes-public-call-for-evidence-on-an-open-digital-ecosystem-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-18, 20:45:54](https://news.ycombinator.com/item?id=46671982) - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
+* [2026-01-18, 20:01:33](https://lobste.rs/s/y5llsg/time_c_creating_your_own_clocks_with) - [Time in C++: Creating Your Own Clocks with &lt;chrono&gt;](https://www.sandordargo.com/blog/2026/01/14/clocks-part-7-custom-clocks)
+* [2026-01-18, 19:34:00](https://tech.slashdot.org/story/26/01/18/1932246/microsoft-forced-to-issue-emergency-out-of-band-windows-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Forced to Issue Emergency Out-of-Band Windows Update](https://tech.slashdot.org/story/26/01/18/1932246/microsoft-forced-to-issue-emergency-out-of-band-windows-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/18/001228&amp;from=rss) - [How Screwed is Generation Alpha, and the Generations Which Will Depend on Them?](https://soylentnews.org/article.pl?sid=26/01/18/001228&amp;from=rss)
+* [2026-01-18, 19:21:14](https://news.ycombinator.com/item?id=46671191) - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
+* [2026-01-18, 19:19:48](https://news.ycombinator.com/item?id=46671174) - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
+* [2026-01-18, 19:17:55](https://lobste.rs/s/yc77zp/crow_crobots_robotic_combat_for_training) - [CROW: CROBOTS robotic combat for training World Model AIs](https://github.com/dcgrigsby/crow)
 * [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
 * [2026-01-18, 18:01:58](https://news.ycombinator.com/item?id=46670279) - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
 * [2026-01-18, 17:53:21](https://news.ycombinator.com/item?id=46670181) - [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
-* [2026-01-18, 17:40:55](https://news.ycombinator.com/item?id=46670024) - [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
-* [2026-01-18, 17:38:22](https://news.ycombinator.com/item?id=46669996) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
+* [2026-01-18, 17:40:55](https://news.ycombinator.com/item?id=46670024) - [Gaussian Splatting – A$AP Rocky \&quot;Helicopter\&quot; music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
 * [2026-01-18, 17:34:00](https://science.slashdot.org/story/26/01/17/0525200/astronomers-finally-explain-how-molecules-from-earths-atmosphere-keep-winding-up-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Finally Explain How Molecules From Earth&apos;s Atmosphere Keep Winding Up On the Moon](https://science.slashdot.org/story/26/01/17/0525200/astronomers-finally-explain-how-molecules-from-earths-atmosphere-keep-winding-up-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-18, 17:33:25](https://news.ycombinator.com/item?id=46669945) - [Statement by Denmark, Finland, France, Germany, Netherlands, Norway, Sweden, UK](https://www.bundesregierung.de/breg-de/aktuelles/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-2403016)
 * [2026-01-18, 17:21:30](https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary) - [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638)
 * [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
 * [2026-01-18, 17:08:58](https://news.ycombinator.com/item?id=46669663) - [Sins of the Children (Adrian Tchaikovsky)](https://asteriskmag.com/issues/07/sins-of-the-children)
-* [2026-01-18, 16:43:44](https://news.ycombinator.com/item?id=46669289) - [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 * [2026-01-18, 16:34:00](https://yro.slashdot.org/story/26/01/18/006222/acer-sues-verizon-att-and-t-mobile-alleging-infringment-on-acers-cellular-networking-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Acer Sues Verizon, AT&amp;amp;T, and T-Mobile, Alleging Infringment on Acer&apos;s Cellular Networking Patents](https://yro.slashdot.org/story/26/01/18/006222/acer-sues-verizon-att-and-t-mobile-alleging-infringment-on-acers-cellular-networking-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-18, 16:12:35](https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14) - [Removal of GTK2 from forky (Debian 14)](https://lists.debian.org/debian-devel/2026/01/msg00090.html)
 * [2026-01-18, 16:11:31](https://lobste.rs/s/iz3wsu/installing_android_on_nintendo_switch) - [Installing Android on the Nintendo Switch](https://blog.omgmog.net/post/android-on-the-nintendo-switch/)
@@ -86,6 +96,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-18, 14:50:00](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss) - [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [Predicting OpenAI&apos;s ad strategy](https://ossa-ma.github.io/blog/openads)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
+* [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 * [2026-01-18, 12:34:00](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could We Provide Better Cellphone Service With Fewer, Bigger Satellites?](https://science.slashdot.org/story/26/01/18/0035242/could-we-provide-better-cellphone-service-with-fewer-bigger-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
 * [2026-01-18, 11:39:14](https://news.ycombinator.com/item?id=46666963) - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
@@ -109,9 +120,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-18, 05:55:48](https://news.ycombinator.com/item?id=46665169) - [Show HN: Figma-use – CLI to control Figma for AI agents](https://github.com/dannote/figma-use)
 * [2026-01-18, 05:13:00](https://soylentnews.org/article.pl?sid=26/01/17/0446252&amp;from=rss) - [Linux Kernel Bugs Hide for 2+ Years on Average](https://soylentnews.org/article.pl?sid=26/01/17/0446252&amp;from=rss)
 * [2026-01-18, 04:24:48](https://lobste.rs/s/vokwbo/jquery_4_0_0_released) - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
+* [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-18, 03:48:03](https://news.ycombinator.com/item?id=46664631) - [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745)
 * [2026-01-18, 02:34:00](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Much Do AI Models Resemble a Brain?](https://slashdot.org/story/26/01/17/2350259/how-much-do-ai-models-resemble-a-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-18, 02:31:24](https://lobste.rs/s/mihtmk/vaultgemma_differentially_private_llm) - [VaultGemma: A differentially private LLM](https://arxiv.org/pdf/2510.15001)
+* [2026-01-18, 02:31:24](https://lobste.rs/s/mihtmk/vaultgemma_differentially_private_llm) - [VaultGemma: A differentially private LLM (2025)](https://arxiv.org/pdf/2510.15001)
 * [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov (1957)](https://www.abelard.org/asimov.php)
 * [2026-01-18, 00:29:00](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss) - [Wormholes May Not Exist—We&apos;ve Found They Reveal Something Deeper About Time and the Universe](https://soylentnews.org/article.pl?sid=26/01/17/0434215&amp;from=rss)
 * [2026-01-18, 00:07:19](https://lobste.rs/s/evuzid/more_http_3_focus_one_backend_less) - [More HTTP/3 focus, one backend less](https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/)
@@ -119,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-17, 22:41:00](https://it.slashdot.org/story/26/01/17/2150219/predator-spyware-turns-failed-attacks-into-intelligence-for-future-exploits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Predator Spyware Turns Failed Attacks Into Intelligence For Future Exploits](https://it.slashdot.org/story/26/01/17/2150219/predator-spyware-turns-failed-attacks-into-intelligence-for-future-exploits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 22:39:28](https://lobste.rs/s/dtir1a/why_we_ve_tried_replace_developers_every) - [Why We&apos;ve Tried to Replace Developers Every Decade Since 1969](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 21:41:00](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To Pressure Security Professionals, Mandiant Releases Database That Cracks Weak NTLM Passwords in 12 Hours](https://it.slashdot.org/story/26/01/17/194230/to-pressure-security-professionals-mandiant-releases-database-that-cracks-weak-ntlm-passwords-in-12-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-17, 21:35:44](https://lobste.rs/s/hntdgv/if_writing_code_is_easy_part_why_would_i) - [If writing the code is the easy part, why would I want someone else to write it?](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-01-17, 21:07:03](https://lobste.rs/s/31iwyd/malware_peddlers_are_now_hijacking_snap) - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/)
 * [2026-01-17, 20:41:00](https://news.slashdot.org/story/26/01/17/0444252/two-more-offshore-wind-projects-in-the-us-allowed-to-continue-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two More Offshore Wind Projects in the US Allowed to Continue Construction](https://news.slashdot.org/story/26/01/17/0444252/two-more-offshore-wind-projects-in-the-us-allowed-to-continue-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 20:26:23](https://lobste.rs/s/xkgzk4/how_many_pixels_do_you_really_need) - [How Many Pixels Do You Really Need?](https://rldane.space/how-many-pixels-do-you-really-need.html)
@@ -127,16 +138,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-17, 19:34:00](https://news.slashdot.org/story/26/01/17/089219/dozens-of-us-colleges-close-as-falling-birth-rate-pushes-them-off-enrollment-cliff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dozens of US Colleges Close as Falling Birth Rate Pushes Them Off Enrollment Cliff](https://news.slashdot.org/story/26/01/17/089219/dozens-of-us-colleges-close-as-falling-birth-rate-pushes-them-off-enrollment-cliff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 18:54:14](https://lobste.rs/s/60yo7s/rust_s_culture_semantic_precision) - [Rust&apos;s Culture of Semantic Precision](https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/)
 * [2026-01-17, 18:34:00](https://science.slashdot.org/story/26/01/17/1828213/nasa-livestreams-the-rocket-that-will-carry-four-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Livestreams the Rocket That Will Carry Four Astronauts Around the Moon](https://science.slashdot.org/story/26/01/17/1828213/nasa-livestreams-the-rocket-that-will-carry-four-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-17, 17:34:00](https://yro.slashdot.org/story/26/01/17/0718211/what-happened-after-security-researchers-found-60-flock-cameras-livestreaming-to-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Happened After Security Researchers Found 60 Flock Cameras Livestreaming to the Internet](https://yro.slashdot.org/story/26/01/17/0718211/what-happened-after-security-researchers-found-60-flock-cameras-livestreaming-to-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 16:39:53](https://lobste.rs/s/0mvdau/my_new_minimal_static_site_generator) - [My new minimal static site generator](https://maurycyz.com/misc/new_ssg/)
-* [2026-01-17, 16:34:00](https://linux.slashdot.org/story/26/01/17/0610216/t2linux-brings-a-flagship-kde-plasma-linux-desktop-to-risc-v-and-arm64?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [T2/Linux Brings a Flagship KDE Plasma Linux Desktop to RISC-V and ARM64](https://linux.slashdot.org/story/26/01/17/0610216/t2linux-brings-a-flagship-kde-plasma-linux-desktop-to-risc-v-and-arm64?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-17, 15:32:12](https://lobste.rs/s/87hezy/i_hotreload_rust_so_can_you) - [I hotreload Rust and so can you](https://kampffrosch94.github.io/posts/hotreloading_rust/)
 * [2026-01-17, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/17/0222224&amp;from=rss) - [Why Flies Matter, Their Vital Role in Ecosystems, and Surprising Diversity](https://soylentnews.org/article.pl?sid=26/01/17/0222224&amp;from=rss)
 * [2026-01-17, 14:34:17](https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 12:48:13](https://lobste.rs/s/kbkcbe/website_end_all_websites) - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-17, 11:15:26](https://news.ycombinator.com/item?id=46657122) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 10:18:00](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss) - [Researchers Expose WHILL Wheelchair Safety Risks Via Remote Hacking](https://soylentnews.org/article.pl?sid=26/01/17/0220205&amp;from=rss)
-* [2026-01-17, 07:23:41](https://lobste.rs/s/s55ewk/kip_programming_language_based_on) - [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 * [2026-01-17, 05:30:00](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss) - [Signal Creator Moxie Marlinspike Wants to Do for AI What He Did for Messaging](https://soylentnews.org/article.pl?sid=26/01/16/0510252&amp;from=rss)
 * [2026-01-17, 00:42:00](https://soylentnews.org/article.pl?sid=26/01/16/0215254&amp;from=rss) - [X Didn&apos;t Fix Grok&apos;s ‘Undressing’ Problem. It Just Makes People Pay for It](https://soylentnews.org/article.pl?sid=26/01/16/0215254&amp;from=rss)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I&apos;m still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
@@ -147,6 +155,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-16, 01:06:00](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss) - [Survey: Even Meta And Microsoft Engineers Ditch Company AI For Claude](https://soylentnews.org/article.pl?sid=26/01/14/236237&amp;from=rss)
 * [2026-01-15, 20:17:00](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss) - [GNOME Dev Gives Fans of Linux&apos;s Middle-Click Paste the Middle Finger](https://soylentnews.org/article.pl?sid=26/01/13/1616210&amp;from=rss)
 * [2026-01-15, 15:31:00](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss) - [Cray Customer Service – Memories (1979 to 2014) by Charles Clark](https://soylentnews.org/article.pl?sid=26/01/13/1612200&amp;from=rss)
+* [2026-01-15, 12:01:18](https://news.ycombinator.com/item?id=46631281) - [Cardputer uLisp Machine (2024)](http://www.ulisp.com/show?52G4)
 * [2026-01-15, 10:50:00](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss) - [A Fix for Frost: Engineers Use Electricity to Zap Ice Without Heat or Chemicals](https://soylentnews.org/article.pl?sid=26/01/13/166232&amp;from=rss)
 * [2026-01-15, 06:12:00](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss) - [Resuscitating a 1934 Briggs &amp; Stratton Washing Machine Engine](https://soylentnews.org/article.pl?sid=26/01/13/161243&amp;from=rss)
 * [2026-01-15, 02:48:00](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss) - [RIP - &apos;Dilbert&apos; Creator Scott Adams Dies at 68 After Prostate Cancer Battle](https://soylentnews.org/article.pl?sid=26/01/15/0129228&amp;from=rss)
