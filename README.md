@@ -1,52 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Sociopolitical and Environmental Challenges
+## Developments in AI and Computing
 
-* [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss)
+* [Vibe Kanban - Orchestrate AI Coding Agents](https://www.vibekanban.com/) - A tool to manage and orchestrate AI-driven coding workflows more efficiently. [Comments](https://lobste.rs/s/ap4amt/vibe_kanban_orchestrate_ai_coding_agents)
 
-* [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&from=rss)
+* [CSLib: A Focused Effort on Formalizing Computer Science in Lean](https://www.cslib.io/) - An initiative to formalize computer science concepts using the Lean theorem prover. [Comments](https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing)
 
-* [Half of World's CO2 Emissions Come From Just 32 Fossil Fuel Firms, Study Shows](https://news.slashdot.org/story/26/01/21/1913218/half-of-worlds-co2-emissions-come-from-just-32-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Wikipedia's Guide to Spotting AI Is Now Being Used To Hide AI](https://news.slashdot.org/story/26/01/22/015250/wikipedias-guide-to-spotting-ai-is-now-being-used-to-hide-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A guide intended to expose AI contributions is paradoxically being utilized to mask them.
 
-* [HAM Radio Operators In Belarus Arrested, Face the Death Penalty](https://tech.slashdot.org/story/26/01/21/2018229/ham-radio-operators-in-belarus-arrested-face-the-death-penalty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/) - Investigating the potential impact of AI assistants on human cognitive processes. [Comments](https://news.ycombinator.com/item?id=46712678)
 
-## Technological and Scientific Innovations
+## Environmental Impact and Sustainability
 
-* [Blue Origin's Satellite Internet Network TeraWave Will Move Data At 6 Tbps](https://tech.slashdot.org/story/26/01/22/0044240/blue-origins-satellite-internet-network-terawave-will-move-data-at-6-tbps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Half of Fossil Fuel Carbon Emissions In 2024 Came From 32 Companies](https://news.slashdot.org/story/26/01/22/0054237/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzing the concentration of emissions within a small number of companies.
 
-* [Apple Reportedly Replacing Siri Interface With Actual Chatbot Experience For iOS 27](https://apple.slashdot.org/story/26/01/21/2333212/apple-reportedly-replacing-siri-interface-with-actual-chatbot-experience-for-ios-27?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The first commercial space station, Haven-1, now undergoing assembly for launch](https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/) - Space startup Haven is assembling the first privately built commercial space station. [Comments](https://news.ycombinator.com/item?id=46718330)
 
-* [Weight-Loss Drugs Could Save US Airlines $580 Million Per Year](https://science.slashdot.org/story/26/01/21/2350220/weight-loss-drugs-could-save-us-airlines-580-million-per-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Blue Origin's Satellite Internet Network TeraWave Will Move Data At 6 Tbps](https://tech.slashdot.org/story/26/01/22/0044240/blue-origins-satellite-internet-network-terawave-will-move-data-at-6-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Introducing Blue Origin's new infrastructure for high-speed data transmission.
 
-* [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
+## Technological Innovations and Trends
 
-## Software Development and Open Source
+* [Apple Reportedly Replacing Siri Interface With Actual Chatbot Experience For iOS 27](https://apple.slashdot.org/story/26/01/21/2333212/apple-reportedly-replacing-siri-interface-with-actual-chatbot-experience-for-ios-27?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Planning an evolution for Siri with more advanced chatbot features.
 
-* [pandas 3.0.0 released](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0)
+* [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/) - Launch of a new version of FSNotes, a fast note-taking app. [Comments](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text)
 
-* [Best Practices for Ownership in GLib](https://blog.sebastianwick.net/posts/glib-ownership-best-practices/)
+* [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/) - Exploring the relationship between secure boot mechanisms and modern gaming anti-cheat systems. [Comments](https://lobste.rs/s/0lm8so/secure_boot_tpm_anti_cheat_engines)
 
-* [High-level quality-of-service interface](https://lwn.net/Articles/1051982/)
+## Health and Social Issues
 
-* [TrustTunnel: AdGuard VPN protocol goes open-source](https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html)
+* [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims) - Innovative burn treatment using tilapia fish skin. [Comments](https://news.ycombinator.com/item?id=46715600)
 
-## Emerging Challenges in Technology and Privacy
+* [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance) - Continual struggles faced by American farmers even with government aid. [Comments](https://news.ycombinator.com/item?id=46713929)
 
-* [Securing Digital Tools: The Threat of Hackers Abusing Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
-
-* [FBI's Washington Post Investigation Shows How Your Printer Can Snitch On You](https://hardware.slashdot.org/story/26/01/21/2342252/fbis-washington-post-investigation-shows-how-your-printer-can-snitch-on-you?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-* [Spotify Lawsuit Triggered Anna's Archive Domain Name Suspensions](https://yro.slashdot.org/story/26/01/21/2320256/spotify-lawsuit-triggered-annas-archive-domain-name-suspensions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Software Tools and Updates
-
-* [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
-
-* [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
-
-* [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
-
-* [Nesting Markup with Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
+* [Weight-Loss Drugs Could Save US Airlines $580 Million Per Year](https://science.slashdot.org/story/26/01/21/2350220/weight-loss-drugs-could-save-us-airlines-580-million-per-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Potential cost savings on fuel due to nationwide weight loss drug adoption.
 
 ---
 
@@ -73,18 +59,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-22, 13:13:42](https://lobste.rs/s/ap4amt/vibe_kanban_orchestrate_ai_coding_agents) - [Vibe Kanban - Orchestrate AI Coding Agents](https://www.vibekanban.com/)
+* [2026-01-22, 13:00:00](https://news.slashdot.org/story/26/01/22/0054237/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Half of Fossil Fuel Carbon Emissions In 2024 Came From 32 Companies](https://news.slashdot.org/story/26/01/22/0054237/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-22, 12:50:52](https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing) - [CSLib: A Focused Effort on Formalizing Computer Science in Lean](https://www.cslib.io/)
+* [2026-01-22, 12:48:25](https://news.ycombinator.com/item?id=46718556) - [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
+* [2026-01-22, 12:41:49](https://news.ycombinator.com/item?id=46718485) - [Satya Nadella: \&quot;We need to find something useful for AI\&quot;](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+* [2026-01-22, 12:22:59](https://news.ycombinator.com/item?id=46718330) - [The first commercial space station, Haven-1, now undergoing assembly for launch](https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/)
+* [2026-01-22, 12:18:46](https://news.ycombinator.com/item?id=46718299) - [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/)
+* [2026-01-22, 12:07:49](https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days) - [RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server [bsky]](https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l)
+* [2026-01-22, 12:00:45](https://news.ycombinator.com/item?id=46718140) - [Flowtel (YC W25) Is Hiring](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior)
+* [2026-01-22, 11:51:10](https://news.ycombinator.com/item?id=46718061) - [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/)
+* [2026-01-22, 11:34:13](https://lobste.rs/s/8vtlcw/goodjob_solid_queue_sidekiq_active_job) - [GoodJob, Solid Queue, Sidekiq, Active Job, in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026)
+* [2026-01-22, 10:48:27](https://news.ycombinator.com/item?id=46717556) - [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
+* [2026-01-22, 10:32:08](https://lobste.rs/s/bndnsg/adversarial_coding_test) - [An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
+* [2026-01-22, 10:29:10](https://lobste.rs/s/m0twb1/your_app_subscription_is_now_my_weekend) - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project/)
+* [2026-01-22, 10:00:00](https://news.slashdot.org/story/26/01/22/015250/wikipedias-guide-to-spotting-ai-is-now-being-used-to-hide-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia&apos;s Guide to Spotting AI Is Now Being Used To Hide AI](https://news.slashdot.org/story/26/01/22/015250/wikipedias-guide-to-spotting-ai-is-now-being-used-to-hide-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss)
 * [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
-* [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety&apos;s sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 * [2026-01-22, 07:58:50](https://lobste.rs/s/yegxsx/waiting_for_dawn_search_search_index) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-22, 07:00:00](https://tech.slashdot.org/story/26/01/22/0044240/blue-origins-satellite-internet-network-terawave-will-move-data-at-6-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blue Origin&apos;s Satellite Internet Network TeraWave Will Move Data At 6 Tbps](https://tech.slashdot.org/story/26/01/22/0044240/blue-origins-satellite-internet-network-terawave-will-move-data-at-6-tbps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-22, 06:36:32](https://lobste.rs/s/0lm8so/secure_boot_tpm_anti_cheat_engines) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
-* [2026-01-22, 05:36:59](https://lobste.rs/s/bxwcaf/high_level_quality_service_interface) - [A high-level quality-of-service interface](https://lwn.net/Articles/1051982/)
 * [2026-01-22, 05:32:40](https://lobste.rs/s/jqpyop/best_practices_for_ownership_glib) - [Best Practices for Ownership in GLib](https://blog.sebastianwick.net/posts/glib-ownership-best-practices/)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
 * [2026-01-22, 03:30:00](https://science.slashdot.org/story/26/01/21/2350220/weight-loss-drugs-could-save-us-airlines-580-million-per-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Weight-Loss Drugs Could Save US Airlines $580 Million Per Year](https://science.slashdot.org/story/26/01/21/2350220/weight-loss-drugs-could-save-us-airlines-580-million-per-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 02:13:53](https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error) - [Don&apos;t Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 * [2026-01-22, 02:02:00](https://hardware.slashdot.org/story/26/01/21/2342252/fbis-washington-post-investigation-shows-how-your-printer-can-snitch-on-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI&apos;s Washington Post Investigation Shows How Your Printer Can Snitch On You](https://hardware.slashdot.org/story/26/01/21/2342252/fbis-washington-post-investigation-shows-how-your-printer-can-snitch-on-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-22, 01:25:00](https://news.slashdot.org/story/26/01/22/006212/america-is-slow-walking-into-a-polymarket-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;America Is Slow-Walking Into a Polymarket Disaster&apos;](https://news.slashdot.org/story/26/01/22/006212/america-is-slow-walking-into-a-polymarket-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,24 +94,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-21, 23:55:06](https://news.ycombinator.com/item?id=46713387) - [Lix – universal version control system for binary files](https://lix.dev/blog/introducing-lix/)
 * [2026-01-21, 23:46:24](https://lobste.rs/s/oq8n8r/results_from_2025_go_developer_survey) - [Results from the 2025 Go Developer Survey](https://go.dev/blog/survey2025)
 * [2026-01-21, 23:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss) - [The Science That Casts Doubt on Claims About Microplastics](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss)
-* [2026-01-21, 23:28:35](https://lobste.rs/s/ybb9xu/inside_starrocks_why_joins_are_faster) - [Inside StarRocks: Why Joins Are Faster Than You’d Expect](https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect)
 * [2026-01-21, 23:22:40](https://news.ycombinator.com/item?id=46713106) - [Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
 * [2026-01-21, 23:20:00](https://apple.slashdot.org/story/26/01/21/211226/apple-developing-ai-wearable-pin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Developing AI Wearable Pin](https://apple.slashdot.org/story/26/01/21/211226/apple-developing-ai-wearable-pin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 * [2026-01-21, 22:40:00](https://slashdot.org/story/26/01/21/2055248/nova-launcher-gets-a-new-owner-and-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nova Launcher Gets a New Owner and Ads](https://slashdot.org/story/26/01/21/2055248/nova-launcher-gets-a-new-owner-and-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 22:02:00](https://tech.slashdot.org/story/26/01/21/2018229/ham-radio-operators-in-belarus-arrested-face-the-death-penalty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HAM Radio Operators In Belarus Arrested, Face the Death Penalty](https://tech.slashdot.org/story/26/01/21/2018229/ham-radio-operators-in-belarus-arrested-face-the-death-penalty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
-* [2026-01-21, 21:26:18](https://news.ycombinator.com/item?id=46711792) - [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
 * [2026-01-21, 21:22:00](https://science.slashdot.org/story/26/01/21/191222/ozempic-is-reshaping-the-fast-food-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ozempic is Reshaping the Fast Food Industry](https://science.slashdot.org/story/26/01/21/191222/ozempic-is-reshaping-the-fast-food-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 21:07:47](https://news.ycombinator.com/item?id=46711574) - [eBay explicitly bans AI \&quot;buy for me\&quot; agents in user agreement update](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 * [2026-01-21, 20:45:00](https://news.slashdot.org/story/26/01/21/1913218/half-of-worlds-co2-emissions-come-from-just-32-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Half of World&apos;s CO2 Emissions Come From Just 32 Fossil Fuel Firms, Study Shows](https://news.slashdot.org/story/26/01/21/1913218/half-of-worlds-co2-emissions-come-from-just-32-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 20:01:00](https://slashdot.org/story/26/01/21/198252/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Acrobat Now Lets You Edit Files Using Prompts, Generate Podcast Summaries](https://slashdot.org/story/26/01/21/198252/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 19:22:00](https://news.slashdot.org/story/26/01/21/1922232/the-gold-plating-of-american-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Gold Plating of American Water](https://news.slashdot.org/story/26/01/21/1922232/the-gold-plating-of-american-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 18:49:00](https://soylentnews.org/article.pl?sid=26/01/19/1619249&amp;from=rss) - [Hobbies Don&apos;t Just Improve Personal Lives, They Can Boost Workplace Creativity Too](https://soylentnews.org/article.pl?sid=26/01/19/1619249&amp;from=rss)
-* [2026-01-21, 18:44:00](https://yro.slashdot.org/story/26/01/21/1841214/ai-company-eightfold-sued-for-helping-companies-secretly-score-job-seekers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Company Eightfold Sued For Helping Companies Secretly Score Job Seekers](https://yro.slashdot.org/story/26/01/21/1841214/ai-company-eightfold-sued-for-helping-companies-secretly-score-job-seekers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
-* [2026-01-21, 18:10:35](https://lobste.rs/s/wa4xqd/libcurl_memory_use_some_years_later) - [libcurl memory use some years later](https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/)
-* [2026-01-21, 18:04:00](https://games.slashdot.org/story/26/01/21/184240/ubisoft-cancels-six-games-slashes-guidance-in-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubisoft Cancels Six Games, Slashes Guidance in Restructuring](https://games.slashdot.org/story/26/01/21/184240/ubisoft-cancels-six-games-slashes-guidance-in-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-21, 18:03:04](https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really) - [Hate is a strong word, but I really really really don’t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don&apos;t-like-windows-11)
 * [2026-01-21, 17:28:03](https://news.ycombinator.com/item?id=46708678) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-21, 17:21:26](https://news.ycombinator.com/item?id=46708601) - [TrustTunnel: AdGuard VPN protocol goes open-source](https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html)
@@ -128,32 +121,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/19/1618219&amp;from=rss) - [IT Spending Set to Hit $1.4 Trillion in 2026 - but What Exactly Are We Spending It On?](https://soylentnews.org/article.pl?sid=26/01/19/1618219&amp;from=rss)
-* [2026-01-21, 13:49:07](https://news.ycombinator.com/item?id=46705676) - [Tell HN: 2 years building a kids audio app as a solo dev – lessons learned](https://news.ycombinator.com/item?id=46705676)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
-* [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested code fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 12:54:26](https://lobste.rs/s/t1mmsv/art_craftsmanship_monozukuri_age_ai) - [The Art of Craftsmanship (Monozukuri) in the Age of AI](https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/)
 * [2026-01-21, 12:47:52](https://lobste.rs/s/itkq4m/nested_code_fences_markdown) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
-* [2026-01-21, 09:50:50](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic) - [Real programming vs. interviews: A dyslexic perspective](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic)
 * [2026-01-21, 09:20:00](https://soylentnews.org/article.pl?sid=26/01/19/1615238&amp;from=rss) - [The Places We Make Memories Help Us Inscribe Them](https://soylentnews.org/article.pl?sid=26/01/19/1615238&amp;from=rss)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss)
 * [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
 * [2026-01-21, 02:07:05](https://lobste.rs/s/fxrdwz/building_javascript_runtime_one_month) - [Building a javascript runtime in one month](https://s.tail.so/js-in-one-month)
 * [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss) - [Building the World&apos;s First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss)
-* [2026-01-20, 21:14:03](https://lobste.rs/s/cxwenf/i_made_zig_compute_33_million_satellite) - [I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required](https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/)
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss) - [China&apos;s Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss)
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss) - [Mosquitoes&apos; Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn&apos;t an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss)
-* [2026-01-20, 09:01:25](https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss)
 * [2026-01-19, 19:11:00](https://soylentnews.org/article.pl?sid=26/01/18/0042202&amp;from=rss) - [Linux Mint 22.3 “Zena” is Now Available for Download, Here&apos;s What&apos;s New](https://soylentnews.org/article.pl?sid=26/01/18/0042202&amp;from=rss)
 * [2026-01-19, 14:38:00](https://soylentnews.org/article.pl?sid=26/01/18/0040215&amp;from=rss) - [Anything-Goes “Anyons” May be at the Root of Surprising Quantum Experiments](https://soylentnews.org/article.pl?sid=26/01/18/0040215&amp;from=rss)
 * [2026-01-19, 09:45:00](https://soylentnews.org/article.pl?sid=26/01/18/0037250&amp;from=rss) - [AI and the Corporate Capture of Knowledge](https://soylentnews.org/article.pl?sid=26/01/18/0037250&amp;from=rss)
-* [2026-01-19, 06:19:53](https://news.ycombinator.com/item?id=46675583) - [Beowulf&apos;s opening \&quot;What\&quot; is no interjection (2013)](https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk)
 * [2026-01-19, 05:03:00](https://soylentnews.org/article.pl?sid=26/01/17/2355208&amp;from=rss) - [AWS Flips Switch on Euro Cloud as Customers Fret About Digital Sovereignty](https://soylentnews.org/article.pl?sid=26/01/17/2355208&amp;from=rss)
 * [2026-01-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/01/18/003211&amp;from=rss) - [Are You Dead?](https://soylentnews.org/article.pl?sid=26/01/18/003211&amp;from=rss)
+* [2026-01-18, 22:47:27](https://news.ycombinator.com/item?id=46672957) - [The Human in the Loop](https://adventures.nodeland.dev/archive/the-human-in-the-loop/)
 * [2026-01-18, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/18/001228&amp;from=rss) - [How Screwed is Generation Alpha, and the Generations Which Will Depend on Them?](https://soylentnews.org/article.pl?sid=26/01/18/001228&amp;from=rss)
 * [2026-01-18, 14:50:00](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss) - [Hobby FPV Drone Developer Breaks 400mph Limit With New World Record](https://soylentnews.org/article.pl?sid=26/01/17/055254&amp;from=rss)
 * [2026-01-18, 10:03:00](https://soylentnews.org/article.pl?sid=26/01/17/0457243&amp;from=rss) - [Sorry, Eh](https://soylentnews.org/article.pl?sid=26/01/17/0457243&amp;from=rss)
