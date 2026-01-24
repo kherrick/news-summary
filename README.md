@@ -1,16 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Innovations
+## Technology and Innovation
 
-* [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss): Researchers explore the potential of a billiard ball as a computational device, highlighting innovative computational capabilities.
+* [‘Doing gigabit Ethernet over my British phone wires’](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/) - A personal account exploring the feasibility and challenges of transmitting gigabit Ethernet over outdated British phone lines.
 
-* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A major advancement in filtration technology promises effective removal of hazardous chemicals, addressing critical environmental concerns.
+* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new breakthrough in filtration technology could help combat the presence of persistent environmental contaminants known as 'forever chemicals'.
 
-* [Study Shows How Earthquake Monitors Can Track Space Junk Through Sonic Booms](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Earthquake monitoring technology may provide valuable insights into tracking space debris efficiently.
+* [Smartwatches Help Detect Abnormal Heart Rhythms 4x More Often In Clinical Trial](https://science.slashdot.org/story/26/01/24/0114249/smartwatches-help-detect-abnormal-heart-rhythms-4x-more-often-in-clinical-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Clinical trials reveal that wearable technology like smartwatches can aid in identifying heart-related health issues more frequently than traditional methods.
 
-* [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss): A surprising analogy is drawn between the behavior of foam physics and artificial intelligence training.
+* [Study Shows How Earthquake Monitors Can Track Space Junk Through Sonic Booms](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers explore how earthquake monitoring technology can be repurposed to detect space debris through sonic booms.
 
-* [Building the World's First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss): Efforts are underway to develop the first detector of gravitational phenomena through groundbreaking technology advancements.
+* [MikroTik first look and getting started](https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/) - An introduction to the capabilities and setup process of MikroTik network devices for users and enthusiasts.
+
+## Legal and Policy Developments
+
+* [Hollywood Tries To Take Pirate Sites Down Globally Through India Court](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hollywood leverages Indian courts in an ambitious initiative aimed to combat online piracy on a global scale.
+
+* [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet's 'Hidden Fees'](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A lawsuit has been filed in the UK against Apple, alleging that the company imposes hidden fees in its digital wallet service.
+
+* [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects' Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports reveal that Microsoft provided BitLocker encryption keys to the FBI to help gain access to suspect devices.
+
+## Scientific Discoveries
+
+* [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss) - A theoretical exploration of how the movement of billiard balls can simulate universal computation processes.
+
+* [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss) - Scientists challenge a long-held belief about the growth patterns of human hair.
+
+* [Building the World’s First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss) - A groundbreaking project aimed at directly detecting gravitons, a fundamental particle predicted by quantum theories of gravity.
+
+## Social and Ethical Insights
+
+* [‘Let people help’ – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow) - A personal account highlighting the emotional advice that had a profound impact on a grieving individual.
+
+* [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss) - An in-depth look at the growing usage of AI-powered surveillance in schools across America and the ethical concerns arising.
+
+* [Proton spam and the AI consent problem](https://dbushell.com/2026/01/22/proton-spam/) - A thought-provoking piece on the intersection of email spam issues and artificial intelligence's challenges with explicit consent.
 
 ---
 
@@ -37,7 +61,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-24, 13:00:00](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood Tries To Take Pirate Sites Down Globally Through India Court](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-24, 11:15:15](https://news.ycombinator.com/item?id=46742635) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+* [2026-01-24, 10:32:26](https://news.ycombinator.com/item?id=46742432) - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
+* [2026-01-24, 10:14:31](https://news.ycombinator.com/item?id=46742362) - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
+* [2026-01-24, 10:00:00](https://science.slashdot.org/story/26/01/24/0114249/smartwatches-help-detect-abnormal-heart-rhythms-4x-more-often-in-clinical-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartwatches Help Detect Abnormal Heart Rhythms 4x More Often In Clinical Trial](https://science.slashdot.org/story/26/01/24/0114249/smartwatches-help-detect-abnormal-heart-rhythms-4x-more-often-in-clinical-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-24, 09:55:44](https://news.ycombinator.com/item?id=46742285) - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 * [2026-01-24, 08:42:00](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss) - [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss)
+* [2026-01-24, 08:16:25](https://news.ycombinator.com/item?id=46741929) - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 08:15:38](https://lobste.rs/s/mcaxcn/lispe_lisp_interpreter_with_data) - [lispE: Lisp interpreter with Data Structure, Pattern Programming, High level Functions, Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-01-24, 08:12:27](https://lobste.rs/s/lk5qjr/modetc_move_your_dotfiles_from_kernel) - [modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 07:37:22](https://lobste.rs/s/kgdkq3/mikrotik_first_look_getting_started) - [MikroTik first look and getting started](https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/)
@@ -46,7 +77,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) - [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
 * [2026-01-24, 03:30:00](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Filtration Technology Could Be Gamechanger In Removal of PFAS &apos;Forever Chemicals&apos;](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [\&quot;People are going to stop and ask you, &apos;How can I help?&apos; Let them.\&quot;](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
+* [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [“Let people help” – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 02:19:41](https://lobste.rs/s/z55cm5/considering_strictly_monotonic_time) - [Considering Strictly Monotonic Time](https://matklad.github.io/2026/01/23/strictly-monotonic-time.html)
 * [2026-01-24, 02:14:40](https://lobste.rs/s/9nwumc/december_servo) - [December in Servo](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 02:02:00](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -60,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 23:20:00](https://yro.slashdot.org/story/26/01/23/1928230/white-house-labels-altered-photo-of-arrested-minnesota-protester-a-meme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Labels Altered Photo of Arrested Minnesota Protester a &apos;Meme&apos;](https://yro.slashdot.org/story/26/01/23/1928230/white-house-labels-altered-photo-of-arrested-minnesota-protester-a-meme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 23:16:00](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) - [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss)
 * [2026-01-23, 22:40:00](https://tech.slashdot.org/story/26/01/23/1915259/powershell-architect-retires-after-decades-at-the-prompt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PowerShell Architect Retires After Decades At the Prompt](https://tech.slashdot.org/story/26/01/23/1915259/powershell-architect-retires-after-decades-at-the-prompt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 * [2026-01-23, 22:02:00](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects&apos; Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 21:25:00](https://slashdot.org/story/26/01/23/1855256/toilet-maker-totos-shares-get-unlikely-boost-from-ai-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toilet Maker Toto&apos;s Shares Get Unlikely Boost From AI Rush](https://slashdot.org/story/26/01/23/1855256/toilet-maker-totos-shares-get-unlikely-boost-from-ai-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
@@ -70,16 +100,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 20:01:00](https://news.slashdot.org/story/26/01/23/1218254/wall-street-pushes-solo-401ks-as-more-americans-work-for-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Pushes Solo 401(k)s as More Americans Work for Themselves](https://news.slashdot.org/story/26/01/23/1218254/wall-street-pushes-solo-401ks-as-more-americans-work-for-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 19:22:00](https://tech.slashdot.org/story/26/01/23/1213224/china-makes-too-many-cars-and-the-world-is-increasingly-ok-with-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Makes Too Many Cars, and the World Is Increasingly OK With It](https://tech.slashdot.org/story/26/01/23/1213224/china-makes-too-many-cars-and-the-world-is-increasingly-ok-with-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 18:47:19](https://lobste.rs/s/rua81a/open_widevine_support_added_chromium) - [(Open) Widevine support added to the chromium port](https://undeadly.org/cgi?action=article;sid=20260118112808)
-* [2026-01-23, 18:44:00](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 18:32:00](https://soylentnews.org/article.pl?sid=26/01/22/1144249&amp;from=rss) - [Starlink in Iran: How the Regime Jams the Service and What Helps Against It](https://soylentnews.org/article.pl?sid=26/01/22/1144249&amp;from=rss)
 * [2026-01-23, 18:25:17](https://lobste.rs/s/dsjhhw/isometric_nyc) - [Isometric NYC](https://cannoneyed.com/projects/isometric-nyc)
 * [2026-01-23, 18:20:43](https://lobste.rs/s/3zsexb/rheo_typesetting_static_site_engine) - [Rheo - Typesetting and static site engine based on Typst](https://github.com/freecomputinglab/rheo)
 * [2026-01-23, 18:08:11](https://news.ycombinator.com/item?id=46735644) - [New YC homepage](https://www.ycombinator.com/)
-* [2026-01-23, 18:00:00](https://news.slashdot.org/story/26/01/23/123218/toronto-man-posed-as-pilot-to-rack-up-hundreds-of-free-flights-prosecutors-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toronto Man Posed as Pilot To Rack Up Hundreds of Free Flights, Prosecutors Say](https://news.slashdot.org/story/26/01/23/123218/toronto-man-posed-as-pilot-to-rack-up-hundreds-of-free-flights-prosecutors-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects&apos; laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
 * [2026-01-23, 17:54:45](https://news.ycombinator.com/item?id=46735489) - [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
-* [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
 * [2026-01-23, 17:14:20](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town&apos;s agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 16:01:53](https://lobste.rs/s/2x5eee/achieving_0_cve_os_for_vms_end_traditional) - [Achieving a 0-CVE OS for VMs: The End of Traditional Patching](https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/)
@@ -92,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 13:31:49](https://lobste.rs/s/5ogdk7/what_has_docker_become) - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
 * [2026-01-23, 13:26:09](https://lobste.rs/s/x0qrlm/agents_md_as_dark_signal) - [AGENTS.md as a dark signal](https://joshmock.com/post/2026-agents-md-as-a-dark-signal/)
 * [2026-01-23, 13:07:11](https://lobste.rs/s/zhsi80/gnu_guix_1_5_0_released) - [GNU Guix 1.5.0 released](https://guix.gnu.org/en/blog/2026/gnu-guix-1.5.0-released/)
-* [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 11:04:18](https://news.ycombinator.com/item?id=46731068) - [Ask HN: What&apos;s the current best local/open speech-to-speech setup?](https://news.ycombinator.com/item?id=46731068)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
 * [2026-01-23, 10:00:33](https://lobste.rs/s/qhickw/explainer_tree_sitter_vs_lsp) - [Explainer: Tree-sitter vs. LSP](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
@@ -116,9 +142,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss)
 * [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss) - [Building the World&apos;s First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss)
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss) - [China&apos;s Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss)
+* [2026-01-20, 19:01:53](https://news.ycombinator.com/item?id=46696283) - [Show HN: Coi – A language that compiles to WASM, beats React/Vue](https://news.ycombinator.com/item?id=46696283)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive&apos;s Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss) - [Mosquitoes&apos; Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn&apos;t an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
+* [2026-01-20, 05:10:39](https://news.ycombinator.com/item?id=46688133) - [Management Time: Who&apos;s Got the Monkey? [pdf]](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss)
