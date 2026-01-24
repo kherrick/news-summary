@@ -1,60 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Data Security and Technology
 
-* [Open-source self-driving for 325 car models from 27 brands](https://comma.ai) - Self-driving technology has reached new heights, enhancing accessibility across various car brands.
+* [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
 
-* [Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support](https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/) - Revolutionizing multimodal retrieval capabilities with integrated video support.
+* [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects' Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://news.ycombinator.com/item?id=46735545)
 
-* [PowerShell Architect Retires After Decades At the Prompt](https://tech.slashdot.org/story/26/01/23/1915259/powershell-architect-retires-after-decades-at-the-prompt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A pivotal moment as the PowerShell architect steps down, signifying the end of an era in computing.
+* [TikTok Is Now Collecting Even More Data About Its Users](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Anthropic's AI Keeps Passing Its Own Company's Job Interview](https://slashdot.org/story/26/01/23/0951257/anthropics-ai-keeps-passing-its-own-companys-job-interview?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic's AI exhibits a groundbreaking ability by excelling in its creators' job evaluations.
+## Environmental and Health Innovations
 
-* [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/) - Insightful exploration of scalability innovations behind the ChatGPT platform.
+* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Legal and Privacy Concerns
+* [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet’s 'Hidden Fees'](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple faces serious challenges involving alleged hidden fees in its Wallet application.
+* [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Justice Department Opens Criminal Probe Into Silicon Valley Spy Allegations](https://yro.slashdot.org/story/26/01/23/2317211/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A criminal investigation probes cybersecurity offenses within Silicon Valley.
+## Scientific Discoveries and Breakthroughs
 
-* [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects' Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial cooperation between Microsoft and the FBI raises privacy questions.
+* [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss)
 
-* [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/) - TikTok's newer data policies ignite debates around privacy concerns and user tracking.
+* [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss)
 
-## Science and Sustainability
+* [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss)
 
-* [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The EU achieves significant milestones in renewable energy adoption.
+## Society and Culture
 
-* [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) - Major discovery in physics reveals a novel superconducting state.
+* [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450) [(Comments)](https://news.ycombinator.com/item?id=46740644)
 
-* [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss) - Unique insights into the purported correlation between foam dynamics and machine learning.
+* [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet's 'Hidden Fees'](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Work, Careers, and Education
+* [Professor Issues Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
 
-* [The Great Graduate Job Drought](https://slashdot.org/story/26/01/23/0925259/the-great-graduate-job-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Young graduates continue to face a tough employment market.
+## Unique and Interesting Technologies
 
-* [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) - Career opportunities in the interdisciplinary health AI market.
+* [Open-source self-driving for 325 car models from 27 brands](https://comma.ai) [(Comments)](https://news.ycombinator.com/item?id=46740029)
 
-* [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - Shocking trends reveal a literacy crisis among college-level students.
+* [Visualizing K-Way Merge: An Interactive Guide to Database Sorting](http://justinhj.github.io/2026/01/19/visualizing-k-way-merge.html) [(Comments)](https://lobste.rs/s/ujoilh/visualizing_k_way_merge_interactive)
 
-## Unique Perspectives and Curiosities
-
-* [Toilet Maker Toto’s Shares Get Unlikely Boost From AI Rush](https://slashdot.org/story/26/01/23/1855256/toilet-maker-totos-shares-get-unlikely-boost-from-ai-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An unexpected sector thrives due to the artificial intelligence craze.
-
-* [We built a museum exhibit about a 1990s game hint line, with a physical binder](https://yarnspinner.dev/blog/hint-line-93/) - Revisiting nostalgia through an innovative museum exhibit about game hint lines.
-
-* [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - A deep dive into an enigmatic aspect of SSH operations.
-
-* [Nvidia Wanted Pirated Book Stash Access](https://soylentnews.org/article.pl?sid=26/01/22/043242&amp;from=rss) - Explosive details emerge about Nvidia’s involvement with pirated intellectual property.
-
-## Environmental and Societal Insights
-
-* [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss) - A sobering milestone in France's demographic history.
-
-* [China's Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss) - Exploring multifunctional benefits of China's wind energy landscape.
-
-* [Cows Use Tools](https://soylentnews.org/article.pl?sid=26/01/21/0150257&amp;from=rss) - Fascinating evidence reveals tool usage among cows, reshaping how we view animal behavior.
+* [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/) [(Comments)](https://news.ycombinator.com/item?id=46730885)
 
 ---
 
@@ -81,6 +65,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-24, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) - [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
+* [2026-01-24, 03:30:00](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Filtration Technology Could Be Gamechanger In Removal of PFAS &apos;Forever Chemicals&apos;](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+* [2026-01-24, 02:14:40](https://lobste.rs/s/9nwumc/december_servo) - [December in Servo](https://servo.org/blog/2026/01/23/december-in-servo/)
+* [2026-01-24, 02:02:00](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-24, 01:57:42](https://lobste.rs/s/ujoilh/visualizing_k_way_merge_interactive) - [Visualizing K-Way Merge: An Interactive Guide to Database Sorting](http://justinhj.github.io/2026/01/19/visualizing-k-way-merge.html)
+* [2026-01-24, 01:28:30](https://lobste.rs/s/m8uv5t/why_god_can_t_play_link_past) - [Why a God Can&apos;t Play A Link to the Past](https://www.youtube.com/watch?v=nQ6e2_QKnmg)
 * [2026-01-24, 01:25:00](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet&apos;s &apos;Hidden Fees&apos;](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
 * [2026-01-24, 01:00:48](https://news.ycombinator.com/item?id=46740028) - [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
@@ -89,9 +80,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 23:55:27](https://lobste.rs/s/dspppf/how_i_estimate_work_as_staff_software) - [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/)
 * [2026-01-23, 23:20:00](https://yro.slashdot.org/story/26/01/23/1928230/white-house-labels-altered-photo-of-arrested-minnesota-protester-a-meme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Labels Altered Photo of Arrested Minnesota Protester a &apos;Meme&apos;](https://yro.slashdot.org/story/26/01/23/1928230/white-house-labels-altered-photo-of-arrested-minnesota-protester-a-meme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 23:16:00](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) - [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss)
-* [2026-01-23, 22:51:41](https://news.ycombinator.com/item?id=46739078) - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
-* [2026-01-23, 22:51:25](https://news.ycombinator.com/item?id=46739075) - [Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support](https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/)
 * [2026-01-23, 22:40:00](https://tech.slashdot.org/story/26/01/23/1915259/powershell-architect-retires-after-decades-at-the-prompt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PowerShell Architect Retires After Decades At the Prompt](https://tech.slashdot.org/story/26/01/23/1915259/powershell-architect-retires-after-decades-at-the-prompt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 * [2026-01-23, 22:02:00](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects&apos; Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 21:25:00](https://slashdot.org/story/26/01/23/1855256/toilet-maker-totos-shares-get-unlikely-boost-from-ai-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Toilet Maker Toto&apos;s Shares Get Unlikely Boost From AI Rush](https://slashdot.org/story/26/01/23/1855256/toilet-maker-totos-shares-get-unlikely-boost-from-ai-rush?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
@@ -117,10 +107,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 17:20:00](https://apple.slashdot.org/story/26/01/23/1017203/apples-secret-product-plans-stolen-in-luxshare-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Secret Product Plans Stolen in Luxshare Cyberattack](https://apple.slashdot.org/story/26/01/23/1017203/apples-secret-product-plans-stolen-in-luxshare-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 17:14:20](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend)
 * [2026-01-23, 16:45:06](https://lobste.rs/s/cqrtbd/portable_cartesian_brace_expansion_your) - [Portable (cartesian) brace expansion in your shell](https://neosmart.net/blog/portable-cartesian-brace-expansion-in-your-shell/)
-* [2026-01-23, 16:40:00](https://science.slashdot.org/story/26/01/23/0959223/when-two-years-of-academic-work-vanished-with-a-single-click?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [When Two Years of Academic Work Vanished With a Single Click](https://science.slashdot.org/story/26/01/23/0959223/when-two-years-of-academic-work-vanished-with-a-single-click?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town&apos;s agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 16:01:53](https://lobste.rs/s/2x5eee/achieving_0_cve_os_for_vms_end_traditional) - [Achieving a 0-CVE OS for VMs: The End of Traditional Patching](https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/)
-* [2026-01-23, 16:01:00](https://slashdot.org/story/26/01/23/0951257/anthropics-ai-keeps-passing-its-own-companys-job-interview?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s AI Keeps Passing Its Own Company&apos;s Job Interview](https://slashdot.org/story/26/01/23/0951257/anthropics-ai-keeps-passing-its-own-companys-job-interview?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [The tech monoculture is finally breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
 * [2026-01-23, 15:15:46](https://lobste.rs/s/wwmwed/moral_character_cryptographic_work_2015) - [The Moral Character of Cryptographic Work (2015)](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 * [2026-01-23, 15:03:01](https://news.ycombinator.com/item?id=46733301) - [Waypoint-1: Real-Time Interactive Video Diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
@@ -136,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 11:04:18](https://news.ycombinator.com/item?id=46731068) - [Ask HN: What&apos;s the current best local/open speech-to-speech setup?](https://news.ycombinator.com/item?id=46731068)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
 * [2026-01-23, 10:00:33](https://lobste.rs/s/qhickw/explainer_tree_sitter_vs_lsp) - [Explainer: Tree-sitter vs. LSP](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
-* [2026-01-23, 09:05:39](https://lobste.rs/s/ncfrbj/gptzero_finds_100_new_hallucinations) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-23, 08:59:00](https://soylentnews.org/article.pl?sid=26/01/22/0422248&amp;from=rss) - [Wikipedia Volunteers Spent Years Cataloging AI Tells. Now There&apos;s a Plugin to Avoid Them.](https://soylentnews.org/article.pl?sid=26/01/22/0422248&amp;from=rss)
 * [2026-01-23, 08:16:31](https://lobste.rs/s/uujlga/webracket_language_is_subset_racket) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 * [2026-01-23, 07:40:07](https://lobste.rs/s/uskrd1/maintaining_shadow_branches_for_github) - [Maintaining shadow branches for GitHub PRs](https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs)
@@ -147,12 +134,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 00:12:09](https://lobste.rs/s/ijyacx/overrun_with_ai_slop_curl_scraps_bug) - [Overrun with AI slop, cURL scraps bug bounties to ensure \&quot;intact mental health\&quot;](https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/)
 * [2026-01-22, 23:28:00](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss) - [Textbooks Were Wrong: Human Hair Doesn&apos;t Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss)
 * [2026-01-22, 23:23:54](https://lobste.rs/s/jumnjp/we_built_museum_exhibit_about_1990s_game) - [We built a museum exhibit about a 1990s game hint line, with a physical binder](https://yarnspinner.dev/blog/hint-line-93/)
-* [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index report: economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 20:05:45](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 * [2026-01-22, 18:40:00](https://soylentnews.org/article.pl?sid=26/01/21/0150257&amp;from=rss) - [Cows Use Tools](https://soylentnews.org/article.pl?sid=26/01/21/0150257&amp;from=rss)
-* [2026-01-22, 14:11:32](https://lobste.rs/s/l61c2k/announcing_rust_1_93_0) - [Announcing Rust 1.93.0](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
 * [2026-01-22, 13:46:00](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss) - [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss)
-* [2026-01-22, 10:29:10](https://lobste.rs/s/m0twb1/your_app_subscription_is_now_my_weekend) - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project/)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
 * [2026-01-21, 23:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss) - [The Science That Casts Doubt on Claims About Microplastics](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss)
@@ -162,6 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss)
 * [2026-01-20, 23:51:00](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss) - [Building the World&apos;s First Graviton Detector](https://soylentnews.org/article.pl?sid=26/01/19/166239&amp;from=rss)
 * [2026-01-20, 19:06:00](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss) - [China&apos;s Wind Farms Are Doing a Lot More Than Generating Electricity](https://soylentnews.org/article.pl?sid=26/01/19/0533234&amp;from=rss)
+* [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive&apos;s Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss) - [Mosquitoes&apos; Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn&apos;t an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss)
 * [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
