@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Data Security and Technology
+## Technology and Science Collaborations
 
-* [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
+* [Study Shows How Earthquake Monitors Can Track Space Junk Through Sonic Booms](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new study reveals the innovative use of earthquake monitoring equipment for tracking space debris through sonic booms, broadening the potential applications of existing technologies.
 
-* [Microsoft Gave FBI a Set of BitLocker Encryption Keys To Unlock Suspects' Laptops](https://it.slashdot.org/story/26/01/23/1910235/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://news.ycombinator.com/item?id=46735545)
+* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers have developed a new filtration technology aimed at effectively removing harmful 'forever chemicals,' a significant step toward environmental conservation.
 
-* [TikTok Is Now Collecting Even More Data About Its Users](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Economic and Policy Changes
 
-## Environmental and Health Innovations
+* [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) - A single DNS configuration change led to widespread internet disruptions, highlighting the fragile interconnectedness of the web.
 
-* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In a landmark decision amidst global health concerns, California independently joins the WHO Disease Network following the US's withdrawal.
 
-* [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet's 'Hidden Fees'](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A consumer rights advocate seeks $2 billion in a legal battle against Apple for allegedly charging excessive hidden fees on its digital wallet.
 
-* [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Privacy and Surveillance
 
-## Scientific Discoveries and Breakthroughs
+* [Justice Department Opens Criminal Probe Into Silicon Valley Spy Allegations](https://yro.slashdot.org/story/26/01/23/2317211/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The US Justice Department has launched a criminal investigation into allegations of corporate espionage within Silicon Valley's tech industry.
 
-* [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss)
+* [TikTok Is Now Collecting Even More Data About Its Users](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - TikTok has intensified scrutiny over its privacy practices by collecting even more user data, sparking fresh privacy concerns.
 
-* [Textbooks Were Wrong: Human Hair Doesn't Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss)
+## Innovative Tools and Interfaces
 
-* [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss)
+* [Visualizing K-Way Merge: An Interactive Guide to Database Sorting](http://justinhj.github.io/2026/01/19/visualizing-k-way-merge.html) - An educational interactive guide illustrates techniques for database sorting using K-Way merge.
 
-## Society and Culture
+* [Comma openpilot – Open source driver-assistance](https://comma.ai) - Learn about Comma openpilot, an open-source platform for enhancing driver assistance systems with impressive potential.
 
-* [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450) [(Comments)](https://news.ycombinator.com/item?id=46740644)
+* [Rheo - Typesetting and static site engine based on Typst](https://github.com/freecomputinglab/rheo) - Explore the new 'Rheo' engine, combining typesetting and static site generation with innovative features stemming from Typst.
 
-* [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet's 'Hidden Fees'](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(Comments)](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Breaking Boundaries in Energy and Math
 
-* [Professor Issues Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) [(Comments)](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
+* [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - In a landmark success, the European Union sustains higher energy output from solar and wind sources compared to fossil fuels.
 
-## Unique and Interesting Technologies
+* [Proof of Corn](https://proofofcorn.com/) - A unique exploration of cryptocurrency, where Proof of Corn delves into alternative methodologies and concepts.
 
-* [Open-source self-driving for 325 car models from 27 brands](https://comma.ai) [(Comments)](https://news.ycombinator.com/item?id=46740029)
+## Impacts of AI, Culture, and Education
 
-* [Visualizing K-Way Merge: An Interactive Guide to Database Sorting](http://justinhj.github.io/2026/01/19/visualizing-k-way-merge.html) [(Comments)](https://lobste.rs/s/ujoilh/visualizing_k_way_merge_interactive)
+* [Wikipedia Volunteers Spent Years Cataloging AI Tells. Now There's a Plugin to Avoid Them.](https://soylentnews.org/article.pl?sid=26/01/22/0422248&amp;from=rss) - Dedicated Wikipedia volunteers who documented indicative patterns of AI have now launched a plugin designed to counteract AI imitation.
 
-* [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/) [(Comments)](https://news.ycombinator.com/item?id=46730885)
+* [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - Alarm bells are ringing in academia as educators observe a growing trend of diminished reading skills among college students.
 
 ---
 
@@ -65,15 +65,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-24, 07:00:00](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Study Shows How Earthquake Monitors Can Track Space Junk Through Sonic Booms](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) - [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
 * [2026-01-24, 03:30:00](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Filtration Technology Could Be Gamechanger In Removal of PFAS &apos;Forever Chemicals&apos;](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+* [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+* [2026-01-24, 02:19:41](https://lobste.rs/s/z55cm5/considering_strictly_monotonic_time) - [Considering Strictly Monotonic Time](https://matklad.github.io/2026/01/23/strictly-monotonic-time.html)
 * [2026-01-24, 02:14:40](https://lobste.rs/s/9nwumc/december_servo) - [December in Servo](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 02:02:00](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 01:57:42](https://lobste.rs/s/ujoilh/visualizing_k_way_merge_interactive) - [Visualizing K-Way Merge: An Interactive Guide to Database Sorting](http://justinhj.github.io/2026/01/19/visualizing-k-way-merge.html)
 * [2026-01-24, 01:28:30](https://lobste.rs/s/m8uv5t/why_god_can_t_play_link_past) - [Why a God Can&apos;t Play A Link to the Past](https://www.youtube.com/watch?v=nQ6e2_QKnmg)
 * [2026-01-24, 01:25:00](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet&apos;s &apos;Hidden Fees&apos;](https://news.slashdot.org/story/26/01/23/2328228/campaigner-launches-2-billion-legal-action-in-uk-against-apple-over-wallets-hidden-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
+* [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Comma openpilot – Open source driver-assistance](https://comma.ai)
 * [2026-01-24, 01:00:48](https://news.ycombinator.com/item?id=46740028) - [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
 * [2026-01-24, 00:45:00](https://yro.slashdot.org/story/26/01/23/2317211/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Justice Department Opens Criminal Probe Into Silicon Valley Spy Allegations](https://yro.slashdot.org/story/26/01/23/2317211/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 00:02:00](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Is Now Collecting Even More Data About Its Users](https://yro.slashdot.org/story/26/01/23/236200/tiktok-is-now-collecting-even-more-data-about-its-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -89,7 +91,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 20:41:00](https://slashdot.org/story/26/01/23/0925259/the-great-graduate-job-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Great Graduate Job Drought](https://slashdot.org/story/26/01/23/0925259/the-great-graduate-job-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 20:27:58](https://news.ycombinator.com/item?id=46737447) - [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
 * [2026-01-23, 20:01:00](https://news.slashdot.org/story/26/01/23/1218254/wall-street-pushes-solo-401ks-as-more-americans-work-for-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wall Street Pushes Solo 401(k)s as More Americans Work for Themselves](https://news.slashdot.org/story/26/01/23/1218254/wall-street-pushes-solo-401ks-as-more-americans-work-for-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-23, 19:57:44](https://news.ycombinator.com/item?id=46737076) - [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
 * [2026-01-23, 19:22:00](https://tech.slashdot.org/story/26/01/23/1213224/china-makes-too-many-cars-and-the-world-is-increasingly-ok-with-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Makes Too Many Cars, and the World Is Increasingly OK With It](https://tech.slashdot.org/story/26/01/23/1213224/china-makes-too-many-cars-and-the-world-is-increasingly-ok-with-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 18:47:19](https://lobste.rs/s/rua81a/open_widevine_support_added_chromium) - [(Open) Widevine support added to the chromium port](https://undeadly.org/cgi?action=article;sid=20260118112808)
 * [2026-01-23, 18:44:00](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar and Wind Overtake Fossil Fuels in the EU](https://hardware.slashdot.org/story/26/01/23/127254/solar-and-wind-overtake-fossil-fuels-in-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,14 +104,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 17:54:45](https://news.ycombinator.com/item?id=46735489) - [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
 * [2026-01-23, 17:29:53](https://news.ycombinator.com/item?id=46735179) - [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
 * [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
-* [2026-01-23, 17:26:27](https://news.ycombinator.com/item?id=46735133) - [Notes on the Intel 8086 processor&apos;s arithmetic-logic unit](https://www.righto.com/2026/01/notes-on-intel-8086-processors.html)
-* [2026-01-23, 17:20:00](https://apple.slashdot.org/story/26/01/23/1017203/apples-secret-product-plans-stolen-in-luxshare-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Secret Product Plans Stolen in Luxshare Cyberattack](https://apple.slashdot.org/story/26/01/23/1017203/apples-secret-product-plans-stolen-in-luxshare-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-23, 17:14:20](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend)
 * [2026-01-23, 16:45:06](https://lobste.rs/s/cqrtbd/portable_cartesian_brace_expansion_your) - [Portable (cartesian) brace expansion in your shell](https://neosmart.net/blog/portable-cartesian-brace-expansion-in-your-shell/)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town&apos;s agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 16:01:53](https://lobste.rs/s/2x5eee/achieving_0_cve_os_for_vms_end_traditional) - [Achieving a 0-CVE OS for VMs: The End of Traditional Patching](https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [The tech monoculture is finally breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
-* [2026-01-23, 15:15:46](https://lobste.rs/s/wwmwed/moral_character_cryptographic_work_2015) - [The Moral Character of Cryptographic Work (2015)](https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 * [2026-01-23, 15:03:01](https://news.ycombinator.com/item?id=46733301) - [Waypoint-1: Real-Time Interactive Video Diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
 * [2026-01-23, 14:45:54](https://lobste.rs/s/uluua1/scaling_postgresql_power_800_million) - [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
 * [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
@@ -134,8 +132,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-23, 00:12:09](https://lobste.rs/s/ijyacx/overrun_with_ai_slop_curl_scraps_bug) - [Overrun with AI slop, cURL scraps bug bounties to ensure \&quot;intact mental health\&quot;](https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/)
 * [2026-01-22, 23:28:00](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss) - [Textbooks Were Wrong: Human Hair Doesn&apos;t Grow the Way Scientists Thought](https://soylentnews.org/article.pl?sid=26/01/22/0355223&amp;from=rss)
 * [2026-01-22, 23:23:54](https://lobste.rs/s/jumnjp/we_built_museum_exhibit_about_1990s_game) - [We built a museum exhibit about a 1990s game hint line, with a physical binder](https://yarnspinner.dev/blog/hint-line-93/)
+* [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index report: economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 20:05:45](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 * [2026-01-22, 18:40:00](https://soylentnews.org/article.pl?sid=26/01/21/0150257&amp;from=rss) - [Cows Use Tools](https://soylentnews.org/article.pl?sid=26/01/21/0150257&amp;from=rss)
+* [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-22, 13:46:00](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss) - [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
@@ -149,6 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive&apos;s Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 14:22:00](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss) - [Mosquitoes&apos; Thirst for Human Blood Has Increased as Biodiversity Loss Worsens](https://soylentnews.org/article.pl?sid=26/01/19/046252&amp;from=rss)
 * [2026-01-20, 09:34:00](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss) - [New Studies Can Explain Why Comet 3I/Atlas Isn&apos;t an Alien (Probably)](https://soylentnews.org/article.pl?sid=26/01/19/0357224&amp;from=rss)
-* [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
+* [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
 * [2026-01-20, 04:44:00](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss) - [Stellantis Drops Jeep, Chrysler Plug-in Hybrids Amid EV Sales Slowdown](https://soylentnews.org/article.pl?sid=26/01/18/0044243&amp;from=rss)
 * [2026-01-20, 00:02:00](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss) - [Anthropologists Offer New Evidence of Bipedalism in Long-Debated Fossil Discovery](https://soylentnews.org/article.pl?sid=26/01/18/0043231&amp;from=rss)
