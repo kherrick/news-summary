@@ -2,49 +2,37 @@
 
 ## Technology and Innovation
 
-* [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator) | [Comments](https://news.ycombinator.com/item?id=46750437)
+* [Introducing Kitty Cards](https://lmno.lol/alvaro/introducing-kitty-cards) - A new collectible card game with unique features for engaging gameplay. [Comments](https://lobste.rs/s/upkphl/introducing_kitty_cards)
 
-* [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047) | [Comments](https://news.ycombinator.com/item?id=46750214)
+* [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator) - A new text-based interface for managing virtual machines. [Comments](https://news.ycombinator.com/item?id=46750437)
 
-* [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/) | [Comments](https://news.ycombinator.com/item?id=46745922)
+* [Infotainment, EV Charger Exploits Earn $1M at Pwn2Own Automotive 2026](https://it.slashdot.org/story/26/01/25/0131222/infotainment-ev-charger-exploits-earn-1m-at-pwn2own-automotive-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A major hacking challenge exposes security flaws in automotive technologies. [Comments](https://it.slashdot.org/story/26/01/25/0131222/infotainment-ev-charger-exploits-earn-1m-at-pwn2own-automotive-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Infotainment, EV Charger Exploits Earn $1M at Pwn2Own Automotive 2026](https://it.slashdot.org/story/26/01/25/0131222/infotainment-ev-charger-exploits-earn-1m-at-pwn2own-automotive-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://it.slashdot.org/comments.pl?sid=26/01/25/0131222)
+* [Here&apos;s how to generate a truly random number with quantum physics](https://www.popsci.com/technology/free-random-number-generator/) - Explores the unique capabilities of quantum physics for true randomness. [Comments](https://lobste.rs/s/izkcdg/here_s_how_generate_truly_random_number)
 
-## Energy and Environment
+## Artificial Intelligence
 
-* [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/) | [Comments](https://news.ycombinator.com/item?id=46749198)
+* [Google&apos;s &apos;AI Overviews&apos; Cite YouTube For Health Queries More Than Any Medical Sites, Study Suggests](https://news.slashdot.org/story/26/01/25/0043256/googles-ai-overviews-cite-youtube-for-health-queries-more-than-any-medical-sites-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns arise over the credibility of YouTube as a primary medical reference. [Comments](https://news.slashdot.org/story/26/01/25/0043256/googles-ai-overviews-cite-youtube-for-health-queries-more-than-any-medical-sites-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [New Filtration Technology Could Be Gamechanger In Removal of PFAS 'Forever Chemicals'](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://science.slashdot.org/comments.pl?sid=26/01/24/002216)
+* [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047) - A leading expert discusses computational challenges in scaling large language models. [Comments](https://news.ycombinator.com/item?id=46750214)
 
-* [Cheap Green Tech Allows Faster Path To Electrification For the Developing World](https://hardware.slashdot.org/story/26/01/24/1938220/cheap-green-tech-allows-faster-path-to-electrification-for-the-developing-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://hardware.slashdot.org/comments.pl?sid=26/01/24/1938220)
+* [AI tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/) - A reflection on the division and discourse surrounding AI advancements. [Comments](https://lobste.rs/s/cw6f2s/ai_tribalism)
 
-## Science and Research
+## Space and Scientific Advances
 
-* [Ancient “Mosaic” Fossils Found in Morocco Challenge the Timeline of Human Evolution](https://soylentnews.org/article.pl?sid=26/01/23/1016236&amp;from=rss) | [Comments](https://soylentnews.org/comments.pl?sid=26/01/23/1016236)
+* [NASA Confident, But Some Critics Wonder if Its Orion Spacecraft is Safe to Fly](https://science.slashdot.org/story/26/01/24/0633252/nasa-confident-but-some-critics-wonder-if-its-orion-spacecraft-is-safe-to-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Debates over the safety of NASA's ambitious Orion spacecraft build. [Comments](https://science.slashdot.org/story/26/01/24/0633252/nasa-confident-but-some-critics-wonder-if-its-orion-spacecraft-is-safe-to-fly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Study Shows How Earthquake Monitors Can Track Space Junk Through Sonic Booms](https://science.slashdot.org/story/26/01/24/014216/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://science.slashdot.org/comments.pl?sid=26/01/24/014216)
+* [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/) - A detailed comparison of Raspberry Pi's evolving computational performance. [Comments](https://news.ycombinator.com/item?id=46745922)
 
-* [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss) | [Comments](https://soylentnews.org/comments.pl?sid=26/01/22/124243)
+* [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&from=rss) - Creative exploration of simple physical systems and computing principles. [Comments](https://soylentnews.org/article.pl?sid=26/01/22/124243&from=rss)
 
-* [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss) | [Comments](https://soylentnews.org/comments.pl?sid=26/01/22/1141230)
+## Social and Cultural Issues
 
-## Society and Culture
+* [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/) - An analysis of why some argue Palantir should not be used in government services. [Comments](https://news.ycombinator.com/item?id=46750852)
 
-* [Work-From-Office Mandate? Expect Top Talent Turnover, Culture Rot](https://it.slashdot.org/story/26/01/24/2146216/work-from-office-mandate-expect-top-talent-turnover-culture-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://it.slashdot.org/comments.pl?sid=26/01/24/2146216)
+* [Hollywood Tries To Take Pirate Sites Down Globally Through India Court](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A global crackdown on piracy platforms spearheaded by Hollywood. [Comments](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) | [Comments](https://soylentnews.org/comments.pl?sid=26/01/21/0136237)
-
-* [AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://soylentnews.org/article.pl?sid=26/01/21/0147238&amp;from=rss) | [Comments](https://soylentnews.org/comments.pl?sid=26/01/21/0147238)
-
-* [Why a God Can't Play A Link to the Past](https://www.youtube.com/watch?v=nQ6e2_QKnmg) | [Comments](https://lobste.rs/s/m8uv5t/why_god_can_t_play_link_past)
-
-## Cybersecurity and Policy
-
-* [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) | [Comments](https://news.ycombinator.com/item?id=46747827)
-
-* [Hollywood Tries To Take Pirate Sites Down Globally Through India Court](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) | [Comments](https://yro.slashdot.org/comments.pl?sid=26/01/24/0124246)
-
-* [Overrun with AI slop, cURL scraps bug bounties to ensure "intact mental health"](https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/) | [Comments](https://lobste.rs/s/ijyacx/overrun_with_ai_slop_curl_scraps_bug)
+* [Airlines Cancel Over 10,000 US Flights Due To Massive Winter Storm](https://tech.slashdot.org/story/26/01/24/2223200/airlines-cancel-over-10000-us-flights-due-to-massive-winter-storm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant impact on US travel due to severe weather conditions. [Comments](https://tech.slashdot.org/story/26/01/24/2223200/airlines-cancel-over-10000-us-flights-due-to-massive-winter-storm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ---
 
@@ -71,7 +59,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-25, 03:44:28](https://news.ycombinator.com/item?id=46750485) - [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
+* [2026-01-25, 06:56:57](https://lobste.rs/s/upkphl/introducing_kitty_cards) - [Introducing Kitty Cards](https://lmno.lol/alvaro/introducing-kitty-cards)
+* [2026-01-25, 06:11:57](https://lobste.rs/s/7hxrjv/home_router_recommendations) - [Home router recommendations](https://lobste.rs/s/7hxrjv/home_router_recommendations)
+* [2026-01-25, 05:34:00](https://news.slashdot.org/story/26/01/25/0043256/googles-ai-overviews-cite-youtube-for-health-queries-more-than-any-medical-sites-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s &apos;AI Overviews&apos; Cite YouTube For Health Queries More Than Any Medical Sites, Study Suggests](https://news.slashdot.org/story/26/01/25/0043256/googles-ai-overviews-cite-youtube-for-health-queries-more-than-any-medical-sites-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-25, 04:53:29](https://news.ycombinator.com/item?id=46750852) - [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
+* [2026-01-25, 04:46:41](https://lobste.rs/s/weixyl/value_things) - [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)
+* [2026-01-25, 03:44:28](https://news.ycombinator.com/item?id=46750485) - [The Responsibility of Intellectuals (1967)](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
 * [2026-01-25, 03:41:46](https://news.ycombinator.com/item?id=46750470) - [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
 * [2026-01-25, 03:38:00](https://soylentnews.org/article.pl?sid=26/01/24/019242&amp;from=rss) - [How Greenwashing Creates &apos;False Stability&apos; for Companies](https://soylentnews.org/article.pl?sid=26/01/24/019242&amp;from=rss)
 * [2026-01-25, 03:36:38](https://news.ycombinator.com/item?id=46750437) - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
@@ -79,6 +72,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
 * [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
 * [2026-01-25, 02:34:00](https://it.slashdot.org/story/26/01/25/0131222/infotainment-ev-charger-exploits-earn-1m-at-pwn2own-automotive-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Infotainment, EV Charger Exploits Earn $1M at Pwn2Own Automotive 2026](https://it.slashdot.org/story/26/01/25/0131222/infotainment-ev-charger-exploits-earn-1m-at-pwn2own-automotive-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-25, 02:18:47](https://news.ycombinator.com/item?id=46750024) - [Vortex Support in DuckDB](https://duckdb.org/2026/01/23/duckdb-vortex-extension)
 * [2026-01-25, 01:48:20](https://lobste.rs/s/izkcdg/here_s_how_generate_truly_random_number) - [Here&apos;s how to generate a truly random number with quantum physics](https://www.popsci.com/technology/free-random-number-generator/)
 * [2026-01-25, 01:25:37](https://news.ycombinator.com/item?id=46749671) - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
 * [2026-01-25, 01:01:05](https://lobste.rs/s/yd2csv/how_does_hedgehog_engine_2_work) - [How Does the Hedgehog Engine 2 Work?](https://www.youtube.com/watch?v=RLJQRccTwMs)
@@ -94,11 +88,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 21:24:13](https://news.ycombinator.com/item?id=46747827) - [Poland&apos;s energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
 * [2026-01-24, 21:01:02](https://news.ycombinator.com/item?id=46747625) - [First Design Engineer Hire – Build Games at Gym Class (YC W22)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
 * [2026-01-24, 20:34:00](https://it.slashdot.org/story/26/01/24/2031221/microsoft-365-endured-9-hours-of-outages-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft 365 Endured 9+ Hours of Outages Thursday](https://it.slashdot.org/story/26/01/24/2031221/microsoft-365-endured-9-hours-of-outages-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 20:33:40](https://news.ycombinator.com/item?id=46747366) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:34:00](https://slashdot.org/story/26/01/24/076228/ai-luminaries-clash-at-davos-over-how-close-human-level-intelligence-really-is?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Luminaries Clash At Davos Over How Close Human-Level Intelligence Really Is](https://slashdot.org/story/26/01/24/076228/ai-luminaries-clash-at-davos-over-how-close-human-level-intelligence-really-is?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 19:25:53](https://news.ycombinator.com/item?id=46746681) - [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
-* [2026-01-24, 19:12:56](https://news.ycombinator.com/item?id=46746570) - [JSON-render: LLM-based JSON-to-UI tool](https://json-render.dev/)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
 * [2026-01-24, 18:54:00](https://lobste.rs/s/i7zvfc/cua_bench_benchmark_for_ai_agents_gui) - [Cua-Bench – a benchmark for AI agents in GUI environments](https://github.com/trycua/cua-bench)
 * [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
@@ -118,9 +110,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 13:51:22](https://lobste.rs/s/h6lbry/telegraph_key_singular_board_morse_for) - [Telegraph Key(singular)board:Morse for the modern era](https://hannahilea.com/blog/telegraph-key-singular-board/)
 * [2026-01-24, 13:25:00](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss) - [Hygienic Conditions in Pompeii&apos;s Early Baths Were Poor](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss)
 * [2026-01-24, 13:00:00](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood Tries To Take Pirate Sites Down Globally Through India Court](https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 10:22:32](https://news.ycombinator.com/item?id=46742389) - [How I estimate work](https://www.seangoedecke.com/how-i-estimate-work/)
 * [2026-01-24, 10:00:00](https://science.slashdot.org/story/26/01/24/0114249/smartwatches-help-detect-abnormal-heart-rhythms-4x-more-often-in-clinical-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartwatches Help Detect Abnormal Heart Rhythms 4x More Often In Clinical Trial](https://science.slashdot.org/story/26/01/24/0114249/smartwatches-help-detect-abnormal-heart-rhythms-4x-more-often-in-clinical-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 09:05:34](https://lobste.rs/s/mabl0w/creating_html_spoilers_element_with_no_js) - [Creating an HTML “spoilers” element with no JS (2024)](https://www.wavebeem.com/blog/2024/spoilers-element-no-js/)
 * [2026-01-24, 08:42:00](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss) - [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss)
 * [2026-01-24, 08:15:38](https://lobste.rs/s/mcaxcn/lispe_lisp_interpreter_with_data) - [lispE: Lisp interpreter with Data Structure, Pattern Programming, High level Functions, Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-01-24, 08:15:02](https://news.ycombinator.com/item?id=46741923) - [Shared Claude: A website controlled by the public](https://sharedclaude.com/)
@@ -131,14 +121,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 03:30:00](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Filtration Technology Could Be Gamechanger In Removal of PFAS &apos;Forever Chemicals&apos;](https://science.slashdot.org/story/26/01/24/002216/new-filtration-technology-could-be-gamechanger-in-removal-of-pfas-forever-chemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 02:19:41](https://lobste.rs/s/z55cm5/considering_strictly_monotonic_time) - [Considering Strictly Monotonic Time](https://matklad.github.io/2026/01/23/strictly-monotonic-time.html)
 * [2026-01-24, 02:14:40](https://lobste.rs/s/9nwumc/december_servo) - [December in Servo](https://servo.org/blog/2026/01/23/december-in-servo/)
-* [2026-01-24, 02:02:00](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Becomes First State To Join WHO Disease Network After US Exit](https://yro.slashdot.org/story/26/01/23/2350246/california-becomes-first-state-to-join-who-disease-network-after-us-exit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 01:28:30](https://lobste.rs/s/m8uv5t/why_god_can_t_play_link_past) - [Why a God Can&apos;t Play A Link to the Past](https://www.youtube.com/watch?v=nQ6e2_QKnmg)
 * [2026-01-23, 23:55:27](https://lobste.rs/s/dspppf/how_i_estimate_work_as_staff_software) - [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/)
 * [2026-01-23, 23:16:00](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss) - [Caltech-Led Team Finds New Superconducting State](https://soylentnews.org/article.pl?sid=26/01/22/1148259&amp;from=rss)
 * [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
-* [2026-01-23, 18:47:19](https://lobste.rs/s/rua81a/open_widevine_support_added_chromium) - [(Open) Widevine support added to the chromium port](https://undeadly.org/cgi?action=article;sid=20260118112808)
 * [2026-01-23, 18:32:00](https://soylentnews.org/article.pl?sid=26/01/22/1144249&amp;from=rss) - [Starlink in Iran: How the Regime Jams the Service and What Helps Against It](https://soylentnews.org/article.pl?sid=26/01/22/1144249&amp;from=rss)
-* [2026-01-23, 18:20:43](https://lobste.rs/s/3zsexb/rheo_typesetting_static_site_engine) - [Rheo - Typesetting and static site engine based on Typst](https://github.com/freecomputinglab/rheo)
 * [2026-01-23, 13:45:00](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss) - [Physics of Foam Strangely Resembles AI Training](https://soylentnews.org/article.pl?sid=26/01/22/1141230&amp;from=rss)
 * [2026-01-23, 13:31:49](https://lobste.rs/s/5ogdk7/what_has_docker_become) - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
 * [2026-01-23, 13:26:09](https://lobste.rs/s/x0qrlm/agents_md_as_dark_signal) - [AGENTS.md as a dark signal](https://joshmock.com/post/2026-agents-md-as-a-dark-signal/)
@@ -155,7 +142,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-21, 23:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss) - [The Science That Casts Doubt on Claims About Microplastics](https://soylentnews.org/article.pl?sid=26/01/19/1628204&amp;from=rss)
 * [2026-01-21, 18:49:00](https://soylentnews.org/article.pl?sid=26/01/19/1619249&amp;from=rss) - [Hobbies Don&apos;t Just Improve Personal Lives, They Can Boost Workplace Creativity Too](https://soylentnews.org/article.pl?sid=26/01/19/1619249&amp;from=rss)
 * [2026-01-21, 14:06:00](https://soylentnews.org/article.pl?sid=26/01/19/1618219&amp;from=rss) - [IT Spending Set to Hit $1.4 Trillion in 2026 - but What Exactly Are We Spending It On?](https://soylentnews.org/article.pl?sid=26/01/19/1618219&amp;from=rss)
-* [2026-01-21, 14:01:04](https://news.ycombinator.com/item?id=46705830) - [Show HN: Semantic search engine for Studio Ghibli movie](https://ghibli-search.anini.workers.dev/)
 * [2026-01-21, 09:20:00](https://soylentnews.org/article.pl?sid=26/01/19/1615238&amp;from=rss) - [The Places We Make Memories Help Us Inscribe Them](https://soylentnews.org/article.pl?sid=26/01/19/1615238&amp;from=rss)
 * [2026-01-21, 04:34:00](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss) - [Proton VPN Kills Off Legacy OpenVPN Configs in Push for Better Security](https://soylentnews.org/article.pl?sid=26/01/19/1613240&amp;from=rss)
 * [2026-01-21, 02:17:36](https://news.ycombinator.com/item?id=46700384) - [High-bandwidth flash progress and future](https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/)
+* [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
