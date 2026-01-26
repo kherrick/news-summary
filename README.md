@@ -1,22 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Technological Innovations and Impacts
 
-* [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot) - Discover an open-source personal AI assistant designed to enhance productivity. [Comments](https://news.ycombinator.com/item?id=46760237)
+* [Google Discover Replaces News Headlines With Sometimes Inaccurate AI-Generated Alternatives](https://news.slashdot.org/story/26/01/26/001230/google-discover-replaces-news-headlines-with-sometimes-inaccurate-ai-generated-alternatives?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference](https://github.com/karans4/sysp) - An intriguing project introducing sysp, a system-oriented Lisp programming language. [Comments](https://lobste.rs/s/d4y8rq/sysp_systems_lisp_compiling_c_with)
+* [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
 
-* [Doom has been ported to an earbud](https://doombuds.com) - A fun and innovative project bringing the classic game Doom to an unexpected platform. [Comments](https://news.ycombinator.com/item?id=46753484)
+* [The Android 'NexPhone': Linux on Demand, Dual-Boots Into Windows 11 - and Transforms Into a Workstation](https://mobile.slashdot.org/story/26/01/25/060240/the-android-nexphone-linux-on-demand-dual-boots-into-windows-11---and-transforms-into-a-workstation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Android 'NexPhone': Linux on Demand, Dual-Boots Into Windows 11 - and Transforms Into a Workstation](https://mobile.slashdot.org/story/26/01/25/060240/the-android-nexphone-linux-on-demand-dual-boots-into-windows-11---and-transforms-into-a-workstation?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A cutting-edge device that pairs Linux and Windows 11 for an unparalleled computing experience.
+## AI and Ethical Challenges
 
-## Artificial Intelligence and Ethics
+* [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&from=rss)
 
-* [Google Discover Replaces News Headlines With Sometimes Inaccurate AI-Generated Alternatives](https://news.slashdot.org/story/26/01/26/001230/google-discover-replaces-news-headlines-with-sometimes-inaccurate-ai-generated-alternatives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on the potential pitfalls of Google’s use of AI to generate news headlines. [Comments](https://news.slashdot.org/story/26/01/26/001230)
+* [The Risks of AI in Schools Outweigh the Benefits, Report Says](https://news.slashdot.org/story/26/01/25/0422212/the-risks-of-ai-in-schools-outweigh-the-benefits-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Politics and Society
+* [AI tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 
-* [ICE tells legal observer, 'We have a database, now you're a domestic terrorist'](https://reason.com/2026/01/23/ice-tells-legal-observer-we-have-a-nice-little-database-and-now-youre-considered-a-domestic-terrorist/) - Reporting reveals alarming actions taken by ICE involving categorizing domestic individuals as threats. [Comments](https://news.ycombinator.com/item?id=46761130)
+## Emerging Tools and Platforms
+
+* [zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
+
+* [sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference](https://github.com/karans4/sysp)
+
+* [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
+
+## Scientific Discoveries
+
+* [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
+
+* [Gasoline Out of Thin Air? It's a Reality!](https://hardware.slashdot.org/story/26/01/25/2153246/gasoline-out-of-thin-air-its-a-reality?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Cows Use Tools](https://soylentnews.org/article.pl?sid=26/01/21/0150257&from=rss)
+
+## Historical and Cultural Insights
+
+* [Ancient 'Mosaic' Fossils Found in Morocco Challenge the Timeline of Human Evolution](https://soylentnews.org/article.pl?sid=26/01/23/1016236&from=rss)
+
+* [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&from=rss)
 
 ---
 
@@ -43,7 +63,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-01-26, 02:25:09](https://news.ycombinator.com/item?id=46761130) - [ICE tells legal observer, &apos;We have a database, now you&apos;re a domestic terrorist&apos;](https://reason.com/2026/01/23/ice-tells-legal-observer-we-have-a-nice-little-database-and-now-youre-considered-a-domestic-terrorist/)
+* [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&amp;from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&amp;from=rss)
+* [2026-01-26, 03:04:07](https://news.ycombinator.com/item?id=46761370) - [Tech CEOs attend Amazon-funded \&quot;Melania\&quot; screening at White House](https://www.hollywoodreporter.com/movies/movie-news/white-house-vip-melania-screening-mike-tyson-tim-cook-1236484037/)
+* [2026-01-26, 02:15:52](https://news.ycombinator.com/item?id=46761061) - [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
+* [2026-01-26, 02:04:00](https://bsd.slashdot.org/story/26/01/26/0135254/kdes-plasma-login-manager-stops-supporting-freebsd---because-systemd?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE&apos;s &apos;Plasma Login Manager&apos; Stops Supporting FreeBSD - Because Systemd](https://bsd.slashdot.org/story/26/01/26/0135254/kdes-plasma-login-manager-stops-supporting-freebsd---because-systemd?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-26, 01:43:12](https://lobste.rs/s/ue0bau/zerobrew_is_rust_based_5_20x_faster_drop) - [zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
 * [2026-01-26, 01:23:10](https://lobste.rs/s/d4y8rq/sysp_systems_lisp_compiling_c_with) - [sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference](https://github.com/karans4/sysp)
 * [2026-01-26, 01:04:00](https://hardware.slashdot.org/story/26/01/26/0035209/washington-state-may-mandate-firearm-blueprint-detection-algorithms-for-3d-printers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Washington State May Mandate &apos;Firearm Blueprint Detection Algorithms&apos; For 3D Printers](https://hardware.slashdot.org/story/26/01/26/0035209/washington-state-may-mandate-firearm-blueprint-detection-algorithms-for-3d-printers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-26, 00:44:14](https://lobste.rs/s/xsm4pn/testing_exceptions_caches) - [Testing: exceptions and caches](https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches)
@@ -65,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-25, 19:36:00](https://news.slashdot.org/story/26/01/25/1930244/richard-stallman-critiques-ai-connected-cars-smartphones-and-drm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Richard Stallman Critiques AI, Connected Cars, Smartphones, and DRM](https://news.slashdot.org/story/26/01/25/1930244/richard-stallman-critiques-ai-connected-cars-smartphones-and-drm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-25, 19:31:23](https://news.ycombinator.com/item?id=46757357) - [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
-* [2026-01-25, 19:19:12](https://news.ycombinator.com/item?id=46757224) - [The behavioral cost of personalized pricing](https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing)
 * [2026-01-25, 19:12:50](https://news.ycombinator.com/item?id=46757162) - [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, make me care](https://gwern.net/blog/2026/make-me-care)
 * [2026-01-25, 18:06:26](https://news.ycombinator.com/item?id=46756427) - [Show HN: An interactive map of US lighthouses and navigational aids](https://www.lighthouses.app/)
@@ -96,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [A flawed paper in management science has been cited more than 6k times](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
 * [2026-01-25, 08:44:00](https://linux.slashdot.org/story/26/01/24/2332205/former-canonical-developer-advocate-warns-snap-store-isnt-safe-after-slow-responses-to-malware-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Canonical Developer Advocate Warns Snap Store Isn&apos;t Safe After Slow Responses to Malware Reports](https://linux.slashdot.org/story/26/01/24/2332205/former-canonical-developer-advocate-warns-snap-store-isnt-safe-after-slow-responses-to-malware-reports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-25, 08:30:00](https://soylentnews.org/article.pl?sid=26/01/24/0110242&amp;from=rss) - [Major River Deltas Are Sinking Faster Than Sea-Level Rise](https://soylentnews.org/article.pl?sid=26/01/24/0110242&amp;from=rss)
-* [2026-01-25, 08:07:03](https://news.ycombinator.com/item?id=46751826) - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 * [2026-01-25, 08:05:34](https://lobste.rs/s/zktaom/hands_on_with_two_apple_network_server) - [Hands-on with two Apple Network Server prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
 * [2026-01-25, 06:56:57](https://lobste.rs/s/upkphl/introducing_kitty_cards) - [Introducing Kitty Cards](https://lmno.lol/alvaro/introducing-kitty-cards)
 * [2026-01-25, 06:11:57](https://lobste.rs/s/7hxrjv/home_router_recommendations) - [Home router recommendations](https://lobste.rs/s/7hxrjv/home_router_recommendations)
@@ -107,10 +129,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 23:34:00](https://it.slashdot.org/story/26/01/24/2146216/work-from-office-mandate-expect-top-talent-turnover-culture-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Work-From-Office Mandate? Expect Top Talent Turnover, Culture Rot](https://it.slashdot.org/story/26/01/24/2146216/work-from-office-mandate-expect-top-talent-turnover-culture-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 22:54:00](https://soylentnews.org/article.pl?sid=26/01/23/1016236&amp;from=rss) - [Ancient “Mosaic” Fossils Found in Morocco Challenge the Timeline of Human Evolution](https://soylentnews.org/article.pl?sid=26/01/23/1016236&amp;from=rss)
 * [2026-01-24, 22:34:00](https://tech.slashdot.org/story/26/01/24/2223200/airlines-cancel-over-10000-us-flights-due-to-massive-winter-storm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airlines Cancel Over 10,000 US Flights Due To Massive Winter Storm](https://tech.slashdot.org/story/26/01/24/2223200/airlines-cancel-over-10000-us-flights-due-to-massive-winter-storm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-24, 22:14:14](https://lobste.rs/s/pdsego/i_added_bluesky_comment_section_my_blog) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
 * [2026-01-24, 21:34:00](https://hardware.slashdot.org/story/26/01/24/1938220/cheap-green-tech-allows-faster-path-to-electrification-for-the-developing-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cheap Green Tech Allows Faster Path To Electrification For the Developing World](https://hardware.slashdot.org/story/26/01/24/1938220/cheap-green-tech-allows-faster-path-to-electrification-for-the-developing-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 21:31:36](https://lobste.rs/s/cw6f2s/ai_tribalism) - [AI tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
-* [2026-01-24, 20:34:00](https://it.slashdot.org/story/26/01/24/2031221/microsoft-365-endured-9-hours-of-outages-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft 365 Endured 9+ Hours of Outages Thursday](https://it.slashdot.org/story/26/01/24/2031221/microsoft-365-endured-9-hours-of-outages-thursday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-24, 18:11:00](https://soylentnews.org/article.pl?sid=26/01/23/1010250&amp;from=rss) - [Micron Acquires PSMC Fab Site in Taiwan for $1.8 Billion](https://soylentnews.org/article.pl?sid=26/01/23/1010250&amp;from=rss)
 * [2026-01-24, 18:05:49](https://lobste.rs/s/abqeyo/obvious_things_c_should_do) - [Obvious Things C Should Do](https://www.digitalmars.com/articles/Cobvious.html)
 * [2026-01-24, 16:39:37](https://lobste.rs/s/2qsmw8/e9p_pure_erlang_9p_implementation) - [e9p - pure Erlang 9p implementation](https://tangled.org/hauleth.dev/e9p)
@@ -129,3 +149,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-22, 13:23:09](https://news.ycombinator.com/item?id=46718923) - [Infinite pancakes, anyone?](https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html)
 * [2026-01-22, 09:07:00](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss) - [France Records More Deaths Than Births for First Time Since End of Second World War](https://soylentnews.org/article.pl?sid=26/01/21/0141201&amp;from=rss)
 * [2026-01-22, 04:16:00](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss) - [Professors Issue Warning Over Surge in College Students Unable to Read](https://soylentnews.org/article.pl?sid=26/01/21/0136237&amp;from=rss)
+* [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
