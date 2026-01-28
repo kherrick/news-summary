@@ -1,68 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Technology Updates
 
-* [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0) - Announcing the new update to LM Studio, a platform for creating unique AI-powered experiences. [Comments](https://news.ycombinator.com/item?id=46799477)
+* [Amazon is Ending Its Palm ID System for Retail, Amazon One, as It Closes Physical Stores](https://yro.slashdot.org/story/26/01/28/1951234/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore Amazon's decision to discontinue its Palm ID authentication due to store closures. [Comments](https://news.ycombinator.com/item?id=46801976)
 
-* [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/) - A move towards enabling Thunderbird to handle its updates on Linux more smoothly eliminates dependency on slow package repositories. [Comments](https://lobste.rs/s/fyn2jy/breaking_thunderbird_free_from_linux)
+* [Tim Berners-Lee Wants Us To Take Back the Internet](https://tech.slashdot.org/story/26/01/28/1650231/tim-berners-lee-wants-us-to-take-back-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A call from the inventor of the web for users to reclaim digital spaces. [Comments](https://news.ycombinator.com/item?id=46798402)
 
-* [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood) - Discover Mousefood, a tool to create terminal-based user interfaces for microcontrollers. [Comments](https://news.ycombinator.com/item?id=46798402)
+* [Urban Expansion in the Age of Liberalism](https://slashdot.org/story/26/01/28/1937218/urban-expansion-in-the-age-of-liberalism?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Delve into urban changes influenced by political ideologies. [Comments](https://news.ycombinator.com/item?id=46800645)
 
-* [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/) - The Elixir-based job processing tool, Oban, now has a version available for Python developers. [Comments](https://news.ycombinator.com/item?id=46797594)
+* [Android's Full Desktop Mode Surfaces in Accidental Chromium Leak](https://slashdot.org/story/26/01/28/1443215/androids-full-desktop-mode-surfaces-in-accidental-chromium-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An accidental reveal shedding light on Android's expanded functionality.
 
-* [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser) - An ambitious project of developing a lightweight browser in C++. [Comments](https://news.ycombinator.com/item?id=46795540)
+* [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html) - Insight into an innovative approach to scripting with TypeScript. [Comments](https://news.ycombinator.com/item?id=46796745)
 
-* [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#) - A new platform to record programming sessions for learning and sharing is introduced. [Comments](https://news.ycombinator.com/item?id=46795468)
+## Science Discoveries
 
-* [Show HN: SHDL – A minimal hardware description language built from logic gates](https://github.com/rafa-rrayes/SHDL) - A simple hardware description language that allows coder to build from basic logical building blocks. [Comments](https://news.ycombinator.com/item?id=46794281)
+* [Cancer Might Protect Against Alzheimer's](https://science.slashdot.org/story/26/01/28/1920237/cancer-might-protect-against-alzheimers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Unpack this groundbreaking hypothesis connecting cancer and neurodegenerative conditions.
 
-* [t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq](https://github.com/alecthomas/t) - A new language, 't', designed for text manipulation tasks. [Comments](https://lobste.rs/s/rjw7zn/t_concise_language_for_manipulating_text)
+* [430,000-Year-Old Wooden Tools Are the Oldest Ever Found](https://science.slashdot.org/story/26/01/28/1537223/430000-year-old-wooden-tools-are-the-oldest-ever-found?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A fascinating archaeological breakthrough revealing ancient craftsmanship.
 
-* [Dwm.tmux – a dwm-inspired window manager for tmux](https://github.com/saysjonathan/dwm.tmux) - A tool inspired by the lightweight dynamic window manager 'dwm', tailored for tmux users. [Comments](https://news.ycombinator.com/item?id=46739704)
+* [Ancient Martian Beach Discovered, Providing New Clues To Planet's Habitability](https://science.slashdot.org/story/26/01/28/051200/ancient-martian-beach-discovered-providing-new-clues-to-planets-habitability?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into Mars's past enabling speculations on its potential for life.
 
-## Cybersecurity and Privacy
+* [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&from=rss) - Explore how a simple billiard ball can model complex computations.
 
-* [There&apos;s a Rash of Scam Spam Coming From a Real Microsoft Address](https://it.slashdot.org/story/26/01/28/1849206/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports of scam emails originating from genuine Microsoft email addresses raise alarms. [Comments](https://it.slashdot.org/story/26/01/28/1849206/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Business Shifts
 
-* [That&apos;s Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/) - A humorous yet critical analysis of how HSBC mishandled email communication. [Comments](https://news.ycombinator.com/item?id=46799304)
+* [Amazon cuts 16k jobs](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/) - A detailed analysis of recent layoffs in the tech giant's workforce. [Comments](https://news.ycombinator.com/item?id=46796745)
 
-* [Neocities Is Blocked by Bing](https://blog.neocities.org/blog/2026/01/27/bing-block.html) - The personal website service, Neocities, gets erroneously blacklisted by Bing. [Comments](https://lobste.rs/s/2a2fgl/neocities_is_blocked_by_bing)
+* [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html) - Evaluate the company's uncertain future amidst its financial challenges.
 
-## Artificial Intelligence and Innovation
+* [Apple Sued by App Developer Over its Continuity Camera](https://apple.slashdot.org/story/26/01/28/175253/apple-sued-by-app-developer-over-its-continuity-camera?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigate the legal battle over tech innovation and ownership.
 
-* [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) - Meta leverages Rust to enhance security at WhatsApp. [Comments](https://news.ycombinator.com/item?id=46791742)
+## Programming and Tools
 
-* [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) - YC-backed Kyber is seeking talent to drive the development of its AI projects. [Comments](https://news.ycombinator.com/item?id=46794231)
+* [Why I still teach OpenGL ES 3.0](https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html) - One educator's reasoning for sticking with an enduring graphics API. [Comments](https://lobste.rs/s/tvprul/why_i_still_teach_opengl_es_3_0)
 
-* [Clawdbot Has AI Techies Buying Mac Minis](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The emergence of Clawdbot creates a spike in demand for Mac Minis among AI developers. [Comments](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/) - Initiatives to streamline Thunderbird updates on Linux systems.
 
-## Science and Exploration
+* [Time Machine inside a FreeBSD jail](https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/) - A unique implementation of backups within secure environments.
 
-* [430,000-Year-Old Wooden Tools Are the Oldest Ever Found](https://science.slashdot.org/story/26/01/28/1537223/430000-year-old-wooden-tools-are-the-oldest-ever-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Archaeological find rewrites the history of early tools, dating back over 430,000 years. [Comments](https://science.slashdot.org/story/26/01/28/1537223/430000-year-old-wooden-tools-are-the-oldest-ever-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Asteroid 2024 YR4 Has a 4% Chance of Hitting the Moon](https://science.slashdot.org/story/26/01/28/0522257/asteroid-2024-yr4-has-a-4-chance-of-hitting-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A recently discovered asteroid has a small chance of a lunar impact in 2024. [Comments](https://science.slashdot.org/story/26/01/28/0522257/asteroid-2024-yr4-has-a-4-chance-of-hitting-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Scientists Launch AI DinoTracker App That Identifies Dinosaur Footprints](https://science.slashdot.org/story/26/01/27/2235231/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI-based app helps enthusiast to identify and analyze dinosaur footprints. [Comments](https://science.slashdot.org/story/26/01/27/2235231/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Ancient Martian Beach Discovered, Providing New Clues To Planet&apos;s Habitability](https://science.slashdot.org/story/26/01/28/051200/ancient-martian-beach-discovered-providing-new-clues-to-planets-habitability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers uncover evidence of ancient water sources on Mars, shedding light on the planet's past. [Comments](https://science.slashdot.org/story/26/01/28/051200/ancient-martian-beach-discovered-providing-new-clues-to-planets-habitability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-## Industry and Economy
-
-* [Apple Sued by App Developer Over its Continuity Camera](https://apple.slashdot.org/story/26/01/28/175253/apple-sued-by-app-developer-over-its-continuity-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple faces legal troubles with a developer over its Continuity Camera feature. [Comments](https://apple.slashdot.org/story/26/01/28/175253/apple-sued-by-app-developer-over-its-continuity-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [30,000 More UPS Jobs On the Chopping Block as Amazon Era Ends](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - UPS announces an additional wave of job cuts as it adjusts for declining demand. [Comments](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Amazon Cuts Another 16,000 Jobs](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon continues to downsize its workforce amidst economic shifts. [Comments](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss) - Bamboo is promoted for sustainable construction materials in architecture. [Comments](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss)
-
-## Historical and Cultural Insights
-
-* [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss) - A reflection on the impact of communication technology on social habits. [Comments](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss)
-
-* [3D-Printed Mathematical Lampshades](https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html) - Unique mathematical concepts applied to create artistic and functional lampshades. [Comments](https://news.ycombinator.com/item?id=46744272)
-
-* [Hygienic Conditions in Pompeii&apos;s Early Baths Were Poor](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss) - Study reveals subpar sanitary conditions in Pompeii's famed early baths. [Comments](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss)
+* [Use “\\A...\\z”, not “^...$” with Python regular expressions](https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions) - A best-practice guide for effective Python regexusages.
 
 ---
 
@@ -89,30 +65,42 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\&quot;AI\&quot; Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
+* [2026-01-28, 21:22:00](https://yro.slashdot.org/story/26/01/28/1951234/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon is Ending Its Palm ID System for Retail, Amazon One, as It Closes Physical Stores](https://yro.slashdot.org/story/26/01/28/1951234/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 20:44:00](https://slashdot.org/story/26/01/28/1937218/urban-expansion-in-the-age-of-liberalism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Urban Expansion in the Age of Liberalism](https://slashdot.org/story/26/01/28/1937218/urban-expansion-in-the-age-of-liberalism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 20:39:00](https://soylentnews.org/article.pl?sid=26/01/26/1911209&amp;from=rss) - [The Return of Digg, and the Proliferation of Cancel Culture](https://soylentnews.org/article.pl?sid=26/01/26/1911209&amp;from=rss)
+* [2026-01-28, 20:02:00](https://science.slashdot.org/story/26/01/28/1920237/cancer-might-protect-against-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cancer Might Protect Against Alzheimer&apos;s](https://science.slashdot.org/story/26/01/28/1920237/cancer-might-protect-against-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
+* [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\&quot;a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\&quot;](https://mastodon.social/@nzbr@chaos.social/115973847937505106)
+* [2026-01-28, 19:51:05](https://news.ycombinator.com/item?id=46800645) - [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
+* [2026-01-28, 19:48:59](https://news.ycombinator.com/item?id=46800623) - [Who sets the Doomsday Clock?](https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/)
+* [2026-01-28, 19:39:31](https://news.ycombinator.com/item?id=46800484) - [Show HN: Cursor for Userscripts](https://github.com/chebykinn/browser-code)
+* [2026-01-28, 19:22:00](https://tech.slashdot.org/story/26/01/28/199225/experians-tech-chief-defends-credit-scores-were-not-palantir?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Experian&apos;s Tech Chief Defends Credit Scores: &apos;We&apos;re Not Palantir&apos;](https://tech.slashdot.org/story/26/01/28/199225/experians-tech-chief-defends-credit-scores-were-not-palantir?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 18:52:24](https://news.ycombinator.com/item?id=46799898) - [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
 * [2026-01-28, 18:48:00](https://it.slashdot.org/story/26/01/28/1849206/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [There&apos;s a Rash of Scam Spam Coming From a Real Microsoft Address](https://it.slashdot.org/story/26/01/28/1849206/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
+* [2026-01-28, 18:35:18](https://lobste.rs/s/tvprul/why_i_still_teach_opengl_es_3_0) - [Why I still teach OpenGL ES 3.0](https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html)
 * [2026-01-28, 18:19:47](https://lobste.rs/s/fyn2jy/breaking_thunderbird_free_from_linux) - [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/)
-* [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That&apos;s Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
+* [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That&apos;s not how email works](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 18:01:00](https://apple.slashdot.org/story/26/01/28/175253/apple-sued-by-app-developer-over-its-continuity-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Sued by App Developer Over its Continuity Camera](https://apple.slashdot.org/story/26/01/28/175253/apple-sued-by-app-developer-over-its-continuity-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
 * [2026-01-28, 17:22:00](https://tech.slashdot.org/story/26/01/28/1650231/tim-berners-lee-wants-us-to-take-back-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tim Berners-Lee Wants Us To Take Back the Internet](https://tech.slashdot.org/story/26/01/28/1650231/tim-berners-lee-wants-us-to-take-back-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 17:20:31](https://news.ycombinator.com/item?id=46798402) - [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
+* [2026-01-28, 16:52:05](https://news.ycombinator.com/item?id=46797913) - [Amazon One palm authentication discontinued](https://amazonone.aws.com/help)
 * [2026-01-28, 16:48:59](https://news.ycombinator.com/item?id=46797868) - [Spinning around: Please don&apos;t – Common problems with spin locks](https://www.siliceum.com/en/blog/post/spinning-around/)
 * [2026-01-28, 16:45:00](https://entertainment.slashdot.org/story/26/01/28/1557214/whats-the-best-month-for-new-movies-and-music-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What&apos;s the &apos;Best&apos; Month for New Movies and Music? A Statistical Analysis](https://entertainment.slashdot.org/story/26/01/28/1557214/whats-the-best-month-for-new-movies-and-music-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 16:34:54](https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for) - [Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust](https://github.com/ariel-os/ariel-os)
 * [2026-01-28, 16:32:00](https://news.ycombinator.com/item?id=46797594) - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
-* [2026-01-28, 16:31:25](https://lobste.rs/s/bklgmd/one_human_one_agent_one_browser_from) - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
 * [2026-01-28, 16:20:07](https://lobste.rs/s/zxwgrs/accessing_luks_ext4_drives_from_macos) - [Accessing LUKS and ext4 drives from macOS](https://nmattia.com/posts/2026-01-13-using-luks-on-macos/)
 * [2026-01-28, 16:15:00](https://science.slashdot.org/story/26/01/28/1537223/430000-year-old-wooden-tools-are-the-oldest-ever-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [430,000-Year-Old Wooden Tools Are the Oldest Ever Found](https://science.slashdot.org/story/26/01/28/1537223/430000-year-old-wooden-tools-are-the-oldest-ever-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss)
+* [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon cuts 16k jobs](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 * [2026-01-28, 15:29:00](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [30,000 More UPS Jobs On the Chopping Block as Amazon Era Ends](https://slashdot.org/story/26/01/28/1529207/30000-more-ups-jobs-on-the-chopping-block-as-amazon-era-ends?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 15:13:53](https://news.ycombinator.com/item?id=46796389) - [Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual](https://carlkolon.com/2026/01/27/jfmm-semantic-search/)
 * [2026-01-28, 14:43:00](https://slashdot.org/story/26/01/28/1443215/androids-full-desktop-mode-surfaces-in-accidental-chromium-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android&apos;s Full Desktop Mode Surfaces in Accidental Chromium Leak](https://slashdot.org/story/26/01/28/1443215/androids-full-desktop-mode-surfaces-in-accidental-chromium-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 14:38:39](https://lobste.rs/s/m0krf8/there_back_again_from_quickstrom) - [There and Back Again: From Quickstrom to Bombadil](https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
-* [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
-* [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 14:00:00](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Cuts Another 16,000 Jobs](https://slashdot.org/story/26/01/28/1043253/amazon-cuts-another-16000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-28, 13:58:03](https://news.ycombinator.com/item?id=46795468) - [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#)
 * [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 13:00:00](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Clawdbot&apos; Has AI Techies Buying Mac Minis](https://tech.slashdot.org/story/26/01/28/0510226/clawdbot-has-ai-techies-buying-mac-minis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 12:06:18](https://news.ycombinator.com/item?id=46794281) - [Show HN: SHDL – A minimal hardware description language built from logic gates](https://github.com/rafa-rrayes/SHDL)
@@ -122,22 +110,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-28, 10:50:32](https://news.ycombinator.com/item?id=46793693) - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
 * [2026-01-28, 10:00:00](https://science.slashdot.org/story/26/01/28/0522257/asteroid-2024-yr4-has-a-4-chance-of-hitting-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Asteroid 2024 YR4 Has a 4% Chance of Hitting the Moon](https://science.slashdot.org/story/26/01/28/0522257/asteroid-2024-yr4-has-a-4-chance-of-hitting-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 09:37:34](https://lobste.rs/s/0x2zgn/time_machine_inside_freebsd_jail) - [Time Machine inside a FreeBSD jail](https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/)
-* [2026-01-28, 08:42:23](https://lobste.rs/s/2a2fgl/neocities_is_blocked_by_bing) - [Neocities Is Blocked by Bing](https://blog.neocities.org/blog/2026/01/27/bing-block.html)
-* [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
 * [2026-01-28, 07:42:25](https://lobste.rs/s/pjuesf/rise_sanityware) - [The Rise of Sanityware](https://thatshubham.com/blog/2026.html)
-* [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
+* [2026-01-28, 07:40:50](https://news.ycombinator.com/item?id=46792225) - [Kairos: AI interns for everyone](https://www.kairos.computer/)
 * [2026-01-28, 07:00:00](https://science.slashdot.org/story/26/01/28/051200/ancient-martian-beach-discovered-providing-new-clues-to-planets-habitability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ancient Martian Beach Discovered, Providing New Clues To Planet&apos;s Habitability](https://science.slashdot.org/story/26/01/28/051200/ancient-martian-beach-discovered-providing-new-clues-to-planets-habitability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 06:27:00](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss) - [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss)
-* [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)
-* [2026-01-28, 05:00:00](https://slashdot.org/story/26/01/28/0457219/amazon-inadvertently-announces-cloud-unit-layoffs-in-email-to-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Inadvertently Announces Cloud Unit Layoffs In Email To Employees](https://slashdot.org/story/26/01/28/0457219/amazon-inadvertently-announces-cloud-unit-layoffs-in-email-to-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 04:24:34](https://lobste.rs/s/rxowxr/use_z_not_with_python_regular_expressions) - [Use “\\A...\\z”, not “^...$” with Python regular expressions](https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions)
-* [2026-01-28, 03:34:45](https://news.ycombinator.com/item?id=46790740) - [Android&apos;s full desktop interface leaks: New status bar, Chrome Extensions](https://9to5google.com/2026/01/27/android-desktop-leak/)
-* [2026-01-28, 03:30:00](https://yro.slashdot.org/story/26/01/27/2343239/us-government-lost-more-than-10000-stem-phds-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Lost More Than 10,000 STEM PhDs Last Year](https://yro.slashdot.org/story/26/01/27/2343239/us-government-lost-more-than-10000-stem-phds-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 03:34:45](https://news.ycombinator.com/item?id=46790740) - [Android&apos;s desktop interface leaks](https://9to5google.com/2026/01/27/android-desktop-leak/)
 * [2026-01-28, 03:28:42](https://lobste.rs/s/ukutpb/monkeyball_online) - [MonkeyBall Online](https://monkeyball-online.pages.dev/)
-* [2026-01-28, 02:08:14](https://news.ycombinator.com/item?id=46790127) - [A verification layer for browser agents: Amazon case study](https://sentienceapi.com/blog/verification-layer-amazon-case-study)
-* [2026-01-28, 02:02:00](https://apple.slashdot.org/story/26/01/27/2336257/apple-updates-ios-12-for-the-first-time-since-2023?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Updates iOS 12 For the First Time Since 2023](https://apple.slashdot.org/story/26/01/27/2336257/apple-updates-ios-12-for-the-first-time-since-2023?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-28, 01:42:00](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss) - [North Sea Winds Of Change](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss)
-* [2026-01-28, 01:25:00](https://science.slashdot.org/story/26/01/27/2235231/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Launch AI DinoTracker App That Identifies Dinosaur Footprints](https://science.slashdot.org/story/26/01/27/2235231/scientists-launch-ai-dinotracker-app-that-identifies-dinosaur-footprints?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-28, 00:57:52](https://news.ycombinator.com/item?id=46789561) - [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
+* [2026-01-28, 00:18:58](https://news.ycombinator.com/item?id=46789205) - [Did a celebrated researcher obscure a baby&apos;s poisoning?](https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning)
+* [2026-01-28, 00:16:57](https://news.ycombinator.com/item?id=46789180) - [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)
+* [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-27, 22:08:16](https://lobste.rs/s/aqhrie/barev_xmpp_flavoured_p2p_protocol) - [Barev - XMPP flavoured p2p protocol](https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348)
 * [2026-01-27, 21:22:07](https://lobste.rs/s/7cdb2b/pure_go_linux_environment_written_by) - [A \&quot;Pure Go\&quot; Linux environment, written by Claude](https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/)
 * [2026-01-27, 21:02:47](https://lobste.rs/s/atvvjp/it_is_incorrect_normalize_http_url_paths) - [It is incorrect to “normalize” // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
@@ -145,31 +129,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-27, 19:40:59](https://lobste.rs/s/vfofzr/blocking_claude) - [Blocking Claude](https://aphyr.com/posts/403-blocking-claude)
 * [2026-01-27, 18:55:13](https://lobste.rs/s/igpevt/lobsters_vibecoding_challenge_winter) - [Lobsters Vibecoding Challenge (Winter 2025-2026)](https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693)
 * [2026-01-27, 18:08:48](https://lobste.rs/s/kaftkn/i_started_identifying_corporate_devices) - [I Started Identifying Corporate Devices in My Software](https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/)
-* [2026-01-27, 18:03:10](https://news.ycombinator.com/item?id=46783752) - [Prism](https://openai.com/index/introducing-prism)
 * [2026-01-27, 16:22:52](https://lobste.rs/s/csxfc6/cloudflare_claimed_they_implemented) - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn&apos;t](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
 * [2026-01-27, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss) - [80386 Multiplication and Division](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss)
-* [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [2026-01-27, 14:48:07](https://lobste.rs/s/xcwljr/xfwl4_roadmap_for_xfce_wayland) - [Xfwl4: The roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 * [2026-01-27, 14:40:22](https://lobste.rs/s/dskpn4/after_two_years_vibecoding_i_m_back) - [After two years of vibecoding, I&apos;m back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
 * [2026-01-27, 14:38:32](https://lobste.rs/s/rjw7zn/t_concise_language_for_manipulating_text) - [t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq](https://github.com/alecthomas/t)
 * [2026-01-27, 14:13:44](https://lobste.rs/s/fdbsyl/c_shaped_hole_package_management) - [The C-Shaped Hole in Package Management](https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html)
-* [2026-01-27, 13:48:30](https://news.ycombinator.com/item?id=46779864) - [Show HN: Build Web Automations via Demonstration](https://www.notte.cc/launch-week-i/demonstrate-mode)
 * [2026-01-27, 13:33:47](https://lobste.rs/s/xhqliz/bugs_apple_loves) - [Bugs Apple Loves](https://www.bugsappleloves.com/)
 * [2026-01-27, 11:39:00](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss) - [Microsoft CEO Says AI Needs to Have Wider Impact or Risk Quickly Losing \&quot;Social Permission\&quot;](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss)
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
-* [2026-01-27, 09:21:47](https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself) - [Why AI Coding Advice Contradicts Itself](https://www.anup.io/why-ai-coding-advice-contradicts-itself/)
 * [2026-01-27, 06:54:00](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss) - [The Hidden Complexity Crisis: When Simple Radio Buttons Require 200+ Lines of Code](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss)
 * [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss) - [Elon Musk Restarts Dojo3 &apos;Space&apos; Supercomputer Project As AI5 Chip Design Gets In &apos;Good Shape&apos;](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss)
 * [2026-01-26, 21:19:00](https://soylentnews.org/article.pl?sid=26/01/25/145215&amp;from=rss) - [Apple&apos;s Enshittification Moment: How the App Store is Quietly Abandoning User Trust](https://soylentnews.org/article.pl?sid=26/01/25/145215&amp;from=rss)
-* [2026-01-26, 21:09:19](https://news.ycombinator.com/item?id=46771564) - [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
-* [2026-01-26, 17:46:22](https://news.ycombinator.com/item?id=46768906) - [Show HN: Cua-Bench – a benchmark for AI agents in GUI environments](https://github.com/trycua/cua)
 * [2026-01-26, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/25/1312202&amp;from=rss) - [Snover.exit()](https://soylentnews.org/article.pl?sid=26/01/25/1312202&amp;from=rss)
+* [2026-01-26, 14:05:46](https://news.ycombinator.com/item?id=46765772) - [I have written gemma3 inference in pure C](https://github.com/robitec97/gemma3.c)
 * [2026-01-26, 11:55:00](https://soylentnews.org/article.pl?sid=26/01/25/0439223&amp;from=rss) - [Starlink Now Uses Customers&apos; Personal Data for AI Training](https://soylentnews.org/article.pl?sid=26/01/25/0439223&amp;from=rss)
 * [2026-01-26, 07:11:00](https://soylentnews.org/article.pl?sid=26/01/25/0432221&amp;from=rss) - [Attackers Find a New Way to Share Malicious Snap Packages](https://soylentnews.org/article.pl?sid=26/01/25/0432221&amp;from=rss)
 * [2026-01-26, 03:26:00](https://soylentnews.org/article.pl?sid=26/01/25/0429246&amp;from=rss) - [UK MPs Call for AI Stress Testing in Financial Services](https://soylentnews.org/article.pl?sid=26/01/25/0429246&amp;from=rss)
 * [2026-01-25, 22:36:00](https://soylentnews.org/article.pl?sid=26/01/24/0116243&amp;from=rss) - [Microsoft Gave FBI a Set of BitLocker Encryption Keys to Unlock Suspects’ Laptops](https://soylentnews.org/article.pl?sid=26/01/24/0116243&amp;from=rss)
 * [2026-01-25, 17:53:00](https://soylentnews.org/article.pl?sid=26/01/24/0114253&amp;from=rss) - [This May Be The Grossest Eye Pic Ever—but the Cause is What’s Truly Horrifying](https://soylentnews.org/article.pl?sid=26/01/24/0114253&amp;from=rss)
-* [2026-01-25, 16:06:39](https://news.ycombinator.com/item?id=46755278) - [Immanuel &apos;the Königsberg clock&apos; Kant (2015)](https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker)
 * [2026-01-25, 13:02:00](https://soylentnews.org/article.pl?sid=26/01/24/0112225&amp;from=rss) - [OpenAI Rolls Out Ads in ChatGPT as Expenses Skyrocket](https://soylentnews.org/article.pl?sid=26/01/24/0112225&amp;from=rss)
 * [2026-01-25, 08:30:00](https://soylentnews.org/article.pl?sid=26/01/24/0110242&amp;from=rss) - [Major River Deltas Are Sinking Faster Than Sea-Level Rise](https://soylentnews.org/article.pl?sid=26/01/24/0110242&amp;from=rss)
 * [2026-01-25, 03:38:00](https://soylentnews.org/article.pl?sid=26/01/24/019242&amp;from=rss) - [How Greenwashing Creates &apos;False Stability&apos; for Companies](https://soylentnews.org/article.pl?sid=26/01/24/019242&amp;from=rss)
@@ -179,4 +157,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-24, 13:25:00](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss) - [Hygienic Conditions in Pompeii&apos;s Early Baths Were Poor](https://soylentnews.org/article.pl?sid=26/01/23/1012244&amp;from=rss)
 * [2026-01-24, 08:42:00](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss) - [A Billiard Ball as a Universal Computation Machine](https://soylentnews.org/article.pl?sid=26/01/22/124243&amp;from=rss)
 * [2026-01-24, 04:01:00](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss) - [When Order Matters: How A Single DNS Change Broke The Internet For Millions](https://soylentnews.org/article.pl?sid=26/01/22/121252&amp;from=rss)
-* [2026-01-24, 00:15:20](https://news.ycombinator.com/item?id=46739704) - [Show HN: Dwm.tmux – a dwm-inspired window manager for tmux](https://github.com/saysjonathan/dwm.tmux)
