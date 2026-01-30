@@ -1,40 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Technology and AI Innovations
 
-* [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&amp;from=rss) - The increasing influence of AI in software development is transforming how code is written, reaching nearly a third of new implementations.
+* [Apple's Second-Biggest Acquisition Ever Is a Startup That Interprets Silent Speech](https://apple.slashdot.org/story/26/01/29/180230/apples-second-biggest-acquisition-ever-is-a-startup-that-interprets-silent-speech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Massive AI Chat App Leaked Millions of Users Private Conversations](https://yro.slashdot.org/story/26/01/29/1745249/massive-ai-chat-app-leaked-millions-of-users-private-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial data breach involving a leading AI chat application's security flaws exposes millions of private conversations.
+* [Project Genie: Experimenting with Infinite, Interactive Worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 
-* [AI's impact on engineering jobs may be different than expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/) - A critical analysis of how AI might alter engineering roles contrary to common assumptions.
+* [Deep Dive into Turso, the "SQLite Rewrite in Rust"](https://kerkour.com/turso-sqlite)
 
-* [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/) - A stunning report uncovers sensitive government data leaked to ChatGPT by a key US cybersecurity figure.
+## Cybersecurity Developments
 
-## Tech Security and Privacy
+* [County Pays $600,000 To Pentesters It Arrested For Assessing Courthouse Security](https://it.slashdot.org/story/26/01/29/2147207/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [County Pays $600,000 To Pentesters It Arrested For Assessing Courthouse Security](https://it.slashdot.org/story/26/01/29/2147207/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A contentious legal backdrop as pentesters receive settlement after being arrested for their contracted security role.
+* [Massive AI Chat App Leaked Millions of Users Private Conversations](https://yro.slashdot.org/story/26/01/29/1745249/massive-ai-chat-app-leaked-millions-of-users-private-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [An AI Toy Exposed 50K Logs of Its Chats With Kids To Anyone With a Gmail Account](https://yro.slashdot.org/story/26/01/29/227207/an-ai-toy-exposed-50k-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerning breach of a children's AI toy potentially putting data privacy at significant risk.
+* [An AI Toy Exposed 50K Logs of Its Chats With Kids To Anyone With a Gmail Account](https://yro.slashdot.org/story/26/01/29/227207/an-ai-toy-exposed-50k-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Microsoft Admits Windows 11 Has a Trust Problem, Promises To Focus on Fixes in 2026](https://it.slashdot.org/story/26/01/29/1923222/microsoft-admits-windows-11-has-a-trust-problem-promises-to-focus-on-fixes-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft faces criticism over trust issues in Windows 11, committing to address vulnerabilities moving forward.
+## Gaming and Entertainment
 
-## Gaming and Development Communities
+* [Linux Gaming Developers Join Forces To Form the Open Gaming Collective](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Linux Gaming Developers Join Forces To Form the Open Gaming Collective](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A collaborative approach by Linux gaming developers fostering community-led innovation.
+* [Google's Project Genie Lets You Generate Your Own Interactive Worlds](https://games.slashdot.org/story/26/01/29/2157233/googles-project-genie-lets-you-generate-your-own-interactive-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Google's Project Genie Lets You Generate Your Own Interactive Worlds](https://games.slashdot.org/story/26/01/29/2157233/googles-project-genie-lets-you-generate-your-own-interactive-worlds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's captivating project enables creating personalized interactive worlds.
+* [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 
-## Technology Innovations
+## Sustainability and Health
 
-* [Breakthrough Wireless Transceiver Transmits Data 24 Times Faster Than 5G Connections](https://soylentnews.org/article.pl?sid=26/01/27/0441241&amp;from=rss) - Groundbreaking wireless technology leaps ahead with speeds far surpassing 5G capabilities.
+* [Two Days of Oatmeal Reduce Cholesterol Level](https://www.uni-bonn.de/en/news/017-2026)
 
-* [Deep dive into Turso, the "SQLite rewrite in Rust"](https://kerkour.com/turso-sqlite) - Exploring the innovative rewrite of SQLite in Rust for modernized database management.
+* [US Life Expectancy Jumps To a Record 79 Years](https://news.slashdot.org/story/26/01/29/199255/us-life-expectancy-jumps-to-a-record-79-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Environmental and Social Trends
-
-* [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss) - A reflection on how technology reshapes human interaction by enabling solitude in connectivity.
-
-* [North Sea Winds Of Change](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss) - Harnessing wind power in the North Sea signals ongoing shifts in renewable energy strategies.
+* [Drug Trio Found to Block Tumour Resistance in Pancreatic Cancer in Mouse Models](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
 
 ---
 
@@ -61,7 +57,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-30, 03:57:31](https://lobste.rs/s/pou5h2/dank_case_for_scrolling_window_managers) - [The Dank Case For Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
+* [2026-01-30, 03:30:00](https://news.slashdot.org/story/26/01/29/2330216/universal-basic-income-could-be-used-to-soften-hit-from-ai-job-losses-in-uk-minister-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Universal Basic Income Could Be Used To Soften Hit From AI Job Losses In UK, Minister Says](https://news.slashdot.org/story/26/01/29/2330216/universal-basic-income-could-be-used-to-soften-hit-from-ai-job-losses-in-uk-minister-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-30, 02:16:21](https://news.ycombinator.com/item?id=46819809) - [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
 * [2026-01-30, 02:02:00](https://tech.slashdot.org/story/26/01/29/2324200/comcast-keeps-losing-customers-despite-price-guarantee-unlimited-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comcast Keeps Losing Customers Despite Price Guarantee, Unlimited Data](https://tech.slashdot.org/story/26/01/29/2324200/comcast-keeps-losing-customers-despite-price-guarantee-unlimited-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare&apos;s Matrix server isn&apos;t an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 * [2026-01-30, 01:25:00](https://news.slashdot.org/story/26/01/29/230246/cory-doctorow-on-tariffs-and-the-dmca-in-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cory Doctorow On Tariffs and the DMCA In Canada](https://news.slashdot.org/story/26/01/29/230246/cory-doctorow-on-tariffs-and-the-dmca-in-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss)
 * [2026-01-30, 00:45:00](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Gaming Developers Join Forces To Form the Open Gaming Collective](https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -75,6 +75,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-29, 22:40:00](https://games.slashdot.org/story/26/01/29/2152239/nvidia-geforce-now-is-now-available-natively-on-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia GeForce NOW Is Now Available Natively On Linux](https://games.slashdot.org/story/26/01/29/2152239/nvidia-geforce-now-is-now-available-natively-on-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 * [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things](https://campedersen.com/tessellation)
+* [2026-01-29, 22:10:07](https://news.ycombinator.com/item?id=46817452) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-29, 22:02:00](https://it.slashdot.org/story/26/01/29/2147207/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [County Pays $600,000 To Pentesters It Arrested For Assessing Courthouse Security](https://it.slashdot.org/story/26/01/29/2147207/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 21:22:00](https://science.slashdot.org/story/26/01/29/1855222/arxiv-will-require-english-submissions---and-says-ai-translators-are-fair-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ArXiv Will Require English Submissions - and Says AI Translators Are Fair Game](https://science.slashdot.org/story/26/01/29/1855222/arxiv-will-require-english-submissions---and-says-ai-translators-are-fair-game?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 21:19:58](https://lobste.rs/s/vxjeui/building_docs_like_product) - [Building Docs Like a Product](https://emschwartz.me/building-docs-like-a-product/)
@@ -86,7 +87,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-29, 20:10:00](https://news.slashdot.org/story/26/01/29/199255/us-life-expectancy-jumps-to-a-record-79-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Life Expectancy Jumps To a Record 79 Years](https://news.slashdot.org/story/26/01/29/199255/us-life-expectancy-jumps-to-a-record-79-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/)
 * [2026-01-29, 19:42:26](https://lobste.rs/s/9dqubn/crazy_jumpman) - [crazy-jumpman](https://codeberg.org/pgeorgi/crazy-jumpman/#english)
-* [2026-01-29, 19:36:38](https://lobste.rs/s/klojnf/sentry_releases_new_cli_for_developers) - [Sentry releases new CLI for developers and agents](https://cli.sentry.dev/)
 * [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
 * [2026-01-29, 19:22:00](https://it.slashdot.org/story/26/01/29/1923222/microsoft-admits-windows-11-has-a-trust-problem-promises-to-focus-on-fixes-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Admits Windows 11 Has a Trust Problem, Promises To Focus on Fixes in 2026](https://it.slashdot.org/story/26/01/29/1923222/microsoft-admits-windows-11-has-a-trust-problem-promises-to-focus-on-fixes-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
@@ -94,14 +94,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
 * [2026-01-29, 18:10:00](https://apple.slashdot.org/story/26/01/29/180230/apples-second-biggest-acquisition-ever-is-a-startup-that-interprets-silent-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Second-Biggest Acquisition Ever Is a Startup That Interprets Silent Speech](https://apple.slashdot.org/story/26/01/29/180230/apples-second-biggest-acquisition-ever-is-a-startup-that-interprets-silent-speech?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI&apos;s impact on engineering jobs may be different than expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 * [2026-01-29, 17:45:00](https://yro.slashdot.org/story/26/01/29/1745249/massive-ai-chat-app-leaked-millions-of-users-private-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Massive AI Chat App Leaked Millions of Users Private Conversations](https://yro.slashdot.org/story/26/01/29/1745249/massive-ai-chat-app-leaked-millions-of-users-private-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 * [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
-* [2026-01-29, 16:47:00](https://games.slashdot.org/story/26/01/29/1647211/xbox-hardware-revenue-craters-32?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xbox Hardware Revenue Craters 32%](https://games.slashdot.org/story/26/01/29/1647211/xbox-hardware-revenue-craters-32?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 * [2026-01-29, 16:41:09](https://lobste.rs/s/gc7ase/pagelove_building_better_web_for_humans) - [Pagelove: Building a better web — for humans and machines](https://page.love/blog/04-the-shape-of-pagelove.html)
-* [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
 * [2026-01-29, 16:11:04](https://news.ycombinator.com/item?id=46812159) - [Drug trio found to block tumour resistance in pancreatic cancer in mouse models](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
 * [2026-01-29, 16:08:20](https://lobste.rs/s/zcfnh9/micropythonos_ultimate_micropython) - [MicroPythonOS - The Ultimate MicroPython Operating System](https://micropythonos.com/)
 * [2026-01-29, 16:07:35](https://lobste.rs/s/b7lh3o/beta_testing_webusbunpinner_tool) - [Beta testing of WebUSBUnpinner - a tool to investigate platform worker&apos;s privacy and rights violations](https://reversing.works/posts/2026/01/help-reversing.works-empower-workers-by-testing-our-tool/)
@@ -109,7 +106,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives but There&apos;s &apos;A Limited Number Of Reports&apos;](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 15:05:55](https://lobste.rs/s/x2pwi5/introducing_fluux_messenger_modern_xmpp) - [Introducing Fluux Messenger: A Modern XMPP Client Born from a Holiday Coding Session](https://www.process-one.net/blog/introducing-fluux-messenger-a-modern-xmpp-client-born-from-a-holiday-coding-session/)
-* [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \&quot;SQLite rewrite in Rust\&quot;](https://kerkour.com/turso-sqlite)
+* [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the “SQLite rewrite in Rust”](https://kerkour.com/turso-sqlite)
 * [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to choose colors for your CLI applications (2023)](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 14:43:07](https://news.ycombinator.com/item?id=46810828) - [Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 * [2026-01-29, 14:17:24](https://lobste.rs/s/icj2ce/narwhal_extensible_pub_sub_messaging) - [Narwhal: an extensible pub/sub messaging server for edge applications](https://github.com/narwhal-io/narwhal)
@@ -131,17 +128,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-29, 01:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0352207&amp;from=rss) - [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&amp;from=rss)
 * [2026-01-28, 20:39:00](https://soylentnews.org/article.pl?sid=26/01/26/1911209&amp;from=rss) - [The Return of Digg, and the Proliferation of Cancel Culture](https://soylentnews.org/article.pl?sid=26/01/26/1911209&amp;from=rss)
 * [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\&quot;a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\&quot;](https://chaos.social/@nzbr/115973847897716839)
-* [2026-01-28, 18:18:16](https://news.ycombinator.com/item?id=46799402) - [Show HN: I&apos;m building an AI-proof writing tool. How would you defeat it?](https://auth-auth.vercel.app/)
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss)
-* [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 11:13:00](https://soylentnews.org/article.pl?sid=26/01/26/195201&amp;from=rss) - [TSMC Says AI Demand is “Endless” After Record Q4 Earnings](https://soylentnews.org/article.pl?sid=26/01/26/195201&amp;from=rss)
 * [2026-01-28, 06:27:00](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss) - [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss)
 * [2026-01-28, 01:42:00](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss) - [North Sea Winds Of Change](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss)
+* [2026-01-27, 21:02:36](https://news.ycombinator.com/item?id=46786672) - [CISA’s acting head uploaded sensitive files into public version of ChatGPT](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361)
 * [2026-01-27, 21:02:00](https://soylentnews.org/article.pl?sid=26/01/26/1857242&amp;from=rss) - [Proton VPN Reveals Major Linux Makeover](https://soylentnews.org/article.pl?sid=26/01/26/1857242&amp;from=rss)
 * [2026-01-27, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss) - [80386 Multiplication and Division](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss)
 * [2026-01-27, 11:39:00](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss) - [Microsoft CEO Says AI Needs to Have Wider Impact or Risk Quickly Losing \&quot;Social Permission\&quot;](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss)
 * [2026-01-27, 06:54:00](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss) - [The Hidden Complexity Crisis: When Simple Radio Buttons Require 200+ Lines of Code](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss)
-* [2026-01-27, 06:46:57](https://news.ycombinator.com/item?id=46776330) - [Ask HN: Notification Overload](https://news.ycombinator.com/item?id=46776330)
 * [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss) - [Elon Musk Restarts Dojo3 &apos;Space&apos; Supercomputer Project As AI5 Chip Design Gets In &apos;Good Shape&apos;](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss)
 * [2026-01-26, 21:19:00](https://soylentnews.org/article.pl?sid=26/01/25/145215&amp;from=rss) - [Apple&apos;s Enshittification Moment: How the App Store is Quietly Abandoning User Trust](https://soylentnews.org/article.pl?sid=26/01/25/145215&amp;from=rss)
 * [2026-01-26, 16:38:00](https://soylentnews.org/article.pl?sid=26/01/25/1312202&amp;from=rss) - [Snover.exit()](https://soylentnews.org/article.pl?sid=26/01/25/1312202&amp;from=rss)
