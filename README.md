@@ -1,38 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Innovations
+## Technology and Innovation
 
-* [UK's First Rapid-Charging Battery Train Ready For Boarding](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The UK unveils a breakthrough in sustainable transportation with its very first rapid-charging battery-powered train, signaling a step forward in eco-friendly transit innovation. [Comments](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html) ([comments](https://news.ycombinator.com/item?id=46833847))
 
-* [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) - A user showcases a trained 9-million-parameter speech model to improve Mandarin pronunciation by correcting tones. [Comments](https://news.ycombinator.com/item?id=46832074)
+* [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/) ([comments](https://news.ycombinator.com/item?id=46833254))
 
-* [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) - A high-stakes $100 billion partnership between OpenAI and Nvidia has been put on hold. [Comments](https://news.ycombinator.com/item?id=46831702)
+* [UK's First Rapid-Charging Battery Train Ready For Boarding](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Paty: The most human-like AI agent you'll ever use](https://github.com/gjtorikian/paty) - An exploration of 'Paty,' an AI agent promoted as the most human-like interaction experience to date. [Comments](https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever)
+* [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) ([comments](https://news.ycombinator.com/item?id=46832074))
 
-## Cybersecurity and Ethical Concerns
+* [GNU gettext Reaches Version 1.0 After 30 Years](https://news.slashdot.org/story/26/01/30/2154235/gnu-gettext-reaches-version-10-after-30-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/01/30/2154235/gnu-gettext-reaches-version-10-after-30-years?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Exploiting MediaTek's Download Agent](https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/) - Insights into vulnerabilities that allow exploitation of MediaTek's download agent for malicious purposes. [Comments](https://lobste.rs/s/tyrur6/exploiting_mediatek_s_download_agent)
+* [Deploying a distributed system? A type system helps a lot](http://catern.com/progsys.html) ([comments](https://lobste.rs/s/c6vef1/deploying_distributed_system_type))
 
-* [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now) - Over 175,000 exposed Ollama AI instances worldwide bring attention to critical data security risks. [Comments](https://news.ycombinator.com/item?id=46831784)
+## Artificial Intelligence Trends
 
-* [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&from=rss) - A legal settlement reached after ethically-driven cybersecurity professionals were arrested for testing courthouse security. [Comments](https://soylentnews.org/comment.pl?sid=26/01/30/068202&cid=1)
+* [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) ([comments](https://news.ycombinator.com/item?id=46831702))
 
-## Market Trends and Organizational Decisions
+* [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177) ([comments](https://news.ycombinator.com/item?id=46830698))
 
-* [Apple Reports Best-Ever Quarter For iPhone Sales](https://mobile.slashdot.org/story/26/01/30/227211/apple-reports-best-ever-quarter-for-iphone-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple breaks new ground with record-setting revenues for iPhone sales in the last quarter. [Comments](https://mobile.slashdot.org/story/26/01/30/227211/apple-reports-best-ever-quarter-for-iphone-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/) ([comments](https://lobste.rs/s/uybkwe/community_considerations_around_ai))
 
-* [Oracle May Slash Up To 30,000 Jobs](https://developers.slashdot.org/story/26/01/30/1837226/oracle-may-slash-up-to-30000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Oracle considers severe job cuts affecting up to 30,000 employees—signaling turbulent times ahead. [Comments](https://developers.slashdot.org/story/26/01/30/1837226/oracle-may-slash-up-to-30000-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Videogame Stocks Slide On Google's AI Model That Turns Prompts Into Playable Worlds](https://games.slashdot.org/story/26/01/30/202252/videogame-stocks-slide-on-googles-ai-model-that-turns-prompts-into-playable-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/26/01/30/202252/videogame-stocks-slide-on-googles-ai-model-that-turns-prompts-into-playable-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Science and Research Advancements
+* [I trapped an AI model inside an art installation (2025) [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs) ([comments](https://news.ycombinator.com/item?id=46830523))
 
-* [Red Dwarfs are Too Dim to Generate Complex Life](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss) - New research highlights challenges red dwarf stars face in fostering complex life. [Comments](https://soylentnews.org/comment.pl?sid=26/01/27/0433200&cid=1)
+## Software and Tools
 
-* [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/) - Stephen Wolfram examines computation complexity with an innovative perspective, redefining P vs. NP debates. [Comments](https://news.ycombinator.com/item?id=46830027)
+* [Belkin's Wemo Smart Devices Will Go Offline On Saturday](https://mobile.slashdot.org/story/26/01/30/2159212/belkins-wemo-smart-devices-will-go-offline-on-saturday?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/01/30/2159212/belkins-wemo-smart-devices-will-go-offline-on-saturday?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Sustainability and Environmental Policies
+* [Reference Target: having your encapsulation and eating it too](https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/) ([comments](https://lobste.rs/s/bdqbs1/reference_target_having_your))
 
-* [Los Angeles Aims To Ban Single-Use Printer Cartridges](https://hardware.slashdot.org/story/26/01/30/2023244/los-angeles-aims-to-ban-single-use-printer-cartridges?utm_source=rss1.0mainlinkanon&utm_medium=feed) - In a bid for sustainability, LA rolls out groundbreaking legislation tackling e-waste. [Comments](https://hardware.slashdot.org/story/26/01/30/2023244/los-angeles-aims-to-ban-single-use-printer-cartridges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [pydoit](https://pydoit.org) ([comments](https://lobste.rs/s/tuzm7h/pydoit))
+
+* [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code) ([comments](https://lobste.rs/s/6n7rzd/some_data_should_be_code))
+
+## Science and Exploration
+
+* [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/30/0623217&from=rss))
+
+* [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/30/068202&from=rss))
+
+* [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/) ([comments](https://news.ycombinator.com/item?id=46833254))
 
 ---
 
@@ -59,18 +69,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-01-31, 05:44:49](https://news.ycombinator.com/item?id=46833847) - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
+* [2026-01-31, 05:42:00](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss) - [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss)
+* [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
+* [2026-01-31, 05:29:21](https://lobste.rs/s/bdqbs1/reference_target_having_your) - [Reference Target: having your encapsulation and eating it too](https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/)
+* [2026-01-31, 05:22:06](https://lobste.rs/s/c6vef1/deploying_distributed_system_type) - [Deploying a distributed system? A type system helps a lot](http://catern.com/progsys.html)
+* [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
+* [2026-01-31, 03:53:06](https://news.ycombinator.com/item?id=46833254) - [Naples&apos; 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2026-01-31, 03:30:00](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK&apos;s First Rapid-Charging Battery Train Ready For Boarding](https://tech.slashdot.org/story/26/01/30/2211211/uks-first-rapid-charging-battery-train-ready-for-boarding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-31, 02:32:11](https://lobste.rs/s/tyrur6/exploiting_mediatek_s_download_agent) - [Exploiting MediaTek&apos;s Download Agent](https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/)
-* [2026-01-31, 02:29:45](https://news.ycombinator.com/item?id=46832751) - [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-31, 01:25:00](https://mobile.slashdot.org/story/26/01/30/227211/apple-reports-best-ever-quarter-for-iphone-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Reports Best-Ever Quarter For iPhone Sales](https://mobile.slashdot.org/story/26/01/30/227211/apple-reports-best-ever-quarter-for-iphone-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-31, 01:01:00](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss) - [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss)
 * [2026-01-31, 00:51:27](https://news.ycombinator.com/item?id=46832074) - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 00:45:00](https://mobile.slashdot.org/story/26/01/30/2159212/belkins-wemo-smart-devices-will-go-offline-on-saturday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Belkin&apos;s Wemo Smart Devices Will Go Offline On Saturday](https://mobile.slashdot.org/story/26/01/30/2159212/belkins-wemo-smart-devices-will-go-offline-on-saturday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-31, 00:40:51](https://news.ycombinator.com/item?id=46831978) - [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
 * [2026-01-31, 00:22:00](https://news.slashdot.org/story/26/01/30/2154235/gnu-gettext-reaches-version-10-after-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GNU gettext Reaches Version 1.0 After 30 Years](https://news.slashdot.org/story/26/01/30/2154235/gnu-gettext-reaches-version-10-after-30-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-31, 00:12:22](https://news.ycombinator.com/item?id=46831784) - [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
 * [2026-01-31, 00:02:30](https://news.ycombinator.com/item?id=46831702) - [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 * [2026-01-31, 00:02:00](https://yro.slashdot.org/story/26/01/30/2041200/white-house-scraps-burdensome-software-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Scraps &apos;Burdensome&apos; Software Security Rules](https://yro.slashdot.org/story/26/01/30/2041200/white-house-scraps-burdensome-software-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-30, 23:59:21](https://lobste.rs/s/ihzsov/when_does_technology_pass_from_being_tool) - [When does technology pass from being a tool to being a crutch? (2009)](https://boston.conman.org/2009/11/03.1)
@@ -98,12 +111,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-30, 18:05:00](https://news.slashdot.org/story/26/01/30/1750253/nobel-hacking-likely-leaked-peace-prize-winner-name-probe-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nobel Hacking Likely Leaked Peace Prize Winner Name, Probe Finds](https://news.slashdot.org/story/26/01/30/1750253/nobel-hacking-likely-leaked-peace-prize-winner-name-probe-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
 * [2026-01-30, 17:20:00](https://slashdot.org/story/26/01/30/1157228/do-markets-make-us-moral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Markets Make Us Moral?](https://slashdot.org/story/26/01/30/1157228/do-markets-make-us-moral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-30, 17:09:17](https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever) - [Paty: The most human-like AI agent you&apos;ll ever use](https://github.com/gjtorikian/paty)
 * [2026-01-30, 16:43:50](https://news.ycombinator.com/item?id=46826597) - [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 * [2026-01-30, 16:22:05](https://news.ycombinator.com/item?id=46826277) - [Ask HN: Do you also \&quot;hoard\&quot; notes/links but struggle to turn them into actions?](https://news.ycombinator.com/item?id=46826277)
 * [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Self Driving Car Insurance](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:38:00](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss) - [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss)
-* [2026-01-30, 14:34:32](https://news.ycombinator.com/item?id=46824877) - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
 * [2026-01-30, 13:57:02](https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell) - [cli-stash: TUI tool to save and recall shell commands with fuzzy search](https://github.com/itcaat/cli-stash)
 * [2026-01-30, 13:56:51](https://news.ycombinator.com/item?id=46824422) - [HTTP Cats](https://http.cat/)
 * [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
@@ -114,6 +125,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 10:00:54](https://lobste.rs/s/k6fjcb/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 * [2026-01-30, 09:38:39](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend)
+* [2026-01-30, 07:26:20](https://news.ycombinator.com/item?id=46821488) - [Ashcan Comic](https://en.wikipedia.org/wiki/Ashcan_comic)
 * [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-30, 06:10:00](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss) - [Musk&apos;s X Releases Source Code for Platform&apos;s Algorithm](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss)
@@ -123,8 +135,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare&apos;s Matrix server isn&apos;t an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss)
 * [2026-01-30, 00:37:02](https://lobste.rs/s/fxro47/10_years_wasm_retrospective) - [10 Years of Wasm: A Retrospective](https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective)
-* [2026-01-29, 21:11:41](https://news.ycombinator.com/item?id=46816644) - [Building docs like a product](https://emschwartz.me/building-docs-like-a-product/)
-* [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil&apos;s ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 20:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss) - [Four Arrested Following $1.6 Million NFT Heist in the Netherlands](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss)
 * [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives but There&apos;s &apos;A Limited Number Of Reports&apos;](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
@@ -138,14 +148,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-28, 15:55:00](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss) - [Socializing Alone: The Downside of Communication Technology](https://soylentnews.org/article.pl?sid=26/01/26/197234&amp;from=rss)
 * [2026-01-28, 11:13:00](https://soylentnews.org/article.pl?sid=26/01/26/195201&amp;from=rss) - [TSMC Says AI Demand is “Endless” After Record Q4 Earnings](https://soylentnews.org/article.pl?sid=26/01/26/195201&amp;from=rss)
 * [2026-01-28, 06:27:00](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss) - [Design Your Next Building Out of Bamboo](https://soylentnews.org/article.pl?sid=26/01/26/192227&amp;from=rss)
+* [2026-01-28, 05:28:36](https://news.ycombinator.com/item?id=46791434) - [A novelist who took on the Italian mafia and lived](https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w)
 * [2026-01-28, 01:42:00](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss) - [North Sea Winds Of Change](https://soylentnews.org/article.pl?sid=26/01/26/191227&amp;from=rss)
+* [2026-01-28, 01:06:32](https://news.ycombinator.com/item?id=46789645) - [Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database](https://www.pinecone-explorer.com)
 * [2026-01-27, 21:02:00](https://soylentnews.org/article.pl?sid=26/01/26/1857242&amp;from=rss) - [Proton VPN Reveals Major Linux Makeover](https://soylentnews.org/article.pl?sid=26/01/26/1857242&amp;from=rss)
-* [2026-01-27, 19:57:24](https://news.ycombinator.com/item?id=46785572) - [Chuck Klosterman on why we&apos;ve never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
 * [2026-01-27, 16:42:18](https://news.ycombinator.com/item?id=46782412) - [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)
 * [2026-01-27, 16:19:00](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss) - [80386 Multiplication and Division](https://soylentnews.org/article.pl?sid=26/01/26/1850245&amp;from=rss)
 * [2026-01-27, 11:39:00](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss) - [Microsoft CEO Says AI Needs to Have Wider Impact or Risk Quickly Losing \&quot;Social Permission\&quot;](https://soylentnews.org/article.pl?sid=26/01/25/1435251&amp;from=rss)
 * [2026-01-27, 07:07:06](https://news.ycombinator.com/item?id=46776459) - [Roots is a game server daemon that manages Docker containers for game servers](https://github.com/SproutPanel/roots)
 * [2026-01-27, 06:54:00](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss) - [The Hidden Complexity Crisis: When Simple Radio Buttons Require 200+ Lines of Code](https://soylentnews.org/article.pl?sid=26/01/25/1419203&amp;from=rss)
 * [2026-01-27, 02:08:00](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss) - [Elon Musk Restarts Dojo3 &apos;Space&apos; Supercomputer Project As AI5 Chip Design Gets In &apos;Good Shape&apos;](https://soylentnews.org/article.pl?sid=26/01/25/1410231&amp;from=rss)
-* [2026-01-27, 00:24:56](https://news.ycombinator.com/item?id=46773793) - [Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray](https://github.com/kristianaryanto/Quack-Cluster)
 * [2026-01-27, 00:08:33](https://news.ycombinator.com/item?id=46773655) - [The engineer who invented the Mars rover suspension in his garage [video]](https://www.youtube.com/watch?v=QKSPk_0N4Jc)
