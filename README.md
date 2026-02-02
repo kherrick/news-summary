@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Software Hijacking
+## Technology and Software Development
 
-* [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) ([comments](https://news.ycombinator.com/item?id=46851548))
+* [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying) discusses the relevance of the 'Don't Repeat Yourself' principle in modern programming influenced by AI tools and techniques. [Comments](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry).
 
-* [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset) ([comments](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset))
+* [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) reveals details about a security breach involving state actors tampering with software. [Comments](https://news.ycombinator.com/item?id=46851548).
 
-## Emerging Technologies and Concepts
+* [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/) explores the restoration and upgrades of the iconic video game Crimsonland. [Comments](https://lobste.rs/s/et8pfu/resurrecting_crimsonland).
 
-* [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, AMD, and Apple with its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&from=rss) ([comments](https://news.ycombinator.com/item?id=46850803))
+* [Yak Power-Shears: LLMs are pretty good at Emacs](https://www.emoses.org/posts/llms-are-good-at-emacs/) examines how large language models can assist with Emacs commands and workflows. [Comments](https://lobste.rs/s/yrhvq4/yak_power_shears_llms_are_pretty_good_at).
 
-* [Scientists Create Programmable, Autonomous Robots Smaller Than a Grain of Salt](https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org) offers a novel interface to experience Wikipedia as an infinitely scrolling feed. [Comments](https://news.ycombinator.com/item?id=46850803).
 
-## Advancements in Artificial Intelligence
+* [API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/) analyzes the reasons developers are moving away from traditional API tooling platforms. [Comments](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are).
 
-* [A Crisis Comes to Wordle: Reusing Old Words](https://forkingmad.blog/wordle-crisis/) ([comments](https://news.ycombinator.com/item?id=46847924))
+## Science and Innovation
 
-* [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/) ([comments](https://news.ycombinator.com/item?id=46847958))
+* [Scientists Baffled at Mysterious Ancient Creature That Doesn't Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) highlights the discovery of a baffling ancient species challenging conventional evolutionary biology. [Comments](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss).
 
-## Historical and Technical Insights
+* [Scientists Create Programmable, Autonomous Robots Smaller Than a Grain of Salt](https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) delves into advancements in nanorobotics designed for a variety of applications. [Comments](https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal) ([comments](https://news.ycombinator.com/item?id=46850653))
+* [Microbes In Space Mutated and Developed a Remarkable Ability](https://science.slashdot.org/story/26/02/01/0710229/microbes-in-space-mutated-and-developed-a-remarkable-ability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) investigates how microbes handle conditions in outer space, revealing unexpected changes. [Comments](https://science.slashdot.org/story/26/02/01/0710229/microbes-in-space-mutated-and-developed-a-remarkable-ability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Defeating a 40-year-old Copy Protection Dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle) ([comments](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection))
+## Privacy and Security
 
-## Energy and Sustainability
+* [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) examines potential misuse of facial recognition technology for surveillance. [Comments](https://news.ycombinator.com/item?id=46852073).
 
-* [99% of New US Energy Capacity Will Be Green in 2026](https://hardware.slashdot.org/story/26/02/01/080244/99-of-new-us-energy-capacity-will-be-green-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/02/01/080244/99-of-new-us-energy-capacity-will-be-green-in-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [US Government Also Received a Whistleblower Complaint That WhatsApp Chats Aren't Private](https://yro.slashdot.org/story/26/02/01/037202/us-government-also-received-a-whistleblower-complaint-that-whatsapp-chats-arent-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) raises concerns over the privacy and safety of WhatsApp chats. [Comments](https://yro.slashdot.org/story/26/02/01/037202/us-government-also-received-a-whistleblower-complaint-that-whatsapp-chats-arent-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Walmart Begins Building Out Nationwide EV Charging Network Across America](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle) uncovers the tale of bypassing outdated DRM technology. [Comments](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection).
 
-## Space and Astronomy
+## AI and Computational Insights
 
-* [Voyager 2&apos;s Close Encounter With Uranus Wasn&apos;t in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/31/0148226&from=rss))
+* [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/) identifies emerging trends in the types of people using AI. [Comments](https://news.ycombinator.com/item?id=46850588).
 
-* [Red Dwarfs Are Too Dim to Generate Complex Life](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/01/27/0433200&from=rss))
+* [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/) offers insights into the scalability of AI agent collaboration. [Comments](https://news.ycombinator.com/item?id=46847958).
 
-## Cryptocurrency and Finance
+* [How Often Do AI Chatbots Lead Users Down a Harmful Path?](https://soylentnews.org/article.pl?sid=26/01/31/014212&amp;from=rss) investigates risks of AI chatbots inadvertently guiding users astray. [Comments](https://soylentnews.org/article.pl?sid=26/01/31/014212&amp;from=rss).
 
-* [Bitcoin Drops 40% in Four Months. Bloomberg Blames Absence of Buyers and Belief](https://slashdot.org/story/26/02/01/2146224/bitcoin-drops-40-in-four-months-bloomberg-blames-absence-of-buyers-and-belief?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/02/01/2146224/bitcoin-drops-40-in-four-months-bloomberg-blames-absence-of-buyers-and-belief?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Environmental and Technological Progress
+
+* [Walmart Begins Building Out Nationwide EV Charging Network Across America](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) unveils Walmart's plans for a transformative EV charging infrastructure in the US. [Comments](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+
+* [99% of New US Energy Capacity Will Be Green in 2026](https://hardware.slashdot.org/story/26/02/01/080244/99-of-new-us-energy-capacity-will-be-green-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) provides an optimistic outlook for green energy adoption in the US. [Comments](https://hardware.slashdot.org/story/26/02/01/080244/99-of-new-us-energy-capacity-will-be-green-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -65,9 +69,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-02, 04:57:00](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) - [Scientists Baffled at Mysterious Ancient Creature That Doesn&apos;t Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss)
+* [2026-02-02, 04:21:13](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry) - [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying)
+* [2026-02-02, 03:25:31](https://news.ycombinator.com/item?id=46852073) - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
+* [2026-02-02, 03:13:00](https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Deploys New Government Satcom Program in Sovereignty Push](https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-02, 02:27:40](https://lobste.rs/s/et8pfu/resurrecting_crimsonland) - [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/)
 * [2026-02-02, 01:59:56](https://news.ycombinator.com/item?id=46851548) - [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
-* [2026-02-02, 01:11:15](https://news.ycombinator.com/item?id=46851192) - [Actors: A Model of Concurrent Computation [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+* [2026-02-02, 01:13:00](https://developers.slashdot.org/story/26/02/02/015206/what-go-programmers-think-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Go Programmers Think of AI](https://developers.slashdot.org/story/26/02/02/015206/what-go-programmers-think-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-02, 01:11:15](https://news.ycombinator.com/item?id=46851192) - [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
 * [2026-02-02, 00:51:35](https://lobste.rs/s/yrhvq4/yak_power_shears_llms_are_pretty_good_at) - [Yak Power-Shears: LLMs are pretty good at Emacs](https://www.emoses.org/posts/llms-are-good-at-emacs/)
 * [2026-02-02, 00:12:19](https://news.ycombinator.com/item?id=46850803) - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
 * [2026-02-02, 00:11:00](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss) - [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, Amd and Apple With its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss)
@@ -75,6 +85,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-02, 00:00:07](https://news.ycombinator.com/item?id=46850709) - [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
 * [2026-02-01, 23:59:00](https://tech.slashdot.org/story/26/02/01/2353221/anthropics-200m-pentagon-contract-at-risk-over-objections-to-domestic-surveillance-autonomous-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s $200M Pentagon Contract at Risk Over Objections to Domestic Surveillance, Autonomous Deployments](https://tech.slashdot.org/story/26/02/01/2353221/anthropics-200m-pentagon-contract-at-risk-over-objections-to-domestic-surveillance-autonomous-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 23:53:48](https://news.ycombinator.com/item?id=46850653) - [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
+* [2026-02-01, 23:45:18](https://news.ycombinator.com/item?id=46850588) - [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 * [2026-02-01, 22:59:00](https://tech.slashdot.org/story/26/02/01/2255206/is-metas-huge-spending-on-ai-actually-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Meta&apos;s Huge Spending on AI Actually Paying Off?](https://tech.slashdot.org/story/26/02/01/2255206/is-metas-huge-spending-on-ai-actually-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 22:51:19](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 22:49:22](https://news.ycombinator.com/item?id=46850205) - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
@@ -82,20 +93,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-01, 21:57:17](https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 * [2026-02-01, 21:53:49](https://lobste.rs/s/skbved/audio_on_hp300) - [Audio on hp300](http://miod.online.fr/software/openbsd/stories/arcofi.html)
 * [2026-02-01, 21:49:00](https://slashdot.org/story/26/02/01/2146224/bitcoin-drops-40-in-four-months-bloomberg-blames-absence-of-buyers-and-belief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Drops 40% in Four Months.  Bloomberg Blames Absence of Buyers and Belief](https://slashdot.org/story/26/02/01/2146224/bitcoin-drops-40-in-four-months-bloomberg-blames-absence-of-buyers-and-belief?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-01, 21:37:00](https://news.ycombinator.com/item?id=46849630) - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
 * [2026-02-01, 21:30:51](https://news.ycombinator.com/item?id=46849567) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 20:51:56](https://news.ycombinator.com/item?id=46849258) - [My thousand dollar iPhone can&apos;t do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
 * [2026-02-01, 20:40:45](https://news.ycombinator.com/item?id=46849154) - [Building Your Own Efficient uint128 in C++](https://solidean.com/blog/2026/building-your-own-u128/)
 * [2026-02-01, 20:33:27](https://lobste.rs/s/z0mdor/archive_today_is_directing_ddos_attack) - [archive.today is directing a DDOS attack against my blog](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 * [2026-02-01, 20:22:00](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart Begins Building Out Nationwide EV Charging Network Across America](https://tech.slashdot.org/story/26/02/01/1959234/walmart-begins-building-out-nationwide-ev-charging-network-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 19:39:19](https://lobste.rs/s/vldzbz/this_year_i_will_write_gui_for_my_emacs) - [This year, I will write a GUI for my Emacs clone](https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/)
-* [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
 * [2026-02-01, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss) - [Motor Trend - Car Dealer Confidential](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss)
 * [2026-02-01, 19:22:00](https://news.slashdot.org/story/26/02/01/1915221/when-20-year-old-bill-gates-fought-the-worlds-first-software-pirates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [When 20-Year-Old Bill Gates Fought the World&apos;s First Software Pirates](https://news.slashdot.org/story/26/02/01/1915221/when-20-year-old-bill-gates-fought-the-worlds-first-software-pirates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 19:11:46](https://lobste.rs/s/p8kpy0/remarkable_pro_colors) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 19:09:24](https://lobste.rs/s/fprlzs/building_blocks_for_peer_peer) - [Building blocks for peer-to-peer applications](https://p2panda.org/)
 * [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 * [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+* [2026-02-01, 18:38:04](https://news.ycombinator.com/item?id=46848231) - [Ian&apos;s Shoelace Site](https://www.fieggen.com/shoelace/)
 * [2026-02-01, 18:05:11](https://lobste.rs/s/rzptdh/forget_technical_debt) - [Forget technical debt](https://www.ufried.com/blog/forget_technical_debt/)
 * [2026-02-01, 18:00:30](https://news.ycombinator.com/item?id=46847958) - [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
 * [2026-02-01, 17:54:55](https://news.ycombinator.com/item?id=46847924) - [A Crisis comes to Wordle: Reusing old words](https://forkingmad.blog/wordle-crisis/)
@@ -126,24 +136,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-02-01, 00:24:00](https://soylentnews.org/article.pl?sid=26/01/31/0054256&amp;from=rss) - [Researchers Use D&amp;D to Test AI&apos;s Long-Term Decision-Making Abilities](https://soylentnews.org/article.pl?sid=26/01/31/0054256&amp;from=rss)
 * [2026-01-31, 23:46:00](https://slashdot.org/story/26/01/31/2344202/ai-use-at-work-has-increased-gallup-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Use at Work Has Increased, Gallup Poll Finds](https://slashdot.org/story/26/01/31/2344202/ai-use-at-work-has-increased-gallup-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-31, 22:34:00](https://tech.slashdot.org/story/26/01/31/2224232/electric-flying-cars-now-for-sale-by-california-company-pivotal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electric Flying Cars Now for Sale by California Company Pivotal ](https://tech.slashdot.org/story/26/01/31/2224232/electric-flying-cars-now-for-sale-by-california-company-pivotal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-01-31, 21:42:30](https://lobste.rs/s/fiuesm/this_year_llvm_2025) - [This year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
-* [2026-01-31, 21:34:00](https://apple.slashdot.org/story/26/01/31/2038231/apple-switches-to-build-to-order-systems-on-its-web-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Switches to Build-to-Order Systems on Its Web Site](https://apple.slashdot.org/story/26/01/31/2038231/apple-switches-to-build-to-order-systems-on-its-web-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-01-31, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/30/1620239&amp;from=rss) - [Linux after Linus?](https://soylentnews.org/article.pl?sid=26/01/30/1620239&amp;from=rss)
-* [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 * [2026-01-31, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/30/0637214&amp;from=rss) - [ Notes on the Intel 8086 Processor&apos;s Arithmetic-logic Unit ](https://soylentnews.org/article.pl?sid=26/01/30/0637214&amp;from=rss)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:19:00](https://soylentnews.org/article.pl?sid=26/01/30/0627240&amp;from=rss) - [Signal President Warns AI Agents Are Making Encryption Irrelevant](https://soylentnews.org/article.pl?sid=26/01/30/0627240&amp;from=rss)
 * [2026-01-31, 05:42:00](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss) - [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss)
 * [2026-01-31, 01:01:00](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss) - [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss)
+* [2026-01-30, 21:40:24](https://news.ycombinator.com/item?id=46830290) - [In the Lab – Soldering Prototypes with Enamel Magnet Wire](https://tomverbeure.github.io/2020/02/22/In-The-Lab-Magnet-Wire-Soldering.html)
 * [2026-01-30, 20:22:00](https://soylentnews.org/article.pl?sid=26/01/28/2253239&amp;from=rss) - [A Look at Potential Problems with Future AI](https://soylentnews.org/article.pl?sid=26/01/28/2253239&amp;from=rss)
 * [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 * [2026-01-30, 15:38:00](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss) - [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss)
 * [2026-01-30, 10:46:00](https://soylentnews.org/article.pl?sid=26/01/28/2247217&amp;from=rss) - [Executives Keep Overestimating AI Benefits](https://soylentnews.org/article.pl?sid=26/01/28/2247217&amp;from=rss)
 * [2026-01-30, 06:10:00](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss) - [Musk&apos;s X Releases Source Code for Platform&apos;s Algorithm](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss)
 * [2026-01-30, 05:31:29](https://news.ycombinator.com/item?id=46820874) - [Typechecking is undecidable when &apos;type&apos; is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
-* [2026-01-30, 04:59:37](https://news.ycombinator.com/item?id=46820691) - [Show HN: ÆTHRA – Writing Music as Code](https://news.ycombinator.com/item?id=46820691)
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss)
 * [2026-01-29, 20:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss) - [Four Arrested Following $1.6 Million NFT Heist in the Netherlands](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss)
 * [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding is a snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
