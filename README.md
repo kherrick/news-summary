@@ -1,44 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Trends and Innovations
+## Advancements in AI
 
-* [Lambda cube](https://lobste.rs/s/ekr6c0/lambda_cube) explores the theoretical framework underlying different typed lambda calculi, as discussed in [this article](https://en.wikipedia.org/wiki/Lambda_cube).
+* [The EU Tells Google to Give External Ai Assistants the Same Access to Android as Gemini Has](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss) - The European Union demands equal access for external AI assistants on Android, challenging Google's preferential system. Discussions arise about competition and fairness in AI access.
 
-* [Compiling Rust to readable C with Eurydice](https://lobste.rs/s/h46dxr/compiling_rust_readable_c_with_eurydice) showcases a new tool that translates Rust code into maintainable C, as detailed [here](https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/).
+* [Linux Kernel Developer Chris Mason&apos;s New Initiative: AI Prompts for Code Reviews](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Chris Mason explores the potential of AI-generated prompts to enhance code reviews, aiming to improve developer productivity and software quality.
 
-* [EU Deploys New Government Satcom Program in Sovereignty Push](https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights Europe's efforts to strengthen its infrastructure and autonomy.
+* [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/) - An analysis on how different segments of users are utilizing AI technologies in distinct ways, exploring the emerging trends.
 
-* [Scientists Create Programmable, Autonomous Robots Smaller Than a Grain of Salt](https://hardware.slashdot.org/story/26/02/01/0616236/scientists-create-programmable-autonomous-robots-smaller-than-a-grain-of-salt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) demonstrates innovations in micro-robotics.
+* [How Often Do AI Chatbots Lead Users Down a Harmful Path?](https://soylentnews.org/article.pl?sid=26/01/31/014212&amp;from=rss) - This article investigates the dangers of AI-powered chatbots directing users towards harmful content or behavior.
 
-* [Fourth US Wind Farm Project Blocked By Trump Allowed to Resume Construction](https://hardware.slashdot.org/story/26/02/01/0821212/fourth-us-wind-farm-project-blocked-by-trump-allowed-to-resume-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights progress in renewable energy efforts.
+* [Is Meta&apos;s Huge Spending on AI Actually Paying Off?](https://tech.slashdot.org/story/26/02/01/2255206/is-metas-huge-spending-on-ai-actually-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta's heavy investment in AI and its tangible outcomes are examined, questioning whether the investment aligns with its strategic goals.
 
-## Cybersecurity Incidents and Programs
+* [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&amp;from=rss) - A deep dive into the impact of AI tools on programming, revealing how much new code is written autonomously by AI today.
 
-* [Notepad++ Hijacked by State-Sponsored Hackers](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) discusses the security breach of [Notepad++](https://notepad-plus-plus.org/news/hijacked-incident-info-update/).
+## Technology Innovations
 
-* [Inside Lodash’s Security Reset and Maintenance Reboot](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) delves into the improvement of Lodash's security features.
+* [Selfish AI](https://www.garfieldtech.com/blog/selfish-ai) - A look at how self-serving algorithms in AI may unintentionally harm collaborative systems and networks.
 
-## Artificial Intelligence Developments
+* [Compiling Rust to readable C with Eurydice](https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/) - A toolkit called Eurydice translates Rust into readable C code to boost compatibility and facilitate interoperability.
 
-* [Selfish AI](https://lobste.rs/s/rtkmpd/selfish_ai) explores the societal implications of AI focusing only on profit, discussed in [this blog](https://www.garfieldtech.com/blog/selfish-ai).
+* [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying) - Are programming principles like DRY (Don’t Repeat Yourself) still relevant in an AI-dominated era?
 
-* [Programming Principles in the Age of AI: DRY](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry) evaluates if DRY (Do Not Repeat Yourself) design philosophy is still relevant in the AI era.
+* [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/) - A tutorial on creating Telegram bots using modern infrastructure like Cloudflare Workers and Grammy.
 
-* [Towards a science of scaling agent systems: When and why agent systems work](https://news.ycombinator.com/item?id=46847958) explores strategies to improve and scale AI and agent systems efficiently.
+* [This year, I will write a GUI for my Emacs clone](https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/) - The personal journey of an enthusiastic coder developing a graphical user interface for their Emacs-like tool.
 
-* [AI is Already Writing Almost One-Third of New Software Code](https://soylentnews.org/article.pl?sid=26/01/27/0352207&amp;from=rss) observes the growing contribution of AI to software development.
+## Technological Challenges and Controversies
 
-## Unique and Uncommon Discoveries
+* [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) - Security breach in Notepad++ by highly sophisticated state-backed cyber operations raises concerns on software integrity.
 
-* [Scientists Baffled at Mysterious Ancient Creature That Doesn&apos;t Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) reveals a puzzling discovery in evolutionary biology.
+* [Anthropic&apos;s $200M Pentagon Contract at Risk Over Objections to Domestic Surveillance, Autonomous Deployments](https://tech.slashdot.org/story/26/02/01/2353221/anthropics-200m-pentagon-contract-at-risk-over-objections-to-domestic-surveillance-autonomous-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major government AI contract faces backlash due to ethical questions surrounding surveillance and autonomous systems.
 
-* [Voyager 2&apos;s Close Encounter With Uranus Wasn&apos;t in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss) documents an unplanned but revealing space exploration encounter.
+* [archive.today is directing a DDOS attack against my blog](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/) - Accusations emerge against archive.today for allegedly targeting a personal blog with distributed denial-of-service actions.
 
-## Cultural and Social Analyses
+## Cultural and Entertainment Stories
 
-* [Leaked Chats Expose the Daily Life of a Scam Compound&apos;s Enslaved Workforce](https://news.ycombinator.com/item?id=46852660) uncovers exploitative practices within scam operations, detailed in [this Wired article](https://www.wired.com/story/the-red-bull-leaks/).
+* [Leaked Chats Expose the Daily Life of a Scam Compound&apos;s Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/) - Shocking insights into a massive scam operation reveal a hidden, exploitative labor system.
 
-* [Two kinds of AI users are emerging](https://news.ycombinator.com/item?id=46850588) examines evolving user group interactions with AI in daily operations.
+* [Is the TV Industry Finally Conceding That the Future May Not Be 8K?](https://entertainment.slashdot.org/story/26/02/02/0152250/is-the-tv-industry-finally-conceding-that-the-future-may-not-be-8k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Industry analyses suggest that 8K TV technology might not become the future-standard, contrary to prior expectations.
+
+* [Voyager 2&apos;s Close Encounter With Uranus Wasn&apos;t in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss) - Remarkable stories resurface about Voyager 2's unexpected yet productive observations of Uranus.
+
+## Curiosities and Discoveries
+
+* [Scientists Baffled at Mysterious Ancient Creature That Doesn&apos;t Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) - Discovery of an ancient creature that challenges current scientific understandings of the tree of life.
+
+* [China Executes 11 Members of Myanmar Scam Mafia](https://yro.slashdot.org/story/26/02/01/0540213/china-executes-11-members-of-myanmar-scam-mafia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An extreme legal measure applied to quell organized fraud operations linking China and Myanmar.
+
+* [Microbes In Space Mutated and Developed a Remarkable Ability](https://science.slashdot.org/story/26/02/01/0710229/microbes-in-space-mutated-and-developed-a-remarkable-ability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research finds that microbes in outer space undergo extraordinary evolution, potentially indicating adaptative mechanisms.
 
 ---
 
@@ -65,9 +75,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-02, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss) - [The EU Tells Google to Give External Ai Assistants the Same Access to Android as Gemini Has](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss)
+* [2026-02-02, 09:34:00](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Kernel Developer Chris Mason&apos;s New Initiative: AI Prompts for Code Reviews](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
+* [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
-* [2026-02-02, 06:58:38](https://lobste.rs/s/xugddk/concepts_forking) - [The concepts of forking](http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html)
 * [2026-02-02, 06:57:17](https://lobste.rs/s/v2ci9h/tablam) - [TablaM](https://www.tablam.org)
+* [2026-02-02, 06:51:05](https://lobste.rs/s/vj2zkd/migrating_gtk3_re_factor) - [Migrating to GTK3 – Re: Factor](https://re.factorcode.org/2025/12/migrating-to-gtk3.html)
+* [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
 * [2026-02-02, 06:13:41](https://lobste.rs/s/rtkmpd/selfish_ai) - [Selfish AI](https://www.garfieldtech.com/blog/selfish-ai)
 * [2026-02-02, 06:05:37](https://lobste.rs/s/h46dxr/compiling_rust_readable_c_with_eurydice) - [Compiling Rust to readable C with Eurydice](https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/)
 * [2026-02-02, 05:34:00](https://entertainment.slashdot.org/story/26/02/02/0152250/is-the-tv-industry-finally-conceding-that-the-future-may-not-be-8k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the TV Industry Finally Conceding That the Future May Not Be 8K?](https://entertainment.slashdot.org/story/26/02/02/0152250/is-the-tv-industry-finally-conceding-that-the-future-may-not-be-8k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -80,13 +95,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-02, 03:13:00](https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Deploys New Government Satcom Program in Sovereignty Push](https://science.slashdot.org/story/26/02/02/0256227/eu-deploys-new-government-satcom-program-in-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 03:02:55](https://news.ycombinator.com/item?id=46851922) - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
 * [2026-02-02, 02:27:40](https://lobste.rs/s/et8pfu/resurrecting_crimsonland) - [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/)
-* [2026-02-02, 01:59:56](https://news.ycombinator.com/item?id=46851548) - [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
 * [2026-02-02, 01:13:00](https://developers.slashdot.org/story/26/02/02/015206/what-go-programmers-think-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Go Programmers Think of AI](https://developers.slashdot.org/story/26/02/02/015206/what-go-programmers-think-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 01:11:15](https://news.ycombinator.com/item?id=46851192) - [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
 * [2026-02-02, 00:12:19](https://news.ycombinator.com/item?id=46850803) - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
 * [2026-02-02, 00:11:00](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss) - [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, Amd and Apple With its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss)
-* [2026-02-02, 00:01:55](https://lobste.rs/s/szch6i/beyond_smoothed_analysis_analyzing) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2026-02-02, 00:00:07](https://news.ycombinator.com/item?id=46850709) - [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
 * [2026-02-01, 23:59:00](https://tech.slashdot.org/story/26/02/01/2353221/anthropics-200m-pentagon-contract-at-risk-over-objections-to-domestic-surveillance-autonomous-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s $200M Pentagon Contract at Risk Over Objections to Domestic Surveillance, Autonomous Deployments](https://tech.slashdot.org/story/26/02/01/2353221/anthropics-200m-pentagon-contract-at-risk-over-objections-to-domestic-surveillance-autonomous-deployments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 23:45:18](https://news.ycombinator.com/item?id=46850588) - [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
@@ -131,12 +144,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-01, 08:02:25](https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix) - [Coding Agent VMs on NixOS with microvm.nix](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/)
 * [2026-02-01, 05:34:00](https://it.slashdot.org/story/26/02/01/059206/five-french-ubisoft-unions-call-for-massive-international-strike-over-cost-cutting-and-ending-of-remote-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Five French Ubisoft Unions Call For Massive International Strike Over &apos;Cost-Cutting&apos; and Ending of Remote Work](https://it.slashdot.org/story/26/02/01/059206/five-french-ubisoft-unions-call-for-massive-international-strike-over-cost-cutting-and-ending-of-remote-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 05:15:00](https://soylentnews.org/article.pl?sid=26/01/31/0058200&amp;from=rss) - [The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack](https://soylentnews.org/article.pl?sid=26/01/31/0058200&amp;from=rss)
-* [2026-02-01, 03:11:00](https://yro.slashdot.org/story/26/02/01/037202/us-government-also-received-a-whistleblower-complaint-that-whatsapp-chats-arent-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Also Received a Whistleblower Complaint That WhatsApp Chats Aren&apos;t Private](https://yro.slashdot.org/story/26/02/01/037202/us-government-also-received-a-whistleblower-complaint-that-whatsapp-chats-arent-private?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-02-01, 00:24:00](https://soylentnews.org/article.pl?sid=26/01/31/0054256&amp;from=rss) - [Researchers Use D&amp;D to Test AI&apos;s Long-Term Decision-Making Abilities](https://soylentnews.org/article.pl?sid=26/01/31/0054256&amp;from=rss)
 * [2026-01-31, 19:43:00](https://soylentnews.org/article.pl?sid=26/01/30/1620239&amp;from=rss) - [Linux after Linus?](https://soylentnews.org/article.pl?sid=26/01/30/1620239&amp;from=rss)
 * [2026-01-31, 15:00:00](https://soylentnews.org/article.pl?sid=26/01/30/0637214&amp;from=rss) - [ Notes on the Intel 8086 Processor&apos;s Arithmetic-logic Unit ](https://soylentnews.org/article.pl?sid=26/01/30/0637214&amp;from=rss)
-* [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:19:00](https://soylentnews.org/article.pl?sid=26/01/30/0627240&amp;from=rss) - [Signal President Warns AI Agents Are Making Encryption Irrelevant](https://soylentnews.org/article.pl?sid=26/01/30/0627240&amp;from=rss)
 * [2026-01-31, 05:42:00](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss) - [Remembering the YF-23 Stealth Fighter](https://soylentnews.org/article.pl?sid=26/01/30/0623217&amp;from=rss)
 * [2026-01-31, 01:01:00](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss) - [County Pays $600,000 to Pentesters It Arrested for Assessing Courthouse Security](https://soylentnews.org/article.pl?sid=26/01/30/068202&amp;from=rss)
@@ -144,11 +155,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-01-30, 20:22:00](https://soylentnews.org/article.pl?sid=26/01/28/2253239&amp;from=rss) - [A Look at Potential Problems with Future AI](https://soylentnews.org/article.pl?sid=26/01/28/2253239&amp;from=rss)
 * [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 * [2026-01-30, 15:38:00](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss) - [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss)
+* [2026-01-30, 11:02:16](https://news.ycombinator.com/item?id=46822961) - [Rev Up the Viral Factories](https://www.science.org/content/blog-post/rev-viral-factories)
 * [2026-01-30, 10:46:00](https://soylentnews.org/article.pl?sid=26/01/28/2247217&amp;from=rss) - [Executives Keep Overestimating AI Benefits](https://soylentnews.org/article.pl?sid=26/01/28/2247217&amp;from=rss)
 * [2026-01-30, 06:10:00](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss) - [Musk&apos;s X Releases Source Code for Platform&apos;s Algorithm](https://soylentnews.org/article.pl?sid=26/01/28/2241225&amp;from=rss)
 * [2026-01-30, 01:15:00](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss) - [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss)
 * [2026-01-29, 20:30:00](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss) - [Four Arrested Following $1.6 Million NFT Heist in the Netherlands](https://soylentnews.org/article.pl?sid=26/01/27/0538204&amp;from=rss)
 * [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding is a snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
+* [2026-01-29, 18:31:48](https://news.ycombinator.com/item?id=46814340) - [Ratchets in Software Development](https://qntm.org/ratchet)
+* [2026-01-29, 17:07:10](https://news.ycombinator.com/item?id=46813009) - [Attilio Berni plays the sub-contrabass saxophone [video]](https://www.youtube.com/watch?v=9BiW2mVKk0w)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
 * [2026-01-29, 15:40:00](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss) - [Microsoft Admits Windows 11 Update Is Nuking System Drives but There&apos;s &apos;A Limited Number Of Reports&apos;](https://soylentnews.org/article.pl?sid=26/01/27/0515229&amp;from=rss)
 * [2026-01-29, 10:59:00](https://soylentnews.org/article.pl?sid=26/01/27/0441241&amp;from=rss) - [Breakthrough Wireless Transceiver Transmits Data 24 Times Faster Than 5G Connections](https://soylentnews.org/article.pl?sid=26/01/27/0441241&amp;from=rss)
