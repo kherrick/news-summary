@@ -1,40 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI
+## Technology Updates
 
-* [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) - A security breach highlights significant concerns in AI-powered social networks, exposing sensitive API keys.
+* [KDE Plasma Login Manager Won't Support systemd-Free Linux or BSD Systems](https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/) ([Comments](https://news.ycombinator.com/item?id=46870751))
 
-* [SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - SpaceX's acquisition of xAI marks one of history’s most significant mergers, reflecting the growing integration of space and artificial intelligence.
+* [Millets: a practical memory-safety and thread-safety experiment](https://eagledot.xyz/millets.md.html) ([Comments](https://lobste.rs/s/sbmtxh/millets_practical_memory_safety_thread))
 
-* [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/) - A detailed exploration into how increasing model intelligence impacts misalignment challenges in AI systems.
+* [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html) ([Comments](https://news.ycombinator.com/item?id=46866544))
 
-* [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1) - A technical deep dive into the workings of inference engines rooted in a vLLM-style architecture.
+* [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting) ([Comments](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling))
 
-## Cybersecurity
+* [Linux From Scratch ends SysVinit support](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html) ([Comments](https://news.ycombinator.com/item?id=46858829))
 
-* [Notepad++ Compromised By State Actor](https://it.slashdot.org/story/26/02/02/1646253/notepad-compromised-by-state-actor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A popular text editor is revealed to have been targeted in a state-sponsored cyber attack, raising security alarms.
+## Innovation in Artificial Intelligence
 
-* [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting) - A major improvement in process handling that ends years of inefficient subprocess polling in software applications.
+* [$100 Billion Mega Deal Between OpenAI and Nvidia is on Ice](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss))
 
-* [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - Methods and tools to enhance privacy against overreach by major software companies.
+* [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) ([Comments](https://news.ycombinator.com/item?id=46869901))
 
-## Scientific and Historical Insights
+* [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1) ([Comments](https://news.ycombinator.com/item?id=46855447))
 
-* [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Groundbreaking research using hair samples confirms the positive environmental impact of banning leaded gasoline.
+* [Vibe-coded Social Network for AI Bots Exposed Data on Thousands of Humans](https://it.slashdot.org/story/26/02/02/1652237/vibe-coded-social-network-for-ai-bots-exposed-data-on-thousands-of-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/26/02/02/1652237/vibe-coded-social-network-for-ai-bots-exposed-data-on-thousands-of-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Scientists Baffled at Mysterious Ancient Creature That Doesn't Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&from=rss) - An extraordinary prehistoric discovery challenges current evolutionary theories.
+## Gaming Industry Highlights
 
-## Engineering and Hardware
+* [The Switch is Now Nintendo's Best-Selling Console of All Time](https://games.slashdot.org/story/26/02/03/0848248/the-switch-is-now-nintendos-best-selling-console-of-all-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://games.slashdot.org/story/26/02/03/0848248/the-switch-is-now-nintendos-best-selling-console-of-all-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) - Introducing a practical solution for USB cable testing, an essential tool for tech enthusiasts.
+## Scientific Discoveries and Environmental Topics
 
-* [Migrating to GTK3 – Re: Factor](https://re.factorcode.org/2025/12/migrating-to-gtk3.html) - Guidance for developers switching to newer graphical toolkit versions to enhance application performance.
+* [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123) ([Comments](https://news.ycombinator.com/item?id=46870113))
 
-## Social and Environmental Changes
+* [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Hidden Car Door Handles Are Officially Being Banned In China](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China bans hidden car door handles, citing increased accessibility and safety concerns.
+* [Discovery Challenges Assumptions About the Structure of Language](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss))
 
-* [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066) - A critical study on the public health impacts of industries and ultra-processed food.
+## Business and Legal Insights
+
+* [SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/) ([Comments](https://news.ycombinator.com/item?id=46863162))
+
+* [Notepad++ Compromised By State Actor](https://it.slashdot.org/story/26/02/02/1646253/notepad-compromised-by-state-actor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/26/02/02/1646253/notepad-compromised-by-state-actor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Miscellaneous Topics
+
+* [Hidden Car Door Handles Are Officially Being Banned In China](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/) ([Comments](https://news.ycombinator.com/item?id=46868759))
+
+* [ReKindle](https://rekindle.ink/) ([Comments](https://lobste.rs/s/wemnan/rekindle))
 
 ---
 
@@ -61,19 +75,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-03, 13:32:06](https://news.ycombinator.com/item?id=46870751) - [KDE Plasma Login Manager Won&apos;t Support systemd-Free Linux or BSD Systems](https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/)
+* [2026-02-03, 13:26:20](https://lobste.rs/s/efg3rf/your_app_shouldn_t_have_happy_path) - [Your App Shouldn&apos;t Have a Happy Path](https://erickhun.com/posts/coding-agents-no-happy-path/)
+* [2026-02-03, 12:35:33](https://lobste.rs/s/sbmtxh/millets_practical_memory_safety_thread) - [Millets: a practical memory-safety and thread-safety experiment](https://eagledot.xyz/millets.md.html)
+* [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
+* [2026-02-03, 12:00:23](https://news.ycombinator.com/item?id=46869901) - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
+* [2026-02-03, 11:30:00](https://games.slashdot.org/story/26/02/03/0848248/the-switch-is-now-nintendos-best-selling-console-of-all-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Switch is Now Nintendo&apos;s Best-Selling Console of All Time](https://games.slashdot.org/story/26/02/03/0848248/the-switch-is-now-nintendos-best-selling-console-of-all-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What&apos;s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 09:29:00](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss) - [$100 Billion Mega Deal Between OpenAI and Nvidia is on Ice](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss)
 * [2026-02-03, 09:26:48](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network) - [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
+* [2026-02-03, 09:07:06](https://lobste.rs/s/iq3bp6/eigen_building_workspace) - [Eigen: Building a Workspace](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)
+* [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (&lt;10KB)](https://safe-now.live)
 * [2026-02-03, 09:03:57](https://lobste.rs/s/nccupe/whatsapp_encryption_lawsuit_lot_noise) - [WhatsApp Encryption, a Lawsuit, and a Lot of Noise](https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/)
 * [2026-02-03, 08:49:51](https://lobste.rs/s/xcg4j6/what_s_up_with_all_those_equals_signs) - [What’s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
-* [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
+* [2026-02-03, 08:00:19](https://news.ycombinator.com/item?id=46867947) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-02-03, 07:01:00](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hidden Car Door Handles Are Officially Being Banned In China](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss)
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
-* [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 * [2026-02-03, 03:46:00](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-03, 03:37:36](https://news.ycombinator.com/item?id=46866149) - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
 * [2026-02-03, 03:22:25](https://lobste.rs/s/4wlhhv/rust_netbsd_kernel_other_odd_decisions) - [Rust in the NetBSD Kernel, and other odd decisions](https://bentsukun.ch/posts/netbsd-rust-kernel/)
 * [2026-02-03, 03:20:36](https://lobste.rs/s/dktw14/plasma_effect) - [Plasma Effect](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-03, 03:02:05](https://lobste.rs/s/zloybk/writing_async_runtime_rust) - [Writing an Async Runtime in Rust](https://michaelhelvey.dev/posts/rust_async_runtime)
@@ -119,17 +139,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-02, 12:52:35](https://news.ycombinator.com/item?id=46855447) - [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
 * [2026-02-02, 12:34:00](https://it.slashdot.org/story/26/02/02/0618242/is-ai-really-taking-jobs-or-are-employers-just-ai-washing-normal-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is AI Really Taking Jobs? Or Are Employers Just &apos;AI-Washing&apos; Normal Layoffs?](https://it.slashdot.org/story/26/02/02/0618242/is-ai-really-taking-jobs-or-are-employers-just-ai-washing-normal-layoffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 11:21:09](https://lobste.rs/s/rcojcc/technology_nearly_perfect_usb_cable) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
-* [2026-02-02, 10:12:23](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week)
 * [2026-02-02, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss) - [The EU Tells Google to Give External AI Assistants the Same Access to Android as Gemini Has](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss)
-* [2026-02-02, 09:34:00](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Kernel Developer Chris Mason&apos;s New Initiative: AI Prompts for Code Reviews](https://linux.slashdot.org/story/26/02/02/0718228/linux-kernel-developer-chris-masons-new-initiative-ai-prompts-for-code-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
-* [2026-02-02, 06:51:05](https://lobste.rs/s/vj2zkd/migrating_gtk3_re_factor) - [Migrating to GTK3 – Re: Factor](https://re.factorcode.org/2025/12/migrating-to-gtk3.html)
 * [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
-* [2026-02-02, 05:14:25](https://lobste.rs/s/6ifznf/vibe_easy_vm_sandboxes_for_llm_agents_on) - [Vibe: Easy VM sandboxes for LLM agents on MacOS](https://github.com/lynaghk/vibe/)
 * [2026-02-02, 04:57:00](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) - [Scientists Baffled at Mysterious Ancient Creature That Doesn&apos;t Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss)
 * [2026-02-02, 04:49:12](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) - [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 * [2026-02-02, 00:11:00](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss) - [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, Amd and Apple With its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss)
 * [2026-02-01, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss) - [Motor Trend - Car Dealer Confidential](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss)
+* [2026-02-01, 18:15:40](https://news.ycombinator.com/item?id=46848060) - [Pretty soon, heat pumps will be able to store and distribute heat as needed](https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/)
 * [2026-02-01, 14:45:00](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss) - [Voyager 2&apos;s Close Encounter With Uranus Wasn&apos;t in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss)
 * [2026-02-01, 09:59:00](https://soylentnews.org/article.pl?sid=26/01/31/014212&amp;from=rss) - [How Often Do AI Chatbots Lead Users Down a Harmful Path?](https://soylentnews.org/article.pl?sid=26/01/31/014212&amp;from=rss)
 * [2026-02-01, 05:15:00](https://soylentnews.org/article.pl?sid=26/01/31/0058200&amp;from=rss) - [The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack](https://soylentnews.org/article.pl?sid=26/01/31/0058200&amp;from=rss)
