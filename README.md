@@ -1,44 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and AI Developments
+## Artificial Intelligence and Technology
 
-* [NASA Assembling a Formal Anomaly Review Board for Maven](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss) - NASA is addressing technical challenges by organizing a review board for the MAVEN spacecraft.
+* [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html) - Bruce Schneier explores how advancements in AI could change the dynamics of trust and exploitation in society. [Read comments](https://news.ycombinator.com/item?id=46877075).
 
-* [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL) - Alibaba open-sources its enhanced MySQL database that integrates vector and DuckDB engines.
+* [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool) - A new AI tool released by Anthropic has caused significant market turbulence. [Read comments](https://news.ycombinator.com/item?id=46876720).
 
-* [SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX expands presence in the AI sector with a significant acquisition.
+* [Sandboxing AI Agents in Linux](https://blog.senko.net/sandboxing-ai-agents-in-linux) - Detailed exploration of methods to safely sandbox AI agents on Linux systems. [Read comments](https://news.ycombinator.com/item?id=46874139).
 
-## Tech Industry Developments
+* [Expensively Quadratic: the LLM Agent Cost Curve](https://blog.exe.dev/expensively-quadratic) - Insights into the rapidly scaling costs of running large language models. [Discuss here](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost).
 
-* [Google Plots Big Expansion in India as US Restricts Visas](https://tech.slashdot.org/story/26/02/03/190223/google-plots-big-expansion-in-india-as-us-restricts-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - As visa rules tighten in the US, Google focuses on expanding its workforce in India.
+* [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) - A shocking data leak exposed API keys from an AI-driven social network. [Discuss here](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network).
 
-* [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060) - France moves to homegrown solutions for government communication tools.
+* [For the Price of Netflix, Crooks Can Rent AI Crime Ops](https://soylentnews.org/article.pl?sid=26/01/28/2237224&amp;from=rss) - A critical look at the accessibility and potential misuse of AI tools for criminal operations.
 
-## Software and Open Source Innovations
+## Space Exploration and Astronomy
 
-* [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/) - Y Combinator embraces crypto stability in funding disbursement.
+* [NASA Delays Artemis II To March](https://science.slashdot.org/story/26/02/03/1931235/nasa-delays-artemis-ii-to-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA announces a delay for the Artemis II mission originally planned for February. [Discuss here](https://science.slashdot.org/story/26/02/03/1931235/nasa-delays-artemis-ii-to-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Emerge Career (YC S22) is hiring a product designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) - A YC-backed company seeks talent for its growth.
+* [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis) - China reveals its ambitious plan for a lunar landing by 2030. [Read comments](https://news.ycombinator.com/item?id=46876047).
 
-* [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek) - A Rust-based tool for efficient pre-commit checks gains traction.
+* [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of century-old hair samples provides compelling evidence of declining lead levels due to global bans. [Discuss here](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Tadpole – A modular and extensible DSL built for web scraping](https://tadpolehq.com/) - A novel, modular DSL streamlines web scraping.
+## Privacy, Security, and Regulation
 
-## Privacy and Regulation
+* [WhatsApp Encryption, a Lawsuit, and a Lot of Noise](https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/) - WhatsApp's encryption policies come under scrutiny amidst lawsuits and public debate. [Discuss here](https://lobste.rs/s/nccupe/whatsapp_encryption_lawsuit_lot_noise).
 
-* [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/) - The article critiques the gaps in enforcing GDPR across the EU.
+* [Feds Skipping Infosec Industry's Biggest Conference This Year](https://news.slashdot.org/story/26/02/02/1935214/feds-skipping-infosec-industrys-biggest-conference-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. government will not attend a major cybersecurity conference this year, sparking debate and speculation. [Discuss here](https://news.slashdot.org/story/26/02/02/1935214/feds-skipping-infosec-industrys-biggest-conference-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [WhatsApp Encryption, a Lawsuit, and a Lot of Noise](https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/) - Analysis of legal and encryption challenges surrounding WhatsApp.
+* [Hidden Car Door Handles Are Officially Being Banned In China](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hidden door handles, increasingly popular in vehicle designs, face official bans in China due to safety concerns. [Discuss here](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss) - Guide to enhancing personal privacy in light of government scrutiny.
+## Food, Health, and Lifestyle
 
-## Creative Developments and Other Innovations
+* [Ultra-Processed Foods Should Be Treated More Like Cigarettes Than Food, Study Says](https://science.slashdot.org/story/26/02/03/196254/ultra-processed-foods-should-be-treated-more-like-cigarettes-than-food-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new study calls for stricter regulations on ultra-processed food, likening it to tobacco. [Discuss here](https://science.slashdot.org/story/26/02/03/196254/ultra-processed-foods-should-be-treated-more-like-cigarettes-than-food-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Show HN: Octosphere, a tool to decentralise scientific publishing](https://octosphere.social/) - Emphasis on decentralization in science publishing.
+* [Salty Facts: Takeaways Have More Salt Than Labels Claim](https://soylentnews.org/article.pl?sid=26/01/28/2248256&amp;from=rss) - Research suggests takeout food has significantly higher salt content than advertised.
 
-* [Implementing the Temporal proposal in JavaScriptCore](https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/) - Advancements in integrating temporal features in JavaScriptCore.
+## Regulatory Developments in Tech
 
-* [Young adults report lower life satisfaction in Sweden](https://internationaljournalofwellbeing.org/index.php/ijow/article/view/6001/1299) - Study on young adults in Sweden and associated factors for life dissatisfaction.
+* [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060) - French government opts for homegrown alternatives to achieve digital sovereignty. [Read comments](https://news.ycombinator.com/item?id=46873294).
+
+* [The EU Tells Google to Give External AI Assistants the Same Access to Android as Gemini Has](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss) - The European Union asks Google to level the field among AI assistance platforms.
+
+* [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/) - A detailed critique highlights inefficiencies in GDPR implementation and enforcement. [Discuss here](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken).
 
 ---
 
@@ -65,10 +69,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-03, 21:30:00](https://science.slashdot.org/story/26/02/03/196254/ultra-processed-foods-should-be-treated-more-like-cigarettes-than-food-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ultra-Processed Foods Should Be Treated More Like Cigarettes Than Food, Study Says](https://science.slashdot.org/story/26/02/03/196254/ultra-processed-foods-should-be-treated-more-like-cigarettes-than-food-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-03, 21:15:48](https://news.ycombinator.com/item?id=46877403) - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+* [2026-02-03, 20:49:30](https://news.ycombinator.com/item?id=46877075) - [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+* [2026-02-03, 20:21:21](https://news.ycombinator.com/item?id=46876720) - [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+* [2026-02-03, 20:00:00](https://science.slashdot.org/story/26/02/03/1931235/nasa-delays-artemis-ii-to-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Delays Artemis II To March](https://science.slashdot.org/story/26/02/03/1931235/nasa-delays-artemis-ii-to-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-03, 19:55:44](https://news.ycombinator.com/item?id=46876347) - [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
+* [2026-02-03, 19:37:30](https://news.ycombinator.com/item?id=46876105) - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+* [2026-02-03, 19:32:11](https://news.ycombinator.com/item?id=46876047) - [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+* [2026-02-03, 19:26:05](https://news.ycombinator.com/item?id=46875952) - [OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
+* [2026-02-03, 19:09:00](https://lobste.rs/s/dw3fy3/osmc_2025_easy_logging_refinement_with) - [OSMC 2025 - Easy logging refinement with FlowG](https://www.youtube.com/watch?v=zrvc6hPmNYI)
 * [2026-02-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss) - [NASA Assembling a Formal Anomaly Review Board for Maven](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss)
 * [2026-02-03, 19:02:00](https://tech.slashdot.org/story/26/02/03/190223/google-plots-big-expansion-in-india-as-us-restricts-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Plots Big Expansion in India as US Restricts Visas](https://tech.slashdot.org/story/26/02/03/190223/google-plots-big-expansion-in-india-as-us-restricts-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 18:40:18](https://news.ycombinator.com/item?id=46875228) - [AliSQL: Alibaba&apos;s open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
-* [2026-02-03, 18:28:48](https://news.ycombinator.com/item?id=46875033) - [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
 * [2026-02-03, 18:14:03](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken) - [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/)
 * [2026-02-03, 18:10:37](https://lobste.rs/s/kphf9n/java_sucks_2000) - [java sucks (2000)](https://www.jwz.org/doc/java.html)
 * [2026-02-03, 18:04:08](https://news.ycombinator.com/item?id=46874619) - [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
@@ -76,26 +89,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-03, 17:55:56](https://lobste.rs/s/qwer0m/mechanical_sympathy_2014) - [Mechanical Sympathy (2014)](https://www.infoq.com/presentations/mechanical-sympathy/)
 * [2026-02-03, 17:51:16](https://lobste.rs/s/kzugo4/smallest_build_system) - [The smallest build system](https://neugierig.org/software/blog/2026/01/smallest-build-system.html)
 * [2026-02-03, 17:50:55](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost) - [Expensively Quadratic: the LLM Agent Cost Curve](https://blog.exe.dev/expensively-quadratic)
+* [2026-02-03, 17:35:37](https://news.ycombinator.com/item?id=46874139) - [Sandboxing AI Agents in Linux](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 * [2026-02-03, 17:33:20](https://news.ycombinator.com/item?id=46874097) - [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
-* [2026-02-03, 17:19:47](https://news.ycombinator.com/item?id=46873885) - [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features)
-* [2026-02-03, 17:12:53](https://news.ycombinator.com/item?id=46873798) - [Young adults report lower life satisfaction in Sweden](https://internationaljournalofwellbeing.org/index.php/ijow/article/view/6001/1299)
 * [2026-02-03, 17:12:04](https://news.ycombinator.com/item?id=46873790) - [Defining Safe Hardware Design [pdf]](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf)
 * [2026-02-03, 17:11:42](https://news.ycombinator.com/item?id=46873782) - [Show HN: Octosphere, a tool to decentralise scientific publishing](https://octosphere.social/)
 * [2026-02-03, 17:11:29](https://lobste.rs/s/wrduhe/defining_safe_hardware_design) - [Defining Safe Hardware Design](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf)
-* [2026-02-03, 17:08:43](https://news.ycombinator.com/item?id=46873742) - [Show HN: I built \&quot;AI Wattpad\&quot; to eval LLMs on fiction](https://narrator.sh/llm-leaderboard)
 * [2026-02-03, 17:00:00](https://news.slashdot.org/story/26/02/03/1655249/youtube-kills-background-playback-on-third-party-mobile-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [YouTube Kills Background Playback on Third-Party Mobile Browsers](https://news.slashdot.org/story/26/02/03/1655249/youtube-kills-background-playback-on-third-party-mobile-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-03, 16:56:06](https://news.ycombinator.com/item?id=46873574) - [221 Cannon Road Is Not for Sale](https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/)
-* [2026-02-03, 16:53:50](https://news.ycombinator.com/item?id=46873539) - [Kilobyte is precisely 1000 bytes](https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes)
-* [2026-02-03, 16:40:12](https://news.ycombinator.com/item?id=46873308) - [Show HN: PII-Shield – Log Sanitization Sidecar with JSON Integrity (Go, Entropy)](https://github.com/aragossa/pii-shield)
 * [2026-02-03, 16:39:18](https://news.ycombinator.com/item?id=46873294) - [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060)
 * [2026-02-03, 16:29:34](https://news.ycombinator.com/item?id=46873138) - [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
 * [2026-02-03, 16:29:13](https://news.ycombinator.com/item?id=46873133) - [Tadpole – A modular and extensible DSL built for web scraping](https://tadpolehq.com/)
+* [2026-02-03, 16:14:17](https://news.ycombinator.com/item?id=46872894) - [X offices raided in France](https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc)
 * [2026-02-03, 16:09:07](https://news.ycombinator.com/item?id=46872818) - [Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy](https://github.com/ambonvik/cimba)
 * [2026-02-03, 16:03:21](https://news.ycombinator.com/item?id=46872733) - [Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
 * [2026-02-03, 16:01:50](https://news.ycombinator.com/item?id=46872706) - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
 * [2026-02-03, 16:00:00](https://slashdot.org/story/26/02/03/1513242/paypals-ceo-change-blindsided-hps-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PayPal&apos;s CEO Change Blindsided HP&apos;s Board](https://slashdot.org/story/26/02/03/1513242/paypals-ceo-change-blindsided-hps-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
-* [2026-02-03, 15:31:40](https://news.ycombinator.com/item?id=46872238) - [The next steps for Airbus&apos; big bet on open rotor engines](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 * [2026-02-03, 15:00:00](https://tech.slashdot.org/story/26/02/03/1445206/adobe-is-killing-a-popular-animation-and-game-development-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Is Killing A Popular Animation And Game Development Program](https://tech.slashdot.org/story/26/02/03/1445206/adobe-is-killing-a-popular-animation-and-game-development-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 14:55:48](https://lobste.rs/s/7c0zpv/implementing_temporal_proposal) - [Implementing the Temporal proposal in JavaScriptCore](https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/)
 * [2026-02-03, 14:28:01](https://news.ycombinator.com/item?id=46871387) - [Show HN: Sandboxing untrusted code using WebAssembly](https://github.com/mavdol/capsule)
@@ -111,17 +119,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-03, 09:29:00](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss) - [$100 Billion Mega Deal Between OpenAI and Nvidia is on Ice](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss)
 * [2026-02-03, 09:26:48](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network) - [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-03, 09:07:06](https://lobste.rs/s/iq3bp6/eigen_building_workspace) - [Eigen: Building a Workspace](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)
-* [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (&lt;10KB)](https://safe-now.live)
 * [2026-02-03, 09:03:57](https://lobste.rs/s/nccupe/whatsapp_encryption_lawsuit_lot_noise) - [WhatsApp Encryption, a Lawsuit, and a Lot of Noise](https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/)
 * [2026-02-03, 08:49:51](https://lobste.rs/s/xcg4j6/what_s_up_with_all_those_equals_signs) - [What’s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 07:01:00](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hidden Car Door Handles Are Officially Being Banned In China](https://tech.slashdot.org/story/26/02/03/0512212/hidden-car-door-handles-are-officially-being-banned-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss)
-* [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 03:46:00](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal](https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-03, 03:22:25](https://lobste.rs/s/4wlhhv/rust_netbsd_kernel_other_odd_decisions) - [Rust in the NetBSD Kernel, and other odd decisions](https://bentsukun.ch/posts/netbsd-rust-kernel/)
 * [2026-02-03, 03:20:36](https://lobste.rs/s/dktw14/plasma_effect) - [Plasma Effect](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-03, 02:30:00](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://science.slashdot.org/story/26/02/02/2029212/a-century-of-hair-samples-proves-leaded-gas-ban-worked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-03, 01:52:21](https://news.ycombinator.com/item?id=46865275) - [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
 * [2026-02-03, 00:16:41](https://lobste.rs/s/ecrnwg/one_machine_can_go_pretty_far_if_you_build) - [One machine can go pretty far if you build things properly (2022)](https://rachelbythebay.com/w/2022/01/27/scale/)
 * [2026-02-03, 00:01:00](https://slashdot.org/story/26/02/02/2015228/leica-cameras-owners-weigh-12-billion-sale-of-controlling-stake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Leica Camera&apos;s Owners Weigh $1.2 Billion Sale of Controlling Stake](https://slashdot.org/story/26/02/02/2015228/leica-cameras-owners-weigh-12-billion-sale-of-controlling-stake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 23:58:00](https://soylentnews.org/article.pl?sid=26/02/01/199225&amp;from=rss) - [Tim Berners-Lee  Wants to Save the Web](https://soylentnews.org/article.pl?sid=26/02/01/199225&amp;from=rss)
@@ -129,19 +134,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-02, 21:43:21](https://lobste.rs/s/bywnqo/what_s_your_email_setup) - [What&apos;s your email setup?](https://lobste.rs/s/bywnqo/what_s_your_email_setup)
 * [2026-02-02, 21:34:25](https://lobste.rs/s/pfhei9/zig_libc) - [zig libc](https://ziglang.org/devlog/2026/#2026-01-31)
 * [2026-02-02, 21:01:00](https://news.slashdot.org/story/26/02/02/1836226/finland-to-introduce-green-wave-automated-system-for-emergency-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finland To Introduce &apos;Green Wave&apos; Automated System For Emergency Vehicles](https://news.slashdot.org/story/26/02/02/1836226/finland-to-introduce-green-wave-automated-system-for-emergency-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-02, 20:01:00](https://tech.slashdot.org/story/26/02/02/1826219/microsoft-weighs-retreat-from-windows-11-ai-push-reviews-copilot-integrations-and-recall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Weighs Retreat From Windows 11 AI Push, Reviews Copilot Integrations and Recall](https://tech.slashdot.org/story/26/02/02/1826219/microsoft-weighs-retreat-from-windows-11-ai-push-reviews-copilot-integrations-and-recall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 19:12:00](https://soylentnews.org/article.pl?sid=26/02/01/196206&amp;from=rss) - [ReactOS Turns 30](https://soylentnews.org/article.pl?sid=26/02/01/196206&amp;from=rss)
-* [2026-02-02, 19:00:00](https://apple.slashdot.org/story/26/02/02/1741244/the-ai-boom-is-coming-for-apples-profit-margins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI Boom Is Coming for Apple&apos;s Profit Margins](https://apple.slashdot.org/story/26/02/02/1741244/the-ai-boom-is-coming-for-apples-profit-margins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 15:34:49](https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding) - [My experience with vibe coding](https://haskellforall.com/2026/02/my-experience-with-vibe-coding)
 * [2026-02-02, 14:28:00](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss) - [Discovery Challenges Assumptions About the Structure of Language](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss)
 * [2026-02-02, 14:14:34](https://lobste.rs/s/9esltl/intro_cstml_xml_meets_json) - [Intro to CSTML (or: XML meets JSON)](https://docs.bablr.org/guides/cstml/)
 * [2026-02-02, 11:21:09](https://lobste.rs/s/rcojcc/technology_nearly_perfect_usb_cable) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-02-02, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss) - [The EU Tells Google to Give External AI Assistants the Same Access to Android as Gemini Has](https://soylentnews.org/article.pl?sid=26/02/01/191257&amp;from=rss)
-* [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 04:57:00](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss) - [Scientists Baffled at Mysterious Ancient Creature That Doesn&apos;t Fit on the Tree of Life as We Know It](https://soylentnews.org/article.pl?sid=26/01/31/0217249&amp;from=rss)
 * [2026-02-02, 04:49:12](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) - [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 * [2026-02-02, 00:11:00](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss) - [Processor Arm Race Heats Up as Nvidia Could Soon Challenge Intel, Amd and Apple With its N1X Laptop](https://soylentnews.org/article.pl?sid=26/01/31/024237&amp;from=rss)
+* [2026-02-01, 20:01:00](https://news.ycombinator.com/item?id=46848876) - [Lessons Learned Shipping 500 Units of My First Hardware Product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
+* [2026-02-01, 19:32:41](https://news.ycombinator.com/item?id=46848653) - [Another London: Excavating the disenchanted city](https://harpers.org/archive/2026/02/another-london-situationists-hari-kunzru/)
 * [2026-02-01, 19:30:00](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss) - [Motor Trend - Car Dealer Confidential](https://soylentnews.org/article.pl?sid=26/01/31/0151243&amp;from=rss)
 * [2026-02-01, 14:45:00](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss) - [Voyager 2&apos;s Close Encounter With Uranus Wasn&apos;t in the Official Plan](https://soylentnews.org/article.pl?sid=26/01/31/0148226&amp;from=rss)
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
