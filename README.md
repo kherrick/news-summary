@@ -1,64 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations
+## Advancements in Technology
 
-* [monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) ([Comments](https://lobste.rs/s/8rnhnq/monty_minimal_secure_python_interpreter))
+* [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/) ([Comments](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large))
+
+* [voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c) ([Comments](https://lobste.rs/s/0efygh/voxtral_c_pure_c_inference_mistral))
 
 * [elfconv: AOT binary translator of Linux/ELF -> WebAssembly](https://github.com/yomaytk/elfconv) ([Comments](https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf))
 
-* [Google Confirms AirDrop Sharing is Coming To Android Phones Beyond Pixels](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [monty: A minimal secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) ([Comments](https://lobste.rs/s/8rnhnq/monty_minimal_secure_python_interpreter))
 
-* [Anthropic Launches Claude Opus 4.6 as Its AI Tools Rattle Software Markets](https://slashdot.org/story/26/02/05/1755209/anthropic-launches-claude-opus-46-as-its-ai-tools-rattle-software-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/02/05/1755209/anthropic-launches-claude-opus-46-as-its-ai-tools-rattle-software-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Significant Developments in Technology and Policy
 
-* [Western Digital Plots a Path To 140 TB Hard Drives Using Vertical Lasers and 14-Platter Designs](https://hardware.slashdot.org/story/26/02/05/175200/western-digital-plots-a-path-to-140-tb-hard-drives-using-vertical-lasers-and-14-platter-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/02/05/175200/western-digital-plots-a-path-to-140-tb-hard-drives-using-vertical-lasers-and-14-platter-designs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [CIA Has Killed Off The World Factbook After Six Decades](https://news.slashdot.org/story/26/02/05/187252/cia-has-killed-off-the-world-factbook-after-six-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/02/05/187252/cia-has-killed-off-the-world-factbook-after-six-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## AI and Machine Learning
+* [The European Commission Is Testing an Open Source Alternative To Microsoft Teams](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/) ([Comments](https://news.ycombinator.com/item?id=46909122))
-
-* [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler) ([Comments](https://news.ycombinator.com/item?id=46903616))
-
-* [Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams) ([Comments](https://news.ycombinator.com/item?id=46902368))
-
-* [Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper) ([Comments](https://news.ycombinator.com/item?id=46909037))
-
-## Cybersecurity
+## Cybersecurity and Privacy
 
 * [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss))
 
 * [The RCE that AMD won't fix](https://mrbruh.com/amd/) ([Comments](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix))
 
-* [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/) ([Comments](https://news.ycombinator.com/item?id=46908671))
-
-## Software and Programming
-
-* [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html) ([Comments](https://news.ycombinator.com/item?id=46909439))
+## AI and Machine Learning Frameworks
 
 * [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) ([Comments](https://news.ycombinator.com/item?id=46908491))
 
-* [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler) ([Comments](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel))
+* [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/) ([Comments](https://news.ycombinator.com/item?id=46909122))
 
-* [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/) ([Comments](https://lobste.rs/s/nanyth/django_profile_memory_usage_with_memray))
-
-* [The browser catches homograph attacks, the terminal doesn't](https://github.com/sheeki03/tirith) ([Comments](https://news.ycombinator.com/item?id=46870501))
-
-## Social and Ethical Issues
-
-* [Court Rules That Ripping YouTube Clips Can Violate the DMCA](https://news.slashdot.org/story/26/02/05/1924252/court-rules-that-ripping-youtube-clips-can-violate-the-dmca?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/02/05/1924252/court-rules-that-ripping-youtube-clips-can-violate-the-dmca?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Trust signals are broken](https://ordep.dev/posts/trust-signals-are-broken) ([Comments](https://lobste.rs/s/mzvnod/trust_signals_are_broken))
+## Miscellaneous Insights and Discoveries
 
 * [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss))
 
-## Scientific Discoveries and Space Exploration
-
-* [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss))
-
-* [NASAs Formal Anomaly Review Board for MAVEN](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss))
-
-* [Science challenges assumptions about language structure](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss))
-
-* [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss))
+* [NASA Will Finally Let Its Astronauts Bring iPhones To the Moon](https://science.slashdot.org/story/26/02/05/1918226/nasa-will-finally-let-its-astronauts-bring-iphones-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/02/05/1918226/nasa-will-finally-let-its-astronauts-bring-iphones-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -85,11 +59,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
+* [2026-02-06, 08:21:00](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss) - [How to Bypass a Parallel Port Dongle](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss)
+* [2026-02-06, 08:01:00](https://news.slashdot.org/story/26/02/05/187252/cia-has-killed-off-the-world-factbook-after-six-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CIA Has Killed Off The World Factbook After Six Decades](https://news.slashdot.org/story/26/02/05/187252/cia-has-killed-off-the-world-factbook-after-six-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-06, 07:44:20](https://lobste.rs/s/0efygh/voxtral_c_pure_c_inference_mistral) - [voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
 * [2026-02-06, 07:00:55](https://lobste.rs/s/8rnhnq/monty_minimal_secure_python_interpreter) - [monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 06:04:26](https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf) - [elfconv: AOT binary translator of Linux/ELF -&gt; WebAssembly](https://github.com/yomaytk/elfconv)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2026-02-06, 05:24:36](https://news.ycombinator.com/item?id=46909439) - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
-* [2026-02-06, 05:16:29](https://lobste.rs/s/qsde8d/olimex_hot_aims_be_lightweight_easier_use) - [Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant](https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/)
 * [2026-02-06, 05:01:00](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Confirms AirDrop Sharing is Coming To Android Phones Beyond Pixels](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 04:28:08](https://news.ycombinator.com/item?id=46909122) - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
 * [2026-02-06, 04:12:59](https://news.ycombinator.com/item?id=46909037) - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
@@ -100,16 +77,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 02:58:31](https://news.ycombinator.com/item?id=46908491) - [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 * [2026-02-06, 02:00:00](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The European Commission Is Testing an Open Source Alternative To Microsoft Teams](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 01:49:13](https://lobste.rs/s/5k4et9/how_program_computers_kos_2015) - [How to program computers (kOS) (2015)](https://fall.tr/kos)
-* [2026-02-05, 23:31:01](https://news.ycombinator.com/item?id=46906967) - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
 * [2026-02-05, 23:30:00](https://news.slashdot.org/story/26/02/05/1924252/court-rules-that-ripping-youtube-clips-can-violate-the-dmca?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Court Rules That Ripping YouTube Clips Can Violate the DMCA](https://news.slashdot.org/story/26/02/05/1924252/court-rules-that-ripping-youtube-clips-can-violate-the-dmca?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won&apos;t fix](https://mrbruh.com/amd/)
 * [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss)
-* [2026-02-05, 23:10:12](https://news.ycombinator.com/item?id=46906737) - [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
 * [2026-02-05, 21:51:51](https://news.ycombinator.com/item?id=46905896) - [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/)
 * [2026-02-05, 21:39:57](https://news.ycombinator.com/item?id=46905761) - [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
 * [2026-02-05, 21:30:00](https://science.slashdot.org/story/26/02/05/1918226/nasa-will-finally-let-its-astronauts-bring-iphones-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Will Finally Let Its Astronauts Bring iPhones To the Moon](https://science.slashdot.org/story/26/02/05/1918226/nasa-will-finally-let-its-astronauts-bring-iphones-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-05, 21:05:13](https://lobste.rs/s/nanyth/django_profile_memory_usage_with_memray) - [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/)
-* [2026-02-05, 21:03:17](https://lobste.rs/s/ollcmo/calling_lean_functions_as_python) - [Calling Lean Functions As Python Functions](https://www.philipzucker.com/leancall/)
 * [2026-02-05, 20:27:15](https://lobste.rs/s/vwsdqu/vibe_coding_kills_open_source) - [Vibe Coding Kills Open Source](https://arxiv.org/pdf/2601.15494)
 * [2026-02-05, 20:15:48](https://news.ycombinator.com/item?id=46904569) - [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
 * [2026-02-05, 20:00:39](https://news.ycombinator.com/item?id=46904361) - [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
@@ -121,6 +95,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-05, 19:07:51](https://news.ycombinator.com/item?id=46903616) - [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
 * [2026-02-05, 19:04:40](https://news.ycombinator.com/item?id=46903558) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:00:00](https://tech.slashdot.org/story/26/02/05/1729259/automattic-and-the-internet-archive-team-up-to-fight-link-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Automattic and the Internet Archive Team Up To Fight Link Rot](https://tech.slashdot.org/story/26/02/05/1729259/automattic-and-the-internet-archive-team-up-to-fight-link-rot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-05, 18:46:10](https://lobste.rs/s/axh9zo/agentic_proof_oriented_programming) - [Agentic Proof-Oriented Programming](https://risemsr.github.io/blog/2026-02-04-nik-agentic-pop/)
 * [2026-02-05, 18:29:00](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss) - [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss)
 * [2026-02-05, 18:08:08](https://news.ycombinator.com/item?id=46902638) - [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 * [2026-02-05, 18:00:00](https://slashdot.org/story/26/02/05/1755209/anthropic-launches-claude-opus-46-as-its-ai-tools-rattle-software-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Launches Claude Opus 4.6 as Its AI Tools Rattle Software Markets](https://slashdot.org/story/26/02/05/1755209/anthropic-launches-claude-opus-46-as-its-ai-tools-rattle-software-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -151,13 +126,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-05, 09:02:00](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss) - [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-05, 08:00:00](https://it.slashdot.org/story/26/02/05/0445243/munich-makes-digital-sovereignty-measurable-with-its-own-score?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Munich Makes Digital Sovereignty Measurable With Its Own Score](https://it.slashdot.org/story/26/02/05/0445243/munich-makes-digital-sovereignty-measurable-with-its-own-score?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-05, 05:00:00](https://it.slashdot.org/story/26/02/05/0030225/valves-steam-machine-has-been-delayed-and-the-ram-crisis-will-impact-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve&apos;s Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing](https://it.slashdot.org/story/26/02/05/0030225/valves-steam-machine-has-been-delayed-and-the-ram-crisis-will-impact-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-05, 04:15:00](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss) - [Autonomous Cars Vulnerable to Prompt Injection](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss)
 * [2026-02-04, 23:31:00](https://soylentnews.org/article.pl?sid=26/02/02/1443223&amp;from=rss) - [The UK Government Gets It Spectacularly Wrong On AI](https://soylentnews.org/article.pl?sid=26/02/02/1443223&amp;from=rss)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 19:19:07](https://news.ycombinator.com/item?id=46890335) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss)
-* [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 14:00:00](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&amp;from=rss) - [Review of iwStack.com](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&amp;from=rss)
 * [2026-02-04, 09:16:00](https://soylentnews.org/article.pl?sid=26/02/02/1228214&amp;from=rss) - [When 20-Year-Old Bill Gates Fought the &apos;Thieves&apos; Who Stole His First Code](https://soylentnews.org/article.pl?sid=26/02/02/1228214&amp;from=rss)
 * [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss)
@@ -167,9 +140,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-03, 13:06:19](https://news.ycombinator.com/item?id=46870501) - [The browser catches homograph attacks, the terminal doesn&apos;t](https://github.com/sheeki03/tirith)
 * [2026-02-03, 09:29:00](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss) - [$100 Billion Mega Deal Between OpenAI and Nvidia is on Ice](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss)
 * [2026-02-03, 07:03:34](https://news.ycombinator.com/item?id=46867526) - [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
+* [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
+* [2026-02-03, 06:26:01](https://news.ycombinator.com/item?id=46867271) - [Plasma Effect](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss)
 * [2026-02-03, 02:55:38](https://news.ycombinator.com/item?id=46865849) - [How to carry more than your own bodyweight (2025)](https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight)
 * [2026-02-02, 23:58:00](https://soylentnews.org/article.pl?sid=26/02/01/199225&amp;from=rss) - [Tim Berners-Lee  Wants to Save the Web](https://soylentnews.org/article.pl?sid=26/02/01/199225&amp;from=rss)
+* [2026-02-02, 22:38:47](https://news.ycombinator.com/item?id=46863021) - [The Color of Safety](https://protocolized.summerofprotocols.com/p/the-color-of-safety)
 * [2026-02-02, 19:12:00](https://soylentnews.org/article.pl?sid=26/02/01/196206&amp;from=rss) - [ReactOS Turns 30](https://soylentnews.org/article.pl?sid=26/02/01/196206&amp;from=rss)
 * [2026-02-02, 14:28:00](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss) - [Discovery Challenges Assumptions About the Structure of Language](https://soylentnews.org/article.pl?sid=26/02/01/194207&amp;from=rss)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
