@@ -1,58 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Innovations
+## AI and Technology Advancements
 
-* [AI Agents Now Have Their Own Reddit-Style Social Network, and It's Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss) - Explore the peculiar and rapid development of social networks exclusively for AI agents.
+* [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html) ([comments](https://lobste.rs/s/pb0c7b/why_i_joined_openai)): A personal account of why a prominent tech individual joined OpenAI and what motivated their decision.
 
-* [Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant) - Insight on balancing trust and safety for AI agents, with a perspective rooted in gaming.
+* [AI Agents Now Have Their Own Reddit-Style Social Network, and It&apos;s Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss)): Discover the quirky and unexpected developments of a social network solely for AI agents.
 
-* [Hollywood's AI Bet Isn't Paying Off](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An evaluation of Hollywood's investments in artificial intelligence and why they might not be fruitful.
+* [Hollywood&apos;s AI Bet Isn&apos;t Paying Off](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A critical look at Hollywood's investment in AI technologies and their underwhelming returns.
 
-* [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) - Introducing a Python interpreter promoting security, designed in Rust and catering primarily to AI systems.
+* [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) ([comments](https://news.ycombinator.com/item?id=46918254)): An innovative new Python interpreter designed with a focus on security and efficiency for AI applications.
 
-* [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/) - Google's latest API to empower developers with enhanced programming knowledge.
+* [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html) ([comments](https://lobste.rs/s/s8awlf/programming_is_dead_future_software)): An intriguing discussion on the impact of AI on the future of software development.
 
-* [SpaceMolt - Massively Multiplayer Gaming for AI Agents](https://www.spacemolt.com) - A bold move in expanding AI agents' capabilities through collaborative gameplay.
+## Software and Development Tools
 
-* [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/) - A guide to leveraging artificial intelligence to enhance coding practices.
+* [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc) ([comments](https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp)): Introduction to a speedy backend solution for TRAMP using JSON-RPC in Emacs.
 
-## Healthcare and Science Breakthroughs
+* [Making Web Components work: a framework&apos;s perspective](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/) ([comments](https://lobste.rs/s/vv8349/making_web_components_work_framework_s)): Insights into the challenges and solutions of using web components with frameworks.
 
-* [I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain) - A determined personal journey to tackle a brain tumor showcases humanity's innovative spirit.
+* [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy) ([comments](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document)): Explore a new Rust-based document database with ACID guarantees.
 
-* [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236) - Promising advances in pancreatic cancer treatments offer new hope.
+* [Text classification with Python 3.14&apos;s zstd module](https://maxhalford.github.io/blog/text-classification-zstd/) ([comments](https://lobste.rs/s/axcylc/text_classification_with_python_3_14_s)): Diving into text classification using Python 3.14's zstd module.
 
-* [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&from=rss) - Unveiling the brain's significant but concerning role in heart attack recoveries.
+* [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) ([comments](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your)): A candid take on the challenges posed by GitHub Actions in engineering teams.
 
-* [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&from=rss) - How temperature regulation in sleep can positively affect heart health.
+## Transportation and Autonomous Tech
 
-## Open Source and Software Engineering
+* [Waymo is Having a Hard Time Stopping For School Buses](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Highlighting the struggles of Waymo's autonomous vehicles in handling real-world traffic scenarios.
 
-* [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc) - A step forward in improving Emacs' efficiency for remote file editing.
+* [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) ([comments](https://news.ycombinator.com/item?id=46914785)): Insights into the new Waymo World Model for advancing autonomous driving simulations.
 
-* [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/) - Rekindling the love for the classic 'Civilization III' game with an open-source touch.
+* [Autonomous Cars Vulnerable to Prompt Injection](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss)): A concerning report on the weaknesses of autonomous vehicles and their potential vulnerabilities.
 
-* [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3) - Introducing a minimalist programming language inspired by ColorForth.
+## Science and Environment
 
-* [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/) - Major progress updates for GNU/Hurd show promising signs for this enduring project.
+* [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss)): Study uncovers how the brain's reaction to a heart attack could hinder recovery.
 
-## Cybersecurity and Privacy
+* [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_placement=newsletter&amp;utm_source=join1440) ([comments](https://news.ycombinator.com/item?id=46920773)): A conservation success story as a new Asian elephant calf is born at the Smithsonian National Zoo.
 
-* [Hidden Cameras in Chinese Hotels Are Livestreaming Guests To Thousands of Telegram Subscribers](https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A chilling report revealing serious breaches of privacy in Chinese hotels.
+* [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss)): A fascinating exploration of the role gut bacteria play in coffee bean flavor development.
 
-* [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://red.anthropic.com/2026/zero-days/) - Understanding the risks posed by large language models in discovering zero-day vulnerabilities.
+## Privacy and Security
 
-* [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - Countering privacy concerns with tools and actions to secure personal data.
+* [Hidden Cameras in Chinese Hotels Are Livestreaming Guests To Thousands of Telegram Subscribers](https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A shocking report on privacy violations in Chinese hotels.
 
-## Innovative Projects and Ideas
-
-* [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/) - Building solutions for critical hypotheticals faced by users.
-
-* [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/) - One of the most comprehensive guides for bicycle enthusiasts.
-
-* [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/) - Immersive storytelling through animations based on the iconic film 'Hackers.'
-
-* [Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering](https://github.com/project-blinc/Blinc) - Redefining UI systems with next-generation technical integrations.
+* [The RCE that AMD won&apos;t fix](https://mrbruh.com/amd/) ([comments](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix)): Highlighting a critical vulnerability that AMD has declined to address.
 
 ---
 
@@ -79,11 +71,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-07, 05:37:01](https://lobste.rs/s/pb0c7b/why_i_joined_openai) - [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
+* [2026-02-07, 05:15:15](https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi) - [Bob Beck (OpenBSD) on why vi should stay vi](https://marc.info/?l=openbsd-misc&amp;m=115820462402673&amp;w=2)
+* [2026-02-07, 05:00:00](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo is Having a Hard Time Stopping For School Buses](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It&apos;s Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss)
-* [2026-02-07, 03:12:47](https://news.ycombinator.com/item?id=46920954) - [Make Trust Irrelevant: A Gamer&apos;s Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)
 * [2026-02-07, 02:40:04](https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp) - [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc)
 * [2026-02-07, 02:35:49](https://news.ycombinator.com/item?id=46920773) - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_placement=newsletter&amp;utm_source=join1440)
 * [2026-02-07, 02:00:00](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood&apos;s AI Bet Isn&apos;t Paying Off](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-07, 01:45:04](https://news.ycombinator.com/item?id=46920487) - [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
+* [2026-02-07, 01:10:00](https://news.ycombinator.com/item?id=46920273) - [WebView performance significantly slower than PWA](https://issues.chromium.org/issues/40817676)
 * [2026-02-07, 01:05:59](https://news.ycombinator.com/item?id=46920248) - [I&apos;m going to cure my girlfriend&apos;s brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
 * [2026-02-07, 00:53:44](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document) - [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy)
 * [2026-02-07, 00:34:26](https://lobste.rs/s/gja0tt/system_time_clocks_their_syncing_macos) - [System time, clocks and their syncing in macOS](https://eclecticlight.co/2025/05/21/system-time-clocks-and-their-syncing-in-macos/)
@@ -114,13 +110,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \&quot;boilerplate tax\&quot; different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 16:31:00](https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KPMG Pressed Its Auditor To Pass on AI Cost Savings](https://slashdot.org/story/26/02/06/1632210/kpmg-pressed-its-auditor-to-pass-on-ai-cost-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-* [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games](https://eblong.com/zarf/essays/seltani-talk/)
+* [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games (2013)](https://eblong.com/zarf/essays/seltani-talk/)
 * [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown&apos;s Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2026-02-06, 15:34:00](https://science.slashdot.org/story/26/02/06/1534230/the-bizarre-enhancement-claims-rocking-ski-jumping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Bizarre Enhancement Claims Rocking Ski Jumping](https://science.slashdot.org/story/26/02/06/1534230/the-bizarre-enhancement-claims-rocking-ski-jumping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
 * [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
-* [2026-02-06, 14:32:05](https://news.ycombinator.com/item?id=46913285) - [How virtual textures work](https://www.shlom.dev/articles/how-virtual-textures-really-work/)
 * [2026-02-06, 14:31:00](https://tech.slashdot.org/story/26/02/06/1431209/europe-accuses-tiktok-of-addictive-design-and-pushes-for-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Europe Accuses TikTok of &apos;Addictive Design&apos; and Pushes for Change](https://tech.slashdot.org/story/26/02/06/1431209/europe-accuses-tiktok-of-addictive-design-and-pushes-for-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 13:54:09](https://news.ycombinator.com/item?id=46912843) - [FORTH? Really!?](https://rescrv.net/w/2026/02/06/associative)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
@@ -128,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 13:18:28](https://lobste.rs/s/vljse7/bliss_music_analyzer_library) - [bliss music analyzer library](https://lelele.io/bliss.html)
 * [2026-02-06, 13:11:13](https://lobste.rs/s/axcylc/text_classification_with_python_3_14_s) - [Text classification with Python 3.14&apos;s zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
 * [2026-02-06, 13:11:00](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss) - [Oracle May Lay Off 30,000 and Sell Healthcare Division to Fund AI Buildout](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss)
-* [2026-02-06, 12:54:53](https://lobste.rs/s/j4tnwj/blinc_declarative_reactive_ui_system) - [Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering](https://github.com/project-blinc/Blinc)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 12:30:00](https://news.slashdot.org/story/26/02/06/0722232/canada-unveils-auto-industry-plan-in-latest-pivot-away-from-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canada Unveils Auto Industry Plan in Latest Pivot Away From US](https://news.slashdot.org/story/26/02/06/0722232/canada-unveils-auto-industry-plan-in-latest-pivot-away-from-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 12:16:43](https://news.ycombinator.com/item?id=46911901) - [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
@@ -140,17 +134,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 05:01:00](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Confirms AirDrop Sharing is Coming To Android Phones Beyond Pixels](https://it.slashdot.org/story/26/02/05/1935209/google-confirms-airdrop-sharing-is-coming-to-android-phones-beyond-pixels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 03:59:00](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss) - [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss)
 * [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won&apos;t fix](https://mrbruh.com/amd/)
-* [2026-02-06, 02:00:00](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The European Commission Is Testing an Open Source Alternative To Microsoft Teams](https://slashdot.org/story/26/02/05/1930255/the-european-commission-is-testing-an-open-source-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss)
-* [2026-02-05, 21:38:51](https://news.ycombinator.com/item?id=46905745) - [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
 * [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
 * [2026-02-05, 18:29:00](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss) - [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss)
 * [2026-02-05, 17:50:37](https://news.ycombinator.com/item?id=46902374) - [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://red.anthropic.com/2026/zero-days/)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
-* [2026-02-05, 15:42:35](https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released) - [jujutsu v0.38.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.38.0)
 * [2026-02-05, 14:59:41](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your) - [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 * [2026-02-05, 13:43:00](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss) - [Amutable: Systemd Creator Lennart Poettering Launches New Linux Security Venture](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss)
+* [2026-02-05, 13:40:15](https://news.ycombinator.com/item?id=46899529) - [Show HN: ARM64 Android Dev Kit](https://github.com/denuoweb/ARM64-ADK)
 * [2026-02-05, 11:46:00](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss) - [RIP Didier Spaier](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 09:02:00](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss) - [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss)
@@ -162,10 +154,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss)
 * [2026-02-03, 23:47:00](https://soylentnews.org/article.pl?sid=26/02/02/0050216&amp;from=rss) - [ChatGPT Wrote “Goodnight Moon” Suicide Lullaby for Man Who Later Killed Himself](https://soylentnews.org/article.pl?sid=26/02/02/0050216&amp;from=rss)
 * [2026-02-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss) - [NASA Assembling a Formal Anomaly Review Board for Maven](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss)
-* [2026-02-03, 16:13:23](https://news.ycombinator.com/item?id=46872881) - [The Oklahoma Architect Who Turned Kitsch into Art](https://www.bloomberg.com/news/features/2026-01-31/oklahoma-architect-bruce-goff-s-wild-home-designs-turned-kitsch-into-art)
 * [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
 * [2026-02-03, 14:17:00](https://soylentnews.org/article.pl?sid=26/02/02/0029236&amp;from=rss) - [France Moves Government Departments Off Zoom and MS Teams Onto Homegrown Visio](https://soylentnews.org/article.pl?sid=26/02/02/0029236&amp;from=rss)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 09:29:00](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss) - [$100 Billion Mega Deal Between OpenAI and Nvidia is on Ice](https://soylentnews.org/article.pl?sid=26/02/01/1928214&amp;from=rss)
-* [2026-02-03, 05:38:51](https://news.ycombinator.com/item?id=46866937) - [A century of hair samples proves leaded gas ban worked](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)
+* [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-03, 04:43:00](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss) - [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&amp;from=rss)
