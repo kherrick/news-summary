@@ -1,48 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Challenges in AI Technology
+## Technology and AI Advances
 
-* [Firefox Announces 'AI Controls' To Block Its Upcoming AI Features](https://news.slashdot.org/story/26/02/07/073233/firefox-announces-ai-controls-to-block-its-upcoming-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Mozilla's Firefox introduces new features to help users manage the implementation of AI in its browser.
+* [Waymo Reveals Remote Workers In Philippines Sometimes Advise Its Driverless Cars](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Waymo disclosed that remote workers in the Philippines are occasionally tasked with providing guidance to its autonomous car fleet.
 
-* [New Bill in New York Would Require Disclaimers on AI-Generated News Content](https://news.slashdot.org/story/26/02/06/1958258/new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legislative proposal in New York calls for mandatory disclaimers for AI-generated news content.
+* [Firefox Announces 'AI Controls' To Block Its Upcoming AI Features](https://news.slashdot.org/story/26/02/07/073233/firefox-announces-ai-controls-to-block-its-upcoming-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Firefox introduces tools to let users disable specific AI uses in their browser, ensuring enhanced control over privacy.
 
-* [Claude Code is the Inflection Point](https://developers.slashdot.org/story/26/02/06/1953233/claude-code-is-the-inflection-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A discussion on Claude Code and its transformative role in technological advancements.
+* [Claude Code is the Inflection Point](https://developers.slashdot.org/story/26/02/06/1953233/claude-code-is-the-inflection-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A look into how Claude Code is becoming a groundbreaking development in AI software engineering.
 
-* [AI.com Sells for $70 Million, the Highest Price Ever Disclosed for a Domain Name](https://tech.slashdot.org/story/26/02/06/185213/aicom-sells-for-70-million-the-highest-price-ever-disclosed-for-a-domain-name?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Record-breaking sale of the domain AI.com highlights the booming interest in AI.
+* [Hollywood's AI Bet Isn't Paying Off](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examination of the challenges faced by the entertainment industry in utilizing AI technologies.
 
-* [The UK Government Gets It Spectacularly Wrong On AI](https://soylentnews.org/article.pl?sid=26/02/02/1443223&from=rss) - A critique of the UK Government's recent policies regarding artificial intelligence.
+## Environmental Developments
 
-## Technology and Innovations
+* [Good News: We Saved the Bees. Bad News: We Saved the Wrong Ones.](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Conservation efforts intended to save bee populations have unexpectedly prioritized invasive species over native ones.
 
-* [Reverse-engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600) - A project showcasing the reverse-engineering process of this classic Atari game.
+* [Free Bi-Directional EV Chargers Tested to Improve Massachusetts Power Grid](https://hardware.slashdot.org/story/26/02/07/0624254/free-bi-directional-ev-chargers-tested-to-improve-massachusetts-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Trials for free bi-directional EV chargers are underway in Massachusetts to enhance the power grid's efficiency.
 
-* [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc) - A new approach to enhance Emacs' TRAMP performance.
+## Privacy and Security
 
-* [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/) - A reimagining of a classic strategy game as an open-source project.
+* [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/) - Analysis of declassified Snowden documents begins, shedding light on government surveillance practices.
 
-* [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/) - An interactive tribute to the cult movie 'Hackers'.
+* [New Bill in New York Would Require Disclaimers on AI-Generated News Content](https://news.slashdot.org/story/26/02/06/1958258/new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A proposed New York bill mandates clear disclaimers for AI-generated news to prevent misinformation.
 
-## Environment and Energy
+* [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - Recommendations for users to safeguard their computer data from potential government access.
 
-* [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&from=rss) - Analysis reports show that used electric vehicles present the lowest costs over their lifetime for car buyers.
+## Scientific and Industry Insights
 
-* [Free Bi-Directional EV Chargers Tested to Improve Massachusetts Power Grid](https://hardware.slashdot.org/story/26/02/07/0624254/free-bi-directional-ev-chargers-tested-to-improve-massachusetts-power-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Innovative bi-directional EV chargers being tested in Massachusetts to enhance the power grid.
+* [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/) - Brookhaven National Laboratory's Relativistic Heavy Ion Collider wraps up a quarter-century of groundbreaking scientific research.
 
-* [How much "boilerplate tax" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/) - Insights into programming language density and its effects on productivity.
+* [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&from=rss) - New findings suggest the brain's response post-heart attack could hinder the recovery process.
 
-## Society, Economy, and Policy Impacts
+* [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&from=rss) - Discovering the role gut bacteria play in shaping the taste of premium coffee beans.
 
-* [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/) - An alarming trend of job losses in the U.S., reflecting economic challenges.
+## Economic and Social Commentary
 
-* [Amazon's Tax Bill Plunges 87% After Tax Cuts](https://slashdot.org/story/26/02/06/1918235/amazons-tax-bill-plunges-87-after-tax-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report highlighting the significant tax savings realized by Amazon following tax cuts.
+* [Amazon's Tax Bill Plunges 87% After Tax Cuts](https://slashdot.org/story/26/02/06/1918235/amazons-tax-bill-plunges-87-after-tax-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon sees significant tax reductions following new tax cuts.
 
-* [Memory Prices Have Nearly Doubled Since Last Quarter](https://it.slashdot.org/story/26/02/06/196241/memory-prices-have-nearly-doubled-since-last-quarter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A concern over the rising cost of memory, reflecting its increased demand and limited supply.
+* [Bitcoin Dropped Nearly 30% This Week. But Why?](https://slashdot.org/story/26/02/07/1914240/bitcoin-dropped-nearly-30-this-week-but-why?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analysis of the reasons behind Bitcoin's significant value drop in a short time.
 
-## Technology and Cybersecurity
+## Miscellaneous
 
-* [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&from=rss) - Security concerns rise as hackers infiltrate Notepad++ updates.
+* [US Spy Satellite Agency Declassifies High-Flying Cold War Listening Post](https://soylentnews.org/article.pl?sid=26/02/06/038224&from=rss) - Information about a Cold War-era listening post has been declassified by the U.S. Spy Satellite Agency.
 
-* [How to Stop Microsoft From Letting the Government See Everything on Your Computer](https://soylentnews.org/article.pl?sid=26/02/01/1912232&from=rss) - A guide to safeguard your personal data against possible government snooping.
+* [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) - Veteran game designer Al Lowe shares insights into his creative journey, including his work with Disney.
 
 ---
 
@@ -69,22 +69,34 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-07, 21:41:00](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Reveals Remote Workers In Philippines Sometimes Advise Its Driverless Cars](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
+* [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
+* [2026-02-07, 20:34:00](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Good News: We Saved the Bees. Bad News: We Saved the Wrong Ones.](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-07, 20:19:39](https://lobste.rs/s/vqjoe3/first_proof) - [First Proof](https://arxiv.org/abs/2602.05192)
+* [2026-02-07, 20:09:47](https://lobste.rs/s/cnjgfj/davmail_pop_imap_smtp_caldav_carddav_ldap) - [DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway](https://davmail.sourceforge.net/)
+* [2026-02-07, 19:34:00](https://slashdot.org/story/26/02/07/1914240/bitcoin-dropped-nearly-30-this-week-but-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Dropped Nearly 30% This Week. But Why?](https://slashdot.org/story/26/02/07/1914240/bitcoin-dropped-nearly-30-this-week-but-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-07, 19:18:28](https://lobste.rs/s/xd7x2w/going_through_snowden_documents_part_1) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
+* [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab&apos;s RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+* [2026-02-07, 18:55:50](https://lobste.rs/s/m8nxql/game_boy_advance_d_pad_capacitor) - [Game Boy Advance d-pad capacitor measurements](https://gekkio.fi/blog/2026/game-boy-advance-d-pad-capacitor-measurements/)
 * [2026-02-07, 18:34:00](https://news.slashdot.org/story/26/02/07/073233/firefox-announces-ai-controls-to-block-its-upcoming-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox Announces &apos;AI Controls&apos; To Block Its Upcoming AI Features](https://news.slashdot.org/story/26/02/07/073233/firefox-announces-ai-controls-to-block-its-upcoming-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
-* [2026-02-07, 17:57:19](https://lobste.rs/s/irkhbb/reverse_engineering_raiders_lost_ark_for) - [Reverse-engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-07, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss) - [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss)
+* [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
+* [2026-02-07, 17:45:25](https://news.ycombinator.com/item?id=46925808) - [I write games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
+* [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2026-02-07, 17:34:00](https://apple.slashdot.org/story/26/02/07/0830248/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay](https://apple.slashdot.org/story/26/02/07/0830248/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-07, 17:31:24](https://news.ycombinator.com/item?id=46925669) - [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \&quot;This turns the maintainer into an unwitting vibe coder\&quot;](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 16:34:00](https://hardware.slashdot.org/story/26/02/07/0624254/free-bi-directional-ev-chargers-tested-to-improve-massachusetts-power-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Free Bi-Directional EV Chargers Tested to Improve Massachusetts Power Grid](https://hardware.slashdot.org/story/26/02/07/0624254/free-bi-directional-ev-chargers-tested-to-improve-massachusetts-power-grid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 15:52:42](https://news.ycombinator.com/item?id=46924790) - [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 * [2026-02-07, 15:34:00](https://hardware.slashdot.org/story/26/02/07/0529254/moltbook-reddit-and-the-great-ai-bot-uprising-that-wasnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Moltbook, Reddit, and The Great AI-Bot Uprising That Wasn&apos;t](https://hardware.slashdot.org/story/26/02/07/0529254/moltbook-reddit-and-the-great-ai-bot-uprising-that-wasnt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 15:30:09](https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail) - [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail)
+* [2026-02-07, 15:25:49](https://news.ycombinator.com/item?id=46924591) - [First Proof](https://arxiv.org/abs/2602.05192)
 * [2026-02-07, 15:05:56](https://news.ycombinator.com/item?id=46924426) - [Software factories and the agentic moment](https://factory.strongdm.ai/)
 * [2026-02-07, 14:58:44](https://lobste.rs/s/ocspc1/rememory_split_recovery_key_among) - [ReMemory - Split a recovery key among friends](https://eljojo.github.io/rememory/)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
-* [2026-02-07, 14:13:48](https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020) - [Hacking up your own shell completion (2020)](https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France&apos;s homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:23:48](https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers) - [LLMs could be, but shouldn&apos;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
@@ -100,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-07, 08:16:00](https://soylentnews.org/article.pl?sid=26/02/06/038224&amp;from=rss) - [US Spy Satellite Agency Declassifies High-Flying Cold War Listening Post](https://soylentnews.org/article.pl?sid=26/02/06/038224&amp;from=rss)
 * [2026-02-07, 07:37:03](https://news.ycombinator.com/item?id=46922049) - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
 * [2026-02-07, 07:30:00](https://it.slashdot.org/story/26/02/06/2027244/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-15-million-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Neocities Founder Stuck in Chatbot Hell After Bing Blocked 1.5 Million Sites](https://it.slashdot.org/story/26/02/06/2027244/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-15-million-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-07, 05:37:01](https://lobste.rs/s/pb0c7b/why_i_joined_openai) - [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
 * [2026-02-07, 05:15:15](https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi) - [Bob Beck (OpenBSD) on why vi should stay vi (2006)](https://marc.info/?l=openbsd-misc&amp;m=115820462402673&amp;w=2)
 * [2026-02-07, 05:00:00](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo is Having a Hard Time Stopping For School Buses](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It&apos;s Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss)
@@ -114,49 +125,37 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
-* [2026-02-06, 21:16:36](https://news.ycombinator.com/item?id=46918254) - [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 20:40:00](https://it.slashdot.org/story/26/02/06/1946233/salesforce-shelves-heroku?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Salesforce Shelves Heroku](https://it.slashdot.org/story/26/02/06/1946233/salesforce-shelves-heroku?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-06, 19:40:00](https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hidden Cameras in Chinese Hotels Are Livestreaming Guests To Thousands of Telegram Subscribers](https://yro.slashdot.org/story/26/02/06/1913211/hidden-cameras-in-chinese-hotels-are-livestreaming-guests-to-thousands-of-telegram-subscribers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
-* [2026-02-06, 18:51:58](https://news.ycombinator.com/item?id=46916609) - [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
-* [2026-02-06, 18:40:00](https://tech.slashdot.org/story/26/02/06/185213/aicom-sells-for-70-million-the-highest-price-ever-disclosed-for-a-domain-name?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI.com Sells for $70 Million, the Highest Price Ever Disclosed for a Domain Name](https://tech.slashdot.org/story/26/02/06/185213/aicom-sells-for-70-million-the-highest-price-ever-disclosed-for-a-domain-name?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 18:00:00](https://soylentnews.org/article.pl?sid=26/02/05/133201&amp;from=rss) - [GNU Hurd is \&quot;Almost There\&quot; With X86_64, SMP &amp; ~75% of Debian Packages Building](https://soylentnews.org/article.pl?sid=26/02/05/133201&amp;from=rss)
-* [2026-02-06, 17:50:00](https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Big Tech&apos;s $1.1 Trillion Cloud Computing Backlog](https://slashdot.org/story/26/02/06/1749238/big-techs-11-trillion-cloud-computing-backlog?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-06, 17:45:56](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend)
 * [2026-02-06, 17:39:17](https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress) - [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/)
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \&quot;boilerplate tax\&quot; different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-* [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown&apos;s Bicycle Technical Info](https://www.sheldonbrown.com/)
-* [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
-* [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:11:00](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss) - [Oracle May Lay Off 30,000 and Sell Healthcare Division to Fund AI Buildout](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
 * [2026-02-06, 08:21:00](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss) - [How to Bypass a Parallel Port Dongle](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss)
 * [2026-02-06, 03:59:00](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss) - [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss)
-* [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won&apos;t fix](https://mrbruh.com/amd/)
 * [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss)
 * [2026-02-05, 18:29:00](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss) - [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss)
-* [2026-02-05, 14:59:41](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your) - [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 * [2026-02-05, 13:43:00](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss) - [Amutable: Systemd Creator Lennart Poettering Launches New Linux Security Venture](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss)
 * [2026-02-05, 11:46:00](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss) - [RIP Didier Spaier](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss)
-* [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [Making geo joins faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 09:02:00](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss) - [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss)
 * [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
 * [2026-02-05, 04:15:00](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss) - [Autonomous Cars Vulnerable to Prompt Injection](https://soylentnews.org/article.pl?sid=26/02/02/1450223&amp;from=rss)
 * [2026-02-04, 23:31:00](https://soylentnews.org/article.pl?sid=26/02/02/1443223&amp;from=rss) - [The UK Government Gets It Spectacularly Wrong On AI](https://soylentnews.org/article.pl?sid=26/02/02/1443223&amp;from=rss)
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2026-02-04, 18:47:00](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss) - [Cooler Bedroom Temperatures Help the Heart Recover During Sleep](https://soylentnews.org/article.pl?sid=26/02/02/1438258&amp;from=rss)
+* [2026-02-04, 15:34:37](https://news.ycombinator.com/item?id=46887084) - [The F Word](http://muratbuffalo.blogspot.com/2026/02/friction.html)
 * [2026-02-04, 14:00:00](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&amp;from=rss) - [Review of iwStack.com](https://soylentnews.org/communityreviews/article.pl?sid=26/02/01/0325230&amp;from=rss)
+* [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
 * [2026-02-04, 09:16:00](https://soylentnews.org/article.pl?sid=26/02/02/1228214&amp;from=rss) - [When 20-Year-Old Bill Gates Fought the &apos;Thieves&apos; Who Stole His First Code](https://soylentnews.org/article.pl?sid=26/02/02/1228214&amp;from=rss)
 * [2026-02-04, 04:34:00](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss) - [Research Team Reports Breakthrough in Pancreatic Cancer Treatment](https://soylentnews.org/article.pl?sid=26/02/02/0110236&amp;from=rss)
 * [2026-02-03, 23:47:00](https://soylentnews.org/article.pl?sid=26/02/02/0050216&amp;from=rss) - [ChatGPT Wrote “Goodnight Moon” Suicide Lullaby for Man Who Later Killed Himself](https://soylentnews.org/article.pl?sid=26/02/02/0050216&amp;from=rss)
 * [2026-02-03, 23:31:05](https://news.ycombinator.com/item?id=46878942) - [Selection Rather Than Prediction](https://voratiq.com/blog/selection-rather-than-prediction/)
 * [2026-02-03, 19:04:00](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss) - [NASA Assembling a Formal Anomaly Review Board for Maven](https://soylentnews.org/article.pl?sid=26/02/02/0036232&amp;from=rss)
 * [2026-02-03, 16:40:52](https://news.ycombinator.com/item?id=46873322) - [A Fresh Look at IBM 3270 Information Display System](https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system)
-* [2026-02-03, 15:38:24](https://news.ycombinator.com/item?id=46872319) - [Ga68, a GNU Algol 68 Compiler](https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/)
 * [2026-02-03, 14:17:00](https://soylentnews.org/article.pl?sid=26/02/02/0029236&amp;from=rss) - [France Moves Government Departments Off Zoom and MS Teams Onto Homegrown Visio](https://soylentnews.org/article.pl?sid=26/02/02/0029236&amp;from=rss)
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
