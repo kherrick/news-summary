@@ -1,40 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Trends in Technology and Software Development
+## Technology and Engineering
 
-* [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/) - Exploring the diminishing strategic advantage of proprietary source code in modern software development contexts. [Comments](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore)
+* [A New Era for Security? Anthropic's Claude Opus 4.6 Found 500 High-Severity Vulnerabilities](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A breakthrough in cybersecurity as the AI tool identifies critical vulnerabilities, showcasing the power of modern AI in enhancing system safety.
 
-* [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding) - A look into the evolution of programming paradigms and the push to move beyond traditional coding mentalities. [Comments](https://lobste.rs/s/gvlmu1/beyond_agentic_coding)
+* [The World's First Sodium-Ion Battery in Commercial EVs - Great at Low Temperatures](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Revolutionary battery technology promises improved performance in low temperatures, paving the way for more efficient EVs.
 
-* [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail) - A refreshing take on how failure in Continuous Integration drives better software development. [Comments](https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail)
+* [Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay](https://apple.slashdot.org/story/26/02/07/0830248/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple takes a major step towards integrating third-party AI tools into its ecosystem with CarPlay support.
 
-## Advances and Discussions in Artificial Intelligence
+## Environmental and Social Change
 
-* [Claude Code is the Inflection Point](https://developers.slashdot.org/story/26/02/06/1953233/claude-code-is-the-inflection-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examining the transformative effects of advances in AI-powered coding tools. [Comments](https://developers.slashdot.org/story/26/02/06/1953233/claude-code-is-the-inflection-point)
+* [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&from=rss) - Analysis of human hair samples over the past century reveals the successful impact of the leaded gasoline ban.
 
-* [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/) - The AI industry's growth has cascading effects on other technology sectors. [Comments](https://news.ycombinator.com/item?id=46922969)
+* [Good News: We Saved the Bees. Bad News: We Saved the Wrong Ones.](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Conservation efforts raise questions about the focus of bee-saving initiatives and their broader ecological impact.
 
-* [New Bill in New York Would Require Disclaimers on AI-Generated News Content](https://news.slashdot.org/story/26/02/06/1958258/new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discussing the accountability implications of AI-generated content in news. [Comments](https://news.slashdot.org/story/26/02/06/1958258/new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content)
+## Open Source and Development Innovations
 
-## Software Development Tools and Techniques
+* [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt) - A new AI assistant built in Rust offers local-first processing with persistent memory for enhanced privacy.
 
-* [Tiny C Compiler](https://bellard.org/tcc/) - Unveiling one of the smallest, fastest C compilers on the market. [Comments](https://news.ycombinator.com/item?id=46928435)
+* [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/) - An open-source project breathes new life into the classic Civilization III game.
 
-* [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html) - A minimalistic approach to C compilers, fitting within 512 bytes. [Comments](https://news.ycombinator.com/item?id=46925741)
+* [LLMs could be, but shouldn&apos;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/) - A thought-provoking analysis on the potential and limitations of Large Language Models as code compilers.
 
-* [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python) - Achieving efficient APL-like functionality in just 90 lines of Python code. [Comments](https://lobste.rs/s/zxbykd/golfing_apl_k_90_lines_python)
+## Cultural and Political Trends
 
-## Impact of AI and Technology on Society
+* [The silent death of good code](https://amit.prasad.me/blog/rip-good-code) - A reflection on the disappearing quality of software code in today’s development practices.
 
-* [Good News: We Saved the Bees. Bad News: We Saved the Wrong Ones.](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Focusing on overlooked ecological consequences of bee preservation efforts. [Comments](https://news.slashdot.org/story/26/02/07/033225/good-news-we-saved-the-bees-bad-news-we-saved-the-wrong-ones)
+* [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&from=rss) - France considers regulating VPN usage in a bid to protect minors on social media.
 
-* [Waymo Reveals Remote Workers In Philippines Sometimes Advise Its Driverless Cars](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shedding light on the role of human intervention in autonomous driving. [Comments](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars)
+* [Is the 'Death of Reading' Narrative Wrong?](https://news.slashdot.org/story/26/02/07/2310212/is-the-death-of-reading-narrative-wrong?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reassessing the claim that the art of reading is in decline.
 
-## Historical and Niche Advances
+## Cryptocurrency and Finance
 
-* [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/) - A unique initiative to run Scheme on the WebAssembly platform. [Comments](https://news.ycombinator.com/item?id=46923254)
+* [Bitcoin Dropped Nearly 30% This Week. But Why?](https://slashdot.org/story/26/02/07/1914240/bitcoin-dropped-nearly-30-this-week-but-why?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deep dive into the reasons behind this week's drastic drop in Bitcoin value and its implications.
 
-* [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/) - Commemorating the end of an era for this historic particle physics collider. [Comments](https://news.ycombinator.com/item?id=46926576)
+## Software and Programming
+
+* [SectorC: A C Compiler in 512 bytes (2023)](https://xorvoid.com/sectorc.html) - A fascinating project delivers a compact yet functional C compiler in just 512 bytes.
+
+* [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding) - Exploring the conceptual and practical shift in development through advanced coding paradigms in Haskell.
+
+* [Compiling Prolog to Forth](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf) - A technical dive into an innovative method for compiling Prolog code into Forth.
+
+## AI and Automation
+
+* [Claude Code is the Inflection Point](https://developers.slashdot.org/story/26/02/06/1953233/claude-code-is-the-inflection-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into why Claude Code may represent a pivotal transitional phase in artificial intelligence.
+
+* [Waymo Reveals Remote Workers In Philippines Sometimes Advise Its Driverless Cars](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlighting the human role in monitoring and managing self-driving car performance.
 
 ---
 
@@ -61,16 +73,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss)
+* [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
+* [2026-02-08, 02:34:00](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New Era for Security? Anthropic&apos;s Claude Opus 4.6 Found 500 High-Severity Vulnerabilities](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-08, 02:08:37](https://lobste.rs/s/iszba0/scriptovision_super_micro_script_video) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
+* [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
+* [2026-02-08, 01:39:56](https://lobste.rs/s/eevngu/goto_considered_awesome) - [goto considered awesome](https://www.youtube.com/watch?v=1UKVEUGEk6Y)
+* [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+* [2026-02-08, 01:23:32](https://lobste.rs/s/1mwu6x/implementing_auto_tiling_with_just_5) - [Implementing Auto Tiling With Just 5 Tiles](https://kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
+* [2026-02-08, 01:17:00](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The World&apos;s First Sodium-Ion Battery in Commercial EVs - Great at Low Temperatures](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-08, 00:46:03](https://lobste.rs/s/q8dxd4/avoiding_modern_c) - [Avoiding Modern C++](https://www.youtube.com/watch?v=ShSGHb65f3M)
 * [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
-* [2026-02-07, 23:23:01](https://news.ycombinator.com/item?id=46929391) - [The silent death of Good Code](https://amit.prasad.me/blog/rip-good-code)
+* [2026-02-07, 23:23:01](https://news.ycombinator.com/item?id=46929391) - [The silent death of good code](https://amit.prasad.me/blog/rip-good-code)
 * [2026-02-07, 23:12:00](https://news.slashdot.org/story/26/02/07/2310212/is-the-death-of-reading-narrative-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the &apos;Death of Reading&apos; Narrative Wrong?](https://news.slashdot.org/story/26/02/07/2310212/is-the-death-of-reading-narrative-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 22:34:11](https://lobste.rs/s/zxbykd/golfing_apl_k_90_lines_python) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 * [2026-02-07, 22:32:51](https://lobste.rs/s/7yorzl/compiling_prolog_forth) - [Compiling Prolog to Forth](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
-* [2026-02-07, 22:29:13](https://lobste.rs/s/rfys8y/tinyapl) - [TinyAPL](https://github.com/RubenVerg/TinyAPL)
 * [2026-02-07, 22:25:03](https://news.ycombinator.com/item?id=46928810) - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
-* [2026-02-07, 21:45:54](https://news.ycombinator.com/item?id=46928435) - [Tiny C Compiler](https://bellard.org/tcc/)
 * [2026-02-07, 21:41:00](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo Reveals Remote Workers In Philippines Sometimes Advise Its Driverless Cars](https://tech.slashdot.org/story/26/02/07/2140203/waymo-reveals-remote-workers-in-philippines-sometimes-advise-its-driverless-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
 * [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
@@ -87,7 +107,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-07, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss) - [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss)
 * [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
 * [2026-02-07, 17:45:25](https://news.ycombinator.com/item?id=46925808) - [I write games in C (yes, C) (2016)](https://jonathanwhiting.com/writing/blog/games_in_c/)
-* [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+* [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes (2023)](https://xorvoid.com/sectorc.html)
 * [2026-02-07, 17:34:00](https://apple.slashdot.org/story/26/02/07/0830248/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay](https://apple.slashdot.org/story/26/02/07/0830248/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \&quot;This turns the maintainer into an unwitting vibe coder\&quot;](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
@@ -101,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 13:23:48](https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers) - [LLMs could be, but shouldn&apos;t be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
-* [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 12:59:00](https://soylentnews.org/article.pl?sid=26/02/06/0310232&amp;from=rss) - [The World Factbook Shut Down Unceremonously](https://soylentnews.org/article.pl?sid=26/02/06/0310232&amp;from=rss)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
 * [2026-02-07, 12:27:25](https://lobste.rs/s/lrnqdz/stories_from_25_years_software) - [Stories From 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
@@ -117,18 +136,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-07, 05:00:00](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Waymo is Having a Hard Time Stopping For School Buses](https://tech.slashdot.org/story/26/02/06/1858231/waymo-is-having-a-hard-time-stopping-for-school-buses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 03:28:00](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss) - [AI Agents Now Have Their Own Reddit-Style Social Network, and It&apos;s Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&amp;from=rss)
 * [2026-02-07, 02:00:00](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood&apos;s AI Bet Isn&apos;t Paying Off](https://entertainment.slashdot.org/story/26/02/06/1930222/hollywoods-ai-bet-isnt-paying-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-07, 00:53:44](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document) - [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy)
-* [2026-02-07, 00:01:00](https://slashdot.org/story/26/02/06/1918235/amazons-tax-bill-plunges-87-after-tax-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Tax Bill Plunges 87% After Tax Cuts](https://slashdot.org/story/26/02/06/1918235/amazons-tax-bill-plunges-87-after-tax-cuts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 22:45:00](https://soylentnews.org/article.pl?sid=26/02/06/0248203&amp;from=rss) - [The TV Industry Finally Concedes That the Future May Not be in 8K](https://soylentnews.org/article.pl?sid=26/02/06/0248203&amp;from=rss)
-* [2026-02-06, 22:00:00](https://it.slashdot.org/story/26/02/06/196241/memory-prices-have-nearly-doubled-since-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Memory Prices Have Nearly Doubled Since Last Quarter](https://it.slashdot.org/story/26/02/06/196241/memory-prices-have-nearly-doubled-since-last-quarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-06, 21:51:23](https://news.ycombinator.com/item?id=46918612) - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
-* [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-* [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 18:00:00](https://soylentnews.org/article.pl?sid=26/02/05/133201&amp;from=rss) - [GNU Hurd is \&quot;Almost There\&quot; With X86_64, SMP &amp; ~75% of Debian Packages Building](https://soylentnews.org/article.pl?sid=26/02/05/133201&amp;from=rss)
 * [2026-02-06, 13:11:00](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss) - [Oracle May Lay Off 30,000 and Sell Healthcare Division to Fund AI Buildout](https://soylentnews.org/article.pl?sid=26/02/05/1252238&amp;from=rss)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
-* [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
 * [2026-02-06, 08:21:00](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss) - [How to Bypass a Parallel Port Dongle](https://soylentnews.org/article.pl?sid=26/02/03/0322237&amp;from=rss)
 * [2026-02-06, 03:59:00](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss) - [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss)
 * [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss)
