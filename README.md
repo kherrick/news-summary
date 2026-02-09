@@ -1,44 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Technology Developments
+## AI and Technology Advancements
 
-* [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/) (Comments on [Hacker News](https://news.ycombinator.com/item?id=46949401))
+* [OpenAI Starts Running Ads in ChatGPT](https://slashdot.org/story/26/02/09/1929257/openai-starts-running-ads-in-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI implements advertisements in its AI chatbot, ChatGPT, marking an evolution in monetizing AI technology. [Comments](https://slashdot.org/story/26/02/09/1929257/openai-starts-running-ads-in-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Romance Publishing Has an AI Problem and Most Readers Don't Know It Yet](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Sixteen AI Agents Built a C Compiler From Scratch](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A notable achievement in collaborative AI as sixteen agents develop a C compiler. [Comments](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Autodesk Takes Google To Court Over AI Movie Software Named 'Flow'](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Autodesk Takes Google To Court Over AI Movie Software Named 'Flow'](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal battle emerges between Autodesk and Google over the AI-based movie software 'Flow'. [Comments](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI Gold Rush is Resurrecting China's Infamous 72-hour Work Week - in US](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Privacy and Surveillance
 
-## Technical Innovations and Explorations
+* [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/) - Controversy arises as Ring's AI surveillance-focused Super Bowl ad sparks discussions. [Comments](https://news.ycombinator.com/item?id=46950915)
 
-* [It's Not About the API - Fast, Flexible, and Simple Rendering in Vulkan](https://gamesbymason.com/blog/2026/vulkan/) (Comments on [Lobste.rs](https://lobste.rs/s/myybyg/it_s_not_about_api_fast_flexible_simple))
+* [Discord Will Require a Face Scan or ID for Full Access Next Month](https://yro.slashdot.org/story/26/02/09/161215/discord-will-require-a-face-scan-or-id-for-full-access-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns grow over Discord's planned implementation of mandatory face scans or ID for access. [Comments](https://news.ycombinator.com/item?id=46945663)
 
-* [New Raspberry Pi 4 Model Splits RAM Across Dual Chips](https://hardware.slashdot.org/story/26/02/09/0644255/new-raspberry-pi-4-model-splits-ram-across-dual-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://hardware.slashdot.org/story/26/02/09/0644255/new-raspberry-pi-4-model-splits-ram-across-dual-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [America has a tungsten problem](https://www.noleary.com/blog/posts/1) - Exploration of the U.S.' supply chain issues with tungsten, a critical industrial material. [Comments](https://news.ycombinator.com/item?id=46951057)
 
-* [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) (Comments on [Lobste.rs](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line))
+## Retrofits and Innovations
 
-* [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock) (Comments on [Lobste.rs](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock))
+* [Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world) - An algorithm uncovers the longest Earth's line of sight, an engineering and geographic marvel. [Comments](https://news.ycombinator.com/item?id=46943568)
 
-## Corporate and Industrial News
+* [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/) - Innovation revives past gaming experiences by enhancing audio performance. [Comments](https://news.ycombinator.com/item?id=46948273)
 
-* [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/) (Comments on [Hacker News](https://news.ycombinator.com/item?id=46948708))
+* [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html) - A nostalgic throwback exploring the Quake game compilation process from the late '90s. [Comments](https://lobste.rs/s/ahdqrf/let_s_compile_quake_like_it_s_1997)
 
-* [AT&T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/) (Comments on [Hacker News](https://news.ycombinator.com/item?id=46945497))
+## Societal and Market Challenges
 
-* [Google Lines Up 100-Year Sterling Bond Sale](https://tech.slashdot.org/story/26/02/09/1548222/google-lines-up-100-year-sterling-bond-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://tech.slashdot.org/story/26/02/09/1548222/google-lines-up-100-year-sterling-bond-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [AI Gold Rush is Resurrecting China&apos;s Infamous 72-hour Work Week - in US](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of the grueling work conditions emerging in U.S. amidst the AI tech boom. [Comments](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Social Media Policy and Trends
+* [AT&amp;T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/) - Reports indicate telecom giants obstructing the disclosure of vital security evaluations. [Comments](https://news.ycombinator.com/item?id=46945497)
 
-* [Discord Will Require a Face Scan or ID for Full Access Next Month](https://yro.slashdot.org/story/26/02/09/161215/discord-will-require-a-face-scan-or-id-for-full-access-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) (Comments on [Slashdot](https://yro.slashdot.org/story/26/02/09/161215/discord-will-require-a-face-scan-or-id-for-full-access-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally) (Comments on [Lobste.rs](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default))
-
-## Explorations in Data and Algorithms
-
-* [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/) (Comments on [Hacker News](https://news.ycombinator.com/item?id=46947777))
-
-* [Long-Sought Proof Tames Some of Math's Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/) (Comments on [Hacker News](https://news.ycombinator.com/item?id=46945641))
+* [Taking a Second to Change the Time](https://soylentnews.org/article.pl?sid=26/02/08/0232241&amp;from=rss) - Adjusting global time capacities and its implications discussed. [Comments](https://soylentnews.org/article.pl?sid=26/02/08/0232241&amp;from=rss)
 
 ---
 
@@ -65,14 +57,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-09, 21:50:37](https://lobste.rs/s/dsptog/can_my_sparc_server_host_website) - [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/)
+* [2026-02-09, 21:00:00](https://slashdot.org/story/26/02/09/1929257/openai-starts-running-ads-in-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Starts Running Ads in ChatGPT](https://slashdot.org/story/26/02/09/1929257/openai-starts-running-ads-in-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-09, 20:54:00](https://soylentnews.org/article.pl?sid=26/02/09/0514240&amp;from=rss) - [New York Lawmakers Introduce Bill That Aims to Halt Data Center Development for Three Years](https://soylentnews.org/article.pl?sid=26/02/09/0514240&amp;from=rss)
+* [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
+* [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+* [2026-02-09, 20:31:44](https://news.ycombinator.com/item?id=46950780) - [Upcoming changes to Let&apos;s Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
+* [2026-02-09, 20:00:00](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sixteen AI Agents Built a C Compiler From Scratch](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+* [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+* [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
+* [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 * [2026-02-09, 19:04:16](https://news.ycombinator.com/item?id=46949401) - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
 * [2026-02-09, 19:01:00](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Romance Publishing Has an AI Problem and Most Readers Don&apos;t Know It Yet](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 18:25:21](https://lobste.rs/s/myybyg/it_s_not_about_api_fast_flexible_simple) - [It&apos;s Not About the API - Fast, Flexible, and Simple Rendering in Vulkan](https://gamesbymason.com/blog/2026/vulkan/)
-* [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
-* [2026-02-09, 18:14:08](https://news.ycombinator.com/item?id=46948708) - [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)
+* [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London (2024)](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
 * [2026-02-09, 18:01:00](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Autodesk Takes Google To Court Over AI Movie Software Named &apos;Flow&apos;](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-09, 17:48:24](https://news.ycombinator.com/item?id=46948340) - [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 * [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
 * [2026-02-09, 17:09:37](https://news.ycombinator.com/item?id=46947777) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
@@ -88,18 +89,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-09, 15:11:07](https://news.ycombinator.com/item?id=46946062) - [Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM](https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp)
 * [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
 * [2026-02-09, 14:37:38](https://news.ycombinator.com/item?id=46945663) - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-* [2026-02-09, 14:36:14](https://news.ycombinator.com/item?id=46945641) - [Long-Sought Proof Tames Some of Math&apos;s Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
 * [2026-02-09, 14:22:12](https://news.ycombinator.com/item?id=46945497) - [AT&amp;T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/)
 * [2026-02-09, 14:18:43](https://lobste.rs/s/j8jnqq/six_thoughts_on_generating_c) - [six thoughts on generating c](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
-* [2026-02-09, 14:18:30](https://news.ycombinator.com/item?id=46945471) - [Humans peak in midlife: A combined cognitive and personality trait perspective](https://www.sciencedirect.com/science/article/pii/S0160289625000649)
 * [2026-02-09, 14:12:00](https://tech.slashdot.org/story/26/02/09/1413223/age-bias-is-still-the-default-at-work-but-the-data-is-turning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Age Bias is Still the Default at Work But the Data is Turning](https://tech.slashdot.org/story/26/02/09/1413223/age-bias-is-still-the-default-at-work-but-the-data-is-turning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 14:07:36](https://news.ycombinator.com/item?id=46945348) - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 * [2026-02-09, 13:54:48](https://news.ycombinator.com/item?id=46945235) - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 13:23:42](https://lobste.rs/s/xr8ppc/computers_can_be_understood) - [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
-* [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
 * [2026-02-09, 12:34:00](https://hardware.slashdot.org/story/26/02/09/0644255/new-raspberry-pi-4-model-splits-ram-across-dual-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Raspberry Pi 4 Model Splits RAM Across Dual Chips](https://hardware.slashdot.org/story/26/02/09/0644255/new-raspberry-pi-4-model-splits-ram-across-dual-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 12:24:00](https://soylentnews.org/article.pl?sid=26/02/08/0226226&amp;from=rss) - [Vibe Coding is Killing Open Source Software](https://soylentnews.org/article.pl?sid=26/02/08/0226226&amp;from=rss)
-* [2026-02-09, 12:09:04](https://news.ycombinator.com/item?id=46944365) - [Show HN: Printable Classics – Free printable classic books for hobby bookbinders](https://printableclassics.com)
 * [2026-02-09, 11:55:23](https://lobste.rs/s/pef25i/language_for_agents) - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/)
 * [2026-02-09, 10:35:55](https://lobste.rs/s/manrbz/offpunk_3_0) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:12:06](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line)
@@ -122,21 +119,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss)
 * [2026-02-08, 22:13:34](https://lobste.rs/s/es2peg/minikanren_org) - [miniKanren.org](https://minikanren.org/)
 * [2026-02-08, 22:06:00](https://slashdot.org/story/26/02/08/220228/do-super-bowl-ads-for-ai-signal-a-bubble-about-to-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Super Bowl Ads For AI Signal a Bubble About to Burst?](https://slashdot.org/story/26/02/08/220228/do-super-bowl-ads-for-ai-signal-a-bubble-about-to-burst?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-08, 21:05:24](https://news.ycombinator.com/item?id=46938511) - [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
 * [2026-02-08, 20:42:00](https://tech.slashdot.org/story/26/02/08/2040202/dave-farber-dies-at-age-91?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dave Farber Dies at Age 91](https://tech.slashdot.org/story/26/02/08/2040202/dave-farber-dies-at-age-91?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 20:12:27](https://lobste.rs/s/n4ddir/don_t_get_distracted_2017) - [Don&apos;t Get Distracted (2017)](https://calebhearth.com/dont-get-distracted)
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
-* [2026-02-08, 19:35:00](https://it.slashdot.org/story/26/02/08/1933223/after-six-years-two-pentesters-arrested-in-iowa-receive-600000-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Six Years, Two Pentesters Arrested in Iowa Receive $600,000 Settlement ](https://it.slashdot.org/story/26/02/08/1933223/after-six-years-two-pentesters-arrested-in-iowa-receive-600000-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 19:11:43](https://lobste.rs/s/bnldoy/i_am_happier_writing_code_by_hand) - [I Am Happier Writing Code by Hand](https://abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
-* [2026-02-08, 18:34:00](https://entertainment.slashdot.org/story/26/02/08/1827216/prankster-launches-super-bowl-party-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Prankster Launches Super Bowl Party For AI Agents](https://entertainment.slashdot.org/story/26/02/08/1827216/prankster-launches-super-bowl-party-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 18:08:56](https://lobste.rs/s/gfsl25/ai_fatigue_is_real_nobody_talks_about_it) - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [2026-02-08, 18:07:42](https://lobste.rs/s/bic9qr/rebuilding_my_home_network_with_vlans) - [Rebuilding my home network with VLANs and 10Gbps](https://clintonboys.com/projects/homelab/03-network/)
 * [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&amp;from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&amp;from=rss)
 * [2026-02-08, 17:15:52](https://lobste.rs/s/fgeokt/code_injections_through_git_commit) - [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871)
-* [2026-02-08, 13:59:54](https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr) - [Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:18:37](https://news.ycombinator.com/item?id=46933955) - [Like Game-of-Life, but on Growing Graphs, with WASM and WebGL](https://znah.net/graphs/)
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss)
-* [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss)
 * [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss)
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss)
@@ -151,8 +143,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-06, 03:59:00](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss) - [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&amp;from=rss)
 * [2026-02-05, 23:17:00](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss) - [Overly Involved Parents May Hold Their Kids Back Professionally](https://soylentnews.org/article.pl?sid=26/02/03/0318252&amp;from=rss)
 * [2026-02-05, 18:29:00](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss) - [The Brain’s Response To A Heart Attack May Worsen Recovery](https://soylentnews.org/article.pl?sid=26/02/03/0317238&amp;from=rss)
-* [2026-02-05, 14:20:38](https://news.ycombinator.com/item?id=46899900) - [Roman industrial hub discovered on banks of River Wear](https://www.durham.ac.uk/news-events/latest-news/2026/01/roman-industrial-hub-discovered-on-banks-of-river-wear-/)
+* [2026-02-05, 15:09:45](https://news.ycombinator.com/item?id=46900472) - [Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL](https://github.com/jnidzwetzki/pg-dev-container)
 * [2026-02-05, 13:43:00](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss) - [Amutable: Systemd Creator Lennart Poettering Launches New Linux Security Venture](https://soylentnews.org/article.pl?sid=26/02/02/1520246&amp;from=rss)
+* [2026-02-05, 12:18:59](https://news.ycombinator.com/item?id=46898840) - [Expansion Microscopy Has Transformed How We See the Cellular World](https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/)
 * [2026-02-05, 11:46:00](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss) - [RIP Didier Spaier](https://soylentnews.org/article.pl?sid=26/02/02/150245&amp;from=rss)
 * [2026-02-05, 09:47:53](https://news.ycombinator.com/item?id=46897804) - [What&apos;s the Entropy of a Random Integer?](https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/)
 * [2026-02-05, 09:02:00](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss) - [Exploring How Gut Bacteria Alter the Flavor of Black Ivory Coffee Beans](https://soylentnews.org/article.pl?sid=26/02/02/1453203&amp;from=rss)
