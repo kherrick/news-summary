@@ -1,54 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Security
+## AI and Technology Developments
 
-* [FBI Stymied by Apple's Lockdown Mode After Seizing Journalist's iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&from=rss) - Apple’s enhanced Lockdown Mode presents significant challenges for investigative agencies like the FBI.
+* [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/) - Advocates for a shift in focus from AI generation to critical thinking and problem-solving.
 
-* [Carmakers Rush To Remove Chinese Code Under New US Rules](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Changes in US regulations prompt automakers to eliminate Chinese software from their vehicles.
+* [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) - Explores the growing sentiment around AI overuse and its overlooked consequences.
 
-* [Amazon Delivery Drone Crashes into Texas Apartment Building](https://tech.slashdot.org/story/26/02/08/2321202/amazon-delivery-drone-crashes-into-texas-apartment-building?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An Amazon drone crash raises questions about safety in residential areas.
+* [Anthropic's Claude Opus 4.6 Found 500 High-Severity Vulnerabilities](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Demonstrates how AI tools are advancing in finding critical security flaws.
 
-* [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/) - Researchers reveal a vulnerability in Roundcube Webmail allowing email tracking.
+* [AI Agents Now Have Their Own Reddit-Style Social Network, and It's Getting Weird Fast](https://soylentnews.org/article.pl?sid=26/02/06/031244&from=rss) - Discusses the quirky and evolving behavior within AI-centric digital communities.
 
-* [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&from=rss) - A controversial practice where self-driving cars are remotely assisted by overseas workers is uncovered.
+## Unique Engineering and Tech Projects
 
-* [A New Era for Security? Anthropic's Claude Opus 4.6 Found 500 High-Severity Vulnerabilities](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new security tool, Claude Opus 4.6, spots a massive number of vulnerabilities in systems.
+* [Reverse-engineering the PROM for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/) - A detailed look into decoding and understanding decades-old hardware.
 
-* [Notepad++ update feature hijacked by Chinese state hackers for months](https://soylentnews.org/article.pl?sid=26/02/03/0321201&from=rss) - Exploiting a popular Notepad++ feature, Chinese state hackers infiltrate systems.
+* [Rebuilding my home network with VLANs and 10Gbps](https://clintonboys.com/projects/homelab/03-network/) - A personal deep dive on redesigning a high-speed home network.
 
-## Artificial Intelligence and Emerging Tech
+* [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html) - Brings ancient numeral representation into modern digital typography.
 
-* [NanoClaw now supports Claude's Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874) - Recent updates enable NanoClaw to support Claude’s agent swarms in containerized environments.
+## Societal and Cultural Insights
 
-* [Prankster Launches Super Bowl Party For AI Agents](https://entertainment.slashdot.org/story/26/02/08/1827216/prankster-launches-super-bowl-party-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An unusual prank involving AI agents attending a fictional Super Bowl party.
+* [Job Hunters Are So Desperate That They're Paying to Get Recruited](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2) - Examines a concerning trend in job recruitment practices.
 
-* [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder) - Exploration of how AI simplifies tasks while potentially complicating complex decision-making.
+* [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&from=rss) - Highlights how China balances control and public expression.
 
-* [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) - Insights into the unnoticed exhaustion caused by the ongoing dominance of AI discussions.
+## Science and Environment Innovations
 
-## Open Source and Software Engineering
+* [Why Is China Building So Many Coal Plants Despite Its Solar and Wind Boom?](https://hardware.slashdot.org/story/26/02/08/0233236/why-is-china-building-so-many-coal-plants-despite-its-solar-and-wind-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigates China's simultaneous investment in fossil fuels and renewable energy.
 
-* [SecretSpec 0.7: Declarative Secret Generation - devenv](https://devenv.sh/blog/2026/02/09/secretspec-07-declarative-secret-generation/) - A feature update for securely managing secrets in software projects.
-
-* [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime) - Reevaluation of the utility of the vi editor in the current technological era.
-
-* [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871) - Examination of code repositories’ vulnerability: using Git commits to execute injections.
-
-* [Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?](https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/) - Discussing the future of KDE desktop themes and revisited designs.
-
-* [Reverse-engineering the PROM for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/) - Comprehensive dissection of the PROM firmware in vintage Silicon Graphics hardware.
-
-## Innovative Ideas and Research
-
-* [Scientists Explored Island Cave, Found 1 Million-Year-Old Remnants a Lost World](https://science.slashdot.org/story/26/02/08/0616224/scientists-explored-island-cave-found-1-million-year-old-remnants-a-lost-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Remarkable discoveries from an island cave hinting at ancient ecosystems.
-
-* [The World’s First Sodium-Ion Battery in Commercial EVs - Great at Low Temperatures](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A groundbreaking battery innovation that enhances EV durability in low temperatures.
-
-* [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/) - Ingenious use of obsolete hardware for cutting-edge graphical rendering.
-
-* [Quartz crystals](https://www.pa3fwm.nl/technotes/tn13a.html) - Detailed exploration of natural and technological properties of quartz materials.
-
-* [Willow - Protocols for an uncertain future](https://fosdem.org/2026/schedule/event/CVGZAV-willow/) - Academic presentation on contingency planning using futuristic protocols.
+* [Scientists Explored Island Cave, Found 1 Million-Year-Old Remnants a Lost World](https://science.slashdot.org/story/26/02/08/0616224/scientists-explored-island-cave-found-1-million-year-old-remnants-a-lost-world?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Documents a groundbreaking archaeological find unveiling ancient ecosystems contingent to human history.
 
 ---
 
@@ -75,10 +55,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-09, 07:10:31](https://lobste.rs/s/g9qmmb/web_space_invaders) - [Web­space Invaders](https://matthiasott.com/articles/webspace-invaders)
+* [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here_marc_s_blog) - [You Are Here - Marc&apos;s Blog](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
+* [2026-02-09, 05:36:51](https://lobste.rs/s/2oray0/stop_generating_start_thinking) - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
+* [2026-02-09, 05:34:00](https://science.slashdot.org/story/26/02/09/053208/national-football-league-launches-challenge-to-improve-facemasks-and-reduce-concussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [National Football League Launches Challenge to Improve Facemasks and Reduce Concussions](https://science.slashdot.org/story/26/02/09/053208/national-football-league-launches-challenge-to-improve-facemasks-and-reduce-concussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-09, 05:28:38](https://lobste.rs/s/jnqnqe/nobody_knows_how_whole_system_works) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
+* [2026-02-09, 05:23:37](https://news.ycombinator.com/item?id=46941850) - [Job Hunters Are So Desperate That They&apos;re Paying to Get Recruited](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
+* [2026-02-09, 04:38:14](https://news.ycombinator.com/item?id=46941640) - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+* [2026-02-09, 04:30:38](https://news.ycombinator.com/item?id=46941603) - [Claude&apos;s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 * [2026-02-09, 04:21:24](https://lobste.rs/s/6lutpb/secretspec_0_7_declarative_secret) - [SecretSpec 0.7: Declarative Secret Generation - devenv](https://devenv.sh/blog/2026/02/09/secretspec-07-declarative-secret-generation/)
 * [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss) - [FBI Stymied by Apple&apos;s Lockdown Mode After Seizing Journalist&apos;s iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss)
 * [2026-02-09, 03:45:05](https://lobste.rs/s/9zeao0/fun_with_dada) - [Fun With Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/08/fun-with-dada)
-* [2026-02-09, 03:34:21](https://news.ycombinator.com/item?id=46941280) - [NanoClaw now supports Claude&apos;s Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
 * [2026-02-09, 03:03:29](https://lobste.rs/s/dndxmu/little_bool_doom) - [The little bool of doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-09, 02:34:00](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carmakers Rush To Remove Chinese Code Under New US Rules](https://tech.slashdot.org/story/26/02/09/0030214/carmakers-rush-to-remove-chinese-code-under-new-us-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
@@ -115,38 +102,30 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-08, 17:15:52](https://lobste.rs/s/fgeokt/code_injections_through_git_commit) - [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871)
 * [2026-02-08, 17:08:30](https://news.ycombinator.com/item?id=46936237) - [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books](https://underhillgame.com/)
 * [2026-02-08, 16:34:00](https://science.slashdot.org/story/26/02/08/0616224/scientists-explored-island-cave-found-1-million-year-old-remnants-a-lost-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Explored Island Cave, Found 1 Million-Year-Old Remnants a Lost World](https://science.slashdot.org/story/26/02/08/0616224/scientists-explored-island-cave-found-1-million-year-old-remnants-a-lost-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-08, 16:28:51](https://news.ycombinator.com/item?id=46935791) - [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
-* [2026-02-08, 16:08:23](https://lobste.rs/s/i4idvz/fallen_apple) - [The Fallen Apple](https://mattgemmell.scot/the-fallen-apple/)
 * [2026-02-08, 15:34:00](https://it.slashdot.org/story/26/02/08/0649245/cyber-espionage-group-breached-systems-in-37-nations-security-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyber-Espionage Group Breached Systems in 37 Nations, Security Researchers Say](https://it.slashdot.org/story/26/02/08/0649245/cyber-espionage-group-breached-systems-in-37-nations-security-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 15:32:29](https://lobste.rs/s/h3jg8m/beta_release_predicated_recursive) - [Beta release: Predicated Recursive Descent for Rust](https://wareya.wordpress.com/2026/02/01/beta-release-predicated-recursive-descent-for-rust/)
 * [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)](https://habr.com/en/articles/446238/)
-* [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of “Foo” (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
 * [2026-02-08, 14:26:20](https://lobste.rs/s/k2kwv0/testing_can_be_fun_actually) - [Testing can be fun, actually](https://giacomocavalieri.me/writing/testing-can-be-fun-actually)
 * [2026-02-08, 14:02:58](https://news.ycombinator.com/item?id=46934266) - [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:59:54](https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr) - [Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:40:56](https://news.ycombinator.com/item?id=46934107) - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
-* [2026-02-08, 13:31:14](https://lobste.rs/s/zyyx6b/software_engineering_is_back) - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss)
 * [2026-02-08, 12:34:00](https://science.slashdot.org/story/26/02/08/0545244/brookhaven-lab-shuts-down-relativistic-heavy-ion-collider-rhic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brookhaven Lab Shuts Down Relativistic Heavy Ion Collider (RHIC)](https://science.slashdot.org/story/26/02/08/0545244/brookhaven-lab-shuts-down-relativistic-heavy-ion-collider-rhic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has died](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
 * [2026-02-08, 11:04:07](https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde) - [Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?](https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/)
-* [2026-02-08, 10:13:00](https://news.ycombinator.com/item?id=46932985) - [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
 * [2026-02-08, 08:49:59](https://lobste.rs/s/m5v4gb/willow_protocols_for_uncertain_future) - [Willow - Protocols for an uncertain future](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 08:34:00](https://science.slashdot.org/story/26/02/07/0410235/have-we-been-thinking-about-exercise-wrong-for-half-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Have We Been Thinking About Exercise Wrong for Half a Century?](https://science.slashdot.org/story/26/02/07/0410235/have-we-been-thinking-about-exercise-wrong-for-half-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 08:26:36](https://news.ycombinator.com/item?id=46932444) - [Quartz crystals](https://www.pa3fwm.nl/technotes/tn13a.html)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss)
 * [2026-02-08, 06:21:27](https://news.ycombinator.com/item?id=46931805) - [OpenClaw is changing my life](https://reorx.com/blog/openclaw-is-changing-my-life/)
 * [2026-02-08, 04:35:00](https://hardware.slashdot.org/story/26/02/08/0430252/are-big-techs-nuclear-construction-deals-a-tipping-point-for-small-modular-reactors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Big Tech&apos;s Nuclear Construction Deals a Tipping Point for Small Modular Reactors?](https://hardware.slashdot.org/story/26/02/08/0430252/are-big-techs-nuclear-construction-deals-a-tipping-point-for-small-modular-reactors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-08, 03:51:58](https://lobste.rs/s/jbfw5x/busy_months_kde_linux) - [Busy months in KDE Linux](https://pointieststick.com/2026/02/06/busy-months-in-kde-linux/)
 * [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss)
 * [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://github.com/mitchellh/vouch)
 * [2026-02-08, 02:34:00](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New Era for Security? Anthropic&apos;s Claude Opus 4.6 Found 500 High-Severity Vulnerabilities](https://it.slashdot.org/story/26/02/08/0159234/a-new-era-for-security-anthropics-claude-opus-46-found-500-high-severity-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 01:17:00](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The World&apos;s First Sodium-Ion Battery in Commercial EVs - Great at Low Temperatures](https://tech.slashdot.org/story/26/02/08/0113249/the-worlds-first-sodium-ion-battery-in-commercial-evs---great-at-low-temperatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
-* [2026-02-07, 23:12:00](https://news.slashdot.org/story/26/02/07/2310212/is-the-death-of-reading-narrative-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the &apos;Death of Reading&apos; Narrative Wrong?](https://news.slashdot.org/story/26/02/07/2310212/is-the-death-of-reading-narrative-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
-* [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
 * [2026-02-07, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss) - [Used EVs Currently Offer Car Buyers Lowest Lifetime Cost of Ownership](https://soylentnews.org/article.pl?sid=26/02/06/2359259&amp;from=rss)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \&quot;This turns the maintainer into an unwitting vibe coder\&quot;](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 12:59:00](https://soylentnews.org/article.pl?sid=26/02/06/0310232&amp;from=rss) - [The World Factbook Shut Down Unceremonously](https://soylentnews.org/article.pl?sid=26/02/06/0310232&amp;from=rss)
