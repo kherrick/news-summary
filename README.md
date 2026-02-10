@@ -1,36 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Engineering Innovations
+## Technology Advancements and Innovations
 
-* [A few design decisions for a new chat platform](https://sporks.space/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/) - A post exploring key design decisions for creating a modern, streamlined chat platform. [Comments](https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat).
+* [Making Software](https://lobste.rs/s/zuy0o3/making_software) - Explore insights and developments in software engineering on 'Making Software'. [Comments](https://lobste.rs/s/zuy0o3/making_software).
 
-* [Deepfake Fraud Taking Place On an Industrial Scale, Study Finds](https://tech.slashdot.org/story/26/02/09/1844248/deepfake-fraud-taking-place-on-an-industrial-scale-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research sheds light on the growing use of deepfake technology for large-scale fraud and its potential consequences. [Comments](https://tech.slashdot.org/story/26/02/09/1844248/deepfake-fraud-taking-place-on-an-industrial-scale-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0) - Check out the latest advancements in computer-generated professional infographics with the release of Qwen-Image-2.0. [Comments](https://news.ycombinator.com/item?id=46957198).
 
-* [QFuture <3 C++ coroutines](https://www.arnorehn.de/blog/2026/02/09/qfuture-c-coroutines/) - Examines how QFuture simplifies asynchronous programming with elegant C++ coroutine designs. [Comments](https://lobste.rs/s/pcgyje/qfuture_3_c_coroutines).
+* [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs) - A new Rust-based implementation of Mistral's Voxtral Mini 4B offers real-time processing in your browser. [Comments](https://news.ycombinator.com/item?id=46954136).
 
-## Artificial Intelligence
+* [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - Discover the algorithm behind calculating the Earth's longest line of sight using mathematical optimization techniques. [Comments](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line).
 
-* [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798) - Research reveals ethical lapses of AI agents in high-pressure environments due to conflicting performance goals. [Comments](https://news.ycombinator.com/item?id=46954920).
+## AI Trends and Challenges
 
-* [Sixteen AI Agents Built a C Compiler From Scratch](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An innovative project where AI agents collaborated to construct a functional C compiler. [Comments](https://developers.slashdot.org/story/26/02/09/1948212/sixteen-ai-agents-built-a-c-compiler-from-scratch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/) - Examine the ways AI is transforming labor dynamics, not by reducing work but intensifying it. [Comments](https://news.ycombinator.com/item?id=46955703).
 
-* [Electricity use of AI coding agents](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/) - A critical analysis of the energy requirements of AI-driven code generation tools. [Comments](https://lobste.rs/s/gtjqqn/electricity_use_ai_coding_agents).
+* [Deepfake Fraud Taking Place On an Industrial Scale, Study Finds](https://tech.slashdot.org/story/26/02/09/1844248/deepfake-fraud-taking-place-on-an-industrial-scale-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explore the findings on the surge of industrial-scale deepfake technology and its implications for fraud. [Comments](https://news.ycombinator.com/item?id=46954920).
 
-## Sustainability and Environment
+* [Grindr trials premium $500 per month plan to become 'AI-first' app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/) - Investigate Grindr's ambitious 'AI-first' vision with a premium subscription tier. [Comments](https://news.ycombinator.com/item?id=46957360).
 
-* [Electric Cars Are Making It Easier To Breathe, Study Finds](https://tech.slashdot.org/story/26/02/09/206209/electric-cars-are-making-it-easier-to-breathe-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses health improvements from adopting electric vehicles and their impact on air quality. [Comments](https://tech.slashdot.org/story/26/02/09/206209/electric-cars-are-making-it-easier-to-breathe-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Autodesk Takes Google To Court Over AI Movie Software Named 'Flow'](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal tensions arise over patents involving AI movie production. [Comments](https://news.ycombinator.com/item?id=46949352).
 
-* [SpaceX Prioritizes Lunar 'Self-Growing City' Over Mars Project, Musk Says](https://science.slashdot.org/story/26/02/09/0536231/spacex-prioritizes-lunar-self-growing-city-over-mars-project-musk-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Elon Musk shifts focus to pioneering self-sustaining lunar colonies. [Comments](https://science.slashdot.org/story/26/02/09/0536231/spacex-prioritizes-lunar-self-growing-city-over-mars-project-musk-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Social and Environmental Impacts
 
-* [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do) - Investigates the challenges and controversies surrounding derelict oil tankers globally. [Comments](https://news.ycombinator.com/item?id=46952987).
+* [2 To 3 Cups of Coffee a Day May Reduce Dementia Risk. But Not if It’s Decaf.](https://science.slashdot.org/story/26/02/09/2040213/2-to-3-cups-of-coffee-a-day-may-reduce-dementia-risk-but-not-if-its-decaf?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn about a new study suggesting the cognitive benefits of caffeinated coffee consumption. [Comments](https://news.ycombinator.com/item?id=46957452).
 
-## Programming and Software Development
+* [Electric Cars Are Making It Easier To Breathe, Study Finds](https://tech.slashdot.org/story/26/02/09/206209/electric-cars-are-making-it-easier-to-breathe-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Electric vehicles could be significantly improving air quality and public health, according to recent research. [Comments](https://news.ycombinator.com/item?id=46954983).
 
-* [What Functional Programmers Get Wrong About Systems](https://iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/) - Analyzes common missteps by functional programmers in large-scale systems development. [Comments](https://lobste.rs/s/r2koiq/what_functional_programmers_get_wrong).
+* [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/) - Examine the state of particle physics and the challenges it faces in advancing scientific understanding. [Comments](https://news.ycombinator.com/item?id=46953136).
 
-* [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - Explores computational methods to determine Earth's longest visible distance. [Comments](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line).
+## Cybersecurity and Privacy Updates
 
-* [Better Python tests with inline-snapshot](https://pydantic.dev/articles/inline-snapshot) - Demonstrates improved Python testing techniques using inline-snapshot capabilities. [Comments](https://lobste.rs/s/aciykz/better_python_tests_with_inline_snapshot).
+* [Microsoft Releases Urgent Office Patch While Russian-State Hackers Pounce](https://soylentnews.org/article.pl?sid=26/02/09/0524218&amp;from=rss) - Act against a critical Microsoft Office vulnerability actively exploited by hackers. [Comments](https://news.ycombinator.com/item?id=46955136).
+
+* [FBI Stymied by Apple's Lockdown Mode After Seizing Journalist's iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss) - Apple’s lockdown features thwart FBI attempts amid debates on encryption and access rights. [Comments](https://news.ycombinator.com/item?id=46954612).
+
+* [Discord Will Require a Face Scan or ID for Full Access Next Month](https://yro.slashdot.org/story/26/02/09/161215/discord-will-require-a-face-scan-or-id-for-full-access-next-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Privacy concerns rise as Discord introduces stringent verification protocols for users. [Comments](https://news.ycombinator.com/item?id=46945472).
 
 ---
 
@@ -57,10 +61,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-10, 10:05:37](https://lobste.rs/s/zuy0o3/making_software) - [Making Software](https://www.makingsoftware.com/)
+* [2026-02-10, 09:56:36](https://news.ycombinator.com/item?id=46957495) - [ICE is pushing readers to nonprofit news sites that cover immigrant communities](https://www.niemanlab.org/2026/02/ice-activity-is-pushing-readers-to-nonprofit-news-sites-that-cover-immigrant-communities/)
+* [2026-02-10, 09:39:00](https://news.ycombinator.com/item?id=46957360) - [Grindr trials premium $500 per month plan to become &apos;AI-first&apos; app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/)
+* [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
+* [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
+* [2026-02-10, 09:01:00](https://science.slashdot.org/story/26/02/09/2040213/2-to-3-cups-of-coffee-a-day-may-reduce-dementia-risk-but-not-if-its-decaf?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2 To 3 Cups of Coffee a Day May Reduce Dementia Risk. But Not if It&apos;s Decaf.](https://science.slashdot.org/story/26/02/09/2040213/2-to-3-cups-of-coffee-a-day-may-reduce-dementia-risk-but-not-if-its-decaf?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-10, 08:02:16](https://lobste.rs/s/w5ibgj/portablecc) - [PortableCC](https://github.com/PortableCC)
 * [2026-02-10, 06:33:30](https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat) - [A few design decisions for a new chat platform](https://sporks.space/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/)
 * [2026-02-10, 06:22:00](https://soylentnews.org/article.pl?sid=26/02/09/0524218&amp;from=rss) - [Microsoft Releases Urgent Office Patch While Russian-State Hackers Pounce](https://soylentnews.org/article.pl?sid=26/02/09/0524218&amp;from=rss)
 * [2026-02-10, 06:01:00](https://tech.slashdot.org/story/26/02/09/1844248/deepfake-fraud-taking-place-on-an-industrial-scale-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deepfake Fraud Taking Place On an Industrial Scale, Study Finds](https://tech.slashdot.org/story/26/02/09/1844248/deepfake-fraud-taking-place-on-an-industrial-scale-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c) - [c--](https://www.cs.tufts.edu/%7Enr/c--/)
+* [2026-02-10, 05:19:00](https://news.ycombinator.com/item?id=46955703) - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 * [2026-02-10, 05:18:46](https://lobste.rs/s/pcgyje/qfuture_3_c_coroutines) - [QFuture &lt;3 C++ coroutines](https://www.arnorehn.de/blog/2026/02/09/qfuture-c-coroutines/)
 * [2026-02-10, 04:33:56](https://lobste.rs/s/86y3bb/grumpy_julio_plays_with_cli_coding_agents) - [Grumpy Julio plays with CLI coding agents](https://jmmv.dev/2026/02/one-week-with-claude-code.html)
 * [2026-02-10, 03:45:00](https://tech.slashdot.org/story/26/02/09/206209/electric-cars-are-making-it-easier-to-breathe-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electric Cars Are Making It Easier To Breathe, Study Finds](https://tech.slashdot.org/story/26/02/09/206209/electric-cars-are-making-it-easier-to-breathe-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -70,11 +82,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-10, 01:38:00](https://soylentnews.org/article.pl?sid=26/02/09/0519218&amp;from=rss) - [A Fresh Look at IBM 3270 Information Display System](https://soylentnews.org/article.pl?sid=26/02/09/0519218&amp;from=rss)
 * [2026-02-10, 01:26:42](https://news.ycombinator.com/item?id=46954136) - [Rust implementation of Mistral&apos;s Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
 * [2026-02-10, 01:17:35](https://news.ycombinator.com/item?id=46954049) - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
+* [2026-02-10, 00:46:14](https://news.ycombinator.com/item?id=46953815) - [Zulip.com Values](https://zulip.com/values/)
 * [2026-02-10, 00:28:30](https://lobste.rs/s/gtjqqn/electricity_use_ai_coding_agents) - [Electricity use of AI coding agents](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 * [2026-02-10, 00:11:15](https://lobste.rs/s/9kb1xw/fine_i_ll_try_ai) - [Fine, I&apos;ll Try AI](https://technobabble.bearblog.dev/fine-ill-try-ai/)
 * [2026-02-09, 23:31:15](https://news.ycombinator.com/item?id=46953136) - [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
 * [2026-02-09, 23:23:05](https://lobste.rs/s/wz8ghc/any_general_programming_forums_mailing) - [Any \&quot;General\&quot; Programming Forums Or Mailing Lists?](https://lobste.rs/s/wz8ghc/any_general_programming_forums_mailing)
-* [2026-02-09, 23:17:42](https://news.ycombinator.com/item?id=46952987) - [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
 * [2026-02-09, 22:45:00](https://linux.slashdot.org/story/26/02/09/2034222/linux-70-kernel-confirmed-by-linus-torvalds-expected-in-mid-april-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux 7.0 Kernel Confirmed By Linus Torvalds, Expected In Mid-April 2026](https://linux.slashdot.org/story/26/02/09/2034222/linux-70-kernel-confirmed-by-linus-torvalds-expected-in-mid-april-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 22:01:34](https://news.ycombinator.com/item?id=46952118) - [LiftKit – UI where \&quot;everything derives from the golden ratio\&quot;](https://www.chainlift.io/liftkit)
 * [2026-02-09, 21:50:37](https://lobste.rs/s/dsptog/can_my_sparc_server_host_website) - [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/)
@@ -90,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 * [2026-02-09, 19:01:00](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Romance Publishing Has an AI Problem and Most Readers Don&apos;t Know It Yet](https://news.slashdot.org/story/26/02/09/181212/romance-publishing-has-an-ai-problem-and-most-readers-dont-know-it-yet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
-* [2026-02-09, 18:01:44](https://news.ycombinator.com/item?id=46948533) - [Everyone’s building “async agents,” but almost no one can define them](https://www.omnara.com/blog/what-is-an-async-agent-really)
 * [2026-02-09, 18:01:00](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Autodesk Takes Google To Court Over AI Movie Software Named &apos;Flow&apos;](https://tech.slashdot.org/story/26/02/09/1742213/autodesk-takes-google-to-court-over-ai-movie-software-named-flow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 * [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
@@ -103,9 +114,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 15:31:09](https://news.ycombinator.com/item?id=46946308) - [Sandboxels](https://neal.fun/sandboxels/)
 * [2026-02-09, 15:14:00](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Gold Rush is Resurrecting China&apos;s Infamous 72-hour Work Week - in US](https://slashdot.org/story/26/02/09/1514248/ai-gold-rush-is-resurrecting-chinas-infamous-72-hour-work-week---in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-09, 15:11:07](https://news.ycombinator.com/item?id=46946062) - [Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM](https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp)
 * [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
-* [2026-02-09, 14:47:19](https://lobste.rs/s/daazxz/ruby_newbie_is_joining_ruby_users_forum) - [Ruby Newbie is joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
 * [2026-02-09, 14:37:38](https://news.ycombinator.com/item?id=46945663) - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
 * [2026-02-09, 14:18:43](https://lobste.rs/s/j8jnqq/six_thoughts_on_generating_c) - [six thoughts on generating c](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 14:12:00](https://tech.slashdot.org/story/26/02/09/1413223/age-bias-is-still-the-default-at-work-but-the-data-is-turning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Age Bias is Still the Default at Work But the Data is Turning](https://tech.slashdot.org/story/26/02/09/1413223/age-bias-is-still-the-default-at-work-but-the-data-is-turning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -119,10 +128,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-09, 10:12:06](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line)
 * [2026-02-09, 08:39:00](https://soylentnews.org/article.pl?sid=26/02/07/0352243&amp;from=rss) - [The AI productivity trap: Why your Best Engineers are Getting Slower](https://soylentnews.org/article.pl?sid=26/02/07/0352243&amp;from=rss)
 * [2026-02-09, 08:34:00](https://science.slashdot.org/story/26/02/09/0536231/spacex-prioritizes-lunar-self-growing-city-over-mars-project-musk-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Prioritizes Lunar &apos;Self-Growing City&apos; Over Mars Project, Musk Says](https://science.slashdot.org/story/26/02/09/0536231/spacex-prioritizes-lunar-self-growing-city-over-mars-project-musk-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-09, 08:16:03](https://lobste.rs/s/ahdqrf/let_s_compile_quake_like_it_s_1997) - [Let&apos;s compile Quake like it&apos;s 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
-* [2026-02-09, 05:34:00](https://science.slashdot.org/story/26/02/09/053208/national-football-league-launches-challenge-to-improve-facemasks-and-reduce-concussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [National Football League Launches Challenge to Improve Facemasks and Reduce Concussions](https://science.slashdot.org/story/26/02/09/053208/national-football-league-launches-challenge-to-improve-facemasks-and-reduce-concussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-09, 05:28:38](https://lobste.rs/s/jnqnqe/nobody_knows_how_whole_system_works) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
 * [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss) - [FBI Stymied by Apple&apos;s Lockdown Mode After Seizing Journalist&apos;s iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss)
@@ -132,7 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-08, 12:38:00](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss) - [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&amp;from=rss)
 * [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
 * [2026-02-08, 09:58:31](https://news.ycombinator.com/item?id=46932911) - [MIT Technology Review has confirmed that posts on Moltbook were fake](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)
-* [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
+* [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [The Abstraction Rises](https://cyber-omelette.com/posts/the-abstraction-rises.html)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss)
 * [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss)
 * [2026-02-07, 22:21:00](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss) - [France Might Seek Restrictions on VPN Use in Campaign to Keep Minors Off Social Media](https://soylentnews.org/article.pl?sid=26/02/07/004218&amp;from=rss)
