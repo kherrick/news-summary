@@ -1,46 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Advancements and Programming
+## Artificial Intelligence and Machine Learning
 
-* [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial) - Discusses the approach and benefits of proof-oriented programming using the F* language. [Comments](https://lobste.rs/s/dixmkp/proof_oriented_programming_f)
+* [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012) - Researchers have demonstrated GPT-5's capabilities in legal reasoning tests, surpassing federal judges' abilities.
 
-* [Technical Issues of Separation in Function Cells and Value Cells (1988)](https://www.nhplace.com/kent/Papers/Technical-Issues.html) - A historic exploration of programming principles in the Lisp community. [Comments](https://lobste.rs/s/v1bn0w/technical_issues_separation_function)
+* [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/) - A critical perspective on large language models and their limitations in understanding context and intent.
 
-* [Hylo: A Systems Programming Language All in on Value Semantics and Generic Programming](https://hylo-lang.org/) - Introduces a new systems programming language with a focus on value semantics. [Comments](https://lobste.rs/s/wcak3g/hylo_systems_programming_language_all_on)
+* [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai) - A platform enabling debates across forums using GPT, Claude, and Gemini agents.
 
-* [Newly Discovered Sungrazing Comet C/2026 A1 (MAPS) Could be the Brightest of the Year](https://soylentnews.org/article.pl?sid=26/02/10/036255&from=rss) - Fascinating discovery of a comet expected to be exceptionally bright.
+## Technology and Innovations
 
-## Ethical and Societal Implications of Tech
+* [MIT Scientists Build Terahertz Microscope That Reveals Hidden Superconducting Motion](https://soylentnews.org/article.pl?sid=26/02/10/0830234&from=rss) - A new terahertz microscope uncovers hidden superconducting patterns, enhancing material science research.
 
-* [Anthropic Safety Researcher Quits, Warning 'World is in Peril'](https://slashdot.org/story/26/02/11/1849224/anthropic-safety-researcher-quits-warning-world-is-in-peril?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights from an AI safety researcher warning about pressing global risks. [Comments](https://slashdot.org/story/26/02/11/1849224/anthropic-safety-researcher-quits-warning-world-is-in-peril?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead) - An analysis of the state of Heroku, dispelling myths about its demise.
 
-* [With Ring, American Consumers Built a Surveillance Dragnet](https://yro.slashdot.org/story/26/02/11/1844232/with-ring-american-consumers-built-a-surveillance-dragnet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights how consumer security products contribute to surveillance concerns. [Comments](https://yro.slashdot.org/story/26/02/11/1844232/with-ring-american-consumers-built-a-surveillance-dragnet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/) - A revolutionary game engine that seamlessly integrates with Flutter for developing games.
 
-* [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) - Explores public concerns regarding Amazon's advertisement and surveillance implications. [Comments](https://news.ycombinator.com/item?id=46978966)
+## Privacy and Surveillance
 
-## Artificial Intelligence
+* [With Ring, American Consumers Built a Surveillance Dragnet](https://yro.slashdot.org/story/26/02/11/1844232/with-ring-american-consumers-built-a-surveillance-dragnet?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on how the Ring ecosystem has inadvertently fostered a surveillance culture.
 
-* [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/) - Examination of issues and challenges in large language models (LLMs). [Comments](https://news.ycombinator.com/item?id=46984021)
+* [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) - A backlash follows Ring's ad campaign due to concerns over invasive surveillance technology.
 
-* [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012) - Study showing impressive AI advancements in legal reasoning. [Comments](https://news.ycombinator.com/item?id=46982792)
+* [Discord Tries To Walk Back Age Verification Panic, Says Most Users Won't Need Face Scans](https://yro.slashdot.org/story/26/02/11/0722256/discord-tries-to-walk-back-age-verification-panic-says-most-users-wont-need-face-scans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Discord clarifies their age verification procedures after user concerns over mandatory face scans.
 
-* [Claude Code is being dumbed down?](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/) - Discussion of potential simplifications to Claude Code technology. [Comments](https://news.ycombinator.com/item?id=46978710)
+## Environmental and Scientific Development
 
-* [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai) - An innovative AI-based debate platform. [Comments](https://news.ycombinator.com/item?id=46980273)
+* [A Hellish 'Hothouse Earth' Getting Closer, Scientists Say](https://news.slashdot.org/story/26/02/11/1814253/a-hellish-hothouse-earth-getting-closer-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists warn about the realities of climate change and the potential for a 'Hothouse Earth' scenario.
 
-## Climate and Environmental Themes
+* [Newly Discovered Sungrazing Comet C/2026 A1 (MAPS) Could be the Brightest of the Year](https://soylentnews.org/article.pl?sid=26/02/10/036255&from=rss) - A new comet discovery promises to be a spectacular astrological event this year.
 
-* [A Hellish 'Hothouse Earth' Getting Closer, Scientists Say](https://news.slashdot.org/story/26/02/11/1814253/a-hellish-hothouse-earth-getting-closer-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Highlights the escalating risks of environmental damage. [Comments](https://news.slashdot.org/story/26/02/11/1814253/a-hellish-hothouse-earth-getting-closer-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&from=rss) - New studies reveal how banning leaded gasoline has significantly reduced environmental lead levels.
 
-* [Iceland is Planning For the Possibility That Its Climate Could Become Uninhabitable](https://news.slashdot.org/story/26/02/10/2021208/iceland-is-planning-for-the-possibility-that-its-climate-could-become-uninhabitable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explores Iceland's climate strategies for extreme scenarios. [Comments](https://news.slashdot.org/story/26/02/10/2021208/iceland-is-planning-for-the-possibility-that-its-climate-could-become-uninhabitable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Programming and Software
 
-## Happenings in Open Source
+* [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial) - An exploration of proof-oriented programming using the F* language for software verification.
 
-* [Linux From Scratch Abandoning SysVinit Support](https://soylentnews.org/article.pl?sid=26/02/07/0323222&from=rss) - Update on Linux From Scratch project's significant shift.
+* [Functional programming in m4 (2020)](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html) - Revisiting functional programming with the m4 macro processor in the modern context.
 
-* [Go 1.26 is released](https://go.dev/blog/go1.26) - Highlights changes and features in the latest Go language release. [Comments](https://lobste.rs/s/pybtso/go_1_26_is_released)
-
-* [Programming Aphorisms](https://matklad.github.io/2026/02/11/programming-aphorisms.html) - A collection of insightful computer programming aphorisms. [Comments](https://lobste.rs/s/jljsx4/programming_aphorisms)
+* [Coding with domain logic outside databases (2023)](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/) - Rethinking database usage while avoiding entangling domain logic.
 
 ---
 
@@ -67,7 +65,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-12, 06:00:00](https://apple.slashdot.org/story/26/02/12/0528239/siris-ai-overhaul-delayed-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Siri&apos;s AI Overhaul Delayed Again](https://apple.slashdot.org/story/26/02/12/0528239/siris-ai-overhaul-delayed-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-12, 05:48:00](https://soylentnews.org/article.pl?sid=26/02/10/0830234&amp;from=rss) - [MIT Scientists Build Terahertz Microscope That Reveals Hidden Superconducting Motion](https://soylentnews.org/article.pl?sid=26/02/10/0830234&amp;from=rss)
+* [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
+* [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
 * [2026-02-12, 04:22:26](https://lobste.rs/s/dixmkp/proof_oriented_programming_f) - [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial)
+* [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
 * [2026-02-12, 03:44:00](https://slashdot.org/story/26/02/11/1849224/anthropic-safety-researcher-quits-warning-world-is-in-peril?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Safety Researcher Quits, Warning &apos;World is in Peril&apos;](https://slashdot.org/story/26/02/11/1849224/anthropic-safety-researcher-quits-warning-world-is-in-peril?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-12, 02:03:33](https://news.ycombinator.com/item?id=46984021) - [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
 * [2026-02-12, 01:45:00](https://yro.slashdot.org/story/26/02/11/1844232/with-ring-american-consumers-built-a-surveillance-dragnet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [With Ring, American Consumers Built a Surveillance Dragnet](https://yro.slashdot.org/story/26/02/11/1844232/with-ring-american-consumers-built-a-surveillance-dragnet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -89,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-11, 20:01:00](https://news.slashdot.org/story/26/02/11/1754240/us-had-almost-no-job-growth-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Had Almost No Job Growth in 2025](https://news.slashdot.org/story/26/02/11/1754240/us-had-almost-no-job-growth-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-11, 19:59:17](https://news.ycombinator.com/item?id=46980039) - [Apple&apos;s latest attempt to launch the new Siri runs into snags](https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27)
 * [2026-02-11, 19:50:43](https://news.ycombinator.com/item?id=46979936) - [Microwave Oven Failure: Spontaneously turned on by its LED display (2024)](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
-* [2026-02-11, 19:39:43](https://news.ycombinator.com/item?id=46979781) - [Show HN: Agent framework that generates its own topology and evolves at runtime](https://github.com/adenhq/hive/blob/main/README.md)
 * [2026-02-11, 19:04:31](https://lobste.rs/s/jljsx4/programming_aphorisms) - [Programming Aphorisms](https://matklad.github.io/2026/02/11/programming-aphorisms.html)
 * [2026-02-11, 19:04:15](https://lobste.rs/s/xgacfj/using_databases_without_putting_domain) - [Using Databases Without Putting Domain Logic in Them (2023)](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
 * [2026-02-11, 19:00:00](https://tech.slashdot.org/story/26/02/11/176205/evs-could-be-cheaper-to-own-than-gas-cars-in-africa-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EVs Could Be Cheaper To Own Than Gas Cars in Africa by 2040](https://tech.slashdot.org/story/26/02/11/176205/evs-could-be-cheaper-to-own-than-gas-cars-in-africa-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,10 +104,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-11, 17:00:00](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are CDs Making a Comeback? A Statistical Analysis](https://hardware.slashdot.org/story/26/02/11/1640236/are-cds-making-a-comeback-a-statistical-analysis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-11, 16:39:11](https://news.ycombinator.com/item?id=46977175) - [Ireland rolls out basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)
 * [2026-02-11, 16:21:10](https://news.ycombinator.com/item?id=46976911) - [Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)
-* [2026-02-11, 16:10:37](https://lobste.rs/s/7hjn6w/problem_with_llms) - [The Problem With LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
 * [2026-02-11, 16:07:19](https://lobste.rs/s/noawjw/functional_programming_m4_2020) - [Functional programming in m4 (2020)](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html)
 * [2026-02-11, 16:00:00](https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HP Now Rents Gaming Laptops](https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-11, 15:50:04](https://news.ycombinator.com/item?id=46976443) - [Why vampires live forever](https://machielreyneke.com/blog/vampires-longevity/)
 * [2026-02-11, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/10/0818222&amp;from=rss) - [Discord Will Require a Face Scan or ID for Full Access Next Month](https://soylentnews.org/article.pl?sid=26/02/10/0818222&amp;from=rss)
 * [2026-02-11, 15:00:00](https://slashdot.org/story/26/02/11/1431206/sony-will-ship-its-final-blu-ray-recorders-this-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Will Ship Its Final Blu-ray Recorders This Month](https://slashdot.org/story/26/02/11/1431206/sony-will-ship-its-final-blu-ray-recorders-this-month?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-11, 14:48:51](https://lobste.rs/s/4fla1s/re_identification_risk_vs_k_anonymity) - [Re-Identification Risk vs k-Anonymity](https://www.testingbranch.com/re_identification/)
@@ -117,16 +117,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-11, 12:09:23](https://lobste.rs/s/kp7jlq/windows_notepad_app_remote_code) - [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 * [2026-02-11, 11:57:10](https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems) - [Forwardly-evaluated build systems](https://garnix.io/blog/garn2/)
 * [2026-02-11, 10:53:00](https://soylentnews.org/article.pl?sid=26/02/10/036255&amp;from=rss) - [Newly Discovered Sungrazing Comet C/2026 A1 (MAPS) Could be the Brightest of the Year](https://soylentnews.org/article.pl?sid=26/02/10/036255&amp;from=rss)
+* [2026-02-11, 10:37:49](https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for) - [PAX: The Cache Performance You&apos;re Looking For](https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/)
 * [2026-02-11, 09:04:00](https://news.ycombinator.com/item?id=46972610) - [Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 * [2026-02-11, 09:00:00](https://yro.slashdot.org/story/26/02/11/0722256/discord-tries-to-walk-back-age-verification-panic-says-most-users-wont-need-face-scans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord Tries To Walk Back Age Verification Panic, Says Most Users Won&apos;t Need Face Scans](https://yro.slashdot.org/story/26/02/11/0722256/discord-tries-to-walk-back-age-verification-panic-says-most-users-wont-need-face-scans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-11, 08:17:48](https://lobste.rs/s/vvg4oz/transducer_ate_our_heap) - [The Transducer That Ate Our Heap](https://www.reddit.com/r/Clojure/comments/1r179s1/the_transducer_that_ate_our_heap/)
 * [2026-02-11, 06:05:00](https://soylentnews.org/article.pl?sid=26/02/10/0257251&amp;from=rss) - [Microsoft Does Something Useful, Adds Sysmon to Windows](https://soylentnews.org/article.pl?sid=26/02/10/0257251&amp;from=rss)
 * [2026-02-11, 06:00:00](https://slashdot.org/story/26/02/10/2028238/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The First Signs of Burnout Are Coming From the People Who Embrace AI the Most](https://slashdot.org/story/26/02/10/2028238/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-11, 03:45:00](https://news.slashdot.org/story/26/02/10/2021208/iceland-is-planning-for-the-possibility-that-its-climate-could-become-uninhabitable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iceland is Planning For the Possibility That Its Climate Could Become Uninhabitable](https://news.slashdot.org/story/26/02/10/2021208/iceland-is-planning-for-the-possibility-that-its-climate-could-become-uninhabitable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-11, 01:32:18](https://lobste.rs/s/tryiax/google_chrome_145_released_with_jpeg_xl) - [Google Chrome 145 Released With JPEG-XL Image Support](https://www.phoronix.com/news/Chrome-145-Released)
 * [2026-02-11, 01:20:00](https://soylentnews.org/article.pl?sid=26/02/10/0251250&amp;from=rss) - [Ask SN - \&quot;Opt-Out Signal Honored\&quot; - Screen Message](https://soylentnews.org/article.pl?sid=26/02/10/0251250&amp;from=rss)
 * [2026-02-10, 23:47:35](https://lobste.rs/s/wcak3g/hylo_systems_programming_language_all_on) - [Hylo: A Systems Programming Language All in on Value Semantics and Generic Programming](https://hylo-lang.org/)
-* [2026-02-10, 23:12:36](https://news.ycombinator.com/item?id=46968374) - [We rendered and embedded one million CAD files](https://cad-search-three.vercel.app/)
 * [2026-02-10, 22:17:33](https://lobste.rs/s/kjbrep/day_telnet_died) - [The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 21:02:03](https://lobste.rs/s/gipvta/cysqlite_new_sqlite_driver) - [cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/)
 * [2026-02-10, 20:33:00](https://soylentnews.org/article.pl?sid=26/02/09/1936243&amp;from=rss) - [AI.Com&apos;s $85 Million Super Bowl Ad Campaign Falls Foul as Traffic Crashes Servers](https://soylentnews.org/article.pl?sid=26/02/09/1936243&amp;from=rss)
@@ -142,11 +141,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-09, 20:54:00](https://soylentnews.org/article.pl?sid=26/02/09/0514240&amp;from=rss) - [New York Lawmakers Introduce Bill That Aims to Halt Data Center Development for Three Years](https://soylentnews.org/article.pl?sid=26/02/09/0514240&amp;from=rss)
 * [2026-02-09, 19:29:53](https://news.ycombinator.com/item?id=46949814) - [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
 * [2026-02-09, 16:09:00](https://soylentnews.org/article.pl?sid=26/02/08/0232241&amp;from=rss) - [Taking a Second to Change the Time](https://soylentnews.org/article.pl?sid=26/02/08/0232241&amp;from=rss)
+* [2026-02-09, 14:57:25](https://news.ycombinator.com/item?id=46945907) - [HeyWhatsThat](https://www.heywhatsthat.com/faq.html)
 * [2026-02-09, 12:24:00](https://soylentnews.org/article.pl?sid=26/02/08/0226226&amp;from=rss) - [Vibe Coding is Killing Open Source Software](https://soylentnews.org/article.pl?sid=26/02/08/0226226&amp;from=rss)
 * [2026-02-09, 08:39:00](https://soylentnews.org/article.pl?sid=26/02/07/0352243&amp;from=rss) - [The AI productivity trap: Why your Best Engineers are Getting Slower](https://soylentnews.org/article.pl?sid=26/02/07/0352243&amp;from=rss)
 * [2026-02-09, 08:14:28](https://news.ycombinator.com/item?id=46942864) - [Text classification with Python 3.14&apos;s ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
 * [2026-02-09, 03:54:00](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss) - [FBI Stymied by Apple&apos;s Lockdown Mode After Seizing Journalist&apos;s iPhone](https://soylentnews.org/article.pl?sid=26/02/07/0347222&amp;from=rss)
-* [2026-02-09, 03:49:52](https://news.ycombinator.com/item?id=46941383) - [Sekka Zusetsu: A Book of Snowflakes (1832)](https://publicdomainreview.org/collection/japanese-snowflake-book/)
 * [2026-02-08, 23:12:00](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss) - [Russian Spy Satellites Have Intercepted EU Communications Satellites](https://soylentnews.org/article.pl?sid=26/02/07/0338257&amp;from=rss)
 * [2026-02-08, 19:09:28](https://news.ycombinator.com/item?id=46937427) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-08, 17:24:00](https://soylentnews.org/article.pl?sid=26/02/07/0328238&amp;from=rss) - [Lessons from China’s Delicate Dance of Censorship and Expression](https://soylentnews.org/article.pl?sid=26/02/07/0328238&amp;from=rss)
@@ -154,3 +153,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-08, 12:01:50](https://news.ycombinator.com/item?id=46933529) - [“Nothing” is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
 * [2026-02-08, 07:57:00](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss) - [Self-Driving Cars In ‘Difficult Driving Situations’ Are Guided By Random Filipinos Overseas](https://soylentnews.org/article.pl?sid=26/02/07/009242&amp;from=rss)
 * [2026-02-08, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss) - [A Century of Hair Samples Proves Leaded Gas Ban Worked](https://soylentnews.org/article.pl?sid=26/02/07/006217&amp;from=rss)
+* [2026-02-08, 02:03:27](https://news.ycombinator.com/item?id=46930602) - [The Other Markov&apos;s Inequality](https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/)
