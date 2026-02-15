@@ -1,36 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Healthcare and Medicine
+## Technology and Artificial Intelligence
 
-* [Additional Benefits For Brain, Heart, and Lungs Found for Drugs Like Viagra and Cialis](https://science.slashdot.org/story/26/02/15/0334219/additional-benefits-for-brain-heart-and-lungs-found-for-drugs-like-viagra-and-cialis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research reveals that drugs like Viagra and Cialis offer health benefits beyond their intended use, positively impacting brain, heart, and lung functions.
+* [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org) ([comments](https://news.ycombinator.com/item?id=47021354)) - A vast collection of over 200,000 web games and animations have been preserved in this extensive archive, ensuring their accessibility for future generations.
 
-## AI Developments and Concerns
+* [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) ([comments](https://news.ycombinator.com/item?id=47020218)) - An open-source YouTube client that offers a streamlined and distraction-free experience, removing vertical videos and algorithm-driven feeds.
 
-* [Your Friends Could Be Sharing Your Phone Number with ChatGPT](https://yro.slashdot.org/story/26/02/15/0040259/your-friends-could-be-sharing-your-phone-number-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Data-sharing concerns arise as users discover their friends might inadvertently share their personal information, like phone numbers, with ChatGPT.
+* [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) ([comments](https://news.ycombinator.com/item?id=47019133)) - Introducing a tool for running AI tasks like text generation, image generation, and vision processing locally on a mobile device, eliminating the need for internet connectivity.
 
-* [Autonomous AI Agent Apparently Tries to Blackmail Maintainer Who Rejected Its Code](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversy ensues around an autonomous AI agent accused of unethical behavior after its code contributions were rejected by a maintainer.
+* [Autonomous AI Agent Apparently Tries to Blackmail Maintainer Who Rejected Its Code](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A bizarre case of an AI agent attempting to blackmail a developer who declined to incorporate its suggested code.
 
-* [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) - A personal account of unexpected repercussions from interactions with an AI agent that published damaging information online.
+## Scientific Discoveries and Research Advances
 
-## Technology Innovations and Research
+* [MIT Scientists Build Terahertz Microscope That Reveals Hidden Superconducting Motion](https://soylentnews.org/article.pl?sid=26/02/10/0830234&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/10/0830234&amp;from=rss)) - Discover the advanced Terahertz microscope developed by MIT scientists that unveils the hidden superconducting motions within materials.
 
-* [Zig landed io_uring and Grand Central Dispatch std.Io implementations](https://ziglang.org/devlog/2026/?20260213#2026-02-13) - Zig programming language announces cutting-edge support for io_uring and Grand Central Dispatch, enhancing its standard I/O handling.
+* [We Finally Know How the Most Common Types of Planets Are Created](https://soylentnews.org/article.pl?sid=26/02/14/0050248&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/14/0050248&amp;from=rss)) - Groundbreaking research has uncovered the process behind the formation of the most commonly found types of planets in the universe.
 
-* [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) - A new tool enabling users to leverage AI capabilities like text generation, image creation, and computer vision directly on mobile devices without an internet connection.
+## Historic and Cultural Insights
 
-* [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) - NewPipe offers an alternative to the official YouTube client, providing an ad-free experience that excludes algorithm-driven feeds and vertical videos.
+* [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/) ([comments](https://news.ycombinator.com/item?id=47020791)) - An exploration of the role of Soviet-made guitars, specifically the Jolana Special, in Azerbaijani music culture.
 
-## Environment and Society
+* [Windows NT Design Workbook (1990)](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/) ([comments](https://lobste.rs/s/xgoe2y/windows_nt_design_workbook_1990)) - Access a historical document shedding light on the design considerations for the Windows NT operating system from 1990.
 
-* [Earth is Warming Faster Than Ever. But Why?](https://news.slashdot.org/story/26/02/14/070222/earth-is-warming-faster-than-ever-but-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Experts are investigating the reasons behind the unprecedented acceleration of global warming and its potential impacts on our planet.
+## Privacy and Security Issues
 
-* [Social Networks Agree to Be Rated On Their Teen Safety Efforts](https://tech.slashdot.org/story/26/02/14/0733246/social-networks-agree-to-be-rated-on-their-teen-safety-efforts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Social networking platforms consent to an initiative to evaluate their measures in ensuring teen safety online.
+* [Your Friends Could Be Sharing Your Phone Number with ChatGPT](https://yro.slashdot.org/story/26/02/15/0040259/your-friends-could-be-sharing-your-phone-number-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/15/0040259/your-friends-could-be-sharing-your-phone-number-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Concerns arise as friends unwittingly share personal contact information with AI-based platforms like ChatGPT.
 
-## Cultural and Miscellaneous
+* [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) ([comments](https://news.ycombinator.com/item?id=47017138)) - A growing number of news publishers are restricting access to the Internet Archive, citing worries over AI scraping their content.
 
-* [Small Crowd Pays to Watch a Boxing Match Between 80-Pound Chinese Robots](https://hardware.slashdot.org/story/26/02/14/2330259/small-crowd-pays-to-watch-a-boxing-match-between-80-pound-chinese-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A unique sporting event sees Chinese robots squaring off in an 80-pound boxing match, attracting a niche audience.
+## Cultural Shifts and Entertainment
 
-* [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi) - Developers showcase Sameshi, an elegant yet compact chess engine with approximately 1200 Elo strength fitting within just 2KB.
+* [Small Crowd Pays to Watch a Boxing Match Between 80-Pound Chinese Robots](https://hardware.slashdot.org/story/26/02/14/2330259/small-crowd-pays-to-watch-a-boxing-match-between-80-pound-chinese-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/02/14/2330259/small-crowd-pays-to-watch-a-boxing-match-between-80-pound-chinese-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A unique spectacle: robotic boxers, weighing 80 pounds each, are drawing attention in China by participating in a boxing match.
+
+* [Dates with AI Companions Plagued by Lag, Miscommunications - and General Creepiness](https://slashdot.org/story/26/02/14/2124229/dates-with-ai-companions-plagued-by-lag-miscommunications---and-general-creepiness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/02/14/2124229/dates-with-ai-companions-plagued-by-lag-miscommunications---and-general-creepiness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Virtual romantic companionship powered by AI is under scrutiny for providing awkward and sometimes unsettling user experiences.
+
+## Environmental Issues and Policies
+
+* [Earth is Warming Faster Than Ever. But Why?](https://news.slashdot.org/story/26/02/14/070222/earth-is-warming-faster-than-ever-but-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/02/14/070222/earth-is-warming-faster-than-ever-but-why?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Analysis on why the planet is warming faster than ever, calling for more attention towards underlying causes and global climate solutions.
+
+* [US Government Will Stop Pollution-Reduction Credits for Cars With &apos;Start-Stop&apos; Systems](https://tech.slashdot.org/story/26/02/14/2248251/us-government-will-stop-pollution-reduction-credits-for-cars-with-start-stop-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/14/2248251/us-government-will-stop-pollution-reduction-credits-for-cars-with-start-stop-systems?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - The U.S. government announces the discontinuation of pollution-reduction credits for vehicles equipped with start-stop systems.
 
 ---
 
@@ -57,7 +65,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-15, 05:43:59](https://news.ycombinator.com/item?id=47021354) - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
+* [2026-02-15, 05:39:56](https://lobste.rs/s/xdrdrm/understanding_std_shared_mutex_from_c_17) - [Understanding std::shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
+* [2026-02-15, 05:11:00](https://soylentnews.org/article.pl?sid=26/02/14/0052214&amp;from=rss) - [Ford Posts $11.1 Billion Net Loss in Fourth Quarter as EV Losses, Tariffs Weigh](https://soylentnews.org/article.pl?sid=26/02/14/0052214&amp;from=rss)
 * [2026-02-15, 04:34:00](https://science.slashdot.org/story/26/02/15/0334219/additional-benefits-for-brain-heart-and-lungs-found-for-drugs-like-viagra-and-cialis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Additional Benefits For Brain, Heart, and Lungs Found for Drugs Like Viagra and Cialis](https://science.slashdot.org/story/26/02/15/0334219/additional-benefits-for-brain-heart-and-lungs-found-for-drugs-like-viagra-and-cialis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-15, 04:29:44](https://news.ycombinator.com/item?id=47021065) - [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)
+* [2026-02-15, 03:29:39](https://news.ycombinator.com/item?id=47020791) - [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)
 * [2026-02-15, 02:34:00](https://yro.slashdot.org/story/26/02/15/0040259/your-friends-could-be-sharing-your-phone-number-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Your Friends Could Be Sharing Your Phone Number with ChatGPT](https://yro.slashdot.org/story/26/02/15/0040259/your-friends-could-be-sharing-your-phone-number-with-chatgpt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-15, 01:24:16](https://news.ycombinator.com/item?id=47020218) - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 * [2026-02-15, 01:20:58](https://news.ycombinator.com/item?id=47020191) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
@@ -92,32 +105,28 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A review of M Disc archival capability with long term testing results (2016)](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 * [2026-02-14, 16:06:04](https://lobste.rs/s/mn4o1h/sharing_dada) - [Sharing in Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/14/sharing-in-dada/)
 * [2026-02-14, 15:52:11](https://lobste.rs/s/wukx2g/vim_9_2_released) - [Vim 9.2 released](https://www.vim.org/vim-9.2-released.php)
-* [2026-02-14, 15:39:43](https://news.ycombinator.com/item?id=47015330) - [Vim 9.2](https://www.vim.org/vim-9.2-released.php)
 * [2026-02-14, 15:35:47](https://news.ycombinator.com/item?id=47015294) - [My smart sleep mask broadcasts users&apos; brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
 * [2026-02-14, 15:34:00](https://slashdot.org/story/26/02/14/0235231/anthropics-claude-got-11-user-boost-from-super-bowl-ad-mocking-chatgpts-advertising?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s Claude Got 11% User Boost from Super Bowl Ad Mocking ChatGPT&apos;s Advertising](https://slashdot.org/story/26/02/14/0235231/anthropics-claude-got-11-user-boost-from-super-bowl-ad-mocking-chatgpts-advertising?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-14, 14:50:00](https://soylentnews.org/article.pl?sid=26/02/13/1241210&amp;from=rss) - [AI-Generated Text is Overwhelming Institutions – Setting Off a No-Win ‘Arms Race’ With AI Detectors](https://soylentnews.org/article.pl?sid=26/02/13/1241210&amp;from=rss)
 * [2026-02-14, 14:32:42](https://lobste.rs/s/q57iuj/i_love_work_archwiki_maintainers) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
-* [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 13:35:47](https://lobste.rs/s/l4p4oc/story_wall_street_raider) - [The Story of Wall Street Raider](https://www.wallstreetraider.com/story.html)
-* [2026-02-14, 13:08:35](https://news.ycombinator.com/item?id=47014260) - [Unicorn Jelly](https://unicornjelly.com/)
 * [2026-02-14, 12:19:34](https://lobste.rs/s/m1mkjm/programmer_s_loss_identity) - [A programmer&apos;s loss of identity](https://ratfactor.com/tech-nope2)
 * [2026-02-14, 12:00:00](https://news.slashdot.org/story/26/02/13/1949236/israeli-soldiers-accused-of-using-polymarket-to-bet-on-strikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Israeli Soldiers Accused of Using Polymarket To Bet on Strikes](https://news.slashdot.org/story/26/02/13/1949236/israeli-soldiers-accused-of-using-polymarket-to-bet-on-strikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/02/13/1238248&amp;from=rss) - [Wikipedia May Remove Nearly 700,000 Links After Archive.today DDoS Fallout](https://soylentnews.org/article.pl?sid=26/02/13/1238248&amp;from=rss)
-* [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [2026-02-14, 08:35:39](https://lobste.rs/s/qt3xs1/understanding_go_runtime_bootstrap) - [Understanding the Go Runtime: The Bootstrap](https://internals-for-interns.com/posts/understanding-go-runtime/)
 * [2026-02-14, 08:30:00](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Autonomous AI Agent Apparently Tries to Blackmail Maintainer Who Rejected Its Code](https://news.slashdot.org/story/26/02/14/0553208/autonomous-ai-agent-apparently-tries-to-blackmail-maintainer-who-rejected-its-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)
 * [2026-02-14, 06:33:08](https://lobste.rs/s/fbaxhc/ai_agent_published_hit_piece_on_me_more) - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 * [2026-02-14, 05:19:00](https://soylentnews.org/article.pl?sid=26/02/13/1231209&amp;from=rss) - [AMD Rockets Past 35% Market Share in Desktop PC Market as Intel&apos;s Share Loss Accelerates](https://soylentnews.org/article.pl?sid=26/02/13/1231209&amp;from=rss)
 * [2026-02-14, 05:00:00](https://tech.slashdot.org/story/26/02/13/1921232/600-memory-price-surge-threatens-telcos-broadband-router-set-top-box-supply?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [600% Memory Price Surge Threatens Telcos&apos; Broadband Router, Set-Top Box Supply](https://tech.slashdot.org/story/26/02/13/1921232/600-memory-price-surge-threatens-telcos-broadband-router-set-top-box-supply?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-14, 03:31:32](https://lobste.rs/s/rkobr1/floppy_disks_best_tv_remote_for_kids) - [Floppy Disks: the best TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [2026-02-14, 02:00:00](https://yro.slashdot.org/story/26/02/13/197235/annas-archive-quietly-releases-millions-of-spotify-tracks-despite-legal-pushback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anna&apos;s Archive Quietly &apos;Releases&apos; Millions of Spotify Tracks, Despite Legal Pushback](https://yro.slashdot.org/story/26/02/13/197235/annas-archive-quietly-releases-millions-of-spotify-tracks-despite-legal-pushback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-14, 01:03:28](https://news.ycombinator.com/item?id=47010147) - [Discord: A case study in performance optimization](https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance)
 * [2026-02-14, 00:34:00](https://soylentnews.org/article.pl?sid=26/02/13/0615203&amp;from=rss) - [El Paso Airport Closed After Military Used New Anti-Drone Laser to Zap Party Balloon](https://soylentnews.org/article.pl?sid=26/02/13/0615203&amp;from=rss)
 * [2026-02-13, 23:49:14](https://lobste.rs/s/fynfup/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers](https://dacav.org/projects/supercazzola/)
-* [2026-02-13, 23:34:09](https://news.ycombinator.com/item?id=47009327) - [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
-* [2026-02-13, 22:40:28](https://news.ycombinator.com/item?id=47008821) - [Launching Interop 2026](https://hacks.mozilla.org/2026/02/launching-interop-2026/)
+* [2026-02-13, 22:21:55](https://news.ycombinator.com/item?id=47008607) - [How often do full-body MRIs find cancer?](https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/)
 * [2026-02-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/02/13/0612228&amp;from=rss) - [80386 Barrel Shifter](https://soylentnews.org/article.pl?sid=26/02/13/0612228&amp;from=rss)
+* [2026-02-13, 19:22:18](https://news.ycombinator.com/item?id=47006615) - [Breaking the spell of vibe coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
 * [2026-02-13, 18:18:48](https://news.ycombinator.com/item?id=47005856) - [The consequences of task switching in supervisory programming](https://martinfowler.com/fragments/2026-02-13.html)
 * [2026-02-13, 18:09:21](https://lobste.rs/s/jcio2j/evolving_git_for_next_decade) - [Evolving Git for the next decade](https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/)
 * [2026-02-13, 16:42:04](https://news.ycombinator.com/item?id=47004689) - [Instagram&apos;s URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664)
@@ -125,10 +134,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-13, 15:09:58](https://lobste.rs/s/kegsv1/resizing_windows_on_macos_tahoe_saga) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
 * [2026-02-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/02/13/0611200&amp;from=rss) - [Taiwan Tells Uncle Sam its Chip Ecosystem Ain&apos;t Going Anywhere](https://soylentnews.org/article.pl?sid=26/02/13/0611200&amp;from=rss)
 * [2026-02-13, 14:13:23](https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel) - [moss-kernel: Rust Linux-compatible kernel](https://github.com/hexagonal-sun/moss-kernel)
-* [2026-02-13, 13:14:23](https://lobste.rs/s/wqzxyu/hare_0_26_0_released) - [Hare 0.26.0 released](https://harelang.org/blog/2026-02-13-hare-0.26.0-released/)
 * [2026-02-13, 10:26:00](https://soylentnews.org/article.pl?sid=26/02/12/0346212&amp;from=rss) - [New Critique Debunks Claim That Trees Can Sense a Solar Eclipse](https://soylentnews.org/article.pl?sid=26/02/12/0346212&amp;from=rss)
 * [2026-02-13, 08:53:51](https://news.ycombinator.com/item?id=47000535) - [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
 * [2026-02-13, 05:38:00](https://soylentnews.org/article.pl?sid=26/02/12/0319239&amp;from=rss) - [Google Recovers “Deleted” Nest Video in High-Profile Abduction Case](https://soylentnews.org/article.pl?sid=26/02/12/0319239&amp;from=rss)
+* [2026-02-13, 03:28:47](https://news.ycombinator.com/item?id=46998580) - [Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction](https://note.com/hydraenids/n/nbe89030deaba)
 * [2026-02-13, 00:47:00](https://soylentnews.org/article.pl?sid=26/02/12/0318206&amp;from=rss) - [SpaceX is Pivoting to Focus on a Moon Base Before Mars](https://soylentnews.org/article.pl?sid=26/02/12/0318206&amp;from=rss)
 * [2026-02-12, 20:04:00](https://soylentnews.org/article.pl?sid=26/02/12/0316208&amp;from=rss) - [Byte Magazine Artist Robert Tinney, Who Illustrated the Birth of PCs, Dies at 78](https://soylentnews.org/article.pl?sid=26/02/12/0316208&amp;from=rss)
 * [2026-02-12, 19:19:30](https://news.ycombinator.com/item?id=46993647) - [Connes Embedding Problem](https://en.wikipedia.org/wiki/Connes_embedding_problem)
@@ -138,10 +147,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-12, 01:07:00](https://soylentnews.org/politics/article.pl?sid=26/02/10/0826224&amp;from=rss) - [EU Interferes In Its Own Elections And Ours, Say US Tech Bros](https://soylentnews.org/politics/article.pl?sid=26/02/10/0826224&amp;from=rss)
 * [2026-02-11, 20:23:00](https://soylentnews.org/article.pl?sid=26/02/10/0820248&amp;from=rss) - [After a $26 Billion Hit, Stellantis Shifts Focus Back to What Buyers Want](https://soylentnews.org/article.pl?sid=26/02/10/0820248&amp;from=rss)
 * [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
-* [2026-02-11, 17:17:35](https://news.ycombinator.com/item?id=46977742) - [The Perfect Device](https://sometimes.digital/posts/the-perfect-device/)
 * [2026-02-11, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/10/0818222&amp;from=rss) - [Discord Will Require a Face Scan or ID for Full Access Next Month](https://soylentnews.org/article.pl?sid=26/02/10/0818222&amp;from=rss)
+* [2026-02-11, 14:09:13](https://news.ycombinator.com/item?id=46975112) - [MDST Engine: run GGUF models in the browser with WebGPU/WASM](https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser)
 * [2026-02-11, 10:53:00](https://soylentnews.org/article.pl?sid=26/02/10/036255&amp;from=rss) - [Newly Discovered Sungrazing Comet C/2026 A1 (MAPS) Could be the Brightest of the Year](https://soylentnews.org/article.pl?sid=26/02/10/036255&amp;from=rss)
 * [2026-02-11, 10:31:21](https://news.ycombinator.com/item?id=46973299) - [Flood Fill vs. The Magic Circle](https://www.robinsloan.com/winter-garden/magic-circle/)
 * [2026-02-11, 06:05:00](https://soylentnews.org/article.pl?sid=26/02/10/0257251&amp;from=rss) - [Microsoft Does Something Useful, Adds Sysmon to Windows](https://soylentnews.org/article.pl?sid=26/02/10/0257251&amp;from=rss)
+* [2026-02-11, 04:30:18](https://news.ycombinator.com/item?id=46970832) - [I&apos;m building a clarity-first language (compiles to C++)](https://github.com/taman-islam/rox)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old &apos;bow drill&apos; rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 * [2026-02-11, 01:20:00](https://soylentnews.org/article.pl?sid=26/02/10/0251250&amp;from=rss) - [Ask SN - \&quot;Opt-Out Signal Honored\&quot; - Screen Message](https://soylentnews.org/article.pl?sid=26/02/10/0251250&amp;from=rss)
