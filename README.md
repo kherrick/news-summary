@@ -1,62 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Computing
+## AI and Technology Innovations
 
-* [An AI Called Winter: Neurosymbolic Computation or Illusion? -- Dustycloud Brainstorms](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/) - Exploring the neurosymbolic computation in AI and whether it is an illusion.
+* [Sony Tech Can Identify Original Music in AI-Generated Songs](https://entertainment.slashdot.org/story/26/02/17/1228205/sony-tech-can-identify-original-music-in-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Sony has developed a new technology capable of identifying original music within AI-generated tracks, raising questions about intellectual property rights in the age of AI. [Comments](https://entertainment.slashdot.org/story/26/02/17/1228205/sony-tech-can-identify-original-music-in-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [SkillsBench: Benchmarking how well agent skills work across diverse tasks](https://arxiv.org/abs/2602.12670) - A benchmarking tool to evaluate agent skills across various tasks.
+* [An AI Called Winter: Neurosymbolic Computation or Illusion?](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/) - Examines the potential and the limitations of neurosymbolic computation in AI systems. [Comments](https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic).
 
-* [Anthropic's CEO Says AI and Software Engineers Are in 'Centaur Phase' - But It Won't Last Long](https://developers.slashdot.org/story/26/02/16/1753253/anthropics-ceo-says-ai-and-software-engineers-are-in-centaur-phase---but-it-wont-last-long?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The Anthropic CEO suggests that the current phase of collaboration between humans and AI is in a transitional stage.
+* [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/) - Delves into how large language models are simplifying decompilation tasks and their potential implications. [Comments](https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation).
 
-* [KPMG Partner Fined Over Using AI To Pass AI Test](https://entertainment.slashdot.org/story/26/02/16/1734213/kpmg-partner-fined-over-using-ai-to-pass-ai-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A KPMG executive faces consequences for deploying AI to cheat on an AI-focused test.
+* [The Servo Project and Its Impact on Web Platform Ecosystem](https://servo.org/slides/2026-02-fosdem-servo-web-platform/) - Discusses the influence of the Servo project on the evolution of web technologies. [Comments](https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform).
 
-## Innovations in Technology and Development
+## Privacy, Security, and Ethics
 
-* [Secondhand Laptop Market Goes 'Mainstream' Amid Memory Crunch](https://it.slashdot.org/story/26/02/16/1843220/secondhand-laptop-market-goes-mainstream-amid-memory-crunch?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The growing demand for secondhand laptops due to a memory shortfall is explored.
+* ["ICE Out of Our Faces Act" Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - A proposed U.S. legislation targets the prohibition of facial recognition use by ICE and CBP. [Comments](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss).
 
-* [Western Digital is Sold Out of Hard Drives for 2026](https://hardware.slashdot.org/story/26/02/16/188251/western-digital-is-sold-out-of-hard-drives-for-2026?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Western Digital has run out of stock for hard drives in 2026.
+* [EU Parliament Blocks AI Features Over Cyber, Privacy Fears](https://yro.slashdot.org/story/26/02/16/1738256/eu-parliament-blocks-ai-features-over-cyber-privacy-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns over cybersecurity and privacy lead to the EU blocking certain AI-driven features. [Comments](https://yro.slashdot.org/story/26/02/16/1738256/eu-parliament-blocks-ai-features-over-cyber-privacy-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&from=rss) - John Carmack suggests fiber-optic loops to address high-speed AI cache limitations.
+* [Dark Web Agent Spotted Bedroom Wall Clue to Rescue Girl From Abuse](https://www.bbc.com/news/articles/cx2gn239exlo) - Reveals how a quick-on-the-draw dark web agent helped rescue a crime victim. [Comments](https://news.ycombinator.com/item?id=47042396).
 
-* [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/) - A teenager's origami breakthrough demonstrates astonishing weight-holding technology for emergency shelters.
+* [Building for an Audience of One: Starting and Finishing Side Projects With AI](https://codemade.net/blog/building-for-one/) - Offers insight into how using AI can reshape personal or small-scale creative projects. [Comments](https://news.ycombinator.com/item?id=47041973).
 
-* [Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988) - A critical evaluation of the AGENTS.md documentation for coding agents.
+## Entertainment Advances and Challenges
 
-## Security and Privacy
+* [The Music Industry Enters Its Less-Is-More Era](https://entertainment.slashdot.org/story/26/02/16/1839247/the-music-industry-enters-its-less-is-more-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analyzes the growing minimalistic trends dominating the music industry. [Comments](https://entertainment.slashdot.org/story/26/02/16/1839247/the-music-industry-enters-its-less-is-more-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) - The dark web investigation that unraveled a case of abuse with a subtle clue.
+* [Xbox UI Portfolio Site](https://gabrielcabrera.co/) - A specialized portfolio showcasing UI/UX work for the Xbox interface. [Comments](https://news.ycombinator.com/item?id=47044179).
 
-* [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&from=rss) - Potential vulnerabilities in automated driving and drone systems due to manipulated signals.
+* [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/) - Highlights advancements in a renowned game emulator project. [Comments](https://lobste.rs/s/b8ec4x/rise_triforce).
 
-* [What your Bluetooth devices reveal](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/) - Issues surrounding privacy due to information leaked by Bluetooth devices.
+## Sustainability and Socioeconomic Developments
 
-## Science and Space Exploration
+* [Why Are Criminals Stealing Used Cooking Oil From Scotland's Chip Shops?](https://soylentnews.org/article.pl?sid=26/02/14/0525257&amp;from=rss) - Explores the bizarre rise in crime surrounding stolen cooking oils. [Comments](https://soylentnews.org/article.pl?sid=26/02/14/0525257&amp;from=rss).
 
-* [We Finally Know How the Most Common Types of Planets Are Created](https://soylentnews.org/article.pl?sid=26/02/14/0050248&from=rss) - A new scientific breakthrough explains the formation of common planetary types.
+* [India's Toxic Air Crisis Is Reaching a Breaking Point](https://news.slashdot.org/story/26/02/16/1745219/indias-toxic-air-crisis-is-reaching-a-breaking-point?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Delves into India's ongoing battle with deteriorating air quality levels. [Comments](https://news.slashdot.org/story/26/02/16/1745219/indias-toxic-air-crisis-is-reaching-a-breaking-point?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Astronomers Discover the Surprising Reason for a Star's Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&from=rss) - Investigating why a star seemingly vanished.
+* [Ireland Launches World's First Permanent Basic Income Scheme for Artists, Paying $385 a Week](https://slashdot.org/story/26/02/16/1640202/ireland-launches-worlds-first-permanent-basic-income-scheme-for-artists-paying-385-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking income initiative aimed at supporting artistic talent in Ireland. [Comments](https://slashdot.org/story/26/02/16/1640202/ireland-launches-worlds-first-permanent-basic-income-scheme-for-artists-paying-385-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [SpaceX is Pivoting to Focus on a Moon Base Before Mars](https://soylentnews.org/article.pl?sid=26/02/12/0318206&from=rss) - SpaceX changes its focus from Mars exploration to building a lunar base.
+## Scientific and Environmental Discovery
 
-## Cultural Developments and Industry Trends
+* [Hiroshima Scientists Crack the Code for 3D Printing Tungsten Carbide](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss) - Discusses advancements in 3D printing materials crucial for various industrial applications. [Comments](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss).
 
-* [The Music Industry Enters Its Less-Is-More Era](https://entertainment.slashdot.org/story/26/02/16/1839247/the-music-industry-enters-its-less-is-more-era?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The music industry prioritizes fewer, high-quality productions to adapt to consumption trends.
-
-* [India's Toxic Air Crisis Is Reaching a Breaking Point](https://news.slashdot.org/story/26/02/16/1745219/indias-toxic-air-crisis-is-reaching-a-breaking-point?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Alarming analysis of India’s worsening air pollution crisis.
-
-* [Ireland Launches World's First Permanent Basic Income Scheme For Artists, Paying $385 a Week](https://slashdot.org/story/26/02/16/1640202/ireland-launches-worlds-first-permanent-basic-income-scheme-for-artists-paying-385-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Ireland implements a basic income policy tailored for artists.
-
-* [Happy Birthday SoylentNews - 12 Years Old!](https://soylentnews.org/article.pl?sid=26/02/13/1649236&from=rss) - Celebrating 12 years of community-driven news by SoylentNews.
-
-## Gaming and Entertainment
-
-* [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/) - A look into the rise of the Triforce in the gaming world.
-
-* [Sony May Push Next PlayStation To 2028 or 2029 as AI-fueled Memory Chip Shortage Upends Plans](https://games.slashdot.org/story/26/02/16/146210/sony-may-push-next-playstation-to-2028-or-2029-as-ai-fueled-memory-chip-shortage-upends-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Potential delays in the next generation PlayStation due to major supply chain issues in memory chip production.
-
-* [Show HN: Wildex – Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158) - An innovative wildlife observation app inspired by Pokemon Go.
-
-* [open-source-games: A list of open source games](https://github.com/bobeff/open-source-games) - A curated list of open-source games catering to diverse interests and platforms.
+* [Astronomers Discover the Surprising Reason for a Star's Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss) - Explores a fascinating cosmic occurrence involving disappearing stars. [Comments](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss).
 
 ---
 
@@ -83,16 +67,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-02-17, 07:33:44](https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic) - [An AI Called Winter: Neurosymbolic Computation or Illusion? -- Dustycloud Brainstorms](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/)
-* [2026-02-17, 06:18:34](https://news.ycombinator.com/item?id=47044293) - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+* [2026-02-17, 12:30:00](https://entertainment.slashdot.org/story/26/02/17/1228205/sony-tech-can-identify-original-music-in-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Tech Can Identify Original Music in AI-Generated Songs](https://entertainment.slashdot.org/story/26/02/17/1228205/sony-tech-can-identify-original-music-in-ai-generated-songs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-17, 11:48:07](https://lobste.rs/s/c6cg0b/next_version_curling_io) - [The Next Version of Curling IO](https://curling.io/blog/the-next-version-of-curling-io)
+* [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
+* [2026-02-17, 10:14:39](https://lobste.rs/s/p8whjc/building_sqlite_with_small_swarm) - [building sqlite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
+* [2026-02-17, 10:12:51](https://lobste.rs/s/qs7usa/lcm_lossless_context_management) - [LCM: Lossless Context Management](https://papers.voltropy.com/LCM)
+* [2026-02-17, 10:11:31](https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
+* [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
+* [2026-02-17, 09:34:34](https://lobste.rs/s/psvif8/broken_heart) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
+* [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - [\&quot;ICE Out of Our Faces Act\&quot; Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss)
+* [2026-02-17, 09:00:00](https://yro.slashdot.org/story/26/02/16/1738256/eu-parliament-blocks-ai-features-over-cyber-privacy-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Parliament Blocks AI Features Over Cyber, Privacy Fears](https://yro.slashdot.org/story/26/02/16/1738256/eu-parliament-blocks-ai-features-over-cyber-privacy-fears?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-17, 08:35:05](https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform) - [The Servo project and its impact on the web platform ecosystem](https://servo.org/slides/2026-02-fosdem-servo-web-platform/)
+* [2026-02-17, 07:33:44](https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic) - [An AI Called Winter: Neurosymbolic Computation or Illusion?](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/)
 * [2026-02-17, 06:01:00](https://it.slashdot.org/story/26/02/16/1843220/secondhand-laptop-market-goes-mainstream-amid-memory-crunch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Secondhand Laptop Market Goes &apos;Mainstream&apos; Amid Memory Crunch](https://it.slashdot.org/story/26/02/16/1843220/secondhand-laptop-market-goes-mainstream-amid-memory-crunch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-17, 05:53:31](https://news.ycombinator.com/item?id=47044179) - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 * [2026-02-17, 04:28:00](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss) - [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss)
 * [2026-02-17, 03:14:26](https://lobste.rs/s/e7ljnr/level_detail) - [Level of Detail](https://phinze.com/writing/level-of-detail)
 * [2026-02-17, 03:00:00](https://entertainment.slashdot.org/story/26/02/16/1839247/the-music-industry-enters-its-less-is-more-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Music Industry Enters Its Less-Is-More Era](https://entertainment.slashdot.org/story/26/02/16/1839247/the-music-industry-enters-its-less-is-more-era?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-17, 02:13:37](https://news.ycombinator.com/item?id=47042895) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 * [2026-02-17, 02:11:33](https://lobste.rs/s/ov9qvf/poor_deming_never_stood_chance) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 * [2026-02-17, 02:00:48](https://lobste.rs/s/qk00ml/fixapl) - [fixapl](https://fixapl.netlify.app/)
-* [2026-02-17, 01:55:50](https://news.ycombinator.com/item?id=47042766) - [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
 * [2026-02-17, 01:01:00](https://news.ycombinator.com/item?id=47042396) - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
 * [2026-02-17, 00:01:00](https://yro.slashdot.org/story/26/02/16/1830202/samsung-ad-confirms-rumors-of-a-useful-s26-privacy-display?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Ad Confirms Rumors of a Useful S26 &apos;Privacy Display&apos;](https://yro.slashdot.org/story/26/02/16/1830202/samsung-ad-confirms-rumors-of-a-useful-s26-privacy-display?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-17, 00:00:03](https://news.ycombinator.com/item?id=47041973) - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
@@ -103,17 +97,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-16, 22:47:58](https://lobste.rs/s/c4c5ri/modern_css_code_snippets) - [Modern CSS Code Snippets](https://modern-css.com)
 * [2026-02-16, 22:01:00](https://hardware.slashdot.org/story/26/02/16/188251/western-digital-is-sold-out-of-hard-drives-for-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Western Digital is Sold Out of Hard Drives for 2026 ](https://hardware.slashdot.org/story/26/02/16/188251/western-digital-is-sold-out-of-hard-drives-for-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 21:24:04](https://news.ycombinator.com/item?id=47040524) - [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
-* [2026-02-16, 21:15:56](https://news.ycombinator.com/item?id=47040430) - [SkillsBench: Benchmarking how well agent skills work across diverse tasks](https://arxiv.org/abs/2602.12670)
 * [2026-02-16, 21:12:07](https://news.ycombinator.com/item?id=47040390) - [Show HN: Wildex – Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
 * [2026-02-16, 21:10:44](https://news.ycombinator.com/item?id=47040375) - [Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
-* [2026-02-16, 21:00:13](https://news.ycombinator.com/item?id=47040268) - [Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
 * [2026-02-16, 21:00:00](https://developers.slashdot.org/story/26/02/16/1753253/anthropics-ceo-says-ai-and-software-engineers-are-in-centaur-phase---but-it-wont-last-long?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s CEO Says AI and Software Engineers Are in &apos;Centaur Phase&apos; - But It Won&apos;t Last Long](https://developers.slashdot.org/story/26/02/16/1753253/anthropics-ceo-says-ai-and-software-engineers-are-in-centaur-phase---but-it-wont-last-long?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-16, 20:34:27](https://news.ycombinator.com/item?id=47039966) - [Suicide Linux (2009)](https://qntm.org/suicide)
-* [2026-02-16, 20:23:36](https://news.ycombinator.com/item?id=47039834) - [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
 * [2026-02-16, 20:21:02](https://lobste.rs/s/rjcaly/let_s_practice_bsd_rd) - [Let&apos;s practice! (bsd.rd)](https://openbsdjumpstart.org/bsd.rd/)
 * [2026-02-16, 20:00:00](https://news.slashdot.org/story/26/02/16/1745219/indias-toxic-air-crisis-is-reaching-a-breaking-point?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [India&apos;s Toxic Air Crisis Is Reaching a Breaking Point](https://news.slashdot.org/story/26/02/16/1745219/indias-toxic-air-crisis-is-reaching-a-breaking-point?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
-* [2026-02-16, 19:12:05](https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
 * [2026-02-16, 19:00:00](https://tech.slashdot.org/story/26/02/16/1849255/instagram-boss-says-16-hours-of-daily-use-is-not-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instagram Boss Says 16 Hours of Daily Use Is Not Addiction](https://tech.slashdot.org/story/26/02/16/1849255/instagram-boss-says-16-hours-of-daily-use-is-not-addiction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 18:58:00](https://soylentnews.org/article.pl?sid=26/02/14/0521202&amp;from=rss) - [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&amp;from=rss)
 * [2026-02-16, 18:54:37](https://news.ycombinator.com/item?id=47038731) - [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
@@ -125,32 +114,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-16, 16:06:00](https://news.slashdot.org/story/26/02/16/166220/new-eu-rules-to-stop-the-destruction-of-unsold-clothes-and-shoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New EU Rules To Stop the Destruction of Unsold Clothes and Shoes](https://news.slashdot.org/story/26/02/16/166220/new-eu-rules-to-stop-the-destruction-of-unsold-clothes-and-shoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 15:58:51](https://lobste.rs/s/rybouo/browse_code_by_meaning) - [Browse code by meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)
 * [2026-02-16, 15:58:15](https://lobste.rs/s/pqn3u0/til_docker_log_rotation) - [TIL: Docker log rotation](https://ntietz.com/blog/til-docker-log-rotation/)
-* [2026-02-16, 15:47:49](https://lobste.rs/s/3bzakb/building_foss_live_streaming_camera) - [Building a FOSS live streaming camera](https://blog.brixit.nl/building-a-custom-live-streaming-camera/)
-* [2026-02-16, 15:34:45](https://lobste.rs/s/i2llks/ggml_gguf_file_format_vulnerabilities) - [GGML GGUF File Format Vulnerabilities (2024)](https://www.databricks.com/blog/ggml-gguf-file-format-vulnerabilities)
 * [2026-02-16, 15:11:56](https://lobste.rs/s/a6cy0i/carbon_dysphoria) - [Carbon Dysphoria](https://deadsimpletech.com/blog/carbon_dysphoria)
 * [2026-02-16, 15:01:00](https://tech.slashdot.org/story/26/02/16/1459236/pentagon-threatens-anthropic-punishment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pentagon Threatens Anthropic Punishment](https://tech.slashdot.org/story/26/02/16/1459236/pentagon-threatens-anthropic-punishment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 14:39:32](https://news.ycombinator.com/item?id=47035560) - [What your Bluetooth devices reveal](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
-* [2026-02-16, 14:24:01](https://lobste.rs/s/stwus1/i_sold_out_for_20_month_all_i_got_was_this) - [I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform](https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/)
 * [2026-02-16, 14:18:44](https://lobste.rs/s/uzeauh/diagnostics_factory) - [Diagnostics Factory](https://matklad.github.io/2026/02/16/diagnostics-factory.html)
 * [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&amp;from=rss) - [Europe&apos;s $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&amp;from=rss)
 * [2026-02-16, 14:06:00](https://games.slashdot.org/story/26/02/16/146210/sony-may-push-next-playstation-to-2028-or-2029-as-ai-fueled-memory-chip-shortage-upends-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony May Push Next PlayStation To 2028 or 2029 as AI-fueled Memory Chip Shortage Upends Plans](https://games.slashdot.org/story/26/02/16/146210/sony-may-push-next-playstation-to-2028-or-2029-as-ai-fueled-memory-chip-shortage-upends-plans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 13:44:50](https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding) - [Please consider tagging a vibecoding griefpost or hypepost as a rant](https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding)
 * [2026-02-16, 12:34:00](https://it.slashdot.org/story/26/02/16/0316228/wheres-the-evidence-that-ai-increases-productivity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Where&apos;s The Evidence That AI Increases Productivity?](https://it.slashdot.org/story/26/02/16/0316228/wheres-the-evidence-that-ai-increases-productivity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 12:15:39](https://news.ycombinator.com/item?id=47034087) - [Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988)
+* [2026-02-16, 11:57:01](https://news.ycombinator.com/item?id=47033954) - [Show HN: Glitchy camera – a circuit-bent camera simulator in the browser](https://glitchycam.com)
 * [2026-02-16, 10:23:17](https://lobste.rs/s/hzljsi/messageformat_unicode_standard_for) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 * [2026-02-16, 09:31:00](https://soylentnews.org/article.pl?sid=26/02/14/0455240&amp;from=rss) - [Ubisoft Workers Strike in Protest of Job Cuts and Return-to-Office Mandate](https://soylentnews.org/article.pl?sid=26/02/14/0455240&amp;from=rss)
-* [2026-02-16, 09:28:12](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week)
 * [2026-02-16, 08:54:07](https://lobste.rs/s/3gc0z4/relationship_between_collatz) - [A relationship between the Collatz conjecture and the Fibonacci numbers](https://vincentrolfs.dev/blog/collatz)
 * [2026-02-16, 08:46:42](https://lobste.rs/s/rqdfpj/open_source_games_list_open_source_games) - [open-source-games: A list of open source games](https://github.com/bobeff/open-source-games)
-* [2026-02-16, 08:34:00](https://linux.slashdot.org/story/26/02/16/0340259/i-tried-running-linux-on-an-apple-silicon-mac-and-regretted-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;I Tried Running Linux On an Apple Silicon Mac and Regretted It&apos;](https://linux.slashdot.org/story/26/02/16/0340259/i-tried-running-linux-on-an-apple-silicon-mac-and-regretted-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-16, 06:16:59](https://lobste.rs/s/iisnbr/error_payloads_zig) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-16, 05:53:03](https://news.ycombinator.com/item?id=47031334) - [Show HN: Jemini – Gemini for the Epstein Files](https://jmail.world/jemini)
-* [2026-02-16, 05:34:00](https://slashdot.org/story/26/02/16/0433256/will-tech-giants-just-use-ai-interactions-to-create-more-effective-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will Tech Giants Just Use AI Interactions to Create More Effective Ads?](https://slashdot.org/story/26/02/16/0433256/will-tech-giants-just-use-ai-interactions-to-create-more-effective-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-16, 04:45:00](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss) - [Anthropic Launches New Model That Spots Zero Days](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss)
 * [2026-02-16, 00:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss) - [Astronomers Discover the Surprising Reason for a Star&apos;s Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss)
 * [2026-02-16, 00:01:00](https://soylentnews.org/article.pl?sid=26/02/13/1649236&amp;from=rss) - [Happy Birthday SoylentNews - 12 Years Old!](https://soylentnews.org/article.pl?sid=26/02/13/1649236&amp;from=rss)
 * [2026-02-15, 20:58:04](https://lobste.rs/s/dvwczg/is_end_end_encryption_optional_for_large) - [Is End-to-End Encryption Optional For Large Groups?](https://soatok.blog/2026/02/14/is-end-to-end-encryption-optional-for-large-groups/)
-* [2026-02-15, 19:30:21](https://lobste.rs/s/ozrdyz/defer_available_gcc_clang) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-15, 19:20:00](https://soylentnews.org/article.pl?sid=26/02/14/014205&amp;from=rss) - [Claude Opus 4.6 Spends $20K Trying to Write a C Compiler](https://soylentnews.org/article.pl?sid=26/02/14/014205&amp;from=rss)
 * [2026-02-15, 14:36:09](https://lobste.rs/s/qmjejh/ai_is_slowly_munching_away_my_passion) - [AI is slowly munching away my passion](https://whynot.fail/human/ai-is-slowly-munching-away-my-passion/)
 * [2026-02-15, 14:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0057218&amp;from=rss) - [5 Linux Servers That Let You Ditch the Public Cloud and Reclaim Your Privacy](https://soylentnews.org/article.pl?sid=26/02/14/0057218&amp;from=rss)
@@ -167,10 +149,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-14, 07:35:41](https://news.ycombinator.com/item?id=47012486) - [DBASE on the Kaypro II](https://stonetools.ghost.io/dbase-cpm/)
 * [2026-02-14, 05:19:00](https://soylentnews.org/article.pl?sid=26/02/13/1231209&amp;from=rss) - [AMD Rockets Past 35% Market Share in Desktop PC Market as Intel&apos;s Share Loss Accelerates](https://soylentnews.org/article.pl?sid=26/02/13/1231209&amp;from=rss)
 * [2026-02-14, 04:24:18](https://news.ycombinator.com/item?id=47011548) - [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
+* [2026-02-14, 03:55:16](https://news.ycombinator.com/item?id=47011391) - [Elephant trunk whiskers exhibit material intelligence](https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence)
 * [2026-02-14, 00:34:00](https://soylentnews.org/article.pl?sid=26/02/13/0615203&amp;from=rss) - [El Paso Airport Closed After Military Used New Anti-Drone Laser to Zap Party Balloon](https://soylentnews.org/article.pl?sid=26/02/13/0615203&amp;from=rss)
 * [2026-02-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/02/13/0612228&amp;from=rss) - [80386 Barrel Shifter](https://soylentnews.org/article.pl?sid=26/02/13/0612228&amp;from=rss)
+* [2026-02-13, 19:19:45](https://news.ycombinator.com/item?id=47006587) - [Show HN: GitHub \&quot;Lines Viewed\&quot; extension to keep you sane reviewing long AI PRs](https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi)
+* [2026-02-13, 18:37:32](https://news.ycombinator.com/item?id=47006080) - [Rethinking High-School Science Fairs](https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs)
+* [2026-02-13, 16:37:22](https://news.ycombinator.com/item?id=47004629) - [How teaching molecules to think is revealing what a &apos;mind&apos; is](https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/)
 * [2026-02-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/02/13/0611200&amp;from=rss) - [Taiwan Tells Uncle Sam its Chip Ecosystem Ain&apos;t Going Anywhere](https://soylentnews.org/article.pl?sid=26/02/13/0611200&amp;from=rss)
-* [2026-02-13, 14:21:41](https://news.ycombinator.com/item?id=47003071) - [What every compiler writer should know about programmers (2015) [pdf]](https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf)
 * [2026-02-13, 12:59:33](https://news.ycombinator.com/item?id=47002231) - [Visual introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html)
 * [2026-02-13, 10:26:00](https://soylentnews.org/article.pl?sid=26/02/12/0346212&amp;from=rss) - [New Critique Debunks Claim That Trees Can Sense a Solar Eclipse](https://soylentnews.org/article.pl?sid=26/02/12/0346212&amp;from=rss)
 * [2026-02-13, 09:17:54](https://news.ycombinator.com/item?id=47000708) - [Hear the \&quot;Amati King Cello\&quot;, the Oldest Known Cello in Existence](https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html)
