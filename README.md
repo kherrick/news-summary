@@ -1,56 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity & Tech Innovations
+## Innovations and Advancements
 
-* [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss))
+* [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss))
 
-* [Minimal x86 Kernel in Zig](https://github.com/lopespm/zig-minimal-kernel-x86) ([comments](https://lobste.rs/s/nhocn5/minimal_x86_kernel_zig))
+* [Single Dose of DMT Rapidly Reduces Symptoms of Major Depression](https://science.slashdot.org/story/26/02/18/049257/single-dose-of-dmt-rapidly-reduces-symptoms-of-major-depression?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/02/18/049257/single-dose-of-dmt-rapidly-reduces-symptoms-of-major-depression?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 * [BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)](https://github.com/Zaneham/BarraCUDA) ([comments](https://lobste.rs/s/czch6e/barracuda_open_source_cuda_compiler))
 
-* [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm) ([comments](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop))
-
-* [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper) ([comments](https://news.ycombinator.com/item?id=47057879))
-
-* [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783) ([comments](https://news.ycombinator.com/item?id=47057824))
-
-## AI & Machine Learning
-
-* [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/) ([comments](https://news.ycombinator.com/item?id=47057829))
-
-* [Advice, not control: the role of Remote Assistance in Waymo&apos;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance) ([comments](https://news.ycombinator.com/item?id=47055786))
-
-* [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/) ([comments](https://news.ycombinator.com/item?id=47055979))
-
-* [Are We Becoming Architects or Butlers to LLMs?](http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html) ([comments](https://lobste.rs/s/zvcupc/are_we_becoming_architects_butlers_llms))
-
-* [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach) ([comments](https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects))
-
-## Scientific Developments
-
 * [Air Pollution Emerges As a Direct Risk Factor For Alzheimer&apos;s Disease](https://science.slashdot.org/story/26/02/18/044252/air-pollution-emerges-as-a-direct-risk-factor-for-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/02/18/044252/air-pollution-emerges-as-a-direct-risk-factor-for-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss))
+## Cybersecurity and System Vulnerabilities
 
-* [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/) ([comments](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design))
+* [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss))
 
-## Corporate & Industry News
+* [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/) ([comments](https://news.ycombinator.com/item?id=47060202))
 
-* [Bayer Agrees To $7.25 Billion Proposed Settlement Over Thousands of Roundup Cancer Lawsuits](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Cryptographic Issues in Matrix’s Rust Library Vodozemac](https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/) ([comments](https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust))
+
+* [6502 Emulation - The Jump Indirect Bug](https://markjames.dev/blog/6502-jump-indirect-bug) ([comments](https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug))
+
+## Technology and Developments
 
 * [Apple Is Reportedly Planning To Launch AI-Powered Glasses, a Pendant, and AirPods](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [NPR&apos;s Radio Host David Greene Says Google&apos;s NotebookLM Tool Stole His Voice](https://yro.slashdot.org/story/26/02/17/227207/nprs-radio-host-david-greene-says-googles-notebooklm-tool-stole-his-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/17/227207/nprs-radio-host-david-greene-says-googles-notebooklm-tool-stole-his-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Most VMware Users Still &apos;Actively Reducing Their VMware Footprint,&apos; Survey Finds](https://tech.slashdot.org/story/26/02/17/2143231/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/17/2143231/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss))
+
+* [How a Single Typo Led to RCE in Firefox](https://kqx.io/post/firefox0day/) ([comments](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox))
+
+## Business and Industry Impact
 
 * [US Lawyers Fire Up Privacy Class Action Accusing Lenovo of Bulk Data Transfers To China](https://yro.slashdot.org/story/26/02/17/1955224/us-lawyers-fire-up-privacy-class-action-accusing-lenovo-of-bulk-data-transfers-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/17/1955224/us-lawyers-fire-up-privacy-class-action-accusing-lenovo-of-bulk-data-transfers-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Entertainment & Media
+* [Bayer Agrees To $7.25 Billion Proposed Settlement Over Thousands of Roundup Cancer Lawsuits](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire) ([comments](https://news.ycombinator.com/item?id=47056314))
+## Societal Spotlight
 
-* [A YouTuber&apos;s $3M Movie Nearly Beat Disney&apos;s $40M Thriller at the Box Office](https://entertainment.slashdot.org/story/26/02/17/1825211/a-youtubers-3m-movie-nearly-beat-disneys-40m-thriller-at-the-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/02/17/1825211/a-youtubers-3m-movie-nearly-beat-disneys-40m-thriller-at-the-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [The Small English Town Swept Up in the Global AI Arms Race](https://news.slashdot.org/story/26/02/17/1937251/the-small-english-town-swept-up-in-the-global-ai-arms-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/02/17/1937251/the-small-english-town-swept-up-in-the-global-ai-arms-race?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Hiroshima Scientists Crack the Code for 3D Printing Tungsten Carbide](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss))
+* [Are We Becoming Architects or Butlers to LLMs?](http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html) ([comments](https://lobste.rs/s/zvcupc/are_we_becoming_architects_butlers_llms))
+
+* [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss))
 
 ---
 
@@ -77,15 +69,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-18, 13:39:00](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss) - [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss)
+* [2026-02-18, 13:00:00](https://tech.slashdot.org/story/26/02/18/0419214/thousands-of-ceos-just-admitted-ai-had-no-impact-on-employment-or-productivity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thousands of CEOs Just Admitted AI Had No Impact On Employment Or Productivity](https://tech.slashdot.org/story/26/02/18/0419214/thousands-of-ceos-just-admitted-ai-had-no-impact-on-employment-or-productivity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-18, 12:57:30](https://news.ycombinator.com/item?id=47060469) - [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
+* [2026-02-18, 12:16:12](https://news.ycombinator.com/item?id=47060202) - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
+* [2026-02-18, 12:00:50](https://news.ycombinator.com/item?id=47060117) - [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
+* [2026-02-18, 11:51:01](https://news.ycombinator.com/item?id=47060052) - [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling)
+* [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
+* [2026-02-18, 10:27:44](https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026) - [What&apos;s cooking on SourceHut? Q1 2026](https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/)
+* [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
+* [2026-02-18, 10:00:00](https://science.slashdot.org/story/26/02/18/049257/single-dose-of-dmt-rapidly-reduces-symptoms-of-major-depression?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Single Dose of DMT Rapidly Reduces Symptoms of Major Depression](https://science.slashdot.org/story/26/02/18/049257/single-dose-of-dmt-rapidly-reduces-symptoms-of-major-depression?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
+* [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [2026-02-18, 08:57:00](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss) - [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss)
+* [2026-02-18, 08:50:09](https://lobste.rs/s/2ssdbm/case_for_gatekeeping_why_medieval_guilds) - [The case for gatekeeping, or: why medieval guilds had it figured out](https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/)
 * [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
-* [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-02-18, 07:00:00](https://science.slashdot.org/story/26/02/18/044252/air-pollution-emerges-as-a-direct-risk-factor-for-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Air Pollution Emerges As a Direct Risk Factor For Alzheimer&apos;s Disease](https://science.slashdot.org/story/26/02/18/044252/air-pollution-emerges-as-a-direct-risk-factor-for-alzheimers-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-18, 06:29:36](https://news.ycombinator.com/item?id=47057879) - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
 * [2026-02-18, 06:20:13](https://news.ycombinator.com/item?id=47057829) - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [2026-02-18, 06:19:37](https://news.ycombinator.com/item?id=47057824) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-18, 06:00:35](https://news.ycombinator.com/item?id=47057707) - [TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)](https://github.com/DatanoiseTV/tinyice)
-* [2026-02-18, 05:16:36](https://lobste.rs/s/nhocn5/minimal_x86_kernel_zig) - [Minimal x86 Kernel in Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
 * [2026-02-18, 04:09:00](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss) - [Instruction Decoding in the Intel 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/02/16/2249254&amp;from=rss)
 * [2026-02-18, 03:30:00](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bayer Agrees To $7.25 Billion Proposed Settlement Over Thousands of Roundup Cancer Lawsuits](https://yro.slashdot.org/story/26/02/17/2216258/bayer-agrees-to-725-billion-proposed-settlement-over-thousands-of-roundup-cancer-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-18, 03:02:03](https://lobste.rs/s/czch6e/barracuda_open_source_cuda_compiler) - [BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)](https://github.com/Zaneham/BarraCUDA)
@@ -95,10 +98,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-18, 02:02:00](https://developers.slashdot.org/story/26/02/17/2313201/claude-sonnet-46-model-brings-much-improved-coding-skills-upgraded-free-tier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Sonnet 4.6 Model Brings &apos;Much-Improved Coding Skills&apos;, Upgraded Free Tier](https://developers.slashdot.org/story/26/02/17/2313201/claude-sonnet-46-model-brings-much-improved-coding-skills-upgraded-free-tier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-18, 01:40:52](https://news.ycombinator.com/item?id=47055979) - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 * [2026-02-18, 01:25:00](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Is Reportedly Planning To Launch AI-Powered Glasses, a Pendant, and AirPods](https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-18, 01:19:15](https://news.ycombinator.com/item?id=47055786) - [Advice, not control: the role of Remote Assistance in Waymo&apos;s operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
-* [2026-02-18, 01:05:33](https://news.ycombinator.com/item?id=47055696) - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
 * [2026-02-18, 00:45:00](https://tech.slashdot.org/story/26/02/17/2233250/discord-rival-maxes-out-hosting-capacity-as-players-flee-age-verification-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord Rival Maxes Out Hosting Capacity As Players Flee Age-Verification Crackdown](https://tech.slashdot.org/story/26/02/17/2233250/discord-rival-maxes-out-hosting-capacity-as-players-flee-age-verification-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-18, 00:26:15](https://news.ycombinator.com/item?id=47055424) - [Rathbun&apos;s Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)
 * [2026-02-18, 00:11:18](https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust) - [Cryptographic Issues in Matrix’s Rust Library Vodozemac](https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/)
 * [2026-02-18, 00:03:34](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop) - [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm)
 * [2026-02-18, 00:02:06](https://news.ycombinator.com/item?id=47055262) - [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
@@ -106,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \&quot;Alignment\&quot; Context Injection](https://github.com/skavanagh/lebron-james-is-president)
 * [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss)
 * [2026-02-17, 23:20:00](https://linux.slashdot.org/story/26/02/17/2157254/idea-raised-for-nicer-drm-panic-screen-integration-on-fedora-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Idea Raised For Nicer DRM Panic Screen Integration On Fedora Linux](https://linux.slashdot.org/story/26/02/17/2157254/idea-raised-for-nicer-drm-panic-screen-integration-on-fedora-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-17, 23:06:51](https://news.ycombinator.com/item?id=47054744) - [&apos;My Words Are Like an Uncontrollable Dog&apos;: On Life with Nonfluent Aphasia (2025)](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
 * [2026-02-17, 22:40:00](https://tech.slashdot.org/story/26/02/17/2147242/kde-plasma-66-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [KDE Plasma 6.6 Released](https://tech.slashdot.org/story/26/02/17/2147242/kde-plasma-66-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-17, 22:30:37](https://news.ycombinator.com/item?id=47054369) - [How I use Obsidian (2023)](https://stephango.com/vault)
 * [2026-02-17, 22:02:00](https://tech.slashdot.org/story/26/02/17/2143231/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Most VMware Users Still &apos;Actively Reducing Their VMware Footprint,&apos; Survey Finds](https://tech.slashdot.org/story/26/02/17/2143231/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -120,28 +119,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-17, 19:24:55](https://news.ycombinator.com/item?id=47051852) - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
 * [2026-02-17, 18:53:45](https://lobste.rs/s/eec8ez/oat_ultra_lightweight_ui_library) - [Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies](https://oat.ink/)
 * [2026-02-17, 18:46:00](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss) - [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss)
-* [2026-02-17, 18:45:00](https://entertainment.slashdot.org/story/26/02/17/1825211/a-youtubers-3m-movie-nearly-beat-disneys-40m-thriller-at-the-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A YouTuber&apos;s $3M Movie Nearly Beat Disney&apos;s $40M Thriller at the Box Office](https://entertainment.slashdot.org/story/26/02/17/1825211/a-youtubers-3m-movie-nearly-beat-disneys-40m-thriller-at-the-box-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-17, 18:21:22](https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
-* [2026-02-17, 18:05:00](https://entertainment.slashdot.org/story/26/02/17/181203/blind-listening-test-finds-audiophiles-unable-to-distinguish-copper-cable-from-a-banana-or-wet-mud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blind Listening Test Finds Audiophiles Unable To Distinguish Copper Cable From a Banana or Wet Mud](https://entertainment.slashdot.org/story/26/02/17/181203/blind-listening-test-finds-audiophiles-unable-to-distinguish-copper-cable-from-a-banana-or-wet-mud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-17, 17:48:52](https://news.ycombinator.com/item?id=47050488) - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 * [2026-02-17, 17:21:04](https://news.ycombinator.com/item?id=47050067) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
 * [2026-02-17, 17:10:44](https://lobste.rs/s/vudtax/plasma_6_6_released) - [Plasma 6.6 released](https://kde.org/announcements/plasma/6/6.6.0/)
 * [2026-02-17, 17:09:18](https://lobste.rs/s/2y5l47/gentoo_on_codeberg) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
-* [2026-02-17, 17:09:08](https://lobste.rs/s/m4bj7v/gpu_code_can_now_use_rust_s_async_await) - [GPU code can now use Rust&apos;s async/await](https://vectorware.com/blog/async-await-on-gpu/)
 * [2026-02-17, 17:06:18](https://news.ycombinator.com/item?id=47049824) - [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
 * [2026-02-17, 16:59:34](https://news.ycombinator.com/item?id=47049718) - [So you want to build a tunnel](https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel)
 * [2026-02-17, 16:53:05](https://news.ycombinator.com/item?id=47049628) - [Async/Await on the GPU](https://www.vectorware.com/blog/async-await-on-gpu/)
 * [2026-02-17, 16:48:43](https://news.ycombinator.com/item?id=47049573) - [HackMyClaw](https://hackmyclaw.com/)
 * [2026-02-17, 16:42:35](https://news.ycombinator.com/item?id=47049479) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-17, 16:30:33](https://lobste.rs/s/40ndqz/using_go_fix_modernize_go_code) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
-* [2026-02-17, 15:43:39](https://news.ycombinator.com/item?id=47048733) - [Show HN: I wrote a technical history book on Lisp](https://berksoft.ca/gol/)
 * [2026-02-17, 14:59:45](https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis) - [Babashka 1.12.215: Revenge of the TUIs](https://blog.michielborkent.nl/babashka-1.12.215.html)
 * [2026-02-17, 14:52:14](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox) - [How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
 * [2026-02-17, 14:04:09](https://lobste.rs/s/tt6ieg/vinyl_cache_has_left_github) - [Vinyl Cache has left github](https://vinyl-cache.org/organization/moving.html)
 * [2026-02-17, 13:57:00](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss) - [AI Could Wipe Out Most White-Collar Jobs Within 12 Months, Microsoft AI Chief Warns](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss)
-* [2026-02-17, 13:53:39](https://lobste.rs/s/syv21m/dangerously_skip_reading_code) - [--dangerously-skip-reading-code](https://olano.dev/blog/dangerously-skip)
 * [2026-02-17, 13:45:56](https://lobste.rs/s/hax4cv/undo_vi_its_successors) - [Undo in Vi and its successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
-* [2026-02-17, 12:00:07](https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects) - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 * [2026-02-17, 11:48:07](https://lobste.rs/s/c6cg0b/next_version_curling_io) - [The Next Version of Curling IO](https://curling.io/blog/the-next-version-of-curling-io)
 * [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
 * [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - [\&quot;ICE Out of Our Faces Act\&quot; Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss)
@@ -157,14 +150,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-16, 04:45:00](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss) - [Anthropic Launches New Model That Spots Zero Days](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss)
 * [2026-02-16, 00:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss) - [Astronomers Discover the Surprising Reason for a Star&apos;s Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss)
 * [2026-02-16, 00:01:00](https://soylentnews.org/article.pl?sid=26/02/13/1649236&amp;from=rss) - [Happy Birthday SoylentNews - 12 Years Old!](https://soylentnews.org/article.pl?sid=26/02/13/1649236&amp;from=rss)
-* [2026-02-15, 21:57:29](https://news.ycombinator.com/item?id=47028049) - [The Economics of a Super Bowl Ad](https://ro.co/perspectives/super-bowl-economics/)
 * [2026-02-15, 19:20:00](https://soylentnews.org/article.pl?sid=26/02/14/014205&amp;from=rss) - [Claude Opus 4.6 Spends $20K Trying to Write a C Compiler](https://soylentnews.org/article.pl?sid=26/02/14/014205&amp;from=rss)
 * [2026-02-15, 14:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0057218&amp;from=rss) - [5 Linux Servers That Let You Ditch the Public Cloud and Reclaim Your Privacy](https://soylentnews.org/article.pl?sid=26/02/14/0057218&amp;from=rss)
-* [2026-02-15, 13:46:08](https://news.ycombinator.com/item?id=47023616) - [Semantic Diffusion (2006)](https://martinfowler.com/bliki/SemanticDiffusion.html)
 * [2026-02-15, 09:42:00](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss) - [Hiroshima Scientists Crack the Code for 3D Printing Tungsten Carbide](https://soylentnews.org/article.pl?sid=26/02/14/0053238&amp;from=rss)
 * [2026-02-15, 05:11:00](https://soylentnews.org/article.pl?sid=26/02/14/0052214&amp;from=rss) - [Ford Posts $11.1 Billion Net Loss in Fourth Quarter as EV Losses, Tariffs Weigh](https://soylentnews.org/article.pl?sid=26/02/14/0052214&amp;from=rss)
 * [2026-02-15, 00:10:00](https://soylentnews.org/article.pl?sid=26/02/14/0050248&amp;from=rss) - [We Finally Know How the Most Common Types of Planets Are Created](https://soylentnews.org/article.pl?sid=26/02/14/0050248&amp;from=rss)
 * [2026-02-14, 19:34:00](https://soylentnews.org/article.pl?sid=26/02/13/1246200&amp;from=rss) - [&apos;Another Dark Day&apos;: Users Slam Microsoft Over Polyglot Notebooks Deprecation](https://soylentnews.org/article.pl?sid=26/02/13/1246200&amp;from=rss)
+* [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 15:17:46](https://news.ycombinator.com/item?id=47015138) - [Reverse Engineering Sid Meier&apos;s Railroad Tycoon for DOS from 1990](https://www.vogons.org/viewtopic.php?t=105451)
 * [2026-02-14, 14:50:00](https://soylentnews.org/article.pl?sid=26/02/13/1241210&amp;from=rss) - [AI-Generated Text is Overwhelming Institutions – Setting Off a No-Win ‘Arms Race’ With AI Detectors](https://soylentnews.org/article.pl?sid=26/02/13/1241210&amp;from=rss)
