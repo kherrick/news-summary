@@ -1,40 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and AI
+## Science and Technology
 
-* [Microsoft's new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/) ([comments](https://news.ycombinator.com/item?id=47083512))
+* [NASA Chief Classifies Starliner Flight As 'Type A' Mishap, Says Agency Made Mistakes](https://science.slashdot.org/story/26/02/19/2353238/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA's chief critiques their handling of the Starliner flight, marking it as a significant error.
 
-* [Google Announces Gemini 3.1 Pro For 'Complex Problem-Solving'](https://tech.slashdot.org/story/26/02/19/226258/google-announces-gemini-31-pro-for-complex-problem-solving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/19/226258/google-announces-gemini-31-pro-for-complex-problem-solving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Trump Directs US Government To Prepare Release of Files on Aliens and UFOs](https://news.slashdot.org/story/26/02/20/0450230/trump-directs-us-government-to-prepare-release-of-files-on-aliens-and-ufos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Eye-catching directive to unveil UFO and alien-related government files.
 
-* [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) ([comments](https://news.ycombinator.com/item?id=47083145))
+* [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss) - Insightful review showing shortfalls in password manager security.
 
-## Emerging Trends in Artificial Intelligence and Computing
+## Developer Tools and Platforms
 
-* [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models) ([comments](https://news.ycombinator.com/item?id=47083648))
+* [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/) - Introducing a new cloud platform aimed at IoT developers.
 
-* [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/) ([comments](https://lobste.rs/s/fgkcxo/ai_makes_you_boring))
+* [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer) - A deep dive into accelerometer capabilities hiding in Apple Silicon MacBooks.
 
-* [Towards Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on seL4](https://arxiv.org/abs/2602.08384) ([comments](https://lobste.rs/s/7xjjol/towards_real_world_industrial_scale))
+* [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/) - A firsthand evaluation of a cost-effective ARM-based homelab server.
 
-## Science and Research
+## AI and Machine Learning
 
-* [Newborn Chicks Connect Sounds With Shapes Just Like Humans, Study Finds](https://science.slashdot.org/story/26/02/19/2254229/newborn-chicks-connect-sounds-with-shapes-just-like-humans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/02/19/2254229/newborn-chicks-connect-sounds-with-shapes-just-like-humans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models) - Promising breakthroughs in speeding up diffusion language models.
 
-* [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/) ([comments](https://news.ycombinator.com/item?id=47077245))
+* [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) - A startling account from someone targeted by an AI-generated article.
 
-## Privacy and Security Concerns
+* [OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use](https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Growing concerns over the security and misuse of AI tools.
 
-* [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss))
+## Gaming Innovations
 
-* [MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes](https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea) ([comments](https://news.ycombinator.com/item?id=47082496))
+* [Minecraft Java Is Switching From OpenGL To Vulkan](https://developers.slashdot.org/story/26/02/19/2156234/minecraft-java-is-switching-from-opengl-to-vulkan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Transition impacts for Minecraft's rendering framework.
 
-* [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/) ([comments](https://news.ycombinator.com/item?id=47082548))
+* [How I made a shooter game in 64 KB](https://youtu.be/qht68vFaa1M) - Step inside the process of crafting a compact shooter game.
 
-## Software and Development Tools
+## Society and Stories
 
-* [Every app you've built is an ETL pipeline (you just didn't call it that)](https://www.inngest.com/blog/etl-via-inngest) ([comments](https://lobste.rs/s/9zos31/every_app_you_ve_built_is_etl_pipeline_you))
+* [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o) - An anonymous act of kindness for public infrastructure.
 
-* [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux) ([comments](https://news.ycombinator.com/item?id=47079718))
+* [Ring Cancels Flock Deal After Dystopian Super Bowl Ad Prompts Mass Outrage](https://soylentnews.org/article.pl?sid=26/02/18/0735220&from=rss) - Controversial Super Bowl campaign cancellation story.
+
+* [China's Hottest App of 2026 Just Asks If You're Still Alive](https://slashdot.org/story/26/02/19/1945205/chinas-hottest-app-of-2026-just-asks-if-youre-still-alive?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploring the rise of an unusual popular app in China.
 
 ---
 
@@ -61,15 +63,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-20, 07:00:00](https://science.slashdot.org/story/26/02/19/2353238/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Chief Classifies Starliner Flight As &apos;Type A&apos; Mishap, Says Agency Made Mistakes](https://science.slashdot.org/story/26/02/19/2353238/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-20, 06:20:34](https://news.ycombinator.com/item?id=47084431) - [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/)
+* [2026-02-20, 05:06:40](https://news.ycombinator.com/item?id=47084000) - [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
+* [2026-02-20, 05:00:00](https://news.slashdot.org/story/26/02/20/0450230/trump-directs-us-government-to-prepare-release-of-files-on-aliens-and-ufos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Directs US Government To Prepare Release of Files on Aliens and UFOs](https://news.slashdot.org/story/26/02/20/0450230/trump-directs-us-government-to-prepare-release-of-files-on-aliens-and-ufos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-20, 04:46:37](https://news.ycombinator.com/item?id=47083882) - [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
+* [2026-02-20, 04:39:29](https://lobste.rs/s/jmxzcr/how_i_made_shooter_game_64_kb) - [How I made a shooter game in 64 KB](https://youtu.be/qht68vFaa1M)
+* [2026-02-20, 04:27:51](https://news.ycombinator.com/item?id=47083735) - [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
 * [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
-* [2026-02-20, 03:57:55](https://news.ycombinator.com/item?id=47083512) - [Microsoft&apos;s new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/)
 * [2026-02-20, 03:49:00](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss) - [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss)
 * [2026-02-20, 03:36:56](https://lobste.rs/s/zddzgo/dillo_appreciation_post) - [The Dillo Appreciation Post](https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/)
 * [2026-02-20, 03:30:00](https://science.slashdot.org/story/26/02/19/2254229/newborn-chicks-connect-sounds-with-shapes-just-like-humans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Newborn Chicks Connect Sounds With Shapes Just Like Humans, Study Finds](https://science.slashdot.org/story/26/02/19/2254229/newborn-chicks-connect-sounds-with-shapes-just-like-humans-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 03:05:08](https://news.ycombinator.com/item?id=47083145) - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-* [2026-02-20, 02:20:06](https://news.ycombinator.com/item?id=47082854) - [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
+* [2026-02-20, 02:20:06](https://news.ycombinator.com/item?id=47082854) - [Pi for Excel: AI sidebar add-in for Excel](https://github.com/tmustier/pi-for-excel)
 * [2026-02-20, 02:02:00](https://yro.slashdot.org/story/26/02/19/2247257/us-plans-online-portal-to-bypass-content-bans-in-europe-and-elsewhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Plans Online Portal To Bypass Content Bans In Europe and Elsewhere](https://yro.slashdot.org/story/26/02/19/2247257/us-plans-online-portal-to-bypass-content-bans-in-europe-and-elsewhere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 01:33:36](https://news.ycombinator.com/item?id=47082548) - [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
+* [2026-02-20, 01:31:28](https://lobste.rs/s/b80lmi/reading_undocumented_mems) - [reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
 * [2026-02-20, 01:28:47](https://news.ycombinator.com/item?id=47082496) - [MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes](https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea)
 * [2026-02-20, 01:25:00](https://hardware.slashdot.org/story/26/02/19/2219256/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California&apos;s New Bill Requires DOJ-Approved 3D Printers That Report on Themselves](https://hardware.slashdot.org/story/26/02/19/2219256/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 00:45:00](https://tech.slashdot.org/story/26/02/19/226258/google-announces-gemini-31-pro-for-complex-problem-solving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Announces Gemini 3.1 Pro For &apos;Complex Problem-Solving&apos;](https://tech.slashdot.org/story/26/02/19/226258/google-announces-gemini-31-pro-for-complex-problem-solving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -83,12 +92,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 22:40:00](https://it.slashdot.org/story/26/02/19/2151205/irs-loses-40-of-it-staff-80-of-tech-leaders-in-efficiency-shakeup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IRS Loses 40% of IT Staff, 80% of Tech Leaders In &apos;Efficiency&apos; Shakeup](https://it.slashdot.org/story/26/02/19/2151205/irs-loses-40-of-it-staff-80-of-tech-leaders-in-efficiency-shakeup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-19, 22:11:50](https://lobste.rs/s/9zos31/every_app_you_ve_built_is_etl_pipeline_you) - [Every app you&apos;ve built is an ETL pipeline (you just didn&apos;t call it that)](https://www.inngest.com/blog/etl-via-inngest)
 * [2026-02-19, 22:02:00](https://tech.slashdot.org/story/26/02/19/2145254/mark-zuckerberg-grilled-on-usage-goals-and-underage-users-at-california-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mark Zuckerberg Grilled On Usage Goals and Underage Users At California Trial](https://tech.slashdot.org/story/26/02/19/2145254/mark-zuckerberg-grilled-on-usage-goals-and-underage-users-at-california-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-19, 21:55:53](https://lobste.rs/s/7xjjol/towards_real_world_industrial_scale) - [Towards Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on seL4](https://arxiv.org/abs/2602.08384)
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
 * [2026-02-19, 21:21:00](https://slashdot.org/story/26/02/19/1945205/chinas-hottest-app-of-2026-just-asks-if-youre-still-alive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s Hottest App of 2026 Just Asks If You&apos;re Still Alive](https://slashdot.org/story/26/02/19/1945205/chinas-hottest-app-of-2026-just-asks-if-youre-still-alive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We&apos;re no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 * [2026-02-19, 20:45:00](https://hardware.slashdot.org/story/26/02/19/1939246/microsofts-new-10000-year-data-storage-medium-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft&apos;s New 10,000-Year Data Storage Medium: Glass](https://hardware.slashdot.org/story/26/02/19/1939246/microsofts-new-10000-year-data-storage-medium-glass?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-19, 20:32:09](https://news.ycombinator.com/item?id=47078840) - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
 * [2026-02-19, 20:21:23](https://lobste.rs/s/df1p8i/resurrecting_why_s_dream) - [Resurrecting _why&apos;s Dream](https://schwadlabs.io/blog/resurrecting-whys-dream)
 * [2026-02-19, 20:05:00](https://tech.slashdot.org/story/26/02/19/1924208/europes-labor-laws-are-strangling-its-ability-to-innovate-new-analysis-argues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Europe&apos;s Labor Laws Are Strangling Its Ability To Innovate, New Analysis Argues](https://tech.slashdot.org/story/26/02/19/1924208/europes-labor-laws-are-strangling-its-ability-to-innovate-new-analysis-argues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
@@ -97,10 +103,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 18:45:00](https://it.slashdot.org/story/26/02/19/1842201/llm-generated-passwords-look-strong-but-crack-in-hours-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LLM-Generated Passwords Look Strong but Crack in Hours, Researchers Find](https://it.slashdot.org/story/26/02/19/1842201/llm-generated-passwords-look-strong-but-crack-in-hours-researchers-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-19, 18:31:50](https://news.ycombinator.com/item?id=47077245) - [Archaeologists find possible first direct evidence of Hannibal&apos;s war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
-* [2026-02-19, 18:10:00](https://news.slashdot.org/story/26/02/19/182207/a-half-century-of-us-labor-data-shows-steady-retreat-from-evening-and-night-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Half-Century of US Labor Data Shows Steady Retreat From Evening and Night Work](https://news.slashdot.org/story/26/02/19/182207/a-half-century-of-us-labor-data-shows-steady-retreat-from-evening-and-night-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-19, 18:10:00](https://soylentnews.org/article.pl?sid=26/02/18/0735220&amp;from=rss) - [Ring Cancels Flock Deal After Dystopian Super Bowl Ad Prompts Mass Outrage](https://soylentnews.org/article.pl?sid=26/02/18/0735220&amp;from=rss)
 * [2026-02-19, 17:47:25](https://news.ycombinator.com/item?id=47076659) - [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
-* [2026-02-19, 17:35:00](https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Study Tracks How Businesses Quietly Replaced Freelancers With AI Tools](https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education) - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [2026-02-19, 17:04:20](https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux) - [Netbase a port of the netbsd utilities for linux](https://github.com/littlefly365/Netbase)
 * [2026-02-19, 16:54:23](https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax) - [Choosing a Language Based on its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
@@ -117,11 +121,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 12:36:00](https://news.ycombinator.com/item?id=47073112) - [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
 * [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)
 * [2026-02-19, 12:13:44](https://news.ycombinator.com/item?id=47072968) - [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
-* [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
 * [2026-02-19, 10:57:56](https://lobste.rs/s/eos5kb/pg_here_run_local_postgresql_instance) - [pg-here: Run a local PostgreSQL instance in your project folder with one command](https://github.com/mayfer/pg-here)
-* [2026-02-19, 10:55:13](https://news.ycombinator.com/item?id=47072444) - [Show HN: A physically-based GPU ray tracer written in Julia](https://makie.org/website/blogposts/raytracing/)
 * [2026-02-19, 09:59:09](https://lobste.rs/s/h75wx0/state_clojure_2025_results) - [State of Clojure 2025 Results](https://clojure.org/news/2026/02/18/state-of-clojure-2025)
-* [2026-02-19, 08:44:35](https://lobste.rs/s/6b26dm/tuple_spaces) - [Tuple Spaces](https://www.mcs.anl.gov/~itf/dbpp/text/node44.html#SECTION02550000000000000000)
 * [2026-02-19, 08:32:00](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss) - [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss)
 * [2026-02-19, 03:55:00](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss) - [Incredible Chinese Humanoid Robot Show on CCTV Chinese New Year TV Gala this Week](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss)
 * [2026-02-19, 01:09:04](https://lobste.rs/s/yyqxg6/how_openai_us_government_persona_built) - [how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds](https://vmfunc.re/blog/persona/)
@@ -139,6 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss)
 * [2026-02-17, 18:46:00](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss) - [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss)
 * [2026-02-17, 13:57:00](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss) - [AI Could Wipe Out Most White-Collar Jobs Within 12 Months, Microsoft AI Chief Warns](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss)
+* [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - [\&quot;ICE Out of Our Faces Act\&quot; Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss)
 * [2026-02-17, 04:28:00](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss) - [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss)
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Almost Every infrastructure decision I endorse or regret after 4 years](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
@@ -146,10 +148,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-16, 22:35:50](https://news.ycombinator.com/item?id=47041294) - [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
 * [2026-02-16, 18:58:00](https://soylentnews.org/article.pl?sid=26/02/14/0521202&amp;from=rss) - [John Carmack Proposes Fiber-Optic Loops as High-Speed AI Cache](https://soylentnews.org/article.pl?sid=26/02/14/0521202&amp;from=rss)
 * [2026-02-16, 17:57:46](https://news.ycombinator.com/item?id=47038032) - [Don&apos;t Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
-* [2026-02-16, 17:35:00](https://news.ycombinator.com/item?id=47037781) - [Zero downtime migrations at petabyte scale (2024)](https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale)
 * [2026-02-16, 14:49:24](https://news.ycombinator.com/item?id=47035698) - [Lindenmayer.jl: Defining recursive patterns in Julia](https://cormullion.github.io/Lindenmayer.jl/stable/)
 * [2026-02-16, 14:12:00](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&amp;from=rss) - [Europe&apos;s $24 Trillion Breakup With Visa and Mastercard](https://soylentnews.org/politics/article.pl?sid=26/02/14/0514214&amp;from=rss)
 * [2026-02-16, 09:31:00](https://soylentnews.org/article.pl?sid=26/02/14/0455240&amp;from=rss) - [Ubisoft Workers Strike in Protest of Job Cuts and Return-to-Office Mandate](https://soylentnews.org/article.pl?sid=26/02/14/0455240&amp;from=rss)
+* [2026-02-16, 05:27:35](https://news.ycombinator.com/item?id=47031197) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-16, 04:45:00](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss) - [Anthropic Launches New Model That Spots Zero Days](https://soylentnews.org/article.pl?sid=26/02/14/0452212&amp;from=rss)
 * [2026-02-16, 00:35:00](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss) - [Astronomers Discover the Surprising Reason for a Star&apos;s Disappearance](https://soylentnews.org/article.pl?sid=26/02/14/0517216&amp;from=rss)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A beginner&apos;s guide to split keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
