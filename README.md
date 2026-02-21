@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## NASA and Space Exploration
+## AI and Machine Learning
 
-* [NASA Eyes March 6 To Launch 4 Astronauts To the Moon On Artemis II Mission](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/) - A thought-provoking analysis on how Meta's AI deployment is impacting user autonomy and behavior.
 
-## AI Advancements and Critiques
+* [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) - A dive into the concept and development of AI agents working collaboratively using trees.
 
-* [OpenAI Has No Moat, No Tech Edge, No Lock-in and No Real Plan, Analyst Warns](https://slashdot.org/story/26/02/20/1849221/openai-has-no-moat-no-tech-edge-no-lock-in-and-no-real-plan-analyst-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [OpenAI Has No Moat, No Tech Edge, No Lock-in and No Real Plan, Analyst Warns](https://slashdot.org/story/26/02/20/1849221/openai-has-no-moat-no-tech-edge-no-lock-in-and-no-real-plan-analyst-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An analysis highlighting the challenges faced by OpenAI in maintaining a competitive advantage.
 
-* [AMC Theatres Will Refuse To Screen AI Short Film After Online Uproar](https://entertainment.slashdot.org/story/26/02/20/187222/amc-theatres-will-refuse-to-screen-ai-short-film-after-online-uproar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Every company building your AI assistant is now an ad company](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company) - A critique of the monetization strategies of modern AI assistant developers.
 
-* [Meta&apos;s Metaverse Leaves Virtual Reality](https://tech.slashdot.org/story/26/02/20/2235224/metas-metaverse-leaves-virtual-reality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Technology and Security Concerns
 
-* [Every company building your AI assistant is now an ad company](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+* [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems) - A legislative shift in Colorado requiring age verification at the OS level, impacting internet platforms and users alike.
 
-* [Cyber Stocks Slide As Anthropic Unveils &apos;Claude Code Security&apos;](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Fury Over Discord's Age Checks Explodes After Shady Persona Test In UK](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Backlash erupts over controversial age verification methods by Discord in the UK.
 
-## Privacy, Security, and Online Platforms
+* [Cyber Stocks Slide As Anthropic Unveils 'Claude Code Security'](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details on Anthropic's latest security-focused AI system and its impact on stock markets.
 
-* [Wikipedia Blacklists Archive.today, Starts Removing 695,000 Archive Links](https://news.slashdot.org/story/26/02/20/2112228/wikipedia-blacklists-archivetoday-starts-removing-695000-archive-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Microsoft Deletes Blog Telling Users To Train AI on Pirated Harry Potter Books](https://it.slashdot.org/story/26/02/20/1918241/microsoft-deletes-blog-telling-users-to-train-ai-on-pirated-harry-potter-books?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An embarrassing slip-up by Microsoft involving training AI models with copyrighted materials.
 
-* [Fury Over Discord&apos;s Age Checks Explodes After Shady Persona Test In UK](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss) - A report exposing security flaws in popular password management tools.
 
-* [PayPal Discloses Data Breach That Exposed User Info For 6 Months](https://slashdot.org/story/26/02/20/1733211/paypal-discloses-data-breach-that-exposed-user-info-for-6-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Space Exploration
 
-## Unique Studies and Discoveries
+* [NASA Eyes March 6 To Launch 4 Astronauts To the Moon On Artemis II Mission](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA plans its next ambitious mission to the moon, continuing its space exploration endeavors.
 
-* [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss)
+## Social and Cultural Shifts
 
-* [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss)
+* [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling) - A grassroots movement against surveillance technology as citizens take down cameras.
 
-* [This Bonobo Just Did Something Scientists Thought Only Humans Could Do](https://soylentnews.org/article.pl?sid=26/02/17/1842234&amp;from=rss)
+* [AMC Theatres Will Refuse To Screen AI Short Film After Online Uproar](https://entertainment.slashdot.org/story/26/02/20/187222/amc-theatres-will-refuse-to-screen-ai-short-film-after-online-uproar?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AMC's response to community backlash against an AI-assisted short film.
 
-## Notable Retirements and Industry Changes
+* [Streaming Service Crunchyroll Raises Prices Weeks After Killing its Free Tier](https://soylentnews.org/article.pl?sid=26/02/18/0737205&from=rss) - Price hikes following significant changes to Crunchyroll's subscription offerings stir mixed reactions.
 
-* [Phil Spencer Retiring After 38 Years At Microsoft](https://games.slashdot.org/story/26/02/20/2125252/phil-spencer-retiring-after-38-years-at-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Historical and Niche Insights
 
-* [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss)
+* [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch) - A nostalgic revival of Tim Berners-Lee's groundbreaking creation marking the dawn of the World Wide Web.
 
-* [Trump&apos;s global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
+* [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/) - Unveiling the enigma behind Toronto's curious underground tunnel.
 
-## Tech Innovations and Tutorials
-
-* [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
-
-* [Joinirc.at: Link to your IRC server on any client to onboard new users](https://joinirc.at)
-
-* [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
+* [Lil' Fun Langs](https://taylor.town/scrapscript-000) - A showcase of quirky and unconventional programming languages.
 
 ---
 
@@ -73,23 +67,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-21, 06:26:12](https://lobste.rs/s/rcewff/ajail_basic_jail_for_programs_you_don_t) - [ajail: a basic jail for programs you don&apos;t completely trust](https://github.com/jtolio/ajail)
+* [2026-02-21, 06:01:29](https://news.ycombinator.com/item?id=47097904) - [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems)
+* [2026-02-21, 04:29:40](https://news.ycombinator.com/item?id=47097502) - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+* [2026-02-21, 03:43:01](https://lobste.rs/s/bfzbim/process_isolation_on_netbsd_with_chroot) - [Process Isolation on NetBSD with chroot](https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html)
 * [2026-02-21, 03:30:00](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Eyes March 6 To Launch 4 Astronauts To the Moon On Artemis II Mission](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-21, 02:40:24](https://news.ycombinator.com/item?id=47096937) - [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
+* [2026-02-21, 03:20:00](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss) - [Palo Alto CEO Says AI Isn&apos;t Great for Business, Yet](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss)
 * [2026-02-21, 02:02:00](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fury Over Discord&apos;s Age Checks Explodes After Shady Persona Test In UK](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 01:33:40](https://news.ycombinator.com/item?id=47096520) - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 * [2026-02-21, 01:27:35](https://news.ycombinator.com/item?id=47096466) - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
 * [2026-02-21, 01:25:00](https://tech.slashdot.org/story/26/02/20/2243230/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pinterest Is Drowning in a Sea of AI Slop and Auto-Moderation](https://tech.slashdot.org/story/26/02/20/2243230/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-21, 00:51:05](https://news.ycombinator.com/item?id=47096210) - [Claude Code&apos;s compaction discards data that&apos;s still on disk](https://github.com/anthropics/claude-code/issues/26771)
 * [2026-02-21, 00:45:00](https://tech.slashdot.org/story/26/02/20/2235224/metas-metaverse-leaves-virtual-reality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s Metaverse Leaves Virtual Reality](https://tech.slashdot.org/story/26/02/20/2235224/metas-metaverse-leaves-virtual-reality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 00:35:31](https://lobste.rs/s/slfm4t/joinirc_at_link_your_irc_server_on_any) - [joinirc.at: Link to your IRC server on any client to onboard new users](https://joinirc.at)
 * [2026-02-21, 00:02:00](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyber Stocks Slide As Anthropic Unveils &apos;Claude Code Security&apos;](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-20, 23:35:15](https://news.ycombinator.com/item?id=47095592) - [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
 * [2026-02-20, 23:20:00](https://news.slashdot.org/story/26/02/20/2134238/goldman-sachs-launches-ai-free-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Goldman Sachs Launches AI-Free Index](https://news.slashdot.org/story/26/02/20/2134238/goldman-sachs-launches-ai-free-index?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 23:19:12](https://news.ycombinator.com/item?id=47095429) - [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
 * [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 * [2026-02-20, 22:40:00](https://news.slashdot.org/story/26/02/20/2112228/wikipedia-blacklists-archivetoday-starts-removing-695000-archive-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia Blacklists Archive.today, Starts Removing 695,000 Archive Links](https://news.slashdot.org/story/26/02/20/2112228/wikipedia-blacklists-archivetoday-starts-removing-695000-archive-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss)
-* [2026-02-20, 22:27:56](https://news.ycombinator.com/item?id=47094877) - [Don&apos;t create .gitkeep files, use .gitignore instead (2023)](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
 * [2026-02-20, 22:00:00](https://games.slashdot.org/story/26/02/20/2125252/phil-spencer-retiring-after-38-years-at-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Phil Spencer Retiring After 38 Years At Microsoft](https://games.slashdot.org/story/26/02/20/2125252/phil-spencer-retiring-after-38-years-at-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
@@ -116,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-20, 17:34:12](https://news.ycombinator.com/item?id=47091071) - [Lil&apos; Fun Langs](https://taylor.town/scrapscript-000)
 * [2026-02-20, 17:20:06](https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with) - [finding credentials in .msi files with msiexec](https://ljb.fyi/your-msi-isnt-an-executable/)
 * [2026-02-20, 17:20:00](https://it.slashdot.org/story/26/02/20/167244/hsbc-to-investors-if-india-couldnt-build-an-enterprise-software-challenger-neither-can-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HSBC To Investors: If India Couldn&apos;t Build an Enterprise Software Challenger, Neither Can AI](https://it.slashdot.org/story/26/02/20/167244/hsbc-to-investors-if-india-couldnt-build-an-enterprise-software-challenger-neither-can-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-20, 17:02:15](https://news.ycombinator.com/item?id=47090610) - [Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
 * [2026-02-20, 16:58:16](https://lobste.rs/s/bi9wsi/death_scroll_fade) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-02-20, 16:57:52](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for) - [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat)
 * [2026-02-20, 15:52:15](https://lobste.rs/s/rxsphs/ipv6_adoption_2026) - [IPv6 Adoption in 2026](https://www.netmeister.org/blog/ipv6-adoption.html)
@@ -135,10 +129,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
 * [2026-02-20, 08:43:40](https://lobste.rs/s/gkv4xd/internationalise_fediverse_2024) - [Internationalise The Fediverse (2024)](https://shkspr.mobi/blog/2024/02/internationalise-the-fediverse/)
 * [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss)
-* [2026-02-20, 05:51:58](https://lobste.rs/s/2mkkpo/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 * [2026-02-20, 04:10:37](https://lobste.rs/s/wk6rjh/claude_c_compiler_what_it_reveals_about) - [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
 * [2026-02-20, 03:49:00](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss) - [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss)
-* [2026-02-20, 03:36:56](https://lobste.rs/s/zddzgo/dillo_appreciation_post) - [The Dillo Appreciation Post](https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/)
 * [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
 * [2026-02-19, 22:56:00](https://soylentnews.org/article.pl?sid=26/02/18/0737205&amp;from=rss) - [Streaming Service Crunchyroll Raises Prices Weeks After Killing its Free Tier](https://soylentnews.org/article.pl?sid=26/02/18/0737205&amp;from=rss)
 * [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
@@ -149,6 +141,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 08:32:00](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss) - [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss)
 * [2026-02-19, 03:55:00](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss) - [Incredible Chinese Humanoid Robot Show on CCTV Chinese New Year TV Gala this Week](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss)
 * [2026-02-18, 23:08:00](https://soylentnews.org/article.pl?sid=26/02/17/1849228&amp;from=rss) - [How to Incentivize Problem Solving in Groups](https://soylentnews.org/article.pl?sid=26/02/17/1849228&amp;from=rss)
+* [2026-02-18, 20:12:13](https://news.ycombinator.com/item?id=47065729) - [Microsoft team creates &apos;revolutionary&apos; data storage system that lasts millennia](https://www.nature.com/articles/d41586-026-00502-2)
 * [2026-02-18, 18:21:00](https://soylentnews.org/article.pl?sid=26/02/17/1842234&amp;from=rss) - [This Bonobo Just Did Something Scientists Thought Only Humans Could Do](https://soylentnews.org/article.pl?sid=26/02/17/1842234&amp;from=rss)
 * [2026-02-18, 18:04:18](https://news.ycombinator.com/item?id=47064048) - [Reproducible and traceable configuration for Conan C and C++ package manager](https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html)
 * [2026-02-18, 13:39:00](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss) - [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss)
@@ -158,7 +151,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)
 * [2026-02-17, 23:27:00](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss) - [How the GNU C Compiler Became the Clippy of Cryptography](https://soylentnews.org/article.pl?sid=26/02/16/2248253&amp;from=rss)
 * [2026-02-17, 18:46:00](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss) - [Why We Sleep Poorly in New Environments: A Brain Circuit That Keeps Animals Awake](https://soylentnews.org/article.pl?sid=26/02/16/2246259&amp;from=rss)
+* [2026-02-17, 14:36:19](https://news.ycombinator.com/item?id=47047936) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
 * [2026-02-17, 13:57:00](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss) - [AI Could Wipe Out Most White-Collar Jobs Within 12 Months, Microsoft AI Chief Warns](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss)
 * [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - [\&quot;ICE Out of Our Faces Act\&quot; Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss)
+* [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-17, 04:28:00](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss) - [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss)
