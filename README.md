@@ -1,44 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging AI Technologies and Issues
+## Societal and Technological Impacts
 
-* [Palo Alto CEO Says AI Isn't Great for Business, Yet](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss) - Insights into the practical limitations of AI in business contexts.
+* [The Salvation Army Opens a Digital Thrift Store On Roblox](https://games.slashdot.org/story/26/02/21/0632214/the-salvation-army-opens-a-digital-thrift-store-on-roblox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://games.slashdot.org/story/26/02/21/0632214/the-salvation-army-opens-a-digital-thrift-store-on-roblox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) - A new approach for managing multi-agent AI systems.
+* [AIRD - a New Term for Workers Freaking Out Over Being Replaced by AI](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss))
 
-* [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - A cutting-edge AI-powered blacklist for uBlock.
+## Environmental and Health Concerns
 
-* [OpenAI's First ChatGPT Gadget Could Be a Smart Speaker With a Camera](https://hardware.slashdot.org/story/26/02/21/0049226/openais-first-chatgpt-gadget-could-be-a-smart-speaker-with-a-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI teases its upcoming smart device with integrated ChatGPT functionality.
+* [Researchers Discover Ancient Bacteria Strain That Resists 10 Modern Antibiotics](https://science.slashdot.org/story/26/02/21/0614256/researchers-discover-ancient-bacteria-strain-that-resists-10-modern-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/02/21/0614256/researchers-discover-ancient-bacteria-strain-that-resists-10-modern-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Developments in Technology and Security
+* [Hazardous Substances Found In All Headphones Tested By ToxFREE Project](https://science.slashdot.org/story/26/02/21/0056213/hazardous-substances-found-in-all-headphones-tested-by-toxfree-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/02/21/0056213/hazardous-substances-found-in-all-headphones-tested-by-toxfree-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) - Controversial technology behind age-verification raises privacy concerns.
+* [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html) ([Comments](https://news.ycombinator.com/item?id=47102576))
 
-* [Coccinelle: The Linux kernel's source-to-source transformation tool](https://github.com/coccinelle/coccinelle) - Powerful transformation tool for Linux kernel code.
+## Nostalgia and Retro Tech
 
-* [ajail: a basic jail for programs you don't completely trust](https://github.com/jtolio/ajail) - A minimal sandboxing tool for running untrusted software.
+* [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/) ([Comments](https://news.ycombinator.com/item?id=47102763))
 
-## Space Exploration
+* [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch) ([Comments](https://news.ycombinator.com/item?id=47095429))
 
-* [NASA Eyes March 6 To Launch 4 Astronauts To the Moon On Artemis II Mission](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Upcoming lunar mission brings humanity closer to returning to the Moon.
+## Tools for Developers
 
-## Environmental Innovations
+* [Coccinelle: The Linux kernel&apos;s source-to-source transformation tool](https://github.com/coccinelle/coccinelle) ([Comments](https://news.ycombinator.com/item?id=47098669))
 
-* [US Particle Accelerators Turn Nuclear Waste Into Electricity, Cut Radioactive Life By 99.7%](https://hardware.slashdot.org/story/26/02/21/0043212/us-particle-accelerators-turn-nuclear-waste-into-electricity-cut-radioactive-life-by-997?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative use of particle accelerators reduces nuclear waste hazards.
+* [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat) ([Comments](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for))
 
-* [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss) - Data centers explore sustainable energy solutions with uranium.
+* [cereggii: Thread synchronization utilities for Python](https://github.com/dpdani/cereggii) ([Comments](https://lobste.rs/s/7jojhi/cereggii_thread_synchronization))
 
-## Privacy and Online Policies
+## Digital Privacy and Security
 
-* [Wikipedia blacklists Archive.today, starts removing 695,000 archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/) - Controversial decision by Wikipedia sparks debate.
+* [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html) ([Comments](https://news.ycombinator.com/item?id=47102576))
 
-* [I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/) - Personal experience revealing LinkedIn's identity verification practices.
-
-## Miscellaneous Innovations and Trends
-
-* [The Fastest Way to Board an Airplane](https://navendu.me/posts/airlines-hate-this-trick/) - A surprising experiment on optimizing airline boarding.
-
-* [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html) - Atmospheric storytelling focused on the ocean's natural wonders.
+* [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss))
 
 ---
 
@@ -65,12 +59,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-21, 18:34:00](https://games.slashdot.org/story/26/02/21/0632214/the-salvation-army-opens-a-digital-thrift-store-on-roblox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Salvation Army Opens a Digital Thrift Store On Roblox](https://games.slashdot.org/story/26/02/21/0632214/the-salvation-army-opens-a-digital-thrift-store-on-roblox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-21, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss) - [AIRD -  a New Term for Workers Freaking Out Over Being Replaced by AI](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss)
+* [2026-02-21, 17:34:00](https://science.slashdot.org/story/26/02/21/0614256/researchers-discover-ancient-bacteria-strain-that-resists-10-modern-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Discover Ancient Bacteria Strain That Resists 10 Modern Antibiotics](https://science.slashdot.org/story/26/02/21/0614256/researchers-discover-ancient-bacteria-strain-that-resists-10-modern-antibiotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-21, 17:26:17](https://news.ycombinator.com/item?id=47102763) - [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
+* [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
+* [2026-02-21, 16:45:03](https://lobste.rs/s/reslsr/ipv6_address_assignment) - [IPv6 address assignment](https://lpar.ATH0.com/posts/2026/02/ipv6-address-assignment/)
+* [2026-02-21, 16:34:00](https://tech.slashdot.org/story/26/02/21/0530202/is-brain-rot-real-how-too-much-time-online-can-affect-your-mind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is &apos;Brain Rot&apos; Real? How Too Much Time Online Can Affect Your Mind.](https://tech.slashdot.org/story/26/02/21/0530202/is-brain-rot-real-how-too-much-time-online-can-affect-your-mind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
+* [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 * [2026-02-21, 15:37:09](https://lobste.rs/s/7jojhi/cereggii_thread_synchronization) - [cereggii: Thread synchronization utilities for Python](https://github.com/dpdani/cereggii)
 * [2026-02-21, 15:34:00](https://developers.slashdot.org/story/26/02/21/064205/how-pythons-security-response-team-keeps-python-users-safe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Python&apos;s Security Response Team Keeps Python Users Safe](https://developers.slashdot.org/story/26/02/21/064205/how-pythons-security-response-team-keeps-python-users-safe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 15:07:03](https://lobste.rs/s/wplgka/whale_fall) - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
-* [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS&apos;s Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
+* [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS&apos;s Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
-* [2026-02-21, 13:28:39](https://news.ycombinator.com/item?id=47100641) - [DJB&apos;s Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
 * [2026-02-21, 13:00:00](https://science.slashdot.org/story/26/02/21/0056213/hazardous-substances-found-in-all-headphones-tested-by-toxfree-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hazardous Substances Found In All Headphones Tested By ToxFREE Project](https://science.slashdot.org/story/26/02/21/0056213/hazardous-substances-found-in-all-headphones-tested-by-toxfree-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 12:55:54](https://lobste.rs/s/l0gv3h/fastest_way_board_airplane) - [The Fastest Way to Board an Airplane](https://navendu.me/posts/airlines-hate-this-trick/)
 * [2026-02-21, 12:55:00](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) - [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss)
@@ -78,22 +80,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-21, 12:02:14](https://news.ycombinator.com/item?id=47099982) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2026-02-21, 11:18:57](https://lobste.rs/s/haqwn0/wikipedia_blacklists_archive_today) - [Wikipedia blacklists Archive.today, starts removing 695,000 archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
 * [2026-02-21, 10:00:00](https://hardware.slashdot.org/story/26/02/21/0049226/openais-first-chatgpt-gadget-could-be-a-smart-speaker-with-a-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s First ChatGPT Gadget Could Be a Smart Speaker With a Camera](https://hardware.slashdot.org/story/26/02/21/0049226/openais-first-chatgpt-gadget-could-be-a-smart-speaker-with-a-camera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \&quot;Claws\&quot;](https://simonwillison.net/2026/Feb/21/claws/)
 * [2026-02-21, 08:26:36](https://news.ycombinator.com/item?id=47098669) - [Coccinelle: The Linux kernel&apos;s source-to-source transformation tool](https://github.com/coccinelle/coccinelle)
 * [2026-02-21, 08:12:00](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss) - [Visualizing the Internet in 2026](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss)
 * [2026-02-21, 08:10:49](https://news.ycombinator.com/item?id=47098582) - [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist)
-* [2026-02-21, 07:18:09](https://news.ycombinator.com/item?id=47098324) - [When etcd crashes, check your disks first](https://nubificus.co.uk/blog/etcd/)
 * [2026-02-21, 07:06:18](https://news.ycombinator.com/item?id=47098245) - [I Verified My LinkedIn Identity. Here&apos;s What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 * [2026-02-21, 07:00:00](https://hardware.slashdot.org/story/26/02/21/0043212/us-particle-accelerators-turn-nuclear-waste-into-electricity-cut-radioactive-life-by-997?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Particle Accelerators Turn Nuclear Waste Into Electricity, Cut Radioactive Life By 99.7%](https://hardware.slashdot.org/story/26/02/21/0043212/us-particle-accelerators-turn-nuclear-waste-into-electricity-cut-radioactive-life-by-997?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 06:26:12](https://lobste.rs/s/rcewff/ajail_basic_jail_for_programs_you_don_t) - [ajail: a basic jail for programs you don&apos;t completely trust](https://github.com/jtolio/ajail)
-* [2026-02-21, 03:43:01](https://lobste.rs/s/bfzbim/process_isolation_on_netbsd_with_chroot) - [Process Isolation on NetBSD with chroot](https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html)
 * [2026-02-21, 03:30:00](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Eyes March 6 To Launch 4 Astronauts To the Moon On Artemis II Mission](https://science.slashdot.org/story/26/02/20/238201/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 03:20:00](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss) - [Palo Alto CEO Says AI Isn&apos;t Great for Business, Yet](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss)
 * [2026-02-21, 02:02:00](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fury Over Discord&apos;s Age Checks Explodes After Shady Persona Test In UK](https://tech.slashdot.org/story/26/02/20/232201/fury-over-discords-age-checks-explodes-after-shady-persona-test-in-uk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 01:33:40](https://news.ycombinator.com/item?id=47096520) - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 * [2026-02-21, 01:31:01](https://lobste.rs/s/ax5slr/rise_fall_scala_love_letter_language) - [The Rise and Fall of Scala: A Love Letter to the Language That Broke My Heart](https://medium.com/@naveensky/the-language-that-made-me-feel-like-a-genius-until-it-didnt-my-breakup-with-scala-075a2ccfb24e)
-* [2026-02-21, 01:27:35](https://news.ycombinator.com/item?id=47096466) - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
 * [2026-02-21, 01:25:00](https://tech.slashdot.org/story/26/02/20/2243230/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pinterest Is Drowning in a Sea of AI Slop and Auto-Moderation](https://tech.slashdot.org/story/26/02/20/2243230/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-21, 00:56:29](https://news.ycombinator.com/item?id=47096253) - [Claws are now a new layer on top of LLM agents](https://twitter.com/karpathy/status/2024987174077432126)
 * [2026-02-21, 00:45:00](https://tech.slashdot.org/story/26/02/20/2235224/metas-metaverse-leaves-virtual-reality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s Metaverse Leaves Virtual Reality](https://tech.slashdot.org/story/26/02/20/2235224/metas-metaverse-leaves-virtual-reality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-21, 00:35:31](https://lobste.rs/s/slfm4t/joinirc_at_link_your_irc_server_on_any) - [joinirc.at: Link to your IRC server on any client to onboard new users](https://joinirc.at)
 * [2026-02-21, 00:02:00](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyber Stocks Slide As Anthropic Unveils &apos;Claude Code Security&apos;](https://it.slashdot.org/story/26/02/20/2143205/cyber-stocks-slide-as-anthropic-unveils-claude-code-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,14 +101,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-20, 22:40:00](https://news.slashdot.org/story/26/02/20/2112228/wikipedia-blacklists-archivetoday-starts-removing-695000-archive-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wikipedia Blacklists Archive.today, Starts Removing 695,000 Archive Links](https://news.slashdot.org/story/26/02/20/2112228/wikipedia-blacklists-archivetoday-starts-removing-695000-archive-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss)
 * [2026-02-20, 22:00:00](https://games.slashdot.org/story/26/02/20/2125252/phil-spencer-retiring-after-38-years-at-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Phil Spencer Retiring After 38 Years At Microsoft](https://games.slashdot.org/story/26/02/20/2125252/phil-spencer-retiring-after-38-years-at-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-20, 21:45:31](https://news.ycombinator.com/item?id=47094429) - [Loon: A functional lang with invisible types, safe ownership, and alg. effects](https://loonlang.com)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot off](https://words.filippo.io/dependabot/)
-* [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
-* [2026-02-20, 21:20:00](https://it.slashdot.org/story/26/02/20/1918241/microsoft-deletes-blog-telling-users-to-train-ai-on-pirated-harry-potter-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Deletes Blog Telling Users To Train AI on Pirated Harry Potter Books](https://it.slashdot.org/story/26/02/20/1918241/microsoft-deletes-blog-telling-users-to-train-ai-on-pirated-harry-potter-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
-* [2026-02-20, 20:44:00](https://slashdot.org/story/26/02/20/1849221/openai-has-no-moat-no-tech-edge-no-lock-in-and-no-real-plan-analyst-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Has No Moat, No Tech Edge, No Lock-in and No Real Plan, Analyst Warns](https://slashdot.org/story/26/02/20/1849221/openai-has-no-moat-no-tech-edge-no-lock-in-and-no-real-plan-analyst-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 20:40:14](https://lobste.rs/s/vpxzhe/i_found_vulnerability_they_found_lawyer) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 * [2026-02-20, 20:31:39](https://lobste.rs/s/gscaw3/turn_dependabot_off) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-* [2026-02-20, 20:05:00](https://tech.slashdot.org/story/26/02/20/1815253/several-meta-employees-have-started-calling-themselves-ai-builders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Several Meta Employees Have Started Calling Themselves &apos;AI Builders&apos;](https://tech.slashdot.org/story/26/02/20/1815253/several-meta-employees-have-started-calling-themselves-ai-builders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-20, 19:44:29](https://lobste.rs/s/t760l8/beginner_s_guide_split_keyboards) - [A Beginner’s Guide to Split Keyboards](https://justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 * [2026-02-20, 19:34:26](https://lobste.rs/s/zkby7e/lil_fun_langs) - [Lil&apos; Fun Langs](https://taylor.town/scrapscript-000)
 * [2026-02-20, 19:19:58](https://news.ycombinator.com/item?id=47092578) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
@@ -143,6 +138,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 03:55:00](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss) - [Incredible Chinese Humanoid Robot Show on CCTV Chinese New Year TV Gala this Week](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss)
 * [2026-02-18, 23:08:00](https://soylentnews.org/article.pl?sid=26/02/17/1849228&amp;from=rss) - [How to Incentivize Problem Solving in Groups](https://soylentnews.org/article.pl?sid=26/02/17/1849228&amp;from=rss)
 * [2026-02-18, 18:21:00](https://soylentnews.org/article.pl?sid=26/02/17/1842234&amp;from=rss) - [This Bonobo Just Did Something Scientists Thought Only Humans Could Do](https://soylentnews.org/article.pl?sid=26/02/17/1842234&amp;from=rss)
+* [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [2026-02-18, 13:39:00](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss) - [A Fluid Can Store Solar Energy and Then Release It as Heat Months Later](https://soylentnews.org/article.pl?sid=26/02/17/1321256&amp;from=rss)
 * [2026-02-18, 08:57:00](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss) - [New ClickFix Attack Abuses Nslookup to Retrieve PowerShell Payload Via DNS](https://soylentnews.org/article.pl?sid=26/02/17/1319222&amp;from=rss)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
@@ -154,7 +150,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-17, 16:43:39](https://news.ycombinator.com/item?id=47049499) - [Understanding Std:Shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
 * [2026-02-17, 13:57:00](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss) - [AI Could Wipe Out Most White-Collar Jobs Within 12 Months, Microsoft AI Chief Warns](https://soylentnews.org/article.pl?sid=26/02/15/2340202&amp;from=rss)
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it&apos;s the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
+* [2026-02-17, 12:40:37](https://news.ycombinator.com/item?id=47046858) - [Permacomputing](https://wiki.xxiivv.com/site/permacomputing.html)
 * [2026-02-17, 09:11:00](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss) - [\&quot;ICE Out of Our Faces Act\&quot; Would Ban ICE and CBP Use of Facial Recognition](https://soylentnews.org/article.pl?sid=26/02/15/2333213&amp;from=rss)
-* [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
-* [2026-02-17, 06:43:42](https://news.ycombinator.com/item?id=47044413) - [JWasm: Masm Compatible Assembler](https://github.com/Baron-von-Riedesel/JWasm)
 * [2026-02-17, 04:28:00](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss) - [Self-Driving Cars, Drones Hijacked by Custom Road Signs](https://soylentnews.org/article.pl?sid=26/02/15/2326234&amp;from=rss)
