@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific and Technological Innovations
+## Technology and AI Innovations
 
-* [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7) ([comments](https://news.ycombinator.com/item?id=47120201)): A detailed exploration of cosmic data collection methods for SETI research.
+* [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/) ([Comments](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai)) - The Ladybird browser integrates Rust with the assistance of AI, showcasing the intersection of advanced programming and machine learning practices.
 
-* [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html) ([comments](https://news.ycombinator.com/item?id=47120196)): A novel method combining paper tape and computer vision for audio playback.
+* [microgpt - LLM visualizer](https://microgpt.boratto.ca/) ([Comments](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer)) - A visualization tool for large language models (LLMs) aiming to make their structures and operations more comprehensible.
 
-* [Rule-Breaking Black Hole Growing At 13x the Cosmic 'Speed Limit' Challenges Theories](https://science.slashdot.org/story/26/02/23/0638227/rule-breaking-black-hole-growing-at-13x-the-cosmic-speed-limit-challenges-theories?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/02/23/0638227/rule-breaking-black-hole-growing-at-13x-the-cosmic-speed-limit-challenges-theories?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Astrophysical phenomenon defying established theoretical limits.
+* [Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://llm-timeline.com/) ([Comments](https://news.ycombinator.com/item?id=47119871)) - A timeline exploring the development of 171 large language models over the years culminating in 2026's milestones.
 
-* [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index) ([comments](https://news.ycombinator.com/item?id=47119274)): A sustainable innovation for industrial-scale packaging using mycelium technology.
+* [Pinterest is drowning in a sea of AI slop and auto-moderation](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/) ([Comments](https://news.ycombinator.com/item?id=47117966)) - An in-depth overview of Pinterest's struggle with AI-generated content and automated moderation.
 
-* [Raspberry Pi Stock Rises Over Its Possible Use With OpenClaw's AI Agents](https://build.slashdot.org/story/26/02/23/0012259/raspberry-pi-stock-rises-over-its-possible-use-with-openclaws-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://build.slashdot.org/story/26/02/23/0012259/raspberry-pi-stock-rises-over-its-possible-use-with-openclaws-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Increasing interest in Raspberry Pi for AI agent integrations.
+* [Should Job-Seekers Stop Using AI to Write Their Resumes?](https://it.slashdot.org/story/26/02/23/0531210/should-job-seekers-stop-using-ai-to-write-their-resumes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47117459)) - The ethics and implications of using AI for generating job application materials come under scrutiny.
 
-## AI and Automation
+## Notable Scientific Discoveries
 
-* [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies) ([comments](https://news.ycombinator.com/item?id=47119210)): A call to human creativity amidst the rise of AI-generated content.
+* [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47120201)) - A breakthrough at MIT unveils a concrete battery capable of packing unprecedented power capacity.
 
-* [Should Job-Seekers Stop Using AI to Write Their Resumes?](https://it.slashdot.org/story/26/02/23/0531210/should-job-seekers-stop-using-ai-to-write-their-resumes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/02/23/0531210/should-job-seekers-stop-using-ai-to-write-their-resumes?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Ethical and practical considerations in AI-generated resumes.
+* [Rule-Breaking Black Hole Growing At 13x the Cosmic 'Speed Limit' Challenges Theories](https://science.slashdot.org/story/26/02/23/0638227/rule-breaking-black-hole-growing-at-13x-the-cosmic-speed-limit-challenges-theories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47120196)) - Astrophysicists discover a black hole defying existing cosmic growth theories.
 
-## Corporate and Economic Shifts
+## Programming and Software Development
 
-* [Hetzner Prices increase 30-40%](https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/) ([comments](https://news.ycombinator.com/item?id=47120145)): Price adjustments at Hetzner signal growing operational costs.
+* [Designing Odin's Casting Syntax](https://www.gingerbill.org/article/2026/02/23/designing-odins-casting-syntax/) ([Comments](https://lobste.rs/s/0s4w9x/designing_odin_s_casting_syntax)) - An exploration of the syntax behind type casting in the Odin programming language.
 
-* [Elsevier shuts down its finance journal citation cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal) ([comments](https://news.ycombinator.com/item?id=47119530)): A breakdown of the controversial citation practices in academic publishing.
+* [Fast starting Clojure runtime built with GraalVM native-image + Crema](https://github.com/borkdude/cream) ([Comments](https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with)) - A fast Clojure runtime leveraging advanced tools like GraalVM and Crema for performance enhancements.
 
-* [Pinterest is drowning in a sea of AI slop and auto-moderation](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/) ([comments](https://news.ycombinator.com/item?id=47117966)): A critique of Pinterest's reliance on automation in content moderation.
+* [The JavaScript Oxidation Compiler](https://oxc.rs/) ([Comments](https://news.ycombinator.com/item?id=47117459)) - Introducing a new compiler for JavaScript aimed at improving development efficiency and performance.
 
-## Privacy and Security
+## Space and Astronomy
 
-* [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/22/1259218&from=rss)): Arguments for preserving privacy while pursuing growth.
+* [SETI@home: Data Acquisition and Front-End Processing (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7) ([Comments](https://news.ycombinator.com/item?id=47120201)) - Details on SETI@home's methodologies for data acquisition and processing in the search for extraterrestrial intelligence.
 
-* [Telegram Disputes Russia's Claim Its Encryption Was Compromised](https://it.slashdot.org/story/26/02/22/2332229/telegram-disputes-russias-claim-its-encryption-was-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/02/22/2332229/telegram-disputes-russias-claim-its-encryption-was-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed)): Telegram refutes claims of vulnerabilities in their encryption technology.
+## Tech Industry Updates
 
-* [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/19/1610250&from=rss)): Insights into password manager security risks.
+* [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/) ([Comments](https://news.ycombinator.com/item?id=47121029)) - European hosting company Hetzner announces significant price adjustments.
 
-## Space and Exploration
+* [Elsevier shuts down its finance journal citation cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal) ([Comments](https://news.ycombinator.com/item?id=47119530)) - A controversial business practice involving finance journal citations comes to light.
 
-* [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/21/1339255&from=rss)): Updates on Artemis 2 preparations following Starliner review.
+## Environment and Innovative Packaging
 
-* [Did We Just See a Black Hole Explode?](https://soylentnews.org/article.pl?sid=26/02/21/137227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/21/137227&from=rss)): Analysis of potentially explosive black hole activity.
+* [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index) ([Comments](https://news.ycombinator.com/item?id=47119274)) - Pioneering efforts in eco-friendly packaging utilizing mycelium fungi.
 
 ---
 
@@ -65,10 +65,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
-* [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
-* [2026-02-23, 09:52:14](https://news.ycombinator.com/item?id=47120145) - [Hetzner Prices increase 30-40%](https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/)
+* [2026-02-23, 13:28:15](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
+* [2026-02-23, 13:20:43](https://lobste.rs/s/7zdq2s/you_don_t_need_free_lists) - [You don&apos;t need free lists](https://jakubtomsu.github.io/posts/bit_pools/)
+* [2026-02-23, 12:55:10](https://lobste.rs/s/0s4w9x/designing_odin_s_casting_syntax) - [Designing Odin&apos;s Casting Syntax](https://www.gingerbill.org/article/2026/02/23/designing-odins-casting-syntax/)
+* [2026-02-23, 12:47:33](https://lobste.rs/s/tbsdd4/cursed_engineering_jumping_randomly) - [Cursed engineering: jumping randomly through CSV files without hurting yourself](https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md)
+* [2026-02-23, 12:43:53](https://lobste.rs/s/w0hlpk/queues_for_kafka_ready_for_prime_time) - [Queues for Kafka ready for prime time](https://freedium-mirror.cfd/https://medium.com/@andrew_schofield/queues-for-kafka-ready-for-prime-time-988f5c58b8f7)
+* [2026-02-23, 12:34:00](https://developers.slashdot.org/story/26/02/23/0732245/is-ai-impacting-which-programming-language-projects-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is AI Impacting Which Programming Language Projects Use?](https://developers.slashdot.org/story/26/02/23/0732245/is-ai-impacting-which-programming-language-projects-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss)
+* [2026-02-23, 12:01:46](https://news.ycombinator.com/item?id=47121210) - [Facebook&apos;s Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
+* [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
+* [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+* [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
+* [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment_hetzner_docs) - [Hetzner Price Adjustment - Hetzner Docs](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+* [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
+* [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision (2021)](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
+* [2026-02-23, 09:41:54](https://news.ycombinator.com/item?id=47120079) - [What I Learned After Building 3 TV Apps Coming from Mobile](https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/)
 * [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)
+* [2026-02-23, 09:07:44](https://news.ycombinator.com/item?id=47119871) - [Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://llm-timeline.com/)
 * [2026-02-23, 08:34:00](https://science.slashdot.org/story/26/02/23/0638227/rule-breaking-black-hole-growing-at-13x-the-cosmic-speed-limit-challenges-theories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rule-Breaking Black Hole Growing At 13x the Cosmic &apos;Speed Limit&apos; Challenges Theories](https://science.slashdot.org/story/26/02/23/0638227/rule-breaking-black-hole-growing-at-13x-the-cosmic-speed-limit-challenges-theories?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
 * [2026-02-23, 08:22:34](https://news.ycombinator.com/item?id=47119530) - [Elsevier shuts down its finance journal citation cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
@@ -82,41 +95,32 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 04:16:00](https://news.ycombinator.com/item?id=47118055) - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
 * [2026-02-23, 04:03:58](https://news.ycombinator.com/item?id=47117966) - [Pinterest is drowning in a sea of AI slop and auto-moderation](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
 * [2026-02-23, 04:01:49](https://news.ycombinator.com/item?id=47117946) - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
+* [2026-02-23, 03:54:32](https://news.ycombinator.com/item?id=47117886) - [Crawling a billion web pages in just over 24 hours, in 2025](https://andrewkchan.dev/posts/crawler.html)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss)
-* [2026-02-23, 02:54:58](https://lobste.rs/s/5rrpem/using_nsnotifyd_with_powerdns_secondary) - [Using nsnotifyd with a PowerDNS Secondary](https://blog.feld.me/posts/2026/02/nsnotifyd-with-powerdns-secondary/)
 * [2026-02-23, 02:49:31](https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with) - [Fast starting Clojure runtime built with GraalVM native-image + Crema](https://github.com/borkdude/cream)
 * [2026-02-23, 02:49:16](https://news.ycombinator.com/item?id=47117459) - [The JavaScript Oxidation Compiler](https://oxc.rs/)
 * [2026-02-23, 02:34:00](https://build.slashdot.org/story/26/02/23/0012259/raspberry-pi-stock-rises-over-its-possible-use-with-openclaws-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Raspberry Pi Stock Rises Over Its Possible Use With OpenClaw&apos;s AI Agents](https://build.slashdot.org/story/26/02/23/0012259/raspberry-pi-stock-rises-over-its-possible-use-with-openclaws-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-23, 02:31:46](https://lobste.rs/s/biattx/official_specification_reference_code) - [Official specification and reference code for Fast Lightweight Online Encryption (FLOE)](https://github.com/Snowflake-Labs/floe-specification)
-* [2026-02-23, 02:07:27](https://news.ycombinator.com/item?id=47117169) - [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
 * [2026-02-23, 01:38:11](https://lobste.rs/s/zbirtc/jit_header_only_cross_platform_jit) - [jit: A header-only, cross-platform JIT compiler library in C. Targets x86-32, x86-64, ARM32 and ARM64](https://github.com/abdimoallim/jit)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
 * [2026-02-22, 23:45:00](https://it.slashdot.org/story/26/02/22/2332229/telegram-disputes-russias-claim-its-encryption-was-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Telegram Disputes Russia&apos;s Claim Its Encryption Was Compromised](https://it.slashdot.org/story/26/02/22/2332229/telegram-disputes-russias-claim-its-encryption-was-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 23:07:55](https://news.ycombinator.com/item?id=47115805) - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
-* [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 22:34:00](https://tech.slashdot.org/story/26/02/22/2157236/evs-are-already-making-your-air-cleaner-research-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EVs Are Already Making Your Air Cleaner, Research Shows](https://tech.slashdot.org/story/26/02/22/2157236/evs-are-already-making-your-air-cleaner-research-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 22:10:00](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss) - [Richard Stallman: The Legend of Software Freedom That Saved the World](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss)
 * [2026-02-22, 21:34:00](https://tech.slashdot.org/story/26/02/22/2019241/long-before-tech-ceos-turned-to-layoffs-to-cover-ai-expenses-there-was-worldcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Long Before Tech CEOs Turned To Layoffs To Cover AI Expenses, There Was WorldCom](https://tech.slashdot.org/story/26/02/22/2019241/long-before-tech-ceos-turned-to-layoffs-to-cover-ai-expenses-there-was-worldcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 20:50:23](https://news.ycombinator.com/item?id=47114530) - [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
 * [2026-02-22, 20:34:00](https://news.slashdot.org/story/26/02/22/1926234/open-source-registries-dont-have-enough-money-to-implement-basic-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Open Source Registries Don&apos;t Have Enough Money To Implement Basic Security&apos;](https://news.slashdot.org/story/26/02/22/1926234/open-source-registries-dont-have-enough-money-to-implement-basic-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 19:57:03](https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31) - [confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
-* [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
+* [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth_2015) - [The Tears of Donald Knuth (2015)](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:40:40](https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [2026-02-22, 19:34:00](https://hardware.slashdot.org/story/26/02/22/1810206/researchers-develop-detachable-crawling-robotic-hand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Develop Detachable Crawling Robotic Hand](https://hardware.slashdot.org/story/26/02/22/1810206/researchers-develop-detachable-crawling-robotic-hand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 19:32:54](https://lobste.rs/s/pnvimn/bit_fields) - [Bit-fields](https://mocelik.com/c/bit-fields/)
-* [2026-02-22, 19:25:15](https://lobste.rs/s/ch5jcd/documentary_about_mozilla_firefox_at) - [Documentary about Mozilla Firefox at pwn2own (part 1)](https://www.youtube.com/watch?v=YQEq5s4SRxY)
 * [2026-02-22, 19:21:21](https://news.ycombinator.com/item?id=47113796) - [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/)
 * [2026-02-22, 19:12:31](https://news.ycombinator.com/item?id=47113728) - [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 * [2026-02-22, 18:56:40](https://news.ycombinator.com/item?id=47113618) - [Loops is a federated, open-source TikTok](https://joinloops.org/)
-* [2026-02-22, 18:52:05](https://lobste.rs/s/ihlgsi/cslib_lean_computer_science_library) - [CSLib: The Lean Computer Science Library](https://arxiv.org/abs/2602.04846)
-* [2026-02-22, 18:50:14](https://news.ycombinator.com/item?id=47113567) - [Show HN: Local-First Linux MicroVMs for macOS](https://shuru.run)
-* [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
 * [2026-02-22, 18:34:00](https://slashdot.org/story/26/02/22/1632217/ai-now-helps-manage-16-of-americas-apartments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Now Helps Manage 16% of America&apos;s Apartments](https://slashdot.org/story/26/02/22/1632217/ai-now-helps-manage-16-of-americas-apartments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-22, 17:39:50](https://news.ycombinator.com/item?id=47112925) - [Hello Worg, the Org-Mode Community](https://orgmode.org/worg/)
 * [2026-02-22, 17:34:00](https://slashdot.org/story/26/02/22/0650216/amazon-disputes-report-an-aws-service-was-taken-down-by-its-ai-coding-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Disputes Report an AWS Service Was Taken Down By Its AI Coding Bot](https://slashdot.org/story/26/02/22/0650216/amazon-disputes-report-an-aws-service-was-taken-down-by-its-ai-coding-bot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss)
 * [2026-02-22, 17:16:58](https://lobste.rs/s/y5dgkw/back_freebsd_part_1) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-* [2026-02-22, 16:40:21](https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
 * [2026-02-22, 16:34:00](https://hardware.slashdot.org/story/26/02/22/0510212/man-accidentally-gains-control-of-7000-robot-vacuums?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Man Accidentally Gains Control of 7,000 Robot Vacuums](https://hardware.slashdot.org/story/26/02/22/0510212/man-accidentally-gains-control-of-7000-robot-vacuums?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 16:12:31](https://news.ycombinator.com/item?id=47112174) - [Fix your tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-22, 15:34:00](https://news.slashdot.org/story/26/02/22/0213244/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [F-35 Software Could Be Jailbreaked Like an IPhone: Dutch Defense Minister](https://news.slashdot.org/story/26/02/22/0213244/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -128,22 +132,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-22, 11:34:00](https://developers.slashdot.org/story/26/02/22/0620244/has-the-ai-disruption-arrived---and-will-it-just-make-software-cheaper-and-more-accessible?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Has the AI Disruption Arrived - and Will It Just Make Software Cheaper and More Accessible?](https://developers.slashdot.org/story/26/02/22/0620244/has-the-ai-disruption-arrived---and-will-it-just-make-software-cheaper-and-more-accessible?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 09:23:54](https://lobste.rs/s/vdueen/you_are_not_left_behind) - [You are not left behind](https://www.ufried.com/blog/not_left_behind/)
 * [2026-02-22, 08:34:00](https://news.slashdot.org/story/26/02/21/0735210/after-16-years-interim-cto-finally-eradicating-fujitsu-and-horizon-from-the-uks-post-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After 16 Years, &apos;Interim&apos; CTO Finally Eradicating Fujitsu and Horizon From the UK&apos;s Post Office](https://news.slashdot.org/story/26/02/21/0735210/after-16-years-interim-cto-finally-eradicating-fujitsu-and-horizon-from-the-uks-post-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-22, 08:23:04](https://lobste.rs/s/4ypj10/cosmologically_unique_ids) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
 * [2026-02-22, 07:59:00](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss) - [It&apos;s Time to Get Rid of Networked Cameras](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss)
 * [2026-02-22, 05:54:28](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason) - [Proposal: add \&quot;AI generated\&quot; as a flag reason](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason)
-* [2026-02-22, 05:34:00](https://ask.slashdot.org/story/26/02/22/0111249/ask-slashdot-whats-your-boot-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot:  What&apos;s Your Boot Time?](https://ask.slashdot.org/story/26/02/22/0111249/ask-slashdot-whats-your-boot-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-22, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss) - [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss)
 * [2026-02-22, 02:32:21](https://lobste.rs/s/s3en46/fix_your_tools) - [Fix your tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-21, 22:32:00](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss) - [Did We Just See a Black Hole Explode?](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss)
-* [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss) - [AIRD -  a New Term for Workers Freaking Out Over Being Replaced by AI](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss)
 * [2026-02-21, 12:55:00](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) - [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss)
+* [2026-02-21, 12:02:06](https://news.ycombinator.com/item?id=47099980) - [Pipelined Relational Query Language, Pronounced \&quot;Prequel\&quot;](https://prql-lang.org/)
 * [2026-02-21, 08:12:00](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss) - [Visualizing the Internet in 2026](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss)
 * [2026-02-21, 03:20:00](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss) - [Palo Alto CEO Says AI Isn&apos;t Great for Business, Yet](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss)
 * [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss)
 * [2026-02-20, 17:56:00](https://soylentnews.org/article.pl?sid=26/02/19/178226&amp;from=rss) - [OpenClaw Security Fears Lead Meta, Other AI Firms to Restrict its Use](https://soylentnews.org/article.pl?sid=26/02/19/178226&amp;from=rss)
 * [2026-02-20, 13:13:00](https://soylentnews.org/article.pl?sid=26/02/19/1613238&amp;from=rss) - [Texas Sues Wi-Fi Router Maker Over Alleged China Links](https://soylentnews.org/article.pl?sid=26/02/19/1613238&amp;from=rss)
-* [2026-02-20, 11:56:25](https://news.ycombinator.com/item?id=47086900) - [A bug is a bug, but a patch is a policy: The case for bootable containers](https://tuananh.net/2026/02/20/patch-is-policy/)
 * [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss)
 * [2026-02-20, 03:49:00](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss) - [Password Managers Less Secure Than Promised](https://soylentnews.org/article.pl?sid=26/02/19/1610250&amp;from=rss)
 * [2026-02-19, 22:56:00](https://soylentnews.org/article.pl?sid=26/02/18/0737205&amp;from=rss) - [Streaming Service Crunchyroll Raises Prices Weeks After Killing its Free Tier](https://soylentnews.org/article.pl?sid=26/02/18/0737205&amp;from=rss)
@@ -151,7 +152,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-19, 18:10:00](https://soylentnews.org/article.pl?sid=26/02/18/0735220&amp;from=rss) - [Ring Cancels Flock Deal After Dystopian Super Bowl Ad Prompts Mass Outrage](https://soylentnews.org/article.pl?sid=26/02/18/0735220&amp;from=rss)
 * [2026-02-19, 16:42:04](https://news.ycombinator.com/item?id=47075716) - [The Musidex: A physical music library for the streaming era](https://hannahilea.com/blog/musidex/)
 * [2026-02-19, 16:23:39](https://news.ycombinator.com/item?id=47075455) - [Sub-$200 Lidar could reshuffle auto sensor economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
-* [2026-02-19, 14:23:40](https://news.ycombinator.com/item?id=47074049) - [Cursor’s debug mode is arguably its best feature](https://davidgomes.com/cursor-debug-mode/)
 * [2026-02-19, 13:24:00](https://soylentnews.org/article.pl?sid=26/02/18/0145204&amp;from=rss) - [What in the World Is Going on in Our Public Schools?](https://soylentnews.org/article.pl?sid=26/02/18/0145204&amp;from=rss)
 * [2026-02-19, 08:32:00](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss) - [Western Digital Has No More HDD Capacity Left, as CEO Reveals Massive AI Deals](https://soylentnews.org/article.pl?sid=26/02/18/0143232&amp;from=rss)
 * [2026-02-19, 03:55:00](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss) - [Incredible Chinese Humanoid Robot Show on CCTV Chinese New Year TV Gala this Week](https://soylentnews.org/article.pl?sid=26/02/18/0140215&amp;from=rss)
