@@ -1,44 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Quantum Computing and Algorithms
 
-* [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/) - A deep dive into optimizing HTML generation processes for faster, more efficient web development. [Comments](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000)
+* [Quantum Algorithm Beats Classical Tools On Complement Sampling Tasks](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers showcase a quantum algorithm outperforming classical methods in complement sampling tasks. [Comments](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/) - Explore the cutting-edge innovation of a CSS-based x86 CPU emulator that has sparked interest across the tech community. [Comments](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css)
+## Artificial Intelligence and Machine Learning
 
-* [trolley: Run terminal apps anywhere](https://github.com/weedonandscott/trolley) - Learn about a new tool that allows running terminal applications from anywhere. [Comments](https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere)
+* [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171) - A deep dive into the problems posed by AI-generated replies becoming pervasive. [Comments](https://news.ycombinator.com/item?id=47134946)
 
-* [FreeBSD doesn&apos;t have Wi-Fi driver for my old MacBook, so AI built one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/) - An intriguing account of how AI was used to create a Wi-Fi driver for an old MacBook. [Comments](https://news.ycombinator.com/item?id=47129361)
+* [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/) - The new iteration of Firefox introduces an AI kill switch among exciting features. [Comments](https://news.ycombinator.com/item?id=47133313)
 
-## Artificial Intelligence Developments
+* [Blood test boosts Alzheimer&apos;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html) - Study finds significant progress in Alzheimer's disease diagnosis using blood tests. [Comments](https://news.ycombinator.com/item?id=47132388)
 
-* [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/) - Mozilla introduces advanced AI control features in its latest browser update. [Comments](https://news.ycombinator.com/item?id=47133313)
+* [New Microsoft Gaming CEO Has &apos;No Tolerance For Bad AI&apos;](https://games.slashdot.org/story/26/02/23/2356223/new-microsoft-gaming-ceo-has-no-tolerance-for-bad-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's gaming head aims to prioritize superior AI technology. [Comments](https://games.slashdot.org/story/26/02/23/2356223/new-microsoft-gaming-ceo-has-no-tolerance-for-bad-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [New Microsoft Gaming CEO Has 'No Tolerance For Bad AI'](https://games.slashdot.org/story/26/02/23/2356223/new-microsoft-gaming-ceo-has-no-tolerance-for-bad-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft's new gaming head enforces higher standards for AI in gaming. [Comments](https://games.slashdot.org/story/26/02/23/2356223/new-microsoft-gaming-ceo-has-no-tolerance-for-bad-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Viral Doomsday Report Lays Bare Wall Street&apos;s Deep Anxiety About AI Future](https://slashdot.org/story/26/02/23/2338242/viral-doomsday-report-lays-bare-wall-streets-deep-anxiety-about-ai-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analyzing Wall Street's serious concerns over the societal and economic impact of AI. [Comments](https://slashdot.org/story/26/02/23/2338242/viral-doomsday-report-lays-bare-wall-streets-deep-anxiety-about-ai-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/) - Meet Steerling-8B, a unique language model with the ability to elucidate its generated content. [Comments](https://news.ycombinator.com/item?id=47131225)
+## Programming and Debugging
 
-## Energy and Environment
+* [How I got Claude to teach me dbt](https://rmoff.net/2026/02/20/claude-the-instructor/) - A firsthand account of learning dbt with guidance from the AI, Claude. [Comments](https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt)
 
-* [Texas Is About To Overtake California In Battery Storage](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Texas is poised to become a leader in battery storage capacity, surpassing California. [Comments](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Rust debugging survey 2026](https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/) - A comprehensive overview of the current state of debugging tools in the Rust ecosystem. [Comments](https://lobste.rs/s/aqtdow/rust_debugging_survey_2026)
 
-* [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) - A fascinating explanation linking the scarcity of Tatooine-like planets to the intricacies of general relativity. [Comments](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss)
+* [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/) - Key optimizations to accelerate HTML generation significantly. [Comments](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000)
 
-## Healthcare and Scientific Advancements
+* [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/) - Thoughts on transforming how compiler education is approached. [Comments](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution)
 
-* [Blood test boosts Alzheimer&apos;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html) - A revolutionary blood test offers significant enhancements in Alzheimer's diagnosis. [Comments](https://news.ycombinator.com/item?id=47132388)
+## Sustainability and Technology
 
-* [Genetic underpinnings of chills from art and music](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002) - Explore the genetic factors that cause shivers in response to art and music. [Comments](https://news.ycombinator.com/item?id=47118838)
+* [Texas Is About To Overtake California In Battery Storage](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Texas is on the verge of surpassing California's battery storage capacity. [Comments](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Society and Culture
+* [US Farmers Are Rejecting Multimillion-Dollar Datacenter Bids For Their Land](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Farmers resist lucrative offers for datacenter leases, weighing community impacts. [Comments](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [US Farmers Are Rejecting Multimillion-Dollar Datacenter Bids For Their Land](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Farmers choose to hold onto their properties despite lucrative datacenter offers. [Comments](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Innovative Tools and Models
 
-* [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) - William Shatner collaborates with metal legends for a groundbreaking music project. [Comments](https://news.ycombinator.com/item?id=47131173)
+* [Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/) - A fascinating implementation of an x86 CPU emulator using only CSS. [Comments](https://news.ycombinator.com/item?id=47132102)
 
-## Industry and Business
-
-* [PayPal Attracts Takeover Interest After Stock Slump](https://slashdot.org/story/26/02/23/1648247/paypal-attracts-takeover-interest-after-stock-slump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - PayPal's stock status draws attention from potential acquirers. [Comments](https://slashdot.org/story/26/02/23/1648247/paypal-attracts-takeover-interest-after-stock-slump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/) - New language model Steerling-8B aims to improve token interpretability. [Comments](https://news.ycombinator.com/item?id=47131225)
 
 ---
 
@@ -65,6 +63,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-24, 10:00:00](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Quantum Algorithm Beats Classical Tools On Complement Sampling Tasks](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-24, 09:46:51](https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt) - [How I got Claude to teach me dbt](https://rmoff.net/2026/02/20/claude-the-instructor/)
+* [2026-02-24, 09:37:19](https://news.ycombinator.com/item?id=47134946) - [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171)
+* [2026-02-24, 09:17:48](https://lobste.rs/s/aqtdow/rust_debugging_survey_2026) - [Rust debugging survey 2026](https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/)
+* [2026-02-24, 08:33:05](https://lobste.rs/s/jfydxy/desk_setup_from_multi_monitor_single) - [Desk Setup: From Multi-Monitor to Single Screen with Virtual Desktops](https://www.ssp.sh/brain/computer-desk-setup-monitor-workflow/)
+* [2026-02-24, 08:11:56](https://lobste.rs/s/yw92gw/sprites_on_web) - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
+* [2026-02-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss) - [Video Games are Losing the \&quot;Attention War\&quot; to Gambling, Porn, and Crypto](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss)
+* [2026-02-24, 07:19:00](https://lobste.rs/s/nwhp2x/permacomputing) - [Permacomputing](http://permacomputing.net/)
 * [2026-02-24, 07:14:26](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000) - [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/)
 * [2026-02-24, 07:00:00](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Is About To Overtake California In Battery Storage](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 06:29:51](https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere) - [trolley: Run terminal apps anywhere](https://github.com/weedonandscott/trolley)
@@ -72,7 +78,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
 * [2026-02-24, 04:04:19](https://news.ycombinator.com/item?id=47132721) - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
-* [2026-02-24, 03:51:18](https://news.ycombinator.com/item?id=47132650) - [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
 * [2026-02-24, 03:30:00](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Farmers Are Rejecting Multimillion-Dollar Datacenter Bids For Their Land](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack&apos;s API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 03:10:16](https://news.ycombinator.com/item?id=47132388) - [Blood test boosts Alzheimer&apos;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
@@ -89,8 +94,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 23:58:45](https://news.ycombinator.com/item?id=47130860) - [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
 * [2026-02-23, 23:20:00](https://slashdot.org/story/26/02/23/2217212/openai-calls-in-the-consultants-for-its-enterprise-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Calls In the Consultants For Its Enterprise Push](https://slashdot.org/story/26/02/23/2217212/openai-calls-in-the-consultants-for-its-enterprise-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-23, 23:16:48](https://lobste.rs/s/aeuhf7/signed_sealed_stolen_how_we_patched) - [Signed, Sealed, Stolen: How We Patched Critical Vulnerabilities Under Fire](https://www.youtube.com/watch?v=CZ4nk9aWzYM)
-* [2026-02-23, 23:16:03](https://news.ycombinator.com/item?id=47130431) - [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html)
 * [2026-02-23, 22:59:25](https://lobste.rs/s/xrtjlq/i_ported_coreboot_thinkpad_x270) - [I ported Coreboot to the Thinkpad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 * [2026-02-23, 22:40:00](https://entertainment.slashdot.org/story/26/02/23/229229/panasonic-will-no-longer-make-its-own-tvs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Panasonic Will No Longer Make Its Own TVs](https://entertainment.slashdot.org/story/26/02/23/229229/panasonic-will-no-longer-make-its-own-tvs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-23, 22:11:34](https://news.ycombinator.com/item?id=47129727) - [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
@@ -100,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 21:10:00](https://slashdot.org/story/26/02/23/2110221/ibm-shares-crater-13-after-anthropic-says-claude-code-can-tackle-cobol-modernization?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Shares Crater 13% After Anthropic Says Claude Code Can Tackle COBOL Modernization](https://slashdot.org/story/26/02/23/2110221/ibm-shares-crater-13-after-anthropic-says-claude-code-can-tackle-cobol-modernization?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-23, 21:00:28](https://news.ycombinator.com/item?id=47128740) - [SIM (YC X25) Is Hiring the Best Engineers in San Francisco](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform)
-* [2026-02-23, 20:53:36](https://news.ycombinator.com/item?id=47128631) - [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
 * [2026-02-23, 20:45:34](https://news.ycombinator.com/item?id=47128535) - [Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)](https://github.com/vignesh07/babyshark)
 * [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
 * [2026-02-23, 20:16:08](https://news.ycombinator.com/item?id=47128138) - [“Car Wash” test with 53 models](https://opper.ai/blog/car-wash-test)
@@ -112,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 17:20:25](https://news.ycombinator.com/item?id=47125374) - [Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/)
 * [2026-02-23, 17:15:14](https://news.ycombinator.com/item?id=47125286) - [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)
 * [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss)
-* [2026-02-23, 16:48:00](https://slashdot.org/story/26/02/23/1648247/paypal-attracts-takeover-interest-after-stock-slump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PayPal Attracts Takeover Interest After Stock Slump](https://slashdot.org/story/26/02/23/1648247/paypal-attracts-takeover-interest-after-stock-slump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-23, 16:40:31](https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote) - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)
 * [2026-02-23, 16:01:18](https://news.ycombinator.com/item?id=47124149) - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
 * [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
@@ -124,15 +125,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 14:15:27](https://lobste.rs/s/tmynah/using_haskell_s_newtype_c) - [Using Haskell&apos;s &apos;newtype&apos; in C](https://blog.nelhage.com/2010/10/using-haskells-newtype-in-c/)
 * [2026-02-23, 13:28:15](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 13:20:43](https://lobste.rs/s/7zdq2s/you_don_t_need_free_lists) - [You don&apos;t need free lists](https://jakubtomsu.github.io/posts/bit_pools/)
-* [2026-02-23, 12:55:10](https://lobste.rs/s/0s4w9x/designing_odin_s_casting_syntax) - [Designing Odin&apos;s Casting Syntax](https://www.gingerbill.org/article/2026/02/23/designing-odins-casting-syntax/)
 * [2026-02-23, 12:47:33](https://lobste.rs/s/tbsdd4/cursed_engineering_jumping_randomly) - [Cursed engineering: jumping randomly through CSV files without hurting yourself](https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md)
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss)
 * [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
 * [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
-* [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)
-* [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
-* [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
 * [2026-02-23, 07:41:00](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss) - [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss)
 * [2026-02-23, 06:35:32](https://news.ycombinator.com/item?id=47118838) - [Genetic underpinnings of chills from art and music](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss)
@@ -143,14 +140,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-22, 07:59:00](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss) - [It&apos;s Time to Get Rid of Networked Cameras](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss)
 * [2026-02-22, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss) - [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss)
 * [2026-02-21, 22:32:00](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss) - [Did We Just See a Black Hole Explode?](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss)
+* [2026-02-21, 21:33:28](https://news.ycombinator.com/item?id=47105038) - [Graph Topology and Battle Royale Mechanics](https://blog.lukesalamone.com/posts/beam-search-graph-pruning/)
 * [2026-02-21, 17:49:00](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss) - [AIRD -  a New Term for Workers Freaking Out Over Being Replaced by AI](https://soylentnews.org/article.pl?sid=26/02/21/0130244&amp;from=rss)
 * [2026-02-21, 13:36:45](https://news.ycombinator.com/item?id=47100714) - [Unsung heroes: Flickr&apos;s URLs scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/)
 * [2026-02-21, 12:55:00](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) - [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss)
 * [2026-02-21, 08:12:00](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss) - [Visualizing the Internet in 2026](https://soylentnews.org/article.pl?sid=26/02/21/0123209&amp;from=rss)
-* [2026-02-21, 06:28:29](https://news.ycombinator.com/item?id=47098029) - [Typed Assembly Language](https://www.cs.cornell.edu/talc/)
+* [2026-02-21, 06:28:29](https://news.ycombinator.com/item?id=47098029) - [Typed Assembly Language (2000)](https://www.cs.cornell.edu/talc/)
 * [2026-02-21, 03:20:00](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss) - [Palo Alto CEO Says AI Isn&apos;t Great for Business, Yet](https://soylentnews.org/article.pl?sid=26/02/21/0121213&amp;from=rss)
+* [2026-02-21, 00:47:09](https://news.ycombinator.com/item?id=47096186) - [Show HN: Cellarium: A Playground for Cellular Automata](https://github.com/andrewosh/cellarium)
 * [2026-02-20, 22:40:00](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss) - [Bacteria Frozen Inside 5,000-Year-Old Ice Cave is Crazy Resistant to Antibiotics ](https://soylentnews.org/article.pl?sid=26/02/19/1712216&amp;from=rss)
-* [2026-02-20, 21:05:52](https://news.ycombinator.com/item?id=47093959) - [Lords of the Ring](https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/)
+* [2026-02-20, 22:14:13](https://news.ycombinator.com/item?id=47094768) - [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [2026-02-20, 17:56:00](https://soylentnews.org/article.pl?sid=26/02/19/178226&amp;from=rss) - [OpenClaw Security Fears Lead Meta, Other AI Firms to Restrict its Use](https://soylentnews.org/article.pl?sid=26/02/19/178226&amp;from=rss)
 * [2026-02-20, 13:13:00](https://soylentnews.org/article.pl?sid=26/02/19/1613238&amp;from=rss) - [Texas Sues Wi-Fi Router Maker Over Alleged China Links](https://soylentnews.org/article.pl?sid=26/02/19/1613238&amp;from=rss)
 * [2026-02-20, 08:25:00](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss) - [Data Centres Consider Backing Uranium Projects, NexGen CEO Says](https://soylentnews.org/article.pl?sid=26/02/19/1617210&amp;from=rss)
