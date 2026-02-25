@@ -1,40 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Artificial Intelligence
+## Artificial Intelligence and Machine Learning
 
-* [California Bill Would Restrict 3D Printers to State-Approved Models to Prevent Making Gun Parts](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss))
+* [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) - Concerns arise as AI safety practices are questioned.
 
-* [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762) ([comments](https://news.ycombinator.com/item?id=47147609))
+* [Meta AI Security Researcher Said an OpenClaw Agent Ran Amok on Her Inbox](https://it.slashdot.org/story/26/02/24/1950253/meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox) - Addressing issues with AI autonomy overreach.
 
-* [Mercury 2: Fast reasoning LLM powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) ([comments](https://news.ycombinator.com/item?id=47144464))
+* [Mercury 2: Fast reasoning LLM powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - A new advancement in AI reasoning capabilities.
 
-* [Meta AI Security Researcher Said an OpenClaw Agent Ran Amok on Her Inbox](https://it.slashdot.org/story/26/02/24/1950253/meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/02/24/1950253/meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine) - Efforts to enhance AI-powered speech-to-text models.
 
-* [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) ([comments](https://news.ycombinator.com/item?id=47145963))
+* [How I got Claude to teach me dbt](https://rmoff.net/2026/02/20/claude-the-instructor/) - Experimenting with AI-based educational assistance.
 
-## Science and Innovations
+* [Can agentic coding raise the quality bar?](https://lpalmieri.com/posts/agentic-coding-raises-quality/) - Examining agentic coding to boost productivity and standards.
 
-* [First British Baby Born Using Transplanted Womb From Dead Donor](https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Technology Advancements and Innovations
 
-* [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss))
+* [Turing Completeness of GNU find](https://arxiv.org/abs/2602.20762) - Exploring GNU find's capabilities as a Turing complete utility.
 
-* [Quantum Algorithm Beats Classical Tools On Complement Sampling Tasks](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [First British Baby Born Using Transplanted Womb From Dead Donor](https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor) - Medical breakthrough in organ transplants aids childbirth.
 
-## Cybersecurity and Data Privacy
+* [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/) - Creative repurposing of old e-readers.
 
-* [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss))
+* [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/) - An innovative use of CSS for CPU emulation.
 
-* [CrowdStrike Says Attackers Are Moving Through Networks in Under 30 Minutes](https://it.slashdot.org/story/26/02/24/1911240/crowdstrike-says-attackers-are-moving-through-networks-in-under-30-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/02/24/1911240/crowdstrike-says-attackers-are-moving-through-networks-in-under-30-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) - Accelerating development through AI.
 
-* [Huntarr - Your passwords and your entire arr stack&apos;s API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/) ([comments](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/))
+* [ANSIGPT: C89 implementation of microGPT](https://github.com/yobibyte/ansigpt) - Novel lightweight GPT use-case implementation.
 
-## Future of Energy
+## Digital Safety, Security, and Privacy
 
-* [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Hackers Expose Age-Verification Software Powering Surveillance Web](https://soylentnews.org/article.pl?sid=26/02/21/0126215&amp;from=rss) - Critical findings on vulnerabilities in age-verification tech.
 
-* [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss))
+* [Cell Service for the Fairly Paranoid](https://www.cape.co/) - Solutions for secure communication.
 
-* [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss))
+* [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/) - Regulatory actions on digital age verification.
+
+* [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) - Risks posed by AI applications mishandling personal data.
+
+## Energy and Sustainability
+
+* [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - America’s surge in battery storage initiatives.
+
+* [Texas Is About To Overtake California In Battery Storage](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Texas making strides in renewable energy efforts.
+
+* [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - Efficient energy storage innovation from MIT
+
+## Tech Policy and Regulation
+
+* [California Bill Would Restrict 3D Printers to State-Approved Models to Prevent Making Gun Parts](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss) - Exploring the implications of regulating technology manufacturing.
+
+* [OS-Level Age Verification in Proposed Legislation in Colorado](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss) - Colorado debates age verification via operating system features.
+
+* [New Datacentres Risk Doubling Great Britain’s Electricity Use, Regulator Says](https://news.slashdot.org/story/26/02/24/1935207/new-datacentres-risk-doubling-great-britains-electricity-use-regulator-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of environmental concerns with rising data demands.
 
 ---
 
@@ -61,10 +79,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+* [2026-02-25, 08:00:00](https://apple.slashdot.org/story/26/02/25/0435253/apples-touch-screen-macbook-pro-to-have-dynamic-island-new-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Touch-Screen MacBook Pro To Have Dynamic Island, New Interface](https://apple.slashdot.org/story/26/02/25/0435253/apples-touch-screen-macbook-pro-to-have-dynamic-island-new-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 07:13:00](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss) - [California Bill Would Restrict 3D Printers to State-Approved Models to Prevent Making  Gun Parts](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss)
-* [2026-02-25, 06:23:30](https://news.ycombinator.com/item?id=47148025) - [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
-* [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762)
-* [2026-02-25, 04:03:26](https://news.ycombinator.com/item?id=47147183) - [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183)
+* [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU find](https://arxiv.org/abs/2602.20762)
 * [2026-02-25, 04:01:00](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 03:26:34](https://lobste.rs/s/qjdakc/turing_completeness_gnu_find_from_mkdir) - [Turing Completeness of GNU find: From mkdir-assisted Loops to Standalone Computation](https://arxiv.org/pdf/2602.20762)
 * [2026-02-25, 02:26:00](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) - [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss)
@@ -88,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 21:00:00](https://news.slashdot.org/story/26/02/24/1935207/new-datacentres-risk-doubling-great-britains-electricity-use-regulator-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Datacentres Risk Doubling Great Britain&apos;s Electricity Use, Regulator Says](https://news.slashdot.org/story/26/02/24/1935207/new-datacentres-risk-doubling-great-britains-electricity-use-regulator-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 20:57:22](https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj) - [Introducing jjq, a local merge queue for jj](https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html)
 * [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
-* [2026-02-24, 20:01:54](https://news.ycombinator.com/item?id=47142078) - [We are changing our developer productivity experiment design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-02-24, 20:00:00](https://it.slashdot.org/story/26/02/24/1911240/crowdstrike-says-attackers-are-moving-through-networks-in-under-30-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CrowdStrike Says Attackers Are Moving Through Networks in Under 30 Minutes](https://it.slashdot.org/story/26/02/24/1911240/crowdstrike-says-attackers-are-moving-through-networks-in-under-30-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 * [2026-02-24, 19:00:00](https://tech.slashdot.org/story/26/02/24/1850232/hegseth-gives-anthropic-until-friday-to-back-down-on-ai-safeguards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hegseth Gives Anthropic Until Friday To Back Down on AI Safeguards](https://tech.slashdot.org/story/26/02/24/1850232/hegseth-gives-anthropic-until-friday-to-back-down-on-ai-safeguards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -104,6 +121,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 16:56:00](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss) - [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss)
 * [2026-02-24, 16:04:00](https://games.slashdot.org/story/26/02/24/165200/billions-of-dollars-later-and-still-nobody-knows-what-an-xbox-is?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Billions of Dollars Later and Still Nobody Knows What an Xbox Is](https://games.slashdot.org/story/26/02/24/165200/billions-of-dollars-later-and-still-nobody-knows-what-an-xbox-is?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
+* [2026-02-24, 15:50:54](https://news.ycombinator.com/item?id=47138631) - [Show HN: Quantifying opportunity cost with a deliberately \&quot;simple\&quot; web app](https://shouldhavebought.com/)
 * [2026-02-24, 15:00:00](https://tech.slashdot.org/story/26/02/24/1457221/discord-distances-itself-from-persona-age-verification-after-user-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discord Distances Itself From Persona Age Verification After User Backlash](https://tech.slashdot.org/story/26/02/24/1457221/discord-distances-itself-from-persona-age-verification-after-user-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
@@ -111,12 +129,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar) - [Can agentic coding raise the quality bar?](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
 * [2026-02-24, 14:00:00](https://yro.slashdot.org/story/26/02/24/1351257/russia-targets-telegram-as-rift-with-founder-pavel-durov-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Targets Telegram as Rift With Founder Pavel Durov Deepens](https://yro.slashdot.org/story/26/02/24/1351257/russia-targets-telegram-as-rift-with-founder-pavel-durov-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 13:56:43](https://lobste.rs/s/tzyslr/reducing_size_go_binaries_by_up_77) - [Reducing the size of Go binaries by up to 77%](https://www.datadoghq.com/blog/engineering/agent-go-binaries/)
+* [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:11:30](https://lobste.rs/s/jm4lpb/framedeck_framework_mainboard_based) - [framedeck: A Framework mainboard based Cyberdeck (2022)](https://github.com/brickbots/framedeck)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 13:00:00](https://news.slashdot.org/story/26/02/24/0054207/firefox-148-now-available-with-the-new-ai-controls-ai-kill-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox 148 Now Available With The New AI Controls, AI Kill Switches](https://news.slashdot.org/story/26/02/24/0054207/firefox-148-now-available-with-the-new-ai-controls-ai-kill-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
-* [2026-02-24, 12:16:45](https://news.ycombinator.com/item?id=47136179) - [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 * [2026-02-24, 12:10:38](https://lobste.rs/s/kx2sp3/lines_code_are_back_it_s_worse_than_before) - [Lines of Code Are Back (And It&apos;s Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
 * [2026-02-24, 12:09:00](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss) - [Two Days of Oatmeal Reduce Cholesterol Level](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss)
 * [2026-02-24, 10:00:00](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Quantum Algorithm Beats Classical Tools On Complement Sampling Tasks](https://tech.slashdot.org/story/26/02/24/0047210/quantum-algorithm-beats-classical-tools-on-complement-sampling-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -125,12 +142,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss) - [Video Games are Losing the \&quot;Attention War\&quot; to Gambling, Porn, and Crypto](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss)
 * [2026-02-24, 07:19:00](https://lobste.rs/s/nwhp2x/permacomputing) - [Permacomputing](http://permacomputing.net/)
 * [2026-02-24, 07:00:00](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Texas Is About To Overtake California In Battery Storage](https://hardware.slashdot.org/story/26/02/24/0043228/texas-is-about-to-overtake-california-in-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-24, 06:53:55](https://news.ycombinator.com/item?id=47133716) - [Show HN: Scheme-langserver – Digest incomplete code with static analysis](https://github.com/ufo5260987423/scheme-langserver)
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
-* [2026-02-24, 03:30:00](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Farmers Are Rejecting Multimillion-Dollar Datacenter Bids For Their Land](https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack&apos;s API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
+* [2026-02-24, 00:12:44](https://news.ycombinator.com/item?id=47130997) - [Meta problem with URPF our bundle in Boca raton](https://metafixthis.com/)
 * [2026-02-23, 21:53:00](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss) - [How Digitally Sovereign is Your Organization? This Red Hat Tool Can Tell You in Minutes](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss)
+* [2026-02-23, 17:15:22](https://news.ycombinator.com/item?id=47125287) - [Half million &apos;Words with Spaces&apos; missing from dictionaries](https://www.linguabase.org/words-with-spaces.html)
 * [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss)
 * [2026-02-23, 15:23:11](https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site) - [So I&apos;ve Been Thinking About Static Site Generators](https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/)
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss)
@@ -138,10 +157,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss)
 * [2026-02-22, 22:10:00](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss) - [Richard Stallman: The Legend of Software Freedom That Saved the World](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss)
 * [2026-02-22, 21:07:11](https://news.ycombinator.com/item?id=47114678) - [We installed a single turnstile to feel secure](https://idiallo.com/blog/installed-single-turnstile-for-security-theater)
+* [2026-02-22, 20:08:18](https://news.ycombinator.com/item?id=47114165) - [Japanese Death Poems](https://www.secretorum.life/p/japanese-death-poems-part-3)
 * [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss)
 * [2026-02-22, 12:41:00](https://soylentnews.org/article.pl?sid=26/02/21/1334230&amp;from=rss) - [Microsoft&apos;s New Windows 11 Speed Test is Just a Link to Ookla&apos;s Speedtest Via Bing](https://soylentnews.org/article.pl?sid=26/02/21/1334230&amp;from=rss)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Cl-kawa: Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-22, 07:59:00](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss) - [It&apos;s Time to Get Rid of Networked Cameras](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss)
+* [2026-02-22, 06:58:13](https://news.ycombinator.com/item?id=47108894) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1)
 * [2026-02-22, 03:14:00](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss) - [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss)
 * [2026-02-21, 22:32:00](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss) - [Did We Just See a Black Hole Explode?](https://soylentnews.org/article.pl?sid=26/02/21/137227&amp;from=rss)
 * [2026-02-21, 20:14:13](https://news.ycombinator.com/item?id=47104227) - [Aesthetics of single threading](https://ta.fo/aesthetics-of-single-threading/)
