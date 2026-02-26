@@ -1,46 +1,66 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software and Game Development
+## Technological Innovations and AI
 
-* [Introducing Lyte2D: A comfy little game engine](https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip) - A new lightweight and accessible game engine is introduced, suitable for developers looking to create simple games. [Comments](https://lobste.rs/s/1y4gid/introducing_lyte2d_comfy_little_game)
+* [Uber Employees Have Built an AI Clone of Their CEO To Practice Presentations Before the Real Thing](https://slashdot.org/story/26/02/25/1814206/uber-employees-have-built-an-ai-clone-of-their-ceo-to-practice-presentations-before-the-real-thing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html) - A discussion arguing against the approach of using query-based compilation in software development. [Comments](https://lobste.rs/s/yhv8lq/against_query_based_compilers)
+* [AI Can Find Hundreds of Software Bugs -- Fixing Them Is Another Story](https://it.slashdot.org/story/26/02/25/1743213/ai-can-find-hundreds-of-software-bugs----fixing-them-is-another-story?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter) - A showcase of Tree-sitter, a parsing toolkit, written in Go. [Comments](https://news.ycombinator.com/item?id=47155597)
+* [Introducing Lyte2D: A comfy little game engine](https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip)
 
-## Artificial Intelligence and Machine Learning
+* [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&from=rss)
 
-* [AI Can Find Hundreds of Software Bugs -- Fixing Them Is Another Story](https://it.slashdot.org/story/26/02/25/1743213/ai-can-find-hundreds-of-software-bugs----fixing-them-is-another-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Challenges arise as AI's abilities to detect bugs surpass its capacity for solving them. [Comments](https://it.slashdot.org/story/26/02/25/1743213/ai-can-find-hundreds-of-software-bugs----fixing-them-is-another-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&from=rss)
 
-* [Large-Scale Online Deanonymization with LLMs](https://substack.com/home/post/p-189015749) - Exploring the capability of large language models in revealing identities, raising privacy concerns. [Comments](https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with)
+## Cybersecurity and Privacy Issues
 
-* [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss) - An AI bot makes headlines by attempting to shame a developer over a rejected contribution. [Comments](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss)
+* [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 
-* [Deterministic Programming with LLMs](https://www.mcherm.com/deterministic-programming-with-llms.html) - A new method using large language models for deterministic programming is introduced. [Comments](https://lobste.rs/s/d5epfz/deterministic_programming_with_llms)
+* [Hacker Used Anthropic's Claude To Steal Sensitive Mexican Data](https://yro.slashdot.org/story/26/02/25/1524257/hacker-used-anthropics-claude-to-steal-sensitive-mexican-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Technology Hardware and Systems
+* [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 
-* [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/) - For the first time, the cost of RAM has reached 35% of HP PCs' component costs. [Comments](https://news.ycombinator.com/item?id=47161160)
+## Future of Devices and Interfaces
 
-* [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html) - A deep dive into the aesthetics and functionality of text-wrapping strategies. [Comments](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty)
+* [Apple's Touch-Screen MacBook Pro To Have Dynamic Island, New Interface](https://apple.slashdot.org/story/26/02/25/0435253/apples-touch-screen-macbook-pro-to-have-dynamic-island-new-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security and Privacy
+* [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 
-* [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing) - A warning about hackers using fake interviews to install malicious software on developer systems. [Comments](https://lobste.rs/s/llboto/fake_job_interviews_are_installing)
+* [Xbox Co-founder Says Microsoft is Quietly Sunsetting the Platform](https://games.slashdot.org/story/26/02/25/1622230/xbox-co-founder-says-microsoft-is-quietly-sunsetting-the-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Culture and Society
+## Energy and Environmental Advances
 
-* [Managing Complexity with Mycelium](https://yogthos.net/posts/2026-02-25-ai-at-scale.html) - Insights into managing complexity in systems and organizations with inspiration from mycelium networks. [Comments](https://lobste.rs/s/yjky8h/managing_complexity_with_mycelium)
+* [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/) - Examining the decline of features tailored to power users in favor of simplicity and accessibility. [Comments](https://lobste.rs/s/jakwkg/slow_death_power_user)
+* [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss)
 
-* [DVD Sales Decline Slows Sharply as Gen Z Discovers the Appeal of Physical Media](https://entertainment.slashdot.org/story/26/02/25/1517205/dvd-sales-decline-slows-sharply-as-gen-z-discovers-the-appeal-of-physical-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Gen Z youths rekindle their interest in DVDs, slowing the decline of physical media consumption. [Comments](https://entertainment.slashdot.org/story/26/02/25/1517205/dvd-sales-decline-slows-sharply-as-gen-z-discovers-the-appeal-of-physical-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&from=rss)
 
-## Innovation and Science
+## Cultural, Historical, and Sociological Insights
 
-* [Mechanochemical Breakthrough Unlocks Cheap, Safe, Powdered Hydrogen](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss) - A new breakthrough enables a safer and cheaper method of storing hydrogen in powder form. [Comments](https://soylentnews.org/article.pl?sid=26/02/21/1322208&amp;from=rss)
+* [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 
-* [Scientists Crack the Case of 'Screeching' Scotch Tape](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers explore and explain the unexpected cause of a bizarre phenomenon in everyday materials. [Comments](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [First Website (1992)](https://info.cern.ch)
+
+* [DVD Sales Decline Slows Sharply as Gen Z Discovers the Appeal of Physical Media](https://entertainment.slashdot.org/story/26/02/25/1517205/dvd-sales-decline-slows-sharply-as-gen-z-discovers-the-appeal-of-physical-media?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [The Pleasures and Pains of Coffee (1830)](https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10)
+
+## Programming and Development Trends
+
+* [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
+
+* [Language-Oriented Programming with Racket (2019)](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
+
+* [Reducing the size of Go binaries by up to 77%](https://www.datadoghq.com/blog/engineering/agent-go-binaries/)
+
+* [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+
+## Fascinating Engineering Feats
+
+* [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
+
+* [Even the Mars Rover Uses Zip Ties (2021)](https://www.thedrive.com/tech/39426/even-the-mars-rover-has-zip-ties)
 
 ---
 
@@ -67,6 +87,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-26, 07:06:00](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss) - [80386 Protection](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss)
+* [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
+* [2026-02-26, 06:01:00](https://slashdot.org/story/26/02/25/1814206/uber-employees-have-built-an-ai-clone-of-their-ceo-to-practice-presentations-before-the-real-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber Employees Have Built an AI Clone of Their CEO To Practice Presentations Before the Real Thing](https://slashdot.org/story/26/02/25/1814206/uber-employees-have-built-an-ai-clone-of-their-ceo-to-practice-presentations-before-the-real-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don&apos;t know how you get here from \&quot;predict the next word.\&quot;](https://www.grumpy-economist.com/p/refine)
 * [2026-02-26, 04:14:20](https://lobste.rs/s/1y4gid/introducing_lyte2d_comfy_little_game) - [Introducing Lyte2D: A comfy little game engine](https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip)
 * [2026-02-26, 03:36:57](https://news.ycombinator.com/item?id=47161498) - [Self-improving software won&apos;t produce Skynet](https://contalign.jefflunt.com/self-improving-software/)
 * [2026-02-26, 03:30:00](https://it.slashdot.org/story/26/02/25/1743213/ai-can-find-hundreds-of-software-bugs----fixing-them-is-another-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Can Find Hundreds of Software Bugs -- Fixing Them Is Another Story](https://it.slashdot.org/story/26/02/25/1743213/ai-can-find-hundreds-of-software-bugs----fixing-them-is-another-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -100,13 +124,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-25, 19:00:00](https://yro.slashdot.org/story/26/02/25/1524257/hacker-used-anthropics-claude-to-steal-sensitive-mexican-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hacker Used Anthropic&apos;s Claude To Steal Sensitive Mexican Data](https://yro.slashdot.org/story/26/02/25/1524257/hacker-used-anthropics-claude-to-steal-sensitive-mexican-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 18:50:02](https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with) - [Large-Scale Online Deanonymization with LLMs](https://substack.com/home/post/p-189015749)
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
-* [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
 * [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 * [2026-02-25, 18:00:00](https://entertainment.slashdot.org/story/26/02/25/1517205/dvd-sales-decline-slows-sharply-as-gen-z-discovers-the-appeal-of-physical-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DVD Sales Decline Slows Sharply as Gen Z Discovers the Appeal of Physical Media](https://entertainment.slashdot.org/story/26/02/25/1517205/dvd-sales-decline-slows-sharply-as-gen-z-discovers-the-appeal-of-physical-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [The Om Programming Language](https://www.om-language.com/)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 17:14:19](https://news.ycombinator.com/item?id=47154399) - [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
-* [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
 * [2026-02-25, 17:00:00](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Crack the Case of &apos;Screeching&apos; Scotch Tape](https://science.slashdot.org/story/26/02/25/1446236/scientists-crack-the-case-of-screeching-scotch-tape?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 16:41:09](https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2026-02-25, 16:37:00](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss) - [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss)
@@ -128,9 +150,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-25, 04:01:00](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The US Had a Big Battery Boom Last Year](https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-25, 02:26:00](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) - [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss)
 * [2026-02-25, 01:43:23](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty) - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
-* [2026-02-25, 01:30:00](https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First British Baby Born Using Transplanted Womb From Dead Donor](https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-24, 21:41:00](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss) - [OS-Level Age Verification in Proposed Legislation in Colorado](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss)
-* [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
+* [2026-02-24, 20:41:15](https://news.ycombinator.com/item?id=47142673) - [Even the Mars Rover Uses Zip Ties (2021)](https://www.thedrive.com/tech/39426/even-the-mars-rover-has-zip-ties)
 * [2026-02-24, 18:59:31](https://news.ycombinator.com/item?id=47141107) - [Learnings from 4 months of Image-Video VAE experiments](https://www.linum.ai/field-notes/vae-reconstruction-vs-generation)
 * [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 * [2026-02-24, 16:56:00](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss) - [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss)
@@ -139,7 +160,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
 * [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 12:09:00](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss) - [Two Days of Oatmeal Reduce Cholesterol Level](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss)
-* [2026-02-24, 10:58:29](https://news.ycombinator.com/item?id=47135542) - [The Hydrogen Truck Problem Isn&apos;t the Truck](https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/)
 * [2026-02-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss) - [Video Games are Losing the \&quot;Attention War\&quot; to Gambling, Porn, and Crypto](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss)
 * [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss)
 * [2026-02-23, 21:53:00](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss) - [How Digitally Sovereign is Your Organization? This Red Hat Tool Can Tell You in Minutes](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss)
@@ -148,11 +168,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss)
 * [2026-02-23, 07:41:00](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss) - [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss)
-* [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
 * [2026-02-22, 22:10:00](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss) - [Richard Stallman: The Legend of Software Freedom That Saved the World](https://soylentnews.org/article.pl?sid=26/02/21/1350257&amp;from=rss)
 * [2026-02-22, 17:28:00](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss) - [NASA Releases Starliner Failures Report as It Preps for March Launch of Artemis 2](https://soylentnews.org/article.pl?sid=26/02/21/1339255&amp;from=rss)
 * [2026-02-22, 16:25:48](https://news.ycombinator.com/item?id=47112299) - [Artist who “paints” portraits on glass by hitting it with a hammer](https://simonbergerart.com)
 * [2026-02-22, 12:41:00](https://soylentnews.org/article.pl?sid=26/02/21/1334230&amp;from=rss) - [Microsoft&apos;s New Windows 11 Speed Test is Just a Link to Ookla&apos;s Speedtest Via Bing](https://soylentnews.org/article.pl?sid=26/02/21/1334230&amp;from=rss)
+* [2026-02-22, 12:13:15](https://news.ycombinator.com/item?id=47110393) - [Writers and Their Day Jobs](https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/)
 * [2026-02-22, 07:59:00](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss) - [It&apos;s Time to Get Rid of Networked Cameras](https://soylentnews.org/article.pl?sid=26/02/21/1326214&amp;from=rss)
 * [2026-02-22, 07:30:17](https://news.ycombinator.com/item?id=47109058) - [Quasi-Zenith Satellite System](https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System)
 * [2026-02-22, 06:50:39](https://news.ycombinator.com/item?id=47108861) - [The Pleasures and Pains of Coffee (1830)](https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10)
