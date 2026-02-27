@@ -1,40 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Ethics and Military Use
+## Space and Technology Advancements
 
-* [Anthropic CEO Says AI Company 'Cannot In Good Conscience Accede' To Pentagon](https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [NASA Reveals Identity of Astronaut Who Suffered Medical Incident Aboard ISS](https://science.slashdot.org/story/26/02/27/002252/nasa-reveals-identity-of-astronaut-who-suffered-medical-incident-aboard-iss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html) ([comments](https://news.ycombinator.com/item?id=47175931))
+* [NASA Officially Classifies Boeing Starliner Failure as a Maximum-Level Type A Mishap](https://soylentnews.org/article.pl?sid=26/02/26/049239&from=rss)
 
-* [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) ([comments](https://news.ycombinator.com/item?id=47173121))
+* [Hungarian Startup Transforming Robot Manufacturing With 3D Tissue Braiding](https://soylentnews.org/article.pl?sid=26/02/26/042214&from=rss)
 
-## Advancements in Technology and Software
+## AI and Controversies
 
-* [Return of the Obra Dinn: spherical mapped dithering for a 1bpp 1st-person game (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) ([comments](https://lobste.rs/s/bohhcq/return_obra_dinn_spherical_mapped))
+* [Anthropic CEO Says AI Company 'Cannot In Good Conscience Accede' To Pentagon](https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Introducing PgBeam, a globally distributed PostgreSQL proxy](https://pgbeam.com/launch) ([comments](https://lobste.rs/s/sxozst/introducing_pgbeam_globally))
+* [Michael Pollan Says AI May 'Think' — but It Will Never be Conscious](https://soylentnews.org/article.pl?sid=26/02/25/1551209&from=rss)
 
-* [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff) ([comments](https://news.ycombinator.com/item?id=47169518))
+* [Burger King Will Use AI To Check If Employees Say 'Please' and 'Thank You'](https://slashdot.org/story/26/02/26/163233/burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Privacy and Security Concerns
+## Cybersecurity and Industry Challenges
 
-* [Four Convicted Over Spyware Affair That Shook Greece](https://yro.slashdot.org/story/26/02/26/2242230/four-convicted-over-spyware-affair-that-shook-greece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/02/26/2242230/four-convicted-over-spyware-affair-that-shook-greece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/)
 
-* [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/) ([comments](https://news.ycombinator.com/item?id=47172730))
+* [The Government Just Made it Harder to See What Spy Tech it Buys](https://yro.slashdot.org/story/26/02/26/1722205/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/) ([comments](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client))
+* [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
 
-## Societal Impacts of AI
+## Innovation in Computing and Software
 
-* [What&apos;s the Point of School When AI Can Do Your Homework?](https://news.slashdot.org/story/26/02/26/2154237/whats-the-point-of-school-when-ai-can-do-your-homework?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/02/26/2154237/whats-the-point-of-school-when-ai-can-do-your-homework?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
 
-* [Burger King Will Use AI To Check If Employees Say 'Please' and 'Thank You'](https://slashdot.org/story/26/02/26/163233/burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/02/26/163233/burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
 
-## Environmental and Scientific Discoveries
+* [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 
-* [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss))
+## Policy and Society
 
-* [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss))
+* [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
+
+* [Colorado Lawmakers Push for Age Verification at the Operating System Level](https://tech.slashdot.org/story/26/02/26/233213/colorado-lawmakers-push-for-age-verification-at-the-operating-system-level?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [China Remains Embedded in US Energy Networks 'for the Purpose of Taking It Down'](https://soylentnews.org/article.pl?sid=26/02/24/0437208&from=rss)
+
+## Miscellaneous Insights and Discoveries
+
+* [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+
+* [The Man Who Stole Infinity](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
+
+* [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss)
 
 ---
 
@@ -61,10 +73,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+* [2026-02-27, 07:00:00](https://science.slashdot.org/story/26/02/27/002252/nasa-reveals-identity-of-astronaut-who-suffered-medical-incident-aboard-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Reveals Identity of Astronaut Who Suffered Medical Incident Aboard ISS](https://science.slashdot.org/story/26/02/27/002252/nasa-reveals-identity-of-astronaut-who-suffered-medical-incident-aboard-iss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-27, 06:47:00](https://soylentnews.org/article.pl?sid=26/02/26/049239&amp;from=rss) - [NASA Officially Classifies Boeing Starliner Failure as a Maximum-Level Type A Mishap](https://soylentnews.org/article.pl?sid=26/02/26/049239&amp;from=rss)
+* [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
+* [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+* [2026-02-27, 03:48:05](https://news.ycombinator.com/item?id=47176239) - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
+* [2026-02-27, 03:34:12](https://news.ycombinator.com/item?id=47176157) - [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
 * [2026-02-27, 03:30:00](https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic CEO Says AI Company &apos;Cannot In Good Conscience Accede&apos; To Pentagon](https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-27, 03:08:09](https://news.ycombinator.com/item?id=47175931) - [Google Workers Seek &apos;Red Lines&apos; on Military A.I., Echoing Anthropic](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html)
 * [2026-02-27, 01:59:00](https://soylentnews.org/article.pl?sid=26/02/26/042214&amp;from=rss) - [Hungarian Startup Transforming Robot Manufacturing With 3D Tissue Braiding](https://soylentnews.org/article.pl?sid=26/02/26/042214&amp;from=rss)
+* [2026-02-27, 01:50:45](https://news.ycombinator.com/item?id=47175281) - [Two insider cases we&apos;ve recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
 * [2026-02-27, 01:38:52](https://lobste.rs/s/qm55ud/man_who_stole_infinity) - [The Man Who Stole Infinity](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-27, 01:18:18](https://news.ycombinator.com/item?id=47175013) - [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
 * [2026-02-27, 00:45:00](https://yro.slashdot.org/story/26/02/26/2242230/four-convicted-over-spyware-affair-that-shook-greece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Four Convicted Over Spyware Affair That Shook Greece](https://yro.slashdot.org/story/26/02/26/2242230/four-convicted-over-spyware-affair-that-shook-greece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -90,7 +107,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd&apos;s Faster Offline Navigation (2025)](https://osmand.net/blog/fast-routing/)
 * [2026-02-26, 18:26:02](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client) - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
 * [2026-02-26, 18:13:44](https://lobste.rs/s/vgvzys/gilded_age_open_source_is_over) - [The Gilded Age of Open Source is over](https://www.youtube.com/watch?v=pTBgvhdz9VU)
-* [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
+* [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code chooses](https://amplifying.ai/research/claude-code-picks)
 * [2026-02-26, 18:11:41](https://lobste.rs/s/hfnps5/osmand_s_faster_offline_navigation) - [OsmAnd&apos;s Faster Offline Navigation](https://osmand.net/blog/fast-routing)
 * [2026-02-26, 18:01:00](https://yro.slashdot.org/story/26/02/26/1722205/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Government Just Made it Harder to See What Spy Tech it Buys](https://yro.slashdot.org/story/26/02/26/1722205/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-26, 17:54:06](https://news.ycombinator.com/item?id=47169518) - [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
@@ -103,12 +120,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-26, 16:34:00](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss) - [SpaceX&apos;s Faulty Falcon Spewed Massive Lithium Plume Over Europe, Say Scientists](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss)
 * [2026-02-26, 16:25:09](https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
 * [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh](https://eieio.games/blog/secure-massively-multiplayer-snake/)
-* [2026-02-26, 16:07:11](https://news.ycombinator.com/item?id=47167931) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 16:03:00](https://slashdot.org/story/26/02/26/163233/burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Burger King Will Use AI To Check If Employees Say &apos;Please&apos; and &apos;Thank You&apos;](https://slashdot.org/story/26/02/26/163233/burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-26, 16:02:37](https://news.ycombinator.com/item?id=47167858) - [Nano Banana 2: Google&apos;s latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 15:21:35](https://lobste.rs/s/kj7g7j/ordered_dithering_with_arbitrary) - [Ordered Dithering with Arbitrary or Irregular Colour Palettes](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
-* [2026-02-26, 15:00:00](https://entertainment.slashdot.org/story/26/02/26/1422259/hbo-maxs-password-sharing-crackdown-will-expand-globally-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HBO Max&apos;s Password-Sharing Crackdown Will Expand Globally in 2026](https://entertainment.slashdot.org/story/26/02/26/1422259/hbo-maxs-password-sharing-crackdown-will-expand-globally-in-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker&apos;s Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
@@ -123,12 +138,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-26, 04:14:20](https://lobste.rs/s/1y4gid/introducing_lyte2d_comfy_little_game) - [Introducing Lyte2D: A comfy little game engine](https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip)
 * [2026-02-26, 02:20:00](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss) - [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss)
 * [2026-02-26, 01:20:36](https://lobste.rs/s/yhv8lq/against_query_based_compilers) - [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
-* [2026-02-25, 23:55:34](https://news.ycombinator.com/item?id=47159833) - [Steering interpretable language models with concept algebra](https://www.guidelabs.ai/post/steerling-steering-8b/)
 * [2026-02-25, 22:54:26](https://lobste.rs/s/rscdhi/long_range_e_bike_2021) - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-25, 21:35:00](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss) - [AI Agent Throws LAN Party](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
 * [2026-02-25, 16:37:00](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss) - [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
+* [2026-02-25, 12:30:36](https://news.ycombinator.com/item?id=47150674) - [I rendered 1,418 confusables over 230 fonts. Most aren&apos;t confusable to the eye](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss) - [China Remains Embedded in US Energy Networks &apos;for the Purpose of Taking It Down&apos;](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss)
 * [2026-02-25, 07:13:00](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss) - [California Bill Would Restrict 3D Printers to State-Approved Models to Prevent Making  Gun Parts](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss)
 * [2026-02-25, 02:26:00](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) - [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss)
@@ -136,18 +151,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 21:41:00](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss) - [OS-Level Age Verification in Proposed Legislation in Colorado](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss)
 * [2026-02-24, 19:00:16](https://news.ycombinator.com/item?id=47141119) - [Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance](https://hackersmacker.org)
 * [2026-02-24, 16:56:00](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss) - [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss)
+* [2026-02-24, 15:56:32](https://news.ycombinator.com/item?id=47138698) - [80386 Protection](https://nand2mario.github.io/posts/2026/80386_protection/)
 * [2026-02-24, 12:09:00](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss) - [Two Days of Oatmeal Reduce Cholesterol Level](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss)
 * [2026-02-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss) - [Video Games are Losing the \&quot;Attention War\&quot; to Gambling, Porn, and Crypto](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss)
 * [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss)
 * [2026-02-23, 22:18:23](https://news.ycombinator.com/item?id=47129801) - [Understanding the Go Runtime: The Memory Allocator](https://internals-for-interns.com/posts/go-memory-allocator/)
 * [2026-02-23, 21:53:00](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss) - [How Digitally Sovereign is Your Organization? This Red Hat Tool Can Tell You in Minutes](https://soylentnews.org/article.pl?sid=26/02/22/1313253&amp;from=rss)
-* [2026-02-23, 20:54:34](https://news.ycombinator.com/item?id=47128645) - [I baked a pie every day for a year and it changed my life](https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life)
-* [2026-02-23, 18:13:10](https://news.ycombinator.com/item?id=47126286) - [Cartographic Symbologies: The Art and Design of Expression in Historic Maps](https://exhibits.stanford.edu/cartosym/browse)
+* [2026-02-23, 20:54:34](https://news.ycombinator.com/item?id=47128645) - [I baked a pie every day for a year](https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life)
 * [2026-02-23, 17:07:00](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss) - [Goodbye Paper Vehicle Titles – Illinois State is Making Digital Mandatory](https://soylentnews.org/article.pl?sid=26/02/22/1311241&amp;from=rss)
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 16:23:01](https://news.ycombinator.com/item?id=47124454) - [An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published](https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html)
+* [2026-02-23, 15:33:33](https://news.ycombinator.com/item?id=47123633) - [Julia: Performance Tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
 * [2026-02-23, 12:22:00](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss) - [Concrete “Battery” Developed at MIT Now Packs 10 Times the Power](https://soylentnews.org/article.pl?sid=26/02/22/139236&amp;from=rss)
-* [2026-02-23, 12:19:43](https://news.ycombinator.com/item?id=47121352) - [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)
-* [2026-02-23, 08:39:47](https://news.ycombinator.com/item?id=47119665) - [The Wolfram S Combinator Challenge](https://www.combinatorprize.org/)
 * [2026-02-23, 07:41:00](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss) - [Privacy Is Not a Price You Pay for Growth](https://soylentnews.org/article.pl?sid=26/02/22/1259218&amp;from=rss)
 * [2026-02-23, 02:55:00](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss) - [Pink Noise Reduces REM Sleep and May Harm Sleep Quality](https://soylentnews.org/article.pl?sid=26/02/22/1256215&amp;from=rss)
