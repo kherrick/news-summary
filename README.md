@@ -1,36 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Developments
+## Government Surveillance and National Security
 
-* [OpenAI Fires an Employee For Prediction Market Insider Trading](https://slashdot.org/story/26/02/27/2342226/openai-fires-an-employee-for-prediction-market-insider-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI has terminated an employee for their involvement in insider trading on a prediction market platform.
+* [A Hacker Used Claude to Breach Mexico's Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&from=rss) - This report delves into a case where a hacker exploited Claude, an AI technology, to infiltrate the Mexican government's system and exfiltrate 150GB of sensitive data. [Comments](https://soylentnews.org/article.pl?sid=26/02/27/2224202&from=rss)
 
-* [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/) - OpenAI secures a significant agreement to deploy its AI models on a classified network for the U.S. Department of War.
+* [Hackers Expose the Massive Surveillance Stack Hiding Inside Your 'Age Verification' Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss) - Cybercriminals reveal the extensive hidden surveillance technologies used within age verification systems. [Comments](https://soylentnews.org/article.pl?sid=26/02/27/2217216&from=rss)
 
-* [Perplexity Announces 'Computer,' an AI Agent That Assigns Work To Other AI Agents](https://slashdot.org/story/26/02/27/2151236/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Perplexity unleashes a groundbreaking AI agent that strategizes and delegates tasks across other AI systems.
+* [Trump Orders Federal Agencies To Stop Using Anthropic AI Tech 'Immediately'](https://tech.slashdot.org/story/26/02/27/2138211/trump-orders-federal-agencies-to-stop-using-anthropic-ai-tech-immediately?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A federal directive from former President Trump commands a halt to the use of Anthropic AI technology in U.S. government agencies. [Comments](https://tech.slashdot.org/story/26/02/27/2138211/trump-orders-federal-agencies-to-stop-using-anthropic-ai-tech-immediately?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [GitHub Copilot CLI downloads and executes malware](https://www.promptarmor.com/resources/github-copilot-cli-downloads-and-executes-malware) - A report reveals how GitHub Copilot's CLI posed security risks by inadvertently downloading and running malicious scripts.
+## Artificial Intelligence Innovations and Issues
 
-* [Human Brain Cells On a Chip Learned To Play Doom In a Week](https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers develop a chip using human brain cells that successfully mastered the video game Doom in just seven days.
+* [Human Brain Cells On a Chip Learned To Play Doom In a Week](https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Surprising advancements in neurotechnology as brain cells grown on a chip exhibit the ability to master the game 'Doom'. [Comments](https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Global and Cultural Developments
+* [AI Mistakes Are Infuriating Gamers as Developers Seek Savings](https://games.slashdot.org/story/26/02/27/1934258/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Cost-focused AI implementation frustrates gamers as errors impact the user experience. [Comments](https://games.slashdot.org/story/26/02/27/1934258/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533) - After three decades, Croatia has been officially declared free of landmines, marking a significant milestone in its history.
+* [OpenAI Fires an Employee For Prediction Market Insider Trading](https://slashdot.org/story/26/02/27/2342226/openai-fires-an-employee-for-prediction-market-insider-trading?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI dismisses a staff member following a breach involving insider information on prediction markets. [Comments](https://slashdot.org/story/26/02/27/2342226/openai-fires-an-employee-for-prediction-market-insider-trading?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Hyperion Author Dan Simmons Dies From Stroke At 77](https://news.slashdot.org/story/26/02/27/2226234/hyperion-author-dan-simmons-dies-from-stroke-at-77?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Renowned author Dan Simmons, known for the Hyperion series, passes away at 77 due to a stroke.
+## Environment and Space Exploration
 
-## Scientific and Environmental Innovations
+* [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/) - Due to safety issues and postponements, NASA revamps its plans for the moon-oriented Artemis program. [Comments](https://news.ycombinator.com/item?id=47182483)
 
-* [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) - A groundbreaking discovery of a self-replicating ribozyme sets significant strides in molecular biology research.
+* [Nasa Announces Artemis III Mission No Longer Aims To Send Humans To Moon](https://science.slashdot.org/story/26/02/27/1854230/nasa-announces-artemis-iii-mission-no-longer-aims-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA revises their plans for the Artemis III mission, focusing on objectives other than sending humans to the moon. [Comments](https://science.slashdot.org/story/26/02/27/1854230/nasa-announces-artemis-iii-mission-no-longer-aims-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [NASA Announces Artemis III Mission No Longer Aims To Send Humans To Moon](https://science.slashdot.org/story/26/02/27/1854230/nasa-announces-artemis-iii-mission-no-longer-aims-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA alters its Artemis III mission, deciding against sending humans to the Moon due to unforeseen complications.
+* [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss) - New drone technologies implemented by the UK government target illegal waste disposal practices. [Comments](https://soylentnews.org/article.pl?sid=26/02/26/0429221&from=rss)
 
-* [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/) - A new study highlights the use of otters as bioindicators to measure the health of estuarine ecosystems.
+## Scientific Discoveries
 
-## Security and Cyber Risks
+* [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss) - A groundbreaking discovery of a galaxy that is predominantly composed of dark matter. [Comments](https://soylentnews.org/article.pl?sid=26/02/24/0444250&from=rss)
 
-* [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss) - A concerning discovery reveals the extensive surveillance infrastructure embedded within age verification processes.
+* [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) - Breakthrough research on a polymerase ribozyme capable of self-synthesis, potentially offering insights into the origins of life. [Comments](https://news.ycombinator.com/item?id=47187649)
 
-* [Stop Putting Secrets in .env Files](https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/) - A security expert advises against using .env files for storing sensitive information due to vulnerability risks.
+## Technology and Ethical Concerns
+
+* [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/) - A discussion on the potential hazards of relying on passkeys for encrypting sensitive user data. [Comments](https://news.ycombinator.com/item?id=47189749)
+
+* [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/) - California introduces legislation mandating age verification for all operating systems. [Comments](https://news.ycombinator.com/item?id=47181208)
+
+* [Metacritic Will Kick Out Media Attempting To Submit AI Generated Reviews](https://games.slashdot.org/story/26/02/27/1732218/metacritic-will-kick-out-media-attempting-to-submit-ai-generated-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Metacritic will bar platforms trying to include AI-generated reviews in their database. [Comments](https://games.slashdot.org/story/26/02/27/1732218/metacritic-will-kick-out-media-attempting-to-submit-ai-generated-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Historic and Global Developments
+
+* [Hyperion Author Dan Simmons Dies From Stroke At 77](https://news.slashdot.org/story/26/02/27/2226234/hyperion-author-dan-simmons-dies-from-stroke-at-77?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Celebrated 'Hyperion' author Dan Simmons passes at the age of 77. [Comments](https://news.slashdot.org/story/26/02/27/2226234/hyperion-author-dan-simmons-dies-from-stroke-at-77?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533) - A 31-year effort concludes with Croatia declaring itself cleared of landmine hazards. [Comments](https://news.ycombinator.com/item?id=47189535)
 
 ---
 
@@ -57,10 +69,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-02-28, 06:30:00](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss) - [A Hacker Used Claude to Breach Mexico&apos;s Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss)
+* [2026-02-28, 05:55:01](https://news.ycombinator.com/item?id=47190997) - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
+* [2026-02-28, 05:47:39](https://news.ycombinator.com/item?id=47190947) - [Rust Is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
+* [2026-02-28, 05:21:21](https://news.ycombinator.com/item?id=47190806) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
+* [2026-02-28, 05:18:03](https://lobste.rs/s/moy2ld/what_s_cooking_git_git_feb_2026_11) - [What&apos;s cooking in git.git (Feb 2026, #11)](https://lore.kernel.org/git/xmqq8qcdof3f.fsf@gitster.g/)
 * [2026-02-28, 03:30:00](https://slashdot.org/story/26/02/27/2342226/openai-fires-an-employee-for-prediction-market-insider-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Fires an Employee For Prediction Market Insider Trading](https://slashdot.org/story/26/02/27/2342226/openai-fires-an-employee-for-prediction-market-insider-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-02-28, 03:24:14](https://lobste.rs/s/mhifoh/offlining_live_game_with_net_native_aot) - [Offlining a Live Game With .NET Native AOT](https://sephnewman.substack.com/p/offlining-a-live-game-with-net-native)
 * [2026-02-28, 03:23:16](https://news.ycombinator.com/item?id=47189853) - [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 * [2026-02-28, 03:11:40](https://news.ycombinator.com/item?id=47189749) - [Don&apos;t use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
 * [2026-02-28, 02:59:02](https://news.ycombinator.com/item?id=47189650) - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
+* [2026-02-28, 02:55:29](https://news.ycombinator.com/item?id=47189625) - [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/)
+* [2026-02-28, 02:50:25](https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent) - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/)
 * [2026-02-28, 02:48:16](https://news.ycombinator.com/item?id=47189535) - [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
 * [2026-02-28, 02:08:15](https://lobste.rs/s/lf1hbk/elementary_os_8_1_1_available_now) - [elementary OS 8.1.1 Available Now](https://blog.elementary.io/os-8-1-1-available-now/)
 * [2026-02-28, 02:02:00](https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Human Brain Cells On a Chip Learned To Play Doom In a Week](https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -73,12 +93,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-28, 00:02:00](https://slashdot.org/story/26/02/27/2151236/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity Announces &apos;Computer,&apos; an AI Agent That Assigns Work To Other AI Agents](https://slashdot.org/story/26/02/27/2151236/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-27, 23:42:14](https://news.ycombinator.com/item?id=47187649) - [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
 * [2026-02-27, 23:20:00](https://tech.slashdot.org/story/26/02/27/2144239/south-korea-set-to-get-a-fully-functioning-google-maps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [South Korea Set To Get a Fully Functioning Google Maps](https://tech.slashdot.org/story/26/02/27/2144239/south-korea-set-to-get-a-fully-functioning-google-maps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-27, 23:01:49](https://news.ycombinator.com/item?id=47187121) - [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
 * [2026-02-27, 22:40:00](https://tech.slashdot.org/story/26/02/27/2138211/trump-orders-federal-agencies-to-stop-using-anthropic-ai-tech-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Orders Federal Agencies To Stop Using Anthropic AI Tech &apos;Immediately&apos;](https://tech.slashdot.org/story/26/02/27/2138211/trump-orders-federal-agencies-to-stop-using-anthropic-ai-tech-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-27, 22:31:18](https://news.ycombinator.com/item?id=47186677) - [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
-* [2026-02-27, 22:13:54](https://news.ycombinator.com/item?id=47186444) - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
 * [2026-02-27, 22:02:00](https://tech.slashdot.org/story/26/02/27/2133209/us-military-accidentally-shoots-down-border-protection-drone-with-laser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Military Accidentally Shoots Down Border Protection Drone With Laser](https://tech.slashdot.org/story/26/02/27/2133209/us-military-accidentally-shoots-down-border-protection-drone-with-laser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-27, 21:40:40](https://news.ycombinator.com/item?id=47186031) - [President Trump bans Anthropic from use in government systems](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban)
 * [2026-02-27, 21:33:14](https://lobste.rs/s/wvjyad/cultivating_robust_efficient_quantum) - [Cultivating a robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 21:25:00](https://news.slashdot.org/story/26/02/27/207211/white-house-stalls-release-of-approved-us-science-budgets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Stalls Release of Approved US Science Budgets](https://news.slashdot.org/story/26/02/27/207211/white-house-stalls-release-of-approved-us-science-budgets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-27, 21:07:50](https://lobste.rs/s/spoqxt/disrupting_malicious_uses_our_openai) - [Disrupting malicious uses of our [OpenAI] models](https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf)
@@ -87,10 +103,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-27, 20:20:51](https://lobste.rs/s/tf8j5h/please_stop_using_passkeys_for) - [Please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
 * [2026-02-27, 20:10:00](https://games.slashdot.org/story/26/02/27/1934258/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Mistakes Are Infuriating Gamers as Developers Seek Savings](https://games.slashdot.org/story/26/02/27/1934258/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-27, 19:30:00](https://mobile.slashdot.org/story/26/02/27/1917219/smartphone-market-to-decline-13-in-2026-marking-the-largest-drop-ever-due-to-the-memory-shortage-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartphone Market To Decline 13% in 2026, Marking the Largest Drop Ever Due To the Memory Shortage Crisis](https://mobile.slashdot.org/story/26/02/27/1917219/smartphone-market-to-decline-13-in-2026-marking-the-largest-drop-ever-due-to-the-memory-shortage-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-27, 19:09:02](https://lobste.rs/s/zpjljr/bill_text_ab_1043_age_verification) - [Bill Text  - AB-1043 Age verification signals: software applications and online services](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043)
 * [2026-02-27, 18:54:00](https://science.slashdot.org/story/26/02/27/1854230/nasa-announces-artemis-iii-mission-no-longer-aims-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nasa Announces Artemis III Mission No Longer Aims To Send Humans To Moon](https://science.slashdot.org/story/26/02/27/1854230/nasa-announces-artemis-iii-mission-no-longer-aims-to-send-humans-to-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-27, 18:49:50](https://news.ycombinator.com/item?id=47184049) - [Let&apos;s discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
-* [2026-02-27, 18:40:31](https://news.ycombinator.com/item?id=47183940) - [GitHub Copilot CLI downloads and executes malware](https://www.promptarmor.com/resources/github-copilot-cli-downloads-and-executes-malware)
 * [2026-02-27, 18:37:53](https://news.ycombinator.com/item?id=47183907) - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
 * [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
 * [2026-02-27, 18:03:00](https://slashdot.org/story/26/02/27/185250/a-chinese-officials-use-of-chatgpt-accidentally-revealed-a-global-intimidation-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Chinese Official&apos;s Use of ChatGPT Accidentally Revealed a Global Intimidation Operation](https://slashdot.org/story/26/02/27/185250/a-chinese-officials-use-of-chatgpt-accidentally-revealed-a-global-intimidation-operation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-27, 16:26:22](https://news.ycombinator.com/item?id=47182387) - [Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions](https://github.com/hjtenklooster/claude-file-recovery)
 * [2026-02-27, 16:14:00](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&amp;from=rss) - [The Political Effects of Xitter’s Feed Algorithm](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&amp;from=rss)
 * [2026-02-27, 15:52:27](https://news.ycombinator.com/item?id=47181944) - [A Chinese official’s use of ChatGPT revealed an intimidation operation](https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation)
-* [2026-02-27, 15:41:37](https://lobste.rs/s/43nydc/retrotick_browser_based_windows) - [RetroTick, browser-based Windows emulator](https://retrotick.com/)
 * [2026-02-27, 15:37:53](https://news.ycombinator.com/item?id=47181753) - [Open source calculator firmware DB48X forbids CA/CO use due to age verification](https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286)
 * [2026-02-27, 14:56:05](https://news.ycombinator.com/item?id=47181211) - [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
 * [2026-02-27, 14:55:49](https://news.ycombinator.com/item?id=47181208) - [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
@@ -115,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-27, 11:44:34](https://lobste.rs/s/5b8tmd/bitflipped_your_computer_is_cosmic_ray) - [Bitflipped: Your computer is a cosmic ray detector (2018)](https://github.com/Smerity/bitflipped)
 * [2026-02-27, 11:30:00](https://soylentnews.org/article.pl?sid=26/02/26/0411234&amp;from=rss) - [AMD&apos;s Next-Gen Ryzen 10000 Desktop CPUs Rumored to Come in Seven Different Configs](https://soylentnews.org/article.pl?sid=26/02/26/0411234&amp;from=rss)
 * [2026-02-27, 10:43:12](https://lobste.rs/s/jw5pg6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jw5pg6/what_are_you_doing_this_weekend)
-* [2026-02-27, 09:08:58](https://news.ycombinator.com/item?id=47178371) - [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
 * [2026-02-27, 07:45:44](https://lobste.rs/s/xm8vfl/linux_id_linux_explores_new_way) - [Linux ID: Linux explores new way of authenticating developers and their code](https://www.zdnet.com/article/linux-kernel-maintainers-new-way-of-authenticating-developers-and-code/)
 * [2026-02-27, 07:34:09](https://lobste.rs/s/4pqmdx/mothlamp_problems) - [Mothlamp Problems](https://unfoldingdiagrams.leaflet.pub/3mft6olldos26)
 * [2026-02-27, 07:32:42](https://lobste.rs/s/aifnbl/accidentally_disabling_ssh_access_via) - [Accidentally disabling SSH access via scp](https://sny.sh/hypha/blog/scp)
@@ -123,19 +135,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-27, 01:59:00](https://soylentnews.org/article.pl?sid=26/02/26/042214&amp;from=rss) - [Hungarian Startup Transforming Robot Manufacturing With 3D Tissue Braiding](https://soylentnews.org/article.pl?sid=26/02/26/042214&amp;from=rss)
 * [2026-02-26, 23:38:42](https://lobste.rs/s/bohhcq/return_obra_dinn_spherical_mapped) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp 1st-person game (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2026-02-26, 21:54:17](https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from) - [How my side project got banned from the internet](https://trysound.io/how-my-side-project-got-banned-from-the-internet/)
-* [2026-02-26, 21:30:19](https://news.ycombinator.com/item?id=47172238) - [Show HN: Unfucked – version every change between commits - local-first](https://www.unfudged.io/)
+* [2026-02-26, 21:30:19](https://news.ycombinator.com/item?id=47172238) - [Show HN: Unfucked - version all changes (by any tool) - local-first/source avail](https://www.unfudged.io/)
 * [2026-02-26, 21:17:00](https://soylentnews.org/article.pl?sid=26/02/25/1612247&amp;from=rss) - [Tesla &apos;Robotaxi&apos; Adds 5 More Crashes in Austin in a Month](https://soylentnews.org/article.pl?sid=26/02/25/1612247&amp;from=rss)
 * [2026-02-26, 18:29:56](https://news.ycombinator.com/item?id=47170030) - [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
 * [2026-02-26, 16:45:11](https://lobste.rs/s/o3cpxf/sliced_by_go_s_slices) - [Sliced by Go’s Slices](https://ohadravid.github.io/posts/2026-02-go-sliced/)
 * [2026-02-26, 16:34:00](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss) - [SpaceX&apos;s Faulty Falcon Spewed Massive Lithium Plume Over Europe, Say Scientists](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss)
 * [2026-02-26, 16:25:09](https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
-* [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh](https://eieio.games/blog/secure-massively-multiplayer-snake/)
 * [2026-02-26, 11:48:00](https://soylentnews.org/article.pl?sid=26/02/25/1551209&amp;from=rss) - [Michael Pollan Says AI May &apos;Think&apos; — but It Will Never be Conscious](https://soylentnews.org/article.pl?sid=26/02/25/1551209&amp;from=rss)
 * [2026-02-26, 07:06:00](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss) - [80386 Protection](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
 * [2026-02-26, 02:20:00](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss) - [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss)
 * [2026-02-25, 21:35:00](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss) - [AI Agent Throws LAN Party](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss)
 * [2026-02-25, 18:15:07](https://news.ycombinator.com/item?id=47155375) - [Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)](https://github.com/maloyan/manim-web)
+* [2026-02-25, 17:47:47](https://news.ycombinator.com/item?id=47154962) - [Time-Travel Debugging: Replaying Production Bugs Locally](https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/)
 * [2026-02-25, 16:37:00](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss) - [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss)
 * [2026-02-25, 12:16:12](https://news.ycombinator.com/item?id=47150546) - [Inventing the Lisa user interface – Interactions](https://dl.acm.org/doi/10.1145/242388.242405)
 * [2026-02-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss) - [China Remains Embedded in US Energy Networks &apos;for the Purpose of Taking It Down&apos;](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss)
@@ -145,6 +157,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-24, 21:41:00](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss) - [OS-Level Age Verification in Proposed Legislation in Colorado](https://soylentnews.org/politics/article.pl?sid=26/02/23/103249&amp;from=rss)
 * [2026-02-24, 16:56:00](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss) - [Is This Glass Square the Long, Long Future of Data Storage ?](https://soylentnews.org/article.pl?sid=26/02/23/0959244&amp;from=rss)
 * [2026-02-24, 13:04:25](https://news.ycombinator.com/item?id=47136612) - [Eschewing Zshell for Emacs Shell (2014)](https://www.howardism.org/Technical/Emacs/eshell-fun.html)
+* [2026-02-24, 12:27:44](https://news.ycombinator.com/item?id=47136272) - [Package Managers à la Carte: a formal model of dependency resolution](https://arxiv.org/abs/2602.18602)
 * [2026-02-24, 12:09:00](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss) - [Two Days of Oatmeal Reduce Cholesterol Level](https://soylentnews.org/article.pl?sid=26/02/23/010246&amp;from=rss)
 * [2026-02-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss) - [Video Games are Losing the \&quot;Attention War\&quot; to Gambling, Porn, and Crypto](https://soylentnews.org/article.pl?sid=26/02/23/0058242&amp;from=rss)
 * [2026-02-24, 02:37:00](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss) - [Why Are Tatooine Planets Rare? Blame General Relativity](https://soylentnews.org/article.pl?sid=26/02/23/0050217&amp;from=rss)
