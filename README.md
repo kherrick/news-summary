@@ -1,56 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence Advances and Ethical Concerns
+## Technology and Software Developments
 
-* [Anthropic's Claude Passes ChatGPT, Now #1, on Apple's 'Top Apps' Chart After Pentagon Controversy](https://slashdot.org/story/26/02/28/2046221/anthropics-claude-passes-chatgpt-now-1-on-apples-top-apps-chart-after-pentagon-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Explicit Resource Management Has a Color Problem](https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management) - An exploration of issues surrounding explicit resource management and its impact on coding practices.
 
-* [America Used Anthropic's AI for Its Attack On Iran, One Day After Banning It](https://tech.slashdot.org/story/26/03/01/1945208/america-used-anthropics-ai-for-its-attack-on-iran-one-day-after-banning-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [mcp-firewall: A better policy-engine for CLI agents](https://github.com/dzervas/mcp-firewall) - Introduction of an advanced policy engine aimed at improving command-line interface agent security.
 
-* [Sam Altman Answers Questions on X.com About Pentagon Deal, Threats to Anthropic](https://news.slashdot.org/story/26/03/01/0233230/sam-altman-answers-questions-on-xcom-about-pentagon-deal-threats-to-anthropic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) - Announcing early access to WebMCP for developers, aimed at enhancing web tools.
 
-* [A Hacker Used Claude to Breach Mexico's Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss)
+* [Why does C have the best file API?](https://maurycyz.com/misc/c_files/) - A discussion on C programming language's efficient file API as compared to modern tools.
 
-* [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss)
+* [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman) - A helpful tool offering a modern take for viewing manual pages in terminal environments.
 
-## Environmental Challenges
+* [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/) - A look at the security vulnerabilities in Go's certificate verification.
 
-* [Chronic Ocean Heating Fuels 'Staggering' Loss of Marine Life, Study Finds](https://news.slashdot.org/story/26/03/01/2136222/chronic-ocean-heating-fuels-staggering-loss-of-marine-life-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Science and Environment
 
-* [North America's Bird Populations Are Shrinking Faster.  Blame Climate Change and Agriculture](https://news.slashdot.org/story/26/03/01/0332257/north-americas-bird-populations-are-shrinking-faster-blame-climate-change-and-agriculture?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Chronic Ocean Heating Fuels 'Staggering' Loss of Marine Life, Study Finds](https://news.slashdot.org/story/26/03/01/2136222/chronic-ocean-heating-fuels-staggering-loss-of-marine-life-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New findings on the dramatic effects of persistent ocean temperature increases.
 
-## Scientific Discoveries and Technological Innovations
+* [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm) - A groundbreaking innovation in cancer treatment using iron nanomaterials.
 
-* [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
+* [North America's Bird Populations Are Shrinking Faster.  Blame Climate Change and Agriculture](https://news.slashdot.org/story/26/03/01/0332257/north-americas-bird-populations-are-shrinking-faster-blame-climate-change-and-agriculture?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Investigating causes behind the accelerated decline in bird populations across North America.
 
-* [Galileo's Handwritten Notes Discovered in a Medieval Astronomy Text](https://science.slashdot.org/story/26/02/28/0419233/galileos-handwritten-notes-discovered-in-a-medieval-astronomy-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Artificial Intelligence and Machine Learning
 
-* [Antarctica's Massive Neutrino Observatory Gets an Upgrade](https://science.slashdot.org/story/26/02/28/0632201/antarcticas-massive-neutrino-observatory-gets-an-upgrade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Anthropic's Claude Passes ChatGPT, Now #1, on Apple's 'Top Apps' Chart After Pentagon Controversy](https://slashdot.org/story/26/02/28/2046221/anthropics-claude-passes-chatgpt-now-1-on-apples-top-apps-chart-after-pentagon-controversy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Surpassing ChatGPT, Anthropic Claude climbs the charts amidst Pentagon-related controversy.
 
-* [The 64-bit Hurd has landed in Guix](https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/)
+* [I built a demo of what AI chat will look like when it's "free" and ad-supported](https://99helpers.com/tools/ad-supported-chat) - A demonstration of ad-supported models for future AI-driven chats.
 
-## Tech and Privacy
+* [Microgpt explained interactively](https://growingswe.com/blog/microgpt) - Detailed, interactive dive into the capabilities and functionalities of MicroGPT.
 
-* [How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
+* [Sam Altman Answers Questions on X.com About Pentagon Deal, Threats to Anthropic](https://news.slashdot.org/story/26/03/01/0233230/sam-altman-answers-questions-on-xcom-about-pentagon-deal-threats-to-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Event featuring Sam Altman's insights on AI policy and its interplay with military applications.
 
-* [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss)
+* [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&from=rss) - The interplay of bio-tech and AI as brain cells powered on chips demonstrate game-playing capability.
 
-* [Why LLM-Generated Passwords Are Dangerously Insecure](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss)
-
-* [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
-
-## AI and Workforce Impact
-
-* [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss)
-
-* [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
-
-## Intriguing Perspectives and Societal Trends
-
-* [Why XML tags are so fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-
-* [Silicon Valley's Ideas Mocked Over Penchant for Favoring Young Entrepreneurs with 'Agency'](https://slashdot.org/story/26/03/01/011246/silicon-valleys-ideas-mocked-over-penchant-for-favoring-young-entrepreneurs-with-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss)
+* [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) - Unpacking how decision trees maximize decision-making datasets generally for ML insights.
 
 ---
 
@@ -77,14 +61,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-02, 01:16:51](https://lobste.rs/s/3nuudi/explicit_resource_management_has_color) - [Explicit Resource Management Has a Color Problem](https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management)
+* [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&amp;from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&amp;from=rss)
+* [2026-03-02, 00:30:31](https://lobste.rs/s/s4ha0g/mcp_firewall_better_policy_engine_for_cli) - [mcp-firewall: A better policy-engine for CLI agents](https://github.com/dzervas/mcp-firewall)
+* [2026-03-01, 23:46:00](https://news.slashdot.org/story/26/03/01/2332240/norways-consumer-council-calls-for-right-to-repair-and-antitrust-enforcement---and-mocks-enshittification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Norway&apos;s Consumer Council Calls for Right to Repair and Antitrust Enforcement - and Mocks &apos;Enshittification&apos;](https://news.slashdot.org/story/26/03/01/2332240/norways-consumer-council-calls-for-right-to-repair-and-antitrust-enforcement---and-mocks-enshittification?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-01, 22:46:00](https://slashdot.org/story/26/03/01/1924223/ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AIs Can&apos;t Stop Recommending Nuclear Strikes In War Game Simulations](https://slashdot.org/story/26/03/01/1924223/ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-01, 22:39:27](https://news.ycombinator.com/item?id=47211476) - [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
+* [2026-03-01, 22:18:10](https://news.ycombinator.com/item?id=47211280) - [Little Free Library Books](https://littlefreelibrary.org/)
+* [2026-03-01, 22:13:58](https://news.ycombinator.com/item?id=47211249) - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+* [2026-03-01, 21:52:16](https://news.ycombinator.com/item?id=47211081) - [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)
 * [2026-03-01, 21:39:00](https://news.slashdot.org/story/26/03/01/2136222/chronic-ocean-heating-fuels-staggering-loss-of-marine-life-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chronic Ocean Heating Fuels &apos;Staggering&apos; Loss of Marine Life, Study Finds](https://news.slashdot.org/story/26/03/01/2136222/chronic-ocean-heating-fuels-staggering-loss-of-marine-life-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-01, 21:33:19](https://news.ycombinator.com/item?id=47210903) - [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)
 * [2026-03-01, 20:59:00](https://slashdot.org/story/26/02/28/2046221/anthropics-claude-passes-chatgpt-now-1-on-apples-top-apps-chart-after-pentagon-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s Claude Passes ChatGPT, Now #1, on Apple&apos;s &apos;Top Apps&apos; Chart After Pentagon Controversy](https://slashdot.org/story/26/02/28/2046221/anthropics-claude-passes-chatgpt-now-1-on-apples-top-apps-chart-after-pentagon-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-01, 20:55:22](https://news.ycombinator.com/item?id=47210572) - [How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
 * [2026-03-01, 20:22:00](https://soylentnews.org/article.pl?sid=26/02/28/0817218&amp;from=rss) - [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&amp;from=rss)
 * [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don&apos;t have to if you don&apos;t want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 19:53:48](https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our) - [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
 * [2026-03-01, 19:47:00](https://tech.slashdot.org/story/26/03/01/1945208/america-used-anthropics-ai-for-its-attack-on-iran-one-day-after-banning-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America Used Anthropic&apos;s AI for Its Attack On Iran, One Day After Banning It](https://tech.slashdot.org/story/26/03/01/1945208/america-used-anthropics-ai-for-its-attack-on-iran-one-day-after-banning-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-01, 19:25:04](https://news.ycombinator.com/item?id=47209788) - [Why does C have the best file API](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 19:24:30](https://news.ycombinator.com/item?id=47209781) - [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 19:22:52](https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down) - [AWS Middle East Central Zone (UAE) down, apparently struck in war](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 19:19:08](https://lobste.rs/s/zwdukd/tsink_embedded_time_series_database_for) - [tsink - Embedded Time-Series Database for Rust](https://saturnine.cc/tsink)
@@ -100,11 +93,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-01, 15:40:29](https://lobste.rs/s/39kel0/why_does_c_have_best_file_api) - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss) - [US States Are Getting Tougher on Drivers Who Refuse to Move Over](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss)
 * [2026-03-01, 15:34:00](https://science.slashdot.org/story/26/02/28/0419233/galileos-handwritten-notes-discovered-in-a-medieval-astronomy-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Galileo&apos;s Handwritten Notes Discovered in a Medieval Astronomy Text](https://science.slashdot.org/story/26/02/28/0419233/galileos-handwritten-notes-discovered-in-a-medieval-astronomy-text?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil&apos; Fun Langs&apos; Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML tags are so fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-* [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding [fiction]](https://rsaksida.com/blog/ape-coding/)
-* [2026-03-01, 13:49:21](https://news.ycombinator.com/item?id=47206663) - [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 * [2026-03-01, 13:13:01](https://lobste.rs/s/6gcdzl/supercharge_rust_functions_with) - [Supercharge Rust functions with implicit arguments using CGP v0.7.0](https://contextgeneric.dev/blog/v0.7.0-release)
 * [2026-03-01, 12:56:37](https://lobste.rs/s/8ixvz2/real_cost_random_i_o) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
@@ -115,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-01, 09:45:27](https://lobste.rs/s/ndm848/blogatto_gleam_framework_for_building) - [Blogatto - A Gleam framework for building static blogs](https://blogat.to)
 * [2026-03-01, 09:43:43](https://news.ycombinator.com/item?id=47205208) - [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
 * [2026-03-01, 09:39:40](https://lobste.rs/s/98geyn/64_bit_hurd_has_landed_guix) - [The 64-bit Hurd has landed in Guix](https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/)
-* [2026-03-01, 09:27:34](https://news.ycombinator.com/item?id=47205129) - [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
 * [2026-03-01, 08:22:21](https://lobste.rs/s/xbavlu/simple_made_inevitable_economics) - [Simple Made Inevitable: The Economics of Language Choice in the LLM Era](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
@@ -131,26 +120,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 20:41:00](https://soylentnews.org/article.pl?sid=26/02/28/0151255&amp;from=rss) - [OpenAI Secures Record $110 Billion Funding Round Backed By Amazon, Nvidia, and SoftBank](https://soylentnews.org/article.pl?sid=26/02/28/0151255&amp;from=rss)
 * [2026-02-28, 20:34:00](https://tech.slashdot.org/story/26/02/28/2028232/us-threatens-anthropic-with-supply-chain-risk-designation-openai-signs-new-war-department-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Threatens Anthropic with &apos;Supply-Chain Risk&apos; Designation. OpenAI Signs New War Department Deal](https://tech.slashdot.org/story/26/02/28/2028232/us-threatens-anthropic-with-supply-chain-risk-designation-openai-signs-new-war-department-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-02-28, 19:51:11](https://lobste.rs/s/szaazg/custom_data_structures_e_graphs) - [Custom Data Structures in E-Graphs](https://uwplse.org/2026/02/24/egglog-containers.html)
-* [2026-02-28, 19:34:00](https://science.slashdot.org/story/26/02/28/0632201/antarcticas-massive-neutrino-observatory-gets-an-upgrade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Antarctica&apos;s Massive Neutrino Observatory Gets an Upgrade](https://science.slashdot.org/story/26/02/28/0632201/antarcticas-massive-neutrino-observatory-gets-an-upgrade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-28, 18:45:35](https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts) - [Block the “Upgrade to Tahoe” alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
-* [2026-02-28, 18:34:00](https://hardware.slashdot.org/story/26/02/28/0446211/worlds-largest-battery-soon-at-google-data-center-100-hour-iron-air-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;World&apos;s Largest Battery&apos; Soon At Google Data Center: 100-Hour Iron-Air Storage](https://hardware.slashdot.org/story/26/02/28/0446211/worlds-largest-battery-soon-at-google-data-center-100-hour-iron-air-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 15:59:00](https://soylentnews.org/article.pl?sid=26/02/28/0150248&amp;from=rss) - [OsmAnd&apos;s Faster Offline Navigation](https://soylentnews.org/article.pl?sid=26/02/28/0150248&amp;from=rss)
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-* [2026-02-28, 11:26:08](https://lobste.rs/s/iedoot/ai_true_is_anti_pattern) - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
 * [2026-02-28, 11:11:00](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss)
 * [2026-02-28, 09:10:38](https://lobste.rs/s/tza0zh/yes) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
 * [2026-02-28, 06:30:00](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss) - [A Hacker Used Claude to Breach Mexico&apos;s Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss)
 * [2026-02-28, 01:40:00](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss) - [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss)
 * [2026-02-27, 20:58:00](https://soylentnews.org/article.pl?sid=26/02/26/0429221&amp;from=rss) - [UK Government Upgrades Drones, Deploys Joystick Tweakers to Catch Illegal Dumpers](https://soylentnews.org/article.pl?sid=26/02/26/0429221&amp;from=rss)
-* [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
+* [2026-02-27, 16:21:38](https://news.ycombinator.com/item?id=47182339) - [How Next-Gen Spacecraft Are Overwhelming Our Communication Networks](https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/)
+* [2026-02-27, 16:17:53](https://news.ycombinator.com/item?id=47182284) - [Tove Jansson&apos;s criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
 * [2026-02-27, 16:14:00](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&amp;from=rss) - [The Political Effects of Xitter’s Feed Algorithm](https://soylentnews.org/politics/article.pl?sid=26/02/26/0417224&amp;from=rss)
-* [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
-* [2026-02-27, 14:58:58](https://news.ycombinator.com/item?id=47181256) - [How Dada enables internal references](https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/)
 * [2026-02-27, 13:12:38](https://news.ycombinator.com/item?id=47180140) - [Chorba: A novel CRC32 implementation (2024)](https://arxiv.org/abs/2412.16398)
 * [2026-02-27, 11:30:00](https://soylentnews.org/article.pl?sid=26/02/26/0411234&amp;from=rss) - [AMD&apos;s Next-Gen Ryzen 10000 Desktop CPUs Rumored to Come in Seven Different Configs](https://soylentnews.org/article.pl?sid=26/02/26/0411234&amp;from=rss)
 * [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
@@ -163,11 +147,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-26, 16:34:00](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss) - [SpaceX&apos;s Faulty Falcon Spewed Massive Lithium Plume Over Europe, Say Scientists](https://soylentnews.org/article.pl?sid=26/02/25/1553206&amp;from=rss)
 * [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-26, 11:48:00](https://soylentnews.org/article.pl?sid=26/02/25/1551209&amp;from=rss) - [Michael Pollan Says AI May &apos;Think&apos; — but It Will Never be Conscious](https://soylentnews.org/article.pl?sid=26/02/25/1551209&amp;from=rss)
+* [2026-02-26, 11:27:06](https://news.ycombinator.com/item?id=47164608) - [Programming in K](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md)
 * [2026-02-26, 07:06:00](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss) - [80386 Protection](https://soylentnews.org/article.pl?sid=26/02/25/1546252&amp;from=rss)
 * [2026-02-26, 02:20:00](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss) - [AI Bot Seemingly Shames Developer for Rejected Pull Request](https://soylentnews.org/article.pl?sid=26/02/25/1544219&amp;from=rss)
-* [2026-02-25, 21:35:00](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss) - [AI Agent Throws LAN Party](https://soylentnews.org/article.pl?sid=26/02/24/0734201&amp;from=rss)
-* [2026-02-25, 16:37:00](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss) - [Astronomers Identify a Galaxy Made Almost Entirely of Dark Matter](https://soylentnews.org/article.pl?sid=26/02/24/0444250&amp;from=rss)
-* [2026-02-25, 13:45:02](https://news.ycombinator.com/item?id=47151367) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
-* [2026-02-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss) - [China Remains Embedded in US Energy Networks &apos;for the Purpose of Taking It Down&apos;](https://soylentnews.org/article.pl?sid=26/02/24/0437208&amp;from=rss)
-* [2026-02-25, 07:13:00](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss) - [California Bill Would Restrict 3D Printers to State-Approved Models to Prevent Making  Gun Parts](https://soylentnews.org/article.pl?sid=26/02/24/0427256&amp;from=rss)
-* [2026-02-25, 02:26:00](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss) - [AI Apps on the Google Play Store Are Leaking Customer Data and Photos](https://soylentnews.org/article.pl?sid=26/02/24/0420243&amp;from=rss)
