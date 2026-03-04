@@ -1,32 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements and Challenges
+## Cybersecurity and Surveillance
 
-* [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251) – Innovative research focusing on breakthrough methods in decoding efficiencies. [Comments](https://news.ycombinator.com/item?id=47242637)
+* [How Mossad hacked traffic cameras to track Ayatollah Khamenei](https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei) ([Comments](https://news.ycombinator.com/item?id=47243818))
 
-* [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) – Exploration of large language models and their implications on user anonymity. [Comments](https://news.ycombinator.com/item?id=47242453)
+* [Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) ([Comments](https://lobste.rs/s/ftnuxf/coruna_mysterious_journey_powerful_ios))
 
-* [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A new development by OpenAI challenging major developer collaboration platforms. [Comments](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) ([Comments](https://news.ycombinator.com/item?id=47242453))
 
-* [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567) – Advances in smartphone security and customization options by Motorola. [Comments](https://news.ycombinator.com/item?id=47241551)
+* [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47242453))
 
-## Privacy and Security
+## Artificial Intelligence Trends
 
-* [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A concerning report on a U.S. government tool potentially being exploited by malicious parties. [Comments](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [‘Cancel ChatGPT’: AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss))
 
-* [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o) – TikTok opted against implementing end-to-end encryption, citing user safety concerns. [Comments](https://news.ycombinator.com/item?id=47241817)
+* [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47242453))
 
-## Emerging Trends in Artificial Intelligence
+## Innovative Technologies
 
-* [Google Chrome Is Switching To a Two-Week Release Cycle](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Changes to Chrome's update schedule aim to improve deployment cycles. [Comments](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU) ([Comments](https://news.ycombinator.com/item?id=47243069))
 
-* [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) – Discussion on the trade-offs of developing applications with frameworks like Electron. [Comments](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost)
+* [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251) ([Comments](https://news.ycombinator.com/item?id=47242637))
 
-## Environmental and Scientific Discoveries
+## Research and Discoveries
 
-* [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now) – USGS reports a new natural phenomenon regarding Echinus Geyser. [Comments](https://news.ycombinator.com/item?id=47241788)
+* [Never snooze a future](https://jacko.io/snooze.html) ([Comments](https://lobste.rs/s/isuqoa/never_snooze_future))
 
-* [Clean Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss) – Observations linking cleaner fuels with changes in natural weather patterns. [Comments](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss)
+* [Echinus geyser back in action](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now) ([Comments](https://news.ycombinator.com/item?id=47241788))
 
 ---
 
@@ -53,12 +53,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-04, 06:19:11](https://news.ycombinator.com/item?id=47243818) - [How Mossad hacked traffic cameras to track Ayatollah Khamenei](https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei)
+* [2026-03-04, 05:22:00](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss) - [&apos;Cancel ChatGPT&apos;: AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss)
+* [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
+* [2026-03-04, 04:30:32](https://news.ycombinator.com/item?id=47243069) - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
+* [2026-03-04, 04:19:56](https://lobste.rs/s/ftnuxf/coruna_mysterious_journey_powerful_ios) - [Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit)
+* [2026-03-04, 03:49:04](https://lobste.rs/s/isuqoa/never_snooze_future) - [Never snooze a future](https://jacko.io/snooze.html)
+* [2026-03-04, 03:40:18](https://news.ycombinator.com/item?id=47242765) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California&apos;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 * [2026-03-04, 03:32:02](https://lobste.rs/s/hz6vhv/california_s_digital_age_assurance_act) - [California&apos;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 * [2026-03-04, 03:24:20](https://news.ycombinator.com/item?id=47242637) - [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
 * [2026-03-04, 03:00:32](https://news.ycombinator.com/item?id=47242453) - [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
 * [2026-03-04, 03:00:00](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-04, 02:43:05](https://news.ycombinator.com/item?id=47242342) - [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+* [2026-03-04, 02:43:05](https://news.ycombinator.com/item?id=47242342) - [Mac external displays for designers and developers, part 2 (2022)](https://bjango.com/articles/macexternaldisplays2/)
+* [2026-03-04, 02:34:06](https://news.ycombinator.com/item?id=47242277) - [Number Research Inc](https://numberresearch.xyz/)
 * [2026-03-04, 02:23:01](https://news.ycombinator.com/item?id=47242193) - [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
 * [2026-03-04, 01:52:21](https://news.ycombinator.com/item?id=47241976) - [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
 * [2026-03-04, 01:31:05](https://news.ycombinator.com/item?id=47241817) - [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
@@ -66,10 +74,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-04, 01:00:00](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 00:58:31](https://news.ycombinator.com/item?id=47241551) - [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
 * [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss)
-* [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [Vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
-* [2026-03-03, 23:34:05](https://news.ycombinator.com/item?id=47240694) - [Lenovo’s new ThinkPads score 10/10 for repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
+* [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [My spicy take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
 * [2026-03-03, 23:29:32](https://lobste.rs/s/hu6tos/markless_document_markup_standard) - [The Markless Document Markup Standard](https://shirakumo.org/docs/markless/)
-* [2026-03-03, 23:17:24](https://news.ycombinator.com/item?id=47240504) - [130k Lines of Formal Topology: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
 * [2026-03-03, 23:00:00](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome Is Switching To a Two-Week Release Cycle](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 22:31:14](https://lobste.rs/s/g6moku/four_months_ruby_central_moving_ruby) - [Four months of Ruby Central moving Ruby backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/)
 * [2026-03-03, 22:00:00](https://tech.slashdot.org/story/26/03/03/1951222/libreoffice-says-its-ui-is-way-better-than-microsoft-offices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LibreOffice Says Its UI Is Way Better Than Microsoft Office&apos;s](https://tech.slashdot.org/story/26/03/03/1951222/libreoffice-says-its-ui-is-way-better-than-microsoft-offices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -79,7 +85,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-03, 21:00:00](https://yro.slashdot.org/story/26/03/03/1926214/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta&apos;s AI Display Glasses Reportedly Share Intimate Videos With Human Moderators](https://yro.slashdot.org/story/26/03/03/1926214/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/don_knuth_s_claude_like_directed) - [Don Knuth&apos;s \&quot;Claude-like\&quot; directed Hamiltonian cycles decompositions](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 20:34:58](https://lobste.rs/s/5cuaiv/anthropic_is_untrustworthy) - [Anthropic is untrustworthy](https://anthropic.ml/)
-* [2026-03-03, 20:14:18](https://news.ycombinator.com/item?id=47238279) - [We&apos;ve freed Cookie&apos;s Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
 * [2026-03-03, 20:00:27](https://lobste.rs/s/2gwqlh/rust_zero_cost_abstractions_vs_simd) - [Rust zero-cost abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost)
 * [2026-03-03, 20:00:00](https://yro.slashdot.org/story/26/03/03/1918247/openai-amends-pentagon-deal-as-sam-altman-admits-it-looks-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Amends Pentagon Deal As Sam Altman Admits It Looks &apos;Sloppy&apos;](https://yro.slashdot.org/story/26/03/03/1918247/openai-amends-pentagon-deal-as-sam-altman-admits-it-looks-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 19:54:00](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss) - [Across Cultures, People Combine Reference Frames to Orient Themselves](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss)
@@ -99,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-03, 15:13:00](https://soylentnews.org/article.pl?sid=26/03/02/2020204&amp;from=rss) - [Pathways to a Fair Technological Future](https://soylentnews.org/article.pl?sid=26/03/02/2020204&amp;from=rss)
 * [2026-03-03, 15:06:27](https://lobste.rs/s/boot5m/lilaq_advanced_data_visualization_typst) - [Lilaq: Advanced data visualization in Typst](https://lilaq.org/)
 * [2026-03-03, 15:00:00](https://yro.slashdot.org/story/26/03/03/0527220/chatgpt-uninstalls-surged-by-295-after-pentagon-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Uninstalls Surged By 295% After Pentagon Deal](https://yro.slashdot.org/story/26/03/03/0527220/chatgpt-uninstalls-surged-by-295-after-pentagon-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-03, 14:42:30](https://news.ycombinator.com/item?id=47233110) - [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
 * [2026-03-03, 14:19:14](https://news.ycombinator.com/item?id=47232727) - [Don&apos;t become an engineering manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
@@ -120,27 +124,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
 * [2026-03-02, 20:12:00](https://soylentnews.org/article.pl?sid=26/03/01/0744215&amp;from=rss) - [Hail Protection Using Solar Panels](https://soylentnews.org/article.pl?sid=26/03/01/0744215&amp;from=rss)
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
-* [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
 * [2026-03-02, 15:23:00](https://soylentnews.org/article.pl?sid=26/03/01/0737210&amp;from=rss) - [Whoops: US Military Laser Strike Takes Down CBP Drone Near Mexican Border](https://soylentnews.org/article.pl?sid=26/03/01/0737210&amp;from=rss)
 * [2026-03-02, 10:41:00](https://soylentnews.org/article.pl?sid=26/03/01/0728237&amp;from=rss) - [Trump Bans Anthropic AI From Federal Agencies While OpenAI Eager to Fill the Void](https://soylentnews.org/article.pl?sid=26/03/01/0728237&amp;from=rss)
 * [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola&apos;s new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
-* [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 * [2026-03-02, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/01/071226&amp;from=rss) - [Researchers Discover Massive Wi-Fi Vulnerability Affecting Multiple Access Points](https://soylentnews.org/article.pl?sid=26/03/01/071226&amp;from=rss)
 * [2026-03-02, 01:11:00](https://soylentnews.org/article.pl?sid=26/03/01/0653215&amp;from=rss) - [Removable Batteries in Mobile Phones May be Making a Comeback](https://soylentnews.org/article.pl?sid=26/03/01/0653215&amp;from=rss)
 * [2026-03-01, 20:22:00](https://soylentnews.org/article.pl?sid=26/02/28/0817218&amp;from=rss) - [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&amp;from=rss)
 * [2026-03-01, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss) - [US States Are Getting Tougher on Drivers Who Refuse to Move Over](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss)
+* [2026-03-01, 10:56:17](https://news.ycombinator.com/item?id=47205603) - [Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation](https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/)
 * [2026-03-01, 10:52:00](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss) - [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss)
-* [2026-03-01, 08:15:27](https://news.ycombinator.com/item?id=47204754) - [What’s in a name? (2014)](https://sailsandcommas.com/2014/02/03/whats-in-a-name/)
+* [2026-03-01, 09:09:04](https://news.ycombinator.com/item?id=47205031) - [On the Design of Programming Languages (1974) [pdf]](https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF)
 * [2026-03-01, 06:25:10](https://news.ycombinator.com/item?id=47204203) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-01, 06:10:00](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss) - [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss)
 * [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-03-01, 05:00:24](https://news.ycombinator.com/item?id=47203887) - [A pretty looking web for a quantum mechanics tool](https://github.com/Jamessfks/mace)
-* [2026-03-01, 03:03:46](https://news.ycombinator.com/item?id=47203219) - [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html)
 * [2026-03-01, 01:27:00](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss) - [The US Military Just Made History With A C-17 Plane &amp; A Nuclear Reactor](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss)
 * [2026-02-28, 23:24:57](https://news.ycombinator.com/item?id=47201598) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
 * [2026-02-28, 20:41:00](https://soylentnews.org/article.pl?sid=26/02/28/0151255&amp;from=rss) - [OpenAI Secures Record $110 Billion Funding Round Backed By Amazon, Nvidia, and SoftBank](https://soylentnews.org/article.pl?sid=26/02/28/0151255&amp;from=rss)
 * [2026-02-28, 15:59:00](https://soylentnews.org/article.pl?sid=26/02/28/0150248&amp;from=rss) - [OsmAnd&apos;s Faster Offline Navigation](https://soylentnews.org/article.pl?sid=26/02/28/0150248&amp;from=rss)
 * [2026-02-28, 11:11:00](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss)
 * [2026-02-28, 06:30:00](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss) - [A Hacker Used Claude to Breach Mexico&apos;s Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss)
-* [2026-02-28, 06:12:10](https://news.ycombinator.com/item?id=47191114) - [Time, Space, and Life as We Know It (2017)](https://raganwald.com/2017/01/12/time-space-life-as-we-know-it.html)
 * [2026-02-28, 01:40:00](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss) - [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss)
