@@ -1,34 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific and Technological Advancements
+## Technological Advancements and Challenges
 
-* [Superagers' 'Secret Ingredient' May Be the Growth of New Brain Cells](https://science.slashdot.org/story/26/03/03/048214/superagers-secret-ingredient-may-be-the-growth-of-new-brain-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A study reveals that the secret to longer cognitive health among 'superagers' might be linked to the growth of new brain cells.
+* [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251) – Innovative research focusing on breakthrough methods in decoding efficiencies. [Comments](https://news.ycombinator.com/item?id=47242637)
 
-* [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc) - The fascinating process of using the Super-Kamiokande to observe and study the sun through neutrino detection is explained in this engaging video.
+* [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) – Exploration of large language models and their implications on user anonymity. [Comments](https://news.ycombinator.com/item?id=47242453)
 
-## Innovations in AI and Machine Learning
+* [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A new development by OpenAI challenging major developer collaboration platforms. [Comments](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update) - Introducing a groundbreaking ray-traced game developed in its proprietary engine and programming language.
+* [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567) – Advances in smartphone security and customization options by Motorola. [Comments](https://news.ycombinator.com/item?id=47241551)
 
-* [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html) - An exploration of TorchLean and its approach to formalizing neural networks using Lean.
+## Privacy and Security
 
-## Privacy and Security Concerns
+* [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed) – A concerning report on a U.S. government tool potentially being exploited by malicious parties. [Comments](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta's AI Display Glasses Reportedly Share Intimate Videos With Human Moderators](https://yro.slashdot.org/story/26/03/03/1926214/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta's AI-powered smart glasses may compromise privacy by sharing personal videos with human moderators.
+* [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o) – TikTok opted against implementing end-to-end encryption, citing user safety concerns. [Comments](https://news.ycombinator.com/item?id=47241817)
 
-* [Hacked Tehran Traffic Cameras Fed Israeli Intelligence Before Strike On Khamenei](https://tech.slashdot.org/story/26/03/03/0512224/hacked-tehran-traffic-cameras-fed-israeli-intelligence-before-strike-on-khamenei?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Allegations have emerged that hacked Tehran traffic cameras were utilized in intelligence operations prior to an attack on Iran's Supreme Leader.
+## Emerging Trends in Artificial Intelligence
 
-## Tech Industry Updates
+* [Google Chrome Is Switching To a Two-Week Release Cycle](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed) – Changes to Chrome's update schedule aim to improve deployment cycles. [Comments](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Apple Launches New M5 Chips, MacBook Pro, and First New Monitors In Years](https://apple.slashdot.org/story/26/03/03/1635208/apple-launches-new-m5-chips-macbook-pro-and-first-new-monitors-in-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple releases a new generation of M5 chips, updated MacBook Pro, and innovative monitors.
+* [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) – Discussion on the trade-offs of developing applications with frameworks like Electron. [Comments](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost)
 
-* [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability) - The new ThinkPads earn top marks for repairability, setting new standards in laptop design.
+## Environmental and Scientific Discoveries
 
-## Environmental and Global Developments
+* [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now) – USGS reports a new natural phenomenon regarding Echinus Geyser. [Comments](https://news.ycombinator.com/item?id=47241788)
 
-* [Satellites Found a 'Brown Ribbon' Near Africa – Now Scientists Are Sounding Alarms](https://soylentnews.org/article.pl?sid=26/03/02/2018219&from=rss) - A mysterious brown ribbon discovered near Africa raises environmental concerns and prompts scientific investigations.
-
-* [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss) - New research reveals the environmental impact of cleaner ship fuel on lightning patterns in significant marine routes.
+* [Clean Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss) – Observations linking cleaner fuels with changes in natural weather patterns. [Comments](https://soylentnews.org/article.pl?sid=26/03/02/1659243&from=rss)
 
 ---
 
@@ -55,15 +53,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California&apos;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+* [2026-03-04, 03:32:02](https://lobste.rs/s/hz6vhv/california_s_digital_age_assurance_act) - [California&apos;s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+* [2026-03-04, 03:24:20](https://news.ycombinator.com/item?id=47242637) - [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
+* [2026-03-04, 03:00:32](https://news.ycombinator.com/item?id=47242453) - [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
+* [2026-03-04, 03:00:00](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Possible US Government iPhone-Hacking Toolkit Is Now In the Hands of Foreign Spies, Criminals](https://apple.slashdot.org/story/26/03/03/2049253/a-possible-us-government-iphone-hacking-toolkit-is-now-in-the-hands-of-foreign-spies-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-04, 02:43:05](https://news.ycombinator.com/item?id=47242342) - [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+* [2026-03-04, 02:23:01](https://news.ycombinator.com/item?id=47242193) - [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
 * [2026-03-04, 01:52:21](https://news.ycombinator.com/item?id=47241976) - [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
-* [2026-03-04, 01:42:43](https://news.ycombinator.com/item?id=47241910) - [Show HN: AgentBus – Centralized AI Agent-to-Agent Messaging via REST API](https://agentbus.org/)
-* [2026-03-04, 01:30:43](https://news.ycombinator.com/item?id=47241813) - [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset)
+* [2026-03-04, 01:31:05](https://news.ycombinator.com/item?id=47241817) - [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
 * [2026-03-04, 01:27:06](https://news.ycombinator.com/item?id=47241788) - [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
+* [2026-03-04, 01:00:00](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Is Developing an Alternative To GitHub](https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 00:58:31](https://news.ycombinator.com/item?id=47241551) - [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
-* [2026-03-04, 00:56:59](https://news.ycombinator.com/item?id=47241536) - [You can&apos;t use a code editor when you&apos;re under 18 now?](https://mastodon.online/@marekfort/116164253291515471)
 * [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss)
-* [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [My take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
-* [2026-03-03, 23:34:05](https://news.ycombinator.com/item?id=47240694) - [Lenovo&apos;s New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
+* [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [Vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
+* [2026-03-03, 23:34:05](https://news.ycombinator.com/item?id=47240694) - [Lenovo’s new ThinkPads score 10/10 for repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 * [2026-03-03, 23:29:32](https://lobste.rs/s/hu6tos/markless_document_markup_standard) - [The Markless Document Markup Standard](https://shirakumo.org/docs/markless/)
 * [2026-03-03, 23:17:24](https://news.ycombinator.com/item?id=47240504) - [130k Lines of Formal Topology: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
 * [2026-03-03, 23:00:00](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome Is Switching To a Two-Week Release Cycle](https://tech.slashdot.org/story/26/03/03/2040230/google-chrome-is-switching-to-a-two-week-release-cycle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -79,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-03, 20:00:27](https://lobste.rs/s/2gwqlh/rust_zero_cost_abstractions_vs_simd) - [Rust zero-cost abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost)
 * [2026-03-03, 20:00:00](https://yro.slashdot.org/story/26/03/03/1918247/openai-amends-pentagon-deal-as-sam-altman-admits-it-looks-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Amends Pentagon Deal As Sam Altman Admits It Looks &apos;Sloppy&apos;](https://yro.slashdot.org/story/26/03/03/1918247/openai-amends-pentagon-deal-as-sam-altman-admits-it-looks-sloppy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 19:54:00](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss) - [Across Cultures, People Combine Reference Frames to Orient Themselves](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss)
-* [2026-03-03, 19:34:37](https://news.ycombinator.com/item?id=47237692) - [Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 19:22:32](https://news.ycombinator.com/item?id=47237460) - [An Interactive Intro to CRDTs (2023)](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2026-03-03, 19:00:00](https://news.slashdot.org/story/26/03/03/1825201/accenture-acquires-ookla-downdetector-as-part-of-12-billion-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Accenture Acquires Ookla, Downdetector As Part of $1.2 Billion Deal](https://news.slashdot.org/story/26/03/03/1825201/accenture-acquires-ookla-downdetector-as-part-of-12-billion-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,27 +101,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-03, 15:00:00](https://yro.slashdot.org/story/26/03/03/0527220/chatgpt-uninstalls-surged-by-295-after-pentagon-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Uninstalls Surged By 295% After Pentagon Deal](https://yro.slashdot.org/story/26/03/03/0527220/chatgpt-uninstalls-surged-by-295-after-pentagon-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 14:42:30](https://news.ycombinator.com/item?id=47233110) - [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
-* [2026-03-03, 14:22:25](https://news.ycombinator.com/item?id=47232768) - [I&apos;m reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
 * [2026-03-03, 14:19:14](https://news.ycombinator.com/item?id=47232727) - [Don&apos;t become an engineering manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
-* [2026-03-03, 14:04:56](https://news.ycombinator.com/item?id=47232502) - [MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 * [2026-03-03, 14:02:06](https://news.ycombinator.com/item?id=47232453) - [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
 * [2026-03-03, 14:00:00](https://tech.slashdot.org/story/26/03/03/0512224/hacked-tehran-traffic-cameras-fed-israeli-intelligence-before-strike-on-khamenei?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hacked Tehran Traffic Cameras Fed Israeli Intelligence Before Strike On Khamenei](https://tech.slashdot.org/story/26/03/03/0512224/hacked-tehran-traffic-cameras-fed-israeli-intelligence-before-strike-on-khamenei?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 13:07:38](https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop) - [Arm&apos;s Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 13:00:00](https://tech.slashdot.org/story/26/03/03/0423206/amazon-cloud-units-data-centers-in-uae-bahrain-damaged-in-drone-strikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Cloud Unit&apos;s Data Centers In UAE, Bahrain Damaged In Drone Strikes](https://tech.slashdot.org/story/26/03/03/0423206/amazon-cloud-units-data-centers-in-uae-bahrain-damaged-in-drone-strikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)
 * [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude&apos;s Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
-* [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [2026-03-03, 10:28:00](https://soylentnews.org/article.pl?sid=26/03/02/2018219&amp;from=rss) - [Satellites Found a &apos;Brown Ribbon&apos; Near Africa – Now Scientists Are Sounding Alarms](https://soylentnews.org/article.pl?sid=26/03/02/2018219&amp;from=rss)
-* [2026-03-03, 10:21:16](https://lobste.rs/s/8tjldu/dos_memory_management) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
 * [2026-03-03, 10:00:00](https://hardware.slashdot.org/story/26/03/03/0439237/the-19th-century-silent-film-that-first-captured-a-robot-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The 19th Century Silent Film That First Captured a Robot Attack](https://hardware.slashdot.org/story/26/03/03/0439237/the-19th-century-silent-film-that-first-captured-a-robot-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 08:31:13](https://lobste.rs/s/ifhrnb/webhaptics_haptic_feedback_for_mobile) - [WebHaptics – Haptic feedback for the mobile web](https://haptics.lochie.me/)
 * [2026-03-03, 07:00:00](https://science.slashdot.org/story/26/03/03/048214/superagers-secret-ingredient-may-be-the-growth-of-new-brain-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Superagers&apos; &apos;Secret Ingredient&apos; May Be the Growth of New Brain Cells](https://science.slashdot.org/story/26/03/03/048214/superagers-secret-ingredient-may-be-the-growth-of-new-brain-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 05:43:00](https://soylentnews.org/article.pl?sid=26/03/02/2014218&amp;from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=26/03/02/2014218&amp;from=rss)
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
-* [2026-03-03, 03:00:00](https://news.slashdot.org/story/26/03/02/2210232/iowa-county-rolls-out-extensive-zoning-rules-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iowa County Rolls Out Extensive Zoning Rules For Data Centers](https://news.slashdot.org/story/26/03/02/2210232/iowa-county-rolls-out-extensive-zoning-rules-for-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
-* [2026-03-03, 01:00:00](https://yro.slashdot.org/story/26/03/02/2151248/british-columbia-to-end-time-changes-adopt-year-round-daylight-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [British Columbia To End Time Changes, Adopt Year-Round Daylight Time](https://yro.slashdot.org/story/26/03/02/2151248/british-columbia-to-end-time-changes-adopt-year-round-daylight-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-03, 00:58:00](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss) - [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
 * [2026-03-02, 20:12:00](https://soylentnews.org/article.pl?sid=26/03/01/0744215&amp;from=rss) - [Hail Protection Using Solar Panels](https://soylentnews.org/article.pl?sid=26/03/01/0744215&amp;from=rss)
@@ -134,8 +131,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-01, 15:37:00](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss) - [US States Are Getting Tougher on Drivers Who Refuse to Move Over](https://soylentnews.org/article.pl?sid=26/02/28/0811223&amp;from=rss)
 * [2026-03-01, 10:52:00](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss) - [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss)
 * [2026-03-01, 08:15:27](https://news.ycombinator.com/item?id=47204754) - [What’s in a name? (2014)](https://sailsandcommas.com/2014/02/03/whats-in-a-name/)
+* [2026-03-01, 06:25:10](https://news.ycombinator.com/item?id=47204203) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-01, 06:10:00](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss) - [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss)
 * [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
+* [2026-03-01, 05:00:24](https://news.ycombinator.com/item?id=47203887) - [A pretty looking web for a quantum mechanics tool](https://github.com/Jamessfks/mace)
 * [2026-03-01, 03:03:46](https://news.ycombinator.com/item?id=47203219) - [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html)
 * [2026-03-01, 01:27:00](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss) - [The US Military Just Made History With A C-17 Plane &amp; A Nuclear Reactor](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss)
 * [2026-02-28, 23:24:57](https://news.ycombinator.com/item?id=47201598) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
@@ -144,5 +143,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-02-28, 11:11:00](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://soylentnews.org/article.pl?sid=26/02/27/2232251&amp;from=rss)
 * [2026-02-28, 06:30:00](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss) - [A Hacker Used Claude to Breach Mexico&apos;s Government and Steal 150GB of Data](https://soylentnews.org/article.pl?sid=26/02/27/2224202&amp;from=rss)
 * [2026-02-28, 06:12:10](https://news.ycombinator.com/item?id=47191114) - [Time, Space, and Life as We Know It (2017)](https://raganwald.com/2017/01/12/time-space-life-as-we-know-it.html)
-* [2026-02-28, 05:18:22](https://news.ycombinator.com/item?id=47190782) - [Disable Your SSH access accidentally with scp](https://sny.sh/hypha/blog/scp)
 * [2026-02-28, 01:40:00](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss) - [Hackers Expose the Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://soylentnews.org/article.pl?sid=26/02/27/2217216&amp;from=rss)
