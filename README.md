@@ -1,42 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Challenges in Technology
+## Artificial Intelligence and Its Impact
 
-* [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house) ([comments](https://news.ycombinator.com/item?id=47256545))
+* [How does AI change Software Engineering?](https://dlants.me/ai-se.html) - Exploration of AI's transformative role in software engineering, analyzing its contributions and challenges. [Comments](https://lobste.rs/s/5uwt0u/how_does_ai_change_software_engineering)
 
-* [Google Ends Its 30% App Store Fee, Welcomes Third-Party App Stores](https://developers.slashdot.org/story/26/03/04/2218226/google-ends-its-30-app-store-fee-welcomes-third-party-app-stores?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47255662))
+* [Father Sues Google, Claiming Gemini Chatbot Drove Son Into Fatal Delusion](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A controversial case is filed against Google, alleging their Gemini chatbot influenced a tragic scenario. [Comments](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [TikTok Says End-To-End Encryption Makes Users Less Safe](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio) - Critical analysis uncovering flaws in Python's asyncio approach to managing shared states. [Comments](https://news.ycombinator.com/item?id=47256923)
 
-* [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun) ([comments](https://news.ycombinator.com/item?id=47251259))
+* [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/) - Nvidia's CEO shares decision to step back from OpenAI and Anthropic, raising further industry questions. [Comments](https://news.ycombinator.com/item?id=47256781)
 
-* [Raspberry Pi Pico as AM Radio Transmitter](https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter) ([comments](https://news.ycombinator.com/item?id=47202210))
+## Technological Advances and Challenges
 
-## Artificial Intelligence and Ethics
+* [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss) - A simplified explanation of anonymous credentials and their significance. [Comments](https://soylentnews.org/article.pl?sid=26/03/04/1535231&from=rss)
 
-* [Father Sues Google, Claiming Gemini Chatbot Drove Son Into Fatal Delusion](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [A Nuclear Reactor Backed By Bill Gates Gets Federal Approval To Start Building](https://hardware.slashdot.org/story/26/03/04/2324220/a-nuclear-reactor-backed-by-bill-gates-gets-federal-approval-to-start-building?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A milestone in nuclear energy as a next-gen reactor receives governmental backing. [Comments](https://hardware.slashdot.org/story/26/03/04/2324220/a-nuclear-reactor-backed-by-bill-gates-gets-federal-approval-to-start-building?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) ([comments](https://news.ycombinator.com/item?id=47255662))
+* [Google Workspace CLI](https://github.com/googleworkspace/cli) - Discover Google's newest Command Line Interface for enhancing Workspace app integrations. [Comments](https://news.ycombinator.com/item?id=47255881)
 
-* [‘Cancel ChatGPT’: AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/03/029259&from=rss))
+* [Intel's Make-Or-Break 18A Process Node Debuts For Data Center With 288-Core Xeon 6+ CPU](https://hardware.slashdot.org/story/26/03/04/0048212/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Intel introduces its advanced chip, highlighting its potential impact on data centers. [Comments](https://hardware.slashdot.org/story/26/03/04/0048212/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Innovative Technology Developments
+## Security, Privacy, and Ethical Concerns
 
-* [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss))
+* [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://tech.slashdot.org/story/26/03/04/1856240/vehicle-tire-pressure-sensors-enable-silent-tracking?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports show how tire pressure sensors might compromise privacy through covert tracking. [Comments](https://tech.slashdot.org/story/26/03/04/1856240/vehicle-tire-pressure-sensors-enable-silent-tracking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck) ([comments](https://news.ycombinator.com/item?id=47251480))
+* [TikTok Says End-To-End Encryption Makes Users Less Safe](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed) - TikTok's claims about the potential dangers of end-to-end encryption spark debate. [Comments](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Glaze by Raycast](https://www.glazeapp.com/) ([comments](https://news.ycombinator.com/item?id=47247033))
+* [MyFirst Kids Watch Hacked. Access to Camera and Microphone](https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249) - A concerning demonstration of a children's smartwatch being compromised by hackers. [Comments](https://news.ycombinator.com/item?id=47246858)
 
-* [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/) ([comments](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone))
+* [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) - A deep dive into the issues plaguing modern package managers and the need for reforms. [Comments](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down)
 
-## Scientific Explorations
+## Cultural and Historical Perspectives
 
-* [Microplastics and Nanoplastics In Urban Air Originate Mainly From Tire Abrasion, Research Reveals](https://news.slashdot.org/story/26/03/04/2227225/microplastics-and-nanoplastics-in-urban-air-originate-mainly-from-tire-abrasion-research-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/04/2227225/microplastics-and-nanoplastics-in-urban-air-originate-mainly-from-tire-abrasion-research-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123) - Exploration of early symbolic communication by humans 40,000 years ago. [Comments](https://news.ycombinator.com/item?id=47249744)
 
-* [NASA Repairs Artemis 2 Rocket, Continues Eyeing April Moon Launch](https://science.slashdot.org/story/26/03/03/2358209/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/03/2358209/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Game of Thrones Movie In the Works](https://entertainment.slashdot.org/story/26/03/04/0013218/game-of-thrones-movie-in-the-works?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Excitement surrounds reports of a potential movie adaptation for the iconic series. [Comments](https://entertainment.slashdot.org/story/26/03/04/0013218/game-of-thrones-movie-in-the-works?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123) ([comments](https://news.ycombinator.com/item?id=47249744))
+* [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss) - Insights into the retro web movement that emphasizes simplicity and user control. [Comments](https://soylentnews.org/article.pl?sid=26/03/04/1320238&from=rss)
+
+* [Neanderthals Seemed To Have A Thing For Modern Human Women](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss) - Genetic evidence suggests notable interactions between Neanderthals and early modern human women. [Comments](https://soylentnews.org/article.pl?sid=26/02/28/0817218&from=rss)
 
 ---
 
@@ -63,21 +65,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-05, 04:06:11](https://lobste.rs/s/5uwt0u/how_does_ai_change_software_engineering) - [How does AI change Software Engineering?](https://dlants.me/ai-se.html)
+* [2026-03-05, 03:00:00](https://hardware.slashdot.org/story/26/03/04/2324220/a-nuclear-reactor-backed-by-bill-gates-gets-federal-approval-to-start-building?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Nuclear Reactor Backed By Bill Gates Gets Federal Approval To Start Building](https://hardware.slashdot.org/story/26/03/04/2324220/a-nuclear-reactor-backed-by-bill-gates-gets-federal-approval-to-start-building?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-05, 02:55:57](https://news.ycombinator.com/item?id=47256923) - [What Python&apos;s asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
+* [2026-03-05, 02:33:58](https://news.ycombinator.com/item?id=47256781) - [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
 * [2026-03-05, 02:00:07](https://news.ycombinator.com/item?id=47256545) - [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house)
 * [2026-03-05, 01:57:21](https://lobste.rs/s/kjb4gb/just_use_postgres) - [Just Use Postgres](http://amattn.com/p/just_use_postgres.html)
 * [2026-03-05, 01:50:51](https://news.ycombinator.com/item?id=47256478) - [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
 * [2026-03-05, 01:00:31](https://lobste.rs/s/xhoyg7/grand_vision_for_rust) - [A grand vision for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
 * [2026-03-05, 01:00:00](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Father Sues Google, Claiming Gemini Chatbot Drove Son Into Fatal Delusion](https://yro.slashdot.org/story/26/03/04/1937236/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-05, 00:54:31](https://news.ycombinator.com/item?id=47256105) - [What&apos;s Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)
 * [2026-03-05, 00:23:00](https://soylentnews.org/article.pl?sid=26/03/04/1535231&amp;from=rss) - [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&amp;from=rss)
-* [2026-03-05, 00:22:09](https://news.ycombinator.com/item?id=47255881) - [Googleworkspace/CLI](https://github.com/googleworkspace/cli)
+* [2026-03-05, 00:22:09](https://news.ycombinator.com/item?id=47255881) - [Google Workspace CLI](https://github.com/googleworkspace/cli)
 * [2026-03-04, 23:51:10](https://news.ycombinator.com/item?id=47255662) - [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
 * [2026-03-04, 23:44:42](https://lobste.rs/s/3vnl2v/google_epic_announce_settlement_end_app) - [Google and Epic announce settlement to end app store antitrust case](https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/)
 * [2026-03-04, 23:28:48](https://lobste.rs/s/1rh6f3/introducing_wgsl_rs) - [Introducing wgsl-rs](https://renderling.xyz/articles/introducing-wgsl-rs.html)
 * [2026-03-04, 23:10:13](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone) - [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 23:00:00](https://developers.slashdot.org/story/26/03/04/2218226/google-ends-its-30-app-store-fee-welcomes-third-party-app-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Ends Its 30% App Store Fee, Welcomes Third-Party App Stores](https://developers.slashdot.org/story/26/03/04/2218226/google-ends-its-30-app-store-fee-welcomes-third-party-app-stores?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 22:00:00](https://games.slashdot.org/story/26/03/04/1929211/sony-pulls-back-from-playstation-games-on-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Pulls Back From PlayStation Games on PC](https://games.slashdot.org/story/26/03/04/1929211/sony-pulls-back-from-playstation-games-on-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-04, 21:56:20](https://news.ycombinator.com/item?id=47254516) - [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+* [2026-03-04, 21:56:20](https://news.ycombinator.com/item?id=47254516) - [NRC issues first commercial reactor construction approval in 10 years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
 * [2026-03-04, 21:11:15](https://news.ycombinator.com/item?id=47253892) - [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
 * [2026-03-04, 21:00:00](https://tech.slashdot.org/story/26/03/04/197220/computer-scientists-caution-against-internet-age-verification-mandates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Computer Scientists Caution Against Internet Age-Verification Mandates](https://tech.slashdot.org/story/26/03/04/197220/computer-scientists-caution-against-internet-age-verification-mandates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
@@ -91,9 +96,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-04, 19:00:00](https://tech.slashdot.org/story/26/03/04/1844224/emails-to-outlookcom-rejected-by-faulty-or-overzealous-blocking-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Emails To Outlook.com Rejected By Faulty Or Overzealous Blocking Rules](https://tech.slashdot.org/story/26/03/04/1844224/emails-to-outlookcom-rejected-by-faulty-or-overzealous-blocking-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 18:57:07](https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving) - [SingleFile: Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2026-03-04, 18:50:45](https://news.ycombinator.com/item?id=47252049) - [An interactive map of Flock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
-* [2026-03-04, 18:46:21](https://news.ycombinator.com/item?id=47251987) - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
 * [2026-03-04, 18:26:47](https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication) - [Pocket ID: Easy Passkey Authentication](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)
-* [2026-03-04, 18:12:39](https://news.ycombinator.com/item?id=47251480) - [Making Firefox&apos;s right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
 * [2026-03-04, 18:00:35](https://lobste.rs/s/dzcrf7/faster_c_software_with_dynamic_feature) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
 * [2026-03-04, 18:00:00](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Says End-To-End Encryption Makes Users Less Safe](https://tech.slashdot.org/story/26/03/04/1638248/tiktok-says-end-to-end-encryption-makes-users-less-safe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
@@ -116,14 +119,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-04, 13:21:31](https://news.ycombinator.com/item?id=47247033) - [Glaze by Raycast](https://www.glazeapp.com/)
 * [2026-03-04, 13:04:53](https://news.ycombinator.com/item?id=47246858) - [MyFirst Kids Watch Hacked. Access to Camera and Microphone](https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249)
 * [2026-03-04, 13:00:00](https://slashdot.org/story/26/03/04/0017232/chatgpt-gets-gpt-53-instant-update-with-less-cringe-fewer-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Gets GPT-5.3 Instant Update With Less &apos;Cringe,&apos; Fewer Hallucinations](https://slashdot.org/story/26/03/04/0017232/chatgpt-gets-gpt-53-instant-update-with-less-cringe-fewer-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-04, 12:04:31](https://news.ycombinator.com/item?id=47246296) - [Qwen3.5 Fine-Tuning Guide – Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
+* [2026-03-04, 12:04:31](https://news.ycombinator.com/item?id=47246296) - [Qwen3.5 Fine-Tuning Guide](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
 * [2026-03-04, 11:11:02](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 * [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
-* [2026-03-04, 10:20:18](https://news.ycombinator.com/item?id=47245485) - [Show HN: A shell-native cd-compatible directory jumper using power-law frecency](https://github.com/jghub/sd-switchdir)
 * [2026-03-04, 10:07:00](https://soylentnews.org/article.pl?sid=26/03/04/077205&amp;from=rss) - [Medical Journal the Lancet Blasts RFK Jr.’s Health Work as a Failure](https://soylentnews.org/article.pl?sid=26/03/04/077205&amp;from=rss)
 * [2026-03-04, 10:00:00](https://entertainment.slashdot.org/story/26/03/04/0013218/game-of-thrones-movie-in-the-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Game of Thrones&apos; Movie In the Works](https://entertainment.slashdot.org/story/26/03/04/0013218/game-of-thrones-movie-in-the-works?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 08:54:08](https://lobste.rs/s/2ng9uk/rtl_wtf_read_web_like_right_left_readers_do) - [RTL: WTF: Read the web like Right-to-Left readers do](https://rtl.wtf/)
-* [2026-03-04, 07:00:00](https://science.slashdot.org/story/26/03/03/2358209/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Repairs Artemis 2 Rocket, Continues Eyeing April Moon Launch](https://science.slashdot.org/story/26/03/03/2358209/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 07:00:00](https://news.slashdot.org/story/26/03/04/2227225/microplastics-and-nanoplastics-in-urban-air-originate-mainly-from-tire-abrasion-research-reveals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microplastics and Nanoplastics In Urban Air Originate Mainly From Tire Abrasion, Research Reveals](https://news.slashdot.org/story/26/03/04/2227225/microplastics-and-nanoplastics-in-urban-air-originate-mainly-from-tire-abrasion-research-reveals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-04, 05:22:00](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss) - [&apos;Cancel ChatGPT&apos;: AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss)
 * [2026-03-04, 03:49:04](https://lobste.rs/s/isuqoa/never_snooze_future) - [Never snooze a future](https://jacko.io/snooze.html)
@@ -131,7 +132,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss)
 * [2026-03-03, 22:31:14](https://lobste.rs/s/g6moku/four_months_ruby_central_moving_ruby) - [Four months of Ruby Central moving Ruby backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/claude_s_cycles) - [Claude&apos;s Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
-* [2026-03-03, 20:00:27](https://lobste.rs/s/2gwqlh/rust_zero_cost_abstractions_vs_simd) - [Rust zero-cost abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost)
 * [2026-03-03, 19:54:00](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss) - [Across Cultures, People Combine Reference Frames to Orient Themselves](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 16:08:22](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost) - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
@@ -151,5 +151,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-01, 10:52:00](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss) - [Human Brain Cells on a Chip Learned to Play Doom in a Week](https://soylentnews.org/article.pl?sid=26/02/28/0452245&amp;from=rss)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 06:10:00](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss) - [Block Lays Off 40% Of Workforce As It Goes All-In On AI Tools](https://soylentnews.org/article.pl?sid=26/02/28/022210&amp;from=rss)
+* [2026-03-01, 04:05:24](https://news.ycombinator.com/item?id=47203584) - [Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure](https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md)
+* [2026-03-01, 03:56:42](https://news.ycombinator.com/item?id=47203533) - [Malm Whale](https://www.atlasobscura.com/places/malm-whale)
 * [2026-03-01, 01:27:00](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss) - [The US Military Just Made History With A C-17 Plane &amp; A Nuclear Reactor](https://soylentnews.org/article.pl?sid=26/02/28/0158247&amp;from=rss)
 * [2026-03-01, 00:26:43](https://news.ycombinator.com/item?id=47202210) - [Raspberry Pi Pico as AM Radio Transmitter](https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter)
