@@ -1,36 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Computing
+## Technology and Innovation
 
-* [Seagate Just Unleashed 44TB Hard Drives](https://hardware.slashdot.org/story/26/03/07/0649230/seagate-just-unleashed-44tb-hard-drives?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Seagate has introduced their latest 44TB hard drives aimed at providing massive storage solutions, emphasizing storage evolution and the demand for high capacity devices.
+* [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus) ([Comments](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by)) presents a fascinating musical algorithm inspired by roguelike games.
 
-* [New Chapter for the Nix Language, Courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) - WebAssembly brings a transformative chapter to the Nix programming language, enhancing its capabilities and potential in the evolving software development domain.
+* [Seagate Just Unleashed 44TB Hard Drives](https://hardware.slashdot.org/story/26/03/07/0649230/seagate-just-unleashed-44tb-hard-drives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/03/07/0649230/seagate-just-unleashed-44tb-hard-drives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) explores Seagate's groundbreaking data storage innovation.
 
-* [China Releases First Homegrown Quantum Computing OS](https://tech.slashdot.org/story/26/03/07/0038223/china-releases-first-homegrown-quantum-computing-os?utm_source=rss1.0mainlinkanon&utm_medium=feed) - China has achieved a significant technological milestone by releasing its first ever domestically developed quantum computing operating system.
+* [First Solar Car Rolls Off Validation Assembly Line At Aptera](https://tech.slashdot.org/story/26/03/07/0616225/first-solar-car-rolls-off-validation-assembly-line-at-aptera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/07/0616225/first-solar-car-rolls-off-validation-assembly-line-at-aptera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) looks at groundbreaking automotive solar technology.
 
-* [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/) - An innovative text editor that leverages multi-cursor editing for improved efficiency and intuitive performance.
+* [China Releases First Homegrown Quantum Computing OS](https://tech.slashdot.org/story/26/03/07/0038223/china-releases-first-homegrown-quantum-computing-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/07/0038223/china-releases-first-homegrown-quantum-computing-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) showcases China's significant progress in quantum technology.
 
-* [µJS, a 5KB Alternative to Htmx and Turbo with Zero Dependencies](https://mujs.org) - Introducing µJS, a lightweight JavaScript library that simplifies development and offers an alternative to widely-used libraries with zero dependencies.
+* [Training students to prove they&apos;re not robots is pushing them to use more AI](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/) ([Comments](https://news.ycombinator.com/item?id=47290457)) highlights the unintended consequences of AI writing assessment tools.
 
-## Artificial Intelligence and Machine Learning
+## Science and Discoveries
 
-* [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981) - A comprehensive discussion on the latent challenges and quality assurance issues arising from relying on AI-generated code.
+* [Astronomers Think They&apos;ve Spotted a Galaxy That&apos;s 99.9% Dark Matter](https://science.slashdot.org/story/26/03/07/0753224/astronomers-think-theyve-spotted-a-galaxy-thats-999-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/03/07/0753224/astronomers-think-theyve-spotted-a-galaxy-thats-999-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) reveals new insights into the nature of dark matter in the universe.
 
-* [The First AI Agent Worm Is Months Away, If That](https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/) - Insight into the potential for autonomous AI agents to evolve into malicious entities within months.
+* [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss)) delves into the origins of our solar system using ancient crystals.
 
-* [Destroyed Servers and DoS Attacks: What Can Happen When OpenClaw AI Agents Interact](https://soylentnews.org/article.pl?sid=26/03/05/2246218&from=rss) - A reflection on destructive scenarios tied to AI agent interactions, highlighting risks of server outages and denial of service attacks.
+* [Tinnitus Is Connected to Sleep](https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function) ([Comments](https://news.ycombinator.com/item?id=47287763)) promotes understanding of the complex link between tinnitus and sleep.
 
-## Social Issues and Policy
+## Societal Impacts and Trends
 
-* [Indonesia To Ban Social Media For Children Under 16](https://yro.slashdot.org/story/26/03/06/2116214/indonesia-to-ban-social-media-for-children-under-16?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A policy proposal by Indonesia that introduces restrictions on social media usage for children under 16, aiming to address concerns about its impact on youth.
+* [The yoghurt delivery women combatting loneliness in Japan](https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan) ([Comments](https://news.ycombinator.com/item?id=47287344)) explores how an unexpected profession fights societal isolation.
 
-* [Prediction Market 'Kalshi' Sued for Not Paying $54 Million for Bets on Khamenei's Death](https://news.slashdot.org/story/26/03/07/0251222/prediction-market-kalshi-sued-for-not-paying-54-million-for-bets-on-khamenei-s-death?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal troubles for prediction market Kalshi as users dispute unpaid winnings related to bets about Iranian Supreme Leader Khamenei.
+* [Indonesia To Ban Social Media For Children Under 16](https://yro.slashdot.org/story/26/03/06/2116214/indonesia-to-ban-social-media-for-children-under-16?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/03/06/2116214/indonesia-to-ban-social-media-for-children-under-16?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) looks at digital welfare measures aimed at protecting a younger demographic.
 
-## Science and Space
+## Open Source and Programming
 
-* [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&from=rss) - A fascinating study of ancient crystals that sheds light on the early formation and events of our solar system.
+* [Verifcation debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981) ([Comments](https://news.ycombinator.com/item?id=47289406)) discusses the challenges of verifying AI-based solutions in software engineering.
 
-* [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy) - Exploration of how flash radiotherapy delivered within a millisecond could revolutionize cancer care by targeting tumors more effectively.
+* [ImplicitCAD – Programmatic CAD in Haskell](https://implicitcad.org/) ([Comments](https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell)) introduces a programmable CAD application built in Haskell.
+
+* [Ply: Build cross-platform apps in Rust](https://plyx.iz.rs/blog/introducing-ply/) ([Comments](https://lobste.rs/s/lsk3gq/ply_build_cross_platform_apps_rust)) showcases a new Rust-based cross-platform development tool.
+
+## Environmental Observations
+
+* [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss)) discovers a surprising environmental impact of improved shipping practices.
+
+* [Humanity Heating Planet Faster Than Ever Before, Study Finds](https://news.slashdot.org/story/26/03/06/2210215/humanity-heating-planet-faster-than-ever-before-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/03/06/2210215/humanity-heating-planet-faster-than-ever-before-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) emphasizes increasing urgency around climate change.
 
 ---
 
@@ -57,20 +65,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-07, 21:44:04](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by) - [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus)
+* [2026-03-07, 21:07:00](https://science.slashdot.org/story/26/03/07/0753224/astronomers-think-theyve-spotted-a-galaxy-thats-999-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Think They&apos;ve Spotted a Galaxy That&apos;s 99.9% Dark Matter](https://science.slashdot.org/story/26/03/07/0753224/astronomers-think-theyve-spotted-a-galaxy-thats-999-dark-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-07, 20:55:48](https://news.ycombinator.com/item?id=47291406) - [Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
+* [2026-03-07, 20:43:51](https://news.ycombinator.com/item?id=47291292) - [CasNum](https://github.com/0x0mer/CasNum)
+* [2026-03-07, 20:09:30](https://news.ycombinator.com/item?id=47291036) - [War prediction markets are a national-security threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
+* [2026-03-07, 20:07:00](https://news.slashdot.org/story/26/03/07/204222/how-anthropics-claude-helped-mozilla-to-improve-firefoxs-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Anthropic&apos;s Claude Helped Mozilla to Improve Firefox&apos;s Security](https://news.slashdot.org/story/26/03/07/204222/how-anthropics-claude-helped-mozilla-to-improve-firefoxs-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss)
+* [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 19:03:04](https://lobste.rs/s/hgqhp4/my_favorite_39c3_talks) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
+* [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [Training students to prove they&apos;re not robots is pushing them to use more AI](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 18:34:00](https://tech.slashdot.org/story/26/03/07/0521211/military-gps-jamming-is-interfering-with-the-navigation-systems-of-commercial-ships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Military GPS Jamming is Interfering with the Navigation Systems of Commercial Ships](https://tech.slashdot.org/story/26/03/07/0521211/military-gps-jamming-is-interfering-with-the-navigation-systems-of-commercial-ships?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-07, 17:34:00](https://hardware.slashdot.org/story/26/03/07/0649230/seagate-just-unleashed-44tb-hard-drives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Seagate Just Unleashed 44TB Hard Drives](https://hardware.slashdot.org/story/26/03/07/0649230/seagate-just-unleashed-44tb-hard-drives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-07, 17:08:30](https://news.ycombinator.com/item?id=47289406) - [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
-* [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
-* [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
+* [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 16:34:00](https://tech.slashdot.org/story/26/03/07/0616225/first-solar-car-rolls-off-validation-assembly-line-at-aptera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Solar Car Rolls Off Validation Assembly Line At Aptera](https://tech.slashdot.org/story/26/03/07/0616225/first-solar-car-rolls-off-validation-assembly-line-at-aptera?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-07, 16:28:12](https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell) - [ImplicitCAD –  Programmatic CAD in Haskell](https://implicitcad.org/)
 * [2026-03-07, 16:03:22](https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor) - [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/)
 * [2026-03-07, 15:34:00](https://news.slashdot.org/story/26/03/07/0251222/prediction-market-kalshi-sued-for-not-paying-54-million-for-bets-on-khameneis-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Prediction Market &apos;Kalshi&apos; Sued for Not Paying $54 Million for Bets on Khamenei&apos;s Death](https://news.slashdot.org/story/26/03/07/0251222/prediction-market-kalshi-sued-for-not-paying-54-million-for-bets-on-khameneis-death?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
+* [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [FLASH radiotherapy&apos;s bold approach to cancer treatment](https://spectrum.ieee.org/flash-radiotherapy)
 * [2026-03-07, 15:07:02](https://lobste.rs/s/ekhniu/rewriting_our_database_rust) - [Rewriting Our Database in Rust](https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef)
 * [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss)
 * [2026-03-07, 14:34:16](https://news.ycombinator.com/item?id=47288007) - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
@@ -87,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-07, 09:39:13](https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10) - [Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:59:11](https://news.ycombinator.com/item?id=47285876) - [Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies](https://mujs.org)
-* [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 08:47:27](https://lobste.rs/s/upwrm3/internals_postgresql) - [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 * [2026-03-07, 08:13:46](https://lobste.rs/s/r6hdqf/editing_changes_patch_format_with) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
 * [2026-03-07, 07:00:00](https://science.slashdot.org/story/26/03/07/0028222/asteroid-2024-yr4-will-not-impact-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Asteroid 2024 YR4 Will Not Impact the Moon](https://science.slashdot.org/story/26/03/07/0028222/asteroid-2024-yr4-will-not-impact-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -102,7 +117,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-07, 00:53:00](https://soylentnews.org/article.pl?sid=26/03/05/2316254&amp;from=rss) - [vscreen: A Real Browser for AI Agents, Streamed Live via WebRTC](https://soylentnews.org/article.pl?sid=26/03/05/2316254&amp;from=rss)
 * [2026-03-07, 00:43:00](https://lobste.rs/s/drtput/some_words_on_wigglypaint) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 00:30:08](https://lobste.rs/s/qorrgl/i_m_not_consulting_llm) - [I&apos;m not consulting an LLM](https://lr0.org/blog/p/gpt/)
-* [2026-03-07, 00:05:06](https://news.ycombinator.com/item?id=47282777) - [Tell HN: I&apos;m 60 years old. Claude Code has re-ignited a passion](https://news.ycombinator.com/item?id=47282777)
 * [2026-03-06, 23:59:16](https://news.ycombinator.com/item?id=47282736) - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
 * [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
@@ -115,39 +129,34 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 20:11:00](https://soylentnews.org/article.pl?sid=26/03/05/233230&amp;from=rss) - [Reminder:  VPNs Can&apos;t Make You Anonymous Online](https://soylentnews.org/article.pl?sid=26/03/05/233230&amp;from=rss)
 * [2026-03-06, 20:00:00](https://news.slashdot.org/story/26/03/06/1634257/mozilla-is-working-on-a-big-firefox-redesign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Is Working On a Big Firefox Redesign](https://news.slashdot.org/story/26/03/06/1634257/mozilla-is-working-on-a-big-firefox-redesign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
-* [2026-03-06, 19:00:00](https://tech.slashdot.org/story/26/03/06/1629255/iran-war-provides-a-large-scale-test-for-ai-assisted-warfare?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran War Provides a Large-Scale Test For AI-Assisted Warfare](https://tech.slashdot.org/story/26/03/06/1629255/iran-war-provides-a-large-scale-test-for-ai-assisted-warfare?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-06, 18:00:00](https://developers.slashdot.org/story/26/03/06/1614252/python-chardet-package-replaced-with-llm-generated-clone-re-licensed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Python &apos;Chardet&apos; Package Replaced With LLM-Generated Clone, Re-Licensed](https://developers.slashdot.org/story/26/03/06/1614252/python-chardet-package-replaced-with-llm-generated-clone-re-licensed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-06, 15:30:00](https://soylentnews.org/article.pl?sid=26/03/05/2246218&amp;from=rss) - [Destroyed Servers and DoS Attacks: What Can Happen When OpenClaw AI Agents Interact](https://soylentnews.org/article.pl?sid=26/03/05/2246218&amp;from=rss)
-* [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 * [2026-03-06, 10:43:00](https://soylentnews.org/article.pl?sid=26/03/05/1853251&amp;from=rss) - [As Moon Interest Heats Up, Two Companies Unveil Plans for a Lunar \&quot;Harvester\&quot;](https://soylentnews.org/article.pl?sid=26/03/05/1853251&amp;from=rss)
 * [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 10:14:35](https://lobste.rs/s/msjuyz/eupl_european_union_public_license) - [EUPL: European Union Public License](https://eupl.eu/)
 * [2026-03-06, 07:45:11](https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy) - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/)
+* [2026-03-06, 07:17:48](https://news.ycombinator.com/item?id=47271988) - [Dumping Lego NXT firmware off of an existing brick](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
 * [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 * [2026-03-06, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/05/1850205&amp;from=rss) - [DOS Memory Management](https://soylentnews.org/article.pl?sid=26/03/05/1850205&amp;from=rss)
 * [2026-03-06, 01:10:00](https://soylentnews.org/article.pl?sid=26/03/05/1846224&amp;from=rss) - [Micron Sampling First 256GB SOCAMM2 Memory Packages — 2TB of RAM Per CPU for Datacenters](https://soylentnews.org/article.pl?sid=26/03/05/1846224&amp;from=rss)
 * [2026-03-05, 23:48:26](https://news.ycombinator.com/item?id=47268838) - [Self-Portrait by Ernst Mach (1886)](https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/)
 * [2026-03-05, 20:25:00](https://soylentnews.org/article.pl?sid=26/03/05/0529259&amp;from=rss) - [To Update Blobs or Not to Update Blobs](https://soylentnews.org/article.pl?sid=26/03/05/0529259&amp;from=rss)
-* [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo&apos;s handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 * [2026-03-05, 15:42:00](https://soylentnews.org/article.pl?sid=26/03/05/0714212&amp;from=rss) - [AI Art Isn&apos;t Art, or Copyrightable Art Anyway](https://soylentnews.org/article.pl?sid=26/03/05/0714212&amp;from=rss)
 * [2026-03-05, 10:52:00](https://soylentnews.org/article.pl?sid=26/03/05/0732251&amp;from=rss) - [Drones Attack Several AWS Middle East Region Data Centers Amid Iran War, Leading to Outages](https://soylentnews.org/article.pl?sid=26/03/05/0732251&amp;from=rss)
-* [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu&apos;s theory of taste: a grumbling abrégé](https://dynomight.net/bourdieu/)
+* [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu&apos;s theory of taste: a grumbling abrégé (2023)](https://dynomight.net/bourdieu/)
 * [2026-03-05, 06:11:00](https://soylentnews.org/article.pl?sid=26/03/05/0523208&amp;from=rss) - [No Fooling: NASA Targets April 1 for Artemis II Launch to the Moon](https://soylentnews.org/article.pl?sid=26/03/05/0523208&amp;from=rss)
 * [2026-03-05, 00:23:00](https://soylentnews.org/article.pl?sid=26/03/04/1535231&amp;from=rss) - [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&amp;from=rss)
 * [2026-03-05, 00:10:42](https://news.ycombinator.com/item?id=47255798) - [48x32, a 1536 LED Game Computer (2023)](https://jacquesmattheij.com/48x32-introduction/)
 * [2026-03-04, 19:39:00](https://soylentnews.org/article.pl?sid=26/03/04/1320238&amp;from=rss) - [Small Web, IndieWeb, Gemini… a Guide to the Retro-Web](https://soylentnews.org/article.pl?sid=26/03/04/1320238&amp;from=rss)
 * [2026-03-04, 17:05:00](https://news.ycombinator.com/item?id=47250500) - [macOS code injection for fun and no profit (2024)](https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/)
 * [2026-03-04, 14:53:00](https://soylentnews.org/article.pl?sid=26/03/04/1318201&amp;from=rss) - [LLMs Can Unmask Pseudonymous Users at Scale With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/03/04/1318201&amp;from=rss)
+* [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 10:07:00](https://soylentnews.org/article.pl?sid=26/03/04/077205&amp;from=rss) - [Medical Journal the Lancet Blasts RFK Jr.’s Health Work as a Failure](https://soylentnews.org/article.pl?sid=26/03/04/077205&amp;from=rss)
 * [2026-03-04, 05:22:00](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss) - [&apos;Cancel ChatGPT&apos;: AI Boycott Surges After OpenAI-Pentagon Military Deal](https://soylentnews.org/article.pl?sid=26/03/03/029259&amp;from=rss)
-* [2026-03-04, 03:42:17](https://news.ycombinator.com/item?id=47242775) - [Lock Scroll with a Vengeance](https://unsung.aresluna.org/lock-scroll-with-a-vengeance/)
 * [2026-03-04, 00:30:00](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss) - [Entry-Level PC Market To ‘Disappear’ By 2028 — Rising Memory Prices Pile More Strain On Consumer PC ](https://soylentnews.org/article.pl?sid=26/03/03/021249&amp;from=rss)
 * [2026-03-03, 22:45:10](https://news.ycombinator.com/item?id=47240169) - [Compiling Prolog to Forth [pdf]](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-03-03, 19:54:00](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss) - [Across Cultures, People Combine Reference Frames to Orient Themselves](https://soylentnews.org/article.pl?sid=26/03/02/2022221&amp;from=rss)
-* [2026-03-03, 18:12:06](https://news.ycombinator.com/item?id=47236346) - [Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes](https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/)
 * [2026-03-03, 15:13:00](https://soylentnews.org/article.pl?sid=26/03/02/2020204&amp;from=rss) - [Pathways to a Fair Technological Future](https://soylentnews.org/article.pl?sid=26/03/02/2020204&amp;from=rss)
-* [2026-03-03, 15:02:32](https://news.ycombinator.com/item?id=47233441) - [Working and Communicating with Japanese Engineers](https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers)
+* [2026-03-03, 13:08:16](https://news.ycombinator.com/item?id=47231745) - [To update blobs or not to update blobs](https://codon.org.uk/~mjg59/blog/p/to-update-blobs-or-not-to-update-blobs/)
 * [2026-03-03, 10:28:00](https://soylentnews.org/article.pl?sid=26/03/02/2018219&amp;from=rss) - [Satellites Found a &apos;Brown Ribbon&apos; Near Africa – Now Scientists Are Sounding Alarms](https://soylentnews.org/article.pl?sid=26/03/02/2018219&amp;from=rss)
 * [2026-03-03, 05:43:00](https://soylentnews.org/article.pl?sid=26/03/02/2014218&amp;from=rss) - [Datacenters in Space Are a Terrible, Horrible, No Good Idea.](https://soylentnews.org/article.pl?sid=26/03/02/2014218&amp;from=rss)
 * [2026-03-03, 00:58:00](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss) - [Cleaner Ship Fuel is Reducing Lightning in Key Shipping Lanes](https://soylentnews.org/article.pl?sid=26/03/02/1659243&amp;from=rss)
