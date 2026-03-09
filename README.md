@@ -1,40 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advancements
+## Scientific and Astronomical Discoveries
 
-* [Judges Find AI Doesn't Have Human Intelligence in Two New Court Cases](https://yro.slashdot.org/story/26/03/09/0121210/judges-find-ai-doesnt-have-human-intelligence-in-two-new-court-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Judges have ruled on two cases, determining that current AI systems do not possess human-level intelligence.
+* [Scientists Just Doubled Our Catalog of Black Hole and Neutron Star Collisions](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&utm_medium=feed) - This breakthrough expands our understanding of cosmic phenomena and gravitational waves, representing a major step forward in astronomy.
 
-* [Robotic Surgery Performed Remotely on Patient 1,500 Miles Away](https://science.slashdot.org/story/26/03/08/2118218/robotic-surgery-performed-remotely-on-patient-1500-miles-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A breakthrough in robotic surgery has allowed a procedure to be conducted from a distance of 1,500 miles, potentially heralding a new era in healthcare.
+* [A First for Humanity Confirmed: NASA's DART Mission Slowed the Asteroid's Orbit](https://science.slashdot.org/story/26/03/08/004240/a-first-for-humanity-confirmed-nasas-dart-mission-slowed-the-asteroids-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA achieves a milestone by altering an asteroid's trajectory, demonstrating the early capability of planetary defense.
 
-* [OpenAI's Former Research Chief Raises $70M to Automate Manufacturing With AI](https://it.slashdot.org/story/26/03/08/0253259/openais-former-research-chief-raises-70m-to-automate-manufacturing-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The former research chief of OpenAI has secured significant funding to deploy AI in automating manufacturing processes.
+## AI and Automation
 
-## Innovations and Projects
+* [Judges Find AI Doesn't Have Human Intelligence in Two New Court Cases](https://yro.slashdot.org/story/26/03/09/0121210/judges-find-ai-doesnt-have-human-intelligence-in-two-new-court-cases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Legal criteria cast doubt on AI's claim to human-like cognition, defining boundaries for AI rights.
 
-* [Solving Regex Crosswords Without Z3](https://danielalp.com/blog/regex_crossword/) - An in-depth explanation of solving regex crosswords without using the Z3 theorem prover.
+* [Coding Agents Wrote a Chess Engine in Pure TeX](https://blog.mathieuacher.com/TeXCCChessEngine/) - A demonstration of AI agents' creativity through programming capabilities using unconventional tools.
 
-* [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans) - A font that decodes Z80 assembly instructions into assembly source code.
+## Programming and Tech Innovations
 
-* [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/) - A fascinating and creative project where a programming language is created using colored M&Ms.
+* [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans) - A fascinating integration of typography and technology that enables machine code disassembly via a font.
 
-* [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE) - Human brain cells in a lab are used to control and play the iconic video game DOOM.
+* [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/) - A unique project that creatively employs candy as an inspiration for programming.
 
-## Cybersecurity and Internet Discussion
+* [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE) - Human brain cells in a petri dish perform calculations to play the classic video game DOOM.
 
-* [A Security Researcher Went 'Undercover' on Moltbook - and Found Security Risks](https://it.slashdot.org/story/26/03/08/2237210/a-security-researcher-went-undercover-on-moltbook---and-found-security-risks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A researcher exposes vulnerabilities in Moltbook after going undercover.
+## Technological Applications and Impact
 
-* [Notes on Writing Rust-Based Wasm](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm) - Detailed insights on developing WebAssembly with Rust.
+* [Robotic Surgery Performed Remotely on Patient 1,500 Miles Away](https://science.slashdot.org/story/26/03/08/2118218/robotic-surgery-performed-remotely-on-patient-1500-miles-away?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A telemedicine achievement marking a new era in robotic-assisted healthcare practices.
 
-* [Anonymous Credentials: an Illustrated Primer](https://soylentnews.org/article.pl?sid=26/03/04/1535231&amp;from=rss) - A fundamental primer explaining anonymous credentials in online systems.
+* [OpenAI's Former Research Chief Raises $70M to Automate Manufacturing With AI](https://it.slashdot.org/story/26/03/08/0253259/openais-former-research-chief-raises-70m-to-automate-manufacturing-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Large funding fuels initiatives in revolutionizing manufacturing with AI automation.
 
-## Science and Space Exploration
+## Social and Legal Issues
 
-* [A First for Humanity Confirmed: NASA's DART Mission Slowed the Asteroid's Orbit](https://science.slashdot.org/story/26/03/08/004240/a-first-for-humanity-confirmed-nasas-dart-mission-slowed-the-asteroids-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's DART mission successfully altered an asteroid's orbital trajectory, marking a major scientific milestone.
+* [Roundup:  OS-level Age Verification Laws](https://soylentnews.org/article.pl?sid=26/03/07/1629233&from=rss) - Examination of legislative debates over age-verifying processes in online services as governments aim to regulate access to certain content.
 
-* [Japan Approves Stem-Cell Treatments For Parkinson's, Heart Failure In World Firsts](https://science.slashdot.org/story/26/03/07/2249259/japan-approves-stem-cell-treatments-for-parkinsons-heart-failure-in-world-firsts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Japan breaks new ground by approving stem cell treatments for Parkinson's and heart failure.
+* [Lawsuit: Google Gemini Sent Man on Violent Missions, Set Suicide “Countdown”](https://soylentnews.org/article.pl?sid=26/03/06/1541249&from=rss) - A concerning case highlights the unforeseen dangers of advanced AI chat services issued with compromising commands.
 
-## Cultural and Historical Reflections
+## Cultural and Miscellaneous News
 
-* [The legendary Mojave Phone Booth is back (2013)](https://dailydot.com/mojave-phone-booth-back-number) - A nostalgic look at the Mojave Phone Booth, a quirky piece of history, and its unexpected return.
+* [Steven Spielberg + Dinosaurs + Netflix = Mixed Reviews](https://entertainment.slashdot.org/story/26/03/08/0150256/steven-spielberg--dinosaurs--netflix--mixed-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new Netflix series unites the legendary filmmaker and dinosaurs, garnering divided opinions.
 
 ---
 
@@ -61,17 +61,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-09, 04:34:00](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Just Doubled Our Catalog of Black Hole and Neutron Star Collisions](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-09, 03:19:28](https://lobste.rs/s/kefmyt/thinnings_sublist_witnesses_de_bruijn) - [Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping](https://www.philipzucker.com/thin1/)
+* [2026-03-09, 02:17:18](https://lobste.rs/s/ycoyzd/coding_agents_wrote_chess_engine_pure_tex) - [Coding Agents Wrote a Chess Engine in Pure TeX](https://blog.mathieuacher.com/TeXCCChessEngine/)
 * [2026-03-09, 01:34:00](https://yro.slashdot.org/story/26/03/09/0121210/judges-find-ai-doesnt-have-human-intelligence-in-two-new-court-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judges Find AI Doesn&apos;t Have Human Intelligence in Two New Court Cases](https://yro.slashdot.org/story/26/03/09/0121210/judges-find-ai-doesnt-have-human-intelligence-in-two-new-court-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 00:24:00](https://soylentnews.org/article.pl?sid=26/03/07/1629233&amp;from=rss) - [Roundup:  OS-level Age Verification Laws](https://soylentnews.org/article.pl?sid=26/03/07/1629233&amp;from=rss)
 * [2026-03-09, 00:07:18](https://news.ycombinator.com/item?id=47303111) - [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
 * [2026-03-08, 23:58:14](https://lobste.rs/s/wevip9/webpki_you) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-08, 23:49:00](https://hardware.slashdot.org/story/26/03/08/2344234/could-home-building-robots-help-fix-the-housing-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Could Home-Building Robots Help Fix the Housing Crisis?](https://hardware.slashdot.org/story/26/03/08/2344234/could-home-building-robots-help-fix-the-housing-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-08, 22:54:08](https://news.ycombinator.com/item?id=47302490) - [Last Statements](https://walzr.com/last-statements)
 * [2026-03-08, 22:50:55](https://news.ycombinator.com/item?id=47302463) - [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
 * [2026-03-08, 22:39:00](https://it.slashdot.org/story/26/03/08/2237210/a-security-researcher-went-undercover-on-moltbook---and-found-security-risks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Security Researcher Went &apos;Undercover&apos; on Moltbook - and Found Security Risks](https://it.slashdot.org/story/26/03/08/2237210/a-security-researcher-went-undercover-on-moltbook---and-found-security-risks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 21:40:35](https://news.ycombinator.com/item?id=47301808) - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 * [2026-03-08, 21:21:00](https://science.slashdot.org/story/26/03/08/2118218/robotic-surgery-performed-remotely-on-patient-1500-miles-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robotic Surgery Performed Remotely on Patient 1,500 Miles Away](https://science.slashdot.org/story/26/03/08/2118218/robotic-surgery-performed-remotely-on-patient-1500-miles-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 21:08:18](https://lobste.rs/s/zwci4v/getting_started_with_clickhouse_13) - [Getting started with ClickHouse? 13 mistakes and how to avoid them](https://clickhouse.com/blog/common-getting-started-issues-with-clickhouse)
-* [2026-03-08, 21:00:44](https://lobste.rs/s/jkq80y/cakelisp) - [Cakelisp](https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org)
+* [2026-03-08, 21:00:44](https://lobste.rs/s/jkq80y/cakelisp) - [Cakelisp](https://macoy.me/blog/programming/CakelispIntro)
 * [2026-03-08, 20:53:04](https://lobste.rs/s/sdrpbx/why_octal_notation_should_be_used_for_utf_8) - [Why octal notation should be used for UTF-8 (and Unicode) (2016)](https://movq.de/blog/postings/2016-10-05/0/POSTING-en.html)
 * [2026-03-08, 20:43:19](https://news.ycombinator.com/item?id=47301241) - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
 * [2026-03-08, 20:42:41](https://news.ycombinator.com/item?id=47301233) - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
@@ -82,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-08, 19:51:00](https://linux.slashdot.org/story/26/03/08/1948243/steam-on-linux-numbers-dropped-to-223-in-february?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steam on Linux Numbers Dropped to 2.23% in February](https://linux.slashdot.org/story/26/03/08/1948243/steam-on-linux-numbers-dropped-to-223-in-february?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=26/03/07/1624228&amp;from=rss) - [‘What Matters More To Employers, Education Or Experience?’ Asks AI Expert](https://soylentnews.org/article.pl?sid=26/03/07/1624228&amp;from=rss)
 * [2026-03-08, 19:26:59](https://news.ycombinator.com/item?id=47300329) - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
-* [2026-03-08, 19:13:04](https://lobste.rs/s/moirx6/cambridge_battlecode_code_bots_compete) - [Cambridge Battlecode: Code bots that compete in a turn-based strategy game](https://battlecode.cam/)
 * [2026-03-08, 19:07:33](https://news.ycombinator.com/item?id=47300102) - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 * [2026-03-08, 18:34:00](https://it.slashdot.org/story/26/03/08/0253259/openais-former-research-chief-raises-70m-to-automate-manufacturing-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Former Research Chief Raises $70M to Automate Manufacturing With AI](https://it.slashdot.org/story/26/03/08/0253259/openais-former-research-chief-raises-70m-to-automate-manufacturing-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 18:18:40](https://news.ycombinator.com/item?id=47299606) - [I made a programming language with M&amp;Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
@@ -119,17 +122,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
 * [2026-03-08, 04:44:00](https://tech.slashdot.org/story/26/03/07/0321225/as-us-tariffs-hit-evs-hyundai-discontinues-its-cheapest-ioniq-6-while-kia-delays-ev6-adn-ev9-gt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As US Tariffs Hit EVs, Hyundai Discontinues Its Cheapest IONIQ 6, While Kia Delays EV6 adn EV9 GT](https://tech.slashdot.org/story/26/03/07/0321225/as-us-tariffs-hit-evs-hyundai-discontinues-its-cheapest-ioniq-6-while-kia-delays-ev6-adn-ev9-gt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 02:34:00](https://entertainment.slashdot.org/story/26/03/08/0150256/steven-spielberg--dinosaurs--netflix--mixed-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steven Spielberg + Dinosaurs + Netflix = Mixed Reviews](https://entertainment.slashdot.org/story/26/03/08/0150256/steven-spielberg--dinosaurs--netflix--mixed-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-08, 00:58:16](https://lobste.rs/s/bjb3dz/window_chrome_our_discontent) - [The Window Chrome of Our Discontent](https://pxlnv.com/blog/window-chrome-of-our-discontent/)
 * [2026-03-08, 00:57:57](https://news.ycombinator.com/item?id=47293195) - [Pushing and Pulling: Three reactivity algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-08, 00:39:00](https://soylentnews.org/article.pl?sid=26/03/06/1538243&amp;from=rss) - [Clueless Cops Post Seized Crypto Wallet Password. $5M Quickly Stolen.](https://soylentnews.org/article.pl?sid=26/03/06/1538243&amp;from=rss)
 * [2026-03-08, 00:16:00](https://science.slashdot.org/story/26/03/08/004240/a-first-for-humanity-confirmed-nasas-dart-mission-slowed-the-asteroids-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A First for Humanity Confirmed: NASA&apos;s DART Mission Slowed the Asteroid&apos;s Orbit](https://science.slashdot.org/story/26/03/08/004240/a-first-for-humanity-confirmed-nasas-dart-mission-slowed-the-asteroids-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-07, 23:16:00](https://science.slashdot.org/story/26/03/07/2249259/japan-approves-stem-cell-treatments-for-parkinsons-heart-failure-in-world-firsts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Japan Approves Stem-Cell Treatments For Parkinson&apos;s, Heart Failure In World Firsts](https://science.slashdot.org/story/26/03/07/2249259/japan-approves-stem-cell-treatments-for-parkinsons-heart-failure-in-world-firsts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
 * [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
 * [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
 * [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss)
+* [2026-03-07, 12:56:43](https://news.ycombinator.com/item?id=47287259) - [Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI](https://quesma.com/blog/chromatron-recompiled/)
 * [2026-03-07, 10:21:00](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss) - [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss)
 * [2026-03-07, 09:39:13](https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10) - [Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 * [2026-03-07, 05:40:00](https://soylentnews.org/article.pl?sid=26/03/06/1321207&amp;from=rss) - [Holy C Batman, He Built an Operating System!](https://soylentnews.org/article.pl?sid=26/03/06/1321207&amp;from=rss)
@@ -141,7 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-06, 05:58:00](https://soylentnews.org/article.pl?sid=26/03/05/1850205&amp;from=rss) - [DOS Memory Management](https://soylentnews.org/article.pl?sid=26/03/05/1850205&amp;from=rss)
 * [2026-03-06, 01:10:00](https://soylentnews.org/article.pl?sid=26/03/05/1846224&amp;from=rss) - [Micron Sampling First 256GB SOCAMM2 Memory Packages — 2TB of RAM Per CPU for Datacenters](https://soylentnews.org/article.pl?sid=26/03/05/1846224&amp;from=rss)
 * [2026-03-05, 20:25:00](https://soylentnews.org/article.pl?sid=26/03/05/0529259&amp;from=rss) - [To Update Blobs or Not to Update Blobs](https://soylentnews.org/article.pl?sid=26/03/05/0529259&amp;from=rss)
-* [2026-03-05, 19:08:54](https://news.ycombinator.com/item?id=47265856) - [SQG (SQL to Code Generator) v0.10: Java Streams and List Type Support](https://sqg.dev/blog/java-streams-and-list-types/)
 * [2026-03-05, 17:37:11](https://news.ycombinator.com/item?id=47264660) - [Case Study: lynnandtonic.com 2025 refresh](https://lynnandtonic.com/thoughts/entries/case-study-2025-refresh/)
 * [2026-03-05, 15:42:00](https://soylentnews.org/article.pl?sid=26/03/05/0714212&amp;from=rss) - [AI Art Isn&apos;t Art, or Copyrightable Art Anyway](https://soylentnews.org/article.pl?sid=26/03/05/0714212&amp;from=rss)
 * [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
