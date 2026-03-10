@@ -1,34 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software Development and Tools
+## Tech Developments and Innovations
 
-* [The Reviewer Isn’t the Bottleneck](https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/) - A discussion on the role of reviewers in software development, challenging the idea that they are the bottleneck. [Comments](https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck)
+* [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de) ([comments](https://news.ycombinator.com/item?id=47319273))
 
-* [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi) - New release of a minimalist, hackable text editor. [Comments](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with)
+* [European Consortium Wants Open-Source Alternative To Google Play Integrity](https://news.slashdot.org/story/26/03/09/2252215/european-consortium-wants-open-source-alternative-to-google-play-integrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/09/2252215/european-consortium-wants-open-source-alternative-to-google-play-integrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Rust-like Error Handling in TypeScript](https://codeinput.com/blog/typescript-result) - A tutorial on implementing error handling similar to Rust in TypeScript. [Comments](https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript)
+* [Samsung Wants To Let You Vibe Code Your Galaxy Phone Experience](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Artificial Intelligence and Technology
+* [Qualcomm&apos;s New Arduino Ventuno Q Is an AI-Focused Computer Designed For Robotics](https://hardware.slashdot.org/story/26/03/09/1716250/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/09/1716250/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Anthropic Sues the Pentagon After Being Labeled a Threat To National Security](https://yro.slashdot.org/story/26/03/09/1710252/anthropic-sues-the-pentagon-after-being-labeled-a-threat-to-national-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic takes legal action against the U.S. government over allegations concerning national security. [Comments](https://yro.slashdot.org/story/26/03/09/1710252/anthropic-sues-the-pentagon-after-being-labeled-a-threat-to-national-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html) ([comments](https://news.ycombinator.com/item?id=47315128))
 
-* [AI Allows Hackers To Identify Anonymous Social Media Accounts, Study Finds](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers demonstrate how artificial intelligence can expose anonymous users online. [Comments](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Programming and Software Highlights
 
-* [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world) - Unique challenges and experiences of baking in one of the coldest places on Earth. [Comments](https://news.ycombinator.com/item?id=47313934)
+* [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live) ([comments](https://news.ycombinator.com/item?id=47319255))
 
-* [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html) - Insights into OpenAI's strategic data center decisions. [Comments](https://news.ycombinator.com/item?id=47315128)
+* [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi) ([comments](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with))
 
-## Social and Policy Impacts
+* [JSLinux now supports x86_64](https://bellard.org/jslinux/) ([comments](https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64))
 
-* [Swiss Vote Places Right To Use Cash In Country's Constitution](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Switzerland enshrines the right to use cash into its national constitution. [Comments](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Rust-like Error Handling in TypeScript](https://codeinput.com/blog/typescript-result) ([comments](https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript))
 
-* [Florida judge rules red light camera tickets are unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional) - A ruling that could reshape traffic enforcement in Florida. [Comments](https://news.ycombinator.com/item?id=47312090)
+* [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/) ([comments 1](https://news.ycombinator.com/item?id=47311815), [comments 2](https://lobste.rs/s/sxlo6h/building_procedural_hex_map_with_wave))
 
-## Astronomy and Space Exploration
+## AI and Its Impacts
 
-* [New SETI Study: Why We Might Have Been Missing Alien Signals](https://science.slashdot.org/story/26/03/09/0654222/new-seti-study-why-we-might-have-been-missing-alien-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Study explores reasons for the potential oversight in detecting alien signals. [Comments](https://science.slashdot.org/story/26/03/09/0654222/new-seti-study-why-we-might-have-been-missing-alien-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/) ([comments](https://news.ycombinator.com/item?id=47319294))
 
-* [Scientists Just Doubled Our Catalog of Black Hole and Neutron Star Collisions](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Breakthrough discovery significantly expands our understanding of cosmic phenomena. [Comments](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How AI Assistants Are Moving the Security Goalposts](https://it.slashdot.org/story/26/03/09/1912259/how-ai-assistants-are-moving-the-security-goalposts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/03/09/1912259/how-ai-assistants-are-moving-the-security-goalposts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/) ([comments](https://news.ycombinator.com/item?id=47318421))
+
+* [AI Allows Hackers To Identify Anonymous Social Media Accounts, Study Finds](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [AI will fuck you up if you’re not on board](https://rmoff.net/2026/03/06/ai-will-fuck-you-up-if-youre-not-on-board/) ([comments](https://lobste.rs/s/6pvtem/ai_will_fuck_you_up_if_you_re_not_on_board))
+
+## Science and Society
+
+* [Scientists Just Doubled Our Catalog of Black Hole and Neutron Star Collisions](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world) ([comments](https://news.ycombinator.com/item?id=47313934))
+
+* [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/) ([comments](https://news.ycombinator.com/item?id=47307055))
+
+* [Swiss Vote Places Right To Use Cash In Country&apos;s Constitution](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [US Military Tested Device That May Be Tied To Havana Syndrome On Rats, Sheep](https://news.slashdot.org/story/26/03/09/0410214/us-military-tested-device-that-may-be-tied-to-havana-syndrome-on-rats-sheep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/09/0410214/us-military-tested-device-that-may-be-tied-to-havana-syndrome-on-rats-sheep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -55,6 +73,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-10, 05:30:30](https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training) - [DDR4 SDRAM - Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
+* [2026-03-10, 05:12:54](https://news.ycombinator.com/item?id=47319294) - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
+* [2026-03-10, 05:07:59](https://news.ycombinator.com/item?id=47319273) - [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+* [2026-03-10, 05:04:23](https://news.ycombinator.com/item?id=47319255) - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
 * [2026-03-10, 03:44:33](https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck) - [The Reviewer Isn&apos;t the Bottleneck](https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/)
 * [2026-03-10, 03:30:00](https://news.slashdot.org/story/26/03/09/2252215/european-consortium-wants-open-source-alternative-to-google-play-integrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [European Consortium Wants Open-Source Alternative To Google Play Integrity](https://news.slashdot.org/story/26/03/09/2252215/european-consortium-wants-open-source-alternative-to-google-play-integrity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 03:27:45](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with) - [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
@@ -63,7 +85,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-10, 02:24:52](https://news.ycombinator.com/item?id=47318421) - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 * [2026-03-10, 01:00:00](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Wants To Let You Vibe Code Your Galaxy Phone Experience](https://mobile.slashdot.org/story/26/03/09/2234244/samsung-wants-to-let-you-vibe-code-your-galaxy-phone-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 00:35:19](https://news.ycombinator.com/item?id=47317739) - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
-* [2026-03-10, 00:16:44](https://news.ycombinator.com/item?id=47317616) - [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+* [2026-03-10, 00:16:44](https://news.ycombinator.com/item?id=47317616) - [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+* [2026-03-09, 23:43:29](https://news.ycombinator.com/item?id=47317348) - [Getting Started in Common Lisp](https://lisp-stat.dev/blog/2026/03/09/getting-started/)
+* [2026-03-09, 23:22:06](https://news.ycombinator.com/item?id=47317132) - [No, it doesn&apos;t cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
 * [2026-03-09, 23:00:00](https://games.slashdot.org/story/26/03/09/1936236/ea-lays-off-staff-across-all-battlefield-studios-following-record-breaking-battlefield-6-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EA Lays Off Staff Across All Battlefield Studios Following Record-Breaking Battlefield 6 Launch](https://games.slashdot.org/story/26/03/09/1936236/ea-lays-off-staff-across-all-battlefield-studios-following-record-breaking-battlefield-6-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 22:27:20](https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64) - [JSLinux now supports x86_64](https://bellard.org/jslinux/)
 * [2026-03-09, 22:00:00](https://yro.slashdot.org/story/26/03/09/1930204/live-nation-avoids-ticketmaster-breakup-by-open-sourcing-their-ticketing-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Live Nation Avoids Ticketmaster Breakup By &apos;Open Sourcing&apos; Their Ticketing Model](https://yro.slashdot.org/story/26/03/09/1930204/live-nation-avoids-ticketmaster-breakup-by-open-sourcing-their-ticketing-model?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -73,15 +97,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 20:32:45](https://news.ycombinator.com/item?id=47315079) - [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
 * [2026-03-09, 20:00:00](https://tech.slashdot.org/story/26/03/09/1919227/bluesky-ceo-jay-graber-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bluesky CEO Jay Graber Is Stepping Down](https://tech.slashdot.org/story/26/03/09/1919227/bluesky-ceo-jay-graber-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 19:12:14](https://news.ycombinator.com/item?id=47313934) - [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
-* [2026-03-09, 19:09:03](https://news.ycombinator.com/item?id=47313884) - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
 * [2026-03-09, 19:02:27](https://lobste.rs/s/0r64cv/aws_sdk_for_rust_using_s3_compatible_apis) - [AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds](https://rup12.net/posts/s3-api-compatibility-is-awesome)
 * [2026-03-09, 19:00:00](https://hardware.slashdot.org/story/26/03/09/1716250/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qualcomm&apos;s New Arduino Ventuno Q Is an AI-Focused Computer Designed For Robotics](https://hardware.slashdot.org/story/26/03/09/1716250/qualcomms-new-arduino-ventuno-q-is-an-ai-focused-computer-designed-for-robotics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-09, 18:59:32](https://news.ycombinator.com/item?id=47313721) - [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
 * [2026-03-09, 18:04:05](https://lobste.rs/s/nkmxnp/price_checking_zerocopy_s_zero_cost) - [Price-Checking Zerocopy&apos;s Zero Cost Abstractions](https://jack.wrenn.fyi/blog/price-check/)
 * [2026-03-09, 18:00:00](https://yro.slashdot.org/story/26/03/09/1710252/anthropic-sues-the-pentagon-after-being-labeled-a-threat-to-national-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Sues the Pentagon After Being Labeled a Threat To National Security](https://yro.slashdot.org/story/26/03/09/1710252/anthropic-sues-the-pentagon-after-being-labeled-a-threat-to-national-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-09, 17:57:00](https://news.ycombinator.com/item?id=47312728) - [Show HN: The Mog Programming Language](https://moglang.org)
-* [2026-03-09, 17:34:27](https://news.ycombinator.com/item?id=47312329) - [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
 * [2026-03-09, 17:24:53](https://lobste.rs/s/k6vpjh/meta_s_renewed_commitment_jemalloc) - [Meta’s Renewed Commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-09, 17:20:29](https://news.ycombinator.com/item?id=47312090) - [Florida judge rules red light camera tickets are unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 * [2026-03-09, 17:11:41](https://lobste.rs/s/yg9m2q/video_conferencing_with_postgres) - [Video Conferencing with Postgres](https://planetscale.com/blog/video-conferencing-with-postgres)
@@ -91,13 +111,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 16:54:31](https://news.ycombinator.com/item?id=47311669) - [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 * [2026-03-09, 16:54:31](https://lobste.rs/s/kl1gd6/seccomp_unsafe_at_any_speed_2022) - [seccomp — Unsafe at any speed (2022)](https://blog.habets.se/2022/03/seccomp-unsafe-at-any-speed.html)
 * [2026-03-09, 16:53:52](https://news.ycombinator.com/item?id=47311657) - [Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents](https://news.ycombinator.com/item?id=47311657)
-* [2026-03-09, 16:53:14](https://news.ycombinator.com/item?id=47311647) - [I don&apos;t know Apple&apos;s endgame for the Fn/Globe key–or if Apple does](https://aresluna.org/fn/)
 * [2026-03-09, 16:47:22](https://lobste.rs/s/dcqmlk/what_i_always_wanted_know_about_second) - [What I Always Wanted to Know about Second Class Values](https://dl.acm.org/doi/epdf/10.1145/3759427.3760373)
 * [2026-03-09, 16:43:39](https://news.ycombinator.com/item?id=47311484) - [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
 * [2026-03-09, 16:24:22](https://news.ycombinator.com/item?id=47311179) - [An opinionated take on how to do important research that matters](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
 * [2026-03-09, 16:00:00](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Allows Hackers To Identify Anonymous Social Media Accounts, Study Finds](https://tech.slashdot.org/story/26/03/09/0428241/ai-allows-hackers-to-identify-anonymous-social-media-accounts-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 15:28:31](https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host) - [Abusing .arpa, the TLD that isn’t supposed to host anything](https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/)
-* [2026-03-09, 15:23:08](https://news.ycombinator.com/item?id=47310296) - [Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
 * [2026-03-09, 15:12:53](https://news.ycombinator.com/item?id=47310160) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 * [2026-03-09, 15:00:00](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Swiss Vote Places Right To Use Cash In Country&apos;s Constitution](https://news.slashdot.org/story/26/03/09/0419215/swiss-vote-places-right-to-use-cash-in-countrys-constitution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 14:55:42](https://news.ycombinator.com/item?id=47309953) - [Show HN: DenchClaw – Local CRM on Top of OpenClaw](https://github.com/DenchHQ/DenchClaw)
@@ -107,7 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 14:00:00](https://news.slashdot.org/story/26/03/09/0410214/us-military-tested-device-that-may-be-tied-to-havana-syndrome-on-rats-sheep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Military Tested Device That May Be Tied To Havana Syndrome On Rats, Sheep](https://news.slashdot.org/story/26/03/09/0410214/us-military-tested-device-that-may-be-tied-to-havana-syndrome-on-rats-sheep?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 13:55:14](https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it) - [Your LLM Doesn&apos;t Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-09, 13:04:26](https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript) - [Rust-like Error Handling in TypeScript](https://codeinput.com/blog/typescript-result)
-* [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
 * [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
 * [2026-03-09, 11:34:00](https://science.slashdot.org/story/26/03/09/0654222/new-seti-study-why-we-might-have-been-missing-alien-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New SETI Study: Why We Might Have Been Missing Alien Signals](https://science.slashdot.org/story/26/03/09/0654222/new-seti-study-why-we-might-have-been-missing-alien-signals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 10:52:19](https://lobste.rs/s/o8vbb7/production_query_plans_without) - [Production query plans without production data](https://boringsql.com/posts/portable-stats/)
@@ -117,11 +134,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 07:34:00](https://linux.slashdot.org/story/26/03/09/0544224/eff-ubuntu-and-other-distros-discuss-how-to-respond-to-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EFF, Ubuntu and Other Distros Discuss How to Respond to Age-Verification Laws](https://linux.slashdot.org/story/26/03/09/0544224/eff-ubuntu-and-other-distros-discuss-how-to-respond-to-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-09, 04:34:00](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Just Doubled Our Catalog of Black Hole and Neutron Star Collisions](https://science.slashdot.org/story/26/03/09/0429200/scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-08, 23:58:14](https://lobste.rs/s/wevip9/webpki_you) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
+* [2026-03-08, 22:54:17](https://news.ycombinator.com/item?id=47302493) - [Optimizing Top K in Postgres](https://www.paradedb.com/blog/optimizing-top-k)
 * [2026-03-08, 16:31:00](https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship) - [Lightweight protocol to assert authorship of content and vouch for humanity of others](https://codeberg.org/robida/human.json)
-* [2026-03-08, 16:22:24](https://news.ycombinator.com/item?id=47298553) - [Flash media longevity testing – 6 years later](https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/)
-* [2026-03-08, 11:10:14](https://lobste.rs/s/kgpyat/put_zip_code_first) - [Put the ZIP code first](https://zipcodefirst.com/)
-* [2026-03-08, 05:03:03](https://news.ycombinator.com/item?id=47294572) - [Rethinking Syntax: Binding by Adjacency](https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md)
 * [2026-03-07, 16:24:24](https://news.ycombinator.com/item?id=47289007) - [Graphing how the 10k* most common English words define each other](https://wyattsell.com/experiments/word-graph/)
+* [2026-03-07, 07:30:45](https://news.ycombinator.com/item?id=47285367) - [RVA23 Ends Speculation&apos;s Monopoly in RISC-V CPUs](https://semiwiki.com/ip/risc-v/367094-rva23-ends-speculations-monopoly-in-risc-v-cpus/)
 * [2026-03-06, 20:27:50](https://news.ycombinator.com/item?id=47280654) - [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
+* [2026-03-06, 19:20:18](https://news.ycombinator.com/item?id=47279761) - [macOS Tahoe windows have different corner radiuses](https://lapcatsoftware.com/articles/2026/3/1.html)
+* [2026-03-06, 19:11:24](https://news.ycombinator.com/item?id=47279633) - [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
+* [2026-03-06, 17:03:39](https://news.ycombinator.com/item?id=47277735) - [A useless infinite scroll experiment](https://futile.ch/en/)
 * [2026-03-06, 15:40:45](https://news.ycombinator.com/item?id=47276343) - [Darkrealms BBS](http://www.darkrealms.ca/)
-* [2026-03-06, 14:38:25](https://news.ycombinator.com/item?id=47275425) - [Show HN: Hopalong Attractor. An old classic with a new perspective in 3D](https://github.com/ratwolfzero/hopalong_python)
