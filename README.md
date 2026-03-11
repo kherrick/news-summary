@@ -1,50 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific Discoveries
+## Space and Astronomy
 
-* [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss) - A study reveals that ancient clay deposits under Japan contributed to the devastating 2011 earthquake and tsunami which caused large-scale destruction.
+* [A 1,300-Pound NASA Spacecraft To Re-Enter Earth's Atmosphere](https://science.slashdot.org/story/26/03/11/0026235/a-1300-pound-nasa-spacecraft-to-re-enter-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss) - Researchers analyze ancient crystals to unlock secrets about the early formation of our solar system.
+## Innovations and Breakthroughs in Technology
 
-## Artificial Intelligence and Technology
+* [Intel Demos Chip To Compute With Encrypted Data](https://it.slashdot.org/story/26/03/10/2022201/intel-demos-chip-to-compute-with-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [After Outages, Amazon To Make Senior Engineers Sign Off On AI-Assisted Changes](https://slashdot.org/story/26/03/10/212214/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon reacts to recent outages by requiring senior engineers to approve AI-driven system changes, aiming to enhance reliability.
+* [Claude AI Finds Bugs In Microsoft CTO's 40-Year-Old Apple II Code](https://it.slashdot.org/story/26/03/10/0521258/claude-ai-finds-bugs-in-microsoft-ctos-40-year-old-apple-ii-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/) - An innovative approach to maximize AI leaderboard performance without modifying model parameters.
+* [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 
-* [Yann LeCun Raises $1B to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/) - AI expert Yann LeCun secures significant funding to develop AI capable of broad physical understanding.
+## Influential Figures in Tech
 
-* [Intel Demos Chip To Compute With Encrypted Data](https://it.slashdot.org/story/26/03/10/2022201/intel-demos-chip-to-compute-with-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Intel showcases a groundbreaking chip capable of processing encrypted data directly, ensuring enhanced privacy and security.
+* [Tony Hoare, Turing Award-Winning Computer Scientist Behind QuickSort, Dies At 92](https://developers.slashdot.org/story/26/03/10/2038225/tony-hoare-turing-award-winning-computer-scientist-behind-quicksort-dies-at-92?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Tributes and Losses in Technology
+* [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 
-* [Tony Hoare, Turing Award-Winning Computer Scientist Behind QuickSort, Dies At 92](https://developers.slashdot.org/story/26/03/10/2038225/tony-hoare-turing-award-winning-computer-scientist-behind-quicksort-dies-at-92?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A tribute to computer science pioneer Tony Hoare, remembered for his significant contributions and achievements, including the creation of QuickSort.
+## Artificial Intelligence Trends and Challenges
 
-## Innovations in Programming and Development
+* [Amazon Wins Court Order To Block Perplexity's AI Shopping Bots](https://yro.slashdot.org/story/26/03/10/2012222/amazon-wins-court-order-to-block-perplexitys-ai-shopping-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor) - The journey and insights of building and relying on a self-developed text editor for daily tasks.
+* [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 
-* [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit) - A guide to mastering rebasing with Magit, an Emacs mode for Git.
+* [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/)
 
-* [Meta Acquires Moltbook, the Social Network For AI Agents](https://tech.slashdot.org/story/26/03/10/1524229/meta-acquires-moltbook-the-social-network-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta acquires a platform fostering collaboration among AI agents.
+## Languages and Programming Tools
 
-## Notable Policy Decisions
+* [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 
-* [Debian Decides Not to Decide on AI-Generated Contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/) - The Debian project opts for ambiguity regarding the inclusion of AI-generated content within its contributions.
+* [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 
-* [Amazon Wins Court Order To Block Perplexity's AI Shopping Bots](https://yro.slashdot.org/story/26/03/10/2012222/amazon-wins-court-order-to-block-perplexitys-ai-shopping-bots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon secures a legal victory against unauthorized AI bots impacting its e-commerce operations.
+* [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 
-## Social and Ethical Implications of Technology
+## Historical and Scientific Insights
 
-* [Online Age-Verification Tools for Child Safety Are Surveilling Adults](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html) - The growing concern over age-verification systems and their impact on personal privacy.
+* [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss)
 
-* [Universal Vaccine Against Respiratory Infections and Allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html) - A significant medical breakthrough aims to combat a wide range of respiratory illnesses.
+* [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss)
 
-## Space and Science Fiction Innovations
+## Social and Economic Shifts in Tech
 
-* [Startup Wants To Launch a Space Mirror](https://science.slashdot.org/story/26/03/09/230222/startup-wants-to-launch-a-space-mirror?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An ambitious venture seeks to harness a space mirror for countering climate change.
+* [Silicon Valley Is Buzzing About This New Idea: AI Compute As Compensation](https://news.slashdot.org/story/26/03/10/200253/silicon-valley-is-buzzing-about-this-new-idea-ai-compute-as-compensation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Congress Extends ISS and Tells NASA To Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss) - The US government supports extending the ISS while urging NASA to accelerate private space station development.
+* [Meta Acquires Moltbook, the Social Network For AI Agents](https://tech.slashdot.org/story/26/03/10/1524229/meta-acquires-moltbook-the-social-network-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -71,8 +71,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-11, 07:00:00](https://science.slashdot.org/story/26/03/11/0026235/a-1300-pound-nasa-spacecraft-to-re-enter-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A 1,300-Pound NASA Spacecraft To Re-Enter Earth&apos;s Atmosphere](https://science.slashdot.org/story/26/03/11/0026235/a-1300-pound-nasa-spacecraft-to-re-enter-earths-atmosphere?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+* [2026-03-11, 05:42:55](https://news.ycombinator.com/item?id=47332054) - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
+* [2026-03-11, 04:42:23](https://news.ycombinator.com/item?id=47331802) - [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss)
 * [2026-03-11, 03:30:00](https://slashdot.org/story/26/03/10/212214/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Outages, Amazon To Make Senior Engineers Sign Off On AI-Assisted Changes](https://slashdot.org/story/26/03/10/212214/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-11, 03:07:37](https://lobste.rs/s/e8lebp/u_237c_is_azimuth) - [U+237C is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 * [2026-03-11, 02:13:47](https://lobste.rs/s/ev2hsx/type_resolution_redesign_with_language) - [Type resolution redesign, with language changes to taste](https://ziglang.org/devlog/2026/#2026-03-10)
 * [2026-03-11, 02:04:22](https://news.ycombinator.com/item?id=47331034) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
@@ -81,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-10, 23:43:00](https://soylentnews.org/article.pl?sid=26/03/09/094202&amp;from=rss) - [Norwegian Gov&apos;t Consumer Watchdog Calls Out ‘Enshittification’ of Video Games, Connected Devices](https://soylentnews.org/article.pl?sid=26/03/09/094202&amp;from=rss)
 * [2026-03-10, 23:07:47](https://lobste.rs/s/c3dfjr/cellpond_spatial_programming_without) - [Cellpond: Spatial programming without escape](https://www.youtube.com/watch?v=eQgxFuw8f1U)
 * [2026-03-10, 23:00:00](https://it.slashdot.org/story/26/03/10/2022201/intel-demos-chip-to-compute-with-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Demos Chip To Compute With Encrypted Data](https://it.slashdot.org/story/26/03/10/2022201/intel-demos-chip-to-compute-with-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-10, 22:58:43](https://lobste.rs/s/1ygngg/embrace_uncertainty) - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 * [2026-03-10, 22:36:45](https://lobste.rs/s/6ctfpa/enamored_with_macy) - [Enamored with Macy](https://addisoncrump.info/research/enamored-with-macy/)
 * [2026-03-10, 22:33:48](https://news.ycombinator.com/item?id=47329608) - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
@@ -94,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-10, 20:12:41](https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai) - [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/)
 * [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 20:00:00](https://mobile.slashdot.org/story/26/03/10/162222/att-outlines-250-billion-us-investment-plan-to-boost-infrastructure-in-ai-age?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T Outlines $250 Billion US Investment Plan To Boost Infrastructure In AI Age](https://mobile.slashdot.org/story/26/03/10/162222/att-outlines-250-billion-us-investment-plan-to-boost-infrastructure-in-ai-age?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-10, 19:56:52](https://news.ycombinator.com/item?id=47328034) - [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
 * [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
 * [2026-03-10, 19:02:01](https://news.ycombinator.com/item?id=47327473) - [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)
@@ -112,29 +115,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 15:00:00](https://apple.slashdot.org/story/26/03/10/050253/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [German Publishers Push Regulators To Fine Apple Over App Tracking Transparency](https://apple.slashdot.org/story/26/03/10/050253/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+* [2026-03-10, 14:50:43](https://news.ycombinator.com/item?id=47324058) - [We are building data breach machines and nobody cares](https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/)
 * [2026-03-10, 14:50:16](https://news.ycombinator.com/item?id=47324054) - [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 * [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 * [2026-03-10, 14:25:25](https://lobste.rs/s/t5dvs5/amazon_holds_engineering_meeting_about) - [Amazon holds engineering meeting about GenAI based outages](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 * [2026-03-10, 14:10:00](https://soylentnews.org/article.pl?sid=26/03/08/1511250&amp;from=rss) - [Indigenous Peoples in the Amazon and Australia Share Some Ancestry](https://soylentnews.org/article.pl?sid=26/03/08/1511250&amp;from=rss)
 * [2026-03-10, 14:05:15](https://lobste.rs/s/5mf3cb/rebasing_magit) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 * [2026-03-10, 14:00:00](https://linux.slashdot.org/story/26/03/10/0450204/eqt-eyes-6-billion-sale-of-suse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EQT Eyes $6 Billion Sale of SUSE](https://linux.slashdot.org/story/26/03/10/0450204/eqt-eyes-6-billion-sale-of-suse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-10, 13:38:39](https://news.ycombinator.com/item?id=47323105) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 * [2026-03-10, 13:31:17](https://news.ycombinator.com/item?id=47323017) - [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
-* [2026-03-10, 13:18:55](https://news.ycombinator.com/item?id=47322887) - [Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs](https://dnhkng.github.io/posts/rys/)
-* [2026-03-10, 13:10:48](https://news.ycombinator.com/item?id=47322815) - [Intel Demos Chip to Compute with Encrypted Data](https://spectrum.ieee.org/fhe-intel)
 * [2026-03-10, 13:04:43](https://lobste.rs/s/g6gfvg/what_s_my_jnd) - [What&apos;s My JND?](https://www.keithcirkel.co.uk/whats-my-jnd)
 * [2026-03-10, 13:00:00](https://games.slashdot.org/story/26/03/10/0442249/many-international-game-developers-plan-to-skip-gdc-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Many International Game Developers Plan To Skip GDC In US](https://games.slashdot.org/story/26/03/10/0442249/many-international-game-developers-plan-to-skip-gdc-in-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 12:55:54](https://lobste.rs/s/9nzeu7/madblog_turn_markdown_folder_into) - [Madblog: Turn a Markdown folder into a federated blog](https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown)
-* [2026-03-10, 12:55:42](https://news.ycombinator.com/item?id=47322635) - [Online age-verification tools for child safety are surveilling adults](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)
 * [2026-03-10, 12:13:03](https://lobste.rs/s/cpqm9i/too_much_color) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-10, 11:51:21](https://lobste.rs/s/gh0mwq/nominal_types_webassembly) - [nominal types in webassembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
 * [2026-03-10, 10:07:13](https://lobste.rs/s/vkxmwj/redox_os_has_adopted_certificate_origin) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 10:00:00](https://yro.slashdot.org/story/26/03/09/236207/fbi-investigates-breach-that-may-have-hit-its-wiretapping-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Investigates Breach That May Have Hit Its Wiretapping Tools](https://yro.slashdot.org/story/26/03/09/236207/fbi-investigates-breach-that-may-have-hit-its-wiretapping-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 09:29:00](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss) - [In 1985 Maxell Built a Bunch of Life-Size Robots for its Bad Floppy Ad](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss)
 * [2026-03-10, 08:51:15](https://lobste.rs/s/izprt4/evi_hard_fork_vim) - [EVi, a hard-fork of Vim](https://codeberg.org/NerdNextDoor/evi)
+* [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:47:35](https://lobste.rs/s/lsjk8m/dependency_tracking_is_hard) - [Dependency Tracking is Hard](https://daniel.haxx.se/blog/2026/03/10/dependency-tracking-is-hard/)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-* [2026-03-10, 07:00:00](https://science.slashdot.org/story/26/03/09/230222/startup-wants-to-launch-a-space-mirror?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Startup Wants To Launch a Space Mirror](https://science.slashdot.org/story/26/03/09/230222/startup-wants-to-launch-a-space-mirror?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-10, 04:47:00](https://soylentnews.org/article.pl?sid=26/03/08/157253&amp;from=rss) - [Sam Altman Wonders: Should the Government Nationalize AGI?](https://soylentnews.org/article.pl?sid=26/03/08/157253&amp;from=rss)
 * [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
@@ -148,6 +148,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 00:24:00](https://soylentnews.org/article.pl?sid=26/03/07/1629233&amp;from=rss) - [Roundup:  OS-level Age Verification Laws](https://soylentnews.org/article.pl?sid=26/03/07/1629233&amp;from=rss)
 * [2026-03-08, 19:41:00](https://soylentnews.org/article.pl?sid=26/03/07/1624228&amp;from=rss) - [‘What Matters More To Employers, Education Or Experience?’ Asks AI Expert](https://soylentnews.org/article.pl?sid=26/03/07/1624228&amp;from=rss)
 * [2026-03-08, 14:57:00](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&amp;from=rss) - [Tech Industry is in Tariff Hell, Even If Refunds Are Automated](https://soylentnews.org/politics/article.pl?sid=26/03/06/1549257&amp;from=rss)
+* [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
 * [2026-03-08, 10:13:00](https://soylentnews.org/article.pl?sid=26/03/06/1545254&amp;from=rss) - [Would Aliens Do Physics, or is Science a Human Invention?](https://soylentnews.org/article.pl?sid=26/03/06/1545254&amp;from=rss)
 * [2026-03-08, 10:01:23](https://news.ycombinator.com/item?id=47295996) - [Bippy: React Internals Toolkit](https://www.bippy.dev/)
 * [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure&apos;s Cider](https://github.com/gcv/julia-snail)
@@ -158,8 +159,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-07, 19:55:00](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss) - [Congress Extends ISS and Tells NASA to Get Moving on Private Space Stations](https://soylentnews.org/article.pl?sid=26/03/06/1533251&amp;from=rss)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
 * [2026-03-07, 15:07:00](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss) - [Starlink Mobile Teases ‘5G Speeds From Space With 100X the Data Density’](https://soylentnews.org/article.pl?sid=26/03/06/1338239&amp;from=rss)
-* [2026-03-07, 11:28:37](https://news.ycombinator.com/item?id=47286657) - [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2026-03-07, 10:21:00](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss) - [What Crystals Older Than the Sun Reveal About the Start of the Solar System](https://soylentnews.org/article.pl?sid=26/03/06/1335212&amp;from=rss)
-* [2026-03-07, 06:56:43](https://news.ycombinator.com/item?id=47285166) - [\&quot;I built a spell checker for back end configuration mistakes.\&quot;](https://www.npmjs.com/package/safelaunch)
 * [2026-03-07, 05:40:00](https://soylentnews.org/article.pl?sid=26/03/06/1321207&amp;from=rss) - [Holy C Batman, He Built an Operating System!](https://soylentnews.org/article.pl?sid=26/03/06/1321207&amp;from=rss)
+* [2026-03-07, 03:55:28](https://news.ycombinator.com/item?id=47284328) - [Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD](https://github.com/Aquantia/aqtion-freebsd/issues/32)
 * [2026-03-07, 00:53:00](https://soylentnews.org/article.pl?sid=26/03/05/2316254&amp;from=rss) - [vscreen: A Real Browser for AI Agents, Streamed Live via WebRTC](https://soylentnews.org/article.pl?sid=26/03/05/2316254&amp;from=rss)
