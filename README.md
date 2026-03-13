@@ -2,53 +2,63 @@
 
 ## Technology and Software Developments
 
-* [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/) ([comments](https://news.ycombinator.com/item?id=47363400))
+* [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio) discusses advancements in asynchronous programming in Python, exploring new methods to improve performance and usability.
 
-* [TUI Studio – visual terminal UI design tool](https://tui.studio/) ([comments](https://news.ycombinator.com/item?id=47362613))
+* [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/) highlights the integration of Google's gVisor sandboxing tool with the Raspberry Pi ecosystem.
 
-* [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) ([comments](https://news.ycombinator.com/item?id=47360730))
+* [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) celebrates the latest release of the fast build tool for modern web development, showcasing new features and enhancements.
 
-* [Google Chrome Is Finally Coming To ARM64 Linux](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [TUI Studio – visual terminal UI design tool](https://tui.studio/) demonstrates a newly developed tool for designing terminal-based user interfaces visually.
 
-## Artificial Intelligence and Machine Learning
+* [Open Source Registries Don't Have Enough Money to Implement Basic Security](https://soylentnews.org/article.pl?sid=26/03/07/1632227&amp;from=rss) raises concerns over the security challenges faced by open source software repositories.
 
-* [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/) ([comments](https://news.ycombinator.com/item?id=47363074))
+## AI and Machine Learning
 
-* [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) ([comments](https://lobste.rs/s/wssz9m/grief_ai_split))
+* [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/) introduces a tool for deploying AI agents to collaborate visually on projects.
 
-* [Anthropic&apos;s Claude AI Can Respond With Charts, Diagrams, and Other Visualschat](https://features.slashdot.org/story/26/03/12/1710246/anthropics-claude-ai-can-respond-with-charts-diagrams-and-other-visualschat?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://features.slashdot.org/story/26/03/12/1710246/anthropics-claude-ai-can-respond-with-charts-diagrams-and-other-visualschat?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers) evaluates the computational impact of using large language models as processing units.
 
-## Cybersecurity
+* [Perplexity's 'Personal Computer' Lets AI Agents Access Your Local Files](https://slashdot.org/story/26/03/12/191200/perplexitys-personal-computer-lets-ai-agents-access-your-local-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) describes a new AI assistant designed to integrate with user's local computer files.
 
-* [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/) ([comments](https://news.ycombinator.com/item?id=47362350))
+* [Anthropic's Claude AI Can Respond With Charts, Diagrams, and Other Visualschat](https://features.slashdot.org/story/26/03/12/1710246/anthropics-claude-ai-can-respond-with-charts-diagrams-and-other-visualschat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reveals innovative advancements in AI communication through visual aids.
 
-* [oss-security - Re: Multiple vulnerabilities in AppArmor](https://www.openwall.com/lists/oss-security/2026/03/12/7) ([comments](https://lobste.rs/s/2oob2h/oss_security_re_multiple))
+* [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) examines the societal and psychological challenges prompted by the evolution of artificial intelligence.
 
-* [Document poisoning in RAG systems: How attackers corrupt AI&apos;s sources](https://aminrj.com/posts/rag-document-poisoning/) ([comments](https://news.ycombinator.com/item?id=47350407))
+## Data Security and Privacy
 
-## Energy and Environment
+* [Facial Recognition Error Jails Innocent Grandmother For Months](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) exposes the dangers of errors in facial recognition software.
 
-* [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/12/107259&from=rss))
+* [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E) investigates the financial forces behind age verification legislation.
 
-* [Reducing Europe&apos;s Nuclear Energy Sector Was &apos;Strategic Mistake&apos;, EU Chief Says](https://hardware.slashdot.org/story/26/03/12/0137208/reducing-europes-nuclear-energy-sector-was-strategic-mistake-eu-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/12/0137208/reducing-europes-nuclear-energy-sector-was-strategic-mistake-eu-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/) reports a critical breach exposing the code for Sweden's government services.
 
-* [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss))
+* [Bucketsquatting is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) celebrates the eradication of a long-standing security vulnerability involving misconfigured cloud storage.
 
-## Societal and Economic Trends
+* [Claude Code Deletes Developers' Production Setup, Including its Database and Snapshots](https://soylentnews.org/article.pl?sid=26/03/07/1635228&amp;from=rss) investigates a critical mishap caused by a flaw in code handling.
 
-* [Only Half of Americans Went To a Movie Theater In 2025, Study Finds](https://entertainment.slashdot.org/story/26/03/11/2348256/only-half-of-americans-went-to-a-movie-theater-in-2025-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/03/11/2348256/only-half-of-americans-went-to-a-movie-theater-in-2025-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Business and Technology
 
-* [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss))
+* [Italian Prosecutors Seek Trial For Amazon, Four Execs Over Alleged $1.4 Billion Tax Evasion](https://yro.slashdot.org/story/26/03/12/2252218/italian-prosecutors-seek-trial-for-amazon-four-execs-over-alleged-14-billion-tax-evasion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) delves into legal action against Amazon and executives for alleged tax evasion.
 
-* [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) ([comments](https://news.ycombinator.com/item?id=47352459))
+* [Honda Cancels All Three EVs That It Planned To Build In the US](https://tech.slashdot.org/story/26/03/12/1836249/honda-cancels-all-three-evs-that-it-planned-to-build-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reveals decisions impacting the electric vehicle market.
 
-## Global and Political Issues
+* [Apple MacBook Neo Beats Every Single x86 PC CPU For Single-Core Performance](https://hardware.slashdot.org/story/26/03/12/230230/apple-macbook-neo-beats-every-single-x86-pc-cpu-for-single-core-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) notes a milestone in Apple's hardware technology.
 
-* [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) ([comments](https://news.ycombinator.com/item?id=47363584))
+* [Adobe CEO to Step Down After 18 Years](https://slashdot.org/story/26/03/12/212212/adobe-ceo-to-step-down-after-18-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses a major leadership change at Adobe.
 
-* [Strait of Hormuz Closure Triggers Work From Home, 4-Day Weeks In Asia](https://news.slashdot.org/story/26/03/12/0710204/strait-of-hormuz-closure-triggers-work-from-home-4-day-weeks-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/12/0710204/strait-of-hormuz-closure-triggers-work-from-home-4-day-weeks-in-asia?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Microsoft Backs Anthropic To Halt US DOD's 'Supply-Chain Risk' Designation](https://slashdot.org/story/26/03/12/2049252/microsoft-backs-anthropic-to-halt-us-dods-supply-chain-risk-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) outlines Microsoft's strategic move in artificial intelligence and defense.
 
-* [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss))
+## Cultural and Scientific Insights
+
+* [Two long-lost episodes of 'Doctor Who' have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8) celebrates the recovery of long-lost sci-fi history.
+
+* [Enhancing gut-brain communication reversed cognitive decline in aging mice](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html) reveals groundbreaking scientific discoveries in aging research.
+
+* [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) explores renewable energy innovations in transportation.
+
+* [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) offers digital access to priceless art treasures.
+
+* [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/) reflects on the evolution of digital communication.
 
 ---
 
@@ -75,17 +85,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
-* [2026-03-13, 12:15:11](https://news.ycombinator.com/item?id=47363400) - [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/)
+* [2026-03-13, 16:00:00](https://apple.slashdot.org/story/26/03/13/051218/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s App Store In China Gets Lower 25% Commission To Appease Regulators](https://apple.slashdot.org/story/26/03/13/051218/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
+* [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python&apos;s AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
+* [2026-03-13, 15:17:02](https://lobste.rs/s/ehohsb/plumbing_everyday_magic) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com)
+* [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
+* [2026-03-13, 15:04:41](https://news.ycombinator.com/item?id=47365461) - [Two long-lost episodes of &apos;Doctor Who&apos; have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
+* [2026-03-13, 15:00:00](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facial Recognition Error Jails Innocent Grandmother For Months](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
+* [2026-03-13, 14:08:08](https://lobste.rs/s/hfypk8/how_use_storytelling_fit_inline_assembly) - [How to use storytelling to fit inline assembly into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html)
+* [2026-03-13, 14:00:00](https://yro.slashdot.org/story/26/03/12/2252218/italian-prosecutors-seek-trial-for-amazon-four-execs-over-alleged-14-billion-tax-evasion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Italian Prosecutors Seek Trial For Amazon, Four Execs Over Alleged $1.4 Billion Tax Evasion](https://yro.slashdot.org/story/26/03/12/2252218/italian-prosecutors-seek-trial-for-amazon-four-execs-over-alleged-14-billion-tax-evasion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-13, 13:45:32](https://news.ycombinator.com/item?id=47364397) - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+* [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss) - [LEGO&apos;s 0.002mm Specification and It&apos;s Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss)
+* [2026-03-13, 13:34:02](https://lobste.rs/s/czj5p4/computing_freedom_with_gnu_emacs) - [Computing in freedom with GNU Emacs](https://protesilaos.com/codelog/2026-03-13-computing-in-freedom-with-gnu-emacs/)
+* [2026-03-13, 13:22:40](https://news.ycombinator.com/item?id=47364116) - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
+* [2026-03-13, 13:03:42](https://news.ycombinator.com/item?id=47363922) - [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
 * [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who&apos;s behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
-* [2026-03-13, 11:38:15](https://news.ycombinator.com/item?id=47363074) - [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)
 * [2026-03-13, 11:06:24](https://lobste.rs/s/bspgu4/bucketsquatting_is_finally_dead) - [Bucketsquatting is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
-* [2026-03-13, 11:00:00](https://hardware.slashdot.org/story/26/03/12/230230/apple-macbook-neo-beats-ever-single-x86-pc-cpu-for-single-core-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple MacBook Neo Beats Ever Single x86 PC CPU For Single-Core Performance ](https://hardware.slashdot.org/story/26/03/12/230230/apple-macbook-neo-beats-ever-single-x86-pc-cpu-for-single-core-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-13, 11:00:00](https://hardware.slashdot.org/story/26/03/12/230230/apple-macbook-neo-beats-every-single-x86-pc-cpu-for-single-core-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple MacBook Neo Beats Every Single x86 PC CPU For Single-Core Performance ](https://hardware.slashdot.org/story/26/03/12/230230/apple-macbook-neo-beats-every-single-x86-pc-cpu-for-single-core-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 10:32:45](https://news.ycombinator.com/item?id=47362613) - [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 * [2026-03-13, 10:25:04](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend)
 * [2026-03-13, 10:15:56](https://news.ycombinator.com/item?id=47362528) - [I traced $2B in grants and 45 states&apos; lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 * [2026-03-13, 10:08:54](https://news.ycombinator.com/item?id=47362487) - [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/)
-* [2026-03-13, 10:08:36](https://news.ycombinator.com/item?id=47362485) - [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
 * [2026-03-13, 09:45:30](https://news.ycombinator.com/item?id=47362350) - [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
 * [2026-03-13, 09:29:23](https://lobste.rs/s/3elkxf/well_being_times_algorithms) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
@@ -104,11 +125,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-12, 23:30:25](https://lobste.rs/s/efhaws/games_postscript_play_chess_against_your) - [Games in PostScript - Play Chess Against Your Printer](https://www.youtube.com/watch?v=2YCATafErA8)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
 * [2026-03-12, 23:00:00](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome Is Finally Coming To ARM64 Linux](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-12, 22:29:41](https://lobste.rs/s/2oob2h/oss_security_re_multiple) - [oss-security - Re: Multiple vulnerabilities in AppArmor](https://www.openwall.com/lists/oss-security/2026/03/12/7)
 * [2026-03-12, 22:00:00](https://slashdot.org/story/26/03/12/212212/adobe-ceo-to-step-down-after-18-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe CEO to Step Down After 18 Years](https://slashdot.org/story/26/03/12/212212/adobe-ceo-to-step-down-after-18-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 * [2026-03-12, 21:00:00](https://apple.slashdot.org/story/26/03/12/2042240/apples-macbook-neo-makes-repairs-easier-cheaper-than-other-macbooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s MacBook Neo Makes Repairs Easier, Cheaper Than Other MacBooks](https://apple.slashdot.org/story/26/03/12/2042240/apples-macbook-neo-makes-repairs-easier-cheaper-than-other-macbooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-12, 20:23:58](https://lobste.rs/s/gpbzcn/vite_8_0_is_out) - [Vite 8.0 is out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-12, 20:12:06](https://lobste.rs/s/koymkj/guix_system_one_month_later) - [Guix System - One Month Later](https://nemin.hu/guix-one-month-later.html)
 * [2026-03-12, 20:00:00](https://slashdot.org/story/26/03/12/191200/perplexitys-personal-computer-lets-ai-agents-access-your-local-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perplexity&apos;s &apos;Personal Computer&apos; Lets AI Agents Access Your Local Files](https://slashdot.org/story/26/03/12/191200/perplexitys-personal-computer-lets-ai-agents-access-your-local-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
@@ -122,28 +141,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-12, 17:00:00](https://tech.slashdot.org/story/26/03/12/1546207/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Maps Gets Its Biggest Navigation Redesign In a Decade, Plus More AI](https://tech.slashdot.org/story/26/03/12/1546207/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 16:43:27](https://lobste.rs/s/zyt5uz/this_is_not_computer_for_you) - [This Is Not The Computer For You](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 * [2026-03-12, 16:38:51](https://news.ycombinator.com/item?id=47353533) - [Enhancing gut-brain communication reversed cognitive decline in aging mice](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
-* [2026-03-12, 16:28:03](https://lobste.rs/s/fzgcjh/arcaos_5_1_2_now_available_os_2_warp) - [ArcaOS 5.1.2 now available (OS/2 Warp)](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
 * [2026-03-12, 16:17:40](https://lobste.rs/s/eng6mr/dreaming_ten_year_computer) - [Dreaming of a ten-year computer](https://alexwlchan.net/2026/ten-year-computer/)
 * [2026-03-12, 16:00:00](https://slashdot.org/story/26/03/12/0722207/atlassian-ceo-cites-ai-shift-when-announcing-plan-to-shed-1600-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Atlassian CEO Cites AI Shift When Announcing Plan To Shed 1,600 Jobs](https://slashdot.org/story/26/03/12/0722207/atlassian-ceo-cites-ai-shift-when-announcing-plan-to-shed-1600-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:00:00](https://news.slashdot.org/story/26/03/12/0710204/strait-of-hormuz-closure-triggers-work-from-home-4-day-weeks-in-asia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Strait of Hormuz Closure Triggers Work From Home, 4-Day Weeks In Asia](https://news.slashdot.org/story/26/03/12/0710204/strait-of-hormuz-closure-triggers-work-from-home-4-day-weeks-in-asia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 14:48:57](https://news.ycombinator.com/item?id=47351371) - [ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
-* [2026-03-12, 14:00:00](https://hardware.slashdot.org/story/26/03/12/0137208/reducing-europes-nuclear-energy-sector-was-strategic-mistake-eu-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reducing Europe&apos;s Nuclear Energy Sector Was &apos;Strategic Mistake&apos;, EU Chief Says](https://hardware.slashdot.org/story/26/03/12/0137208/reducing-europes-nuclear-energy-sector-was-strategic-mistake-eu-chief-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss)
-* [2026-03-12, 13:42:04](https://news.ycombinator.com/item?id=47350424) - [Malus – Clean Room as a Service](https://malus.sh)
-* [2026-03-12, 13:40:36](https://news.ycombinator.com/item?id=47350407) - [Document poisoning in RAG systems: How attackers corrupt AI&apos;s sources](https://aminrj.com/posts/rag-document-poisoning/)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
-* [2026-03-12, 11:00:00](https://entertainment.slashdot.org/story/26/03/11/2348256/only-half-of-americans-went-to-a-movie-theater-in-2025-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Only Half of Americans Went To a Movie Theater In 2025, Study Finds](https://entertainment.slashdot.org/story/26/03/11/2348256/only-half-of-americans-went-to-a-movie-theater-in-2025-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-12, 09:31:01](https://lobste.rs/s/rz6gak/lowdown_manpage_support) - [Lowdown Manpage Support](https://kristaps.bsd.lv/lowdown/mdoc.html)
 * [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss)
-* [2026-03-12, 07:00:00](https://tech.slashdot.org/story/26/03/11/2342217/gfiber-and-astound-broadband-to-join-forces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GFiber and Astound Broadband To Join Forces](https://tech.slashdot.org/story/26/03/11/2342217/gfiber-and-astound-broadband-to-join-forces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 06:48:59](https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers) - [Parametricity, or Comptime is Bonkers](https://noelwelsh.com/posts/comptime-is-bonkers/)
 * [2026-03-12, 05:17:51](https://lobste.rs/s/wssz9m/grief_ai_split) - [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 * [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss)
-* [2026-03-12, 02:42:35](https://lobste.rs/s/wxxxuc/building_new_flash) - [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
 * [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss)
-* [2026-03-11, 22:16:55](https://lobste.rs/s/6lqnhh/lobsters_interview_with_ngoldbaum) - [Lobsters Interview with ngoldbaum](https://alexalejandre.com/programming/interview-with-ngoldbaum/)
 * [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&amp;from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&amp;from=rss)
 * [2026-03-11, 18:06:57](https://lobste.rs/s/vb7ipx/my_postgresql_database_got_nuked_lol) - [My PostgreSQL database got nuked lol](https://akselmo.dev/posts/they-broke-my-server/)
 * [2026-03-11, 14:03:00](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss) - [Trump Gets Data Center Companies to Pledge to Pay for Power Generation](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss)
@@ -160,6 +170,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-09, 16:34:29](https://news.ycombinator.com/item?id=47311351) - [What we learned from a 22-Day storage bug (and how we fixed it)](https://www.mux.com/blog/22-day-storage-bug)
 * [2026-03-09, 14:54:31](https://news.ycombinator.com/item?id=47309940) - [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/)
 * [2026-03-09, 14:35:00](https://soylentnews.org/article.pl?sid=26/03/08/1446203&amp;from=rss) - [Time Zones vs. Mean Solar Time](https://soylentnews.org/article.pl?sid=26/03/08/1446203&amp;from=rss)
+* [2026-03-09, 14:19:50](https://news.ycombinator.com/item?id=47309445) - [The Mrs Fractal: Mirror, Rotate, Scale](https://www.4rknova.com//blog/2025/06/22/mrs-fractal)
 * [2026-03-09, 14:16:53](https://news.ycombinator.com/item?id=47309397) - [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)
 * [2026-03-09, 13:07:45](https://news.ycombinator.com/item?id=47308547) - [IMG_0416 (2024)](https://ben-mini.com/2024/img-0416)
 * [2026-03-09, 10:21:58](https://news.ycombinator.com/item?id=47307124) - [Willingness to look stupid](https://sharif.io/looking-stupid)
