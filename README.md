@@ -1,44 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Digital Privacy and Online Regulation
+## Advancements in AI and Technology
 
-* [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/) - A deep dive into the motivations and implications of age-verification policies and legislation. [Comments](https://news.ycombinator.com/item?id=47372290)
+* [ChatGPT, Other Chatbots Approved For Official Use In the Senate](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Instagram Discontinues End-To-End Encryption For DMs](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Instagram suspends end-to-end encryption for direct messages, raising concerns over user privacy. [Comments](https://news.ycombinator.com/item?id=47371064)
+* [Meta Delays Rollout of New AI Model After Performance Concerns](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [The Wyden Siren Goes Off Again: We'll Be "Stunned" by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/) - Concerns about NSA surveillance activities driven by Section 702 resurface. [Comments](https://news.ycombinator.com/item?id=47366374)
+* [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 
-## Technology and Software Innovation
+* [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 
-* [Backblaze Hosts 314 Trillion Digits of Pi Online](https://science.slashdot.org/story/26/03/13/182207/backblaze-hosts-314-trillion-digits-of-pi-online?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Explore Backblaze's ambitious hosting of a vast array of Pi digits. [Comments](https://news.ycombinator.com/item?id=47368430)
+## Cybersecurity and Privacy Concerns
 
-* [Rust Shined Over Python for My CLI Tool](https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/) - An insightful comparison of Rust and Python for a command-line interface tool development. [Comments](https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool)
+* [Instagram Discontinues End-To-End Encryption For DMs](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer) - An exploration of the computational capabilities of modern smartphones and their implications. [Comments](https://news.ycombinator.com/item?id=47367568)
+* [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 
-## AI and Machine Learning Developments
+* [Bucketsquatting is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 
-* [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss) - Amazon introduces new protocols for managing AI-driven updates following service outages. [Comments](https://news.ycombinator.com/item?id=47372290)
+* [Facial Recognition Error Jails Innocent Grandmother For Months](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Meta Delays Rollout of New AI Model After Performance Concerns](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta faces challenges in launching its new AI model, citing performance doubts. [Comments](https://news.ycombinator.com/item?id=47371852)
+## Innovations in Software and Development
 
-* [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/) - The introduction of Spine Swarm, AI agents emphasizing collaborative design. [Comments](https://news.ycombinator.com/item?id=47364116)
+* [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
 
-## Economic and Environmental Issues
+* [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 
-* [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns grow over a supply chain crisis as Qatar's helium production halts. [Comments](https://news.ycombinator.com/item?id=47363584)
+* [How to use storytelling to fit inline assembly into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html)
 
-* [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss) - Developments surrounding drone conflicts and their impact on pivotal AWS facilities. [Comments](https://news.ycombinator.com/item?id=47341432)
+* [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
 
-* [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&from=rss) - Examining the economic concerns associated with decreasing global fertility rates. [Comments](https://news.ycombinator.com/item?id=47372290)
+## Industry and Energy Developments
 
-## Miscellaneous Highlights
+* [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/) - A nostalgic nod to a beloved compression tool and its impact on computing. [Comments](https://lobste.rs/s/ub7a5k/ode_bzip)
+* [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&from=rss)
 
-* [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate) - An innovative breakthrough in marine bio-research by recording a blue whale's heartbeat. [Comments](https://news.ycombinator.com/item?id=47368430)
+* [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&from=rss)
 
-* [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html) - A step-by-step guide for creating your personalized static site generator. [Comments](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator)
+## Cultural and Historical Insights
+
+* [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
+
+* [Indigenous Peoples in the Amazon and Australia Share Some Ancestry](https://soylentnews.org/article.pl?sid=26/03/08/1511250&from=rss)
+
+* [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&from=rss)
 
 ---
 
@@ -65,7 +71,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-14, 01:19:18](https://news.ycombinator.com/item?id=47372290) - [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)
+* [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss)
+* [2026-03-14, 03:30:00](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT, Other Chatbots Approved For Official Use In the Senate](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-14, 02:27:00](https://news.ycombinator.com/item?id=47372672) - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+* [2026-03-14, 02:15:23](https://lobste.rs/s/twup3y/libadwaita_1_9) - [Libadwaita 1.9](https://nyaa.place/blog/libadwaita-1-9/)
+* [2026-03-14, 01:19:18](https://news.ycombinator.com/item?id=47372290) - [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 * [2026-03-14, 00:29:50](https://news.ycombinator.com/item?id=47371922) - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 * [2026-03-14, 00:09:35](https://lobste.rs/s/ub7a5k/ode_bzip) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker&apos;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
@@ -73,7 +83,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss)
 * [2026-03-13, 23:00:00](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instagram Discontinues End-To-End Encryption For DMs](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-* [2026-03-13, 22:28:04](https://news.ycombinator.com/item?id=47370822) - [Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
 * [2026-03-13, 22:00:00](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 21:00:00](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Don&apos;t Get Used To Cheap AI](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 20:40:29](https://lobste.rs/s/wbnpgw/conditional_impls) - [Conditional Impls](https://www.possiblerust.com/pattern/conditional-impls)
@@ -101,7 +110,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python&apos;s AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
-* [2026-03-13, 15:17:02](https://lobste.rs/s/ehohsb/plumbing_everyday_magic) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
 * [2026-03-13, 15:00:00](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facial Recognition Error Jails Innocent Grandmother For Months](https://yro.slashdot.org/story/26/03/13/0513251/facial-recognition-error-jails-innocent-grandmother-for-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels confirms MacBook Neo can run Windows in a virtual machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
@@ -121,7 +129,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
 * [2026-03-13, 07:00:00](https://yro.slashdot.org/story/26/03/12/236257/london-man-wore-smart-glasses-for-high-court-coaching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [London Man Wore Smart Glasses For High Court &apos;Coaching&apos;](https://yro.slashdot.org/story/26/03/12/236257/london-man-wore-smart-glasses-for-high-court-coaching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 06:37:56](https://lobste.rs/s/jn7yoi/best_darn_grid_shader_yet) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
-* [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
+* [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [2026-03-13, 04:54:39](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator) - [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html)
 * [2026-03-13, 04:12:55](https://lobste.rs/s/gpwpji/learn_haskell_two_weeks) - [Learn Haskell in Two Weeks](https://vitez.me/learn-haskell-in-two-weeks)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
@@ -131,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 03:09:23](https://lobste.rs/s/jow6ea/how_many_times_can_dvd_rw_be_rewritten) - [How Many Times Can a DVD±RW Be Rewritten?](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%c2%b1rw-be-rewritten-part-2-methodology-results/)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
 * [2026-03-12, 23:00:00](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome Is Finally Coming To ARM64 Linux](https://apple.slashdot.org/story/26/03/12/2234239/google-chrome-is-finally-coming-to-arm64-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-12, 22:00:00](https://slashdot.org/story/26/03/12/212212/adobe-ceo-to-step-down-after-18-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe CEO to Step Down After 18 Years](https://slashdot.org/story/26/03/12/212212/adobe-ceo-to-step-down-after-18-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
 * [2026-03-12, 18:39:00](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss) - [OpenAI&apos;s Massive Stargate Data Center Canceled as Firm Can&apos;t Reach Terms With Oracle](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss)
 * [2026-03-12, 16:43:27](https://lobste.rs/s/zyt5uz/this_is_not_computer_for_you) - [This Is Not The Computer For You](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
@@ -153,4 +160,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-10, 09:29:00](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss) - [In 1985 Maxell Built a Bunch of Life-Size Robots for its Bad Floppy Ad](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss)
 * [2026-03-10, 07:38:59](https://news.ycombinator.com/item?id=47320158) - [Using Thunderbird for RSS](https://rubenerd.com/using-thunderbird-for-rss/)
 * [2026-03-10, 04:47:00](https://soylentnews.org/article.pl?sid=26/03/08/157253&amp;from=rss) - [Sam Altman Wonders: Should the Government Nationalize AGI?](https://soylentnews.org/article.pl?sid=26/03/08/157253&amp;from=rss)
+* [2026-03-10, 04:21:32](https://news.ycombinator.com/item?id=47319071) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-10, 00:02:00](https://soylentnews.org/article.pl?sid=26/03/08/154256&amp;from=rss) - [Charter Gets FCC Permission to Buy Cox and Become Largest ISP in the US](https://soylentnews.org/article.pl?sid=26/03/08/154256&amp;from=rss)
