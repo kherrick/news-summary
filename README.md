@@ -1,32 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Developments
+## Technology and Development
 
-* [AI Agents Are Recruiting Humans To Observe The Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world) - An exploration of how AI agents are leveraging humans to gather data and interact with the offline environment, presenting a new dimension in human-AI cooperation. [Comments](https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe)
+* [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/) ([comments](https://lobste.rs/s/dempb5/emacs_vim_age_ai))
 
-* [ChatGPT, Other Chatbots Approved For Official Use In the Senate](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - ChatGPT and similar AI chatbots are now authorized for use in the US Senate for official tasks, marking a significant milestone in AI adoption. [Comments](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI Agents Are Recruiting Humans To Observe The Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world) ([comments](https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe))
 
-* [Meta Delays Rollout of New AI Model After Performance Concerns](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports indicate Meta hitting performance roadblocks has delayed its next AI model's launch. [Comments](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/) ([comments](https://news.ycombinator.com/item?id=47372672))
 
-## Cultural and Historical Discoveries
+* [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock))
 
-* [Two Long-Lost Episodes of 'Doctor Who' Found](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Two long-lost episodes of the classic TV series 'Doctor Who' have been uncovered, offering fans an opportunity to view rare footage believed to be lost. [Comments](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Rust Shined Over Python for My CLI Tool](https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/) ([comments](https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool))
 
-* [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o) - An independent report on the rediscovery of the historic 'Doctor Who' episodes adds details on this cultural milestone. [Comments](https://news.ycombinator.com/item?id=47360978)
+## Artificial Intelligence Innovations and Challenges
 
-## Digital Platforms and Cryptocurrency Trends
+* [ChatGPT, Other Chatbots Approved For Official Use In the Senate](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate))
 
-* [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) - Amazon's response to service interruptions includes a new policy requiring senior engineers' approval for AI system alterations. [Comments](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss)
+* [Meta Delays Rollout of New AI Model After Performance Concerns](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns))
 
-* [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A helium supply disruption in Qatar may jeopardize global semiconductor production. [Comments](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+* [Don't Get Used To Cheap AI](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai))
 
-* [Digg Relaunch Fails](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The revamp of Digg as a modern platform has reportedly not resonated with old and new users alike. [Comments](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Security and Privacy Concerns
 
-## Software and Engineering Innovations
+* [14,000 Routers Are Infected by Malware That&#39;s Highly Resistant to Takedowns](https://soylentnews.org/article.pl?sid=26/03/13/0421208&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/13/0421208))
 
-* [LEGO's 0.002mm Specification and Its Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss) - Insights into LEGO's meticulous manufacturing techniques and how they influence the industry. [Comments](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss)
+* [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/12/1111206))
 
-* [Conditional Impls](https://www.possiblerust.com/pattern/conditional-impls) - Developers discuss efficient conditional protocols implementations in Rust programming. [Comments](https://lobste.rs/s/wbnpgw/conditional_impls)
+* [Instagram Discontinues End-To-End Encryption For DMs](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms))
+
+## Historic and Cultural Milestones
+
+* [Two Long-Lost Episodes of &#39;Doctor Who&#39; Found](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found) ([comments](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found))
+
+* [Stanford researchers report first recording of a blue whale&#39;s heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate) ([comments](https://news.ycombinator.com/item?id=47368430))
+
+* [Backblaze Hosts 314 Trillion Digits of Pi Online](https://science.slashdot.org/story/26/03/13/182207/backblaze-hosts-314-trillion-digits-of-pi-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/13/182207/backblaze-hosts-314-trillion-digits-of-pi-online))
+
+## Systems and Development Innovations
+
+* [Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/) ([comments](https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts))
+
+* [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/) ([comments](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour))
+
+* [Bucketsquatting is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) ([comments](https://lobste.rs/s/bspgu4/bucketsquatting_is_finally_dead))
 
 ---
 
@@ -53,7 +69,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-14, 08:40:09](https://lobste.rs/s/dempb5/emacs_vim_age_ai) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
+* [2026-03-14, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/13/0421208&amp;from=rss) - [14,000 Routers Are Infected by Malware That&apos;s Highly Resistant to Takedowns](https://soylentnews.org/article.pl?sid=26/03/13/0421208&amp;from=rss)
 * [2026-03-14, 07:00:00](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two Long-Lost Episodes of &apos;Doctor Who&apos; Found](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-14, 05:51:57](https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts) - [Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/)
 * [2026-03-14, 05:04:36](https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe) - [AI Agents Are Recruiting Humans To Observe The Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world)
 * [2026-03-14, 04:15:41](https://lobste.rs/s/vo4mb2/plans_possibly_retire_big_endian_powerpc) - [Plans to possibly retire the big-endian PowerPC/POWER platforms](https://chimera-linux.org/news/2026/03/retiring-powerpc.html)
 * [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss)
@@ -64,14 +83,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-14, 00:09:35](https://lobste.rs/s/ub7a5k/ode_bzip) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker&apos;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-14, 00:02:37](https://news.ycombinator.com/item?id=47371692) - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
-* [2026-03-13, 23:15:22](https://news.ycombinator.com/item?id=47371284) - [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai)
 * [2026-03-13, 23:14:37](https://news.ycombinator.com/item?id=47371275) - [I beg you to follow Crocker&apos;s Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss)
 * [2026-03-13, 23:00:00](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instagram Discontinues End-To-End Encryption For DMs](https://it.slashdot.org/story/26/03/13/214229/instagram-discontinues-end-to-end-encryption-for-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 * [2026-03-13, 22:00:00](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qatar Helium Shutdown Puts Chip Supply Chain On a Two-Week Clock](https://tech.slashdot.org/story/26/03/13/190216/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 21:00:00](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Don&apos;t Get Used To Cheap AI](https://news.slashdot.org/story/26/03/13/1926255/dont-get-used-to-cheap-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-13, 20:40:29](https://lobste.rs/s/wbnpgw/conditional_impls) - [Conditional Impls](https://www.possiblerust.com/pattern/conditional-impls)
 * [2026-03-13, 20:39:22](https://lobste.rs/s/sbsszu/awash_revisionist_histories_about_apple) - [Awash in revisionist histories about Apple&apos;s web efforts, a look at the evidence](https://infrequently.org/2025/09/cupertinos-comforting-myths/)
 * [2026-03-13, 20:03:08](https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool) - [Rust Shined Over Python for My CLI Tool](https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/)
 * [2026-03-13, 20:00:00](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Digg Relaunch Fails](https://tech.slashdot.org/story/26/03/13/1953248/digg-relaunch-fails?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -87,11 +104,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 18:00:00](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Delays Rollout of New AI Model After Performance Concerns](https://tech.slashdot.org/story/26/03/13/1756229/meta-delays-rollout-of-new-ai-model-after-performance-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
-* [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
-* [2026-03-13, 17:19:11](https://lobste.rs/s/btf0gu/software_bonkers) - [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 * [2026-03-13, 17:19:01](https://news.ycombinator.com/item?id=47367129) - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [2026-03-13, 17:00:00](https://yro.slashdot.org/story/26/03/13/0524226/live-nation-execs-brag-about-robbing-ticket-buyers-in-slack-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Live Nation Execs Brag About &apos;Robbing&apos; Ticket Buyers In Slack DMs](https://yro.slashdot.org/story/26/03/13/0524226/live-nation-execs-brag-about-robbing-ticket-buyers-in-slack-dms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 16:40:42](https://news.ycombinator.com/item?id=47366666) - [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+* [2026-03-13, 16:13:30](https://news.ycombinator.com/item?id=47366374) - [The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
 * [2026-03-13, 16:00:00](https://apple.slashdot.org/story/26/03/13/051218/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s App Store In China Gets Lower 25% Commission To Appease Regulators](https://apple.slashdot.org/story/26/03/13/051218/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python&apos;s AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
@@ -112,11 +128,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
 * [2026-03-13, 07:00:00](https://yro.slashdot.org/story/26/03/12/236257/london-man-wore-smart-glasses-for-high-court-coaching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [London Man Wore Smart Glasses For High Court &apos;Coaching&apos;](https://yro.slashdot.org/story/26/03/12/236257/london-man-wore-smart-glasses-for-high-court-coaching?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-13, 06:37:56](https://lobste.rs/s/jn7yoi/best_darn_grid_shader_yet) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
-* [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [2026-03-13, 04:54:39](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator) - [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
 * [2026-03-13, 03:54:26](https://lobste.rs/s/x9znhg/plan_9_s_acme_un_terminal_text_based_guis) - [Plan 9&apos;s Acme: The Un-Terminal and Text-Based GUIs](https://www.danielmoch.com/posts/2025/01/acme/)
-* [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in terminal emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 * [2026-03-13, 03:30:00](https://slashdot.org/story/26/03/12/2049252/microsoft-backs-anthropic-to-halt-us-dods-supply-chain-risk-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Backs Anthropic To Halt US DOD&apos;s &apos;Supply-Chain Risk&apos; Designation](https://slashdot.org/story/26/03/12/2049252/microsoft-backs-anthropic-to-halt-us-dods-supply-chain-risk-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
@@ -125,6 +139,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss)
 * [2026-03-12, 10:29:45](https://news.ycombinator.com/item?id=47348733) - [Coding after coders: The end of computer programming as we know it?](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share)
 * [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss)
+* [2026-03-12, 08:22:32](https://news.ycombinator.com/item?id=47347920) - [The Isolation Trap: Erlang](https://causality.blog/essays/the-isolation-trap/)
 * [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss)
 * [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss)
 * [2026-03-11, 20:46:24](https://news.ycombinator.com/item?id=47341432) - [New &apos;negative light&apos; technology hides data transfers in plain sight](https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight)
@@ -135,8 +150,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-11, 14:03:00](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss) - [Trump Gets Data Center Companies to Pledge to Pay for Power Generation](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss)
 * [2026-03-11, 09:17:00](https://soylentnews.org/article.pl?sid=26/03/09/1451208&amp;from=rss) - [The Cybertruck is More Explosive Than the Ford Pinto](https://soylentnews.org/article.pl?sid=26/03/09/1451208&amp;from=rss)
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss)
+* [2026-03-11, 01:46:43](https://news.ycombinator.com/item?id=47330946) - [Recursive Problems Benefit from Recursive Solutions](https://jnkr.tech/blog/recursive-benefits-recursive)
 * [2026-03-10, 23:43:00](https://soylentnews.org/article.pl?sid=26/03/09/094202&amp;from=rss) - [Norwegian Gov&apos;t Consumer Watchdog Calls Out ‘Enshittification’ of Video Games, Connected Devices](https://soylentnews.org/article.pl?sid=26/03/09/094202&amp;from=rss)
 * [2026-03-10, 18:57:00](https://soylentnews.org/article.pl?sid=26/03/09/0859227&amp;from=rss) - [The Slow Death of the Power User](https://soylentnews.org/article.pl?sid=26/03/09/0859227&amp;from=rss)
+* [2026-03-10, 18:38:18](https://news.ycombinator.com/item?id=47327155) - [AEP (API Design Standard and Tooling Ecosystem)](https://aep.dev/)
 * [2026-03-10, 14:18:21](https://news.ycombinator.com/item?id=47323625) - [You gotta think outside the hypercube](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube)
 * [2026-03-10, 14:10:00](https://soylentnews.org/article.pl?sid=26/03/08/1511250&amp;from=rss) - [Indigenous Peoples in the Amazon and Australia Share Some Ancestry](https://soylentnews.org/article.pl?sid=26/03/08/1511250&amp;from=rss)
 * [2026-03-10, 09:29:00](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss) - [In 1985 Maxell Built a Bunch of Life-Size Robots for its Bad Floppy Ad](https://soylentnews.org/article.pl?sid=26/03/08/1510201&amp;from=rss)
