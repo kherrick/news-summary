@@ -1,44 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Computational Advancements
+## Advancements in Technology
 
-* [A most elegant TCP hole punching algorithm — Aul Ma's research facility](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) ([comments](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm))
+* [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/) [(comments)](https://news.ycombinator.com/item?id=47388141)
 
-* [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt) ([comments](https://lobste.rs/s/3n0um7/mass_produced_software_components))
+* [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt) [(comments)](https://lobste.rs/s/3n0um7/mass_produced_software_components)
 
-* [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/) ([comments](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs))
+* [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode) [(comments)](https://news.ycombinator.com/item?id=47387047)
 
-* [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) ([comments](https://news.ycombinator.com/item?id=47386441))
+* [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/) [(comments)](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window)
 
-* [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/) ([comments](https://lobste.rs/s/8wjbsa/optimization_ladder))
+* [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/) [(comments)](https://news.ycombinator.com/item?id=47386116)
 
-## AI, Machine Learning, and Cryptographic Developments
+## Artificial Intelligence
 
-* [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) ([comments](https://news.ycombinator.com/item?id=47386581))
+* [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss)
 
-* [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/) ([comments](https://news.ycombinator.com/item?id=47383059))
+* [Does Canada Need Nationalized, Public AI?](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html) ([comments](https://news.ycombinator.com/item?id=47386651))
+* [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html) [(comments)](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai)
 
-* [Does Canada Need Nationalized, Public AI?](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Science and Exploration
 
-* [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/14/0932244&from=rss))
+* [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss)
 
-* [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html) ([comments](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai))
+* [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/) [(comments)](https://news.ycombinator.com/item?id=47381011)
 
-## Sustainability and Environmental Topics
+* [How a Species Evolved Fast Enough to Save Itself from Extinction](https://news.slashdot.org/story/26/03/14/0343209/how-a-species-evolved-fast-enough-to-save-itself-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://news.slashdot.org/story/26/03/14/0343209/how-a-species-evolved-fast-enough-to-save-itself-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/) ([comments](https://news.ycombinator.com/item?id=47384352))
+## Environmental Innovation
 
-* [America's First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [America's First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Are U.S. Utilities Trying to Delay Easy-to-Use Solar 'Balcony' Panels?](https://news.slashdot.org/story/26/03/14/0711230/are-us-utilities-trying-to-delay-easy-to-use-solar-balcony-panels?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/14/0711230/are-us-utilities-trying-to-delay-easy-to-use-solar-balcony-panels?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Americans Are Quietly Installing DIY Solar to Fight Skyrocketing Energy Bills](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss) [(comments)](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss)
 
-## Innovative Engineering and Scientific Endeavors
+## Fascinating Developments
 
-* [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) ([comments](https://news.ycombinator.com/item?id=47385935))
+* [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o) [(comments)](https://news.ycombinator.com/item?id=47383804)
 
-* [StorageReview Sets New Pi Record: 314 Trillion Digits on a Dell PowerEdge R7725](https://www.storagereview.com/review/storagereview-sets-new-pi-record-314-trillion-digits-on-a-dell-poweredge-r7725) ([comments](https://lobste.rs/s/wcncyj/storagereview_sets_new_pi_record_314))
+* [Two Long-Lost Episodes of 'Doctor Who' Found](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [(comments)](https://entertainment.slashdot.org/story/26/03/14/0048239/two-long-lost-episodes-of-doctor-who-found?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -65,14 +65,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm — Aul Ma&apos;s research facility](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+* [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
+* [2026-03-15, 14:56:45](https://news.ycombinator.com/item?id=47387997) - [The Official DR DOS Website](https://www.dr-dos.com/)
+* [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss)
+* [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
+* [2026-03-15, 13:55:20](https://lobste.rs/s/50tanv/snail_mail_sign_ups) - [Snail Mail Sign-Ups](https://btxx.org/posts/snail-mail-signups/)
+* [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+* [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
 * [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components) - [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt)
+* [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
+* [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
+* [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 11:42:01](https://news.ycombinator.com/item?id=47386441) - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
 * [2026-03-15, 11:06:45](https://news.ycombinator.com/item?id=47386246) - [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
-* [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [2026-03-15, 10:34:00](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Canada Need Nationalized, Public AI?](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
@@ -91,10 +100,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-15, 03:29:17](https://news.ycombinator.com/item?id=47384032) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 02:48:33](https://news.ycombinator.com/item?id=47383804) - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
-* [2026-03-15, 02:21:53](https://lobste.rs/s/wcncyj/storagereview_sets_new_pi_record_314) - [StorageReview Sets New Pi Record: 314 Trillion Digits on a Dell PowerEdge R7725](https://www.storagereview.com/review/storagereview-sets-new-pi-record-314-trillion-digits-on-a-dell-poweredge-r7725)
 * [2026-03-15, 01:34:00](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
-* [2026-03-15, 00:51:55](https://news.ycombinator.com/item?id=47383059) - [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
 * [2026-03-15, 00:15:10](https://news.ycombinator.com/item?id=47382791) - [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-14, 23:34:00](https://games.slashdot.org/story/26/03/14/2326222/how-a-raspberry-pi-microcontroller-saved-the-super-nintendos-infamously-inferior-version-of-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Raspberry Pi Microcontroller Saved the Super Nintendo&apos;s Infamously Inferior Version Of &apos;Doom&apos;](https://games.slashdot.org/story/26/03/14/2326222/how-a-raspberry-pi-microcontroller-saved-the-super-nintendos-infamously-inferior-version-of-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-14, 23:22:39](https://news.ycombinator.com/item?id=47382398) - [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
@@ -106,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_0_2) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 20:49:10](https://news.ycombinator.com/item?id=47381011) - [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
 * [2026-03-14, 20:34:00](https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gaming Site Editor Jailbreaks an Amazon Echo Show](https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-14, 19:35:40](https://news.ycombinator.com/item?id=47380295) - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
 * [2026-03-14, 19:34:00](https://apple.slashdot.org/story/26/03/14/1818213/should-keycaps-use-text-or-glyphs-for-delete-return-tab-caps-lock-and-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Keycaps Use Text or Glyphs for Delete, Return, Tab, Caps Lock, and Shift?](https://apple.slashdot.org/story/26/03/14/1818213/should-keycaps-use-text-or-glyphs-for-delete-return-tab-caps-lock-and-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-14, 19:32:13](https://news.ycombinator.com/item?id=47380270) - [MCP is dead; long live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
 * [2026-03-14, 18:34:00](https://linux.slashdot.org/story/26/03/14/085223/system76-ceo-sees-real-possibility-colorados-age-verification-bill-excludes-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [System76 CEO Sees &apos;Real Possibility&apos; Colorado&apos;s Age-Verification Bill Excludes Open-Source](https://linux.slashdot.org/story/26/03/14/085223/system76-ceo-sees-real-possibility-colorados-age-verification-bill-excludes-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -118,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-14, 17:34:00](https://tech.slashdot.org/story/26/03/14/1733200/us-set-to-receive-10-billion-fee-for-brokering-tiktok-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Set To Receive $10 Billion Fee For Brokering TikTok Deal](https://tech.slashdot.org/story/26/03/14/1733200/us-set-to-receive-10-billion-fee-for-brokering-tiktok-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-14, 17:25:17](https://lobste.rs/s/ypes5v/thoughts_on_generative_i) - [Thoughts on generative A.I](https://kghose.github.io/generative-ai/)
 * [2026-03-14, 16:34:00](https://news.slashdot.org/story/26/03/14/0343209/how-a-species-evolved-fast-enough-to-save-itself-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Species Evolved Fast Enough to Save Itself from Extinction](https://news.slashdot.org/story/26/03/14/0343209/how-a-species-evolved-fast-enough-to-save-itself-from-extinction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-14, 16:01:23](https://news.ycombinator.com/item?id=47377998) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 15:57:25](https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh) - [Why Mathematica does not simplify Sinh[ArcCosh[x]]](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-14, 15:34:00](https://it.slashdot.org/story/26/03/14/0539247/ais-productivity-boost-just-16-minutes-per-week-claims-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI&apos;s Productivity Boost?  Just 16 Minutes Per Week, Claims Study](https://it.slashdot.org/story/26/03/14/0539247/ais-productivity-boost-just-16-minutes-per-week-claims-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-14, 14:34:00](https://science.slashdot.org/story/26/03/14/033215/us-state-bans-on-lab-grown-meats-challenged-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [U.S. State Bans on Lab-Grown Meats Challenged in Court](https://science.slashdot.org/story/26/03/14/033215/us-state-bans-on-lab-grown-meats-challenged-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -135,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss)
 * [2026-03-13, 18:19:00](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss) - [Online Intelligence Dashboards (Aka, More AI Slop?)](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss)
 * [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss) - [LEGO&apos;s 0.002mm Specification and It&apos;s Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss)
-* [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who&apos;s behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
@@ -148,12 +152,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-11, 23:36:00](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss) - [Iranian Drone Strikes Hit Three AWS Data Centers in the UAE and Bahrain](https://soylentnews.org/article.pl?sid=26/03/11/0138245&amp;from=rss)
 * [2026-03-11, 18:54:00](https://soylentnews.org/article.pl?sid=26/03/11/0441214&amp;from=rss) - [An Unexpected Discovery Just Uncovered Metals Tech Companies Are Desperate for](https://soylentnews.org/article.pl?sid=26/03/11/0441214&amp;from=rss)
 * [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [Centuries of selective breeding turned wild cabbage into different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
-* [2026-03-11, 15:42:26](https://news.ycombinator.com/item?id=47337087) - [A look inside Dialector, filmmaker Chris Marker&apos;s chatbot from 1988](https://kubicki.org/letters/the-festival-of-the-machines/)
-* [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 14:03:00](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss) - [Trump Gets Data Center Companies to Pledge to Pay for Power Generation](https://soylentnews.org/article.pl?sid=26/03/09/1454227&amp;from=rss)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 12:24:09](https://news.ycombinator.com/item?id=47334668) - [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/)
-* [2026-03-11, 09:19:30](https://news.ycombinator.com/item?id=47333356) - [Discovering Little Worlds (2020)](https://dmitrybrant.com/2020/08/01/discovering-little-worlds)
 * [2026-03-11, 09:17:00](https://soylentnews.org/article.pl?sid=26/03/09/1451208&amp;from=rss) - [The Cybertruck is More Explosive Than the Ford Pinto](https://soylentnews.org/article.pl?sid=26/03/09/1451208&amp;from=rss)
-* [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 * [2026-03-11, 04:32:00](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss) - [Ancient Clay Hidden Under Japan Caused Rupture That Triggered the 2011 Earthquake and Tsunami](https://soylentnews.org/article.pl?sid=26/03/09/096203&amp;from=rss)
