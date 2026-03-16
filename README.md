@@ -1,62 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming and Software Development
+## Technology and Open Source Advancements
 
-* [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf) - A deep dive into the concept of undefined behavior in the C programming language.
+* [nCPU: a CPU implemented using neural networks, runs completely on GPU](https://github.com/robertcprice/nCPU) ([comments](https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural))
 
-* [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html) - An informative collection and review of useful libraries for Haskell developers.
+* [How to get money from the government for your open source project](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) ([comments](https://lobste.rs/s/tqjosq/how_get_money_from_government_for_your))
 
-* [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227) - A new terminal-based user interface client for PostgreSQL is unveiled.
+* [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227) ([comments](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client))
 
-* [A Sane Directory Structure for Software Projects](https://trop.in/blog/a-sane-directory-structure-for-software-projects) - Practical recommendations for organizing the directory structure in software projects.
+## Artificial Intelligence and Machine Learning
 
-* [Codegen is not productivity](https://www.antifound.com/posts/codegen-is-not-productivity/) - A thought-provoking piece on the role and impact of code generation tools in software development.
+* [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) ([comments](https://lobste.rs/s/q7izua/llm_architecture_gallery))
 
-## AI and Machine Learning
+* [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) ([comments](https://news.ycombinator.com/item?id=47394022))
 
-* [FSF Threatens Anthropic Over Infringed Copyright: Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Free Software Foundation urges Anthropic to open its AI models under free licenses.
+* [FSF Threatens Anthropic Over Infringed Copyright: Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - A developer's insights into leveraging language models in their coding practices.
+## Legislative and Ethical Developments
 
-* [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) - Highlights key architectural designs in large language models.
+* [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io) ([comments](https://news.ycombinator.com/item?id=47394264))
 
-* [New Study Raises Concerns About AI Chatbots Fueling Delusional Thinking](https://slashdot.org/story/26/03/15/0436200/new-study-raises-concerns-about-ai-chatbots-fueling-delusional-thinking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study exploring the potential risks of chatbot-induced cognitive biases.
+* [China's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) ([comments](https://news.ycombinator.com/item?id=47392084))
 
-* [Glassworm is back: A new wave of invisible Unicode attacks hits repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode) - Exposes the reemergence of harmful Unicode attacks targeting source code repositories.
+## Innovations in Systems and Software Development
 
-## Privacy and Cybersecurity
+* [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html) ([comments](https://lobste.rs/s/zqorsc/good_haskell_libraries))
 
-* [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io) - Review of new proposed legislation aimed at further protecting individual privacy rights.
+* [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) ([comments](https://lobste.rs/s/bzllmf/why_i_love_freebsd))
 
-* [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - Analysis of Canada's controversial surveillance legislation.
+* [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) ([comments](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm))
 
-* [SpiceCrypt: A Python library for decrypting LTspice encrypted model files](https://github.com/jtsylve/spice-crypt) - Tool for decrypting encrypted models in LTspice, raising questions about data security.
+## Space, Defense, and Infrastructure
 
-* [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html) - A retrospective on the impact and decline of Lotus Notes, long a staple in business email and database applications.
+* [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/) ([comments](https://news.ycombinator.com/item?id=47396264))
 
-## Science and Technology Advancements
+* [Iran Conflict Delays Meta's 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss))
 
-* [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/) - The promising role of cannabinoids in combating Alzheimer's disease.
-
-* [Uber Co-founder Travis Kalanick's Newest Venture? 'Gainfully Employed Robots'](https://hardware.slashdot.org/story/26/03/15/1750229/uber-co-founder-travis-kalanicks-newest-venture-gainfully-employed-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring the future of employment and robotics.
-
-## Energy and Environment
-
-* [Americans Are Quietly Installing DIY Solar to Fight Skyrocketing Energy Bills](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss) - A growing trend among Americans: installing solar panels at home to curb energy costs.
-
-* [America's First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A milestone achievement in the United States' renewable energy efforts.
-
-* [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The UK commits heavily to developing nuclear fusion technology as a potential energy solution.
-
-## Unusual and Intriguing
-
-* [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) - A fascinating look at the intricacies of quotation marks across various encoding systems.
-
-* [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/) - Combining data center aesthetics with innovative agricultural practices.
-
-* [The 49MB web page](https://thatshubham.com/blog/news-audit) - Highlighting an extreme example of bloated web design and the need for optimization.
-
-* [Should Banksy Remain Anonymous?](https://news.slashdot.org/story/26/03/15/0823246/should-banksy-remain-anonymous?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Debate surrounding the famous street artist's anonymity.
+* [America's First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -83,6 +63,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_get_money_from_government_for_your) - [How to get money from the government for your open source project](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
+* [2026-03-16, 08:55:00](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss) - [Iran Conflict Delays Meta&apos;s 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss)
+* [2026-03-16, 08:17:40](https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural) - [nCPU: a CPU implemented using neural networks, runs completely on GPU](https://github.com/robertcprice/nCPU)
+* [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
+* [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
 * [2026-03-16, 07:34:00](https://news.slashdot.org/story/26/03/16/0255231/android-epic-and-whats-really-behind-googles-existential-threat-to-f-droid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Android, Epic, and What&apos;s Really Behind Google&apos;s &apos;Existential&apos; Threat to F-Droid](https://news.slashdot.org/story/26/03/16/0255231/android-epic-and-whats-really-behind-googles-existential-threat-to-f-droid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
@@ -96,14 +81,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 01:58:56](https://news.ycombinator.com/item?id=47394264) - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 * [2026-03-16, 01:34:00](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 01:24:09](https://news.ycombinator.com/item?id=47394022) - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-* [2026-03-16, 01:21:39](https://news.ycombinator.com/item?id=47394004) - [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-* [2026-03-16, 01:07:47](https://news.ycombinator.com/item?id=47393908) - [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
-* [2026-03-16, 00:51:18](https://news.ycombinator.com/item?id=47393805) - [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
 * [2026-03-16, 00:22:48](https://news.ycombinator.com/item?id=47393619) - [Cannabinoids remove plaque-forming Alzheimer&apos;s proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
 * [2026-03-15, 23:51:26](https://news.ycombinator.com/item?id=47393388) - [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss)
 * [2026-03-15, 22:51:00](https://tech.slashdot.org/story/26/03/15/224224/2026s-ev-sales-hit-11m---but-europe-surges-while-north-america-slides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2026&apos;s EV Sales Hit 1.1M - But Europe Surges While North America Slides](https://tech.slashdot.org/story/26/03/15/224224/2026s-ev-sales-hit-11m---but-europe-surges-while-north-america-slides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-15, 22:16:09](https://news.ycombinator.com/item?id=47392550) - [Nasdaq&apos;s Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+* [2026-03-15, 22:15:50](https://news.ycombinator.com/item?id=47392547) - [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
 * [2026-03-15, 21:51:00](https://ask.slashdot.org/story/26/03/15/2124224/ask-slashdot-whats-the-best-all-purpose-risc-v-system-on-a-chip-family?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot:  What&apos;s the Best All-Purpose RISC-V System on a Chip Family?](https://ask.slashdot.org/story/26/03/15/2124224/ask-slashdot-whats-the-best-all-purpose-risc-v-system-on-a-chip-family?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
@@ -135,21 +117,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [2026-03-15, 10:34:00](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Canada Need Nationalized, Public AI?](https://news.slashdot.org/story/26/03/15/0647257/does-canada-need-nationalized-public-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 * [2026-03-15, 09:20:00](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss) - [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss)
+* [2026-03-15, 09:07:52](https://news.ycombinator.com/item?id=47385579) - [Six ingenious ways how Canon DSLRs used to illuminate their autofocus points](https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html)
 * [2026-03-15, 09:06:35](https://news.ycombinator.com/item?id=47385576) - [The emergence of print-on-demand Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
 * [2026-03-15, 07:34:00](https://yro.slashdot.org/story/26/03/15/0512246/new-freenet-network-launches-along-with-river-group-chat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Freenet Network Launches, Along With &apos;River&apos; Group Chat](https://yro.slashdot.org/story/26/03/15/0512246/new-freenet-network-launches-along-with-river-group-chat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 07:11:32](https://news.ycombinator.com/item?id=47385011) - [SpiceCrypt: A Python library for decrypting LTspice encrypted model files](https://github.com/jtsylve/spice-crypt)
 * [2026-03-15, 07:11:12](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai) - [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-15, 05:19:49](https://lobste.rs/s/nc3c14/changes_openttd_distribution_on_steam) - [Changes to OpenTTD distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
-* [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
 * [2026-03-15, 04:37:00](https://soylentnews.org/article.pl?sid=26/03/14/0928215&amp;from=rss) - [Why Are Some Animal and Human Signals Honest, While Others Are Deceptive?](https://soylentnews.org/article.pl?sid=26/03/14/0928215&amp;from=rss)
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 03:34:00](https://developers.slashdot.org/story/26/03/14/2137238/will-ai-bring-the-end-of-computer-programming-as-we-know-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will AI Bring &apos;the End of Computer Programming As We Know It&apos;?](https://developers.slashdot.org/story/26/03/14/2137238/will-ai-bring-the-end-of-computer-programming-as-we-know-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 01:34:00](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s First Large-Scale Offshore Wind Project Finally Finishes Construction](https://news.slashdot.org/story/26/03/14/2225243/americas-first-large-scale-offshore-wind-project-finally-finishes-construction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 * [2026-03-14, 22:52:00](https://soylentnews.org/article.pl?sid=26/03/13/0443231&amp;from=rss) - [A 1,300-Pound NASA Satellite Just Made a Fiery Return to Earth](https://soylentnews.org/article.pl?sid=26/03/13/0443231&amp;from=rss)
 * [2026-03-14, 18:06:00](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss) - [Americans Are Quietly Installing DIY Solar to Fight Skyrocketing Energy Bills](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss)
 * [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
@@ -163,11 +143,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don&apos;t use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
-* [2026-03-12, 20:41:51](https://news.ycombinator.com/item?id=47356782) - [A Plain Anabaptist Story: The Hutterites](https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites)
 * [2026-03-12, 18:39:00](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss) - [OpenAI&apos;s Massive Stargate Data Center Canceled as Firm Can&apos;t Reach Terms With Oracle](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss)
 * [2026-03-12, 14:10:56](https://news.ycombinator.com/item?id=47350763) - [Bandit: A 32bit baremetal computer that runs Color Forth [video]](https://www.youtube.com/watch?v=HK0uAKkt0AE)
 * [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss)
 * [2026-03-12, 13:04:35](https://news.ycombinator.com/item?id=47350016) - [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/)
 * [2026-03-12, 12:11:20](https://news.ycombinator.com/item?id=47349499) - [How far can you go with IX Route Servers only?](https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers)
+* [2026-03-12, 10:19:14](https://news.ycombinator.com/item?id=47348652) - [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/)
 * [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss)
 * [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss)
