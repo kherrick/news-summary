@@ -1,52 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Developments and Innovations
+## Innovations and Technology Development
 
-* [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
+* [Oxyde ORM - Django-like Pydantic-driven Async ORM](https://oxyde.fatalyst.dev/0.5/) ([article](https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven), [comments](https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven))
 
-* [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
+* [Lightweight Linux flow data collector](https://github.com/stepbrobd/rfm) ([article](https://lobste.rs/s/b7ufpg/lightweight_linux_flow_data_collector), [comments](https://lobste.rs/s/b7ufpg/lightweight_linux_flow_data_collector))
 
-* [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+* [typenix: Full typing for Nix based on TypeScript](https://github.com/ryanrasti/typenix) ([article](https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on), [comments](https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on))
 
-* [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8)
+* [Modeling Token Buckets in PlusCal and TLA+](http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html) ([article](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla), [comments](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla))
 
-* [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+* [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) ([comments](https://news.ycombinator.com/item?id=47402640))
 
-## Cultural and Legal Stories
+* [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) ([comments](https://news.ycombinator.com/item?id=47404796))
 
-* [Polymarket Gamblers Threaten To Kill Journalist Over Iran Missile Story](https://news.slashdot.org/story/26/03/16/210211/polymarket-gamblers-threaten-to-kill-journalist-over-iran-missile-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Amazon Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/12/1111206&from=rss))
 
-* [Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Artificial Intelligence and Machine Learning
 
-* [Court Rules TCL&apos;s &apos;QLED&apos; TVs Aren&apos;t Truly QLED](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai) ([comments](https://news.ycombinator.com/item?id=47404074))
 
-## Science and Infrastructure
+* [Meta Signs $27 Billion AI Infrastructure Deal With Nebius](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Sodium-Ion Battery Tested for Grid-Scale Storage in Wisconsin](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8) ([article](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional), [comments](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional))
 
-* [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Language Model Teams as Distributed Systems](https://arxiv.org/abs/2603.12229) ([comments](https://news.ycombinator.com/item?id=47401901))
 
-## AI and Open Source
+* [Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster](https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster) ([article](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s), [comments](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s))
 
-* [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
+## Open Source Software and Projects
 
-* [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
+* [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) ([article](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source), [comments](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source))
 
-* [Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://arxiv.org/abs/2511.04427)
+* [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227) ([article](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client), [comments](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client))
 
-## Social and World Events
+* [Avian Physics 0.6](https://joonaa.dev/blog/12/avian-0-6) ([article](https://lobste.rs/s/p6ihyc/avian_physics_0_6), [comments](https://lobste.rs/s/p6ihyc/avian_physics_0_6))
 
-* [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
+## Legal and Ethical Technology Issues
 
-* [Iran Conflict Delays Meta&apos;s 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss)
+* [Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
+* [Court Rules TCL's 'QLED' TVs Aren't Truly QLED](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Market Trends and Business
+* [FSF Threatens Anthropic Over Infringed Copyright: Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Meta Signs $27 Billion AI Infrastructure Deal With Nebius](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Infrastructure and Hardware Innovations
 
-* [Data Centers Overtake Offices In US Construction-Spending Shift](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Sodium-Ion Battery Tested for Grid-Scale Storage in Wisconsin](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [Data Centers Overtake Offices In US Construction-Spending Shift](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -73,16 +77,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-17, 00:40:32](https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven) - [Oxyde ORM - Django-like Pydantic-driven Async ORM](https://oxyde.fatalyst.dev/0.5/)
+* [2026-03-17, 00:18:22](https://lobste.rs/s/b7ufpg/lightweight_linux_flow_data_collector) - [Lightweight Linux flow data collector](https://github.com/stepbrobd/rfm)
+* [2026-03-17, 00:02:35](https://news.ycombinator.com/item?id=47406779) - [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
+* [2026-03-16, 23:36:43](https://news.ycombinator.com/item?id=47406569) - [Show HN: Trackm, a personal finance web app](https://trackm.net)
+* [2026-03-16, 23:09:00](https://soylentnews.org/article.pl?sid=26/03/15/1330233&amp;from=rss) - [11-Month Old Russian Outfit Claims It Has Developed 16-Core and 32-Core Processors, Flaunts Cyrillic](https://soylentnews.org/article.pl?sid=26/03/15/1330233&amp;from=rss)
+* [2026-03-16, 23:00:00](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Pokemon Go&apos; Players Unknowingly Trained Delivery Robots With 30 Billion Images](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-16, 22:49:25](https://lobste.rs/s/p6ihyc/avian_physics_0_6) - [Avian Physics 0.6](https://joonaa.dev/blog/12/avian-0-6)
+* [2026-03-16, 22:16:34](https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on) - [typenix: Full typing for Nix based on TypeScript](https://github.com/ryanrasti/typenix)
+* [2026-03-16, 22:00:00](https://news.slashdot.org/story/26/03/16/2116252/nvidia-bets-on-openclaw-but-adds-a-security-layer-via-nemoclaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Bets On OpenClaw, But Adds a Security Layer Via NemoClaw](https://news.slashdot.org/story/26/03/16/2116252/nvidia-bets-on-openclaw-but-adds-a-security-layer-via-nemoclaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
 * [2026-03-16, 21:01:10](https://lobste.rs/s/1br6fz/free_airport_ride_exchange_platform) - [Free airport ride exchange platform](https://airportswap.com/)
 * [2026-03-16, 21:00:06](https://news.ycombinator.com/item?id=47404801) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
 * [2026-03-16, 21:00:00](https://news.slashdot.org/story/26/03/16/210211/polymarket-gamblers-threaten-to-kill-journalist-over-iran-missile-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Polymarket Gamblers Threaten To Kill Journalist Over Iran Missile Story](https://news.slashdot.org/story/26/03/16/210211/polymarket-gamblers-threaten-to-kill-journalist-over-iran-missile-story?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
+* [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
 * [2026-03-16, 20:04:10](https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 * [2026-03-16, 20:00:00](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 19:00:00](https://entertainment.slashdot.org/story/26/03/16/1751207/apple-launches-airpods-max-2-with-better-anc-live-translation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Launches AirPods Max 2 With Better ANC, Live Translation](https://entertainment.slashdot.org/story/26/03/16/1751207/apple-launches-airpods-max-2-with-better-anc-live-translation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 * [2026-03-16, 18:33:47](https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes) - [When perfection is table stakes](https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/)
 * [2026-03-16, 18:26:00](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss) - [Google Fiber Will be Sold to Private Equity Firm and Merge With Cable Company](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
@@ -91,28 +103,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum)
-* [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
-* [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://arxiv.org/abs/2511.04427)
 * [2026-03-16, 17:07:11](https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released) - [Gleam v1.15.0 released](https://gleam.run/news/upgrading-hex-security/)
 * [2026-03-16, 17:00:00](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Data Centers Overtake Offices In US Construction-Spending Shift](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-16, 16:28:54](https://lobste.rs/s/acbfik/clangd_for_cuda_device_code) - [clangd for CUDA device code](https://docs.scale-lang.com/stable/manual/tutorials/editors/editors/)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 * [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
 * [2026-03-16, 16:04:48](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional) - [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8)
+* [2026-03-16, 16:02:25](https://lobste.rs/s/gahsrj/hacking_xbox_one) - [Hacking the Xbox One](https://www.youtube.com/watch?v=FTFn4UZsA5U)
 * [2026-03-16, 16:00:00](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Court Rules TCL&apos;s &apos;QLED&apos; TVs Aren&apos;t Truly QLED](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 15:59:26](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s) - [Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster](https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster)
-* [2026-03-16, 15:56:31](https://lobste.rs/s/po4poj/even_faster_asin_was_staring_right_at_me) - [Even Faster asin() Was Staring Right At Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 * [2026-03-16, 15:16:16](https://lobste.rs/s/jgd1il/give_django_your_time_money_not_your) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer](https://karpathy.ai/jobs/)
-* [2026-03-16, 15:05:11](https://lobste.rs/s/4l6adm/two_worlds_programming_why_developers) - [The two worlds of programming: why developers who make the same observations about LLMs come to opposite conclusions](https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/)
 * [2026-03-16, 15:02:32](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu) - [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
 * [2026-03-16, 15:00:00](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Animated &apos;Firefly&apos; Reboot In Development With Nathan Fillion](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss) - [Why the World&apos;s Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss)
 * [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 12:50:33](https://lobste.rs/s/tskynu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tskynu/what_are_you_doing_this_week)
-* [2026-03-16, 12:25:18](https://news.ycombinator.com/item?id=47398023) - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
 * [2026-03-16, 12:05:08](https://news.ycombinator.com/item?id=47397857) - [Lazycut: A simple terminal video trimmer using FFmpeg](https://github.com/emin-ozata/lazycut)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
 * [2026-03-16, 11:57:33](https://news.ycombinator.com/item?id=47397797) - [MoD sources warn Palantir role at heart of government is threat to UK security](https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets)
@@ -129,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 * [2026-03-16, 05:43:00](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FSF Threatens Anthropic Over Infringed Copyright:  Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
-* [2026-03-16, 04:07:43](https://lobste.rs/s/q7izua/llm_architecture_gallery) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss)
 * [2026-03-16, 01:34:00](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss)
@@ -137,9 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-15, 22:10:47](https://news.ycombinator.com/item?id=47392510) - [Cert Authorities Check for DNSSEC from Today](https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today)
 * [2026-03-15, 21:51:00](https://ask.slashdot.org/story/26/03/15/2124224/ask-slashdot-whats-the-best-all-purpose-risc-v-system-on-a-chip-family?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ask Slashdot:  What&apos;s the Best All-Purpose RISC-V System on a Chip Family?](https://ask.slashdot.org/story/26/03/15/2124224/ask-slashdot-whats-the-best-all-purpose-risc-v-system-on-a-chip-family?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
-* [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
-* [2026-03-15, 20:51:00](https://linux.slashdot.org/story/26/03/15/2048241/cachyos-dethrones-arch-as-protondbs-top-linux-gamer-desktop-distro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CachyOS Dethrones Arch As ProtonDB&apos;s Top Linux Gamer Desktop Distro](https://linux.slashdot.org/story/26/03/15/2048241/cachyos-dethrones-arch-as-protondbs-top-linux-gamer-desktop-distro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-15, 19:49:00](https://it.slashdot.org/story/26/03/15/1942232/how-one-company-finally-exposed-north-koreas-massive-remote-workers-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How One Company Finally Exposed North Korea&apos;s Massive Remote Workers Scam](https://it.slashdot.org/story/26/03/15/1942232/how-one-company-finally-exposed-north-koreas-massive-remote-workers-scam?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 18:51:00](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss) - [AI Medical Advice - Both Sides](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss)
 * [2026-03-15, 18:32:27](https://news.ycombinator.com/item?id=47390345) - [The bureaucracy blocking the chance at a cure](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
 * [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss)
@@ -154,15 +157,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-14, 03:51:00](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss) - [As Frank Yeary Retires From Intel, the Company Picks an Engineer to Chair its Board](https://soylentnews.org/article.pl?sid=26/03/13/0413211&amp;from=rss)
 * [2026-03-13, 23:02:00](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss) - [After Outages, Amazon to Make Senior Engineers Sign Off on AI-Assisted Changes](https://soylentnews.org/article.pl?sid=26/03/12/1111206&amp;from=rss)
 * [2026-03-13, 18:19:00](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss) - [Online Intelligence Dashboards (Aka, More AI Slop?)](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss)
+* [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
 * [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss) - [LEGO&apos;s 0.002mm Specification and It&apos;s Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don&apos;t use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
-* [2026-03-12, 23:23:00](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss) - [Is Low Fertility Really an Economic Threat?](https://soylentnews.org/article.pl?sid=26/03/11/164207&amp;from=rss)
-* [2026-03-12, 18:39:00](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss) - [OpenAI&apos;s Massive Stargate Data Center Canceled as Firm Can&apos;t Reach Terms With Oracle](https://soylentnews.org/article.pl?sid=26/03/11/163209&amp;from=rss)
-* [2026-03-12, 13:57:00](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss) - [Digital Targeting Creeps Out Customers](https://soylentnews.org/article.pl?sid=26/03/11/1558207&amp;from=rss)
-* [2026-03-12, 10:19:14](https://news.ycombinator.com/item?id=47348652) - [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/)
-* [2026-03-12, 09:11:00](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss) - [Why the US is Using a Cheap Iranian Drone Against the Country Itself](https://soylentnews.org/article.pl?sid=26/03/11/0450209&amp;from=rss)
-* [2026-03-12, 04:23:00](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss) - [Are Consumers Doomed to Pay More for Electricity Due to Data Center Buildouts?](https://soylentnews.org/article.pl?sid=26/03/11/0135252&amp;from=rss)
-* [2026-03-12, 00:53:12](https://news.ycombinator.com/item?id=47344821) - [On The Need For Understanding](https://blog.information-superhighway.net/on-the-need-for-understanding)
+* [2026-03-13, 00:02:00](https://news.ycombinator.com/item?id=47359010) - [In space, no one can hear you kernel panic](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/)
