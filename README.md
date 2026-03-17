@@ -1,62 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations
+## Technological Innovations and Environmental Impact
 
-* [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak) ([comments](https://news.ycombinator.com/item?id=47408703))
+* [Hydropower Line From Quebec Could Power a Million NYC Homes](https://hardware.slashdot.org/story/26/03/16/2212248/hydropower-line-from-quebec-could-power-a-million-nyc-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A project to provide power to NYC homes through a hydropower line from Quebec.
 
-* [Zenclora OS](https://zenclora.org/) ([comments](https://news.ycombinator.com/item?id=47408497))
+* [Sodium-Ion Battery Tested for Grid-Scale Storage in Wisconsin](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Testing the viability of sodium-ion batteries for large-scale energy storage.
 
-* [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project) ([comments](https://news.ycombinator.com/item?id=47408441))
+* [Americans Are Quietly Installing DIY Solar to Fight Skyrocketing Energy Bills](https://soylentnews.org/article.pl?sid=26/03/13/0438246&amp;from=rss) - Citizens are turning to do-it-yourself solar projects to combat rising energy costs.
 
-* [New 'Vibe Coded' AI Translation Tool Splits the Video Game Preservation Community](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Iran Conflict Delays Meta's 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss) - Geopolitical conflicts hinder technological advancements, such as undersea cable projects.
 
-* [Apple Launches AirPods Max 2 With Better ANC, Live Translation](https://entertainment.slashdot.org/story/26/03/16/1751207/apple-launches-airpods-max-2-with-better-anc-live-translation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/03/16/1751207/apple-launches-airpods-max-2-with-better-anc-live-translation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Software Development and Engineering
 
-* [Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster](https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster) ([comments](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s))
+* [The Silent Struggle: Anxiety in Software Development](https://caio.ca/blog/anxiety-software-development.html) - An introspective piece on dealing with anxiety in the workspace for software developers.
 
-## AI and Machine Learning
+* [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/) - Exploring different strategies to optimize how memory is allocated in software systems.
 
-* [Meta Signs $27 Billion AI Infrastructure Deal With Nebius](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2) - A deep dive into the reliability of MariaDB Galera Cluster under complex testing conditions.
 
-* [Language model teams as distributed systems](https://arxiv.org/abs/2603.12229) ([comments](https://news.ycombinator.com/item?id=47401901))
+* [building a software protection system from first principles](https://seg6.space/posts/software-protection-system/) - A guide on constructing robust software protection mechanisms.
 
-* [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8) ([comments](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional))
+* [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/) - Techniques for tackling code review for sizable revisions in software projects.
 
-* [FSF Threatens Anthropic Over Infringed Copyright: Share Your LLMs Freely](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence and Its Implications
 
-## Database and Development Tools
+* [New 'Vibe Coded' AI Translation Tool Splits the Video Game Preservation Community](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI tool raises questions on its role in preserving video games.
 
-* [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2) ([comments-1](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2), [comments-2](https://news.ycombinator.com/item?id=47408360))
+* [Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major lawsuit concerning copyright and AI-generated content.
 
-* [Gleam v1.15.0 released](https://gleam.run/news/upgrading-hex-security/) ([comments](https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released))
+* [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8) - A critique on how some leaders may overestimate the capabilities of AI.
 
-* [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227) ([comments](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client))
+* [Language model teams as distributed systems](https://arxiv.org/abs/2603.12229) - A research paper analyzing language models through the lens of distributed systems.
 
-* [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/) ([comments](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu))
+## Gaming and Entertainment
 
-## Policy and Legal Developments
+* [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project) - The recreation of the classic Monkey Island game for Commodore 64.
 
-* [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss))
+* [Animated 'Firefly' Reboot In Development With Nathan Fillion](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Revival plans for the beloved cult hit 'Firefly', now in animated form.
 
-* [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) ([comments](https://news.ycombinator.com/item?id=47406779))
+## Society and Policy
 
-* [Encyclopedia Britannica Sues OpenAI For Copyright, Trademark Infringement](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/03/16/182217/encyclopedia-britannica-sues-openai-for-copyright-trademark-infringement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) - Proposed changes may significantly impact corporate transparency.
 
-## Game Development and Gaming
+* [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/) - The shocking personal risks faced by journalists working on sensitive topics.
 
-* [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen) ([comments](https://news.ycombinator.com/item?id=47400868))
+## Unique and Experimental Concepts
 
-* [&apos;Pokemon Go&apos; Players Unknowingly Trained Delivery Robots With 30 Billion Images](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [I’ve added human.json to my website](https://sethmlarson.dev/ive-added-human-dot-json-to-my-website) - A novel approach to online identity by including human-readable data on a website.
 
-* [Animated 'Firefly' Reboot In Development With Nathan Fillion](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Why I love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) - A personal ode to the strengths and appeal of the FreeBSD operating system.
 
-## Infrastructure and Energy
-
-* [Sodium-Ion Battery Tested for Grid-Scale Storage in Wisconsin](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Data Centers Overtake Offices In US Construction-Spending Shift](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/16/1548242/data-centers-overtake-offices-in-us-construction-spending-shift?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html) - A look into the status and evolution of the Gemini Protocol in the current tech landscape.
 
 ---
 
@@ -83,10 +77,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-17, 07:00:00](https://hardware.slashdot.org/story/26/03/16/2212248/hydropower-line-from-quebec-could-power-a-million-nyc-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hydropower Line From Quebec Could Power a Million NYC Homes](https://hardware.slashdot.org/story/26/03/16/2212248/hydropower-line-from-quebec-could-power-a-million-nyc-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-17, 05:32:09](https://lobste.rs/s/3sxwnf/silent_struggle_anxiety_software) - [The Silent Struggle: Anxiety in Software Development](https://caio.ca/blog/anxiety-software-development.html)
+* [2026-03-17, 05:13:50](https://lobste.rs/s/gjmri9/memory_allocation_strategies) - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
+* [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 * [2026-03-17, 04:39:42](https://news.ycombinator.com/item?id=47408703) - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak)
-* [2026-03-17, 04:10:31](https://news.ycombinator.com/item?id=47408497) - [Zenclora OS](https://zenclora.org/)
 * [2026-03-17, 04:00:28](https://news.ycombinator.com/item?id=47408441) - [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
 * [2026-03-17, 03:57:00](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss) - [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss)
+* [2026-03-17, 03:52:05](https://lobste.rs/s/3ezrbn/road_not_taken_world_where_ipv4_evolved) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 03:46:22](https://news.ycombinator.com/item?id=47408360) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 03:30:00](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New &apos;Vibe Coded&apos; AI Translation Tool Splits the Video Game Preservation Community](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -113,7 +111,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 18:26:00](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss) - [Google Fiber Will be Sold to Private Equity Firm and Merge With Cable Company](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-16, 18:00:00](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Signs $27 Billion AI Infrastructure Deal With Nebius](https://meta.slashdot.org/story/26/03/16/1743259/meta-signs-27-billion-ai-infrastructure-deal-with-nebius?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-16, 17:47:57](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla) - [Modeling Token Buckets in PlusCal and TLA+](http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language model teams as distributed systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
@@ -125,17 +122,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 16:02:25](https://lobste.rs/s/gahsrj/hacking_xbox_one) - [Hacking the Xbox One](https://www.youtube.com/watch?v=FTFn4UZsA5U)
 * [2026-03-16, 16:00:00](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Court Rules TCL&apos;s &apos;QLED&apos; TVs Aren&apos;t Truly QLED](https://yro.slashdot.org/story/26/03/16/0332239/court-rules-tcls-qled-tvs-arent-truly-qled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 15:59:26](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s) - [Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster](https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster)
-* [2026-03-16, 15:16:16](https://lobste.rs/s/jgd1il/give_django_your_time_money_not_your) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 * [2026-03-16, 15:02:32](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu) - [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
 * [2026-03-16, 15:00:00](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Animated &apos;Firefly&apos; Reboot In Development With Nathan Fillion](https://entertainment.slashdot.org/story/26/03/16/032254/animated-firefly-reboot-in-development-with-nathan-fillion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss) - [Why the World&apos;s Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss)
 * [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 12:50:33](https://lobste.rs/s/tskynu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tskynu/what_are_you_doing_this_week)
+* [2026-03-16, 12:05:08](https://news.ycombinator.com/item?id=47397857) - [Lazycut: A simple terminal video trimmer using FFmpeg](https://github.com/emin-ozata/lazycut)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
 * [2026-03-16, 11:36:00](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sodium-Ion Battery Tested for Grid-Scale Storage in Wisconsin](https://hardware.slashdot.org/story/26/03/16/0320222/sodium-ion-battery-tested-for-grid-scale-storage-in-wisconsin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 11:23:14](https://news.ycombinator.com/item?id=47397574) - [Why I love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
-* [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source) - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
 * [2026-03-16, 08:55:00](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss) - [Iran Conflict Delays Meta&apos;s 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss)
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
@@ -147,8 +143,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss)
 * [2026-03-16, 01:34:00](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The UK Will Invest Billions to Build a Nuclear Fusion Industry](https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss)
-* [2026-03-15, 22:51:00](https://tech.slashdot.org/story/26/03/15/224224/2026s-ev-sales-hit-11m---but-europe-surges-while-north-america-slides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2026&apos;s EV Sales Hit 1.1M - But Europe Surges While North America Slides](https://tech.slashdot.org/story/26/03/15/224224/2026s-ev-sales-hit-11m---but-europe-surges-while-north-america-slides?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 18:51:00](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss) - [AI Medical Advice - Both Sides](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss)
 * [2026-03-15, 18:32:27](https://news.ycombinator.com/item?id=47390345) - [The bureaucracy blocking the chance at a cure](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
 * [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss)
@@ -164,10 +158,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-13, 18:19:00](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss) - [Online Intelligence Dashboards (Aka, More AI Slop?)](https://soylentnews.org/article.pl?sid=26/03/12/1023220&amp;from=rss)
 * [2026-03-13, 17:34:45](https://news.ycombinator.com/item?id=47367298) - [Pyodide: a Python distribution based on WebAssembly](https://github.com/pyodide/pyodide)
 * [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
+* [2026-03-13, 16:20:00](https://news.ycombinator.com/item?id=47366435) - [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
 * [2026-03-13, 14:53:10](https://news.ycombinator.com/item?id=47365299) - [Claude Tips for 3D Work](https://www.davesnider.com/posts/claude-3d)
 * [2026-03-13, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss) - [LEGO&apos;s 0.002mm Specification and It&apos;s Implications for Manufacturing](https://soylentnews.org/article.pl?sid=26/03/12/1011221&amp;from=rss)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
+* [2026-03-13, 11:44:27](https://news.ycombinator.com/item?id=47363133) - [Sci-Fi Short Film \&quot;There Is No Antimemetics Division\&quot; [video]](https://www.youtube.com/watch?v=3v8AsTHfAG0)
 * [2026-03-13, 08:52:00](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss) - [Infinity Train Got 14.5 MWh Battery That, Ideally, Never Needs Charging](https://soylentnews.org/article.pl?sid=26/03/12/107259&amp;from=rss)
 * [2026-03-13, 04:09:00](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss) - [Ig Nobels Ceremony Moves to Europe Over Security Concerns](https://soylentnews.org/article.pl?sid=26/03/11/2010247&amp;from=rss)
+* [2026-03-13, 03:16:08](https://news.ycombinator.com/item?id=47360293) - [Gitana 18: the new flying Ultim trimaran](https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don&apos;t use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-13, 00:02:00](https://news.ycombinator.com/item?id=47359010) - [In space, no one can hear you kernel panic (2020)](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/)
