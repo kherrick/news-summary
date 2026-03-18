@@ -1,44 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Programming, Development, and Software Innovations
 
-* [Nvidia Announces Vera Rubin Space-1 Chip System For Orbital AI Data Centers](https://hardware.slashdot.org/story/26/03/17/1838252/nvidia-announces-vera-rubin-space-1-chip-system-for-orbital-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Nvidia reveals its advanced chip system designed to power AI data centers in orbit, marking progress in space-based technologies. [Comments](https://news.ycombinator.com/item?id=47422408)
+* [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) - A timeless resource for programmers offering essential rules for clean, efficient coding. [Comments](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming)
 
-* [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&amp;day=18&amp;month=03&amp;year=2026) - An engaging animation visualizing the massive Starlink satellite constellation. [Comments](https://news.ycombinator.com/item?id=47422437)
+* [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements) - Insight into enhancements in upcoming C++ standard for better memory safety and performance. [Comments](https://lobste.rs/s/jlgau3/c_26_span_improvements)
 
-* [LHCb Collaboration discovers new proton-like particle](https://home.cern/news/news/physics/lhcb-collaboration-discovers-new-proton-particle) - CERN's LHCb team announces the discovery of a previously unknown proton-like particle, extending the boundaries of particle physics. [Comments](https://lobste.rs/s/u5gqg6/lhcb_collaboration_discovers_new_proton)
+* [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html) - Exploration of key breakthroughs that shaped software development. [Comments](https://lobste.rs/s/j5m4fq/most_important_software_innovations)
 
-## Artificial Intelligence Developments
+* [syntaqlite: high-fidelity devtools that SQLite deserves](https://lalitm.com/post/syntaqlite/) - Introducing a versatile tool aimed at making SQLite debugging and development more robust. [Comments](https://lobste.rs/s/c2eiao/syntaqlite_high_fidelity_devtools)
 
-* [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/) - An opinionated take on modern AI's limitations and its impact on creative intelligence. [Comments](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence)
+## AI and Cognitive Technologies
 
-* [Mistral AI Releases Forge](https://mistral.ai/news/forge) - Details about Mistral AI's new generative model aimed at simplifying AI development. [Comments](https://news.ycombinator.com/item?id=47418295)
+* [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/) - Google DeepMind's approach to tracking advancements in Artificial General Intelligence. [Comments](https://news.ycombinator.com/item?id=47424458)
 
-* [AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet](https://tech.slashdot.org/story/26/03/17/2243219/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A critical look at the potential downsides of AI advancements beyond their impact on employment. [Comments](https://news.ycombinator.com/item?id=47420388)
+* [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) - Demonstrates a simple method to create a safe sandboxed AI agent. [Comments](https://news.ycombinator.com/item?id=47420493)
 
-## Software and Programming Highlights
+* [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381) - A critique of AI's limitations in autonomous learning processes. [Comments](https://news.ycombinator.com/item?id=47418722)
 
-* [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) - The latest advancements in Python's Just-In-Time (JIT) compilation and performance improvements. [Comments](https://news.ycombinator.com/item?id=47416486)
+## Hardware and Space Technology
 
-* [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements) - Updates to the C++26 standard focusing on span improvements for safer memory access. [Comments](https://lobste.rs/s/jlgau3/c_26_span_improvements)
+* [Nvidia Announces Vera Rubin Space-1 Chip System For Orbital AI Data Centers](https://hardware.slashdot.org/story/26/03/17/1838252/nvidia-announces-vera-rubin-space-1-chip-system-for-orbital-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Nvidia's chip to enhance real-time AI processing in orbital environments. [Comments](https://news.ycombinator.com/item?id=47422408)
 
-* [The web in 1000 lines of C](https://maurycyz.com/projects/tinyweb/) - Exploring a minimalist approach to building the web using only 1000 lines of C. [Comments](https://lobste.rs/s/avyqzl/web_1000_lines_c)
+* [Experiments Show Potatoes Can Survive In Lunar Solar (With Lots of Help)](https://science.slashdot.org/story/26/03/17/2314232/experiments-show-potatoes-can-survive-in-lunar-solar-with-lots-of-help?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Testing agriculture's future adaptability in extraterrestrial conditions. [Comments](https://science.slashdot.org/story/26/03/17/2314232/experiments-show-potatoes-can-survive-in-lunar-solar-with-lots-of-help?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Open-Source and Decentralized Tools
+* [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026) - Visualization of Starlink's expansive satellite network. [Comments](https://news.ycombinator.com/item?id=47422437)
 
-* [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/) - A lightweight web browsing utility focused on the decentralized 'small web.' [Comments](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2)
+## Unconventional Projects and DIY
 
-* [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/) - Introducing a new open-source karaoke app to enhance home entertainment. [Comments](https://news.ycombinator.com/item?id=47422942)
+* [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking) - An impressive example of DIY ingenuity with a controversial twist. [Comments](https://news.ycombinator.com/item?id=47425297)
 
-* [hugo2nostr bridge](https://github.com/delirehberi/hugo2nostr) - A novel project connecting Hugo site generators to the decentralized Nostr network. [Comments](https://lobste.rs/s/14dsoq/hugo2nostr_bridge)
+* [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/) - Advocates for taking control by building and hosting personal tech solutions. [Comments](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building)
 
-## Cultural and Historical Insights
+* [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/) - A journey through building a custom CPU from scratch. [Comments](https://news.ycombinator.com/item?id=47389696)
 
-* [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/) - A tribute to Tony Hoare and his contributions to programming language theory and design. [Comments](https://news.ycombinator.com/item?id=47422228)
+## Cultural and Philosophical Explorations in Tech
 
-* [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html) - A curated list of software breakthroughs shaping the digital world. [Comments](https://lobste.rs/s/j5m4fq/most_important_software_innovations)
+* [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/) - Reflecting on the profound contributions of a pioneering computer scientist. [Comments](https://lobste.rs/s/tr5qdg/celebrating_tony_hoare_s_mark_on_computer)
 
-* [Review of Microsoft's ClearType Font Collection (2005)](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/) - A retrospective analysis of Microsoft's groundbreaking ClearType fonts. [Comments](https://news.ycombinator.com/item?id=47421670)
+* [Have a fucking website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) - A bold argument for maintaining personal web presence in the modern tech ecosystem. [Comments](https://news.ycombinator.com/item?id=47421442)
+
+* [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control) - Analysis of the motivations behind regulatory age restrictions in digital spaces. [Comments](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about)
 
 ---
 
@@ -65,6 +67,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike&apos;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+* [2026-03-18, 13:04:47](https://lobste.rs/s/tr5qdg/celebrating_tony_hoare_s_mark_on_computer) - [Celebrating Tony Hoare&apos;s mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
+* [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
+* [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don&apos;t](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
+* [2026-03-18, 11:44:44](https://news.ycombinator.com/item?id=47424458) - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
+* [2026-03-18, 11:00:00](https://science.slashdot.org/story/26/03/17/2314232/experiments-show-potatoes-can-survive-in-lunar-solar-with-lots-of-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Experiments Show Potatoes Can Survive In Lunar Solar (With Lots of Help)](https://science.slashdot.org/story/26/03/17/2314232/experiments-show-potatoes-can-survive-in-lunar-solar-with-lots-of-help?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike&apos;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 09:04:38](https://lobste.rs/s/jlgau3/c_26_span_improvements) - [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements)
 * [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2026-03-18, 08:21:00](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss) - [Research Shows How Lost Memories Can be Reactivated](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss)
@@ -75,8 +84,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-18, 07:00:00](https://hardware.slashdot.org/story/26/03/17/1838252/nvidia-announces-vera-rubin-space-1-chip-system-for-orbital-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Announces Vera Rubin Space-1 Chip System For Orbital AI Data Centers](https://hardware.slashdot.org/story/26/03/17/1838252/nvidia-announces-vera-rubin-space-1-chip-system-for-orbital-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-18, 06:31:14](https://news.ycombinator.com/item?id=47422228) - [Celebrating Tony Hoare&apos;s mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 04:53:55](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence) - [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/)
-* [2026-03-18, 04:44:12](https://news.ycombinator.com/item?id=47421670) - [Review of Microsoft&apos;s ClearType Font Collection (2005)](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
-* [2026-03-18, 04:11:20](https://news.ycombinator.com/item?id=47421513) - [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
 * [2026-03-18, 03:53:42](https://news.ycombinator.com/item?id=47421442) - [Have a fucking website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
 * [2026-03-18, 03:36:00](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss) - [Apocalyptic Beliefs Are No Longer Fringe—and They&apos;re Shaping How People Respond](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss)
 * [2026-03-18, 03:30:00](https://tech.slashdot.org/story/26/03/17/2243219/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet](https://tech.slashdot.org/story/26/03/17/2243219/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -95,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-17, 21:00:00](https://tech.slashdot.org/story/26/03/17/2058245/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gamers React With Overwhelming Disgust To DLSS 5&apos;s Generative AI Glow-Ups](https://tech.slashdot.org/story/26/03/17/2058245/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-17, 20:23:39](https://news.ycombinator.com/item?id=47417804) - [Get Shit Done: A meta-prompting, context engineering and spec-driven dev system](https://github.com/gsd-build/get-shit-done)
 * [2026-03-17, 20:00:00](https://developers.slashdot.org/story/26/03/17/1833221/finance-bros-to-tech-bros-dont-mess-with-my-bloomberg-terminal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Finance Bros To Tech Bros: Don&apos;t Mess With My Bloomberg Terminal](https://developers.slashdot.org/story/26/03/17/1833221/finance-bros-to-tech-bros-dont-mess-with-my-bloomberg-terminal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-17, 19:46:29](https://news.ycombinator.com/item?id=47417335) - [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
 * [2026-03-17, 19:00:00](https://mobile.slashdot.org/story/26/03/17/1650233/samsung-ends-2899-galaxy-z-trifold-sales-after-just-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Ends $2,899 Galaxy Z TriFold Sales After Just Three Months](https://mobile.slashdot.org/story/26/03/17/1650233/samsung-ends-2899-galaxy-z-trifold-sales-after-just-three-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 18:49:35](https://lobste.rs/s/qusrlu/tale_about_fixing_ebpf_spinlock_issues) - [A tale about fixing eBPF spinlock issues in the Linux kernel](https://www.rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
@@ -121,10 +127,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-17, 11:58:40](https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time) - [yes, all longest regex matches in linear time is possible](https://iev.ee/blog/all-longest-regex-matches-in-linear-time/)
 * [2026-03-17, 11:00:00](https://yro.slashdot.org/story/26/03/16/2222200/bills-would-ban-liability-lawsuits-for-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bills Would Ban Liability Lawsuits For Climate Change](https://yro.slashdot.org/story/26/03/16/2222200/bills-would-ban-liability-lawsuits-for-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
-* [2026-03-17, 10:19:55](https://lobste.rs/s/xr2lv8/linkedin_speak_was_added_kagi_translate) - [\&quot;LinkedIn Speak\&quot; was added to Kagi Translate](https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d)
 * [2026-03-17, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss) - [Magnetars Drag Spacetime to Power Superluminous Supernovae](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss)
 * [2026-03-17, 07:00:00](https://hardware.slashdot.org/story/26/03/16/2212248/hydropower-line-from-quebec-could-power-a-million-nyc-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hydropower Line From Quebec Could Power a Million NYC Homes](https://hardware.slashdot.org/story/26/03/16/2212248/hydropower-line-from-quebec-could-power-a-million-nyc-homes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-17, 06:26:20](https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo) - [A few notes about the MacBook Neo](https://morrick.me/archives/10286)
 * [2026-03-17, 06:11:17](https://news.ycombinator.com/item?id=47409222) - [Show HN: Pgit – A Git-like CLI backed by PostgreSQL](https://oseifert.ch/blog/building-pgit)
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 * [2026-03-17, 03:57:00](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss) - [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss)
@@ -132,19 +136,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 03:30:00](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New &apos;Vibe Coded&apos; AI Translation Tool Splits the Video Game Preservation Community](https://developers.slashdot.org/story/26/03/16/2125242/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-16, 23:09:00](https://soylentnews.org/article.pl?sid=26/03/15/1330233&amp;from=rss) - [11-Month Old Russian Outfit Claims It Has Developed 16-Core and 32-Core Processors, Flaunts Cyrillic](https://soylentnews.org/article.pl?sid=26/03/15/1330233&amp;from=rss)
-* [2026-03-16, 23:00:00](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Pokemon Go&apos; Players Unknowingly Trained Delivery Robots With 30 Billion Images](https://hardware.slashdot.org/story/26/03/16/2136229/pokemon-go-players-unknowingly-trained-delivery-robots-with-30-billion-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
 * [2026-03-16, 18:26:00](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss) - [Google Fiber Will be Sold to Private Equity Firm and Merge With Cable Company](https://soylentnews.org/article.pl?sid=26/03/15/1328200&amp;from=rss)
 * [2026-03-16, 13:37:00](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss) - [Why the World&apos;s Militaries Are Scrambling to Create Their Own Starlink](https://soylentnews.org/article.pl?sid=26/03/15/1319251&amp;from=rss)
 * [2026-03-16, 08:55:00](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss) - [Iran Conflict Delays Meta&apos;s 2Africa Undersea Cable Project — Cable Layer Declares Force Majeure](https://soylentnews.org/article.pl?sid=26/03/15/0111236&amp;from=rss)
 * [2026-03-16, 04:07:00](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss) - [Nvidia Is Reportedly Planning Its Own Open Source OpenClaw Competitor](https://soylentnews.org/article.pl?sid=26/03/15/016219&amp;from=rss)
+* [2026-03-15, 23:44:34](https://news.ycombinator.com/item?id=47393324) - [How the Eon Team Produced a Virtual Embodied Fly](https://eon.systems/updates/embodied-brain-emulation)
 * [2026-03-15, 23:35:00](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss) - [How Much Sleep Do Teens Get? Six-Seven Hours](https://soylentnews.org/article.pl?sid=26/03/14/1755235&amp;from=rss)
 * [2026-03-15, 18:51:00](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss) - [AI Medical Advice - Both Sides](https://soylentnews.org/article.pl?sid=26/03/14/1750228&amp;from=rss)
 * [2026-03-15, 17:36:48](https://news.ycombinator.com/item?id=47389696) - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
 * [2026-03-15, 14:00:00](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss) - [New Study Challenges Notion That Aging Means Decline, Finds Many Older Adults Improve Over Time](https://soylentnews.org/article.pl?sid=26/03/14/1740249&amp;from=rss)
-* [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
 * [2026-03-15, 09:20:00](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss) - [OpenAI Wants Everyone To Have A Monthly AI Bill](https://soylentnews.org/article.pl?sid=26/03/14/0932244&amp;from=rss)
-* [2026-03-15, 06:00:34](https://news.ycombinator.com/item?id=47384715) - [Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9](https://github.com/c4pt0r/agfs)
 * [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan (1651)](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
 * [2026-03-15, 04:37:00](https://soylentnews.org/article.pl?sid=26/03/14/0928215&amp;from=rss) - [Why Are Some Animal and Human Signals Honest, While Others Are Deceptive?](https://soylentnews.org/article.pl?sid=26/03/14/0928215&amp;from=rss)
 * [2026-03-14, 22:52:00](https://soylentnews.org/article.pl?sid=26/03/13/0443231&amp;from=rss) - [A 1,300-Pound NASA Satellite Just Made a Fiery Return to Earth](https://soylentnews.org/article.pl?sid=26/03/13/0443231&amp;from=rss)
