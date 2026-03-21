@@ -1,62 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advancements
+## Technology and Security
 
-* [White House Unveils National AI Policy Framework To Limit State Power](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New national policy framework by the White House aims to strike a balance between AI advancements and limiting state power.
+* [Officer Leaks Location of French Aircraft Carrier With Strava Run](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A French naval officer unintentionally revealed the location of a French aircraft carrier by publicly posting his Strava fitness tracker route, highlighting the potential risks of digital privacy breaches in the era of wearable technology. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&amp;from=rss) - Explore the evolving perspectives on mathematical beauty amidst advancements in AI capabilities.
+* [Google adds 24-hour wait and mandatory reboot to Android sideloading flow](https://android-developers.googleblog.com/2025/08/elevating-android-security.html) - Google has added a 24-hour waiting period and a mandatory system reboot to Android sideloading to enhance security, aiming to protect users from potential malware risks. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - A discussion on how generative AI has influenced or overshadowed personal creative technical pursuits.
+* [DOJ Charges Super Micro Co-Founder For Smuggling $2.5 Billion In Nvidia GPUs To China](https://yro.slashdot.org/story/26/03/20/177200/doj-charges-super-micro-co-founder-for-smuggling-25-billion-in-nvidia-gpus-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The co-founder of Super Micro is facing charges for allegedly orchestrating the illegal smuggling of Nvidia GPUs worth $2.5 billion to China, raising concerns about technology security and trade violations. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-## Innovative Developments in Software and Tools
+## Creative Insights and Philosophy
 
-* [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) - An updated resource for developers focusing on programming Linux applications effectively.
+* [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - A discussion about the impact of generative AI on the creative and technical practices of individuals, and the ways it has reshaped artistic and technical pursuits. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink) - A novel way to enable team tracking using peer-to-peer Bluetooth tech, eliminating the need for servers.
+* [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/) - An interview exploring the perspectives of Internet_Jannitor, delving into programming practices, debugging, and work-life balance. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [OpenCode – Open source AI coding agent](https://opencode.ai/) - Learn about an open-source AI-enabled coding assistant.
+## Artificial Intelligence
 
-* [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light) - A tracking tool for maritime vessels with specific proximity alerts, showcasing its real-time capabilities.
+* [White House Unveils National AI Policy Framework To Limit State Power](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The White House introduced a National AI Policy Framework intended to regulate the use of artificial intelligence and constrain its application by government agencies. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) - A new release introducing AI-powered shell enhancements and features like advanced search and proxies.
+* [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&amp;from=rss) - This article examines the concept of mathematical beauty in the age of artificial intelligence, evaluating how aesthetic criteria apply to modern computations and algorithms. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [Video Conferencing with Durable Streams](https://s2.dev/blog/video-conferencing) - Introducing durable streaming-based solutions to optimize video conferencing experiences.
+* [OpenCode – Open source AI coding agent](https://opencode.ai/) - OpenCode introduces an AI-driven coding agent for open-source projects, potentially changing the way developers collaborate and code. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-## Programming and Developer Insights
+## Operating Systems
 
-* [Looking at Unity finally made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/) - An exploration of how Unity's design highlights the significance of C++ coroutines.
+* [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/) - Ubuntu 26.04 introduces a change by displaying password inputs during commands that require sudo, breaking away from a 46-year tradition. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [What we heard about Rust's challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/) - Insights into the current challenges faced by Rust programming language and potential solutions.
+* [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years) - An analysis of the controversial impact of Wayland on Linux desktop development, suggesting it has hindered progress by a decade. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) - Discussing a new technique for more efficient k-means clustering algorithms.
+## Social and Policy Changes
 
-## Global Policy and Legal Developments
+* [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://news.slashdot.org/story/26/03/20/1725229/oregon-school-cell-phone-ban-engaged-students-joyful-teachers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Oregon schools implement a cell phone ban that claims to result in more engaged students and happier teachers. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [Massive Interpol Operation Takes Down 45,000 Ip Addresses and Leads to 94 Arrests](https://soylentnews.org/article.pl?sid=26/03/19/0310236&amp;from=rss) - Details on a successful Interpol operation targeting mass cybercrime activities.
+* [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss) - 151 GitHub repositories were compromised with invisible malicious code, highlighting the increasing threat of cyberattacks leveraging blockchain. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-* [DOJ Charges Super Micro Co-Founder For Smuggling $2.5 Billion In Nvidia GPUs To China](https://yro.slashdot.org/story/26/03/20/177200/doj-charges-super-micro-co-founder-for-smuggling-25-billion-in-nvidia-gpus-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. Department of Justice files charges against a tech company co-founder in an international smuggling case.
+## Historical and Miscellaneous Interests
 
-* [EU Cloud Lobby Asks Regulator To Block VMware From Terminating Partner Program](https://tech.slashdot.org/story/26/03/19/2217208/eu-cloud-lobby-asks-regulator-to-block-vmware-from-terminating-partner-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerning developments in the tech industry as the EU faces a lobbying challenge regarding VMware's partner program.
+* [100 Years Later, Where is Robert Goddard's First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss) - A retrospective on the first liquid-fuel rocket launched by scientist Robert Goddard 100 years ago, which significantly shaped the modern aerospace industry. [Comments](https://news.ycombinator.com/item?id=47464394)
 
-## Cultural and Social Insights
-
-* [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) - Explore an intriguing cultural guide detailing the often-unspoken rules around chopstick manners in Japanese society.
-
-* [Chimps’ Love for Crystals Could Help Us Understand Our Own Ancestors’ Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&amp;from=rss) - Insights on how studying chimps' affinity for crystals could help reveal ancient human behavioral roots.
-
-* [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html) - The movement advocating for small, decentralized, and user-first social networks.
-
-## Environmental and Energy Tech
-
-* [Work From Home and Drive More Slowly To Save Energy, IEA Says](https://hardware.slashdot.org/story/26/03/20/2035252/work-from-home-and-drive-more-slowly-to-save-energy-iea-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Recommendations from the International Energy Agency on adopting sustainable practices like remote work to save energy.
-
-* [China Is Helping Drive Cuba's Solar Boom](https://hardware.slashdot.org/story/26/03/19/2157201/china-is-helping-drive-cubas-solar-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn about China's role in accelerating Cuba's solar energy development.
-
-## Legacy and Historical Perspectives
-
-* [Chuck Norris Dies At 86](https://news.slashdot.org/story/26/03/20/1643218/chuck-norris-dies-at-86?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Remembering the life and cultural impact of action star and martial artist Chuck Norris.
-
-* [100 Years Later, Where is Robert Goddard's First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss) - A century after the creation of the first liquid-fuel rocket, its current resting place remains a mystery.
+* [Heisuke Hironaka Has Died](https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/) - Celebrating the life and work of mathematician Heisuke Hironaka, known for his contributions to algebraic geometry; his passing at age 90 is mourned worldwide. [Comments](https://news.ycombinator.com/item?id=47464394)
 
 ---
 
@@ -83,9 +65,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-21, 07:00:00](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Officer Leaks Location of French Aircraft Carrier With Strava Run](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-21, 06:13:59](https://news.ycombinator.com/item?id=47464438) - [Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500](https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/)
+* [2026-03-21, 06:03:46](https://news.ycombinator.com/item?id=47464394) - [Google adds 24-hour wait and mandatory reboot to Android sideloading flow](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
+* [2026-03-21, 05:06:11](https://news.ycombinator.com/item?id=47464134) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
+* [2026-03-21, 04:23:02](https://lobste.rs/s/dttagp/unix_philosophy_is_dead_long_live) - [Unix philosophy is dead! Long live... something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/)
 * [2026-03-21, 03:30:00](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Unveils National AI Policy Framework To Limit State Power](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-21, 03:07:00](https://soylentnews.org/article.pl?sid=26/03/19/1638217&amp;from=rss) - [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&amp;from=rss)
+* [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
 * [2026-03-21, 02:27:43](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours)
+* [2026-03-21, 02:09:08](https://news.ycombinator.com/item?id=47463354) - [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
 * [2026-03-21, 00:11:38](https://lobste.rs/s/hvq58r/looking_at_unity_finally_made_me) - [Looking at Unity finally made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 * [2026-03-20, 23:57:22](https://news.ycombinator.com/item?id=47462483) - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
 * [2026-03-20, 23:00:00](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CBS News Shutters Radio Service After Nearly a Century](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -95,18 +84,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 22:06:51](https://news.ycombinator.com/item?id=47461321) - [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
 * [2026-03-20, 22:00:00](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Says It Is Fixing Windows 11](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 21:48:06](https://news.ycombinator.com/item?id=47461094) - [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
-* [2026-03-20, 21:04:11](https://news.ycombinator.com/item?id=47460528) - [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
 * [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 21:00:00](https://hardware.slashdot.org/story/26/03/20/2035252/work-from-home-and-drive-more-slowly-to-save-energy-iea-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Work From Home and Drive More Slowly To Save Energy, IEA Says](https://hardware.slashdot.org/story/26/03/20/2035252/work-from-home-and-drive-more-slowly-to-save-energy-iea-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
 * [2026-03-20, 20:00:00](https://slashdot.org/story/26/03/20/1711251/openai-plans-launch-of-desktop-superapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Plans Launch of Desktop &apos;Superapp&apos;](https://slashdot.org/story/26/03/20/1711251/openai-plans-launch-of-desktop-superapp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 19:51:54](https://lobste.rs/s/4ovp13/developer_spotlight_somtochi_onyekwere) - [Developer Spotlight: Somtochi Onyekwere from Fly.io](https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html)
-* [2026-03-20, 19:29:39](https://news.ycombinator.com/item?id=47459447) - [NumKong: 2&apos;000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
 * [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 19:00:00](https://news.slashdot.org/story/26/03/20/1725229/oregon-school-cell-phone-ban-engaged-students-joyful-teachers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oregon School Cell Phone Ban: &apos;Engaged Students, Joyful Teachers&apos;](https://news.slashdot.org/story/26/03/20/1725229/oregon-school-cell-phone-ban-engaged-students-joyful-teachers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-20, 18:43:40](https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer) - [Linear Temporal Logic Visualizer](https://quickstrom.github.io/ltl-visualizer/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 18:08:40](https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator) - [Adding Live Reload to a Static Site Generator Written in Go](https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html)
-* [2026-03-20, 18:06:20](https://news.ycombinator.com/item?id=47458348) - [Show HN: I made an email app inspired by Arc browser](https://demo.define.app)
 * [2026-03-20, 18:00:00](https://yro.slashdot.org/story/26/03/20/177200/doj-charges-super-micro-co-founder-for-smuggling-25-billion-in-nvidia-gpus-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOJ Charges Super Micro Co-Founder For Smuggling $2.5 Billion In Nvidia GPUs To China](https://yro.slashdot.org/story/26/03/20/177200/doj-charges-super-micro-co-founder-for-smuggling-25-billion-in-nvidia-gpus-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 17:55:57](https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious) - [Trivy Compromised a Second Time - Malicious v0.69.4 Release](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release)
 * [2026-03-20, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/19/1635218&amp;from=rss) - [Researchers Played Music to Cells – Aggressiveness of Laryngeal Cancer Decreased](https://soylentnews.org/article.pl?sid=26/03/19/1635218&amp;from=rss)
@@ -117,19 +104,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 16:24:22](https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not) - [Emacs Internal #01: is a Lisp Runtime in C, Not an Editor](https://thecloudlet.github.io/technical/project/emacs-01/)
 * [2026-03-20, 16:14:06](https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how) - [What we heard about Rust&apos;s challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/)
 * [2026-03-20, 16:00:00](https://mobile.slashdot.org/story/26/03/20/1556216/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop](https://mobile.slashdot.org/story/26/03/20/1556216/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-20, 15:55:40](https://news.ycombinator.com/item?id=47456421) - [Meme Buildings](https://misfitsarchitecture.com/2026/03/15/meme-buildings/)
 * [2026-03-20, 15:00:00](https://slashdot.org/story/26/03/19/2231252/as-openclaw-enthusiasm-grips-china-kids-and-retirees-alike-raise-lobsters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As OpenClaw Enthusiasm Grips China, Kids and Retirees Alike Raise &apos;Lobsters&apos;](https://slashdot.org/story/26/03/19/2231252/as-openclaw-enthusiasm-grips-china-kids-and-retirees-alike-raise-lobsters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I&apos;m OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
-* [2026-03-20, 13:02:19](https://news.ycombinator.com/item?id=47453947) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France&apos;s aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 * [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss) - [Elon Musk Says His Chipmaking &apos;Terafab Project&apos; Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss)
 * [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 12:16:15](https://lobste.rs/s/5pkjai/wayland_set_linux_desktop_back_by_10_years) - [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
 * [2026-03-20, 11:59:40](https://lobste.rs/s/ozandm/social_smolnet) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
-* [2026-03-20, 11:16:14](https://lobste.rs/s/wictlh/unified_modules_for_your_nixfiles) - [Unified Modules For Your Nixfiles](https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/)
 * [2026-03-20, 11:03:27](https://news.ycombinator.com/item?id=47452955) - [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 * [2026-03-20, 11:00:00](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera GX Web Browser Comes To Linux](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 10:43:55](https://lobste.rs/s/oh23lt/fedora_asahi_remix_43_is_now_available) - [Fedora Asahi Remix 43 is now available](https://fedoramagazine.org/fedora-asahi-remix-43-is-now-available/)
@@ -144,18 +128,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 03:11:00](https://soylentnews.org/article.pl?sid=26/03/19/035202&amp;from=rss) - [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&amp;from=rss)
 * [2026-03-19, 23:00:00](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Online Bot Traffic Will Exceed Human Traffic By 2027, Cloudflare CEO Says](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-19, 22:23:00](https://soylentnews.org/article.pl?sid=26/03/19/0258237&amp;from=rss) - [Over Fifteen Years Later, Microsoft Morged My Diagram](https://soylentnews.org/article.pl?sid=26/03/19/0258237&amp;from=rss)
-* [2026-03-19, 22:00:00](https://tech.slashdot.org/story/26/03/19/208232/4chan-mocks-700k-fine-for-uk-online-safety-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [4Chan Mocks $700K Fine For UK Online Safety Breaches](https://tech.slashdot.org/story/26/03/19/208232/4chan-mocks-700k-fine-for-uk-online-safety-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-19, 19:08:02](https://news.ycombinator.com/item?id=47444319) - [Delve – Fake Compliance as a Service](https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service)
-* [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
 * [2026-03-19, 17:38:00](https://soylentnews.org/article.pl?sid=26/03/18/1530220&amp;from=rss) - [Predicted by Einstein 100 Years Ago, This Cosmic Phenomenon Has Finally Been Observed](https://soylentnews.org/article.pl?sid=26/03/18/1530220&amp;from=rss)
 * [2026-03-19, 17:32:34](https://lobste.rs/s/g1ktjl/android_developer_verification) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-03-19, 12:53:00](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss) - [100 Years Later, Where is Robert Goddard&apos;s First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss)
-* [2026-03-19, 12:24:46](https://news.ycombinator.com/item?id=47438169) - [An FAQ on Reinforcement Learning Environments](https://epoch.ai/gradient-updates/state-of-rl-envs)
 * [2026-03-19, 08:08:00](https://soylentnews.org/article.pl?sid=26/03/18/1522208&amp;from=rss) - [The Science of How Fireflies Stay in Sync](https://soylentnews.org/article.pl?sid=26/03/18/1522208&amp;from=rss)
 * [2026-03-19, 08:06:28](https://news.ycombinator.com/item?id=47436287) - [Heisuke Hironaka Has Died](https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/)
+* [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 03:23:00](https://soylentnews.org/article.pl?sid=26/03/17/0844255&amp;from=rss) - [Humanities in the Machine](https://soylentnews.org/article.pl?sid=26/03/17/0844255&amp;from=rss)
 * [2026-03-18, 22:38:00](https://soylentnews.org/article.pl?sid=26/03/17/0839217&amp;from=rss) - [Chimps’ Love for Crystals Could Help Us Understand Our Own Ancestors’ Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&amp;from=rss)
+* [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [A look at content scrambling in DVDs](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
 * [2026-03-18, 17:54:00](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&amp;from=rss) - [FCC Chairman Threatens To Revoke TV Licenses Over Iran Coverage](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&amp;from=rss)
 * [2026-03-18, 16:52:58](https://news.ycombinator.com/item?id=47428132) - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2026-03-18, 13:04:00](https://soylentnews.org/article.pl?sid=26/03/17/0831246&amp;from=rss) - [Woman Sneezes Out Maggots After Fly Larvae Get Trapped in Her Deviated Septum](https://soylentnews.org/article.pl?sid=26/03/17/0831246&amp;from=rss)
@@ -166,11 +149,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-18, 08:21:00](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss) - [Research Shows How Lost Memories Can be Reactivated](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss)
 * [2026-03-18, 03:36:00](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss) - [Apocalyptic Beliefs Are No Longer Fringe—and They&apos;re Shaping How People Respond](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss)
 * [2026-03-17, 22:53:00](https://soylentnews.org/article.pl?sid=26/03/16/140213&amp;from=rss) - [Porsche Puts Its Faith Back in Internal Combustion Engines](https://soylentnews.org/article.pl?sid=26/03/16/140213&amp;from=rss)
+* [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 18:08:00](https://soylentnews.org/article.pl?sid=26/03/16/1356204&amp;from=rss) - [Meta is Ending Instagram Direct Message End-to-End Encryption](https://soylentnews.org/article.pl?sid=26/03/16/1356204&amp;from=rss)
 * [2026-03-17, 13:23:00](https://soylentnews.org/article.pl?sid=26/03/16/1353215&amp;from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=26/03/16/1353215&amp;from=rss)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-17, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss) - [Magnetars Drag Spacetime to Power Superluminous Supernovae](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss)
-* [2026-03-17, 05:38:26](https://news.ycombinator.com/item?id=47409055) - [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229)
 * [2026-03-17, 03:57:00](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss) - [Musk Fails To Block California Data Disclosure Law He Fears Will Ruin XAI](https://soylentnews.org/article.pl?sid=26/03/15/1339231&amp;from=rss)
-* [2026-03-17, 01:02:41](https://news.ycombinator.com/item?id=47407293) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
