@@ -1,56 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
-
-* [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) ([Comments](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv))
-
-* [White House Unveils National AI Policy Framework To Limit State Power](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [How Should We Define Mathematical Beauty in the AI Age?](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/19/1638217&from=rss))
-
-## Internet and Online Content
-
-* [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record) ([Comments](https://news.ycombinator.com/item?id=47464818))
-
-* [Online Bot Traffic Will Exceed Human Traffic By 2027, Cloudflare CEO Says](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Ghostling](https://github.com/ghostty-org/ghostling) ([Comments](https://news.ycombinator.com/item?id=47461378))
-
-* [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) ([Comments](https://news.ycombinator.com/item?id=47461321))
-
 ## Technology and Innovation
 
-* [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) ([Comments](https://news.ycombinator.com/item?id=47463547))
+* [Agentic pre-commit hook with Opencode Go SDK](https://youtu.be/3j_Oh525Xrs) - Explore the innovative "Agentic pre-commit hook" tool built with the Opencode Go SDK, designed for integrating agent-based actions with code commits. [Comments](https://lobste.rs/s/xyb6jw/agentic_pre_commit_hook_with_opencode_go).
 
-* [OpenCode – Open source AI coding agent](https://opencode.ai/) ([Comments](https://news.ycombinator.com/item?id=47460525))
+* [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/) - Learn about BYD's advancements in EV charger technologies, competing with gas pump speeds. [Comments](https://news.ycombinator.com/item?id=47466294).
 
-* [Microsoft Says It Is Fixing Windows 11](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/20/2043213/microsoft-says-it-is-fixing-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) - Discover the latest version of Atuin packed with enhanced features like improved search, a PTY proxy, and AI functionalities for shell users. [Comments](https://news.ycombinator.com/item?id=47465824).
 
-* [Opera GX Web Browser Comes To Linux](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47452955))
+* [Ghostling](https://github.com/ghostty-org/ghostling) - A new tool for developers to explore. Learn more about Ghostling with community discussions. [Comments](https://news.ycombinator.com/item?id=47461378).
 
-## Cybersecurity and Digital Issues
+* [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) - A unique terminal-only Bluesky/AT Protocol client developed using the Fortran language. [Comments](https://news.ycombinator.com/item?id=47461321).
 
-* [Officer Leaks Location of French Aircraft Carrier With Strava Run](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Adding Live Reload to a Static Site Generator Written in Go](https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html) - A dive into enhancing a static site generator built with Go by integrating a live reload feature. [Comments](https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator).
 
-* [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/19/1636248&from=rss))
+* [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/) - A reflective piece on how thinking in terms of proofs can improve programming skills. [Comments](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs).
 
-* [Trivy Compromised a Second Time - Malicious v0.69.4 Release](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release) ([Comments](https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious))
+## Science and Space
 
-## Science and Technology Developments
+* [NASA&apos;s Hubble Unexpectedly Catches Comet Breaking Up](https://science.slashdot.org/story/26/03/20/2251251/nasas-hubble-unexpectedly-catches-comet-breaking-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hubble Telescope surprises scientists by capturing a comet's dramatic breakup. [Comments](https://science.slashdot.org/story/26/03/20/2251251/nasas-hubble-unexpectedly-catches-comet-breaking-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/19/035202&from=rss))
+* [Predicted by Einstein 100 Years Ago, This Cosmic Phenomenon Has Finally Been Observed](https://soylentnews.org/article.pl?sid=26/03/18/1530220&amp;from=rss) - A cosmic event hypothesized by Einstein a century ago has finally been witnessed—understanding its implications is groundbreaking.
 
-* [Researchers Played Music to Cells – Aggressiveness of Laryngeal Cancer Decreased](https://soylentnews.org/article.pl?sid=26/03/19/1635218&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/19/1635218&from=rss))
+## Cybersecurity and Data Privacy
 
-* [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org) ([Comments](https://news.ycombinator.com/item?id=47424752))
+* [Blocking Internet Archive Won&apos;t Stop AI, but Will Erase Web&apos;s Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record) - Opens a conversation on the significance of the Internet Archive in preserving digital history amid rising AI challenges. [Comments](https://news.ycombinator.com/item?id=47464818).
 
-## Cultural and Historical Topics
+* [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss) - A Glassworm attack leveraging blockchain has compromised 151 GitHub repositories and tools, raising concerns over cybersecurity threats.
 
-* [CBS News Shutters Radio Service After Nearly a Century](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Artificial Intelligence Developments
 
-* [Afroman Wins 'Lemon Pound Cake' Lawsuit Over Raid-Turned-Music-Video](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/19/1958201&from=rss))
+* [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) - An exploration of the potential impact of OpenAI's acquisition of Astral, uv, ruff, and ty on advancements in AI. [Comments](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv).
 
-* [Chimps' Love for Crystals Could Help Us Understand Our Own Ancestors' Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/17/0839217&from=rss))
+* [White House Unveils National AI Policy Framework To Limit State Power](https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. government introduces an AI policy framework aimed at regulating state-level power dynamics in the sector.
+
+## Ethics and Society
+
+* [Officer Leaks Location of French Aircraft Carrier With Strava Run](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn how a Strava fitness app unintentionally compromised sensitive military data. [Comments](https://tech.slashdot.org/story/26/03/20/2244207/officer-leaks-location-of-french-aircraft-carrier-with-strava-run?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+
+* [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&amp;from=rss) - A potential blockage at the Strait of Hormuz raises concerns over significant disruptions to the semiconductor and AI sectors.
+
+## Interesting Cultural and Historical Insights
+
+* [100 Years Later, Where is Robert Goddard&apos;s First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss) - A retrospective dive into Robert Goddard's pioneering liquid-fuel rocket and its century-long legacy.
+
+* [The Science of How Fireflies Stay in Sync](https://soylentnews.org/article.pl?sid=26/03/18/1522208&amp;from=rss) - A closer look into the mesmerizing synchronous behavior of fireflies and the science behind it.
+
+* [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss) - Learn the chilly science behind a fascinating mistake involving freezing temperatures.
+
+## Hardware and Software Innovations
+
+* [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/) - An interesting dive into the Bao I/O coprocessor, exploring its design and implications. [Comments](https://lobste.rs/s/svge6y/bio_bao_i_o_coprocessor).
+
+* [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) - Discover an educational resource exploring crucial Linux APIs for developers in the updated second edition. [Comments](https://news.ycombinator.com/item?id=47462483).
 
 ---
 
@@ -77,6 +79,12 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-21, 13:04:53](https://lobste.rs/s/xyb6jw/agentic_pre_commit_hook_with_opencode_go) - [Agentic pre-commit hook with Opencode Go SDK](https://youtu.be/3j_Oh525Xrs)
+* [2026-03-21, 12:40:00](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss) - [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss)
+* [2026-03-21, 12:06:03](https://news.ycombinator.com/item?id=47466294) - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
+* [2026-03-21, 11:00:00](https://science.slashdot.org/story/26/03/20/2251251/nasas-hubble-unexpectedly-catches-comet-breaking-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA&apos;s Hubble Unexpectedly Catches Comet Breaking Up](https://science.slashdot.org/story/26/03/20/2251251/nasas-hubble-unexpectedly-catches-comet-breaking-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
+* [2026-03-21, 10:30:58](https://lobste.rs/s/jiqeom/is_simple_actually_good) - [Is simple actually good?](https://darth.games/posts/is-simple-good/)
 * [2026-03-21, 09:38:09](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv) - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/)
 * [2026-03-21, 07:55:00](https://soylentnews.org/article.pl?sid=26/03/19/1958201&amp;from=rss) - [Afroman Wins &apos;Lemon Pound Cake&apos; Lawsuit Over Raid-Turned-Music-Video](https://soylentnews.org/article.pl?sid=26/03/19/1958201&amp;from=rss)
 * [2026-03-21, 07:30:16](https://news.ycombinator.com/item?id=47464818) - [Blocking Internet Archive Won&apos;t Stop AI, but Will Erase Web&apos;s Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
@@ -89,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-21, 00:11:38](https://lobste.rs/s/hvq58r/looking_at_unity_finally_made_me) - [Looking at Unity finally made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 * [2026-03-20, 23:57:22](https://news.ycombinator.com/item?id=47462483) - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
 * [2026-03-20, 23:00:00](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CBS News Shutters Radio Service After Nearly a Century](https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-20, 22:25:51](https://news.ycombinator.com/item?id=47461529) - [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
 * [2026-03-20, 22:15:00](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss) - [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss)
 * [2026-03-20, 22:11:37](https://news.ycombinator.com/item?id=47461378) - [Ghostling](https://github.com/ghostty-org/ghostling)
 * [2026-03-20, 22:06:51](https://news.ycombinator.com/item?id=47461321) - [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
@@ -120,12 +127,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I&apos;m OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
-* [2026-03-20, 13:02:19](https://news.ycombinator.com/item?id=47453947) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France&apos;s aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 * [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss) - [Elon Musk Says His Chipmaking &apos;Terafab Project&apos; Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss)
 * [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 12:16:15](https://lobste.rs/s/5pkjai/wayland_set_linux_desktop_back_by_10_years) - [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
-* [2026-03-20, 11:59:40](https://lobste.rs/s/ozandm/social_smolnet) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
 * [2026-03-20, 11:03:27](https://news.ycombinator.com/item?id=47452955) - [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 * [2026-03-20, 11:00:00](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opera GX Web Browser Comes To Linux](https://linux.slashdot.org/story/26/03/19/2224251/opera-gx-web-browser-comes-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 10:43:55](https://lobste.rs/s/oh23lt/fedora_asahi_remix_43_is_now_available) - [Fedora Asahi Remix 43 is now available](https://fedoramagazine.org/fedora-asahi-remix-43-is-now-available/)
@@ -138,33 +143,31 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 03:30:00](https://tech.slashdot.org/story/26/03/19/2217208/eu-cloud-lobby-asks-regulator-to-block-vmware-from-terminating-partner-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Cloud Lobby Asks Regulator To Block VMware From Terminating Partner Program](https://tech.slashdot.org/story/26/03/19/2217208/eu-cloud-lobby-asks-regulator-to-block-vmware-from-terminating-partner-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-20, 03:27:11](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2026-03-20, 03:11:00](https://soylentnews.org/article.pl?sid=26/03/19/035202&amp;from=rss) - [The Ongoing Strait of Hormuz Blockage Will Impact the Semiconductor and AI Industries](https://soylentnews.org/article.pl?sid=26/03/19/035202&amp;from=rss)
-* [2026-03-19, 23:00:00](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Online Bot Traffic Will Exceed Human Traffic By 2027, Cloudflare CEO Says](https://tech.slashdot.org/story/26/03/19/2144200/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-19, 22:23:00](https://soylentnews.org/article.pl?sid=26/03/19/0258237&amp;from=rss) - [Over Fifteen Years Later, Microsoft Morged My Diagram](https://soylentnews.org/article.pl?sid=26/03/19/0258237&amp;from=rss)
-* [2026-03-19, 19:08:02](https://news.ycombinator.com/item?id=47444319) - [Delve – Fake Compliance as a Service](https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service)
 * [2026-03-19, 17:38:00](https://soylentnews.org/article.pl?sid=26/03/18/1530220&amp;from=rss) - [Predicted by Einstein 100 Years Ago, This Cosmic Phenomenon Has Finally Been Observed](https://soylentnews.org/article.pl?sid=26/03/18/1530220&amp;from=rss)
-* [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-03-19, 12:53:00](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss) - [100 Years Later, Where is Robert Goddard&apos;s First Liquid-Fuel Rocket?](https://soylentnews.org/article.pl?sid=26/03/18/1524211&amp;from=rss)
 * [2026-03-19, 08:08:00](https://soylentnews.org/article.pl?sid=26/03/18/1522208&amp;from=rss) - [The Science of How Fireflies Stay in Sync](https://soylentnews.org/article.pl?sid=26/03/18/1522208&amp;from=rss)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 03:23:00](https://soylentnews.org/article.pl?sid=26/03/17/0844255&amp;from=rss) - [Humanities in the Machine](https://soylentnews.org/article.pl?sid=26/03/17/0844255&amp;from=rss)
+* [2026-03-19, 01:45:23](https://news.ycombinator.com/item?id=47433755) - [The Story of Marina Abramovic and Ulay (2020)](https://www.sydney-yaeko.com/artsandculture/marina-and-ulay)
 * [2026-03-18, 22:38:00](https://soylentnews.org/article.pl?sid=26/03/17/0839217&amp;from=rss) - [Chimps’ Love for Crystals Could Help Us Understand Our Own Ancestors’ Fascination With Gems](https://soylentnews.org/article.pl?sid=26/03/17/0839217&amp;from=rss)
 * [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [Cryptography in Home Entertainment (2004)](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
 * [2026-03-18, 20:50:56](https://news.ycombinator.com/item?id=47431288) - [An industrial piping contractor on Claude Code [video]](https://twitter.com/toddsaunders/status/2034243420147859716)
 * [2026-03-18, 17:54:00](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&amp;from=rss) - [FCC Chairman Threatens To Revoke TV Licenses Over Iran Coverage](https://soylentnews.org/politics/article.pl?sid=26/03/17/0835230&amp;from=rss)
-* [2026-03-18, 17:33:26](https://news.ycombinator.com/item?id=47428698) - [Why One Key Shouldn&apos;t Rule Them All: Threshold Signatures for the Rest of Us](https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/)
 * [2026-03-18, 16:52:58](https://news.ycombinator.com/item?id=47428132) - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2026-03-18, 13:04:00](https://soylentnews.org/article.pl?sid=26/03/17/0831246&amp;from=rss) - [Woman Sneezes Out Maggots After Fly Larvae Get Trapped in Her Deviated Septum](https://soylentnews.org/article.pl?sid=26/03/17/0831246&amp;from=rss)
 * [2026-03-18, 13:00:39](https://news.ycombinator.com/item?id=47425257) - [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/)
 * [2026-03-18, 12:16:26](https://news.ycombinator.com/item?id=47424752) - [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org)
-* [2026-03-18, 11:59:05](https://news.ycombinator.com/item?id=47424592) - [Parallel Perl – Autoparallelizing interpreter with JIT](https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1)
 * [2026-03-18, 10:22:38](https://news.ycombinator.com/item?id=47423762) - [The worst volume control UI in the world (2017)](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
 * [2026-03-18, 08:21:00](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss) - [Research Shows How Lost Memories Can be Reactivated](https://soylentnews.org/article.pl?sid=26/03/17/0828240&amp;from=rss)
+* [2026-03-18, 05:00:18](https://news.ycombinator.com/item?id=47421749) - [Meta&apos;s Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
 * [2026-03-18, 03:36:00](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss) - [Apocalyptic Beliefs Are No Longer Fringe—and They&apos;re Shaping How People Respond](https://soylentnews.org/article.pl?sid=26/03/17/0827224&amp;from=rss)
 * [2026-03-17, 22:53:00](https://soylentnews.org/article.pl?sid=26/03/16/140213&amp;from=rss) - [Porsche Puts Its Faith Back in Internal Combustion Engines](https://soylentnews.org/article.pl?sid=26/03/16/140213&amp;from=rss)
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 18:49:39](https://news.ycombinator.com/item?id=47416607) - [Padel Chess – tactical simulator for padel](https://www.padelchess.me/)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 18:08:00](https://soylentnews.org/article.pl?sid=26/03/16/1356204&amp;from=rss) - [Meta is Ending Instagram Direct Message End-to-End Encryption](https://soylentnews.org/article.pl?sid=26/03/16/1356204&amp;from=rss)
+* [2026-03-17, 15:50:03](https://news.ycombinator.com/item?id=47414356) - [We give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works)
 * [2026-03-17, 13:23:00](https://soylentnews.org/article.pl?sid=26/03/16/1353215&amp;from=rss) - [IBM, Sonic Delay Lines, and the History of the 80×24 Display](https://soylentnews.org/article.pl?sid=26/03/16/1353215&amp;from=rss)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-17, 08:38:00](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss) - [Magnetars Drag Spacetime to Power Superluminous Supernovae](https://soylentnews.org/article.pl?sid=26/03/15/1351230&amp;from=rss)
