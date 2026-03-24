@@ -1,66 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technological Innovations
+## Cybersecurity Incidents and Revelations
 
-* [Mark Zuckerberg Is Building an AI Agent To Help Him Be CEO](https://tech.slashdot.org/story/26/03/23/1759212/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Mark Zuckerberg has announced the development of an AI agent designed to assist him in his role as CEO.
+* [Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck](https://it.slashdot.org/story/26/03/23/2323217/cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A cyberattack disabled a car breathalyzer firm’s systems, leaving drivers without access to their vehicles. [Comments](https://it.slashdot.org/story/26/03/23/2323217/cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs) - Epoch AI has confirmed that the GPT5.4 Pro model has successfully solved a previously unsolved frontier mathematical problem.
+* [RocksDB development finds a CPU bug](http://rocksdb.org/blog/2026/02/17/cpu-bug.html) - A development effort around RocksDB uncovered a complex CPU bug. [Comments](https://lobste.rs/s/up2chu/rocksdb_development_finds_cpu_bug).
 
-* [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Mozilla AI introduces 'Cq', a new platform tailored as a collaborative resource for AI coding agents.
+* [The Resolv hack: How one compromised key printed $23M](https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/) - A single compromised cryptographic key allowed attackers to print millions in digital assets. [Comments](https://news.ycombinator.com/item?id=47495719).
 
-* [Will AI Force Source Code to Evolve - Or Make it Extinct?](https://developers.slashdot.org/story/26/03/23/0222218/will-ai-force-source-code-to-evolve---or-make-it-extinct?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A discussion on how artificial intelligence tools might shape the future of source code development.
+* [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) - Trivy, a popular open-source security tool, faces a new wave of attacks compromising GitHub Actions tags. [Comments](https://news.ycombinator.com/item?id=47475888).
 
-* [I built an AI receptionist for a mechanic shop](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/) - A personal account of how a developer created an AI-powered receptionist system for a family-run mechanic shop.
+## AI and Machine Learning Innovations
 
-## Programming and Software Development
+* [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs) - Researchers confirm that GPT5.4 Pro tackled a significant open problem in Ramsey hypergraphs. [Comments](https://news.ycombinator.com/item?id=47497757).
 
-* [Box of Secrets: Discreetly modding an apartment intercom with Matter](https://www.jackhogan.me/blog/box-of-secrets/) - A creative exploration into modifying an apartment intercom using Matter for smart home automation.
+* [Mark Zuckerberg Is Building an AI Agent To Help Him Be CEO](https://tech.slashdot.org/story/26/03/23/1759212/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mark Zuckerberg is reportedly working on AI to assist him in making CEO decisions. [Comments](https://tech.slashdot.org/story/26/03/23/1759212/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/) - A look at the Mouse programming language, which operates on the retro CP/M system.
+* [I built an AI receptionist for a mechanic shop](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/) - A developer creates an AI-based receptionist for a family business to improve customer interaction efficiency. [Comments](https://news.ycombinator.com/item?id=47487536).
 
-* [Building ATS2 from Source in 2026](https://bluishcoder.co.nz/2026/03/23/building-ats2-from-source-in-2026/) - A detailed walkthrough on compiling the ATS2 programming language from source.
+## Tech and Software Developments
 
-* [Guideline: Rust Style](https://epage.github.io/dev/rust-style/) - A guideline for writing clean, consistently styled Rust code.
+* [Can it Resolve DOOM? Game Engine in 2,000 DNS Records – blog.rice.is](https://blog.rice.is/post/doom-over-dns/) - A technical experiment demonstrates how to run DOOM using DNS records. [Comments](https://lobste.rs/s/aewrgf/can_it_resolve_doom_game_engine_2_000_dns).
 
-* [Generators in lone lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp) - A technical analysis of implementing generators in a lone Lisp environment.
+* [Log File Viewer for the Terminal](https://lnav.org/) - A terminal-based log file viewer called 'lnav' that simplifies log analysis. [Comments](https://news.ycombinator.com/item?id=47498924).
 
-## Unique Scientific Discoveries
+* [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) - An ambitious project to enable real-time space transitions on macOS without costly animations. [Comments](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos).
 
-* [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&from=rss) - Research into how Neanderthals used birch tar as an antiseptic to treat wounds shows advanced knowledge of medicinal practices.
+* [Building ATS2 from Source in 2026](https://bluishcoder.co.nz/2026/03/23/building-ats2-from-source-in-2026/) - A guide to building the ATS2 programming language from source. [Comments](https://lobste.rs/s/9qmuj9/building_ats2_from_source_2026).
 
-* [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) - A remarkable fungus has been discovered that causes water to freeze through the release of specific proteins.
+## Historical and Archeological Insights
 
-* [Researchers Played Music to Cells – Aggressiveness of Laryngeal Cancer Decreased](https://soylentnews.org/article.pl?sid=26/03/19/1635218&from=rss) - Scientists found that certain musical vibrations can reduce the aggressiveness of laryngeal cancer cells.
+* [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss) - Researchers uncover that Neanderthals used birch tar as an antiseptic. [Comments](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss).
 
-## Cybersecurity and Tech Policy
+* [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/) - Preserving the ancient Chinese craft of porcelain restoration. [Comments](https://news.ycombinator.com/item?id=47467719).
 
-* [The Resolv hack: How one compromised key printed $23M](https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/) - An investigation into how a single compromised cryptographic key allowed hackers to mint $23 million worth of counterfeit crypto-tokens.
+* [Pompeii&apos;s battle scars linked to an ancient &apos;machine gun&apos;](https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html) - A look into what may have been the ancient equivalent of a 'machine gun' in Pompeii. [Comments](https://news.ycombinator.com/item?id=47453398).
 
-* [FCC updates covered list to include foreign-made consumer routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) - The FCC has expanded its covered products list to include certain foreign-made routers due to security concerns.
+## Tech Hobbyist and Open Source Projects
 
-* [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) - A widespread attack targeting GitHub Actions tags is putting sensitive developer secrets at risk.
+* [A retro terminal music player inspired by Winamp](https://github.com/bjarneo/cliamp) - A nostalgic terminal-based music player inspired by the iconic Winamp. [Comments](https://news.ycombinator.com/item?id=47494821).
 
-## Energy and Environment
+* [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss) - An innovative project demonstrates the creation of a homemade guided missile. [Comments](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss).
 
-* [Cuba's Fragile Power Grid Finds a Powerful New Partner](https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html) - An analysis of the partnerships being formed to address Cuba’s ailing power grid.
+* [BasicBox: A 486-class PC emulator written entirely in Visual Basic 6](https://github.com/mikechambers84/BasicBox) - An impressive 486-class PC emulator built with Visual Basic 6 captures retro computing enthusiasts’ attention. [Comments](https://lobste.rs/s/836yvd/basicbox_486_class_pc_emulator_written).
 
-* [Trump Administration To Pay French Company $1 Billion To Stop Offshore Wind Farms](https://news.slashdot.org/story/26/03/23/2221232/trump-administration-to-pay-french-company-1-billion-to-stop-offshore-wind-farms?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports suggest that the U.S. government will compensate a French company to halt offshore wind energy projects.
+* [Let&apos;s see Paul Allen&apos;s SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/) - Revisiting a high-performance SIMD-based parser for CSV files, inspired by Paul Allen. [Comments](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser).
 
-## Cultural and Historical Insights
+## Emerging Trends in Tech Policy and Industry
 
-* [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/) - Exploring the ancient Chinese technique of repairing porcelain objects using creative and artistic methods.
+* [GrapheneOS Refuses to Comply with Age-Verification Laws](https://tech.slashdot.org/story/26/03/23/0116256/grapheneos-refuses-to-comply-with-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The privacy-focused mobile OS rejects complying with age-verification requirements. [Comments](https://tech.slashdot.org/story/26/03/23/0116256/grapheneos-refuses-to-comply-with-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/) - A cultural reflection on how the Markdown format has influenced writing and online communication.
+* [Bipartisan Bill Seeks To Ban Sports Betting On Prediction Market Platforms](https://yro.slashdot.org/story/26/03/23/2015241/bipartisan-bill-seeks-to-ban-sports-betting-on-prediction-market-platforms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legislators push against prediction markets being used for sports betting. [Comments](https://yro.slashdot.org/story/26/03/23/2015241/bipartisan-bill-seeks-to-ban-sports-betting-on-prediction-market-platforms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Pompeii's battle scars linked to an ancient 'machine gun'](https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html) - Examines evidence that Pompeii suffered damage from a machine gun-like weapon during ancient times.
-
-## Retro and Nostalgia
-
-* [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) - A nostalgic collection of tiled .bmp backgrounds from Windows 3.1.
-
-* [A retro terminal music player inspired by Winamp](https://github.com/bjarneo/cliamp) - Modern terminal music software evokes nostalgia for Winamp’s classic interface.
-
-* [BasicBox: A 486-class PC emulator written entirely in Visual Basic 6](https://github.com/mikechambers84/BasicBox) - A retro PC emulator replicates a 486-class computer, built using classic Visual Basic 6.
+* [US Car Buyers Envy What They Cannot Have: Affordable Chinese EVs](https://tech.slashdot.org/story/26/03/23/1829217/us-car-buyers-envy-what-they-cannot-have-affordable-chinese-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look at how Chinese affordable electric vehicles are creating waves in automotive discussions. [Comments](https://tech.slashdot.org/story/26/03/23/1829217/us-car-buyers-envy-what-they-cannot-have-affordable-chinese-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -87,13 +79,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-24, 04:11:46](https://news.ycombinator.com/item?id=47498509) - [Box of Secrets: Discreetly modding an apartment intercom with Matter](https://www.jackhogan.me/blog/box-of-secrets/)
-* [2026-03-24, 03:32:14](https://news.ycombinator.com/item?id=47498325) - [Cuba&apos;s Fragile Power Grid Finds a Powerful New Partner](https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html)
+* [2026-03-24, 07:00:00](https://it.slashdot.org/story/26/03/23/2323217/cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck](https://it.slashdot.org/story/26/03/23/2323217/cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
+* [2026-03-24, 05:24:40](https://lobste.rs/s/aewrgf/can_it_resolve_doom_game_engine_2_000_dns) - [Can it Resolve DOOM? Game Engine in 2,000 DNS Records – blog.rice.is](https://blog.rice.is/post/doom-over-dns/)
+* [2026-03-24, 05:00:21](https://news.ycombinator.com/item?id=47498766) - [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)
 * [2026-03-24, 03:30:00](https://news.slashdot.org/story/26/03/23/2221232/trump-administration-to-pay-french-company-1-billion-to-stop-offshore-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration To Pay French Company $1 Billion To Stop Offshore Wind Farms](https://news.slashdot.org/story/26/03/23/2221232/trump-administration-to-pay-french-company-1-billion-to-stop-offshore-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-24, 02:34:00](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss) - [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss)
 * [2026-03-24, 01:54:03](https://news.ycombinator.com/item?id=47497763) - [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
 * [2026-03-24, 01:53:09](https://news.ycombinator.com/item?id=47497757) - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
-* [2026-03-24, 01:42:38](https://news.ycombinator.com/item?id=47497679) - [I created my first AI-assisted pull request](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
 * [2026-03-24, 01:41:33](https://lobste.rs/s/g53l7b/mouse_programming_language_on_cp_m) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2026-03-24, 01:38:17](https://lobste.rs/s/9qmuj9/building_ats2_from_source_2026) - [Building ATS2 from Source in 2026](https://bluishcoder.co.nz/2026/03/23/building-ats2-from-source-in-2026/)
 * [2026-03-23, 23:00:00](https://tech.slashdot.org/story/26/03/23/2214245/nvidia-ceo-says-hes-empathetic-to-dlss-5-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia CEO Says He&apos;s &apos;Empathetic&apos; To DLSS 5 Concerns](https://tech.slashdot.org/story/26/03/23/2214245/nvidia-ceo-says-hes-empathetic-to-dlss-5-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -123,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss)
 * [2026-03-23, 17:00:00](https://tech.slashdot.org/story/26/03/23/1537238/walmart-chatgpt-checkout-converted-3x-worse-than-website?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart: ChatGPT Checkout Converted 3x Worse Than Website](https://tech.slashdot.org/story/26/03/23/1537238/walmart-chatgpt-checkout-converted-3x-worse-than-website?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-23, 16:59:04](https://lobste.rs/s/jmfor8/from_error_handling_structured) - [From error-handling to structured concurrency](https://blog.nelhage.com/post/concurrent-error-handling/)
-* [2026-03-23, 16:32:05](https://lobste.rs/s/e42ezg/arturo_programming_language) - [Arturo programming language](https://arturo-lang.io/)
 * [2026-03-23, 16:30:00](https://tech.slashdot.org/story/26/03/23/1624236/onlyfans-owner-dies-at-43?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OnlyFans Owner Dies At 43](https://tech.slashdot.org/story/26/03/23/1624236/onlyfans-owner-dies-at-43?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-23, 16:11:03](https://news.ycombinator.com/item?id=47491466) - [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 * [2026-03-23, 16:00:00](https://tech.slashdot.org/story/26/03/23/0425234/ubers-deal-blitz-to-stop-a-robotaxi-monopoly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Uber&apos;s Deal Blitz To Stop a Robotaxi Monopoly](https://tech.slashdot.org/story/26/03/23/0425234/ubers-deal-blitz-to-stop-a-robotaxi-monopoly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -134,6 +126,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 14:14:41](https://lobste.rs/s/cxpn2j/markdown_ate_world) - [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/)
 * [2026-03-23, 14:06:01](https://lobste.rs/s/i0cskl/incoherent_rust) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
+* [2026-03-23, 12:42:00](https://news.ycombinator.com/item?id=47488686) - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 * [2026-03-23, 12:18:32](https://lobste.rs/s/1umutj/designing_spatula_haskell) - [Designing a Spatula (in Haskell)](https://www.youtube.com/watch?v=R_uQ7Y31e50)
 * [2026-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=26/03/22/1822230&amp;from=rss) - [Concerns Due to TrueNAS Moving its Build Repository to Private Servers](https://soylentnews.org/article.pl?sid=26/03/22/1822230&amp;from=rss)
 * [2026-03-23, 12:12:53](https://lobste.rs/s/he8mhk/death_character_game_console_interfaces) - [The Death of Character in Game Console Interfaces](https://vale.rocks/posts/game-console-interfaces)
@@ -143,13 +136,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-23, 10:32:33](https://news.ycombinator.com/item?id=47487536) - [I built an AI receptionist for a mechanic shop](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 * [2026-03-23, 09:39:39](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos) - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
 * [2026-03-23, 08:10:20](https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
-* [2026-03-23, 07:55:41](https://news.ycombinator.com/item?id=47486520) - [Scott Hanselman says he&apos;s working on Windows local accounts](https://twitter.com/shanselman/status/2035110958314745891)
 * [2026-03-23, 07:34:00](https://tech.slashdot.org/story/26/03/23/0116256/grapheneos-refuses-to-comply-with-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GrapheneOS Refuses to Comply with Age-Verification Laws](https://tech.slashdot.org/story/26/03/23/0116256/grapheneos-refuses-to-comply-with-age-verification-laws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-23, 07:32:00](https://soylentnews.org/article.pl?sid=26/03/21/1413247&amp;from=rss) - [Moltbook Was Peak AI Theater](https://soylentnews.org/article.pl?sid=26/03/21/1413247&amp;from=rss)
-* [2026-03-23, 07:24:19](https://news.ycombinator.com/item?id=47486386) - [Two pilots dead after plane and ground vehicle collide at LaGuardia](https://www.bbc.com/news/articles/cy01g522ww4o)
 * [2026-03-23, 04:34:00](https://tech.slashdot.org/story/26/03/23/0030225/some-microsoft-insiders-fight-to-drop-windows-11s-microsoft-account-requirements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Microsoft Insiders Fight to Drop Windows 11&apos;s Microsoft Account Requirements](https://tech.slashdot.org/story/26/03/23/0030225/some-microsoft-insiders-fight-to-drop-windows-11s-microsoft-account-requirements?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-23, 02:42:00](https://soylentnews.org/article.pl?sid=26/03/21/145246&amp;from=rss) - [Commission Says EU Inc Will be in Place by End of 2026](https://soylentnews.org/article.pl?sid=26/03/21/145246&amp;from=rss)
-* [2026-03-23, 01:34:00](https://slashdot.org/story/26/03/22/2346224/walmart-announces-digital-price-labels-for-every-store-in-the-us-by-the-end-of-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart Announces Digital Price Labels for Every Store in the U.S. By the End of 2026](https://slashdot.org/story/26/03/22/2346224/walmart-announces-digital-price-labels-for-every-store-in-the-us-by-the-end-of-2026?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-22, 22:32:15](https://lobste.rs/s/n1h2tl/is_local_future_ai) - [Is Local the Future of AI?](https://tombedor.dev/open-source-models/)
 * [2026-03-22, 21:54:00](https://soylentnews.org/article.pl?sid=26/03/21/1345242&amp;from=rss) - [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://soylentnews.org/article.pl?sid=26/03/21/1345242&amp;from=rss)
 * [2026-03-22, 17:09:00](https://soylentnews.org/article.pl?sid=26/03/21/1339251&amp;from=rss) - [Wayland Set the Linux Desktop Back by 10 Years](https://soylentnews.org/article.pl?sid=26/03/21/1339251&amp;from=rss)
@@ -161,6 +151,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss)
 * [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss)
 * [2026-03-21, 22:07:00](https://soylentnews.org/article.pl?sid=26/03/19/205228&amp;from=rss) - [Nearly Half of UK Adults Happy to Use ChatGPT as a Counsellor](https://soylentnews.org/article.pl?sid=26/03/19/205228&amp;from=rss)
+* [2026-03-21, 18:21:01](https://news.ycombinator.com/item?id=47469744) - [BIO – The Bao I/O Co-Processor](https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor)
 * [2026-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=26/03/19/203221&amp;from=rss) - [Nvidia Resumes Manufacturing of H200 Chips for China, CEO Says](https://soylentnews.org/article.pl?sid=26/03/19/203221&amp;from=rss)
 * [2026-03-21, 15:07:29](https://news.ycombinator.com/item?id=47467719) - [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/)
 * [2026-03-21, 12:40:00](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss) - [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss)
@@ -169,6 +160,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-20, 22:15:00](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss) - [Invisible Malicious Code Attacks 151 GitHub Repos And VS Code — Glassworm Attack Uses Blockchain](https://soylentnews.org/article.pl?sid=26/03/19/1636248&amp;from=rss)
 * [2026-03-20, 19:20:49](https://news.ycombinator.com/item?id=47459363) - [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/)
 * [2026-03-20, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/19/1635218&amp;from=rss) - [Researchers Played Music to Cells – Aggressiveness of Laryngeal Cancer Decreased](https://soylentnews.org/article.pl?sid=26/03/19/1635218&amp;from=rss)
+* [2026-03-20, 15:26:24](https://news.ycombinator.com/item?id=47455961) - [Microservices and the First Law of Distributed Objects (2014)](https://martinfowler.com/articles/distributed-objects-microservices.html)
 * [2026-03-20, 12:46:00](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss) - [Elon Musk Says His Chipmaking &apos;Terafab Project&apos; Venture Will Launch in Seven Days](https://soylentnews.org/article.pl?sid=26/03/19/0318230&amp;from=rss)
 * [2026-03-20, 12:02:00](https://news.ycombinator.com/item?id=47453398) - [Pompeii&apos;s battle scars linked to an ancient &apos;machine gun&apos;](https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html)
 * [2026-03-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/03/19/0310236&amp;from=rss) - [Massive Interpol Operation Takes Down 45,000 Ip Addresses and Leads to 94 Arrests](https://soylentnews.org/article.pl?sid=26/03/19/0310236&amp;from=rss)
