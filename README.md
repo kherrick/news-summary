@@ -1,48 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Legal and Policy Developments
+## NASA and Space Innovations
 
-* [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/) ([comments](https://news.ycombinator.com/item?id=47513098))
+* [NASA Halts Work On Gateway To Develop a Lunar Base](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf) ([comments](https://news.ycombinator.com/item?id=47513008))
+## Privacy and Digital Security
 
-* [Hong Kong Police Can Demand Passwords Under New National Security Rules](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47513008))
+* [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss)
 
-## Tech Innovations and Releases
+* [Hong Kong Police Can Demand Passwords Under New National Security Rules](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn) ([comments](https://news.ycombinator.com/item?id=47512891))
+* [Social media bans and digital curfews to be trialled on UK teenagers](https://www.bbc.com/news/articles/cn89g3ngkyzo)
 
-* [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) ([comments](https://news.ycombinator.com/item?id=47512816))
+## Technology Advancements
 
-* [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=47506713))
+* [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
-* [Amiga directory… bomb?](https://heckmeck.de/blog/amiga-directory-bomb/) ([comments](https://lobste.rs/s/67mppl/amiga_directory_bomb))
+* [Arm Unveils New AGI CPU With Meta As Debut Customer](https://hardware.slashdot.org/story/26/03/24/1933211/arm-unveils-new-agi-cpu-with-meta-as-debut-customer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc) ([comments](https://news.ycombinator.com/item?id=47511703))
+* [Wine 11 Rewrites How Linux Runs Windows Games At the Kernel Level](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/) ([comments](https://news.ycombinator.com/item?id=47511631))
+## AI and Software Evolution
 
-* [Flighty Airports](https://flighty.com/airports) ([comments](https://news.ycombinator.com/item?id=47511589))
+* [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss)
 
-* [Swift 6.3 released](https://swift.org/blog/swift-6.3-released/) ([comments](https://lobste.rs/s/bfgcx7/swift_6_3_released))
+* [Missile Defense is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
 
-* [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) ([comments](https://news.ycombinator.com/item?id=47511208))
+* [Google's Android Automotive Is Moving From the Dashboard To the 'Brain' of the Car](https://tech.slashdot.org/story/26/03/24/1958223/googles-android-automotive-is-moving-from-the-dashboard-to-the-brain-of-the-car?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## AI and Gaming
+## Open Source and Development Tools
 
-* [Wine 11 Rewrites How Linux Runs Windows Games At the Kernel Level](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47507150))
+* [Announcing Guile Knots](https://www.cbaines.net/posts/announcing_guile_knots/)
 
-* [Anthropic's Claude Can Now Use Your Computer To Finish Tasks](https://slashdot.org/story/26/03/24/1649222/anthropics-claude-can-now-use-your-computer-to-finish-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47506713))
+* [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
 
-* [Show HN: AI Roundtable – Let 200 models debate your question](https://opper.ai/ai-roundtable/) ([comments](https://news.ycombinator.com/item?id=47507666))
-
-* [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again) ([comments](https://news.ycombinator.com/item?id=47506713))
-
-* [Epic Games To Cut More Than 1,000 Jobs As Fortnite Usage Falls](https://games.slashdot.org/story/26/03/24/1628213/epic-games-to-cut-more-than-1000-jobs-as-fortnite-usage-falls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47506713))
-
-## ...transcommplete summary missing through ர....News amr directive....
-
-undefined
+* [Adding structured concurrency to JavaScript](https://github.com/bakkot/structured-concurrency-for-js)
 
 ---
 
@@ -69,34 +61,35 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-25, 04:04:09](https://news.ycombinator.com/item?id=47513098) - [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
-* [2026-03-25, 03:44:52](https://news.ycombinator.com/item?id=47513008) - [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
+* [2026-03-25, 07:08:00](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss) - [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss)
+* [2026-03-25, 07:00:00](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Halts Work On Gateway To Develop a Lunar Base](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
+* [2026-03-25, 05:42:09](https://news.ycombinator.com/item?id=47513728) - [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb)
+* [2026-03-25, 05:00:54](https://news.ycombinator.com/item?id=47513475) - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+* [2026-03-25, 04:34:03](https://news.ycombinator.com/item?id=47513280) - [Social media bans and digital curfews to be trialled on UK teenagers](https://www.bbc.com/news/articles/cn89g3ngkyzo)
+* [2026-03-25, 04:27:14](https://news.ycombinator.com/item?id=47513229) - [Miscellanea: The War in Iran](https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/)
 * [2026-03-25, 03:30:00](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hong Kong Police Can Demand Passwords Under New National Security Rules](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-25, 03:28:04](https://news.ycombinator.com/item?id=47512891) - [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
 * [2026-03-25, 03:17:06](https://news.ycombinator.com/item?id=47512816) - [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
 * [2026-03-25, 02:23:00](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss) - [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss)
 * [2026-03-25, 02:00:03](https://lobste.rs/s/67mppl/amiga_directory_bomb) - [Amiga directory… bomb?](https://heckmeck.de/blog/amiga-directory-bomb/)
-* [2026-03-25, 00:44:55](https://news.ycombinator.com/item?id=47511703) - [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
-* [2026-03-25, 00:36:46](https://news.ycombinator.com/item?id=47511631) - [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean&apos;s Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/)
 * [2026-03-25, 00:29:45](https://news.ycombinator.com/item?id=47511589) - [Flighty Airports](https://flighty.com/airports)
 * [2026-03-24, 23:46:36](https://lobste.rs/s/bfgcx7/swift_6_3_released) - [Swift 6.3 released](https://swift.org/blog/swift-6.3-released/)
 * [2026-03-24, 23:44:47](https://news.ycombinator.com/item?id=47511208) - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 * [2026-03-24, 23:00:00](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wine 11 Rewrites How Linux Runs Windows Games At the Kernel Level](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-24, 22:26:48](https://lobste.rs/s/oemks0/status_update_2026_02) - [Status update 2026-02](https://whynothugo.nl/journal/2026/02/28/status-update-2026-02/)
 * [2026-03-24, 22:00:00](https://tech.slashdot.org/story/26/03/24/1958223/googles-android-automotive-is-moving-from-the-dashboard-to-the-brain-of-the-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Android Automotive Is Moving From the Dashboard To the &apos;Brain&apos; of the Car](https://tech.slashdot.org/story/26/03/24/1958223/googles-android-automotive-is-moving-from-the-dashboard-to-the-brain-of-the-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\&quot;﷽\&quot; U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
 * [2026-03-24, 21:36:00](https://soylentnews.org/article.pl?sid=26/03/23/0118220&amp;from=rss) - [FBI Surveils Russia’s Elite Agents Through Google Translate Logs](https://soylentnews.org/article.pl?sid=26/03/23/0118220&amp;from=rss)
 * [2026-03-24, 21:24:33](https://news.ycombinator.com/item?id=47509571) - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
 * [2026-03-24, 21:00:00](https://slashdot.org/story/26/03/24/2050222/openai-discontinues-sora-video-platform-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Discontinues Sora Video Platform App](https://slashdot.org/story/26/03/24/2050222/openai-discontinues-sora-video-platform-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-24, 20:14:51](https://lobste.rs/s/ucympz/structuring_go_projects) - [Structuring Go projects](https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects)
 * [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 * [2026-03-24, 20:00:00](https://hardware.slashdot.org/story/26/03/24/1933211/arm-unveils-new-agi-cpu-with-meta-as-debut-customer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arm Unveils New AGI CPU With Meta As Debut Customer](https://hardware.slashdot.org/story/26/03/24/1933211/arm-unveils-new-agi-cpu-with-meta-as-debut-customer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-24, 19:15:27](https://news.ycombinator.com/item?id=47507666) - [Show HN: AI Roundtable – Let 200 models debate your question](https://opper.ai/ai-roundtable/)
 * [2026-03-24, 19:04:48](https://lobste.rs/s/4sfusf/choose_boring_technology_innovative) - [Choose Boring Technology and Innovative Practices](https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/)
 * [2026-03-24, 19:00:00](https://slashdot.org/story/26/03/24/1649222/anthropics-claude-can-now-use-your-computer-to-finish-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s Claude Can Now Use Your Computer To Finish Tasks](https://slashdot.org/story/26/03/24/1649222/anthropics-claude-can-now-use-your-computer-to-finish-tasks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
 * [2026-03-24, 18:03:48](https://news.ycombinator.com/item?id=47506713) - [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
 * [2026-03-24, 18:00:00](https://news.slashdot.org/story/26/03/24/1638228/self-propagating-malware-poisons-open-source-software-wipes-iran-based-machines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Self-Propagating Malware Poisons Open Source Software, Wipes Iran-Based Machines](https://news.slashdot.org/story/26/03/24/1638228/self-propagating-malware-poisons-open-source-software-wipes-iran-based-machines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-24, 17:47:23](https://news.ycombinator.com/item?id=47506490) - [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link)
 * [2026-03-24, 17:46:49](https://lobste.rs/s/xt8q7u/adding_structured_concurrency) - [Adding structured concurrency to JavaScript](https://github.com/bakkot/structured-concurrency-for-js)
 * [2026-03-24, 17:30:42](https://news.ycombinator.com/item?id=47506251) - [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
 * [2026-03-24, 17:24:59](https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland) - [Addressing global removal race in Wayland](https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/)
@@ -114,13 +107,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-24, 15:32:35](https://lobste.rs/s/ftfy60/proposing_botwatch) - [Proposing Botwatch](https://7hird.dev/3mhr2nnuhh22m)
 * [2026-03-24, 15:29:41](https://news.ycombinator.com/item?id=47504112) - [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
 * [2026-03-24, 15:28:17](https://news.ycombinator.com/item?id=47504094) - [Hypothesis, Antithesis, synthesis](https://antithesis.com/blog/2026/hegel/)
+* [2026-03-24, 15:20:01](https://lobste.rs/s/0amepo/when_upserts_don_t_update_still_write) - [When upserts don&apos;t update but still write: Debugging Postgres performance at scale](https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/)
 * [2026-03-24, 15:00:00](https://yro.slashdot.org/story/26/03/23/2334252/intuit-beats-ftc-in-court-ending-restrictions-on-free-turbotax-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intuit Beats FTC In Court, Ending Restrictions On &apos;Free&apos; TurboTax Ads](https://yro.slashdot.org/story/26/03/23/2334252/intuit-beats-ftc-in-court-ending-restrictions-on-free-turbotax-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-24, 14:58:27](https://news.ycombinator.com/item?id=47503617) - [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
 * [2026-03-24, 14:45:31](https://lobste.rs/s/zbe88n/pine64_fosdem_2026_update) - [Pine64 FOSDEM 2026 Update](https://pine64.org/2026/03/24/march_2026_fosdem/)
 * [2026-03-24, 14:37:29](https://lobste.rs/s/wjhc9g/rust_threads_on_gpu) - [Rust threads on the GPU](https://vectorware.com/blog/threads-on-gpu/)
 * [2026-03-24, 13:32:17](https://lobste.rs/s/c8k9tt/slopification_its_discontents) - [Slopification and its Discontents](https://charlesleifer.com/blog/slopification-and-its-discontents/)
 * [2026-03-24, 13:00:38](https://news.ycombinator.com/item?id=47501950) - [Missile defense is NP-complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
-* [2026-03-24, 12:46:22](https://news.ycombinator.com/item?id=47501825) - [Why did the chicken cross the road?](https://taylor.town/other-side)
 * [2026-03-24, 12:10:00](https://soylentnews.org/article.pl?sid=26/03/23/013259&amp;from=rss) - [Musk&apos;s Tactic of Blaming Users for Grok Sex Images May be Foiled by EU Law](https://soylentnews.org/article.pl?sid=26/03/23/013259&amp;from=rss)
 * [2026-03-24, 12:06:29](https://news.ycombinator.com/item?id=47501426) - [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
 * [2026-03-24, 12:00:56](https://lobste.rs/s/brcq3a/curl_dev_sda) - [curl &gt; dev/sda](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
@@ -134,11 +127,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-24, 02:34:00](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss) - [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss)
 * [2026-03-24, 01:53:09](https://news.ycombinator.com/item?id=47497757) - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
 * [2026-03-23, 23:00:00](https://tech.slashdot.org/story/26/03/23/2214245/nvidia-ceo-says-hes-empathetic-to-dlss-5-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia CEO Says He&apos;s &apos;Empathetic&apos; To DLSS 5 Concerns](https://tech.slashdot.org/story/26/03/23/2214245/nvidia-ceo-says-hes-empathetic-to-dlss-5-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-23, 22:00:00](https://yro.slashdot.org/story/26/03/23/2015241/bipartisan-bill-seeks-to-ban-sports-betting-on-prediction-market-platforms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bipartisan Bill Seeks To Ban Sports Betting On Prediction Market Platforms](https://yro.slashdot.org/story/26/03/23/2015241/bipartisan-bill-seeks-to-ban-sports-betting-on-prediction-market-platforms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-23, 21:47:00](https://soylentnews.org/article.pl?sid=26/03/22/1834242&amp;from=rss) - [Big Tech’s Security Problem Just Hit Gaming](https://soylentnews.org/article.pl?sid=26/03/22/1834242&amp;from=rss)
 * [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss)
-* [2026-03-23, 14:14:41](https://lobste.rs/s/cxpn2j/markdown_ate_world) - [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/)
-* [2026-03-23, 14:06:01](https://lobste.rs/s/i0cskl/incoherent_rust) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
 * [2026-03-23, 12:17:00](https://soylentnews.org/article.pl?sid=26/03/22/1822230&amp;from=rss) - [Concerns Due to TrueNAS Moving its Build Repository to Private Servers](https://soylentnews.org/article.pl?sid=26/03/22/1822230&amp;from=rss)
 * [2026-03-23, 12:12:53](https://lobste.rs/s/he8mhk/death_character_game_console_interfaces) - [The Death of Character in Game Console Interfaces](https://vale.rocks/posts/game-console-interfaces)
 * [2026-03-23, 09:39:39](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos) - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
@@ -149,9 +139,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-22, 12:22:00](https://soylentnews.org/article.pl?sid=26/03/21/1337239&amp;from=rss) - [Analysis From West Point Warns That Strait of Hormuz Blockade Will Strangle US Defense Industry](https://soylentnews.org/article.pl?sid=26/03/21/1337239&amp;from=rss)
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss)
 * [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss)
+* [2026-03-21, 22:43:49](https://news.ycombinator.com/item?id=47472286) - [Fun with CSF firmware (RK3588 GPU firmware)](https://icecream95.gitlab.io/fun-with-csf-firmware.html)
 * [2026-03-21, 22:20:25](https://news.ycombinator.com/item?id=47472120) - [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html)
 * [2026-03-21, 22:07:00](https://soylentnews.org/article.pl?sid=26/03/19/205228&amp;from=rss) - [Nearly Half of UK Adults Happy to Use ChatGPT as a Counsellor](https://soylentnews.org/article.pl?sid=26/03/19/205228&amp;from=rss)
+* [2026-03-21, 21:30:17](https://news.ycombinator.com/item?id=47471618) - [A Chess Playing Machine – Shannon (1950) [pdf]](https://www.paradise.caltech.edu/ist4/lectures/shannonchess1950.pdf)
 * [2026-03-21, 17:22:00](https://soylentnews.org/article.pl?sid=26/03/19/203221&amp;from=rss) - [Nvidia Resumes Manufacturing of H200 Chips for China, CEO Says](https://soylentnews.org/article.pl?sid=26/03/19/203221&amp;from=rss)
+* [2026-03-21, 14:55:06](https://news.ycombinator.com/item?id=47467616) - [The final switch: Goldsboro, 1961](https://blog.nuclearsecrecy.com/2013/09/27/final-switch-goldsboro-1961/)
 * [2026-03-21, 12:40:00](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss) - [Tundra Tongue: The Science Behind a Very Cold Mistake](https://soylentnews.org/article.pl?sid=26/03/19/201233&amp;from=rss)
 * [2026-03-21, 08:35:51](https://news.ycombinator.com/item?id=47465197) - [Intel Device Modeling Language for virtual platforms](https://github.com/intel/device-modeling-language)
 * [2026-03-21, 07:55:00](https://soylentnews.org/article.pl?sid=26/03/19/1958201&amp;from=rss) - [Afroman Wins &apos;Lemon Pound Cake&apos; Lawsuit Over Raid-Turned-Music-Video](https://soylentnews.org/article.pl?sid=26/03/19/1958201&amp;from=rss)
