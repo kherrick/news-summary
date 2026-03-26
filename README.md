@@ -1,40 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Emerging Technologies
+## Emerging Technologies and Robotics
 
-* [Show HN: Robust LLM Extractor for Websites in TypeScript](https://news.ycombinator.com/item?id=47526486) - [Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
+* [Melania Trump Welcomes Humanoid Robot At White House Summit](https://hardware.slashdot.org/story/26/03/26/0545256/melania-trump-welcomes-humanoid-robot-at-white-house-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47527399))
 
-* [NASA Sets 'Impossible' Ground Rules for Relocation of 'Flown Space Vehicle'](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss) - [Read Article](https://soylentnews.org/article.pl?sid=26/03/23/163239&from=rss)
+* [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800) ([Comments](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with))
 
-* [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
+* [NASA Halts Work On Gateway To Develop a Lunar Base](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47515502))
 
-* [FreeCAD v1.1](https://news.ycombinator.com/item?id=47521945) - [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
+## Notable Science Discoveries and Innovations
 
-## Cybersecurity and Privacy Concerns
+* [The Mystery of How Volcanic Lightning Happens Has Been Solved](https://soylentnews.org/article.pl?sid=26/03/25/2339207&from=rss) ([Comments](https://news.ycombinator.com/item?id=47527130))
 
-* [Electric Motorcycles are a Security Nightmare](https://lobste.rs/s/vyixek/electric_motorcycles_are_security) - [Electric Motorcycles Security Analysis](https://persephonekarnstein.github.io/post/zero-days/)
+* [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&from=rss) ([Comments](https://news.ycombinator.com/item?id=47498329))
 
-* [The EU still wants to scan your private messages and photos](https://news.ycombinator.com/item?id=47522709) - [The EU's Continued Push for Message and Photo Scanning](https://fightchatcontrol.eu/?foo=bar)
+* [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&from=rss) ([Comments](https://news.ycombinator.com/item?id=47473946))
 
-* [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss) - [Read Article](https://soylentnews.org/article.pl?sid=26/03/23/1543235&from=rss)
+## Privacy, Security, and Surveillance
 
-## Artificial Intelligence and Machine Learning
+* [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic) ([Comments](https://news.ycombinator.com/item?id=47527130))
 
-* [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://meta.slashdot.org/story/26/03/25/1745232/meta-and-youtube-found-negligent-in-landmark-social-media-addiction-case?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Meta and YouTube Found Negligent in Social Media Addiction Case](https://meta.slashdot.org/story/26/03/25/1745232/meta-and-youtube-found-negligent-in-landmark-social-media-addiction-case?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The EU still wants to scan your private messages and photos](https://fightchatcontrol.eu/?foo=bar) ([Comments](https://news.ycombinator.com/item?id=47522709))
 
-* [AI Economy Is a 'Ponzi Scheme,' Says AI Doc Director](https://entertainment.slashdot.org/story/26/03/24/2343243/ai-economy-is-a-ponzi-scheme-says-ai-doc-director?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Economy Criticism](https://entertainment.slashdot.org/story/26/03/24/2343243/ai-economy-is-a-ponzi-scheme-says-ai-doc-director?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Hong Kong Police Can Demand Passwords Under New National Security Rules](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47519295))
 
-## Technological Controversies and Public Policies
+## Cutting-Edge Tech and Industry Innovations
 
-* [Postal Service to Impose Its First-Ever Fuel Surcharge on Packages](https://tech.slashdot.org/story/26/03/25/2258234/postal-service-to-impose-its-first-ever-fuel-surcharge-on-packages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [US Postal Service Implements Fuel Surcharge](https://tech.slashdot.org/story/26/03/25/2258234/postal-service-to-impose-its-first-ever-fuel-surcharge-on-packages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/) ([Comments](https://news.ycombinator.com/item?id=47522608))
 
-* [Canada's Immigration Rejected Applicant Based On AI-Invented Job Duties](https://news.slashdot.org/story/26/03/25/204204/canadas-immigration-rejected-applicant-based-on-ai-invented-job-duties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [AI Controversies in Canadian Immigration System](https://news.slashdot.org/story/26/03/25/204204/canadas-immigration-rejected-applicant-based-on-ai-invented-job-duties?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Wine 11 Rewrites How Linux Runs Windows Games At the Kernel Level](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47515502))
 
-## Historical and Cultural Stories
+* [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k1.html) ([Comments](https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors))
 
-* [Brazil's UFO Capital Marks 30 Years Since 'Alien Encounter'](https://entertainment.slashdot.org/story/26/03/25/2322210/brazils-ufo-capital-marks-30-years-since-alien-encounter?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Anniversary of Brazilian Alien Encounter](https://entertainment.slashdot.org/story/26/03/25/2322210/brazils-ufo-capital-marks-30-years-since-alien-encounter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Unusual and Cultural Stories
 
-* [Mistaken Identity in Hong Kong National Security Laws](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Hong Kong Limiting Privacy Further](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Brazil's UFO Capital Marks 30 Years Since 'Alien Encounter'](https://entertainment.slashdot.org/story/26/03/25/2322210/brazils-ufo-capital-marks-30-years-since-alien-encounter?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47526486))
+
+* [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) ([Comments](https://news.ycombinator.com/item?id=47478599))
+
+* [Do Architects Still Need to Draw? (2020)](https://www.lifeofanarchitect.com/do-architects-still-need-to-draw/) ([Comments](https://news.ycombinator.com/item?id=47473946))
 
 ---
 
@@ -61,6 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-03-26, 07:00:28](https://news.ycombinator.com/item?id=47527399) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn)
+* [2026-03-26, 07:00:00](https://hardware.slashdot.org/story/26/03/26/0545256/melania-trump-welcomes-humanoid-robot-at-white-house-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Melania Trump Welcomes Humanoid Robot At White House Summit](https://hardware.slashdot.org/story/26/03/26/0545256/melania-trump-welcomes-humanoid-robot-at-white-house-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-26, 06:59:00](https://soylentnews.org/article.pl?sid=26/03/25/2339207&amp;from=rss) - [The Mystery of How Volcanic Lightning Happens Has Been Solved](https://soylentnews.org/article.pl?sid=26/03/25/2339207&amp;from=rss)
+* [2026-03-26, 06:11:01](https://news.ycombinator.com/item?id=47527130) - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
+* [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
+* [2026-03-26, 06:01:42](https://lobste.rs/s/cibkd8/lines_code_are_useful) - [Lines of code are useful](https://entropicthoughts.com/lines-of-code)
+* [2026-03-26, 05:27:27](https://lobste.rs/s/quxmzz/vim_racing) - [Vim Racing](https://www.vimgym.app/)
+* [2026-03-26, 04:15:29](https://lobste.rs/s/w15igx/zero_copy_protobuf_connectrpc_for_rust) - [Zero-copy protobuf and ConnectRPC for Rust](https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02)
 * [2026-03-26, 03:55:52](https://news.ycombinator.com/item?id=47526486) - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
 * [2026-03-26, 03:30:00](https://entertainment.slashdot.org/story/26/03/25/2322210/brazils-ufo-capital-marks-30-years-since-alien-encounter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brazil&apos;s UFO Capital Marks 30 Years Since &apos;Alien Encounter&apos;](https://entertainment.slashdot.org/story/26/03/25/2322210/brazils-ufo-capital-marks-30-years-since-alien-encounter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-26, 02:12:00](https://soylentnews.org/article.pl?sid=26/03/23/163239&amp;from=rss) - [NASA Sets &apos;Impossible&apos; Ground Rules for Relocation of &apos;Flown Space Vehicle&apos;](https://soylentnews.org/article.pl?sid=26/03/23/163239&amp;from=rss)
@@ -77,7 +89,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss) - [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3&apos;s computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 21:00:00](https://apple.slashdot.org/story/26/03/25/1948215/apple-can-create-smaller-on-device-ai-models-from-googles-gemini?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Can Create Smaller On-Device AI Models From Google&apos;s Gemini](https://apple.slashdot.org/story/26/03/25/1948215/apple-can-create-smaller-on-device-ai-models-from-googles-gemini?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
 * [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 * [2026-03-25, 20:19:58](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
 * [2026-03-25, 20:00:00](https://yro.slashdot.org/story/26/03/25/1717205/supreme-court-sides-with-internet-provider-in-copyright-fight-over-pirated-music?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Sides With Internet Provider In Copyright Fight Over Pirated Music](https://yro.slashdot.org/story/26/03/25/1717205/supreme-court-sides-with-internet-provider-in-copyright-fight-over-pirated-music?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -85,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD  v1.1](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
 * [2026-03-25, 19:17:13](https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your) - [One File - What if your lockfile and your package list were the same file?](https://merelinux.org/posts/one-file/)
 * [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \&quot;verify\&quot; the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
-* [2026-03-25, 19:09:16](https://news.ycombinator.com/item?id=47521799) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:00:00](https://entertainment.slashdot.org/story/26/03/25/1730218/stephen-colbert-to-write-next-lord-of-the-rings-movie?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stephen Colbert To Write Next &apos;Lord of the Rings&apos; Movie](https://entertainment.slashdot.org/story/26/03/25/1730218/stephen-colbert-to-write-next-lord-of-the-rings-movie?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-25, 18:53:18](https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie) - [Apple’s macOS UNIX certification is a lie (2025)](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
 * [2026-03-25, 18:26:13](https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write) - [Which Design Doc Did a Human Write?](https://refactoringenglish.com/blog/ai-vs-human-design-doc/)
@@ -95,13 +105,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 17:35:54](https://lobste.rs/s/fagjz6/cost_concurrency_coordination) - [The Cost of Concurrency Coordination](https://www.youtube.com/watch?v=tND-wBBZ8RY)
 * [2026-03-25, 17:14:43](https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down) - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 17:10:21](https://news.ycombinator.com/item?id=47520220) - [Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR](https://github.com/jonwiggins/optio)
-* [2026-03-25, 17:02:45](https://lobste.rs/s/ogjhf1/your_first_parser) - [Your First Parser](https://davesnx.github.io/parseff/guides/first-parser/)
 * [2026-03-25, 17:00:00](https://meta.slashdot.org/story/26/03/25/172211/meta-loses-trial-after-arguing-child-exploitation-was-inevitable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Loses Trial After Arguing Child Exploitation Was &apos;Inevitable&apos;](https://meta.slashdot.org/story/26/03/25/172211/meta-loses-trial-after-arguing-child-exploitation-was-inevitable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo&apos;s not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
 * [2026-03-25, 16:41:00](https://soylentnews.org/article.pl?sid=26/03/23/1555204&amp;from=rss) - [OpenAI Delays AI Porn Feature Over Safety Uproar](https://soylentnews.org/article.pl?sid=26/03/23/1555204&amp;from=rss)
 * [2026-03-25, 16:26:02](https://lobste.rs/s/4qpylt/compiler_crates) - [Compiler Crates](https://sdiehl.github.io/compiler-crates/)
 * [2026-03-25, 16:20:18](https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
-* [2026-03-25, 16:09:52](https://lobste.rs/s/om9yw4/replacing_disqus_with_mastodon_comments) - [Replacing Disqus with Mastodon Comments](https://jonhnnyweslley.net/blog/mastodon-comments/)
 * [2026-03-25, 16:06:34](https://news.ycombinator.com/item?id=47519295) - [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
 * [2026-03-25, 16:00:00](https://entertainment.slashdot.org/story/26/03/24/2343243/ai-economy-is-a-ponzi-scheme-says-ai-doc-director?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Economy Is a &apos;Ponzi Scheme,&apos; Says AI Doc Director](https://entertainment.slashdot.org/story/26/03/24/2343243/ai-economy-is-a-ponzi-scheme-says-ai-doc-director?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-25, 15:02:56](https://news.ycombinator.com/item?id=47518281) - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
@@ -111,7 +119,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 14:11:49](https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori) - [Announcing Lix 2.95 “Kakigōri”](https://lix.systems/blog/2026-03-25-lix-2.95-release/)
 * [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 14:03:06](https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program) - [Introducing the GNOME Fellowship program](https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/)
-* [2026-03-25, 13:07:40](https://lobste.rs/s/epq3vv/introducing_ipxlat_stateless_ipv4_ipv6) - [Introducing ipxlat: a stateless IPv4/IPv6 translation device](https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/)
 * [2026-03-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/03/23/1550203&amp;from=rss) - [I Hacked ChatGPT and Google&apos;s AI](https://soylentnews.org/article.pl?sid=26/03/23/1550203&amp;from=rss)
 * [2026-03-25, 11:07:43](https://lobste.rs/s/i8q7uf/ubuntu_looks_strip_grub_bare_minimum_for) - [Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
 * [2026-03-25, 11:00:00](https://science.slashdot.org/story/26/03/24/2334230/chandra-resolves-why-black-holes-hit-the-brakes-on-growth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chandra Resolves Why Black Holes Hit the Brakes On Growth](https://science.slashdot.org/story/26/03/24/2334230/chandra-resolves-why-black-holes-hit-the-brakes-on-growth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -122,18 +129,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 07:08:00](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss) - [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss)
 * [2026-03-25, 07:00:00](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Halts Work On Gateway To Develop a Lunar Base](https://science.slashdot.org/story/26/03/24/2145230/nasa-halts-work-on-gateway-to-develop-a-lunar-base?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
-* [2026-03-25, 04:27:14](https://news.ycombinator.com/item?id=47513229) - [Miscellanea: The War in Iran](https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/)
 * [2026-03-25, 03:30:00](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hong Kong Police Can Demand Passwords Under New National Security Rules](https://yro.slashdot.org/story/26/03/24/2138225/hong-kong-police-can-demand-passwords-under-new-national-security-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-25, 03:17:06](https://news.ycombinator.com/item?id=47512816) - [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
 * [2026-03-25, 02:23:00](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss) - [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss)
 * [2026-03-24, 23:00:00](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wine 11 Rewrites How Linux Runs Windows Games At the Kernel Level](https://tech.slashdot.org/story/26/03/24/1946246/wine-11-rewrites-how-linux-runs-windows-games-at-the-kernel-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-24, 22:00:00](https://tech.slashdot.org/story/26/03/24/1958223/googles-android-automotive-is-moving-from-the-dashboard-to-the-brain-of-the-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google&apos;s Android Automotive Is Moving From the Dashboard To the &apos;Brain&apos; of the Car](https://tech.slashdot.org/story/26/03/24/1958223/googles-android-automotive-is-moving-from-the-dashboard-to-the-brain-of-the-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-24, 21:54:27](https://news.ycombinator.com/item?id=47509984) - [Jury finds Meta liable in case over child sexual exploitation on its platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
-* [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\&quot;﷽\&quot; U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
 * [2026-03-24, 21:36:00](https://soylentnews.org/article.pl?sid=26/03/23/0118220&amp;from=rss) - [FBI Surveils Russia’s Elite Agents Through Google Translate Logs](https://soylentnews.org/article.pl?sid=26/03/23/0118220&amp;from=rss)
 * [2026-03-24, 16:55:00](https://soylentnews.org/article.pl?sid=26/03/23/0110201&amp;from=rss) - [Cloudflare Appeals Piracy Shield Fine, Hopes to Kill Italy&apos;s Site-Blocking Law](https://soylentnews.org/article.pl?sid=26/03/23/0110201&amp;from=rss)
 * [2026-03-24, 12:10:00](https://soylentnews.org/article.pl?sid=26/03/23/013259&amp;from=rss) - [Musk&apos;s Tactic of Blaming Users for Grok Sex Images May be Foiled by EU Law](https://soylentnews.org/article.pl?sid=26/03/23/013259&amp;from=rss)
 * [2026-03-24, 07:21:00](https://soylentnews.org/article.pl?sid=26/03/23/0055212&amp;from=rss) - [Nvidia is Trying to Make a Computer for Orbital AI Data Centers](https://soylentnews.org/article.pl?sid=26/03/23/0055212&amp;from=rss)
+* [2026-03-24, 03:32:39](https://news.ycombinator.com/item?id=47498329) - [Power consumption of Game Boy flash cartridges (2021)](https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/)
 * [2026-03-24, 02:34:00](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss) - [Never Mind Band-Aids, Neanderthals Had Antiseptic Birch Tar](https://soylentnews.org/article.pl?sid=26/03/23/0028246&amp;from=rss)
 * [2026-03-23, 21:47:00](https://soylentnews.org/article.pl?sid=26/03/22/1834242&amp;from=rss) - [Big Tech’s Security Problem Just Hit Gaming](https://soylentnews.org/article.pl?sid=26/03/22/1834242&amp;from=rss)
 * [2026-03-23, 17:02:00](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss) - [Workers Who Love ‘Synergizing Paradigms’ Might be Bad at Their Jobs](https://soylentnews.org/article.pl?sid=26/03/22/1833208&amp;from=rss)
@@ -151,4 +155,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-22, 09:31:08](https://news.ycombinator.com/item?id=47475826) - [Rendering complex scripts in terminal and OSC 66](https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/)
 * [2026-03-22, 07:37:00](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss) - [This Fungus Can Make Water Freeze](https://soylentnews.org/article.pl?sid=26/03/21/1319201&amp;from=rss)
 * [2026-03-22, 02:52:00](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss) - [Tech Hobbyist Makes Shoulder-Mounted Guided Missile Prototype With $96 In Parts And A 3D Printer](https://soylentnews.org/article.pl?sid=26/03/19/208240&amp;from=rss)
+* [2026-03-22, 02:43:17](https://news.ycombinator.com/item?id=47473946) - [Do Architects Still Need to Draw? (2020)](https://www.lifeofanarchitect.com/do-architects-still-need-to-draw/)
 * [2026-03-22, 01:58:23](https://news.ycombinator.com/item?id=47473673) - [The truth that haunts the Ramones: &apos;They sold more T-shirts than records&apos;](https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html)
